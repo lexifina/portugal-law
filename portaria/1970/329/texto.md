@@ -1,0 +1,3 @@
+Portaria n.º 329/70
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Indústria, ouvido o Conselho de Normalização, aprovar, com as alterações propostas nos respectivos pareceres, a revisão das normas portuguesas NP-2 (1960) - Folha de norma - Dimensões e disposição. Primeira página e NP-3 (1960) - Folha de norma - Disposição. Páginas «continuação», feita nos termos do artigo 9.º do Estatuto de Normalização (Decreto-Lei n.º 38801, de 25 de Junho de 1952).
+Secretaria de Estado da Indústria, 2 de Julho de 1970. - O Secretário de Estado da Indústria, Rogério da Conceição Serafim Martins.
