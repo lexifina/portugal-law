@@ -1,0 +1,3 @@
+Declaração
+Declara-se, em cumprimento de determinação superior, que por lapso foram publicadas duas portarias, uma, com o n.º 1205/90, no Diário da República, 1.ª série, n.º 287, de 14 de Dezembro de 1990, e outra, com o n.º 1216/90, e dois despachos normativos, com os n.os 174/90 e 175/90, no Diário da República, 1.ª série, n.º 290, de 18 de Dezembro de 1990, pelo que devem ser considerados nulos e de nenhum efeito por se tratar da repetição dos textos das Portarias n.os 1202/90 e 1204/90 e dos Despachos Normativos n.os 168/90 e 169/90, publicados no Diário da República, 1.ª série, n.º 287, de 14 de Dezembro de 1990.
+Secretaria-Geral da Presidência do Conselho de Ministros, 26 de Dezembro de 1990. - O Secretário-Geral, França Martins.
