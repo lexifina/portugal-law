@@ -2,44 +2,30 @@
 
 ### Tarifário de venda de energia eléctrica
 
-1 - Para potências de ligação até 10 MVA, a energia fornecida pela instalação de produção de energia eléctrica à rede pública é facturada mensalmente, segundo a tarifa aplicada aos clientes abastecidos por esta rede no nível de alta tensão, com as adaptações seguintes:
+1 - Os produtores de energia eléctrica abrangidos no âmbito do presente diploma gozam de uma obrigação de compra, pela rede pública, da energia produzida durante o prazo de vigência das licenças previstas no presente diploma.
 
-a) A potência (P) é facturada pela expressão:
+2 - O tarifário de venda da energia produzida pelo centro produtor à rede pública deve basear-se num somatório de parcelas que contemplem:
 
-0,8 x PP x p'
+a) Os custos evitados pelo Sistema Eléctrico Público com a entrada em serviço e funcionamento do centro electroprodutor, incluindo:
 
-em que:
+i) O investimento evitado em novos centros de produção;
 
-PP é o preço mensal de potência da tarifa de médias utilizações;
+ii) Os custos de transporte, operação e manutenção, incluindo a aquisição de matéria-prima;
 
-p' é o mínimo de dois valores de potência, P(índice 1) e P(índice 2), em que:
+b) Os benefícios de natureza ambiental proporcionados pelo uso dos recursos endógenos utilizados no centro produtor.
 
-P(índice 1) = E(índice p)/T(índice p)
+3 - O tarifário de venda de energia eléctrica pelo centro produtor à rede pública é fixado nos termos do anexo II ao presente diploma, que dele faz parte integrante, o qual determina igualmente as disposições relativas ao período de vigência das modalidades desse tarifário.
 
-P(índice 2) = (E(índice p) + E(índice c))/(T(índice p) + T(índice c))
+4 - (Revogado.)
 
-em que:
+5 - (Revogado.)
 
-E(índice p) é a energia eléctrica fornecida mensalmente pelo produtor nos períodos tarifários de horas de ponta, medida em kilowatts-hora;
+6 - (Revogado.)
 
-E(índice c) é a energia eléctrica fornecida mensalmente pelo produtor nos períodos tarifários de horas cheias, medida em kilowatts-hora;
+7 - (Revogado.)
 
-T(índice p) é a duração mensal, em horas, dos períodos tarifários de horas de ponta;
+8 - (Revogado.)
 
-T(índice c) é a duração mensal, em horas, dos períodos tarifários de horas cheias;
+9 - (Revogado.)
 
-b) Os preços de energia aplicáveis à energia activa fornecida pelo produtor nos períodos de horas de ponta (PE(índice p)), nos períodos de horas cheias (PE(índice c)) e nos períodos de horas de vazio (PE(índice v)) são iguais aos das tarifas de médias utilizações;
-
-c) No caso de possibilidade de opção entre diferentes períodos tarifários, o ciclo horário a considerar é o correspondente ao ciclo diário;
-
-d) Os produtores devem, nos períodos fora do vazio, fazer acompanhar o fornecimento de energia activa de uma quantidade de energia reactiva correspondente, no mínimo, a 40% da energia activa fornecida;
-
-e) Os produtores não devem, nos períodos de vazio, fornecer energia reactiva à rede;
-
-f) A energia reactiva em défice nas horas fora de vazio e a fornecida nas horas de vazio são pagas pelo produtor aos preços de energia reactiva indutiva e de energia reactiva capacitiva, respectivamente, fixados no tarifário da rede pública para o nível de tensão da interligação.
-
-2 - Para potências de ligação superiores a 10 MVA, nos meses em que os fornecimentos correspondam a potências mensais facturadas que ultrapassem 10 MVA, os primeiros 10 MVA são valorizados segundo os critérios referidos no número anterior, sendo os fornecimentos suplementares valorizados, durante 15 anos, pelo critério dos custos evitados totais.
-
-3 - Para efeitos do disposto no número anterior, a DGE estabelece anualmente os valores ou a fórmula de cálculo dos valores dos custos evitados para os 15 anos subsequentes, com base no plano de expansão em vigor, ouvidas a Entidade Reguladora e a entidade concessionária da RNT.
-
-4 - Para efeitos do disposto no n.º 2, os fornecimentos suplementares de um produtor cuja instalação entra em exploração num determinado ano são valorizados pelos custos evitados estabelecidos pela DGE no ano imediatamente anterior, nos temos do número antecedente.
+10 - (Revogado.)

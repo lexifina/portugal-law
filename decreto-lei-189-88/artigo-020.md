@@ -1,3 +1,7 @@
+## Secção V
+
+## Projecto e vistoria
+
 # Artigo 20.º
 
 ### Exploração e inspecções
