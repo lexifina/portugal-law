@@ -1,0 +1,3 @@
+Aviso n.º 104/93
+Por ordem superior se faz público que o Secretário-Geral das Nações Unidas, como depositário, comunicou que o Governo da Eslovénia notificou, a 3 de Novembro de 1992, a sucessão respeitante à Convenção Aduaneira Relativa à Importação Temporária de Veículos Rodoviários Comerciais, concluída em Genebra a 18 de Maio de 1956, com efeito a partir de 25 de Junho de 1991, data em que aquele país assumiu a responsabilidade pelas relações internacionais.
+Direcção-Geral dos Negócios Político-Económicos, 20 de Abril de 1993. - O Subdirector-Geral, António Nunes de Carvalho Santana Carlos.
