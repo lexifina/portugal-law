@@ -1,0 +1,8 @@
+Portaria n.º 989/2000
+de 14 de Outubro
+O Decreto-Lei n.º 67/2000, de 26 de Abril, veio reconhecer o direito à protecção, na eventualidade de desemprego, ao pessoal contratado para o exercício de funções docentes nos estabelecimentos de educação e ensino público não superior, mediante o enquadramento dos referidos docentes no regime geral de segurança social dos trabalhadores por conta de outrem.
+O artigo 9.º do referido diploma, ao definir a obrigação contributiva perante o regime geral, determina que a responsabilidade pelo pagamento das respectivas contribuições cabe na íntegra, única e exclusivamente, ao Ministério da Educação, através das entidades processadoras dos vencimentos, relevando os respectivos registos de remunerações, nos termos do disposto no artigo 11.º, apenas para efeitos da concessão das prestações de desemprego.
+Nos termos do disposto no Decreto-Lei n.º 199/99, de 8 de Junho, as taxas contributivas são fixadas de harmonia com o âmbito material das eventualidades protegidas. Prevê igualmente o referido diploma que as entidades sem fins lucrativos têm direito à redução da taxa contributiva, nos termos do disposto no n.º 2 do artigo 24.º
+Assim, nos termos e ao abrigo do disposto nos artigos 5.º, 6.º e 24.º do Decreto-Lei n.º 199/99, de 8 de Junho:
+Manda o Governo, pelo Ministro do Trabalho e da Solidariedade, que a taxa contributiva aplicável ao pessoal contratado para o exercício de funções docentes abrangido pelo Decreto-Lei n.º 67/2000, de 26 de Abril, seja fixada em 4,90%.
+Pelo Ministro do Trabalho e da Solidariedade, José António Fonseca Vieira da Silva, Secretário de Estado da Segurança Social, em 12 de Setembro de 2000.
