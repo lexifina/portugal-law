@@ -1,0 +1,30 @@
+Portaria n.º 316/89
+de 4 de Maio
+Tendo em conta o disposto no Acto de Adesão de Portugal às Comunidades Europeias relativamente aos produtos agrícolas em transição por etapas, nomeadamente as disposições previstas no artigo 309.º, referente ao sector do leite e produtos lácteos, no qual se prevê a possibilidade de ainda no decurso da 1.ª etapa se proceder à introdução progressiva do esquema de ajudas comunitárias;
+Considerando que, nos termos das disposições citadas do Acto de Adesão, se mostra oportuno regulamentar a aplicação em Portugal das normas constantes do Regulamento (CEE) n.º 1842/83, do Conselho, de 30 de Junho de 1983, e do Regulamento (CEE) n.º 2167/83, da Comissão, de 28 de Julho de 1983, relativas ao fornecimento de leite aos alunos dos estabelecimentos escolares a partir de 1 de Janeiro de 1989;
+Considerando, por último, que são de vária ordem os factores condicionantes do insucesso escolar e que importa actuar no sentido de o combater:
+Ao abrigo das disposições comunitárias e do Acto de Adesão citadas:
+Manda o Governo, pelos Ministros das Finanças e da Agricultura, Pescas e Alimentação, o seguinte:
+1.º É instituída para vigorar no continente durante o ano de 1989 uma ajuda ao leite escolar.
+2.º Os beneficiários da ajuda do leite escolar são os alunos dos jardins-de-infância, escolas primarias, postos de telescola e escolas preparatórias oficiais, bem como das instituições de apoio a alunos deficientes com acordos com a Direcção-Geral do Ensino Básico e com o Instituto de Apoio Sócio-Educativo (IASE).
+3.º O produto lácteo para o qual é concedida a ajuda é o leite meio gordo com chocolate ou aromatizado, pasteurizado ou esterilizado ou que tenha sido sujeito a um tratamento UHT e que contenha no mínimo 90% de peso de leite meio gordo.
+4.º A distribuição de leite aos estabelecimentos de ensino referidos no n.º 1.º processar-se-á da seguinte forma:
+Jardins-de-infância, escolas primárias, preparatórias e postos de telescola oficiais - 2 dl de leite/dia/aluno;
+Instituições de apoio a alunos deficientes - 4 dl de leite/dia/aluno.
+5.º O montante da ajuda é de 97$70 por litro de leite, sendo uma parte financiada pela Comunidade Económica Europeia FEOGA-Garantia e outra por fundos nacionais, a cargo do IASE e do Instituto Nacional de Intervenção e Garantia Agrícola (INGA), não podendo a comparticipação deste último Instituto exceder 2 milhões de contos.
+6.º A ajuda comunitária só é concedida para o leite produzido no país onde se localiza o estabelecimento escolar e para o tipo de produto referido no n.º 3.º
+7.º A ajuda é concedida pelo INGA ao IASE nos seguintes moldes:
+a) O pedido de pagamento deve ser apresentado pelo IASE ao INGA num impresso tipo, o qual deve conter as seguintes indicações:
+Número de alunos a beneficiar;
+Quantidades distribuídas;
+Preço e montante da ajuda;
+b) Para poder ser aceite o pedido de pagamento da ajuda deve o mesmo ser apresentado o mais tardar até ao último dia do quarto mês seguinte ao trimestre escolar a que diz respeito. Quando este prazo for ultrapassado em menos de dois meses, a ajuda é ainda paga mediante uma redução de 10%;
+c) O pagamento é efectuado pelo INGA ao IASE no prazo de três meses a contar da data de apresentação do pedido;
+d) O IASE deverá estabelecer um suporte administrativo que permita ao INGA efectuar as funções de controlo.
+8.º O INGA deverá proceder à fiscalização e conferência de todos os documentos comprovativos de distribuição do leite escolar, quer a nível do estabelecimento de ensino, da delegação ou da direcção escolar, de modo a:
+Assegurar a distribuição do leite escolar de acordo com o n.º 2.º, havendo o compromisso de que o produto utilizado não seja desviado do fim a que se destina;
+Os montantes da ajuda deverem ser sempre justificados por facturas, as quais devem ser postas à disposição do INGA para efeitos de controlo.
+9.º A presente portaria produz efeitos a partir do dia 1 de Janeiro de 1989.
+Ministérios das Finanças e da Agricultura, Pescas e Alimentação.
+Assinada em 18 de Abril de 1989.
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - Pelo Ministro da Agricultura, Pescas e Alimentação, Luís Gonzaga de Sousa Morais Cardoso, Secretário de Estado da Alimentação.
