@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1917/04/06300/03050305.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1917-04-21",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "4b773cf321f5ceb13170dbe3ce61b49bba225efb29ac713cc0bdefa2f38e79fe",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.1,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "70c385be5e2cf260c649bfe2fa447fd98f9408f7afb061660e2c479d62f93031",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 477
 }
