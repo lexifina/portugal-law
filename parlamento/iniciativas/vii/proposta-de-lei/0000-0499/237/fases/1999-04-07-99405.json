@@ -1,0 +1,802 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "237",
+    "id": "4533",
+    "titulo": "Altera o regime do trabalho subordinado e de regulamentação do emprego de menores"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1999-04-07",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "696",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1999-04-07",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "4538",
+        "leg": "VII",
+        "nr": "233",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "376",
+            "obs": null,
+            "pag": [
+              "2489-2509"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1999-04-08",
+            "pubLeg": "VII",
+            "pubNr": "68",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/068/1999-04-08/2489?pgs=2489-2509&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "376",
+            "obs": null,
+            "pag": [
+              "2489-2509"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1999-04-08",
+            "pubLeg": "VII",
+            "pubNr": "68",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/068/1999-04-08/2489?pgs=2489-2509&org=PLC"
+          }
+        ],
+        "sel": "4",
+        "tipo": "P",
+        "titulo": "Regulamenta a dispensa de horários de trabalho com adaptabilidade dos trabalhadores menores, dos portadores de deficiência e das trabalhadoras grávidas, puerperas ou lactantes, que simplifica alguns procedimentos na organização do tempo de trabalho designadamente os que envolvem actos de relacionamento entre os empregadores e a inspecção-geral do trabalho"
+      },
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "4694",
+        "leg": "VII",
+        "nr": "202",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "376",
+            "obs": null,
+            "pag": [
+              "2489-2509"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1999-04-08",
+            "pubLeg": "VII",
+            "pubNr": "68",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/068/1999-04-08/2489?pgs=2489-2509&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "376",
+            "obs": null,
+            "pag": [
+              "2489-2509"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1999-04-08",
+            "pubLeg": "VII",
+            "pubNr": "68",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/068/1999-04-08/2489?pgs=2489-2509&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "P",
+        "titulo": "Define o regime jurídico do trabalho a tempo parcial e estabelece incentivos à sua dinamização"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1999-04-07",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "321",
+                "nome": "Francisco José Martins"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "55823",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2508-2509"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-04-08",
+                "pubLeg": "VII",
+                "pubNr": "68",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/068/1999-04-08/2508?pgs=2508-2509&org=PLC"
+              }
+            ],
+            "sumario": "REGIME JURIDICO DO TRABALHO A TEMPO PARCIAL; REGULAMENTO A DISPENSA DE HORARIOS DE TRABALHO COM ADAPTABILIDADE DOS TRABALHADORES MENORES, DEFICIENTES E GRAVIDAS, PUERPERAS OU LACTANTES...; ALTERA O REGIME DE TRABALHO SUBORDINADO E REGULAMENTO DO EMPREGO DE MENORES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "246",
+                "nome": "Hermínio Loureiro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "55824",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2507-2508"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-04-08",
+                "pubLeg": "VII",
+                "pubNr": "68",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/068/1999-04-08/2507?pgs=2507-2508&org=PLC"
+              }
+            ],
+            "sumario": "REGIME JURIDICO DO TRABALHO A TEMPO PARCIAL; REGULAMENTO A DISPENSA DE HORARIOS DE TRABALHO COM ADAPTABILIDADE DOS TRABALHADORES MENORES, DEFICIENTES E GRAVIDAS, PUERPERAS OU LACTANTES...; ALTERA O REGIME DE TRABALHO SUBORDINADO E REGULAMENTO DO EMPREGO DE MENORES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1475",
+                "nome": "Rui Namorado"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "55825",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2503-2503"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-04-08",
+                "pubLeg": "VII",
+                "pubNr": "68",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/068/1999-04-08/2503?pgs=2503&org=PLC"
+              }
+            ],
+            "sumario": "REGIME JURIDICO DO TRABALHO A TEMPO PARCIAL; REGULAMENTO A DISPENSA DE HORARIOS DE TRABALHO COM ADAPTABILIDADE DOS TRABALHADORES MENORES, DEFICIENTES E GRAVIDAS, PUERPERAS OU LACTANTES...; ALTERA O REGIME DE TRABALHO SUBORDINADO E REGULAMENTO DO EMPREGO DE MENORES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "159",
+                "nome": "Artur Penedos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "55826",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2504-2507"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-04-08",
+                "pubLeg": "VII",
+                "pubNr": "68",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/068/1999-04-08/2504?pgs=2504-2507&org=PLC"
+              }
+            ],
+            "sumario": "REGIME JURIDICO DO TRABALHO A TEMPO PARCIAL; REGULAMENTO A DISPENSA DE HORARIOS DE TRABALHO COM ADAPTABILIDADE DOS TRABALHADORES MENORES, DEFICIENTES E GRAVIDAS, PUERPERAS OU LACTANTES...; ALTERA O REGIME DE TRABALHO SUBORDINADO E REGULAMENTO DO EMPREGO DE MENORES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1241",
+                "nome": "Pedro da Vinha Costa"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "55827",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2501-2504"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-04-08",
+                "pubLeg": "VII",
+                "pubNr": "68",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/068/1999-04-08/2501?pgs=2501-2504&org=PLC"
+              }
+            ],
+            "sumario": "REGIME JURIDICO DO TRABALHO A TEMPO PARCIAL; REGULAMENTO A DISPENSA DE HORARIOS DE TRABALHO COM ADAPTABILIDADE DOS TRABALHADORES MENORES, DEFICIENTES E GRAVIDAS, PUERPERAS OU LACTANTES...; ALTERA O REGIME DE TRABALHO SUBORDINADO E REGULAMENTO DO EMPREGO DE MENORES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "689",
+                "nome": "Jorge Rato"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "55828",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2500-2501"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-04-08",
+                "pubLeg": "VII",
+                "pubNr": "68",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/068/1999-04-08/2500?pgs=2500-2501&org=PLC"
+              }
+            ],
+            "sumario": "REGIME JURIDICO DO TRABALHO A TEMPO PARCIAL; REGULAMENTO A DISPENSA DE HORARIOS DE TRABALHO COM ADAPTABILIDADE DOS TRABALHADORES MENORES, DEFICIENTES E GRAVIDAS, PUERPERAS OU LACTANTES...; ALTERA O REGIME DE TRABALHO SUBORDINADO E REGULAMENTO DO EMPREGO DE MENORES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1289",
+                "nome": "Moura e Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "55829",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2498-2501"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-04-08",
+                "pubLeg": "VII",
+                "pubNr": "68",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/068/1999-04-08/2498?pgs=2498-2501&org=PLC"
+              }
+            ],
+            "sumario": "REGIME JURIDICO DO TRABALHO A TEMPO PARCIAL; REGULAMENTO A DISPENSA DE HORARIOS DE TRABALHO COM ADAPTABILIDADE DOS TRABALHADORES MENORES, DEFICIENTES E GRAVIDAS, PUERPERAS OU LACTANTES...; ALTERA O REGIME DE TRABALHO SUBORDINADO E REGULAMENTO DO EMPREGO DE MENORES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "1192",
+                "nome": "Carmen Francisco"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "55830",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2497-2498"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-04-08",
+                "pubLeg": "VII",
+                "pubNr": "68",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/068/1999-04-08/2497?pgs=2497-2498&org=PLC"
+              }
+            ],
+            "sumario": "REGIME JURIDICO DO TRABALHO A TEMPO PARCIAL; REGULAMENTO A DISPENSA DE HORARIOS DE TRABALHO COM ADAPTABILIDADE DOS TRABALHADORES MENORES, DEFICIENTES E GRAVIDAS, PUERPERAS OU LACTANTES...; ALTERA O REGIME DE TRABALHO SUBORDINADO E REGULAMENTO DO EMPREGO DE MENORES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "159",
+                "nome": "Artur Penedos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "55831",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2496-2497"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-04-08",
+                "pubLeg": "VII",
+                "pubNr": "68",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/068/1999-04-08/2496?pgs=2496-2497&org=PLC"
+              }
+            ],
+            "sumario": "REGIME JURIDICO DO TRABALHO A TEMPO PARCIAL; REGULAMENTO A DISPENSA DE HORARIOS DE TRABALHO COM ADAPTABILIDADE DOS TRABALHADORES MENORES, DEFICIENTES E GRAVIDAS, PUERPERAS OU LACTANTES...; ALTERA O REGIME DE TRABALHO SUBORDINADO E REGULAMENTO DO EMPREGO DE MENORES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "55832",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2495-2497"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-04-08",
+                "pubLeg": "VII",
+                "pubNr": "68",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/068/1999-04-08/2495?pgs=2495-2497&org=PLC"
+              }
+            ],
+            "sumario": "REGIME JURIDICO DO TRABALHO A TEMPO PARCIAL; REGULAMENTO A DISPENSA DE HORARIOS DE TRABALHO COM ADAPTABILIDADE DOS TRABALHADORES MENORES, DEFICIENTES E GRAVIDAS, PUERPERAS OU LACTANTES...; ALTERA O REGIME DE TRABALHO SUBORDINADO E REGULAMENTO DO EMPREGO DE MENORES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "55833",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2493-2494"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-04-08",
+                "pubLeg": "VII",
+                "pubNr": "68",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/068/1999-04-08/2493?pgs=2493-2494&org=PLC"
+              }
+            ],
+            "sumario": "REGIME JURIDICO DO TRABALHO A TEMPO PARCIAL; REGULAMENTO A DISPENSA DE HORARIOS DE TRABALHO COM ADAPTABILIDADE DOS TRABALHADORES MENORES, DEFICIENTES E GRAVIDAS, PUERPERAS OU LACTANTES...; ALTERA O REGIME DE TRABALHO SUBORDINADO E REGULAMENTO DO EMPREGO DE MENORES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1132",
+                "nome": "António Rodrigues"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "55834",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2493-2493"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-04-08",
+                "pubLeg": "VII",
+                "pubNr": "68",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/068/1999-04-08/2493?pgs=2493&org=PLC"
+              }
+            ],
+            "sumario": "REGIME JURIDICO DO TRABALHO A TEMPO PARCIAL; REGULAMENTO A DISPENSA DE HORARIOS DE TRABALHO COM ADAPTABILIDADE DOS TRABALHADORES MENORES, DEFICIENTES E GRAVIDAS, PUERPERAS OU LACTANTES...; ALTERA O REGIME DE TRABALHO SUBORDINADO E REGULAMENTO DO EMPREGO DE MENORES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "55835",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2489-2495"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-04-08",
+                "pubLeg": "VII",
+                "pubNr": "68",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/068/1999-04-08/2489?pgs=2489-2495&org=PLC"
+              }
+            ],
+            "sumario": "REGIME JURIDICO DO TRABALHO A TEMPO PARCIAL; REGULAMENTO A DISPENSA DE HORARIOS DE TRABALHO COM ADAPTABILIDADE DOS TRABALHADORES MENORES, DEFICIENTES E GRAVIDAS, PUERPERAS OU LACTANTES...; ALTERA O REGIME DE TRABALHO SUBORDINADO E REGULAMENTO DO EMPREGO DE MENORES",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "99405",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "108010",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1999-04-08",
+        "pubLeg": "VII",
+        "pubNr": "68",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/068/1999-04-08?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
