@@ -1,0 +1,3 @@
+Parecer do Conselho de Estado
+O Conselho de Estado, na sua reunião de 30 de Outubro de 1991, convocado para os efeitos da alínea c) do artigo 148.º da Constituição, a fim de se pronunciar sobre a exoneração do Ministro da República para a Região Autónoma da Madeira e a nomeação de novo Ministro da República, manifestou-se, por unanimidade, favorável à exoneração do general Lino Dias Miguel e, também por unanimidade, favorável à nomeação do vice-almirante Artur Aurélio Teixeira Rodrigues Consolado para o referido cargo.
+Presidência da República, 30 de Outubro de 1991. - O Presidente da República, MÁRIO SOARES.
