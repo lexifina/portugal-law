@@ -28,7 +28,11 @@ l) Prestação de serviço na Direcção-Geral do Ensino Superior, nos termos do
 
 m) Presidente de câmara municipal e vereador a tempo inteiro;
 
-n) Governador civil e adjunto.
+n) Governador civil e adjunto;
+
+o) Exercício do cargo de director dos hospitais onde tenha lugar ensino médico pré-graduado;
+
+p) Exercício do cargo de director de um dos institutos de medicina legal.
 
 2 - O tempo de serviço prestado nas situações constantes do número anterior suspende, a requerimento dos interessados, a contagem dos prazos previstos neste diploma para a apresentação de relatórios curriculares pelos professores das categorias mencionadas no artigo 2.º, bem como a dos prazos dos contratos de professores convidados, assistentes, assistentes estagiários e assistentes convidados.
 
