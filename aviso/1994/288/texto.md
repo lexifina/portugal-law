@@ -1,0 +1,11 @@
+Aviso n.º 288/94
+Por ordem superior se torna público que, por notificação de 26 de Agosto de 1994, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos comunicou que a República da África do Sul depositou o instrumento de adesão à Convenção Suprimindo a Exigência da Legalização dos Actos Públicos Estrangeiros, concluída na Haia, em 5 de Outubro de 1961.
+Em conformidade com o artigo 6, alínea 1, da Convenção, a República da África do Sul designou como autoridades:
+1) Qualquer magistrado ou magistrado substituto;
+2) Qualquer escrivão ou seu auxiliar do Supremo Tribunal da África do Sul;
+3) Qualquer entidade designada pelo Director-Geral: Ministério da Justiça;
+4) Qualquer entidade designada pelo Director-Geral: Ministério dos Negócios Estrangeiros.
+De acordo com as disposições do artigo 12, alínea 1, da Convenção, qualquer Estado não visado pelo artigo 10 poderá aderir à presente Convenção. Em conformidade com o artigo 12, alínea 2, a adesão só produzirá efeitos nas relações entre a República da África do Sul e os Estados contratantes que não levantarem objecções à referida adesão no período de seis meses após a recepção da presente notificação. Por razões práticas, o mencionado período decorrerá entre 1 de Setembro de 1994 e 1 de Março de 1995.
+Relativamente a Portugal, a Convenção foi aprovada, para ratificação, pelo Decreto-Lei n.º 48450, de 24 de Junho de 1968, conforme Diário do Governo, n.º 148, de 24 de Junho de 1968, o instrumento de ratificação foi depositado em 6 de Dezembro de 1968 e a Convenção entrou em vigor para o nosso país em 4 de Fevereiro de 1969, segundo avisos de 12 de Fevereiro de 1969, publicado no Diário do Governo, n.º 50, de 28 de Fevereiro de 1969, e de 14 de Janeiro de 1976, publicado no Diário do Governo, n.º 21, de 26 de Janeiro de 1976.
+O Governo Português designou como entidades competentes para emitir a apostila prevista no artigo 3.º o Procurador-Geral da República e os procuradores da República junto das relações, conforme aviso de 24 de Março de 1963, publicado no Diário do Governo, n.º 78, de 24 de Janeiro de 1969.
+Departamento de Assuntos Jurídicos, 30 de Setembro de 1994. - O Director, José Maria Teixeira Leite Martins.
