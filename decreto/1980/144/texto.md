@@ -1,0 +1,27 @@
+Decreto n.º 144/80
+de 27 de Dezembro
+O ordenamento geral de carreiras da função pública, aprovado pelo Decreto-Lei n.º 191-C/79, de 25 de Junho, estabeleceu novos parâmetros de exigências de qualificação e modificou posicionamentos, o que plenamente justifica se proceda à revisão de algumas regras sobre o pessoal especializado do Ministério dos Negócios Estrangeiros, mantendo-se embora os critérios legais vigentes, que, pela especificidade das funções a desempenhar, devem subsistir.
+Assim:
+O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
+Artigo 1.º As categorias e letras de vencimento do pessoal especializado do Ministério dos Negócios Estrangeiros são as constantes do mapa anexo ao presente diploma.
+Art. 2.º O provimento dos lugares a que se refere o artigo anterior será feito por contrato, mediante escolha do Ministro dos Negócios Estrangeiros de entre:
+a) Conselheiro jurídico - doutores em Direito ou licenciados em Direito com experiência profissional de duração não inferior a nove anos e possuidores de reconhecido mérito para o exercício das funções;
+b) Conselheiro técnico (Comissão Nacional da FAO) - licenciados com curso superior com formação, competência, comprovado curriculum profissional, designadamente no âmbito das matérias de que trata a FAO, e experiência profissional com duração não inferior a nove anos;
+c) Conselheiro técnico, conselheiro cultural, conselheiro social e consultor cultural ou científico - licenciados com curso superior adequado, comprovado curriculum e experiência profissional com duração não inferior a seis anos;
+d) Conselheiro de imprensa - habilitados com curso superior de Comunicação Social e experiência profissional com duração não inferior a seis anos ou indivíduos possuidores de reconhecida e comprovada experiência profissional de duração não inferior a nove anos;
+e) Coordenador geral do ensino português - licenciados com curso superior e comprovada experiência pedagógica de duração não inferior a seis anos;
+f) Adido cultural e adido comercial - licenciados com curso superior adequado e comprovada experiência profissional de duração não inferior a seis anos;
+g) Adido de imprensa - habilitados com curso superior de Comunicação Social e experiência profissional com duração não inferior a três anos ou indivíduos possuidores de reconhecida e comprovada experiência profissional de duração não inferior a seis anos;
+h) Secretário privativo - habilitados com o curso complementar dos liceus, curso de Secretariado ou outro adequado às funções, de duração não inferior a dois anos, e experiência profissional superior a três anos;
+i) Técnico de contas - habilitados com o curso superior de Contabilidade e Administração e comprovada experiência profissional de duração não inferior a três anos;
+j) Intérprete da Embaixada na China - indivíduos com formação não inferior a nove anos de escolaridade e comprovado domínio escrito e falado da língua chinesa.
+Art. 3.º São revogadas as disposições que estabeleçam equiparações do pessoal especializado às categorias da carreira diplomática.
+Art. 4.º O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Aníbal António Cavaco Silva.
+Promulgado em 15 de Outubro de 1980.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+ANEXO
+Categorias do pessoal especializado a que se refere o artigo 1.º
+(ver documento original)
