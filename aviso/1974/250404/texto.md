@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação do Ministério dos Negócios Estrangeiros dos Países Baixos, o Governo de Listentaina, em conformidade com o disposto no artigo 13.º da Convenção Relativa ao Reconhecimento e Execução de Decisões em Matéria de Obrigações Alimentares para com os Menores, assinada na Haia em 15 de Abril de 1958, indicou como autoridade destinada a julgar as questões relativas às obrigações alimentares para com os menores e a executar sentenças estrangeiras, sobre a mesma matéria, o Tribunal Territorial do Principado de Listentaina, em Vaduz (Fürstlich Liechtensteinisches Landgericht).
+Secretaria-Geral do Ministério, 3 de Julho de 1974. - O Chefe dos Serviços Jurídicos e de Tratados, Mário d'Oliveira Neves.
