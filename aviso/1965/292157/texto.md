@@ -1,0 +1,26 @@
+Aviso
+Por ordem superior se torna público que, no dia 26 de Maio de 1965, foi concluído um acordo por troca de notas entre os Governos de Portugal e dos Estados Unidos da América regulando a concessão de licenças num dos países a radioamadores do outro.
+O texto integral do referido Acordo, que começou a vigorar no próprio dia 26 de Maio de 1965, é o seguinte:
+Lisbon, May 17, 1965. - His Excellency Dr. Alberto Franco Nogueira, Minister of Foreign Affairs, Lisbon.
+Excellency:
+I have the honour to refer to conversations between representatives of the Government of Portugal and representatives of the Government of the United States of America relating to the possibility of concluding an agreement between the two Governments with a view to the reciprocal granting of authorizations to permit licensed amateur radio operators of either country to operate their station in the other country, in accordance with the provisions of Article 41 of the international Radio Regulations, Geneva, 1959. It is proposed that an agreement with respect to this matter be concluded as follows:
+1. An individual who is licensed by his Government as an amateur radio operator and who operates an amateur radio station licensed by such Government shall be permitted by the other Government, on a reciprocal basis and subject to the conditions stated below, to operate such station in the territory of such other Government.
+2. The individual who is licensed by his Government as an amateur radio operator shall, before being permitted to operate his station as provided for in paragraph 1, obtain from the appropriate administrative agency of the other Government an authorization for that purpose.
+3. The appropriate administrative agency of each Government may issue an authorization, as prescribed in paragraph 2, under such conditions and terms as it may prescribe, including the right of cancellation at the convenience of the issuing Government at any time.
+4. The amateur radio operation having obtained an authorization as mentioned in paragraph 3, will be subject to relevant rules in force in the country where the operation takes place.
+Upon the receipt of a reply note from Your Excellency indicating the concurrence of the Government of Portugal, it will be considered that this note and the reply note constitute an agreement between the two Governments, such agreement to be in force as of the date of the reply note and to be subject to termination by either Government giving six months' notice, in writing, of its intention to terminate.
+Accept, Excellence, the renewed assurances of my highest consideration.
+George W. Anderson.
+Lisboa, 26 de Maio de 1965. - A Sua Excelência o Senhor Almirante George W. Anderson, Embaixador dos Estados Unidos da América, Lisboa.
+Senhor Embaixador:
+Tenho a honra de acusar recepção da nota de V. Ex.ª, datada de 17 do corrente, do teor seguinte:
+Tenho a honra de me referir às conversações havidas entre representantes do Governo de Portugal e do Governo dos Estados Unidos da América acerca da possibilidade da celebração de um acordo entre os dois Governos, com vista à concessão recíproca de autorizações que permitam aos operadores radioamadores, detentores de licenças de cada um dos países, operar as suas estações no outro, de harmonia com as disposições do artigo 41.º do Regulamento Internacional de Rádio, Genebra, 1959. Propõe-se que um acordo regulando esta matéria seja celebrado nos termos seguintes:
+1. Todo o indivíduo detentor de uma licença de operador radioamador, concedida pelo seu Governo, e que opere uma estação de radioamador autorizada pelo referido Governo, será autorizado pelo outro Governo, a título de reciprocidade e sujeito às condições a seguir indicadas, a operar tal estação no território desse outro Governo.
+2. O indivíduo detentor de uma licença de operador radioamador concedida pelo seu Governo deverá, antes de ser autorizado a operar a sua estação, como estipulado no parágrafo 1, obter da autoridade administrativa competente do outro Governo uma autorirização para esse efeito.
+3. A autoridade administrativa competente de cada Governo poderá emitir uma autorização, como prescrito no parágrafo 2, nas condições e termos a estabelecer por esse Governo, incluindo o direito de a cancelar em qualquer altura, conforme a sua conveniência.
+4. O operador radioamador que tenha obtido uma autorização nos termos do parágrafo 3 ficará sujeito às disposições em vigor nesta matéria no país onde tiver lugar a emissão.
+Após a recepção da nota de resposta de Vossa Excelência, indicando a concordância do Governo Português, considerar-se-á que a presente nota e a nota de resposta constituem o acordo entre os dois Governos, o qual entrará em vigor na data da nota de resposta, podendo ser dado por findo por qualquer dos Governos, por comunicação escrita, com pré-aviso de seis meses.
+Tenho a honra de comunicar a V. Ex.ª o acordo do Governo Português quanto ao teor da referida nota de V. Ex.ª, acima transcrita na tradução portuguesa.
+Aproveito o ensejo para reiterar a V. Ex.ª, Sr. Embaixador, os protestos da minha mais elevada consideração.
+Franco Nogueira.
+Direcção-Geral dos Negócios Económicos e Consulares, 5 de Julho de 1965. - O Director-Geral, José Calvet de Magalhães.
