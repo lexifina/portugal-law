@@ -1,0 +1,5 @@
+Portaria n.º 432/81
+de 27 de Maio
+Ao abrigo do disposto no n.º 2 do artigo 1.º do Decreto-Lei n.º 59/76, de 23 de Janeiro, e considerando-se a necessidade de viabilizar a integração de pessoal vinculado à Secretaria de Estado da Cultura, de harmonia com o previsto nos artigos 67.º a 69.º do Decreto Regulamentar n.º 19/80, de 26 de Maio:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e da Reforma Administrativa e pelo Secretário de Estado da Cultura, que seja criado no quadro de pessoal da Direcção-Geral dos Serviços Centrais, a que se refere o artigo 47.º do Decreto Regulamentar n.º 19/80, de 26 de Maio, e que constitui o anexo I a este diploma, um lugar de adjunto técnico principal (letra H), a extinguir quando vagar.
+Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e da Reforma Administrativa, 19 de Maio de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - Pelo Ministro da Reforma Administrativa, José Queirós Lopes Raimundo, Secretário de Estado da Reforma Administrativa. - O Secretário de Estado da Cultura, António Manuel da Assumpção Braz Teixeira.
