@@ -6,7 +6,7 @@ Para os efeitos do presente diploma entende-se por:
 
 1) «Abastecimento particular» - sistema de abastecimento de água que funciona sob responsabilidade particular;
 
-2) (Revogado);
+2) «Águas balneares» - as águas doces lóticas e lênticas, comummente designadas de correntes e paradas, assim como a água do mar e as águas estuarinas, que se encontrem classificadas como águas balneares ou, não estando classificadas, onde o banho não esteja interdito e seja habitualmente praticado por um número considerável de banhistas (aproximadamente 100/dia, durante a época balnear);
 
 3) «Água de rega» - água superficial ou subterrânea ou água residual, que vise satisfazer ou complementar as necessidades hídricas das culturas agrícolas ou florestais;
 
@@ -50,7 +50,7 @@ Para os efeitos do presente diploma entende-se por:
 
 23) «Entidade gestora da instalação» - qualquer pessoa, singular ou colectiva, proprietária da instalação industrial ou que proceda à sua exploração por lhe ter sido transmitido esse poder;
 
-24) (Revogado);
+24) «Época balnear» - o período durante o qual se prevê uma afluência importante de banhistas, tendo em conta os usos locais, considerando eventuais disposições legais ou regulamentares respeitantes à prática de banhos, bem como as condições meteorológicas. Em Portugal continental, o período de tempo compreendido entre 1 de Junho e 30 de Setembro de cada ano, estabelecido de acordo com o artigo 13.º do Decreto-Lei n.º 42305, de 5 de Junho de 1959, que promulga o Regulamento de Assistência a Banhistas nas Praias, com a nova redacção que lhe foi dada no Decreto n.º 49007, de 13 de Maio de 1969;
 
 25) «Exactidão» - a diferença entre o valor real de um parâmetro e o valor médio experimental obtido, podendo ser expressa em percentagem do valor real;
 
@@ -126,4 +126,4 @@ Para os efeitos do presente diploma entende-se por:
 
 61) «Vigilância sanitária» - conjunto de acções desenvolvidas com vista à avaliação da qualidade da água e à prevenção de riscos para a saúde pública realizadas pelos serviços competentes do MS, sob a coordenação e responsabilidade das autoridades de saúde.
 
-62) (Revogado).
+62) «Zona balnear» - local onde se situam as águas balneares.
