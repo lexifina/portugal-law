@@ -1,0 +1,6 @@
+Decreto-Lei n.º 46431
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei o seguinte:
+Artigo 1.º É extinto o Consulado de 2.ª classe em Manila e criada, em sua substituição, uma secção consular junto da Embaixada de Portugal naquela cidade.
+Art. 2.º É extinto o Consulado de 4.ª classe no Luxemburgo e criado, em sua substituição, um consulado de 2.ª classe na mesma cidade, sendo transferida para este a dotação inscrita no orçamento em vigor para as despesas de residência do Consulado em Manila.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 12 de Julho de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocência Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
