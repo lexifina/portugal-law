@@ -1,0 +1,12 @@
+Despacho
+Considerando que a entrada em vigor do Estatuto Hospitalar, promulgado pelo Decreto-Lei n.º 48357, de 27 de Abril de 1968, ao alterar o regime do trabalho médico nos hospitais, obriga a revisões e ajustamentos na situação do respectivo pessoal, designadamente do autorizado a acumular outros cargos ou funções;
+Considerando que à remuneração atribuída aos médicos que trabalhem em regime de tempo parcial (quatro horas de serviço diário), embora designada naquele diploma como vencimento, caberá mais correctamente, em regra, a qualificação de gratificação, em face da doutrina aprovada por resolução do Conselho de Ministros de 25 de Junho de 1962;
+Considerando a conveniência de dispensar a reapreciação pelo Conselho, caso a caso, das novas situações decorrentes da entrada em vigor do mencionado Estatuto, e bem assim a necessidade de simplificar e acelerar a solução dos processos respectivos, de maneira a evitarem-se perturbações no funcionamento dos serviços hospitalares;
+Considerando a vantagem de conseguir idênticos objectivos no que se refere à apreciação de casos futuros de idêntica natureza:
+1.º São mantidas as autorizações para acumulação de cargos públicos já concedidas a médicos dos estabelecimentos hospitalares dependentes do Ministério da Saúde e Assistência quando a ambos ou a um dos lugares corresponda remuneração expressamente qualificada como gratificação ou que, nos termos da mencionada resolução, como tal deva ser considerada, desde que não se verifique nenhuma das seguintes circunstâncias:
+a) Incompatibilidades previstas na lei, designadamente as do artigo 54.º do referido Estatuto;
+b) Incompatibilidade de horários, tendo em atenção as distâncias entre os locais de trabalho;
+c) Prejuízo para o serviço hospitalar ou para qualquer das outras funções exercidas em acumulação.
+2.º Fica autorizada a acumulação de cargos públicos a exercer por médicos no seu âmbito profissional desde que, não se verificando nenhuma das circunstâncias previstas no n.º 1.º, o exercício cumulativo tenha o acordo dos Ministros competentes.
+De harmonia com a orientação expressa no n.º 1.º, deverão os Ministérios interessados propor urgentemente a revogação das autorizações que não devam subsistir pela verificação de qualquer das circunstâncias previstas nas alíneas a) a c) do mesmo número.
+Presidência do Conselho, 16 de Outubro de 1968. - O Presidente do Conselho, Marcello Caetano.
