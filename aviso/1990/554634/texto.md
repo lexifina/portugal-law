@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que, por nota de 26 de Abril de 1990 e nos termos do artigo 42.º da Convenção sobre a Obtenção de Provas no Estrangeiro em Matéria Civil ou Comercial, celebrada na Haia a 18 de Março de 1970, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou que a Suécia declarou, a 16 de Fevereiro de 1990, aceitar a adesão dos Estados Unidos Mexicanos à mencionada Convenção.
+Nos termos do artigo 39.º, a Convenção entrou em vigor entre a Suécia e os Estados Unidos Mexicanos em 17 de Abril de 1990.
+Portugal é Parte na mesma Convenção, a qual foi aprovada para ratificação pelo Decreto n.º 764/74, de 30 de Dezembro, tendo depositado o seu instrumento de ratificação em 12 de Março de 1975, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 82, de 8 de Abril de 1975. A Convenção entrou em vigor para Portugal em 11 de Maio de 1975, nos termos do artigo 38.º, segundo parágrafo.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 17 de Setembro de 1990. - O Chefe do Serviço Jurídico e de Tratados, António Salgado Manso Preto Mendes Cruz.
