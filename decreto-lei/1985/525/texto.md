@@ -1,0 +1,30 @@
+Decreto-Lei n.º 525/85
+de 31 de Dezembro
+O presente decreto-lei adequa o regime petrolífero português, cujos diplomas fundamentais são a Lei n.º 1947, de 12 de Fevereiro de 1937, o Decreto n.º 29034, de 1 de Outubro de 1938, e os Decretos-Leis n.os 498/71, de 12 de Novembro, e 536/80, de 7 de Novembro, às normas da Comunidade Económica Europeia.
+Tem-se em consideração, especialmente, o disposto no artigo 37.º do Tratado de Roma, o preceituado no artigo 208.º do Acto Anexo ao Tratado de Adesão de Portugal às Comunidades Europeias e a declaração comum relativa ao acesso ao mercado petrolífero português anexa àquele.
+Assim:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º A importação dos produtos derivados do petróleo, constantes da lista anexa, só poderá ser efectuada com prévia autorização do Governo.
+Art. 2.º - 1 - As autorizações podem ser gerais, excepcionais e especiais.
+2 - As autorizações gerais são concedidas aos importadores de quantidades iguais ou superiores a 25 t por ano.
+3 - As autorizações excepcionais visam atender às necessidades conjunturais do sector petrolífero português.
+4 - As autorizações especiais respeitam a importações que se destinam ao consumo exclusivo do importador.
+Art. 3.º A adaptação do direito exclusivo de comercialização dos combustíveis derivados do petróleo, determinada pela adesão de Portugal à Comunidade Económica Europeia, efectuar-se-á progressivamente desde 1 de Janeiro de 1986 e deverá estar concluída em 31 de Dezembro de 1992.
+Art. 4.º Consideram-se abolidas, em 1 de Janeiro de 1986, as quotas do mercado contingentado dos combustíveis líquidos (gasolinas auto, petróleos, gasóleo e fuelóleo) atribuídas às empresas que delas são actualmente beneficiárias, à excepção da que compete à PETROGAL - Petróleos de Portugal, E. P.
+Art. 5.º - 1 - A partir de 1 de Janeiro de 1986, qualquer empresa dos Estados membros de Comunidade Económica Europeia estabelecida ou a estabelecer em Portugal poderá candidatar-se a importar uma quantidade total de cada produto igual ao conjunto das quotas do mercado que, antes dessa data, detinham as empresas mencionadas no artigo anterior.
+2 - Esta quantidade será acrescida anualmente da parcela de liberalização da quota de mercado atribuída em 1981 à PETROGAL - Petróleos de Portugal, E. P.
+3 - Sem prejuízo do preceituado no artigo 3.º do presente decreto-lei e com ressalva do disposto no n.º 2 do artigo 208.º do Acto Anexo ao Tratado de Adesão de Portugal às Comunidades Europeias, o acréscimo a que se refere o número anterior será de 5% ao ano a partir de 1987, relativamente a cada produto, reduzindo-se em correspondência a quota de mercado atribuída à PETROGAL - Petróleos de Portugal, E. P.
+Art. 6.º O acesso das empresas dos Estados membros da Comunidade Económica Europeia ao mercado petrolífero português fica subordinado, a partir da data de adesão de Portugal, ao preenchimento por tais empresas de condições objectivas e não discriminatórias, que terão por fim garantir a segurança do abastecimento nacional em produtos petrolíferos.
+Art. 7.º As empresas candidatas à concessão ou renovação de autorização de importação de produtos derivados do petróleo deverão apresentar no Ministério da Indústria e Comércio o respectivo processo de candidatura em termos que sirvam adequadamente as necessidades do País relativamente a esses produtos e que assegurem o equilíbrio e o desenvolvimento do sector petrolífero.
+Art. 8.º O processo de candidatura e a sua apreciação, bem como as condições referidas no artigo 6.º, serão regulamentados por portaria do Ministro da Indústria e Comércio.
+Art. 9.º Os titulares das autorizações de importação ficam obrigados a fornecer à Direcção-Geral de Energia, até ao dia 20 de cada mês, informação relativa aos preços praticados no mês anterior, e até ao dia 20 de Abril de cada ano, informação relativa ao ano anterior sobre níveis de custo, contas de exploração e balanços e meios operacionais de armazenagem, distribuição e revenda instalados em território nacional, bem como quaisquer outras informações que a Direcção-Geral de Energia solicite.
+Visto e aprovado em Conselho de Ministros de 26 de Dezembro de 1985. - Aníbal António Cavaco Silva - Fernando Augusto dos Santos Martins.
+Promulgado em 31 de Dezembro de 1985.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 31 de Dezembro de 1985.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+ANEXO
+Produtos sujeitos a autorização
+(ver documento original)
