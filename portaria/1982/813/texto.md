@@ -1,0 +1,7 @@
+Portaria n.º 813/82
+de 28 de Agosto
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelo Ministro da Agricultura, Comércio e Pescas, ao abrigo do disposto no artigo 40.º da Lei n.º 77/77, de 29 de Setembro, desanexar e transmitir o seu domínio a favor da Câmara Municipal de Beja, para urbanização da Boavista, 2,1248 ha do prédio rústico (Herdade da Quinta, Rata e Malta», artigo 8, por ter sido suprimido o artigo 1, das secções D(índice 1) e D(índice 2), da freguesia de Santa Clara do Louredo e concelho de Beja, conforme planta anexa, o qual foi expropriado pela Portaria n.º 740/75, de 13 de Dezembro.
+No acto da transmissão do terreno, a Câmara Municipal de Beja entregará nos cofres do Tesouro, como retribuição pela cessão, uma importância proporcional à indemnização provisória resultante da expropriação do prédio rústico «Herdade da Quinta, Rata e Malta», tendo em conta a parte expropriada e a parte que por esta portaria lhe é transmitida, importância que será oportunamente acrescida em proporção com o acréscimo que resultar da fixação da indemnização definitiva.
+Ministérios das Finanças e do Plano e da Agricultura, Comércio e Pescas, 2 de Agosto de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, José Cândido Sousa Carrusca Robin de Andrade, Secretário de Estado das Finanças. - O Ministro da Agricultura, Comércio e Pescas, Basílio Adolfo Mendonça Horta da Franca.
+
+(ver documento original)
