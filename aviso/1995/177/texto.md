@@ -1,0 +1,4 @@
+Aviso n.º 177/95
+Por ordem superior se torna público que se encontra concluído por ambas as partes o processo de aprovação do Protocolo Adicional ao Acordo Cultural entre o Governo da República Portuguesa e o Governo da República Federativa do Brasil que cria o Prémio Camões, assinado em Brasília em 22 de Junho de 1988, publicado no Diário da República, n.º 277, de 30 de Novembro de 1988.
+Nesta conformidade, e segundo a interpretação do disposto no parágrafo 1.º do seu artigo 15.º, foi acordado, por troca de notas entre o Ministério dos Negócios Estrangeiros da República Portuguesa e a Embaixada do Brasil em Lisboa, que o Protocolo em apreço entra em vigor em 17 de Julho de 1995.
+Direcção-Geral das Relações Bilaterais, 17 de Julho de 1995. - O Director de Serviços da América do Sul e Central, Luís Filipe de Castro Mendes.
