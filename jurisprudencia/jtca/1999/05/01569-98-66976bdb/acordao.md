@@ -1,0 +1,39 @@
+# Acórdão do Tribunal Central Administrativo Sul de 1999-05-04, processo 01569/98
+
+**Acórdãos TCAS:** Acórdão do Tribunal Central Administrativo Sul
+
+**Processo:** 01569/98
+
+**Secção:** Secção do Contencioso Tributário - Tribunal Central Administrativo
+
+**Data do Acordão:** 05/04/1999
+
+**Relator:** Jorge Lino Ribeiro Alves de Sousa
+
+**Descritores:** OPOSIÇÃO; FUNDAMENTOS; ILEGALIDADE DA LIQUIDAÇÃO; INEXISTÊNCIA DE FACTO TRIBUTÁRIO
+
+**Aditamento:** 1
+
+## Sumário
+
+I- A oposição à execução fiscal só pode ter por fundamento facto ou factos susceptíveis de
+
+serem integrados em alguma das previsões das várias alíneas do n.° l do artigo 286.° do Código de
+
+Processo Tributário.
+
+II.- Por regra, o meio próprio para discutir a legalidade concreta da liquidação da dívida exequenda é o processo de impugnação judicial.
+
+III.- Excepcionalmente, pode, nos termos da alínea g) do n.° l do artigo 286.° do Código de Processo
+
+Tributário, a ilegalidade concreta da liquidação da dívida exequenda ser fundamento de oposição à
+
+execução fiscal, sempre que a lei não assegure meio judicial de impugnação ou recurso contra o acto da liquidação.
+
+IV.- Segundo o disposto na alínea h) do n.° l do Código de Processo Tributário (correspondente à alínea g) do artigo 176.° do Código de Processo das Contribuições e Impostos), para a oposição à execução fiscal, são admissíveis quaisquer fundamentos a provar por documento, desde que não envolvam a apreciação da legalidade da liquidação da dívida exequenda, nem representem interferência em matéria de exclusiva competência da entidade que houver extraído o título executivo.
+
+V.- A não ser que só logre comprovação por documento superveniente, a alegação deinexistência de
+
+facto tributário não preenche qualquer dos fundamentos legais de oposição à execução fiscal,
+
+nomeadamente daqueles aludidos em IV.
