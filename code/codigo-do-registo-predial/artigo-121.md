@@ -1,7 +1,13 @@
 # Artigo 121.º
 
-### (Desconformidade com o título)
+### (Iniciativa)
 
-1 - A inexactidão proveniente da desconformidade com o título é rectificada oficiosamente em face dos documentos que serviram de base ao registo.
+1 - Os registos inexactos e os registos indevidamente lavrados devem ser rectificados por iniciativa do conservador logo que tome conhecimento da irregularidade, ou a pedido de qualquer interessado, ainda que não inscrito.
 
-2 - Se, porém, a rectificação puder prejudicar direitos de titulares inscritos, é necessário o consentimento de todos ou decisão judicial.
+2 - Os registos indevidamente lavrados que enfermem de nulidade nos termos da alínea b) do artigo 16.º podem ser cancelados com o consentimento dos interessados ou em execução de decisão tomada neste processo.
+
+3 - A rectificação do registo é feita, em regra, por averbamento a lavrar no termo do processo especial para esse efeito previsto neste Código.
+
+4 - Os registos nulos por violação do princípio do trato sucessivo são rectificados pela feitura do registo em falta quando não esteja registada a acção de declaração de nulidade.
+
+5 - Os registos lançados em ficha distinta daquela em que deviam ter sido lavrados são oficiosamente transcritos na ficha que lhes corresponda, anotando-se ao registo errado a sua inutilização e a indicação da ficha em que foi transcrito.
