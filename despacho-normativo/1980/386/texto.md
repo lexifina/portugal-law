@@ -1,0 +1,7 @@
+Despacho Normativo n.º 386/80
+Considerando que o Despacho Normativo n.º 146/80, de 18 de Abril, determinou que as verbas globais destinadas ao Serviço Nacional de Saúde incluídas no OGE para 1980 fossem requisitadas e geridas pelo Departamento de Gestão Financeira dos Serviços de Saúde, transitoriamente, enquanto não entrasse em funcionamento o conselho directivo da Administração Central de Saúde, previsto no artigo 35.º da Lei n.º 56/79, de 15 de Setembro;
+Considerando que se mantêm os condicionalismos legais e orgânicos que levaram a proferir o referido despacho:
+Os Ministros das Finanças e do Plano e dos Assuntos Sociais, nos termos do artigo 13.º do Decreto-Lei n.º 513-T1/79, de 27 de Dezembro, determinam:
+1 - As verbas globais destinadas ao Serviço Nacional de Saúde incluídas no OGE continuarão a ser requisitadas e geridas pelo Departamento de Gestão Financeira dos Serviços de Saúde até à entrada em funcionamento do conselho directivo da Administração Central de Saúde, previsto no artigo 35.º da Lei n.º 56/79, de 15 de Setembro.
+2 - Mantém-se a orientação definida no n.º 2 do Despacho Normativo n.º 146/80, de 18 de Abril, acerca dos orçamentos e contas que o DGFSS e os serviços ou estabelecimentos do SNS dotados de autonomia devem elaborar.
+Ministérios das Finanças e do Plano e dos Assuntos Sociais, 18 de Dezembro de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro dos Assuntos Sociais, João António Morais Leitão.
