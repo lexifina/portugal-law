@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, em 10 de Outubro de 1975, o Governo de Marrocos depositou, junto do Secretário-Geral das Nações Unidas, o instrumento de adesão à Convenção Internacional para a Repressão do Fabrico de Moeda Falsa, concluída em Genebra em 10 de Abril de 1929 (com a reserva de não se considerar especialmente vinculado pelo seu artigo 19.º), de que Portugal é já parte. Aquele instrumento diplomático entrou em vigor, com referência àquele país, em conformidade com as pertinentes disposições (cláusulas finais) do seu texto.
+Secretaria-Geral do Ministério, 7 de Novembro de 1977. - O Chefe dos Serviços Jurídicos e de Tratados, Mário d'Oliveira Neves.
