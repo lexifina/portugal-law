@@ -1,0 +1,3 @@
+Resolução n.º 41/81
+O Conselho de Ministros, reunido em 12 de Fevereiro de 1981, resolveu nomear, nos termos do n.º 1 do artigo 3.º do Decreto-Lei n.º 572/76, de 20 de Julho, para o cargo de presidente da comissão administrativa da Snab - Sociedade Nacional dos Armadores de Pesca do Bacalhau, S. A. R. L., vago por falecimento do anterior presidente, comandante Humberto das Neves Martins, o engenheiro Francisco Xavier Neuparth Mendes de Vasconcelos Guimarães, que exercia funções como vogal da referida comissão administrativa.
+Presidência do Conselho de Ministros, 12 de Fevereiro de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
