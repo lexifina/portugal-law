@@ -1,0 +1,5 @@
+Resolução n.º 68/81
+A Resolução do Conselho de Ministros n.º 363-A/79, publicada no Diário da República, 1.ª série, n.º 299, de 29 de Dezembro de 1979, determinou a cessação da intervenção do Estado na sociedade Álvaro Calhau Rolim, Lda., tendo os prazos fixados nos seus n.os 4 e 7 sido prorrogados até 31 de Dezembro de 1980, através da Resolução n.º 277/80, publicada no Diário da República, 1.ª série, n.º 181, de 7 de Agosto de 1980.
+Não foi ainda possível à sociedade concluir os trabalhos de contabilidade complementares para a elaboração do contrato de viabilização e necessita que lhe seja proporcionada a concessão das moratórias previstas na resolução que a desintervencionou, para que se torne possível um total aproveitamento das suas potencialidades, com vista à sua recuperação económica e financeira.
+Assim, o Conselho de Ministros, reunido em 17 de Março de 1981, resolveu prorrogar até 30 de Junho de 1981 os prazos fixados nos n.os 4 e 7 da Resolução n.º 363-A/79, publicada no Diário da República, 1.ª série, de 29 de Dezembro de 1979.
+Presidência do Conselho de Ministros, 17 de Março de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
