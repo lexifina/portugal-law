@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, em 8 de Julho de 1980, o Governo do Togo depositou, junto do Secretário-Geral das Nações Unidas, o instrumento de adesão à Convenção Suplementar Relativa à Abolição da Escravatura, do Tráfico de Escravos e das Instituições e Práticas Análogas, assinada em Genebra em 7 de Setembro de 1956, de que Portugal já é parte. Aquele instrumento diplomático entrou em vigor, com referência àquele país, em 8 de Julho de 1980, isto é, no próprio dia em que teve lugar o depósito do referido instrumento de adesão.
+Secretaria-Geral do Ministério, 4 de Setembro de 1980. - O Chefe dos Serviços Jurídicos e de Tratados, Rui Eduardo Barbosa de Medina.
