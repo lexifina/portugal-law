@@ -1,0 +1,28 @@
+Portaria n.º 766/94
+de 23 de Agosto
+Na área de Pedras Salgadas ocorrem formações graníticas de reconhecida qualidade com interesse como rocha ornamental, conforme foi demonstrado pelo levantamento geológico efectuado pelo Instituto Geológico e Mineiro. Essas formações têm relevante interesse para a economia regional, provado pelo elevado número de pedreiras em actividade.
+Considerando que o aproveitamento deste tipo de recurso não renovável é importante para a economia nacional e está directamente ligado ao modo como é desmontado, tornando-se necessário para garantir a maximização desse aproveitamento impor condições especiais para a sua exploração;
+Considerando que na referida área deve ser minimizada, de forma contínua, a agressão paisagística, garantida a integração no ambiente das áreas trabalhadas e acautelados os recursos hidrogeológicos existentes nas proximidades:
+Ao abrigo do disposto no artigo 3.º do Decreto-Lei n.º 89/90, de 16 de Março:
+Manda o Governo, pelo Ministro da Indústria e Energia, o seguinte:
+1.º É declarada cativa, ressalvados os direitos adquiridos, para efeitos de exploração de granitos, a área constante do mapa publicado em anexo, delimitada pela poligonal cujas coordenadas dos vértices, no sistema Hayford-Gauss, referidas ao ponto central, são as seguintes:
+(ver documento original)
+2.º As licenças de estabelecimento, a atribuir pela Delegação Regional da Indústria e Energia do Norte, para exploração de granitos no interior da área referida no número anterior, devem obedecer aos seguintes condicionalismos:
+a) Ter como objectivo principal a exploração de granitos para fins ornamentais;
+b) Os interessados, ao requererem a licença, devem apresentar o seguinte:
+i) Um plano de lavra e programa de trabalhos detalhados que mostrem claramente o máximo aproveitamento do recurso, nomeadamente a utilização dos resíduos da exploração;
+ii) Um estudo técnico-económico do empreendimento;
+iii) O estudo de impacte ambiental a que se refere o n.º 6 do artigo 18.º do Decreto-Lei n.º 89/90, de 16 de Março;
+iv) A indicação do director técnico, responsável pela condução dos trabalhos, o qual deverá ser licenciado em Engenharia de Minas;
+c) A área da pedreira não pode ser inferior a 5 ha, devendo o explorador dispor de áreas adequadas para a deposição e conservação das terras de cobertura a repor à medida que avance a exploração, bem como para o armazenamento dos produtos da exploração e para a implantação dos anexos da pedreira;
+d) A exploração deve ser conduzida com respeito pelas regras da arte mineira, de acordo com o plano de lavra e programa de trabalhos aprovados pela Delegação Regional da Indústria e Energia do Norte, respeitando a restante legislação aplicável.
+3.º - a) Para além dos encargos tributários legais, os exploradores de novas unidades de produção pagarão ao Instituto Geológico e Mineiro, como compensação pelos trabalhos de prospecção e pesquisa efectuados pelo mesmo Instituto e que conduziram à valorização da área, a contribuição anual de 5$00 por metro quadrado de área licenciada.
+b) A contribuição referida na alínea anterior é paga antecipadamente, a solicitação do Instituto Geológico e Mineiro, considerando-se, no 1.º ano de vigência da licença, que as importâncias a pagar serão proporcionais ao número de meses restantes daquele ano civil, contados a partir da emissão da licença, não sendo reembolsáveis os pagamentos efectuados se, por qualquer causa, se verificar a extinção da licença.
+4.º - a) O explorador prestará uma caução, de montante a definir, caso a caso, pela Delegação Regional da Indústria e Energia do Norte, de valor não inferior a 2000000$00, que vigorará durante o tempo da exploração e será cobrada, total ou parcialmente, por aquela Delegação Regional, consoante a gravidade, nos casos em que a mesma verifique haver violação do disposto nesta portaria.
+b) Verificando-se a cobrança total ou parcial referida na alínea anterior, o explorador deverá, no prazo de 30 dias, repor o valor inicial da caução.
+c) O não cumprimento, pelo explorador, do disposto nas alíneas a) e b) pode determinar a revogação da licença.
+Ministério da Indústria e Energia.
+Assinada em 15 de Julho de 1994.
+Pelo Ministro da Indústria e Energia, Luís Filipe Alves Monteiro, Secretário de Estado da Indústria.
+
+(ver documento original)
