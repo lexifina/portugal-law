@@ -1,0 +1,3 @@
+Despacho
+Tendo-se deixado de manifestar a necessidade de autorização especial e prévia do Banco de Portugal para a liquidação de operações de invisíveis correntes de valor superior a 500000$00, correspondente a pagamentos a efectuar a residentes no continente e ilhas ou a residentes no estrangeiro que se encontrem temporariamente em Portugal, fica revogado, a partir desta data, o disposto na alínea b) do n.º 1 do despacho ministerial de 2 de Abril de 1973, publicado no Diário do Governo, 1.ª série, n.º 85, de 10 do mesmo mês e ano.
+Secretaria de Estado do Tesouro, 27 de Agosto de 1976. - O Secretário de Estado do Tesouro, António Carlos Feio Palmeiro Ribeiro.
