@@ -1,0 +1,7 @@
+Despacho Normativo n.º 36/79
+Havendo necessidade de esclarecer o alcance do regime de preços declarados, previsto na alínea c) do n.º 1 do artigo 1.º do Decreto-Lei n.º 329-A/74, de 10 de Julho, e no artigo 3.º do Decreto-Lei n.º 75-Q/77, de 28 de Fevereiro, e de adoptar um procedimento a observar uniformemente pelas empresas destinatárias daqueles preceitos legais;
+Ao abrigo do disposto no artigo 10.º do citado Decreto-Lei n.º 75-Q/77, determino o seguinte:
+1 - As empresas produtoras ou importadoras que, findo o ano económico, passem a estar sujeitas ao regime de preços declarados, por força do estabelecido no artigo 4.º do Decreto-Lei n.º 75-Q/77, ficam obrigadas a declarar os preços em vigor em 31 de Dezembro dos bens ou serviços que, em função do volume de facturação bruta realizada durante esse ano económico, ficaram sujeitos ao referido regime.
+2 - A declaração deverá ser feita até 31 de Março seguinte, mediante carta registada com aviso de recepção enviada para as Direcções-Gerais do Comércio Alimentar ou do Comércio não Alimentar, consoante a natureza dos bens e serviços.
+3 - No ano em curso, a declaração dos preços praticados em 31 de Dezembro de 1978 deverá ser enviada no prazo de sessenta dias contados a partir da data da publicação do presente despacho.
+Ministério do Comércio e Turismo, 31 de Janeiro de 1979. - O Ministro do Comércio e Turismo, Abel Pinto Repolho Correia.
