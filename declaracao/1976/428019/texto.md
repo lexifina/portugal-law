@@ -1,0 +1,4 @@
+Declaração
+Declara-se, para os devidos efeitos, que o Decreto-Lei n.º 289/76, publicado no Diário da República, 1.ª série, n.º 95, de 22 de Abril de 1976, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No artigo 17.º, n.º 1, onde se lê: «O financiamento da constituição de existências no estrangeiro será efectuado mediante prova documental da exportação dos bens e do seu recebimento pela entidade encarregada da sua conservação, a qual será considerada, ...», deve ler-se: «O financiamento da constituição de existências no estrangeiro será efectuado mediante prova documental da exportação dos bens e do seu recebimento pela entidade encarregada da sua guarda e conservação, a qual será considerada, ...»
+Secretaria-Geral da Presidência do Conselho de Ministros, 3 de Maio de 1976. - O Secretário-Geral, Manuel Roque.
