@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que, conforme comunicação da Direcção-Geral da F. A. O. ao Ministério dos Negócios Estrangeiros, o Governo de Malta foi admitido como membro da Organização das Nações Unidas para a Alimentação e Agricultura (F. A. O.), com efeito a partir de 5 de Outubro de 1964, data em que depositou junto da Direcção-Geral do referido organismo internacional o instrumento em que declarava o desejo de o seu país passar de membro associado a membro de pleno direito.
+Direcção-Geral dos Negócios Económicos e Consulares, 26 de Janeiro de 1965. - O Director-Geral, José Calvet de Magalhães.
