@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que o Governo do Japão depositou junto do Secretário-Geral das Nações Unidas a notificação de aceitação do Acordo Internacional do Café, 1983, tal como foi prorrogado pela Resolução n.º 347, de 3 de Julho de 1989.
+Também o Governo do Congo depositou o instrumento de adesão, em 3 de Julho de 1990, tal como prorrogado pela mesma resolução e declarou que se comprometia a assumir todas as suas obrigações anteriores por virtude do Acordo, com efeitos retroactivos desde 1 de Outubro de 1989.
+Igualmente o Governo Austríaco depositou o instrumento de adesão ao Acordo tal como prorrogado, em 7 de Junho de 1990, e em conformidade com o § 7 da Resolução n.º 347 do Conselho Internacional do Café aquele Governo compromete-se a assumir todas as obrigações anteriores nos termos do Acordo, com efeitos retroactivos desde 1 de Outubro de 1989.
+Direcção-Geral dos Negócios Político-Económicos, 19 de Outubro de 1990. - O Director de Serviços dos Assuntos Multilaterais, José Tadeu Soares.
