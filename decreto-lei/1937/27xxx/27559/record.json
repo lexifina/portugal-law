@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1937/03/05800/02080209.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1937-03-11",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "7ce737265e97c5a0e7f881ac1c7e85af6150a83f26ddff152e683882adcf0337",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.5,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "fd604e283369b7f137888b99fdad943fb6879f0c159b49e45d95a413555185e7",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 700
 }
