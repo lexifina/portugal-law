@@ -25,3 +25,5 @@ d) Pessoas com deficiência.
 5 - Os apoios e prémio concedidos nos termos deste número implicam a obrigatoriedade de criação líquida e de manutenção dos postos de trabalho durante o período mínimo de três anos.
 
 6 - É ainda atribuído um prémio de igualdade de oportunidades, no valor de 10% da totalidade dos apoios concedidos, a título de subsídio a fundo perdido, ao abrigo do n.º 1, quando haja lugar à criação de um mínimo de cinco postos de trabalho e os mesmos não sejam preenchidos por mais de 60% de pessoas do mesmo sexo.
+
+7 - A criação de postos de trabalho apenas é apoiada, no âmbito do presente diploma, até ao limite de 10 desempregados por cada uma das pessoas, singulares ou colectivas, referidas no n.º 1.
