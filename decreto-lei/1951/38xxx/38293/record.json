@@ -17,9 +17,23 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1951/06/11600/04010403.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1951-06-09",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "c2e87d8fe2e1a2a034b40171bd9eeb90f427adb190d1edc0d75500c9a740a4f2",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.1,
+    "pages": 3,
+    "columns": [
+      3,
+      3,
+      3
+    ],
+    "pdf_sha256": "1f49aa715b3006e97de53bb39a431256b58427bd9c3b26a97804f0630ded1513",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 2501
 }
