@@ -1,0 +1,9 @@
+Decreto-Lei n.º 43520
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Nos termos do n.º 1.º do artigo 69.º do Decreto n.º 38969, de 27 de Outubro de 1952, é autorizado o Governo, pelo Ministro da Educação Nacional, a aceitar dos beneméritos engenheiro agrónomo Cândido Pedro da Silva Duarte e D. Cibele Martins Gomes Duarte a importância de 250000$00 para fundo de manutenção da Cantina Escolar Professor Cândido Duarte, anexa às escolas n.os 124 e 127, do Bairro de Santa Cruz de Benfica, 28.ª zona escolar da cidade de Lisboa.
+Art. 2.º A administração da Cantina é autónoma e atribuída a uma comissão de, pelo menos, três membros, nomeada pelo Ministro da Educação Nacional, da qual farão parte dois agentes de ensino e, como presidente, um dos beneméritos ou seu representante.
+Art. 3.º Aos doadores é reservado o privilégio de indicar dois professores para o preenchimento de vagas existentes nas escolas beneficiadas pela Cantina ou que nas mesmas escolas venham a verificar-se durante o prazo de dez anos, após a publicação do presente diploma.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 28 de Fevereiro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paulo Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
+
+Para ser presente à Assembleia Nacional.
