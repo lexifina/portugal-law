@@ -1,0 +1,9 @@
+Portaria n.º 18128
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
+1.º Nos termos do artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, conjugado com a alínea e) do seu artigo 3.º, com a nova redacção que lhe foi dada pelo artigo 4.º do Decreto n.º 40712, de 1 de Agosto de 1956, abrir em Moçambique os créditos especiais que se indicam, com contrapartida no excesso de cobrança sobre a previsão da verba do capítulo 1.º, artigo 2.º, alínea a) «Impostos directos gerais - Contribuição predial - Urbana», do orçamento da receita ordinária para o corrente ano:
+a) Um de 882765$20, destinado a reforçar a verba do capítulo 4.º, artigo 76.º, n.º 1), alínea a) «Administração civil - Diversos encargos - Encargos administrativos - Para remuneração às autoridades gentílicas - Remunerações certas, nos termos da Portaria n.º 10836, de 26 de Fevereiro de 1955», da tabela de despesa ordinária do mesmo orçamento;
+b) Um de 300000$00, para reforçar a verba do capítulo 7.º, artigo 1064.º, n.º 1) «Serviços de obras publicas - Despesas com o material - Construções e obras novas - Edifícios», da tabela de despesa ordinária do referido orçamento.
+2.º Nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar com a quantia de 70000$00 a verba do capítulo 10.º, artigo 220.º, n.º 4), alínea b), 1.ª «Encargos gerais - Deslocações do pessoal - Passagens de ou para o exterior - Por quaisquer outros motivos - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral de Macau para o corrente ano, tomando como contrapartida as disponibilidades existentes na verba do mesmo capítulo, artigo 222.º «Saldo orçamental», da referida tabela de despesa.
+Ministério do Ultramar, 17 de Dezembro de 1960. - Pelo Ministro do Ultramar, Adriano José Alves Moreira, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Moçambique e Macau. - A. Moreira.
