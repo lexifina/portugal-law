@@ -1,0 +1,9 @@
+Decreto-Lei n.º 45891
+1. Nos termos do Decreto n.º 39550, de 26 de Fevereiro de 1954, e dos artigos 1.º e 6.º do Decreto-Lei n.º 40872, de 23 de Novembro de 1956, vem sendo atribuído, respectivamente, aos tesoureiros dos comandos distritais da Polícia de Segurança Pública de Lisboa e do Porto um abono para falhas.
+2. Parece justo que ao tesoureiro do conselho administrativo dos Serviços Sociais da Corporação, criado pelo artigo 15.º do Decreto-Lei n.º 42794, de 31 de Dezembro de 1959, seja também atribuído um abono para falhas de quantitativo aproximado ao que vêm percebendo os referidos tesoureiros, uma vez que aquele conselho centraliza toda a actividade administrativa no domínio social da Polícia de Segurança Pública.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. Ao tesoureiro do conselho administrativo dos Serviços Sociais da Polícia de Segurança Pública é atribuído um abono para falhas no montante mensal de 300$00.
+§ único. O abono a que se refere o corpo deste artigo é devido desde 1 de Janeiro de 1964.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 26 de Agosto de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
