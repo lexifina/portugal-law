@@ -1,0 +1,759 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "14",
+    "id": "27937",
+    "titulo": "Constituição de uma comissão eventual de inquérito para continuar e averiguar, por forma  cabal, as causas e circunstâncias em que ocorreu a tragédia que vitimou, em 4 de Dezembro de 1980, o Sr. Primeiro Ministro Dr. Francisco Sá Carneiro, o Sr. Ministro da Defesa Nacional Engº Adelino Amaro da Costa e seus acompanhantes (Camarate)"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "1988-07-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3940",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "1988-07-06",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1988-07-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:50",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214104",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4564-4564",
+                  "4564-4564"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-07",
+                "pubLeg": "V",
+                "pubNr": "112",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/112/1988-07-07/4564?pgs=4564,4564&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão eventual de inquérito para continuar e averiguar, por forma  cabal, as causas e circunstâncias em que ocorreu a tragédia que vitimou, em 4 de Dezembro de 1980, o Sr. Primeiro Ministro Dr. Francisco Sá Carneiro, o Sr. Ministro da Defesa Nacional Engº Adelino Amaro da Costa e seus acompanhantes (Camarate).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:50",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214105",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4564-4565",
+                  "4565-4565"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-07",
+                "pubLeg": "V",
+                "pubNr": "112",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/112/1988-07-07/4564?pgs=4564-4565,4565&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão eventual de inquérito para continuar e averiguar, por forma  cabal, as causas e circunstâncias em que ocorreu a tragédia que vitimou, em 4 de Dezembro de 1980, o Sr. Primeiro Ministro Dr. Francisco Sá Carneiro, o Sr. Ministro da Defesa Nacional Engº Adelino Amaro da Costa e seus acompanhantes (Camarate).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:50",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214106",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4565-4566"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-07",
+                "pubLeg": "V",
+                "pubNr": "112",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/112/1988-07-07/4565?pgs=4565-4566&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão eventual de inquérito para continuar e averiguar, por forma  cabal, as causas e circunstâncias em que ocorreu a tragédia que vitimou, em 4 de Dezembro de 1980, o Sr. Primeiro Ministro Dr. Francisco Sá Carneiro, o Sr. Ministro da Defesa Nacional Engº Adelino Amaro da Costa e seus acompanhantes (Camarate).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:50",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214107",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4566-4567",
+                  "4567-4568"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-07",
+                "pubLeg": "V",
+                "pubNr": "112",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/112/1988-07-07/4566?pgs=4566-4567,4567-4568&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão eventual de inquérito para continuar e averiguar, por forma  cabal, as causas e circunstâncias em que ocorreu a tragédia que vitimou, em 4 de Dezembro de 1980, o Sr. Primeiro Ministro Dr. Francisco Sá Carneiro, o Sr. Ministro da Defesa Nacional Engº Adelino Amaro da Costa e seus acompanhantes (Camarate).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:50",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214108",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4567-4567",
+                  "4568-4568"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-07",
+                "pubLeg": "V",
+                "pubNr": "112",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/112/1988-07-07/4567?pgs=4567,4568&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão eventual de inquérito para continuar e averiguar, por forma  cabal, as causas e circunstâncias em que ocorreu a tragédia que vitimou, em 4 de Dezembro de 1980, o Sr. Primeiro Ministro Dr. Francisco Sá Carneiro, o Sr. Ministro da Defesa Nacional Engº Adelino Amaro da Costa e seus acompanhantes (Camarate).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:50",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214109",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4568-4568"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-07",
+                "pubLeg": "V",
+                "pubNr": "112",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/112/1988-07-07/4568?pgs=4568&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão eventual de inquérito para continuar e averiguar, por forma  cabal, as causas e circunstâncias em que ocorreu a tragédia que vitimou, em 4 de Dezembro de 1980, o Sr. Primeiro Ministro Dr. Francisco Sá Carneiro, o Sr. Ministro da Defesa Nacional Engº Adelino Amaro da Costa e seus acompanhantes (Camarate).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:50",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214110",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4568-4569"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-07",
+                "pubLeg": "V",
+                "pubNr": "112",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/112/1988-07-07/4568?pgs=4568-4569&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão eventual de inquérito para continuar e averiguar, por forma  cabal, as causas e circunstâncias em que ocorreu a tragédia que vitimou, em 4 de Dezembro de 1980, o Sr. Primeiro Ministro Dr. Francisco Sá Carneiro, o Sr. Ministro da Defesa Nacional Engº Adelino Amaro da Costa e seus acompanhantes (Camarate).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:50",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214111",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4569-4569",
+                  "4570-4571"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-07",
+                "pubLeg": "V",
+                "pubNr": "112",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/112/1988-07-07/4569?pgs=4569,4570-4571&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão eventual de inquérito para continuar e averiguar, por forma  cabal, as causas e circunstâncias em que ocorreu a tragédia que vitimou, em 4 de Dezembro de 1980, o Sr. Primeiro Ministro Dr. Francisco Sá Carneiro, o Sr. Ministro da Defesa Nacional Engº Adelino Amaro da Costa e seus acompanhantes (Camarate).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:50",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214112",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4569-4570"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-07",
+                "pubLeg": "V",
+                "pubNr": "112",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/112/1988-07-07/4569?pgs=4569-4570&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão eventual de inquérito para continuar e averiguar, por forma  cabal, as causas e circunstâncias em que ocorreu a tragédia que vitimou, em 4 de Dezembro de 1980, o Sr. Primeiro Ministro Dr. Francisco Sá Carneiro, o Sr. Ministro da Defesa Nacional Engº Adelino Amaro da Costa e seus acompanhantes (Camarate).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:50",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214113",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4571-4571"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-07",
+                "pubLeg": "V",
+                "pubNr": "112",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/112/1988-07-07/4571?pgs=4571&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão eventual de inquérito para continuar e averiguar, por forma  cabal, as causas e circunstâncias em que ocorreu a tragédia que vitimou, em 4 de Dezembro de 1980, o Sr. Primeiro Ministro Dr. Francisco Sá Carneiro, o Sr. Ministro da Defesa Nacional Engº Adelino Amaro da Costa e seus acompanhantes (Camarate).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:50",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214114",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4571-4571"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-07",
+                "pubLeg": "V",
+                "pubNr": "112",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/112/1988-07-07/4571?pgs=4571&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão eventual de inquérito para continuar e averiguar, por forma  cabal, as causas e circunstâncias em que ocorreu a tragédia que vitimou, em 4 de Dezembro de 1980, o Sr. Primeiro Ministro Dr. Francisco Sá Carneiro, o Sr. Ministro da Defesa Nacional Engº Adelino Amaro da Costa e seus acompanhantes (Camarate).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:50",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214115",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4571-4571"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-07",
+                "pubLeg": "V",
+                "pubNr": "112",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/112/1988-07-07/4571?pgs=4571&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão eventual de inquérito para continuar e averiguar, por forma  cabal, as causas e circunstâncias em que ocorreu a tragédia que vitimou, em 4 de Dezembro de 1980, o Sr. Primeiro Ministro Dr. Francisco Sá Carneiro, o Sr. Ministro da Defesa Nacional Engº Adelino Amaro da Costa e seus acompanhantes (Camarate).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:50",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214116",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4572-4572",
+                  "4572-4572"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-07",
+                "pubLeg": "V",
+                "pubNr": "112",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/112/1988-07-07/4572?pgs=4572,4572&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão eventual de inquérito para continuar e averiguar, por forma  cabal, as causas e circunstâncias em que ocorreu a tragédia que vitimou, em 4 de Dezembro de 1980, o Sr. Primeiro Ministro Dr. Francisco Sá Carneiro, o Sr. Ministro da Defesa Nacional Engº Adelino Amaro da Costa e seus acompanhantes (Camarate).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:50",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214117",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4572-4572"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-07",
+                "pubLeg": "V",
+                "pubNr": "112",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/112/1988-07-07/4572?pgs=4572&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão eventual de inquérito para continuar e averiguar, por forma  cabal, as causas e circunstâncias em que ocorreu a tragédia que vitimou, em 4 de Dezembro de 1980, o Sr. Primeiro Ministro Dr. Francisco Sá Carneiro, o Sr. Ministro da Defesa Nacional Engº Adelino Amaro da Costa e seus acompanhantes (Camarate).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:50",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214118",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4572-4572",
+                  "4573-4573"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-07",
+                "pubLeg": "V",
+                "pubNr": "112",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/112/1988-07-07/4572?pgs=4572,4573&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão eventual de inquérito para continuar e averiguar, por forma  cabal, as causas e circunstâncias em que ocorreu a tragédia que vitimou, em 4 de Dezembro de 1980, o Sr. Primeiro Ministro Dr. Francisco Sá Carneiro, o Sr. Ministro da Defesa Nacional Engº Adelino Amaro da Costa e seus acompanhantes (Camarate).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:50",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214119",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4573-4573"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-07",
+                "pubLeg": "V",
+                "pubNr": "112",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/112/1988-07-07/4573?pgs=4573&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão eventual de inquérito para continuar e averiguar, por forma  cabal, as causas e circunstâncias em que ocorreu a tragédia que vitimou, em 4 de Dezembro de 1980, o Sr. Primeiro Ministro Dr. Francisco Sá Carneiro, o Sr. Ministro da Defesa Nacional Engº Adelino Amaro da Costa e seus acompanhantes (Camarate).",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "214055",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "3940",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-07-07",
+        "pubLeg": "V",
+        "pubNr": "112",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/112/1988-07-07?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
