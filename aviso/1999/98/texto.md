@@ -1,0 +1,6 @@
+Aviso n.º 98/99
+Por ordem superior se torna público que, por nota de 4 de Fevereiro de 1999, o Secretariado da Convenção sobre o Comércio Internacional das Espécies de Fauna e Flora Selvagens Ameaçadas de Extinção (CITES), assinada em Washington em 3 de Março de 1973, comunicou ter o Governo de Portugal declarado que a Convenção tinha sido estendida ao território de Macau, com efeitos a partir de 22 de Abril de 1987; comunicou ainda, por nota de 16 de Julho de 1999, ter o Governo de Portugal notificado que a autoridade do território de Macau designada para dar cumprimento às obrigações impostas pela Convenção, nos termos do seu artigo IX, é a seguinte:
+Direcção dos Serviços de Economia, Rua do Dr. Pedro José Lobo, 1-3, Edifício Luso-Internacional, 6.º e 7.º, Macau [telefone: (853) 562622/fax: (853) 590310].
+Portugal é parte na Convenção, que foi aprovada, para ratificação, pelo Decreto n.º 50/80, de 23 de Julho, publicado no Diário da República, 1.ª série, n.º 168, de 23 de Julho de 1980, e a extensão a Macau foi publicada no suplemento ao Boletim Oficial de Macau, n.º 8, de 22 de Fevereiro de 1986.
+Para ser publicado no Boletim Oficial de Macau.
+Comissão Interministerial sobre Macau, 20 de Julho de 1999. - António Nunes de Carvalho Santana Carlos.
