@@ -1,6 +1,6 @@
 ## Secção II
 
-## Conselho fiscal
+## Fiscalização
 
 # Artigo 413.º
 
