@@ -1,0 +1,855 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "324",
+    "id": "5852",
+    "titulo": "Alteração do Decreto-lei nº 64-A/89 de 27 de Fevereiro (contrato de trabalho a termo)."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2001-01-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1577",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2001-01-17",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "5865",
+        "leg": "VIII",
+        "nr": "317",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "479",
+            "obs": null,
+            "pag": [
+              "1503-1522"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-01-18",
+            "pubLeg": "VIII",
+            "pubNr": "37",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/037/2001-01-18/1503?pgs=1503-1522&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "479",
+            "obs": null,
+            "pag": [
+              "1503-1522"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-01-18",
+            "pubLeg": "VIII",
+            "pubNr": "37",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/037/2001-01-18/1503?pgs=1503-1522&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Altera o regime jurídico do contrato de trabalho a termo combatendo a precariedade no emprego."
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "5809",
+        "leg": "VIII",
+        "nr": "342",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "479",
+            "obs": null,
+            "pag": [
+              "1503-1522"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-01-18",
+            "pubLeg": "VIII",
+            "pubNr": "37",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/037/2001-01-18/1503?pgs=1503-1522&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "479",
+            "obs": null,
+            "pag": [
+              "1503-1522"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-01-18",
+            "pubLeg": "VIII",
+            "pubNr": "37",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/037/2001-01-18/1503?pgs=1503-1522&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Altera o regime jurídico do contrato de trabalho a termo."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-01-17",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "761",
+                "nome": "Alexandrino Saldanha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135805",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1503-1508"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/037/2001-01-18/1503?pgs=1503-1508&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O REGIME JURIDICO DO CONTRATO DE TRABALHO A TERMO COMBATENDO A PRECARIEDADE NO EMPREGO; LTERACAO DO DECRETO-LEI N.64-A/89 DE 27 DE FEVEREIRO(CONTRATO DE TRABALHO A TERMO); ALTERA O REGIME JURIDICO DO CONTRATO DE TRABALHO A TERMO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1022",
+                "nome": "Eugénio Marinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135806",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/037/2001-01-18?org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O REGIME JURIDICO DO CONTRATO DE TRABALHO A TERMO COMBATENDO A PRECARIEDADE NO EMPREGO; LTERACAO DO DECRETO-LEI N.64-A/89 DE 27 DE FEVEREIRO(CONTRATO DE TRABALHO A TERMO); ALTERA O REGIME JURIDICO DO CONTRATO DE TRABALHO A TERMO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135807",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1506-1507",
+                  "1510-1510",
+                  "1514-1514"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/037/2001-01-18/1506?pgs=1506-1507,1510,1514&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O REGIME JURIDICO DO CONTRATO DE TRABALHO A TERMO COMBATENDO A PRECARIEDADE NO EMPREGO; ALTERACAO DO DECRETO-LEI N.64-A/89 DE 27 DE FEVEREIRO(CONTRATO DE TRABALHO A TERMO); ALTERA O REGIME JURIDICO DO CONTRATO DE TRABALHO A TERMO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1603",
+                "nome": "Carlos Alberto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135808",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1506-1506"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/037/2001-01-18/1506?pgs=1506&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O REGIME JURIDICO DO CONTRATO DE TRABALHO A TERMO COMBATENDO A PRECARIEDADE NO EMPREGO;ALTERACAO DO DECRETO-LEI N.64-A/89 DE 27 DE FEVEREIRO(CONTRATO DE TRABALHO A TERMO); ALTERA O REGIME JURIDICO DO CONTRATO DE TRABALHO A TERMO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135809",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1508-1509",
+                  "1511-1512"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/037/2001-01-18/1508?pgs=1508-1509,1511-1512&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O REGIME JURIDICO DO CONTRATO DE TRABALHO A TERMO COMBATENDO A PRECARIEDADE NO EMPREGO; ALTERACAO DO DECRETO-LEI N.64-A/89 DE 27 DE FEVEREIRO(CONTRATO DE TRABALHO A TERMO); ALTERA O REGIME JURIDICO DO CONTRATO DE TRABALHO A TERMO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1631",
+                "nome": "Custódia Fernandes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135811",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1509-1510"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/037/2001-01-18/1509?pgs=1509-1510&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O REGIME JURIDICO DO CONTRATO DE TRABALHO A TERMO COMBATENDO A PRECARIEDADE NO EMPREGO; LTERACAO DO DECRETO-LEI N.64-A/89 DE 27 DE FEVEREIRO(CONTRATO DE TRABALHO A TERMO); ALTERA O REGIME JURIDICO DO CONTRATO DE TRABALHO A TERMO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1158",
+                "nome": "Barbosa de Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135812",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1512-1513",
+                  "1515-1516"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/037/2001-01-18/1512?pgs=1512-1513,1515-1516&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O REGIME JURIDICO DO CONTRATO DE TRABALHO A TERMO COMBATENDO A PRECARIEDADE NO EMPREGO; LTERACAO DO DECRETO-LEI N.64-A/89 DE 27 DE FEVEREIRO(CONTRATO DE TRABALHO A TERMO); ALTERA O REGIME JURIDICO DO CONTRATO DE TRABALHO A TERMO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135813",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1513-1514"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/037/2001-01-18/1513?pgs=1513-1514&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O REGIME JURIDICO DO CONTRATO DE TRABALHO A TERMO COMBATENDO A PRECARIEDADE NO EMPREGO; LTERACAO DO DECRETO-LEI N.64-A/89 DE 27 DE FEVEREIRO(CONTRATO DE TRABALHO A TERMO); ALTERA O REGIME JURIDICO DO CONTRATO DE TRABALHO A TERMO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1102",
+                "nome": "Pedro Mota Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135814",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1515-1515"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/037/2001-01-18/1515?pgs=1515&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O REGIME JURIDICO DO CONTRATO DE TRABALHO A TERMO COMBATENDO A PRECARIEDADE NO EMPREGO; LTERACAO DO DECRETO-LEI N.64-A/89 DE 27 DE FEVEREIRO(CONTRATO DE TRABALHO A TERMO); ALTERA O REGIME JURIDICO DO CONTRATO DE TRABALHO A TERMO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1022",
+                "nome": "Eugénio Marinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135815",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1516-1518"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/037/2001-01-18/1516?pgs=1516-1518&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O REGIME JURIDICO DO CONTRATO DE TRABALHO A TERMO COMBATENDO A PRECARIEDADE NO EMPREGO; LTERACAO DO DECRETO-LEI N.64-A/89 DE 27 DE FEVEREIRO(CONTRATO DE TRABALHO A TERMO); ALTERA O REGIME JURIDICO DO CONTRATO DE TRABALHO A TERMO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1570",
+                "nome": "Ricardo Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135816",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1517-1517"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/037/2001-01-18/1517?pgs=1517&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O REGIME JURIDICO DO CONTRATO DE TRABALHO A TERMO COMBATENDO A PRECARIEDADE NO EMPREGO; LTERACAO DO DECRETO-LEI N.64-A/89 DE 27 DE FEVEREIRO(CONTRATO DE TRABALHO A TERMO); ALTERA O REGIME JURIDICO DO CONTRATO DE TRABALHO A TERMO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  TRABALHO E FORMAÇÃO",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Paulo Pedroso"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135817",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1518-1522"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/037/2001-01-18/1518?pgs=1518-1522&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O REGIME JURIDICO DO CONTRATO DE TRABALHO A TERMO COMBATENDO A PRECARIEDADE NO EMPREGO; LTERACAO DO DECRETO-LEI N.64-A/89 DE 27 DE FEVEREIRO(CONTRATO DE TRABALHO A TERMO); ALTERA O REGIME JURIDICO DO CONTRATO DE TRABALHO A TERMO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135818",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1520-1521"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/037/2001-01-18/1520?pgs=1520-1521&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O REGIME JURIDICO DO CONTRATO DE TRABALHO A TERMO COMBATENDO A PRECARIEDADE NO EMPREGO; LTERACAO DO DECRETO-LEI N.64-A/89 DE 27 DE FEVEREIRO(CONTRATO DE TRABALHO A TERMO); ALTERA O REGIME JURIDICO DO CONTRATO DE TRABALHO A TERMO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "761",
+                "nome": "Alexandrino Saldanha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135819",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1521-1521"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-18",
+                "pubLeg": "VIII",
+                "pubNr": "37",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/037/2001-01-18/1521?pgs=1521&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O REGIME JURIDICO DO CONTRATO DE TRABALHO A TERMO COMBATENDO A PRECARIEDADE NO EMPREGO; LTERACAO DO DECRETO-LEI N.64-A/89 DE 27 DE FEVEREIRO(CONTRATO DE TRABALHO A TERMO); ALTERA O REGIME JURIDICO DO CONTRATO DE TRABALHO A TERMO",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "104442",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "110732",
+        "obs": null,
+        "pag": [
+          "1503--1522"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-01-18",
+        "pubLeg": "VIII",
+        "pubNr": "37",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/037/2001-01-18/1503?pgs=1503--1522&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
