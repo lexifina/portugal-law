@@ -1,0 +1,75 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=PBkwpL41wDMtm1%2fRHQFlfXf0W70DWilLsAHN6drvkzKo3cZ9uIMx4nh1TzyQ94xqnIdtbfr%2f5zokR%2f%2bcW2lGITQVzoLCr9LC%2flZ%2fR%2b1dsjZbWWEFn5g%2bUwZ%2fP%2b1Gfr10UVFklLXNoYo%2fWj1LpTr0clw7mkBlujwrcGOOd8ghPuAiQS1T3m6E8UDBWFVgqrSPXawWetk%2fk2YRcd%2f540gcxvCJepJonGZRnuYRqZqpP80BcexgoWp6PyQaGQmnMafJ34Ia29qHU4BAV%2fCW2SVEeyQH1JJ17VanQovGsYV%2fZpBJskbwl14Ae2kbSjGcHGuP9%2bwZhMbENgP9jd%2fv533ZsqtTvA49b9RFiy%2f%2bgMkKT4XwN3zeuCvsznOd1izjO52I&fich=IntervencoesII_json.txt&Inline=true",
+  "ficheiro_sha256": "3fe2045aaa5524cc595a2e82a40703e1001f17d7a6df4bfad67488994c983e47",
+  "legislatura": "II",
+  "id": "412041",
+  "tipo": "Intervenção",
+  "orador": "General António dos Santos Ramalho Eanes (Presidente da República)",
+  "data_registo": "1981-01-14",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "116387",
+    "ActividadesRelacionadas": {
+      "autoresDeputados": null,
+      "autoresGP": null,
+      "id": "116387",
+      "tipo": "Cerimónia"
+    },
+    "Convidados": {
+      "cargo": "Presidente da República",
+      "honra": null,
+      "nome": "General António dos Santos Ramalho Eanes",
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1981-01-14",
+    "Debate": null,
+    "Deputados": {
+      "GP": null,
+      "idCadastro": null,
+      "nome": null
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "412041",
+    "IdDebate": "35321",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "II",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "412041",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "473-477"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1981-01-15",
+        "pubLeg": "II",
+        "pubNr": "16",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/02/01/016/1981-01-15/473?pgs=473-477&org=PLC"
+      }
+    ],
+    "Qualidade": null,
+    "Resumo": null,
+    "Sessao": "1",
+    "Sumario": "Posse de S. Exª o Presidente da República, General Ramalho Eanes",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
