@@ -1,7 +1,5 @@
 # Artigo 78.º
 
-### Distribuição do produto das coimas
+### (Destino do montante das coimas)
 
-1 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas neste diploma é repartido nos termos do RJCE.
-
-2 - (Revogado.)
+Do montante das coimas aplicadas pelas contra-ordenações previstas neste diploma serão destinados 20% para o Instituto de Reinserção Social, revertendo o restante para o Estado.
