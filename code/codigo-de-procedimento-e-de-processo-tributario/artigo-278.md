@@ -16,7 +16,7 @@ c) Incidência sobre bens que, não respondendo, nos termos de direito substanti
 
 d) Determinação da prestação de garantia indevida ou superior à devida.
 
-4 - No caso previsto no número anterior, caso não se verificar a circunstância do n.º 2 do artigo 277.º, o órgão de execução fiscal fará subir a reclamação no prazo de 8 dias.
+4 - No caso previsto no número anterior, caso não se verificar a circunstância dos n.os 2 e 3 do artigo 277.º, o órgão da execução fiscal fará subir a reclamação no prazo de oito dias.
 
 5 - A reclamação referida no presente artigo segue as regras dos processos urgentes, tendo a sua apreciação prioridade sobre quaisquer processos que devam ser apreciados no tribunal que não tenham esse carácter.
 

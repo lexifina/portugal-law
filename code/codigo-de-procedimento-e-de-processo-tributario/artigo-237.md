@@ -10,4 +10,4 @@
 
 2 - Os embargos são deduzidos junto do órgão da execução fiscal.
 
-3 - O prazo para dedução de embargos de terceiro é de 30 dias contados desde o dia em que foi praticado o acto ofensivo da posse ou direito, mas nunca depois de os respectivos bens terem sido vendidos.
+3 - O prazo para dedução de embargos de terceiro é de 30 dias contados desde o dia em que foi praticado o acto ofensivo da posse ou direito ou daquele em que o embargante teve conhecimento da ofensa, mas nunca depois de os respectivos bens terem sido vendidos.
