@@ -1,0 +1,1687 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "80",
+    "id": "19125",
+    "titulo": "Reforça o Sistema de Segurança Social (Altera a Lei n.º 17/2000, de 8 de Agosto)."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2002-07-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2223",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2002-07-11",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "19101",
+        "leg": "IX",
+        "nr": "64",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "643",
+            "obs": null,
+            "pag": [
+              "1322-1357"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-07-12",
+            "pubLeg": "IX",
+            "pubNr": "33",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1322?pgs=1322-1357&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "643",
+            "obs": null,
+            "pag": [
+              "1322-1357"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-07-12",
+            "pubLeg": "IX",
+            "pubNr": "33",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1322?pgs=1322-1357&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Nova forma de financiamento da Segurança Social com base no valor acrescentado bruto."
+      },
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "19185",
+        "leg": "IX",
+        "nr": "20",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "643",
+            "obs": null,
+            "pag": [
+              "1322-1357"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-07-12",
+            "pubLeg": "IX",
+            "pubNr": "33",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1322?pgs=1322-1357&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "643",
+            "obs": null,
+            "pag": [
+              "1322-1357"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-07-12",
+            "pubLeg": "IX",
+            "pubNr": "33",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1322?pgs=1322-1357&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Aprova as Bases Gerais do Sistema de Segurança Social."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2002-07-11",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141650",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1322-1324"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1322?pgs=1322-1324&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Bases Gerais do Sistema de Segurança Social; Nova forma de financiamento da Segurança Social com base no valor acrescentado bruto; Reforça o Sistema de Segurança Social (Altera a Lei n.º 17/2000, de 8 de Agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141651",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1323-1324"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1323?pgs=1323-1324&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Bases Gerais do Sistema de Segurança Social; Nova forma de financiamento da Segurança Social com base no valor acrescentado bruto; Reforça o Sistema de Segurança Social (Altera a Lei n.º 17/2000, de 8 de Agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141652",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1324-1324"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1324?pgs=1324&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Bases Gerais do Sistema de Segurança Social; Nova forma de financiamento da Segurança Social com base no valor acrescentado bruto; Reforça o Sistema de Segurança Social (Altera a Lei n.º 17/2000, de 8 de Agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "390",
+                "nome": "Mota Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141653",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1324-1325",
+                  "1355-1356"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1324?pgs=1324-1325,1355-1356&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Bases Gerais do Sistema de Segurança Social; Nova forma de financiamento da Segurança Social com base no valor acrescentado bruto; Reforça o Sistema de Segurança Social (Altera a Lei n.º 17/2000, de 8 de Agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  SEGURANÇA SOCIAL E DO TRABALHO",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Antonio Bagao Felix"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141654",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1325-1329",
+                  "1331-1333",
+                  "1335-1336",
+                  "1353-1354",
+                  "1356-1357"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1325?pgs=1325-1329,1331-1333,1335-1336,1353-1354,1356-1357&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Bases Gerais do Sistema de Segurança Social; Nova forma de financiamento da Segurança Social com base no valor acrescentado bruto; Reforça o Sistema de Segurança Social (Altera a Lei n.º 17/2000, de 8 de Agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141655",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1328-1328"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1328?pgs=1328&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Bases Gerais do Sistema de Segurança Social; Nova forma de financiamento da Segurança Social com base no valor acrescentado bruto; Reforça o Sistema de Segurança Social (Altera a Lei n.º 17/2000, de 8 de Agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "722",
+                "nome": "Paulo Pedroso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141656",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1328-1329"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1328?pgs=1328-1329&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Bases Gerais do Sistema de Segurança Social; Nova forma de financiamento da Segurança Social com base no valor acrescentado bruto; Reforça o Sistema de Segurança Social (Altera a Lei n.º 17/2000, de 8 de Agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "210",
+                "nome": "Jerónimo de Sousa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141657",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1329-1330"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1329?pgs=1329-1330&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Bases Gerais do Sistema de Segurança Social; Nova forma de financiamento da Segurança Social com base no valor acrescentado bruto; Reforça o Sistema de Segurança Social (Altera a Lei n.º 17/2000, de 8 de Agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1612",
+                "nome": "Ana Manso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141658",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1330-1331"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1330?pgs=1330-1331&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Bases Gerais do Sistema de Segurança Social; Nova forma de financiamento da Segurança Social com base no valor acrescentado bruto; Reforça o Sistema de Segurança Social (Altera a Lei n.º 17/2000, de 8 de Agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1921",
+                "nome": "Isabel Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141659",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1331-1331"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1331?pgs=1331&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Bases Gerais do Sistema de Segurança Social; Nova forma de financiamento da Segurança Social com base no valor acrescentado bruto; Reforça o Sistema de Segurança Social (Altera a Lei n.º 17/2000, de 8 de Agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141660",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1333-1333"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1333?pgs=1333&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Bases Gerais do Sistema de Segurança Social; Nova forma de financiamento da Segurança Social com base no valor acrescentado bruto; Reforça o Sistema de Segurança Social (Altera a Lei n.º 17/2000, de 8 de Agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "235",
+                "nome": "Manuel Alegre"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141661",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1333-1334"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1333?pgs=1333-1334&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Bases Gerais do Sistema de Segurança Social; Nova forma de financiamento da Segurança Social com base no valor acrescentado bruto; Reforça o Sistema de Segurança Social (Altera a Lei n.º 17/2000, de 8 de Agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141662",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1334-1334"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1334?pgs=1334&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Bases Gerais do Sistema de Segurança Social; Nova forma de financiamento da Segurança Social com base no valor acrescentado bruto; Reforça o Sistema de Segurança Social (Altera a Lei n.º 17/2000, de 8 de Agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141663",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1334-1335"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1334?pgs=1334-1335&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Bases Gerais do Sistema de Segurança Social; Nova forma de financiamento da Segurança Social com base no valor acrescentado bruto; Reforça o Sistema de Segurança Social (Altera a Lei n.º 17/2000, de 8 de Agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "722",
+                "nome": "Paulo Pedroso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141664",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1337-1337"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1337?pgs=1337&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Bases Gerais do Sistema de Segurança Social; Nova forma de financiamento da Segurança Social com base no valor acrescentado bruto; Reforça o Sistema de Segurança Social (Altera a Lei n.º 17/2000, de 8 de Agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  SEGURANÇA SOCIAL E DO TRABALHO",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Antonio Bagao Felix"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141665",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1337-1338",
+                  "1357-1357"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1337?pgs=1337-1338,1357&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Bases Gerais do Sistema de Segurança Social; Nova forma de financiamento da Segurança Social com base no valor acrescentado bruto; Reforça o Sistema de Segurança Social (Altera a Lei n.º 17/2000, de 8 de Agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141666",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1338-1341",
+                  "1353-1353"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1338?pgs=1338-1341,1353&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Bases Gerais do Sistema de Segurança Social; Nova forma de financiamento da Segurança Social com base no valor acrescentado bruto; Reforça o Sistema de Segurança Social (Altera a Lei n.º 17/2000, de 8 de Agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141667",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1341-1343"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1341?pgs=1341-1343&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Bases Gerais do Sistema de Segurança Social; Nova forma de financiamento da Segurança Social com base no valor acrescentado bruto; Reforça o Sistema de Segurança Social (Altera a Lei n.º 17/2000, de 8 de Agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1867",
+                "nome": "Vieira da Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141668",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1343-1346"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1343?pgs=1343-1346&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Bases Gerais do Sistema de Segurança Social; Nova forma de financiamento da Segurança Social com base no valor acrescentado bruto; Reforça o Sistema de Segurança Social (Altera a Lei n.º 17/2000, de 8 de Agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1607",
+                "nome": "Patinha Antão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141669",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1346-1349"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1346?pgs=1346-1349&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Bases Gerais do Sistema de Segurança Social; Nova forma de financiamento da Segurança Social com base no valor acrescentado bruto; Reforça o Sistema de Segurança Social (Altera a Lei n.º 17/2000, de 8 de Agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1773",
+                "nome": "João Teixeira Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141670",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1348-1348"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1348?pgs=1348&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Bases Gerais do Sistema de Segurança Social; Nova forma de financiamento da Segurança Social com base no valor acrescentado bruto; Reforça o Sistema de Segurança Social (Altera a Lei n.º 17/2000, de 8 de Agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141671",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1349-1350"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1349?pgs=1349-1350&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Bases Gerais do Sistema de Segurança Social; Nova forma de financiamento da Segurança Social com base no valor acrescentado bruto; Reforça o Sistema de Segurança Social (Altera a Lei n.º 17/2000, de 8 de Agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141672",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1350-1351"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1350?pgs=1350-1351&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Bases Gerais do Sistema de Segurança Social; Nova forma de financiamento da Segurança Social com base no valor acrescentado bruto; Reforça o Sistema de Segurança Social (Altera a Lei n.º 17/2000, de 8 de Agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "159",
+                "nome": "Artur Penedos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141673",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1351-1352"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1351?pgs=1351-1352&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Bases Gerais do Sistema de Segurança Social; Nova forma de financiamento da Segurança Social com base no valor acrescentado bruto; Reforça o Sistema de Segurança Social (Altera a Lei n.º 17/2000, de 8 de Agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1657",
+                "nome": "João Pinho de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141674",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1352-1352"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1352?pgs=1352&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Bases Gerais do Sistema de Segurança Social; Nova forma de financiamento da Segurança Social com base no valor acrescentado bruto; Reforça o Sistema de Segurança Social (Altera a Lei n.º 17/2000, de 8 de Agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141675",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1354-1355"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1354?pgs=1354-1355&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Bases Gerais do Sistema de Segurança Social; Nova forma de financiamento da Segurança Social com base no valor acrescentado bruto; Reforça o Sistema de Segurança Social (Altera a Lei n.º 17/2000, de 8 de Agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141676",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1355-1355"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1355?pgs=1355&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Bases Gerais do Sistema de Segurança Social; Nova forma de financiamento da Segurança Social com base no valor acrescentado bruto; Reforça o Sistema de Segurança Social (Altera a Lei n.º 17/2000, de 8 de Agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "156",
+                "nome": "António Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141677",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1355-1355"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1355?pgs=1355&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Bases Gerais do Sistema de Segurança Social; Nova forma de financiamento da Segurança Social com base no valor acrescentado bruto; Reforça o Sistema de Segurança Social (Altera a Lei n.º 17/2000, de 8 de Agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141678",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1355-1355"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1355?pgs=1355&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Bases Gerais do Sistema de Segurança Social; Nova forma de financiamento da Segurança Social com base no valor acrescentado bruto; Reforça o Sistema de Segurança Social (Altera a Lei n.º 17/2000, de 8 de Agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141679",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1356-1356"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1356?pgs=1356&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Bases Gerais do Sistema de Segurança Social; Nova forma de financiamento da Segurança Social com base no valor acrescentado bruto; Reforça o Sistema de Segurança Social (Altera a Lei n.º 17/2000, de 8 de Agosto).",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "21:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141680",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1357-1357"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "33",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1357?pgs=1357&org=PLC"
+              }
+            ],
+            "sumario": "Aprova as Bases Gerais do Sistema de Segurança Social; Nova forma de financiamento da Segurança Social com base no valor acrescentado bruto; Reforça o Sistema de Segurança Social (Altera a Lei n.º 17/2000, de 8 de Agosto).",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "152912",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "271761",
+        "obs": null,
+        "pag": [
+          "1325-1357"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2002-07-12",
+        "pubLeg": "IX",
+        "pubNr": "33",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/033/2002-07-12/1325?pgs=1325-1357&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
