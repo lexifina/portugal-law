@@ -1,3 +1,3 @@
 # Artigo 804.º
 
-§ único. O provimento interino dos lugares de agente do Ministério Público poderá converter-se em definitivo findos cinco anos de bom e efectivo serviço.
+§ único. O Ministério Público junto das auditorias administrativas é representado por um delegado do procurador da República de 1.ª classe.
