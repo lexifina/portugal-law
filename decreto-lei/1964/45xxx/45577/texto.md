@@ -1,0 +1,8 @@
+Decreto-Lei n.º 45577
+Reconhecendo-se a necessidade de actualizar a situação estabelecida pelo Decreto-Lei n.º 23924, de 29 de Maio de 1934, relativamente à apanha e exploração de plantas marinhas nas costas, praias e margens do continente e ilhas adjacentes, cuja matéria é de natureza regulamentar;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. Com a entrada em vigor do Decreto n.º 45578, desta data, ficam revogados o Decreto-Lei n.º 23924, de 29 de Maio de 1934, bem como as disposições por ele substituídas, contidas no Decreto n.º 10563, de 14 de Fevereiro de 1925, na Portaria de 19 de Janeiro de 1909 (Regulamento para a Apanha de Vegetais Marítimos na Costa de Portugal), na parte relativa a plantas marinhas, e na Portaria de 6 de Novembro de 1909 sobre o mesmo assunto.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 28 de Fevereiro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Para ser presente à Assembleia Nacional.
