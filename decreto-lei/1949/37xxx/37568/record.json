@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1949/09/21100/06960696.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1949-09-28",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "f1816cfc74be48b36b6b9e4d5149ae8e0aa5c9cc1bce3b2dd044cd228e84af56",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each page read whole (Tesseract page layout)",
+    "agreement_pct": 99.8,
+    "pages": 1,
+    "columns": [
+      4
+    ],
+    "pdf_sha256": "a0ec6d3a1e5df9d8d529c06a609a6f9c0d0624eacf3eb93ae5f30c3ffcd7ed64",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 189
 }
