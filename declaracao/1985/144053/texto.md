@@ -1,0 +1,5 @@
+Declaração
+Para os devidos efeitos se declara que o Decreto-Lei n.º 20/85, publicado no Diário da República, 1.ª série, n.º 14, de 17 de Janeiro de 1985, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 10.º, n.º 3, onde se lê «o subsídio de desemprego é concedido durante 1 mês, por cada período de 12 meses seguidos ou interpolados de desemprego com entrada de folhas de remunerações.» deve ler-se «o subsídio de desemprego é concedido durante 1 mês por cada período de 12 meses seguidos ou interpolados de emprego com entrada de folhas de remunerações.»
+No artigo 32.º n.º 5, onde se lê «será concedido pelo prazo estabelecido neste artigo, deduzido do número social de desemprego desde que tenham decorrido 360 dias sobre a cessação do anterior.» deve ler-se «será concedido pelo prazo estabelecido neste artigo, deduzido do número de meses em que o beneficiário tiver recebido subsídio de desemprego.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 31 de Janeiro de 1985. - O Secretário-Geral, França Martins.
