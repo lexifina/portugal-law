@@ -1,0 +1,5 @@
+Aviso n.º 166/97
+Por ordem superior se torna público que, por nota de 4 de Agosto de 1995 e nos termos do artigo 30.º da Convenção Europeia sobre o Reconhecimento e a Execução das Decisões Relativas à Guarda de Menores e sobre o Restabelecimento da Guarda de Menores, aberta à assinatura no Luxemburgo, em 20 de Maio de 1980, a Secretaria-Geral do Conselho da Europa notificou ter Portugal, em 4 de Agosto de 1995, alterado a sua autoridade central designada nos termos do artigo 2.º da mesma Convenção para:
+Instituto de Reinserção Social, Avenida do Almirante Reis, 101, 7.º, 1197 Lisboa Codex, Portugal, UE (telefone: 3524709; fax: 3521582).
+A Convenção foi aprovada, para ratificação, pelo Decreto-Lei n.º 136/82, de 21 de Outubro, tendo Portugal depositado o seu instrumento de ratificação em 18 de Março de 1983, conforme aviso publicado no Diário da República, 1.ª série, n.º 91, de 20 de Abril de 1983.
+Departamento de Assuntos Jurídicos, 14 de Maio de 1997. - O Director, José Maria Teixeira Leite Martins.
