@@ -1,3 +1,7 @@
+## Secção VI
+
+## Abertura de sinal
+
 ## Secção VII
 
 ## Autenticação de documentos particulares

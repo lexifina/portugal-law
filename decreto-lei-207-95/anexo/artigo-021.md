@@ -4,7 +4,7 @@
 
 1 - Os livros devem ser encadernados antes de utilizados.
 
-2 - Os livros de notas e, bem assim, o livro a que se refere a alínea f) do n.º 1 do artigo 7.º podem ser formados por fascículos ou folhas soltas, os quais devem ser encadernados, depois de utilizados, em volume com o máximo de 150 folhas.
+2 - Os livros de notas e, bem assim, o livro a que se refere a alínea e) do n.º 1 do artigo 7.º podem ser formados por fascículos ou folhas soltas, os quais devem ser encadernados, depois de utilizados, em volume com o máximo de 150 folhas.
 
 3 - Nos livros formados por fascículos ou folhas soltas, os actos podem ser lavrados em papel sem pauta, marginado, observando-se o disposto no Regulamento Geral do Imposto do Selo e respectiva Tabela, quanto ao número de linhas de escrita.
 

@@ -2,7 +2,7 @@
 
 ### Selos dos livros
 
-1 - Os livros indicados nas alíneas a) a d), g) e h) do n.º 1 do artigo 7.º estão sujeitos ao imposto a que se refere o artigo 112 da Tabela Geral do Imposto do Selo.
+1 - Os livros indicados nas alíneas a) a c), f) e g) do n.º 1 do artigo 7.º estão sujeitos ao imposto a que se refere o artigo 112 da Tabela Geral do Imposto do Selo.
 
 2 - O imposto do selo dos livros de notas é liquidado e cobrado por cada lauda total ou parcialmente utilizada pela escrita dos actos, à medida que forem sendo lavrados, sendo o imposto devido pelo acto que ocupar a primeira linha de cada lauda.
 

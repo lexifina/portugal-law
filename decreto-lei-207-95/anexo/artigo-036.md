@@ -4,7 +4,7 @@
 
 1 - São lavrados nos livros de notas os testamentos públicos e os actos para os quais a lei exija escritura pública ou que os interessados queiram celebrar por essa forma.
 
-2 - Os termos de abertura de sinal e os registos que a lei manda praticar pelo notário são exarados nos livros especiais a esse fim destinados.
+2 - Os registos que a lei manda praticar pelo notário são exarados nos livros especiais a esse fim destinados.
 
 3 - São exarados em instrumentos fora das notas os actos que devam constar de documento autêntico, mas para os quais a lei não exija, ou as partes não pretendam, a redução a escritura pública.
 
