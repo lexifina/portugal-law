@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 4-A/97
+Para os devidos efeitos se declara que o Decreto-Lei n.º 250/96, publicado no Diário da República, 1.ª série, n.º 297, de 24 de Dezembro de 1996, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 153.º, n.º 5, onde se lê «Designa-se por presencial.» deve ler-se «Designa-se presencial», e no n.º 6, onde se lê «com a assinatura aposta no bilhete de identidade do documento equivalente emitido pela autoridade competente de um dos países da União Europeia, ou no passaporte» dever ler-se «com a assinatura aposta no bilhete de identidade ou documento equivalente emitidos pela autoridade competente de um dos países da União Europeia ou no passaporte».
+Secretaria-Geral da Presidência do Conselho de Ministros, 14 de Janeiro de 1997. - O Secretário-Geral, Alexandre Figueiredo.
