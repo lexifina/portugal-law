@@ -1,0 +1,11 @@
+Resolução do Conselho de Ministros
+1 - No plano da actividade da Epul/75 estava incluído o início da construção de 296 fogos em Telheiras Norte (terrenos da Câmara Municipal de Lisboa), empreendimento a ser financiado através do Fundo de Fomento da Habitação, sendo os fogos entregues, em princípio, à Câmara Municipal de Lisboa, uma vez que tal empreendimento se engloba no programa de habitação desta, por sua vez enquadrado no Governo.
+2 - Devido a atrasos verificados na urbanização básica da zona, não foi possível iniciar a construção dos fogos em 1975, a qual, visto que só no mês corrente fica concluída a construção das necessárias infra-estruturas, poderá agora concretizar-se.
+3 - A firma J. Pimenta não dispõe, no momento actual, de obras, na zona de Lisboa, em número suficiente para garantir pleno emprego aos trabalhadores.
+Assim:
+Tendo em conta os elevados montantes por parte do Estado despendidos, sem qualquer contrapartida produtiva, com as empresas de construção civil em que mantém a sua intervenção - como acontece com a firma J. Pimenta - e a premente necessidade de aliviar, em alguma medida, as finanças públicas com tais encargos, que há longo tempo tem vindo a suportar;
+Tendo em conta o facto de existir uma proposta de preços da firma J. Pimenta datada de 16 de Junho de 1975, considerada perfeitamente aceitável e agora reconfirmada como mantendo-se actual, vencendo direito a revisão de preços, a partir da adjudicação, de acordo com a legislação vigente;
+Tendo ainda em atenção a urgência de que se reveste a adjudicação em causa e, bem assim, o facto de que os estatutos da Epul permitem a adopção do processo de ajuste directo, sendo mesmo esta quem sugere, neste caso, tal adopção;
+Nestes termos, o Conselho de Ministros, reunido em 24 de Março de 1976, resolveu que:
+A título precário, e como medida visando a criação de condições de trabalho que permitam à empresa J. Pimenta uma laboração normal, que lhe assegure como se deseja a possibilidade de vir a constituir modelo de gestão técnica e financeira e de produtividade na construção civil, seja autorizada, pelo Conselho de Ministros, a adjudicação, pelo processo de ajuste directo, da empreitada em questão à citada empresa.
+Presidência do Conselho de Ministros, 24 de Março de 1976. - O Primeiro-Ministro, José Baptista Pinheiro de Azevedo.
