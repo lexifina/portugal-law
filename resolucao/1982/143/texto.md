@@ -1,0 +1,7 @@
+Resolução n.º 143/82
+Considerando que, em relação aos créditos avalizados pelo Estado inseridos no contrato de viabilização celebrado com a SALVOR - Sociedade de Investimento Hoteleiro, S. A. R. L., está prevista, nos 3 primeiros anos daquele contrato, a capitalização de 30% dos encargos financeiros;
+Considerando, por outro lado, que o referido contrato de viabilização estabelece a manutenção da totalidade do aval do Estado ao empréstimo de 1150000 contos, enquanto na Resolução do Conselho de Ministros n.º 273/80, de 23 de Julho, se previa a substituição total ou parcial daquela garantia, se aquele contrato fosse celebrado:
+O Conselho de Ministros para os Assuntos Económicos, reunido em 3 de Agosto de 1982, resolveu:
+a) Conceder o aval do Estado à SALVOR - Sociedade de Investimento Hoteleiro, S. A. R. L., nos termos da Lei n.º 1/73, de 2 de Janeiro, do artigo 8.º da Lei n.º 40/81, de 31 de Dezembro, e do Decreto-Lei n.º 159/75, de 27 de Março, no valor de 31111 contos, correspondente aos encargos capitalizados no âmbito do contrato de viabilização;
+b) Autorizar a manutenção da totalidade do aval do Estado ao financiamento de 1150000 contos facultado pela Caixa Geral de Depósitos, no âmbito do contrato de viabilização assinado com a SALVOR.
+Presidência do Conselho de Ministros, 3 de Agosto de 1982. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.
