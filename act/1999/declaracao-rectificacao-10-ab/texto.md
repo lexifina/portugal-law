@@ -1,0 +1,6 @@
+Declaração de Rectificação n.º 10-AB/99
+Segundo comunicação do Ministério da Educação, o Despacho Normativo n.º 18/99, publicado no Diário da República, 1.ª série, n.º 84, de 10 de Abril de 1999, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Nos Estatutos da Escola Superior de Enfermagem de Francisco Gentil, no artigo 35.º, alínea b), onde se lê «reúne, ordinariamente, uma vez por mês e, extraordinariamente, a pedido de qualquer dos seus membros;» deve ler-se «reúne, ordinariamente, um vez por mês e, extraordinariamente, a pedido de qualquer um dos seus membros;».
+No artigo 58.º, n.º 5, onde se lê «Os membros dos órgãos eleitos gozam do direito a renúncia ao respectivo mandato, sob condição de» deve ler-se «Os membros dos órgãos eleitos gozam do direito de renúncia ao respectivo mandato, sob condição de».
+No artigo 60.º, n.º 4, onde se lê «Os membros referidos nas alíneas b) e e) são eleitos pelos seus pares,» deve ler-se «Os membros referidos nas alíneas b) e a) são eleitos pelos seus pares,».
+Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Abril de 1999. - O Secretário-Geral, Alexandre Figueiredo.
