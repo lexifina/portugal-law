@@ -1,0 +1,6 @@
+Portaria n.º 675/71
+de 7 de Dezembro
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do § único do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, conjugado com o artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, e artigo 3.º do aludido Decreto n.º 35770 e sua alínea e), com a nova redacção dada pelo artigo 4.º do Decreto n.º 40712, de 1 de Agosto de 1956, abrir um crédito especial da importância de 200000$00, destinado a reforçar a verba do capítulo 10.º, artigo 303.º, n.º 35), alínea a) «Encargos gerais - Diversas despesas - Despesas com assistência médica, tratamento e internamento em hospitais, manicómios, casas de saúde e sanatórios de funcionários civis do activo, aposentados e operários do Estado - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral em vigor da província de Timor, tomando como contrapartida igual importância a sair do excesso de cobrança sobre a previsão da receita do capítulo 3.º, artigo 18.º «Indústrias em regime tributário especial - Imposto de produção e consumo», da tabela da receita ordinária do mesmo orçamento geral.
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada no Boletim Oficial de Timor. - J. da Silva Cunha.
