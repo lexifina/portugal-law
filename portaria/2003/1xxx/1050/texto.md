@@ -1,0 +1,9 @@
+Portaria n.º 1050/2003
+de 23 de Setembro
+Pela Portaria n.º 283/88, de 4 de Maio, foi homologado o protocolo que criou o CITEX - Centro de Formação Profissional da Indústria Têxtil, outorgado entre o Instituto de Emprego e Formação Profissional (IEFP), a Associação Nacional das Indústrias Têxteis, Algodoeiras e Fibras (ANITAF), a Associação Portuguesa das Indústrias de Malha (APIM) e a Associação Nacional das Indústrias de Vestuário e Confecção (ANIVEC).
+Aquela portaria foi posteriormente alterada pelas Portarias n.os 612/2001, de 21 de Junho, e 513/2003, de 1 de Julho, alterando o protocolo no seu texto introdutório pela alteração das denominações sociais da Associação Nacional das Indústrias Têxteis, Algodoeiras e Fibras (ANITAF) e da Associação Portuguesa das Indústrias de Malha (APIM), passando a denominar-se, respectivamente, «Associação Portuguesa de Têxteis e Vestuário (APT)» e «Associação Portuguesa das Indústrias de Malha e Confecção (APIM)», e pela alteração da denominação social da Associação Nacional das Indústrias do Vestuário e Confecção (ANIVEC), passando a denominar-se «Associação Nacional das Indústrias do Vestuário e Confecção (ANIVEC/APIV)».
+Torna-se de novo necessário proceder à alteração daquela portaria, uma vez que a denominação social de alguns outorgantes foi entretanto alterada.
+Assim:
+No uso dos poderes conferidos pelos n.os 2 e 3 do artigo 10.º do Decreto-Lei n.º 165/85, de 16 de Maio:
+Manda o Governo, pelo Secretário de Estado do Trabalho, que na Portaria n.º 283/88, de 4 de Maio, com as alterações introduzidas pela Portarias n.os 612/2001, de 21 de Junho, e 513/2003, de 1 de Julho, onde se lê «Associação Portuguesa das Indústrias de Malha e Confecção (APIM)» e «Associação Portuguesa de Têxteis e Vestuário (APT)» deve ler-se «Associação Têxtil e Vestuário de Portugal (ATP)».
+O Secretário de Estado do Trabalho, Luís Miguel Pais Antunes, em 26 de Agosto de 2003.
