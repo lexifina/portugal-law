@@ -1,0 +1,12 @@
+Portaria n.º 117/90
+de 14 de Fevereiro
+O novo sistema retributivo da função pública, instituído pelo Decreto-Lei n.º 184/89, de 2 de Junho, visa dotar o sistema retributivo da indispensável flexibilidade que o habilite a dar resposta satisfatória à multiplicidade e diversidade de situações existentes e previsíveis no âmbito da Administração Pública.
+Consequente com este objectivo, o artigo 16.º do Decreto-Lei n.º 184/89 estabeleceu desde logo a existência de escalas salariais diversificadas para as carreiras de regime geral e especial, para os cargos dirigentes e para os diferentes corpos especiais.
+Nestes termos, o Decreto-Lei n.º 57/90 estabeleceu as escalas remuneratórias dos militares dos três ramos das forças armadas, determinando o n.º 3 do artigo 3.º que a fixação do valor do índice 100 seria fixado por portaria conjunta do Primeiro-Ministro e do Ministro das Finanças.
+Assim:
+Manda o Governo, pelo Primeiro-Ministro e pelo Ministro das Finanças, ao abrigo do n.º 2 do artigo 4.º do Decreto-Lei n.º 57/90, o seguinte:
+1.º O índice 100 da escala remuneratória dos militares dos três ramos das forças armadas é fixado em 63800$00.
+2.º O montante previsto no número anterior produz efeitos a partir de 1 de Outubro de 1989 e vigora até 31 de Dezembro de 1990.
+Presidência do Conselho de Ministros e Ministério das Finanças.
+Assinada em 21 de Dezembro de 1989.
+O Primeiro-Ministro, Aníbal António Cavaco Silva. - Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento.
