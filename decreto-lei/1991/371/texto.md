@@ -1,0 +1,24 @@
+Decreto-Lei n.º 371/91
+de 8 de Outubro
+Nos últimos anos tem-se tornado evidente a necessidade de se proceder a uma reforma global da gestão dos fundos públicos, quer a nível da previsão e acompanhamento das receitas do Estado, quer a nível do controlo e acompanhamento da execução das despesas públicas, quer ainda ao nível do controlo e criação de novas modalidades de meios de pagamento, que se querem mais eficazes.
+Na verdade, no âmbito da reforma do Tesouro em curso, prevista no Decreto-Lei n.º 76/90, de 12 de Março, é imprescindível introduzir o sistema dos novos meios de pagamento do Estado em substituição dos que estão actualmente em vigor e que se considera estarem ultrapassados.
+Por outro lado, a Lei de Bases da Contabilidade Pública, aprovada pela Lei n.º 8/90, de 20 de Fevereiro, prevê a utilização de novos meios de pagamento do Tesouro destinados à realização das despesas públicas.
+Outro dos grandes objectivos da utilização dos novos meios de pagamento do Tesouro é o de possibilitar uma gestão integrada e previsional da Tesouraria do Estado, uma vez que permitirá o acesso eficaz à informação sobre a situação.
+Com efeito, dispondo o Estado da informação de gestão adequada, poderá optimizar a administração de recursos financeiros que são escassos.
+Com o presente decreto-lei visa-se permitir a utilização pelo Tesouro dos meios de pagamento usados pelo sistema bancário, com destaque para a possibilidade de emissão de cheques sobre o Tesouro, introduzindo-se assim um importante elemento de flexibilização e operacionalidade na administração financeira do Estado. Para esse fim, e tendo em conta, designadamente, o artigo 54.º da Lei Uniforme do Cheque, assimila-se a Direcção-Geral do Tesouro a banco, configurando-a assim como banqueiro dos serviços e organismos emitentes de meios de pagamento.
+Assim:
+No desenvolvimento do regime jurídico estabelecido pela Lei n.º 8/90, de 20 de Fevereiro, e nos termos da alínea c) do artigo 201.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º - 1 - O pagamento das despesas públicas dos serviços e organismos referidos na Lei de Bases da Contabilidade Pública, bem como a saída de fundos por operações de tesouraria, poderão ser efectuados através de meios de pagamento do tipo e com as características dos utilizados pelos bancos.
+2 - A natureza, as características e o regime dos meios de pagamento mencionados no número anterior obedecem ao disposto na lei geral e nos respectivos regulamentos.
+Art. 2.º - 1 - A gestão do sistema e pagamentos previsto no artigo anterior compete à Direcção-Geral do Tesouro.
+2 - Na medida do necessário para efeitos da utilização dos meios de pagamento previstos no presente diploma, a Direcção-Geral do Tesouro é assimilada a banco.
+Art. 3.º Quando o meio de pagamento utilizado revista a forma de cheque sobre o Tesouro, este será obrigatoriamente nominativo e cruzado.
+Art. 4.º - 1 - A prova de efectivação dos pagamentos é feita nos termos aplicáveis aos bancos.
+2 - A Direcção-Geral do Tesouro conservará em arquivo todos os suportes documentais, designadamente microfilmes e registos informáticos, por um período mínimo de cinco anos.
+Art. 5.º Os actuais sistemas de pagamento de despesas públicas e de operações de tesouraria serão gradualmente substituídos pela utilização dos meios de pagamento referidos no presente diploma.
+Visto e aprovado em Conselho de Ministros de 29 de Agosto de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
+Promulgado em 20 de Setembro de 1991.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 26 de Setembro de 1991.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
