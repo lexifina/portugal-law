@@ -2,7 +2,7 @@
 
 1 - Não será restituído o imposto relativo às aquisições dos bens e serviços a seguir indicados, quando adquiridos para uso pessoal:
 
-a) Trabalhos imobiliários, incluindo os materiais, ainda que fornecidos pelo dono da obra para o efeito;
+a) Trabalhos imobiliários;
 
 b) Águas, gás e electricidade;
 
@@ -18,6 +18,6 @@ f) Serviços de telefone nas residências dos respectivos utentes.
 
 3 - Poderá ainda ser negado o direito à restituição quando haja razões fundadas para crer que os bens ou serviços a que se refere o imposto a restituir não se destinam a consumo próprio.
 
-4 - Não se procede à restituição do imposto contido em factura ou documento equivalente de valor unitário inferior a (euro) 270, nele incluído o próprio IVA, apenas se considerando para aquele limite o valor dos bens sujeitos a imposto.
+4 - Não se procederá à restituição do imposto contido em factura ou documento equivalente de valor unitário inferior a 20000$00, nele incluído o próprio IVA.
 
 5 - A restituição do imposto poderá ser limitada pela existência de condições de reciprocidade de isenção entre Portugal e o país a que pertence a respectiva representação diplomática ou consular.
