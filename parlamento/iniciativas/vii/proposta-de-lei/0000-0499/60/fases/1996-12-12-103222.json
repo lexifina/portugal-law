@@ -1,0 +1,2379 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "60",
+    "id": "5341",
+    "titulo": "Orçamento do Estado para 1997"
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "1996-12-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1319",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "1996-12-12",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1996-12-12",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "249",
+                "nome": "Mendes Bota"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46292",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "751-751"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/751?pgs=751&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46293",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "746-747"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/746?pgs=746-747&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1485",
+                "nome": "Rodeia Machado"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46294",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "744-744"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/744?pgs=744&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "280",
+                "nome": "Carlos Encarnação"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46296",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "743-743"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/743?pgs=743&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "42",
+                "nome": "Duarte Pacheco"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46297",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "741-741"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/741?pgs=741&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46298",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "739-740"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/739?pgs=739-740&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1288",
+                "nome": "Augusto Boucinha"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46299",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "728-728"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/728?pgs=728&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "246",
+                "nome": "Hermínio Loureiro"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46300",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "725-725"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/725?pgs=725&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "167",
+                "nome": "Fernando Pereira Marques"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46301",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "723-723"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/723?pgs=723&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46302",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "722-722"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/722?pgs=722&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1401",
+                "nome": "Artur Torres Pereira"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46303",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "720-720"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/720?pgs=720&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "42",
+                "nome": "Duarte Pacheco"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46304",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "720-720"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/720?pgs=720&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "384",
+                "nome": "Vieira de Castro"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46305",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "716-717"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/716?pgs=716-717&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "629",
+                "nome": "Pedro Pinto"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46306",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "714-714"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/714?pgs=714&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1488",
+                "nome": "Afonso Candal"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46307",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "710-711"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/710?pgs=710-711&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1407",
+                "nome": "Nelson Baltazar"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46308",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "710-710"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/710?pgs=710&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46309",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "710-710"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/710?pgs=710&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1467",
+                "nome": "Medeiros Ferreira"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46310",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "709-709"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/709?pgs=709&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1463",
+                "nome": "Lalanda Gonçalves"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46311",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "709-709"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/709?pgs=709&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1084",
+                "nome": "Maria José Nogueira Pinto"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46312",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "707-707"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/707?pgs=707&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1346",
+                "nome": "Carlos Beja"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46313",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "706-708"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/706?pgs=706-708&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1360",
+                "nome": "Paulo Neves"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46314",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "705-713"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/705?pgs=705-713&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46315",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "704-704"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/704?pgs=704&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46317",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "703-703"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/703?pgs=703&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "590",
+                "nome": "Luís Queiró"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46318",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "703-703"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/703?pgs=703&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46319",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "695-696",
+                  "701-701",
+                  "705-706",
+                  "712-713",
+                  "715-715",
+                  "747-748"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/695?pgs=695-696,701,705-706,712-713,715,747-748&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46320",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13?org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1086",
+                "nome": "Jorge Ferreira"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46323",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "670-672"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/670?pgs=670-672&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANCAS",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Sousa Franco"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46324",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "666-667",
+                  "669-669",
+                  "672-672",
+                  "687-688",
+                  "730-732",
+                  "737-737",
+                  "739-741",
+                  "745-746"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/666?pgs=666-667,669,672,687-688,730-732,737,739-741,745-746&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1446",
+                "nome": "António Galvão Lucas"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46325",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "664-665",
+                  "675-675",
+                  "691-691",
+                  "704-704",
+                  "706-707",
+                  "748-749"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/664?pgs=664-665,675,691,704,706-707,748-749&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46326",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "663-664",
+                  "673-674",
+                  "685-685",
+                  "695-695",
+                  "697-699",
+                  "703-704",
+                  "722-722",
+                  "728-728",
+                  "744-744",
+                  "750-751"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/663?pgs=663-664,673-674,685,695,697-699,703-704,722,728,744,750-751&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46327",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "661-663",
+                  "667-668",
+                  "677-677",
+                  "681-682",
+                  "697-697",
+                  "699-671",
+                  "707-707",
+                  "729-729",
+                  "736-737",
+                  "749-749"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/661?pgs=661-663,667-668,677,681-682,697,699-671,707,729,736-737,749&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1490",
+                "nome": "João Carlos da Silva"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46328",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13?org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46329",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "683-684"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/683?pgs=683-684&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46330",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "675-675"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/675?pgs=675&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "590",
+                "nome": "Luís Queiró"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46331",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13?org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1371",
+                "nome": "Henrique Neto"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46332",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "657-658",
+                  "665-665",
+                  "682-683"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/657?pgs=657-658,665,682-683&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "32",
+                "nome": "Carlos Duarte"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46333",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "657-713"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/657?pgs=657-713&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46334",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "656-658",
+                  "663-663",
+                  "667-667",
+                  "670-670",
+                  "678-679",
+                  "684-684",
+                  "687-688",
+                  "694-694",
+                  "719-719",
+                  "721-723",
+                  "729-729",
+                  "732-732"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/656?pgs=656-658,663,667,670,678-679,684,687-688,694,719,721-723,729,732&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46335",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "655-656",
+                  "660-660",
+                  "670-673",
+                  "675-676",
+                  "692-694",
+                  "698-698",
+                  "701-702",
+                  "704-704",
+                  "727-732",
+                  "740-741"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/655?pgs=655-656,660,670-673,675-676,692-694,698,701-702,704,727-732,740-741&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46337",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "655-655"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/655?pgs=655&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS FISCAIS",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Antonio Carlos dos Santos"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107721",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "655-656",
+                  "661-662",
+                  "666-666",
+                  "676-676",
+                  "679-680",
+                  "693-694",
+                  "697-697",
+                  "700-700",
+                  "707-707",
+                  "713-717",
+                  "722-722",
+                  "728-729"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/655?pgs=655-656,661-662,666,676,679-680,693-694,697,700,707,713-717,722,728-729&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS FISCAIS",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Antonio Carlos dos Santos"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107722",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "703-703"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/703?pgs=703&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  SEGURANÇA SOCIAL",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Fernando Ribeiro"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107723",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "672-672"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/672?pgs=672&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO ORÇAMENTO",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Manuela Arcanjo"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107725",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "744-744"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/744?pgs=744&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "António Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107726",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "673-686",
+                  "715-715",
+                  "735-735",
+                  "745-745"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-13",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13/673?pgs=673-686,715,735,745&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1997",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "103222",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1319",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1996-12-13",
+        "pubLeg": "VII",
+        "pubNr": "18",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "1996-12-12",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PCP</I>, <I> PEV</I><BR>Abstenção:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "24166",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "110049",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1996-12-13",
+            "pubLeg": "VII",
+            "pubNr": "18",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/018/1996-12-13?org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "18",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
