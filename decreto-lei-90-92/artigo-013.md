@@ -1,5 +1,7 @@
 # Artigo 13.º
 
-### Serviços de apoio técnico e administrativo
+### Serviços
 
-O CES dispõe de serviços de apoio técnico e administrativo, regendo-se o respetivo pessoal pelo Regime do Contrato de Trabalho em Funções Públicas.
+1 - O CES dispõe de uma Repartição de Administração Geral, dirigida por um chefe de repartição, que assegura o apoio administrativo, financeiro e contabilístico.
+
+2 - A Repartição de Administração Geral compreende a Secção de Pessoal e Assuntos Gerais e a Secção de Contabilidade, Patrimonial e Aprovisionamento.
