@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1937/06/13500/05690569.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1937-06-12",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "9bc80f6974dd48b519455fc4c0e46dad6448fe2f1e8d88ea5126ed8f43bcc3e6",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each page read whole (Tesseract page layout)",
+    "agreement_pct": 99.0,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "e57a3cae9cf850ac70b2abfe33f2b54392723c8f8153f5f0e0d86badd5e9647a",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 250
 }
