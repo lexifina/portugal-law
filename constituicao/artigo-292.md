@@ -1,3 +1,5 @@
+## Disposições finais e transitórias
+
 # Artigo 292.º
 
 ### (Direito constitucional anterior)

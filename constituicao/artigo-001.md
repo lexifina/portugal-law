@@ -1,3 +1,5 @@
+## Princípios fundamentais
+
 # Artigo 1.º
 
 ### (República Portuguesa)

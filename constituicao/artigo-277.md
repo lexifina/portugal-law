@@ -6,6 +6,10 @@
 
 ## Garantia da Constituição
 
+## Capítulo I
+
+## Fiscalização da constitucionalidade
+
 # Artigo 277.º
 
 ### (Inconstitucionalidade por acção)
