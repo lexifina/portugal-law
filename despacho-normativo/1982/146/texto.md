@@ -1,0 +1,3 @@
+Despacho Normativo n.º 146/82
+Ao abrigo do disposto no n.º 1 do artigo 1.º do Decreto-Lei n.º 303/77, de 29 de Julho, e em aditamento à tabela n.º 2 - Produtos fitofarmacêuticos, é autorizada a alteração do teor em substância activa de 500 g/l para 550 g/l e substituição da embalagem com o conteúdo líquido de 25 l por outra de 20 l, relativamente aos produtos fitofarmacêuticos com base em fentião, formulados em concentrado para emulsão.
+Secretarias de Estado da Produção Agrícola e do Comércio, 9 de Junho de 1982. - O Secretário de Estado da Produção Agrícola, José Vicente Carvalho Cardoso. - O Secretário de Estado do Comércio, António Escaja Gonçalves.
