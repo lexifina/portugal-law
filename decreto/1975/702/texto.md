@@ -1,0 +1,19 @@
+Decreto n.º 702/75
+de 18 de Dezembro
+Convindo contemplar solicitações de vários departamentos do Estado quanto à cedência de bens já abandonados a favor da Fazenda Nacional, torna-se necessário proceder a alterações do Regulamento das Alfândegas.
+Nestes termos:
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
+Artigo único. Os artigos 672.º e 673.º do Regulamento das Alfândegas, aprovado pelo Decreto n.º 31730, de 15 de Dezembro de 1941, passam a ter a seguinte redacção:
+Art. 672.º ...
+§ 1.º ...
+§ 2.º ...
+§ 3.º ...
+§ 4.º Não obstante o disposto nos §§ 2.º e 3.º, poderá o Ministro das Finanças ordenar que certos bens já considerados abandonados a favor da Fazenda Nacional possam ser distribuídos pelos serviços dependentes do Estado, que deles careçam, sem a obrigatoriedade de serem submetidos a 1.ª e 2.ª praças.
+§ 5.º Do disposto nos §§ 2.º e 3.º exceptuam-se os impressos avulsos, gravuras, estampas, litografias e cartonagens e ainda quaisquer reclamos e taras com dizeres indicativos de marcas de produtos ou outros semelhantes, que serão inutilizados.
+Art. 673.º ...
+§ 1.º ...
+§ 2.º Do despacho do Ministro das Finanças a que o anterior parágrafo se refere constará também qual o destino a dar às mercadorias, de harmonia com o disposto na parte final do § 2.º do artigo antecedente, na hipótese de em 3.ª praça não obterem lanço algum, dispensando-se, porém, desta indicação as que forem da natureza das mencionadas no § 5.º do mesmo artigo, às quais é extensivo o preceito da parte final do aludido parágrafo.
+José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha.
+Promulgado em 9 de Dezembro de 1975.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
