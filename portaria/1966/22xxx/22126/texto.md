@@ -1,0 +1,4 @@
+Portaria n.º 22126
+Tendo-se verificado em anos anteriores prejuízos causados nas culturas agrícolas e tendo presentes os pedidos dos Grémios da Lavoura dos concelhos de Azambuja, Benavente, Salvaterra de Magos e Vila Franca de Xira apoiados pela Comissão Venatória Regional do Sul, considerando o estipulado no n.º 5 do artigo 9.º do Decreto n.º 23461, de 17 de Janeiro de 1934, e à semelhança do determinado no passado ano:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, que, no presente ano, e nos concelhos de Azambuja, Benavente, Salvaterra de Magos e Vila Franca de Xira, apenas seja permitida a caça de codornizes e outras espécies não indígenas, a partir do dia 15 de Agosto (inclusive), nos termos a que se refere o n.º 1 do § 6.º do artigo 10.º do Decreto n.º 23461, de 17 de Janeiro de 1934.
+Secretaria de Estado da Agricultura, 23 de Julho de 1966. - O Secretário de Estado da Agricultura, Domingos Rosado Vitória Pires.
