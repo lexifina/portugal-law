@@ -1,0 +1,15 @@
+Portaria n.º 59/87
+de 24 de Janeiro
+Atendendo a que, ao abrigo do Decreto-Lei n.º 146/78, de 19 de Junho, foi a FEIS - Fábrica-Escola Irmãos Stephens, E. P., autorizada a emitir obrigações de saneamento financeiro num total de 201827 contos;
+Considerando, por um lado, que aquela empresa não liquidou os encargos das obrigações emitidas, que se venceram em 15 de Dezembro de 1985, os quais em 15 de Dezembro de 1986 ascendem a 64451 contos, e, por outro, que o Decreto-Lei n.º 329/86, de 1 de Outubro, permite a emissão de novas obrigações para pagamento do reembolso e juros em dívida, bem como dos juros de mora;
+Considerando, finalmente, que a situação financeira da FEIS - Fábrica-Escola Irmãos Stephens, E. P., justifica que se recorra a nova emissão de obrigações de saneamento financeiro para regularização dos encargos em dívida de títulos já emitidos ao abrigo do referido Decreto-Lei n.º 146/78:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Indústria e Comércio, o seguinte:
+1.º É autorizada a FEIS - Fábrica-Escola Irmãos Stephens, E. P., usando da faculdade prevista no Decreto-Lei n.º 329/86, de 1 de Outubro, a emitir um empréstimo por obrigações para saneamento financeiro no montante de 64451 contos, valor, reportado a 15 de Dezembro de 1986, do reembolso e juros vencidos em 15 de Dezembro de 1985 e em dívida, acrescido dos correspondentes juros de mora, dos empréstimos obrigacionistas autorizados pelas Portarias n.os 584/81, 75/83, 803/84 e 367/85, de 10 de Julho, de 26 de Janeiro, de 14 de Agosto e de 15 de Junho, respectivamente.
+2.º As obrigações cuja emissão é autorizada pela presente portaria serão entregues às instituições de crédito subscritoras dos empréstimos já emitidos a que se refere o número anterior para pagamento dos encargos em dívida vencidos em 15 de Dezembro de 1985.
+3.º As obrigações cuja emissão é agora autorizada vencem juros desde 15 de Dezembro de 1986, sendo os primeiros juros pagos em 15 de Dezembro de 1987, correspondendo ao período que decorre desde 15 de Dezembro de 1986 até 14 de Dezembro de 1987.
+4.º O empréstimo autorizado pela presente portaria será amortizado em sete anuidades iguais, vencendo-se a primeira em 15 de Dezembro de 1990 e a última em 15 de Dezembro de 1996.
+5.º Em virtude do disposto no artigo 2.º do referido Decreto-Lei n.º 329/86, de 1 de Outubro, não é devida comissão de garantia relativamente às obrigações cuja emissão é autorizada pela presente portaria.
+6.º Mantêm-se em vigor, em relação ao empréstimo obrigacionista de 64451 contos autorizado pela presente portaria, as disposições constantes dos n.os 5.º e 7.º da Portaria n.º 584/81, de 10 de Julho.
+Ministérios das Finanças e da Indústria e Comércio.
+Assinada em 7 de Janeiro de 1987.
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - Pelo Ministro da Indústria e Comércio, Luís Manuel Pêgo Todo-Bom, Secretário de Estado da Indústria e Energia.
