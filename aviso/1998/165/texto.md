@@ -1,0 +1,4 @@
+Aviso n.º 165/98
+Por ordem superior se faz público que, segundo comunicação do Secretário-Geral das Nações Unidas de 31 de Julho de 1998, o Governo Francês depositou, em 30 de Junho de 1998, o instrumento de aprovação à Convenção sobre a Protecção e Utilização de Cursos de Água Transfronteiriços e Lagos Internacionais, concluída em Helsínquia em 17 de Março de 1992.
+A referida Convenção foi aprovada, para ratificação, por Portugal nos termos do Decreto n.º 22/94, publicado no Diário da República, 1.ª série-A, n.º 171, de 26 de Julho de 1994, tendo sido depositado o correspondente instrumento em 12 de Dezembro de 1994, conforme aviso n.º 46/95, publicado no Diário da República, 1.ª série-A, n.º 34, de 9 de Fevereiro de 1995. A Convenção entrou em vigor, relativamente a Portugal, em 6 de Outubro de 1996.
+Direcção-Geral dos Assuntos Multilaterais, 2 de Setembro de 1998. - O Director de Serviços das Organizações Económicas Internacionais, João Perestrello Cavaco.
