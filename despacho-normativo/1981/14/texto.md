@@ -1,0 +1,10 @@
+Despacho Normativo n.º 14/81
+Considerando que têm surgido dúvidas de interpretação quanto ao âmbito de aplicação do Decreto-Lei n.º 465/80, de 14 de Outubro, que procedeu à revalorização de determinadas carreiras e categorias da função pública;
+Considerando que as categorias de engenheiro inspector superior de obras públicas, de engenheiro inspector superior electrotécnico e de arquitecto inspector superior de obras públicas do Conselho Superior de Obras Públicas e Transportes estão inseridas em carreira e não foram equiparadas a subdirector-geral nem a director de serviços;
+Considerando, ainda, que as expressões «engenheiro» e «arquitecto» visam exclusivamente definir a área de recrutamento dos inspectores superiores quanto ao tipo e nível de habilitações académicas e que as expressões «de obras públicas» e «electrotécnico» são meras adjectivações que em nada alteram o núcleo do conteúdo funcional inerente à categoria de inspector superior que aqueles possuem:
+Nestes termos, e ao abrigo do artigo 12.º do Decreto-Lei n.º 465/80, de 14 de Outubro, esclarece-se o seguinte:
+1 - Às categorias de engenheiro inspector superior de obras públicas, de engenheiro inspector superior electrotécnico e de arquitecto inspector superior de obras públicas do Ministério da Habitação Obras Públicas é aplicável o disposto no n.º 1 do artigo 2.º do Decreto-Lei n.º 465/80, de 14 de Outubro.
+2 - Os lugares correspondentes às categorias referidas no número anterior estão excluídos da extinção prevista no n.º 2 do artigo 2.º do mesmo diploma.
+3 - Às categorias especificadas no n.º 1 deste despacho normativo não se aplica o regime jurídico estabelecido no Decreto-Lei n.º 191-F/79, de 26 de Junho, a que se refere o n.º 3 do artigo mencionado nos números anteriores.
+4 - Não carecem de anotação pelo Tribunal de Contas as situações resultantes da valorização de categorias operada pelo Decreto-Lei n.º 465/80, de 14 de Outubro, quando não haja alteração de designação.
+Secretaria de Estado da Reforma Administrativa, 31 de Dezembro de 1980. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.
