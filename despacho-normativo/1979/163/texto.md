@@ -1,0 +1,3 @@
+Despacho Normativo n.º 163/79
+Tendo-se suscitado dúvidas acerca da interpretação do n.º 2 do artigo 11.º do Decreto Regulamentar n.º 6-A/79, de 24 de Março, esclarece-se, nos termos do artigo 61.º do mesmo diploma, que a dependência funcional ali referida deve entender-se unicamente como a decorrente das normas e directrizes gerais de actuação técnica que às direcções-gerais e organismos equiparados incumbem dentro do espírito do Decreto-Lei n.º 221/77, de 28 de Maio, e da letra do n.º 1 do seu artigo 41.º
+Ministério da Agricultura e Pescas, 26 de Junho de 1979. - O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal.
