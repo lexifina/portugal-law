@@ -12,4 +12,4 @@
 
 5 - Os direitos especiais não podem ser suprimidos ou coarctados sem o consentimento do respectivo titular, salvo regra legal ou estipulação contratual expressa em contrário.
 
-6 - Nas sociedades anónimas, o consentimento referido na alínea anterior é dado por deliberação tomada em assembleia especial dos accionistas titulares de acções da respectiva categoria.
+6 - Nas sociedades anónimas, o consentimento referido no número anterior é dado por deliberação tomada em assembleia especial dos accionistas titulares de acções da respectiva categoria.

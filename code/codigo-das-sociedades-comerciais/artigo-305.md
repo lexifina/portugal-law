@@ -28,7 +28,7 @@ i) Os ónus ou encargos incidentes sobre as acções em regime de registo;
 
 j) As acções preferenciais sem voto;
 
-l) As acções remíveis e as datas de remissão;
+l) As acções remíveis e as datas de remição;
 
 m) As acções amortizadas e os montantes das amortizações;
 

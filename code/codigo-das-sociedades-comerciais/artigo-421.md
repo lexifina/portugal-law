@@ -1,8 +1,8 @@
 # Artigo 421.º
 
-### (Poderes do conselho)
+### Poderes do fiscal único e dos membros do conselho fiscal
 
-1 - Para o desempenho das suas funções, podem os membros do conselho fiscal, conjunta ou separadamente:
+1 - Para o desempenho das suas funções, pode o fiscal único ou qualquer membro do conselho fiscal, conjunta ou separadamente:
 
 a) Obter da administração a apresentação, para exame e verificação, dos livros, registos e documentos da sociedade, bem como verificar os documentos de qualquer classe de valores, designadamente dinheiro, títulos e mercadorias;
 
