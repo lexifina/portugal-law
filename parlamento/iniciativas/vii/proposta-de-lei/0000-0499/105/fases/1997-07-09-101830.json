@@ -1,0 +1,828 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "105",
+    "id": "5093",
+    "titulo": "Autoriza o Governo a alterar o decreto-lei n° 454/91,de 28 de Dezembro (regime jurídico do cheque sem provisão)."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1997-07-09",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1140",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1997-07-09",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1997-07-09",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1087",
+                "nome": "Pedro Feist"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46469",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3262-3262"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-07-10",
+                "pubLeg": "VII",
+                "pubNr": "91",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/091/1997-07-10/3262?pgs=3262&org=PLC"
+              }
+            ],
+            "sumario": "ESTABELECE NORMAS RELATIVAS AO USO DO CHEQUE: ALTERACAO DODECRETO-LEI N° 454/91 DE 28 DE DEZEMBRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1430",
+                "nome": "Antonino Antunes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46470",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3262-3262"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-07-10",
+                "pubLeg": "VII",
+                "pubNr": "91",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/091/1997-07-10/3262?pgs=3262&org=PLC"
+              }
+            ],
+            "sumario": "ESTABELECE NORMAS RELATIVAS AO USO DO CHEQUE: ALTERACAO DODECRETO-LEI N° 454/91 DE 28 DE DEZEMBRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46471",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3262-3262"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-07-10",
+                "pubLeg": "VII",
+                "pubNr": "91",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/091/1997-07-10/3262?pgs=3262&org=PLC"
+              }
+            ],
+            "sumario": "ESTABELECE NORMAS RELATIVAS AO USO DO CHEQUE: ALTERACAO DODECRETO-LEI N° 454/91 DE 28 DE DEZEMBRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  JUSTIÇA",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Vera Jardim"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46472",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3261-3262",
+                  "3263-3263"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-07-10",
+                "pubLeg": "VII",
+                "pubNr": "91",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/091/1997-07-10/3261?pgs=3261-3262,3263&org=PLC"
+              }
+            ],
+            "sumario": "ESTABELECE NORMAS RELATIVAS AO USO DO CHEQUE: ALTERACAO DODECRETO-LEI N° 454/91 DE 28 DE DEZEMBRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1430",
+                "nome": "Antonino Antunes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46473",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3261-3261"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-07-10",
+                "pubLeg": "VII",
+                "pubNr": "91",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/091/1997-07-10/3261?pgs=3261&org=PLC"
+              }
+            ],
+            "sumario": "ESTABELECE NORMAS RELATIVAS AO USO DO CHEQUE: ALTERACAO DODECRETO-LEI N° 454/91 DE 28 DE DEZEMBRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1087",
+                "nome": "Pedro Feist"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46474",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3261-3261"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-07-10",
+                "pubLeg": "VII",
+                "pubNr": "91",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/091/1997-07-10/3261?pgs=3261&org=PLC"
+              }
+            ],
+            "sumario": "ESTABELECE NORMAS RELATIVAS AO USO DO CHEQUE: ALTERACAO DODECRETO-LEI N° 454/91 DE 28 DE DEZEMBRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "480",
+                "nome": "Antão Ramos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46475",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3259-3260"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-07-10",
+                "pubLeg": "VII",
+                "pubNr": "91",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/091/1997-07-10/3259?pgs=3259-3260&org=PLC"
+              }
+            ],
+            "sumario": "ESTABELECE NORMAS RELATIVAS AO USO DO CHEQUE: ALTERACAO DODECRETO-LEI N° 454/91 DE 28 DE DEZEMBRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1430",
+                "nome": "Antonino Antunes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46476",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3259-3259"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-07-10",
+                "pubLeg": "VII",
+                "pubNr": "91",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/091/1997-07-10/3259?pgs=3259&org=PLC"
+              }
+            ],
+            "sumario": "ESTABELECE NORMAS RELATIVAS AO USO DO CHEQUE: ALTERACAO DODECRETO-LEI N° 454/91 DE 28 DE DEZEMBRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  JUSTIÇA",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Vera Jardim"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46477",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3259-3259"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-07-10",
+                "pubLeg": "VII",
+                "pubNr": "91",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/091/1997-07-10/3259?pgs=3259&org=PLC"
+              }
+            ],
+            "sumario": "ESTABELECE NORMAS RELATIVAS AO USO DO CHEQUE: ALTERACAO DODECRETO-LEI N° 454/91 DE 28 DE DEZEMBRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1430",
+                "nome": "Antonino Antunes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46478",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3256-3259",
+                  "3261-3262"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-07-10",
+                "pubLeg": "VII",
+                "pubNr": "91",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/091/1997-07-10/3256?pgs=3256-3259,3261-3262&org=PLC"
+              }
+            ],
+            "sumario": "ESTABELECE NORMAS RELATIVAS AO USO DO CHEQUE: ALTERACAO DODECRETO-LEI N° 454/91 DE 28 DE DEZEMBRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46479",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3256-3262"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-07-10",
+                "pubLeg": "VII",
+                "pubNr": "91",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/091/1997-07-10/3256?pgs=3256-3262&org=PLC"
+              }
+            ],
+            "sumario": "ESTABELECE NORMAS RELATIVAS AO USO DO CHEQUE: ALTERACAO DODECRETO-LEI N° 454/91 DE 28 DE DEZEMBRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1087",
+                "nome": "Pedro Feist"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46480",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3254-3256",
+                  "3262-3263"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-07-10",
+                "pubLeg": "VII",
+                "pubNr": "91",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/091/1997-07-10/3254?pgs=3254-3256,3262-3263&org=PLC"
+              }
+            ],
+            "sumario": "ESTABELECE NORMAS RELATIVAS AO USO DO CHEQUE: ALTERACAO DODECRETO-LEI N° 454/91 DE 28 DE DEZEMBRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1087",
+                "nome": "Pedro Feist"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46481",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3253-3253"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-07-10",
+                "pubLeg": "VII",
+                "pubNr": "91",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/091/1997-07-10/3253?pgs=3253&org=PLC"
+              }
+            ],
+            "sumario": "ESTABELECE NORMAS RELATIVAS AO USO DO CHEQUE: ALTERACAO DODECRETO-LEI N° 454/91 DE 28 DE DEZEMBRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46482",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3252-3254"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-07-10",
+                "pubLeg": "VII",
+                "pubNr": "91",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/091/1997-07-10/3252?pgs=3252-3254&org=PLC"
+              }
+            ],
+            "sumario": "ESTABELECE NORMAS RELATIVAS AO USO DO CHEQUE: ALTERACAO DODECRETO-LEI N° 454/91 DE 28 DE DEZEMBRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  JUSTIÇA",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Vera Jardim"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46483",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3249-3252",
+                  "3253-3254"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-07-10",
+                "pubLeg": "VII",
+                "pubNr": "91",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/091/1997-07-10/3249?pgs=3249-3252,3253-3254&org=PLC"
+              }
+            ],
+            "sumario": "ESTABELECE NORMAS RELATIVAS AO USO DO CHEQUE: ALTERACAO DODECRETO-LEI N° 454/91 DE 28 DE DEZEMBRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  JUSTIÇA",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Vera Jardim"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107255",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3259-3259"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-07-10",
+                "pubLeg": "VII",
+                "pubNr": "91",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/091/1997-07-10/3259?pgs=3259&org=PLC"
+              }
+            ],
+            "sumario": "ESTABELECE NORMAS RELATIVAS AO USO DO CHEQUE: ALTERACAO DODECRETO-LEI N° 454/91 DE 28 DE DEZEMBRO",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "101830",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1140",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1997-07-10",
+        "pubLeg": "VII",
+        "pubNr": "91",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/091/1997-07-10?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
