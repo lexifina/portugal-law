@@ -1,0 +1,20 @@
+Despacho Normativo n.º 182/82
+Dando cumprimento ao disposto no artigo 13.º do Decreto-Lei n.º 260/76, de 8 de Abril, com a nova redacção introduzida pelo Decreto-Lei n.º 25/79, de 19 de Fevereiro, e à Resolução do Conselho de Ministros n.º 61-A/81, de 10 de Fevereiro, o Ministro de Estado e das Finanças e do Plano e o Secretário de Estado Adjunto do Primeiro-Ministro determinam:
+1 - Consideram-se incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1982 os projectos da EPNC - Empresa Pública dos Jornais Notícias e Capital, E. P., a seguir discriminados, cuja execução não deverá implicar a realização de uma formação bruta de capital fixo e de uma despesa de investimento superiores a 130 milhares de contos:
+Projectos de desenvolvimento:
+Em curso:
+Sistema de fotocomposição - zonas 1 e 3;
+Equipamento fotográfico;
+Equipamento informático;
+Reconversão de rotativa;
+Frota automóvel;
+Ampliação e adaptação de instalações;
+Equipamento de ar condicionado.
+Novos:
+Equipamentos diversos.
+Investimentos correntes.
+2 - A despesa de investimento referida no n.º 1 será financiada por uma dotação para capital da empresa no montante de 50 milhões de escudos. Esta e eventualmente outra dotação adicional poderão assumir a forma de empréstimo subordinado ou de quase-capital, nos termos que venham a ser definidos.
+3 - No presente ano fica vedado à empresa lançar e financiar qualquer projecto de investimento não incluído no n.º 1.
+4 - A utilização das dotações para capital referidas no n.º 2 far-se-á após apresentação por parte da empresa ao Secretário de Estado Adjunto do Primeiro-Ministro e ao Secretário de Estado das Finanças de memória justificativa de necessidade da sua utilização, a qual, após despacho favorável dos membros do Governo, será enviada à Direcção-Geral do Tesouro para efeitos de disponibilização daquelas dotações.
+5 - A empresa deverá apresentar ao Ministro de Estado e das Finanças e do Plano e ao Secretário de Estado Adjunto do Primeiro-Ministro, no prazo de 30 dias, a contar da data de publicação do presente despacho, os instrumentos previsionais de gestão para 1982 actualizados de acordo com as alterações decorrentes dos números anteriores e outras que, no entretanto, lhe tenham sido comunicadas, de acordo com o artigo 13.º do Decreto-Lei n.º 260/76, de 8 de Abril, com a nova redacção introduzida pelo Decreto-Lei n.º 25/79, de 19 de Fevereiro.
+Presidência do Conselho de Ministros e Ministério das Finanças e do Plano, 30 de Julho de 1982. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro. - O Secretário de Estado Adjunto do Primeiro-Ministro, José Carlos Alfaia Pinto Pereira.
