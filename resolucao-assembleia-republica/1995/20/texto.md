@@ -1,0 +1,8 @@
+Resolução da Assembleia da República n.º 20/95
+Apreciação da actividade parlamentar na XI Conferência de Órgãos Especializados em Assuntos Comunitários - COSAC
+A Assembleia da República resolve, nos termos dos artigos 1.º da Lei n.º 20/94, de 15 de Junho, 166.º, alínea f), e 169.º, n.º 5, da Constituição, o seguinte:
+1 - Apreciar o relatório sobre os resultados da XI COSAC, que se realizou em Bona, nos dias 24 e 25 de Outubro, na medida em que se revelam um maior envolvimento dos Parlamentos nacionais na construção da União Europeia. A presença do Presidente do Conselho Europeu, respondendo às perguntas dos diversos parlamentares, é demonstrativa da importância destas conferências.
+2 - Formalizar a iniciativa da Comissão de Assuntos Europeus de elaborar um relatório aprofundado sobre a preparação da Conferência Intergovernamental de 1996 (CIG 96), enquanto contributo para a XII COSAC, a realizar em Paris, no mês de Fevereiro do próximo ano, incentivando-se a colaboração das comissões da Assembleia da República que estiverem interessadas em participar. Manifestar o regozijo pela aceitação desta iniciativa, bem como da sugestão de se convocar uma COSAC extraordinária para acompanhar o trabalho do grupo de representantes pessoais dos Ministros dos Negócios Estrangeiros da União Europeia (afastando-se uma proposta de esse acompanhamento ser efectuado unicamente pela "troika presidencial").
+3 - Relevar que a delegação nacional exprimiu em importantes matérias uma posição consensual na defesa dos interesses portugueses, sem embargo do pluralismo inerente a uma representação parlamentar.
+Aprovada em 2 de Março de 1995.
+O Presidente da Assembleia da República, António Moreira Barbosa de Melo.
