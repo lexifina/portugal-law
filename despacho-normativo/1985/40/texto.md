@@ -1,0 +1,20 @@
+Despacho Normativo n.º 40/85
+Nos termos do n.º 4 da Resolução do Conselho de Ministros n.º 55/84, de 28 de Dezembro, o Programa de Financiamento a Arrendatários Rurais (PAR) alarga também o seu âmbito de acção às sociedades de agricultura de grupo reconhecidas pelo Ministério da Agricultura, com prioridade para as constituídas exclusivamente por jovens agricultores.
+Desta forma, as sociedades de agricultura de grupo passam a beneficiar do crédito PAR na aquisição de prédios arrendados e nas acções de emparcelamento.
+Nestes termos, é decidido o seguinte:
+1 - Condições de acesso a este crédito pelas sociedades de agricultura de grupo (SAG).
+1.1 - Requisitos que a SAG deve satisfazer para a formulação do pedido de financiamento:
+1.1.1 - Ter sido reconhecida pelo Ministério da Agricultura nos termos da legislação vigente;
+1.1.2 - Não explorar em comum área que exceda 10 vezes a área de exploração familiar economicamente viável, incluindo aquela a financiar;
+1.1.3 - Apresentar um exemplar dos estatutos;
+1.1.4 - Apresentar fotocópia da certidão de inscrição na conservatória do registo comercial;
+1.1.5 - Apresentar cópia (ou fotocópia) da acta da assembleia geral em que foi deliberado adquirir o ou os prédios para os quais irá ser contraído o empréstimo, ao abrigo das condições estipuladas para o PAR;
+1.1.6 - Apresentar cópia (ou fotocópia) da acta e deliberação da assembleia sobre quais os sócios que irão outorgar em nome da sociedade na escritura de compra e venda;
+1.1.7 - Apresentar um exemplar do relatório e contas do último exercício.
+1.2 - Condições a observar relativamente aos prédios rústicos a transaccionar:
+1.2.1 - Estarem registados na conservatória do registo predial em nome do vendedor identificado no pedido de financiamento.
+Na impossibilidade ou dificuldade do registo do prédio ou prédios, poderá a garantia ser dada por outro ou outros prédios da sociedade registados na conservatória e livres de quaisquer ónus, encargos e responsabilidades e de valor nunca inferior ao do prédio ou prédios em transacção;
+1.2.2 - Estarem livres de quaisquer ónus, encargos ou responsabilidades à data da celebração da escritura de venda;
+1.2.3 - Irem inserir-se em unidades agrícolas, agro-pecuárias ou florestais com viabilidade técnico-económica devidamente reconhecida pelos competentes serviços do Ministério da Agricultura.
+2 - As sociedades que adquirirem prédio ou prédios rústicos com financiamentos PAR não poderão dar de exploração, locar, alienar, arrendar, emprestar, ceder por comodato ou por qualquer outra forma onerar, total ou parcialmente, os respectivos prédio ou prédios, bem como os porventura dados em garantia, enquanto não pagarem integralmente o financiamento ao banco e ao Estado, sob pena de vencimento imediato do crédito.
+Ministérios das Finanças e do Plano e da Agricultura, 15 de Maio de 1985. - Pelo Ministro das Finanças e do Plano, António d'Almeida, Secretário de Estado do Tesouro. - O Ministro da Agricultura, Álvaro Roque de Pinho Bissaia Barreto.
