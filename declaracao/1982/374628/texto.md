@@ -1,0 +1,7 @@
+Declaração
+Segundo comunicação do Ministério da Agricultura, Comércio e Pescas, a Portaria n.º 614/82, publicada no Diário da República, 1.ª série, n.º 140, de 21 de Junho de 1982, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No anexo 1, capítulo XVI, n.º 64, onde se lê «São revogadas as Portarias n.º 809/81, de 17 de Setembro, 16739, de 17 de Julho de 1958, 18618, de 23 de Julho de 1961, e 19073, de 3 de Março de 1962.» deve ler-se «São revogadas as Portarias n.os 809/81, de 17 de Setembro, 16769, de 17 de Julho de 1958, 18618, de 23 de Julho de 1961, e 19073, de 13 de Março de 1962.».
+No anexo 2, capítulo V, n.º 19, no quadro, nas colunas Espécie - trigo mole, Categoria - certificada, Pureza varietal mínima (percentagem de sementes), onde se lê «1.ª geração - 99,9» «2.ª geração - 99,9» deve ler-se «1.ª geração - 99,9» «2.ª geração - 99,5».
+No mesmo quadro, na coluna Sanidade, onde se lê «Claviceps purpurea (máximo de esclarotes em frag. 500 g)» deve ler-se «Claviceps purpurea (máximo de esclerotes ou fragmentos em 500 g)».
+No anexo 3, capítulo III, n.º 7, alínea e), onde se lê «a reserva referida na alínea b);» deve ler-se «a reserva referida na alínea d);», e no capítulo IV, n.º 22, no quadro, na coluna Híbridos simples - Numa só inspecção, onde se lê «0,0 a 0,25» deve ler-se «0,01 a 0,025».
+Secretaria-Geral da Presidência do Conselho de Ministros, 17 de Agosto de 1982. - Pelo Secretário-Geral, o Director dos Serviços Administrativos, José Serra.
