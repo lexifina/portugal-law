@@ -1,0 +1,4 @@
+Anúncio n.º 5/96
+Faz-se saber que no dia 30 de Maio de 1995 foi instaurado na 1.ª Secção do Supremo Tribunal Administrativo, pelo Sindicado dos Trabalhadores da Função Pública do Sul e Açores, correndo termos pela 1.ª Subsecção, sob o n.º 37816, um processo de pedido de declaração de ilegalidade, com base no segundo dos pressupostos previstos na alínea i) do n.º 1 do artigo 26.º do Estatuto dos Tribunais Administrativos e Fiscais, dos n.os 1.º e 5.º da Portaria n.º 1093-A/94, de 7 de Dezembro, com a redacção que lhe foi dada pelo n.º 1.º da Portaria n.º 87/95, de 31 de Janeiro, do Ministro das Finanças.
+Os eventuais interessados podem intervir no processo, nos termos e nos prazos fixados na lei.
+Lisboa, 24 de Abril de 1996. - O Juiz Conselheiro Relator, Carlos Alberto Vaz Serra Lima. - A Escrivã-Adjunta, Maria José Metello de Nápoles.
