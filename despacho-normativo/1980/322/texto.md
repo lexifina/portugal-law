@@ -1,0 +1,7 @@
+Despacho Normativo n.º 322/80
+A península de Tróia, pela sua localização e atributos naturais, apresenta incontestável vocação turística.
+No entanto, a criação de uma frente turística de qualidade contígua a uma área de considerável valor ecológico, científico e económico como é a do estuário do Sado (e que urge defender) exige que o desenvolvimento dessas potencialidades tenha em conta aquele conjunto de valores.
+Logo, a ocupação turística da península de Tróia deve reflectir, na sua concepção, uma visão global de desenvolvimento integrado, que abrange, por um lado, o ambiente natural de alta qualidade paisagística e, por outro, essa mesma alta qualidade transposta para o ambiente urbano mais adequado às características da zona.
+A estes parâmetros deve obedecer a reformulação dos estudos apresentados para a península de Tróia.
+Em colaboração com as entidades oficiais de tutela, serão alcançadas as soluções técnicas e estéticas que defendam as condições naturais e a sua compatibilidade com a implantação dos complexos turísticos de alta qualidade essenciais para a valorização da nossa oferta nos mercados internacionais
+Secretarias de Estado do Ordenamento e Ambiente e do Turismo, 22 de Setembro de 1980. - O Secretário de Estado do Ordenamento e Ambiente, Aurora Margarida de Carvalho Santos Borges de Carvalho. - O Secretário de Estado do Turismo, Alberto Heleno do Nascimento Regueira.
