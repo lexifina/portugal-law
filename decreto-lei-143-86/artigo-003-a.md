@@ -1,23 +1,9 @@
 # Artigo 3.º-A
 
-1 - No caso de veículos automóveis, independentemente de estarem em causa aquisições no mercado nacional, aquisições intracomunitárias ou importações, a isenção de imposto será concedida até aos seguintes limites:
+1 - A restituição do imposto respeitante a automóveis será restrita a uma única viatura para cada representação diplomática ou agregado familiar.
 
-a) Para cada missão diplomática ou consular de carreira, os veículos automóveis necessários ao seu serviço oficial, de acordo com critérios de razoabilidade definidos pelo Ministério dos Negócios Estrangeiros;
+2 - Se os proprietários dos veículos automóveis cujo imposto foi restituído pretenderem proceder à sua alienação antes de decorridos cinco anos sobre a data de aquisição, deverão solicitar na repartição de finanças da área da representação diplomática a que pertencem a liquidação do IVA correspondente ao preço de venda, que não poderá ser inferior ao que resulta da aplicação ao preço de veículo novo à data de venda, com exclusão do IVA, das percentagens seguintes:
 
-b) Até três veículos automóveis, para os chefes de missão diplomática;
+(ver documento original)
 
-c) Um veículo automóvel, para cada um dos demais funcionários constantes da lista do corpo diplomático, ou até dois veículos automóveis, no caso de funcionário casado, a viver em união de facto ou com família a seu cargo;
-
-d) Um veículo automóvel, para os cônsules de carreira, ou até dois veículos automóveis, no caso de funcionário casado, a viver em união de facto ou com família a seu cargo;
-
-e) Um veículo automóvel, para os funcionários administrativos e técnicos de carreira que não tenham em Portugal a sua residência permanente, o qual deverá ser adquirido ou importado no prazo máximo de seis meses após a data da sua chegada.
-
-2 - Se os proprietários dos veículos automóveis abrangidos pelo benefício estabelecido no número anterior pretenderem proceder à sua alienação antes de decorridos cinco anos sobre a data de aquisição ou importação, deverão solicitar no serviço de finanças da área da representação diplomática a que pertencem a liquidação do IVA correspondente ao preço de venda, que não poderá ser inferior ao que resulta da aplicação ao preço de veículo novo à data de venda, com exclusão do IVA, das percentagens seguintes:
-
-(ver quadro no documento original)
-
-3 - Caso a introdução no consumo dos veículos automóveis a que se refere o número anterior fique igualmente sujeita a imposto sobre veículos, os proprietários devem pagar o IVA junto das entidades competentes para a cobrança daquele imposto.
-
-4 - Nos casos de falecimento do proprietário do veículo, de furto e de acidente de que resulte a impossibilidade de recuperação da viatura, o Ministro das Finanças, sob proposta do Ministro dos Negócios Estrangeiros, poderá dispensar o pagamento do IVA previsto no n.º 2.
-
-5 - O disposto nos n.os 1 e 2 poderá ser condicionado à verificação de condições de reciprocidade entre Portugal e o país a que pertence a respectiva representação diplomática ou consular.
+3 - Nos casos de falecimento do proprietário do veículo e de acidente grave ou de furto de que resulte a impossibilidade de recuperçaão da viatura, o Ministro das Finanças, sob proposta do Ministro dos Negócios Estrangeiros, poderá dispensar o pagamento do IVA previsto no número anterior.
