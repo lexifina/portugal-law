@@ -1,0 +1,4 @@
+Portaria n.º 64/82
+de 15 de Janeiro
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros da Habitação, Obras Públicas e Transportes e da Reforma Administrativa, ao abrigo do n.º 2 do artigo 14.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, criar no quadro de pessoal da Direcção-Geral das Construções Escolares, aprovado pelo Decreto-Lei n.º 279/78, de 7 de Setembro, 1 lugar de engenheiro civil assessor, letra C, a extinguir quando vagar.
+Ministérios das Finanças e do Plano, da Habitação, Obras Públicas e Transportes e da Reforma Administrativa, 30 de Setembro de 1981. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Habitação, Obras Públicas e Transportes, José Carlos Pinto Soromenho Viana Baptista. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
