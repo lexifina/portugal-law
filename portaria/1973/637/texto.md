@@ -1,0 +1,13 @@
+Portaria n.º 637/73
+de 25 de Setembro
+Tornando-se necessário definir as condições de ingresso e de prestação de serviço na reserva naval de praças dos quadros do activo, provenientes do recrutamento especial, que na Armada adquiriram as habilitações para tal necessárias:
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
+1.º As praças da classe de condutores de máquinas, oriundas do recrutamento especial, que tenham frequentado com aproveitamento o curso de alistamento de artífices condutores de máquinas para que tenham sido nomeados em substituição do curso de aplicação de 1.º grau da sua classe, poderão, se para tal se declararem voluntários:
+a) Ingressar nos quadros permanentes, na classe de artífices condutores de máquinas, nas mesmas condições e com as mesmas obrigações dos alunos que frequentaram o mesmo curso, com destino a esta classe; ou
+b) Ser transferidos para os quadros de complemento, para prestarem o tempo que lhes falta do período de serviço a que se obrigaram quando do seu alistamento na Armada, como subsargentos da reserva naval, da classe de técnicos e especialistas, do ramo de artífices condutores de máquinas.
+2.º Os indivíduos transferidos para a reserva naval, nas condições previstas na alínea b) do número anterior, são considerados já habilitados com o 2.º ciclo do Curso de Formação de Sargentos de Complemento, a que se refere a Portaria n.º 23849, de 14 de Janeiro de 1969.
+3.º Os indivíduos referidos no número anterior são, nos termos do n.º 10.º da Portaria n.º 23849, graduados em cabo, na data do seu ingresso na reserva naval, mantendo, contudo, o posto a que ascenderam nos quadros do activo e os vencimentos a este correspondentes.
+4.º Os mesmos indivíduos, após o seu ingresso na reserva naval, frequentam o curso complementar de artífices condutores de máquinas que, para eles, constitui condição especial de promoção ao posto de subsargento e de graduação no mesmo posto, nas condições previstas no n.º 24.º-A da Portaria n.º 23851, de 15 de Janeiro de 1969.
+5.º As vacaturas que ocorrerem nos quadros do activo, em resultado da transferência para a reserva naval das praças a que a presente portaria se refere, só serão preenchidas quando as mesmas praças tiverem logrado promoção ao posto de subsargento.
+6.º Salvo no que, de modo diferente, se encontra regulado na presente portaria, a vida militar dos sargentos de complemento, a que a mesma se refere, rege-se pelos preceitos gerais fixados na Portaria n.º 23851, de 15 de Janeiro de 1969.
+Ministério da Marinha, 10 de Setembro de 1973. - O Ministro da Marinha, Manuel Pereira Crespo.
