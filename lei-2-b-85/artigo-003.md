@@ -6,7 +6,7 @@
 
 ### (Empréstimos)
 
-1 - O Governo fica autorizado, nos termos da alínea h) do artigo 164.º da Constituição, a contrair empréstimos internos a prazo superior a 1 ano até ao montante de 280,059 milhões de contos e a realizar operações externas até perfazerem um endividamento líquido adicional equivalente a 600 milhões de dólares americanos, para fazer face ao défice do Orçamento do Estado, em condições a fixar em decreto-lei.
+1 - O Governo fica autorizado, nos termos da alínea h) do artigo 164.º da Constituição, a contrair empréstimos internos a prazo superior a 1 ano até ao montante de 338,51 milhões de contos e a realizar operações externas até perfazerem um endividamento líquido adicional equivalente a 600 milhões de dólares americanos, para fazer face ao défice do Orçamento do Estado, em condições a fixar em decreto-lei.
 
 2 - A emissão de empréstimos internos de prazo superior a 1 ano subordinar-se-á às seguintes condições gerais:
 
