@@ -1,0 +1,7 @@
+Portaria n.º 194/77
+de 11 de Abril
+Reconhecendo-se a necessidade de estipular a obrigatoriedade da passagem de guias de vencimentos em todos os casos em que, num dado conselho administrativo, cessa o pagamento de vencimentos a qualquer militar, de modo a permitir, além do mais, reabrir, quando e se necessário, o seu processo administrativo de vencimentos:
+Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, ao abrigo do disposto no artigo 4.º do Decreto n.º 31859, de 17 de Janeiro de 1942, o seguinte:
+Ao artigo 353.º do Regulamento de Administração da Fazenda Naval, aprovado pelo Decreto n.º 31859, de 17 de Janeiro de 1942, é aditado o seguinte parágrafo:
+§ único. Igualmente são passadas guias de vencimentos a todo o pessoal que deixe de receber por um conselho administrativo por motivos diferentes dos referidos, nomeadamente por ter tido baixa aos efectivos da Armada, por ter entrado no uso de licença registada ou de licença ilimitada ou, ainda, por se ter colocado na situação de desertor. Nestes casos, as guias serão arquivadas nos processos individuais das respectivas repartições da Direcção do Serviço do Pessoal.
+Estado-Maior da Armada, 17 de Março de 1977. - O Chefe do Estado-Maior da Armada, Augusto Souto Silva Cruz, vice-almirante.
