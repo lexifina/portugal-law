@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação da 10.ª Delegação da Direcção-Geral da Contabilidade Pública junto do Ministério da Educação, a declaração de transferências de verbas publicada no 7.º suplemento ao Diário da República, 1.ª série, n.º 301, de 31 de Dezembro de 1984, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Onde se lê «Cap. 14, div. 15, Instituto Politécnico de Setúbal, subdiv. -, Serviços centrais e escolas superiores» deve ler-se «Cap. 14, div. 15, Instituto Politécnico de Setúbal, subdiv. 01, Serviços centrais e escolas superiores» e onde se lê «Cap. 14, div. 20, subdiv. 01» deve ler-se «Cap. 14, div. 20».
+Secretaria-Geral da Presidência do Conselho de Ministros, 29 de Março de 1985. - O Secretário-Geral, França Martins.
