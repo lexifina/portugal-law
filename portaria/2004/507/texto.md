@@ -1,0 +1,19 @@
+Portaria n.º 507/2004
+de 14 de Maio
+O Decreto-Lei n.º 30/2004, de 6 de Fevereiro, estabelece que a Autoridade da Concorrência receberá, a título de receitas próprias, o valor máximo de 7,5% do montante das taxas cobradas, no último exercício em que tenham contas fechadas, de sete entidades reguladoras sectoriais, a saber, o Instituto de Seguros de Portugal, a Entidade Reguladora dos Serviços Energéticos, o ICP - Autoridade Nacional de Comunicações, o Instituto Regulador das Águas e Resíduos, o Instituto Nacional de Transporte Ferroviário, o Instituto Nacional de Aviação Civil e o Instituto dos Mercados de Obras Públicas e Particulares e do Imobiliário.
+De acordo com o previsto nesse diploma, é necessário estabelecer anualmente o valor da percentagem a aplicar sobre o montante das taxas cobradas pelas entidades acima identificadas e a respectiva base de incidência, bem como a forma de transferência dos montantes devidos.
+Assim, nos termos do previsto no n.º 2 do artigo 1.º e no artigo 2.º do Decreto-Lei n.º 30/2004, de 6 de Fevereiro, manda o Governo, pelos Ministros de Estado e das Finanças, da Economia, das Obras Públicas, Transportes e Habitação e das Cidades, Ordenamento do Território e Ambiente, que, no ano de 2004, seja de 6,25% o valor aplicado sobre o montante das taxas cobradas, salvo o disposto no n.º 6.º da presente portaria.
+1.º No que respeita ao Instituto de Seguros de Portugal (ISP), nos termos do disposto na alínea a) do n.º 1 do artigo 30.º dos Estatutos do ISP, aprovados pelo Decreto-Lei n.º 289/2001, de 13 de Novembro.
+2.º No que respeita à Entidade Reguladora dos Serviços Energéticos (ERSE), nos termos do disposto na alínea a) do n.º 1 do artigo 50.º dos Estatutos da ERSE, aprovados pelo Decreto-Lei n.º 97/2002, de 12 de Abril.
+3.º No que respeita ao ICP - Autoridade Nacional de Comunicações (ICP - ANACOM), nos termos do disposto nas alíneas a) e b) do artigo 43.º dos respectivos Estatutos, aprovados pelo Decreto-Lei n.º 309/2001, de 7 de Dezembro.
+4.º No que respeita ao Instituto Nacional de Aviação Civil (INAC), nos termos do disposto na alínea a) do n.º 1 do artigo 26.º dos Estatutos do INAC, aprovados pelo Decreto-Lei n.º 133/98, de 15 de Maio, alterados pelo Decreto-Lei n.º 145/2002, de 21 de Maio.
+5.º No que respeita ao Instituto dos Mercados de Obras Públicas e Particulares e do Imobiliário (IMOPPI), nos termos do disposto na alínea a) do n.º 1 do artigo 26.º dos Estatutos do IMOPPI, aprovados pelo Decreto-Lei n.º 60/99, de 2 de Março, alterados pelo Decreto-Lei n.º 339-E/2001, de 31 de Dezembro.
+6.º No que respeita ao Instituto Nacional dos Transportes Ferroviários (INTF), no ano de 2004, é de 3,75% o valor aplicado sobre o montante das taxas cobradas nos termos do disposto na alínea b) do n.º 2 do artigo 33.º dos Estatutos do INTF, aprovados pelo Decreto-Lei n.º 299-B/98, de 29 de Setembro, alterados pelo Decreto-Lei n.º 270/2003, de 28 de Outubro.
+7.º Para adequar os registos contabilísticos aos montantes de cash flow disponíveis, estabelece-se que a transferência dos montantes devidos será efectuada nos seguintes termos:
+a) No caso do ISP, no início de Fevereiro e de Agosto, até ao dia 15 de cada mês;
+b) No caso da ERSE e do INTF, no início de cada trimestre, até ao dia 15 de cada mês;
+c) No caso do ICP - ANACOM e do IMOPPI, em duodécimos, mensalmente, até ao dia 15 de cada mês;
+d) No caso do INAC, no início de Junho e de Setembro, até ao dia 15 de cada mês.
+8.º A título excepcional, em 2004, a primeira parcela devida pelo ISP será transferida imediatamente após a publicação desta portaria.
+Em 7 de Abril de 2004.
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Economia, Carlos Manuel Tavares da Silva. - O Ministro das Obras Públicas, Transportes e Habitação, António Pedro de Nobre Carmona Rodrigues. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Amílcar Augusto Contel Martins Theias.
