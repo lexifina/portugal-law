@@ -1,0 +1,5 @@
+Portaria n.º 22117
+A fim de fazer corresponder o regime instituído na Portaria n.º 21775, de 6 de Janeiro de 1966, à elevação do preço do figo industrial a que se refere o despacho do Secretário de Estado do Comércio, de 21 de Outubro de 1965, constante da declaração publicada no Diário do Governo, 1.ª série, de 12 de Novembro do mesmo ano:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio, que o n.º 10.º da Portaria n.º 21775, de 6 de Janeiro de 1966, passe a ter a seguinte redacção:
+10.º As receitas não despendidas com os reembolsos previstos no n.º 4.º serão aplicadas na cobertura dos encargos resultantes da elevação do preço do figo industrial e das despesas de funcionamento e fiscalização do regime estabelecido nesta portaria e, mediante despacho do Secretário de Estado do Comércio, na cobertura de prejuízos resultantes da exportação de álcool industrial e vínico, de aguardente vínica e de vinhos e na construção de destilarias cooperativas de produtores de figo.
+Secretaria de Estado do Comércio, 16 de Julho de 1966. - O Secretário de Estado do Comércio, Fernando Manuel Alves Machado.
