@@ -1,0 +1,7 @@
+Resolução n.º 204/77
+Considerando que pela Resolução n.º 99/77, publicada no Diário da República, 1.ª série, n.º 101, de 2 de Maio de 1977, foi determinada a intervenção do Estado nas empresas Companhia Fiação de Crestuma, Lda., Abel Alves de Figueiredo, Lda., e Fábrica de Fiação e Tecidos do Jacinto, S. A. R. L., ao abrigo do Decreto-Lei n.º 422/76, de 29 de Maio, por um período não superior a seis meses;
+Considerando que, dado o relativamente longo período decorrente entre a data da referida resolução e a da nomeação do presidente das comissões administrativas, se torna impossível apresentar a proposta constante do ponto 5 da mencionada Resolução n.º 99/77 dentro do prazo nela fixado;
+Considerando que a proposta em questão é elemento fundamental para que a Comissão Interministerial, nomeada nos termos do Decreto-Lei n.º 907/76, de 31 de Dezembro, se possa pronunciar sobre a cessação da intervenção do Estado nestas empresas:
+O Conselho de Ministros, reunido em 27 de Julho de 1977, resolveu:
+Conceder às comissões administrativas das empresas Companhia Fiação de Crestuma, Lda., Abel Alves de Figueiredo, Lda., e Fábrica de Fiação e Tecidos do Jacinto, S. A. R. L., um prazo adicional de sessenta dias para apresentação da proposta referida no ponto 5 da Resolução n.º 99/77 e prorrogar, sequentemente, a intervenção do Estado nas mencionadas empresas por igual período de tempo.
+Presidência do Conselho de Ministros, 27 de Julho de 1977. - O Primeiro-Ministro, Mário Soares.
