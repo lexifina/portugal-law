@@ -1,0 +1,11 @@
+Resolução do Conselho de Ministros n.º 84/2003
+O dinamismo do empreendimento do sistema de metro ligeiro da área metropolitana do Porto tem suscitado sucessivas alterações ao regime legal da sua concessão, vertido inicialmente no Decreto-Lei n.º 394-A/98, de 15 de Dezembro.
+Por outro lado, a Assembleia da República, por via da Lei n.º 161/99, de 14 de Setembro, fez inserir no quadro legal da concessão a previsão da segunda fase do sistema nos termos que vieram a resultar na actual alínea b) da base VI das denominadas Bases de Concessão.
+No que respeita ao subtroço Campanhã-Bonjóia-Antas, actualmente previsto na referida segunda fase, constata-se agora que a sua inserção na primeira fase se afigura de grande conveniência funcional, porquanto os fluxos de procura entre as estações de Campanhã e Antas são contínuos e ambas as localidades se inserem numa malha urbana homogénea.
+Com essa inserção possibilita-se também a antecipação da entrada em funcionamento deste subtroço, antes da realização do Euro 2004.
+Com efeito, é reconhecida a necessidade de facultar ao público e à população da área metropolitana do Porto a utilização de serviço de transporte de metro antes da realização do Euro 2004, bem como a necessidade de se assegurarem as melhores condições logísticas e de segurança no acesso ao Estádio das Antas, bem como potenciar o prestígio nacional associado ao evento desportivo.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Aprovar a realização imediata e urgente dos trabalhos de construção do subtroço Campanhã-Bonjóia-Antas, que fica assim compreendido no troço da primeira fase do empreendimento a denominar Antas-Campanhã-Trindade-Senhora da Hora-Matosinhos, sem prejuízo da necessária alteração legislativa do regime legal da concessão atribuída à Metro do Porto, S. A.
+2 - Na sequência desta aprovação, deve a Metro do Porto, S. A., envidar, de imediato, esforços para a contratação dos trabalhos e apresentar ao Governo projecto ou minuta do respectivo instrumento contratual, por forma a permitir a conclusão dos trabalhos, até ao mês de Maio de 2004.
+Presidência do Conselho de Ministros, 3 de Junho de 2003. - O Primeiro-Ministro, José Manuel Durão Barroso.
