@@ -1,0 +1,2540 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "117",
+    "id": "29202",
+    "titulo": "Orçamento do Estado para 1990"
+  },
+  "fase": "Requerimento avocação plenário",
+  "codigo_fase": "280",
+  "data_registo": "1989-12-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "17990",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "280",
+    "Comissao": null,
+    "DataFase": "1989-12-06",
+    "EvtId": "15",
+    "Fase": "Requerimento avocação plenário",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1989-12-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267457",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "817-818"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/817?pgs=817-818&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267458",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "818-818"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/818?pgs=818&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267463",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "818-818"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/818?pgs=818&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267465",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "818-819"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/818?pgs=818-819&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267466",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "819-819"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/819?pgs=819&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267467",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "819-820"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/819?pgs=819-820&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267468",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "820-820"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/820?pgs=820&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267469",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "820-820"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/820?pgs=820&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267471",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "821-821"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/821?pgs=821&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267475",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "821-821"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/821?pgs=821&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267477",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "821-822"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/821?pgs=821-822&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267483",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "822-822"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/822?pgs=822&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267484",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "822-822"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/822?pgs=822&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267485",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "822-822"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/822?pgs=822&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267486",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "822-822"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/822?pgs=822&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267505",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "822-822"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/822?pgs=822&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267487",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "822-822"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/822?pgs=822&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267488",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "823-823"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/823?pgs=823&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267489",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "823-824"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/823?pgs=823-824&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267490",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "824-824"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/824?pgs=824&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267491",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "824-824"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/824?pgs=824&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267492",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "824-825"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/824?pgs=824-825&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267493",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "825-825"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/825?pgs=825&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267494",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "825-825"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/825?pgs=825&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267495",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "825-825"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/825?pgs=825&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267496",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "825-825"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/825?pgs=825&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267497",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "825-825"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/825?pgs=825&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  ORÇAMENTO",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Rui Carp"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267498",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "825-825"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/825?pgs=825&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267499",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "825-825"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/825?pgs=825&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  ORÇAMENTO",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Rui Carp"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267500",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "825-826"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/825?pgs=825-826&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267501",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "826-826"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/826?pgs=826&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267502",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "826-826"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/826?pgs=826&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  ORÇAMENTO",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Rui Carp"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267503",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "826-826"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/826?pgs=826&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267504",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "827-827"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/827?pgs=827&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267506",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "827-827"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/827?pgs=827&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267507",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "828-828"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/828?pgs=828&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267508",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "828-828"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/828?pgs=828&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267509",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "828-828"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/828?pgs=828&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267510",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "828-828"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/828?pgs=828&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267511",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "829-829"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/829?pgs=829&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267512",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "829-829"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/829?pgs=829&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267513",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "829-829"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/829?pgs=829&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267514",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "829-829"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/829?pgs=829&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "01:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267515",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "829-829"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-07",
+                "pubLeg": "V",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/829?pgs=829&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1282768",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "17037",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "817-829"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1989-12-07",
+        "pubLeg": "V",
+        "pubNr": "23",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/817?pgs=817-829&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "1989-12-06",
+        "descricao": "Requerimento de avocação apresentado pelo Deputado Sérgio Ribeiro (PCP) relativo ao artigo 17.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> Helena Roseta (Indep)</I>, <I> Raul Castro (Indep)</I><BR>Contra:<I>PSD</I>",
+        "id": "92713",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926247",
+            "obs": null,
+            "pag": [
+              "817-818"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-07",
+            "pubLeg": "V",
+            "pubNr": "23",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/817?pgs=817-818&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "23",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-06",
+        "descricao": "Requerimento de avocação apresentado pela Deputada Lourdes Hespanhol (PCP) relativo ao artigo 42.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> Helena Roseta (Indep)</I>, <I> Raul Castro (Indep)</I><BR>Contra:<I>PSD</I>",
+        "id": "92714",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926249",
+            "obs": null,
+            "pag": [
+              "818-818"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-07",
+            "pubLeg": "V",
+            "pubNr": "23",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/818?pgs=818&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "23",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-06",
+        "descricao": "Requerimento de avocação apresentado pelo Deputado Mota Torres (PS) relativo ao reforço da dotação do FEF",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> Raul Castro (Indep)</I>, <I> António Jorge Santos Pereira (PSD)</I><BR>Contra:<I>PSD</I>",
+        "id": "92715",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926248",
+            "obs": null,
+            "pag": [
+              "818-818"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-07",
+            "pubLeg": "V",
+            "pubNr": "23",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/818?pgs=818&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "23",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-06",
+        "descricao": "Requerimento de avocação apresentado pelo Deputado João Proença (PS) relativo ao artigo 17.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> Helena Roseta (Indep)</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Raul Castro (Indep)</I>, <I> Jorge Liz (Indep)</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>CDS</I>",
+        "id": "92716",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926250",
+            "obs": null,
+            "pag": [
+              "818-819"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-07",
+            "pubLeg": "V",
+            "pubNr": "23",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/818?pgs=818-819&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "23",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-06",
+        "descricao": "Requerimento de avocação apresentado pela Deputada Lourdes Hespanhol (PCP) relativo aos artigos 43.º, 51.º e 53.ª",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> Helena Roseta (Indep)</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Raul Castro (Indep)</I>, <I> Jorge Liz (Indep)</I><BR>Contra:<I>PSD</I>",
+        "id": "92717",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926251",
+            "obs": null,
+            "pag": [
+              "819-819"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-07",
+            "pubLeg": "V",
+            "pubNr": "23",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/819?pgs=819&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "23",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-06",
+        "descricao": "Requerimento de avocação apresentado pela Deputada Lourdes Hespanhol (PCP) relativo ao artigo 52.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> Helena Roseta (Indep)</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Raul Castro (Indep)</I>, <I> Jorge Liz (Indep)</I><BR>Contra:<I>PSD</I>",
+        "id": "92718",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926252",
+            "obs": null,
+            "pag": [
+              "819-820"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-07",
+            "pubLeg": "V",
+            "pubNr": "23",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/819?pgs=819-820&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "23",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-06",
+        "descricao": "Requerimento de avocação apresentado pelo Deputado António Filipe (PCP) relativo à proposta de aditamento de um novo artigo 56.º-A",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Raul Castro (Indep)</I>, <I> Jorge Liz (Indep)</I><BR>Contra:<I>PSD</I>",
+        "id": "92719",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926255",
+            "obs": null,
+            "pag": [
+              "820-820"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-07",
+            "pubLeg": "V",
+            "pubNr": "23",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/820?pgs=820&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "23",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-06",
+        "descricao": "Requerimento de avocação apresentado pela Deputada Helena Roseta (Indep.) relativo à verba proposta para o sector da habitação",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> Helena Roseta (Indep)</I>, <I> Raul Castro (Indep)</I>, <I> Jorge Liz (Indep)</I><BR>Contra:<I>PSD</I>",
+        "id": "92720",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926254",
+            "obs": null,
+            "pag": [
+              "820-820"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-07",
+            "pubLeg": "V",
+            "pubNr": "23",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/820?pgs=820&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "23",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-06",
+        "descricao": "Requerimento de avocação apresentado pela Deputada Helena Roseta (Indep.) relativo ao projecto Produção de Livro Braille e do Livro Sonoro",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> Helena Roseta (Indep)</I>, <I> Raul Castro (Indep)</I>, <I> Jorge Liz (Indep)</I><BR>Contra:<I>PSD</I>",
+        "id": "92721",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926253",
+            "obs": null,
+            "pag": [
+              "821-821"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-07",
+            "pubLeg": "V",
+            "pubNr": "23",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/821?pgs=821&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "23",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "Helena Roseta (Indep)",
+          "João Corregedor da Fonseca (Indep)",
+          "Jorge Liz (Indep)",
+          "PEV"
+        ],
+        "data": "1989-12-06",
+        "descricao": "Requerimentos de avocação apresentado pelos Deputados António Barreto (PS) e Carlos Encarnação (PSD) relativo à inscrição de uma dotação no Ministério da Educação destinada à Universidade de Coimbra",
+        "detalhe": "Ausência: <I>PEV</I>, <I> Carlos Macedo (Indep)</I>, <I> Helena Roseta (Indep)</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Jorge Liz (Indep)</I>",
+        "id": "92722",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926256",
+            "obs": null,
+            "pag": [
+              "821-823"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-07",
+            "pubLeg": "V",
+            "pubNr": "23",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/821?pgs=821-823&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "23",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "Helena Roseta (Indep)",
+          "João Corregedor da Fonseca (Indep)",
+          "Jorge Liz (Indep)",
+          "PEV"
+        ],
+        "data": "1989-12-06",
+        "descricao": "Proposta de alteração apresentada pelo PSD à proposta de alteração apresentada pelo PS",
+        "detalhe": "Ausência: <I>PEV</I>, <I> Carlos Macedo (Indep)</I>, <I> Helena Roseta (Indep)</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Jorge Liz (Indep)</I>",
+        "id": "92726",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926257",
+            "obs": null,
+            "pag": [
+              "823-823"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-07",
+            "pubLeg": "V",
+            "pubNr": "23",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/823?pgs=823&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "23",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-06",
+        "descricao": "Requerimento de avocação apresentado pelo Deputado João Rui de Almeida (PS) relativo à aquisição de equipamento para o Centro de Coimbra do IPO",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> Raul Castro (Indep)</I><BR>Contra:<I>PSD</I>",
+        "id": "92727",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926258",
+            "obs": null,
+            "pag": [
+              "823-823"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-07",
+            "pubLeg": "V",
+            "pubNr": "23",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/823?pgs=823&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "23",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-06",
+        "descricao": "Requerimento de avocação apresentado pelo Deputado João Proença (PS) relativo à proposta de reforço da verba do Ministério da Saúde",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> Raul Castro (Indep)</I><BR>Contra:<I>PSD</I>",
+        "id": "92728",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926259",
+            "obs": null,
+            "pag": [
+              "823-824"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-07",
+            "pubLeg": "V",
+            "pubNr": "23",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/823?pgs=823-824&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "23",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-06",
+        "descricao": "Requerimento de avocação apresentado pelo Deputado João Proença (PS) relativo ao reforço de verbas para a CRIL e para a CREL",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> Raul Castro (Indep)</I>, <I> Jorge Liz (Indep)</I><BR>Contra:<I>PSD</I>",
+        "id": "92729",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926260",
+            "obs": null,
+            "pag": [
+              "824-827"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-07",
+            "pubLeg": "V",
+            "pubNr": "23",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/824?pgs=824-827&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "23",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-06",
+        "descricao": "Requerimento de avocação apresentado pelo Deputado João Proença (PS) relativo ao aumento salarial da Administração Pública",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Raul Castro (Indep)</I><BR>Contra:<I>PSD</I>",
+        "id": "92730",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926261",
+            "obs": null,
+            "pag": [
+              "827-828"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-07",
+            "pubLeg": "V",
+            "pubNr": "23",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/827?pgs=827-828&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "23",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "João Corregedor da Fonseca (Indep)",
+          "Jorge Liz (Indep)",
+          "PEV"
+        ],
+        "data": "1989-12-06",
+        "descricao": "Requerimento de avocação apresentado pela Deputada Natália Correia (PRD) relativo a investimentos no quadro das comemorações dos Descobrimentos",
+        "detalhe": "Ausência: <I>PEV</I>, <I> Carlos Macedo (Indep)</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Jorge Liz (Indep)</I>",
+        "id": "92731",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926262",
+            "obs": null,
+            "pag": [
+              "828-828"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-07",
+            "pubLeg": "V",
+            "pubNr": "23",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/828?pgs=828&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "23",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "Jorge Liz (Indep)"
+        ],
+        "data": "1989-12-06",
+        "descricao": "Propostas de aditamento no quadro das comemorações dos Descobrimentos",
+        "detalhe": "Ausência: <I>Carlos Macedo (Indep)</I>, <I> Jorge Liz (Indep)</I>",
+        "id": "92732",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926263",
+            "obs": null,
+            "pag": [
+              "828-829"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-07",
+            "pubLeg": "V",
+            "pubNr": "23",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/023/1989-12-07/828?pgs=828-829&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "23",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
