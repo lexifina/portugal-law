@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que, segundo comunicação da Embaixada de França em Lisboa, a adesão do Líbano à Convenção do metro, assinada em Paris em 20 de Maio de 1875 e modificada pela Convenção assinada em Sèvres em 6 de Outubro de 1921, deve ser considerada como nula e sem efeito, em virtude de a Embaixada do Líbano em Paris ter informado o Governo Francês de que a notificação de adesão do seu Governo àquela Convenção se devia a um erro de tradução de árabe para francês. A aludida notificação tinha de facto por objecto a Convenção instituindo a Organização Internacional de Metrologia Legal.
+Direcção-Geral dos Negócios Económicos e Consulares, 4 de Março de 1963. - O Director-Geral, Albano Pires Fernandes Nogueira.
