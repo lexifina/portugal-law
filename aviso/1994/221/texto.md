@@ -1,0 +1,3 @@
+Aviso n.º 221/94
+Por ordem superior se faz público que a Dinamarca depositou, a 9 de Junho de 1994, junto do Governo Belga, os instrumentos de adesão relativos à Convenção Internacional de Cooperação para a Segurança da Navegação Aérea Eurocontrol, de 13 de Dezembro de 1960, emendada pelo Protocolo assinado em Bruxelas em 12 de Fevereiro de 1981, e ao Acordo Multilateral Relativo às Taxas de Rota, assinado em Bruxelas em 12 de Fevereiro de 1981.
+Direcção-Geral dos Assuntos Multilaterais, 1 de Agosto de 1994. - O Director de Serviços das Organizações Económicas Internacionais, João Luís Niza Pinheiro.
