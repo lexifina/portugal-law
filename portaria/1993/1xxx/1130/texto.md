@@ -1,0 +1,28 @@
+Portaria n.º 1130/93
+de 4 de Novembro
+Considerando que as acções de apoio e de participação do Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA) no processo de comercialização de lãs se têm revelado disciplinadoras e orientadoras nos circuitos comerciais e reconhecidas por todos os agentes económicos como necessárias até as lãs entrarem no ciclo industrial;
+Considerando que a desejável e prevista transferência das tarefas a cargo do IROMA para as organizações de produtores está ainda dependente da superação de dificuldades operativas por parte destas organizações e que um corte abrupto com os procedimentos das campanhas lanares anteriores perturbaria gravemente o funcionamento deste mercado;
+Considerando ainda a grave crise internacional existente nos mercados mundiais da lã, com reflexos determinantes no mercado interno, torna-se ainda mais necessário continuar a fomentar e melhorar as características têxteis das lãs nacionais.
+Importa que o IROMA continue a promover as concentrações de lãs e a executar a classificação e formação de lotes gerais para as lãs dos produtores que optem por comercializar através das suas associações, bem como se justifica o estabelecimento de preços de garantia à produção.
+Assim, ao abrigo do disposto no artigo 3.º do Decreto-Lei n.º 15/87, de 9 de Janeiro:
+Manda o Governo, pelos Ministros das Finanças, da Agricultura e do Comércio e Turismo, o seguinte:
+1.º A compra e a venda de lã da produção nacional mantêm-se livres, nos termos desta portaria.
+2.º As organizações da produção promoverão a concentração das lãs não churras dos efectivos ovinos dos seus associados, em armazéns regionais, para venda em leilão, com prévia classificação e avaliação pelo Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA).
+3.º A armazenagem das lãs não churras concentradas nos termos do número anterior deverá obedecer às directrizes emanadas pelo IROMA.
+4.º - 1 - O IROMA só avaliará as lãs não churras concentradas cuja tosquia tenha sido feita sob a directa assistência técnica ou sob responsabilidade de profissionais de tosquia devidamente habilitados.
+2 - Para efeitos do número anterior, consideram-se profissionais de tosquia devidamente habilitados aqueles que possuírem certificado de aptidão obtido em curso de tosquia e preparação de velos realizado pelo IROMA.
+5.º O IROMA garantirá os preços da sua avaliação, recebendo, por intermédio das organizações da produção ou associações de produtores, as lãs não churras que não tenham atingido esses preços de leilão.
+6.º - 1 - Os preços mínimos a garantir pelo IROMA às lãs não churras sujas de tosquia nas condições do n.º 4.º são os que resultam dos preços para penteados e lavados constantes da tabela anexa a este diploma, em função da sua classificação e do rendimento calculado em penteado ou em lavado a fundo.
+2 - Os lotes não avaliados não serão apresentados em leilão nem beneficiarão de preço de garantia.
+7.º As lãs em rama suja retiradas pelo IROMA, nos termos desta portaria, serão vendidas em leilão, depois de lhes dar adequado estado de preparação ou em rama suja.
+8.º O IROMA promoverá a realização de leilões de lãs em diferentes estados de preparação, pertencentes a qualquer dos sectores interessados no ciclo económico da lã.
+9.º Os custos com a intervenção da campanha lanar serão suportados pelo IROMA.
+10.º São revogadas as Portarias n.os 1088/90, de 19 de Outubro, e 974/92, de 13 de Outubro.
+11.º A presente portaria entra imediatamente em vigor.
+Ministérios das Finanças, da Agricultura e do Comércio e Turismo.
+Assinada em 8 de Setembro de 1993.
+Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar. - Pelo Ministro do Comércio e Turismo, Luís Maria Viana Palha da Silva, Secretário de Estado da Distribuição e Concorrência.
+
+Tabela anexa a que se refere o n.º 1 do n.º 6.º da Portaria n.º 1130/93
+Lãs brancas não churras de tosquia
+(ver documento original)
