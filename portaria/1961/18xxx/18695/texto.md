@@ -1,0 +1,3 @@
+Portaria n.º 18695
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e das Comunicações, que seja desafectada do domínio público do Estado, nos termos do § 1.º do artigo 2.º do Decreto-Lei n.º 39083, de 17 de Janeiro de 1953, uma parcela de terreno de forma triangular, com a área de 32 m2, situada no Parque Dinis da Mota, da cidade de Ponta Delgada, confrontando a norte e a oeste com terrenos da Junta Autónoma dos Portos do Distrito de Ponta Delgada e a sul e leste com a propriedade da firma Produtores Açorianos de Papel, Lda.
+Ministérios das Finanças e das Comunicações, 23 de Agosto de 1961. - O Ministro das Finanças, António Manuel Pinto Barbosa. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.
