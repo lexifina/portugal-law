@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, por despacho do Secretário de Estado dos Transportes Interiores de 8 de Novembro de 1982, foi designada a Direcção-Geral de Viação como autoridade competente portuguesa para efeitos da aplicação do marginal 10170 (formação de condutores) do Acordo Europeu sobre o Transporte Internacional de Mercadorias Perigosas por Estrada (ADR), cujo texto consta da emenda ao referido Acordo, publicada no Diário da República em 30 de Outubro de 1982, com o aviso desta Direcção-Geral de 27 de Setembro de 1982.
+Direcção-Geral dos Negócios Económicos, 30 de Novembro de 1982. - O Adjunto do Director-Geral, António Guilherme Lopes de Oliveira Cascais.
