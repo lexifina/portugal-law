@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1920/02/02900/02520252.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1920-02-09",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "e1b6392af6163f089f3dd8819bc74df4c01e3d19e9d5a83617a047f286f2ccc2",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.5,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "314532abaa57cc450a77891e0d4d06e52d0dcfe1eb4fde859c9d2f30ac6a0c4b",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 102
 }
