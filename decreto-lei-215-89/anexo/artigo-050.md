@@ -14,7 +14,7 @@ b) As instituições de segurança social e, bem assim, as instituições de pre
 
 c) As associações ou organizações de qualquer religião ou culto às quais seja reconhecida personalidade jurídica, quanto aos templos ou edifícios exclusivamente destinados ao culto ou à realização de fins não económicos com este directamente relacionados;
 
-d) Os partidos políticos, as associações sindicais e as associações de agricultores, de comerciantes, de industriais e de profissionais independentes, quanto aos prédios ou parte de prédios destinados directamente à realização dos seus fins;
+d) (Revogada);
 
 e) As pessoas colectivas de utilidade pública administrativa e as de mera utilidade pública, em relação aos prédios ou parte de prédios destinados directamente à realização dos seus fins;
 
