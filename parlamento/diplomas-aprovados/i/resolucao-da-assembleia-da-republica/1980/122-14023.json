@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=csS8hqnzZpS2LjGFkRd7A9qIvAAyyxM3ACqixuNjQLNnm%2bsZqKPqNh0OrM9hW%2f5JsJQHr7SLxB%2bFbuCKB5hHC483Ad1uVBNRIipn8DEHRpsPi1Hm%2f1mhBdHnNXMPPPul%2f%2fhzV39gIknl8sXWw46JiX2wiBLzZGIuOlNz0QEtZszL%2f7A57lq1SSQ7b%2bDA3dzwq2t3ncmE5IzkEYuAmXSz76D4L2geTvbpj0Bs6X95S8qH4UTvRIMLymhJWx2B%2bhUeoz3eSPNVpC2BEadfzVvbElodk5%2fdAcBM0ZCjUAUYzL9IUNFuMENdMZ%2fzkvVfoEL9ncA4i%2bZIh3C0pynQOYS1T9XIN2thzmet0nUVUmhGQL%2bD0hNNVN5xxuHg%2f440vF82&fich=DiplomasIB_json.txt&Inline=true",
+  "ficheiro_sha256": "7378c298884c973a79e777e5b8972ea9ebe8c7758b577def94725f15f008646d",
+  "legislatura": "I",
+  "id": "14023",
+  "tipo": "Resolução da Assembleia da República",
+  "numero": "122",
+  "data_registo": "1980-04-09",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "1980",
+    "Id": "14023",
+    "Iniciativas": [
+      {
+        "DataFimleg": null,
+        "DataInicioleg": null,
+        "IniAnexos": null,
+        "IniAutorDeputados": null,
+        "IniAutorGruposParlamentares": null,
+        "IniAutorOutros": null,
+        "IniciativasEuropeias": null,
+        "IniciativasOrigem": null,
+        "IniciativasOriginadas": null,
+        "IniDescTipo": null,
+        "IniEpigrafe": null,
+        "IniEventos": null,
+        "IniId": "32636",
+        "IniLeg": null,
+        "IniLinkTexto": "",
+        "IniNr": "248",
+        "IniObs": null,
+        "IniSel": null,
+        "IniTestaFicheiro": null,
+        "IniTextoSubst": null,
+        "IniTextoSubstCampo": null,
+        "IniTipo": "F",
+        "IniTitulo": null,
+        "Links": null,
+        "Peticoes": null,
+        "PropostasAlteracao": null
+      }
+    ],
+    "Legislatura": "I",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5447566e4c305276593356745a57353062334e4259335270646d6c6b5957526c55474679624746745a573530595849764d6a526a4e474d325a4455745a474d304d5330305a4455354c5749774e5451744f546b794d44466a4e4455794f5755324c6e426b5a673d3d&fich=24c4c6d5-dc41-4d59-b054-99201c4529e6.pdf&Inline=true",
+    "Numero": "122",
+    "Numero2": null,
+    "Observacoes": null,
+    "OrcamContasGerencia": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "347657",
+        "obs": null,
+        "pag": [
+          "686-686"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1980-04-09",
+        "pubLeg": "I",
+        "pubNr": "83",
+        "pubSL": "4",
+        "pubTipo": "DR I série",
+        "pubTp": "M",
+        "supl": null,
+        "URLDiario": "http://data.dre.pt/eli/diario/1/83/1980/0/pt/html"
+      }
+    ],
+    "Sessao": "4",
+    "Tipo": "Resolução da Assembleia da República",
+    "Titulo": "Recusa de ratificação do DL nº 513-Y/79, de 27 de Dezembro.",
+    "Tp": "A",
+    "Versao": null
+  }
+}
