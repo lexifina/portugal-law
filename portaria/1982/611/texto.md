@@ -1,0 +1,7 @@
+Portaria n.º 611/82
+de 19 de Junho
+Tendo António Nuno de Carvalho Corrêa de Oliveira e sua mulher, Maria Margarida Leal de Aguiar Correia, solicitado autorização para proceder ao enterramento em sepultura particular, de família, na Capela de Nossa Senhora do Rosário, na Casa de Belinho, propriedade dos requerentes, sita na freguesia de Antas, concelho de Esposende, distrito de Braga, de seu filho, nado-morto, em 16 de Fevereiro de 1982, no Hospital Geral de Santo António, na cidade e concelho do Porto;
+Ao abrigo das alíneas b) e c) do n.º 2 do artigo 251.º do Código do Registo Civil;
+Obtidos os pareceres favoráveis da autoridade sanitária e da Câmara Municipal de Esposende:
+Manda o Governo da República Portuguesa, pelos Ministros da Administração Interna e da Justiça, autorizar o enterramento em sepultura particular, de família, na Capela de Nossa Senhora do Rosário, sita na Casa de Belinho, na freguesia de Antas, concelho de Esposende, do filho, nado-morto em 16 de Fevereiro de 1982, de António Nuno de Carvalho Corrêa de Oliveira e de sua mulher, Maria Margarida Leal de Faria de Aguiar Correia.
+Ministérios da Administração Interna e da Justiça, 3 de Junho de 1982. - O Ministro da Administração Interna, José Ângelo Ferreira Correia. - Pelo Ministro da Justiça, ao abrigo da competência delegada pelo despacho normativo publicado no Diário da República, 2.ª série, n.º 226, de 1 de Outubro de 1981, Alfredo Albano de Castro de Azevedo Soares, Secretário de Estado da Justiça.
