@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1934/11/26100/19671967.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1934-11-06",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "75bcac034b973b66d4c88667c11049935348bd07ece80f833b5de8e47cb93406",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.3,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "0d46d34ae53dc4c9f42d264a34c8b0a39952ddd8310d47fd3bd5f4d2aa3dd962",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 391
 }
