@@ -6,9 +6,9 @@
 
 3 - O número de funcionários de cada classe é igual ao número de lugares da mesma classe.
 
-4 - O conservador da Conservatória dos Registos Centrais faz parte do quadro de 1.ª classe do registo civil.
+4 - (Revogados).
 
-5 - Os conservadores-adjuntos dos registos centrais ingressam no quadro do registo civil, se a ele ainda não pertencerem, quando providos definitivamente nos termos dos n.os 3 e 4 do artigo 34.º
+5 - (Revogados).
 
 6 - Os conservadores dos arquivos centrais e os conservadores auxiliares da Conservatória dos Registos Centrais fazem parte do quadro de conservadores do registo civil.
 
