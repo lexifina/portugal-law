@@ -1,0 +1,5 @@
+Aviso n.º 302/94
+Por ordem superior se torna público que, por notificação de 13 de Junho de 1994, o Comité Permanente da Conferência da Haia de Direito Internacional Privado comunicou que a Espanha declarou, em 11 de Maio de 1994, aceitar a adesão de Chipre à Convenção sobre a Obtenção de Provas no Estrangeiro em Matéria Civil ou Comercial, concluída na Haia, em 18 de Março de 1970.
+Em conformidade com o seu artigo 39, alínea 5, a Convenção entrou em vigor entre os dois Estados em 10 de Julho de 1994.
+Relativamente a Portugal, a Convenção foi aprovada para ratificação pelo Decreto n.º 764/74, de 30 de Dezembro, conforme o Diário do Governo, 1.ª série, n.º 302, 2.º suplemento, de 30 de Dezembro de 1974. O instrumento de ratificação foi depositado em 12 de Março de 1975, segundo aviso de 24 de Março de 1975, publicado no Diário do Governo, 1.ª série, n.º 82, de 8 de Abril de 1975. A Convenção entrou em vigor para o nosso país em 11 de Maio de 1975.
+Departamento de Assuntos Jurídicos, 19 de Outubro de 1994. - O Director, José Maria Teixeira Leite Martins.
