@@ -1,0 +1,7 @@
+Resolução n.º 279/81
+Nos termos do Decreto-Lei n.º 74/80, de 15 de Abril, a PGP - Petroquímica e Gás de Portugal, E. P., solicitou ao Governo autorização para a aquisição de um terreno, em Lisboa, na Rua de Entrecampos, 28 e 28-A, para nele construir o edifício da sua nova sede.
+Considerando que esta solução resolverá o grande problema da insuficiência e dispersão dos serviços da empresa;
+Considerando, ainda, que a referida solução assenta na viabilidade imediata da dispensa de um imóvel de sua propriedade na cidade do Porto no valor de 120000000$00 e, futuramente, na dispensa de outros imóveis na cidade de Lisboa, onde presentemente se encontram instalados os seus serviços, e cujo valor actual é de cerca de 50000000$00;
+Considerando que se encontram reunidas as condições exigidas pelas disposições legais aplicáveis:
+O Conselho de Ministros para os Assuntos Económicos, reunido em 22 de Dezembro de 1981, resolveu, ao abrigo do artigo 1.º do Decreto-Lei n.º 74/80, de 15 de Abril, autorizar a PGP - Petroquímica e Gás de Portugal, E. P., a adquirir, pelo preço de 105000000$00, o terreno situado na Rua de Entrecampos, 28 e 28-A, o qual se encontra descrito na 2.ª Conservatória do Registo Predial de Lisboa, sob o n.º 23354, a fl. 148, do livro B-76, e inscrito na matriz predial urbana da freguesia do Campo Grande, sob o artigo 1, e que se destina à construção do novo edifício da sede da empresa.
+Presidência do Conselho de Ministros, 22 de Dezembro de 1981. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.
