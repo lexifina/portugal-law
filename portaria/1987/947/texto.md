@@ -1,0 +1,16 @@
+Portaria n.º 947/87
+de 18 de Dezembro
+Tendo em atenção o disposto na Constituição da República Portuguesa, na Lei de Bases do Sistema Educativo, na Lei da Liberdade do Ensino e na Declaração Universal dos Direitos do Homem aprovada pelas Nações Unidas, torna-se necessário obviar às dificuldades com que, por vezes, deparam os alunos do ensino superior que professam confissões religiosas que santificam um dia da semana diverso do domingo;
+Considerando que esta situação já foi objecto de normalização para os alunos dos restantes níveis de ensino;
+Ao abrigo do disposto no artigo 43.º da Constituição da República Portuguesa, do n.º 3 do artigo 2.º da Lei n.º 46/86, de 14 de Outubro (que estabelece as bases do sistema educativo) e do artigo 1.º da Lei n.º 65/79, de 4 de Outubro:
+Manda o Governo da República Portuguesa, pelo Ministro da Educação, o seguinte:
+1.º São dispensados da frequência das aulas nos dias de semana consagrados ao repouso e culto pelas respectivas confissões religiosas os alunos dos estabelecimentos de ensino superior que as professem.
+2.º A dispensa referida no número anterior será concedida a requerimento dos alunos, dirigido aos responsáveis pela direcção dos respectivos estabelecimentos de ensino, obrigatoriamente acompanhado de declaração subscrita por entidade responsável da confissão religiosa reconhecida, na qual se declare que o aluno professa essa confissão.
+3.º A dispensa de aulas ao abrigo do disposto no n.º 1.º da presente portaria em caso algum pode constituir fundamento para o deficiente aproveitamento escolar dos respectivos alunos.
+4.º Se a data de prestação de exames finais e quaisquer outras acções de avaliação dos alunos coincidir com o dia dedicado ao repouso e ao culto pelas respectivas confissões religiosas, poderão essas provas ser prestadas em segunda chamada, ou em nova chamada, em dia diverso da semana, mediante, exclusivamente, as seguintes formalidades:
+a) Comunicação por escrito, com 48 horas de antecedência, feita pelo aluno, no caso de este se encontrar já dispensado da frequência do mesmo estabelecimento de ensino, nos termos do n.º 1.º;
+b) Requerimento solicitando a mudança de data das provas, com cinco dias de antecedência, feito pelo aluno, acompanhado da declaração a que se refere o n.º 2.º, no caso de o aluno não ter requerido a dispensa.
+5.º Os estabelecimentos de ensino superior assegurarão as necessárias condições no sentido de que a prestação de uma segunda chamada ou de nova chamada, em caso algum, afecte uma correcta avaliação.
+Ministério da Educação.
+Assinada em 7 de Dezembro de 1987.
+O Ministro da Educação, Roberto Artur da Luz Carneiro.
