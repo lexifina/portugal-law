@@ -1,0 +1,9 @@
+Portaria n.º 184/96
+de 30 de Maio
+Considerando que o Decreto-Lei n.º 247/92, de 7 de Novembro, na alínea c) do n.º 1 do artigo 18.º, determina a integração do pessoal pertencente ao quadro de efectivos interdepartamentais, criado junto da Direcção-Geral da Administração Pública, nos quadros dos serviços ou organismos em que se encontra a prestar serviço em regime de requisição ou comissão de serviço, desde que satisfaça necessidades permanentes do serviço;
+Considerando que se encontra a exercer funções há mais de um ano, em regime de requisição, na Faculdade de Direito da Universidade de Coimbra um técnico superior de 1.ª classe pertencente àquele quadro e que importa integrar;
+Nos termos da alínea c) do n.º 1 do artigo 18.º do Decreto-Lei n.º 247/92, de 7 de Novembro, e do n.º 2 do artigo 1.º do Decreto-Lei n.º 59/76, de 23 de Janeiro:
+Manda o Governo, pelos Ministros das Finanças, da Educação e Adjunto, que seja criado no quadro de pessoal técnico superior da Faculdade de Direito da Universidade de Coimbra, constante do mapa anexo à Portaria n.º 750/88, de 19 de Novembro, um lugar de técnico superior de 1.ª classe da carreira técnica superior, a extinguir quando vagar.
+Presidência do Conselho de Ministros e Ministérios das Finanças e da Educação.
+Assinada em 2 de Maio de 1996.
+Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
