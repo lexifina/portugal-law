@@ -1,0 +1,3 @@
+Aviso n.º 196/92
+Por ordem superior se torna público ter o Governo da Ucrânia depositado junto do Secretário-Geral das Nações Unidas, em 28 de Julho de 1992, uma declaração reconhecendo a competência do Comité para a Eliminação da Discriminação Racial para receber e considerar comunicações de indivíduos ou grupos de indivíduos que reclamam ser vítimas de violação dos direitos previstos na Convenção Internacional sobre a Eliminação de Todas as Formas de Discriminação Racial, aberta para assinatura em Nova Iorque em 7 de Março de 1966.
+Direcção-Geral dos Negócios Político-Económicos, 26 de Novembro de 1992. - O Director de Serviços dos Assuntos Multilaterais, António Nunes de Carvalho Santana Carlos.
