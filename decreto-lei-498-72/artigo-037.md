@@ -1,10 +1,10 @@
 # Artigo 37.º
 
-### (Aposentação ordinária)
+### Condições de aposentação
 
-1 - A aposentação ordinária pode verificar-se, independentemente de qualquer outro requisito, quando o subscritor contar, pelo menos, 60 anos de idade e 36 de serviço.
+1 - A aposentação pode verificar-se, independentemente de qualquer outro requisito, quando o subscritor contar, pelo menos, 60 anos de idade e 36 de serviço.
 
-2 - Há ainda lugar a aposentação ordinária quando o subscritor, tendo, pelo menos, 5 anos de serviço:
+2 - Há ainda lugar a aposentação quando o subscritor, tendo, pelo menos, cinco anos de serviço:
 
 a) Seja declarado, em exame médico, absoluta e permanentemente incapaz para o exercício das suas funções;
 

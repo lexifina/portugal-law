@@ -6,4 +6,4 @@
 
 2. A aposentação por limite de idade, a que se refere a alínea b) do n.º 2 do artigo 37.º, será promovida pelo serviço a que o subscritor estiver adstrito.
 
-3. Poderá também ser promovida pelo serviço a que se refere o número anterior a aposentação extraordinária prevista nas alíneas a) e b) do artigo 38.º
+3. (Revogado).
