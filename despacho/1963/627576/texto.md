@@ -1,0 +1,3 @@
+Despacho
+Nos termos do artigo 2.º do Decreto-Lei n.º 43000, de 1 de Junho de 1960, o Conselho de Ministros resolve, mediante proposta do Ministério da Educação Nacional, declarar como suficiente, em paralelo com o curso geral dos liceus, para efeito de provimento no lugar de desenhador de 3.ª classe da Junta Nacional do Vinho, a habilitação de um curso industrial completo que compreenda, até ao último ano, a disciplina de Desenho.
+Presidência do Conselho, 5 de Junho de 1963. - Pelo Presidente do Conselho, o Ministro de Estado adjunto do Presidente do Conselho, José Gonçalo da Cunha Sottomayor Correia de Oliveira.
