@@ -1,0 +1,4 @@
+Aviso n.º 273/97
+Por ordem superior se torna público que, por nota de 26 de Junho de 1996, o Ministério dos Negócios Estrangeiros da Federação Russa comunicou ter o Governo de Myanmar depositado, em 20 de Maio de 1996, o seu instrumento de adesão à Convenção para a Supressão de Actos Ilícitos contra a Segurança da Aviação Civil, concluída em Montreal em 23 de Setembro de 1971.
+Esta Convenção foi aprovada, para ratificação, por Portugal nos termos do Decreto n.º 451/72, de 14 de Novembro, tendo sido depositado o correspondente instrumento em 15 de Janeiro de 1973, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 100, de 28 de Abril de 1973.
+Direcção-Geral dos Assuntos Multilaterais, 24 de Setembro de 1997. - O Director de Serviços das Organizações Económicas Internacionais, João Perestrello Cavaco.
