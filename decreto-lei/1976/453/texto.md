@@ -1,0 +1,17 @@
+Decreto-Lei n.º 453/76
+de 8 de Junho
+Por sentença, com trânsito em julgado, de 22 de Dezembro de 1975 foi decretada a falência da Companhia Nacional Editora, S. A. R. L., proprietária do jornal Época.
+A resolução do Conselho de Ministros de 11 de Abril daquele ano, publicada no Diário do Governo, 1.ª série, de 23 do mesmo mês e ano, determinou que a antecipação do pagamento das indemnizações a que têm direito os trabalhadores seja feita pela comissão liquidatária da ex-ANP, sendo esta dotada com verba especial para o efeito.
+Nestes termos:
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É concedido um subsídio de 2000000$00 à comissão liquidatária da ex-ANP destinado ao pagamento das indemnizações a que têm direito os trabalhadores da falida Companhia Nacional Editora, S. A. R. L.
+Art. 2.º Para efeitos do disposto no artigo anterior, é aberto no Ministério das Finanças, a favor do Ministério da Comunicação Social, um crédito especial da quantia de 2000000$00, que passará a constituir a seguinte dotação do vigente orçamento da despesa ordinária do segundo dos referidos Ministérios:
+Capítulo 5.º «Serviços do Ministério»:
+Artigo 100.º-A «Transferências - Empresas»:
+N.º 1 «Indemnizações devidas pela Companhia Nacional Editora, S. A. R. L., a cargo da comissão liquidatária da ex-ANP» ... 2000000$00
+Art. 3.º Para contrapartida do mencionado crédito, é aumentado igual montante ao orçamento da receita do Estado no capítulo 2.º «Impostos indirectos», grupo 1, artigo 15.º «Sobretaxa de importação».
+Art. 4.º Este decreto-lei entra imediatamente em vigor.
+Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha.
+Promulgado em 29 de Maio de 1976.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
