@@ -1,0 +1,5 @@
+Portaria n.º 19586
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, abrir no orçamento de despesa privativo da Agência-Geral do Ultramar para o ano económico em curso os seguintes créditos especiais:
+1.º Um da quantia de 200000$00, para reforçar a verba do artigo 9.º, n.º 2), alínea e) «Pagamento de serviços - Diversos serviços - Propaganda - Outros serviços de propaganda que forem determinados pelo Ministro», tomando como contrapartida o saldo de anos económicos findos;
+2.º Um da quantia de 50000$00, para reforçar a verba do artigo 6.º, n.º 3) «Despesas com o material - Material de consumo corrente - Combustível, lubrificantes e sobresselentes», tomando como contrapartida as disponibilidades existentes na verba do artigo 11.º, n.º 7) «Diversos encargos - Outros encargos - Dez bolsas de estudo nos termos da Portaria n.º 17889, de 8 de Agosto de 1960».
+Ministério do Ultramar, 27 de Dezembro de 1962. - Pelo Ministro do Ultramar, Joaquim Moreira da Silva Cunha, Subsecretário de Estado da Administração Ultramarina.
