@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que a Embaixada da República Popular da Polónia em Lisboa enviou ao Ministério dos Negócios Estrangeiros uma nota verbal, datada de 29 de Novembro de 1977, informando que a parte polaca dera cumprimento às formalidades constitucionais relativas à entrada em vigor do Acordo entre o Governo da República Portuguesa e o Governo da República Popular da Polónia sobre Navegação Mercante, assinado em Varsóvia em 14 de Maio de 1976 e publicado no Diário da República, 1.ª série, n.º 128, de 2 de Junho de 1977, em resposta a uma nota verbal deste Ministério que informava estarem cumpridas aquelas formalidades pela parte portuguesa.
+Nesta conformidade, e segundo o disposto no seu artigo 12, o Acordo em apreço entrou em vigor no dia 29 de Novembro de 1977.
+Direcção-Geral dos Negócios Económicos, 29 de Dezembro de 1977. - O Director-Geral-Adjunto, Paulo Ennes.
