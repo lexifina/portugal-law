@@ -1,0 +1,3 @@
+# Artigo 219.º
+
+A República Portuguesa e os outros Estados membros tomarão, com a assistência da Comissão, as medidas necessárias para que seja extensiva a Portugal, o mais tardar em 1 de Janeiro de 1993, a aplicação da Decisão da Comissão de 8 de Dezembro de 1972 relativa ao sistema uniformizado estabelecido em aplicação do artigo 15.º do Regulamento (CEE) n.º 1612/68 do Conselho, sistema denominado «SEDOC», e da Decisão da Comissão de 14 de Dezembro de 1972 relativa ao «Esquema Comunitário» para a recolha e divulgação das informações previstas no n.º 3 do artigo 14.º do Regulamento (CEE) n.º 1612/68 do Conselho.

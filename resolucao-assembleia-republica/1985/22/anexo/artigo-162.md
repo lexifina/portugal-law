@@ -1,0 +1,3 @@
+# Artigo 162.º
+
+Antes de 31 de Dezembro de 1992, a Comissão apresentará ao Conselho um relatório sobre a situação e as perspectivas da pesca na Comunidade em função da aplicação dos artigos 158.º e 161.º. Com base neste relatório, as adaptações do regime previsto no artigo 158.º, n.º 2, primeiro parágrafo, do artigo 159.º, e nos n.os 1, 2 e 3 do artigo 161.º que se revelarem necessárias, incluindo as relativas ao acesso a outras zonas que não sejam as referidas no n.º 1 do artigo 158.º, serão adoptadas antes e 31 de Dezembro de 1993, de acordo com o procedimento previsto no artigo 43.º do Tratado CEE e produzirão efeitos em 1 de Janeiro de 1986.

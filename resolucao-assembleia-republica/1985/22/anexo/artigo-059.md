@@ -1,0 +1,3 @@
+# Artigo 59.º
+
+O Reino de Espanha e os outros Estados membros tomarão, com a assistência da Comissão, as medidas necessárias para que seja extensiva a Espanha, o mais tardar em 1 de Janeiro de 1993, a aplicação da Decisão da Comissão de 8 de Dezembro de 1972 Relativa ao Sistema Uniformizado Estabelecido em Aplicação do Artigo 15.º do Regulamento (CEE) n.º 1612/68 do Conselho, sistema denominado «SEDOC», e da Decisão da Comissão de 14 de Dezembro de 1972 Relativa ao «Esquema Comunitário» para a Recolha e Divulgação das Informações Previstas no n.º 3 do Artigo 14.º do Regulamento (CEE) n.º 1612/68 do Conselho.

@@ -1,0 +1,7 @@
+# Artigo 41.º
+
+Durante o período de eliminação dos direitos aduaneiros entre a Comunidade, na sua composição actual, e o Reino de Espanha e durante o período de aproximação dos direitos da pauta aduaneira espanhola em relação aos da Pauta Aduaneira Comum e da Pauta Unificada CECA, o Reino de Espanha tem a faculdade de abrir, em relação a países terceiros, os contingentes pautais efectivamente aplicados em 1 de Janeiro de 1985.
+
+Se tais contingentes forem abertos, e durante o respectivo período de abertura, aplica-se o artigo 37.º para determinar os direitos aplicáveis aos produtos importados de países terceiros, sendo as quantidades ou valores admitidos a beneficiar desses direitos limitados aos montantes efectivamente importados no âmbito desses mesmos contingentes abertos em 1 de Janeiro de 1985. Os produtos importados da Comunidade, na sua composição actual, beneficiarão, durante o período de abertura desses contingentes, dos direitos reduzidos de acordo com o disposto no artigo 31.º, sem limite de quantidade ou de valor.
+
+Se tais contingentes não forem abertos, o Reino de Espanha aplicará aos produtos importados da Comunidade, na sua composição actual, os direitos que seriam aplicados no caso de abertura desses contingentes. As quantidades ou valores admitidos a beneficiar desses direitos serão limitados aos montantes efectivamente importados da Comunidade, na sua composição actual, no âmbito dos mesmos contingentes abertos em 1 de Janeiro de 1985.
