@@ -1,0 +1,9 @@
+Portaria n.º 132/83
+de 4 de Fevereiro
+Verificando-se a necessidade de tornar mais explícitas as condições de ingresso na classe do serviço especial de oficiais dos quadros de complemento, fixadas na Portaria n.º 22008, de 19 de Maio de 1966, designadamente o que consta da alínea a) do seu n.º 2.º, quando conjugado com o disposto na alínea a) do n.º 8.º e no n.º 10.º, também desta portaria, e nos artigos 60.º, 66.º e 67.º do Estatuto do Oficial da Armada:
+Manda o Chefe do Estado-Maior da Armada, ao abrigo do disposto no artigo 65.º do citado Estatuto, aprovado e posto em execução pelo Decreto n.º 46960, de 14 de Abril de 1966, que a alínea a) do n.º 2.º da já citada Portaria n.º 22008 passe a ter a seguinte redacção:
+...
+2.º ...
+a) Terem menos de 34 anos de idade na data do ingresso, ou naquela em que foram nomeados para frequentar curso de especialização nos termos do n.º 8.º;
+b) ...
+Ministério da Defesa Nacional, 21 de Janeiro de 1983. - O Chefe do Estado-Maior da Armada, António Egídio de Sousa Leitão, almirante.
