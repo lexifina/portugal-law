@@ -1,0 +1,260 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Inquérito Parlamentar",
+    "numero": "4",
+    "id": "32899",
+    "titulo": "Sobre as formas de que se revestiram o lançamento e o desenvolvimento de iniciativas susceptíveis de comparticipação do Fundo Social Europeu."
+  },
+  "fase": "Votação Deliberação",
+  "codigo_fase": "335",
+  "data_registo": "1988-04-07",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "5256",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "335",
+    "Comissao": null,
+    "DataFase": "1988-04-07",
+    "EvtId": "73",
+    "Fase": "Votação Deliberação",
+    "IniciativasConjuntas": [
+      {
+        "dataEntrada": null,
+        "descTipo": "Inquérito Parlamentar",
+        "id": "32902",
+        "leg": "V",
+        "nr": "7",
+        "sel": "1",
+        "tipo": "I",
+        "titulo": "Apreciação das condições em que pelo anterior Governo foi autorizado o adiamento do pagamento de duas prestações de contrapartida à concessionária do jogo no Casino Estoril à luz do artº 5º do Decreto Regulamentar nº 56/84, de 9 de Agosto e Despachos governamentais subsequentes."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1988-04-07",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "22:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209330",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2645-2645"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-08",
+                "pubLeg": "V",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/070/1988-04-08/2645?pgs=2645&org=PLC"
+              }
+            ],
+            "sumario": "Sobre as formas de que se revestiram o lançamento e o desenvolvimento de iniciativas susceptíveis de comparticipação do Fundo Social Europeu; Apreciação das condições em que pelo anterior Governo foi autorizado o adiamento do pagamento de duas prestações de contrapartida à concessionária do jogo no Casino Estoril à luz do artº 5º do Decreto Regulamentar nº 56/84, de 9 de Agosto e Despachos governamentais subsequentes.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "22:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209331",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2645-2645"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-08",
+                "pubLeg": "V",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/070/1988-04-08/2645?pgs=2645&org=PLC"
+              }
+            ],
+            "sumario": "Sobre as formas de que se revestiram o lançamento e o desenvolvimento de iniciativas susceptíveis de comparticipação do Fundo Social Europeu; Apreciação das condições em que pelo anterior Governo foi autorizado o adiamento do pagamento de duas prestações de contrapartida à concessionária do jogo no Casino Estoril à luz do artº 5º do Decreto Regulamentar nº 56/84, de 9 de Agosto e Despachos governamentais subsequentes.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "22:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209332",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2645-2646"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-08",
+                "pubLeg": "V",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/070/1988-04-08/2645?pgs=2645-2646&org=PLC"
+              }
+            ],
+            "sumario": "Sobre as formas de que se revestiram o lançamento e o desenvolvimento de iniciativas susceptíveis de comparticipação do Fundo Social Europeu; Apreciação das condições em que pelo anterior Governo foi autorizado o adiamento do pagamento de duas prestações de contrapartida à concessionária do jogo no Casino Estoril à luz do artº 5º do Decreto Regulamentar nº 56/84, de 9 de Agosto e Despachos governamentais subsequentes.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "22:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "209337",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2661-2661"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-08",
+                "pubLeg": "V",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/070/1988-04-08/2661?pgs=2661&org=PLC"
+              }
+            ],
+            "sumario": "Sobre as formas de que se revestiram o lançamento e o desenvolvimento de iniciativas susceptíveis de comparticipação do Fundo Social Europeu; Apreciação das condições em que pelo anterior Governo foi autorizado o adiamento do pagamento de duas prestações de contrapartida à concessionária do jogo no Casino Estoril à luz do artº 5º do Decreto Regulamentar nº 56/84, de 9 de Agosto e Despachos governamentais subsequentes.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "242210",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "348213",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-04-08",
+        "pubLeg": "V",
+        "pubNr": "70",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/070/1988-04-08?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "1988-04-07",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> ID</I><BR>Abstenção:<I>PSD</I>",
+        "id": "48361",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "70",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
