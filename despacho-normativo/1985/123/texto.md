@@ -1,0 +1,59 @@
+Despacho Normativo n.º 123/85
+No Orçamento do Estado para o corrente ano encontra-se inscrita uma verba de 500000 contos destinada à atribuição de subsídios para a construção de sedes de juntas de freguesia.
+O Despacho Normativo n.º 65/85, de 18 de Junho, do Ministro da Administração Interna, fixou um plano de distribuição da aludida verba.
+À semelhança do que tem acontecido em anos anteriores, verifica-se a existência de um saldo disponível que permite contemplar desde já um conjunto de freguesias para além das constantes do quadro anexo ao citado despacho normativo.
+Na atribuição de subsídios agora efectuada seguiu-se ainda o critério utilizado pelo anterior Governo, que tinha por base a lista de prioridades definidas pelas respectivas câmaras municipais.
+Assim, são contempladas pelo presente despacho todas as juntas de freguesia inscritas como primeira prioridade e que ainda não tinham sido objecto de atribuição de subsídio para construção da respectiva sede.
+Contemplaram-se ainda, de entre as freguesias consideradas como segunda prioridade pelas respectivas câmaras municipais, aquelas que possuem um maior número de cidadãos eleitores.
+Por último, é igualmente atribuído subsídio às freguesias de Alheira, concelho de Barcelos, Bico, concelho de Paredes de Coura, Bravães, concelho de Ponte da Barca, e São João Baptista, concelho de Tomar, tendo em consideração que, embora inscritas como terceira prioridade, possuem instalações degradadas e condições de funcionamento extremamente precárias, que nada dignificam a administração local nem permitem que esta exerça de forma minimamente satisfatória as altas funções que lhe estão cometidas.
+O Governo considera ainda fundamental o estabelecimento de critérios transparentes de atribuição de subsídios, pelo que a Secretaria de Estado da Administração Local e do Ordenamento do Território tem em fase de preparação um plano de quatro anos tendente a uma solução definitiva dos problemas relativos à construção e instalação das sedes das juntas de freguesia.
+Nestes termos, determina-se o seguinte:
+1 - Serão ainda financiadas no corrente ano, nos termos do presente despacho, as juntas de freguesia constantes do quadro anexo.
+2 - O limite máximo da verba a atribuir será de 1500 contos por freguesia, independentemente da classificação da mesma como rural ou urbana.
+3 - No caso de as instalações a construir ou a adquirir pelas juntas de freguesia serem para fins polivalentes, isto é, não exclusivamente para instalação da sede e serviços administrativos da freguesia, poderão outras entidades com capacidade para tal participar com verbas que complementem os subsídios atribuídos.
+4 - As transferências das verbas atribuídas a cada junta de freguesia processar-se-ão de acordo com o seguinte calendário:
+a) 25% do total, imediatamente;
+b) O remanescente, a partir de 1 de Janeiro de 1986, mediante a apresentação pela junta de freguesia do termo de responsabilidade passado pela câmara municipal comprovativo do término da obra ou da escritura de aquisição.
+5 - O direito à parte do subsídio prevista na alínea b) do número anterior cessa no dia 31 de Dezembro de 1987.
+6 - Os pagamentos previstos na alínea b) do n.º 4 poderão ser antecipados mediante a apresentação de documentos comprovativos, no caso de disponibilidade financeira.
+7 - Todos os recebimentos deverão ser comprovados por escrito pela respectiva junta de freguesia, sem o que os pagamentos posteriores cessarão.
+8 - A Direcção-Geral de Administração Local acompanhará todo o processo e coordenará e processará os pagamentos devidos, nos termos deste despacho normativo.
+Ministério do Plano e da Administração do Território, 26 de Dezembro de 1985. - O Ministro do Plano e da Administração do Território, Luís Francisco Valente de Oliveira.
+
+Quadro a que se refere o n.º 1 do Despacho Normativo n.º 123/85
+Beja:
+Aljustrel ... Aljustrel.
+Cuba ... Vila Ruiva.
+Mértola ... Corte do Pinto.
+Moura ... Póvoa.
+Serpa ... São Salvador.
+Braga:
+Barcelos ... Alheira.
+Braga ... Arentim.
+Castelo Branco:
+Castelo Branco ... Ninho de Açor.
+Évora:
+Estremoz ... São Domingos de Ana Loura.
+Montemor-o-Novo ... São Cristóvão.
+Faro:
+Vila do Bispo ... Vila do Bispo.
+Lisboa:
+Cascais ... Alcabideche.
+Cascais ... São Domingos de Rana.
+Lisboa ... Lumiar.
+Lisboa ... Prazeres.
+Portalegre:
+Nisa ... São Simão.
+Porto:
+Matosinhos ... Leça da Palmeira.
+Santarém:
+Benavente ... Santo Estêvão.
+Coruche ... Couço.
+Tomar ... São João Baptista.
+Setúbal:
+Grândola ... Melides.
+Montijo ... Canha.
+Setúbal ... Nossa Senhora da Anunciada.
+Viana do Castelo:
+Paredes de Coura ... Bico.
+Ponte da Barca ... Bravães.
