@@ -1,0 +1,10 @@
+Resolução do Conselho de Ministros
+Tendo chegado ao conhecimento do Governo, através de inquérito mandado efectuar à sociedade Urbanizações e Construções, Lda. - Urbaco, o incumprimento e mora no cumprimento de forma reiterada das obrigações da empresa para com os promitentes compradores, o Conselho de Ministros, nos termos do Decreto-Lei n.º 660/74, de 25 de Novembro, delibera:
+1. Nomear para delegado do Governo junto da empresa o engenheiro José Pereira Medeiros Barbosa em ordem a:
+Actuar junto da empresa para que esta acelere a elaboração das escrituras de compra e venda e entrega dos respectivos fogos já concluídos ou em vias de o ser;
+Conduzir à pronta restituição das indemnizações devidas nos casos de rescisão por parte dos promitentes compradores;
+Insistir pela rápida emissão das declarações comprovativas de antecipações de pagamentos por parte dos promitentes compradores;
+Dar sem efeito as comunicações de rescisão unilateral por parte da Urbaco em relação aos promitentes compradores que não estejam em falta.
+2. Este delegado do Governo é assim nomeado com o objectivo fundamental de defender as posições dos promitentes compradores, intervindo junto da Urbaco para que se cumpram com urgência os compromissos assumidos pela empresa.
+3. As causas desse incumprimento serão detectadas e sugeridas as medidas a tomar para regularização da situação propondo, se julgar conveniente, a realização de inquéritos que esclareçam a situação económica e financeira da empresa, as causas de atraso no cumprimento das obrigações da mesma e as deficiências de actuação da sua administração. Competirá assim ao delegado do Governo diligenciar na recolha de elementos que habilitem o Governo a tomar posição quer quanto ao futuro da empresa, quer quanto às medidas a tomar para o conveniente aproveitamento do seu património para satisfação de carências de habitação, devendo para o efeito entregar um relatório sobre os pontos focados no prazo máximo de sessenta dias.
+Presidência do Conselho de Ministros, 22 de Abril de 1975. - O Primeiro-Ministro, Vasco dos Santos Gonçalves.
