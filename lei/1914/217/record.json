@@ -17,9 +17,29 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1914/06/10701/00010009.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1914-06-30",
-  "in_force_basis": "publication day in the Diário da República (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário da República",
+  "text_status": "ocr",
   "source_sha256": "f81f692e74ecbb3efd394c116fc626db72fe682faa07f30280b7f981b4818c4a",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 91.1,
+    "pages": 9,
+    "columns": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      4,
+      4,
+      4,
+      3
+    ],
+    "pdf_sha256": "e943a694f80a7741d40b57ac492d03d804fdc239da2de0ae64e5b203e21eea88",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 4311
 }
