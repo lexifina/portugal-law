@@ -1,0 +1,7 @@
+Despacho Normativo n.º 18/94
+O Centro de Estudos do Medicamento, funcionando no Instituto Nacional de Saúde Dr. Ricardo Jorge, foi extinto pelo Decreto-Lei n.º 10/93, de 15 de Janeiro, e as suas competências transferidas para o Instituto Nacional da Farmácia e do Medicamento, através de um departamento laboratorial de comprovação dos medicamentos, a criar para o efeito.
+Nos termos do artigo 41.º do Decreto-Lei n.º 307/93, de 1 de Setembro, e até à entrada em funcionamento de um departamento laboratorial de comprovação dos medicamentos no Instituto Nacional da Farmácia e do Medicamento, mantém-se em vigor, com as necessárias adaptações, a Portaria n.º 71/90, de 29 de Janeiro.
+Nos termos dos n.os 3.º e 14.º, respectivamente, das Portarias n.os 260/91 e 259/91, ambas de 30 de Março, a afectação das verbas correspondentes às receitas decorrentes de processos efectuados no Centro de Estudos do Medicamento é determinada por despacho do Secretário de Estado da Saúde.
+1 - De harmonia com o disposto nos n.os 3.º e 14.º das Portarias n.os 260/91 e 259/91, de 30 de Março, respectivamente, determino que as receitas anuais resultantes das cobranças efectuadas revertam para o Instituto Nacional da Farmácia e do Medicamento.
+2 - O disposto no presente despacho produz efeitos desde a data da sua assinatura.
+Ministério da Saúde, 23 de Dezembro de 1993. - O Secretário de Estado da Saúde, José Carlos Lopes Martins.
