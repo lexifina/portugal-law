@@ -1,0 +1,4 @@
+Aviso n.º 111/93
+Por ordem superior se torna público que se encontram cumpridas as formalidades exigidas em Portugal e no Quebeque para a entrada em vigor do Ajuste Complementar em Matéria de Segurança Social e respectivo Acordo Administrativo de Aplicação entre Portugal e o Quebeque, concluídos em 28 de Março de 1990.
+O Ajuste Complementar e respectivo Acordo Administrativo de Aplicação, aprovados pelo Decreto n.º 61/91, de 5 de Dezembro, publicado no Diário da República, n.º 280, de 5 de Dezembro de 1991, entraram em vigor no dia 1 de Novembro de 1992, data fixada pelas Partes Contratantes em 10 de Julho de 1992, em conformidade com o disposto no artigo 42.º do referido Ajuste Complementar.
+Gabinete do Secretário de Estado das Comunidades Portuguesas, 28 de Abril de 1993. - O Chefe do Gabinete, Manuel dos Santos Moreira de Andrade.
