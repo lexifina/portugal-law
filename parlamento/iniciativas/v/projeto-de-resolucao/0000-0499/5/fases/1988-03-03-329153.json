@@ -1,0 +1,244 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "5",
+    "id": "28032",
+    "titulo": "Alterações ao Regimento da Assembleia da República"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "1988-03-03",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "12266",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "1988-03-03",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "27833",
+        "leg": "V",
+        "nr": "9",
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Revisão do Regimento da Assembleia da República"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "27782",
+        "leg": "V",
+        "nr": "10",
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Alterações ao Regimento da Assembleia da República"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1988-03-03",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "20:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "211806",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2043-2043",
+                  "2044-2045",
+                  "2045-2045",
+                  "2045-2045",
+                  "2045-2046",
+                  "2046-2046"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-03-04",
+                "pubLeg": "V",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/058/1988-03-04/2043?pgs=2043,2044-2045,2045,2045,2045-2046,2046&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "20:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "211808",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2044-2044",
+                  "2045-2045"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-03-04",
+                "pubLeg": "V",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/058/1988-03-04/2044?pgs=2044,2045&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "20:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "211810",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2044-2044"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-03-04",
+                "pubLeg": "V",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/058/1988-03-04/2044?pgs=2044&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "20:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "211812",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2045-2045"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-03-04",
+                "pubLeg": "V",
+                "pubNr": "58",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/058/1988-03-04/2045?pgs=2045&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao Regimento da Assembleia da República; Revisão do Regimento da Assembleia da República",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "329153",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
