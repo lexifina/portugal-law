@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1923/08/17600/09030904.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1923-08-16",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "30429ba6cf6e010d59f10e84ea95e0bbb81d011dbce76e882ee5deecf71b602c",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.8,
+    "pages": 2,
+    "columns": [
+      3,
+      9
+    ],
+    "pdf_sha256": "89d16227feacb0309d20690f2356f420a50d5fefd94985000cfcd83bfbf40fa3",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 596
 }
