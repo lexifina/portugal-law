@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1936/01/02200/01070107.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1936-01-27",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "3fd0a27943438549fe7d507d4b919846a8a35645459851e0b930f42a92d595f1",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 96.3,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "a9d9971aacc0acdc7b93213d38bfc254ed8783732fc96854c8ba1de6d39f5c63",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 261
 }
