@@ -1,0 +1,20 @@
+Decreto-Lei n.º 140/88
+de 22 de Abril
+Tendo em vista assegurar à indústria nacional utilizadora melhores condições de aprovisionamento, sem que daí resultem prejuízos para a produtora, foram instituídos, nos anos de 1986 e 1987, contingentes pautais de direito nulo, face à Comunidade e à EFTA, para um conjunto de matérias-primas e produtos intermédios, com especial importância no abastecimento de sectores industriais a jusante, relativamente aos quais a produção nacional não reunia ainda as melhores condições de fornecimento.
+Não obstante as reduções tarifárias resultantes do disposto no Acto de Adesão de Portugal às Comunidades, a situação actual da indústria nacional aconselha que seja mantido em 1988 o sistema de contingentes de direito nulo em moldes idênticos ao já instituído.
+Assim:
+No uso da autorização conferida pela alínea a) do artigo 32.º da Lei n.º 2/88, de 26 de Janeiro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º - 1 - É suspensa a cobrança da totalidade dos direitos de importação aplicáveis às mercadorias constantes do anexo ao presente diploma, quando estejam nas condições previstas nos artigos 9.º e 10.º do Tratado que institui a CEE, ou quando originárias da EFTA, durante o ano de 1988, com os limites de contingentes pautais referidos naquele anexo.
+2 - O disposto no número anterior é igualmente aplicável, nos termos dos protocolos de adaptação, aos produtos originários dos países com os quais a Comunidade Económica Europeia concluiu acordos preferenciais.
+Art. 2.º A admissão, a atribuição e o modo de gestão dos contingentes referidos no n.º 1 do artigo 1.º serão definidos por portaria conjunta dos Ministros das Finanças, da Indústria e Energia e do Comércio e Turismo.
+Art.º 3.º O disposto no presente diploma produz efeitos desde 1 de Janeiro de 1988.
+Visto e aprovado em Conselho de Ministros de 17 de Março de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral.
+Promulgado na Guarda em 30 de Março de 1988.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 5 de Abril de 1988.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+ANEXO
+Lista a que ao refere o n.º 1 do artigo 1.º
+(ver documento original)
