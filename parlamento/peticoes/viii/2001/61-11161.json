@@ -1,0 +1,385 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=WEUMi7%2fBtIIg%2fkHBDyZ%2fsil3BmWuButejMvPGkqNVyUfIJXddc1IDB3t8GXfBL3zSPQF%2bIyDi3AcWLUm0oL6crfUIOoirULFjyvRAul6J%2by6a6FDtpJuVrK3Y3rP8bCLGdxev%2bdUqQgc%2bXEDQI%2f8OLEsCv3IziG5WQHDSzFAl7qQApdhGho5obQdwDn6iwyWAFYt%2fzWn72d9GQ0G7zTxyKwsQjpKzhAqqYI6%2fCsSwtcK7MkwpbhLc%2bPOBViftzfwo0QY4%2b1hHCAUUDtd7wn2zRmIMG1aKMpZb8PUmWVGX9mCVPzhBcSom0%2boac5wXwR%2fcfo1uKTMHtBvk9eTSDfjfyy5P2leMqegA1xVPD5%2bIs%2bMWrsB8j6dH%2fUqNW7MrBr8&fich=PeticoesVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "c7a8b036f2bb9420007f23598577186345f4c787fefe68382e6a1aac6e3b6ea3",
+  "legislatura": "VIII",
+  "id": "11161",
+  "numero": "61",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2001-06-08",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2001-11-21",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2001-07-18",
+        "DataArquivo": "2001-11-21",
+        "DataBaixaComissao": "2001-06-08",
+        "DataEnvioPAR": "2001-12-20",
+        "DataReaberta": "2001-07-18",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2001-06-08",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c304e505453387851554e45544563765247396a6457316c626e52766331426c64476c6a59573876595755354e6d5a6a4e7a51744e325a6b4e6930304e4449774c5749355a444d745a6a4d354e32597a5a445979597a59784c6e426b5a673d3d&fich=ae96fc74-7fd6-4420-b9d3-f397f3d62c61.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "3",
+        "Legislatura": "VIII",
+        "Nome": "COMISSAO DE ASSUNTOS CONSTITUCIONAIS, DIREITOS, LIBERDADES E GARANTIAS",
+        "NotasAdmissibilidade": null,
+        "Numero": "1",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2001-11-20",
+            "gp": "PS",
+            "id": "179",
+            "motivoCessacao": null,
+            "nome": "Jorge Lacão"
+          }
+        ],
+        "RelatorioFinal": [
+          "21384"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2004-06-25",
+    "Documentos": [
+      {
+        "DataDocumento": "2001-06-08",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c63793878596a4d304e3259335a6930774f5441774c5451354e7a51744f4751775953316c4e32526b4f474d334d5449314e4759756347526d&fich=1b347f7f-0900-4974-8d0a-e7dd8c71254f.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2004-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150185",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5483-5484"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-06-26",
+                "pubLeg": "IX",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/101/2004-06-26/5483?pgs=5483-5484&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITAÇÕES VÁRIAS, NO ÂMBITO DE COMPETÊNCIAS DA ASSEMBLEIA DA REPÚBLICA, SOBRE A DENOMINADA \"QUESTÃO OLIVENÇA\"",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150186",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5484-5484"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-06-26",
+                "pubLeg": "IX",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/101/2004-06-26/5484?pgs=5484&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITAÇÕES VÁRIAS, NO ÂMBITO DE COMPETÊNCIAS DA ASSEMBLEIA DA REPÚBLICA, SOBRE A DENOMINADA \"QUESTÃO OLIVENÇA\"",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150187",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5484-5485"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-06-26",
+                "pubLeg": "IX",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/101/2004-06-26/5484?pgs=5484-5485&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITAÇÕES VÁRIAS, NO ÂMBITO DE COMPETÊNCIAS DA ASSEMBLEIA DA REPÚBLICA, SOBRE A DENOMINADA \"QUESTÃO OLIVENÇA\"",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150188",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5485-5485"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-06-26",
+                "pubLeg": "IX",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/101/2004-06-26/5485?pgs=5485&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITAÇÕES VÁRIAS, NO ÂMBITO DE COMPETÊNCIAS DA ASSEMBLEIA DA REPÚBLICA, SOBRE A DENOMINADA \"QUESTÃO OLIVENÇA\"",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150189",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5485-5486"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-06-26",
+                "pubLeg": "IX",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/101/2004-06-26/5485?pgs=5485-5486&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITAÇÕES VÁRIAS, NO ÂMBITO DE COMPETÊNCIAS DA ASSEMBLEIA DA REPÚBLICA, SOBRE A DENOMINADA \"QUESTÃO OLIVENÇA\"",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11161",
+    "PetAssunto": "Solicitações várias, no âmbito de competências da Assembleia da República, sobre a denominada \"Questão de Olivença",
+    "PetDataEntrada": "2001-06-08",
+    "PeticoesAssociadas": null,
+    "PetId": "11161",
+    "PetLeg": "VIII",
+    "PetNr": "61",
+    "PetNrAssinaturas": "5049",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "171",
+        "obs": null,
+        "pag": [
+          "5483-5486"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-06-26",
+        "pubLeg": "IX",
+        "pubNr": "101",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/101/2004-06-26/5483?pgs=5483-5486&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "264846",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-09-14",
+        "pubLeg": "VIII",
+        "pubNr": "38",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/08/02/038/2001-09-14?org=PLC"
+      }
+    ]
+  }
+}
