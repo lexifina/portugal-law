@@ -1,0 +1,4 @@
+Aviso n.º 135/94
+Por ordem superior se faz público que o Secretário-Geral do Conselho da Europa, por notificação de 23 de Fevereiro de 1994, comunicou que a Santa Sé assinou, a 9 de Fevereiro de 1994, a Convenção Europeia para a Protecção do Património Arqueológico, aberta à assinatura em 6 de Maio de 1969 e revista em 16 de Janeiro de 1992.
+Portugal é parte na referida Convenção, que foi aprovada, para ratificação, pelo Decreto n.º 39/82, de 2 de Abril, conforme Diário da República, n.º 77, de 2 de Abril de 1982. O depósito do instrumento de ratificação foi feito em 6 de Julho de 1982, segundo aviso publicado no Diário da República, 1.ª série, n.º 180, de 6 de Agosto de 1982.
+Direcção-Geral dos Assuntos Multilaterais, 21 de Março de 1994. - A Directora de Serviços das Organizações Políticas Internacionais, Ana Maria da Silva Marques Martinho.
