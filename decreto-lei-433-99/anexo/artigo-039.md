@@ -12,8 +12,10 @@
 
 5 - Em caso de o aviso de recepção ser devolvido ou não vier assinado por o destinatário se ter recusado a recebê-lo ou não o ter levantado no prazo previsto no regulamento dos serviços postais e não se comprovar que entretanto o contribuinte comunicou a alteração do seu domicílio fiscal, a notificação será efectuada nos 15 dias seguintes à devolução por nova carta registada com aviso de recepção, presumindo-se a notificação se a carta não tiver sido recebida ou levantada, sem prejuízo de o notificando poder provar justo impedimento ou a impossibilidade de comunicação da mudança de residência no prazo legal.
 
-6 - Quando a notificação for efectuada por telefax ou via Internet, presume-se que foi feita na data de emissão, servindo de prova, respectivamente, a cópia do aviso de onde conste a menção de que a mensagem foi enviada com sucesso, bem como a data, hora e número de telefax do receptor ou o extracto da mensagem efectuado pelo funcionário, o qual será incluído no processo.
+6 - No caso da recusa de recebimento ou não levantamento da carta, previstos no número anterior, a notificação presume-se feita no 3.º dia posterior ao do registo ou no 1.º dia útil seguinte a esse, quando esse dia não seja útil.
 
-7 - A presunção referida no número anterior poderá ser ilidida por informação do operador sobre o conteúdo e data da emissão.
+7 - Quando a notificação for efectuada por telefax ou via Internet, presume-se que foi feita na data de emissão, servindo de prova, respectivamente, a cópia do aviso de onde conste a menção de que a mensagem foi enviada com sucesso, bem como a data, hora e número de telefax do receptor ou o extracto da mensagem efectuado pelo funcionário, o qual será incluído no processo.
 
-8 - O acto de notificação será nulo no caso de falta de indicação do autor do acto e, no caso de este o ter praticado no uso de delegação ou subdelegação de competências, da qualidade em que decidiu, do seu sentido e da sua data.
+8 - A presunção referida no número anterior poderá ser ilidida por informação do operador sobre o conteúdo e data da emissão.
+
+9 - O acto de notificação será nulo no caso de falta de indicação do autor do acto e, no caso de este o ter praticado no uso de delegação ou subdelegação de competências, da qualidade em que decidiu, do seu sentido e da sua data.
