@@ -1,0 +1,3 @@
+Resolução n.º 196/81
+O Conselho de Ministros, reunido em 13 de Agosto de 1981, resolveu, ao abrigo do n.º 4 do artigo 9.º do Decreto-Lei n.º 260/76, de 8 de Abril, e do n.º 1 do artigo 10.º dos estatutos da CP, aprovados pelo Decreto-Lei n.º 109/77, de 25 de Março, e ouvida a respectiva comissão de trabalhadores, nomear o Dr. Francisco Trindade Calha para o lugar de vogal do conselho de gerência dos Caminhos de Ferro Portugueses, E. P., em substituição do Dr. Luís Manuel Cidade Pereira de Moura, cujo mandato cessou.
+Presidência do Conselho de Ministros, 13 de Agosto de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
