@@ -1,0 +1,47 @@
+# Acórdão do Supremo Tribunal de Justiça de 1978-10-19, processo 067227
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 067227
+
+**Nº Convencional:** JSTJ00023699
+
+**Relator:** COSTA SOARES
+
+**Descritores:** NEGÓCIO JURÍDICO; QUALIFICAÇÃO; ARRENDAMENTO; PRESSUPOSTOS; PRAZO; ARRENDAMENTO PARA COMÉRCIO OU INDÚSTRIA; FALTA DE FORMA LEGAL; EFEITOS; ANULABILIDADE; COMPENSAÇÃO
+
+**Nº do Documento:** SJ197810190672272
+
+**Data do Acordão:** 10/19/1978
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REVISTA.
+
+**Decisão:** CONCEDIDA A REVISTA. CONCEDIDA PARCIALMENTE A REVISTA.
+
+**Área Temática:** DIR PROC CIV. DIR CIV - TEORIA GERAL / DIR OBG / DIR FAM.
+
+## Sumário
+
+I - A estipulação de prazo não é elemento essencial do contrato de arrendamento, uma vez que, acerca de tal matéria, existem normas supletivas.
+
+II - O preceito constante do artigo 1024 n. 2 do Código Civil de 1966, não tem carácter imperativo, isto é, não se inspira em normas de interesse e ordem pública cuja violação importe por si só a nulidade total do acto, antes contem uma norma especial que destina unicamente a acautelar os direitos dos outros consortes do prédio.
+
+III - A violação do disposto artigo 1024 n. 2 do Código Civil de 1966 sujeita o acto praticado a um regime de invalidade mista que tem traços do regime próprio da nulidade e características especiais do regimeda anulabilidade.
+
+IV - Aquele que abusivamente deu de arrendamento coisa que não lhe pertencia na totalidade não pode pedir a declaração de nulidade do acto, uma vez que a invalidade deste não foi estabelecida no seu interesse mas no dos demais consortes, porventura prejudicados como tal acto.
+
+V - A nulidade referida nas conclusões anteriores não pode também ser declarada oficiosamente pelo tribunal, dado que o disposto no artigo 1024 n. 2 do Código Civil de 1966, não se inspirando em razões de interesse e ordem pública mas apenas visando a defesa dos direitos dos demais consortes do prédio arrendado, não importa por si só a nulidade total do acto.
+
+VI - O tribunal não está sujeito às alegações das partes no tocante à indagação, interpretação e aplicação das regras de direito, pelo que o negócio jurídico tem a qualificação que os seus termos ou cláusulas representam e não aquela que as partes lhe chamam.
+
+VII - É de arrendamento comercial o contrato em que o autor (comproprietário do prédio) proporciona à ré o gozo temporário de uma parte do prédio para arrecadação de materiais destinados à actividade mercantil, mediante certa retribuição mensal.
+
+VIII - A falta de escritura pública é sempre imputável ao locador, e a respectiva nulidade só é invocável pelo locatário.
+
+IX - Não há lugar à compensação entre créditos e débitos do senhorio e do inquilino, se os créditos do inquilino não são exigíveis e o senhorio não é o único credor.
