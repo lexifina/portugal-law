@@ -1,0 +1,13 @@
+Resolução do Conselho de Ministros n.º 5/84
+Todos os estudos realizados, nomeadamente os que conduziram à elaboração do Plano Energético Nacional, apontam para a necessidade de não abrandar o aproveitamento dos nossos recursos hidroelétricos. Está neste caso o Alqueva. Para este aproveitamento hidroelécrtico estão já realizados os acessos às obras por ambas as margens, as intalações do estaleiro, as obras de derivação provisória e a piquetagem da albufeira, o que representa um investimento a preços correntes de 1252705 contos entre 1975 e 1982.
+A evolução dos valores relativos à energia eléctrica a produzir e do investimento a realizar tem vindo a aumentar a percentagem da valia eléctrica, que a preços de 1977 era de 48,8%, a preços de 1980 de 65,5% e a preços de 1982 da ordem de 72,%, para um investimento total previsto de 22,6 milhões de contos, dos quais 1,3 já investidos, 0,3 a investir nos anos de 1984 e 1985 e os restantes 21 milhões de contos a investir de 1986 a 1992. Nestas circunstâncias a participação do Estado para a concretização e viabilização do projecto hidroagrícola seria no máximo de 28% do investimento a realizar.
+O impacte que a realização do aproveitamento hidroeléctrico do Alqueva pode vir a ter não só na produção de energia eléctrica, com o aproveitamento integral do potencial do rio Guadiana, como na rentabilização de todas as obras de regadio do Alentejo e na resolução de alguns problemas de abastecimento de água às populações recomenda uma decisão urgente.
+Nestes termos, o Conselho de Ministros, reunido em 12 de Janeiro de 1984, resolveu:
+1 - Que os planos de produção e investimento para 1984 da Electricidade de Portugal sejam reformulados para ter em conta a decisão de relançar a obra de aproveitamento do Alqueva.
+2 - Que seja assinado o protocolo de acordo entre o Estado e a Electricidade de Portugal que fixe o faseamento dos trabalhos, a comparticipação do Orçamento do Estado no financiamento das despesas e as demais condições habituais em protocolos deste género, tendo em conta o aproveitamento integral do potencial hidroeléctrico do Guadiana.
+3 - Que o protocolo seja assinado pelos Ministros das Finanças e do Plano, do Equipamento Social e da Indústria e Energia.
+4 - Encarregar os Secretários de Estado do Planeamento, do Desenvolvimento Regional, da Agricultura, das Estruturas e Recursos Agrários e da Energia e do Ambiente de preparar um programa de acção a desenvolvimento, visando:
+a) O aproveitamento agrícola;
+b) O abastecimento de água à população e o abastecimento de água para fins industriais e outros;
+c) Estudos aprofundados de impacte ambiental.
+Presidência do Conselho de Ministros. - O Primeiro-Ministro, Mário Soares.
