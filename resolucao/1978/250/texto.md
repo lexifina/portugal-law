@@ -1,0 +1,4 @@
+Resolução n.º 250/78
+Tendo em atenção os estudos relativos à desintervenção do Estado na empresa Renascença Gráfica, S. A. R. L., e, nomeadamente, o relatório da Comissão Interministerial a que se refere o Decreto-Lei n.º 907/76, de 31 de Dezembro, o qual se encontra concluído desde 6 de Janeiro de 1978, e não se afigurando existir qualquer motivo para o prosseguimento da situação de intervenção, o Conselho de Ministros, reunido em 20 de Dezembro de 1978, resolveu:
+A intervenção do Estado na sociedade Renascença Gráfica, S. A. R. L., cessa de imediato, por restituição aos respectivos titulares, nos termos da alínea d) do n.º 1 do artigo 24.º do Decreto-Lei n.º 422/76, de 29 de Maio.
+Presidência do Conselho de Ministros, 20 de Dezembro de 1978. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.
