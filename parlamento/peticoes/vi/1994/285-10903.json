@@ -1,0 +1,187 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jvMQgL4qeojTXYc%2byhcz5p3ic3xODuK0iUO0Y2y2ClcTtFB9k3sD%2b9wQveZYSd8NZLsCb9yzJniqsFTagd7CbMNr9RiU3i%2bk3rmuobGx84PbCdMXEaO2tAt4ls9fukmsItoX60VYYqS8JyucRXeNK4DfI799g%2blbezfSJpZ8w7%2baZYMBqfv1VesnUx6bJSW47suQTEZztwlqhsheF%2fV6CayXq9XylkeKBdMS4k0WpFeGsJUrYs53Ga%2fzv4nbFZSlZiCimHdTEOsH%2b%2fNcwjWayb61QyVSstj3ODN9XM8DB46f%2bPQ7wSP1KSIrsnu6vc0NN5UqeG88nqFw4kPOlzPTpz7DVHur%2fsRBhn0B8NlVzMX2nw7jDBVCKY54B7pyG%2fWe&fich=PeticoesVI_json.txt&Inline=true",
+  "ficheiro_sha256": "a0b19d1767819df1af646741c024bf367ae6532369315672414b384340a05bf4",
+  "legislatura": "VI",
+  "id": "10903",
+  "numero": "285",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "1994-10-31",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "1996-06-27",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "1996-06-27",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "1996-07-04",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "17",
+        "Legislatura": "VII",
+        "Nome": "COMISSÃO DE EDUCAÇÃO, CIENCIA E CULTURA",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "1996-06-26",
+            "gp": "PCP",
+            "id": "1423",
+            "motivoCessacao": null,
+            "nome": "Luísa Mesquita"
+          }
+        ],
+        "RelatorioFinal": [
+          "21783"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "1995-04-03",
+            "dataResposta": "1995-05-03",
+            "entidades": [
+              "Cx. Geral de Aposentações"
+            ],
+            "nrOficio": "547/COM",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "1995-04-03",
+            "dataResposta": null,
+            "entidades": [
+              "Ministra da Educação"
+            ],
+            "nrOficio": "547/COM",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "1995-06-02",
+                "dataResposta": null,
+                "nrOficio": "945/COM",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "1995-06-19",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "1994-11-29",
+        "DataArquivo": "1996-06-27",
+        "DataBaixaComissao": "1995-01-19",
+        "DataEnvioPAR": "1995-08-22",
+        "DataReaberta": "1994-11-29",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4",
+        "Legislatura": "VI",
+        "Nome": "COMISSÃO PETIÇÕES",
+        "NotasAdmissibilidade": null,
+        "Numero": "2",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "1995-06-19",
+            "dataNomeacao": "1995-01-19",
+            "gp": "PSD",
+            "id": "8",
+            "motivoCessacao": null,
+            "nome": "Álvaro Viegas"
+          }
+        ],
+        "RelatorioFinal": [
+          "21130"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": null,
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "10903",
+    "PetAssunto": "Solicitam medidas legislativas ou interpretativas adequadas relativas aos professores licenciados aposentados do Ensino Secundário.",
+    "PetDataEntrada": "1994-10-31",
+    "PeticoesAssociadas": null,
+    "PetId": "10903",
+    "PetLeg": "VI",
+    "PetNr": "285",
+    "PetNrAssinaturas": "2",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "apensa e petição 300/VI para efeitos de apreciação em Plenário",
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
