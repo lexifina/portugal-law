@@ -1,0 +1,7 @@
+Decreto-Lei n.º 43003
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Ficam os corpos administrativos autorizados a aplicar aos seus serventuários as disposições do Decreto-Lei n.º 42947, de 27 de Abril de 1960, fixando, dentro do limite estabelecido no artigo 16.º do mesmo diploma, a data a partir da qual essa aplicação se verificará.
+§ único. A fim de permitir as despesas a que se refere este artigo, podem ser elaborados orçamentos suplementares para além dos previstos no artigo 680.º do Código Administrativo.
+Art. 2.º Considera-se aplicável ao cônjuge e descendentes a cargo do pessoal das autarquias locais o regime de assistência na tuberculose estabelecido pelo Decreto-Lei n.º 42953, de 27 de Abril de 1960.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 3 de Junho de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
