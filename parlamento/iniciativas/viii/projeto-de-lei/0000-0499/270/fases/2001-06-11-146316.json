@@ -1,0 +1,639 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "270",
+    "id": "5943",
+    "titulo": "Exercício antecipado do direito de voto nas eleições para a Assembleia da República por estudantes recenseados nas regiões autónomas e ausentes delas na data das eleições"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2001-06-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1942",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2001-06-11",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "5734",
+        "leg": "VIII",
+        "nr": "382",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "518",
+            "obs": null,
+            "pag": [
+              "3722-3728"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-06-12",
+            "pubLeg": "VIII",
+            "pubNr": "95",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/095/2001-06-12/3722?pgs=3722-3728&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Alarga a possibilidade de voto antecipado nas leis eleitorais à Assembleia da República, Presidente da República e assembleias legislativas regionais aos elementos que integram as comitivas oficiais de representantes da selecção nacional."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-06-11",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138777",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3722-3723"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-12",
+                "pubLeg": "VIII",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/095/2001-06-12/3722?pgs=3722-3723&org=PLC"
+              }
+            ],
+            "sumario": "EXERCICIO ANTECIPADO DO DIREITO DE VOTO NAS ELEICOES PARA A ASSEMBLEIA DA REPUBLICA POR ESTUDANTES RECENSEADOS NAS REGIOES AUTONOMAS E AUSENTES DELAS NA DATA DAS ELEICOES; ALARGA A POSSIBILIDADE DE VOTO ANTECIPADO NAS LEIS ELEITORAIS A ASSEMBLEIA DA REPUBLICA PRESIDENTE DA REPUBLICA E ASSEMBLEIAS LEGISLATIVAS REGIONAIS AOS ELEMENTOS QUE INTEGRAM AS COMITIVAS OFICIAIS DE REPRESENTANTES DA SELECÇAO NACIONAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138778",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3722-3723"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-12",
+                "pubLeg": "VIII",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/095/2001-06-12/3722?pgs=3722-3723&org=PLC"
+              }
+            ],
+            "sumario": "EXERCICIO ANTECIPADO DO DIREITO DE VOTO NAS ELEICOES PARA A ASSEMBLEIA DA REPUBLICA POR ESTUDANTES RECENSEADOS NAS REGIOES AUTONOMAS E AUSENTES DELAS NA DATA DAS ELEICOES; ALARGA A POSSIBILIDADE DE VOTO ANTECIPADO NAS LEIS ELEITORAIS A ASSEMBLEIA DA REPUBLICA PRESIDENTE DA REPUBLICA E ASSEMBLEIAS LEGISLATIVAS REGIONAIS AOS ELEMENTOS QUE INTEGRAM AS COMITIVAS OFICIAIS DE REPRESENTANTES DA SELECÇAO NACIONAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "262",
+                "nome": "Laurentino Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138779",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3723-3724"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-12",
+                "pubLeg": "VIII",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/095/2001-06-12/3723?pgs=3723-3724&org=PLC"
+              }
+            ],
+            "sumario": "EXERCICIO ANTECIPADO DO DIREITO DE VOTO NAS ELEICOES PARA A ASSEMBLEIA DA REPUBLICA POR ESTUDANTES RECENSEADOS NAS REGIOES AUTONOMAS E AUSENTES DELAS NA DATA DAS ELEICOES; ALARGA A POSSIBILIDADE DE VOTO ANTECIPADO NAS LEIS ELEITORAIS A ASSEMBLEIA DA REPUBLICA PRESIDENTE DA REPUBLICA E ASSEMBLEIAS LEGISLATIVAS REGIONAIS AOS ELEMENTOS QUE INTEGRAM AS COMITIVAS OFICIAIS DE REPRESENTANTES DA SELECÇAO NACIONAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1736",
+                "nome": "Fernando Seara"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138818",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3724-3724"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-12",
+                "pubLeg": "VIII",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/095/2001-06-12/3724?pgs=3724&org=PLC"
+              }
+            ],
+            "sumario": "EXERCICIO ANTECIPADO DO DIREITO DE VOTO NAS ELEICOES PARA A ASSEMBLEIA DA REPUBLICA POR ESTUDANTES RECENSEADOS NAS REGIOES AUTONOMAS E AUSENTES DELAS NA DATA DAS ELEICOES; ALARGA A POSSIBILIDADE DE VOTO ANTECIPADO NAS LEIS ELEITORAIS A ASSEMBLEIA DA REPUBLICA PRESIDENTE DA REPUBLICA E ASSEMBLEIAS LEGISLATIVAS REGIONAIS AOS ELEMENTOS QUE INTEGRAM AS COMITIVAS OFICIAIS DE REPRESENTANTES DA SELECÇAO NACIONAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138819",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3724-3724"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-12",
+                "pubLeg": "VIII",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/095/2001-06-12/3724?pgs=3724&org=PLC"
+              }
+            ],
+            "sumario": "EXERCICIO ANTECIPADO DO DIREITO DE VOTO NAS ELEICOES PARA A ASSEMBLEIA DA REPUBLICA POR ESTUDANTES RECENSEADOS NAS REGIOES AUTONOMAS E AUSENTES DELAS NA DATA DAS ELEICOES; ALARGA A POSSIBILIDADE DE VOTO ANTECIPADO NAS LEIS ELEITORAIS A ASSEMBLEIA DA REPUBLICA PRESIDENTE DA REPUBLICA E ASSEMBLEIAS LEGISLATIVAS REGIONAIS AOS ELEMENTOS QUE INTEGRAM AS COMITIVAS OFICIAIS DE REPRESENTANTES DA SELECÇAO NACIONAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138820",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3724-3726"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-12",
+                "pubLeg": "VIII",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/095/2001-06-12/3724?pgs=3724-3726&org=PLC"
+              }
+            ],
+            "sumario": "EXERCICIO ANTECIPADO DO DIREITO DE VOTO NAS ELEICOES PARA A ASSEMBLEIA DA REPUBLICA POR ESTUDANTES RECENSEADOS NAS REGIOES AUTONOMAS E AUSENTES DELAS NA DATA DAS ELEICOES; ALARGA A POSSIBILIDADE DE VOTO ANTECIPADO NAS LEIS ELEITORAIS A ASSEMBLEIA DA REPUBLICA PRESIDENTE DA REPUBLICA E ASSEMBLEIAS LEGISLATIVAS REGIONAIS AOS ELEMENTOS QUE INTEGRAM AS COMITIVAS OFICIAIS DE REPRESENTANTES DA SELECÇAO NACIONAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138821",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3725-3725"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-12",
+                "pubLeg": "VIII",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/095/2001-06-12/3725?pgs=3725&org=PLC"
+              }
+            ],
+            "sumario": "EXERCICIO ANTECIPADO DO DIREITO DE VOTO NAS ELEICOES PARA A ASSEMBLEIA DA REPUBLICA POR ESTUDANTES RECENSEADOS NAS REGIOES AUTONOMAS E AUSENTES DELAS NA DATA DAS ELEICOES; ALARGA A POSSIBILIDADE DE VOTO ANTECIPADO NAS LEIS ELEITORAIS A ASSEMBLEIA DA REPUBLICA PRESIDENTE DA REPUBLICA E ASSEMBLEIAS LEGISLATIVAS REGIONAIS AOS ELEMENTOS QUE INTEGRAM AS COMITIVAS OFICIAIS DE REPRESENTANTES DA SELECÇAO NACIONAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "614",
+                "nome": "Celeste Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138822",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3726-3726"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-12",
+                "pubLeg": "VIII",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/095/2001-06-12/3726?pgs=3726&org=PLC"
+              }
+            ],
+            "sumario": "EXERCICIO ANTECIPADO DO DIREITO DE VOTO NAS ELEICOES PARA A ASSEMBLEIA DA REPUBLICA POR ESTUDANTES RECENSEADOS NAS REGIOES AUTONOMAS E AUSENTES DELAS NA DATA DAS ELEICOES; ALARGA A POSSIBILIDADE DE VOTO ANTECIPADO NAS LEIS ELEITORAIS A ASSEMBLEIA DA REPUBLICA PRESIDENTE DA REPUBLICA E ASSEMBLEIAS LEGISLATIVAS REGIONAIS AOS ELEMENTOS QUE INTEGRAM AS COMITIVAS OFICIAIS DE REPRESENTANTES DA SELECÇAO NACIONAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "390",
+                "nome": "Mota Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138823",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3726-3727"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-12",
+                "pubLeg": "VIII",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/095/2001-06-12/3726?pgs=3726-3727&org=PLC"
+              }
+            ],
+            "sumario": "EXERCICIO ANTECIPADO DO DIREITO DE VOTO NAS ELEICOES PARA A ASSEMBLEIA DA REPUBLICA POR ESTUDANTES RECENSEADOS NAS REGIOES AUTONOMAS E AUSENTES DELAS NA DATA DAS ELEICOES; ALARGA A POSSIBILIDADE DE VOTO ANTECIPADO NAS LEIS ELEITORAIS A ASSEMBLEIA DA REPUBLICA PRESIDENTE DA REPUBLICA E ASSEMBLEIAS LEGISLATIVAS REGIONAIS AOS ELEMENTOS QUE INTEGRAM AS COMITIVAS OFICIAIS DE REPRESENTANTES DA SELECÇAO NACIONAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1660",
+                "nome": "Mota Torres"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138824",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3727-3728"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-12",
+                "pubLeg": "VIII",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/095/2001-06-12/3727?pgs=3727-3728&org=PLC"
+              }
+            ],
+            "sumario": "EXERCICIO ANTECIPADO DO DIREITO DE VOTO NAS ELEICOES PARA A ASSEMBLEIA DA REPUBLICA POR ESTUDANTES RECENSEADOS NAS REGIOES AUTONOMAS E AUSENTES DELAS NA DATA DAS ELEICOES; ALARGA A POSSIBILIDADE DE VOTO ANTECIPADO NAS LEIS ELEITORAIS A ASSEMBLEIA DA REPUBLICA PRESIDENTE DA REPUBLICA E ASSEMBLEIAS LEGISLATIVAS REGIONAIS AOS ELEMENTOS QUE INTEGRAM AS COMITIVAS OFICIAIS DE REPRESENTANTES DA SELECÇAO NACIONAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "280",
+                "nome": "Carlos Encarnação"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138825",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3727-3728"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-12",
+                "pubLeg": "VIII",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/095/2001-06-12/3727?pgs=3727-3728&org=PLC"
+              }
+            ],
+            "sumario": "EXERCICIO ANTECIPADO DO DIREITO DE VOTO NAS ELEICOES PARA A ASSEMBLEIA DA REPUBLICA POR ESTUDANTES RECENSEADOS NAS REGIOES AUTONOMAS E AUSENTES DELAS NA DATA DAS ELEICOES; ALARGA A POSSIBILIDADE DE VOTO ANTECIPADO NAS LEIS ELEITORAIS A ASSEMBLEIA DA REPUBLICA PRESIDENTE DA REPUBLICA E ASSEMBLEIAS LEGISLATIVAS REGIONAIS AOS ELEMENTOS QUE INTEGRAM AS COMITIVAS OFICIAIS DE REPRESENTANTES DA SELECÇAO NACIONAL",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "146316",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "262349",
+        "obs": "O PS solicitou que se inluísse nesta discussão o projecto de lei nº 237/VIII, o que não obteve consenso por parte do PSD",
+        "pag": [
+          "3722-3728"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-06-12",
+        "pubLeg": "VIII",
+        "pubNr": "95",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/095/2001-06-12/3722?pgs=3722-3728&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
