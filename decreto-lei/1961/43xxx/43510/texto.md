@@ -1,0 +1,13 @@
+Decreto-Lei n.º 43510
+O artigo 7.º do Decreto-Lei n.º 26096, de 23 de Novembro de 1935, estabeleceu que as gratificações ao pessoal das delegações postais da Caixa Económica Portuguesa sejam distribuídas em conformidade com a legislação aplicável à Caixa Económica Postal enquanto não for possível adoptar o regime vigente para as delegações instaladas junto das secções de finanças.
+Como a orgânica actual dos serviços não consente ainda tal uniformidade e porque não se justifica, presentemente, a observância do preceituado no Regulamento da Caixa Económica Postal, entende o Governo ser necessário modificar as normas legais actualmente aplicáveis.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É modificado o artigo 7.º do Decreto-Lei n.º 26096, de 23 de Novembro de 1935, cuja redacção passa a ser a seguinte:
+Art. 7.º A Administração da Caixa Geral de Depósitos, Crédito e Previdência poderá tornar extensivo ao pessoal das delegações postais da Caixa Económica Portuguesa as disposições em vigor para o pessoal das suas delegações junto das secções de finanças e tesourarias da Fazenda Pública.
+§ único. Enquanto a orgânica dos serviços não consentir a aplicação deste preceito, poderá a Administração da Caixa Geral de Depósitos, Crédito e Previdência, a fim de premiar os funcionários das delegações postais da Caixa Económica Portuguesa, despender anualmente nesses prémios, a distribuir por intermédio da Administração-Geral dos Correios Telégrafos e Telefones, uma importância não excedente a metade da verba entregue a esta Administração como compensação dos serviços prestados, nos termos do § único do artigo 6.º
+Art. 2.º Fica revogada a legislação em contrário, nomeadamente as disposições contidas nos artigos 11.º e 12.º do Regulamento Provisório para o Serviço da Caixa Económica Postal, aprovado pelo Decreto de 15 de Dezembro de 1911.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 21 de Fevereiro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
+
+Para ser presente à Assembleia Nacional.
