@@ -1,0 +1,4 @@
+Aviso n.º 48/99
+Por ordem superior se torna público que, nos termos do artigo 13.º do Acordo sobre a Promoção e Protecção Mútua de Investimentos entre a República Portuguesa e a República da Coreia, aprovado pelo Decreto n.º 14/96, de 28 de Maio, publicado no Diário da República, 1.ª série-A, n.º 124, de 28 de Maio de 1996, foi, em 12 de Julho de 1996, emitida uma nota, por parte de Portugal, em que se comunica terem sido dados por concluídos os preceitos constitucionais internos, na sequência de idêntico procedimento por parte da República da Coreia.
+Nos termos do citado artigo 13.º do mesmo Acordo, este entrou em vigor em 11 de Agosto de 1996.
+Direcção-Geral das Relações Bilaterais, 10 de Março de 1999. - O Director-Geral das Relações Bilaterais, José Caetano de Campos Andrada da Costa Pereira.
