@@ -1,0 +1,11 @@
+Portaria n.º 785/84
+de 8 de Outubro
+Dado o crescente volume e a maior tecnicidade das tarefas inerentes à preparação do Orçamento do Estado e face à constante necessidade de uma sistemática e rigorosa análise crítica da sua progressiva execução anual, não é possível deixar de aumentar, embora ligeiramente, o reduzido número de técnicos superiores do quadro da Direcção-Geral da Contabilidade Pública, sob pena de prejuízo da dinâmica necessária à plena execução da política de contenção orçamental.
+Por outro lado, verifica-se também que o actual quadro de pessoal da Direcção-Geral da Contabilidade Pública, além de não permitir a execução do artigo 27.º, n.º 3, alínea a), do Decreto Regulamentar n.º 53/80, de 27 de Setembro (orgânica da mesma Direcção-Geral), também inviabiliza a recolha e distribuição, muitas vezes urgente, da correspondência e outro expediente a cargo de todas as suas direcções de serviços e delegações devido à inexistência no referido quadro de um lugar de motorista que permita a utilização diária de uma viatura que para aquele efeito já lhe foi atribuída pelo Gabinete de Viaturas do Estado.
+Torna-se assim necessário alterar o aludido quadro de modo a permitir a execução da lei e a evitar os referidos prejuízos, o que, aliás, não implicará qualquer acréscimo de encargos, uma vez que o total dos vencimentos correspondentes aos efectivos a aumentar é inferior ao dos lugares, na maioria de pessoal auxiliar, que são abatidos.
+Deste modo, nos termos do n.º 1 do artigo 10.º do Decreto-Lei n.º 499/79, de 22 de Dezembro:
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano e pelo Secretário de Estado da Administração Pública, que o quadro de pessoal da Direcção-Geral da Contabilidade Pública a que se refere o artigo 21.º do Decreto Regulamentar n.º 53/80, de 27 de Setembro, e a Portaria n.º 31/83, de 10 de Janeiro, seja alterado de conformidade com o seguinte:
+(ver documento original)
+Presidência do Conselho de Ministros e Ministério das Finanças e do Plano.
+Assinada em 3 de Setembro de 1984.
+Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.
