@@ -1,0 +1,63 @@
+Portaria n.º 544/2001
+de 31 de Maio
+Considerando que a pesca profissional nas águas interiores é uma importante actividade sócio-económica, a qual deve ser praticada num quadro de utilização sustentável dos recursos piscícolas e de manutenção da biodiversidade, sem que, no entanto, as medidas de ordenamento e gestão dos recursos introduzam impactes abruptos e significativos de ordem social:
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo da base XXXIII da Lei n.º 2097, de 6 de Junho de 1959, da alínea b) do artigo 31.º e dos artigos 41.º e 84.º do Decreto n.º 44623, de 10 de Outubro de 1962, que o anexo a que se refere o n.º 1.º da Portaria n.º 252/2000, de 11 de Maio, seja substituído pelo anexo ora aprovado pela presente portaria, passando assim a fazer parte integrante daquela.
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural, em 14 de Maio de 2001.
+
+ANEXO
+Bacia hidrográfica do Lima:
+Rio Lima - troço compreendido entre a confluência com o rio Vez, na freguesia e concelho de Ponte da Barca, a montante, e a Ponte de Lanheses, freguesia de Lanheses, concelho de Viana do Castelo, a jusante, e nas pesqueiras fixas devidamente licenciadas;
+Rio Vez - desde a ponte velha da vila de Arcos de Valdevez até à confluência com o rio Lima, apenas nas pesqueiras fixas devidamente licenciadas.
+Bacia hidrográfica do Cávado:
+Rio Cávado - apenas nos seguintes troços:
+Desde a Barragem de Penide, na freguesia de Areias de Vilar, concelho de Barcelos, a montante, até à foz do ribeiro das Pontes, na freguesia de Barcelos, concelho de Barcelos, a jusante;
+Desde a foz do ribeiro de Vila Frescainha (São Pedro), na freguesia de Vila Frescainha (São Pedro), concelho de Barcelos, a montante, até à Ponte de Fão, na freguesia de Fão, concelho de Esposende, a jusante.
+Bacia hidrográfica do Douro:
+Rio Douro - todo o curso a montante da Barragem de Crestuma-Lever;
+Rio Tua - todo o curso desde a confluência dos rios Rabaçal e Tuela até à sua foz no rio Douro;
+Rio Sabor - troço compreendido entre a confluência com a ribeira da Granja, na freguesia da Sé, concelho de Bragança, a montante, e a sua foz;
+Rio Corgo - troço compreendido entre a ponte romana, em Alvações do Corgo, freguesia de Alvações do Corgo, concelho de Santa Marta de Penaguião, a montante, e a sua foz;
+Rio Pinhão - troço compreendido entre a Ponte de Vale de Mendiz, freguesia de Vale de Mendiz, concelho de Alijó, a montante, e a sua foz;
+Rib. de Temilobos - troço compreendido entre a Ponte de São Joaninho, na freguesia de Vacalar, concelho de Armamar, a montante, e a sua foz;
+Rio Tedo - troço compreendido entre a Ponte de Santa Leocádia, na freguesia de Santa Leocádia, concelho de Tabuaço, a montante, e a sua foz;
+Rio Távora - troço compreendido entre a Ponte do Vau, na freguesia de Desejosa, concelho de Tabuaço, a montante, e a sua foz;
+Rio Torto - troço compreendido entre a Ponte de Sarzedinho, na freguesia de Ervedosa do Douro, concelho de São João da Pesqueira, a montante, e a sua foz;
+Rio Tuela - troço compreendido entre a ponte da estrada nacional em Nuzedo de Baixo, freguesia de Vale das Fontes, concelho de Vinhais, a montante, e a sua foz no rio Tua.
+Bacia hidrográfica do Vouga:
+Rio Vouga - apenas nos seguintes troços:
+Desde a Ponte de Sejães, na estrada nacional n.º 333-3, lugar de Sejães, freguesia de Sejães, concelho de Oliveira de Frades, a montante, até ao açude do aproveitamento hidroeléctrico da Grela, no lugar de Grela, freguesia de Pessegueiro do Vouga, concelho de Sever do Vouga, a jusante;
+Desde o açude do aproveitamento hidroeléctrico da Grela, no lugar de Grela, freguesia de Pessegueiro do Vouga, concelho de Sever do Vouga, a montante, até à ponte do IP 5, no lugar de Mata do Carvoeiro, freguesia de Macinhata do Vouga, concelho de Águeda, a jusante;
+Desde o açude de Sernada do Vouga (junto à ponte do caminho de ferro), no lugar de Sernada do Vouga, freguesia de Macinhata do Vouga, concelho de Águeda, a montante, até à ponte do Vouga na estrada nacional n.º 1, no lugar de Vouga, freguesia de Lamas, concelho de Águeda, a jusante;
+Desde a ponte da Fontinha na estrada municipal n.º 577, no lugar de Fontes, freguesia de Alquerubim, concelho de Albergaria-a-Velha, a montante, até à ponte do caminho de ferro da linha do Norte, no lugar de Semana, freguesia de Angeja, concelho de Albergaria-a-Velha, a jusante.
+Rib. da Corujeira - na Barrinha de Mira.
+Rio Cértima - na Pateira de Fermentelos.
+Bacia hidrográfica do Mondego:
+Rio Mondego - nas albufeiras da Aguieira e da Raiva e no troço compreendido entre a ponte de Montemor-o-Velho da estrada nacional n.º 347, na freguesia de Alfarelos, concelho de Soure, a montante, e a Marca do Pontão, na freguesia de Vila Verde, concelho da Figueira da Foz, a jusante.
+Bacia hidrográfica do Tejo:
+Rio Tejo - todo o curso a montante da ponte de Vila Franca de Xira (esteiro do Dr. Nogueira, na margem norte, e cabo de Vila Franca, na margem sul);
+Rio Ocreza - desde a confluência com a ribeira de Água Fria (foz do Estevez) até ao Vale da Corga de Água, junto à povoação de Padrão;
+Rio Zêzere - desde a ponte do caminho municipal n.º 1189 (que liga a povoação de Cambas à povoação de Abitureira) até à sua foz, no rio Tejo, incluindo as albufeiras de Cabril, Bouçã e Castelo de Bode;
+Rio Ponsul - desde a ponte da estrada municipal n.º 1266 (que liga Lentiscais a Alfrivida) até à confluência com o rio Tejo, incluindo a albufeira de Cedilho;
+Rio Sorraia - desde a foz do Pego da Rainha até à linha tirada da Pirâmide do Mouchão da Cabra;
+Vala Nova - desde a ponte da estrada nacional n.º 118 até à foz (Mouchão da Malagueira);
+Rib. de Muge - desde a confluência com a ribeira da Lamarosa até à foz;
+Rib. de Magos - desde a confluência com a ribeira do Vale do Zebro até à sua foz;
+Rio Almansor (ou rib. Santo Estêvão) - desde o Sobral do Porto Seixo, na freguesia de Samora Correia, concelho de Benavente, até à foz;
+Rib. de Sor - apenas na albufeira de Montargil;
+Rib. da Raia - apenas na albufeira do Maranhão.
+Bacia hidrográfica do Sado:
+Rio Sado - desde a povoação de Vale de Guiso até à ponte da estrada nacional n.º 120, em Alcácer do Sal;
+Ribeiro de Trancão - apenas na albufeira da Abrunheira ou Defesa Grande, sita na freguesia de São Cristóvão, concelho de Montemor-o-Novo;
+Albufeira da Caldeira, na freguesia de São Cristóvão, concelho de Montemor-o-Novo;
+Albufeira dos Fartos, na freguesia de São Cristóvão, concelho de Montemor-o-Novo;
+Albufeira dos Baldios, na freguesia das Silveiras, concelho de Montemor-o-Novo;
+Albufeira da Anta, na freguesia de Santiago do Escoural, concelho de Montemor-o-Novo;
+Ribeira de Algalé - apenas na albufeira de Vale de Arca, sita na freguesia de Torrão, concelho de Alcácer do Sal.
+Bacia hidrográfica do Mira:
+Rio Mira - desde a ponte da estrada nacional n.º 120, na vila de Odemira, até à linha tirada do Casal de D. Soeiro.
+Bacia hidrográfica do Guadiana:
+Rio Guadiana - todo o curso a montante do primeiro açude a norte de Mértola;
+Rio Caia - apenas na zona delimitada para a pesca profissional no Plano de Ordenamento da Albufeira do Caia em vigor;
+Rio Ardila - todo o curso;
+Ribeira do Freixo - apenas na albufeira da Fonte Boa, sita na freguesia de Nossa Senhora de Machede, concelho de Évora;
+Ribeira de Machede - apenas na albufeira do Monte das Lages, sita na freguesia de São Miguel de Machede, concelho de Évora.
