@@ -1,0 +1,5 @@
+Resolução n.º 67/81
+Considerando que, enquanto não se encontrar aprovado o Orçamento Geral do Estado para 1981, há que facultar à RTP, E. P., os meios financeiros necessários ao seu adequado funcionamento, atenta a natureza dos serviços que a mesma presta e consubstanciados nos artigos 12.º, n.º 1, e 15.º, n.º 1, do respectivo ASEF;
+Considerando, por outro lado, que na aplicação do regime orçamental transitório actualmente vigente a atribuição de subsídios à exploração a empresas públicas está dependente da aprovação por resolução do Conselho de Ministros:
+O Conselho de Ministros, reunido em 17 de Março de 1981, resolveu atribuir à RTP - Radiotelevisão Portuguesa, E. P., a título de subsídio não reembolsável, a verba de 12350 contos, correspondente ao duodécimo de Janeiro do corrente ano, calculado com base no subsídio de exploração de 1980 concedido àquela empresa pública, sobre o qual não incidirão quaisquer descontos.
+Presidência do Conselho de Ministros, 17 de Março de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
