@@ -1,0 +1,10 @@
+Decreto n.º 45619
+Atendendo às circunstâncias especiais verificadas em Timor, que não permitiram o reajustamento dos quadros do pessoal dos correios, telégrafos e telefones da província em conformidade com as disposições do Decreto n.º 34076, de 2 de Novembro de 1944; considerando também a possibilidade de se superarem as dificuldades do recrutamento de pessoal para os mesmos serviços pela admissão aos concursos, a título transitório, dos funcionários e outros agentes sem as habilitações do 2.º ciclo dos liceus ou equivalentes, mas com a 4.ª classe e boas informações e tendo ainda em vista o proposto pelo Governo da província; Ouvido o Conselho Ultramarino;
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+Artigo 1.º As vagas actualmente existentes nos lugares dos quadros dos correios, telégrafos e telefones da província de Timor podem ser preenchidas, nos termos do artigo 426.º do Decreto n.º 34076, de 2 de Novembro de 1944, pelos agentes contratados, interinos ou assalariados à data da promulgação do mesmo decreto.
+Art. 2.º Podem ser admitidos aos primeiros concursos a realizar para os lugares de operador, de radiotelegrafista de 3.ª classe e de aspirante administrativo, os actuais funcionários e outros agentes, permanentes ou eventuais, que tenham mais de dois anos de serviço, com boas informações e a 4.ª classe de instrução primária, os quais poderão ser nomeados para os lugares que lhes vierem a competir com dispensa dos limites de idade legalmente estabelecidos.
+Art. 3.º Os indivíduos abrangidos pelo disposto nos artigos 1.º e 2.º não poderão ascender aos lugares do quadro comum dos serviços sem que obtenham entretanto as habilitações literárias mínimas exigidas para o ingresso nos quadros privativos.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 21 de Março de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
+
+Para ser publicado no Boletim Oficial de Timor. - Peixoto Correia.
