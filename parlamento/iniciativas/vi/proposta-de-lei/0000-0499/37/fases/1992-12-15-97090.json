@@ -1,0 +1,5158 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=6tRSrsS472KL0pihrbeU3Juv4E5ApzTlkuIJMDYc5d38v4XsZgYhKVB7Ayr7k6BD7ZNRnhu1uQv2nCwvvkoyXJgfHcd33Rt69gnnqGDLZ7jjDe9WHr1ZOrkFyZHrN%2bdvof6dUKIxE5Wasjk0TQFMyoX%2fKDcVSYqW4xooRfuNYiYxRnpgxINjnNAVq18dgakPF%2fXopgVWi9%2fPK8k2cZ5tRjc%2bd8zO7m6xWvdsbeUHkofo9FaMQ0PghWTFmLBF2ObMw8XQM9vXrZDGjYuCymHSoJrECXBxqIIzCmd0QdMQC5B6LWcA54XELbiVJgZxukznf%2fhdJzQ3jKe6Egx9h%2fh5EH5FtypL9lWrfzDQfsf80Is%3d&fich=IniciativasVI_json.txt&Inline=true",
+  "ficheiro_sha256": "cb79e0745a8347d94ab476dc88937917b337689f6631b8b987a47bad388a33b7",
+  "legislatura": "VI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "37",
+    "id": "4007",
+    "titulo": "Orçamento do Estado para 1993."
+  },
+  "fase": "Discussão especialidade",
+  "codigo_fase": "300",
+  "data_registo": "1992-12-15",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "487",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "300",
+    "Comissao": null,
+    "DataFase": "1992-12-15",
+    "EvtId": "17",
+    "Fase": "Discussão especialidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "4008",
+        "leg": "VI",
+        "nr": "36",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "543",
+            "obs": null,
+            "pag": [
+              "730-784"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1992-12-16",
+            "pubLeg": "VI",
+            "pubNr": "21",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/730?pgs=730-784&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "544",
+            "obs": null,
+            "pag": [
+              "789-836"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1992-12-17",
+            "pubLeg": "VI",
+            "pubNr": "22",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/789?pgs=789-836&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "P",
+        "titulo": "Grandes Opções do Plano para 1993."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1992-12-15",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137151",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "730-730",
+                  "742-743",
+                  "758-758"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/730?pgs=730,742-743,758&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "131",
+                "nome": "Rui Carp"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137208",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17?org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137152",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "730-730",
+                  "741-741",
+                  "756-756",
+                  "761-761",
+                  "775-776",
+                  "782-782",
+                  "784-784"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/730?pgs=730,741,756,761,775-776,782,784&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "174",
+                "nome": "João Proença"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137209",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "790-792",
+                  "798-798"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/790?pgs=790-792,798&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "104",
+                "nome": "Castro de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137210",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "791-791"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/791?pgs=791&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "815",
+                "nome": "José Calçada"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137153",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "731-731"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/731?pgs=731&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "617",
+                "nome": "Apolónia Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137211",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "792-792"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/792?pgs=792&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137154",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "731-736",
+                  "737-737",
+                  "739-739"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/731?pgs=731-736,737,739&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "185",
+                "nome": "José Vera Jardim"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137155",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "731-731"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/731?pgs=731&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137212",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "794-794",
+                  "805-805",
+                  "822-822",
+                  "826-826"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/794?pgs=794,805,822,826&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "195",
+                "nome": "Leonor Coutinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137156",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "732-759"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/732?pgs=732-759&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "174",
+                "nome": "João Proença"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137213",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "794-794"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/794?pgs=794&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "188",
+                "nome": "Gameiro dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137157",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "733-733",
+                  "736-736",
+                  "758-760",
+                  "776-776"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/733?pgs=733,736,758-760,776&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "131",
+                "nome": "Rui Carp"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137214",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "794-795",
+                  "803-804"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/794?pgs=794-795,803-804&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "170",
+                "nome": "Guilherme D'oliveira Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137158",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "733-733",
+                  "736-736",
+                  "739-739",
+                  "744-745",
+                  "767-767",
+                  "778-779"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/733?pgs=733,736,739,744-745,767,778-779&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "159",
+                "nome": "Artur Penedos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137215",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "795-795"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/795?pgs=795&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "167",
+                "nome": "Fernando Pereira Marques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137159",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "733-734"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/733?pgs=733-734&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  ADJUNTO E DO ORÇAMENTO",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Manuela Ferreira Leite"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137216",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "795-797",
+                  "800-800",
+                  "804-804",
+                  "822-822"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/795?pgs=795-797,800,804,822&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "617",
+                "nome": "Apolónia Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137217",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "796-796"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/796?pgs=796&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "146",
+                "nome": "Ana Maria Bettencourt"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137160",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "734-734"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/734?pgs=734&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "174",
+                "nome": "João Proença"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137218",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "796-796"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/796?pgs=796&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "199",
+                "nome": "Maria Julieta Sampaio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137161",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "734-734"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/734?pgs=734&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "162",
+                "nome": "Edite Estrela"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137162",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "735-735",
+                  "762-762"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/735?pgs=735,762&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137219",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "797-797",
+                  "825-826",
+                  "832-833"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/797?pgs=797,825-826,832-833&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "613",
+                "nome": "António Lobo Xavier"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137220",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "797-797",
+                  "815-815",
+                  "819-819",
+                  "828-829",
+                  "831-831"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/797?pgs=797,815,819,828-829,831&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "613",
+                "nome": "António Lobo Xavier"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137163",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "736-737",
+                  "761-761"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/736?pgs=736-737,761&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137221",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17?org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "170",
+                "nome": "Guilherme D'oliveira Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137164",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "736-736",
+                  "738-738",
+                  "745-745",
+                  "757-757",
+                  "779-779"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/736?pgs=736,738,745,757,779&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137165",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "737-737",
+                  "739-739"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/737?pgs=737,739&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137222",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "798-798",
+                  "822-823"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/798?pgs=798,822-823&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "155",
+                "nome": "António José Seguro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137166",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "737-737",
+                  "768-769"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/737?pgs=737,768-769&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137223",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17?org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137167",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "738-738"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/738?pgs=738&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137224",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "800-800"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/800?pgs=800&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137225",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "801-801"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/801?pgs=801&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "81",
+                "nome": "Silva Marques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137168",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "739-739"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/739?pgs=739&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "131",
+                "nome": "Rui Carp"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137169",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "739-740",
+                  "742-742",
+                  "780-782"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/739?pgs=739-740,742,780-782&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137226",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "803-803"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/803?pgs=803&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANCAS",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Braga de Macedo"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137170",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "740-741"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/740?pgs=740-741&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137228",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "803-803"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/803?pgs=803&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137171",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "740-740"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/740?pgs=740&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Indep",
+                "idCadastro": "212",
+                "nome": "João Corregedor da Fonseca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137229",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "804-804"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/804?pgs=804&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137232",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "804-805",
+                  "813-814"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/804?pgs=804-805,813-814&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "163",
+                "nome": "Eduardo Ferro Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137173",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "741-742"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/741?pgs=741-742&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "188",
+                "nome": "Gameiro dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137233",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "805-808"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/805?pgs=805-808&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "131",
+                "nome": "Rui Carp"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137174",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "741-741"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/741?pgs=741&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "132",
+                "nome": "Rui Rio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137235",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "806-809"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/806?pgs=806-809&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "42",
+                "nome": "Duarte Pacheco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137236",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "807-807"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/807?pgs=807&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "613",
+                "nome": "António Lobo Xavier"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137175",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "742-742",
+                  "744-744",
+                  "756-756",
+                  "759-759",
+                  "762-762",
+                  "782-783"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/742?pgs=742,744,756,759,762,782-783&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "104",
+                "nome": "Castro de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137176",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "743-744",
+                  "756-756",
+                  "759-759"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/743?pgs=743-744,756,759&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "546",
+                "nome": "António Murteira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137237",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "808-809"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/808?pgs=808-809&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137177",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "743-747"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/743?pgs=743-747&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Indep",
+                "idCadastro": "220",
+                "nome": "Mário Tomé"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137238",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "809-809"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/809?pgs=809&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "613",
+                "nome": "António Lobo Xavier"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137178",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "745-745"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/745?pgs=745&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Indep",
+                "idCadastro": "220",
+                "nome": "Mário Tomé"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137239",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "809-809"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/809?pgs=809&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Indep",
+                "idCadastro": "220",
+                "nome": "Mário Tomé"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137179",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "745-745",
+                  "761-762",
+                  "766-767",
+                  "783-783"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/745?pgs=745,761-762,766-767,783&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "81",
+                "nome": "Silva Marques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137240",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "809-811"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/809?pgs=809-811&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "129",
+                "nome": "Pedro Passos Coelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137180",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "746-748"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/746?pgs=746-748&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137241",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "811-811"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/811?pgs=811&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "170",
+                "nome": "Guilherme D'oliveira Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137181",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "746-746",
+                  "768-768"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/746?pgs=746,768&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "81",
+                "nome": "Silva Marques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137242",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "811-812"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/811?pgs=811-812&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "129",
+                "nome": "Pedro Passos Coelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137182",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "746-748"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/746?pgs=746-748&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  ADM.LOCAL ORD.TERRITORIO",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Nunes Liberato"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137243",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "812-813",
+                  "818-819"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/812?pgs=812-813,818-819&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "155",
+                "nome": "António José Seguro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137183",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "767-767",
+                  "771-771"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/767?pgs=767,771&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Indep",
+                "idCadastro": "212",
+                "nome": "João Corregedor da Fonseca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137244",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "814-814"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/814?pgs=814&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "104",
+                "nome": "Castro de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137245",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "815-817"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/815?pgs=815-817&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "155",
+                "nome": "António José Seguro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137184",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "748-748"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/748?pgs=748&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "129",
+                "nome": "Pedro Passos Coelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137185",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "748-748"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/748?pgs=748&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "172",
+                "nome": "Helena Torres Marques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137246",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "816-816"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/816?pgs=816&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "151",
+                "nome": "Domingues Azevedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137186",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "756-756"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/756?pgs=756&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "104",
+                "nome": "Castro de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137247",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "816-816",
+                  "818-818"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/816?pgs=816,818&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137248",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "817-817"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/817?pgs=817&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "162",
+                "nome": "Edite Estrela"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137187",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "762-762"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/762?pgs=762&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "SUBSECRETÁRIO DE ESTADO ADJUNTO DA  SECRETÁRIA DE ESTADO-ADJUNTA  E  DO ORÇAMENTO",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Vasco Valdez"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137188",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "759-759"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/759?pgs=759&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "178",
+                "nome": "Fialho Anastácio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137249",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "817-817"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/817?pgs=817&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Indep",
+                "idCadastro": "212",
+                "nome": "João Corregedor da Fonseca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137189",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "762-762",
+                  "767-767",
+                  "783-783"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/762?pgs=762,767,783&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "178",
+                "nome": "Fialho Anastácio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137250",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "818-818"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/818?pgs=818&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137190",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "766-766",
+                  "769-770"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/766?pgs=766,769-770&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137251",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "819-819"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/819?pgs=819&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "35",
+                "nome": "Carlos Coelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137191",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "767-768",
+                  "770-771"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/767?pgs=767-768,770-771&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137252",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "821-822",
+                  "828-828"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/821?pgs=821-822,828&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "172",
+                "nome": "Helena Torres Marques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137253",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "822-822"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/822?pgs=822&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "182",
+                "nome": "Martins Goulart"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137192",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "773-774",
+                  "776-776"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/773?pgs=773-774,776&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "109",
+                "nome": "Manuel Silva Azevedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137193",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "774-774",
+                  "776-777"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/774?pgs=774,776-777&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137254",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "823-827"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/823?pgs=823-827&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "182",
+                "nome": "Martins Goulart"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137194",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "774-774",
+                  "777-777"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/774?pgs=774,777&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "132",
+                "nome": "Rui Rio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137255",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "825-825"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/825?pgs=825&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "211",
+                "nome": "João Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137195",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "774-774"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/774?pgs=774&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "149",
+                "nome": "António Martinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137256",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "825-825"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/825?pgs=825&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  TESOURO",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Braz"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137196",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "774-775"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/774?pgs=774-775&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "137",
+                "nome": "Vasco Miguel"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137257",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "827-827"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/827?pgs=827&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137197",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "778-780"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/778?pgs=778-780&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "149",
+                "nome": "António Martinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137258",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "827-827"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/827?pgs=827&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "163",
+                "nome": "Eduardo Ferro Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137198",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "782-782"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/782?pgs=782&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "170",
+                "nome": "Guilherme D'oliveira Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137259",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "828-828"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/828?pgs=828&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "161",
+                "nome": "Carlos Luís"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137261",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "829-829"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/829?pgs=829&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "104",
+                "nome": "Castro de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137199",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "784-784"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/784?pgs=784&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "613",
+                "nome": "António Lobo Xavier"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137262",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "829-830"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/829?pgs=829-830&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137200",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "784-784"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-16",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16/784?pgs=784&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137263",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "830-831"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/830?pgs=830-831&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137264",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "833-834"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/833?pgs=833-834&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:40",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANCAS",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Braga de Macedo"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137265",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "835-836"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-12-17",
+                "pubLeg": "VI",
+                "pubNr": "22",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17/835?pgs=835-836&org=PLC"
+              }
+            ],
+            "sumario": "Grandes Opções do Plano para 1993; Orçamento do Estado para 1993",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "97090",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "106889",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1992-12-16",
+        "pubLeg": "VI",
+        "pubNr": "21",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/021/1992-12-16?org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "106890",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1992-12-17",
+        "pubLeg": "VI",
+        "pubNr": "22",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/022/1992-12-17?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
