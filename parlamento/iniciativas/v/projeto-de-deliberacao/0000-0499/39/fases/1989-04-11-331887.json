@@ -1,0 +1,494 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Projeto de Deliberação",
+    "numero": "39",
+    "id": "32766",
+    "titulo": "Organiza o processo de apreciação do Plano de Desenvolvimento Regional pela Assembleia da República."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "1989-04-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "12450",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "1989-04-11",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1989-04-11",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217451",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2104-2105"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-12",
+                "pubLeg": "V",
+                "pubNr": "61",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/061/1989-04-12/2104?pgs=2104-2105&org=PLC"
+              }
+            ],
+            "sumario": "Organiza o processo de apreciação do Plano de Desenvolvimento Regional pela Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217452",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2105-2107"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-12",
+                "pubLeg": "V",
+                "pubNr": "61",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/061/1989-04-12/2105?pgs=2105-2107&org=PLC"
+              }
+            ],
+            "sumario": "Organiza o processo de apreciação do Plano de Desenvolvimento Regional pela Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217453",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2107-2108"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-12",
+                "pubLeg": "V",
+                "pubNr": "61",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/061/1989-04-12/2107?pgs=2107-2108&org=PLC"
+              }
+            ],
+            "sumario": "Organiza o processo de apreciação do Plano de Desenvolvimento Regional pela Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217454",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2108-2109"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-12",
+                "pubLeg": "V",
+                "pubNr": "61",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/061/1989-04-12/2108?pgs=2108-2109&org=PLC"
+              }
+            ],
+            "sumario": "Organiza o processo de apreciação do Plano de Desenvolvimento Regional pela Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217455",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2109-2110"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-12",
+                "pubLeg": "V",
+                "pubNr": "61",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/061/1989-04-12/2109?pgs=2109-2110&org=PLC"
+              }
+            ],
+            "sumario": "Organiza o processo de apreciação do Plano de Desenvolvimento Regional pela Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217456",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2110-2110"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-12",
+                "pubLeg": "V",
+                "pubNr": "61",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/061/1989-04-12/2110?pgs=2110&org=PLC"
+              }
+            ],
+            "sumario": "Organiza o processo de apreciação do Plano de Desenvolvimento Regional pela Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217457",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2111-2111"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-12",
+                "pubLeg": "V",
+                "pubNr": "61",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/061/1989-04-12/2111?pgs=2111&org=PLC"
+              }
+            ],
+            "sumario": "Organiza o processo de apreciação do Plano de Desenvolvimento Regional pela Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217458",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2111-2112"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-12",
+                "pubLeg": "V",
+                "pubNr": "61",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/061/1989-04-12/2111?pgs=2111-2112&org=PLC"
+              }
+            ],
+            "sumario": "Organiza o processo de apreciação do Plano de Desenvolvimento Regional pela Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217459",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2113-2114"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-12",
+                "pubLeg": "V",
+                "pubNr": "61",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/061/1989-04-12/2113?pgs=2113-2114&org=PLC"
+              }
+            ],
+            "sumario": "Organiza o processo de apreciação do Plano de Desenvolvimento Regional pela Assembleia da República.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217460",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2114-2115"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-12",
+                "pubLeg": "V",
+                "pubNr": "61",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/061/1989-04-12/2114?pgs=2114-2115&org=PLC"
+              }
+            ],
+            "sumario": "Organiza o processo de apreciação do Plano de Desenvolvimento Regional pela Assembleia da República.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "331887",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "12450",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1989-04-12",
+        "pubLeg": "V",
+        "pubNr": "61",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/061/1989-04-12?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
