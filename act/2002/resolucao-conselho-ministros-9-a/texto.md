@@ -1,0 +1,16 @@
+Resolução do Conselho de Ministros n.º 9-A/2002
+Pelos artigos 68.º a 70.º da Lei n.º 109-B/2001, de 27 de Dezembro, foi o Governo autorizado, nos termos da alínea h) do artigo 161.º da Constituição, a contrair empréstimos amortizáveis e a realizar outras operações de endividamento, destinados ao financiamento do défice orçamental, à assunção de passivos e regularização de responsabilidades e ao refinanciamento da dívida pública.
+Assim:
+Nos termos dos artigos 68.º a 70.º da Lei n.º 109-B/2001, de 27 de Dezembro, do artigo 5.º, n.º 1, da Lei n.º 7/98, de 3 de Fevereiro, bem como do artigo 4.º, n.º 1, e do artigo 6.º, n.º 1, alínea a), dos Estatutos do Instituto de Gestão do Crédito Público, aprovados pelo Decreto-Lei n.º 160/96, de 4 de Setembro, o Conselho de Ministros resolveu:
+1 - Autorizar o Instituto de Gestão do Crédito Público a contrair, em nome e em representação da República, empréstimos sob as formas de representação indicadas nos números seguintes desta resolução, destinados às finalidades indicadas nos artigos 68.º a 70.º da Lei n.º 109-B/2001, de 27 de Dezembro, e até ao montante máximo fixado nesta última disposição.
+2 - A emissão de obrigações do Tesouro é autorizada até ao montante máximo de 13000 milhões de euros, de acordo com o disposto no Decreto-Lei n.º 280/98, de 17 de Setembro, e no respeito pelas seguintes condições complementares:
+a) O valor nominal mínimo de cada obrigação do Tesouro é de (euro) 0,01, podendo, todavia, o Instituto de Gestão do Crédito Público estabelecer outro valor nominal;
+b) O reembolso das obrigações do Tesouro é efectuado ao par;
+c) Se as obrigações do Tesouro forem emitidas por séries, estas são identificadas pelos respectivos cupão e data de vencimento, não podendo o respectivo prazo de vencimento exceder 30 anos;
+d) As condições específicas de cada série de obrigações do Tesouro, designadamente o regime de taxa de juro, as condições de pagamento de juros, o regime de reembolso e o destaque de direitos, são estabelecidas e divulgadas pelo Instituto de Gestão do Crédito Público, em função das condições vigentes nos mercados financeiros no momento da primeira emissão e da estratégia de financiamento considerada mais adequada.
+3 - A emissão de certificados de aforro é autorizada até ao montante máximo de 2700 milhões de euros.
+4 - A emissão de outra dívida pública fundada, denominada em moeda com ou sem curso legal em Portugal, sob formas de representação distintas das indicadas nos números anteriores, é autorizada até ao montante máximo de 2500 milhões de euros.
+5 - O montante total das emissões de empréstimos públicos que sejam realizadas nos termos do disposto nos precedentes n.os 2 a 4 não poderá, em caso algum, ultrapassar o limite fixado no artigo 70.º da Lei n.º 109-B/2001, de 27 de Dezembro.
+6 - Por despacho do Ministro das Finanças podem ser anulados montantes autorizados, mas não colocados, de alguma ou algumas das formas de representação de empréstimos públicos previstas nos números anteriores e aumentados, no mesmo valor, os montantes autorizados para outra ou outras dessas formas.
+7 - A presente resolução entra em vigor no dia imediato ao da sua publicação.
+Presidência do Conselho de Ministros, 10 de Janeiro de 2002. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
