@@ -1,7 +1,5 @@
 # Artigo 4.º
 
-### - 1 - O MAR tem uma comissão técnica constituída da seguinte forma:
-
 1 - O MAR tem uma comissão técnica constituída da seguinte forma:
 
 a) Um representante do membro do Governo responsável pelo sector dos transportes, o qual presidirá;
@@ -10,7 +8,7 @@ b) Um representante da Região Antónoma da Madeira;
 
 c) Um representante da Inspecção-Geral de Navios.
 
-2 - Compete à comissão técnica pronunciar-se sobre os actos relativos ao registo de navios, exercer as demais competências previstas no artigo anterior e credenciar as sociedades de classificação.
+2 - Compete à comissão técnica pronunciar-se sobre os actos relativos ao registo dos navios e exercer as demais competências previstas no artigo anterior.
 
 3 - O capitão do porto assessorará a comissão sempre que esta o solicite.
 
