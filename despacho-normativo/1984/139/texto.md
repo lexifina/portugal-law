@@ -1,0 +1,5 @@
+Despacho Normativo n.º 139/84
+Considerando que alguns conteúdos líquidos das embalagens de produtos fitofarmacêuticos actualmente no mercado não se adaptam à sua utilização em hortas e jardins familiares:
+Nestes termos:
+Ao abrigo do disposto do n.º 1 do artigo 1.º do Decreto-Lei n.º 303/77, de 29 de Julho, e em aditamento à tabela n.º 2 - Produtos fitofarmacêuticos, aprovada pelo Despacho Normativo n.º 346/80, publicado no Diário da República, 1.ª série, n.º 250, de 28 de Outubro de 1980, é autorizado o lançamento no mercado da embalagem com o conteúdo líquido de 100 ml para os produtos fitofarmacêuticos destinados a hortas e jardins familiares com base em dimetoato, formulado em concentrado para emulsão, com o teor de 75 g/l de substância activa.
+Ministérios da Agricultura, Florestas e Alimentação e do Comércio e Turismo, 31 de Julho de 1984. - O Ministro da Agricultura, Florestas e Alimentação, Manuel José Dias Soares Costa. - Pelo Ministro do Comércio e Turismo, Carlos Alberto Antunes Filipe, Secretário de Estado do Comércio Interno.
