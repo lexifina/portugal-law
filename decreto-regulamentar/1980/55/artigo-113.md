@@ -1,3 +1,7 @@
+## Subsecção IV
+
+## Escriturários
+
 # Artigo 113.º
 
 1 - Para preenchimento de vagas de escriturário é reconhecida preferência legal:

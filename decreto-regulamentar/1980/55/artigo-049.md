@@ -1,3 +1,15 @@
+## Capítulo II
+
+## Do pessoal dos serviços de registos e do notariado
+
+## Secção I
+
+## Conservadores e notários
+
+## Subsecção I
+
+## Concursos de habilitação
+
 ## Subsecção II
 
 ## Regime da função de conservador e notário

@@ -16,6 +16,6 @@ e) Documento comprovativo do cumprimento da Lei do Serviço Militar.
 
 3 - Aos interessados que já sejam funcionários dos quadros é apenas exigida a apresentação do certificado a que se refere a alínea d) do n.º 1 deste artigo.
 
-4 - Os interessados que invoquem qualquer preferência especial reconhecida por lei ou prática dos serviços com aproveitamento devem apresentar documentos comprovativos dos factos alegados.
+4 - (Revogado.)
 
-5 - A prova de prática dos serviços e seu aproveitamento deve ser feita por atestado passado pelo respectivo conservador ou notário.
+5 - (Revogado.)
