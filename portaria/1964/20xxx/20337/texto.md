@@ -1,0 +1,18 @@
+Portaria n.º 20337
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
+1.º Nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933:
+a) Reforçar com a importância de 5000$00 a verba do capítulo 10.º, artigo 294.º, n.º 5), alínea a) «Encargos gerais - Deslocações do pessoal - Subsídios de viagem e de demora - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral da província de S. Tomé e Príncipe para 1963, tomando como contrapartida disponibilidades de igual quantia a sair da verba do capítulo 5.º, artigo 172.º «Serviços de Fazenda - Duplicação de vencimentos», da referida tabela de despesa;
+b) Reforçar com as importâncias que se indicam as seguintes verbas da tabela de despesa ordinária do orçamento geral da província de Angola para 1963:
+CAPÍTULO 10.º
+Encargos gerais
+Artigo 1502.º, n.º 4), alínea a) «Deslocações do pessoal - Passagens de ou para o exterior por motivo de licença graciosa - A pagar na metrópole» ... 500000$00
+Artigo 1503.º «Diversas despesas»:
+N.º 6, alínea a) «Despesas com assistência médica, tratamentos e internamento de casos de tuberculose, câncer, alienação mental e lepra, em hospitais, manicómios, casas de saúde e sanatórios, de funcionários civis do activo, aposentados e operários do Estado e de colonos pobres das províncias ultramarinas - A pagar na metrópole» ... 50000$00
+N.º 13, alínea a) «Despesas com valores selados - A pagar na metrópole» ... 200000$00
+... 750000$00
+tomando como contrapartida disponibilidades de igual quantia a sair da verba do capítulo 1.º, artigo 9.º, n.º 2) «Dívida da província - Ministério das Finanças - Para pagamento de juros de 4 por cento, relativos ao empréstimo a conceder pelo Ministério das Finanças, nos termos do Decreto n.º 42817, de 25 de Janeiro de 1960, para execução do II Plano de Fomento Nacional», da referida tabela de despesa;
+c) Reforçar com a importância de 50000$00 a verba do capítulo 10.º, artigo 2599.º, n.º 45), alínea a) «Encargos gerais - Diversas despesas - Repatriação e socorros de indigentes - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral da província de Moçambique para 1963, tomando como contrapartida disponibilidades de igual quantia a sair da verba do capítulo 4.º, artigo 601.º, n.º 1) «Administração geral e fiscalização - Missão de Combate às Tripanossomíases - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal contratado», da referida tabela de despesa.
+2.º Nos termos do artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, conjugado com a alínea e) do artigo 3.º do mesmo diploma, com a nova redacção dada pelo artigo 4.º do Decreto n.º 40712, de 1 de Agosto de 1956, abrir na província da Guiné um crédito especial de 2282520$50, destinado a reforçar a verba do capítulo 1.º, artigo 3.º «Dívida da província - Juros referentes ao empréstimo do II Plano de Fomento (Decreto-Lei n.º 43519, de 28 de Fevereiro de 1961)», da tabela de despesa ordinária do orçamento geral da província para 1963, tomando como contrapartida igual quantia a sair do excesso de cobrança sobre a previsão da receita da verba do capítulo 4.º, artigo 32.º, alínea a) «Taxas - Rendimentos de diversos serviços - Receitas eventuais e não especificadas - Diversas», do orçamento da receita ordinária para o mesmo ano.
+Ministério do Ultramar, 23 de Janeiro de 1964. - Pelo Ministro do Ultramar, Joaquim Moreira da Silva Cunha, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial da Guiné, S. Tomé e Príncipe, Angola e Moçambique. - Silva Cunha.
