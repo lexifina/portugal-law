@@ -1,0 +1,6 @@
+Aviso
+Considerando o disposto no artigo 1.º do Decreto-Lei n.º 107/80, de 10 de Maio, comunica-se que, sob orientação do Ministro das Finanças e do Plano, o Banco de Portugal, no uso da competência que lhe é atribuída pelo artigo 16.º da sua Lei Orgânica, determina que a alínea a) do n.º 9.º do Aviso n.º 2/79, de 8 de Abril, passe a ter a seguinte redacção:
+9.º ...
+a) Ao ouro amoedado e em barra deve atribuir-se o valor correspondente ao seu preço em ouro fino avaliado em 254,92 dólares dos Estados Unidos da América por onça troy de ouro fino, aplicando-se para o cálculo de equivalência em escudos daquele valor a média entre os câmbios de compra e de venda do dólar em vigor no mercado nacional no último dia de cada mês;
+b) ...
+Ministério das Finanças e do Plano, 23 de Maio de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva.
