@@ -1,0 +1,4 @@
+Rectificação n.º 6/93
+Para os devidos efeitos se declara que a Resolução da Assembleia da República n.º 41/92, de 31 de Dezembro, que estende ao território de Macau a aplicação do Pacto Internacional sobre os Direitos Civis e Políticos e do Pacto Internacional sobre os Direitos Económicos, Sociais e Culturais, publicada no Diário da República, 1.ª série, n.º 301 (3.º suplemento), de 31 de Dezembro de 1992, saiu com incorrecção, que assim se rectifica:
+Na fórmula inicial, onde se lê «A Assembleia da República resolve, nos termos dos artigos 137.º, alínea b), e 169.º, n.º 5, da Constituição, o seguinte:» deve ler-se «A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e 169.º, n.º 5, e com referência ao artigo 137.º, alínea b), da Constituição, o seguinte:».
+Assembleia da República, 3 de Fevereiro de 1993. - O Secretário-Geral da Assembleia da República, Luís Madureira.
