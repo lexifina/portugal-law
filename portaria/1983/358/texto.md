@@ -1,0 +1,116 @@
+Portaria n.º 358/83
+de 2 de Abril
+A reorganização da Guarda Fiscal está a ser implementada em conformidade com o Decreto-Lei n.º 544/80, de 11 de Novembro.
+Os artigos 15.º, 18.º e 21.º daquele diploma determinam que a definição das entidades que deverão exercer os diferentes comandos daquele corpo militar, as regras de nomeação do seu pessoal e o estabelecimento dos seus quadros orgânicos e de pessoal, respectivamente, se façam por portaria.
+E, assim, pela Portaria n.º 556/82, de 5 de Junho, foram já estabelecidos os quadros orgânicos referentes a sargentos, cabos, soldados e civis, tornando-se agora necessário completar o determinado naquele normativo.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano, nos termos dos artigos 15.º, 18.º e 21.º do Decreto-Lei n.º 544/80, de 11 de Novembro, o seguinte:
+1.º Na Guarda Fiscal os diferentes comandos serão exercidos:
+a) Comandante-geral, por oficial general;
+b) Chefe de estado-maior, por coronel;
+c) Comandante de batalhão, por tenente-coronel ou coronel;
+d) Companhias, por capitães;
+e) Secções, por subalternos ou, eventualmente, por sargentos-ajudantes;
+f) Postos, por cabos ou, quando os seus efectivos o justificarem, por primeiros-sargentos ou segundos-sargentos.
+2.º Os oficiais que venham a prestar serviço na Guarda Fiscal serão oriundos do Exército.
+3.º A nomeação e exoneração dos oficiais, excepto oficiais generais, é da competência do Chefe do Estado-Maior do Exército, sob proposta do comandante-geral da Guarda Fiscal.
+4.º Os oficiais generais que venham a prestar serviço na Guarda Fiscal serão nomeados por diploma a publicar no Diário da República.
+5.º O restante pessoal será nomeado por despacho do comandante-geral da Guarda Fiscal, dentro dos efectivos autorizados.
+6.º Os oficiais superiores, capitães e subalternos para prestar serviço na Guarda Fiscal serão recrutados entre os oficiais oferecidos, inscritos para o efeito no Comando-Geral da mesma Guarda.
+7.º Em anexo à presente portaria se publicam os seguintes quadros:
+a) Quadro de efectivos da Guarda Fiscal referente a oficiais (anexo 1);
+b) Quadro orgânico do Comando-Geral da Guarda Fiscal (anexo 2);
+c) Quadro orgânico tipo do comando e companhia de comando e serviços de batalhão da Guarda Fiscal (anexo 3);
+d) Quadro orgânico do comando e secção de comando e serviços da Companhia Independente da Madeira da Guarda Fiscal (anexo 4);
+e) Quadro orgânico tipo de comando de companhia da Guarda Fiscal (anexo 5);
+f) Quadro orgânico tipo do comando de secção da Guarda Fiscal (anexo 6);
+g) Quadro orgânico do Centro de Instrução da Guarda Fiscal (anexo 7);
+h) Quadro orgânico do Batalhão de Apoio de Serviços da Guarda Fiscal (anexo 8).
+Ministério das Finanças e do Plano, 7 de Março de 1983. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento.
+
+ANEXO 1
+Guarda Fiscal
+Mapa de efectivos de pessoal
+(ver documento original)
+
+ANEXO 2
+Quadro orgânico do Comando-Geral da Guarda Fiscal
+Compreende:
+1 - Comando:
+a) Comandante-geral;
+b) 2.º comandante-geral;
+c) Inspecção-geral e inspecção administrativa.
+d) Estado-maior. Pessoal.
+2 - Estado-maior:
+a) 5 repartições (1.ª, 2.ª, 3.ª, 4.ª e 5.ª);
+b) Serviços de transmissões, justiça, saúde, administração e finanças, fronteiras, obras e património e informática;
+c) Secretaria-geral;
+d) Conselho administrativo;
+e) Companhia de Comando e Serviços;
+f) Banda.
+3 - Serviços Sociais.
+Pessoal
+(ver documento original)
+
+ANEXO 3
+Quadro orgânico tipo do comando e companhia de comando e serviços de batalhão da Guarda Fiscal
+Compreende:
+1 - Comando:
+a) Comandante;
+b) 2.º comandante;
+c) Estado-maior;
+d) Secretaria;
+e) Conselho administrativo;
+f) Serviços.
+2 - Companhia de comando e serviços.
+Pessoal
+(ver documento original)
+
+ANEXO 4
+Quadro orgânico do comando e secção de comando e serviços da Companhia Independente da Madeira da Guarda Fiscal
+Compreende:
+1 - Comando:
+a) Comandante;
+b) Formação.
+2 - Secção de comando e serviços.
+Pessoal
+(ver documento original)
+
+ANEXO 5
+Quadro orgânico tipo de comando de companhia da Guarda Fiscal
+Compreende:
+1 - Comando;
+2 - Formação;
+3 - Serviços;
+4 - Subdelegação dos Serviços Sociais;
+5 - Posto da Guarda Fiscal.
+Pessoal
+(ver documento original)
+
+ANEXO 6
+Quadro orgânico tipo do comando de secção da Guarda Fiscal
+Compreende:
+1 - Comando;
+2 - Posto da Guarda Fiscal.
+Pessoal
+(ver documento original)
+
+ANEXO 7
+Quadro orgânico do Centro de Instrução da Guarda Fiscal
+Compreende:
+1 - Comando;
+2 - Companhia de comando e serviços;
+3 - Companhia de instrução;
+4 - Companhia de cães.
+Pessoal
+(ver documento original)
+
+ANEXO 8
+Quadro orgânico do Batalhão de Apoio de Serviços da Guarda Fiscal
+Compreende:
+1 - Comando;
+2 - Companhia de reabastecimentos e transportes;
+3 - Companhia de manutenção;
+4 - Companhia de comando e serviços.
+Pessoal
+(ver documento original)
