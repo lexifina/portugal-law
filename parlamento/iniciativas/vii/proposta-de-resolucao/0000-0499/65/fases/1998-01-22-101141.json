@@ -1,0 +1,205 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Proposta de Resolução",
+    "numero": "65",
+    "id": "5002",
+    "titulo": "Aprova para ratificação a alteração do anexo e da convenção para a criação do Gabinete Europeu de Radiocomunicações (ERO ) adoptada na reunião do conselho da organização que teve lugar em 8 de Março de 1996 em Cascais, Portugal."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "1998-01-22",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1022",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "1998-01-22",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1998-01-22",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1217",
+                "nome": "Nuno Abecasis"
+              }
+            ],
+            "faseDebate": "APRECIACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "18:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "53234",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1069-1069"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-01-23",
+                "pubLeg": "VII",
+                "pubNr": "31",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/031/1998-01-23/1069?pgs=1069&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. A ALTERACAO DO ANEXO A DA CONVENCAOPARA A CRIACAO DO GABINETE EUROPEU DE RADIOCOMUNICACOES(ERO) ADOPTADA NA REUNIAO DO CONSELHO DA ORGANIZACAO QUE TEVE LUGAR EM 8 DE MARCO DE 1996, EM CASCAIS, PORTUGAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "133",
+                "nome": "Rui Gomes da Silva"
+              }
+            ],
+            "faseDebate": "APRECIACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "18:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "53235",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1069-1069"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-01-23",
+                "pubLeg": "VII",
+                "pubNr": "31",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/031/1998-01-23/1069?pgs=1069&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. A ALTERACAO DO ANEXO A DA CONVENCAOPARA A CRIACAO DO GABINETE EUROPEU DE RADIOCOMUNICACOES(ERO) ADOPTADA NA REUNIAO DO CONSELHO DA ORGANIZACAO QUE TEVE LUGAR EM 8 DE MARCO DE 1996, EM CASCAIS, PORTUGAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "APRECIACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "18:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  NEGÓCIOS   ESTRANGEIROS  E  COOPERAÇÃO",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Luís Amado"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "108011",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1069-1069"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-01-23",
+                "pubLeg": "VII",
+                "pubNr": "31",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/031/1998-01-23/1069?pgs=1069&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. A ALTERACAO DO ANEXO A DA CONVENCAOPARA A CRIACAO DO GABINETE EUROPEU DE RADIOCOMUNICACOES(ERO) ADOPTADA NA REUNIAO DO CONSELHO DA ORGANIZACAO QUE TEVE LUGAR EM 8 DE MARCO DE 1996, EM CASCAIS, PORTUGAL",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "101141",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1022",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1998-01-23",
+        "pubLeg": "VII",
+        "pubNr": "31",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/031/1998-01-23?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
