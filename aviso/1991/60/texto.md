@@ -1,0 +1,6 @@
+Aviso n.º 60/91
+Por ordem superior se torna público que, por nota de 31 de Janeiro de 1991 e nos termos do artigo 45.º da Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, concluída, no âmbito da Conferência da Haia de Direito Internacional Privado, em 25 de Outubro de 1980, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou que a Noruega declarou aceitar a adesão da Hungria à mencionada Convenção em 12 de Novembro de 1990.
+Notificou igualmente que o Luxemburgo, em 17 de Outubro de 1990, e a Suécia, em 15 de Janeiro de 1991, declararam aceitar a adesão do Belize à mesma Convenção.
+Nos termos do artigo 38.º, parágrafo 5.º, a Convenção entra em vigor entre a Hungria e a Noruega em 1 de Fevereiro de 1991, entre o Belize e o Luxemburgo em 1 de Janeiro de 1991 e entre o Belize e a Suécia em 1 de Abril de 1991.
+Portugal é Parte na mesma Convenção, a qual foi aprovada, para ratificação, pelo Decreto do Governo n.º 33/83, de 11 de Agosto. Portugual depositou o seu instrumento de ratificação em 29 de Setembro de 1983, conforme aviso publicado no Diário da República, 1.ª série, n.º 126, de 31 de Maio de 1984.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 3 de Abril de 1991. - O Chefe do Serviço Jurídico e de Tratados, António Salgado Manso Preto Mendes Cruz.
