@@ -1,0 +1,3 @@
+Despacho Normativo n.º 124/82
+Nos termos do n.º 2 do Despacho Normativo n.º 100/82, de 24 de Junho, subdelego no Subsecretário de Estado da Presidência do Conselho de Ministros, Dr. Albino de Azevedo Soares, a competência para superintender e despachar todos os assuntos respeitantes à Secretaria-Geral da Presidência da República e à Secretaria-Geral da Presidência do Conselho de Ministros durante as minhas faltas e impedimentos.
+Presidência do Conselho de Ministros, 24 de Junho de 1982. - A Secretária de Estado da Presidência do Conselho de Ministros, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
