@@ -1,0 +1,9 @@
+Portaria n.º 237/95
+de 28 de Março
+Considerando que o Decreto-Lei n.º 247/92, de 7 de Novembro, na alínea c) do n.º 1 do artigo 18.º, determina a integração de funcionários pertencentes ao quadro de efectivos interdepartamentais criado junto da Direcção-Geral da Administração Pública nos quadros dos serviços ou organismos em que se encontram a prestar serviço em regime de destacamento, requisição ou comissão de serviço, desde que satisfaçam necessidades permanentes do serviço;
+Considerando que um funcionário com a categoria de auxiliar de armazém pertencente ao quadro de efectivos interdepartamentais se encontra a prestar serviço há mais de um ano, em regime de requisição, nos Serviços de Acção Social da Universidade Técnica de Lisboa;
+Ao abrigo do disposto na alínea c) do n.º 1 do artigo 18.º do Decreto-Lei n.º 247/92, de 7 de Novembro, e nos termos do n.º 2 do artigo 1.º do Decreto-Lei n.º 59/76, de 23 de Janeiro:
+Manda o Governo, pelos Ministros das Finanças e da Educação, que seja criado no quadro de pessoal dos Serviços de Acção Social da Universidade Técnica de Lisboa, constante do mapa anexo ao Decreto Regulamentar n.º 7/87, de 20 de Janeiro, com as alterações introduzidas pelos despachos reitorais de 26 de Março de 1990, publicado no Diário da República, 2.ª série, n.º 84, de 10 de Abril de 1990, de 9 de Abril de 1991, publicado no Diário da República, 2.ª série, n.º 132, de 11 de Junho de 1991, de 28 de Novembro de 1991, publicado no Diário da República, 2.ª série, n.º 301, de 31 de Dezembro de 1991, e de 17 de Junho de 1994, publicado no Diário da República, 2.ª série, n.º 218, de 20 de Setembro de 1994, no grupo de pessoal auxiliar, um lugar de auxiliar de armazém, a extinguir quando vagar.
+Ministérios das Finanças e da Educação.
+Assinada em 22 de Fevereiro de 1995.
+Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - A Ministra da Educação, Maria Manuela Dias Ferreira Leite.
