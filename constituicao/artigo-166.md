@@ -14,7 +14,7 @@ d) Apreciar o programa do Governo;
 
 e) Votar moções de confiança e de censura ao Governo;
 
-f) Pronunciar-se sobre a dissolução dos órgãos de governo próprio das regiões autónomas;
+f) Acompanhar e apreciar, nos termos da lei, a participação de Portugal no processo de construção da união europeia.
 
 g) Eleger, segundo o sistema de representação proporcional, cinco membros do Conselho de Estado, cinco membros da Alta Autoridade para a Comunicação Social e os membros do Conselho Superior do Ministério Público que lhe competir designar;
 

@@ -10,4 +10,6 @@
 
 4. Portugal mantém laços especiais de amizade e cooperação com os países de língua portuguesa.
 
-5. Portugal empenha-se no reforço da identidade europeia e no fortalecimento da acção dos Estados europeus a favor da paz, do progresso económico e da justiça nas relações entre os povos.
+5. Portugal empenha-se no reforço da identidade europeia e no fortalecimento da acção dos Estados europeus a favor da democracia, da paz, do progresso económico e da justiça nas relações entre os povos.
+
+6. Portugal pode, em condições de reciprocidade, com respeito pelo princípio da subsidiariedade e tendo em vista a realização da coesão económica e social, convencionar o exercício em comum dos poderes necessários a construção da união europeia.

@@ -24,6 +24,6 @@ g) Propor ao Presidente da República a declaração da guerra ou a feitura da p
 
 h) Apresentar à Assembleia da República, nos termos da alínea d) do artigo 165.º, as contas do Estado e das demais entidades públicas que a lei determinar;
 
-i) Praticar os demais actos que lhe sejam cometidos pela Constituição ou pela lei.
+i) Apresentar, em tempo útil, à Assembleia da República, para efeitos do disposto na alínea f) do artigo 166.º, informação referente ao processo de construção da união europeia.
 
 2. A aprovação pelo Governo de tratados e de acordos internacionais reveste a forma de decreto.
