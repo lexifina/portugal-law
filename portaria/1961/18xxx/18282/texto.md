@@ -1,0 +1,7 @@
+Portaria n.º 18282
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
+1.º Nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, abrir no orçamento privativo da Agência-Geral do Ultramar para o corrente ano os seguintes créditos especiais, com contrapartida no saldo de exercícios findos:
+a) Um de 121200$00, para reforçar a verba do artigo 1.º, n.º 1), alínea a) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», destinado a suportar o encargo resultante da criação dos lugares de chefe da Repartição dos Serviços Técnicos e de tesoureiro-pagador do referido organismo, de conformidade com o § único do artigo 1.º e artigo 4.º do Decreto-Lei n.º 43468, de 7 de Janeiro de 1961;
+b) Um de 9000$00, para reforçar a verba do artigo 2.º, n.º 1) «Despesas com o pessoal - Remunerações acidentais - Gratificação ao delegado do Ministério do Ultramar junto do Grémio do Milho», destinado a fazer face ao encargo a que deu lugar a nova redacção dada ao § 2.º do artigo 4.º do Decreto-Lei n.º 22981, de 25 de Agosto de 1933, pelo artigo 5.º do Decreto-Lei n.º 43374, de 5 de Dezembro de 1960.
+2.º Anular a Portaria n.º 18182, de 31 de Dezembro de 1960, publicada no Diário do Governo n.º 303, 1.ª série, da mesma data.
+Ministério do Ultramar, 24 de Fevereiro de 1961. - Pelo Ministro do Ultramar, Adriano José Alves Moreira, Subsecretário de Estado da Administração Ultramarina.
