@@ -1,0 +1,32 @@
+Portaria n.º 19674
+Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, o seguinte:
+Nos termos do artigo 6.º do Decreto-Lei n.º 42559, de 3 de Outubro de 1959, inscrever na tabela de despesa do orçamento privativo das forças terrestres ultramarinas em vigor na província de S. Tomé e Príncipe para o ano de 1962 as seguintes rubricas:
+Despesas com o material:
+Artigo 5.º, n.º 4), alínea a) «Despesas de conservação e aproveitamento de material - Imóveis - Infra-estruturas» ... 4370$30
+Artigo 5.º, n.º 4), alínea b) «Despesas de conservação e aproveitamento do material - Imóveis - Outras instalações» ... 801$60
+Pagamento de serviços e diversos encargos:
+Artigo 9.º, n.º 1), alínea b) «Encargos administrativos - Preparação militar do pessoal a incorporar na província - Recrutas do ultramar» ... 200877$30
+Artigo 9.º, n.º 8) «Encargos administrativos - Subvenção de família» ... 21390$00
+... 227439$20
+tomando como contrapartida as seguintes disponibilidades da mesma tabela de despesa:
+Despesas com o pessoal:
+Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 100275$80
+Artigo 2.º, n.º 1), alínea a) «Remunerações acidentais - Gratificações de funções e serviços especiais - Pessoal militar» ... 9000$00
+Artigo 2.º, n.º 1), alínea b) «Remunerações acidentais - Gratificações de funções e serviços especiais - Funcionários civis» ... 9633$40
+Artigo 3.º, n.º 1) «Outras despesas com o pessoal - Alimentação» ... 30000$00
+Artigo 3.º, n.º 5), alínea a) «Outras despesas com o pessoal - Ajudas de custo de embarque - A pagar na província» ... 4000$00
+Artigo 3.º, n.º 6), alínea b) «Outras despesas com o pessoal - Subsídios de interrupção de viagem - A pagar na metrópole» ... 1000$00
+Despesas com o material:
+Artigo 4.º, n.º 1), alínea a) «Aquisições de utilização permanente - Semoventes - Veículos com motor» ... 19500$00
+Artigo 4.º, n.º 2), alínea f) «Aquisições de utilização permanente - Móveis - Máquinas, ferramentas e utensílios congéneres» ... 6340$00
+Artigo 6.º, n.º 4), alínea a) «Material de consumo corrente - Munições - De fogo real» ... 690$00
+Pagamento de serviços e diversos encargos:
+Artigo 8.º, n.º 3), alínea b) «Despesas de comunicações - Transportes - De pessoal»:
+A pagar na província ... 15000$00
+A pagar na metrópole ... 30000$00
+Artigo 9.º, n.º 4), alínea a) «Encargos administrativos - Publicidade e propaganda - Publicações de éditos e de anúncios» ... 1000$00
+Artigo 9.º, n.º 6), alínea a) «Encargos administrativos - Subsídios para funerais - A pagar na província» ... 1000$00
+... 227439$20
+Presidência do Conselho, 31 de Janeiro de 1963. - O Ministro da Defesa Nacional, Manuel Gomes de Araújo.
+
+Para ser publicada no Boletim Oficial de S. Tomé e Príncipe. - Peixoto Correia.
