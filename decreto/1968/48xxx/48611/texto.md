@@ -1,0 +1,62 @@
+Decreto n.º 48611
+Tornando-se necessário dotar os Comissariados Provinciais da Mocidade Portuguesa Masculina e Feminina da província de Moçambique com o pessoal necessário ás actividades que orientam;
+Por proposta do Governo-Geral de Moçambique;
+Ouvido o Conselho Ultramarino;
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+Artigo 1.º Ao pessoal dirigente dos Comissariados Provinciais da Mocidade Portuguesa Masculina e Feminina, constante dos mapas A e B anexos ao presente diploma, serão fixadas por despacho ministerial as gratificações a que tiver direito.
+Art. 2.º Aos comissários provinciais e aos comissários provinciais adjuntos, a que se refere o § único do artigo 6.º do Decreto-Lei n.º 39837, de 2 de Outubro de 1954, são fixadas, para efeitos de abano de vencimentos, as categorias das letras D e E do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 3.º Os quadros do pessoal administrativo dos Comissariados são os constantes dos mapas C e D anexos ao presente diploma, obedecendo a sua forma de provimento às normas gerais estabelecidas pelo Estatuto do Funcionalismo Ultramarino.
+§ único. Os actuais funcionários transitarão, com dispensa das formalidades legais, para os lugares que lhes competirem na nova orgânica, desde que tenham cinco anos de serviço efectivo, com boas informações.
+Art. 4.º A execução das disposições contidas neste diploma far-se-á à medida que as disponibilidades orçamentais dos Comissariados o permitam.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 8 de Outubro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - Marcello Caetano - Joaquim Moreira da Silva Cunha.
+
+Para ser publicado no Boletim Oficial de Moçambique. - J. da Silva Cunha.
+
+MAPA A
+(a que se refere o artigo 1.º deste decreto)
+Comissariado:
+Comissário provincial adjunto.
+Comandante provincial da milícia.
+Assistente provincial.
+Chefes de serviços provinciais.
+Adjuntos dos chefes de serviços provinciais.
+Delegações regionais:
+Delegados regionais.
+Subdelegados regionais.
+Adjuntos dos delegados regionais.
+Médicos de ala.
+Assistentes regionais.
+Chefes de serviços regionais.
+Directores-instrutores.
+Instrutores.
+Monitores.
+Quarteleiros dos centros de milícia.
+
+MAPA B
+(a que se refere o artigo 1.º deste decreto)
+Comissariado:
+Comissária provincial adjunta.
+Assistente provincial.
+Chefes de serviços provinciais.
+Adjuntas dos chefes de serviços provinciais.
+Delegações regionais:
+Delegadas regionais.
+Subdelegadas regionais.
+Assistentes regionais.
+Adjuntas das delegadas regionais.
+Chefes de serviços regionais.
+Orientadoras dos centros primários.
+Directoras de centros.
+Adjuntas das directoras de centros.
+Educadoras-instrutoras.
+Monitoras.
+
+MAPA C
+(A que se refere o artigo 3.º deste decreto)
+(ver documento original)
+
+MAPA D
+(A que se refere o artigo 3.º deste decreto)
+(ver documento original)
+Ministério do Ultramar, 8 de Outubro de 1968. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
