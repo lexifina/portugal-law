@@ -1,0 +1,5 @@
+Portaria n.º 119/82
+de 28 de Janeiro
+Considerando a necessidade urgente de dotar a Direcção-Geral de Equipamento Escolar com pessoal dirigente que assegure com eficácia as acções de orientação e coordenação dos seus serviços, bem como o volume e diversidade das missões que lhe cabe desenvolver:
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros da Educação e das Universidades e da Reforma Administrativa, ao abrigo do disposto no n.º 2 do artigo 1.º do Decreto-Lei n.º 59/76, de 23 de Janeiro, que o quadro de pessoal da Direcção-Geral de Equipamento Escolar, aprovado pelo Decreto-Lei n.º 303/78, de 12 de Outubro, seja acrescido de 1 lugar de subdirector-geral.
+Ministérios das Finanças e do Plano, da Educação e das Universidades e da Reforma Administrativa, 7 de Janeiro de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Educação e das Universidades, Vítor Pereira Crespo. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
