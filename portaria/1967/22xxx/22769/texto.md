@@ -1,0 +1,15 @@
+Portaria n.º 22769
+Nos termos do artigo 10.º do Decreto-Lei n.º 45810,  de 9 de Julho de 1964, e do artigo 5.º do Decreto-Lei 47211, de 23 de Setembro de 1966:
+Manda o Governo da República Portuguesa, pelo Ministro da Educação Nacional, observar o seguinte:
+1.º A verificação do aproveitamento da frequência da 5.ª classe, do ciclo complementar do ensino primário, for-se-á com base em todos os elementos de apreciação dos alunos.
+2.º Entre esses elementos incluir-se-ão provas a realizar no terceiro período lectivo, com a presença do director da escola, além do professor dos alunos.
+3.º Se o director da escola for o próprio professor dos alunos, às provas assistirá, além deste, um delegado do director escolar, designado de entre os professores da freguesia, mediante prévia audiência do delegado escolar no concelho ou do secretário de zona, preferindo os habilitados com o curso previsto no artigo 8.º do Decreto-Lei n.º 45 810, de 9 de Julho de 1960.
+4.º As provas serão prestadas, em princípio, por todos os alunos; mas quando os anteriores elementos de apreciação forem suficientes, por si, para convencer seguramente o respectivo professor de que determinados alunos não devem transitar à 6.ª classe, não os incluirá na lista dos que hão-de prestar as provas.
+5.º As provas realizar-se-ão a partir de 10 de Julho, podendo, se assim se tornar necessário, prolongar-se para além do termo legal das aulas, e competindo ao director escolar fixar o dia do seu começo em cada concelho.
+6.º As provas consistirão em exercícios escritos nas disciplinas de Língua Portuguesa e Matemática; em trabalhos práticos nas disciplinas de Ciências Geográfico - Naturais, Desenho e Trabalhos Manuais Educativos; e em chamadas orais na disciplina de História de Portugal, e também nas de Língua Portuguesa e Matemática quando os respectivos exercícios escritos não merecerem pelo menos a classificação de Suficiente.
+7.º A cada prova, consista em exercício escrito, trabalhos práticos ou chamada oral, atribuir-se-á a classificação de Muito bom, Bom, Suficiente, Medíocre ou Mau.
+8.º As provas serão orientadas conjuntamente pelos dois professores, que também conjuntamente as classificarão e apreciarão o aproveitamento dos alunos, declarando-os ou não habilitados a transitar à 6.ª classe; em caso de divergência, prevalecerá o voto do director da escola ou do delegado do director escolar.
+9.º Em princípio, uma classificação de Mau ou duas de Medíocre impedirão a passagem de classe; mas esta regra deixará de se aplicar se as outras classificações e os restantes elementos de apreciação do aluno forem, no seu conjunto, de molde a justificar a passagem.
+10.º O resultado da apreciação global do aproveitamento de cada aluno será traduzido apenas pela expressão «habilitado» ou «não habilitado», conforme os casos.
+11.º A Direcção-Geral do Ensino Primário expedirá as instruções necessárias à execução da presente portaria.
+Ministério da Educação Nacional, 7 de Julho de 1967. - O Ministro da Educação Nacional, Inocêncio Galvão Teles.
