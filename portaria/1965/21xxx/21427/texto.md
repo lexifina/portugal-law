@@ -1,0 +1,5 @@
+Portaria n.º 21427
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar com a importância de 500000$00 a verba do capítulo 10.º, artigo 1660.º, n.º 28), alínea b) «Encargos gerais - Diversas despesas - Passagens a estudantes, nos termos do Decreto n.º 45653, de 11 de Abril de 1964 - Passagens de férias», da tabela de despesa ordinária do orçamento geral da província de Angola para o corrente ano, tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo 7.º, artigo 1322.º, n.º 1) «Serviços de fomento - Serviços de agricultura e florestas - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da referida tabela de despesa.
+Ministério do Ultramar, 28 de Julho de 1965. - Pelo Ministro do Ultramar, José Coelho de Almeida Cota, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Angola. - J. Cota.
