@@ -1,0 +1,8 @@
+Resolução n.º 76/77
+1 - O regime provisório de gestão foi instituído na empresa Gris Impressores, S. A. R. L., por despacho conjunto dos Ministros das Finanças e da Indústria e Tecnologia, datado de 18 de Novembro de 1975 e publicado no Diário do Governo, de 9 de Dezembro de 1975, ao abrigo do Decreto-Lei n.º 597/75, de 28 de Outubro.
+2 - Nos termos e para os efeitos do Decreto-Lei n.º 422/76, de 29 de Maio, a empresa foi objecto de inquérito por técnicos expressamente nomeados para esse efeito pelo Ministro da indústria e Tecnologia, no decorrer do qual se procedeu à audiência das partes interessadas, nomeadamente da comissão de trabalhadores.
+3 - Em face do inquérito referido no número anterior, concluiu-se que se encontra preenchido o condicionalismo justificativo da intervenção do Estado previsto no Decreto-Lei n.º 422/76, de 29 de Maio, pelo que o Conselho de Ministros, reunido em 22 de Março de 1977, resolveu:
+a) O Estado intervém na gestão da empresa, que fica entregue a uma comissão administrativa, composta pelos membros da actual comissão de gestão;
+b) A comissão administrativa apresentará, no prazo de trinta dias, uma proposta para a reconversão da exploração da unidade industrial, em termos de ser apreciada pela Comissão Interministerial prevista no Decreto-Lei n.º 907/76, de 31 de Dezembro;
+c) A Inspecção-Geral de Finanças deverá ainda confirmar que foram instaurados os procedimentos que se justifiquem com base no inquérito por ela efectuado à empresa em 22 de Julho de 1975.
+Presidência do Conselho de Ministros, 22 de Março de 1977. - O Primeiro-Ministro, Mário Soares.
