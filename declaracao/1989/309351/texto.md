@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação da 1.ª Delegação da Direcção-Geral da Contabilidade Pública (Presidência do Conselho de Ministros), a declaração de transferência de verbas publicada no Diário da República, 1.ª série, n.º 195, de 25 de Agosto de 1989, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim de rectificam:
+Onde se lê «Cap. 04, div. 07, subdiv. 01, C. E. 01.02.00», «Cap. 15, div. 07, subdiv. 02, C. E. 01.02.01» e «Cap. 15, div. 16, subdiv. 01, C. E. 01.00.00» deve ler-se «Cap. 04, div. 07, subdiv. 01, C. F. 1.01.0, C. E. 01.02.05», «Cap. 15, div. 07, subdiv. 02, C. E. 01.02.02» e «Cap. 15, div. 16, subdiv. 01, C. E. 01.01.00».
+Secretaria-Geral da Presidência do Conselho de Ministros, 8 de Setembro de 1989. - O Secretário-Geral, França Martins.
