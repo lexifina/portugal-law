@@ -1,0 +1,4 @@
+Portaria n.º 514/71
+de 23 de Setembro
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do § 1.º do artigo 4.º do Decreto-Lei n.º 28326, de 27 de Dezembro 1937, reforçar com a importância de 120000$00 a verba do capítulo único, artigo 16.º «Encargos eventuais ou extraordinários com pessoal a admitir eventual e extraordinàriamente, nos termos do n.º 4 do artigo 6.º do Decreto n.º 45258, de 21 de Setembro de 1963», do orçamento privativo em vigor do Gabinete de Planeamento e Integração Económica, tomando como contrapartida igual importância a sair das disponibilidades da verba do capítulo único, artigo 9.º, n.º 1) «Encargos das instalações - Rendas de casa», do mesmo orçamento.
+Pelo Ministro do Ultramar, Rui Martins dos Santos, Subsecretário de Estado do Fomento Ultramarino.
