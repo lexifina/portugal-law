@@ -1,0 +1,17 @@
+Portaria n.º 379/2005
+de 5 de Abril
+As alterações do contrato colectivo de trabalho (CCT) celebrado entre a ANIF - Associação Nacional dos Industriais de Fotografia e o Sindicato dos Trabalhadores das Indústrias de Celulose, Papel, Gráfica e Imprensa e outros, publicadas no Boletim do Trabalho e Emprego, 1.ª série, n.º 30, de 15 de Agosto de 2004, abrangem as relações de trabalho entre empregadores e trabalhadores representados pelas associações que as outorgaram.
+As associações sindicais subscritoras requereram a extensão das alterações referidas às empresas não filiadas na associação outorgante e que no território nacional se dediquem à mesma actividade.
+As referidas alterações actualizam a tabela salarial. Segundo o estudo de avaliação do impacte da respectiva extensão, 64% dos trabalhadores auferem retribuições inferiores às convencionais, sendo que mais de 47% auferem remunerações inferiores às da convenção em mais de 7,1%. São as empresas de escalão de dimensão até 10 trabalhadores que empregam o maior número de trabalhadores (47,7%) com retribuições inferiores às da tabela salarial da convenção.
+As alterações da convenção actualizam outras prestações pecuniárias em aproximadamente 3%. Atendendo ao valor da actualização e porque as mesmas prestações foram objecto de extensões anteriores, justifica-se incluí-las na extensão.
+Embora a convenção tenha área nacional, nos termos do Decreto-Lei n.º 103/85, de 10 de Abril, alterado pelo Decreto-Lei n.º 365/89, de 19 de Outubro, a extensão de convenções colectivas nas Regiões Autónomas compete aos respectivos Governos Regionais, pelo que a portaria apenas será aplicável no continente.
+A extensão das alterações da convenção terá, no plano social, o efeito de melhorar as condições de trabalho de um conjunto significativo de trabalhadores e, no plano económico, promover a aproximação das condições de concorrência entre empresas do mesmo sector.
+Assim, verificando-se circunstâncias sociais e económicas justificativas da extensão, exigidas pelo n.º 3 do artigo 575.º do Código do Trabalho, é conveniente promover a extensão das alterações da convenção em causa.
+Foi publicado o aviso relativo à presente extensão no Boletim do Trabalho e Emprego, 1.ª série, n.º 44, de 29 de Novembro de 2004, à qual não foi deduzida oposição por parte dos interessados.
+Assim:
+Ao abrigo dos n.os 1 e 3 do artigo 575.º do Código do Trabalho, manda o Governo, pelo Secretário de Estado Adjunto e do Trabalho, o seguinte:
+1.º As condições de trabalho constantes das alterações do contrato colectivo de trabalho (CCT) entre a ANIF - Associação Nacional dos Industriais de Fotografia e o Sindicato dos Trabalhadores das Indústrias de Celulose, Papel, Gráfica e Imprensa e outros, publicadas no Boletim do Trabalho e Emprego, 1.ª série, n.º 30, de 15 de Agosto de 2004, são estendidas, no território do continente:
+a) Às relações de trabalho entre empregadores não filiados na associação outorgante que exerçam a actividade económica abrangida pela convenção e trabalhadores ao seu serviço das categorias profissionais nela previstas;
+b) Às relações de trabalho entre empregadores filiados nas associações outorgantes e trabalhadores ao seu serviço das categorias profissionais previstas na convenção não representados pelas associações sindicais signatárias.
+2.º A presente portaria entra em vigor no 5.º dia após a sua publicação no Diário da República.
+O Secretário de Estado Adjunto e do Trabalho, Luís Miguel Pais Antunes, em 18 de Fevereiro de 2005.
