@@ -1,0 +1,503 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "10",
+    "id": "5592",
+    "titulo": "Para a realização de um inquérito parlamentar."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "1996-02-09",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1466",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "1996-02-09",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1996-02-09",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "149",
+                "nome": "António Martinho"
+              }
+            ],
+            "faseDebate": "APRECIACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44549",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1094-1095"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-02-10",
+                "pubLeg": "VII",
+                "pubNr": "38",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/038/1996-02-10/1094?pgs=1094-1095&org=PLC"
+              }
+            ],
+            "sumario": "FEOGA: INQUERITO PARLAMENTAR SOBRE GESTAO DAS SUAS DESPESAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1485",
+                "nome": "Rodeia Machado"
+              }
+            ],
+            "faseDebate": "APRECIACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44550",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1094-1094"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-02-10",
+                "pubLeg": "VII",
+                "pubNr": "38",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/038/1996-02-10/1094?pgs=1094&org=PLC"
+              }
+            ],
+            "sumario": "FEOGA: INQUERITO PARLAMENTAR SOBRE GESTAO DAS SUAS DESPESAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "149",
+                "nome": "António Martinho"
+              }
+            ],
+            "faseDebate": "APRECIACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44551",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1093-1093"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-02-10",
+                "pubLeg": "VII",
+                "pubNr": "38",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/038/1996-02-10/1093?pgs=1093&org=PLC"
+              }
+            ],
+            "sumario": "FEOGA: INQUERITO PARLAMENTAR SOBRE GESTAO DAS SUAS DESPESAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1286",
+                "nome": "Silva Carvalho"
+              }
+            ],
+            "faseDebate": "APRECIACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44552",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1092-1093"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-02-10",
+                "pubLeg": "VII",
+                "pubNr": "38",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/038/1996-02-10/1092?pgs=1092-1093&org=PLC"
+              }
+            ],
+            "sumario": "FEOGA: INQUERITO PARLAMENTAR SOBRE GESTAO DAS SUAS DESPESAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "473",
+                "nome": "Francisco Camilo"
+              }
+            ],
+            "faseDebate": "APRECIACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44553",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1091-1092"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-02-10",
+                "pubLeg": "VII",
+                "pubNr": "38",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/038/1996-02-10/1091?pgs=1091-1092&org=PLC"
+              }
+            ],
+            "sumario": "FEOGA: INQUERITO PARLAMENTAR SOBRE GESTAO DAS SUAS DESPESAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1414",
+                "nome": "Helena Santo"
+              }
+            ],
+            "faseDebate": "APRECIACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44554",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1091-1091"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-02-10",
+                "pubLeg": "VII",
+                "pubNr": "38",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/038/1996-02-10/1091?pgs=1091&org=PLC"
+              }
+            ],
+            "sumario": "FEOGA: INQUERITO PARLAMENTAR SOBRE GESTAO DAS SUAS DESPESAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "32",
+                "nome": "Carlos Duarte"
+              }
+            ],
+            "faseDebate": "APRECIACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44555",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1089-1091",
+                  "1093-1093",
+                  "1093-1094"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-02-10",
+                "pubLeg": "VII",
+                "pubNr": "38",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/038/1996-02-10/1089?pgs=1089-1091,1093,1093-1094&org=PLC"
+              }
+            ],
+            "sumario": "FEOGA: INQUERITO PARLAMENTAR SOBRE GESTAO DAS SUAS DESPESAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1414",
+                "nome": "Helena Santo"
+              }
+            ],
+            "faseDebate": "APRECIACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44556",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1088-1089",
+                  "1093-1094",
+                  "1094-1094"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-02-10",
+                "pubLeg": "VII",
+                "pubNr": "38",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/038/1996-02-10/1088?pgs=1088-1089,1093-1094,1094&org=PLC"
+              }
+            ],
+            "sumario": "FEOGA: INQUERITO PARLAMENTAR SOBRE GESTAO DAS SUAS DESPESAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "APRECIACAO",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "António Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107208",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1095-1096"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-02-10",
+                "pubLeg": "VII",
+                "pubNr": "38",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/038/1996-02-10/1095?pgs=1095-1096&org=PLC"
+              }
+            ],
+            "sumario": "FEOGA: INQUERITO PARLAMENTAR SOBRE GESTAO DAS SUAS DESPESAS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "104046",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1466",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1996-02-10",
+        "pubLeg": "VII",
+        "pubNr": "38",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/038/1996-02-10?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
