@@ -1,0 +1,5 @@
+Resolução do Conselho de Ministros n.º 25/84
+Considerando que a República Portuguesa solicitou à Comunidade Económica Europeia o prolongamento da ajuda de pré-adesão nas mesmas condições previstas no acordo por troca de notas de 7 de Outubro de 1980 e tendo o Conselho das Comunidades, em face desse pedido, recomendado ao Banco Europeu de Investimentos (BEI) tal prolongamento, com o qual o BEI veio a concordar, desde que se mantivessem todas as condições da ajuda de pré-adesão;
+Considerando que, no âmbito do supracitado prolongamento e tendo em conta a manutenção das condições do acordo precedente, o BEI aprovou a concessão de um financiamento à Sociedade Portuguesa de Investimentos (SPI) no montante de 10 milhões de ECU:
+O Conselho de Ministros, reunido em 5 de Abril de 1984, deliberou aprovar que o supracitado financiamento que a Sociedade Portuguesa de Investimentos (SPI) vai contrair junto do BEI seja efectuado através da utilização das facilidades de crédito concedidas a Portugal no âmbito do prolongamento das ajudas de pré-adesão.
+Presidência do Conselho de Ministros. - O Primeiro-Ministro, Mário Soares.
