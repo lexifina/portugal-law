@@ -6,6 +6,8 @@
 
 2 - O livro de notas para escrituras diversas pode ser desdobrado em vários livros, de harmonia com as conveniências do serviço.
 
-3 - O livro de registo de contas de emolumentos e de selo deve ser desdobrado em dois livros, sendo um deles destinado ao registo das contas dos reconhecimentos e o outro ao registo das contas dos demais actos.
+3 - O livro de termos de abertura de sinais pode ser desdobrado em dois livros, um para o serviço interno e o outro para o serviço externo.
 
-4 - O livro de cada uma das duas espécies referidas no número anterior pode, ainda, ser desdobrado em vários volumes.
+4 - O livro de registo de contas de emolumentos e de selo deve ser desdobrado em dois livros, sendo um deles destinado ao registo das contas dos reconhecimentos e o outro ao registo das contas dos demais actos.
+
+5 - O livro de cada uma das duas espécies referidas no número anterior pode, ainda, ser desdobrado em vários volumes.
