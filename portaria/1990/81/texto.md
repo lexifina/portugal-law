@@ -1,0 +1,10 @@
+Portaria n.º 81/90
+de 2 de Fevereiro
+Pela Portaria n.º 653/89, de 12 de Agosto, ficaram sujeitas ao regime cinegético especial as propriedades denominadas «Herdade dos Nabos» e «Herdade de Alfeirões», situadas na freguesia de Nossa Senhora da Vila, concelho de Montemor-o-Novo.
+Entretanto, a respectiva entidade gestora requereu a alteração parcial do plano de ordenamento e exploração cinegético, o que determinou a obrigatoriedade da ampliação do período de concessão da zona de caça associativa para um mínimo de 10 anos.
+Assim:
+Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, revogar o n.º 2.º da Portaria n.º 653/89, de 12 de Agosto, que passa a ter a seguinte redacção:
+2.º Nesta área é concessionada ao Clube de Caçadores da Herdade dos Nabos a exploração de uma zona de caça associativa (processo n.º 80 da Direcção-Geral das Florestas) até 31 de Maio de 1999.
+Ministério da Agricultura, Pescas e Alimentação.
+Assinada em 15 de Janeiro de 1990.
+Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
