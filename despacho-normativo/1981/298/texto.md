@@ -1,0 +1,3 @@
+Despacho Normativo n.º 298/81
+Nos termos do n.º 1 do artigo 23.º do Decreto-Lei n.º 290/81, de 14 de Outubro, subdelego no Ministro de Estado e das Finanças e do Plano, Dr. João Maurício Fernandes Salgueiro, a competência para aprovar as minutas dos contratos de compra de imóveis para o Estado por preço igual ou superior a 50000 contos, nas condições que hajam sido previamente autorizadas por resolução do Conselho de Ministros, nos termos do n.º 2 do artigo 1.º do Decreto-Lei n.º 27/79, de 22 de Fevereiro.
+Presidência do Conselho de Ministros, 14 de Outubro de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
