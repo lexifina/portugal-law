@@ -1,0 +1,24 @@
+Decreto-Lei n.º 75-T/77
+de 28 de Fevereiro
+O actual horário do comércio não satisfaz a maioria do público, uma vez que se verifica plena coincidência do período de inactividade do comércio com o das restantes ocupações.
+Esta situação dificulta o abastecimento para a maioria dos consumidores, em especial nos fins-de-semana, e provoca situações frequentes de congestionamento de serviços, com as implicações negativas daí decorrentes, mesmo em aspectos que são, em princípio, exteriores ao problema (trânsito e transportes), e tem como contrapartida situações, também frequentes, de inactividade do pessoal do comércio.
+O alargamento do período de abertura, com a diversificação de horários, vem suprir as dificuldades apontadas, traduzindo-se numa maior comodidade para o consumidor e no aumento dos postos de trabalho, com a possibilidade de prestação do trabalho por turnos.
+O diploma abarca os sectores do comércio e dos serviços sobre os quais não incide, inversamente do que acontece com as farmácias, legislação especial e situa-se na linha de uma política de descentralização, ou seja, de valorização das autarquias locais.
+Serão os próprios interessados, através dos seus órgãos locais - câmaras municipais, associações de consumidores, de trabalhadores e patronais -, que, a partir do conhecimento das realidades dos interesses locais, adequarão as soluções concretas dentro da flexibilidade do molde jurídico agora estabelecido.
+O período de abertura e o período normal de trabalho são diferentes, como diferentes são as entidades competentes para a respectiva fixação: para o primeiro caso, as câmaras municipais; para o segundo, o acordo dos interessados, de harmonia com as disposições legais e convencionais aplicáveis.
+Assim:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º - 1. Sem prejuízo do regime especial em vigor para actividades não especificadas no presente diploma, os estabelecimentos de venda ao público e de prestação de serviços podem estar abertos entre as 8 e as 22 horas de qualquer dos dias da semana.
+2. Os cafés, cervejarias, casas de chá, restaurantes, snack-bars, self-services e drugstores poderão estar abertos até às 2 horas de qualquer dos dias da semana.
+3. Os clubes, cabarets, boîtes, dancings, casas de fado e estabelecimentos análogos poderão estar abertos até às 4 horas de qualquer dos dias da semana.
+Art. 2.º A duração semanal e diária do trabalho estabelecida na lei, contrato ou instrumento de regulamentação colectiva de trabalho será observada, sem prejuízo do período de abertura dos estabelecimentos a que se refere o artigo anterior.
+Art. 3.º - 1. Compete às câmaras municipais, ouvidas as associações de trabalhadores, de consumidores e patronais e os Ministérios do Comércio e Turismo e do Trabalho, fixar o período de abertura para cada um dos ramos de actividade, a vigorar em todas as épocas do ano ou apenas em épocas determinadas.
+2. Em casos devidamente justificados do ângulo do interesse dos consumidores, poderão as câmaras municipais autorizar períodos de abertura diversificados para estabelecimentos do mesmo ramo e para diferentes localidades.
+Art. 4.º No prazo máximo de noventa dias, a contar da data de entrada em vigor do presente diploma, deverão as câmaras municipais rever os períodos de abertura dos estabelecimentos referidos no artigo 1.º
+Art. 5.º - 1. Uma vez fixado, pelas câmaras municipais, o período de abertura, nos termos deste diploma, os estabelecimentos interessados deverão afixar, em lugar bem visível e exterior, o período de abertura por eles praticado.
+2. O incumprimento do disposto no número anterior sujeita os infractores à pena de multa de 5000$00 a 20000$00.
+Art. 6.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho conjunto dos Ministros do Comércio e Turismo e do Trabalho.
+Visto e aprovado em Conselho de Ministros. - Mário Soares - Manuel da Costa Brás - António Miguel Morais Barreto - Francisco Manuel Marcelo Monteiro Curto.
+Promulgado em 27 de Fevereiro de 1977.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
