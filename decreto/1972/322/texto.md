@@ -1,0 +1,29 @@
+Decreto n.º 322/72
+de 19 de Agosto
+Com fundamento nas disposições do artigo 3.º do Decreto-Lei n.º 24914, de 10 de Janeiro de 1935, e mediante propostas aprovadas pelo Ministro das Finanças, nos termos do mesmo artigo;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo único. São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta da verba de despesas de anos económicos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
+Encargos Gerais da Nação
+Despesas de ano de 1971, referentes a conservação de veículos com motor, artigos de expediente e luz, aquecimento, água, lavagem e limpeza, pertencentes à Presidência do Conselho ... 10861$00
+Ministério das Finanças
+Encargos dos anos de 1969 a 1971, respeitantes a missões no estrangeiro, conservação de linhas telefónicas privativas, conservação de veículos com motor, juros de cauções, transferências de fundos, publicidade e propaganda, vencimento de exercício, telefones, conservação de embarcações com motor, luz, aquecimento, água, lavagem e limpeza, correios e telégrafos, transportes e emolumentos a peritos veterinários, a satisfazer pela Secretaria-Geral, Repartição do Tesouro da Direcção-Geral da Fazenda Pública, Direcções de Finanças dos Distritos do Porto, Lisboa e Setúbal, Inspecção-Geral de Crédito e Seguros e Direcção-Geral dais Alfândegas ... 330224$10
+Ministério do Interior
+Despesas do ano de 1971, respeitantes a ajudas de custo, conservação de veículos com motor, transportes, despesas imprevistas de ordem pública, luz, aquecimento, água, lavagem e limpeza, telefones, ferragens, serviços clínicos e de hospitalização e subsídios para funerais, contraídas pelo Comando-Geral da Polícia de Segurança Pública, Direcção-Geral de Segurança e Comando-Geral da Guarda Nacional Republicana ... 2140007$60
+Ministério da Justiça
+Despesas do ano de 1971, referentes a transportes e a gratificações aos serventes do necrotério, a satisfazer pela Colónia Penal do Bié e Instituto de Medicina Legal do Porto ... 53624$70
+Ministério do Exército
+Encargos dos anos de 1966 a 1971, respeitantes a vencimentos, pensões de reforma e de invalidez, subsídio eventual de custo d vida, ajudas de custo, alimentação, combustíveis, lubrificantes e sobresselentes, gratificação de serviço, transportes, subsídio de guarnição, serviços clínicos e de hospitalização e pagamento de serviços e encargos não especificados, a satisfazer pela Repartição de Oficiais da Direcção do Serviço de Pessoal e diversos conselhos administrativos ... 609769$60
+Ministério dos Negócios Estrangeiros
+Encargos dos anos de 1966, 1967 e 1969 a 1971, referentes à representação permanente de Portugal na O. N. U., a serviço de malas diplomáticas, missões extraordinárias de serviço público, correios e telégrafos, despesas de instalação, despesas de deslocação, subsídio de viagem e de marcha, telefones, aquisição de móveis e pagamento de serviços e encargos não especificados, a processar pela Direcção-Geral dos Serviços Centrais ... 3982683$50
+Ministério das Obras Públicas
+Despesas de ano de 1971, respeitantes a transportes, pertencentes ao Conselho Superior de Obras Públicas ... 7164$00
+Ministério da Educação Nacional
+Encargos de ano de 1971, referentes a vencimentos, gratificações por serviços extraordinários, aquisição de móveis, conservação de prédios rústicos e luz, aquecimento, água, lavagem e limpeza, a satisfazer pelo Instituto Comercial de Lisboa, Escola Técnica de Serpa, Museu Nacional de Arte Antiga e Escola Industrial e Comercial de Leiria ... 133433$70
+Ministério das Comunicações
+Encargos do ano de 1971, respeitantes a correios e telégrafos, transportes e pagamento de serviços e encargos não especificados, pertencentes ao Serviço Meteorológico Nacional a Aeroporto do Sal ... 62481$00
+Ministério das Corporações e Previdência Social
+Despesas do ano de 1971, respeitantes a telefones, a processar pela Secretaria-Geral ... 192771$10
+Marcello Caetano - Horácio José de Sá Viana Rebelo - João Mota Pereira de Campos - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
+Promulgado em 9 de Agosto de 1972.
+Publique-se.
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
