@@ -1,0 +1,4 @@
+Despacho
+1. Nos termos do artigo 4.º, n.º 1, do Decreto-Lei n.º 623/70, de 18 de Dezembro, delego os poderes que me são conferidos por esse diploma no Ministro dos Negócios Estrangeiros, Dr. Rui Manuel de Medeiros d'Espiney Patrício, o qual poderá solicitar a assistência de qualquer outro membro do Governo cuja colaboração seja particularmente recomendada pela natureza dos assuntos a tratar ou das negociações a conduzir.
+2. A representação, a nível ministerial, dos assuntos especialmente relativos à Associação Europeia de Comércio Livre (E. F. T. A.) e ao Acordo Geral sobre Pautas Aduaneiras e Comércio (G. A. T. T.) fica confiada ao Secretário de Estado do Comércio, Dr. Valentim Xavier Pintado, sem prejuízo da minha actuação directa ou da do Ministro delegado referido no n.º 1 deste despacho, sempre que for julgado conveniente.
+Presidência do Conselho, 21 de Dezembro de 1970. - O Presidente do Conselho de Ministros, Marcello Caetano.
