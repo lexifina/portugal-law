@@ -1,0 +1,85 @@
+Portaria n.º 433/79
+de 16 de Agosto
+Tendo em vista o disposto nos artigos 7.º e 8.º do Decreto-Lei n.º 675/75, de 3 de Dezembro;
+Sob proposta da comissão instaladora do Instituto Superior da Educação Física de Lisboa:
+Manda o Governo da República Portuguesa, pelo Ministro da Educação e Investigação Científica:
+1.º
+(Plano de estudos)
+1 - É aprovado o plano de estudos da licenciatura em Educação Física pelo Instituto Superior de Educação Física da Universidade Técnica de Lisboa (ISEFL), que consta do anexo I a esta portaria.
+2 - Todos os alunos que venham a inscrever-se na licenciatura em Educação Física pelo ISEFL no ano lectivo de 1979-1980 e subsequentes serão integrados no presente plano de estudos.
+3 - A comissão instaladora do ISEFL procederá aos ajustamentos curriculares apropriados de forma que aos estudantes integrados seja assegurada uma formação global similar à dos estudantes que iniciem a licenciatura em 1979-1980.
+2.º
+(Protocolos)
+1 - As cadeiras de Anatomia, Biologia, Bioquímica e Fisiologia Geral serão leccionadas no âmbito de protocolos a estabelecer com outras Faculdades das Universidades de Lisboa.
+2 - Os protocolos a que se refere o número anterior serão estabelecidos entre a Universidade Técnica e a Universidade em causa e serão homologados pelo Secretário de Estado do Ensino Superior e Investigação Científica.
+3.º
+(Situações especiais)
+1 - As disciplinas de Metodologia das Actividades Físicas a integrar nas cadeiras de Metodologia das Actividades Físicas I, II e III serão fixadas anualmente pela comissão instaladora ou, quando existirem, pelo conselho científico, ouvido o conselho pedagógico.
+2 - Serão fixados anualmente, no âmbito das especialidades constantes do anexo III, os temas que poderão ser objecto de seminário para alunos do 5.º ano.
+4.º
+(Precedências)
+1 - A tabela de precedências a observar pelos alunos na sequência dos seus estudos é a constante do anexo II a esta portaria.
+2 - O aluno que não tenha obtido aprovação em disciplina precedente de alguma disciplina do plano de estudos do ano curricular em que se encontra inscrito:
+a) Poderá inscrever-se simultaneamente nas disciplinas precedente e precedida;
+b) Deverá realizar os respectivos exames finais em épocas separadas, respeitando a ordem de precedência, sendo condição de realização do exame da disciplina precedida a aprovação no exame da disciplina precedente.
+5.º
+(Coeficientes)
+Todas as cadeiras terão igual ponderação no cálculo da classificação final da licenciatura.
+6.º
+(Especialidades para doutoramento)
+As especialidades para efeito de doutoramento e respectivas disciplinas afins são as constantes do anexo III a esta portaria.
+Ministério da Educação e Investigação Científica, 19 de Julho de 1979. - O Ministro da Educação e Investigação Científica, Luís Francisco Valente de Oliveira.
+
+ANEXO I
+Plano de estudos
+(ver documento original)
+
+ANEXO II
+Precedências
+(ver documento original)
+
+ANEXO III
+Especialidades e disciplinas afins para efeitos de doutoramento
+1 - Análise do Comportamento Motor:
+Psicofisiologia do Comportamento Motor.
+Aprendizagem Motora.
+Biomecânica.
+Educação Física de Base.
+Motricidade Infantil.
+Actividade Física de Lazer e Manutenção.
+2 - Psicologia das Actividades Físicas:
+Psicologia da Educação Física.
+Psicologia do Desenvolvimento.
+Psicologia Desportiva.
+3 - Sociologia das Actividades Físicas:
+Filosofia das Actividades Corporais.
+Sociologia da Educação Física.
+História da Educação Física.
+Antropologia do Jogo.
+4 - Metodologia das Actividades Física:
+Metodologia das Actividades da Expressão:
+Metodologia da Dança.
+Metodologia do Atletismo.
+Metodologia da Natação.
+Metodologia da Ginástica Desportiva.
+Metodologia dos Desportos Colectivos:
+Metodologia do Voleibol.
+Metodologia do Andebol.
+Metodologia do Basquetebol.
+Metodologia do Futebol.
+Metodologia do Râguebi.
+Metodologia dos Desportos de Combate:
+Metodologia do Judo.
+5 - Avaliação em Educação Física:
+Estatística em Educação Física.
+Técnicas de Avaliação em Educação Física.
+Quinantropometria.
+6 - Educação Física Escolar:
+Técnicas de Ensino.
+Educação Física Escolar.
+7 - Treino Desportivo:
+Teoria do Treino.
+Metodologia do Treino Desportivo.
+8 - Educação Física Especial:
+Educação Física Especial.
+Metodologia da Educação Física Especial.
