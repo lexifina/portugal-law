@@ -1,9 +1,9 @@
 # Artigo 86.º
 
-### (Cooperativas e experiências de autogestão)
+### (Empresas privadas)
 
-1. O Estado estimula e apoia a criação e a actividade de cooperativas.
+1. O Estado incentiva a actividade empresarial, em particular das pequenas e médias empresas, e fiscaliza o cumprimento das respectivas obrigações legais, em especial por parte das empresas que prossigam actividades de interesse económico geral.
 
-2. A lei definirá os benefícios fiscais e financeiros das cooperativas, bem como condições mais favoráveis à obtenção de crédito e auxílio técnico.
+2. O Estado só pode intervir na gestão de empresas privadas a título transitório, nos casos expressamente previstos na lei e, em regra, mediante prévia decisão judicial.
 
-3. São apoiadas pelo Estado as experiências viáveis de autogestão.
+3. A lei pode definir sectores básicos nos quais seja vedada a actividade às empresas privadas e a outras entidades da mesma natureza.

@@ -1,21 +1,17 @@
 # Artigo 145.º
 
-### (Composição)
+### (Competência)
 
-O Conselho de Estado é presidido pelo Presidente da República e composto pelos seguintes membros:
+Compete ao Conselho de Estado:
 
-a) O Presidente da Assembleia da República;
+a) Pronunciar-se sobre a dissolução da Assembleia da República e dos órgãos de governo próprio das regiões autónomas;
 
-b) O Primeiro-Ministro;
+b) Pronunciar-se sobre a demissão do Governo, no caso previsto no n.º 2 do artigo 195.º;
 
-c) O Presidente do Tribunal Constitucional;
+c) Pronunciar-se sobre a nomeação e a exoneração dos Ministros da República para as regiões autónomas;
 
-d) O Provedor de Justiça;
+d) Pronunciar-se sobre a declaração da guerra e a feitura da paz;
 
-e) Os presidentes dos governos regionais;
+e) Pronunciar-se sobre os actos do Presidente da República interino referidos no artigo 139.º;
 
-f) Os antigos presidentes da República eleitos na vigência da Constituição que não hajam sido destituídos do cargo;
-
-g) Cinco cidadãos designados pelo Presidente da República pelo período correspondente à duração do seu mandato;
-
-h) Cinco cidadãos eleitos pela Assembleia da República, de harmonia com o princípio da representação proporcional, pelo período correspondente à duração da legislatura.
+f) Pronunciar-se nos demais casos previstos na Constituição e, em geral, aconselhar o Presidente da República no exercício das suas funções, quando este lho solicitar.

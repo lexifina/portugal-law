@@ -1,11 +1,15 @@
 # Artigo 218.º
 
-### (Garantias e incompatibilidades)
+### (Conselho Superior da Magistratura)
 
-1. Os juízes são inamovíveis, não podendo ser transferidos, suspensos, aposentados ou demitidos senão nos casos previstos na lei.
+1. O Conselho Superior da Magistratura é presidido pelo Presidente do Supremo Tribunal de Justiça e composto pelos seguintes vogais:
 
-2. Os juízes não podem ser responsabilizados pelas suas decisões, salvas as excepções consignadas na lei.
+a) Dois designados pelo Presidente da República;
 
-3. Os juízes em exercício não podem desempenhar qualquer outra função pública ou privada, salvo as funções docentes ou de investigação científica de natureza jurídica, não remuneradas, nos termos da lei.
+b) Sete eleitos pela Assembleia da República;
 
-4. Os juízes em exercício não podem ser nomeados para comissões de serviço estranhas à actividade dos tribunais sem autorização do conselho superior competente.
+c) Sete juízes eleitos pelos seus pares, de harmonia com o princípio da representação proporcional.
+
+2. As regras sobre garantias dos juízes são aplicáveis a todos os vogais do Conselho Superior da Magistratura.
+
+3. A lei poderá prever que do Conselho Superior da Magistratura façam parte funcionários de justiça, eleitos pelos seus pares, com intervenção restrita à discussão e votação das matérias relativas à apreciação do mérito profissional e ao exercício da função disciplinar sobre os funcionários de justiça.

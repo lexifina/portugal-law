@@ -1,5 +1,9 @@
 # Artigo 92.º
 
-### (Natureza dos planos)
+### (Conselho Económico e Social)
 
-Os planos de desenvolvimento económico e social de médio prazo e o plano anual, que tem a sua expressão financeira no Orçamento do Estado e contém as orientações fundamentais dos planos sectoriais e regionais, a aprovar no desenvolvimento da política económica, são elaborados pelo Governo de acordo com o seu programa.
+1. O Conselho Económico e Social é o órgão de consulta e concertação no domínio das políticas económica e social, participa na elaboração das propostas das grandes opções e dos planos de desenvolvimento económico e social e exerce as demais funções que lhe sejam atribuídas por lei.
+
+2. A lei define a composição do Conselho Económico e Social, do qual farão parte, designadamente, representantes do Governo, das organizações representativas dos trabalhadores, das actividades económicas e das famílias, das regiões autónomas e das autarquias locais.
+
+3. A lei define ainda a organização e o funcionamento do Conselho Económico e Social, bem como o estatuto dos seus membros.

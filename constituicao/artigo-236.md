@@ -1,7 +1,11 @@
 # Artigo 236.º
 
-### (Dissolução dos órgãos regionais)
+### (Categorias de autarquias locais e divisão administrativa)
 
-1. Os órgãos de governo próprio das regiões autónomas podem ser dissolvidos pelo Presidente da República, por prática de actos contrários à Constituição, ouvidos a Assembleia da República e o Conselho de Estado.
+1. No continente as autarquias locais são as freguesias, os municípios e as regiões administrativas.
 
-2. Em caso de dissolução dos órgãos regionais, o governo da região é assegurado pelo Ministro da República.
+2. As regiões autónomas dos Açores e da Madeira compreendem freguesias e municípios.
+
+3. Nas grandes áreas urbanas e nas ilhas, a lei poderá estabelecer, de acordo com as suas condições específicas, outras formas de organização territorial autárquica.
+
+4. A divisão administrativa do território será estabelecida por lei.

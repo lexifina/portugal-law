@@ -1,7 +1,21 @@
 # Artigo 142.º
 
-### (Actos do Presidente da República interino)
+### (Composição)
 
-1. O Presidente da República interino não pode praticar qualquer dos actos previstos nas alíneas e) e n) do artigo 136.º e na alínea c) do artigo 137.º
+O Conselho de Estado é presidido pelo Presidente da República e composto pelos seguintes membros:
 
-2. O Presidente da República interino só pode praticar qualquer dos actos previstos nas alíneas b), c), f), m) e p) do artigo 136.º, na alínea a) do artigo 137.º e na alínea a) do artigo 138.º, após audição do Conselho de Estado.
+a) O Presidente da Assembleia da República;
+
+b) O Primeiro-Ministro;
+
+c) O Presidente do Tribunal Constitucional;
+
+d) O Provedor de Justiça;
+
+e) Os presidentes dos governos regionais;
+
+f) Os antigos presidentes da República eleitos na vigência da Constituição que não hajam sido destituídos do cargo;
+
+g) Cinco cidadãos designados pelo Presidente da República pelo período correspondente à duração do seu mandato;
+
+h) Cinco cidadãos eleitos pela Assembleia da República, de harmonia com o princípio da representação proporcional, pelo período correspondente à duração da legislatura.

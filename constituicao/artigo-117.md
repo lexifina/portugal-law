@@ -1,9 +1,9 @@
 # Artigo 117.º
 
-### (Partidos políticos e direito de oposição)
+### (Estatuto dos titulares de cargos políticos)
 
-1. Os partidos políticos participam nos órgãos baseados no sufrágio universal e directo, de acordo com a sua representatividade eleitoral.
+1. Os titulares de cargos políticos respondem política, civil e criminalmente pelas acções e omissões que pratiquem no exercício das suas funções.
 
-2. É reconhecido às minorias o direito de oposição democrática, nos termos da Constituição.
+2. A lei dispõe sobre os deveres, responsabilidades e incompatibilidades dos titulares de cargos políticos, as consequências do respectivo incumprimento, bem como sobre os respectivos direitos, regalias e imunidades.
 
-3. Os partidos políticos representados na Assembleia da República e que não façam parte do Governo gozam, designadamente, do direito de serem informados regular e directamente pelo Governo sobre o andamento dos principais assuntos de interesse público, de igual direito gozando os partidos políticos representados em quaisquer outras assembleias designadas por eleição directa relativamente aos correspondentes executivos de que não façam parte.
+3. A lei determina os crimes de responsabilidade dos titulares de cargos políticos, bem como as sanções aplicáveis e os respectivos efeitos, que podem incluir a destituição do cargo ou a perda do mandato.

@@ -1,15 +1,9 @@
 # Artigo 103.º
 
-### (Objectivos da política industrial)
+### (Sistema fiscal)
 
-São objectivos da política industrial:
+1. O sistema fiscal visa a satisfação das necessidades financeiras do Estado e outras entidades públicas e uma repartição justa dos rendimentos e da riqueza.
 
-a) O aumento da produção industrial num quadro de modernização e ajustamento de interesses sociais e económicos e de integração internacional da economia portuguesa;
+2. Os impostos são criados por lei, que determina a incidência, a taxa, os benefícios fiscais e as garantias dos contribuintes.
 
-b) O reforço da inovação industrial e tecnológica;
-
-c) O aumento da competitividade e da produtividade das empresas industriais;
-
-d) O apoio às pequenas e médias empresas e, em geral, às iniciativas e empresas geradoras de emprego e fomentadoras de exportação ou de substituição de importações;
-
-e) O apoio à projecção internacional das empresas portuguesas.
+3. Ninguém pode ser obrigado a pagar impostos que não hajam sido criados nos termos da Constituição, que tenham natureza retroactiva ou cuja liquidação e cobrança se não façam nos termos da lei.

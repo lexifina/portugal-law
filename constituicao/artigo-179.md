@@ -1,9 +1,23 @@
 # Artigo 179.º
 
-### (Ordem do dia das reuniões plenárias)
+### (Comissão Permanente)
 
-1. A ordem do dia é fixada pelo Presidente da Assembleia da República, segundo a prioridade de matérias definida no regimento, e sem prejuízo do direito de recurso para o Plenário da Assembleia e da competência do Presidente da República prevista no n.º 4 do artigo 177.º
+1. Fora do período de funcionamento efectivo da Assembleia da República, durante o período em que ela se encontrar dissolvida, e nos restantes casos previstos na Constituição, funciona a Comissão Permanente da Assembleia da República.
 
-2. O Governo pode solicitar prioridade para assuntos de interesse nacional de resolução urgente.
+2. A Comissão Permanente é presidida pelo Presidente da Assembleia da República e composta pelos Vice-Presidentes e por Deputados indicados por todos os partidos, de acordo com a respectiva representatividade na Assembleia.
 
-3. Todos os grupos parlamentares têm direito à determinação da ordem do dia de um certo número de reuniões, segundo critério a estabelecer no regimento, ressalvando-se sempre a posição dos partidos minoritários ou não representados no Governo.
+3. Compete à Comissão Permanente:
+
+a) Vigiar pelo cumprimento da Constituição e das leis e acompanhar a actividade do Governo e da Administração;
+
+b) Exercer os poderes da Assembleia relativamente ao mandato dos Deputados;
+
+c) Promover a convocação da Assembleia sempre que tal seja necessário;
+
+d) Preparar a abertura da sessão legislativa;
+
+e) Dar assentimento à ausência do Presidente da República do território nacional;
+
+f) Autorizar o Presidente da República a declarar o estado de sítio ou o estado de emergência, a declarar a guerra e a fazer a paz.
+
+4. No caso da alínea f) do número anterior, a Comissão Permanente promoverá a convocação da Assembleia no prazo mais curto possível.

@@ -1,5 +1,7 @@
 # Artigo 149.º
 
-### (Emissão dos pareceres)
+### (Círculos eleitorais)
 
-Os pareceres do Conselho de Estado previstos nas alíneas a) a e) do artigo 148.º são emitidos na reunião que para o efeito for convocada pelo Presidente da República e tornados públicos quando da prática do acto a que se referem.
+1. Os Deputados são eleitos por círculos eleitorais geograficamente definidos na lei, a qual pode determinar a existência de círculos plurinominais e uninominais, bem como a respectiva natureza e complementaridade, por forma a assegurar o sistema de representação proporcional e o método da média mais alta de Hondt na conversão dos votos em número de mandatos.
+
+2. O número de Deputados por cada círculo plurinominal do território nacional, exceptuando o círculo nacional, quando exista, é proporcional ao número de cidadãos eleitores nele inscritos.

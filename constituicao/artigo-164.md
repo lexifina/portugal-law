@@ -1,37 +1,47 @@
-## Capítulo II
-
-## Competência
-
 # Artigo 164.º
 
-### (Competência política e legislativa)
+### (Reserva absoluta de competência legislativa)
 
-Compete à Assembleia da República:
+É da exclusiva competência da Assembleia da República legislar sobre as seguintes matérias:
 
-a) Aprovar alterações à Constituição, nos termos dos artigos 284.º a 289.º;
+a) Eleições dos titulares dos órgãos de soberania;
 
-b) Aprovar os estatutos político-administrativos das regiões autónomas;
+b) Regimes dos referendos;
 
-c) Aprovar o estatuto do território de Macau;
+c) Organização, funcionamento e processo do Tribunal Constitucional;
 
-d) Fazer leis sobre todas as matérias, salvo as reservadas pela Constituição ao Governo;
+d) Organização da defesa nacional, definição dos deveres dela decorrentes e bases gerais da organização, do funcionamento, do reequipamento e da disciplina das Forças Armadas;
 
-e) Conferir ao Governo autorizações legislativas;
+e) Regimes do estado de sítio e do estado de emergência;
 
-f) Conferir às assembleias legislativas regionais as autorizações previstas na alínea b) do artigo 229.º da Constituição;
+f) Aquisição, perda e reaquisição da cidadania portuguesa;
 
-g) Conceder amnistias e perdões genéricos;
+g) Definição dos limites das águas territoriais, da zona económica exclusiva e dos direitos de Portugal aos fundos marinhos contíguos;
 
-h) Aprovar as leis das grandes opções dos planos e o Orçamento do Estado;
+h) Associações e partidos políticos;
 
-i) Autorizar o Governo a contrair e a conceder empréstimos e a realizar outras operações de crédito que não sejam de dívida flutuante, definindo as respectivas condições gerais, e estabelecer o limite máximo dos avales a conceder em cada ano pelo Governo;
+i) Bases do sistema de ensino;
 
-j) Aprovar as convenções internacionais que versem matéria da sua competência reservada, os tratados de participação de Portugal em organizações internacionais, os tratados de amizade, de paz, de defesa, de rectificação de fronteiras, os respeitantes a assuntos militares e ainda quaisquer outros que o Governo entenda submeter-lhe;
+j) Eleições dos deputados às Assembleias Legislativas Regionais dos Açores e da Madeira;
 
-l) Propor ao Presidente da República a sujeição a referendo de questões de relevante interesse nacional;
+l) Eleições dos titulares dos órgãos do poder local ou outras realizadas por sufrágio directo e universal, bem como dos restantes órgãos constitucionais;
 
-m) Autorizar e confirmar a declaração do estado de sítio e do estado de emergência;
+m) Estatuto dos titulares dos órgãos de soberania e do poder local, bem como dos restantes órgãos constitucionais ou eleitos por sufrágio directo e universal;
 
-n) Autorizar o Presidente da República a declarar a guerra e a fazer a paz;
+n) Criação, extinção e modificação de autarquias locais e respectivo regime, sem prejuízo dos poderes das regiões autónomas;
 
-o) Desempenhar as demais funções que lhe sejam atribuídas pela Constituição e pela lei.
+o) Restrições ao exercício de direitos por militares e agentes militarizados dos quadros permanentes em serviço efectivo, bem como por agentes dos serviços e forças de segurança;
+
+p) Regime de designação dos membros de órgãos da União Europeia, com excepção da Comissão;
+
+q) Regime do sistema de informações da República e do segredo de Estado;
+
+r) Regime geral de elaboração e organização dos orçamentos do Estado, das regiões autónomas e das autarquias locais;
+
+s) Regime dos símbolos nacionais;
+
+t) Regime de finanças das regiões autónomas;
+
+u) Regime das forças de segurança;
+
+v) Regime da autonomia organizativa, administrativa e financeira dos serviços de apoio do Presidente da República.

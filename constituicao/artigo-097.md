@@ -1,7 +1,15 @@
 # Artigo 97.º
 
-### (Eliminação dos latifúndios)
+### (Auxílio do Estado)
 
-1. O redimensionamento das unidades de exploração agrícola que tenham dimensão excessiva do ponto de vista dos objectivos da política agrícola será regulado por lei, que deverá prever, em caso de expropriação, o direito do proprietário à correspondente indemnização e à reserva de área suficiente para a viabilidade e a racionalidade da sua própria exploração.
+1. Na prossecução dos objectivos da política agrícola o Estado apoiará preferencialmente os pequenos e médios agricultores, nomeadamente quando integrados em unidades de exploração familiar, individualmente ou associados em cooperativas, bem como as cooperativas de trabalhadores agrícolas e outras formas de exploração por trabalhadores.
 
-2. As terras expropriadas serão entregues a título de propriedade ou de posse, nos termos da lei, a pequenos agricultores, de preferência integrados em unidades de exploração familiar, a cooperativas de trabalhadores rurais ou de pequenos agricultores ou a outras formas de exploração por trabalhadores, sem prejuízo da estipulação de um período probatório da efectividade e da racionalidade da respectiva exploração antes da outorga da propriedade plena.
+2. O apoio do Estado compreende, designadamente:
+
+a) Concessão de assistência técnica;
+
+b) Criação de formas de apoio à comercialização a montante e a jusante da produção;
+
+c) Apoio à cobertura de riscos resultantes dos acidentes climatéricos e fitopatológicos imprevisíveis ou incontroláveis;
+
+d) Estímulos ao associativismo dos trabalhadores rurais e dos agricultores, nomeadamente à constituição por eles de cooperativas de produção, de compra, de venda, de transformação e de serviços e ainda de outras formas de exploração por trabalhadores.

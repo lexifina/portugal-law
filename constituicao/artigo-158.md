@@ -1,9 +1,13 @@
 # Artigo 158.º
 
-### (Exercício da função de Deputado)
+### (Direitos e regalias)
 
-1. São garantidas aos Deputados condições adequadas ao eficaz exercício das suas funções, designadamente ao indispensável contacto com os cidadãos eleitores.
+Os Deputados gozam dos seguintes direitos e regalias:
 
-2. A lei regula as condições em que a falta dos Deputados, por causa de reuniões ou missões da Assembleia, a actos ou diligências oficiais a ela estranhos constitui motivo justificado de adiamento destes.
+a) Adiamento do serviço militar, do serviço cívico ou da mobilização civil;
 
-3. As entidades públicas têm, nos termos da lei, o dever de cooperar com os Deputados no exercício das suas funções.
+b) Livre trânsito e direito a passaporte especial nas suas deslocações oficiais ao estrangeiro;
+
+c) Cartão especial de identificação;
+
+d) Subsídios que a lei prescrever.

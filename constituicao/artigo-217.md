@@ -1,15 +1,9 @@
-## Capítulo III
-
-## Estatuto dos juízes
-
 # Artigo 217.º
 
-### (Magistratura dos tribunais judiciais)
+### (Nomeação, colocação, transferência e promoção de juízes)
 
-1. Os juízes dos tribunais judiciais formam um corpo único e regem-se por um só estatuto.
+1. A nomeação, a colocação, a transferência e a promoção dos juízes dos tribunais judiciais e o exercício da acção disciplinar competem ao Conselho Superior da Magistratura, nos termos da lei.
 
-2. A lei determina os requisitos e as regras de recrutamento dos juízes dos tribunais judiciais de primeira instância.
+2. A nomeação, a colocação, a transferência e a promoção dos juízes dos tribunais administrativos e fiscais, bem como o exercício da acção disciplinar, competem ao respectivo conselho superior, nos termos da lei.
 
-3. O recrutamento dos juízes dos tribunais judiciais de segunda instância faz-se com prevalência do critério do mérito, por concurso curricular entre juízes da primeira instância.
-
-4. O acesso ao Supremo Tribunal de Justiça faz-se por concurso curricular aberto aos magistrados judiciais e do Ministério Público e a outros juristas de mérito, nos termos que a lei determinar.
+3. A lei define as regras e determina a competência para a colocação, transferência e promoção, bem como para o exercício da acção disciplinar em relação aos juízes dos restantes tribunais, com salvaguarda das garantias previstas na Constituição.

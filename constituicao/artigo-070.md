@@ -2,15 +2,17 @@
 
 ### (Juventude)
 
-1. Os jovens, sobretudo os jovens trabalhadores, gozam de protecção especial para efectivação dos seus direitos económicos, sociais e culturais, nomeadamente:
+1. Os jovens gozam de protecção especial para efectivação dos seus direitos económicos, sociais e culturais, nomeadamente:
 
 a) No ensino, na formação profissional e na cultura;
 
 b) No acesso ao primeiro emprego, no trabalho e na segurança social;
 
-c) Na educação física e no desporto;
+c) No acesso à habitação;
 
-d) No aproveitamento dos tempos livres.
+d) Na educação física e no desporto;
+
+e) No aproveitamento dos tempos livres.
 
 2. A política de juventude deverá ter como objectivos prioritários o desenvolvimento da personalidade dos jovens, a criação de condições para a sua efectiva integração na vida activa, o gosto pela criação livre e o sentido de serviço à comunidade.
 

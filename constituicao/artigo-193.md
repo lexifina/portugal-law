@@ -1,5 +1,5 @@
 # Artigo 193.º
 
-### (Responsabilidade do Governo)
+### (Solicitação de voto de confiança)
 
-O Governo é responsável perante o Presidente da República e a Assembleia da República.
+O Governo pode solicitar à Assembleia da República a aprovação de um voto de confiança sobre uma declaração de política geral ou sobre qualquer assunto relevante de interesse nacional.

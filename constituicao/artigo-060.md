@@ -6,4 +6,4 @@
 
 2. A publicidade é disciplinada por lei, sendo proibidas todas as formas de publicidade oculta, indirecta ou dolosa.
 
-3. As associações de consumidores e as cooperativas de consumo têm direito, nos termos da lei, ao apoio do Estado e a ser ouvidas sobre as questões que digam respeito à defesa dos consumidores.
+3. As associações de consumidores e as cooperativas de consumo têm direito, nos termos da lei, ao apoio do Estado e a ser ouvidas sobre as questões que digam respeito à defesa dos consumidores, sendo-lhes reconhecida legitimidade processual para defesa dos seus associados ou de interesses colectivos ou difusos.

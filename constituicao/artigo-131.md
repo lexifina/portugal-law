@@ -1,7 +1,7 @@
 # Artigo 131.º
 
-### (Mandato)
+### (Renúncia ao mandato)
 
-1. O mandato do Presidente da República tem a duração de cinco anos e termina com a posse do novo Presidente eleito.
+1. O Presidente da República pode renunciar ao mandato em mensagem dirigida à Assembleia da República.
 
-2. Em caso de vagatura, o Presidente da República a eleger inicia um novo mandato.
+2. A renúncia torna-se efectiva com o conhecimento da mensagem pela Assembleia da República, sem prejuízo da sua ulterior publicação no Diário da República.

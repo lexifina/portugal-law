@@ -1,11 +1,11 @@
 # Artigo 130.º
 
-### (Posse e juramento)
+### (Responsabilidade criminal)
 
-1. O Presidente eleito toma posse perante a Assembleia da República.
+1. Por crimes praticados no exercício das suas funções, o Presidente da República responde perante o Supremo Tribunal de Justiça.
 
-2. A posse efectua-se no último dia do mandato do Presidente cessante ou, no caso de eleição por vagatura, no oitavo dia subsequente ao da publicação dos resultados eleitorais.
+2. A iniciativa do processo cabe à Assembleia da República, mediante proposta de um quinto e deliberação aprovada por maioria de dois terços dos Deputados em efectividade de funções.
 
-3. No acto de posse o Presidente da República eleito prestará a seguinte declaração de compromisso:
+3. A condenação implica a destituição do cargo e a impossibilidade de reeleição.
 
-Juro por minha honra desempenhar fielmente as funções em que fico investido e defender, cumprir e fazer cumprir a Constituição da República Portuguesa.
+4. Por crimes estranhos ao exercício das suas funções o Presidente da República responde depois de findo o mandato perante os tribunais comuns.

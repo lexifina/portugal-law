@@ -1,7 +1,9 @@
 # Artigo 143.º
 
-### (Referenda ministeral)
+### (Posse e mandato)
 
-1. Carecem de referenda do Governo os actos do Presidente da República praticados ao abrigo das alíneas h), j), l), m) e p) do artigo 136.º, das alíneas b), d) e f) do artigo 137.º e das alíneas a), b) e c) do artigo 138.º.
+1. Os membros do Conselho de Estado são empossados pelo Presidente da República.
 
-2. A falta de referenda determina a inexistência jurídica do acto.
+2. Os membros do Conselho de Estado previstos nas alíneas a) a e) do artigo 142.º mantêm-se em funções enquanto exercerem os respectivos cargos.
+
+3. Os membros do Conselho de Estado previstos nas alíneas g) e h) do artigo 142.º mantêm-se em funções até à posse dos que os substituírem no exercício dos respectivos cargos.

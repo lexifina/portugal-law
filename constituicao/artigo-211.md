@@ -1,23 +1,11 @@
-## Capítulo II
-
-## Organização dos tribunais
-
 # Artigo 211.º
 
-### (Categorias de tribunais)
+### (Competência e especialização dos tribunais judiciais)
 
-1. Além do Tribunal Constitucional, existem as seguintes categorias de tribunais:
+1. Os tribunais judiciais são os tribunais comuns em matéria cível e criminal e exercem jurisdição em todas as áreas não atribuídas a outras ordens judiciais.
 
-a) O Supremo Tribunal de Justiça e os tribunais judiciais de primeira e de segunda instância;
+2. Na primeira instância pode haver tribunais com competência específica e tribunais especializados para o julgamento de matérias determinadas.
 
-b) O Supremo Tribunal Administrativo e os demais tribunais administrativos e fiscais;
+3. Da composição dos tribunais de qualquer instância que julguem crimes de natureza estritamente militar fazem parte um ou mais juízes militares, nos termos da lei.
 
-c) O Tribunal de Contas;
-
-d) Tribunais militares.
-
-2. Podem existir tribunais marítimos e tribunais arbitrais.
-
-3. A lei determina os casos e as formas em que os tribunais previstos nos números anteriores se podem constituir, separada ou conjuntamente, em tribunais de conflitos.
-
-4. Sem prejuízo do disposto quanto aos tribunais militares, é proibida a existência de tribunais com competência exclusiva para o julgamento de certas categorias de crimes.
+4. Os tribunais da Relação e o Supremo Tribunal de Justiça podem funcionar em secções especializadas.

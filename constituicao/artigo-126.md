@@ -1,7 +1,9 @@
 # Artigo 126.º
 
-### (Reelegibilidade)
+### (Sistema eleitoral)
 
-1. Não é admitida a reeleição para um terceiro mandato consecutivo, nem durante o quinquénio imediatamente subsequente ao termo do segundo mandato consecutivo.
+1. Será eleito Presidente da República o candidato que obtiver mais de metade dos votos validamente expressos, não se considerando como tal os votos em branco.
 
-2. Se o Presidente da República renunciar ao cargo, não poderá candidatar-se nas eleições imediatas nem nas que se realizem no quinquénio imediatamente subsequente à renúncia.
+2. Se nenhum dos candidatos obtiver esse número de votos, proceder-se-á a segundo sufrágio até ao vigésimo primeiro dia subsequente à primeira votação.
+
+3. A este sufrágio concorrerão apenas os dois candidatos mais votados que não tenham retirado a candidatura.

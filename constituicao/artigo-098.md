@@ -1,5 +1,5 @@
 # Artigo 98.º
 
-### (Redimensionamento do minifúndio)
+### (Participação na definição da política agrícola)
 
-Sem prejuízo do direito de propriedade, o Estado promoverá, nos termos da lei, o redimensionamento das unidades de exploração agrícola com dimensão inferior à adequada do ponto de vista dos objectivos da política agrícola, nomeadamente através de incentivos jurídicos, fiscais e creditícios à sua integração estrutural ou meramente económica, designadamente cooperativa, ou por recurso a medidas de emparcelamento.
+Na definição da política agrícola é assegurada a participação dos trabalhadores rurais e dos agricultores através das suas organizações representativas.

@@ -1,9 +1,11 @@
+## Capítulo II
+
+## Formação e responsabilidade
+
 # Artigo 187.º
 
-### (Conselho de Ministros)
+### (Formação)
 
-1. O Conselho de Ministros é constituído pelo Primeiro-Ministro, pelos Vice-Primeiros-Ministros, se os houver, e pelos Ministros.
+1. O Primeiro-Ministro é nomeado pelo Presidente da República, ouvidos os partidos representados na Assembleia da República e tendo em conta os resultados eleitorais.
 
-2. A lei pode criar Conselhos de Ministros especializados em razão da matéria.
-
-3. Podem ser convocados para participar nas reuniões do Conselho de Ministros os Secretários e Subsecretários de Estado.
+2. Os restantes membros do Governo são nomeados pelo Presidente da República, sob proposta do Primeiro-Ministro.

@@ -1,15 +1,21 @@
 # Artigo 201.º
 
-### (Competência legislativa)
+### (Competência dos membros do Governo)
 
-1. Compete ao Governo, no exercício de funções legislativas:
+1. Compete ao Primeiro-Ministro:
 
-a) Fazer decretos-leis em matérias não reservadas à Assembleia da República;
+a) Dirigir a política geral do Governo, coordenando e orientando a acção de todos os Ministros;
 
-b) Fazer decretos-leis em matérias de reserva relativa da Assembleia da República, mediante autorização desta;
+b) Dirigir o funcionamento do Governo e as suas relações de carácter geral com os demais órgãos do Estado;
 
-c) Fazer decretos-leis de desenvolvimento dos princípios ou das bases gerais dos regimes jurídicos contidos em leis que a eles se circunscrevam.
+c) Informar o Presidente da República acerca dos assuntos respeitantes à condução da política interna e externa do país;
 
-2. É da exclusiva competência legislativa do Governo a matéria respeitante à sua própria organização e funcionamento.
+d) Exercer as demais funções que lhe sejam atribuídas pela Constituição e pela lei.
 
-3. Os decretos-leis previstos nas alíneas b) e c) do n.º 1 devem invocar expressamente a lei de autorização legislativa ou a lei de bases ao abrigo da qual são aprovados.
+2. Compete aos Ministros:
+
+a) Executar a política definida para os seus Ministérios;
+
+b) Assegurar as relações de carácter geral entre o Governo e os demais órgãos do Estado, no âmbito dos respectivos Ministérios.
+
+3. Os decretos-leis e os demais decretos do Governo são assinados pelo Primeiro-Ministro e pelos Ministros competentes em razão da matéria.

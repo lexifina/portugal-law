@@ -1,19 +1,9 @@
-## Título V
-
-## Tribunais
-
-## Capítulo I
-
-## Princípios gerais
-
 # Artigo 205.º
 
-### (Função jurisdicional)
+### (Decisões dos tribunais)
 
-1. Os tribunais são os órgãos de soberania com competência para administrar a justiça em nome do povo.
+1. As decisões dos tribunais que não sejam de mero expediente são fundamentadas na forma prevista na lei.
 
-2. Na administração da justiça incumbe aos tribunais assegurar a defesa dos direitos e interesses legalmente protegidos dos cidadãos, reprimir a violação da legalidade democrática e dirimir os conflitos de interesses públicos e privados.
+2. As decisões dos tribunais são obrigatórias para todas as entidades públicas e privadas e prevalecem sobre as de quaisquer outras autoridades.
 
-3. No exercício das suas funções os tribunais têm direito à coadjuvação das outras autoridades.
-
-4. A lei poderá institucionalizar instrumentos e formas de composição não jurisdicional de conflitos.
+3. A lei regula os termos da execução das decisões dos tribunais relativamente a qualquer autoridade e determina as sanções a aplicar aos responsáveis pela sua inexecução.

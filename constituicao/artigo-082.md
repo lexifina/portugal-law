@@ -10,8 +10,10 @@
 
 4. O sector cooperativo e social compreende especificamente:
 
-a) Os meios de produção possuídos e geridos por cooperativas, em obediência aos princípios cooperativos;
+a) Os meios de produção possuídos e geridos por cooperativas, em obediência aos princípios cooperativos, sem prejuízo das especificidades estabelecidas na lei para as cooperativas com participação pública, justificadas pela sua especial natureza;
 
 b) Os meios de produção comunitários, possuídos e geridos por comunidades locais;
 
-c) Os meios de produção objecto de exploração colectiva por trabalhadores.
+c) Os meios de produção objecto de exploração colectiva por trabalhadores;
+
+d) Os meios de produção possuídos e geridos por pessoas colectivas, sem carácter lucrativo, que tenham como principal objectivo a solidariedade social, designadamente entidades de natureza mutualista.

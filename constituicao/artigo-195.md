@@ -1,11 +1,19 @@
 # Artigo 195.º
 
-### (Apreciação do programa do Governo)
+### (Demissão do Governo)
 
-1. O programa do Governo é submetido à apreciação da Assembleia da República, através de uma declaração do Primeiro-Ministro, no prazo máximo de dez dias após a sua nomeação.
+1. Implicam a demissão do Governo:
 
-2. Se a Assembleia da República não se encontrar em funcionamento efectivo, será obrigatoriamente convocada para o efeito pelo seu Presidente.
+a) O início de nova legislatura;
 
-3. O debate não pode exceder três dias e até ao seu encerramento pode qualquer grupo parlamentar propor a rejeição do programa ou o Governo solicitar a aprovação de um voto de confiança.
+b) A aceitação pelo Presidente da República do pedido de demissão apresentado pelo Primeiro-Ministro;
 
-4. A rejeição do programa do Governo exige maioria absoluta dos Deputados em efectividade de funções.
+c) A morte ou a impossibilidade física duradoura do Primeiro-Ministro;
+
+d) A rejeição do programa do Governo;
+
+e) A não aprovação de uma moção de confiança;
+
+f) A aprovação de uma moção de censura por maioria absoluta dos Deputados em efectividade de funções.
+
+2. O Presidente da República só pode demitir o Governo quando tal se torne necessário para assegurar o regular funcionamento das instituições democráticas, ouvido o Conselho de Estado.

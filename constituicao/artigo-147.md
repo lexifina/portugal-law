@@ -1,7 +1,13 @@
+## Título III
+
+## Assembleia da República
+
+## Capítulo I
+
+## Estatuto e eleição
+
 # Artigo 147.º
 
-### (Organização e funcionamento)
+### (Definição)
 
-1. Compete ao Conselho de Estado elaborar o seu regimento.
-
-2. As reuniões do Conselho de Estado não são públicas.
+A Assembleia da República é a assembleia representativa de todos os cidadãos portugueses.

@@ -1,7 +1,11 @@
 # Artigo 135.º
 
-### (Substituição interina)
+### (Competência nas relações internacionais)
 
-1. Durante o impedimento temporário do Presidente da República, bem como durante a vagatura do cargo até tomar posse o novo Presidente eleito, assumirá as funções o Presidente da Assembleia da República ou, no impedimento deste, o seu substituto.
+Compete ao Presidente da República, nas relações internacionais:
 
-2. Enquanto exercer interinamente as funções de Presidente da República, o mandato de Deputado do Presidente da Assembleia da República ou do seu substituto suspende-se automaticamente.
+a) Nomear os embaixadores e os enviados extraordinários, sob proposta do Governo, e acreditar os representantes diplomáticos estrangeiros;
+
+b) Ratificar os tratados internacionais, depois de devidamente aprovados;
+
+c) Declarar a guerra em caso de agressão efectiva ou iminente e fazer a paz, sob proposta do Governo, ouvido o Conselho de Estado e mediante autorização da Assembleia da República, ou, quando esta não estiver reunida nem for possível a sua reunião imediata, da sua Comissão Permanente.

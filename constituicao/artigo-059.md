@@ -6,13 +6,15 @@
 
 a) À retribuição do trabalho, segundo a quantidade, natureza e qualidade, observando-se o princípio de que para trabalho igual salário igual, de forma a garantir uma existência condigna;
 
-b) À organização do trabalho em condições socialmente dignificantes, de forma a facultar a realização pessoal;
+b) A organização do trabalho em condições socialmente dignificantes, de forma a facultar a realização pessoal e a permitir a conciliação da actividade profissional com a vida familiar;
 
-c) À prestação do trabalho em condições de higiene e segurança;
+c) A prestação do trabalho em condições de higiene, segurança e saúde;
 
 d) Ao repouso e aos lazeres, a um limite máximo da jornada de trabalho, ao descanso semanal e a férias periódicas pagas;
 
-e) À assistência material, quando involuntariamente se encontrem em situação de desemprego.
+e) À assistência material, quando involuntariamente se encontrem em situação de desemprego;
+
+f) A assistência e justa reparação, quando vítimas de acidente de trabalho ou de doença profissional.
 
 2. Incumbe ao Estado assegurar as condições de trabalho, retribuição e repouso a que os trabalhadores têm direito, nomeadamente:
 
@@ -24,4 +26,8 @@ c) A especial protecção do trabalho das mulheres durante a gravidez e após o 
 
 d) O desenvolvimento sistemático de uma rede de centros de repouso e de férias, em cooperação com organizações sociais;
 
-e) A protecção das condições de trabalho e a garantia dos benefícios sociais dos trabalhadores emigrantes.
+e) A protecção das condições de trabalho e a garantia dos benefícios sociais dos trabalhadores emigrantes;
+
+f) A protecção das condições de trabalho dos trabalhadores-estudantes.
+
+3. Os salários gozam de garantias especiais, nos termos da lei.

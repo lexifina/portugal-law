@@ -1,7 +1,9 @@
 # Artigo 85.º
 
-### (Nacionalizações efectuadas depois de 25 de Abril de 1974)
+### (Cooperativas e experiências de autogestão)
 
-1. A reprivatização da titularidade ou do direito de exploração de meios de produção e outros bens nacionalizados depois de 25 de Abril de 1974 só poderá efectuar-se nos termos de lei-quadro aprovada por maioria absoluta dos Deputados em efectividade de funções.
+1. O Estado estimula e apoia a criação e a actividade de cooperativas.
 
-2. As pequenas e médias empresas indirectamente nacionalizadas situadas fora dos sectores básicos da economia poderão ser reprivatizadas nos termos da lei.
+2. A lei definirá os benefícios fiscais e financeiros das cooperativas, bem como condições mais favoráveis à obtenção de crédito e auxílio técnico.
+
+3. São apoiadas pelo Estado as experiências viáveis de autogestão.

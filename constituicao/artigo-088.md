@@ -1,5 +1,7 @@
 # Artigo 88.º
 
-### (Actividade económica e investimentos estrangeiros)
+### (Meios de produção em abandono)
 
-A lei disciplinará a actividade económica e os investimentos por parte de pessoas singulares ou colectivas estrangeiras, a fim de garantir a sua contribuição para o desenvolvimento do país e defender a independência nacional e os interesses dos trabalhadores.
+1. Os meios de produção em abandono podem ser expropriados em condições a fixar pela lei, que terá em devida conta a situação específica da propriedade dos trabalhadores emigrantes.
+
+2. Os meios de produção em abandono injustificado podem ainda ser objecto de arrendamento ou de concessão de exploração compulsivos, em condições a fixar por lei.

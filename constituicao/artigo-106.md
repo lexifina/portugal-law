@@ -1,9 +1,23 @@
 # Artigo 106.º
 
-### (Sistema fiscal)
+### (Elaboração do Orçamento)
 
-1. O sistema fiscal visa a satisfação das necessidades financeiras do Estado e outras entidades públicas e uma repartição justa dos rendimentos e da riqueza.
+1. A lei do Orçamento é elaborada, organizada, votada e executada, anualmente, de acordo com a respectiva lei de enquadramento, que incluirá o regime atinente à elaboração e execução dos orçamentos dos fundos e serviços autónomos.
 
-2. Os impostos são criados por lei, que determina a incidência, a taxa, os benefícios fiscais e as garantias dos contribuintes.
+2. A proposta de Orçamento é apresentada e votada nos prazos fixados na lei, a qual prevê os procedimentos a adoptar quando aqueles não puderem ser cumpridos.
 
-3. Ninguém pode ser obrigado a pagar impostos que não tenham sido criados nos termos da Constituição e cuja liquidação e cobrança se não façam nas formas prescritas na lei.
+3. A proposta de Orçamento é acompanhada de relatórios sobre:
+
+a) A previsão da evolução dos principais agregados macroeconómicos com influência no Orçamento, bem como da evolução da massa monetária e suas contrapartidas;
+
+b) A justificação das variações de previsões das receitas e despesas relativamente ao Orçamento anterior;
+
+c) A dívida pública, as operações de tesouraria e as contas do Tesouro;
+
+d) A situação dos fundos e serviços autónomos;
+
+e) As transferências de verbas para as regiões autónomas e as autarquias locais;
+
+f) As transferências financeiras entre Portugal e o exterior com incidência na proposta do Orçamento;
+
+g) Os benefícios fiscais e a estimativa da receita cessante.

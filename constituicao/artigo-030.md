@@ -6,7 +6,7 @@
 
 2. Em caso de perigosidade baseada em grave anomalia psíquica, e na impossibilidade de terapêutica em meio aberto, poderão as medidas de segurança privativas ou restritivas da liberdade ser prorrogadas sucessivamente enquanto tal estado se mantiver, mas sempre mediante decisão judicial.
 
-3. As penas são insusceptíveis de transmissão.
+3. A responsabilidade penal é insusceptível de transmissão.
 
 4. Nenhuma pena envolve como efeito necessário a perda de quaisquer direitos civis, profissionais ou políticos.
 

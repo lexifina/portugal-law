@@ -1,5 +1,9 @@
 # Artigo 184.º
 
-### (Funcionários e especialistas ao serviço da Assembleia)
+### (Conselho de Ministros)
 
-Os trabalhos da Assembleia e os das suas comissões serão coadjuvados por um corpo permanente de funcionários técnicos e administrativos e por especialistas requisitados ou temporariamente contratados, no número que o Presidente considerar necessário.
+1. O Conselho de Ministros é constituído pelo Primeiro-Ministro, pelos Vice-Primeiros-Ministros, se os houver, e pelos Ministros.
+
+2. A lei pode criar Conselhos de Ministros especializados em razão da matéria.
+
+3. Podem ser convocados para participar nas reuniões do Conselho de Ministros os Secretários e Subsecretários de Estado.

@@ -1,9 +1,15 @@
 # Artigo 160.º
 
-### (Imunidades)
+### (Perda e renúncia do mandato)
 
-1. Os Deputados não respondem civil, criminal ou disciplinarmente pelos votos e opiniões que emitirem no exercício das suas funções.
+1. Perdem o mandato os Deputados que:
 
-2. Nenhum Deputado pode ser detido ou preso sem autorização da Assembleia, salvo por crime punível com pena de prisão superior a três anos e em flagrante delito.
+a) Venham a ser feridos por alguma das incapacidades ou incompatibilidades previstas na lei;
 
-3. Movido procedimento criminal contra algum Deputado, e acusado este definitivamente, salvo no caso de crime punível com a pena referida no número anterior, a Assembleia decidirá se o Deputado deve ou não ser suspenso para efeito de seguimento do processo.
+b) Não tomem assento na Assembleia ou excedam o número de faltas estabelecido no Regimento;
+
+c) Se inscrevam em partido diverso daquele pelo qual foram apresentados a sufrágio;
+
+d) Sejam judicialmente condenados por crime de responsabilidade no exercício da sua função em tal pena ou por participação em organizações racistas ou que perfilhem a ideologia fascista.
+
+2. Os Deputados podem renunciar ao mandato, mediante declaração escrita.

@@ -1,9 +1,5 @@
 # Artigo 95.º
 
-### (Conselho Económico e Social)
+### (Redimensionamento do minifúndio)
 
-1. O Conselho Económico e Social é o órgão de consulta e concertação no domínio das políticas económica e social, participa na elaboração dos planos de desenvolvimento económico e social e exerce as demais funções que lhe sejam atribuídas por lei.
-
-2. A lei define a composição do Conselho Económico e Social, do qual farão parte, designadamente, representantes do Governo, das organizações representativas dos trabalhadores, das organizações representativas das actividades económicas, das regiões autónomas e das autarquias locais.
-
-3. A lei define ainda a organização e o funcionamento do Conselho Económico e Social, bem como o estatuto dos seus membros.
+Sem prejuízo do direito de propriedade, o Estado promoverá, nos termos da lei, o redimensionamento das unidades de exploração agrícola com dimensão inferior à adequada do ponto de vista dos objectivos da política agrícola, nomeadamente através de incentivos jurídicos, fiscais e creditícios à sua integração estrutural ou meramente económica, designadamente cooperativa, ou por recurso a medidas de emparcelamento.

@@ -6,6 +6,6 @@
 
 2. O exercício destes direitos não pode ser impedido ou limitado por qualquer tipo ou forma de censura.
 
-3. As infracções cometidas no exercício destes direitos ficam submetidas aos princípios gerais de direito criminal, sendo a sua apreciação da competência dos tribunais judiciais.
+3. As infracções cometidas no exercício destes direitos ficam submetidas aos princípios gerais de direito criminal ou do ilícito de mera ordenação social, sendo a sua apreciação respectivamente da competência dos tribunais judiciais ou de entidade administrativa independente, nos termos da lei.
 
 4. A todas as pessoas, singulares ou colectivas, é assegurado, em condições de igualdade e eficácia, o direito de resposta e de rectificação, bem como o direito a indemnização pelos danos sofridos.

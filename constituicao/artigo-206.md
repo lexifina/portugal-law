@@ -1,5 +1,5 @@
 # Artigo 206.º
 
-### (Independência)
+### (Audiências dos tribunais)
 
-Os tribunais são independentes e apenas estão sujeitos à lei.
+As audiências dos tribunais são públicas, salvo quando o próprio tribunal decidir o contrário, em despacho fundamentado, para salvaguarda da dignidade das pessoas e da moral pública ou para garantir o seu normal funcionamento.

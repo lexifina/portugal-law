@@ -6,4 +6,6 @@
 
 2. A maternidade e a paternidade constituem valores sociais eminentes.
 
-3. As mulheres trabalhadoras têm direito a especial protecção durante a gravidez e após o parto, incluindo a dispensa do trabalho por período adequado, sem perda da retribuição ou de quaisquer regalias.
+3. As mulheres têm direito a especial protecção durante a gravidez e após o parto, tendo as mulheres trabalhadoras ainda direito a dispensa do trabalho por período adequado, sem perda da retribuição ou de quaisquer regalias.
+
+4. A lei regula a atribuição às mães e aos pais de direitos de dispensa de trabalho por período adequado, de acordo com os interesses da criança e as necessidades do agregado familiar.

@@ -1,21 +1,15 @@
 # Artigo 166.º
 
-### (Competência quanto a outros órgãos)
+### (Forma dos actos)
 
-Compete à Assembleia da República, relativamente a outros órgãos:
+1. Revestem a forma de lei constitucional os actos previstos na alínea a) do artigo 161.º
 
-a) Testemunhar a tomada de posse do Presidente da República;
+2. Revestem a forma de lei orgânica os actos previstos nas alíneas a) a f), h), j), primeira parte da alínea l), q) e t) do artigo 164.º e no artigo 255.º
 
-b) Dar assentimento à ausência do Presidente da República do território nacional;
+3. Revestem a forma de lei os actos previstos nas alíneas b) a h) do artigo 161.º
 
-c) Promover o processo de acusação contra o Presidente da República por crimes praticados no exercício das suas funções e decidir sobre a suspensão de membros do Governo, no caso previsto no artigo 199.º;
+4. Revestem a forma de moção os actos previstos nas alíneas d) e e) do artigo 163.º
 
-d) Apreciar o programa do Governo;
+5. Revestem a forma de resolução os demais actos da Assembleia da República, bem como os actos da Comissão Permanente previstos nas alíneas e) e f) do n.º 3 do artigo 179.º
 
-e) Votar moções de confiança e de censura ao Governo;
-
-f) Acompanhar e apreciar, nos termos da lei, a participação de Portugal no processo de construção da união europeia.
-
-g) Eleger, segundo o sistema de representação proporcional, cinco membros do Conselho de Estado, cinco membros da Alta Autoridade para a Comunicação Social e os membros do Conselho Superior do Ministério Público que lhe competir designar;
-
-h) Eleger, por maioria de dois terços dos Deputados presentes, desde que superior à maioria absoluta dos Deputados em efectividade de funções, dez juízes do Tribunal Constitucional, o Provedor de Justiça, o presidente do Conselho Económico e Social, sete vogais do Conselho Superior da Magistratura e os membros de outros órgãos constitucionais cuja designação seja cometida à Assembleia da República.
+6. As resoluções são publicadas independentemente de promulgação.

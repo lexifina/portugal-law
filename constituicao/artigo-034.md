@@ -8,4 +8,4 @@
 
 3. Ninguém pode entrar durante a noite no domicílio de qualquer pessoa sem o seu consentimento.
 
-4. É proibida toda a ingerência das autoridades públicas na correspondência e nas telecomunicações, salvos os casos previstos na lei em matéria de processo criminal.
+4. É proibida toda a ingerência das autoridades públicas na correspondência, nas telecomunicações e nos demais meios de comunicação, salvos os casos previstos na lei em matéria de processo criminal.

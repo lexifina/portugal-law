@@ -4,7 +4,7 @@
 
 1. É direito dos trabalhadores criarem comissões de trabalhadores para defesa dos seus interesses e intervenção democrática na vida da empresa.
 
-2. Os plenários de trabalhadores deliberam a constituição, aprovam os estatutos e elegem, por voto directo e secreto, os membros das comissões de trabalhadores.
+2. Os trabalhadores deliberam a constituição, aprovam os estatutos e elegem, por voto directo e secreto, os membros das comissões de trabalhadores.
 
 3. Podem ser criadas comissões coordenadoras para melhor intervenção na reestruturação económica e por forma a garantir os interesses dos trabalhadores.
 
@@ -16,7 +16,7 @@ a) Receber todas as informações necessárias ao exercício da sua actividade;
 
 b) Exercer o controlo de gestão nas empresas;
 
-c) Intervir na reorganização das unidades produtivas;
+c) Participar nos processos de reestruturação da empresa, especialmente no tocante a acções de formação ou quando ocorra alteração das condições de trabalho;
 
 d) Participar na elaboração da legislação do trabalho e dos planos económico-sociais que contemplem o respectivo sector;
 

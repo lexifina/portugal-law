@@ -1,7 +1,9 @@
 # Artigo 114.º
 
-### (Separação e interdependência)
+### (Partidos políticos e direito de oposição)
 
-1. Os órgãos de soberania devem observar a separação e a interdependência estabelecidas na Constituição.
+1. Os partidos políticos participam nos órgãos baseados no sufrágio universal e directo, de acordo com a sua representatividade eleitoral.
 
-2. Nenhum órgão de soberania, de região autónoma ou de poder local pode delegar os seus poderes noutros órgãos, a não ser nos casos e nos termos expressamente previstos na Constituição e na lei.
+2. É reconhecido às minorias o direito de oposição democrática, nos termos da Constituição e da lei.
+
+3. Os partidos políticos representados na Assembleia da República e que não façam parte do Governo gozam, designadamente, do direito de serem informados regular e directamente pelo Governo sobre o andamento dos principais assuntos de interesse público, de igual direito gozando os partidos políticos representados nas assembleias legislativas regionais e em quaisquer outras assembleias designadas por eleição directa relativamente aos correspondentes executivos de que não façam parte.

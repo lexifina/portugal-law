@@ -8,15 +8,21 @@
 
 3. Exceptua-se deste princípio a privação da liberdade, pelo tempo e nas condições que a lei determinar, nos casos seguintes:
 
-a) Prisão preventiva em flagrante delito ou por fortes indícios de prática de crime doloso a que corresponda pena de prisão cujo limite máximo seja superior a três anos;
+a) Detenção em flagrante delito;
 
-b) Prisão ou detenção de pessoa que tenha penetrado ou permaneça irregularmente no território nacional ou contra a qual esteja em curso processo de extradição ou de expulsão;
+b) Detenção ou prisão preventiva por fortes indícios de prática de crime doloso a que corresponda pena de prisão cujo limite máximo seja superior a três anos;
 
-c) Prisão disciplinar imposta a militares, com garantia de recurso para o tribunal competente;
+c) Prisão, detenção ou outra medida coactiva sujeita a controlo judicial, de pessoa que tenha penetrado ou permaneça irregularmente no território nacional ou contra a qual esteja em curso processo de extradição ou de expulsão;
 
-d) Sujeição de um menor a medidas de protecção, assistência ou educação em estabelecimento adequado, decretadas pelo tribunal judicial competente;
+d) Prisão disciplinar imposta a militares, com garantia de recurso para o tribunal competente;
 
-e) Detenção por decisão judicial em virtude de desobediência a decisão tomada por um tribunal ou para assegurar a comparência perante a autoridade judicial competente.
+e) Sujeição de um menor a medidas de protecção, assistência ou educação em estabelecimento adequado, decretadas pelo tribunal judicial competente;
+
+f) Detenção por decisão judicial em virtude de desobediência a decisão tomada por um tribunal ou para assegurar a comparência perante autoridade judiciária competente;
+
+g) Detenção de suspeitos, para efeitos de identificação, nos casos e pelo tempo estritamente necessários;
+
+h) Internamento de portador de anomalia psíquica em estabelecimento terapêutico adequado, decretado ou confirmado por autoridade judicial competente.
 
 4. Toda a pessoa privada da liberdade deve ser informada imediatamente e de forma compreensível das razões da sua prisão ou detenção e dos seus direitos.
 

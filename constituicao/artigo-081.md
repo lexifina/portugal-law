@@ -4,28 +4,26 @@
 
 Incumbe prioritariamente ao Estado no âmbito económico e social:
 
-a) Promover o aumento do bem-estar social e económico e da qualidade de vida do povo, em especial das classes mais desfavorecidas;
+a) Promover o aumento do bem-estar social e económico e da qualidade de vida das pessoas, em especial das mais desfavorecidas, no quadro de uma estratégia de desenvolvimento sustentável;
 
-b) Operar as necessárias correcções das desigualdades na distribuição da riqueza e do rendimento;
+b) Promover a justiça social, assegurar a igualdade de oportunidades e operar as necessárias correcções das desigualdades na distribuição da riqueza e do rendimento, nomeadamente através da política fiscal;
 
 c) Assegurar a plena utilização das forças produtivas, designadamente zelando pela eficiência do sector público;
 
 d) Orientar o desenvolvimento económico e social no sentido de um crescimento equilibrado de todos os sectores e regiões e eliminar progressivamente as diferenças económicas e sociais entre a cidade e o campo;
 
-e) Eliminar e impedir a formação de monopólios privados, bem como reprimir os abusos do poder económico e todas as práticas lesivas do interesse geral;
+e) Assegurar o funcionamento eficiente dos mercados, de modo a garantir a equilibrada concorrência entre as empresas, a contrariar as formas de organização monopolistas e a reprimir os abusos de posição dominante e outras práticas lesivas do interesse geral;
 
-f) Assegurar a equilibrada concorrência entre as empresas;
+f) Desenvolver as relações económicas com todos os povos, salvaguardando sempre a independência nacional e os interesses dos portugueses e da economia do país;
 
-g) Desenvolver as relações económicas com todos os povos, salvaguardando sempre a independência nacional e os interesses dos portugueses e da economia do país;
+g) Eliminar os latifúndios e reordenar o minifúndio;
 
-h) Eliminar os latifúndios e reordenar o minifúndio;
+h) Garantir a defesa dos interesses e os direitos dos consumidores;
 
-i) Assegurar a participação das organizações representativas dos trabalhadores e das organizações representativas das actividades económicas na definição, na execução e no controlo das principais medidas económicas e sociais;
+i) Criar os instrumentos jurídicos e técnicos necessários ao planeamento democrático do desenvolvimento económico e social;
 
-j) Proteger o consumidor;
+j) Assegurar uma política científica e tecnológica favorável ao desenvolvimento do país;
 
-l) Criar as estruturas jurídicas e técnicas necessárias à instauração de um sistema de planeamento democrático da economia;
+l) Adoptar uma política nacional de energia, com preservação dos recursos naturais e do equilíbrio ecológico, promovendo, neste domínio, a cooperação internacional;
 
-m) Assegurar uma política científica e tecnológica favorável ao desenvolvimento do país;
-
-n) Adoptar uma política nacional de energia, com preservação dos recursos naturais e do equilíbrio ecológico, promovendo, neste domínio, a cooperação internacional.
+m) Adoptar uma política nacional da água, com aproveitamento, planeamento e gestão racional dos recursos hídricos.

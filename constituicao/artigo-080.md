@@ -16,10 +16,12 @@ a) Subordinação do poder económico ao poder político democrático;
 
 b) Coexistência do sector público, do sector privado e do sector cooperativo e social de propriedade dos meios de produção;
 
-c) Apropriação colectiva de meios de produção e solos, de acordo com o interesse público, bem como dos recursos naturais;
+c) Liberdade de iniciativa e de organização empresarial no âmbito de uma economia mista;
 
-d) Planificação democrática da economia;
+d) Propriedade pública dos recursos naturais e de meios de produção, de acordo com o interesse colectivo;
 
-e) Protecção do sector cooperativo e social de propriedade dos meios de produção;
+e) Planeamento democrático do desenvolvimento económico e social;
 
-f) Intervenção democrática dos trabalhadores.
+f) Protecção do sector cooperativo e social de propriedade dos meios de produção;
+
+g) Participação das organizações representativas dos trabalhadores e das organizações representativas das actividades económicas na definição das principais medidas económicas e sociais.

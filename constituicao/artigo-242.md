@@ -1,5 +1,9 @@
 # Artigo 242.º
 
-### (Poder regulamentar)
+### (Tutela administrativa)
 
-As autarquias locais dispõem de poder regulamentar próprio nos limites da Constituição, das leis e dos regulamentos emanados das autarquias de grau superior ou das autoridades com poder tutelar.
+1. A tutela administrativa sobre as autarquias locais consiste na verificação do cumprimento da lei por parte dos órgãos autárquicos e é exercida nos casos e segundo as formas previstas na lei.
+
+2. As medidas tutelares restritivas da autonomia local são precedidas de parecer de um órgão autárquico, nos termos a definir por lei.
+
+3. A dissolução de órgãos autárquicos só pode ter por causa acções ou omissões ilegais graves.

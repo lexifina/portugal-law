@@ -1,7 +1,25 @@
 # Artigo 113.º
 
-### (Órgãos de soberania)
+### (Princípios gerais de direito eleitoral)
 
-1. São órgãos de soberania o Presidente da República, a Assembleia da República, o Governo e os Tribunais.
+1. O sufrágio directo, secreto e periódico constitui a regra geral de designação dos titulares dos órgãos electivos da soberania, das regiões autónomas e do poder local.
 
-2. A formação, a composição, a competência e o funcionamento dos órgãos de soberania são os definidos na Constituição.
+2. O recenseamento eleitoral é oficioso, obrigatório, permanente e único para todas as eleições por sufrágio directo e universal, sem prejuízo do disposto nos n.os 4 e 5 do artigo 15.º e no n.º 2 do artigo 121.º
+
+3. As campanhas eleitorais regem-se pelos seguintes princípios:
+
+a) Liberdade de propaganda;
+
+b) Igualdade de oportunidades e de tratamento das diversas candidaturas;
+
+c) Imparcialidade das entidades públicas perante as candidaturas;
+
+d) Transparência e fiscalização das contas eleitorais.
+
+4. Os cidadãos têm o dever de colaborar com a administração eleitoral, nas formas previstas na lei.
+
+5. A conversão dos votos em mandatos far-se-á de harmonia com o princípio da representação proporcional.
+
+6. No acto de dissolução de órgãos colegiais baseados no sufrágio directo tem de ser marcada a data das novas eleições, que se realizarão nos sessenta dias seguintes e pela lei eleitoral vigente ao tempo da dissolução, sob pena de inexistência jurídica daquele acto.
+
+7. O julgamento da regularidade e da validade dos actos de processo eleitoral compete aos tribunais.

@@ -6,7 +6,9 @@
 
 2. No exercício da liberdade sindical é garantido aos trabalhadores, sem qualquer discriminação, designadamente:
 
-a) A liberdade de constituição de associações sindicais a todos os níveis;
+a) A liberdade de constituição de associações sindicais a todos os
+
+níveis;
 
 b) A liberdade de inscrição, não podendo nenhum trabalhador ser obrigado a pagar quotizações para sindicato em que não esteja inscrito;
 
@@ -22,4 +24,4 @@ e) O direito de tendência, nas formas que os respectivos estatutos determinarem
 
 5. As associações sindicais têm o direito de estabelecer relações ou filiar-se em organizações sindicais internacionais.
 
-6. A lei assegura protecção adequada aos representantes eleitos dos trabalhadores contra quaisquer formas de condicionamento, constrangimento ou limitação do exercício legítimo das suas funções.
+6. Os representantes eleitos dos trabalhadores gozam do direito à informação e consulta, bem como à protecção legal adequada contra quaisquer formas de condicionamento, constrangimento ou limitação do exercício legítimo das suas funções.

@@ -1,15 +1,9 @@
 # Artigo 224.º
 
-### (Composição e estatuto dos juízes)
+### (Organização e funcionamento)
 
-1. O Tribunal Constitucional é composto por treze juízes, sendo dez designados pela Assembleia da República e três cooptados por estes.
+1. A lei estabelece as regras relativas à sede, à organização e ao funcionamento do Tribunal Constitucional.
 
-2. Seis de entre os juízes designados pela Assembleia da República ou cooptados são obrigatoriamente escolhidos de entre juízes dos restantes tribunais e os demais de entre juristas.
+2. A lei pode determinar o funcionamento do Tribunal Constitucional por secções, salvo para efeito da fiscalização abstracta da constitucionalidade e da legalidade.
 
-3. Os juízes do Tribunal Constitucional são designados por seis anos.
-
-4. O Presidente do Tribunal Constitucional é eleito pelos respectivos juízes.
-
-5. Os juízes do Tribunal Constitucional gozam das garantias de independência, inamovibilidade, imparcialidade e irresponsabilidade e estão sujeitos às incompatibilidades dos juízes dos restantes tribunais.
-
-6. A lei estabelece as demais regras relativas ao estatuto dos juízes do Tribunal Constitucional.
+3. A lei regula o recurso para o pleno do Tribunal Constitucional das decisões contraditórias das secções no domínio de aplicação da mesma norma.

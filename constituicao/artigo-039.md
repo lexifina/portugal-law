@@ -4,18 +4,18 @@
 
 1. O direito à informação, a liberdade de imprensa e a independência dos meios de comunicação social perante o poder político e o poder económico, bem como a possibilidade de expressão e confronto das diversas correntes de opinião e o exercício dos direitos de antena, de resposta e de réplica política, são assegurados por uma Alta Autoridade para a Comunicação Social.
 
-2. A Alta Autoridade para a Comunicação Social é um órgão independente, constituído por treze membros, nos termos da lei, com inclusão obrigatória:
+2. A lei define as demais funções e competências da Alta Autoridade para a Comunicação Social e regula o seu funcionamento.
 
-a) De um magistrado designado pelo Conselho Superior da Magistratura, que preside;
+3. A Alta Autoridade para a Comunicação Social é um órgão independente, constituído por onze membros, nos termos da lei, com inclusão obrigatória:
+
+a) De um magistrado, designado pelo Conselho Superior da Magistratura, que preside;
 
 b) De cinco membros eleitos pela Assembleia da República segundo o sistema proporcional e o método da média mais alta de Hondt;
 
-c) De três membros designados pelo Governo;
+c) De um membro designado pelo Governo;
 
-d) De quatro elementos representativos, designadamente, da opinião pública, da comunicação social e da cultura.
+d) De quatro elementos representativos da opinião pública, da comunicação social e da cultura.
 
-3. A Alta Autoridade para a Comunicação Social emite parecer prévio à decisão de licenciamento pelo Governo de canais privados de televisão, a qual, quando favorável à outorga de licença, só pode recair sobre candidatura que tenha sido objecto de parecer favorável.
+4. A Alta Autoridade para a Comunicação Social intervém nos processos de licenciamento de estações emissoras de rádio e de televisão, nos termos da lei.
 
-4. A Alta Autoridade para a Comunicação Social emite ainda, no prazo definido pela lei, parecer prévio, público e fundamentado sobre a nomeação e a exoneração dos directores dos órgãos de comunicação social pertencentes ao Estado, a outras entidades públicas ou a entidades directa ou indirectamente sujeitas ao seu controlo económico.
-
-5. A lei regula o funcionamento da Alta Autoridade para a Comunicação Social.
+5. A Alta Autoridade para a Comunicação Social intervém na nomeação e exoneração dos directores dos órgãos de comunicação social públicos, nos termos da lei.

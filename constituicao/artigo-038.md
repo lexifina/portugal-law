@@ -6,7 +6,7 @@
 
 2. A liberdade de imprensa implica:
 
-a) A liberdade de expressão e criação dos jornalistas e colaboradores literários, bem como a intervenção dos primeiros na orientação editorial dos respectivos órgãos de comunicação social, salvo quando pertencerem ao Estado ou tiverem natureza doutrinária ou confessional;
+a) A liberdade de expressão e criação dos jornalistas e colaboradores, bem como a intervenção dos primeiros na orientação editorial dos respectivos órgãos de comunicação social, salvo quando tiverem natureza doutrinária ou confessional;
 
 b) O direito dos jornalistas, nos termos da lei, ao acesso às fontes de informação e à protecção da independência e do sigilo profissionais, bem como o direito de elegerem conselhos de redacção;
 

@@ -2,7 +2,7 @@
 
 ### («Habeas corpus»)
 
-1. Haverá habeas corpus contra o abuso de poder, por virtude de prisão ou detenção ilegal, a interpor perante o tribunal judicial ou militar, consoante os casos.
+1. Haverá habeas corpus contra o abuso de poder, por virtude de prisão ou detenção ilegal, a requerer perante o tribunal competente.
 
 2. A providência de habeas corpus pode ser requerida pelo próprio ou por qualquer cidadão no gozo dos seus direitos políticos.
 

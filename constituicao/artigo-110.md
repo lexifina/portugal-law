@@ -1,5 +1,7 @@
 # Artigo 110.º
 
-### (Fiscalização)
+### (Órgãos de soberania)
 
-A execução do Orçamento será fiscalizada pelo Tribunal de Contas e pela Assembleia da República, que, precedendo parecer daquele tribunal, apreciará e aprovará a Conta Geral do Estado, incluindo a da segurança social.
+1. São órgãos de soberania o Presidente da República, a Assembleia da República, o Governo e os Tribunais.
+
+2. A formação, a composição, a competência e o funcionamento dos órgãos de soberania são os definidos na Constituição.

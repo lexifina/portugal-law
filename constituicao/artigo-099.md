@@ -1,7 +1,15 @@
 # Artigo 99.º
 
-### (Formas de exploração de terra alheia)
+### (Objectivos da política comercial)
 
-1. Os regimes de arrendamento e de outras formas de exploração de terra alheia serão regulados por lei de modo a garantir a estabilidade e os legítimos interesses do cultivador.
+São objectivos da política comercial:
 
-2. São proibidos os regimes de aforamento e colonia e serão criadas condições aos cultivadores para a efectiva abolição do regime de parceria agrícola.
+a) A concorrência salutar dos agentes mercantis;
+
+b) A racionalização dos circuitos de distribuição;
+
+c) O combate às actividades especulativas e às práticas comerciais restritivas;
+
+d) O desenvolvimento e a diversificação das relações económicas externas;
+
+e) A protecção dos consumidores.

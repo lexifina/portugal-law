@@ -1,11 +1,11 @@
 # Artigo 238.º
 
-### (Categorias de autarquias locais e divisão administrativa)
+### (Património e finanças locais)
 
-1. No continente as autarquias locais são as freguesias, os municípios e as regiões administrativas.
+1. As autarquias locais têm património e finanças próprios.
 
-2. As regiões autónomas dos Açores e da Madeira compreendem freguesias e municípios.
+2. O regime das finanças locais será estabelecido por lei e visará a justa repartição dos recursos públicos pelo Estado e pelas autarquias e a necessária correcção de desigualdades entre autarquias do mesmo grau.
 
-3. Nas grandes áreas urbanas e nas ilhas, a lei poderá estabelecer, de acordo com as suas condições específicas, outras formas de organização territorial autárquica.
+3. As receitas próprias das autarquias locais incluem obrigatoriamente as provenientes da gestão do seu património e as cobradas pela utilização dos seus serviços.
 
-4. A divisão administrativa do território será estabelecida por lei.
+4. As autarquias locais podem dispor de poderes tributários, nos casos e nos termos previstos na lei.

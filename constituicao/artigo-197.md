@@ -1,9 +1,31 @@
+## Capítulo III
+
+## Competência
+
 # Artigo 197.º
 
-### (Moções de censura)
+### (Competência política)
 
-1. A Assembleia da República pode votar moções de censura ao Governo sobre a execução do seu programa ou assunto relevante de interesse nacional, por iniciativa de um quarto dos Deputados em efectividade de funções ou de qualquer grupo parlamentar.
+1. Compete ao Governo, no exercício de funções políticas:
 
-2. As moções de censura só podem ser apreciadas quarenta e oito horas após a sua apresentação, em debate de duração não superior a três dias.
+a) Referendar os actos do Presidente da República, nos termos do artigo 140.º;
 
-3. Se a moção de censura não for aprovada, os seus signatários não podem apresentar outra durante a mesma sessão legislativa.
+b) Negociar e ajustar convenções internacionais;
+
+c) Aprovar os acordos internacionais cuja aprovação não seja da competência da Assembleia da República ou que a esta não tenham sido submetidos;
+
+d) Apresentar propostas de lei e de resolução à Assembleia da República;
+
+e) Propor ao Presidente da República a sujeição a referendo de questões de relevante interesse nacional, nos termos do artigo 115.º;
+
+f) Pronunciar-se sobre a declaração do estado de sítio ou do estado de emergência;
+
+g) Propor ao Presidente da República a declaração da guerra ou a feitura da paz;
+
+h) Apresentar à Assembleia da República, nos termos da alínea d) do artigo 162.º, as contas do Estado e das demais entidades públicas que a lei determinar;
+
+i) Apresentar, em tempo útil, à Assembleia da República, para efeitos do disposto na alínea n) do artigo 161.º e na alínea f) do artigo 163.º, informação referente ao processo de construção da união europeia;
+
+j) Praticar os demais actos que lhe sejam cometidos pela Constituição ou pela lei.
+
+2. A aprovação pelo Governo de acordos internacionais reveste a forma de decreto.

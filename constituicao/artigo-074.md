@@ -2,15 +2,13 @@
 
 ### (Ensino)
 
-1. Todos têm o direito ao ensino com garantia do direito à igualdade de oportunidades de acesso e êxito escolar.
+1. Todos têm direito ao ensino com garantia do direito à igualdade de oportunidades de acesso e êxito escolar.
 
-2. O ensino deve contribuir para a superação das desigualdades económicas, sociais e culturais, habilitar os cidadãos a participar democraticamente numa sociedade livre e promover a compreensão mútua, a tolerância e o espírito de solidariedade.
-
-3. Na realização da política de ensino incumbe ao Estado:
+2. Na realização da política de ensino incumbe ao Estado:
 
 a) Assegurar o ensino básico universal, obrigatório e gratuito;
 
-b) Criar um sistema público de educação pré-escolar;
+b) Criar um sistema público e desenvolver o sistema geral de educação pré-escolar;
 
 c) Garantir a educação permanente e eliminar o analfabetismo;
 
@@ -20,8 +18,10 @@ e) Estabelecer progressivamente a gratuitidade de todos os graus de ensino;
 
 f) Inserir as escolas nas comunidades que servem e estabelecer a interligação do ensino e das actividades económicas, sociais e culturais;
 
-g) Promover e apoiar o ensino especial para deficientes;
+g) Promover e apoiar o acesso dos cidadãos portadores de deficiência ao ensino e apoiar o ensino especial, quando necessário;
 
-h) Assegurar aos filhos dos emigrantes o ensino da língua portuguesa e o acesso à cultura portuguesa.
+h) Proteger e valorizar a língua gestual portuguesa, enquanto expressão cultural e instrumento de acesso à educação e da igualdade de oportunidades;
 
-4. É proibido, nos termos da lei, o trabalho de menores em idade escolar.
+i) Assegurar aos filhos dos emigrantes o ensino da língua portuguesa e o acesso à cultura portuguesa;
+
+j) Assegurar aos filhos dos imigrantes apoio adequado para efectivação do direito ao ensino.

@@ -1,7 +1,19 @@
 # Artigo 156.º
 
-### (Início e termo do mandato)
+### (Poderes dos Deputados)
 
-1. O mandato dos Deputados inicia-se com a primeira reunião da Assembleia da República após eleições e cessa com a primeira reunião após as eleições subsequentes, sem prejuízo da suspensão ou da cessação individual do mandato.
+Constituem poderes dos Deputados:
 
-2. O preenchimento das vagas que ocorrerem na Assembleia, bem como a substituição temporária de Deputados por motivo relevante, são regulados pela lei eleitoral.
+a) Apresentar projectos de revisão constitucional;
+
+b) Apresentar projectos de lei, de Regimento ou de resolução, designadamente de referendo, e propostas de deliberação e requerer o respectivo agendamento;
+
+c) Participar e intervir nos debates parlamentares, nos termos do Regimento;
+
+d) Fazer perguntas ao Governo sobre quaisquer actos deste ou da Administração Pública e obter resposta em prazo razoável, salvo o disposto na lei em matéria de segredo de Estado;
+
+e) Requerer e obter do Governo ou dos órgãos de qualquer entidade pública os elementos, informações e publicações oficiais que considerem úteis para o exercício do seu mandato;
+
+f) Requerer a constituição de comissões parlamentares de inquérito;
+
+g) Os consignados no Regimento.

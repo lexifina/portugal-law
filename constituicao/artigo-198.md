@@ -1,19 +1,15 @@
 # Artigo 198.º
 
-### (Demissão do Governo)
+### (Competência legislativa)
 
-1. Implicam a demissão do Governo:
+1. Compete ao Governo, no exercício de funções legislativas:
 
-a) O início de nova legislatura;
+a) Fazer decretos-leis em matérias não reservadas à Assembleia da República;
 
-b) A aceitação pelo Presidente da República do pedido de demissão apresentado pelo Primeiro-Ministro;
+b) Fazer decretos-leis em matérias de reserva relativa da Assembleia da República, mediante autorização desta;
 
-c) A morte ou a impossibilidade física duradoura do Primeiro-Ministro;
+c) Fazer decretos-leis de desenvolvimento dos princípios ou das bases gerais dos regimes jurídicos contidos em leis que a eles se circunscrevam.
 
-d) A rejeição do programa do Governo;
+2. É da exclusiva competência legislativa do Governo a matéria respeitante à sua própria organização e funcionamento.
 
-e) A não aprovação de uma moção de confiança;
-
-f) A aprovação de uma moção de censura por maioria absoluta dos Deputados em efectividade de funções.
-
-2. O Presidente da República só pode demitir o Governo quando tal se torne necessário para assegurar o regular funcionamento das instituições democráticas, ouvido o Conselho de Estado.
+3. Os decretos-leis previstos nas alíneas b) e c) do n.º 1 devem invocar expressamente a lei de autorização legislativa ou a lei de bases ao abrigo da qual são aprovados.

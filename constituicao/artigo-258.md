@@ -2,4 +2,4 @@
 
 ### (Planeamento)
 
-As regiões administrativas elaboram planos regionais e participam na elaboração dos planos previstos no artigo 92.º
+As regiões administrativas elaboram planos regionais e participam na elaboração dos planos nacionais.

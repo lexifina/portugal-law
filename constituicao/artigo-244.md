@@ -1,9 +1,9 @@
+## Capítulo II
+
+## Freguesia
+
 # Artigo 244.º
 
-### (Pessoal das autarquias locais)
+### (Órgãos da freguesia)
 
-1. As autarquias locais possuem quadros de pessoal próprio, nos termos da lei.
-
-2. É aplicável aos funcionários e agentes da administração local o regime dos funcionários e agentes do Estado.
-
-3. A lei define as formas de apoio técnico e em meios humanos do Estado às autarquias locais, sem prejuízo da sua autonomia.
+Os órgãos representativos da freguesia são a assembleia de freguesia e a junta de freguesia.

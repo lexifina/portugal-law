@@ -1,11 +1,33 @@
 # Artigo 228.º
 
-### (Estatutos)
+### (Autonomia legislativa e administrativa)
 
-1. Os projectos de estatutos político-administrativos das regiões autónomas serão elaborados pelas assembleias legislativas regionais e enviados para discussão e aprovação à Assembleia da República.
+Para efeitos do disposto no n.º 4 do artigo 112.º e nas alíneas a) a c) do n.º 1 do artigo 227.º, são matérias de interesse específico das regiões autónomas, designadamente:
 
-2. Se a Assembleia da República rejeitar o projecto ou lhe introduzir alterações, remetê-lo-á à respectiva assembleias legislativas regionais para apreciação e emissão de parecer.
+a) Valorização dos recursos humanos e qualidade de vida;
 
-3. Elaborado o parecer, a Assembleia da República procede à discussão e deliberação final.
+b) Património e criação cultural;
 
-4. O regime previsto nos números anteriores é aplicável às alterações dos estatutos.
+c) Defesa do ambiente e equilíbrio ecológico;
+
+d) Protecção da natureza e dos recursos naturais, bem como da sanidade pública, animal e vegetal;
+
+e) Desenvolvimento agrícola e piscícola;
+
+f) Recursos hídricos, minerais e termais e energia de produção local;
+
+g) Utilização de solos, habitação, urbanismo e ordenamento do território;
+
+h) Vias de circulação, trânsito e transportes terrestres;
+
+i) Infra-estruturas e transportes marítimos e aéreos entre as ilhas;
+
+j) Desenvolvimento comercial e industrial;
+
+l) Turismo, folclore e artesanato;
+
+m) Desporto;
+
+n) Organização da administração regional e dos serviços nela inseridos;
+
+o) Outras matérias que respeitem exclusivamente à respectiva região ou que nela assumam particular configuração.

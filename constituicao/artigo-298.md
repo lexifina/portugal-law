@@ -1,7 +1,5 @@
 # Artigo 298.º
 
-### (Data e entrada em vigor da Constituição)
+### (Regime aplicável aos órgãos das autarquias locais)
 
-1. A Constituição da República Portuguesa tem a data da sua aprovação pela Assembleia Constituinte, 2 de Abril de 1976.
-
-2. A Constituição da República Portuguesa entra em vigor no dia 25 de Abril de 1976.
+Até à entrada em vigor da lei prevista no n.º 3 do artigo 239.º, os órgãos das autarquias locais são constituídos e funcionam nos termos de legislação correspondente ao texto da Constituição na redacção que lhe foi dada pela Lei Constitucional n.º 1/92, de 25 de Novembro.

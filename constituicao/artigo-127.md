@@ -1,9 +1,11 @@
 # Artigo 127.º
 
-### (Candidaturas)
+### (Posse e juramento)
 
-1. As candidaturas para Presidente da República são propostas por um mínimo de 7500 e um máximo de 15000 cidadãos eleitores.
+1. O Presidente eleito toma posse perante a Assembleia da República.
 
-2. As candidaturas devem ser apresentadas até trinta dias antes da data marcada para a eleição, perante o Tribunal Constitucional.
+2. A posse efectua-se no último dia do mandato do Presidente cessante ou, no caso de eleição por vagatura, no oitavo dia subsequente ao dia da publicação dos resultados eleitorais.
 
-3. Em caso de morte de qualquer candidato ou de qualquer outro facto que o incapacite para o exercício da função presidencial, será reaberto o processo eleitoral, nos termos a definir por lei.
+3. No acto de posse o Presidente da República eleito prestará a seguinte declaração de compromisso:
+
+Juro por minha honra desempenhar fielmente as funções em que fico investido e defender, cumprir e fazer cumprir a Constituição da República Portuguesa.

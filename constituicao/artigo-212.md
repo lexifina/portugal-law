@@ -1,13 +1,9 @@
 # Artigo 212.º
 
-### (Supremo Tribunal de Justiça e instâncias)
+### (Tribunais administrativos e fiscais)
 
-1. O Supremo Tribunal de Justiça é o órgão superior da hierarquia dos tribunais judiciais, sem prejuízo da competência própria do Tribunal Constitucional.
+1. O Supremo Tribunal Administrativo é o órgão superior da hierarquia dos tribunais administrativos e fiscais, sem prejuízo da competência própria do Tribunal Constitucional.
 
-2. O Presidente do Supremo Tribunal de Justiça é eleito pelos respectivos juízes.
+2. O Presidente do Supremo Tribunal Administrativo é eleito de entre e pelos respectivos juízes.
 
-3. Os tribunais de primeira instância são, em regra, os tribunais de comarca, aos quais se equiparam os referidos no n.º 2 do artigo seguinte.
-
-4. Os tribunais de segunda instância são, em regra, os tribunais da Relação.
-
-5. O Supremo Tribunal de Justiça funcionará como tribunal de instância nos casos que a lei determinar.
+3. Compete aos tribunais administrativos e fiscais o julgamento das acções e recursos contenciosos que tenham por objecto dirimir os litígios emergentes das relações jurídicas administrativas e fiscais.

@@ -1,5 +1,9 @@
+## Título II
+
+## Planos
+
 # Artigo 90.º
 
-### (Participação dos trabalhadores na gestão)
+### (Objectivos dos planos)
 
-Nas unidades de produção do sector público é assegurada uma participação efectiva dos trabalhadores na respectiva gestão.
+Os planos de desenvolvimento económico e social têm por objectivo promover o crescimento económico, o desenvolvimento harmonioso e integrado de sectores e regiões, a justa repartição individual e regional do produto nacional, a coordenação da política económica com as políticas social, educativa e cultural, a defesa do mundo rural, a preservação do equilíbrio ecológico, a defesa do ambiente e a qualidade de vida do povo português.

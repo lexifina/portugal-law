@@ -1,13 +1,13 @@
 # Artigo 233.º
 
-### (Órgãos de governo próprio das regiões)
+### (Assinatura e veto do Ministro da República)
 
-1. São órgãos de governo próprio de cada região a assembleia legislativa regional e o governo regional.
+1. Compete ao Ministro da República assinar e mandar publicar os decretos legislativos regionais e os decretos regulamentares regionais.
 
-2. A assembleia legislativa regional é eleita por sufrágio universal, directo e secreto, de harmonia com o princípio da representação proporcional.
+2. No prazo de quinze dias, contados da recepção de qualquer decreto da assembleia legislativa regional que lhe haja sido enviado para assinatura, ou da publicação da decisão do Tribunal Constitucional que não se pronuncie pela inconstitucionalidade de norma dele constante, deve o Ministro da República assiná-lo ou exercer o direito de veto, solicitando nova apreciação do diploma em mensagem fundamentada.
 
-3. O governo regional é politicamente responsável perante a assembleia legislativa regional e o seu presidente é nomeado pelo Ministro da República, tendo em conta os resultados eleitorais.
+3. Se a assembleia legislativa regional confirmar o voto por maioria absoluta dos seus membros em efectividade de funções, o Ministro da República deverá assinar o diploma no prazo de oito dias, a contar da sua recepção.
 
-4. O Ministro da República nomeia e exonera os restantes membros do governo regional, sob proposta do respectivo presidente.
+4. No prazo de vinte dias, contados da recepção de qualquer decreto do governo regional que lhe tenha sido enviado para assinatura, deve o Ministro da República assiná-lo ou recusar a assinatura, comunicando por escrito o sentido dessa recusa ao governo regional, o qual poderá converter o decreto em proposta a apresentar à assembleia legislativa regional.
 
-5. O estatuto dos titulares dos órgãos de governo próprio das regiões autónomas é definido nos respectivos estatutos político-administrativos.
+5. O Ministro da República exerce ainda o direito de veto, nos termos dos artigos 278.º e 279.º

@@ -6,7 +6,7 @@
 
 2. Incumbe ao Estado, em colaboração com todos os agentes culturais:
 
-a) Incentivar e assegurar o acesso de todos os cidadãos, em especial dos trabalhadores, aos meios e instrumentos de acção cultural, bem como corrigir as assimetrias existentes no país em tal domínio;
+a) Incentivar e assegurar o acesso de todos os cidadãos aos meios e instrumentos de acção cultural, bem como corrigir as assimetrias existentes no país em tal domínio;
 
 b) Apoiar as iniciativas que estimulem a criação individual e colectiva, nas suas múltiplas formas e expressões, e uma maior circulação das obras e dos bens culturais de qualidade;
 

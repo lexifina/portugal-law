@@ -6,6 +6,6 @@
 
 2. A actividade do Provedor de Justiça é independente dos meios graciosos e contenciosos previstos na Constituição e nas leis.
 
-3. O Provedor de Justiça é um órgão independente, sendo o seu titular designado pela Assembleia da República.
+3. O Provedor de Justiça é um órgão independente, sendo o seu titular designado pela Assembleia da República pelo tempo que a lei determinar.
 
 4. Os órgãos e agentes da Administração Pública cooperam com o Provedor de Justiça na realização da sua missão.

@@ -1,6 +1,6 @@
 ## Título X
 
-## Defesa nacional
+## Defesa Nacional
 
 # Artigo 273.º
 

@@ -1,9 +1,11 @@
 # Artigo 175.º
 
-### (Dissolução)
+### (Competência interna da Assembleia)
 
-1. A Assembleia da República não pode ser dissolvida nos seis meses posteriores à sua eleição, no último semestre do mandato do Presidente da República ou durante a vigência do estado de sítio ou do estado de emergência.
+Compete à Assembleia da República:
 
-2. A inobservância do disposto no número anterior determina a inexistência jurídica do decreto de dissolução.
+a) Elaborar e aprovar o seu Regimento, nos termos da Constituição;
 
-3. A dissolução da Assembleia não prejudica a subsistência do mandato dos Deputados, nem da competência da Comissão Permanente, até à primeira reunião da Assembleia após as subsequentes eleições.
+b) Eleger por maioria absoluta dos Deputados em efectividade de funções o seu Presidente e os demais membros da Mesa, sendo os quatro Vice-Presidentes eleitos sob proposta dos quatro maiores grupos parlamentares;
+
+c) Constituir a Comissão Permanente e as restantes comissões.

@@ -1,21 +1,13 @@
+## Título VII
+
+## Regiões Autónomas
+
 # Artigo 225.º
 
-### (Competência)
+### (Regime político-administrativo dos Açores e da Madeira)
 
-1. Compete ao Tribunal Constitucional apreciar a inconstitucionalidade e a ilegalidade, nos termos dos artigos 277.º e seguintes.
+1. O regime político-administrativo próprio dos arquipélagos dos Açores e da Madeira fundamenta-se nas suas características geográficas, económicas, sociais e culturais e nas históricas aspirações autonomistas das populações insulares.
 
-2. Compete também ao Tribunal Constitucional:
+2. A autonomia das regiões visa a participação democrática dos cidadãos, o desenvolvimento económico-social e a promoção e defesa dos interesses regionais, bem como o reforço da unidade nacional e dos laços de solidariedade entre todos os portugueses.
 
-a) Verificar a morte e declarar a impossibilidade física permanente do Presidente da República, bem como verificar os impedimentos temporários do exercício das suas funções;
-
-b) Verificar a perda do cargo de Presidente da República, nos casos previstos no n.º 3 do artigo 132.º e no n.º 3 do artigo 133.º;
-
-c) Julgar em última instância a regularidade e a validade dos actos de processo eleitoral, nos termos da lei;
-
-d) Verificar a morte e declarar a incapacidade para o exercício da função presidencial de qualquer candidato a Presidente da República, para efeitos do disposto no n.º 3 do artigo 127.º;
-
-e) Verificar a legalidade da constituição de partidos políticos e suas coligações, bem como apreciar a legalidade das suas denominações, siglas e símbolos, e ordenar a respectiva extinção, nos termos da Constituição e da lei;
-
-f) Verificar previamente a constitucionalidade e a legalidade dos referendos e das consultas directas aos eleitores a nível local.
-
-3. Compete ainda ao Tribunal Constitucional exercer as demais funções que lhe sejam atribuídas pela Constituição e pela lei.
+3. A autonomia político-administrativa regional não afecta a integridade da soberania do Estado e exerce-se no quadro da Constituição.

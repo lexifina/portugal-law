@@ -1,13 +1,7 @@
-## Parte III
-
-## Organização do poder político
-
-## Título I
-
-## Princípios gerais
-
 # Artigo 111.º
 
-### (Titularidade e exercício do poder)
+### (Separação e interdependência)
 
-O poder político pertence ao povo e é exercido nos termos da Constituição.
+1. Os órgãos de soberania devem observar a separação e a interdependência estabelecidas na Constituição.
+
+2. Nenhum órgão de soberania, de região autónoma ou de poder local pode delegar os seus poderes noutros órgãos, a não ser nos casos e nos termos expressamente previstos na Constituição e na lei.

@@ -1,13 +1,13 @@
 # Artigo 216.º
 
-### (Tribunal de Contas)
+### (Garantias e incompatibilidades)
 
-1. O Tribunal de Contas é o órgão supremo de fiscalização da legalidade das despesas públicas e de julgamento das contas que a lei mandar submeter-lhe, competindo-lhe, nomeadamente:
+1. Os juízes são inamovíveis, não podendo ser transferidos, suspensos, aposentados ou demitidos senão nos casos previstos na lei.
 
-a) Dar parecer sobre a Conta Geral do Estado, incluindo a da segurança social e das regiões autónomas;
+2. Os juízes não podem ser responsabilizados pelas suas decisões, salvas as excepções consignadas na lei.
 
-b) Efectivar a responsabilidade por infracções financeiras, nos termos da lei;
+3. Os juízes em exercício não podem desempenhar qualquer outra função pública ou privada, salvo as funções docentes ou de investigação científica de natureza jurídica, não remuneradas, nos termos da lei.
 
-c) Exercer as demais competências que lhe forem atribuídas por lei.
+4. Os juízes em exercício não podem ser nomeados para comissões de serviço estranhas à actividade dos tribunais sem autorização do conselho superior competente.
 
-2. O Tribunal de Contas pode funcionar descentralizadamente, por secções regionais, nos termos da lei.
+5. A lei pode estabelecer outras incompatibilidades com o exercício da função de juiz.

@@ -1,9 +1,19 @@
 # Artigo 214.º
 
-### (Tribunais administrativos e fiscais)
+### (Tribunal de Contas)
 
-1. O Supremo Tribunal Administrativo é o órgão superior da hierarquia dos tribunais administrativos e fiscais, sem prejuízo da competência própria do Tribunal Constitucional.
+1. O Tribunal de Contas é o órgão supremo de fiscalização da legalidade das despesas públicas e de julgamento das contas que a lei mandar submeter-lhe, competindo-lhe, nomeadamente:
 
-2. O Presidente do Supremo Tribunal Administrativo é eleito de entre e pelos respectivos juízes.
+a) Dar parecer sobre a Conta Geral do Estado, incluindo a da segurança social;
 
-3. Compete aos tribunais administrativos e fiscais o julgamento das acções e recursos contenciosos que tenham por objecto dirimir os litígios emergentes das relações jurídicas administrativas e fiscais.
+b) Dar parecer sobre as contas das Regiões Autónomas dos Açores e da Madeira;
+
+c) Efectivar a responsabilidade por infracções financeiras, nos termos da lei;
+
+d) Exercer as demais competências que lhe forem atribuídas por lei.
+
+2. O mandato do Presidente do Tribunal de Contas tem a duração de quatro anos, sem prejuízo do disposto na alínea m) do artigo 133.º
+
+3. O Tribunal de Contas pode funcionar descentralizadamente, por secções regionais, nos termos da lei.
+
+4. Nas Regiões Autónomas dos Açores e da Madeira há secções do Tribunal de Contas com competência plena em razão da matéria na respectiva região, nos termos da lei.

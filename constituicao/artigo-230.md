@@ -1,11 +1,11 @@
 # Artigo 230.º
 
-### (Limites dos poderes)
+### (Ministro da República)
 
-É vedado às regiões autónomas:
+1. O Estado é representado em cada uma das regiões autónomas por um Ministro da República, nomeado e exonerado pelo Presidente da República, sob proposta do Governo, ouvido o Conselho de Estado.
 
-a) Restringir os direitos legalmente reconhecidos aos trabalhadores;
+2. Salvo o caso de exoneração, o mandato do Ministro da República tem a duração do mandato do Presidente da República e termina com a posse do novo Ministro da República.
 
-b) Estabelecer restrições ao trânsito de pessoas e bens entre elas e o restante território nacional, salvo, quanto aos bens, as ditadas por exigências sanitárias;
+3. O Ministro da República, mediante delegação do Governo, pode exercer, de forma não permanente, competências de superintendência nos serviços do Estado na região.
 
-c) Reservar o exercício de qualquer profissão ou acesso a qualquer cargo público aos naturais ou residentes na região.
+4. Em caso de vagatura do cargo, bem como nas suas ausências e impedimentos, o Ministro da República é substituído pelo presidente da assembleia legislativa regional.

@@ -1,9 +1,7 @@
 # Artigo 240.º
 
-### (Património e finanças locais)
+### (Referendo local)
 
-1. As autarquias Locais têm património e finanças próprios.
+1. As autarquias locais podem submeter a referendo dos respectivos cidadãos eleitores matérias incluídas nas competências dos seus órgãos, nos casos, nos termos e com a eficácia que a lei estabelecer.
 
-2. O regime das finanças Locais será estabelecido por lei e visará a justa repartição dos recursos públicos pelo Estado e pelas autarquias e a necessária correcção de desigualdades entre autarquias do mesmo grau.
-
-3. As receitas próprias das autarquias locais incluem obrigatoriamente as provenientes da gestão do seu património e as cobradas pela utilização dos seus serviços.
+2. A lei pode atribuir a cidadãos eleitores o direito de iniciativa de referendo.

@@ -1,29 +1,21 @@
-## Capítulo III
-
-## Competência
-
 # Artigo 200.º
 
-### (Competência política)
+### (Competência do Conselho de Ministros)
 
-1. Compete ao Governo, no exercício de funções políticas:
+1. Compete ao Conselho de Ministros:
 
-a) Referendar os actos do Presidente da República, nos termos do artigo 143.º;
+a) Definir as linhas gerais da política governamental, bem como as da sua execução;
 
-b) Negociar e ajustar convenções internacionais;
+b) Deliberar sobre o pedido de confiança à Assembleia da República;
 
-c) Aprovar as convenções internacionais cuja aprovação não seja da competência da Assembleia da República ou que a esta não tenham sido submetidas;
+c) Aprovar as propostas de lei e de resolução;
 
-d) Apresentar propostas de lei e de resolução à Assembleia da República;
+d) Aprovar os decretos-leis, bem como os acordos internacionais não submetidos à Assembleia da República;
 
-e) Propor ao Presidente da República a sujeição a referendo de questões de relevante interesse nacional, nos termos do artigo 118.º;
+e) Aprovar os planos;
 
-f) Pronunciar-se sobre a declaração do estado de sítio ou do estado de emergência;
+f) Aprovar os actos do Governo que envolvam aumento ou diminuição das receitas ou despesas públicas;
 
-g) Propor ao Presidente da República a declaração da guerra ou a feitura da paz;
+g) Deliberar sobre outros assuntos da competência do Governo que lhe sejam atribuídos por lei ou apresentados pelo Primeiro-Ministro ou por qualquer Ministro.
 
-h) Apresentar à Assembleia da República, nos termos da alínea d) do artigo 165.º, as contas do Estado e das demais entidades públicas que a lei determinar;
-
-i) Apresentar, em tempo útil, à Assembleia da República, para efeitos do disposto na alínea f) do artigo 166.º, informação referente ao processo de construção da união europeia.
-
-2. A aprovação pelo Governo de tratados e de acordos internacionais reveste a forma de decreto.
+2. Os Conselhos de Ministros especializados exercem a competência que lhes for atribuída por lei ou delegada pelo Conselho de Ministros.

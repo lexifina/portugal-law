@@ -1,15 +1,5 @@
 # Artigo 102.º
 
-### (Objectivos da política comercial)
+### (Banco de Portugal)
 
-São objectivos da política comercial:
-
-a) A concorrência salutar dos agentes mercantis;
-
-b) A racionalização dos circuitos de distribuição;
-
-c) O combate às actividades especulativas e às práticas comerciais restritivas;
-
-d) O desenvolvimento e a diversificação das relações económicas externas;
-
-e) A protecção dos consumidores.
+O Banco de Portugal é o banco central nacional e exerce as suas funções nos termos da lei e das normas internacionais a que o Estado Português se vincule.

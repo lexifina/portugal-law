@@ -1,15 +1,15 @@
 # Artigo 169.º
 
-### (Forma dos actos)
+### (Apreciação parlamentar de actos legislativos)
 
-1. Revestem a forma de lei constitucional os actos previstos na alínea a) do artigo 164.º
+1. Os decretos-leis, salvo os aprovados no exercício da competência legislativa exclusiva do Governo, podem ser submetidos a apreciação da Assembleia da República, para efeitos de cessação de vigência ou de alteração, a requerimento de dez Deputados, nos trinta dias subsequentes à publicação, descontados os períodos de suspensão do funcionamento da Assembleia da República.
 
-2. Revestem a forma de lei orgânica os actos previstos nas alíneas a) a e) do artigo 167.º
+2. Requerida a apreciação de um decreto-lei elaborado no uso de autorização legislativa, e no caso de serem apresentadas propostas de alteração, a Assembleia poderá suspender, no todo ou em parte, a vigência do decreto-lei até à publicação da lei que o vier a alterar ou até à rejeição de todas aquelas propostas.
 
-3. Revestem a forma de lei os actos previstos nas alíneas b) a i) e m) do artigo 164.º
+3. A suspensão caduca decorridas dez reuniões plenárias sem que a Assembleia se tenha pronunciado a final.
 
-4. Revestem a forma de moção os actos previstos nas alíneas d) e e) do artigo 166.º
+4. Se for aprovada a cessação da sua vigência, o diploma deixará de vigorar desde o dia em que a resolução for publicada no Diário da República e não poderá voltar a ser publicado no decurso da mesma sessão legislativa.
 
-5. Revestem a forma de resolução os demais actos da Assembleia da República, bem como os actos da Comissão Permanente previstos nas alíneas e) e f) do n.º 3 do artigo 182.º
+5. Se, requerida a apreciação, a Assembleia não se tiver sobre ela pronunciado ou, havendo deliberado introduzir emendas, não tiver votado a respectiva lei até ao termo da sessão legislativa em curso, desde que decorridas quinze reuniões plenárias, considerar-se-á caduco o processo.
 
-6. As resoluções são publicadas independentemente de promulgação.
+6. Os processos de apreciação parlamentar de decretos-leis gozam de prioridade, nos termos do Regimento.

@@ -1,9 +1,7 @@
-## Capítulo III
-
-## Conselho de Estado
-
 # Artigo 144.º
 
-### (Definição)
+### (Organização e funcionamento)
 
-O Conselho de Estado é o órgão político de consulta do Presidente da República.
+1. Compete ao Conselho de Estado elaborar o seu regimento.
+
+2. As reuniões do Conselho de Estado não são públicas.

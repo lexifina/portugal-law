@@ -1,9 +1,11 @@
 # Artigo 226.º
 
-### (Organização e funcionamento)
+### (Estatutos)
 
-1. A lei estabelece as regras relativas à sede, à organização e ao funcionamento do Tribunal Constitucional.
+1. Os projectos de estatutos político-administrativos das regiões autónomas serão elaborados pelas assembleias legislativas regionais e enviados para discussão e aprovação à Assembleia da República.
 
-2. A lei prevê e regula o funcionamento do Tribunal Constitucional por secções não especializadas para efeito de fiscalização concreta da constitucionalidade e da legalidade ou de outras competências definidas nos termos da lei.
+2. Se a Assembleia da República rejeitar o projecto ou lhe introduzir alterações, remetê-lo-á à respectiva assembleia legislativa regional para apreciação e emissão de parecer.
 
-3. A lei regula o recurso para o pleno do Tribunal Constitucional das decisões contraditórias das secções no domínio de aplicação da mesma norma.
+3. Elaborado o parecer, a Assembleia da República procede à discussão e deliberação final.
+
+4. O regime previsto nos números anteriores é aplicável às alterações dos estatutos.

@@ -1,35 +1,19 @@
 # Artigo 167.º
 
-### (Reserva absoluta de competência legislativa)
+### (Iniciativa da lei e do referendo)
 
-É da exclusiva competência da Assembleia da República legislar sobre as seguintes matérias:
+1. A iniciativa da lei e do referendo compete aos Deputados, aos grupos parlamentares e ao Governo, e ainda, nos termos e condições estabelecidos na lei, a grupos de cidadãos eleitores, competindo a iniciativa da lei, no respeitante às regiões autónomas, às respectivas assembleias legislativas regionais.
 
-a) Eleições dos titulares dos órgãos de soberania;
+2. Os Deputados, os grupos parlamentares, as assembleias legislativas regionais e os grupos de cidadãos eleitores não podem apresentar projectos de lei, propostas de lei ou propostas de alteração que envolvam, no ano económico em curso, aumento das despesas ou diminuição das receitas do Estado previstas no Orçamento.
 
-b) Regime do referendo;
+3. Os Deputados, os grupos parlamentares e os grupos de cidadãos eleitores não podem apresentar projectos de referendo que envolvam, no ano económico em curso, aumento das despesas ou diminuição das receitas do Estado previstas no Orçamento.
 
-c) Organização, funcionamento e processo do Tribunal Constitucional;
+4. Os projectos e as propostas de lei e de referendo definitivamente rejeitados não podem ser renovados na mesma sessão legislativa, salvo nova eleição da Assembleia da República.
 
-d) Organização da defesa nacional, definição dos deveres dela decorrentes e bases gerais da organização, do funcionamento e da disciplina das Forças Armadas;
+5. Os projectos de lei, as propostas de lei do Governo e os projectos e propostas de referendo não votados na sessão legislativa em que tiverem sido apresentados não carecem de ser renovados na sessão legislativa seguinte, salvo termo da legislatura.
 
-e) Regimes do estado de sítio e do estado de emergência;
+6. As propostas de lei e de referendo caducam com a demissão do Governo.
 
-f) Aquisição, perda e reaquisição da cidadania portuguesa;
+7. As propostas de lei da iniciativa das assembleias legislativas regionais caducam com o termo da respectiva legislatura, caducando apenas com o termo da legislatura da Assembleia da República as que já tenham sido objecto de aprovação na generalidade.
 
-g) Definição dos limites das águas territoriais, da zona económica exclusiva e dos direitos de Portugal aos fundos marinhos contíguos;
-
-h) Associações e partidos políticos;
-
-i) Bases do sistema de ensino;
-
-j) Eleições dos titulares dos órgãos de governo próprio das regiões autónomas e do poder local, bem como dos restantes órgãos constitucionais ou eleitos por sufrágio directo e universal;
-
-l) Estatuto dos titulares dos órgãos de soberania e do poder local, bem como dos restantes órgãos constitucionais ou eleitos por sufrágio directo e universal;
-
-m) Inclusão na jurisdição dos tribunais militares de crimes dolosos equiparáveis aos crimes essencialmente militares, nos termos do n.º 2 do artigo 215.º;
-
-n) Regime de criação, extinção e modificação territorial das autarquias locais;
-
-o) Consultas directas aos cidadãos eleitores a nível local;
-
-p) Restrições ao exercício de direitos por militares e agentes militarizados dos quadros permanentes em serviço efectivo.
+8. As comissões parlamentares podem apresentar textos de substituição, sem prejuízo dos projectos e das propostas de lei e de referendo a que se referem, quando não retirados.
