@@ -1,0 +1,38 @@
+Portaria n.º 547/76
+de 27 de Agosto
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças, nos termos do artigo 71.º do regulamento aprovado pelo Decreto n.º 43625, de 27 de Abril de 1961, que seja adoptado o seguinte programa nos concursos a realizar para o provimento de lugares da categoria de subdirector de contabilidade do quadro da Direcção-Geral da Contabilidade Pública:
+I - Generalidades
+1 - Constituição da República Portuguesa.
+1.1 - Organização do poder político.
+1.2 - Disposições que interessam à actividade financeira do Estado.
+2 - Moeda e crédito.
+2.1 - Mercado monetário e financeiro.
+2.2 - Formas de emissão e factores monetários
+2.3 - Balança de pagamentos.
+3 - Inflação. Causas e efeitos.
+4 - Contas nacionais.
+5 - Orçamento Geral do Estado na sua relação com a planificação económica, financeira e social.
+6 - Noções sobre processos e técnicas de gestão
+6.1 - Conceito de gestão.
+6.2 - Relações humanas.
+6.3 - Gestão por objectivos.
+6.4 - Organização e métodos.
+6.5 - Métodos quantitativos na gestão.
+6.6 - Tratamento automático da informação.
+II - Contabilidade pública
+7 - Evolução do conceito de gestão orçamental: técnicas de gestão orçamental e sentido de evolução das reformas orçamentais.
+8 - Orçamento Geral do Estado.
+8.1 - Estrutura e funções.
+8.2 - Preparação e execução.
+9 - Conta Geral do Estado.
+9.1 - Estrutura e organização.
+9.2 - Articulação com as contas nacionais.
+9.3 - Balanço do Estado.
+10 - Classificação das receitas e despesas públicas.
+10.1 - Orgânica.
+10.2 - Económica.
+10.3 - Funcional.
+II - Orgânica do Ministério das Finanças.
+12 - Análise crítica e redacção de projectos de diploma.
+13 - Formação e valorização dos trabalhadores da Direcção-Geral da Contabilidade Pública.
+Ministério das Finanças, 13 de Agosto de 1976. - O Ministro das Finanças, Henrique Medina Carreira.
