@@ -1,0 +1,31 @@
+Decreto-Lei n.º 405/78
+de 15 de Dezembro
+Considerando a necessidade de regular os fornecimentos de bens ou serviços efectuados por órgãos ou serviços do Estado e por empresas públicas, em ordem a que esses fornecimentos prossigam a realização do interesse nacional e a disciplina da própria actividade:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º - 1 - Os fornecimentos de bens ou serviços efectuados por órgãos e serviços do Estado, bem como por empresas públicas, poderão ser objecto de contratos, a celebrar entre estas entidades os adquirentes desses bens ou serviços, nos termos do presente diploma.
+2 - Quando as circunstâncias o imponham, os fornecimentos de bens ou serviços abrangidos pelo disposto no n.º 1 serão condicionados à observância de regras constantes de um contrato tipo homologado por despacho do Ministro do Comércio e Turismo e, se for caso disso, também do Ministro que superintender especialmente no respectivo sector.
+3 - O despacho de homologação, bem como o respectivo contrato tipo serão publicados na 1.ª série do Diário da República.
+4 - Os contratos, a celebrar nos termos do n.º 1, poderão revestir a forma de mera adesão.
+Art. 2.º - 1 - Os contratos deverão conter cláusulas que incidam, nomeadamente, sobre as seguintes matérias:
+Definição dos bens ou serviços;
+Características de qualidade;
+Preços e condições de pagamentos;
+Local e condições de entrega;
+Utilização ou fim a que se destinam;
+Adequada conservação;
+Prazos de cumprimento e cláusulas penais.
+2 - Os contratos deverão prever um sistema de contrôle adequado que permita o conhecimento das transacções efectuada e do destino dos bens ou serviços.
+3 - Os serviços e órgãos do Estado com competência nesta matéria poderão exigir a remessa dos elementos ou informação previstos no número anterior, segundo a forma prescrita nos contratos, ou, na sua falta, pelo processo que entendam mais conveniente.
+Art. 3.º Os contratos não poderão conter cláusulas que:
+a) Estabeleçam regras restritivas da concorrência;
+b) Fixem condições genéricas de acesso à actividade;
+c) Atribuam poderes de fiscalização a entidades que os não tenham;
+d) Conduzam à limitação dos fornecimentos ou a resolução dos contratos, salvo as que resultem da falta de cumprimento dos mesmos.
+Art. 4.º - 1 - A violação das cláusulas constantes dos contratos determinará as consequências que vierem a ser definidas nos contratos tipo, entre as quais a suspensão dos respectivos fornecimentos, independentemente das consequências resultantes da aplicação da lei geral.
+2 - A suspensão prevista no número anterior será objecto de decisão do Ministro competente, que determinará igualmente o seu prazo de duração.
+3 - Das decisões conferidas sobre esta matéria cabe recurso para o Supremo Tribunal Administrativo, nos termos da lei geral.
+Art. 5.º As dúvidas suscitadas na aplicação deste diploma poderão ser resolvidas por despacho do Ministro do Comércio e Turismo, e se for caso disso, do Ministro que superintender no respectivo sector.
+Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - Pedro José Rodrigues Pires de Miranda.
+Promulgado em 24 de Novembro de 1978.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
