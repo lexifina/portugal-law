@@ -1,0 +1,14 @@
+Despacho Normativo n.º 203/77
+Os preços máximos de venda dos adubos ao consumidor, fixados pela Portaria n.º 517/74, de 19 de Agosto, integravam uma margem máxima de comercialização de 9%, calculada sobre o preço de venda à porta da fábrica ou do armazém do importador, considerando o adubo embalado em sacos de plástico. A mesma margem foi aplicada aos adubos sujeitos ao regime de preços controlados.
+Todavia, tal como vinha acontecendo de longa data, uma parcela da referida margem era reservada aos fabricantes que suportavam os encargos com a distribuição dos adubos armazenagem periférica, assistência técnica à lavoura, etc. -, sendo concedido ao revendedor (armazenista ou retalhista) o restante.
+As reduções de preços estabelecidas pela Portaria n.º 527/75, de 29 de Agosto, conduziram à atribuição dos subsídios definidos pelo despacho ministerial de 31 de Setembro de 1975.
+Os referidos subsídios foram determinados na base das diferenças entre os preços de venda ao consumidor, assegurando-se desse modo a manutenção das margens de comercialização anteriores, em valor absoluto.
+Posteriormente, apesar da subida dos preços de venda dos adubos, efectivada em 27 de Novembro de 1976, através da Portaria n.º 719/76, continuaram em vigor as mesmas margens.
+Os agravantes dos encargos de comercialização, entretanto verificados, foram evidenciados pelos revendedores, que vinham notando as insuficiências das margens que lhes eram concedidas.
+Uma vez que se encontra apontado o caminho para a reestruturação do sector adubeiro, com a criação de uma empresa pública, impõe-se como prioritário o estudo do respectivo circuito de comercialização, com vista a uma clarificação das funções e justa remuneração dos seus intervenientes.
+Entretanto, tendo em conta que grande parte dos agravamentos dos custos de distribuição, a cargo dos fabricantes-distribuidores, se encontra já considerada, entende-se de justiça que os revendedores sejam também compensados com um pequeno aumento da margem que lhes é atribuída. Este aumento, tal como o dos restantes custos, não tem reflexos nos preços de venda ao consumidor, que se mantêm iguais aos da campanha transacta, por resolução do Conselho de Ministros.
+Nestes termos:
+Ao abrigo do disposto no n.º 3 do artigo 1.º do Decreto-Lei n.º 75-Q/77, de 28 de Fevereiro, determinam os Secretários de Estado da Energia e Minas e do Comércio Interno o seguinte:
+1.º Na venda de adubos, as margens de comercialização que vigoraram na campanha de 1976-1977 para os revendedores são aumentadas de 10%.
+2.º Este despacho produz efeitos a partir de 1 de Julho de 1977.
+Secretarias de Estado da Energia e Minas e do Comércio Interno, 14 de Setembro de 1977. - O Secretário de Estado da Energia e Minas, Ricardo Bayão Horta. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.
