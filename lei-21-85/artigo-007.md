@@ -1,7 +1,3 @@
-## Capítulo II
-
-## DEVERES, INCOMPATIBILIDADES, DIREITOS E REGALIAS DOS MAGISTRADOS JUDICIAIS
-
 # Artigo 7.º
 
 ### (Garantias de imparcialidade)

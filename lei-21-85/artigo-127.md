@@ -1,6 +1,6 @@
-## Secção V
+## Secção IV
 
-## Direito subsidiário
+## Revisão de decisões disciplinares
 
 # Artigo 127.º
 

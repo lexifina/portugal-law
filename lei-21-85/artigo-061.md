@@ -1,7 +1,3 @@
-## Capítulo V
-
-## APOSENTAÇÃO, CESSAÇÃO E SUSPENSÃO DE FUNÇÕES
-
 # Artigo 61.º
 
 ### (Competência para conferir posse)

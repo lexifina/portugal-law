@@ -1,6 +1,6 @@
-## Capítulo XI
+## Capítulo XII
 
-## RECLAMAÇÕES E RECURSOS
+## DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 # Artigo 180.º
 

@@ -1,3 +1,7 @@
+## Secção VI
+
+## Posse
+
 # Artigo 59.º
 
 ### (Requisitos da posse)

@@ -1,3 +1,7 @@
+## Capítulo II
+
+## DEVERES, INCOMPATIBILIDADES, DIREITOS E REGALIAS DOS MAGISTRADOS JUDICIAIS
+
 # Artigo 8.º
 
 ### (Domicílio necessário)

@@ -1,7 +1,3 @@
-## Secção IV
-
-## Revisão de decisões disciplinares
-
 # Artigo 109.º
 
 ### (Prescrição das penas)

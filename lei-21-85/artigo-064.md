@@ -1,10 +1,10 @@
+## Capítulo V
+
+## APOSENTAÇÃO, CESSAÇÃO E SUSPENSÃO DE FUNÇÕES
+
 ## Secção I
 
 ## Aposentação
-
-## Capítulo VI
-
-## ANTIGUIDADE
 
 # Artigo 64.º
 

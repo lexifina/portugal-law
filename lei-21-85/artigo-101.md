@@ -1,3 +1,7 @@
+## Subsecção III
+
+## Efeitos das penas
+
 # Artigo 101.º
 
 ### (Efeitos das penas)

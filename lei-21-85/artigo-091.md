@@ -1,6 +1,6 @@
 ## Subsecção II
 
-## Abandono do lugar
+## Aplicação das penas
 
 # Artigo 91.º
 

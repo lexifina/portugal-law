@@ -1,6 +1,6 @@
-## Secção VI
+## Secção V
 
-## Posse
+## Comissões de serviço
 
 # Artigo 53.º
 

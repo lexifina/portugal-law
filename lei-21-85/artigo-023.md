@@ -1,9 +1,11 @@
 # Artigo 23.º
 
-### (Participação emolumentar)
+### Remuneração base e suplementos
 
-1 - O Ministro da Justiça pode autorizar a atribuição aos magistrados judiciais de uma participação emolumentar até ao limite de 30% dos respectivos vencimentos e nunca inferior a 20%, ouvidos o Conselho Superior da Magistratura e as organizações representativas dos magistrados.
+1 - A estrutura da remuneração base a abonar mensalmente aos magistrados judiciais é a que se desenvolve na escala indiciária constante do mapa anexo a este Estatuto, de que faz parte integrante.
 
-2 - A participação emolumentar tem a mesma natureza do vencimento e é incorporada neste para todos os efeitos, designadamente o de aposentação.
+2 - A remuneração base é anualmente revista, mediante actualização do valor correspondente ao índice 100.
 
-3 - Na fixação da participação emolumentar não pode fazer-se discriminação que não tenha por base a categoria do tribunal ou da comarca em que o magistrado exerce funções.
+3 - A partir de 1 de Janeiro de 1991 a actualização a que se refere o número anterior é automática, nos termos do disposto no artigo 2.º da Lei n.º 26/84, de 31 de Julho, com a redacção que lhe foi dada pelo artigo 1.º da Lei n.º 102/88, de 25 de Agosto.
+
+4 - A título de suplementos, mantêm-se as compensações a que se referem os artigos 24.º a 27.º e 29.º do presente Estatuto.

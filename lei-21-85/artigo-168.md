@@ -1,3 +1,7 @@
+## Secção III
+
+## Recursos
+
 # Artigo 168.º
 
 ### (Recursos)

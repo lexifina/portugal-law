@@ -1,6 +1,6 @@
-## Capítulo VII
+## Capítulo VI
 
-## DISPONIBILIDADE
+## ANTIGUIDADE
 
 # Artigo 72.º
 

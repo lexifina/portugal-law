@@ -1,6 +1,6 @@
-## Secção V
+## Secção IV
 
-## Comissões de serviço
+## Nomeação de juízes do Supremo Tribunal de Justiça
 
 # Artigo 50.º
 

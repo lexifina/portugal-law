@@ -1,3 +1,7 @@
+## Capítulo IX
+
+## INQUÉRITOS E SINDICÂNCIAS
+
 # Artigo 132.º
 
 ### (Inquéritos e sindicâncias)

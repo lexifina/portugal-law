@@ -2,10 +2,6 @@
 
 ## Nomeação de juízes das relações
 
-## Secção IV
-
-## Nomeação de juízes do Supremo Tribunal de Justiça
-
 # Artigo 46.º
 
 ### (Modo de provimento)

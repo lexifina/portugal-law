@@ -1,7 +1,3 @@
-## Capítulo III
-
-## CLASSIFICAÇÕES
-
 # Artigo 31.º
 
 ### (Responsabilidade pelo mobiliário)

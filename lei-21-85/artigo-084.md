@@ -1,15 +1,3 @@
-## Secção II
-
-## Das penas
-
-## Secção III
-
-## Processo disciplinar
-
-## Subsecção I
-
-## Normas processuais
-
 # Artigo 84.º
 
 ### (Sujeição à jurisdição disciplinar)

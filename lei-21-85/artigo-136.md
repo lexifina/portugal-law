@@ -1,6 +1,10 @@
-## Capítulo IX
+## Capítulo X
 
-## INQUÉRITOS E SINDICÂNCIAS
+## CONSELHO SUPERIOR DA MAGISTRATURA
+
+## Secção I
+
+## Estrutura e organização do Conselho Superior da Magistratura
 
 # Artigo 136.º
 

@@ -1,3 +1,7 @@
+## Capítulo VII
+
+## DISPONIBILIDADE
+
 # Artigo 80.º
 
 ### (Disponibilidade)
