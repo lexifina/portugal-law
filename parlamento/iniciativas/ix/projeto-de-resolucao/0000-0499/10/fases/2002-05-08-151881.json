@@ -1,0 +1,537 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "10",
+    "id": "19000",
+    "titulo": "Organização do debate parlamentar sobre a reforma do sistema político."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2002-05-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2150",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2002-05-08",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PAR",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "18999",
+        "leg": "IX",
+        "nr": "8",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "626",
+            "obs": null,
+            "pag": [
+              "270-280"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-05-09",
+            "pubLeg": "IX",
+            "pubNr": "8",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/008/2002-05-09/270?pgs=270-280&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Constituição de uma Comissão Eventual para a Reforma do Sistema Político."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2002-05-08",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140549",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "270-272"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-09",
+                "pubLeg": "IX",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/008/2002-05-09/270?pgs=270-272&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma Comissão Eventual para a Reforma do Sistema Político; Organização do debate parlamentar sobre a reforma do sistema político.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "462",
+                "nome": "Alberto Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140550",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "272-273",
+                  "280-280"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-09",
+                "pubLeg": "IX",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/008/2002-05-09/272?pgs=272-273,280&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma Comissão Eventual para a Reforma do Sistema Político; Organização do debate parlamentar sobre a reforma do sistema político.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140551",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "273-274",
+                  "279-279"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-09",
+                "pubLeg": "IX",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/008/2002-05-09/273?pgs=273-274,279&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma Comissão Eventual para a Reforma do Sistema Político; Organização do debate parlamentar sobre a reforma do sistema político.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140552",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "274-277"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-09",
+                "pubLeg": "IX",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/008/2002-05-09/274?pgs=274-277&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma Comissão Eventual para a Reforma do Sistema Político; Organização do debate parlamentar sobre a reforma do sistema político.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "462",
+                "nome": "Alberto Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140553",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "277-277"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-09",
+                "pubLeg": "IX",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/008/2002-05-09/277?pgs=277&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma Comissão Eventual para a Reforma do Sistema Político; Organização do debate parlamentar sobre a reforma do sistema político.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140554",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "277-277"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-09",
+                "pubLeg": "IX",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/008/2002-05-09/277?pgs=277&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma Comissão Eventual para a Reforma do Sistema Político; Organização do debate parlamentar sobre a reforma do sistema político.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140555",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "277-279"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-09",
+                "pubLeg": "IX",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/008/2002-05-09/277?pgs=277-279&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma Comissão Eventual para a Reforma do Sistema Político; Organização do debate parlamentar sobre a reforma do sistema político.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140556",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "279-279"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-09",
+                "pubLeg": "IX",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/008/2002-05-09/279?pgs=279&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma Comissão Eventual para a Reforma do Sistema Político; Organização do debate parlamentar sobre a reforma do sistema político.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Luis Marques Mendes"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140557",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "280-280"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-09",
+                "pubLeg": "IX",
+                "pubNr": "8",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/008/2002-05-09/280?pgs=280&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma Comissão Eventual para a Reforma do Sistema Político; Organização do debate parlamentar sobre a reforma do sistema político.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": "Prejudicado",
+    "OevId": "151881",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "270557",
+        "obs": null,
+        "pag": [
+          "270-280"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2002-05-09",
+        "pubLeg": "IX",
+        "pubNr": "8",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/008/2002-05-09/270?pgs=270-280&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
