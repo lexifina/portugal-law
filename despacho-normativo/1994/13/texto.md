@@ -1,0 +1,6 @@
+Despacho Normativo n.º 13/94
+A alteração do Regulamento (CEE) n.º 1579/93, de 23 de Junho, consubstanciada no Regulamento (CEE) n.º 2838/93, de 18 de Outubro, determinou um atraso incontornável na implementação dos procedimentos administrativos inerentes à aplicação da ajuda estabelecida pelo Regulamento (CEE) n.º 739/93, de 17 de Março, do Conselho, facto que impõe uma nova prorrogação do prazo para adopção da modalidade de pagamento prevista nos Despachos Normativos n.os 64-A/93, de 30 de Abril, 180/93, de 6 de Julho, e 268-A/93, de 15 de Setembro.
+Assim, ao abrigo do disposto nos Regulamentos (CEE) n.os 739/93, 1579/93 e 2838/93, respectivamente de 17 de Março, de 23 de Junho e de 18 de Outubro, bem como do Decreto-Lei n.º 282/88, de 12 de Agosto:
+Determina-se o seguinte:
+A modalidade de pagamento da ajuda aos produtores de leite de vaca estabelecida nos n.os 2 e 3 do Despacho Normativo n.º 64-A/93, de 30 de Abril, e nos Despachos Normativos n.os 180/93 e 268-A/93, de 6 de Julho e de 15 de Setembro, respectivamente, é extensível aos meses de Janeiro, Fevereiro e Março de 1994.
+Ministério da Agricultura, 31 de Dezembro de 1993. - Pelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar.
