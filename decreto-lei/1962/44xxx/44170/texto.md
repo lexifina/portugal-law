@@ -1,0 +1,17 @@
+Decreto-Lei n.º 44170
+Considerando que a Câmara Municipal da Marinha Grande representou ao Governo no sentido de lhe serem cedidas três parcelas de terrento da Mata Nacional de Leiria para prosseguimento da urbanização da praia de S. Pedro de Muel;
+Considerando que, como este, outros pedidos têm sido deferidos, no intuito de facilitar a realização de melhoramentos públicos de carácter geral ou local;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É autorizada a Direcção-Geral da Fazenda Pública a ceder, a título definitivo, à Câmara Municipal da Marinha Grande, três parcelas de terreno, com as áreas de 8400 m2, 16000 m2 e 125600 m2, demarcadas na planta anexa a este diploma e que dele faz parte integrante.
+Art. 2.º As parcelas objecto da cessão destinam-se ao prosseguimento da urbanização da praia de S. Pedro de Muel.
+§ 1.º Pela cessão a Câmara pagará a compensação de 30600$00, a satisfazer no acto da assinatura do respectivo auto.
+§ 2.º O terreno a que se refere este diploma reverterá à posse e domínio do Estado, por simples despacho ministerial, sem direito a qualquer indemnização se não for aplicado ao fim para que é cedido.
+§ 3.º A cessão efectivar-se-á por meio de auto a lavrar na Secção de Finanças do concelho da Marinha Grande e é isenta de impostos.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 31 de Janeiro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
+
+Para ser presente à Assembleia Nacional.
+
+Terreno da Mata Nacional de Leiria necessário para a urbanização de S. Pedro de Muel
+(ver documento original)
+Ministério das Finanças, 31 de Janeiro de 1962. - O Ministro das Finanças, António Manuel Pinto Barbosa.
