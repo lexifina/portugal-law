@@ -1,0 +1,3 @@
+Declaração
+Declara-se, para os devidos efeitos, que, por já ter sido publicado no suplemento à 1.ª série do Diário da República de 30 de Novembro de 1982, com o n.º 463-A/82, o decreto-lei que estatui que os montantes dos subsídios de Natal atribuíveis aos pensionistas de invalidez, velhice e sobrevivência dos regimes contributivos de segurança social serão estabelecidos nos diplomas de actualização das pensões respectivas para o período em que se aplicam, fica anulado e sem nenhum efeito o Decreto-Lei n.º 464/82, publicado no Diário da República, 1.ª série, de 2 de Dezembro de 1982.
+Secretaria-Geral da Presidência do Conselho de Ministros, 2 de Dezembro de 1982. - O Secretário-Geral, França Martins.
