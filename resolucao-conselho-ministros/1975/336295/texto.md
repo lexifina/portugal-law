@@ -1,0 +1,28 @@
+Resolução do Conselho de Ministros
+1. Tem-se verificado, muito particularmente no Algarve, a existência de situações anómalas no património e gestão de empresas privadas ligadas, directa ou indirectamente, à indústria de turismo e que necessitam de um exame específico urgente com o objectivo de habilitar o Governo a decidir da conveniência de uma eventual intervenção e, em tal caso, ver explicitados os limites da requerida intervenção.
+2. Tem a experiência demonstrado que a apreciação caso a caso é, além de demorada, incompleta (pelo menos em relação ao respectivo sector), mobilizando ainda elevado número de técnicos, o que tem conduzido a uma dispersão de esforços e a uma lenta decisão a nível do Governo.
+3. Atendendo ao quadro da situação exposta, deliberou o Conselho de Ministros constituir, nos termos do Decreto-Lei n.º 660/74, de 25 de Novembro, uma comissão administrativa de âmbito regional, que observará, em particular, o seguinte:
+a) A sua actuação limita-se à província do Algarve e tratará de todas as situações que de futuro lhe venham a ser apresentadas, nos termos daquele diploma, quer nas fases de inquérito, quer nas de reconversão ou da gestão propriamente dita;
+b) Farão parte, obrigatoriamente, um representante de cada uma das seguintes Secretarias de Estado: Turismo, Finanças, Habitação e Urbanismo e Obras Públicas; um representante da Inatel, e um representante da União dos Sindicatos de Faro (Intersindical);
+c) Em cada empresa onde se verifique a intervenção do Estado, através dessa comissão administrativa, deverá existir um seu delegado, cuja designação terá de ter o acordo dos trabalhadores da empresa em causa e da comissão administrativa e constituirá o elo de ligação funcional entre aquelas duas entidades;
+d) A comissão administrativa terá actividade permanente na cidade de Faro e deve ser-lhe conferido todo o apoio, não só pelas entidades nela representadas, como pelas demais instâncias oficiais. Poderá recrutar técnicos e quadros executivos indispensáveis ao cumprimento do seu mandato, contando, para o efeito, com o apoio administrativo da Comissão Regional de Turismo do Algarve. A comissão administrativa actuará em estreita articulação com a Comissão Regional de Emprego que vier a ser criada para o Algarve, onde estará representada;
+e) A comissão administrativa deverá orientar-se por uma gestão integrada em todos os domínios da sua actividade e procurando a realização de adequados acordos de cooperação com outras comissões administrativas já nomeadas para empresas do sector, com vista a beneficiar das economias de escala e assegurar a prestação do melhor serviço;
+f) As ligações entre esta comissão administrativa e o Conselho de Ministros far-se-ão pela via do Ministério do Planeamento e Coordenação Económica, com conhecimento às entidades nela representadas;
+g) Será aberto a favor da comissão administrativa um crédito orçamental de 10000 contos para pagamento das suas despesas de funcionamento e poder proporcionar empréstimos extraordinários temporários, quando justificáveis, para pagamento de salários até finalização de inquéritos que se encontrem em curso;
+h) Dar parecer técnico sobre operações financeiras a recrutar na Banca e pedidos formulados ao Fundo de Turismo, relativamente a empresas da área da sua jurisdição, bem como prestar informações acerca da sua marcha, e, se necessário, acompanhar a sua exploração;
+i) Aplicam-se a esta comissão administrativa e à actividade por ela desenvolvida todas as disposições do Decreto-Lei n.º 660/74, de 25 de Novembro, que não contrariem a presente resolução do Conselho de Ministros.
+4. A comissão administrativa ora nomeada deverá, desde já, enquadrar no seu campo de acção as seguintes entidades:
+Salvor - Sociedade de Investimento Hoteleiro, S. A. R. L.;
+Sointal - Sociedade de Iniciativas Turísticas Algarvias, S. A. R. L.;
+Prainha - Empreendimentos Imobiliários, S. A. R. L.;
+Prainha - Empreendimentos Turísticos, S. A. R. L.;
+Adeprainha - Administração da Aldeia da Prainha, Lda.;
+Tau - Propriedades e Empreendimentos Turísticos, Lda.;
+Grupo Leon Levy (após conclusão do inquérito em curso);
+Hotel Lagos;
+Planal;
+Hotel Baleeira;
+Motel Navegadores;
+Pensão Sol (Praia da Rocha).
+5. Em face do estabelecido no número anterior, deixa a comissão administrativa do grupo Torralta de abranger as empresas Salvor e Sointal.
+Presidência do Conselho de Ministros, 29 de Abril de 1975. - O Primeiro-Ministro, Vasco dos Santos Gonçalves.
