@@ -1,0 +1,4 @@
+Aviso n.º 80/2001
+Por ordem superior se torna público que, em 17 de Janeiro de 2001, foi emitida uma nota verbal pela Embaixada de Portugal em Zagreb em que se comunica ao Ministério dos Negócios Estrangeiros da República da Croácia, um dos Estados sucessores da República Socialista Federativa da Jugoslávia, a decisão de denúncia, por parte de Portugal, do Acordo entre o Governo da República Portuguesa e o Governo da República Socialista Federativa da Jugoslávia Relativo à Cooperação no Domínio dos Transportes Marítimos, assinado em Belgrado em 28 de Junho de 1979 e aprovado pelo Decreto n.º 74/81, de 16 de Junho, publicado no Diário da República, 1.ª série, n.º 136, de 16 de Junho de 1981.
+Nos termos do n.º 3 do artigo 13.º do citado Acordo, a denúncia produz efeitos a partir de 17 de Janeiro de 2002.
+Direcção-Geral das Relações Bilaterais, 9 de Julho de 2001. - O Director-Geral, José Caetano de Campos de Andrada da Costa Pereira.
