@@ -1,0 +1,49 @@
+# Acórdão do Supremo Tribunal de Justiça de 1994-01-05, processo 045533
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 045533
+
+**Nº Convencional:** JSTJ00021584
+
+**Relator:** SILVA REIS
+
+**Descritores:** ÂMBITO DO RECURSO; CONCLUSÕES; MOTIVAÇÃO; COMPETÊNCIA DO SUPREMO TRIBUNAL DE JUSTIÇA; MATÉRIA DE DIREITO; DECISÃO; VÍCIOS
+
+**Nº do Documento:** SJ199401050455333
+
+**Data do Acordão:** 01/05/1994
+
+**Votação:** UNANIMIDADE
+
+**Tribunal Recurso:** T C PORTO
+
+**Processo no Tribunal Recurso:** 11/93
+
+**Data:** 05/06/1993
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REC PENAL.
+
+**Decisão:** NEGADO PROVIMENTO. ALTERADA A QUALIFICAÇÃO JURÍDICA.
+
+**Área Temática:** DIR PROC PENAL - RECURSOS.
+
+## Sumário
+
+I - O âmbito de um recurso é dado pelas conclusões extraídas pelo recorrente da respectiva motivação.
+
+II - Por força do disposto nos artigos 433 e 29, respectivamente, do Código de Processo Penal e da Lei 38/87, de 23 de Dezembro, o Supremo Tribunal de Justiça tem a dignidade de tribunal de revista, competindo-lhe o reexame da matéria de direito, salvo nos casos estabelecidos no artigo 410, n. 2 do Código de Processo Penal e que são "a insuficiência para a decisão da matéria de facto provada" "a contradição insanável da fundamentação" e "o erro notório na apreciação da prova".
+
+III - Porém, para que tais vícios possam proceder, torna-se necessário como resulta do corpo do n. 2 do citado artigo 410, que eles resultem do texto da decisão recorrida, por si só, ou conjugada com as regras da experiência comum.
+
+IV - Como dispõe o artigo 374 do Código de Processo Penal, a decisão comporta as seguintes fases que devem ser acatadas na elaboração de uma decisão criminal:
+
+1. a do relatório;
+
+2. a da fundamentação, que abrange: a) a enumeração dos factos provados e não provados; b) a exposição, tanto quanto possível completa, ainda que concisa, dos motivos de facto e de direito que fundamentam a decisão; c) a indicação das provas que serviram para formar a convicção do tribunal;
+
+3. a parte dispositiva.
