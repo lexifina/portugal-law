@@ -1,0 +1,10 @@
+Portaria n.º 349/78
+de 30 de Junho
+Face aos sucessivos aumentos dos transportes públicos, surgiu a necessidade de actualizar as tarifas que vinham a ser praticadas nas carreiras rodoviárias que servem o conjunto ponte e acessos, bem como o encargo que cada passageiro terá de suportar pelo atravessamento da ponte sobre o Tejo em Lisboa, correspondente à portagem.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelos Ministros do Comércio e Turismo e dos Transportes e Comunicações, nos termos do n.º 4 do artigo 7.º do Decreto n.º 47068, de 1 de Julho de 1966, conjugado com o disposto na alínea b) do n.º 1 do artigo 13.º do Decreto-Lei n.º 329-A/74, de 10 de Julho, o seguinte:
+1.º Nas vias do conjunto ponte e acessos definido no artigo 2.º do referido decreto, é fixada em 1$00 por passageiro-quilómetro a base tarifária aplicável a qualquer deslocamento em carreiras do serviço público, sendo as tarifas as que resultarem do disposto nos pontos 4.1.2 e 4.1.3 do n.º 1.º da Portaria n.º 169/78, de 29 de Março.
+2.º É fixada em 2$00 a importância que os concessionários de carreiras ficam autorizados a cobrar por passageiro nos deslocamentos que impliquem atravessamento da ponte sobre o Tejo em Lisboa.
+3.º As tarifas das assinaturas de linhas mensais constantes do ponto 4.3 e de outros títulos de transporte previstos no ponto 4.4 do n.º 1.º da citada portaria, desde que impliquem o atravessamento da ponte sobre o Tejo em Lisboa, serão calculadas com base no preço do bilhete simples acrescido da quantia de 2$00 estipulada no número anterior.
+Sempre que o valor assim conseguido não venha expresso na tabela do ponto 4.3.1, atender-se-á ao preço do bilhete simples imediatamente superior, a fim de ser encontrado o preço da assinatura da linha correspondente.
+Ministérios do Comércio e Turismo e dos Transportes e Comunicações, 23 de Junho de 1978. - O Ministro do Comércio e Turismo, Basílio Adolfo Mendonça Horta da Franca. - O Ministro dos Transportes e Comunicações, Manuel Branco Ferreira Lima.
