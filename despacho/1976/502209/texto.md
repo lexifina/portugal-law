@@ -1,0 +1,3 @@
+Despacho
+Para efeitos do disposto nas alíneas b) e d) do n.º 4.5 da resolução sobre política de crédito à habitação, aprovada em Conselho de Ministros em 24 de Fevereiro de 1976 e publicada no Diário do Governo, 1.ª série, desta data, fixam-se em 6000$00 e 1000000$00, respectivamente, o preço por metro quadrado (referido à área bruta total dia habitação) e o preço (total) das habitações que podem ser objecto do regime de crédito regulado pela mesma resolução.
+Ministérios das Finanças e da Habitação, Urbanismo e Construção, 19 de Março de 1976. - Pelo Ministro das Finanças, Herlânder dos Santos Estrela, Secretário de Estado do Tesouro. - O Ministro da Habitação, Urbanismo e Construção, Eduardo Ribeiro Pereira.
