@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se faz público que, segundo comunicação da Embaixada da Suíça em Lisboa, a República de São Marinho dirigiu ao Governo Suíço, em 11 de Fevereiro de 1966, uma declaração informando a sua adesão ao Acordo de Madrid concernente ao registo internacional das marcas de fábrica ou de comércio, de 14 de Abril de 1891, revisto em Bruxelas em 14 de Dezembro de 1900, em Washington em 2 de Junho de 1911, na Haia em 6 de Novembro de 1925, em Londres em 2 de Junho de 1934 e em Nice em 15 de Junho de 1957.
+Nos termos do artigo 12, a adesão produzirá efeitos a partir de 15 de Dezembro de 1966, data da entrada em vigor do Acordo na última revisão de Nice de 15 de Junho de 1957.
+Direcção-Geral dos Negócios Económicos e Consulares, 16 de Julho de 1966. - O Director-Geral, José Calvet de Magalhães.
