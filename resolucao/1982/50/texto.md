@@ -1,0 +1,5 @@
+Resolução n.º 50/82
+O Conselho de Ministros para os Assuntos Económicos, reunido em 16 de Março de 1982, resolveu:
+1 - Autorizar a prestação do aval do Estado às empresas MATUR - Sociedade de Empreendimentos Turísticos da Madeira, S. A. R. L., e INTERHOTEL - Sociedade Internacional de Hotéis, S. A. R. L., relativamente aos juros em dívida respeitantes aos créditos cujo desdobramento e transferência para aquelas empresas dos avales do Estado concedidos à Imobiliária Construtora Grão-Pará, S. A. R. L., foi autorizado pela Resolução do Conselho de Ministros n.º 408/80, de 2 de Dezembro.
+2 - Os juros objecto da prestação de aval do Estado serão os que se encontrarem vencidos e em dívida à data da transferência dos créditos da Imobiliária Construtora Grão-Pará, S. A. R. L., para as empresas MATUR - Sociedade de Empreendimentos Turísticos, S. A. R. L., e INTERHOTEL - Sociedade Internacional de Hotéis, S. A. R. L.
+Presidência do Conselho de Ministros, 16 de Março de 1982. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.
