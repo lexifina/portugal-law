@@ -1,0 +1,56 @@
+Portaria n.º 21766
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
+1.º Nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933:
+a) Reforçar com a importância de 100000$00 a verba do capítulo 10.º, artigo 305.º, n.º 4), alínea a), 1) «Encargos gerais - Deslocações do pessoal - Passagens de ou para o exterior - Por motivo de licença graciosa - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral da província de S. Tomé e Príncipe para o ano de 1965, tomando como contrapartida igual importância a sair das disponibilidades existentes nas seguintes verbas da referida tabela de despesa:
+CAPÍTULO 4.º
+Administração geral e fiscalização
+Polícia Internacional e de Defesa do Estado
+Despesas com o pessoal:
+Artigo 98.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 20000$00
+CAPÍTULO 7.º
+Serviços de fomento
+Serviços de obras públicas e transportes
+Despesas com o pessoal:
+Artigo 210.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 20000$00
+Serviços dos correios, telégrafos e telefones
+Despesas com o pessoal:
+Artigo 221.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 20000$00
+Serviços de economia e estatística geral
+Despesas com o pessoal:
+Artigo 233.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 20000$00
+Centro de Informação e Turismo
+Despesas com o pessoal:
+Artigo 244.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 20000$00
+... 100000$00
+b) Reforçar com a importância de 25000$00 a verba do capítulo 10.º, artigo 1660.º, n.º 7), alínea a) «Encargos gerais - Diversas despesas - Despesas com assistência médica, tratamento e internamento de casos de tuberculose, câncer, alienação mental e lepra, em hospitais, manicómios, casas de saúde e sanatórios, de funcionários civis do activo, aposentados e operários do Estado e de colonos pobres das províncias ultramarinas - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral da província de Angola para o ano de 1965, tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo 4.º, artigo 586.º, n.º 1) «Administração geral e fiscalização - Polícia Internacional e de Defesa do Estado - Despesas com o pessoal - Remunerações acidentais - Gratificações especiais anuais», da referida tabela de despesa;
+c) Reforçar com a importância de 3000000$00 a verba do capítulo 10.º, artigo 1659.º, n.º 4), alínea a) «Encargos gerais - Deslocações do pessoal - Passagens de ou para o exterior por motivo de licença graciosa - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral da província de Angola para o ano de 1965, tomando como contrapartida igual importância a sair das disponibilidades existentes nas seguintes verbas da referida tabela de despesa:
+CAPÍTULO 4.º
+Administração geral e fiscalização
+Polícia de Segurança Pública
+Despesas com o pessoal:
+Artigo 596.º «Remunerações certas ao pessoal em exercício»:
+N.º 1) «Pessoal dos quadros aprovados por lei - Vencimentos» ... 2000000$00
+N.º 4) «Pessoal assalariado - Salários» ... 400000$00
+CAPÍTULO 5.º
+Serviços de Fazenda
+Serviços de Fazenda e contabilidade
+Despesas com o pessoal:
+Artigo 610.º «Remunerações certas ao pessoal em exercício»:
+N.º 1) «Pessoal dos quadros aprovados por lei - Vencimentos» ... 380000$00
+N.º 2) «Pessoal contratado» ... 105000$00
+Artigo 611.º, n.º 3) «Remunerações acidentais - Encargos administrativos - Participação em receitas - Percentagem sobre as receitas, nos termos do Diploma Legislativo n.º 29, de 30 de Março de 1929; alínea i) do artigo 25.º do Decreto n.º 23940, de 31 de Maio de 1934; Diploma Legislativo n.º 2146, de 20 de Abril de 1949, Diploma Legislativo n.º 2239, de 1 de Fevereiro de 1950, e Decreto n.º 38249, de 10 de Maio de 1951» ... 109000$00
+CAPÍTULO 7.º
+Serviços de fomento
+Serviço de Aeronáutica Civil
+Despesas com o pessoal:
+Artigo 1565.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 6000$00
+... 3000000$00
+d) Reforçar com a importância de 6000$00 a verba do capítulo 10.º, artigo 239.º, n.º 30), alínea a) «Encargos gerais - Diversas despesas - Despesas com a assistência médica, tratamento e internamento em hospitais, manicómios, casas de saúde e sanatórios de funcionários do activo, aposentados e operários do Estado - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral da província de Timor para o ano de 1965, tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo 7.º, artigo 170.º, n.º 2) «Serviços de fomento - Repartição Provincial dos Serviços de Economia e Estatística Geral - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal contratado», da referida tabela de despesa.
+2.º Nos termos do artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, conjugado com o artigo 5.º do Decreto n.º 40712, de 1 de Agosto de 1956, abrir os seguintes créditos especiais, tomando como contrapartida o saldo das contas de exercícios findos:
+a) Um de 85300$00, destinado a reforçar a verba do capítulo 12.º, artigo 287.º, n.º 1), alínea h) «Despesa extraordinária - Despesas extraordinárias - Do saldo das contas de exercícios findos - Subsídio aos cursos de educação de adultos e escolas primárias», da tabela de despesa extraordinária do orçamento geral da província de Cabo Verde para o ano de 1965;
+b) Um de 100000$00, a inscrever em adicional à tabela de despesa extraordinária do orçamento geral da província de Cabo Verde para o ano de 1965, destinado à concessão de um subsídio ao Centro de Estudos de Cabo Verde, de harmonia com a alínea a) do artigo 13.º do Decreto n.º 43564, de 27 de Março de 1961;
+c) Um de 120000$00, a inscrever em adicional à tabela de despesa extraordinária do orçamento geral da província de S. Tomé e Príncipe para o ano de 1965, destinado a custear os direitos de importação de uma máquina de compor monotype;
+d) Um de 1500000$00, a inscrever em adicional à tabela de despesa extraordinária do orçamento geral da província de Timor para o ano de 1965, destinado ao pagamento das despesas com a inspecção, para efeitos de overhaul, dos aviões Dove, dos Transportes Aéreos de Timor, na fábrica Dehavilland, na Austrália.
+Ministério do Ultramar, 30 de Dezembro de 1965. - Pelo Ministro do Ultramar, José Coelho de Almeida Cota, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Cabo Verde, S. Tomé e Príncipe, Angola e Timor. - J. Cota.
