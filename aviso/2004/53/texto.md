@@ -1,0 +1,4 @@
+Aviso n.º 53/2004
+Por ordem superior se torna público que a Sérvia e Montenegro depositou junto do Secretário-Geral do Conselho da Europa, em 23 de Junho de 2003, o seu instrumento de ratificação do Protocolo Adicional à Convenção Europeia no Domínio da Informação sobre o Direito Estrangeiro, aberto para assinatura em Estrasburgo em 15 de Março de 1978.
+Portugal é Parte neste Protocolo, que foi aprovado, para ratificação, pelo Decreto n.º 23/84, publicado no Diário da República, 1.ª série-A, n.º 111, de 14 de Maio de 1984, tendo depositado o seu instrumento de ratificação em 19 de Julho de 1984, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 160, de 15 de Julho de 1986.
+Direcção-Geral dos Assuntos Multilaterais, 6 de Abril de 2004. - O Director de Serviços das Organizações Políticas Internacionais, Bernardo Fernandes Homem de Lucena.
