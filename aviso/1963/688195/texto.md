@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público ter a Embaixada de Portugal em Londres informado que, segundo comunicação recebida do Ministério dos Negócios Estrangeiros do Reino Unido da Grã-Bretanha e Irlanda do Norte, os Governos da Jamaica e da Trindade e Tobago depositaram, respectivamente em 20 de Agosto e 21 de Fevereiro últimos, os instrumentos de ratificação do Acordo internacional do açúcar de 1958, de harmonia com o disposto no parágrafo 5 do artigo 41.º do referido Acordo.
+Direcção-Geral dos Negócios Económicos e Consulares, 29 de Outubro de 1963. - O Director-Geral Adjunto, António José Aniceto de Siqueira Freire.
