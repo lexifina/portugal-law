@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que o representante permanente de Portugal junto da UNESCO depositou junto do director-geral daquele organismo internacional, em 29 de Agosto de 1984, o instrumento de ratificação de Portugal à Convenção sobre o Reconhecimento dos Estudos e Diplomas Relativos ao Ensino Superior nos Estados da Região Europa, concluída em Paris a 21 de Dezembro de 1979, e aprovada para ratificação pelo Decreto n.º 139/80, publicado no Diário da República, 1.ª série, n.º 282, de 6 de Dezembro de 1980.
+Nos termos do artigo 18.º da Convenção, esta entrará em vigor para Portugal em 29 de Setembro de 1984.
+A 23 de Maio de 1984 eram parte na referida Convenção os seguintes países: Bulgária, Jugoslávia, Israel, República Democrática Alemã, Países Baixos, Espanha, Hungria, Polónia, Filândia, URSS, Bielo Rússia, Ucrânia, Santa Sé, Dinamarca, Itália, Malta, São Marino e Suécia.
+Direcção-Geral das Relações Culturais Externas, 22 de Outubro de 1984. - O Director-Geral, Nataniel Costa.
