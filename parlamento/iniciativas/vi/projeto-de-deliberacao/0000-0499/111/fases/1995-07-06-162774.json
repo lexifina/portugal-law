@@ -1,0 +1,800 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=6tRSrsS472KL0pihrbeU3Juv4E5ApzTlkuIJMDYc5d38v4XsZgYhKVB7Ayr7k6BD7ZNRnhu1uQv2nCwvvkoyXJgfHcd33Rt69gnnqGDLZ7jjDe9WHr1ZOrkFyZHrN%2bdvof6dUKIxE5Wasjk0TQFMyoX%2fKDcVSYqW4xooRfuNYiYxRnpgxINjnNAVq18dgakPF%2fXopgVWi9%2fPK8k2cZ5tRjc%2bd8zO7m6xWvdsbeUHkofo9FaMQ0PghWTFmLBF2ObMw8XQM9vXrZDGjYuCymHSoJrECXBxqIIzCmd0QdMQC5B6LWcA54XELbiVJgZxukznf%2fhdJzQ3jKe6Egx9h%2fh5EH5FtypL9lWrfzDQfsf80Is%3d&fich=IniciativasVI_json.txt&Inline=true",
+  "ficheiro_sha256": "cb79e0745a8347d94ab476dc88937917b337689f6631b8b987a47bad388a33b7",
+  "legislatura": "VI",
+  "iniciativa": {
+    "tipo": "Projeto de Deliberação",
+    "numero": "111",
+    "id": "20408",
+    "titulo": "Visa a audição do Director do Serviço de Informações de Segurança pela Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "1995-07-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3121",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "1995-07-06",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1995-07-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "143",
+                "nome": "Alberto Costa"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39682",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3182-3183"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-07-07",
+                "pubLeg": "VI",
+                "pubNr": "93",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/093/1995-07-07/3182?pgs=3182-3183&org=PLC"
+              }
+            ],
+            "sumario": "SIS: AUDICAO DO DIRECTOR DE SERVICOS PELA COMISSAO DE ASSUNTOS CONSTITUCIONAIS DIREITOS LIBERDADES E GARANTIAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39683",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3181-3182"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-07-07",
+                "pubLeg": "VI",
+                "pubNr": "93",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/093/1995-07-07/3181?pgs=3181-3182&org=PLC"
+              }
+            ],
+            "sumario": "SIS: AUDICAO DO DIRECTOR DE SERVICOS PELA COMISSAO DE ASSUNTOS CONSTITUCIONAIS DIREITOS LIBERDADES E GARANTIAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39684",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3181-3181"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-07-07",
+                "pubLeg": "VI",
+                "pubNr": "93",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/093/1995-07-07/3181?pgs=3181&org=PLC"
+              }
+            ],
+            "sumario": "SIS: AUDICAO DO DIRECTOR DE SERVICOS PELA COMISSAO DE ASSUNTOS CONSTITUCIONAIS DIREITOS LIBERDADES E GARANTIAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "235",
+                "nome": "Manuel Alegre"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39685",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3180-3181"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-07-07",
+                "pubLeg": "VI",
+                "pubNr": "93",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/093/1995-07-07/3180?pgs=3180-3181&org=PLC"
+              }
+            ],
+            "sumario": "SIS: AUDICAO DO DIRECTOR DE SERVICOS PELA COMISSAO DE ASSUNTOS CONSTITUCIONAIS DIREITOS LIBERDADES E GARANTIAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "211",
+                "nome": "João Amaral"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39686",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3180-3180"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-07-07",
+                "pubLeg": "VI",
+                "pubNr": "93",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/093/1995-07-07/3180?pgs=3180&org=PLC"
+              }
+            ],
+            "sumario": "SIS: AUDICAO DO DIRECTOR DE SERVICOS PELA COMISSAO DE ASSUNTOS CONSTITUCIONAIS DIREITOS LIBERDADES E GARANTIAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "143",
+                "nome": "Alberto Costa"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39687",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3179-3179"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-07-07",
+                "pubLeg": "VI",
+                "pubNr": "93",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/093/1995-07-07/3179?pgs=3179&org=PLC"
+              }
+            ],
+            "sumario": "SIS: AUDICAO DO DIRECTOR DE SERVICOS PELA COMISSAO DE ASSUNTOS CONSTITUCIONAIS DIREITOS LIBERDADES E GARANTIAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "81",
+                "nome": "Silva Marques"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39688",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3179-3179"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-07-07",
+                "pubLeg": "VI",
+                "pubNr": "93",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/093/1995-07-07/3179?pgs=3179&org=PLC"
+              }
+            ],
+            "sumario": "SIS: AUDICAO DO DIRECTOR DE SERVICOS PELA COMISSAO DE ASSUNTOS CONSTITUCIONAIS DIREITOS LIBERDADES E GARANTIAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "211",
+                "nome": "João Amaral"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39689",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3177-3178"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-07-07",
+                "pubLeg": "VI",
+                "pubNr": "93",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/093/1995-07-07/3177?pgs=3177-3178&org=PLC"
+              }
+            ],
+            "sumario": "SIS: AUDICAO DO DIRECTOR DE SERVICOS PELA COMISSAO DE ASSUNTOS CONSTITUCIONAIS DIREITOS LIBERDADES E GARANTIAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39690",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3176-3176"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-07-07",
+                "pubLeg": "VI",
+                "pubNr": "93",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/093/1995-07-07/3176?pgs=3176&org=PLC"
+              }
+            ],
+            "sumario": "SIS: AUDICAO DO DIRECTOR DE SERVICOS PELA COMISSAO DE ASSUNTOS CONSTITUCIONAIS DIREITOS LIBERDADES E GARANTIAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "129",
+                "nome": "Pedro Passos Coelho"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39691",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3176-3176"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-07-07",
+                "pubLeg": "VI",
+                "pubNr": "93",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/093/1995-07-07/3176?pgs=3176&org=PLC"
+              }
+            ],
+            "sumario": "SIS: AUDICAO DO DIRECTOR DE SERVICOS PELA COMISSAO DE ASSUNTOS CONSTITUCIONAIS DIREITOS LIBERDADES E GARANTIAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39692",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3176-3183"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-07-07",
+                "pubLeg": "VI",
+                "pubNr": "93",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/093/1995-07-07/3176?pgs=3176-3183&org=PLC"
+              }
+            ],
+            "sumario": "SIS: AUDICAO DO DIRECTOR DE SERVICOS PELA COMISSAO DE ASSUNTOS CONSTITUCIONAIS DIREITOS LIBERDADES E GARANTIAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39693",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3175-3176"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-07-07",
+                "pubLeg": "VI",
+                "pubNr": "93",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/093/1995-07-07/3175?pgs=3175-3176&org=PLC"
+              }
+            ],
+            "sumario": "SIS: AUDICAO DO DIRECTOR DE SERVICOS PELA COMISSAO DE ASSUNTOS CONSTITUCIONAIS DIREITOS LIBERDADES E GARANTIAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39694",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3174-3175"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-07-07",
+                "pubLeg": "VI",
+                "pubNr": "93",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/093/1995-07-07/3174?pgs=3174-3175&org=PLC"
+              }
+            ],
+            "sumario": "SIS: AUDICAO DO DIRECTOR DE SERVICOS PELA COMISSAO DE ASSUNTOS CONSTITUCIONAIS DIREITOS LIBERDADES E GARANTIASMENCIONA AS CONDICOES EM QUE SE DEMITIRAM OS MEMBROS DO CONSELHO DE FISCALIZACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39695",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3173-3174",
+                  "3176-3177"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-07-07",
+                "pubLeg": "VI",
+                "pubNr": "93",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/093/1995-07-07/3173?pgs=3173-3174,3176-3177&org=PLC"
+              }
+            ],
+            "sumario": "SIS: AUDICAO DO DIRECTOR DE SERVICOS PELA COMISSAO DE ASSUNTOS CONSTITUCIONAIS DIREITOS LIBERDADES E GARANTIASQUESTIONA A INVIABILIZACAO DA ELEICAO DO CONSELHO DE FISCALIZACAO POR PARTE DO PS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": "VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39696",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3172-3173"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-07-07",
+                "pubLeg": "VI",
+                "pubNr": "93",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/093/1995-07-07/3172?pgs=3172-3173&org=PLC"
+              }
+            ],
+            "sumario": "SIS: AUDICAO DO DIRECTOR DE SERVICOS PELA COMISSAO DE ASSUNTOS CONSTITUCIONAIS DIREITOS LIBERDADES E GARANTIAS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "162774",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "3121",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1995-07-07",
+        "pubLeg": "VI",
+        "pubNr": "93",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/093/1995-07-07?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
