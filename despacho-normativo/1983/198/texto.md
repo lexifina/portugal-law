@@ -1,0 +1,4 @@
+Despacho Normativo n.º 198/83
+Ao abrigo do disposto no n.º 2 do artigo 1.º do Decreto-Lei n.º 509/77, de 14 de Dezembro, determina-se que o artigo 32.º do Regulamento Interno do Mercado Abastecedor de Chaves de Oliveira, constante do Despacho Normativo n.º 2/78, de 5 de Janeiro, passe a ter a seguinte redacção:
+Art. 32.º A comissão administrativa do Mercado estabelecerá o horário de funcionamento do Mercado, procurando compatibilizar os interesses dos utentes compradores e vendedores e tendo em conta as possibilidades de funcionamento das instalações.
+Ministérios da Administração Interna e do Comércio e Turismo, 4 de Outubro de 1983. - Pelo Ministro da Administração Interna, Helena de Melo Torres Marques, Secretária de Estado da Administração Autárquica. - Pelo Ministro do Comércio e Turismo, Carlos Alberto Antunes Filipe, Secretário de Estado do Comércio Interno.
