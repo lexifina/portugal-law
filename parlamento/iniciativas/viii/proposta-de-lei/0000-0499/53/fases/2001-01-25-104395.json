@@ -1,0 +1,644 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "53",
+    "id": "5835",
+    "titulo": "Reforça as garantias do contribuinte e a simplificação processual, reformula a organização judiciária tributária e estabelece um novo regime geral para as infracções tributárias"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2001-01-25",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1565",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2001-01-25",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-01-25",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANCAS",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Pina Moura"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136226",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1666-1667",
+                  "1669-1670"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-26",
+                "pubLeg": "VIII",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/041/2001-01-26/1666?pgs=1666-1667,1669-1670&org=PLC"
+              }
+            ],
+            "sumario": "REFORÇA AS GARANTIAS DO CONTRIBUINTE E A SIMPLIFICACAO PROCESSUAL REFORMULA A ORGANIZACAO JUDICIARIA TRIBUTARIA E ESTABELECE UM NOVO REGIME GERAL PARA AS INFRACCOES TRIBUTARIAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1625",
+                "nome": "Maria Celeste Cardona"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136227",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1667-1667",
+                  "1672-1672"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-26",
+                "pubLeg": "VIII",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/041/2001-01-26/1667?pgs=1667,1672&org=PLC"
+              }
+            ],
+            "sumario": "REFORÇA AS GARANTIAS DO CONTRIBUINTE E A SIMPLIFICACAO PROCESSUAL REFORMULA A ORGANIZACAO JUDICIARIA TRIBUTARIA E ESTABELECE UM NOVO REGIME GERAL PARA AS INFRACCOES TRIBUTARIAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136229",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1667-1668",
+                  "1674-1675"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-26",
+                "pubLeg": "VIII",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/041/2001-01-26/1667?pgs=1667-1668,1674-1675&org=PLC"
+              }
+            ],
+            "sumario": "REFORÇA AS GARANTIAS DO CONTRIBUINTE E A SIMPLIFICACAO PROCESSUAL REFORMULA A ORGANIZACAO JUDICIARIA TRIBUTARIA E ESTABELECE UM NOVO REGIME GERAL PARA AS INFRACCOES TRIBUTARIAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "123",
+                "nome": "Miguel Macedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136230",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1669-1669"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-26",
+                "pubLeg": "VIII",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/041/2001-01-26/1669?pgs=1669&org=PLC"
+              }
+            ],
+            "sumario": "REFORÇA AS GARANTIAS DO CONTRIBUINTE E A SIMPLIFICACAO PROCESSUAL REFORMULA A ORGANIZACAO JUDICIARIA TRIBUTARIA E ESTABELECE UM NOVO REGIME GERAL PARA AS INFRACCOES TRIBUTARIAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136233",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1670-1671",
+                  "1673-1673"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-26",
+                "pubLeg": "VIII",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/041/2001-01-26/1670?pgs=1670-1671,1673&org=PLC"
+              }
+            ],
+            "sumario": "REFORÇA AS GARANTIAS DO CONTRIBUINTE E A SIMPLIFICACAO PROCESSUAL REFORMULA A ORGANIZACAO JUDICIARIA TRIBUTARIA E ESTABELECE UM NOVO REGIME GERAL PARA AS INFRACCOES TRIBUTARIAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1374",
+                "nome": "João Pedro Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136234",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1673-1675"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-26",
+                "pubLeg": "VIII",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/041/2001-01-26/1673?pgs=1673-1675&org=PLC"
+              }
+            ],
+            "sumario": "REFORÇA AS GARANTIAS DO CONTRIBUINTE E A SIMPLIFICACAO PROCESSUAL REFORMULA A ORGANIZACAO JUDICIARIA TRIBUTARIA E ESTABELECE UM NOVO REGIME GERAL PARA AS INFRACCOES TRIBUTARIAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1537",
+                "nome": "Hugo Velosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136235",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1675-1679"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-26",
+                "pubLeg": "VIII",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/041/2001-01-26/1675?pgs=1675-1679&org=PLC"
+              }
+            ],
+            "sumario": "REFORÇA AS GARANTIAS DO CONTRIBUINTE E A SIMPLIFICACAO PROCESSUAL REFORMULA A ORGANIZACAO JUDICIARIA TRIBUTARIA E ESTABELECE UM NOVO REGIME GERAL PARA AS INFRACCOES TRIBUTARIAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136236",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1677-1678"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-26",
+                "pubLeg": "VIII",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/041/2001-01-26/1677?pgs=1677-1678&org=PLC"
+              }
+            ],
+            "sumario": "REFORÇA AS GARANTIAS DO CONTRIBUINTE E A SIMPLIFICACAO PROCESSUAL REFORMULA A ORGANIZACAO JUDICIARIA TRIBUTARIA E ESTABELECE UM NOVO REGIME GERAL PARA AS INFRACCOES TRIBUTARIAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136238",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1678-1678"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-26",
+                "pubLeg": "VIII",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/041/2001-01-26/1678?pgs=1678&org=PLC"
+              }
+            ],
+            "sumario": "REFORÇA AS GARANTIAS DO CONTRIBUINTE E A SIMPLIFICACAO PROCESSUAL REFORMULA A ORGANIZACAO JUDICIARIA TRIBUTARIA E ESTABELECE UM NOVO REGIME GERAL PARA AS INFRACCOES TRIBUTARIAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1625",
+                "nome": "Maria Celeste Cardona"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136240",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1679-1681"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-26",
+                "pubLeg": "VIII",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/041/2001-01-26/1679?pgs=1679-1681&org=PLC"
+              }
+            ],
+            "sumario": "REFORÇA AS GARANTIAS DO CONTRIBUINTE E A SIMPLIFICACAO PROCESSUAL REFORMULA A ORGANIZACAO JUDICIARIA TRIBUTARIA E ESTABELECE UM NOVO REGIME GERAL PARA AS INFRACCOES TRIBUTARIAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1373",
+                "nome": "Osvaldo de Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136241",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1680-1680"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-26",
+                "pubLeg": "VIII",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/041/2001-01-26/1680?pgs=1680&org=PLC"
+              }
+            ],
+            "sumario": "REFORÇA AS GARANTIAS DO CONTRIBUINTE E A SIMPLIFICACAO PROCESSUAL REFORMULA A ORGANIZACAO JUDICIARIA TRIBUTARIA E ESTABELECE UM NOVO REGIME GERAL PARA AS INFRACCOES TRIBUTARIAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  JUSTIÇA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "António Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136242",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1681-1681"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-01-26",
+                "pubLeg": "VIII",
+                "pubNr": "41",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/041/2001-01-26/1681?pgs=1681&org=PLC"
+              }
+            ],
+            "sumario": "REFORÇA AS GARANTIAS DO CONTRIBUINTE E A SIMPLIFICACAO PROCESSUAL REFORMULA A ORGANIZACAO JUDICIARIA TRIBUTARIA E ESTABELECE UM NOVO REGIME GERAL PARA AS INFRACCOES TRIBUTARIAS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "104395",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1565",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-01-26",
+        "pubLeg": "VIII",
+        "pubNr": "41",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/041/2001-01-26?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
