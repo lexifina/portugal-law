@@ -1,0 +1,45 @@
+# Acórdão do Supremo Tribunal de Justiça de 1996-06-12, processo 96B071
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 96B071
+
+**Nº Convencional:** JSTJ00030435
+
+**Relator:** SOUSA INES
+
+**Descritores:** SOCIEDADE POR QUOTAS; ASSEMBLEIA GERAL; NULIDADE; ANULABILIDADE; CONFLITO DE INTERESSES; IMPEDIMENTO; DIREITOS DOS SÓCIOS; BONS COSTUMES; BOA-FÉ
+
+**Nº do Documento:** SJ199606120000712
+
+**Data do Acordão:** 06/12/1996
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REVISTA.
+
+**Decisão:** NEGADA A REVISTA.
+
+**Indicações Eventuais:** V SERRA RLJ ANO108 PAG244.
+
+**Área Temática:** DIR COM - SOC COMERCIAIS.
+
+## Sumário
+
+I - Se, com a inclusão de novos pontos e a alteração da ordem de deliberação, na ordem de trabalhos da assembleia geral da sociedade ré, se teve em vista conseguir, a final, autorizar determinados sócios a adquirirem participações sociais noutra sociedade e a nela exercerem actividades de sócio e de sócio-gerente, tal procedimento não é ferido de nulidade ao abrigo da última parte do artigo 56, n. 1, do CSC, já que o artigo 254, n. 1, do mesmo Código permite que os sócios deliberem nesse sentido.
+
+II - Para que o impedimento de conflito de interesses, previsto no artigo 251, n. 1, do CSC, se verifique é necessário, antes de tudo o mais e sempre, que o seja "relativamente à matéria da deliberação"; o interesse do sócio apura-se relativamente à matéria da própria deliberação, de modo objectivo e não subjectivamente por virtude de eventuais relações entre o sócio a respeito do qual a questão se coloque e o outro sócio, esse sim titular do interesse a que respeita a matéria da deliberação.
+
+III - Se o impedimento se não verifica quando exista um acordo parassocial respeitante ao direito de voto, por maioria de razão não existe quando tal acordo se não revela e o sócio conserve inteira liberdade de votar.
+
+IV - O caso de cada um dos gerentes é individual, diferente dos demais, nada impedindo que em relação a um deles os sócios entendam dar o consentimento e em relação a outro não o dar, atendendo às pecularidades de cada caso, ao real e concreto interesse da sociedade.
+
+V - Estender o impedimento ao sócio que se encontra em situação paralela, semelhante, análoga ou especialmente ligado ao impedimento (como titular do interesse em conflito com o da sociedade relativamente à concreta matéria) significaria introduzir um largo factor de insegurança e arriscaria a que um excessivo número de sócios (ou até a totalidade) se encontrasse impedido de votar.
+
+VI - O conceito de bons costumes recebido no artigo 56, n. 1, alínea d), do CSC, bem mais restrito que o de boa fé, é de natureza indeterminada e refere-se à moral social nas áreas da liberdade, da conduta sexual e familiar e da deontologia profissional.
+
+VII - Os direitos especiais atribuem ao sócio titular uma vantagem especial, com base no próprio estatuto social, ao serviço do interesse individual do respectivo titular (e não dos interesses colectivos da sociedade) a quem conferem uma posição de supremacia obtida pela via contratual frente aos demais sócios.
