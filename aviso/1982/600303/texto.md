@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo informação da Embaixada da Bélgica em Lisboa, o Governo das Ilhas Salomão depositou, em 17 de Setembro de 1981, a notificação de sucessão respeitante à Convenção para a Unificação de Certas Regras no Campo de Assistência e Salvaguarda Marítima, e Protocolo da assinatura, assinada em Bruxelas a 23 de Setembro de 1910, com efeitos a partir da data da independência daquele Estado, em 7 de Julho de 1978, com os direitos e obrigações assumidos anteriormente pelo Reino Unido e as reservas formuladas ao tempo pela Grã-Bretanha.
+Direcção-Geral dos Negócios Económicos, 8 de Fevereiro de 1982. - O Adjunto do Director-Geral, António Guilherme Lopes de Oliveira Cascais.
