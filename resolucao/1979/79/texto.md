@@ -1,0 +1,8 @@
+Resolução n.º 79/79
+1 - Na sequência da resolução do Conselho da Revolução de 27 de Novembro de 1975, veio o Conselho de Ministros, através da sua resolução de 5 de Dezembro do mesmo ano, decretar a intervenção do Estado em várias empresas jornalísticas, entre as quais a Empresa do Jornal de Notícias, S. A. R. L., proprietária do Jornal de Notícias, e a Empresa de O Comércio do Porto, S. A. R. L., proprietária de O Comércio do Porto.
+2 - O evoluir da situação naquelas empresas levou entretanto o Conselho de Ministros, através da sua Resolução n.º 242/77, de 31 de Agosto, a designar comissões interministeriais incumbidas de prepararem a desintervenção das mesmas.
+3 - Os relatórios das referidas comissões interministeriais apontam, em termos de conclusão, para a restituição das empresas aos seus titulares, eventualmente seguida de medidas de saneamento económico-financeiro que possam vir a ser acordadas.
+Tendo em consideração os estudos relativos à desintervenção do Estado na Empresa de O Comércio do Porto, S. A. R. L., e na Empresa do Jornal de Notícias, S. A. R. L., e, nomeadamente, os relatórios das comissões interministeriais a que se refere o Decreto-Lei n.º 907/76, de 31 de Dezembro, e não se afigurando existir qualquer motivo para o prosseguimento da situação de intervenção:
+O Conselho de Ministros, reunido em 17 de Janeiro de 1979, resolveu:
+A intervenção do Estado na Empresa do Jornal de Notícias, S. A. R. L., e na Empresa de O Comércio do Porto, S. A. R. L., cessa de imediato, por restituição aos respectivos titulares, nos termos da alínea d) do n.º 1 do artigo 24.º do Decreto-Lei n.º 422/76, de 29 de Maio.
+Presidência do Conselho de Ministros, 17 de Janeiro de 1979. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.
