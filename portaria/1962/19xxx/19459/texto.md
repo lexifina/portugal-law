@@ -1,0 +1,5 @@
+Portaria n.º 19459
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, abrir um crédito especial de 28200$00, a inscrever em adicional ao capítulo 4.º, artigo 464.º, da tabela de despesa ordinária do orçamento geral de Moçambique para o ano em curso, destinado ao pagamento da gratificação de 150$00 de senha de presença aos membros da comissão administrativa do Hospital Central Rainha D. Amélia, tomando como contrapartida as disponibilidades existentes na verba do capítulo 4.º, artigo 398.º, n.º 2) «Administração geral e fiscalização - Serviços de saúde e higiene - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal contratado», da referida tabela de despesa.
+Ministério do Ultramar, 27 de Outubro de 1962. - Pelo Ministro do Ultramar, João da Costa Freitas, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Moçambique. - J. Costa Freitas.
