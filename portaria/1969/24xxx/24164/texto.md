@@ -1,0 +1,3 @@
+Portaria n.º 24164
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Indústria, ouvido o Conselho de Normalização, aprovar, com as alterações propostas nos respectivos pareceres, a revisão das normas NP-175 (1958) - Ovos de galinha. Classificação comercial, e NP-176 (1958) - Ovos de galinha. Embalagens em grades de madeira e acondicionamento, feitas nos termos do artigo 9.º do Estatuto de Normalização (Decreto-Lei n.º 38801, de 25 de Junho de 1952).
+Secretaria de Estado da Indústria, 5 de Julho de 1969. - O Secretário de Estado da Indústria, Rogério da Conceição Serafim Martins.
