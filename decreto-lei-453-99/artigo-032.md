@@ -2,7 +2,7 @@
 
 ### Direitos inerentes às unidades de titularização
 
-1 - As unidades de titularização conferem aos respetivos detentores, cumulativa ou exclusivamente, os seguintes direitos, nos termos e condições estabelecidos no regulamento de gestão:
+1 - As unidades de titularização conferem aos respectivos detentores, cumulativa ou exclusivamente, os seguintes direitos, nos termos e condições estabelecidos no regulamento de gestão:
 
 a) Direito ao pagamento de rendimentos periódicos;
 

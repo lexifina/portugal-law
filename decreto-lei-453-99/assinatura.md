@@ -1,7 +1,3 @@
-## Capítulo VI
-
-## Disposição final
-
 Visto e aprovado em Conselho de Ministros de 9 de Setembro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Manuel de Matos Fernandes.
 
 Promulgado em 15 de Outubro de 1999.

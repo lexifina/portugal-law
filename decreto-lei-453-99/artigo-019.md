@@ -2,4 +2,8 @@
 
 ### Fundos próprios
 
-Às sociedades gestoras aplica-se o disposto nos n.os 1, 2 e 4 do artigo 71.º-M do Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à Lei n.º 16/2015, de 24 de fevereiro, na sua redação atual.
+Os fundos próprios das sociedades gestoras não podem ser inferiores às seguintes percentagens do valor líquido global dos fundos que administrem:
+
+a) Até (euro) 75000000 - 0,5%;
+
+b) No excedente - 1(por mil).
