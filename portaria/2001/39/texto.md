@@ -1,0 +1,94 @@
+Portaria n.º 39/2001
+de 18 de Janeiro
+Nos últimos anos verificou-se um crescimento da população prisional e um consequente aumento da produção documental, facto que tem vindo a originar graves problemas na gestão documental.
+Com efeito, tornou-se necessário implementar uma política de gestão de documentos, imprescindível para a recuperação, racionalização e organização dos arquivos.
+Assim, tendo em conta o conceito de ciclo vital dos documentos, pretende-se a aplicação de práticas arquivísticas adequadas não só à compreensão do valor administrativo, fiscal e legal, mas também do valor histórico do património documental.
+Pretende-se com a presente portaria, de acordo com o modelo consagrado pelo Instituto dos Arquivos Nacionais/Torre do Tombo, dotar a Direcção-Geral dos Serviços Prisionais de um instrumento legal que, de forma articulada, permita uma gestão integrada de documentos, no tocante à avaliação, selecção, substituição de suporte, eliminação e remessa para o arquivo intermédio e definitivo, bem como dos elementos que digam respeito à acessibilidade e comunicabilidade.
+Nestes termos, ao abrigo do disposto na alínea a) do artigo 1.º do Decreto-Lei n.º 447/88, de 10 de Dezembro manda o Governo, pelos Ministros da Justiça e da Cultura, o seguinte:
+REGULAMENTO ARQUIVÍSTICO DA DIRECÇÃO-GERAL DOS SERVIÇOS PRISIONAIS
+Artigo 1.º
+Âmbito de aplicação
+1 - O presente Regulamento é aplicável a toda a documentação produzida e recebida pelos serviços centrais e externos, no âmbito das suas atribuições e competências, pela Direcção-Geral dos Serviços Prisionais, adiante designada por DGSP.
+2 - São abrangidos pelas disposições desta portaria os arquivos de todos os serviços da DGSP.
+Artigo 2.º
+Avaliação
+1 - O processo de avaliação dos documentos do arquivo da DGSP tem por objectivo a determinação do seu valor para os efeitos da respectiva conservação permanente ou eliminação, findos os respectivos prazos de conservação em fase activa e semiactiva.
+2 - É da responsabilidade da DGSP a atribuição dos prazos de conservação dos documentos em fase activa e semiactiva.
+3 - Os prazos de conservação são os que constam da tabela de selecção do anexo I da presente portaria.
+4 - Os referidos prazos de conservação são contados a partir da data final dos processos, dos documentos integrados em colecção, dos registos ou da constituição dos dossiers.
+5 - Cabe ao Instituto dos Arquivos Nacionais/Torre do Tombo, adiante designado por IAN/TT, a determinação do destino final dos documentos, sob proposta da DGSP.
+Artigo 3.º
+Selecção
+1 - A selecção dos documentos a conservar permanentemente em arquivo definitivo deve ser efectuada pela DGSP, de acordo com as orientações estabelecidas na tabela de selecção.
+2 - Os documentos aos quais for reconhecido valor arquivístico devem ser conservados em arquivo no suporte original, excepto nos casos cuja substituição seja previamente autorizada nos termos do artigo 10.º
+Artigo 4.º
+Tabela de selecção
+1 - A tabela de selecção consigna e sintetiza as disposições relativas à avaliação documental.
+2 - A tabela de selecção deve ser submetida a revisões, de modo a adequá-la às alterações na produção documental.
+3 - Para os efeitos do disposto no número anterior, deve a DGSP obter o parecer favorável do IAN/TT, enquanto organismo coordenador da política arquivística nacional, mediante proposta devidamente fundamentada.
+Artigo 5.º
+Remessas para o arquivo intermédio
+1 - Findos os prazos de conservação em fase activa, a documentação com reduzidas taxas de utilização deverá, de acordo com o estipulado na tabela de selecção, ser remetida do arquivo corrente para o arquivo intermédio.
+2 - As remessas dos documentos para arquivo intermédio devem ser efectuadas de acordo com a periodicidade que a DGSP vier a determinar.
+Artigo 6.º
+Remessas para arquivo definitivo
+1 - Os documentos cujo valor arquivístico justifique a sua conservação permanente, de acordo com a tabela de selecção, deverão ser remetidos para arquivo definitivo após o cumprimento dos respectivos prazos de conservação.
+2 - As remessas não podem pôr em causa a integridade dos conjuntos documentais.
+3 - A documentação remetida para arquivo definitivo deve ser acompanhada dos respectivos instrumentos de recuperação de informação ou outros elementos úteis de referência.
+Artigo 7.º
+Formalidades das remessas
+1 - As remessas dos documentos mencionados nos artigos 5.º e 6.º devem obedecer às seguintes formalidades:
+a) Ser acompanhadas de um auto de entrega a título de prova;
+b) O auto de entrega deve ter anexo uma guia de remessa destinada à identificação e ao controlo da documentação remetida, obrigatoriamente rubricada e autenticada pelas partes envolvidas no processo;
+c) A guia de remessa será feita em triplicado, ficando o original no serviço destinatário, sendo o duplicado devolvido ao serviço de origem;
+d) O triplicado será provisoriamente utilizado no arquivo intermédio ou definitivo como instrumento de descrição documental, após ter sido conferido e completado com as referências topográficas e demais informação pertinente, só podendo ser eliminado após a elaboração do respectivo inventário.
+2 - Os modelos referidos nas alíneas anteriores são os que constam do anexo II à presente portaria.
+Artigo 8.º
+Eliminação
+1 - A eliminação dos documentos aos quais não for reconhecido valor arquivístico, não se justificando a sua conservação permanente, deve ser efectuada logo após o cumprimento dos respectivos prazos de conservação fixados na tabela de selecção.
+2 - A eliminação dos documentos que não estejam mencionados na tabela de selecção carece de autorização expressa no IAN/TT.
+3 - A decisão sobre o processo de eliminação deve atender a critérios de confidencialidade e racionalidade de meios e custos.
+Artigo 9.º
+Formalidades de eliminação
+1 - As eliminações dos documentos mencionados no artigo 8.º devem obedecer às seguintes formalidades:
+a) Ser acompanhadas de um auto de eliminação que fará prova do abate patrimonial;
+b) O auto de eliminação deve ser assinado pelo dirigente do serviço ou organismo em causa, bem como pelo responsável do arquivo;
+c) O referido auto será feito em duplicado, ficando o original no serviço que procede à eliminação, sendo o duplicado remetido para o IAN/TT.
+2 - O modelo consta do anexo III à presente portaria.
+Artigo 10.º
+Substituição do suporte
+1 - O IAN/TT autoriza, nos termos do n.º 2 do artigo 5.º do Decreto-Lei n.º 121/92, de 2 de Julho, que a substituição dos documentos originais por cópias em microfilme possa ser extensiva a todas as séries de conservação permanente que figuram na tabela do anexo I, sempre que a direcção da DGSP a considerar económica e funcionalmente justificada.
+2 - Compete ao IAN/TT a definição dos pressupostos técnicos relativos à substituição do suporte enunciado no número anterior, em particular no que se refere à documentação de conservação permanente, por forma a garantir a preservação, segurança, autenticidade, legalidade, durabilidade e consulta das cópias produzidas, de acordo com as normas técnicas da International Standard Organization (ISO).
+3 - Dos filmes são feitos uma matriz (negativa em sais de prata - 1.ª geração), dois duplicados da matriz (positivos em sais de prata - 2.ª geração) e um duplicado de consulta.
+A matriz tem o valor de original, e os duplicados, em sais de prata, respectivamente de segurança da matriz e de trabalho.
+4 - Os filmes não podem sofrer cortes ou emendas nem apresentar rasuras ou quaisquer outras alterações que ponham em causa a sua integridade e reproduzirão os respectivos termos de abertura e encerramento, autenticados pela assinatura do responsável pela DGSP, sob selo branco ou de perfuração.
+5 - No caso de recurso à prestação de serviços para microfilmagem dos documentos, a administração da entidade prestadora do serviço assinará, igualmente, os termos de abertura e encerramento mencionados no número anterior.
+6 - Dos termos de abertura e encerramento constarão, ainda, a descrição dos documentos reproduzidos, bem como toda a informação técnica necessária ao controlo de qualidade.
+7 - Deverá ser elaborado um registo e fichas de controlo de qualidade do suporte fílmico produzido.
+8 - Ao IAN/TT reserva-se o direito de realizar, por amostragem, testes aos filmes executados.
+9 - As cópias obtidas a partir de microcópia autenticada têm força probatória de original, nos termos do disposto no artigo 3.º do Decreto-Lei n.º 447/88, de 10 de Dezembro.
+Artigo 11.º
+Acessibilidade e comunicabilidade
+1 - O acesso e comunicabilidade do arquivo da DGSP atenderá a critérios de confidencialidade da informação, em conformidade com a lei geral.
+2 - Sem prejuízo do regime de acesso de documentos da administração, podem ser adoptadas normas, de acordo com o regulamento interno de arquivo, que regulem o acesso aos documentos do acervo documental.
+Artigo 12.º
+Fiscalização
+Compete ao IAN/TT a inspecção sobre a execução do disposto na presente portaria.
+Artigo 13.º
+Entrada em vigor
+Esta portaria entra em vigor no dia imediato ao da sua publicação.
+O Ministro da Justiça, António Luís Santos Costa, em 21 de Dezembro de 2000. - O Ministro da Cultura, José Estêvão Cangarato Sasportes, em 18 de Dezembro de 2000.
+
+ANEXO I
+Tabela de selecção
+(ver tabela no documento original)
+
+ANEXO II
+AUTO DE ENTREGA
+(ver modelo no documento original)
+GUIA DE REMESSA
+(ver modelo no documento original)
+
+ANEXO III
+AUTO DE ELIMINAÇÃO
+(ver modelo no documento original)
