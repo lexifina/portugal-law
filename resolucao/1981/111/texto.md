@@ -1,0 +1,5 @@
+Resolução n.º 111/81
+Convindo adequar as disposições da Resolução n.º 422/80, de 31 de Dezembro, do Conselho de Ministros, publicada no Diário da República, 1.ª série, n.º 301, de 31 de Dezembro de 1980, de modo a, assegurando um maior apoio à Comissão de Saneamento Básico do Algarve, permitir-lhe um melhor funcionamento no âmbito das tarefas para que foi criada, o Conselho de Ministros, reunido em 19 de Maio de 1981, resolveu alterar os n.os 3 e 9 da referida resolução do modo seguinte:
+3 - A CSBA funcionará junto da Comissão de Coordenação da Região do Algarve, que lhe prestará o apoio local necessário ao cumprimento das suas tarefas, e será apoiada administrativamente pela Secretaria-Geral da Presidência do Conselho de Ministros.
+9 - Os membros da CSBA, quando forem funcionários públicos e exercerem, nos termos legais, as suas funções em regime de acumulação, poderão ser abonados por uma gratificação mensal a fixar por despacho do Primeiro-Ministro e dos Ministros das Finanças e do Plano e da Reforma Administrativa.
+Presidência do Conselho de Ministros, 19 de Maio de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
