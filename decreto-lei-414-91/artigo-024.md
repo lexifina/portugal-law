@@ -1,7 +1,3 @@
-## Subsecção VII
-
-## Ramo laboratorial de medicina nuclear e radiações ionizantes
-
 ## Subsecção VIII
 
 ## Ramo de veterinária

@@ -4,7 +4,7 @@
 
 # Artigo 9.º
 
-### Ramos de actividade
+### Enumeração
 
 1 - A carreira dos técnicos superiores de saúde desenvolve-se por ramos de actividade que a seguir se indicam juntamente com as correspondentes licenciaturas adequadas:
 
@@ -14,31 +14,31 @@ Licenciaturas em Engenharia do Ambiente, Engenharia Civil, Engenharia Química e
 
 Ramo de farmácia:
 
-Licenciaturas em Ciências Farmacêuticas e antigas licenciaturas em Farmácia e Ciências Farmacêuticas (opção A e ramo A);
+Licenciaturas em Farmácia, Ciências Farmacêuticas e as antigas licenciaturas em Ciências Farmacêuticas (ramo A e opção A);
 
 Ramo de física hospitalar:
 
-Licenciaturas em Física, Físico-Químicas e Engenharia Física, Física Aplicada, Física Tecnológica e Engenharia Física Tecnológica;
+Licenciaturas em Física, Físico-Químicas e Engenharia Física;
 
 Ramo de genética:
 
-Licenciaturas em Biologia, Bioquímica, Ciências Farmacêuticas, Química e antigas licenciaturas em Farmácia e Ciências Farmacêuticas (opção B e ramo B e opção C e ramo C);
+Licenciaturas em Biologia, Bioquímica, Ciências Farmacêuticas, Farmácia e Química;
 
 Ramo de laboratório:
 
-Licenciaturas em Biologia, Bioquímica, Ciências Farmacêuticas, Química, Química Aplicada, Química Tecnológica e antigas licenciaturas em Farmácia e Ciências Farmacêuticas (opção B e ramo B e opção C e ramo C);
+Licenciaturas em Biologia, Bioquímica, Ciências Farmacêuticas, Farmácia, Química e as antigas licenciaturas em Ciências Farmacêuticas (opção C ou ramo C);
+
+Ramo laboratorial de medicina nuclear e radiações ionizantes:
+
+Licenciaturas em Biologia, Ciências Farmacêuticas, Ciências Físico-Químicas, Engenharia Electrotécnica, Engenharia Química, Farmácia, Física e Química;
 
 Ramo de nutrição:
 
-Licenciaturas em Ciências de Nutrição e Dietética e Nutrição, da Faculdade de Medicina da Universidade de Lisboa.
+Licenciatura em Ciências de Nutrição;
 
 Ramo de veterinária:
 
 Licenciatura em Medicina Veterinária.
-
-Ramo de psicologia clínica:
-
-Licenciatura em Psicologia e em Psicologia Clínica.
 
 2 - Os ramos reflectem a diferenciação e qualificação profissionais, sem prejuízo da intercomplementaridade de formação e da devida cooperação profissional.
 

@@ -30,6 +30,6 @@ e) Processo de avaliação final dos estagiários.
 
 9 - Os estagiários têm a remuneração estabelecida no mapa anexo, sem prejuízo de opção pela correspondente ao lugar de origem, nas situações de comissão de serviço extraordinária.
 
-10 - Após a publicitação dos resultados relativos ao aproveitamento no estágio, o contrato administrativo de provimento ou a comissão de serviço extraordinária consideram-se automaticamente renovados até ao provimento, por concurso, em lugar da carreira com o limite máximo de dois anos a contar do dia 1 do mês seguinte ao da referida publicitação.
+10 - Após a publicitação dos resultados relativos ao aproveitamento no estágio, o contrato administrativo de provimento ou a comissão de serviço extraordinária consideram-se automaticamente renovados até ao provimento, por concurso, em lugar da carreira, com o limite máximo de um ano a contar do dia 1 do mês seguinte ao da referida publicitação.
 
 11 - O tempo de serviço prestado durante o período de renovação previsto no número anterior conta para todos os efeitos legais, com excepção dos remuneratórios, na categoria de assistente, desde que àquele período se siga o provimento nesta categoria.

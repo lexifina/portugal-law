@@ -10,7 +10,7 @@ b) Horário acrescido.
 
 2 - O trabalho em regime de tempo parcial pode ser prestado nas situações e nos termos previstos na lei geral aplicável à função pública.
 
-3 - Em função das condições e necessidades do regular e eficiente funcionamento dos serviços, serão delimitados períodos de prestação de trabalho em serviços de urgência, até ao limite máximo de doze horas semanais, bem como adoptadas modalidades de horário de trabalho previstas na lei geral aplicável à função pública, designadamente horários desfasados, de acordo com regras a definir por despacho do Ministro da Saúde.
+3 - Em função das condições e necessidades do regular e eficiente funcionamento dos serviços, poderão ser delimitados períodos de prestação de trabalho em serviços de urgência, até ao limite máximo de doze horas semanais, bem como ser adoptadas modalidades de horário de trabalho previstas na lei geral aplicável à função pública, designadamente horários desfasados, de acordo com regras a definir por despacho do Ministro da Saúde.
 
 4 - Às modalidades de tempo completo e de horário acrescido corresponde a prestação de trinta e cinco horas e de quarenta e duas horas de trabalho normal por semana, respectivamente.
 

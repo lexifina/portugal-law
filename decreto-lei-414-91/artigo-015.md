@@ -4,9 +4,9 @@
 
 1 - Ao físico hospitalar assistente e assistente principal são atribuídas as seguintes funções, tendo em conta os níveis de complexidade e responsabilidade em que se desenvolvem:
 
-a) O planeamento dos protocolos de aplicação das radiações (fontes externas ou internas), dos radionuclidos, quer no diagnóstico quer na terapêutica, e a responsabilidade pelas medidas físicas envolvidas, controlo da qualidade e optimização das aplicações clínicas;
+a) O planeamento dos protocolos de aplicação das radiações (fontes externas ou internas) e responsabilidade pelas medidas físicas envolvidas, controlo de qualidade e optimização das aplicações clínicas;
 
-b) A dosimetria básica e calibração de todas as fontes de radiação, assim como a calibração de todo o equipamento utilizado e a optimização das condições técnicas de trabalho;
+b) A dosimetria básica e calibração de todas as fontes de radiações, assim como a calibração de todo o equipamento utilizado em dosimetria e sua optimização;
 
 c) O processamento dos dados obtidos nas diferentes aplicações e optimização desta informação através de métodos matemáticos adequados;
 
@@ -26,15 +26,13 @@ a) A coordenação de protocolos de actividades científicas, técnicas e pedag�
 
 b) O desempenho das funções de «oficial das radiações» do departamento;
 
-c) A colaboração no planeamento das instalações de trabalho, apresentando as exigências técnicas inerentes à sua área de actividade;
+c) O planeamento das instalações relativamente às normas de protecção contra as radiações;
 
 d) A assessoria técnica em matérias da sua área;
 
 e) A participação em comissões ou reuniões técnicas com funções normativas dentro da sua área;
 
 f) Todas as funções atribuídas ao assessor superior caso este não exista ou, nas suas faltas ou impedimentos, quando para tal designado.
-
-g) O processamento dos dados obtidos nas diferentes aplicações e optimização desta informação através de métodos matemáticos adequados.
 
 3 - Ao físico hospitalar assessor superior são atribuídas, para além das funções do assistente, do assistente principal e do assessor:
 

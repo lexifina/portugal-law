@@ -8,6 +8,4 @@
 
 3 - O grau é obtido mediante processo de formação pré-carreira.
 
-4 - Mediante portaria do Ministro da Saúde e do membro do Governo que tiver a seu cargo a Administração Pública, podem ser reconhecidos como equivalentes à formação pré-carreira prevista no número anterior cursos de especialização e de pós-licenciatura adequados.
-
-5 - Aos indivíduos possuidores de um dos cursos a que se refere o número anterior é atribuído o grau de especialista.
+4 - O mesmo grau poderá ainda ser atribuído aos indivíduos possuidores de curso de especialização ou de pós-licenciatura adequados, que sejam reconhecidos como equivalentes àquela formação mediante portaria dos Ministros da Saúde e das Finanças.

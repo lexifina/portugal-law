@@ -6,13 +6,13 @@
 
 a) O estudo teórico e prático de métodos de análise laboratorial, sua validação e se necessário execução de técnicas altamente diferenciadas;
 
-b) A avaliação, interpretação e validação de resultados e seu controlo da qualidade;
+b) A avaliação e interpretação de resultados e seu controlo de qualidade;
 
 c) A participação na selecção de reagentes e equipamentos;
 
 d) A integração em equipas de serviço de urgência, conjuntamente com os outros profissionais de saúde do seu departamento, ou serviço, quando este regime se pratique;
 
-e) A responsabilidade por sectores ou unidades de serviço;
+e) A responsabilização por sectores ou unidades de serviço;
 
 f) A cooperação em protocolos de estudo e investigação;
 
@@ -71,5 +71,3 @@ b) A coordenação de todas as actividades de gestão técnica, científica, de 
 c) A avaliação da eficácia e eficiência do serviço, promovendo a sua reorganização e actualização sempre que necessário;
 
 d) A elaboração do relatório de actividades.
-
-e) A garantia da qualidade dos serviços.
