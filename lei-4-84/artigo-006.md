@@ -2,6 +2,6 @@
 
 ### (Protecção da criança)
 
-1 - Durante o primeiro ano de vida a criança será submetida, gratuitamente, ao mínimo de 9 exames médicos, escalonados segundo prescrição médica, de acordo com a sua saúde e o seu estado de desenvolvimento.
+1 - É assegurado à criança, nomeadamente, o direito de efectuar gratuitamente as consultas previstas no Programa de Acção-Tipo em Saúde Infantil e Juvenil do Ministério da Saúde, através da Direcção-Geral da Saúde.
 
-2 - Serão igualmente ministradas à criança as vacinas recomendadas pelos competentes serviços centrais do sector da saúde.
+2 - É assegurado à criança, nomeadamente, o direito de efectuar gratuitamente as vacinações que constam do Programa Nacional de Vacinação.

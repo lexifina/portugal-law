@@ -1,10 +1,10 @@
 # Artigo 10.º
 
-### Faltas e licença por paternidade
+### Licença por paternidade
 
-1 - O pai pode faltar até dois dias úteis, seguidos ou interpolados, por ocasião do nascimento do filho.
+1 - O pai tem direito a uma licença de cinco dias úteis, seguidos ou interpolados, no primeiro mês a seguir ao nascimento do filho.
 
-2 - O pai tem direito a licença, por período de duração igual àquele a que a mãe ainda teria direito, nos termos do n.º 1 do artigo 9.º, nos seguintes casos:
+2 - O pai tem ainda direito a licença, por período de duração igual àquele a que a mãe teria direito, nos termos do n.º 1 do artigo 9.º, e ressalvado o disposto no n.º 6 desse preceito, nos seguintes casos:
 
 a) Incapacidade física ou psíquica da mãe, e enquanto esta se mantiver;
 
