@@ -1,0 +1,691 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "11",
+    "id": "5696",
+    "titulo": "Aprova medidas de salvaguarda da liberdade de imprensa."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1995-12-14",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1508",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1995-12-14",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "5688",
+        "leg": "VII",
+        "nr": "14",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "466",
+            "obs": null,
+            "pag": [
+              "472-484"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1995-12-15",
+            "pubLeg": "VII",
+            "pubNr": "16",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/016/1995-12-15/472?pgs=472-484&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Revoga a Lei n° 15/95, de 25 de Maio, eliminando limitações à liberdade de imprensa."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1995-12-14",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "484",
+                "nome": "José Saraiva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "16:40",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45557",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "475-477"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-15",
+                "pubLeg": "VII",
+                "pubNr": "16",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/016/1995-12-15/475?pgs=475-477&org=PLC"
+              }
+            ],
+            "sumario": "APROVA MEDIDAS DE SALVAGUARDA DE LIBERDADE DE IMPRENSA REVOGA A LEI 15/95 DE 25 DE MAIO, ELIMINANDO LIMITACOES LIBERDADE DE IMPRENSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1182",
+                "nome": "Ruben de Carvalho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "16:40",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45563",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "483-484"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-15",
+                "pubLeg": "VII",
+                "pubNr": "16",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/016/1995-12-15/483?pgs=483-484&org=PLC"
+              }
+            ],
+            "sumario": "APROVA MEDIDAS DE SALVAGUARDA DE LIBERDADE DE IMPRENSAREVOGA A LEI 15/95 DE 25 DE MAIO, ELIMINANDO LIMITACOESLIBERDADE DE IMPRENSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "484",
+                "nome": "José Saraiva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "16:40",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45565",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "482-483"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-15",
+                "pubLeg": "VII",
+                "pubNr": "16",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/016/1995-12-15/482?pgs=482-483&org=PLC"
+              }
+            ],
+            "sumario": "APROVA MEDIDAS DE SALVAGUARDA DE LIBERDADE DE IMPRENSAREVOGA A LEI 15/95 DE 25 DE MAIO, ELIMINANDO LIMITACOESLIBERDADE DE IMPRENSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "16:40",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45566",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "481-482"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-15",
+                "pubLeg": "VII",
+                "pubNr": "16",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/016/1995-12-15/481?pgs=481-482&org=PLC"
+              }
+            ],
+            "sumario": "APROVA MEDIDAS DE SALVAGUARDA DE LIBERDADE DE IMPRENSAREVOGA A LEI 15/95 DE 25 DE MAIO, ELIMINANDO LIMITACOESLIBERDADE DE IMPRENSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1040",
+                "nome": "António Brochado Pedras"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "16:40",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45567",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "480-481"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-15",
+                "pubLeg": "VII",
+                "pubNr": "16",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/016/1995-12-15/480?pgs=480-481&org=PLC"
+              }
+            ],
+            "sumario": "APROVA MEDIDAS DE SALVAGUARDA DE LIBERDADE DE IMPRENSAREVOGA A LEI 15/95 DE 25 DE MAIO, ELIMINANDO LIMITACOESLIBERDADE DE IMPRENSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "123",
+                "nome": "Miguel Macedo"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "16:40",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45568",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "479-480",
+                  "481-481",
+                  "482-482",
+                  "483-483",
+                  "484-484"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-15",
+                "pubLeg": "VII",
+                "pubNr": "16",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/016/1995-12-15/479?pgs=479-480,481,482,483,484&org=PLC"
+              }
+            ],
+            "sumario": "APROVA MEDIDAS DE SALVAGUARDA DE LIBERDADE DE IMPRENSAREVOGA A LEI 15/95 DE 25 DE MAIO, ELIMINANDO LIMITACOESLIBERDADE DE IMPRENSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "484",
+                "nome": "José Saraiva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "16:40",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45570",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "479-479"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-15",
+                "pubLeg": "VII",
+                "pubNr": "16",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/016/1995-12-15/479?pgs=479&org=PLC"
+              }
+            ],
+            "sumario": "APROVA MEDIDAS DE SALVAGUARDA DE LIBERDADE DE IMPRENSAREVOGA A LEI 15/95 DE 25 DE MAIO, ELIMINANDO LIMITACOESLIBERDADE DE IMPRENSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1040",
+                "nome": "António Brochado Pedras"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "16:40",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45571",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "477-478",
+                  "479-479"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-15",
+                "pubLeg": "VII",
+                "pubNr": "16",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/016/1995-12-15/477?pgs=477-478,479&org=PLC"
+              }
+            ],
+            "sumario": "APROVA MEDIDAS DE SALVAGUARDA DE LIBERDADE DE IMPRENSAREVOGA A LEI 15/95 DE 25 DE MAIO, ELIMINANDO LIMITACOESLIBERDADE DE IMPRENSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "16:40",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45572",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "473-475"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-15",
+                "pubLeg": "VII",
+                "pubNr": "16",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/016/1995-12-15/473?pgs=473-475&org=PLC"
+              }
+            ],
+            "sumario": "APROVA MEDIDAS DE SALVAGUARDA DE LIBERDADE DE IMPRENSAREVOGA A LEI 15/95 DE 25 DE MAIO, ELIMINANDO LIMITACOESLIBERDADE DE IMPRENSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "16:40",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45574",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "473-473"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-15",
+                "pubLeg": "VII",
+                "pubNr": "16",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/016/1995-12-15/473?pgs=473&org=PLC"
+              }
+            ],
+            "sumario": "APROVA MEDIDAS DE SALVAGUARDA DE LIBERDADE DE IMPRENSAREVOGA A LEI 15/95 DE 25 DE MAIO, ELIMINANDO LIMITACOESLIBERDADE DE IMPRENSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "16:40",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45575",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "473-473"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-15",
+                "pubLeg": "VII",
+                "pubNr": "16",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/016/1995-12-15/473?pgs=473&org=PLC"
+              }
+            ],
+            "sumario": "APROVA MEDIDAS DE SALVAGUARDA DE LIBERDADE DE IMPRENSAREVOGA A LEI 15/95 DE 25 DE MAIO, ELIMINANDO LIMITACOESLIBERDADE DE IMPRENSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1352",
+                "nome": "Paulo Portas"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "16:40",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45577",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "472-472"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-15",
+                "pubLeg": "VII",
+                "pubNr": "16",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/016/1995-12-15/472?pgs=472&org=PLC"
+              }
+            ],
+            "sumario": "APROVA MEDIDAS DE SALVAGUARDA DE LIBERDADE DE IMPRENSAREVOGA A LEI 15/95 DE 25 DE MAIO, ELIMINANDO LIMITACOESLIBERDADE DE IMPRENSA",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "104211",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "110597",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1995-12-15",
+        "pubLeg": "VII",
+        "pubNr": "16",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/016/1995-12-15?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
