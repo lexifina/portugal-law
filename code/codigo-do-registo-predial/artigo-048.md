@@ -1,5 +1,5 @@
 # Artigo 48.º
 
-### (Aquisição por arrematação judicial)
+### (Aquisição por venda judicial)
 
-O registo provisório de aquisição por arrematação judicial é feito com base em certidão comprovativa da arrematação e do depósito da décima parte do preço e das despesas prováveis.
+Nos casos de venda judicial em que a lei dispense o adquirente do depósito da totalidade do preço, o registo provisório de aquisição é feito com base em certidão comprovativa da identificação do adquirente, do objecto e do depósito da parte do preço exigida.

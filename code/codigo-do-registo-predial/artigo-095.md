@@ -14,7 +14,7 @@ d) Na de promessa de alienação ou de oneração de bens: o prazo da promessa, 
 
 e) Na de pacto ou disposição testamentária de preferência: o contrato ou o testamento a que respeita, a duração da preferência e as demais condições especificadas no título respeitantes às prestações das partes;
 
-f) Na de emissão de alvará de loteamento: o número, a data e as respectivas especificações; nos aditamentos ao alvará: o número, a data, a fase a que correspondem e respectivas especificações; nas alterações ao alvará: o número, a data e as novas especificações;
+f) Na de autorização de loteamento: o número, a data e as especificações do alvará; nas alterações à operação de loteamento: o número, a data e as novas especificações do alvará;
 
 g) Na de acção: o pedido; e na de decisão judicial: a parte dispositiva;
 
@@ -24,7 +24,7 @@ i) Na de eventual redução das doações: a indicação dos sujeitos da doaçã
 
 j) Na de cessão de bens aos credores: as obrigações dos cessionários especificadas no título, a causa, o montante global dos créditos, bem como o prazo e o preço convencionados para a venda, se tiverem sido fixados;
 
-l) Na de penhora, arresto ou apreensão de bens em processo de falência ou insolvência: a data destes factos e a quantia exequenda ou por que se promove o arresto; sendo estas inscrições provisórias nos termos da alínea n) do n.º 1 do artigo 92.º, a data a mencionar é a do despacho que ordenou as diligências e, sendo provisórias nos termos da alínea a) do n.º 2 do mesmo artigo, será ainda mencionado o nome, estado e residência do titular da inscrição;
+l) Na de penhora, arresto ou apreensão de bens em processo de falência: a data destes factos e a quantia exequenda ou por que se promove o arresto; sendo estas inscrições provisórias nos termos da alínea n) do n.º 1 do artigo 92.º, a data a mencionar é a do despacho que ordenou as diligências e, sendo provisórias nos termos da alínea a) do n.º 2 do mesmo artigo, será ainda mencionado o nome, estado e residência do titular da inscrição;
 
 m) Na de arrolamento: as datas da diligência e do despacho; e nas de outros actos ou providências: o seu conteúdo e a data do negócio jurídico ou do respectivo despacho;
 

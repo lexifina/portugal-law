@@ -1,15 +1,15 @@
 # Artigo 108.º
 
-### (Elementos a anotar no título)
+### (Dados recolhidos)
 
-Do título de registo devem constar:
+1 - São recolhidos para tratamento automatizado os seguintes dados pessoais:
 
-a) A designação da conservatória;
+a) Nome;
 
-b) A identificação do prédio ou da fracção autónoma, de harmonia com os elementos constantes da respectiva descrição;
+b) Estado civil e, sendo o de solteiro, menção de maioridade ou menoridade;
 
-c) A indicação discriminada de todos os registos em vigor, mediante a menção da espécie do facto registado, do nome completo dos titulares respectivos e do valor dos encargos e sua duração;
+c) Nome do cônjuge e regime de bens;
 
-d) A data da emissão;
+d) Residência habitual.
 
-e) A assinatura do conservador ou do ajudante.
+2 - São ainda recolhidos quaisquer outros dados referentes à situação jurídica dos prédios.

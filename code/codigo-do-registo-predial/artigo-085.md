@@ -14,4 +14,4 @@ d) Por parcelas de prédios descritos e outras de prédios não descritos;
 
 e) Por parcelas de um ou mais prédios já descritos.
 
-2 - As inscrições vigentes sobre as descrições total ou parcialmente anexadas são mencionadas na ficha da nova descrição e nela reproduzidas se não forem apensadas as correspondentes fichas.
+2 - As inscrições vigentes sobre as descrições total ou parcialmente anexadas são mencionadas na ficha da nova descrição e nela reproduzidas.

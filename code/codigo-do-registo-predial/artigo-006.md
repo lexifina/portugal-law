@@ -8,4 +8,4 @@
 
 3 - O registo convertido em definitivo conserva a prioridade que tinha como provisório.
 
-4 - Em caso de recusa, o registo feito na sequência de recurso ou reclamação julgados procedentes conserva a prioridade correspondente à apresentação do acto recusado.
+4 - Em caso de recusa, o registo feito na sequência de recurso julgado procedente conserva a prioridade correspondente à apresentação do acto recusado.

@@ -1,7 +1,9 @@
 # Artigo 144.º
 
-### (Registos dependentes)
+### (Apreciação do recurso hierárquico)
 
-1 - No caso de recusa, julgados procedentes a reclamação, o recurso hierárquico ou o recurso contencioso, deve anotar-se a caducidade dos registos provisórios incompatíveis com o acto inicialmente recusado e converter-se oficiosamente os registos dependentes.
+1 - O recurso hierárquico é decidido no prazo de 90 dias, pelo director-geral dos Registos e do Notariado, que pode determinar que seja previamente ouvido o conselho técnico.
 
-2 - Verificando-se a caducidade do direito de impugnação ou qualquer dos factos previstos no n.º 2 do artigo 149.º, é anotada a caducidade dos registos dependentes e são convertidos os registos incompatíveis.
+2 - A decisão proferida é notificada ao recorrente e comunicada, por carta registada, ao conservador recorrido.
+
+3 - Sendo o recurso hierárquico deferido, deve o conservador, no prazo de quarenta e oito horas, dar cumprimento à decisão.

@@ -24,7 +24,9 @@ i) A consignação judicial de rendimentos de imóveis objecto de inscrição de
 
 j) A transmissão dos arrendamentos inscritos e os subarrendamentos;
 
-l) A transmissão de concessões inscritas.
+l) A transmissão de concessões inscritas;
+
+m) A transmissão da locação financeira.
 
 2 - São registados nos mesmos termos:
 
@@ -44,4 +46,4 @@ f) O cancelamento total ou parcial dos registos.
 
 4 - A conversão em definitiva da inscrição de acção em que se julgue modificado ou extinto um facto registado, ou se declare nulo ou anulado um registo, determina o correspondente averbamento oficioso de alteração ou cancelamento.
 
-5 - A inscrição da aquisição por arrematação em hasta pública determina o averbamento oficioso de cancelamento dos registos que são judicialmente mandados cancelar.
+5 - A inscrição de aquisição, em processo de execução, de bens penhorados determina o averbamento oficioso de cancelamento dos registos que forem judicialmente mandados cancelar.
