@@ -1,0 +1,510 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "32",
+    "id": "19317",
+    "titulo": "Votação antecipada para a eleição da Assembleia Legislativa Regional da Madeira, dos estudantes das Regiões Autónomas a frequentar estabelecimentos de ensino superior fora da sua região."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2004-04-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3153",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2004-04-28",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2004-04-28",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1953",
+                "nome": "Diogo Feio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149460",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4444-4444",
+                  "4450-4450"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-04-29",
+                "pubLeg": "IX",
+                "pubNr": "81",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/081/2004-04-29/4444?pgs=4444,4450&org=PLC"
+              }
+            ],
+            "sumario": "Votação antecipada para a eleição da Assembleia Legislativa Regional da Madeira, dos estudantes das Regiões Autónomas a frequentar estabelecimentos de ensino superior fora da sua região.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1945",
+                "nome": "Carlos Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149461",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4444-4446",
+                  "4450-4451"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-04-29",
+                "pubLeg": "IX",
+                "pubNr": "81",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/081/2004-04-29/4444?pgs=4444-4446,4450-4451&org=PLC"
+              }
+            ],
+            "sumario": "Votação antecipada para a eleição da Assembleia Legislativa Regional da Madeira, dos estudantes das Regiões Autónomas a frequentar estabelecimentos de ensino superior fora da sua região.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1949",
+                "nome": "Maximiano Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149462",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4446-4446",
+                  "4451-4451"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-04-29",
+                "pubLeg": "IX",
+                "pubNr": "81",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/081/2004-04-29/4446?pgs=4446,4451&org=PLC"
+              }
+            ],
+            "sumario": "Votação antecipada para a eleição da Assembleia Legislativa Regional da Madeira, dos estudantes das Regiões Autónomas a frequentar estabelecimentos de ensino superior fora da sua região.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149463",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4447-4447",
+                  "4451-4451"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-04-29",
+                "pubLeg": "IX",
+                "pubNr": "81",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/081/2004-04-29/4447?pgs=4447,4451&org=PLC"
+              }
+            ],
+            "sumario": "Votação antecipada para a eleição da Assembleia Legislativa Regional da Madeira, dos estudantes das Regiões Autónomas a frequentar estabelecimentos de ensino superior fora da sua região.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149464",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4447-4448"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-04-29",
+                "pubLeg": "IX",
+                "pubNr": "81",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/081/2004-04-29/4447?pgs=4447-4448&org=PLC"
+              }
+            ],
+            "sumario": "Votação antecipada para a eleição da Assembleia Legislativa Regional da Madeira, dos estudantes das Regiões Autónomas a frequentar estabelecimentos de ensino superior fora da sua região.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149465",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4448-4448"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-04-29",
+                "pubLeg": "IX",
+                "pubNr": "81",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/081/2004-04-29/4448?pgs=4448&org=PLC"
+              }
+            ],
+            "sumario": "Votação antecipada para a eleição da Assembleia Legislativa Regional da Madeira, dos estudantes das Regiões Autónomas a frequentar estabelecimentos de ensino superior fora da sua região.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149466",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4448-4448"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-04-29",
+                "pubLeg": "IX",
+                "pubNr": "81",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/081/2004-04-29/4448?pgs=4448&org=PLC"
+              }
+            ],
+            "sumario": "Votação antecipada para a eleição da Assembleia Legislativa Regional da Madeira, dos estudantes das Regiões Autónomas a frequentar estabelecimentos de ensino superior fora da sua região.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1666",
+                "nome": "Luiz Fagundes Duarte"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149467",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4448-4449"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-04-29",
+                "pubLeg": "IX",
+                "pubNr": "81",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/081/2004-04-29/4448?pgs=4448-4449&org=PLC"
+              }
+            ],
+            "sumario": "Votação antecipada para a eleição da Assembleia Legislativa Regional da Madeira, dos estudantes das Regiões Autónomas a frequentar estabelecimentos de ensino superior fora da sua região.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1826",
+                "nome": "Joaquim Ponte"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149468",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4449-4450",
+                  "4452-4452"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-04-29",
+                "pubLeg": "IX",
+                "pubNr": "81",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/081/2004-04-29/4449?pgs=4449-4450,4452&org=PLC"
+              }
+            ],
+            "sumario": "Votação antecipada para a eleição da Assembleia Legislativa Regional da Madeira, dos estudantes das Regiões Autónomas a frequentar estabelecimentos de ensino superior fora da sua região.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "163195",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "3153",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-04-29",
+        "pubLeg": "IX",
+        "pubNr": "81",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/081/2004-04-29?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
