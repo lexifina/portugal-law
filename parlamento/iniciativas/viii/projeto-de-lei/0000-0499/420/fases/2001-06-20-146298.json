@@ -1,0 +1,700 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "420",
+    "id": "7084",
+    "titulo": "Estabelece a organização do trabalho em regime nocturno, de turnos e em folgas rotativas bem como a redução da idade de reforma com bonificação nos anos de contribuição para a segurança social"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2001-06-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1931",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2001-06-20",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-06-20",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "17:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138970",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3823-3826",
+                  "3829-3829"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-21",
+                "pubLeg": "VIII",
+                "pubNr": "98",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/098/2001-06-21/3823?pgs=3823-3826,3829&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece a organização do trabalho em regime nocturno, de turnos e em folgas rotativas bem como a redução da idade de reforma com bonificação nos anos de contribuição para a segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "17:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138971",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3826-3826",
+                  "3833-3833"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-21",
+                "pubLeg": "VIII",
+                "pubNr": "98",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/098/2001-06-21/3826?pgs=3826,3833&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece a organização do trabalho em regime nocturno, de turnos e em folgas rotativas bem como a redução da idade de reforma com bonificação nos anos de contribuição para a segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "26",
+                "nome": "Arménio Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "17:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138972",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3828-3828",
+                  "3840-3840"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-21",
+                "pubLeg": "VIII",
+                "pubNr": "98",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/098/2001-06-21/3828?pgs=3828,3840&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece a organização do trabalho em regime nocturno, de turnos e em folgas rotativas bem como a redução da idade de reforma com bonificação nos anos de contribuição para a segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1570",
+                "nome": "Ricardo Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "17:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138973",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3828-3828"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-21",
+                "pubLeg": "VIII",
+                "pubNr": "98",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/098/2001-06-21/3828?pgs=3828&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece a organização do trabalho em regime nocturno, de turnos e em folgas rotativas bem como a redução da idade de reforma com bonificação nos anos de contribuição para a segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1158",
+                "nome": "Barbosa de Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "17:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138974",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3826-3827"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-21",
+                "pubLeg": "VIII",
+                "pubNr": "98",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/098/2001-06-21/3826?pgs=3826-3827&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece a organização do trabalho em regime nocturno, de turnos e em folgas rotativas bem como a redução da idade de reforma com bonificação nos anos de contribuição para a segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "17:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  TRABALHO E FORMAÇÃO",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Antonio Dornelas Cysneiros"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138975",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3830-3833"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-21",
+                "pubLeg": "VIII",
+                "pubNr": "98",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/098/2001-06-21/3830?pgs=3830-3833&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece a organização do trabalho em regime nocturno, de turnos e em folgas rotativas bem como a redução da idade de reforma com bonificação nos anos de contribuição para a segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "26",
+                "nome": "Arménio Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "17:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138976",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3833-3834",
+                  "3841-3842"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-21",
+                "pubLeg": "VIII",
+                "pubNr": "98",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/098/2001-06-21/3833?pgs=3833-3834,3841-3842&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece a organização do trabalho em regime nocturno, de turnos e em folgas rotativas bem como a redução da idade de reforma com bonificação nos anos de contribuição para a segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1162",
+                "nome": "Gonçalo Almeida Velho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "17:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138977",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3828-3829"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-21",
+                "pubLeg": "VIII",
+                "pubNr": "98",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/098/2001-06-21/3828?pgs=3828-3829&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece a organização do trabalho em regime nocturno, de turnos e em folgas rotativas bem como a redução da idade de reforma com bonificação nos anos de contribuição para a segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "17:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138978",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3834-3835"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-21",
+                "pubLeg": "VIII",
+                "pubNr": "98",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/098/2001-06-21/3834?pgs=3834-3835&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece a organização do trabalho em regime nocturno, de turnos e em folgas rotativas bem como a redução da idade de reforma com bonificação nos anos de contribuição para a segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "17:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138979",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3836-3837",
+                  "3841-3841"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-21",
+                "pubLeg": "VIII",
+                "pubNr": "98",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/098/2001-06-21/3836?pgs=3836-3837,3841&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece a organização do trabalho em regime nocturno, de turnos e em folgas rotativas bem como a redução da idade de reforma com bonificação nos anos de contribuição para a segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "780",
+                "nome": "José Luís Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "17:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138980",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3837-3838"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-21",
+                "pubLeg": "VIII",
+                "pubNr": "98",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/098/2001-06-21/3837?pgs=3837-3838&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece a organização do trabalho em regime nocturno, de turnos e em folgas rotativas bem como a redução da idade de reforma com bonificação nos anos de contribuição para a segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1270",
+                "nome": "Jorge Strecht"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "17:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138981",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3838-3842"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-21",
+                "pubLeg": "VIII",
+                "pubNr": "98",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/098/2001-06-21/3838?pgs=3838-3842&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece a organização do trabalho em regime nocturno, de turnos e em folgas rotativas bem como a redução da idade de reforma com bonificação nos anos de contribuição para a segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1652",
+                "nome": "Fernando Rosas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "17:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138982",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3839-3840"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-21",
+                "pubLeg": "VIII",
+                "pubNr": "98",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/098/2001-06-21/3839?pgs=3839-3840&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece a organização do trabalho em regime nocturno, de turnos e em folgas rotativas bem como a redução da idade de reforma com bonificação nos anos de contribuição para a segurança social",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "146298",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1931",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-06-21",
+        "pubLeg": "VIII",
+        "pubNr": "98",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/098/2001-06-21?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
