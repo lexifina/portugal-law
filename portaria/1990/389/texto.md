@@ -1,0 +1,28 @@
+Portaria n.º 389/90
+de 23 de Maio
+A experiência colhida ao longo da aplicação da Portaria n.º 794/88, de 9 de Dezembro, que fixa as taxas devidas pela emissão de pareceres sobre a capacidade de uso dos solos, e a aplicação do Decreto-Lei n.º 196/89, de 14 de Junho, que instituiu o novo regime jurídico da Reserva Agrícola Nacional, exigem a alteração de algumas das soluções nela consagradas.
+Um dos aspectos merecedores de maior atenção por parte do Ministério da Agricultura, Pescas e Alimentação consiste na emissão, pelo Centro Nacional de Reconhecimento e Ordenamento Agrário, das cartas de capacidade de uso dos solos, imprescindíveis à elaboração dos planos municipais de ordenamento do território.
+A emissão de tais cartas tem estado condicionada ao pagamento de montantes que, apesar de não cobrirem as despesas tidas com a sua elaboração, se revelam onerosas para as autarquias locais interessadas.
+Tal facto, aliado ao empenhamento do Ministério da Agricultura, Pescas e Alimentação na efectivação da política de ordenamento territorial do espaço nacional, justifica a consagração, na presente portaria, da isenção de pagamento de tais montantes.
+As autarquias locais ficam igualmente isentas do pagamento das taxas relativas à emissão pelas comissões regionais da reserva agrícola de pareceres relativos a obras e empreendimentos de interesse público.
+Nestes termos, ao abrigo do disposto no artigo 42.º do Decreto-Lei n.º 196/89, de 14 de Junho:
+Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:
+1.º Os montantes das taxas a pagar pelos interessados, quer pela emissão dos pareceres referidos no artigo 9.º quer pelos certificados previstos nos artigos 28.º e 30.º do Decreto-Lei n.º 196/89, de 14 de Junho, dependem das áreas dos solos a que respeitem, de acordo com a tabela seguinte:
+Certificados:
+Solos com área até 500 m2 - 3000$00;
+Por metro quadrado acima de 500 m2 - 3$00;
+Por metro quadrado acima de 1500 m2 - 1$00.
+Pareceres:
+Solos com área até 500 m2 - 6000$00;
+Por metro quadrado acima de 500 m2 - 2$00.
+2.º A área dos solos objecto de certificados ou pareceres é arredondada à centena do metro quadrado.
+3.º As taxas a que se refere o n.º 1.º devem ser pagas pelos interessados no acto de entrega do requerimento e demais documentação necessária à emissão do respectivo certificado ou parecer, na direcção regional de agricultura respectiva.
+4.º No caso de, a solicitação da competente direcção regional de agricultura, o Centro Nacional de Reconhecimento e Ordenamento Agrário (CNROA) participar na elaboração dos certificados previstos no n.º 1.º, da taxa arrecadada pela primeira reverterão 50% para o Instituto Nacional de Investigação Agrária (INIA), devendo ser entregues directamente ao CNROA até ao final do mês seguinte ao da emissão do certificado em causa.
+5.º Sempre que haja interposição de recurso para o CNROA de certificados de solos emitidos pelas direcções regionais de agricultura ou seja solicitada a reapreciação pelo Conselho Nacional da Reserva Agrícola de parecer emitido pelas comissões regionais da reserva agrícola, nos termos, respectivamente, do n.º 4 do artigo 29.º e do n.º 2 do artigo 17.º do Decreto-Lei n.º 196/89, de 14 de Junho, das taxas pagas pelos interessados à direcção regional de agricultura respectiva pela emissão do parecer ou do certificado objecto do recurso 40% constituirão receita do INIA, devendo ser entregues ao CNROA até final do mês seguinte ao da decisão do recurso.
+6.º Os montantes percebidos pela emissão de certificados e pareceres a que se referem os números anteriores constituem receitas próprias das direcções regionais de agricultura e do INIA, nos termos acima indicados, e serão prioritariamente afectos à satisfação de encargos por eles originados.
+7.º As autarquias locais estão isentas do pagamento de taxas pela emissão das cartas a que se refere a alínea a) do n.º 1 do artigo 32.º do Decreto-Lei n.º 196/89, de 14 de Junho, bem como pela emissão de pareceres previstos na alínea d) do n.º 2 do artigo 9.º do mesmo diploma.
+8.º A presente portaria entra em vigor no dia seguinte ao da sua publicação, aplicando-se apenas aos processos iniciados após esse momento.
+9.º É revogada a Portaria n.º 794/88, de 9 de Dezembro.
+Ministério da Agricultura, Pescas e Alimentação.
+Assinada em 8 de Maio de 1990.
+Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
