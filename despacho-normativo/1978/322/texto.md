@@ -1,0 +1,3 @@
+Despacho Normativo n.º 322/78
+Suscitando-se dúvidas na aplicação do regime de preços declarados previstos na alínea c) do n.º 1 do artigo 1.º do Decreto-Lei n.º 329-A/74, de 10 de Julho, com as alterações introduzidas pelo Decreto-Lei n.º 75-Q/77, de 28 de Fevereiro, esclarece-se, ao abrigo do disposto no artigo 10.º deste diploma, que no regime de preços declarados o importador é equiparado ao produtor para o efeito do enquadramento dos respectivos bens na Classificação das Actividades Económicas (CAE).
+Secretaria de Estado do Comércio Interno, 14 de Novembro de 1978. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.
