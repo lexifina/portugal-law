@@ -1,0 +1,6 @@
+Decreto-Lei n.º 46321
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. Os encargos da Comissão Técnica de Cooperação Económica Externa que, por força do Decreto-Lei n.º 46260, de 29 de Março de 1965, transitaram para o Ministério da Economia, continuam no corrente ano económico a ser satisfeitos de conta da dotação inscrita no orçamento de Encargos Gerais da Nação no capítulo 2.º, artigo 68.º, n.º 1).
+§ único. As despesas autorizadas depois da entrada em vigor do referido decreto-lei consideram-se abrangidas pelo disposto no corpo deste artigo.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 1 de Maio de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira- Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
