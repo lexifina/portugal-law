@@ -1,7 +1,7 @@
 # Artigo 28.º
 
-### Tribunal competente
+### (Forma de processo e isenções)
 
-1 - Para a acção inibitória é competente o tribunal da comarca onde se localiza o centro da actividade principal do demandado ou, não se situando ele em território nacional, o da comarca da sua residência ou sede; se estas se localizarem no estrangeiro, será competente o tribunal do lugar em que as cláusulas contratuais gerais foram propostas ou recomendadas.
+1 - A acção de proibição de cláusulas contratuais gerais segue os termos do processo sumário de declaração e está isenta de custas.
 
-2 - O valor da acção excede (euro) 0,01 ao fixado para a alçada da Relação.
+2 - O valor da acção excede 1$00 ao fixado para a alçada da Relação.

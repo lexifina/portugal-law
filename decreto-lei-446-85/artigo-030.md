@@ -1,7 +1,7 @@
 # Artigo 30.º
 
-### Parte decisória da sentença
+### (Proibição provisória)
 
-1 - A decisão que proíba as cláusulas contratuais gerais especificará o âmbito da proibição, designadamente através da referência concreta do seu teor e a indicação do tipo de contratos a que a proibição se reporta.
+1 - Quando haja receio fundado de virem a ser incluídas em contratos singulares cláusulas gerais incompatíveis com o disposto no presente diploma, podem as entidades referidas no artigo 25.º requerer provisoriamente a sua proibição.
 
-2 - A pedido do autor, pode ainda o vencido ser condenado a dar publicidade à proibição, pelo modo e durante o tempo que o tribunal determine.
+2 - A proibição provisória segue, com as devidas adaptações, os termos fixados pela lei processual para os procedimentos cautelares não especificados.

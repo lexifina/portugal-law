@@ -1,9 +1,9 @@
 # Artigo 33.º
 
-### Sanção pecuniária compulsória
+### (Aplicação no espaço)
 
-1 - Se o demandado, vencido na acção inibitória, infringir a obrigação de se abster de utilizar ou de recomendar cláusulas contratuais gerais que foram objecto de proibição definitiva por decisão transitada em julgado, incorre numa sanção pecuniária compulsória que não pode ultrapassar o dobro do valor da alçada da Relação por cada infracção.
+O presente diploma aplica-se:
 
-2 - A sanção prevista no número anterior é aplicada pelo tribunal que apreciar a causa em 1.ª instância, a requerimento de quem possa prevalecer-se da decisão proferida, devendo facultar-se ao infractor a oportunidade de ser previamente ouvido.
+a) Aos contratos regidos pela lei portuguesa;
 
-3 - O montante da sanção pecuniária compulsória destina-se, em partes iguais, ao requerente e ao Estado.
+b) Aos demais contratos celebrados a partir de propostas ou solicitações feitas ao público em Portugal, quando o aderente resida habitualmente no País e nele tenha emitido a sua declaração de vontade.

@@ -1,7 +1,7 @@
 # Artigo 29.º
 
-### Forma de processo e isenções
+### (Parte decisória da sentença)
 
-1 - A acção destinada a proibir o uso ou a recomendação de cláusulas contratuais gerais que se considerem abusivas segue os termos do processo sumário de declaração e está isenta de custas.
+1 - A decisão que proíba as cláusulas contratuais gerais especificará o âmbito da proibição, designadamente através da referência concreta do seu teor e a indicação do tipo de contratos a que a proibição se reporta.
 
-2 - O valor das acções referidas no número anterior excede l$00 ao fixado para a alçada da Relação.
+2 - A pedido do autor, pode ainda o vencido ser condenado a dar publicidade à proibição, pelo modo e durante o tempo que o tribunal determine.
