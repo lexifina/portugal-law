@@ -1,0 +1,19 @@
+Portaria n.º 105/90
+de 10 de Fevereiro
+A requerimento da Fundação Ricardo Espírito Santo Silva, com sede em Lisboa:
+Ao abrigo e nos termos dos artigos 17.º, n.º 1, 18.º, n.º 1, 19.º, 25.º e 53.º do Decreto-Lei n.º 271/89, de 19 de Agosto:
+Manda o Governo, pelo Ministro da Educação, o seguinte:
+1.º É reconhecida a Escola Superior de Artes Decorativas, de que é titular a Fundação Ricardo Espírito Santo Silva, a funcionar nas instalações que possui em Lisboa, como estabelecimento de ensino superior particular.
+2.º É autorizado o início do funcionamento na Escola Superior de Artes Decorativas do curso superior de Artes Decorativas (opções: Artes Decorativas, Mobiliário, Projecto de Mobiliário), de acordo com o plano de estudos publicado em anexo à presente portaria.
+3.º Ao curso referido no número anterior são reconhecidos os efeitos correspondentes aos da titularidade do grau de bacharelato do ensino superior público.
+4.º As habilitações mínimas que permitem o ingresso no curso atrás referido são as exigidas para o mesmo ou similares cursos do ensino público, sem prejuízo de outros requisitos que sejam estabelecidos no regulamento interno da Escola Superior de Artes Decorativas.
+5.º - 1 - O reconhecimento e autorização estabelecidos na presente portaria não prejudicam, sob pena de revogação, a obrigação do cumprimento de eventuais adaptações ou correcções que sejam determinadas pela Direcção-Geral do Ensino Superior, quer em aplicação de pareceres das comissões de especialistas que se pronunciaram sobre o processo de criação e funcionamento do estabelecimento e do curso, quer de futuras informações dos serviços de inspecção daquele departamento, de acordo com a legislação vigente.
+2 - A condição estabelecida no número anterior aplica-se, nomeadamente, ao cumprimento, o mais breve possível, do disposto no n.º 1 do artigo 41.º do Decreto-Lei n.º 271/89, de 19 de Agosto, devendo, entretanto, os órgãos próprios da Escola Superior de Artes Decorativas apresentar propostas para os efeitos do n.º 3 daquele artigo.
+Ministério da Educação.
+Assinada em 12 de Dezembro de 1989.
+Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
+
+ANEXO
+Escola Superior de Artes Decorativas
+Curso superior de Artes Decorativas
+(ver documento original)
