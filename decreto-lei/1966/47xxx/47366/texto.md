@@ -1,0 +1,43 @@
+Decreto-Lei n.º 47366
+Reconhecida a necessidade urgente de se proceder ao apetrechamento e ajustamento de alguns quadros dos organismos dependentes deste Ministério;
+Tornando-se necessário aplicar ao pessoal médico e de enfermagem do Hospital do Ultramar o disposto no artigo 274.º do Decreto n.º 45541, de 23 de Janeiro 1964;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+I
+Disposições especiais
+A) Hospital do Ultramar
+Artigo 1.º O mapa II «Quadro complementar de cirurgiões, especialistas e internistas» anexo ao Decreto n.º 45664, de 15 de Abril de 1964, passa a ter a seguinte constituição:
+1) Pessoal de nomeação:
+3 médicos especialistas ... J
+2) Pessoal contratado:
+21 médicos especialistas ... J
+19 médicos especialistas ... L
+§ único. O actual médico especialista contratado do grupo J, cujo lugar é extinto por força da nova constituição do quadro, transita, sem mais formalidades e sem carecer de nomeação, visto ou posse, para médico especialista do pessoal de nomeação.
+Art. 2.º Nos quadros de pessoal são introduzidas as seguintes alterações:
+Criação de lugares:
+Pessoal de nomeação:
+Quadros privativos:
+Ramo administrativo:
+1 de terceiro-oficial.
+Pessoal contratado:
+Serviços gerais:
+1 de contínuo de 1.ª classe.
+Pessoal assalariado:
+2 de servente:
+Eliminação de lugares:
+1 de contínuo de 2.ª classe.
+§ único. Enquanto não for contratado para o lugar de contínuo de 1.ª classe, criado pelo corpo do artigo, o contínuo de 2.ª classe cujo lugar é extinto perceberá o vencimento por conta da dotação inscrita para aquele lugar.
+Art. 3.º Ao pessoal dos quadros médicos do Hospital do Ultramar e ao pessoal de enfermagem do mesmo Hospital que beneficie ou seja autorizado a efectuar estágios de aperfeiçoamento ou especialização em estabelecimentos idóneos do País ou do estrangeiro é aplicável o disposto no artigo 274.º do Decreto n.º 45541, de 23 de Janeiro de 1964, obrigando-se a servir, pelo menos, durante cinco anos no referido Hospital.
+B) Escola Nacional de Saúde Pública e de Medicina Tropical
+Art. 4.º É fixado em 38 o número de primeiros e segundos-assistentes do quadro do pessoal da Escola Nacional de Saúde Pública e de Medicina Tropical, assim distribuídos:
+11 primeiros-assistentes.
+27 segundos-assistentes.
+§ único. Quando o número de segundos-assistentes for superior ao orçamentado, as unidades excedentes receberão os seus vencimentos pelas sobras das verbas destinadas aos primeiros-assistentes.
+Art. 5.º No quadro de pessoal contratado dos serviços gerais é criado um lugar de encarregado da conservação do edifício da Escola e do respectivo equipamento.
+§ único. O lugar criado no corpo do artigo é incluído no grupo Q a que se refere o artigo 12.º do Decreto-Lei n.º 26115, de 23 de Novembro de 1935, com o escalonamento feito pelo artigo 1.º do Decreto-Lei n.º 42046, de 23 de Dezembro de 1958.
+II
+Disposições gerais
+Art. 6.º O presente decreto-lei entrará em vigor em 1 de Janeiro de 1967.
+Publique-se e cumpre-se como nele se contém.
+Paços do Governo da República, 7 de Dezembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Para ser presente à Assembleia Nacional.
