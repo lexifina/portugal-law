@@ -1,0 +1,7 @@
+Despacho Normativo n.º 62/85
+O Despacho Normativo n.º 40/85, de 28 de Maio, que regulamenta o alargamento do âmbito da acção do programa de financiamento a arrendatários rurais (PAR) às sociedades de agricultura de grupo, com prioridade para as constituídas exclusivamente por jovens agricultores, estabelece, no n.º 1.2.1. que devem os prédios rústicos a transaccionar estar registados na conservatória do registo predial em nome do vendedor identificado no pedido de financiamento.
+Alternativamente e na impossibilidade ou dificuldade de registo dos mesmos prédios, é admitido que a garantia poderá ser dada por outro ou outros prédios da sociedade registados na conservatória o livres de quaisquer ónus, encargos e responsabilidades e de valor nunca inferior ao do prédio ou prédios em transacção.
+Sendo certo que a alternativa admitida é de difícil execução prática, para além de poder, potencialmente, introduzir indesejáveis distorções no funcionamento do programa relativamente ao universo de potenciais beneficiários do crédito PAR, é decidido:
+O n.º 1.2.1 do Despacho Normativo n.º 40/85, de 28 de Maio, passa a ter a seguinte redacção:
+1.2.1 - Estarem registados na conservatória do registo predial em nome do vendedor identificado no pedido de financiamento.
+Ministérios das Finanças e do Plano e da Agricultura, 4 de Julho de 1985. - Pelo Ministro das Finanças e do Plano, António d'Almeida, Secretário de Estado do Tesouro. - O Ministro da Agricultura, Álvaro Roque de Pinho Bissaia Barreto.
