@@ -1,0 +1,10 @@
+Despacho Normativo n.º 266/79
+Através do Despacho Normativo n.º 263/79, de 23 de Agosto, fez-se a publicação das normas de primeiro provimento do pessoal do Ministério do Trabalho, aprovadas por despacho ministerial de 22 de Março de 1978, proferido ao abrigo do disposto no artigo 113.º do Decreto-Lei n.º 47/78, de 21 de Março.
+As razões que presidiram a essa publicação são as mesmas que tornam obrigatória a publicação das normas constantes dos despachos ministeriais que integraram ou interpretaram aquele despacho.
+Assim, a doutrina contida no texto do despacho de 24 de Junho de 1979 fica, por transcrição, a fazer parte integrante do presente despacho, nos termos seguintes:
+A aplicação das normas de primeiro provimento aos inspectores de 2.º com menos de três anos de serviço cria uma situação profundamente injusta. Na verdade, os inspectores de 2.ª com menos de três anos não podem ascender a inspectores de 1.ª (F) nem a inspector-adjunto principal (f), ficando, por isso, na mesma categoria.
+Contudo, os subinspectores, categoria tida pelos inspectores de 2.ª antes de serem promovidos, já podem ascender a inspector-adjunto principal, o que determina que funcionários que, por menos mérito, não foram promovidos a inspector de 2.ª os ultrapassem agora ao ascenderem a inspector-adjunto principal.
+Situações análogas foram acauteladas nas normas pela contagem do tempo de serviço na categoria anterior, como resulta do ponto 12, pelo que, dada a analogia de situações, cumpre integrar a lacuna existente nesta disposição.
+Assim, ao abrigo do artigo 117.º do Decreto-Lei n.º 47/78, de 21 de Março, determino:
+Para efeitos de acesso a inspector-adjunto principal vale como antiguidade na categoria de inspector de 2.ª o tempo de serviço prestado na categoria de subinspector, integrando-se, assim, a lacuna existente na norma n.º 12 do despacho de primeiro provimento de 22 de Março de 1978.
+Ministério do Trabalho, 27 de Agosto de 1979. - O Ministro do Trabalho, Jorge de Carvalho Sá Borges.
