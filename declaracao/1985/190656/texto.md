@@ -1,0 +1,4 @@
+Declaração
+Para os devidos efeitos se declara que o Decreto Regulamentar n.º 4/85, publicado no Diário da República, 1.ª série, n.º 12, de 15 de Janeiro de 1985, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No § 1.º do artigo 4.º, onde se lê «exerce autoridade funcional em todos os organismos da Marinha em matéria de recrutamento, selecção, movimentos, bem-estar, instrução, educação física, justiça, disciplina, saúde e assistência religiosa» deve ler-se «exerce autoridade funcional em todos os organismos da Marinha em matéria de recrutamento, selecção, movimentos, bem-estar, educação física, justiça, saúde e assistência religiosa».
+Secretaria-Geral da Presidência do Conselho de Ministros, 27 de Fevereiro de 1985. - O Secretário-Geral, França Martins.
