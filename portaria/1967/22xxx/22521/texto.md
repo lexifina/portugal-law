@@ -1,0 +1,5 @@
+Portaria n.º 22521
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos da segunda parte do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar com a importância de 8000$00 a verba do capítulo 10.º, artigo 255, n.º 5), alínea a) «Encargos gerais - Deslocações de pessoal - Subsídios de interrupção de viagem em portos de escala inerentes às deslocações fora da província - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral da província de Timor para o ano de 1966, tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo 10.º, artigo 256.º, n.º 1, alínea c) «Encargos gerais - Diversas despesas - Passagens a estudantes, nos termos do Decreto n.º 45653, de 11 de Abril de 1964 - Passagens de regresso», da referida tabela de despesa.
+Ministério do Ultramar, 13 de Fevereiro de 1967. - Pelo Ministro do Ultramar, José Coelho de Almeida Cota. Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Timor. - J. Cota.
