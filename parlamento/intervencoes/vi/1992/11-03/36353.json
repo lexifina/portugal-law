@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=rKtwshDyv1NBeu65K82ef9j6oFE3w%2fgAbqyUhooMpoSyQQ0pTyzibfD50gH%2baGhs1TrcG1r0l2bU1A0KAmFXPBoWqi6NY9nsxTw%2fxAs2r347ke8O86pD8UW0Vo24i8zPmfcPKM5y3XEB99eQAf1Ojm%2bemILgruHhJl9u7yVaplGsWPI0o%2bZUTUUBCanSa5007dUY7uakZ2EgL138SciEtNOWsIyqy66pG5Eu5crXojP8szj276fRrDhZdP6MEXFhdUelamzN3e1Rpwl8sPVmxdyANoDqpCtvpC0PXNmoyGF02wzb13ACPnwjTtn%2bPiN%2b1oG5E%2bkfl50yDwrf9Q4ck3XnT7zfIqh68Ee0O7Ap66U%3d&fich=IntervencoesVI_json.txt&Inline=true",
+  "ficheiro_sha256": "09dcb463dee20c5105fb36bc1a4e2274ee28613bb7bd19e9b953a0ed8eb5faf8",
+  "legislatura": "VI",
+  "id": "36353",
+  "tipo": "Intervenção",
+  "orador": "António Alves (PSD)",
+  "data_registo": "1992-11-03",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "97177",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "4043",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Autoriza o Governo a rever o regime jurídico do trabalho e operação portuária."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1992-11-03",
+    "Debate": "PPL 34",
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "17",
+      "nome": "António Alves"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "36353",
+    "IdDebate": "493",
+    "Iniciativas": [
+      {
+        "fase": "Discussão generalidade",
+        "id": "4043",
+        "tipo": "Proposta de Lei"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VI",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "36353",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "239-242"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1992-11-04",
+        "pubLeg": "VI",
+        "pubNr": "9",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/009/1992-11-04/239?pgs=239-242&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "INTERVEM NO DEBATE DA PPL 34: AUTORIZA O GOVERNO A REVER O REGIME JURIDICO DO TRABALHO E OPERACAO PORTUARIOS. RESPONDE AO DEPUTADO CRISOSTOMO TEIXEIRA (PS). ",
+    "Sessao": "2",
+    "Sumario": "AUTORIZA O GOVERNO A REVER O REGIME JURIDICO DO TRABALHO EOPERACAO PORTUARIOS",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
