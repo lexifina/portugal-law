@@ -1,0 +1,6 @@
+Portaria n.º 1119/81
+de 31 de Dezembro
+Sendo conveniente alterar a disposição contida no n.º 13 da Portaria n.º 67/75, de 4 de Fevereiro, que estabelece a regulamentação a que se refere o artigo 14.º do Decreto-Lei n.º 585/73, de 6 de Novembro:
+Manda o Conselho da Revolução, pelo Chefe do Estado-Maior-General das Forças Armadas e pelos Chefes dos Estados-Maiores da Força Aérea, da Armada e do Exército, que o n.º 13 do capítulo V da Portaria n.º 67/75, de 4 de Fevereiro, tome a seguinte redacção:
+13. As comparticipações a conceder aos beneficiários, nas diversas modalidades de assistência, constarão de despacho conjunto do Chefe do Estado-Maior-General das Forças Armadas e dos Chefes dos Estados-Maiores da Força Aérea, da Armada e do Exército, mediante proposta da comissão referida no n.º 24, a publicar em ordem de cada ramo das forças armadas.
+Estado-Maior-General das Forças Armadas, 15 de Dezembro de 1981. - O Chefe do Estado-Maior-General das Forças Armadas, Nuno Viriato Tavares de Melo Egídio, general. - O Chefe do Estado-Maior da Armada, António Egídio de Sousa Leitão, almirante. - O Chefe do Estado-Maior do Exército, Amadeu Garcia dos Santos, general. - O Chefe do Estado-Maior da Força Aérea, José Lemos Ferreira, general.
