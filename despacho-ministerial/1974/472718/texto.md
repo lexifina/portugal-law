@@ -1,0 +1,11 @@
+Despacho ministerial
+No prosseguimento da acção de reconversão dos organismos de coordenação económica;
+Considerando o disposto no artigo 6.º do Decreto-Lei n.º 277/74, de 25 de Junho, com a redacção que lhe foi dada pelo Decreto-Lei n.º 390/74, de 27 de Agosto, determino o seguinte:
+1.º Trinta dias após a data deste despacho consideram-se findas todas as requisições, iniciadas antes de 25 de Abril de 1974, dos funcionários de quaisquer serviços públicos que, ao abrigo do disposto no artigo 14.º do Decreto-Lei n.º 26757, de 8 de Julho de 1936, e outra legislação aplicável, prestam serviço em organismos de coordenação económica, empresas públicas e organismos corporativos dependentes do Ministério da Economia.
+2.º - 1. Os funcionários cujas requisições cessem por força do disposto no número anterior regressam imediatamente aos seus quadros de origem.
+2. Caso não haja vagas, os organismos onde os funcionários tenham prestado serviço abonar-lhes-ão os vencimentos a que tiverem direito nos aludidos quadros de origem e até que neles reingressem.
+3.º - 1. Os organismos deverão, no prazo de dez dias, contados a partir da data deste despacho, enviar à Comissão de Coordenação Económica a indicação dos funcionários requisitados que neles prestam serviço, incluindo os dirigentes, e respectivas categorias, com a menção daqueles cujas requisições são consideradas absolutamente indispensáveis.
+2. A recondução dos funcionários requisitados que forem julgados imprescindíveis efectuar-se-á nos termos do n.º 2 do artigo 6.º do Decreto-Lei n.º 277/74, com a redacção que lhe foi dada pelo artigo único do Decreto-Lei n.º 390/74.
+4.º - 1. Trinta dias após a data deste despacho cessam também todos os contratos celebrados com empregados dos organismos de coordenação económica, empresas públicas e organismos corporativos dependentes do Ministério da Economia para prestação de serviços em regime livre ou de tempo parcial.
+2. Exceptuam-se do disposto no número anterior os contratos relativamente aos quais seja reconhecido o carácter imprescindível da sua manutenção ou a conveniência do cumprimento do prazo estabelecido no contrato.
+Ministério da Economia, 16 de Setembro de 1974. - O Ministro da Economia, Emílio Rui da Veiga Peixoto Vilar.
