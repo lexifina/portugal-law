@@ -2,7 +2,7 @@
 
 ### (inscrição, retroacção e contagem requeridas pelos herdeiros hábeis)
 
-1. Os herdeiros hábeis dos interessados poderão, no prazo estabelecido no n.º 1 do artigo 29.º, pedir ao Montepio:
+1 - Os herdeiros hábeis dos interessados poderão, nos termos estabelecidos no n.º 1 do artigo 30.º, pedir ao Montepio:
 
 a) A inscrição facultativa prevista no artigo 5.º, se o servidor tiver falecido no decurso do prazo em que a podia requerer;
 

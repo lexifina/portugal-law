@@ -6,12 +6,6 @@
 
 ### (Inscrição obrigatória)
 
-1. São obrigatoriamente inscritos como contribuintes do Montepio os subscritores da Caixa Geral de Aposentações, quer se encontrem no activo, quer na reserva, desde que, cumulativamente:
+1 - São obrigatoriamente inscritos como contribuintes do Montepio, quer se encontrem no activo, quer na reserva, os subscritores da Caixa Geral de Aposentações e os funcionários ou agentes abrangidos pelo disposto na alínea b) do n.º 2 do artigo 1.º do Estatuto da Aposentação, desde que possam, uns e outros, com ou sem retroacção ou contagem de tempo anterior, completar o prazo de garantia estabelecido no n.º 1 do artigo 26.º do presente diploma até atingirem o limite de idade fixado para a aposentação ou reforma.
 
-a) Não tenham mais de 55 anos nas datas indicadas no n.º 2;
-
-b) Possam, com ou sem retroacção ou contagem de tempo anterior, completar o prazo de garantia estabelecido no n.º 1 do artigo 26.º até atingirem o limite de idade fixado para a aposentação ou reforma;
-
-c) Não sejam contribuintes de outros fundos ou serviços, a cargo de organismos oficiais ou de empresas públicas, igualmente destinados a assegurar a atribuição de pensões de sobrevivência.
-
-2. Sem prejuízo do que se estabelece no artigo 8.º, a inscrição no Montepio reportar-se-á, quando se trate de actuais subscritores da Caixa Geral de Aposentações, à data da entrada em vigor do presente Estatuto e, em todos os demais casos, à data da inscrição do interessado na mesma Caixa.
+2 - A inscrição reportar-se-á à data da inscrição do interessado na Caixa Geral de Aposentações ou na entidade pela qual deva ser aposentado, ressalvados os casos de retroacção previstos no presente Estatuto.
