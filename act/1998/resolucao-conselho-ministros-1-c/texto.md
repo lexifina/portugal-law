@@ -1,0 +1,15 @@
+Resolução do Conselho de Ministros n.º 1-C/98
+Ao abrigo do disposto no artigo 2.º da Lei n.º 12/90, de 7 de Abril, conjugado com o estabelecido no artigo 14.º do Decreto-Lei n.º 43453, no artigo 17.º do Decreto-Lei n.º 43454, ambos de 30 de Dezembro de 1960, e no artigo 11.º do Decreto-Lei n.º 172-B/86, de 30 de Junho, entende o Governo colocar à disposição de pessoas singulares títulos de dívida pública, nominativos e amortizáveis, denominados «certificados de aforro», sendo autorizadas para o corrente ano, para aquele valor do Tesouro, emissões que não poderão exceder 300 milhões de contos.
+Assim:
+Nos termos do artigo 2.º da Lei n.º 12/90, de 7 de Abril, do n.º 1 do artigo 4.º e das alíneas a) e i) do n.º 1 do artigo 6.º dos Estatutos do Instituto de Gestão do Crédito Público, aprovados pelo Decreto-Lei n.º 160/96, de 4 de Setembro, e das alíneas b) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolveu:
+1 - Autorizar o Instituto de Gestão do Crédito Público a emitir, no ano económico de 1998, certificados de aforro, exclusivamente destinados à aquisição por pessoas singulares, que não poderão exceder o montante de 300 milhões de contos, ficando desde já o Ministro das Finanças autorizado a emitir, por portaria, a respectiva obrigação geral pelo total autorizado.
+2 - Por despacho do Ministro das Finanças, com faculdade de delegação, poderão ser abatidos os montantes não colocados na emissão de certificados de aforro e aumentados, no mesmo valor, os montantes de outros empréstimos autorizados, sendo, neste caso, feitas as respectivas alterações aos limites das correspondentes obrigações gerais.
+3 - Os certificados de aforro a emitir serão nominativos, reembolsáveis, só transmissíveis por morte e assentados apenas a favor de pessoas singulares.
+4 - Cada certificado de aforro pode representar qualquer número de unidades, sendo de 500$00 o valor de aquisição de cada unidade.
+5 - O valor mínimo de aquisição de certificados de aforro a requerer por qualquer pessoa é de 1000$00.
+6 - O juro das importâncias aplicadas na criação dos certificados de aforro é cobrado apenas no momento do seu reembolso.
+7 - O valor de reembolso dos certificados de aforro a emitir ao abrigo das disposições da presente resolução será calculado de harmonia com a portaria que define o processo de construção da taxa que estiver em vigor.
+8 - Os certificados de aforro a emitir gozam dos direitos, isenções e garantias consignados nos artigos 57.º e 58.º da Lei n.º 1933, de 13 de Fevereiro de 1936, e no artigo 22.º do Decreto-Lei n.º 43453, de 30 de Dezembro de 1960, que lhes forem aplicáveis, incluindo a isenção do imposto sobre as sucessões e doações, mas são passíveis de IRS, tendo em conta o Decreto-Lei n.º 143-A/89, de 3 de Maio.
+9 - O produto da emissão destina-se às necessidades previstas no n.º 1 do artigo 65.º da Lei n.º 127-B/97, de 20 de Dezembro, que aprova o Orçamento do Estado para 1998.
+10 - A presente resolução entra em vigor no dia imediato ao da sua publicação.
+Presidência do Conselho de Ministros, 8 de Janeiro de 1998. - Pelo Primeiro-Ministro, Jaime José Matos da Gama, Ministro dos Negócios Estrangeiros.
