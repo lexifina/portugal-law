@@ -1,0 +1,1 @@
+Ministérios das Finanças e do Plano, da Administração Interna e da Habitação e Obras Públicas, 16 de Novembro de 1978. - O Ministro das Finanças e do Plano, José da Silva Lopes. - O Ministro da Administração Interna, António Gonçalves Ribeiro. - O Ministro da Habitação e Obras Públicas, João Orlindo Almeida Pina.
