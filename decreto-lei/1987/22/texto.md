@@ -1,0 +1,27 @@
+Decreto-Lei n.º 22/87
+de 13 de Janeiro
+Considerando que hoje em dia já não se justificam as cautelas fiscais tomadas nos anos quarenta relativamente aos estabelecimentos comerciais e industriais na área de jurisdição aduaneira, consubstanciadas nas «Condições reguladoras da concessão de licenças para funcionamento de casas de venda na zona fiscal da fronteira», publicadas no Boletim Oficial, n.º 8, de 1940, da Direcção-Geral das Alfândegas (DGA), e assumidas pela Reforma Aduaneira (RA), delas sendo expressão alguns preceitos dos artigos 162.º a 164.º da Reforma em vigor;
+Considerando que a fiscalização sobre tais estabelecimentos continua salvaguardada, podendo exercer-se por parte das entidades fiscais sempre que estas o julguem conveniente;
+Considerando que é de interesse nacional desburocratizar o processo, já de si moroso, relativo à abertura de estabelecimentos comerciais e industriais, na medida em que o seu funcionamento na zona em questão poderá permitir um acréscimo de oferta de postos de trabalho e o escoamento de produtos nacionais, evitando que as populações raianas tenham de satisfazer as suas necessidades em estabelecimentos comerciais da raia espanhola;
+Considerando igualmente que a adesão Portugal e da Espanha às Comunidades Europeias conduzirá à eliminação das restrições à liberdade de circulação de mercadorias e à igualdade da sua tributação no que respeita a direitos aduaneiros, quando procedentes de países terceiros, apenas podendo diferir eventualmente no que se refere a impostos internos;
+Considerando também que, à semelhança da Espanha, bastará fixar uma faixa junto da linha internacional de fronteira na qual seja proibido erigir qualquer construção;
+Considerando ainda que no que respeita às construções temporárias à beira-mar ou nas margens dos rios, tais como barracas de banhos, vendas e diversões, toldos ou chapéus-de-sol, dada a sua natureza, interessará tão-só que seja garantido o seu controle fiscal:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo único. Os artigos 162.º, 163.º e 164.º da RA, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, passam a ter a seguinte redacção:
+Art. 162.º ...
+1.º ...
+2.º Na fronteira terrestre - numa faixa de de 60 m a partir da linha limite da área onde se encontrem instalados serviços aduaneiros e suas dependências.
+§ 1.º Fica, todavia, dispensada autorização para as construções locais pertencentes às administrações dos portos, que delas deverão dar prévio conhecimento à DGA, sem embargo de lhes cumprir ter em conta os interesses da fiscalização aduaneira e de estarem sujeitas à proibição constante do artigo seguinte, na parte aplicável.
+§ 2.º Quando haja divergência entre as alfândegas e as administrações dos portos, será o assunto submetido a despacho dos ministros das respectivas tutelas ou dos ministros da República para as regiões autónomas, consoante o território em que ocorra a divergência, suspendendo-se, entretanto, a execução das obras.
+§ 3.º Em caso algum poderão ser autorizadas construções particulares a distância inferior a 10 m da linha internacional de fronteira.
+§ 4.º São igualmente proibidas quaisquer construções particulares em área que diste menos de 10 m da linha limite da área onde se encontrem instalados serviços aduaneiros e suas dependências, bem como no espaço compreendido entre estes e a linha internacional de fronteira.
+Art. 163.º A autorização a que o artigo anterior se refere não poderá ser dada para construções que se pretenda fazer a distância inferior a 10 m da linha das maiores águas ou marés ou dos cais, muralhas e pontes.
+§ 1.º ...
+§ 2.º Não poderão ser autorizados nas faixas de 10 m referidas no corpo deste artigo e seu § 1.º depósitos de materiais com carácter de permanência, podendo, todavia, as autoridades marítimas autorizar a colocação de barracas de madeira para banhos ou pequenas construções, quando sejam retiradas até ao fim da época balnear, devendo, para o efeito, ser obtido o parecer concordante do Comando-Geral da Guarda Fiscal, a fim de ser garantido o serviço da fiscalização.
+Art. 164.º Todas as autorizações prescritas nos artigos antecedentes serão dadas a título precário.
+Visto e aprovado em Conselho de Ministros de 27 Novembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
+Promulgado em 24 de Dezembro de 1986.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 29 de Dezembro de 1986.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
