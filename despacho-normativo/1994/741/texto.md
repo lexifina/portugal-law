@@ -1,0 +1,6 @@
+Despacho Normativo n.º 741/94
+Considerando que Maria Alice Passos Guerreiro Ferrão Cardoso, técnica superior principal do ex-quadro de pessoal do Laboratório Nacional de Engenharia e Tecnologia Industrial (actual Instituto Nacional de Engenharia e Tecnologia Industrial), cessou em 28 de Maio de 1993 a comissão de serviço em que se encontrava investida como chefe de divisão, desde 28 de Abril de 1992, no Instituto Nacional de Defesa do Consumidor, com a entrada em vigor do Decreto-Lei n.º 195/93, de 24 de Maio;
+Considerando que a referida funcionária, atento o disposto no artigo 3.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, reúne os requisitos necessários para acesso à categoria de assessor;
+Considerando o disposto nos n.os 6 e 8 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção que lhe foi conferida pelo artigo 1.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro:
+Determina-se que seja criado no quadro de pessoal do Instituto Nacional de Engenharia e Tecnologia Industrial, aprovado pela Portaria n.º 592-B/93, de 15 de Junho, um lugar de assessor, a extinguir quando vagar.
+Ministérios das Finanças e da Indústria e Energia, 21 de Setembro de 1994. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
