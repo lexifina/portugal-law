@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1917/09/15000/07610762.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1917-09-04",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "f6b19a052238ddf451eb13fa3ef18a817781538ab30a497d3006d7797f931418",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.1,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "e95ab094ac80c407e0cdd7e3085704aad894bcc9bb11209ff05e31a1a9606724",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 164
 }
