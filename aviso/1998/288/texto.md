@@ -1,0 +1,4 @@
+Aviso n.º 288/98
+Por ordem superior se torna público que Portugal depositou, em 20 de Março de 1998, na sede do Conselho da Europa, em Estrasburgo, o instrumento de ratificação do Protocolo Adicional à Carta Social Europeia Prevendo Um Sistema de Reclamações Colectivas.
+O referido Protocolo foi aberto à assinatura, em Estrasburgo, em 9 de Novembro de 1995, aprovado para ratificação pela Resolução da Assembleia da República n.º 69/97, publicada no Diário da República, 1.ª série-A, n.º 282, de 6 de Dezembro de 1997, e ratificada pelo Decreto do Presidente da República n.º 72/97, publicado no Diário da República, 1.ª série-A, n.º 282, de 6 de Dezembro de 1997.
+Direcção-Geral dos Assuntos Multilaterais, 4 de Dezembro de 1998. - O Director de Serviços das Organizações Políticas Internacionais, João José Gomes Caetano da Silva.
