@@ -1,0 +1,4 @@
+Portaria n.º 549/71
+de 8 de Outubro
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, abrir um crédito especial de 245680$00 destinado a reforçar a verba do capítulo II, artigo 16.º «Serviços próprios do Conselho Ultramarino - Diversos encargos - Despesas de anos económicos findos», do orçamento privativo em vigor do Conselho Ultramarino, tomando como contrapartida igual importância a sair das disponibilidades da verba do capítulo I, artigo 1.º, n.º 1 «Representações das províncias ultramarinas no Conselho Ultramarino - Pagamento de serviços - Despesas de comunicações - Transportes aos onze vogais eleitos pelos conselhos legislativos das províncias ultramarinas», do mesmo orçamento.
+Pelo Ministro do Ultramar, Leão Maria Tavares Rosado do Sacramento Monteiro, Subsecretário de Estado da Administração Ultramarina.
