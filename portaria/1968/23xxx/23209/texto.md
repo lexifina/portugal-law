@@ -1,0 +1,5 @@
+Portaria n.º 23209
+Considerando que, na prática, se tem revelado manifestamente inconveniente que o 2.º comandante das escolas práticas das armas e dos serviços acumulem essas funções com as de director de instrução:
+Manda o Governo da República Portuguesa, pelo Ministro do Exército, que o cargo de director da instrução deixe de ser acumulado com as funções de 2.º comandante das escolas práticas das armas e serviços, passando a competir a função de director de instrução a outro oficial superior, com menor antiguidade do que o 2.º comandante, constante do actual efectivo orgânico.
+A presente portaria altera na parte que respeita à acumulação das funções de 2.º comandante e de director de instrução o quadro IV anexo à Portaria n.º 15390, de 23 de Maio de 1955, o quadro IV anexo à Portaria n.º 15469, de 19 de Julho de 1955, o quadro IV anexo à Portaria n.º 15292, de 14 de Março de 1955, e o quadro II anexo à Portaria n.º 15500, de 11 de Agosto de 1965.
+Ministério do Exército, 7 de Fevereiro de 1968. - O Ministro do Exército, Joaquim da Luz Cunha.
