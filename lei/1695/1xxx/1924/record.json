@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1924/12/27800/18491849.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1924-12-13",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "4e713408013fc794f48300064fc59fa9ad06c75b8b07541f9afa388d74db8184",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.3,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "20eb57ae652bb95af1ca9084bf2c2434c61ef7e4a904877a6a1d097bf3bcac64",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 148
 }
