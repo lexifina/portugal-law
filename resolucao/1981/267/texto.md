@@ -1,0 +1,3 @@
+Resolução n.º 267/81
+O Conselho de Ministros para os Assuntos Económicos, reunido em 24 de Novembro de 1981, resolveu, ouvidos os trabalhadores e ao abrigo do n.º 2 do artigo 12.º dos Estatutos da Fábrica-Escola Irmãos Stephens, E. P., FEIS, publicados em anexo ao Decreto-Lei n.º 194/77, de 14 de Maio, nomear presidente do conselho de gerência da empresa o engenheiro António José Neto Roldão Galo, que vinha exercendo as funções de vogal do mesmo conselho.
+Presidência do Conselho de Ministros, 24 de Novembro de 1981. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.
