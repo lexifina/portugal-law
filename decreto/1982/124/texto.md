@@ -1,0 +1,17 @@
+Decreto n.º 124/82
+de 2 de Novembro
+No sentido de aumentar a segurança pessoal dos condutores de automóveis de aluguer ligeiros de passageiros, estabeleceu o Decreto n.º 103/77, de 5 de Agosto, um regime que lhes permitia, durante o período de trabalho nocturno, exigir a identificação dos utentes perante as autoridades policiais ou mesmo recusar a prestação do serviço em caso de não identificação.
+O disposto naquele diploma foi adoptado, a título experimental, pelo prazo de 180 dias, findos os quais expirou a sua eficácia.
+Acontece, porém, que o surto de insegurança que justificara a adopção daquele regime continua a fazer-se sentir. Nesse sentido, as providências introduzidas pelo Decreto n.º 103/77, de 5 de Agosto, justificam-se plenamente pelo aumento de segurança que proporcionam decorrente do seu efeito dissuasor.
+Pelo exposto, repõe-se em vigor o sistema instituído pelo citado diploma, devendo, no entanto, os motoristas afectos ao transporte de aluguer em automóveis ligeiros de passageiros usar, com a devida ponderação, a possibilidade de pedido de identificação que lhes é conferida, apenas como meio de defesa, contra a perigosidade inerente a certos serviços.
+Nestes termos:
+O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
+Artigo 1.º - 1 - Entre as 22 e as 7 horas poderão os condutores de automóveis de aluguer ligeiros de passageiros exigir a identificação dos utentes perante qualquer agente de autoridade ou no posto da PSP ou da GNR mais próximo, quando a pessoa daqueles ou o local para onde pretendam ser transportados lhes inspirem fundado receio.
+2 - Quando o utente não se identificar, poderá o condutor recusar a prestação do serviço.
+3 - A autoridade perante a qual o utente se mantiver identificado não é obrigada a revelar a identidade daquele ao condutor, mas deverá anotá-la.
+4 - O eventual desvio de percurso determinado pela possibilidade de identificação referida pelo n.º 1 constitui encargo do utente.
+Art. 2.º O presente decreto entra em vigor no dia imediato ao da sua publicação.
+Diogo Pinto de Freitas do Amaral - José Ângelo Ferreira Correia - José Carlos Pinto Soromenho Viana Baptista.
+Promulgado em 18 de Outubro de 1982.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
