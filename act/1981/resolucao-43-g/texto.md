@@ -1,0 +1,3 @@
+Resolução n.º 43-G/81
+O Conselho de Ministros, reunido em 5 de Março de 1981, resolveu nomear, ao abrigo do n.º 2 do artigo 25.º do Estatuto do Gestor Público, aprovado pelo Decreto-Lei n.º 831/76, de 25 de Novembro, do n.º 4 do artigo 9.º do Decreto-Lei n.º 260/76, de 8 de Abril, e do n.º 1 do artigo 6.º dos Estatutos da Dragapor - Dragagens de Portugal, E. P., aprovados pelo Decreto-Lei n.º 332/77, de 10 de Agosto, e depois de ouvida a comissão de trabalhadores, para vogal do conselho de gerência da Dragapor - Dragagens de Portugal, E. P., o Dr. Cândido Nogueira de Campos.
+Presidência do Conselho de Ministros, 5 de Março de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
