@@ -1,0 +1,11 @@
+Portaria n.º 382/87
+de 6 de Maio
+A Portaria n.º 232/87, de 27 de Março, regulamentou e clarificou os critérios para a execução prática das normas ínsitas no Decreto-Lei n.º 111/78, de 27 de Maio, na redacção que lhe foi dada pelo Decreto n.º 208/84, de 29 de Junho, alterando, reformando e substituindo por revogação a Portaria n.º 427-A/84, de 29 de Junho.
+Dados os estudos que presidiram à sua elaboração, teve fundamentalmente como objectivo alargar a área a entregar a entidades singulares, como racional articulação entre a dimensão e os rendimentos fundiários dos lotes concedíveis pelo Estado em exploração, sob a forma de contratos de arrendamento rural, a PMA (pequenos e médios agricultores) e ou explorações agrícolas familiares (conforme os n.os 3.º e 4.º da Portaria n.º 232/87).
+As fórmulas e os critérios encontrados destinam-se, todavia, exclusivamente, com base nos rendimentos médios líquidos anuais, a obter e fixar a dimensão média dos lotes em sequeiro.
+Concluídos os estudos, realizados principalmente pela Direcção Regional de Agricultura do Alentejo, referentes ao regadio, e sendo certo também que os critérios e a regulamentação obtidos na nova Portaria n.º 232/87 são os mais adequados e mais conformes a uma estruturação fundiária assente em largo consenso e bases técnicas fundamentadas, urge complementar aquele diploma com o correlativo regulamento a aplicar ao regadio.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Ministro da Agricultura, Pescas e Alimentação, ao abrigo do disposto no artigo 4.º do Decreto-Lei n.º 111/78, de 27 de Maio, na redacção que lhe foi dada pelo Decreto-Lei n.º 208/84, de 25 de Junho, que a área a entregar para exploração dos prédios nacionalizados ou expropriados ao abrigo da legislação da Reforma Agrária, mediante contrato de arrendamento rural, a entidades singulares, independentemente da pontuação, em regadio, terá como base uma racional articulação da dimensão e do rendimento fundiário e respeitará o limite mínimo de 7 ha, 11 ha e 20 ha em regadio de 1.ª, 2.ª e 3.ª classes, respectivamente, e máximo de 15,2500 ha e 35 ha, respectivamente e pela ordem mencionada nas referidas classes.
+Ministério da Agricultura, Pescas e Alimentação.
+Assinada em 10 de Março de 1987.
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.
