@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que em 10 de Junho de 1976 o Governo das Baamas depositou, junto do Secretário-Geral das Nações Unidas, o instrumento de adesão, por sucessão, à Convenção Internacional para a Repressão do Tráfico de Brancas, celebrada em Paris em 4 de Maio de 1910, de que Portugal já é parte. Aquele instrumento diplomático entrou em vigor, com referência àquele país, em conformidade com os princípios da sucessão dos Estados quanto aos tratados.
+Secretaria-Geral do Ministério, 9 de Novembro de 1977. - O Chefe dos Serviços Jurídicos e de Tratados, Mário d'Oliveira Neves.
