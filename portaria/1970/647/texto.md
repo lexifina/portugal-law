@@ -1,0 +1,4 @@
+Portaria n.º 647/70
+de 18 de Dezembro
+Manda o Governo da República Portuguesa, pelos Secretários de Estado do Comércio e da Indústria, nos termos do disposto na alínea 2) do artigo 1.º do Decreto-Lei n.º 44764, de 4 de Dezembro de 1962, ouvida a Comissão Reguladora do Comércio de Arroz, que se mantenha durante a campanha de 1970-1971 a limitação da laboração das fábricas de descasque de arroz às suas quotas de rateio e que, para esse efeito, se subordinem às mesmas quotas as distribuições obrigatórias que forem efectuadas pelo Grémio dos Industriais de Arroz em execução do artigo 17.º do Decreto-Lei n.º 27149, de 30 de Outubro de 1936.
+O Secretário de Estado do Comércio, Valentim Xavier Pintado. - O Secretário de Estado da Indústria, Rogério da Conceição Serafim Martins.
