@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que Portugal se tornou Membro de pleno direito da Comissão Internacional do Estado Civil a partir da data da publicação do Decreto n.º 563/73, de 27 de Outubro (Diário do Governo, 1.ª série, n.º 252, do mesmo dia), pois, havendo sido admitido na Comissão em 13 de Setembro de 1973, por votação unânime, passou a ficar habilitado a fazer parte desta trinta dias depois da referida votação, nos termos do n.º 3 do Protocolo Adicional dos Estatutos da C. I. E. C., assinado no Luxemburgo no dia 25 de Setembro de 1952, publicado como anexo ao referido Decreto n.º 563/73.
+Secretaria-Geral do Ministério, 13 de Novembro de 1973. - O Secretário-Geral, José Calvet de Magalhães.
