@@ -1,0 +1,15 @@
+Portaria n.º 416/78
+de 27 de Julho
+A recente criação das obrigações para saneamento financeiro das empresas públicas - Decreto-Lei n.º 146/78, de 19 de Junho - veio constituir um impulso decisivo para que na prática seja possível extrair todas as potencialidades das ideias mestras que levaram à publicação do Decreto-Lei n.º 353-C/77, de 29 de Agosto, respeitante aos acordos de saneamento económico-financeiro das empresas públicas, passo fundamental no sentido da normalização das condições de exploração deste importante sector da economia portuguesa.
+O diploma que instituiu as obrigações para saneamento financeiro comete no seu artigo 7.º ao Ministro das Finanças e do Plano a incumbência de definir por portaria, ouvido o Banco de Portugal, as condições de bonificação de taxa de juro de que beneficiarão as empresas emitentes dessas obrigações, bem como de fixar a comissão de garantia a pagar pelas instituições de crédito nacionais para crédito de uma conta especial a criar no Tesouro, a qual suportará os encargos inerentes à bonificação da taxa de juro.
+Assim:
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano, ao abrigo do artigo 7.º do Decreto-Lei n.º 146/78, de 19 de Junho, o seguinte:
+1.º - 1 - Às empresas autorizadas a emitir obrigações para saneamento financeiro será concedida uma bonificação de taxa de juro de 5%, a qual será anualmente entregue em 15 de Dezembro.
+2 - O encargo inerente a esta bonificação será suportado pelos fundos disponíveis na conta especial do Tesouro mandada criar pelo n.º 2 do artigo 7.º do Decreto-Lei n.º 146/78, de 19 de Junho, e após o seu esgotamento pelas dotações específicas a incluir no OGE dos anos respectivos.
+3 - A bonificação a que se refere o n.º 1 deste artigo poderá ser alterada ano a ano, por despacho do Ministro das Finanças e do Plano, se as condições gerais de exploração da empresa, aprovadas nos termos do artigo 13.º do Decreto-Lei n.º 260/76, de 8 de Abril, assim o justificarem.
+2.º - 1 - Os juros proporcionados pelas obrigações para saneamento financeiro de empresas públicas serão contados diariamente a uma taxa igual, em cada momento, à taxa básica de desconto do Banco de Portugal.
+2 - Os juros serão pagos anualmente em 15 de Dezembro.
+3 - A taxa de juro referida no n.º 1 deste artigo poderá ser ajustada, caso a caso, na portaria que autorizar a emissão de cada empresa, se tal for considerado indispensável pela ponderação do custo médio dos recursos das instituições de crédito nacionais credores da empresa emitente e da situação económica e financeira da mesma empresa.
+3.º - 1 - É fixada em 10% a comissão de garantia devida pelas instituições de crédito nacionais, a que se refere o n.º 2 do artigo 7.º do Decreto-Lei n.º 146/78, de 19 de Junho.
+2 - A importância devida pelas instituições de crédito, a título de comissão de garantia, será paga diferidamente em três prestações de 25%, 50% e 25%, que se vencerão respectivamente nos dias 30 de Novembro dos anos de 1978, 1979 e 1980.
+Ministério das Finanças e do Plano, 7 de Julho de 1978. - O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio.
