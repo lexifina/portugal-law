@@ -1,0 +1,73 @@
+Portaria n.º 96/2004
+de 23 de Janeiro
+O Decreto-Lei n.º 198/2003, de 2 de Setembro, veio estabelecer e definir as condições de transferência da propriedade e posse dos terrenos da entidade concessionária da Rede Nacional de Transporte de Energia Eléctrica (RNT) afectos aos centros electroprodutores que abastecem o sistema eléctrico de serviço público e, bem assim, as condições de reafectação dos respectivos bens do domínio hídrico, remetendo para portaria do Ministro da Economia o método e os critérios de fixação do valor da aquisição ou do arrendamento desses terrenos e a definição das eventuais compensações devidas aos produtores vinculados, em resultado da extinção antecipada dos contratos de aquisição de energia (CAE).
+No contexto de extinção antecipada dos CAE, são igualmente estabelecidos nesta portaria o método e os critérios de fixação do valor da remuneração anual que a entidade concessionária da RNT passa a auferir, por via de tarifa regulada, pela utilização dos terrenos do domínio público hídrico, cuja posse se mantém naquela entidade concessionária.
+A presente portaria estabelece, ainda, as regras de funcionamento da comissão arbitral, à qual podem ser submetidos, pela entidade concessionária da RNT ou pelos produtores vinculados, todos os diferendos relativos aos termos de transmissão dos sítios afectos aos centros electroprodutores em questão.
+Assim:
+Ao abrigo dos n.os 3 e 4 do artigo 5.º, do n.º 2 do artigo 6.º e do n.º 3 do artigo 7.º do Decreto-Lei n.º 198/2003, de 2 de Setembro:
+Manda o Governo, pelo Ministro da Economia, o seguinte:
+1.º
+Transmissão dos terrenos
+1 - Os titulares de licenças vinculadas de produção, associadas a centros produtores hidroeléctricos ou termoeléctricos, adiante designados por produtores, devem proceder à aquisição ou arrendamento à entidade concessionária da Rede Nacional de Transporte de Energia Eléctrica (RNT) dos terrenos que constituem o sítio a eles afecto, tal como se encontra definido nos termos do artigo 2.º do Decreto-Lei n.º 198/2003, de 2 de Setembro, com excepção dos que integram o domínio público hídrico.
+2 - Os terrenos vendidos ou arrendados nos termos da presente portaria não poderão ser destinados a fim diferente daquele a que estão actualmente afectos enquanto constituintes de sítio de centros electroprodutores hidroeléctricos ou termoeléctricos.
+3 - O Ministro da Economia pode autorizar a afectação a fim diferente do referido no número anterior, mediante requerimento dos respectivos proprietários, ouvidas a Direcção-Geral de Geologia e Energia, a Entidade Reguladora dos Serviços Energéticos (ERSE) e a entidade concessionária da RNT.
+2.º
+Valor dos terrenos para aquisição
+1 - O preço de venda dos terrenos afectos aos centros electroprodutores, com excepção dos que integram o domínio público hídrico, deve reflectir o seu valor de mercado, enquanto solos aptos para construção, nos termos do artigo 25.º do Código das Expropriações, aprovado pela Lei n.º 168/99, de 18 de Setembro.
+2 - Sem prejuízo do disposto no número anterior, o preço de venda dos terrenos não poderá, no entanto, ser inferior ao valor contabilístico líquido dos terrenos em causa constante do activo da concessionária da RNT e reportado ao final do ano anterior ao da aquisição.
+3 - A entidade concessionária da RNT deve proceder a duas avaliações dos terrenos, por peritos independentes, previamente à sua alienação, de acordo com os critérios constantes do anexo I a este diploma.
+4 - No prazo de 20 dias contados da entrada em vigor do presente diploma, a entidade concessionária da RNT deve apresentar à Direcção-Geral de Geologia e Energia uma relação dos valores correspondentes ao cálculo dos preços para efeitos de alienação dos terrenos segundo os critérios definidos no n.º 1, devidamente justificada e acompanhada das avaliações referidas no n.º 3, bem como a informação referida no n.º 6 do n.º 3.º da presente portaria.
+5 - A Direcção-Geral de Geologia e Energia deve pronunciar-se sobre os preços apresentados, nos termos do número anterior, no prazo de cinco dias úteis.
+6 - Dos contratos de compra e venda dos terrenos, a celebrar nos termos previstos no n.º 3 do n.º 4.º, deverá obrigatoriamente constar uma promessa unilateral de venda, a favor da entidade concessionária da RNT, sujeita a execução específica no caso de os terrenos virem a ser afectos, total ou parcialmente, a fim diverso do referido no n.º 2 do n.º 1.º, sem prévia autorização do Ministro da Economia.
+7 - O valor do contrato prometido ou da opção de compra a que se refere o número anterior corresponderá ao menor montante verificado entre:
+a) O valor de aquisição pelo produtor não actualizado à data da venda;
+b) O valor de mercado à data de venda estimado por dois peritos independentes de acordo com os critérios constantes do anexo I a este diploma.
+3.º
+Valor da renda dos terrenos
+1 - O valor da renda anual dos terrenos afectos aos centros electroprodutores, com excepção dos que integram o domínio público hídrico, é determinado, para cada centro electroprodutor, de acordo com os critérios de fixação constantes do anexo II a este diploma.
+2 - O pagamento da renda anual referente aos terrenos referidos no número anterior deve ter início logo que seja celebrado o contrato de arrendamento entre a entidade concessionária da RNT e o produtor, nos termos previstos no n.º 3 do n.º 4.º, e cessa no final do prazo da licença de produção ou das suas prorrogações.
+3 - O valor da renda a pagar pelo produtor é devido no ano a que esta corresponde e é reportado ao início do mesmo.
+4 - No prazo de 20 dias contados da entrada em vigor do presente diploma, a entidade concessionária da RNT deve apresentar à Direcção-Geral de Geologia e Energia uma relação dos valores correspondentes ao cálculo do valor da renda anual dos terrenos, juntamente com a proposta referida no n.º 4 do n.º 2.º do presente diploma e da minuta do contrato de arrendamento, devendo esta última pronunciar-se sobre os mesmos conforme referido no n.º 5 do número anterior.
+5 - A opção do produtor pela celebração de contrato de arrendamento ficará condicionada à celebração de promessa unilateral de venda, sujeita a execução específica, das infra-estruturas industriais existentes no terreno a favor do Estado quando cessar o arrendamento.
+6 - No caso de não haver acordo quanto ao valor a indicar para efeitos da promessa unilateral de venda prevista no número anterior, será este determinado pela comissão arbitral referida no n.º 7.º, não podendo o produtor alterar em quaisquer circunstâncias a opção de arrendamento do terreno por si tomada.
+4.º
+Procedimentos
+1 - A entidade concessionária da RNT, no prazo máximo de 30 dias após a data de entrada em vigor do presente diploma, comunica por escrito aos produtores o valor dos terrenos a eles afectos, com excepção dos que integram o domínio público hídrico, discriminando o preço para efeitos de alienação e o valor anual da renda, acompanhado da minuta de contrato de arrendamento e, se for o caso, da minuta da promessa unilateral de venda.
+2 - No prazo de 15 dias úteis contados da recepção da comunicação referida no número anterior, os produtores devem manifestar, por escrito, à entidade concessionária da RNT a sua opção quanto à intenção de aquisição ou de arrendamento dos terrenos, à qual ficarão, desde logo, vinculados e, bem assim, se aceitam o preço ou a renda propostos ou se entendem dever recorrer à arbitragem.
+3 - No prazo máximo de 30 dias contados a partir da recepção da comunicação referida no número anterior, a entidade concessionária da RNT e os produtores devem proceder à celebração dos respectivos contratos de compra e venda ou de arrendamento relativos aos terrenos, se houver acordo quanto aos valores do preço ou da renda.
+4 - No caso de não haver acordo quanto aos valores do preço, devem requerer o recurso à arbitragem no prazo de cinco dias, não podendo o produtor alterar em quaisquer circunstâncias a opção de compra ou arrendamento por si tomada.
+5.º
+Compensações devidas aos produtores
+Os custos para a manutenção do equilíbrio contratual previstos no artigo 13.º do Decreto-Lei n.º 185/2003, de 20 de Agosto, devem incluir, como encargos de exploração, os custos decorrentes dos contratos de arrendamento dos terrenos afectos aos centros electroprodutores a que se refere o presente diploma, com excepção dos que integram o domínio público hídrico.
+6.º
+Remuneração dos terrenos que integram o domínio público hídrico
+1 - Os terrenos que integrem o domínio público hídrico mantêm-se afectos à entidade concessionária da RNT com quem devem ser celebrados contratos de concessão de utilização do domínio público hídrico.
+2 - Enquanto os terrenos referidos no número anterior continuarem afectos à entidade concessionária da RNT, esta tem direito ao recebimento de uma remuneração anual.
+3 - A remuneração anual referida no número anterior tem por base o valor contabilístico líquido dos terrenos do domínio público hídrico durante o período de vigência da concessão ou durante o período de amortização legal do terreno e da correspondente compensação do desvio tarifário ocorrido desde 1999, de acordo com a especificidade própria de cada caso.
+4 - A remuneração anual deve ser calculada à taxa swap interbancária de prazo mais próximo ao horizonte de amortização legal dos terrenos em causa, verificada no primeiro dia de cada período, divulgada pela Reuters, acrescida de 50 basis points. Para efeitos da compensação do desvio tarifário ocorrido entre 1999 e 2003, a remuneração anual deve ser calculada à taxa de 6,5 pontos percentuais.
+7.º
+Comissão arbitral
+1 - A comissão arbitral prevista no artigo 7.º do Decreto-Lei n.º 198/2003 é constituída por três árbitros, dois deles nomeados por cada uma das partes e o terceiro escolhido de comum acordo, ou, em caso de falta de acordo, decorridos que sejam cinco dias, designado no prazo de cinco dias pelo presidente do Conselho Superior de Obras Públicas e Transportes, a pedido da entidade concessionária da RNT.
+2 - O disposto no número anterior não prejudica o eventual funcionamento de arbitragem realizada por um único árbitro, se as partes nisso acordarem.
+3 - A comissão arbitral determinará as regras do seu funcionamento.
+4 - Em tudo o que não for acordado pelas partes, a arbitragem seguirá os termos previstos na Lei n.º 31/86, de 29 de Agosto, devendo os árbitros ou árbitro respeitar o disposto na presente portaria e respectivos anexos, não cabendo recurso das suas decisões.
+5 - O laudo arbitral será proferido no prazo máximo de 20 dias após a data da apresentação pelas partes das respectivas posições.
+8.º
+Produção de efeitos
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+O Ministro da Economia, Carlos Manuel Tavares da Silva, em 31 de Dezembro de 2003.
+
+ANEXO I
+Critérios de fixação do valor dos terrenos dos centros produtores termoeléctricos e hidroeléctricos
+1 - O valor dos terrenos afectos aos centros produtores termoeléctricos e hidroeléctricos, com excepção dos que integram o domínio público hídrico, calcula-se com referência ao custo provável da construção que nele seria possível efectuar num aproveitamento económico para fins industriais.
+2 - O índice de construção a considerar para o efeito deve ser de 1 e corresponder à área total do terreno, incluindo as respectivas zonas de segurança.
+3 - O custo da construção deve corresponder ao valor de mercado praticado na zona em construção industrial, tomando-se como referencial 60% dos montantes fixados administrativamente para efeitos de aplicação dos regimes de habitação a custos controlados.
+4 - O valor dos terrenos deve corresponder a um mínimo de 15% do custo de construção determinado nos termos do número anterior, variando em função da localização e dos equipamentos existentes na zona até ao máximo de 25%, tendo em conta os critérios gerais previstos no artigo 26.º do Código das Expropriações.
+5 - O valor final, apurado nos termos dos números anteriores, não pode ser inferior ao valor contabilístico líquido dos terrenos em causa, constante do activo da concessionária da RNT, conforme referido no n.º 2 do n.º 2.º, e deve ser ponderado em função do disposto nos n.os 2 e 3 do n.º 1.º, ambos desta portaria.
+
+ANEXO II
+Critérios de fixação do valor da renda dos terrenos dos centros produtores termoeléctricos e hidroeléctricos
+1 - O valor da renda dos terrenos afectos aos centros produtores termoeléctricos e hidroeléctricos, com excepção dos que integram o domínio público hídrico, calcula-se com referência ao respectivo valor contabilístico líquido dos terrenos em causa, constante do activo da concessionária da RNT e reportado ao final do ano anterior ao do arrendamento, e da correspondente anuidade associada ao desvio tarifário verificado desde 1999.
+2 - A renda anual deve ser calculada em função do rendimento que esse valor produziria se colocado no mercado de capitais à taxa swap interbancária de prazo mais próximo ao do horizonte de amortização legal dos terrenos em causa, verificada no primeiro dia de cada período, divulgada pela Reuters, acrescida de 50 basis points. Para efeitos da compensação do desvio tarifário ocorrido entre 1999 e 2003, a remuneração anual deve ser calculada à taxa de 6,5 pontos percentuais.
+3 - A renda anual deve ser ajustada em função da actualização verificada no valor contabilístico líquido do activo da entidade concessionária da RNT para o terreno em causa.
+4 - A primeira actualização da renda verifica-se a partir de 1 de Janeiro de 2005.
