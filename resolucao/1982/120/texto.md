@@ -1,0 +1,5 @@
+Resolução n.º 120/82
+A Associação Internacional de Desenvolvimento é a instituição financeira do Grupo do Banco Mundial que tem por objectivo canalizar recursos para o desenvolvimento dos países mais pobres do mundo.
+O financiamento das operações efectuadas pela Associação Internacional de Desenvolvimento reside, em grande medida, nas reconstituições de recursos regularmente levadas a efeito e nas quais participam países membros do Banco Internacional de Reconstrução e Desenvolvimento.
+Considerando as características da Associação Internacional de Desenvolvimento e o pedido feito a Portugal no sentido de se incluir entre os países participantes na VI Reconstituição de Recursos da Associação Internacional de Desenvolvimento, o Conselho de Ministros, reunido em 8 de Julho de 1982, resolveu dar o seu acordo de princípio à adesão de Portugal à Associação Internacional de Desenvolvimento, em relação com a VI Reconstituição de Recursos da Associação Internacional de Desenvolvimento, para a qual Portugal contribuirá com o montante de 343710000$00.
+Presidência do Conselho de Ministros, 8 de Julho de 1982. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
