@@ -1,0 +1,113 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=P0Fiu%2fOxm2B6i1Qb1v6Kl8P9Ddn6RTIUCktgva%2fyOaH7lWGUnkkysYTUSoIwHSs4BsNkQvxZU1Jn26l834KO7HtuiuTauD6UP2bFLXGt1tGFPrfPngnS3CSTBHYbjc71uc6LAaWwWMNPEAhBQhLTogdfX0k86zYaSRdtMb5VxaaW%2bmRVLZ1kFuUjHoiU3DnKr1hwTFH2RjyVH0%2bkvoh5J2473p4WEAcwEGu0cbkopo0uGKBdgu45lweS1xncByHsc5RkSTt5XtJ4jYpzMHGU0JCobwocVoDRrWDIaByf6THsN8d28CiCvqU0mvdSGeyt9pZrFNIo3KeVbLuYHnmRx0uPU1z9aF2A03pcO1L5Ivg%3d&fich=AtividadesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "158feac9a195837800498c997c5f15d982e196bc878ba5194b23e12459159b60",
+  "legislatura": "IX",
+  "tipo": "Moção",
+  "numero": "3",
+  "data_registo": "2003-03-21",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Moção de censura n.º 3/IX ao XV Governo Constitucional.",
+    "AutoresGP": [
+      "BE"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": "2003-03-26",
+    "DataAnuncio": null,
+    "DataEntrada": "2003-03-21",
+    "DescTipo": "Moção",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "IX",
+    "Numero": "3",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "276747",
+        "obs": null,
+        "pag": [
+          "3343-3343"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-03-22",
+        "pubLeg": "IX",
+        "pubNr": "80",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/09/01/080/2003-03-22/3343?pgs=3343&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "28",
+        "obs": null,
+        "pag": [
+          "4345-4406"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-03-27",
+        "pubLeg": "IX",
+        "pubNr": "104",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/104/2003-03-27/4345?pgs=4345-4406&org=PLC"
+      }
+    ],
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "1",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "MOC",
+    "TipoAutor": "Grupos Parlamentares",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2003-03-26",
+        "descricao": "Votos Contra: 118 (votaram contra alguns Deputados do PS) ; Favor: 107",
+        "detalhe": null,
+        "id": "29880",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "276658",
+            "obs": null,
+            "pag": [
+              "4405-4405"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2003-03-27",
+            "pubLeg": "IX",
+            "pubNr": "104",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/104/2003-03-27/4405?pgs=4405&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "102",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
