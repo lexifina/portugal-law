@@ -1,0 +1,3 @@
+Anúncio n.º 1/93
+Faz-se saber que no dia 20 de Outubro de 1992 foi instaurado na 1.ª Secção do Supremo Tribunal Administrativo pelo SINDEP - Sindicato Nacional e Democrático dos Professores, correndo termos pela 2.ª Subsecção de Processos sob o n.º 31284, um processo de pedido de declaração de ilegalidade da norma da alínea e) do n.º 1 do n.º 4.º da Portaria n.º 812/92, de 18 de Agosto, do Ministério da Educação, publicada no Diário da República, 1.ª série, n.º 189, de 18 de Agosto de 1992, podendo os eventuais interessados intervir no processo nos termos e nos prazos fixados na lei.
+Lisboa, 8 de Janeiro de 1993. - O Juiz Conselheiro Relator, Pedro Manuel de Pinho de Gouveia e Melo. - O Escrivão-Adjunto, José de Oliveira Leite.
