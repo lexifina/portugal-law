@@ -1,0 +1,18 @@
+Decreto-Lei n.º 59/87
+de 2 de Fevereiro
+O Decreto-Lei n.º 190/81, de 4 de Julho, que aprovou o estatuto da EPAL - Empresa Pública das Águas Livres, estabeleceu no artigo 8.º os bens e direitos que constituem o seu património.
+Entre eles figuram todos os bens e direitos afectos ao serviço público que a empresa presta e que para ela reverteram nos termos do artigo 3.º do Decreto-Lei n.º 553-A/74, de 30 de Outubro; bens, direitos e obrigações que da Companhia das Águas de Lisboa, S. A. R. L., para ela transitaram finda a concessão.
+Verificando-se dificuldades na obtenção do registo em nome da EPAL dos prédios que, por via das disposições legais citadas, passaram a integrar o seu património, sendo certo que muitos deles configuram um efectivo património histórico, pois se encontravam, há já longos anos, afectos à concessão da Companhia das Águas de Lisboa, S. A. R. L.;
+Tendo em conta os fins do registo consagrados no artigo 1.º do Código do Registo Predial e tornando-se necessário assegurar a aplicação integral do artigo 8.º do Decreto-Lei n.º 190/81, de 4 de Julho:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo único. Ao artigo 8.º do Decreto-Lei n.º 190/81, de 4 de Julho, é aditado um n.º 4, com a seguinte redacção:
+Art. 8.º - 1 - ...
+2 - ...
+3 - ...
+4 - O disposto no n.º 1 constitui título suficiente, para efeitos de registo nas conservatórias, da aquisição pela EPAL do direito de propriedade sobre os prédios que, nos termos aí estabelecidos, para ela transitaram.
+Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Mário Ferreira Bastos Raposo.
+Promulgado em 7 de Janeiro de 1987.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 12 de Janeiro de 1987.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
