@@ -1,0 +1,14 @@
+Portaria n.º 1030/2003
+de 19 de Setembro
+Com fundamento no disposto nos artigos 20.º da Lei n.º 30/86, de 27 de Agosto, e 79.º do Decreto-Lei n.º 136/96, de 14 de Agosto, e ainda no disposto no n.º 3 do artigo 164.º do Decreto-Lei n.º 227-B/2000, de 15 de Setembro;
+Ouvidos os conselhos cinegéticos municipais:
+Manda o Governo, pelos Ministros da Economia e da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados por Quinta da Santarena e Quinta da Lapa, sitos na freguesia de Almoster, município de Santarém, com a área de 32,6440 ha, e nas freguesias de Vila Nova de São Pedro e Manique do Intendente, município da Azambuja, com a área de 273,1308 ha, perfazendo a área total de 305,7748 ha, conforme a planta anexa à presente portaria e que dela faz parte integrante.
+2.º Pela presente portaria é concessionada pelo período de 10 anos à Sociedade Agrícola da Quinta do Convento da Visitação, SAG, Lda., com o número de pessoa colectiva 504067257 e sede na Quinta do Convento da Visitação, Rua do Convento, Vila Verde dos Francos, Alenquer, a zona de caça turística da Quinta da Santarena e da Quinta da Lapa (processo n.º 3300 da Direcção-Geral das Florestas).
+3.º Por despacho do Secretário de Estado do Turismo, foi a presente concessão considerada de relevante interesse, nos termos e para os efeitos previstos na alínea b) do n.º 2 do artigo 66.º e do artigo 71.º, ambos do Decreto-Lei n.º 136/96, de 14 de Agosto, condicionada à apresentação do projecto de arquitectura do pavilhão de caça no prazo de dois meses a contar da data da publicação da presente portaria, à aprovação pela Direcção-Geral do Turismo do projecto de arquitectura do referido pavilhão, à execução e conclusão das obras do pavilhão de caça no prazo de 12 meses a contar da data da notificação da aprovação do projecto por aquela entidade e à verificação, pela Direcção-Geral do Turismo, da conformidade das obras efectuadas com o projecto funcional do pavilhão de caça.
+4.º Nesta zona de caça turística é facultado o exercício venatório a todos os caçadores em igualdade de circunstâncias, quando devidamente licenciados pela entidade gestora.
+5.º A zona de caça turística será obrigatoriamente sinalizada com tabuleta do modelo n.º 3 e sinal do modelo n.º 10, definidos na Portaria n.º 1103/2000, de 23 de Novembro.
+6.º A eficácia da concessão está dependente de prévia sinalização, de acordo com as condições definidas na Portaria n.º 1103/2000.
+Pelo Ministro da Economia, Luís Manuel Miguel Correia da Silva, Secretário de Estado do Turismo, em 4 de Setembro de 2003. - Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Fernando António de Miranda Guedes Bianchi de Aguiar, Secretário de Estado do Desenvolvimento Rural, em 14 de Agosto de 2003.
+
+(ver planta no documento original)
