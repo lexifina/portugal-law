@@ -1,0 +1,47 @@
+# Acórdão do Supremo Tribunal de Justiça de 1986-07-10, processo 073869
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 073869
+
+**Nº Convencional:** JSTJ00013740
+
+**Relator:** SOLANO VIANA
+
+**Descritores:** MARCAS; USO; REGISTO COMERCIAL; ANULAÇÃO; COMERCIANTE; PRESSUPOSTOS; CONTRATO DE COMISSÃO; SOCIEDADE ANONIMA; DIRECTOR; COMERCIO; EXERCICIO; ASSEMBLEIA GERAL; AUTORIZAÇÃO; SOCIEDADE COMERCIAL; RESPONSABILIDADE DO GERENTE; MANDATO; SOCIEDADE CIVIL; SOCIEDADE POR QUOTAS; EXCLUSÃO DE SOCIO; NULIDADE
+
+**Nº do Documento:** SJ198607100738692
+
+**Data do Acordão:** 07/10/1986
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REVISTA.
+
+**Decisão:** NEGADA A REVISTA.
+
+**Área Temática:** DIR PROC CIV - RECURSOS. DIR CIV - DIR CONTRAT.; DIR COM - SOC COMERCIAIS / REGISTOS / MAR PATENT.
+
+## Sumário
+
+I - Pode ser anulado o registo de marca se tiver sido concedido a pessoa sem qualidade para o adquirir.
+
+II - O direito de usar marcas compete aos comerciantes para assinalar os produtos do seu comercio.
+
+III - Tem a qualidade de comerciante, quem exerce a profissão de agente comercial e de vendedor de produtos por conta propria e venda a comissão produtos de outrem.
+
+IV - Os directores de qualquer sociedade anonima não podem exercer pessoalmente comercio ou industria iguais aos da sociedade, salvo os casos de especial autorização concedida expressamente em assembleia geral.
+
+V - Os gerentes são responsaveis para com a sociedade e para com terceiros pela inexecução do mandato e pela violação dos estatutos e da lei.
+
+VI - O gerente de uma sociedade, ao exercer comercio identico ao desta, incorre em responsabilidade perante ela mas não perde, por esse facto, a qualidade de comerciante.
+
+VII - O socio de uma sociedade civil ou de uma sociedade por quotas que, sem expressa autorização de todos os outros, exercer, por conta propria ou alheia, actividade igual a da sociedade, fica responsavel pelos danos que lhe causar, podendo, ainda, ser excluido quando lhe seja imputavel violação grave das obrigações para com a sociedade.
+
+VIII - Porem, tal sanção não afecta a qualidade de comerciante desse socio conferida pelo exercicio dessa actividade.
+
+IX - Portanto, não ha nulidade dos registos de marcas por ele feitos relativamente a esse exercicio.
