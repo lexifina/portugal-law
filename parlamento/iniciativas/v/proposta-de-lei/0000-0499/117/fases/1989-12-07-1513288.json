@@ -1,0 +1,2671 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "117",
+    "id": "29202",
+    "titulo": "Orçamento do Estado para 1990"
+  },
+  "fase": "Votação na especialidade",
+  "codigo_fase": "310",
+  "data_registo": "1989-12-07",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "310",
+    "Comissao": null,
+    "DataFase": "1989-12-07",
+    "EvtId": "34",
+    "Fase": "Votação na especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1513288",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "997660",
+        "obs": null,
+        "pag": [
+          "873-885",
+          "890-912",
+          "918-932"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1989-12-09",
+        "pubLeg": "V",
+        "pubNr": "24",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/873?pgs=873-885,890-912,918-932&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Artigo 30.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> PRD</I><BR>Contra:<I>PCP</I>, <I> CDS</I>",
+        "id": "126273",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926805",
+            "obs": null,
+            "pag": [
+              "874-874"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/874?pgs=874&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Proposta de substituição do n.º 2 do artigo 31.º, apresentada pelo Partido Socialista",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>CDS</I>",
+        "id": "126276",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926808",
+            "obs": null,
+            "pag": [
+              "875-875"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/875?pgs=875&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Artigo 31.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I><BR>Contra:<I>PCP</I>, <I> PRD</I>, <I> CDS</I>",
+        "id": "126277",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926809",
+            "obs": null,
+            "pag": [
+              "875-875"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/875?pgs=875&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Artigo 32.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> PRD</I><BR>Abstenção:<I>PCP</I>, <I> CDS</I>",
+        "id": "126278",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926810",
+            "obs": null,
+            "pag": [
+              "876-876"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/876?pgs=876&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "Helena Roseta (Indep)",
+          "João Corregedor da Fonseca (Indep)",
+          "Jorge Liz (Indep)",
+          "PEV"
+        ],
+        "data": "1989-12-07",
+        "descricao": "Votação em conjunto do corpo, da epígrafe e da alínea a) do artigo 33.º",
+        "detalhe": "Ausência: <I>PEV</I>, <I> Carlos Macedo (Indep)</I>, <I> Helena Roseta (Indep)</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Jorge Liz (Indep)</I>",
+        "id": "126279",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926811",
+            "obs": null,
+            "pag": [
+              "877-877"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/877?pgs=877&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Votação em conjunto das alíneas b) e d) do artigo 33.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> PRD</I>, <I> CDS</I><BR>Contra:<I>PCP</I>, <I> Raul Castro (Indep)</I>",
+        "id": "126280",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926812",
+            "obs": null,
+            "pag": [
+              "877-877"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/877?pgs=877&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Alínea c) do artigo 33.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PRD</I>, <I> CDS</I><BR>Abstenção:<I>PS</I>, <I> PCP</I>, <I> Raul Castro (Indep)</I>",
+        "id": "126281",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926813",
+            "obs": null,
+            "pag": [
+              "877-877"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/877?pgs=877&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "Helena Roseta (Indep)",
+          "João Corregedor da Fonseca (Indep)"
+        ],
+        "data": "1989-12-07",
+        "descricao": "Artigo 34.º",
+        "detalhe": "Abstenção:<I>PEV</I><BR>Ausência: <I>Carlos Macedo (Indep)</I>, <I> Helena Roseta (Indep)</I>, <I> João Corregedor Da Fonseca (Indep)</I>",
+        "id": "126282",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926814",
+            "obs": null,
+            "pag": [
+              "878-878"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/878?pgs=878&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Artigo 35.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS</I><BR>Abstenção:<I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> Raul Castro (Indep)</I>",
+        "id": "126283",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926815",
+            "obs": null,
+            "pag": [
+              "879-879"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/879?pgs=879&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Proposta de substituição do artigo 36.º, apresentada pelo PSD",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> PRD</I>, <I> CDS</I><BR>Abstenção:<I>PCP</I>, <I> Raul Castro (Indep)</I>",
+        "id": "126284",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926816",
+            "obs": null,
+            "pag": [
+              "880-880"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/880?pgs=880&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Artigo 37.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> PRD</I>, <I> CDS</I><BR>Abstenção:<I>PCP</I>",
+        "id": "126285",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926817",
+            "obs": null,
+            "pag": [
+              "880-880"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/880?pgs=880&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Artigo 38.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> PRD</I>, <I> CDS</I><BR>Abstenção:<I>PCP</I>",
+        "id": "126286",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926818",
+            "obs": null,
+            "pag": [
+              "880-880"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/880?pgs=880&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Artigo 39.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS</I><BR>Abstenção:<I>PS</I>, <I> PCP</I>, <I> PRD</I>",
+        "id": "126287",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926819",
+            "obs": null,
+            "pag": [
+              "881-881"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/881?pgs=881&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Propostas de eliminação do artigo 41º, apresentadas pelo PS e pelo PCP",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I><BR>Contra:<I>PSD</I>, <I> CDS</I>",
+        "id": "126288",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926820",
+            "obs": null,
+            "pag": [
+              "882-882"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/882?pgs=882&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Artigo 41.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS</I><BR>Contra:<I>PS</I>, <I> PCP</I>, <I> PRD</I>",
+        "id": "126289",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926821",
+            "obs": null,
+            "pag": [
+              "882-882"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/882?pgs=882&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Proposta de eliminação da alínea h) do n.º 1 do artigo 29.º, do PS",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>PCP</I>, <I> PRD</I>",
+        "id": "126290",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926822",
+            "obs": null,
+            "pag": [
+              "891-891"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/891?pgs=891&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Proposta de alteração, do PS, à alínea o) do n.º 1 do artigo 29.º",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I>, <I> CDS</I><BR>Abstenção:<I>PCP</I>, <I> PRD</I>",
+        "id": "126291",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926823",
+            "obs": null,
+            "pag": [
+              "891-891"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/891?pgs=891&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Proposta de aditamento ao artigo 29.º de um n.º 7, apresentada pelo PS",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>CDS</I>",
+        "id": "126292",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926824",
+            "obs": null,
+            "pag": [
+              "891-891"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/891?pgs=891&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Proposta de substituição da alínea b) do n.º 1 do artigo 29.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS</I><BR>Abstenção:<I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> João Corregedor Da Fonseca (Indep)</I>",
+        "id": "126293",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926825",
+            "obs": null,
+            "pag": [
+              "891-891"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/891?pgs=891&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Proposta de aditamento de um novo n.º 7 ao artigo 29.º",
+        "detalhe": "A Favor: <I>PCP</I>, <I> PRD</I>, <I> Carlos Lélis (PSD)</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> António Pereira (PSD)</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>PS</I>, <I> CDS</I>",
+        "id": "126294",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926826",
+            "obs": null,
+            "pag": [
+              "891-891"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/891?pgs=891&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Epígrafe, corpo e alínea a) do n.º 1 do artigo 29.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> PRD</I>, <I> CDS</I>, <I> João Corregedor Da Fonseca (Indep)</I><BR>Abstenção:<I>PCP</I>",
+        "id": "126295",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926881",
+            "obs": null,
+            "pag": [
+              "892-892"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/892?pgs=892&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Alínea c) do n.º 1 do artigo 29.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> PRD</I><BR>Abstenção:<I>PCP</I>, <I> CDS</I>",
+        "id": "126296",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926827",
+            "obs": null,
+            "pag": [
+              "892-892"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/892?pgs=892&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Alínea d) do n.º 1 do artigo 29.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> PCP</I>, <I> PRD</I><BR>Abstenção:<I>CDS</I>",
+        "id": "126297",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926828",
+            "obs": null,
+            "pag": [
+              "893-893"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/893?pgs=893&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Alínea e) do n.º 1 do artigo 29.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> PRD</I><BR>Contra:<I>PCP</I><BR>Abstenção:<I>CDS</I>",
+        "id": "126298",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926829",
+            "obs": null,
+            "pag": [
+              "893-893"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/893?pgs=893&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "Helena Roseta (Indep)",
+          "João Corregedor da Fonseca (Indep)",
+          "Raul Castro (Indep)",
+          "Jorge Liz (Indep)",
+          "PEV"
+        ],
+        "data": "1989-12-07",
+        "descricao": "Alínea f) do n.º 1 do artigo 29.º",
+        "detalhe": "Ausência: <I>PEV</I>, <I> Carlos Macedo (Indep)</I>, <I> Helena Roseta (Indep)</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Raul Castro (Indep)</I>, <I> Jorge Liz (Indep)</I>",
+        "id": "126299",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926830",
+            "obs": null,
+            "pag": [
+              "893-893"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/893?pgs=893&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "Helena Roseta (Indep)",
+          "João Corregedor da Fonseca (Indep)",
+          "Raul Castro (Indep)",
+          "Jorge Liz (Indep)",
+          "PEV"
+        ],
+        "data": "1989-12-07",
+        "descricao": "Alínea g) do n.º 1 do artigo 29.º",
+        "detalhe": "Ausência: <I>PEV</I>, <I> Carlos Macedo (Indep)</I>, <I> Helena Roseta (Indep)</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Raul Castro (Indep)</I>, <I> Jorge Liz (Indep)</I>",
+        "id": "126300",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926882",
+            "obs": null,
+            "pag": [
+              "893-893"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/893?pgs=893&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Alínea h) do n.º 1 do artigo 29º",
+        "detalhe": "A Favor: <I>PSD</I><BR>Contra:<I>PS</I><BR>Abstenção:<I>PCP</I>, <I> PRD</I>, <I> CDS</I>",
+        "id": "126301",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926831",
+            "obs": null,
+            "pag": [
+              "893-893"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/893?pgs=893&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Alínea i) do n.º 1 do artigo 29.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I><BR>Abstenção:<I>PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> Raul Castro (Indep)</I>",
+        "id": "126302",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926832",
+            "obs": null,
+            "pag": [
+              "893-893"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/893?pgs=893&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Alínea j) do n.º 1 do artigo 29.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I><BR>Abstenção:<I>PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> Raul Castro (Indep)</I>",
+        "id": "126303",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926833",
+            "obs": null,
+            "pag": [
+              "893-893"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/893?pgs=893&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Alínea l) do n.º 1 do artigo 29.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> PRD</I>, <I> CDS</I><BR>Abstenção:<I>PCP</I>, <I> Raul Castro (Indep)</I>",
+        "id": "126304",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926834",
+            "obs": null,
+            "pag": [
+              "893-893"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/893?pgs=893&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "Helena Roseta (Indep)",
+          "João Corregedor da Fonseca (Indep)",
+          "Jorge Liz (Indep)",
+          "PEV"
+        ],
+        "data": "1989-12-07",
+        "descricao": "Alínea m) do n.º 1 do artigo 29.º",
+        "detalhe": "Ausência: <I>PEV</I>, <I> Carlos Macedo (Indep)</I>, <I> Helena Roseta (Indep)</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Jorge Liz (Indep)</I>",
+        "id": "126305",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926835",
+            "obs": null,
+            "pag": [
+              "893-893"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/893?pgs=893&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Alínea n) do n.º 1 do artigo 29.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> PRD</I>, <I> CDS</I><BR>Abstenção:<I>PCP</I>, <I> Raul Castro (Indep)</I>",
+        "id": "126306",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926836",
+            "obs": null,
+            "pag": [
+              "893-893"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/893?pgs=893&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Alínea o) do n.º 1 do artigo 29.º",
+        "detalhe": "A Favor: <I>PSD</I><BR>Contra:<I>PS</I><BR>Abstenção:<I>PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> Raul Castro (Indep)</I>",
+        "id": "126307",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926837",
+            "obs": null,
+            "pag": [
+              "894-894"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/894?pgs=894&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "Helena Roseta (Indep)",
+          "João Corregedor da Fonseca (Indep)",
+          "Jorge Liz (Indep)",
+          "PEV"
+        ],
+        "data": "1989-12-07",
+        "descricao": "Alínea p) do n.º 1 do artigo 29.º",
+        "detalhe": "Ausência: <I>PEV</I>, <I> Carlos Macedo (Indep)</I>, <I> Helena Roseta (Indep)</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Jorge Liz (Indep)</I>",
+        "id": "126308",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926838",
+            "obs": null,
+            "pag": [
+              "894-894"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/894?pgs=894&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "Helena Roseta (Indep)",
+          "João Corregedor da Fonseca (Indep)",
+          "Jorge Liz (Indep)",
+          "PEV"
+        ],
+        "data": "1989-12-07",
+        "descricao": "Alínea q) do n.º 1 do artigo 29.º",
+        "detalhe": "Ausência: <I>PEV</I>, <I> Carlos Macedo (Indep)</I>, <I> Helena Roseta (Indep)</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Jorge Liz (Indep)</I>",
+        "id": "126309",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926839",
+            "obs": null,
+            "pag": [
+              "894-894"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/894?pgs=894&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "Helena Roseta (Indep)",
+          "João Corregedor da Fonseca (Indep)",
+          "Jorge Liz (Indep)",
+          "PEV"
+        ],
+        "data": "1989-12-07",
+        "descricao": "Alínea r) do n.º 1 do artigo 29.º",
+        "detalhe": "Ausência: <I>PEV</I>, <I> Carlos Macedo (Indep)</I>, <I> Helena Roseta (Indep)</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Jorge Liz (Indep)</I>",
+        "id": "126310",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926840",
+            "obs": null,
+            "pag": [
+              "894-894"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/894?pgs=894&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "Helena Roseta (Indep)",
+          "João Corregedor da Fonseca (Indep)",
+          "Jorge Liz (Indep)",
+          "PEV"
+        ],
+        "data": "1989-12-07",
+        "descricao": "Alínea s) do n.º 1 do artigo 29.º",
+        "detalhe": "Ausência: <I>PEV</I>, <I> Carlos Macedo (Indep)</I>, <I> Helena Roseta (Indep)</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Jorge Liz (Indep)</I>",
+        "id": "126311",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926841",
+            "obs": null,
+            "pag": [
+              "894-894"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/894?pgs=894&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Alínea t) do n.º 1 do artigo 29.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS</I><BR>Contra:<I>PCP</I>, <I> Raul Castro (Indep)</I><BR>Abstenção:<I>PS</I>, <I> PRD</I>",
+        "id": "126312",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926842",
+            "obs": null,
+            "pag": [
+              "894-894"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/894?pgs=894&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "Helena Roseta (Indep)",
+          "João Corregedor da Fonseca (Indep)",
+          "Jorge Liz (Indep)",
+          "PEV"
+        ],
+        "data": "1989-12-07",
+        "descricao": "Alínea u) do n.º 1 do artigo 29.º",
+        "detalhe": "Ausência: <I>PEV</I>, <I> Carlos Macedo (Indep)</I>, <I> Helena Roseta (Indep)</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Jorge Liz (Indep)</I>",
+        "id": "126313",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926843",
+            "obs": null,
+            "pag": [
+              "895-895"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/895?pgs=895&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "Helena Roseta (Indep)",
+          "João Corregedor da Fonseca (Indep)",
+          "Jorge Liz (Indep)",
+          "PEV"
+        ],
+        "data": "1989-12-07",
+        "descricao": "Alínea v) do n.º 1 do artigo 29.º",
+        "detalhe": "Ausência: <I>PEV</I>, <I> Carlos Macedo (Indep)</I>, <I> Helena Roseta (Indep)</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Jorge Liz (Indep)</I>",
+        "id": "126314",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926844",
+            "obs": null,
+            "pag": [
+              "895-895"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/895?pgs=895&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "Helena Roseta (Indep)",
+          "João Corregedor da Fonseca (Indep)",
+          "Jorge Liz (Indep)"
+        ],
+        "data": "1989-12-07",
+        "descricao": "Nºs 2, 3, 4, 5 e 6 do artigo 29.º",
+        "detalhe": "Ausência: <I>Carlos Macedo (Indep)</I>, <I> Helena Roseta (Indep)</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Jorge Liz (Indep)</I>",
+        "id": "126315",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926883",
+            "obs": null,
+            "pag": [
+              "895-895"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/895?pgs=895&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Primeira proposta de alteração subscrita pelo Deputado António Barreto (PS)",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> PEV</I><BR>Contra:<I>PSD</I>",
+        "id": "126316",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926845",
+            "obs": null,
+            "pag": [
+              "898-898"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/898?pgs=898&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Segunda proposta de alteração subscrita pelo Deputado António Barreto (PS)",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> PEV</I><BR>Contra:<I>PSD</I>",
+        "id": "126317",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926846",
+            "obs": null,
+            "pag": [
+              "898-898"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/898?pgs=898&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Proposta de alteração subscrita pelo PRD",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> PEV</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>CDS</I>",
+        "id": "126318",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926847",
+            "obs": null,
+            "pag": [
+              "898-898"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/898?pgs=898&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Proposta de alteração subscrita pelo PSD",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> PRD</I>, <I> CDS</I>, <I> PEV</I><BR>Abstenção:<I>PCP</I>",
+        "id": "126319",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926848",
+            "obs": null,
+            "pag": [
+              "898-899"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/898?pgs=898-899&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Proposta de alteração subscrita por vários Deputados do PSD e do PS",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> PEV</I>, <I> Mário Maciel (PSD)</I>, <I> Carlos César (PS)</I>, <I> António Ourique Mendes (PSD)</I>, <I> Germano Domingos (PSD)</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>CDS</I>",
+        "id": "126320",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926849",
+            "obs": null,
+            "pag": [
+              "899-899"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/899?pgs=899&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Proposta subscrita pelos deputados do OSD eleitos pelo círculo eleitoral da Madeira",
+        "detalhe": "A Favor: <I>PCP</I>, <I> PEV</I>, <I> Carlos Lélis (PSD)</I>, <I> Cecília  Catarino (PSD)</I>, <I> Guilherme Silva (PSD)</I>, <I> António Jorge Santos Pereira (PSD)</I><BR>Contra:<I>PSD</I>, <I> PS</I>, <I> PRD</I>, <I> CDS</I>",
+        "id": "126321",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926850",
+            "obs": null,
+            "pag": [
+              "899-899"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/899?pgs=899&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Artigo 23.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> PRD</I>, <I> CDS</I><BR>Abstenção:<I>PCP</I>, <I> PEV</I>",
+        "id": "126322",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926851",
+            "obs": null,
+            "pag": [
+              "899-899"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/899?pgs=899&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Eliminação do n.º 2 do artigo 6.º",
+        "detalhe": "Contra:<I>PSD</I>, <I> Mota Torres (PS)</I><BR>Abstenção:<I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> PEV</I>, <I> Carlos Lélis (PSD)</I>, <I> Cecília  Catarino (PSD)</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Guilherme Silva (PSD)</I>, <I> António Jorge Santos Pereira (PSD)</I>",
+        "id": "126323",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926852",
+            "obs": null,
+            "pag": [
+              "906-907"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/906?pgs=906-907&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Proposta de eliminação do n.º 3 do artigo 6.º",
+        "detalhe": "A Favor: <I>Mota Torres (PS)</I><BR>Contra:<I>PSD</I>, <I> PRD</I><BR>Abstenção:<I>PS</I>, <I> PCP</I>, <I> CDS</I>, <I> PEV</I>, <I> Carlos Lélis (PSD)</I>, <I> Cecília  Catarino (PSD)</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Guilherme Silva (PSD)</I>, <I> António Jorge Santos Pereira (PSD)</I>",
+        "id": "126324",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926853",
+            "obs": null,
+            "pag": [
+              "907-907"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/907?pgs=907&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Proposta de substituição do n.º 4 do artigo 6.º",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> PEV</I>, <I> João Corregedor Da Fonseca (Indep)</I>",
+        "id": "126325",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926854",
+            "obs": null,
+            "pag": [
+              "907-907"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/907?pgs=907&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "Helena Roseta (Indep)",
+          "Raul Castro (Indep)",
+          "Jorge Liz (Indep)"
+        ],
+        "data": "1989-12-07",
+        "descricao": "Proposta de aditamento de um n.º 5 ao artigo 6.º",
+        "detalhe": "Ausência: <I>Carlos Macedo (Indep)</I>, <I> Helena Roseta (Indep)</I>, <I> Raul Castro (Indep)</I>, <I> Jorge Liz (Indep)</I>",
+        "id": "126326",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926855",
+            "obs": null,
+            "pag": [
+              "907-907"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/907?pgs=907&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Proposta de alteração ao artigo 6.º, que se reporta ao Programa de Reequilíbrio Financeiro",
+        "detalhe": "A Favor: <I>Mota Torres (PS)</I><BR>Contra:<I>PSD</I>, <I> PRD</I><BR>Abstenção:<I>PS</I>, <I> PCP</I>, <I> CDS</I>, <I> João Corregedor Da Fonseca (Indep)</I>",
+        "id": "126327",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926856",
+            "obs": null,
+            "pag": [
+              "907-907"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/907?pgs=907&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Proposta de aditamento de um novo número para o artigo 6.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> João Corregedor Da Fonseca (Indep)</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>CDS</I>, <I> Cecília  Catarino (PSD)</I>, <I> Guilherme Silva (PSD)</I>, <I> António Jorge Santos Pereira (PSD)</I>",
+        "id": "126328",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926857",
+            "obs": null,
+            "pag": [
+              "907-907"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/907?pgs=907&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Proposta de aditamento ao artigo 6.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS</I><BR>Abstenção:<I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> João Corregedor Da Fonseca (Indep)</I>",
+        "id": "126329",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926858",
+            "obs": null,
+            "pag": [
+              "908-908"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/908?pgs=908&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Artigo 6.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PRD</I><BR>Contra:<I>PS</I><BR>Abstenção:<I>PCP</I>, <I> CDS</I>, <I> João Corregedor Da Fonseca (Indep)</I>",
+        "id": "126330",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926859",
+            "obs": null,
+            "pag": [
+              "909-909"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/909?pgs=909&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Proposta de eliminação do artigo 7.º",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> João Corregedor Da Fonseca (Indep)</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>PRD</I>, <I> CDS</I>, <I> Cecília  Catarino (PSD)</I>, <I> Guilherme Silva (PSD)</I>, <I> António Jorge Santos Pereira (PSD)</I>",
+        "id": "126331",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926860",
+            "obs": null,
+            "pag": [
+              "911-912"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/911?pgs=911-912&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Proposta de substituição do artigo 7.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS</I><BR>Contra:<I>PCP</I>, <I> João Corregedor Da Fonseca (Indep)</I><BR>Abstenção:<I>PRD</I>, <I> Cecília  Catarino (PSD)</I>, <I> Guilherme Silva (PSD)</I>, <I> António Jorge Santos Pereira (PSD)</I>",
+        "id": "126332",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926861",
+            "obs": null,
+            "pag": [
+              "912-912"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/912?pgs=912&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Artigo 8.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PCP</I>, <I> João Corregedor Da Fonseca (Indep)</I><BR>Abstenção:<I>PS</I>, <I> PRD</I>, <I> CDS</I>",
+        "id": "126333",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926862",
+            "obs": null,
+            "pag": [
+              "918-918"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/918?pgs=918&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "Helena Roseta (Indep)",
+          "Raul Castro (Indep)",
+          "Jorge Liz (Indep)",
+          "PEV"
+        ],
+        "data": "1989-12-07",
+        "descricao": "Artigo 9.º e 10.º",
+        "detalhe": "Ausência: <I>PEV</I>, <I> Carlos Macedo (Indep)</I>, <I> Helena Roseta (Indep)</I>, <I> Raul Castro (Indep)</I>, <I> Jorge Liz (Indep)</I>",
+        "id": "126334",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926863",
+            "obs": null,
+            "pag": [
+              "919-919"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/919?pgs=919&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Proposta de emenda ao n.º 4 do artigo 11.º, do PSD",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS</I><BR>Abstenção:<I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> João Corregedor Da Fonseca (Indep)</I>",
+        "id": "126335",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926864",
+            "obs": null,
+            "pag": [
+              "919-919"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/919?pgs=919&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Proposta de alteração ao n.º 5 do artigo 11.º",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> João Corregedor Da Fonseca (Indep)</I>",
+        "id": "126336",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926865",
+            "obs": null,
+            "pag": [
+              "920-920"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/920?pgs=920&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "Helena Roseta (Indep)",
+          "Raul Castro (Indep)",
+          "Jorge Liz (Indep)",
+          "PEV"
+        ],
+        "data": "1989-12-07",
+        "descricao": "Proposta de substituição do n.º 5 do artigo 11.º",
+        "detalhe": "Ausência: <I>PEV</I>, <I> Carlos Macedo (Indep)</I>, <I> Helena Roseta (Indep)</I>, <I> Raul Castro (Indep)</I>, <I> Jorge Liz (Indep)</I>",
+        "id": "126337",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926866",
+            "obs": null,
+            "pag": [
+              "920-920"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/920?pgs=920&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Artigo 11.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS</I><BR>Abstenção:<I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> João Corregedor Da Fonseca (Indep)</I>",
+        "id": "126338",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926867",
+            "obs": null,
+            "pag": [
+              "920-920"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/920?pgs=920&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Artigo 12.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> PCP</I>, <I> PRD</I>, <I> João Corregedor Da Fonseca (Indep)</I><BR>Contra:<I>CDS</I>",
+        "id": "126339",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926868",
+            "obs": null,
+            "pag": [
+              "921-921"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/921?pgs=921&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Proposta de aditamento de novos n.ºs 3 e 4 do artigo 12.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> PRD</I><BR>Contra:<I>CDS</I><BR>Abstenção:<I>PCP</I>, <I> João Corregedor Da Fonseca (Indep)</I>",
+        "id": "126340",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926869",
+            "obs": null,
+            "pag": [
+              "921-921"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/921?pgs=921&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "Helena Roseta (Indep)",
+          "Raul Castro (Indep)",
+          "Jorge Liz (Indep)",
+          "PEV"
+        ],
+        "data": "1989-12-07",
+        "descricao": "Proposta de alteração da despesa",
+        "detalhe": "Ausência: <I>PEV</I>, <I> Carlos Macedo (Indep)</I>, <I> Helena Roseta (Indep)</I>, <I> Raul Castro (Indep)</I>, <I> Jorge Liz (Indep)</I>",
+        "id": "126341",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926870",
+            "obs": null,
+            "pag": [
+              "921-921"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/921?pgs=921&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Artigo 13.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PRD</I>, <I> CDS</I><BR>Abstenção:<I>PS</I>, <I> PCP</I>, <I> João Corregedor Da Fonseca (Indep)</I>",
+        "id": "126342",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926872",
+            "obs": null,
+            "pag": [
+              "921-921"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/921?pgs=921&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Proposta de substituição do artigo 14.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> PCP</I>, <I> PRD</I>, <I> João Corregedor Da Fonseca (Indep)</I><BR>Abstenção:<I>CDS</I>",
+        "id": "126343",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926873",
+            "obs": null,
+            "pag": [
+              "922-922"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/922?pgs=922&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Proposta de artigo novo, apresentada pelo PS",
+        "detalhe": "A Favor: <I>PS</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> João Corregedor Da Fonseca (Indep)</I>",
+        "id": "126344",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926874",
+            "obs": null,
+            "pag": [
+              "922-922"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/922?pgs=922&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Proposta de alteração do n.º 1 do artigo 3.º",
+        "detalhe": "A Favor: <I>PSD</I><BR>Abstenção:<I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> João Corregedor Da Fonseca (Indep)</I>",
+        "id": "126345",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926875",
+            "obs": null,
+            "pag": [
+              "923-923"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/923?pgs=923&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Artigo 4.º",
+        "detalhe": "A Favor: <I>PSD</I><BR>Abstenção:<I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> João Corregedor Da Fonseca (Indep)</I>",
+        "id": "126346",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926876",
+            "obs": null,
+            "pag": [
+              "923-923"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/923?pgs=923&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Artigo 5.º",
+        "detalhe": "A Favor: <I>PSD</I><BR>Abstenção:<I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> João Corregedor Da Fonseca (Indep)</I>",
+        "id": "126347",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926877",
+            "obs": null,
+            "pag": [
+              "923-923"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/923?pgs=923&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": [
+          "Carlos Macedo (Indep)",
+          "Helena Roseta (Indep)",
+          "Raul Castro (Indep)",
+          "Jorge Liz (Indep)",
+          "PEV"
+        ],
+        "data": "1989-12-07",
+        "descricao": "Capítulo II, epígrafe e o n.º 1 do artigo 2.º",
+        "detalhe": "Ausência: <I>PEV</I>, <I> Carlos Macedo (Indep)</I>, <I> Helena Roseta (Indep)</I>, <I> Raul Castro (Indep)</I>, <I> Jorge Liz (Indep)</I>",
+        "id": "126348",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926878",
+            "obs": null,
+            "pag": [
+              "924-924"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/924?pgs=924&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "N.ºs 2 e 3 do artigo 2.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> PRD</I><BR>Abstenção:<I>PCP</I>, <I> CDS</I>, <I> João Corregedor Da Fonseca (Indep)</I>",
+        "id": "126349",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926879",
+            "obs": null,
+            "pag": [
+              "924-924"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/924?pgs=924&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "1989-12-07",
+        "descricao": "Artigo 1.º e mapas I, II, III, IV e VII",
+        "detalhe": "A Favor: <I>PSD</I><BR>Contra:<I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> CDS</I>, <I> João Corregedor Da Fonseca (Indep)</I>",
+        "id": "126350",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "926880",
+            "obs": null,
+            "pag": [
+              "925-925"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1989-12-09",
+            "pubLeg": "V",
+            "pubNr": "24",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/925?pgs=925&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "24",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
