@@ -1,0 +1,15 @@
+Portaria n.º 478/85
+de 17 de Julho
+Para execução do disposto no Decreto-Lei n.º 549/77, de 31 de Dezembro, ratificado pela Lei n.º 55/78, de 27 de Julho, e em conformidade com o disposto no artigo 1.º e no n.º 2 do artigo 2.º do Decreto-Lei n.º 136/83, de 21 de Março, a estrutura orgânica regional do sistema unificado de segurança social consagrado na Constituição tem por base os centros regionais de segurança social, que devem integrar os órgãos, serviços e instituições oficiais existentes na área dos respectivos distritos.
+De harmonia também com o disposto no Decreto-Lei n.º 515/79, de 28 de Dezembro, nas normas II das Portarias n.os 644/79 e 645/79, de 4 de Dezembro, e no Decreto Regulamentar n.º 3/81, de 15 de Janeiro, serão integrados nos centros regionais de segurança social referidos nos citados diplomas, nos termos e datas que forem fixados por despacho do Secretário de Estado da Segurança Social, os contribuintes, beneficiários, acções e serviços das caixas de actividade e de empresa de âmbito nacional das áreas geográficas dos mesmos distritos.
+Julga-se neste momento oportuno proceder à descentralização da Caixa de Previdência do Pessoal da Refinaria do Ultramar, Caixa de Previdência dos Trabalhadores do Porto de Lisboa, Caixa de Previdência do Pessoal da Soda Póvoa, Caixa de Previdência do Pessoal da Campanha Previdente e Caixa de Previdência do Pessoal da Lusalite mediante a integração dos contribuintes, beneficiários e acções nos centros regionais das respectivas áreas, bem como a integração orgânica e funcional das mesmas no Centro Regional de Segurança Social de Lisboa, de acordo com o estabelecido no Decreto n.º 79/79, de 2 de Agosto.
+Nestes termos, ao abrigo do disposto no artigo 19.º do Decreto-Lei n.º 549/77, de 31 de Dezembro:
+Manda o Governo da República Portuguesa, pela Secretária de Estado da Segurança Social, o seguinte:
+1.º São integrados no Centro Regional de Segurança Social do Porto os contribuintes, beneficiários e acções da Caixa de Previdência do Pessoal da Soda Póvoa e da Caixa de Previdência do Pessoal da Lusalite do respectivo distrito.
+2.º São integrados nos Centros Regionais de Segurança Social do Porto e de Santarém os contribuintes, beneficiários e acções da Caixa de Previdência do Pessoal da Companhia Previdente dos respectivos distritos.
+3.º As integrações referidas nos números anteriores serão efectuadas até 1 de Outubro de 1985.
+4.º Em 1 de Outubro de 1985 será efectuada a integração orgânica e funcional da Caixa de Previdência do Pessoal da Refinaria do Ultramar, Caixa de Previdência dos Trabalhadores do Porto de Lisboa, Caixa de Previdência do Pessoal da Soda Póvoa, Caixa de Previdência do Pessoal da Companhia Previdente e Caixa de Previdência do Pessoal da Lusalite no Centro Regional de Segurança Social de Lisboa.
+5.º Dentro dos prazos estabelecidos nos números anteriores, as caixas de previdência e os centros regionais de segurança social devem acordar as datas efectivas de cada integração.
+Secretaria de Estado da Segurança Social.
+Assinada em 7 de Junho de 1985.
+A Secretária de Estado da Segurança Social, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
