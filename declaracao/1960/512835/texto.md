@@ -1,0 +1,3 @@
+Declaração
+Para os devidos efeitos se declara que o Conselho de Ministros, por despacho de 21 de Abril do ano corrente, e nos termos do artigo 13.º do Decreto-Lei n.º 42046, de 23 de Dezembro de 1958, considerou que o disposto no artigo 5.º do mesmo diploma é aplicável aos funcionários dos serviços municipalizados das câmaras municipais, que, no entanto, poderão ser promovidos a lugares superiores aos do grupo T, independentemente das habilitações mínimas exigidas na primeira parte do artigo 21.º do Decreto-Lei n.º 26115, quando hajam sido admitidos anteriormente à data da publicação do referido Decreto-Lei n.º 42046.
+Secretaria-Geral da Presidência do Conselho, 10 de Dezembro de 1960. - O Secretário-Geral, Diogo de Castelbranco de Paiva de Faria Leite Brandão.
