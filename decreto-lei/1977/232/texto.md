@@ -1,0 +1,23 @@
+Decreto-Lei n.º 232/77
+de 2 de Junho
+Não obstante terem já decorrido três anos sobre o movimento de 25 de Abril e terem sido reparadas muitas das injustiças praticadas à sombra do regime nessa data deposto, encontra-se ainda por prestar a pública e merecida homenagem a uma das maiores figuras da resistência a esse regime, o general Adalberto Gastão de Sousa Dias.
+Vulto destacado na história da época, o general Sousa Dias é bem o exemplo das mais altas virtudes morais que a nobre profissão de soldado exige, com toda a abnegação de alma, verticalidade, aprumo e absoluta intransigência no cumprimento dos princípios que jurara defender, sem olhar a sacrifícios ou perigos.
+Comandante da 3.ª Divisão do Exército, no Porto, é surpreendido pelo movimento do «28 de Maio», nunca se tendo conformado com o regime ditatorial que se lhe seguiu. Por esta razão, aceitou assumir a chefia de um movimento militar visando o restabelecimento da normalidade democrática e constitucional.
+Fracassado, porém, esse movimento, dias depois de eclodido em 3 de Fevereiro de 1927, o general Sousa Dias, sem alijar as responsabilidades que lhe cabiam, foi o primeiro a sofrer as consequências: preso, separado do serviço com 50% da pensão de reforma e deportado para a ilha de S. Tomé, nos termos do Decreto n.º 13137.
+Onze meses depois é transferido para o Faial, nos Açores, onde o sujeitam aos maiores vexames, e em 1929 mandam-no apresentar no Forte de Elvas, onde um «tribunal especial» o condena a dois anos de prisão pela sua actuação no «3 de Fevereiro», pena que não chega a cumprir por lhe ter sido descontado o tempo de deportação em S. Tomé e nos Açores.
+Mas, em contrapartida, desterram-no de novo, desta feita para a Madeira, onde lhe é fixada residência.
+É no Funchal que os deportados políticos da época o procuram, unidos no ideal da reposição da ordem democrática e constitucional no País, e, mais uma vez, o general Sousa Dias não se recusa a liderar um outro movimento, que irá eclodir em Abril de 1931, assumindo ele os poderes de governador militar e vindo a ser-lhe entregues os de presidente da Junta Governativa.
+Mas também esse acto sedicioso fracassaria, por falta de simultaneidade com o continente.
+E, mais uma vez, também, o general Sousa Dias sofre os seus efeitos. Demitido, sem qualquer pensão, direitos e honras, pelo Decreto n.º 19567, é imediatamente deportado para Cabo Verde e internado no Campo de Concentração de Presos Políticos de S. Nicolau.
+Continuamente maltratado e humilhado, o general Sousa Dias iria passar em Cabo Verde o resto da sua vida, vindo ali a falecer, isolado e forçadamente longe dos seus. Mas durante esse último período manteve um inalterável aprumo e uma tão elevada dignidade moral que se soube impor a todos quantos com ele conviviam, deportados ou carcereiros.
+Não obstante, o Governo da ditadura jamais haveria de perdoar ao mais destacado e graduado dos militares dissidentes; quando, em fins de 1932, através do Decreto n.º 21943, publicou uma ampla amnistia reitegrando os que contra ele haviam lutado, o Governo teve o cuidado de excluir expressamente da sua aplicação cinquenta cidadãos. O general Sousa Dias encabeçava a respectiva lista.
+Julga-se que a vida exemplar e trágica deste oficial, que tanto deu de si próprio em proveito do seu povo, bem merece um gesto de apreço e de reconhecimento do Portugal de hoje, finalmente livre.
+Não está em causa a satisfação económica dos muitos prejuízos por ele e pelos seus sofridos, prejuízos quiçá irreparáveis; o problema coloca-se hoje tão-só no campo moral.
+E o mínimo dos mínimos será o de restituir ao general Sousa Dias, em cujo peito brilham a grã-cruz da Ordem Militar de Avis e as comendas das Ordens Militares de Cristo e de Sant'Iago da Espada, não só o seu posto de oficial do Exército, como todas as honras e dignidades de que fora despojado.
+Nestes termos:
+O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
+Artigo único. O general Adalberto Gastão de Sousa Dias, demitido do Exército pelo artigo 1.º do Decreto n.º 19567, de 7 de Abril de 1931, é reintegrado, a título póstumo, no seu posto, com todas as honras ao mesmo inerentes e o direito às condecorações e graus honoríficos que possuía.
+Visto e aprovado em Conselho da Revolução em 18 de Maio de 1977.
+Promulgado em 20 de Maio de 1977.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
