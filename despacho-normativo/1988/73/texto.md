@@ -1,0 +1,3 @@
+Despacho Normativo n.º 73/88
+Mostrando-se conveniente dar a possibilidade, quer à Administração, quer às empresas produtoras de alimentos compostos para animais, de acordar o encurtamento do prazo de quinze dias previsto no n.º 4.º da Portaria n.º 536/88, de 9 de Agosto, autorizo que a Direcção-Geral de Concorrência e Preços possa permitir a entrada em vigor dos preços propostos pelas empresas em data anterior à do termo do prazo indicado na disposição legal em referência.
+Ministério do Comércio e Turismo, 10 de Agosto de 1988. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.
