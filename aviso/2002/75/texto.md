@@ -1,0 +1,4 @@
+Aviso n.º 75/2002
+Por ordem superior se torna público que, agindo na sua qualidade de depositário da Convenção Europeia sobre o Reconhecimento das Qualificações Relativas ao Ensino Superior na Região Europa, adoptada em Lisboa em 11 de Abril de 1997, o director-geral da Organização das Nações Unidas para a Educação, Ciência e Cultura (UNESCO) comunicou ter a Bielorrússia depositado o seu instrumento de ratificação à citada Convenção em 19 de Fevereiro de 2002, tendo entrado em vigor, para este país, em 1 de Abril de 2002.
+Portugal é parte da mesma, tendo depositado o respectivo instrumento de ratificação em 15 de Outubro de 2001, conforme publicado no Diário da República, 1.ª série-A, n.º 279, de 3 de Dezembro de 2001.
+Direcção de Serviços das Organizações Políticas Internacionais, 21 de Junho de 2002. - O Director de Serviços, Rui Filipe Monteiro Belo Macieira.
