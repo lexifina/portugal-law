@@ -1,0 +1,3 @@
+Portaria n.º 18735
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, abrir um crédito especial de 50000$00 a inscrever em adicional à tabela de despesa do orçamento privativo da Agência-Geral do Ultramar para o corrente ano, sob a rubrica «Despesas de conservação e aproveitamento do material - De imóveis - Reparação e conservação do edifício onde estão instalados os serviços», tomando-se como contrapartida o saldo de exercícios findos.
+Ministério do Ultramar, 19 de Setembro de 1961. - Pelo Ministro do Ultramar, João da Costa Freitas, Subsecretário de Estado da Administração Ultramarina.
