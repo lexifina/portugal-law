@@ -1,0 +1,351 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=WEUMi7%2fBtIIg%2fkHBDyZ%2fsil3BmWuButejMvPGkqNVyUfIJXddc1IDB3t8GXfBL3zSPQF%2bIyDi3AcWLUm0oL6crfUIOoirULFjyvRAul6J%2by6a6FDtpJuVrK3Y3rP8bCLGdxev%2bdUqQgc%2bXEDQI%2f8OLEsCv3IziG5WQHDSzFAl7qQApdhGho5obQdwDn6iwyWAFYt%2fzWn72d9GQ0G7zTxyKwsQjpKzhAqqYI6%2fCsSwtcK7MkwpbhLc%2bPOBViftzfwo0QY4%2b1hHCAUUDtd7wn2zRmIMG1aKMpZb8PUmWVGX9mCVPzhBcSom0%2boac5wXwR%2fcfo1uKTMHtBvk9eTSDfjfyy5P2leMqegA1xVPD5%2bIs%2bMWrsB8j6dH%2fUqNW7MrBr8&fich=PeticoesVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "c7a8b036f2bb9420007f23598577186345f4c787fefe68382e6a1aac6e3b6ea3",
+  "legislatura": "VIII",
+  "id": "6110",
+  "numero": "46",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2001-01-03",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": null,
+            "dataResposta": "2001-05-04",
+            "entidades": [
+              "Secretário de Estado das Obras Públicas"
+            ],
+            "nrOficio": null,
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2001-10-02",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2001-01-03",
+        "DataArquivo": "2001-10-02",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2001-11-09",
+        "DataReaberta": "2001-01-03",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2001-01-03",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c304e505453383252564d765247396a6457316c626e52766331426c64476c6a595738764f475a694e6d49344e544974595467324e5330305a546c694c546c6a4e546374597a5a6d596a63335a5752685932557a4c6e426b5a673d3d&fich=8fb6b852-a865-4e9b-9c57-c6fb77edace3.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "18",
+        "Legislatura": "VIII",
+        "Nome": "COMISSAO DE EQUIPAMENTO SOCIAL",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2001-01-23",
+            "gp": "PSD",
+            "id": "104",
+            "motivoCessacao": null,
+            "nome": "Castro de Almeida"
+          }
+        ],
+        "RelatorioFinal": [
+          "21365"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2002-10-04",
+    "Documentos": [
+      {
+        "DataDocumento": "2001-01-03",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938314d6a4a684e6d566d5969316b4e6a6c6d4c54526c4e5463744f4463305969316d597a63334e6a41344d324e6a4e6a51756347526d&fich=522a6efb-d69f-4e57-874b-fc776083cc64.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2002-10-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142366",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1840-1842"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-07",
+                "pubLeg": "IX",
+                "pubNr": "45",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/045/2002-10-07/1840?pgs=1840-1842&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam à AR que adopte medidas adequadas e urgentes para a definição do traçado e construção do Itinerário Complementar nº 2 (IC2), no concelho de Santa Maria da Feira, Feira, Aveiro",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2002-10-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142367",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1842-1843"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-07",
+                "pubLeg": "IX",
+                "pubNr": "45",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/045/2002-10-07/1842?pgs=1842-1843&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam à AR que adopte medidas adequadas e urgentes para a definição do traçado e construção do Itinerário Complementar nº 2 (IC2), no concelho de Santa Maria da Feira, Feira, Aveiro",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2002-10-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142368",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1843-1843"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-07",
+                "pubLeg": "IX",
+                "pubNr": "45",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/045/2002-10-07/1843?pgs=1843&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam à AR que adopte medidas adequadas e urgentes para a definição do traçado e construção do Itinerário Complementar nº 2 (IC2), no concelho de Santa Maria da Feira, Feira, Aveiro",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2002-10-07",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142369",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1843-1844"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-07",
+                "pubLeg": "IX",
+                "pubNr": "45",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/045/2002-10-07/1843?pgs=1843-1844&org=PLC"
+              }
+            ],
+            "Sumario": "Solicitam à AR que adopte medidas adequadas e urgentes para a definição do traçado e construção do Itinerário Complementar nº 2 (IC2), no concelho de Santa Maria da Feira, Feira, Aveiro",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "6110",
+    "PetAssunto": "Apelam à Assembleia da República para que adopte medidas adequadas e urgentes para a definição do traçado e construção do Itinerário Complementar nº 2 (IC2) no concelho de Santa Maria da Feira.",
+    "PetDataEntrada": "2001-01-03",
+    "PeticoesAssociadas": null,
+    "PetId": "6110",
+    "PetLeg": "VIII",
+    "PetNr": "46",
+    "PetNrAssinaturas": "4226",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "126",
+        "obs": null,
+        "pag": [
+          "1840-1844"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2002-10-07",
+        "pubLeg": "IX",
+        "pubNr": "45",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/045/2002-10-07/1840?pgs=1840-1844&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "269747",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-03-10",
+        "pubLeg": "VIII",
+        "pubNr": "20",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/08/02/020/2001-03-10?org=PLC"
+      }
+    ]
+  }
+}
