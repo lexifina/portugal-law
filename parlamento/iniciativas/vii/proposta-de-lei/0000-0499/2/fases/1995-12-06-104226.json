@@ -1,0 +1,2419 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "2",
+    "id": "5672",
+    "titulo": "Alteração a Lei n°39-B/94, de 27 de Dezembro (Lei do Orçamento do Estado)."
+  },
+  "fase": "Discussão especialidade",
+  "codigo_fase": "300",
+  "data_registo": "1995-12-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1509",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "300",
+    "Comissao": null,
+    "DataFase": "1995-12-06",
+    "EvtId": "17",
+    "Fase": "Discussão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1995-12-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANCAS",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Sousa Franco"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45765",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "383-386"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/383?pgs=383-386&org=PLC"
+              }
+            ],
+            "sumario": "QUESTAO REGIMENTAL: ORDEM DE INSCRICAO PARA INTERVENCAO EMPLENARIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45767",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07?org=PLC"
+              }
+            ],
+            "sumario": "QUESTAO REGIMENTAL: ORDEM DE INSCRICAO PARA INTERVENCAO EMPLENARIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45768",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "381-381"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/381?pgs=381&org=PLC"
+              }
+            ],
+            "sumario": "QUESTAO REGIMENTAL: ORDEM DE INSCRICAO PARA INTERVENCAO EMPLENARIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45769",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "379-380"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/379?pgs=379-380&org=PLC"
+              }
+            ],
+            "sumario": "QUESTAO REGIMENTAL: ORDEM DE INSCRICAO PARA INTERVENCAO EMPLENARIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45770",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "378-379",
+                  "383-383"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/378?pgs=378-379,383&org=PLC"
+              }
+            ],
+            "sumario": "QUESTAO REGIMENTAL: ORDEM DE INSCRICAO PARA INTERVENCAO EMPLENARIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45771",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "378-383"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/378?pgs=378-383&org=PLC"
+              }
+            ],
+            "sumario": "QUESTAO REGIMENTAL: ORDEM DE INSCRICAO PARA INTERVENCAO EMPLENARIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "336",
+                "nome": "Luís Filipe Menezes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45772",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "377-377"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/377?pgs=377&org=PLC"
+              }
+            ],
+            "sumario": "QUESTAO REGIMENTAL: ORDEM DE INSCRICAO PARA INTERVENCAO EMPLENARIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "336",
+                "nome": "Luís Filipe Menezes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45775",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07?org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45776",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "374-376",
+                  "384-385"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/374?pgs=374-376,384-385&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45777",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "372-374"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/372?pgs=372-374&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1084",
+                "nome": "Maria José Nogueira Pinto"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45778",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "371-372"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/371?pgs=371-372&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "336",
+                "nome": "Luís Filipe Menezes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45779",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "371-378"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/371?pgs=371-378&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45780",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07?org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45781",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "370-378"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/370?pgs=370-378&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "132",
+                "nome": "Rui Rio"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45782",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "369-369"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/369?pgs=369&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1490",
+                "nome": "João Carlos da Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45783",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "369-369"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/369?pgs=369&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45784",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "368-370"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/368?pgs=368-370&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "281",
+                "nome": "Álvaro Amaro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45785",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "367-368"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/367?pgs=367-368&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45786",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "367-368"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/367?pgs=367-368&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "613",
+                "nome": "António Lobo Xavier"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45787",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "367-370"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/367?pgs=367-370&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "88",
+                "nome": "Macário Correia"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45788",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "367-386"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/367?pgs=367-386&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45789",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "365-366"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/365?pgs=365-366&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "42",
+                "nome": "Duarte Pacheco"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45790",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "365-367"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/365?pgs=365-367&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1131",
+                "nome": "Francisco Torres"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45791",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "364-364"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/364?pgs=364&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1463",
+                "nome": "Lalanda Gonçalves"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45792",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "363-364"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/363?pgs=363-364&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "384",
+                "nome": "Vieira de Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45793",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "363-363"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/363?pgs=363&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "613",
+                "nome": "António Lobo Xavier"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45794",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "361-365",
+                  "380-380",
+                  "384-384"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/361?pgs=361-365,380,384&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "42",
+                "nome": "Duarte Pacheco"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45795",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "359-359"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/359?pgs=359&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1490",
+                "nome": "João Carlos da Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45796",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "358-359"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/358?pgs=358-359&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45797",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "357-358",
+                  "360-361"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/357?pgs=357-358,360-361&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1040",
+                "nome": "António Brochado Pedras"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45799",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "356-356"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/356?pgs=356&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "75",
+                "nome": "Jorge Roque Cunha"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45800",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "355-355"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/355?pgs=355&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "154",
+                "nome": "Crisóstomo Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45801",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "353-363",
+                  "366-366",
+                  "373-373"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/353?pgs=353-363,366,373&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45802",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "351-352",
+                  "359-360",
+                  "374-374"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/351?pgs=351-352,359-360,374&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "132",
+                "nome": "Rui Rio"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45803",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "350-353",
+                  "380-381"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/350?pgs=350-353,380-381&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "281",
+                "nome": "Álvaro Amaro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45804",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "348-349"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/348?pgs=348-349&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45805",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "348-348"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/348?pgs=348&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45806",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "347-348"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/347?pgs=347-348&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1468",
+                "nome": "Sérgio Ávila"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45807",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "347-347"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/347?pgs=347&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45808",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07?org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "613",
+                "nome": "António Lobo Xavier"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45809",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "344-345",
+                  "360-360"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/344?pgs=344-345,360&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "336",
+                "nome": "Luís Filipe Menezes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45810",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "343-344"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/343?pgs=343-344&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANCAS",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Sousa Franco"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45811",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "338-343",
+                  "346-347",
+                  "349-350"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/338?pgs=338-343,346-347,349-350&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45812",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "337-338",
+                  "353-356"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/337?pgs=337-338,353-356&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANCAS",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Sousa Franco"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107477",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "338-343",
+                  "346-347",
+                  "349-350"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/338?pgs=338-343,346-347,349-350&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "António Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107478",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "382-383"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/382?pgs=382-383&org=PLC"
+              }
+            ],
+            "sumario": "QUESTAO REGIMENTAL: ORDEM DE INSCRICAO PARA INTERVENCAO EMPLENARIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANCAS",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Sousa Franco"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107479",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "383-386"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/383?pgs=383-386&org=PLC"
+              }
+            ],
+            "sumario": "QUESTAO REGIMENTAL: ORDEM DE INSCRICAO PARA INTERVENCAO EMPLENARIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO ORÇAMENTO",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Manuela Arcanjo"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107480",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "376-376"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/376?pgs=376&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO 1995 - ALTERACAO A LEI",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE, ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "134450",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "377-377"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-07",
+                "pubLeg": "VII",
+                "pubNr": "13",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07/377?pgs=377&org=PLC"
+              }
+            ],
+            "sumario": "QUESTAO REGIMENTAL: ORDEM DE INSCRICAO PARA INTERVENCAO EMPLENARIO",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "104226",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1509",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1995-12-07",
+        "pubLeg": "VII",
+        "pubNr": "13",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/013/1995-12-07?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
