@@ -1,0 +1,24 @@
+Decreto-Lei n.º 387/78
+de 9 de Dezembro
+Em correlação com condicionalismos intensificados nos últimos anos, é de presumir que exista um grande contingente de diamantes em bruto ou não lapidados no nosso país. Parece ser chegado o momento de sobrestar na medida do possível à sua saída irregular para outros mercados, sobretudo à sua utilização como instrumento de troca no mercado clandestino de droga. Para esse desejável objectivo contribuirá, por certo, a sua canalização para as vias normais de comercialização e laboração de pedras preciosas, com vantagem, para mais, para a economia nacional.
+Nestes termos:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º - 1 - É autorizado a uma sociedade a constituir a partir dos bens da Companhia de Diamantes de Angola situados em Portugal, abrangidos pelo Decreto-Lei n.º 357-A/77, adiante designada por «a empresa», comprar no mercado interno, deter na sua posse e vender ou permutar, tanto no mercado interno como externo, diamantes em bruto ou não lapidados.
+2 - Por despacho conjunto dos Ministros das Finanças e do Plano e do Comércio e Turismo, poderá a empresa ser autorizada a importar diamantes em bruto.
+3 - A empresa deverá dispor, para o efeito, de serviços especializados de classificação e avaliação de diamantes.
+4 - Os estatutos da empresa deverão ser submetidos à aprovação dos Ministros das Finanças e do Plano e do Comércio e Turismo. O Governo poderá designar um delegado seu junto da empresa.
+Art. 2.º - 1 - A venda por entidades privadas, singulares ou colectivas, de diamantes em bruto ou não lapidados à empresa será considerada uma actividade lícita, desde que tais diamantes sejam efectivamente entregues à empresa.
+2 - Nas operações assim realizadas por particulares com a empresa não terá de constar do documento comprovativo da compra o nome do vendedor, e a origem da mercadoria não terá de ser nesse documento identificada.
+Art. 3.º - 1 - Fica a empresa proibida de vender ou permutar diamantes em bruto ou não lapidados em Portugal, salvo se a outra parte estiver devidamente habilitada ou autorizada a negociar com diamantes em bruto ou não lapidados.
+2 - A empresa dará preferência na venda dos diamantes que venha a obter ao abrigo desta autorização às empresas que em Portugal exerçam legalmente actividades industriais que utilizem diamantes em bruto como matéria-prima. Em contrapartida, ficam aquelas empresas proibidas de vender em Portugal ou no estrangeiro diamantes em bruto ou não lapidados, salvo à empresa.
+Art. 4.º Nas operações de venda realizadas pela empresa deverão os compradores ser claramente identificados nos respectivos documentos, de que uma cópia deverá ser imediatamente remetida à Direcção-Geral das Alfândegas e outra ao Ministério da Administração Interna, quando o comprador for alguma das entidades referidas no n.º 1 do artigo 3.º, ou apensada ao passaporte do comprador, quando este for estrangeiro. Dos documentos deverá ainda constar uma relação quanto possível exaustiva dos diamantes vendidos, de acordo com os seus tipos e características, e quando estes se destinarem a ser transportados para fora do País deverão estar contidos em embalagens invioláveis, devidamente lacradas com o selo da empresa.
+Art. 5.º Poderão sair livremente com os diamantes em bruto os compradores estrangeiros que à saída de Portugal apresentem às autoridades alfandegárias o documento referido no artigo anterior.
+Art. 6.º - 1 - Os preços de compra e venda dos diamantes serão livremente acordados entre as partes, podendo os respectivos pagamento e recebimento ser efectuados em moeda estrangeira.
+2 - O Banco de Portugal fixará as modalidades de manutenção pela empresa de um fundo de maneio alimentado com divisas provenientes de operações previstas no presente diploma.
+Art. 7.º Será punível, nos termos da legislação em vigor, o comércio de diamantes em bruto ou não lapidados por quaisquer indivíduos ou sociedades não abrangidos por este diploma.
+Art. 8.º Por despacho conjunto dos Ministros das Finanças e do Plano e do Comércio e Turismo serão esclarecidas todas as dúvidas que se suscitarem na aplicação deste diploma, bem como aprovadas todas as medidas regulamentares que se mostrem necessárias à sua boa execução.
+Art. 9.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - José da Silva Lopes - Mário Pereira Bastos Raposo - Pedro José Rodrigues Pires de Miranda.
+Promulgado em 27 de Novembro de 1978.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
