@@ -1,0 +1,16 @@
+Portaria n.º 988/89
+de 16 de Novembro
+Considerando que o Decreto-Lei n.º 503/85, de 30 de Dezembro, que estabeleceu a organização nacional do mercado para a banana, prevê a fixação anual de um preço de referência;
+Considerando que, pela Portaria n.º 224/89, de 17 de Março, só foi fixado o preço de referência para vigorar durante o 1.º período da campanha de 1989-1990 e que é necessário definir o preço de referência para o período remanescente da mesma campanha:
+Ao abrigo do disposto no n.º 5 do artigo 14.º do Decreto-Lei n.º 503/85, de 30 de Dezembro, e no artigo 1.º do Decreto-Lei n.º 75-Q/77, de 28 de Fevereiro:
+Manda o Governo, pelos Ministros da República para as Regiões Autónomas da Madeira e dos Açores e pelos Ministros da Agricultura, Pescas e Alimentação e do Comércio e Turismo, o seguinte:
+1.º O preço de referência para a banana a importar a que se refere o artigo 14.º do Decreto-Lei n.º 503/85, de 30 de Dezembro, é fixado, para o período de 1 de Dezembro de 1989 a 31 de Maio de 1990, em 125$00 por quilograma de peso líquido.
+2.º A banana proveniente da Região Autónoma da Madeira não poderá entrar no continente a preços superiores ao indicado no número anterior.
+3.º O preço máximo de venda da banana ao grossista não poderá exceder o preço de referência em vigor, qualquer que seja a sua origem.
+4.º As margens máximas de comercialização da banana são as seguintes, por quilograma de peso líquido:
+a) Para o grossista - 25$00;
+b) Para o retalhista - 45$00.
+5.º Esta portaria entra em vigor em 1 de Dezembro de 1989.
+Ministérios da Agricultura, Pescas e Alimentação e do Comércio e Turismo.
+Assinada em 10 de Novembro de 1989.
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel. - O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.
