@@ -31,3 +31,5 @@ b) A identificação do participante em sistema de liquidação aceite pela enti
 4 - Se a sociedade emitente tiver resultado de fusão ou cisão, os requisitos das alíneas b) e c) do n.º 2 consideram-se satisfeitos se se verificarem numa das sociedades fundidas ou na sociedade cindida.
 
 5 - A CMVM pode dispensar os requisitos das alíneas b) e c) do n.º 2 quando por si só, nas circunstâncias concretas, o requisito da alínea d) permita aos investidores formar um juízo esclarecido sobre o emitente e os valores mobiliários.
+
+6 - Se à data previsível para a admissão já tiverem decorrido mais de nove meses sobre o termo do último exercício a que se reportam as contas anuais apresentadas, a entidade que não se encontre obrigada a publicar informação semestral, ou que não haja cumprido essa obrigação, deve apresentar relatórios e contas especiais, organizados nos termos prescritos para o relatório e contas anuais e reportados a data não anterior ao fim do 1.º semestre do exercício em curso.
