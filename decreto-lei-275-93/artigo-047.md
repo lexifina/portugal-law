@@ -2,6 +2,4 @@
 
 ### Duração
 
-1 - Sem prejuízo do disposto no número seguinte, o direito de habitação turística constituído pelo proprietário é, na falta de indicação em contrário, perpétuo, mas pode ser-lhe fixado um limite de duração não inferior a três anos a contar da data da sua constituição.
-
-2 - O direito de habitação turística não constituído pelo proprietário tem a duração mínima de 3 anos e a duração máxima de 30 anos, contados a partir da data da sua constituição.
+Os direitos de habitação turística são, na falta de indicação em contrário, perpétuos, mas pode ser-lhes fixado um limite de duração não inferior a três anos, a contar da data da sua constituição, excepto quando o empreendimento estiver ainda em construção, em que o prazo começa a contar a partir da data da abertura ao público do empreendimento turístico ou da casa ou empreendimento de turismo no espaço rural.

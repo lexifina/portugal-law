@@ -2,7 +2,7 @@
 
 ### Direito de resolução
 
-1 - O adquirente do direito real de habitação periódica pode resolver o respectivo contrato de aquisição sem indicar o motivo e sem quaisquer encargos, no prazo de 10 dias úteis a contar da data da sua celebração.
+1 - O adquirente do direito real de habitação periódica pode resolver o respectivo contrato de aquisição, sem indicar o motivo e sem quaisquer encargos, no prazo de 10 dias úteis a contar da data em que lhe for entregue o contrato de transmissão do direito real de habitação periódica.
 
 2 - A declaração de resolução deve ser comunicada ao vendedor através de carta registada, com aviso de recepção, enviada até ao termo do prazo previsto no número anterior.
 

@@ -46,7 +46,7 @@ m) A indicação das garantias prestadas para cumprir o disposto nos artigos 15.
 
 3 - Os elementos previstos no número anterior fazem parte integrante do contrato e completam os elementos previstos no n.º 1, devendo o adquirente declarar por escrito ter recebido aquele documento e compreendido o seu teor.
 
-4 - O certificado predial e o documento complementar devem estar redigidos de forma clara e precisa, com caracteres facilmente legíveis, em português, devendo ser entregue pelo vendedor ao adquirente uma tradução, efectuada nos termos da lei notarial, para, de entre as línguas oficiais da União Europeia, a ou uma das línguas do Estado membro de residência do adquirente ou, se este assim o preferir, a ou uma das línguas do Estado membro de que ele é nacional.
+4 - O certificado predial e o documento complementar devem estar redigidos de forma clara e precisa, com caracteres facilmente legíveis, em português, devendo ser entregue pelo vendedor ao adquirente uma tradução, certificada nos termos legais, na ou numa das línguas do Estado-Membro de residência do adquirente ou na ou numa das línguas do Estado-Membro de que este é nacional, à escolha do adquirente, acompanhada de uma tradução do contrato na língua do Estado em que se situe o imóvel.
 
 5 - No espaço do certificado predial imediatamente anterior ao destinado a assinaturas deve constar a menção de que nos contratos de alienação do direito real de habitação periódica o adquirente pode resolver o contrato, sem indicar o motivo e sem quaisquer encargos, no prazo de 10 dias úteis a contar da data em que lhe for entregue o certificado predial, salvo se a aquisição tiver sido precedida de contrato-promessa.
 

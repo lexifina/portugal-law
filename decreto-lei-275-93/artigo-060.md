@@ -18,4 +18,6 @@
 
 6 - O presente diploma aplica-se aos direitos obrigacionais de habitação turística constituídos ao abrigo do disposto no Decreto-Lei n.º 130/89, de 18 de Abril, salvo o disposto no n.º 1 do artigo 47.º
 
-7 - Todos os contratos relativos a direitos reais de habitação periódica e a direitos de habitação turística em empreendimentos turísticos sitos em Portugal, por períodos de tempo limitados em cada ano, ficam sujeitos às disposições do presente diploma, qualquer que seja o lugar e a forma da sua celebração.
+7 - As disposições do presente diploma aplicam-se a todos os contratos, por períodos de tempo limitados em cada ano, relativos a direitos reais de habitação periódica e a direitos de habitação turística em empreendimentos que tenham por objecto imóveis sitos em Portugal ou em qualquer outro Estado-Membro da União Europeia.
+
+8 - No caso de os contratos respeitarem a direitos reais de habitação periódica e a direitos de habitação turística em empreendimentos turísticos sitos no território de outro Estado-Membro da Comunidade Europeia, por períodos de tempo limitados em cada ano, aplicam-se as disposições correspondentes desse Estado-Membro qualquer que seja o lugar e a forma da sua celebração e a lei escolhida pelas partes para regular o contrato.

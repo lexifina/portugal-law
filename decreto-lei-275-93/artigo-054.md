@@ -6,7 +6,7 @@
 
 ### Contra-ordenações
 
-1 - Constituem contra-ordenações puníveis com coima de 2000000$00 a 20000000$00:
+1 - Constituem contra-ordenações puníveis com coima de (euro) 9975,94 (2000000$00) a (euro) 99759,40 (20000000$00):
 
 a) A comercialização de direito real de habitação periódica não validamente constituído;
 
@@ -26,17 +26,17 @@ h) A não prestação da caução prevista no artigo 31.º;
 
 i) A realização de publicidade ou promoção do direito real de habitação periódica ou de direito de habitação turística em infracção ao disposto nos artigos 43.º e 44.º;
 
-j) A comercialização de direitos de habitação turística em infracção do disposto nos n.os 1 e 2 do artigo 46.º;
+j) A comercialização de direitos de habitação turística em infracção ao disposto nos n.os 1 e 4 do artigo 46.º;
 
-l) A infracção ao disposto nos n.os 3 e 4 do artigo 48.º;
+l) A infracção do disposto nos n.os 5 e 6 do artigo 48.º;
 
 m) A não prestação das cauções previstas no artigo 52.º;
 
 n) O incumprimento do disposto no n.º 5 do artigo 60.º
 
-2 - Constituem contra-ordenações puníveis com coimas de 1000000$00 a 10000000$00:
+2 - Constituem contra-ordenações puníveis com coima de (euro) 4987,98 (1000000$00) a (euro) 49879,79 (10000000$00):
 
-a) A infracção ao disposto no n.º 2 do artigo 4.º;
+a) A infracção ao disposto no n.º 3 do artigo 4.º;
 
 b) A infracção ao disposto nos n.os 1 e 2 do artigo 9.º;
 

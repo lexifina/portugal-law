@@ -12,6 +12,6 @@ c) A devolução da totalidade das quantias entregues pelo adquirente por conta 
 
 d) A devolução da totalidade das quantias entregues pelo adquirente até ao termo do prazo previsto nos n.os 3 e 4 do artigo seguinte.
 
-2 - A caução é prestada a favor do adquirente por seguro, garantia bancária, depósito bancário ou títulos da dívida pública e o seu valor mínimo é equivalente ao que houver sido entregue por aquele.
+2 - A caução é prestada a favor do adquirente por seguro, garantia bancária, depósito bancário, títulos de dívida pública ou qualquer outra forma de garantia admitida no direito interno dos Estados-Membros da União Europeia, e o seu valor mínimo é equivalente ao que houver sido entregue por aquele.
 
 3 - Nas transmissões subsequentes de direitos reais de habitação periódica, transfere-se para o adquirente a caução que garante o cumprimento das obrigações previstas nas alíneas a) e b) do n.º 1 e ainda, no caso da alínea c) do n.º 1, se o empreendimento turístico ainda não estiver aberto ao público.
