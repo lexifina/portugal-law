@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 20-AZ/2001
+Segundo comunicação do Ministério das Finanças, a Portaria n.º 1272/2001, publicada no Diário da República, 1.ª série, n.º 260, de 9 de Novembro de 2001, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No n.º 1.º, onde se lê «16) Ilhas Cocos e Kelling;» deve ler-se «16) Ilhas Cocos o Keeling;», onde se lê «34) Ilhas Keslim;» deve ler-se «34) Ilha de Queshm;», onde se lê «54) Ilhas Pacífico;» deve ler-se «54) Ilhas do Pacífico não compreendidas nos restantes números;» e onde se lê «72) Ilhas Svalbard;» deve ler-se «72) Ilhas Svalbard (arquipélago Spitsbergen e ilha Bjornoya);».
+Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Novembro de 2001. - O Secretário-Geral, Alexandre Figueiredo.
