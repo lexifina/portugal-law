@@ -1,0 +1,7 @@
+Despacho Normativo n.º 59/95
+O Decreto-Lei n.º 168/94, de 15 de Junho, que aprova as bases da concessão, da concepção, do projecto, da construção, do financiamento e da exploração da nova travessia sobre o rio Tejo em Lisboa, bem como da exploração e da manutenção da actual travessia, consagra, no n.º 3 da base XLV, que as condições de admissão dos trabalhadores deverão corresponder aos actuais direitos e regalias dos trabalhadores.
+Entre essas condições conta-se o direito à protecção na doença através da Direcção-Geral de Protecção Social aos Funcionários e Agentes da Administração Pública (ADSE), com a obrigação do desconto de 1% do valor do respectivo vencimento.
+Considerando o disposto na base XLV do contrato de concessão aprovado pelo Decreto-Lei n.º 168/94, de 15 de Junho, determina-se o seguinte:
+1 - Os trabalhadores da Junta Autónoma de Estradas que pretendam transitar para os quadros de pessoal da entidade operadora a que se refere o citado diploma legal têm o direito à protecção na doença facultado pela Direcção-Geral de Protecção Social aos Funcionários e Agentes da Administração Pública (ADSE).
+2 - A entidade operadora descontará aos trabalhadores referidos no número anterior 1% do valor do respectivo vencimento, sendo responsável pela satisfação dos encargos de saúde nos precisos termos do disposto no artigo 4.º do Decreto-Lei n.º 118/83, de 25 de Fevereiro.
+Ministério das Finanças, 22 de Setembro de 1995. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento.
