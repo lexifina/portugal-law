@@ -1,0 +1,19 @@
+Decreto-Lei n.º 46564
+A legislação vigente estabelece a forma como as gratificações do serviço aéreo do pessoal navegante da Força Aérea e de imersão do pessoal que tenha feito parte das guarnições dos submersíveis ou tenha sido mergulhador militar devem intervir no cálculo das pensões de reforma, de reforma extraordinária e de invalidez.
+O Decreto-Lei n.º 42792, de 31 de Dezembro de 1959, fixou as gratificações de serviço aéreo a abonar ao pessoal especializado em pára-quedismo. Não foi ainda definida, porém, a maneira como tal gratificação deve ser incluída no cálculo das pensões deste pessoal, lacuna que urge eliminar.
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º As pensões de reforma, de reforma extraordinária e de invalidez do pessoal especializado em pára-quedismo que tenha servido nas tropas pára-quedistas serão proporcionais ao serviço aéreo prestado.
+§ 1.º As pensões referidas no corpo deste artigo são calculadas de acordo com a legislação vigente para o quadro e ramo das Forças Armadas a que o militar pertencer na data do cálculo da pensão, às quais serão adicionados os quantitativos seguintes:
+a) Para as pensões de reforma:
+6/1200 x G x n
+sendo G a gratificação anual de serviço aéreo que o militar recebia no último posto em que executou saltos em pára-quedas de avião em voo e n o número de saltos efectuados, ao qual não pode ser atribuído valor superior a 120.
+b) Para as pensões de reforma extraordinária e de invalidez:
+6/1200 x n x G + g x (6/10 - 6/1200 x n) x G
+sendo g o grau de incapacidade, G a gratificação anual de serviço aéreo que o militar recebia no último posto em que executou saltos em pára-quedas de avião em voo e n o número de saltos efectuados, ao qual não pode ser atribuído valor superior a 120. Nos casos em que a pensão seja devida por inteiro, o quantitativo a adicionar à pensão será igual a 0,60 G.
+§ 2.º Os quantitativos do parágrafo anterior não são acumuláveis com outros de idêntica natureza, que correspondam a outras gratificações de serviço aéreo ou a gratificações de imersão, a que o militar tenha também direito na sua qualidade de pessoal navegante da Força Aérea, das guarnições de submersíveis ou de mergulhador militar, optando-se pelo quantitativo maior.
+Art. 2.º Se a pensão for de calcular com base na média dos abonos nos últimos dez anos, a gratificação de serviço aéreo do pessoal especializado em pára-quedismo intervirá para formação da mesma média, não sendo de adicionar à pensão, nos termos referidos no artigo anterior.
+Art. 3.º As disposições do presente diploma são também aplicáveis aos militares especializados em pára-quedismo que hajam passado às situações de reforma e de reforma extraordinária ou sofrido incapacidade determinante da pensão de invalidez, antes da vigência deste diploma.
+§ 1.º A retroactividade referida no corpo deste artigo só poderá importar a revisão das pensões já concedidas se essa revisão for requerida no prazo de 80 dias, contados do início da vigência deste diploma.
+§ 2.º Os quantitativos a que se refere o § 1.º do artigo 1.º só serão devidos a partir da data em que for requerida a revisão.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 1 de Outubro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Francisco António das Chagas.
