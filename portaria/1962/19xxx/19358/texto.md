@@ -1,0 +1,10 @@
+Portaria n.º 19358
+Considerando a necessidade de alterar as condições em que os segundos-grumetes podem ser designados para a frequência dos cursos do 1.º grau;
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, que:
+1.º Ao abrigo do disposto no artigo 239.º do Decreto n.º 30261, de 9 de Janeiro de 1940, o artigo 93.º do Regulamento do Corpo de Marinheiros da Armada passe a ter a seguinte redacção:
+Art. 93.º O Comando do Corpo de Marinheiros, consideradas superiormente as necessidades do serviço activo e as exigências de manutenção de uma reserva eficiente, designará os primeiros-grumetes que hão-de frequentar cada um dos cursos do 1.º grau. A designação recairá nos que tenham maior valorização final na instrução técnica elementar, independentemente da incorporação a que pertençam, melhores informações sobre qualidades militares, classificação de comportamento não inferior à 2.ª classe, sem faltas de carácter grave, e hajam revelado boas qualidades profissionais, tendo em vista o seu aproveitamento na preparação dos graduados.
+§ 1.º Quando o número de primeiros-grumetes for insuficiente, poderão ser designados os segundos-grumetes que satisfaçam às condições indicadas no corpo deste artigo, devendo, contudo, ser respeitada a ordem das incorporações a que pertençam.
+§ 2.º Aos segundos-grumetes admitidos à frequência dos cursos do 1.º grau é dispensado o tempo de embarque, que constitui uma das condições especiais de promoção a primeiro-grumete.
+§ 3.º Quatro anos depois do primeiro dia de incorporação das praças de uma determinada incorporação, os primeiros-grumetes pertencentes à mesma que não tenham logrado promoção a marinheiros perdem o direito a essa promoção no activo e serão passados à reserva logo que findem o tempo de serviço obrigatório. Na data da passagem à reserva são promovidos a marinheiros os primeiros-grumetes que tenham quatro anos de serviço efectivo e frequentado com aproveitamento um dos cursos do 1.º grau.
+2.º Seja revogada a Portaria n.º 18642, de 7 de Agosto de 1961.
+Ministério da Marinha, 20 de Agosto de 1962. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.
