@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, conforme comunicação recebida do Secretariado Permanente da Conferência da Haia de Direito Internacional Privado, foram cumpridas todas as formalidades destinadas a considerar como autoridades designadas para, no ultramar português, emitir as apostilas, previstas no artigo 3.º, alínea 1.ª, da Convenção Relativa à Supressão da Exigência da Legalização dos Actos Públicos Estrangeiros, concluída na Haia em 5 de Outubro de 1961, as seguintes entidades: em Angola e Moçambique, os governadores-gerais, e, nas outras províncias ultramarinas, os governadores.
+Secretaria-Geral do Ministério, 26 de Dezembro de 1969. - O Secretário-Geral, José Luís Archer.
