@@ -13,5 +13,3 @@
 5 - Sem prejuízo dos casos em que por lei é vedada, os interessados poderão requerer a reversão das mercadorias sujeitas a perda a favor da Fazenda Nacional, desde que, satisfeitas a multa e demais quantias em dívida no processo, paguem uma importância igual ao seu valor.
 
 6 - As mercadorias perdidas a favor da Fazenda Nacional nos termos do presente artigo, quando se trate de equipamentos de telecomunicações e de informática ou outros com interesse para a instituição que procedeu à sua apreensão, ser-lhe-ão afectos sempre que esta reconheça interesse na afectação.
-
-7 - As mercadorias objecto do crime previsto no artigo 97.º-A são sempre declaradas perdidas a favor da Fazenda Pública.

@@ -2,11 +2,11 @@
 
 ### Qualificação
 
-Os crimes previstos nos artigos anteriores, independentemente dos requisitos de valor neles previstos, são punidos com pena de prisão de um a cinco anos para as pessoas singulares e com pena de multa de 240 a 1200 dias para as pessoas coletivas, quando se verifique qualquer das seguintes circunstâncias:
+Os crimes previstos nos artigos anteriores são punidos com pena de prisão até cinco anos ou pena de multa até 600 dias, quando se verifique qualquer das seguintes circunstâncias:
 
 a) A mercadoria objecto da infracção for de importação ou de exportação proibida;
 
-b) A mercadoria objecto da infracção tiver valor superior a (euro) 100 000;
+b) A mercadoria objecto da infracção tiver valor superior a (euro) 50000;
 
 c) Tiverem sido cometidos com uso de armas, ou com o emprego de violência, ou por duas ou mais pessoas;
 
@@ -16,4 +16,4 @@ e) O autor ou cúmplice do crime for funcionário da administração tributária
 
 f) Quando em águas territoriais tiver havido transbordo de mercadorias contrabandeadas;
 
-g) Quando a mercadoria objeto da infração pertencer à Convenção sobre o Comércio Internacional das Espécies da Fauna e da Flora Selvagens Ameaçadas de Extinção e o seu comércio internacional estiver temporária ou definitivamente proibido.
+g) Quando a mercadoria objecto da infracção estiver tipificada no anexo à I Convenção sobre o Comércio Internacional das Espécies da Fauna e da Flora Selvagens Ameaçadas de Extinção.

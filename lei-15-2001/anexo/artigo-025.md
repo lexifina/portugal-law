@@ -2,4 +2,4 @@
 
 ### Concurso de contra-ordenações
 
-As sanções aplicadas às contra-ordenações em concurso são sempre objecto de cúmulo material.
+As sanções aplicadas às contra-ordenações em concurso são sempre cumuladas materialmente.

@@ -1,13 +1,7 @@
 # Artigo 22.º
 
-### Dispensa e atenuação especial da pena
+### Promoções do Ministério Público e do representante da Fazenda Pública. Prazo
 
-1 - Se o agente repuser a verdade sobre a situação tributária e o crime for punível com pena de prisão igual ou inferior a 2 anos, a pena pode ser dispensada se:
+1 - No processo judicial tributário, os prazos para a prática de actos pelo Ministério Público e pelo representante da Fazenda Pública têm a natureza de prazos peremptórios.
 
-a) A ilicitude do facto e a culpa do agente não forem muito graves;
-
-b) A prestação tributária e demais acréscimos legais tiverem sido pagos, ou tiverem sido restituídos os benefícios injustificadamente obtidos, até à dedução da acusação;
-
-c) À dispensa da pena se não opuserem razões de prevenção.
-
-2 - A pena será especialmente atenuada se o agente repuser a verdade fiscal e pagar a prestação tributária e demais acréscimos legais até à decisão final ou no prazo nela fixado.
+2 - Na falta de disposição especial, os prazos mencionados no n.º 1 são de 15 dias na 1.ª instância e de 30 dias nos tribunais superiores.

@@ -8,7 +8,7 @@ a) Perda de objectos pertencentes ao agente;
 
 b) Privação do direito a receber subsídios ou subvenções concedidos por entidades ou serviços públicos;
 
-c) Perda de benefícios fiscais concedidos, ainda que de forma automática, franquias aduaneiras e benefícios concedidos pela administração da segurança social ou inibição de os obter;
+c) Suspensão de benefícios fiscais e franquias aduaneiras concedidos unilateralmente pela administração tributária ou inibição de os obter;
 
 d) Privação temporária do direito de participar em feiras, mercados, leilões ou arrematações e concursos de obras públicas, de fornecimento de bens ou serviços e de concessão, promovidos por entidades ou serviços públicos;
 
@@ -18,10 +18,8 @@ f) Cassação de licenças ou concessões e suspensão de autorizações;
 
 g) Publicação da decisão condenatória a expensas do agente da infracção.
 
-2 - Sempre que a infração prevista no n.º 6 do artigo 108.º seja cometida a título de dolo e o montante de dinheiro líquido objeto da referida infração seja de valor superior a (euro) 10 000, é decretada, a título de sanção acessória, a perda do montante total que exceda aquele quantitativo.
+2 - Os pressupostos da aplicação das sanções acessórias previstas no número anterior são os estabelecidos no regime geral do ilícito de mera ordenação social.
 
-3 - Os pressupostos da aplicação das sanções acessórias previstas nos números anteriores são os estabelecidos no regime geral do ilícito de mera ordenação social.
+3 - A sanção acessória de suspensão de benefícios fiscais e franquias aduaneiras ou inibição de os obter tem a duração máxima de dois anos e só pode recair sobre incentivos fiscais que não sejam inerentes ao regime jurídico aplicável à coisa ou direito beneficiados.
 
-4 - A sanção acessória de inibição de obter benefícios fiscais e franquias aduaneiras tem a duração máxima de dois anos e pode recair sobre quaisquer benefícios ou incentivos directa ou indirectamente ligados aos impostos sobre o rendimento, a despesa ou o património e às prestações tributárias a favor da segurança social.
-
-5 - As mercadorias de importação e exportação proibida são sempre declaradas perdidas.
+4 - As mercadorias de importação e exportação proibida são sempre declaradas perdidas.

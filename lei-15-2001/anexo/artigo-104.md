@@ -18,12 +18,6 @@ f) Tiver sido utilizada a interposição de pessoas singulares ou colectivas res
 
 g) O agente se tiver conluiado com terceiros com os quais esteja em situação de relações especiais.
 
-2 - A mesma pena é aplicável quando:
+2 - A mesma pena é aplicável quando a fraude tiver lugar mediante a utilização de facturas ou documentos equivalentes por operações inexistentes ou por valores diferentes ou ainda com a intervenção de pessoas ou entidades diversas das da operação subjacente.
 
-a) A fraude tiver lugar mediante a utilização de facturas ou documentos equivalentes por operações inexistentes ou por valores diferentes ou ainda com a intervenção de pessoas ou entidades diversas das da operação subjacente; ou
-
-b) A vantagem patrimonial for de valor superior a (euro) 50 000.
-
-3 - Se a vantagem patrimonial for de valor superior a (euro) 200 000, a pena é a de prisão de 2 a 8 anos para as pessoas singulares e a de multa de 480 a 1920 dias para as pessoas colectivas.
-
-4 - Os factos previstos nas alíneas d) e e) do n.º 1 do presente preceito com o fim definido no n.º 1 do artigo 103.º não são puníveis autonomamente, salvo se pena mais grave lhes couber.
+3 - Os factos previstos nas alíneas d) e e) do n.º 1 do presente preceito com o fim definido no n.º 1 do artigo 103.º não são puníveis autonomamente, salvo se pena mais grave lhes couber.

@@ -1,5 +1,3 @@
-## Anexo
-
 ## REGIME GERAL DAS INFRACÇÕES TRIBUTÁRIAS
 
 ## Parte I
