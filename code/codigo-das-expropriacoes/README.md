@@ -6,9 +6,9 @@ Lei n.º 168/99 · Aprova o Código das Expropriações
 
 <https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1999-34538575>
 
-Em vigor desde 1999-11-17; 6 dias com versões no DR (o último em 2026-08-09). Os artigos do próprio Lei n.º 168/99 estão em [`lei-168-99/`](lei-168-99/).
+Em vigor desde 1999-11-18; 6 dias com versões no DR (o último em 2026-08-09). Os artigos do próprio Lei n.º 168/99 estão em [`lei-168-99/`](lei-168-99/).
 
-In force since 1999-11-17; 6 days with versions in the Diário da República (the last on 2026-08-09). The articles of Lei n.º 168/99 itself are in [`lei-168-99/`](lei-168-99/).
+In force since 1999-11-18; 6 days with versions in the Diário da República (the last on 2026-08-09). The articles of Lei n.º 168/99 itself are in [`lei-168-99/`](lei-168-99/).
 
 | Disposição | Ficheiro | Alterações | Última alteração |
 | --- | --- | ---: | --- |
