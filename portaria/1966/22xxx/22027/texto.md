@@ -1,0 +1,4 @@
+Portaria n.º 22027
+Manda o Governo da República Portuguesa, pelos Ministros da Defesa Nacional e das Finanças, nos termos do artigo 4.º do Decreto-Lei n.º 38614, de 24 de Janeiro de 1952, que seja dada a seguinte nova redacção à norma 3.ª da Portaria n.º 13816, também de 24 de Janeiro de 1952:
+3.ª O cabimento para a realização das despesas nas dotações parcelares constantes do plano será prestado pelas entidades que normalmente procedem a tal serviço, de harmonia com a legislação em vigor, em relação às outras despesas. As verbas e rubricas constantes do plano só podem, no decorrer da gerência, ser modificadas por despacho do Ministro da Defesa Nacional, ouvido o Conselho Superior Militar.
+Presidência do Conselho e Ministério das Finanças, 3 de Junho de 1966. - O Ministro da Defesa Nacional, Manuel Gomes de Araújo. - O Ministro das Finanças, Ulisses Cruz de Aguiar Cortês.
