@@ -1,0 +1,14 @@
+Resolução da Assembleia da República n.º 40/2002
+Revisão da política comum de pescas
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, o seguinte:
+1 - Rejeitar com veemência a proposta da Comissão Europeia que visa a supressão das ajudas comunitárias à modernização e construção de novas embarcações bem como a majoração dos prémios ao abate de embarcações, a qual, a ser concretizada, inviabilizaria a actividade da frota pesqueira nacional, lançando no desemprego milhares de pescadores e penalizando quem, como Portugal, cumpriu e ultrapassou todos os objectivos previstos nos programas de orientação plurianual cooperando no processo de protecção das espécies piscícolas, designadamente ao nível dos juvenis.
+2 - Alertar para o facto de este conjunto de propostas, em conjugação com as características da generalidade da frota portuguesa, com segmentos bastante envelhecidos tanto em idade como tecnologicamente, ter consequências irreversíveis para o futuro deste sector, afectando não só os seus agentes, as actividades a montante e a jusante do sector, bem como todo o tecido económico e social das comunidades piscatórias.
+3 - Defender a necessidade de ser garantido de forma permanente o acesso exclusivo pela frota portuguesa ao nosso mar territorial na distância de 12 milhas marítimas, bem como alargar a zona de acesso reservado até às 50 milhas marítimas nas regiões ultraperiféricas dos Açores e da Madeira.
+4 - Propor que a revisão da política comum de pescas da União Europeia se faça tendo em conta a realidade específica de cada país e a manutenção de ajudas visando a renovação e a modernização da frota no quadro de uma pesca responsável, desde a produção ao consumo, assente numa cuidadosa política de investigação, tendo em vista a inovação do sector e o estudo e a preservação dos recursos na defesa da qualidade e da segurança alimentares.
+5 - Defender a consagração de uma vertente social na política comum de pescas.
+6 - Defender a necessidade de uma gestão regional dos recursos pesqueiros, de acordo com a especificidade de cada zona de pesca e em cuja gestão estejam envolvidos, como participantes activos, os vários interessados.
+7 - Defender os direitos históricos de pesca adquiridos pelas frotas longínquas, terminando com a discriminação entre acordos do Norte e acordos do Sul e, nestes, defender uma estratégia efectiva de parcerias.
+8 - Pugnar para que, no quadro da política comum de pescas, sejam asseguradas medidas específicas para as regiões ultraperiféricas, dando sequência ao artigo 229.º do Tratado da União Europeia.
+9 - Recomendar ao Governo o prosseguimento do diálogo e do envolvimento no processo de defesa das pescas portuguesas das organizações representativas de pescadores e armadores bem como de outras entidades com interesse no sector.
+Aprovada em 20 de Junho de 2002.
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
