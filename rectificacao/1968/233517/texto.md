@@ -1,0 +1,2 @@
+Rectificação
+Rectificação - No sumário da Portaria n.º 23097, publicada pelo Ministério da Marinha, no Diário do Governo n.º 300, de 28 de Dezembro do ano findo, onde se lê: «estabelecidos pelo artigo 23.º do Regulamento da Pesca de Arrasto para as Embarcações da Pesca de Arrasto Costeira», deve ler-se: «estabelecidos pelo artigo 23.º do Regulamento da Pesca de Arrasto para as embarcações da pesca de arrasto costeira».
