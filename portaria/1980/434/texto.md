@@ -1,0 +1,10 @@
+Portaria n.º 434/80
+de 25 de Julho
+Considerando o disposto no n.º 4 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho;
+Considerando que ao Instituto Português do Livro, recentemente criado pelo Decreto-Lei n.º 59/80, de 3 de Abril, foram definidas atribuições pelo Decreto Regulamentar n.º 17/80, de 23 de Maio, que urge concretizar;
+Considerando que para essa concretização se torna necessário dar prioridade ao provimento dos lugares de director de serviços e chefe de divisão do pessoal dirigente do quadro de pessoal anexo ao Decreto Regulamentar n.º 17/80, de 23 de Maio, ainda não preenchidos, não podendo, por isso, dar-se cumprimento ao que se dispõe no n.º 2 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho;
+Considerando ainda que para o exercício daqueles cargos se exige necessariamente dos respectivos titulares uma formação e experiência específicas, a cujas exigências os requisitos formais do citado preceito do Decreto-Lei n.º 191-F/79 não permitem dar resposta:
+Manda o Governo da República Portuguesa, pelos Secretários de Estado da Cultura e da Reforma Administrativa, o seguinte:
+1 - É alargada a área de recrutamento para os lugares de director de serviços e chefe de divisão do quadro de pessoal dirigente do Instituto Português do Livro, a que se refere o n.º 1 do artigo 17.º do Decreto Regulamentar n.º 17/80, de 23 de Maio, aos titulares de qualquer categoria referida no n.º 1 do artigo 8.º do Decreto-Lei n.º 191-C/79, de 25 de Junho, que integrem quadros da Administração Pública.
+2 - O recrutamento para os lugares de director de serviços e chefe de divisão a que se refere o número anterior poderá também recair entre o pessoal contratado além do quadro e em regime de prestação eventual de serviço, requisitado e destacado que prestasse serviço na Secretaria de Estado da Cultura à data da publicação do Decreto-Lei n.º 59/80, de 3 de Abril, desde que possua as habilitações legais para ingressar na carreira técnica superior.
+Presidência do Conselho de Ministros, 14 de Julho de 1980. - O Secretário de Estado da Cultura, Vasco Pulido Valente. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.
