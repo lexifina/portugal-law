@@ -1,0 +1,17 @@
+Portaria n.º 19699
+Ao abrigo do disposto no artigo 2.º do Decreto-Lei n.º 43773, de 1 de Julho de 1961:
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
+1.º Sempre que não seja possível preencher os efectivos de praças designadas para a frequência dos cursos de fuzileiro especial ou de conversão para a classe dos fuzileiros podem os mesmos ser completados com:
+a) Primeiros-grumetes que estejam aguardando baixa do serviço activo, por não terem logrado a promoção a marinheiro da sua classe no prazo devido;
+b) Marinheiros e primeiros-grumetes da reserva da Armada.
+2.º As praças referidas no número anterior devem ser voluntárias para continuar a prestar serviço na Armada, na classe dos fuzileiros do quadro do activo, e satisfazer às condições de admissão àqueles cursos.
+3.º Das praças citadas no n.º 1.º desta portaria, as que sejam admitidas à frequência dos cursos mencionados no mesmo número:
+a) São transferidas para a classe dos fuzileiros, na data do início dos cursos, as que ainda não tenham tido baixa do serviço activo;
+b) São readmitidas no serviço activo, na classe dos fuzileiros, na mesma data, as que já pertençam à reserva da Armada.
+4.º Dos primeiros-grumetes referidos na alínea a) do n.º 1.º desta portaria são promovidos ao posto de marinheiro da classe dos fuzileiros, na data do seu ingresso nesta classe, os que satisfariam às condições legais para obter a promoção a esse posto na classe de origem quando fossem transferidos para a reserva da Armada.
+5.º As praças que sejam admitidas à frequência dos cursos de fuzileiro especial e de conversão para a classe dos fuzileiros nas condições estabelecidas nesta portaria são passadas à reserva da Armada nas classes de origem desde que não obtenham aproveitamento nos mesmos cursos.
+6.º O disposto no número anterior não é aplicável:
+a) Às praças que não possam completar os cursos por motivo de doença, às quais será permitido repetir esses cursos;
+b) Às praças que sejam excluídas da frequência do curso de fuzileiro especial e que sejam autorizadas pelo comandante do Corpo de Marinheiros da Armada, mediante proposta do director de instrução da Escola de Fuzileiros, a frequentar o próximo curso de conversão para a classe dos fuzileiros.
+7.º As dúvidas que surjam sobre a posição na escala de antiguidades das praças a que se refere o n.º 1.º desta portaria serão resolvidas por despacho ministerial.
+Ministério da Marinha, 12 de Fevereiro de 1963. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.
