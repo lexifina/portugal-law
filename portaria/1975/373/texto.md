@@ -1,0 +1,11 @@
+Portaria n.º 373/75
+de 17 de Junho
+A recente junção dos dois internatos das especialidades de obstetrícia e ginecologia começa a levantar problemas relativamente aos médicos que já se encontram habilitados com o internato de uma das especialidades e que, agora, pretendem completá-lo, de acordo com a nova orientação dada àqueles internatos.
+Durante o período de tempo em que os dois internatos se mantiveram separados criaram-se situações que colocam os médicos em franca desigualdade perante os que agora frequentarem o internato conjunto.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Saúde, o seguinte:
+1.º Os médicos que, tendo completado o internato de obstetrícia ou de ginecologia, se encontrem ligados aos estabelecimentos em regime de prestação eventual de serviço a aguardar concurso para especialista de hospital central ou distrital, podem requerer ao hospital a prorrogação do seu internato por mais dois anos, devendo estagiar num serviço da especialidade que complete o internato conjunto.
+2.º Os médicos que completarem um dos internatos de obstetrícia ou de ginecologia e não se encontrem vinculados a qualquer hospital podem requerer à Direcção-Geral dos Hospitais a frequência do internato conjunto com a indicação do estabelecimento onde pretendam realizar os dois anos de estágio que lhes falta.
+3.º Os médicos que efectuaram o exame final do internato de obstetrícia ou de ginecologia sem a frequência do respectivo estágio hospitalar, ao abrigo do disposto no artigo 54.º, n.º 1, alínea b), da Portaria n.º 240/70, de 14 de Maio, ou do artigo 61.º, n.º 2, da Portaria n.º 760/73, de 3 de Novembro, e queiram ficar habilitados com o internato conjunto, podem requerer à Direcção-Geral dos Hospitais o exame final da especialidade que lhes falta desde que provem ter dois anos de serviço em hospital central nessa especialidade.
+4.º Podem ser admitidos a exame final do internato conjunto de obstetrícia e ginecologia os médicos que, embora sem a frequência do internato, tenham oito anos de serviços prestados em qualquer hospital central, independentemente da forma de provimento ou de admissão, dos quais, pelo menos, seis nas duas especialidades.
+Secretaria de Estado da Saúde, 24 de Abril de 1975. - O Secretário de Estado da Saúde, Carlos Matos Chaves Macedo.
