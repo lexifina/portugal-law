@@ -1,0 +1,5 @@
+Declaração de rectificação n.º 26/93
+Para os devidos efeitos se declara que o Decreto-Lei n.º 265/92, publicado no Diário da República, n.º 272, de 24 de Novembro de 1992, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No mapa I em anexo, onde se lê «Lugares acrescentados ao quadro do Departamento Central de Planeamento (anexo VI do Decreto-Lei n.º 272/91, de 7 de Agosto).» deve ler-se «Lugares acrescentados ao quadro da Direcção-Geral do Desenvolvimento Regional (anexo VII do Decreto-Lei n.º 272/91, de 7 de Agosto).».
+No mapa II em anexo, onde se lê «Lugares acrescentados ao quadro da Direcção-Geral do Desenvolvimento Regional (anexo VII do Decreto-Lei n.º 272/91, de 7 de Agosto).» deve ler-se «Lugares acrescentados ao quadro do Departamento Central de Planeamento (anexo VI do Decreto-Lei n.º 272/91, de 7 de Agosto).».
+Secretaria-Geral da Presidência do Conselho de Ministros, 26 de Fevereiro de 1993. - O Secretário-Geral, França Martins.
