@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=qUAFp27CBkIttcOxiLgk0FIFM%2benj3agWAdWp9f2uUE7DM89Hf79g0s6kJ1OpP%2b%2bV8tF1iVoXzUjf9MdNSMm4nwgUSw8wSK%2f8IWQGg3htMY3c5Ya6BFuH2nCggW0h1GujT%2bIUdPmA8SvTT3HpzcWjwY1Ytx02d%2b7d2kHzuJsMkIxOLhUMfluBDICsI431jugsRtyLdTkTs3iZNjh0bZeiTsuFJxPyR5N7XOGoIkmGpdUelnuD9Uv%2bK5tX%2fCtB3SYc9FZA1mlNR599B92fTx%2bndvsVfZla0grGGcMC1Ygbf5wdyt%2fcERRcbU8v%2fdkvPhkc3PKeJXfSzhOHsiR3Kxg%2fadV%2fCqpiI%2bSBylGrc6dYzg%3d&fich=IntervencoesVII_json.txt&Inline=true",
+  "ficheiro_sha256": "63246bfd185a5eb6b3d6f557ea72ee60968af9ce7c1a76c63b16943a173ed13f",
+  "legislatura": "VII",
+  "id": "55758",
+  "tipo": "Defesa da honra",
+  "orador": "Manuela Ferreira Leite (PSD)",
+  "data_registo": "1999-04-09",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "99332",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "4568",
+        "tipo": "INI",
+        "titulo": "Apreciação Parlamentar - Decreto-lei n° 399/98,de 17 de Dezembro, que\"atribui ao Governo através dos ministros das finanças e do equipamento do planeamento e da administração do território a competência para definir os lanços de auto-estradas ou de grandes obras de arte que venham a ser objecto de concessão nos termos do n°4 do artigo 15° da lei n°10/90,de 17 de Março\"."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1999-04-09",
+    "Debate": "AP 76-PSD",
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "319",
+      "nome": "Manuela Ferreira Leite"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "55758",
+    "IdDebate": "689",
+    "Iniciativas": [
+      {
+        "fase": "Apreciação de Decreto-Lei",
+        "id": "4568",
+        "tipo": "Apreciação Parlamentar"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "55758",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "2566-2567"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1999-04-10",
+        "pubLeg": "VII",
+        "pubNr": "70",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/070/1999-04-10/2566?pgs=2566-2567&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputada",
+    "Resumo": "DL399/98 ",
+    "Sessao": "4",
+    "Sumario": "DEC-LEI 399/98, 17 DEZEMBRO, ATRIBUI AO GOVERNO ATRAVEZ DOSMINISTERIOS DAS FINANCAS E DO EQUIP. , DO PLANEAM. E DA ADMINISTRACAO DO TERRIT. A COMPETENCIA PARA DEFINIR OS LANCOS DEAUTO-ESTRDAS OU GRANDES OBRAS DE ARTE QUE VENHAM A SER OBJECTO DE CONCESSAO NOS TERMOS DO N.4-ART.15, LEI 10/90 15 MARCO",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Defesa da honra"
+  }
+}
