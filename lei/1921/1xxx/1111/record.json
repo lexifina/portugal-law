@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1921/01/02100/00630063.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1921-01-29",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "0935dd5fb3330c34a23e3e8ab92ee811cb9c40f8d5bd4517d5f404f8dbc534d0",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.0,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "f74895db5209ed1dab879e650a81b49a9f9004aa7a5d6753893ccb043d4b078b",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 103
 }
