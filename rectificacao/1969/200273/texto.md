@@ -1,0 +1,2 @@
+Rectificação
+No sumário do Decreto-Lei n.º 49056, publicado pelos Ministérios da Justiça e das Finanças no Diário do Governo n.º 137, de 12 de Junho de 1969, onde se lê: «... e revoga o § único do artigo 258.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, aprovado pelo Decreto n.º 45109», deve ler-se: «... e revoga o § único do artigo 258.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, aprovado pelo Decreto n.º 45104»
