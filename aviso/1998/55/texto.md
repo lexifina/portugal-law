@@ -1,0 +1,4 @@
+Aviso n.º 55/98
+Por ordem superior se torna público que a Roménia depositou, em 20 de Novembro de 1997, os instrumentos de ratificação da Convenção Europeia para a Protecção do Património Arqueológico, aberta para assinatura em 6 de Maio de 1969 e revista em 16 de Janeiro de 1992.
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 71/97, publicada no Diário da República, 1.ª série-A, n.º 289, de 16 de Dezembro de 1997, tendo ratificado a Convenção pelo Decreto do Presidente da República n.º 74/97, conforme aviso publicado no Diário da República, 1.ª série, n.º 289, de 16 de Dezembro de 1997.
+Direcção-Geral dos Assuntos Multilaterais, 4 de Março de 1998. - O Director de Serviços das Organizações Políticas Internacionais, João José Gomes Caetano da Silva.
