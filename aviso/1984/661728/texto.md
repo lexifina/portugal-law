@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que entrou em vigor no dia 1 de Março de 1984 a Convenção entre os Governos da República Portuguesa, da Espanha e da República Francesa Relativa à Extensão de Certas Disposições das Convenções de Segurança Social, Celebradas entre Dois Daqueles Estados, aos Nacionais do Terceiro Estado, assinada em Madrid em 10 de Novembro de 1982 e aprovada pelo Decreto do Governo n.º 67/83, de 2 de Agosto, publicado no Diário da República, 1.ª série, n.º 176, de 2 de Agosto de 1983.
+Instituto de Apoio à Emigração e às Comunidades Portuguesas, 14 de Março de 1984. - O Presidente, Victor Torres Preto.
