@@ -1,0 +1,7 @@
+Despacho Normativo n.º 112/83
+O Despacho Normativo n.º 97/82, publicado no Diário da República, 1.ª série, n.º 14, de 21 de Junho de 1982, contém no seu preâmbulo uma incorrecção e no seu dispositivo uma imprecisão, uma e outra causando dificuldades na respectiva execução.
+De facto, o Hotel de Santa Luzia vinha sendo à data da publicação do citado despacho normativo, por efeito de mera prestação de serviços, gerido pela ENATUR, ainda que por conta do Estado, situação que se iniciou em Janeiro de 1977, e não desde 1979, como no preâmbulo daquele diploma vinha referido, em execução de despacho lavrado pelo então Secretário de Estado do Turismo em 16 de Novembro de 1976.
+Porque subsistem também dúvidas quanto ao momento a que se devem reportar os efeitos da integração do estabelecimento hoteleiro denominado Hotel de Santa Luzia no património da ENATUR, torna-se necessário produzir o presente despacho interpretativo.
+Deste modo, determina-se o seguinte:
+Os efeitos da transferência do Hotel de Santa Luzia para o património da ENATUR - Empresa Nacional de Turismo, E. P., produziram-se em 21 de Junho de 1982, data da publicação do Despacho Normativo n.º 97/82.
+Secretarias de Estado do Turismo e das Finanças, 12 de Abril de 1983. - O Secretário de Estado do Turismo, Luís Fernando Cardoso Nandim de Carvalho. - O Secretário de Estado das Finanças, José Cândido Sousa Carrusca Robin de Andrade.
