@@ -1,0 +1,3 @@
+Despacho Normativo n.º 86/82
+Tendo-se suscitado dúvidas sobre o alcance do disposto no artigo 12.º do Decreto-Lei n.º 276/80, de 14 de Agosto, esclarece-se, nos termos do artigo 14.º do mesmo diploma, que as remunerações nele fixadas são devidas aos médicos em serviço nas Direcções-Gerais dos Serviços Prisionais e dos Serviços Tutelares de Menores à data da entrada em vigor do referido decreto-lei, desde 1 de Julho de 1979.
+Ministérios das Finanças e do Plano, da Justiça e da Reforma Administrativa, 12 de Maio de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Justiça e Ministro da Reforma Administrativa, José Manuel Meneres Sampaio Pimentel.
