@@ -1,0 +1,3 @@
+Aviso n.º 288/97
+Por ordem superior se torna público que a Convenção entre a República Portuguesa e a República Checa para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, aprovada pela Resolução da Assembleia da República n.º 26/97, de 9 de Maio, e ratificada pelo Decreto do Presidente da República n.º 23/97, de 9 de Maio, cujos instrumentos de ratificação foram trocados em 30 de Setembro de 1997, entrou em vigor em 1 de Outubro de 1997, conforme o estabelecido no n.º 2 do artigo 28.º da mesma Convenção.
+Direcção-Geral das Relações Bilaterais, 15 de Outubro de 1997. - O Director-Geral, João Manuel Guerra Salgueiro.
