@@ -1,0 +1,7 @@
+Aviso n.º 48/93
+Por ordem superior se torna público que, por nota de 1 de Dezembro de 1992 e nos termos do artigo 45.º da Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, concluída na Haia em 25 de Outubro de 1980, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a Roménia, nos termos do artigo 38.º, parágrafo 2.º, depositado o seu instrumento de adesão à mencionada Convenção em 20 de Novembro de 1992.
+Nos termos do artigo 38.º, parágrafo 3.º, a Convenção entra em vigor para a Roménia em 1 de Fevereiro de 1993.
+A Convenção apenas produz efeitos nas relações entre a Roménia e aqueles Estados Contratantes que tenham declarado aceitar esta adesão.
+Nos termos do artigo 6.º, parágrafo 1.º, da Convenção, o Ministério da Justiça romeno é designado como autoridade central da Roménia.
+Portugal é Parte na mesma Convenção, que foi aprovada, para ratificação, pelo Decreto do Governo n.º 33/83, de 11 de Agosto, tendo depositado o seu instrumento de ratificação em 29 de Setembro de 1983, conforme aviso publicado no Diário da República, 1.ª série, n.º 126, de 31 de Maio de 1984. A autoridade central em Portugal é a Direcção-Geral dos Serviços Tutelares de Menores, do Ministério da Justiça, conforme aviso publicado no Diário da República, 1.ª série, n.º 165, de 20 de Julho de 1985.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 19 de Janeiro de 1993. - O Chefe do Serviço Jurídico e de Tratados, António Salgado Manso Preto Mendes Cruz.
