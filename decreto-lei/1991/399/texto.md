@@ -1,0 +1,25 @@
+Decreto-Lei n.º 399/91
+de 16 de Outubro
+A Convenção n.º 78 da OIT, relativa ao exame médico de aptidão de crianças e adolescentes para o emprego em trabalhos não industriais, aprovada para ratificação pelo Decreto do Governo n.º 111/82, de 7 de Outubro, tem aplicação no âmbito da actividade de venda ambulante, como decorre expressamente da alínea a) do n.º 2 do seu artigo 7.º
+A regulamentação da venda ambulante, constante do Decreto-Lei n.º 122/79, de 8 de Maio, não prevê algumas regras consagradas na Convenção, designadamente a que respeita à proibição de admitir ao trabalho menores de 18 anos cuja aptidão para o mesmo não tenha sido reconhecida através de exame médico.
+Impondo-se adequar o direito interno às normas da Convenção n.º 78, introduz-se no artigo 18.º do mencionado Decreto-Lei n.º 122/79 a obrigatoriedade de sujeição de menores de 18 anos a um exame médico gratuito que, previamente à concessão do respectivo cartão, certifique a sua aptidão física para o exercício da profissão de vendedor ambulante.
+Simultaneamente, e tendo em atenção a necessidade de conjugar as competências em matéria de prevenção e instrução dos processos de contra-ordenações, clarifica-se a delimitação das atribuições das entidades referidas no n.º 1 do artigo 20.º
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.
+O projecto foi submetido a apreciação pública através de publicação na separata n.º 4 do Boletim do Trabalho e Emprego, de 24 de Abril de 1991, não tendo sido manifestada qualquer oposição ao seu conteúdo.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º Os artigos 18.º e 20.º do Decreto-Lei n.º 122/79, de 8 de Maio, na forma que lhe foi dada pelos Decretos-Leis n.os 282/85, de 22 de Julho, e 283/86, de 5 de Setembro, passam a ter a seguinte redacção:
+Art. 18.º ...
+11 - No caso de os interessados serem menores de 18 anos, o requerimento a que se refere o n.º 3 deste artigo deverá ser acompanhado de atestado médico comprovativo de que foram sujeitos a prévio exame médico que ateste a sua aptidão para o trabalho.
+12 - Os centros de saúde executarão, gratuitamente, os exames médicos previstos no número anterior.
+Art. 20.º - 1 - A prevenção e acção correctiva sobre as infracções às normas constantes no presente diploma, bem como à respectiva regulamentação e legislação conexa, são da competência da Direcção-Geral da Inspecção Económica, da Inspecção-Geral do Trabalho, da Polícia de Segurança Pública, da Guarda Nacional Republicana, da Guarda Fiscal, das autoridades sanitárias e das demais entidades policiais, administrativas e fiscais, no âmbito das respectivas atribuições.
+2 - ...
+Artigo 2.º
+Regiões Autónomas
+Nas Regiões Autónomas dos Açores e da Madeira, a execução administrativa do presente diploma cabe aos serviços competentes das respectivas administrações regionais.
+Visto e aprovado em Conselho de Ministros de 1 de Agosto de 1991. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Lino Dias Miguel - Miguel Couceiro Pizarro Beleza - Manuel Pereira - Arlindo Gomes de Carvalho - José Albino da Silva Peneda - Alfredo César Torres.
+Promulgado em 24 de Setembro de 1991.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 26 de Setembro de 1991.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
