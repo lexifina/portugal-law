@@ -1,0 +1,7 @@
+Despacho Normativo n.º 40/96
+Tendo em vista viabilizar a concretização de projectos plurianuais que visem a melhoria da qualidade do serviço prestado nos transportes urbanos municipais de passageiros, torna-se necessário flexibilizar o regime aplicável às entregas de participações financeiras.
+Assim, de acordo com o disposto no artigo 2.º do Decreto-Lei n.º 21/86, de 14 de Fevereiro, e tendo ainda presente o previsto nos artigos 12.º, 16.º e 17.º do Decreto-Lei n.º 384/87, de 24 de Dezembro, determino o seguinte:
+§ único. São acrescentados os n.os 7 e 8 ao Despacho Normativo n.º 24-B/96, de 21 de Junho:
+«7 - Tratando-se de projectos plurianuais, as entregas das participações financeiras podem também ser feitas mediante pedidos de adiantamento apresentados pelos municípios, devendo a comprovação das despesas ser efectuada, nos termos do n.º 6 do presente despacho normativo, até 31 de Dezembro de 1997.
+8 - A não comprovação das despesas no prazo estabelecido dá lugar a reposição dos montantes recebidos por adiantamento acrescidos de juros, contados a partir da data da disponibilização da verba e calculados de acordo com a taxa média praticada pelas instituições bancárias autorizadas a fazer operações activas de prazo superior a cinco anos.»
+Ministério do Equipamento, do Planeamento e da Administração do Território, 27 de Setembro de 1996. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho.
