@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1950/10/22000/09390940.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1950-10-31",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "a49ad53170072ba7615a9726b25a63ef16d835e67a9f35a00e1ccd16ab3c7a58",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.5,
+    "pages": 2,
+    "columns": [
+      3,
+      6
+    ],
+    "pdf_sha256": "21b642e621e6666065b55d8bbb847106aafa0154fa5ec5533fc06a27f884bb55",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 252
 }
