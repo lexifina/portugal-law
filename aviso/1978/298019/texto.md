@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que em 16 de Maio de 1978 o Governo do Canadá depositou junto do Secretário-Geral das Nações Unidas o instrumento de impugnação das reservas feitas pela Mongólia, Bulgária, República Democrática Alemã e República Democrática do Iémene ao parágrafo 1 do artigo 11 da Convenção sobre Relações Diplomáticas, concluída em Viena em 18 de Abril de 1961 (limitação do número de membros das missões diplomáticas exigida pelos Estados acreditados), de que Portugal já é parte sem qualquer reserva.
+Secretaria-Geral do Ministério, 16 de Junho de 1978. - O Chefe dos Serviços Jurídicos e de Tratados, Mário d'Oliveira Neves.
