@@ -1,0 +1,9 @@
+Portaria n.º 20731
+Manda o Governo da República Portuguesa, pelos Ministro do Ultramar, nos termos do artigo 2.º do Decreto n.º 37050, de 8 de Setembro de 1948, que sejam emitidos e postos em circulação na província de Cabo verde 160000 bilhetes-cartas-avião (aerogramas), confeccionados em papel de escrita branco, nas dimensões de 250 mm x 175 mm (abertos), assim distribuídos:
+40000 da taxa de 1$50 - fundo, representando um cafèzal em flor, impresso nas cores azul-acinzentado-clara e castanho-escura, brasão e texto a preto e tarja a verde e vermelho. O selo, que reproduz o Mercado dos Órgãos, é impresso no formato de 23,5 mm x 25 mm, nas cores bege e preta;
+40000 da taxa de 2$00 - fundo, reproduzindo as salinas da Pedra de Lume (ilha do Sal), impresso a verde-azeitona-claro e sépia-forte, tarja a verde e vermelho, brasão e texto a preto. O selo, representando o edifício da Câmara Municipal da Praia, tem as dimensões de 22,5 mm x 26 mm e é impresso nas cores azul-turquesa-clara e preta;
+40000 da taxa de 2$50 - fundo, tendo como motivo o Mercado dos Órgãos (ilha de Santiago), impresso a verde-azeitona-claro e magenta, brasão e texto a preto e tarja a verde e vermelho. O selo, com as dimensões de 26,5 mm x 27 mm, tem como motivo o edifício de Rádio Clube de Cabo Verde e é impresso a azul-turquesa-forte e preto;
+40000 da taxa de 3$50 - fundo, reproduzindo uma vista parcial de Paul (ilha de Santo Antão), impresso a rosa-claro e azul-da-prússia-escuro, brasão e texto a preto e tarja a verde e vermelho. O selo, que reproduz o edifício do Palácio do Governo, tem as dimensões de 24 mm x 25 mm e é impresso nas cores ocre-clara e preta.
+Ministério do Ultramar, 14 de Agosto de 1964. - Pelo Ministro do Ultramar, Mário Ângelo Morais de Oliveira, Subsecretário de Estado do Fomento Ultramarino.
+
+Para ser publicada no Boletim oficial de Cabo Verde. - M. de Oliveira.
