@@ -1,0 +1,593 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "41",
+    "id": "6312",
+    "titulo": "Altera o decreto n°15355 (proibição de touros de morte em Portugal"
+  },
+  "fase": "Votação na generalidade",
+  "codigo_fase": "250",
+  "data_registo": "1999-12-22",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1807",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "250",
+    "Comissao": null,
+    "DataFase": "1999-12-22",
+    "EvtId": "13",
+    "Fase": "Votação na generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "6369",
+        "leg": "VIII",
+        "nr": "8",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "407",
+            "obs": null,
+            "pag": [
+              "799-800"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1999-12-23",
+            "pubLeg": "VIII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/021/1999-12-23/799?pgs=799-800&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "407",
+            "obs": null,
+            "pag": [
+              "799-800"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1999-12-23",
+            "pubLeg": "VIII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/021/1999-12-23/799?pgs=799-800&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "407",
+            "obs": null,
+            "pag": [
+              "799-800"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1999-12-23",
+            "pubLeg": "VIII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/021/1999-12-23/799?pgs=799-800&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Altera a Lei n° 92/95, de 12 de Setembro (lei da protecção dos animais) e revoga o decreto n°15.355 de 11 de Abril de 1928"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "6330",
+        "leg": "VIII",
+        "nr": "26",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "407",
+            "obs": null,
+            "pag": [
+              "799-800"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1999-12-23",
+            "pubLeg": "VIII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/021/1999-12-23/799?pgs=799-800&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "407",
+            "obs": null,
+            "pag": [
+              "799-800"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1999-12-23",
+            "pubLeg": "VIII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/021/1999-12-23/799?pgs=799-800&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "407",
+            "obs": null,
+            "pag": [
+              "799-800"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1999-12-23",
+            "pubLeg": "VIII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/021/1999-12-23/799?pgs=799-800&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Alteração do decreto n° 15355"
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "6327",
+        "leg": "VIII",
+        "nr": "29",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "407",
+            "obs": null,
+            "pag": [
+              "799-800"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1999-12-23",
+            "pubLeg": "VIII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/021/1999-12-23/799?pgs=799-800&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "407",
+            "obs": null,
+            "pag": [
+              "799-800"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1999-12-23",
+            "pubLeg": "VIII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/021/1999-12-23/799?pgs=799-800&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "407",
+            "obs": null,
+            "pag": [
+              "799-800"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1999-12-23",
+            "pubLeg": "VIII",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/021/1999-12-23/799?pgs=799-800&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Aprova o novo regime sancionatório das touradas com touros de morte (revoga o decreto n°15.355, de 14 de Abril de 1928)"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1999-12-22",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1645",
+                "nome": "Henrique Chaves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29482",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "801-801"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-12-23",
+                "pubLeg": "VIII",
+                "pubNr": "21",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/021/1999-12-23/801?pgs=801&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI 92/95, DE 12 DE SETEMBRO, REVOGA O DEC.15355,DE14 DE ABRIL DE 1928(PROIBICAO DOS TOUROS DE MORTE EM PORTUGAL); APROVA O NOVO REGIME SANCIONATORIO DAS TOURADAS COM TOUROS DE MORTE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "204",
+                "nome": "Rosa Maria Albernaz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29484",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "800-800"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-12-23",
+                "pubLeg": "VIII",
+                "pubNr": "21",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/021/1999-12-23/800?pgs=800&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI 92/95, DE 12 DE SETEMBRO, REVOGA O DEC.15355,DE14 DE ABRIL DE 1928(PROIBICAO DOS TOUROS DE MORTE EM PORTUGAL); APROVA O NOVO REGIME SANCIONATORIO DAS TOURADAS COM TOUROS DE MORTE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1627",
+                "nome": "Maria Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29485",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "799-800"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-12-23",
+                "pubLeg": "VIII",
+                "pubNr": "21",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/021/1999-12-23/799?pgs=799-800&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI 92/95, DE 12 DE SETEMBRO, REVOGA O DEC.15355,DE14 DE ABRIL DE 1928(PROIBICAO DOS TOUROS DE MORTE EM PORTUGAL); APROVA O NOVO REGIME SANCIONATORIO DAS TOURADAS COM TOUROS DE MORTE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1674",
+                "nome": "José Barros Moura"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29486",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "799-799"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-12-23",
+                "pubLeg": "VIII",
+                "pubNr": "21",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/021/1999-12-23/799?pgs=799&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI 92/95, DE 12 DE SETEMBRO, REVOGA O DEC.15355,DE14 DE ABRIL DE 1928(PROIBICAO DOS TOUROS DE MORTE EM PORTUGAL); APROVA O NOVO REGIME SANCIONATORIO DAS TOURADAS COM TOUROS DE MORTE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1436",
+                "nome": "Joaquim Sarmento"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29487",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "799-799"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-12-23",
+                "pubLeg": "VIII",
+                "pubNr": "21",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/021/1999-12-23/799?pgs=799&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI 92/95, DE 12 DE SETEMBRO, REVOGA O DEC.15355,DE14 DE ABRIL DE 1928(PROIBICAO DOS TOUROS DE MORTE EM PORTUGAL); APROVA O NOVO REGIME SANCIONATORIO DAS TOURADAS COM TOUROS DE MORTE",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1243",
+                "nome": "Maria do Céu Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "165935",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "800-800"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-12-23",
+                "pubLeg": "VIII",
+                "pubNr": "21",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/021/1999-12-23/800?pgs=800&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A LEI 92/95, DE 12 DE SETEMBRO, REVOGA O DEC.15355,DE14 DE ABRIL DE 1928(PROIBICAO DOS TOUROS DE MORTE EM PORTUGAL); APROVA O NOVO REGIME SANCIONATORIO DAS TOURADAS COM TOUROS DE MORTE",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "105743",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "285580",
+        "obs": null,
+        "pag": [
+          "783-783"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1999-12-23",
+        "pubLeg": "VIII",
+        "pubNr": "21",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/021/1999-12-23/783?pgs=783&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "1999-12-22",
+        "descricao": "Votos contra: 172 (PS,PSD,CDS-PP,PEV); Favor: 2 (BE); Abstenção: 22  (PCP e alguns  Deputados do PS)\n\n",
+        "detalhe": "A Favor: <I>BE</I><BR>Contra:<I>PS</I>, <I> PSD</I>, <I> CDS-PP</I>, <I> PEV</I><BR>Abstenção:<I>PCP</I>",
+        "id": "24941",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "21",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
