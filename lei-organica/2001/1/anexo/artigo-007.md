@@ -10,7 +10,7 @@ b) Os secretários de justiça;
 
 c) Os ministros de qualquer religião ou culto;
 
-d) Os funcionários dos órgãos das autarquias locais ou dos entes por estas constituídos ou em que detenham posição maioritária que exerçam funções de direcção, salvo no caso de suspensão obrigatória de funções desde a data de entrega da lista de candidatura em que se integrem.
+d) Os funcionários dos órgãos das autarquias locais ou dos entes por estas constituídos ou em que detenham posição maioritária, que exerçam funções de direcção, salvo no caso de suspensão obrigatória de funções desde a data de entrega da lista de candidatura em que se integrem.
 
 2 - Não são também elegíveis para os órgãos das autarquias locais em causa:
 
