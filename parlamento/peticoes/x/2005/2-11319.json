@@ -1,0 +1,163 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2ff706BByoZrg%2b1ful40dk95QPT8j8kfcFu7%2fpiwxCvlYkuQZTn3yg4WLu%2bQuIXNYQ40lepOPM9R9bkX63huFskgd4n8ZEBrD0GitpFoMbwzMbOA9NNO2%2fSMysu3ZQxKZr23i6bAZufxDOKQSiwsoecnBrdTa8ALuuJPQgj8QA1iktB9jf%2f0OkVPxCf8%2bwvDnfojQHQdZdKYaWdSN5JN2wO91fqa2Edv5%2bqV9rTbvHyZhB8PA%2b%2fIqp2aEf8BUonFtyVaccuJpHZMCFX4HcRSp841sHCVjNOdaQd89tz%2fDRfKycd%2beIfeb4k2Is0BpQj7SNrc3IDmCPVeVIud55dcBC6jH57qdIo3LVKDaX2pdjVHlFrXHV7G8pTo%2bVD2HHLbQ&fich=PeticoesX_json.txt&Inline=true",
+  "ficheiro_sha256": "bab71911d134ef947112b89783c7e17029d0c192ea07eb9738091594be3f33da",
+  "legislatura": "X",
+  "id": "11319",
+  "numero": "2",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2005-03-11",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2005-06-21",
+            "dataResposta": null,
+            "entidades": [
+              "Presidente da Assembleia Municipal de Lisboa"
+            ],
+            "nrOficio": "5117/DAC",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": null,
+                "dataResposta": null,
+                "nrOficio": null,
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338335131424d515539554c305276593356745a57353062334e515a585270593246764c324a6d4e6a426d5a5463334c5759304e4451744e4445784f4330344f4745794c574d794f574533596d457a4e3249784e5335775a47593d&fich=bf60fe77-f444-4118-88a2-c29a7ba37b15.pdf&Inline=true"
+          },
+          {
+            "dataOficio": "2005-06-21",
+            "dataResposta": null,
+            "entidades": [
+              "Presidente da Câmara Municipal de Lisboa"
+            ],
+            "nrOficio": "5116/DAC",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2006-01-23",
+                "dataResposta": null,
+                "nrOficio": "476/DAC",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338335131424d515539554c305276593356745a57353062334e515a585270593246764c324a6d4e6a426d5a5463334c5759304e4451744e4445784f4330344f4745794c574d794f574533596d457a4e3249784e5335775a47593d&fich=bf60fe77-f444-4118-88a2-c29a7ba37b15.pdf&Inline=true"
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2007-03-20",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2005-04-26",
+        "DataArquivo": "2007-04-10",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2007-04-13",
+        "DataReaberta": "2005-04-26",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2005-03-11",
+              "TipoDocumento": "Notas de Admissibilidade",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338335131424d515539554c305276593356745a57353062334e515a585270593246764c7a6b775a54637a5a6d51334c575a6d4e7a55744e444978597931694e7a686a4c546b335a6a4a6d4d444d304e6a6c695a5335775a47593d&fich=90e73fd7-ff75-421c-b78c-97f2f03469be.pdf&Inline=true"
+            },
+            {
+              "DataDocumento": "2005-03-11",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338335131424d515539554c305276593356745a57353062334e515a585270593246764c324a6d4e6a426d5a5463334c5759304e4451744e4445784f4330344f4745794c574d794f574533596d457a4e3249784e5335775a47593d&fich=bf60fe77-f444-4118-88a2-c29a7ba37b15.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2005-03-11",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c304e50545338335131424d515539554c305276593356745a57353062334e515a585270593246764c324d7a4d7a4135597a4e684c575935596a59744e44426a4d7931685a6a4e6c4c574a6a59324e684e446b345a446b304e7935775a47593d&fich=c3309c3a-f9b6-40c3-af3e-bccca498d947.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "249",
+        "Legislatura": "X",
+        "Nome": "Comissão de Poder Local, Ambiente e Ordenamento do Território (pré RAR)",
+        "NotasAdmissibilidade": null,
+        "Numero": "7",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2005-04-26",
+            "gp": "PS",
+            "id": "2265",
+            "motivoCessacao": null,
+            "nome": "Ana Couto"
+          }
+        ],
+        "RelatorioFinal": [
+          "21931"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2005-03-11",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c637939595447566e4c31526c65485276526d6c75595778515a5852705932396c637938324e7a67334e47566c4f5330774d47497a4c5451314d544d74596d46694e6930314d47557a5a4449315a54466c4e5459756347526d&fich=67874ee9-00b3-4513-bab6-50e3d25e1e56.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11319",
+    "PetAssunto": "Solicitam a intervenção da Assembleia da República com vista a que não se verifique o fecho da única via directa de entrada e saída do bairro e a construção de prédios naquele local.",
+    "PetDataEntrada": "2005-03-11",
+    "PeticoesAssociadas": null,
+    "PetId": "11319",
+    "PetLeg": "X",
+    "PetNr": "2",
+    "PetNrAssinaturas": "1200",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
