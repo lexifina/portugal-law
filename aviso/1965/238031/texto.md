@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se faz público que, segundo comunicação da Embaixada de França, o Ministério dos Negócios Estrangeiros francês recebeu, no dia 8 de Janeiro de 1965, o instrumento de ratificação pelo Japão da Convenção relativa às exposições internacionais, assinada em Paris a 22 de Novembro de 1928, e bem assim o instrumento de adesão do mesmo país ao Protocolo de 10 de Maio de 1948 que alterou aquela Convenção.
+A Convenção relativa às exposições internacionais foi publicada no Diário do Governo n.º 159, de 9 de Julho de 1932, constando a aprovação para ratificação e a transcrição do Protocolo que a modificou do Diário do Governo n.º 254, de 13 de Novembro de 1954.
+Direcção-Geral dos Negócios Económicos e Consulares, 20 de Fevereiro de 1965. - O Director-Geral Adjunto, Carlos Augusto Fernandes.
