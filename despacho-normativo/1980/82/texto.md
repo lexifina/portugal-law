@@ -1,0 +1,6 @@
+Despacho Normativo n.º 82/80
+Ao abrigo do disposto nas alíneas a) e c) do n.º 2 do artigo 1.º do Decreto-Lei n.º 70/78, de 7 de Abril, e do n.º 3 do artigo 13.º do Decreto-Lei n.º 260/76, de 8 de Abril, com a redacção que lhe foi dada pelo artigo 1.º do Decreto-Lei n.º 25/79, de 19 de Fevereiro, determina-se:
+1.º O n.º 12.º do Despacho Normativo n.º 59/80, publicado no Diário da República, 1.ª série, n.º 43, de 21 de Fevereiro, passa a ter a seguinte redacção:
+12.º Nos termos do n.º 1 do artigo 25.º do Decreto-Lei n.º 70/78, de 7 de Abril, as fábricas de farinhas de milho liquidarão à EPAC, no prazo de sessenta dias, para crédito do Fundo de Abastecimento, a diferença entre os preços por que adquiriram os cereais em seu poder à data da entrada em vigor do presente diploma e os novos preços agora fixados.
+2.º O presente despacho produz efeitos na data da entrada em vigor do Despacho Normativo n.º 59/80.
+Ministérios das Finanças e do Plano, da Agricultura e Pescas e do Comércio e Turismo, 27 de Fevereiro de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha. - O Ministro do Comércio e Turismo, Basílio Adolfo Mendonça Horta da Franca.
