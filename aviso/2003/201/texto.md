@@ -1,0 +1,4 @@
+Aviso n.º 201/2003
+Por ordem superior se torna público que, por nota de 21 de Julho de 2003, o Secretariado Permanente da Conferência da Haia de Direito Internacional Privado notificou terem o Belize, a Estónia e o Koweit depositado, respectivamente nos dias 22 de Novembro de 2002 e 13 e 16 de Julho de 2003, os seus instrumentos de adesão à Convenção para a Solução Pacífica dos Conflitos Internacionais, concluída na Haia em 18 de Outubro de 1907.
+Portugal é parte na mesma convenção, a qual foi aprovada, para ratificação, pelo Decreto do Governo n.º 49, 1.ª série, de 2 de Março de 1911, tendo depositado o seu instrumento de ratificação em 13 de Abril de 1911, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 104, de 5 de Maio de 1911.
+Departamento de Assuntos Jurídicos, 22 de Agosto de 2003. - O Director, Luís Serradas Tavares.
