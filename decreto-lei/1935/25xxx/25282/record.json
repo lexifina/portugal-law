@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1935/04/09200/05470547.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1935-04-23",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "eba3bbf255a07a50bd59b5fb421ba0b998fe0f3b40d61873a118141234d6e798",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.6,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "defb6670d90023afd12402c64a8443fc72cbc7e888f47a5e3e95b0e5feddcf2a",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 179
 }
