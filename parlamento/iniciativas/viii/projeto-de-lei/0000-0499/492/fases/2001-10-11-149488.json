@@ -1,0 +1,544 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "492",
+    "id": "18727",
+    "titulo": "Restringe a aplicação do regime de liberdade condicional nos casos de crimes contra a vida, a liberdade e a segurança das pessoas, e de outros crimes violentos"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2001-10-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2051",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2001-10-11",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "7076",
+        "leg": "VIII",
+        "nr": "407",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "608",
+            "obs": null,
+            "pag": [
+              "377-388"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-10-12",
+            "pubLeg": "VIII",
+            "pubNr": "11",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/011/2001-10-12/377?pgs=377-388&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Altera o artigo 49.º-A do Decreto-Lei n.º 15/93, de 22 de Janeiro, sujeitando à verificação de certos requisitos a concessão de liberdade condicional aos condenados por crimes associados ao tráfico de estupefacientes"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-10-11",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139473",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "377-379",
+                  "387-388"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-12",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/011/2001-10-12/377?pgs=377-379,387-388&org=PLC"
+              }
+            ],
+            "sumario": "Altera o artigo 49.º-A do Decreto-Lei n.º 15/93, de 22 de Janeiro, sujeitando à verificação de certos requisitos a concessão de liberdade condicional aos condenados por crimes associados ao tráfico de estupefacientes; Restringe a aplicação do regime de liberdade condicional nos casos de crimes contra a vida, a liberdade e a segurança das pessoas, e de outros crimes violentos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1736",
+                "nome": "Fernando Seara"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139474",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "379-380"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-12",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/011/2001-10-12/379?pgs=379-380&org=PLC"
+              }
+            ],
+            "sumario": "Altera o artigo 49.º-A do Decreto-Lei n.º 15/93, de 22 de Janeiro, sujeitando à verificação de certos requisitos a concessão de liberdade condicional aos condenados por crimes associados ao tráfico de estupefacientes; Restringe a aplicação do regime de liberdade condicional nos casos de crimes contra a vida, a liberdade e a segurança das pessoas, e de outros crimes violentos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139475",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "380-383"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-12",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/011/2001-10-12/380?pgs=380-383&org=PLC"
+              }
+            ],
+            "sumario": "Altera o artigo 49.º-A do Decreto-Lei n.º 15/93, de 22 de Janeiro, sujeitando à verificação de certos requisitos a concessão de liberdade condicional aos condenados por crimes associados ao tráfico de estupefacientes; Restringe a aplicação do regime de liberdade condicional nos casos de crimes contra a vida, a liberdade e a segurança das pessoas, e de outros crimes violentos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139476",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "382-382",
+                  "386-386"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-12",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/011/2001-10-12/382?pgs=382,386&org=PLC"
+              }
+            ],
+            "sumario": "Altera o artigo 49.º-A do Decreto-Lei n.º 15/93, de 22 de Janeiro, sujeitando à verificação de certos requisitos a concessão de liberdade condicional aos condenados por crimes associados ao tráfico de estupefacientes; Restringe a aplicação do regime de liberdade condicional nos casos de crimes contra a vida, a liberdade e a segurança das pessoas, e de outros crimes violentos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139477",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "382-383"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-12",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/011/2001-10-12/382?pgs=382-383&org=PLC"
+              }
+            ],
+            "sumario": "Altera o artigo 49.º-A do Decreto-Lei n.º 15/93, de 22 de Janeiro, sujeitando à verificação de certos requisitos a concessão de liberdade condicional aos condenados por crimes associados ao tráfico de estupefacientes; Restringe a aplicação do regime de liberdade condicional nos casos de crimes contra a vida, a liberdade e a segurança das pessoas, e de outros crimes violentos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1436",
+                "nome": "Joaquim Sarmento"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139478",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "383-384"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-12",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/011/2001-10-12/383?pgs=383-384&org=PLC"
+              }
+            ],
+            "sumario": "Altera o artigo 49.º-A do Decreto-Lei n.º 15/93, de 22 de Janeiro, sujeitando à verificação de certos requisitos a concessão de liberdade condicional aos condenados por crimes associados ao tráfico de estupefacientes; Restringe a aplicação do regime de liberdade condicional nos casos de crimes contra a vida, a liberdade e a segurança das pessoas, e de outros crimes violentos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1652",
+                "nome": "Fernando Rosas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139479",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "384-385",
+                  "387-388"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-12",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/011/2001-10-12/384?pgs=384-385,387-388&org=PLC"
+              }
+            ],
+            "sumario": "Altera o artigo 49.º-A do Decreto-Lei n.º 15/93, de 22 de Janeiro, sujeitando à verificação de certos requisitos a concessão de liberdade condicional aos condenados por crimes associados ao tráfico de estupefacientes; Restringe a aplicação do regime de liberdade condicional nos casos de crimes contra a vida, a liberdade e a segurança das pessoas, e de outros crimes violentos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139480",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "385-386"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-12",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/011/2001-10-12/385?pgs=385-386&org=PLC"
+              }
+            ],
+            "sumario": "Altera o artigo 49.º-A do Decreto-Lei n.º 15/93, de 22 de Janeiro, sujeitando à verificação de certos requisitos a concessão de liberdade condicional aos condenados por crimes associados ao tráfico de estupefacientes; Restringe a aplicação do regime de liberdade condicional nos casos de crimes contra a vida, a liberdade e a segurança das pessoas, e de outros crimes violentos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "390",
+                "nome": "Mota Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139481",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "386-387"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-12",
+                "pubLeg": "VIII",
+                "pubNr": "11",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/011/2001-10-12/386?pgs=386-387&org=PLC"
+              }
+            ],
+            "sumario": "Altera o artigo 49.º-A do Decreto-Lei n.º 15/93, de 22 de Janeiro, sujeitando à verificação de certos requisitos a concessão de liberdade condicional aos condenados por crimes associados ao tráfico de estupefacientes; Restringe a aplicação do regime de liberdade condicional nos casos de crimes contra a vida, a liberdade e a segurança das pessoas, e de outros crimes violentos",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "149488",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "265755",
+        "obs": null,
+        "pag": [
+          "377--388"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-10-12",
+        "pubLeg": "VIII",
+        "pubNr": "11",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/011/2001-10-12/377?pgs=377--388&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
