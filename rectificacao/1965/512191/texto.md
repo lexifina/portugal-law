@@ -1,0 +1,16 @@
+Rectificações
+Tendo sido publicado com inexactidão no Diário do Governo n.º 177, 1.ª série, de 9 de Agosto último, pelo Ministério da Educação Nacional, Direcção-Geral da Educação Física, Desportos e Saúde Escolar, o Decreto n.º 46476, que introduziu alterações no Decreto n.º 32946, de 3 de Agosto de 1943, determino que se façam as seguintes rectificações:
+No artigo 1.º:
+Na parte referente ao artigo 59.º, onde se lê:
+...
+b) Possuir a necessária aptidão física, comprovada por um centro de medicina desportiva reconhecido pela Direcção-Geral, ou atestada por um médico do respectivo organismo desportivo quando, por motivos ponderosos, a Direcção-Geral dispensar o parecer de um centro;
+§ 1.º O Ministro ...
+deve ler-se:
+...
+b) Possuir a necessária aptidão física, comprovada por um centro de medicina desportiva reconhecido pela Direcção-Geral, ou atestada por um médico do respectivo organismo desportivo quando, por motivos ponderosos, a Direcção-Geral dispensar o parecer de um centro;
+...
+§ 1.º O Ministro ...
+Na parte referente ao artigo 60.º, no seu § 2.º, onde se lê: «... nas modalidades abertas aos praticantes não amadores ...», deve ler-se: «... nas modalidades abertas aos praticantes não-amadores ...».
+Na parte referente ao artigo 62.º, onde se lê: «... só poderá mudar de clube depois a isso autorizado ...», deve ler-se: «... só poderá mudar de clube depois de a isso autorizado ...».
+Na parte referente ao artigo 68.º, no seu § único, onde se lê: «... o disposto no § 1.º do artigo 25.º», deve ler-se: «... o disposto no § 1.º do artigo 26.º».
+Presidência do Conselho, 18 de Novembro de 1965. - O Presidente do Conselho, António de Oliveira Salazar.
