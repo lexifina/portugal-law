@@ -1,0 +1,8 @@
+Portaria n.º 19585
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio, em conformidade com a alínea a) do artigo 16.º do Decreto n.º 27977, de 19 de Agosto de 1937, e por força do Decreto-Lei n.º 26317, de 30 de Janeiro de 1936, o seguinte:
+1.º É fixada em $05 por litro a taxa a que se refere Decreto-Lei n.º 26317, de 30 de Janeiro de 1936, a aplicar sobre os vinhos e seus derivados no ano de 1963.
+2.º A referida taxa será aplicada na área da região demarcada do Dão apenas sobre os retalhistas; a sua cobrança, quanto aos vinhos expedidos para fora daquela área, será efectuada nos termos do artigo 7.º do mesmo decreto-lei.
+3.º O rendimento presumível da cobrança na última parte do número anterior será acordado pela Junta Nacional do Vinho e pela Federação dos Vinicultores do Dão e entregue a esta, deduzidas as despesas de cobrança e outras legítimas. Na falta de acordo será o rendimento determinado pela Comissão de Coordenação Económica, com base nos elementos fornecidos pelos referidos organismos.
+4.º Continuam isentos da aplicação da taxa os vinhos engarrafadas de marca registada produzidos na área da Junta Nacional do Vinho e os vinhos de outra proveniência, quando em recipientes de capacidade até 5,3 l, devidamente rotulados e trazendo aposta a marca oficial de origem, se a ela tiverem direito.
+5.º Continuam igualmente isentos na cidade do Porto e no entreposto de Gaia os vinhos verdes e os vinhos de pasto da região dos vinhos generosos do Douro.
+Secretaria de Estado do Comércio, 20 de Dezembro de 1962. - O Secretário de Estado do Comércio, Armando Ramos de Paula Coelho.
