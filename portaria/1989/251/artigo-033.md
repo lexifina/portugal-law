@@ -6,7 +6,7 @@
 
 2 - A categoria de mecânico de bordo será atribuída ao indivíduo que prove satisfazer cumulativamente as seguintes condições:
 
-a) Estar habilitado com um curso de formação profissional da área ocupacional de mecânica ou seis anos de prática oficinal como torneiro ou serralheiro mecânico;
+a) Estar habilitado com um curso de formação profissional da área ocupacional de mecânica e seis anos de prática oficinal como torneiro ou serralheiro mecânico;
 
 b) Estar habilitado com o curso de preparação de curta duração para mecânico de bordo.
 

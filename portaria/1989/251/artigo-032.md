@@ -6,7 +6,7 @@
 
 2 - A categoria de electricista será atribuída ao indivíduo que prove satisfazer cumulativamente as seguintes condições:
 
-a) Estar habilitado com um curso de formação profissional para electricista ou seis anos de prática em serviço de electricidade após a obtenção de carteira profissional de electricista;
+a) Estar habilitado com um curso de formação profissional para electricista e seis anos de prática em serviço de electricidade após a obtenção de carteira profissional de electricista;
 
 b) Estar habilitado com o curso de preparação de curta duração para electricista.
 
