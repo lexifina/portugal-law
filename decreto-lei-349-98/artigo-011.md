@@ -16,8 +16,12 @@
 
 7 - Os mutuários beneficiam de uma bonificação de juro em condições a definir na portaria a que se refere o n.º 1 do presente artigo e que terá em conta o rendimento anual bruto corrigido do agregado familiar.
 
-8 - O acesso a regime de crédito bonificado depende de requerimento a apresentar na instituição de crédito, devendo ser instruído com a última nota demonstrativa de liquidação do imposto sobre o rendimento das pessoas singulares, acompanhada da declaração de rendimentos que lhe diga respeito ou, no caso do mutuário estar dispensado da sua apresentação, de outros elementos oficiais comprovativos emitidos pela respectiva repartição de finanças.
+8 - O acesso ao regime de crédito bonificado depende cumulativamente:
+
+a) De requerimento a apresentar na instituição de crédito, devendo ser instruído com a última nota demonstrativa de liquidação do imposto sobre o rendimento das pessoas singulares, acompanhada da declaração de rendimentos que lhe diga respeito ou, no caso de o mutuário estar dispensado da sua apresentação, de outros elementos oficiais comprovativos emitidos pela respectiva repartição de finanças;
+
+b) De declaração dos interessados, sob compromisso de honra, em como não são titulares de outro empréstimo em qualquer regime de crédito regulado no presente diploma, salvo as excepções neste previstas, bem como em que autorizam as entidades competentes para o acompanhamento, verificação e fiscalização do cumprimento do disposto no presente diploma a acederem às informações necessárias para o efeito.
 
 9 - A bonificação de juro será reajustada em condições a fixar na portaria a que se refere o n.º 1 do presente artigo, em função das variações do rendimento anual bruto e da dimensão do agregado familiar.
 
-10 - Os mutuários podem, em qualquer anuidade, no decurso do período de vida do empréstimo optar pelo regime de prestações constantes ou progressivas, conforme o caso, competindo às instituições de crédito decidir sobre a sua oportunidade.
+10 - Os mutuários podem, em qualquer anuidade, no decurso do período de vida do empréstimo, optar pelo regime de prestações constantes ou progressivas, conforme o caso, competindo às instituições de crédito decidir sobre a sua oportunidade.
