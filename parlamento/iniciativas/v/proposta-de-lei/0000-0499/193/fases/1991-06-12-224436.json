@@ -1,0 +1,365 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "193",
+    "id": "29134",
+    "titulo": "Autoriza o Governo a legislar no sentido de criar uma associação profissional dos técnicos de contas, com natureza pública e a aprovar os respectivos estatutos"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1991-06-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "4882",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1991-06-12",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1991-06-12",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "18:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  ADJUNTO DO MINISTRO PARA OS  ASSUNTOS PARLAMENTARES",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Carlos Encarnaçao"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "160627",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3064-3064"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-06-14",
+                "pubLeg": "V",
+                "pubNr": "92",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/092/1991-06-14/3064?pgs=3064&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar no sentido de criar uma associação profissional dos técnicos de contas, com natureza pública e a aprovar os respectivos estatutos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "18:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "160628",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3064-3065"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-06-14",
+                "pubLeg": "V",
+                "pubNr": "92",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/092/1991-06-14/3064?pgs=3064-3065&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar no sentido de criar uma associação profissional dos técnicos de contas, com natureza pública e a aprovar os respectivos estatutos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "18:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS FISCAIS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Oliveira Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "160629",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3065-3065"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-06-14",
+                "pubLeg": "V",
+                "pubNr": "92",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/092/1991-06-14/3065?pgs=3065&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar no sentido de criar uma associação profissional dos técnicos de contas, com natureza pública e a aprovar os respectivos estatutos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "18:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "160630",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3065-3066"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-06-14",
+                "pubLeg": "V",
+                "pubNr": "92",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/092/1991-06-14/3065?pgs=3065-3066&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar no sentido de criar uma associação profissional dos técnicos de contas, com natureza pública e a aprovar os respectivos estatutos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "18:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "160631",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3066-3066"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-06-14",
+                "pubLeg": "V",
+                "pubNr": "92",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/092/1991-06-14/3066?pgs=3066&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar no sentido de criar uma associação profissional dos técnicos de contas, com natureza pública e a aprovar os respectivos estatutos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "18:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "160632",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3067-3067"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-06-14",
+                "pubLeg": "V",
+                "pubNr": "92",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/092/1991-06-14/3067?pgs=3067&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar no sentido de criar uma associação profissional dos técnicos de contas, com natureza pública e a aprovar os respectivos estatutos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "18:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "160633",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3067-3068"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-06-14",
+                "pubLeg": "V",
+                "pubNr": "92",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/092/1991-06-14/3067?pgs=3067-3068&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar no sentido de criar uma associação profissional dos técnicos de contas, com natureza pública e a aprovar os respectivos estatutos",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "224436",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "4882",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1991-06-14",
+        "pubLeg": "V",
+        "pubNr": "92",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/092/1991-06-14?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
