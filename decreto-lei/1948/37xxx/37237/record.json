@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1948/12/29600/16851685.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1948-12-22",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "541cfcffc86846725948cd29599c50f20bf4618ad918dec31445fd031b809b4a",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 92.4,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "bda527015b355abc428d98f472d0c271e028cd1c707fdcadb193a5aa13e51df5",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 194
 }
