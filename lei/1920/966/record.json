@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1920/05/09200/06500650.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1920-05-04",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "801e999820200546245c242f4e94bf770458247255ff0fd70ba4701275a0342d",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.6,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "4e214553f88f9f82e828ab05f78e33ca51272a651aa8d4d46b705a9b83b3deef",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 106
 }
