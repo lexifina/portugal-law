@@ -1,0 +1,5 @@
+Portaria n.º 16/82
+de 7 de Janeiro
+Considerando o disposto no n.º 3 do artigo 1.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, e os n.os 1, 2 e 3 da Resolução do Conselho de Ministros n.º 354-B/79, publicada em 18 de Dezembro:
+Manda o Governo da República Portuguesa, pelos Ministros de Estado e das Finanças e do Plano, da Administração Interna e da Reforma Administrativa, que, para os fins previstos no artigo 12.º do Decreto-Lei n.º 191-F/79, o cargo de presidente das Comissões Regionais de Planeamento, referido nos Decretos-Leis n.os 48905 e 49364, respectivamente de 11 de Março e 8 de Novembro de 1969, é equiparado a director-geral.
+Ministérios das Finanças e do Plano, da Administração Interna e da Reforma Administrativa, 16 de Dezembro de 1981. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Administração Interna, José Ângelo Ferreira Correia. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
