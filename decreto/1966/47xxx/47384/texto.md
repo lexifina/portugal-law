@@ -1,0 +1,26 @@
+Decreto n.º 47384
+Mostrando-se conveniente alterar as taxas dos antibióticos constantes das pautas mínimas de importação das províncias ultramarinas elaboradas segundo a Nomenclatura de Bruxelas, com vista ao prosseguimento da possível unificação dos direitos aduaneiros em todo o território nacional;
+Ouvido o Conselho Superior Técnico-Aduaneiro do Ultramar;
+Por motivo de urgência, ao abrigo do que preceitua a alínea a) do n.º III da base X da Lei Orgânica do Ultramar Português;
+Nos termos do § 1.º do artigo 150.º da Constituição;
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+Artigo 1.º São introduzidas nos textos das pautas mínimas de importação das províncias de Cabo Verde, Guiné, Angola e Moçambique as alterações seguintes:
+29.44 Antibióticos:
+Nota. - Continuam isentos de direitos enquanto os serviços provinciais de saúde e assistência não comunicarem aos serviços das alfândegas que a indústria nacional está em condições de satisfazer as necessidades do consumo.
+01 Penicilina e seus sais - milhão de U. I. ... $60
+02 Estreptomicina e seus sais - grama (peso real) ... $60
+03 Tetraciclina e clorotetraciclina e seus sais - grama (peso real) ... 1$30
+04 Oxitetraciclina e eritromicina e seus sais - grama (peso real) ... 1$80
+05 Não especificados ... Livre
+30.03 ...
+01 Insulina, aurissais, para tratamento da tuberculose, produtos organo-arsenicais para o tratamento da sífilis e produtos para o tratamento da lepra ... Livre
+Nota. - São livres de direitos os medicamentos de uso exclusivo no tratamento da doença do sono, diabetes, paludismo e bilharzíase.
+02 Antibióticos em cuja composição entre a penicilina, estreptomicina, tetraciclina, clorotetraciclina, oxitetraciclina, eritromicina e seus sais ... 15% ad valorem
+Nota. - Continuam livres de direitos enquanto os serviços provinciais de saúde e assistência não comunicarem aos serviços das alfândegas que a indústria nacional está em condições de satisfazer as necessidades do consumo.
+03 Antibióticos não especificados ... Livre
+§ único. O artigo 30.03.02 passa a 30.03.04, com a respectiva nota.
+Art. 2.º Pode o Ministro do Ultramar, mediante portaria, tornar extensivas a outras províncias ultramarinas as disposições do presente decreto.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 15 de Dezembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
+
+Para ser publicado no Boletim Oficial de Cabo Verde, Guiné, Angola e Moçambique. - J. da Silva Cunha.
