@@ -8,9 +8,9 @@ a) O casamento, sua dissolução, declaração de inexistência ou nulidade, anu
 
 b) O estabelecimento da filiação;
 
-c) (Revogada.)
+c) A declaração de que o registado na ocasião do nascimento não beneficiou da posse de estado de filho relativamente a ambos os cônjuges;
 
-d) (Revogada.)
+d) A paternidade do marido da mãe, quando não afastada nos termos legais;
 
 e) O casamento dos pais, entre si, posterior ao registo de nascimento do filho;
 

@@ -10,7 +10,7 @@ b) Se os nubentes forem menores e ainda não tiver sido dado o consentimento dos
 
 c) Em seguida, o conservador interpela as pessoas presentes para que declarem se conhecem algum impedimento que obste à realização do casamento;
 
-d) Não sendo declarado qualquer impedimento e depois de explicar o conteúdo dos artigos 1577.º, 1600.º, 1671.º e 1672.º do Código Civil, o conservador pergunta a cada um dos nubentes se aceita o outro por consorte;
+d) Não sendo declarado qualquer impedimento e depois de referir os direitos e deveres dos cônjuges, previstos na lei civil, o conservador pergunta a cada um dos nubentes se aceita o outro por consorte;
 
 e) Cada um dos nubentes responde, sucessiva e claramente: «É de minha livre vontade casar com F. [indicando o nome completo do outro nubente].»
 

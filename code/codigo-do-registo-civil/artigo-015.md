@@ -20,4 +20,4 @@ f) Livro de transcrição das decisões sobre o estado e a capacidade civil, pro
 
 3 - Os demais livros podem ser desdobrados de harmonia com as necessidades do serviço.
 
-4 - É aplicável aos livros da Conservatória dos Registos Centrais o disposto no n.º 3 do artigo anterior.
+4 - É aplicável aos livros da Conservatória dos Registos Centrais o disposto no n.º 4 do artigo anterior.

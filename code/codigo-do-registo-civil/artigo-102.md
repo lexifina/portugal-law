@@ -4,13 +4,13 @@
 
 1 - Além dos requisitos gerais, o assento deve conter os elementos seguintes:
 
-a) o nome próprio e os apelidos;
+a) O nome próprio e os apelidos;
 
 b) O sexo;
 
 c) A data do nascimento, incluindo, se possível, a hora exacta;
 
-d) A freguesia e o concelho do local do nascimento;
+d) A freguesia e o concelho da naturalidade;
 
 e) O nome completo, a idade, o estado, a naturalidade e residência habitual dos pais;
 

@@ -7,3 +7,5 @@
 2 - Se o averbamento omisso tiver de ser realizado noutra conservatória, deve a esta ser comunicada a omissão.
 
 3 - A omissão pode ser suprida por iniciativa dos interessados, mediante a apresentação de documento que comprove o facto a averbar, devendo, neste caso, ser comunicada a feitura do averbamento à conservatória onde são lançadas as cotas de referência.
+
+4 - Para efeitos do disposto no número anterior, pode ser apresentada certidão do assento consular do casamento ou do óbito ocorrido no estrangeiro, ainda que não integrado nos termos do artigo 5.º

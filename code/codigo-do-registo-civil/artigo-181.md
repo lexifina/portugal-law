@@ -18,4 +18,4 @@ f) Declaração, prestada pelos nubentes, de que realizam o casamento por sua li
 
 g) Apelidos adoptados por qualquer dos nubentes;
 
-h) Nome completo e residência habitual das testemunhas.
+h) A menção à forma como foi verificada a identidade dos nubentes ou o nome completo e residência das testemunhas.
