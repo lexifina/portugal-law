@@ -1,0 +1,39 @@
+# Acórdão do Tribunal Central Administrativo Sul de 2001-01-30, processo 3874/00
+
+**Acórdãos TCAS:** Acórdão do Tribunal Central Administrativo Sul
+
+**Processo:** 3874/00
+
+**Secção:** Secção do Contencioso Tributário - Tribunal Central Administrativo
+
+**Data do Acordão:** 01/30/2001
+
+**Relator:** E. Sequeira
+
+**Descritores:** OPOSIÇÃO À EXECUÇÃO FISCAL; CONTRIBUIÇÃO AUTÁRQUICA; PRAZO NORMAL DE LIQUIDAÇÃO; NOTIFICAÇÃO
+
+**Aditamento:** 1
+
+## Sumário
+
+1. O prazo normal da liquidação da contribuição autárquica ocorre quando da mesma o
+
+sujeito passivo é avisado em Janeiro do ano seguinte para a pagar em Abril desse ano, relativamente ao
+
+valor patrimonial do prédio inscrito na matriz em 31 de Dezembro do ano anterior, ainda que
+
+conjuntamente seja liquidada a relativa a anos anteriores, como nos casos em que ocorre avaliação dos
+
+prédios, não se tratando de liquidação adicional ou de revisão oficiosa do acto tributário;
+
+2. Ocorre liquidação fora do prazo normal quando em 31 de Dezembro consta inscrito na matriz o valor
+
+patrimonial resultante de avaliação e o aviso para cobrança apenas é remetido ao sujeito passivo em
+
+Maio do ano seguinte, para pagamento em Outubro do mesmo ano;
+
+3. Neste caso, tal liquidação deveria ter sido notificada ao sujeito passivo por carta registada com A/R,
+
+e a sua falta torna a divida inexigível, constituindo um válido fundamento de oposição subsumivel à
+
+alínea h) do n.º l do art.º 286.º do CPT .
