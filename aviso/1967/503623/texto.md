@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que, segundo comunicação do Secretariado das Nações Unidas, o Governo do Quénia depositou junto do mesmo Secretariado, em 15 de Dezembro de 1966, o instrumento de adesão ao Acordo internacional do café, assinado em Nova Iorque em 28 de Setembro de 1962. Na nota que acompanhava o referido instrumento de adesão o Governo do Quénia declarava entrar na Organização Internacional do Café como membro exportador segundo as definições do § 7.º do artigo 2.º do referido Acordo internacional.
+Direcção-Geral dos Negócios Económicos, 22 de Fevereiro de 1967. - O Director-Geral, José Calvet de Magalhães.
