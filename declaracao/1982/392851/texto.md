@@ -1,0 +1,13 @@
+Declaração
+Para os devidos efeitos se declara que o Decreto-Lei n.º 108/82, publicado no Diário da República, 1.ª série, n.º 82, de 8 de Abril de 1982, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No artigo 3.º, n.º 1, onde se lê:
+...
+1 delegado do corpo docente da Universidade de Évora;
+1 representante do Instituto Superior Económico e Social de Évora;
+...
+deve ler-se:
+...
+1 representante da Universidade de Évora;
+1 delegado do corpo docente do Instituto Superior Económico e Social de Évora;
+...
+Secretaria-Geral da Presidência do Conselho de Ministros, 3 de Maio de 1982. - Pelo Secretário-Geral, o Director dos Serviços Administrativos, José Serra.
