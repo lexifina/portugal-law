@@ -1,0 +1,19 @@
+Decreto-Lei n.º 352/82
+de 4 de Setembro
+Durante 1980 e 1981 empenhou-se o Governo em criar condições indispensáveis para que os contribuintes em geral e as empresas em particular pudessem regularizar a sua situação perante a administração fiscal, designadamente em matéria dos impostos profissional, de transacções e do selo, visando, por um lado, evitar a sua inviabilização e, por outro, possibilitar, no futuro, o normal cumprimento das suas obrigações tributárias.
+Paralelamente, no domínio do imposto de transacções, procedeu-se a uma revisão das listas anexas ao referido Código, com vista a evitar um certo desajustamento que a sua aplicação evidenciava, ao mesmo tempo que se introduziam novas medidas no domínio do combate à evasão e fraudes fiscais.
+Na sequência destas medidas, importa pois afastar a possibilidade de se voltar a assistir ao reaparecimento, por parte das empresas, da tendência para o financiamento indirecto, através do imposto autoliquidado ou retido na fonte, com as inevitáveis distorções daí resultantes, designadamente no domínio da concorrência.
+Deste modo, considerando-se a importância do crédito para o normal funcionamento das empresas, afigura-se pois curial a utilização da dação de crédito como mais um instrumento de que o Governo entende dever lançar mão nos esforços que tem vindo a desenvolver no sentido do pontual cumprimento das obrigações fiscais.
+Nestes termos:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º A empresa que pretenda realizar, junto de qualquer instituição de crédito, operações activas, seja qual for a sua natureza, incluindo a obtenção de garantias e avales, deverá, antecipadamente, provar, mediante fotocópia da respectiva guia, que efectuou, no mês anterior, o pagamento do imposto de transacções oportunamente liquidado, nos termos do respectivo Código, sem o que a operação não poderá concretizar-se.
+Art. 2.º A prova referida no artigo anterior é também exigida às empresas que forneçam bens e serviços, qualquer que seja a forma, aos organismos do Estado, incluindo os dotados de autonomia administrativa ou financeira.
+Art. 3.º Sem prejuízo das penalidades previstas na lei, são devidos juros compensatórios, à taxa de 24% ao ano, sempre que haja atraso na entrega nos cofres do Estado dos impostos autoliquidados ou retidos na fonte.
+Art. 4.º O não cumprimento do disposto no artigo 1.º constitui infracção punida com multa variável entre 50000$00 e 500000$00, ficando solidariamente responsáveis com a empresa o gerente, administrador, gestor ou equivalente da instituição de crédito onde a operação teve lugar.
+Art. 5.º Os funcionários públicos que deixarem de cumprir alguma das obrigações impostas neste diploma incorrerão em responsabilidade disciplinar, se for caso disso.
+Art. 6.º À infracção prevista no artigo 3.º é aplicável o regime do Código do Processo das Contribuições e Impostos.
+Art. 7.º As dúvidas suscitadas na aplicação deste diploma são resolvidas por despacho do Ministro de Estado e das Finanças e do Plano.
+Visto e aprovado em Conselho de Ministros de 12 de Agosto de 1982. - Francisco José Pereira Pinto Balsemão.
+Promulgado em 26 de Agosto de 1982.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
