@@ -1,0 +1,19 @@
+Decreto-Lei n.º 115-C/85
+de 18 de Abril
+Para além da mera actualização das taxas de juro compensatório fixadas nos artigos 26.º e 45.º do Código do Imposto de Mais-Valias, na linha da orientação que tem vindo a ser adoptada no sentido de incentivar a incorporação no capital social das reservas provenientes da reavaliação dos bens do activo imobilizado das empresas, é estabelecida a isenção do imposto de mais-valias devido pelo aumento do capital das sociedades anónimas, em comandita por acções ou por quotas, mediante a incorporação das reservas de reavaliação constituídas ao abrigo do Decreto-Lei n.º 399-G/84, de 28 de Dezembro.
+Ainda com o propósito de estimular a incorporação das demais reservas no capital social das mesmas sociedades e de facilitar a emissão de acções, estabelece-se a isenção do imposto de mais-valias para os aumentos que venham a ser efectuados durante o corrente ano e nos dois anos seguintes.
+Assim:
+No uso da autorização concedida pelas alíneas a), d) e e) do artigo 28.º da Lei n.º 2-B/85, de 28 de Fevereiro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º São elevadas para 24% as percentagens indicadas nos artigos 26.º e 45.º do Código do Imposto de Mais-Valias.
+Art. 2.º O Ministro das Finanças e do Plano poderá conceder isenção do imposto de mais-valias nos casos de aumento de capital das sociedades anónimas, em comandita por acções ou por quotas, realizado mediante a incorporação da reserva de reavaliação constituída nos termos do Decreto-Lei n.º 399-G/84, de 28 de Dezembro, ou de legislação posterior que permita essa reavaliação, as empresas que não tenham usado da faculdade estabelecida por esse diploma no prazo nele fixado.
+Art. 3.º - 1 - O benefício será requerido até 31 de Outubro de 1985, devendo o requerimento indicar o montante da reserva a incorporar e a data ou datas da sua constituição e ser acompanhado da participação modelo n.º 3 exigida no artigo 23.º do Código do Imposto de Mais-Valias e dos documentos indicados no seu artigo 24.º, e ainda dos mapas a que se refere o artigo 9.º do citado decreto-lei, salvo se já tiverem sido apresentados juntamente com a declaração para efeitos da determinação do lucro tributável da contribuição industrial.
+2 - O requerimento será informado pela Direcção-Geral das Contribuições e Impostos, devendo as inexactidões e omissões nele cometidas ou nos documentos referidos no número anterior ser punidas nos termos do artigo 48.º do Código do Imposto de Mais-Valias.
+Art. 4.º A isenção ficará sem efeito quando se verifique, em face da fiscalização realizada nos termos do artigo 10.º do mesmo decreto-lei, que não foram observadas na reavaliação as normas estabelecidas nesse diploma, devendo, neste caso, a repartição de finanças competente proceder à liquidação do imposto e dar cumprimento ao preceituado no artigo 32.º e, se for caso disso, no artigo 48.º do citado Código.
+Art. 5.º O disposto nos artigos 2.º a 4.º retrotrai os seus efeitos às incorporações anteriormente efectuadas desde que o pedido de concessão do benefício seja apresentado no prazo de 90 dias a contar da data da entrada em vigor do presente decreto-lei.
+Art. 6.º Durante os anos de 1985, 1986 e 1987, ficam isentos do imposto de mais-valias os ganhos realizados através do aumento de capital das sociedades anónimas, em comandita por acções ou por quotas, mediante incorporação de reservas não provenientes da reavaliação de bens do seu activo imobilizado corpóreo ou da emissão de acções.
+Visto e aprovado em Conselho de Ministros de 28 de Março de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Alípio Barrosa Pereira Dias.
+Promulgado em 15 de Abril de 1985.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 16 de Abril de 1985.
+O Primeiro-Ministro, Mário Soares.
