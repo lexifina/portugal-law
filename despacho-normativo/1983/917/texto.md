@@ -1,0 +1,18 @@
+Despacho Normativo n.º 117/83
+Considerando que o artigo 150.º do Decreto-Lei n.º 385/82, de 16 de Setembro, tem suscitado inúmeras dúvidas entre os secretários judiciais dos tribunais sediados em Lisboa e no Porto;
+Considerando que interpretações abusivas do seu conteúdo têm gerado autênticas discriminações relativamente aos funcionários, magistrados e expediente dos serviços do ministério público;
+Considerando que tais interpretações colidem com as funções do ministério público como órgão de justiça integrado nos tribunais;
+Considerando que se têm suscitado dúvidas sobre a interpretação dos n.os 3 e 4 do artigo 7.º do Decreto-Lei n.º 385/82, de 16 de Setembro;
+Considerando que alguns funcionários de justiça não vêm compreendendo o significado profundo de tais dispositivos que instituem o dever de colaboração na normalização do serviço:
+Usando da faculdade conferida pelo artigo 153.º do Decreto-Lei n.º 385/82, de 16 de Setembro, esclareço:
+1 - A integração na secretaria do 1.º Juízo a que alude o artigo 150.º do referido diploma respeita, única e exclusivamente, aos funcionários que, nos tribunais que disponham de mais de uma secretaria, se encontram, em quadro diferenciado do da secretaria judicial, afectos ao serviço do ministério público.
+2 - Tal integração apenas produz efeitos relativamente ao expediente concernente à administração do pessoal afecto ao serviço do ministério público, competindo, nomeadamente:
+a) Ao respectivo secretário judicial, sem prejuízo do controle do dever de assiduidade por parte das procuradorias da República, comunicar as faltas dadas ao serviço (artigo 79.º, n.º 4); elaborar a relação mensal dos funcionários, para efeitos de processamento de vencimentos, e remetê-la ao Gabinete de Gestão Financeira do Ministério da Justiça; comunicar as vagas que ocorrerem naqueles quadros e remeter o duplicado do termo de posse (artigo 127.º, n.º 3);
+b) Ao respectivo juiz-presidente conferir posse aos funcionários em causa.
+3 - Continua a caber às respectivas secretarias judiciais:
+a) O recebimento e registo de toda a correspondência dirigida ao tribunal, incluindo a que lhe for apresentada pelo ministério público, bem como a sua expedição;
+b) O lançamento nos livros respectivos das importâncias devidas em processos de inquérito preliminar, designadamente as relativas ao pagamento do imposto de justiça, derivado da constituição de assistente, à confiança de processos, à passagem de certidões e à aplicação de multas.
+4 - Não se encontram exclusivamente incluídas na competência da secretaria do 1.º Juízo as funções relativas ao apoio material aos funcionários ou magistrados do ministério público, as quais serão desempenhadas pela secretaria onde os funcionários e magistrados respectivos se encontrem a exercer funções.
+5 - Em Lisboa e no Porto, sem prejuízo das situações já definidas para o corrente ano, o apoio material às procuradorias da República é assegurado pelas secretarias-gerais dos tribunais.
+6 - Cabe a todos os funcionários de justiça, independentemente do serviço a que se encontrem afectos e observado o disposto no n.º 4 do artigo 7.º do Decreto-Lei n.º 385/82, de 16 de Setembro, colaborar na normalização do serviço da secretaria, quer respeite à secção central, às secções de processos ou ao ministério público, pelo que os funcionários das secções devem dar satisfação às determinações dos magistrados do ministério público em tudo o que respeite à competência funcional destes, nomeadamente quanto à apresentação de processos para consulta, promoção ou despacho.
+Ministério da Justiça, 26 de Abril de 1983. - O Ministro da Justiça, José Manuel Meneres Sampaio Pimentel.
