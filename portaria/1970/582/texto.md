@@ -1,0 +1,58 @@
+Portaria n.º 582/70
+de 20 de Novembro
+Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, o seguinte:
+Nos termos do artigo 6.º do Decreto-Lei n.º 42559, de 3 de Outubro de 1959, conjugado com o preceituado no artigo único do Decreto-Lei n.º 44473, de 24 de Julho de 1962, que seja inscrita na tabela de receita do orçamento privativo das forças aéreas ultramarinas em vigor na província de Angola para 1970 a seguinte rubrica, com o quantitativo que também se indica:
+Receita ordinária
+Artigo 2.º, n.º 1) «Outras receitas - Do Fundo de Defesa Militar do Ultramar» ... 18500000$00
+Esta importância reforça as verbas que a seguir se indicam da tabela de despesa do mesmo orçamento:
+Despesa ordinária
+Artigo 2.º, n.º 1), alínea a) «Remunerações acidentais - Gratificações a militares dos quadros - De serviço aéreo» ... 1100000$00
+Artigo 2.º, n.º 1), alínea b) «Remunerações acidentais - Gratificações a militares dos quadros - Por funções especiais» ... 140000$00
+Artigo 2.º, n.º 1), alínea d) «Remunerações acidentais - Gratificações a militares dos quadros - Por despesas de representação» ... 1500$00
+Artigo 3.º, n.º 1), alínea b) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Pessoal civil contratado» ... 1600000$00
+Artigo 3.º, n.º 1), alínea c) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Pessoal civil assalariado» ... 1800000$00
+Artigo 3.º, n.º 1), alínea d) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Pessoal civil eventual» ... 1100000$00
+Artigo 4.º, n.º 2) «Remunerações acidentais - De isolamento» ... 300000$00
+Artigo 5.º, n.º 1) «Outras despesas com o pessoal - Ajudas de custo» ... 2000000$00
+Artigo 5.º, n.º 2), alínea a) «Outras despesas com o pessoal - Alimentação - Rancho e pão» ... 2200000$00
+Artigo 5.º, n.º 2), alínea b) «Outras despesas com o pessoal - Alimentação - Subsídio» ... 300000$00
+Artigo 5.º, n.º 2), alínea c) «Outras despesas com o pessoal - Alimentação - Rações complementares, de combate, de voo, etc.» ... 700000$00
+Artigo 5.º, n.º 4) «Outras despesas com o pessoal - Subvenção de campanha» ... 248000$00
+Despesas com o material:
+Artigo 7.º, n.º 2) «Aquisições de utilização permanente - Móveis» ... 2000000$00
+Artigo 8.º, n.º 1) «Despesas de conservação e aproveitamento do material - De imóveis» ... 20000$00
+Artigo 8.º, n.º 2), alínea a) «Despesas de conservação e aproveitamento do material - De semoventes - Alimentação de cães de guerra» ... 70000$00
+Artigo 8.º, n.º 2), alínea b) «Despesas de conservação e aproveitamento do material - De semoventes - Viaturas com ou sem motor, embarcações e outro material circulante» ... 395000$00
+Artigo 9.º, n.º 1) «Material de consumo corrente - Matérias-primas e produtos acabados ou meio acabados para usos laboratoriais, oficinais e de estaleiro de obras» ... 100000$00
+Artigo 9.º, n.º 2) «Material de consumo corrente - Impressos» ... 70000$00
+Artigo 9.º, n.º 3) «Material de consumo corrente - Artigos de expediente, material fotográfico e diverso material não especificado» ... 70000$00
+Pagamento de serviços e diversos encargos:
+Artigo 10.º, n.º 1) «Despesas de higiene, saúde e conforto - Serviços clínicos e de hospitalização» ... 1000000$00
+Artigo 10.º, n.º 2) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e limpeza» ... 600000$00
+Artigo 11.º, n.º 2) «Despesas de comunicação - Telefones» ... 35500$00
+Artigo 15.º, n.º 1) «Abono de família aos Funcionários - Despesas com o abono de família aos funcionários» ... 2650000$00
+... 18500000$00
+Nos termos do artigo 6.º do Decreto-Lei n.º 42559, de 3 de Outubro de 1959, reforçar com as quantias que se indicam as seguintes verbas inscritas na tabela de despesa do orçamento privativo das forças aéreas ultramarinas em vigor na província de Angola para 1970:
+Despesas com o pessoal:
+Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 10400000$00
+Artigo 5.º, n.º 4) «Outras despesas com o pessoal - Subvenção de campanha» ... 2352000$00
+... 12752000$00
+tomando como contrapartida as seguintes disponibilidades apuradas na mesma tabela de despesa:
+Despesas com o pessoal:
+Artigo 2.º, n.º 1), alínea c) «Remunerações acidentais - Gratificações a militares dos quadros - De especialidade» ... 170000$00
+Artigo 5.º, n.º 5) «Outras despesas com o pessoal - Subsídio de renda de casa» ... 71500$00
+Artigo 5.º, n.º 6) «Outras despesas com o pessoal - Subsídio eventual de custo de vida» ... 6500000$00
+Despesas com o material:
+Artigo 8.º, n.º 4) «Despesas de conservação e aproveitamento do material - De material de defesa e segurança pública» ... 45000$00
+Pagamento de serviços e diversos encargos:
+Artigo 11.º, n.º 3) «Despesas de comunicações - Transportes» ... 1400000$00
+Artigo 12.º, n.º 1) «Encargos das instalações - Rendas de prédios rústicos e urbanos»... 4150000$00
+Artigo 13.º, n.º 1) «Encargos administrativos - Subvenção de família» ... 100000$00
+Artigo 13.º, n.º 3) «Encargos administrativos - Despesas com o recrutamento» ... 50000$00
+Artigo 14.º, n.º 1) «Outros encargos - Subsídios a estabelecimentos e instituições oficiais, escolas e organizações civis de formação e tirocínio de pilotos aviadores e pára-quedistas (artigo 9.º do Decreto n.º 43808, de 20 de Julho de 1961)» ... 100000$00
+Artigo 14.º, n.º 2) «Outros encargos - Força motriz» ... 30000$00
+Artigo 16.º, n.º 1) «Despesas de anos económicos findos - Despesas com os anos económicos findos» ... 135500$00
+... 12752000$00
+O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo.
+
+Para ser publicada no Boletim Oficial de Angola. - J. da Silva Cunha.
