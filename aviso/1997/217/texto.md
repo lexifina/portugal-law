@@ -1,0 +1,3 @@
+Aviso n.º 217/97
+Por ordem superior se torna público que a Estónia ratificou, em 28 de Abril de 1997, a Convenção Europeia de Extradição, aberta à assinatura em Paris em 13 de Dezembro de 1957 e tendo entrado em vigor em 18 de Abril de 1960, o Protocolo Adicional, aberto à assinatura em Estrasburgo em 15 de Outubro de 1975 e tendo entrado em vigor em 20 de Outubro de 1979, e o Segundo Protocolo Adicional, aberto à assinatura em Estrasburgo em 17 de Março de 1978 e tendo entrado em vigor em 5 de Junho de 1978.
+Direcção de Serviços das Organizações Políticas Multilaterais, 27 de Junho de 1997. - O Director de Serviços, João José Gomes Caetano da Silva.
