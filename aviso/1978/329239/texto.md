@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que o Governo da Austrália depositou, em 21 de Junho de 1978, junto do Secretário-Geral das Nações Unidas o instrumento de impugnação às reservas formuladas pelo Governo do Iémene Democrático no momento da sua adesão à Convenção sobre Relações Diplomáticas, concluída em Viena em 18 de Abril de 1961, relativas ao número de membros das missões diplomáticas permitido pelo Estado acreditador (n.º 1 do artigo 11.º da Convenção em apreço), de que Portugal é parte sem reservas.
+Secretaria-Geral do Ministério, 30 de Agosto de 1978. - O Chefe dos Serviços Jurídicos e de Tratados, Mário d'Oliveira Neves.
