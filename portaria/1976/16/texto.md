@@ -1,0 +1,5 @@
+Portaria n.º 16/76
+de 14 de Janeiro
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Marinha Mercante, de harmonia com o exposto no artigo 96.º do Estatuto das Juntas Autónomas dos Portos, aprovado pelo Decreto-Lei n.º 37754, de 18 de Fevereiro de 1950, introduzir no Regulamento de Tarifas Provisórias da Junta Autónoma dos Portos do Distrito de Ponta Delgada, aprovado pela Portaria n.º 15371, de 9 de Maio de 1955, um novo artigo, com a seguinte redacção:
+Art. 70.º-B. No caso da prestação de serviços de assistência ou salvamento, abrangidos pelo disposto no artigo 69.º do Estatuto das Juntas Autónomas dos Portos, reverterá para o pessoal que neles intervier a percentagem de 10% da importância cobrada. A distribuição dessa percentagem será feita, por via de regra e salvo motivo justificado, proporcionalmente às remunerações certas do referido pessoal.
+Ministério dos Transportes e Comunicações, 30 de Dezembro de 1975. - O Secretário de Estado da Marinha Mercante, Francisco de Matos Guedes Lebre.
