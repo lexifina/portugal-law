@@ -1,0 +1,10 @@
+Decreto n.º 105/82
+de 29 de Setembro
+Tendo o Presidente da República vetado o projecto de decreto do Governo que determinava que as eleições gerais para os órgãos representativos das autarquias locais se realizassem no dia 5 de Dezembro de 1982;
+Considerando o disposto no n.º 1 do artigo 14.º do Decreto-Lei n.º 701-B/76, de 29 de Setembro, convalidado pela Lei n.º 79/77, de 25 de Outubro:
+O Governo, nos termos da alínea d) do artigo 200.º da Constituição, decreta o seguinte:
+Artigo único. As eleições gerais para os órgãos representativos das autarquias locais realizar-se-ão no dia 12 de Dezembro de 1982 em todo o território nacional.
+Visto e aprovado em Conselho de Ministros de 9 de Setembro de 1982. - Francisco José Pereira Pinto Balsemão.
+Promulgado em 23 de Setembro de 1982.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
