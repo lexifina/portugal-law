@@ -1,0 +1,4 @@
+Portaria n.º 542/70
+de 27 de Outubro
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, abrir um crédito especial da importância de 13200$00, a inscrever em adicional à tabela de despesa do orçamento privativo do Conselho Ultramarino para o ano em curso, destinado ao pagamento da gratificação ao secretário-geral do Ministério do Ultramar, pelo exercício das funções de vogal do Conselho Ultramarino, tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo II, artigo 5.º, n.º 2) «Serviços próprios do Conselho Ultramarino - Despesas com o pessoal - Outras despesas com o pessoal - Compensação de vencimentos aos sete vogais da secção do contencioso», da referida tabela de despesa.
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
