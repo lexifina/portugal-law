@@ -1,0 +1,3 @@
+Despacho Normativo n.º 133/77
+Nos termos do disposto no artigo 38.º, n.º 2, do Decreto-Lei n.º 74/71, de 17 de Março, e com referência ao preceituado na parte final do n.º 1 do mesmo artigo, designo a Direcção dos Serviços de Património Turístico, da Direcção-Geral do Turismo, para verificar a inobservância dos condicionamentos impostos nas declarações de utilidade turística, a título prévio ou definitivo, quando tais condicionamentos sejam por sua natureza verificáveis por elementos inequívocos constantes dos respectivos processos administrativos.
+Secretaria de Estado do Turismo, 2 de Maio de 1977. - O Secretário de Estado do Turismo, Luís Filipe Nascimento Madeira.
