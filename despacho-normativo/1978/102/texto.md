@@ -1,0 +1,6 @@
+Despacho Normativo n.º 102/78
+Considerando que o Ministério da Habitação e Obras Públicas tem a seu cargo a realização de vultosos empreendimentos, cujos trâmites de adjudicação exigem a adopção de mecanismos burocráticos mais simplificados, por forma a dar satisfação mais rápida às necessidades do País;
+Considerando a desactualização da competência para a autorização de despesas conferida aos vários órgãos da Administração, bem como aos próprios membros do Governo:
+Nos termos do artigo 16.º do Decreto-Lei n.º 709-B/76, de 4 de Outubro, delego no Ministro da Habitação e Obras Públicas, engenheiro António Francisco Barroso de Sousa Gomes, competência para autorizar a realização de despesas até ao montante de 95000 contos, com ou sem dispensa de concurso público e de contrato escrito, em adjudicações relativas a estradas, edifícios públicos e para habitação, construções escolares, construções hospitalares, obras hidráulicas e de saneamento básico incluídas no Plano aprovado pelo Governo e pela Assembleia da República, mantendo-se o montante indicado para a realização de despesas de outra natureza no Despacho Normativo n.º 74/78, de 13 de Fevereiro último.
+O presente despacho produz efeitos a partir de 10 de Abril de 1978.
+Presidência do Conselho de Ministros, 10 de Abril de 1978. - O Primeiro-Ministro, Mário Soares.
