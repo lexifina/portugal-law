@@ -1,0 +1,5 @@
+Aviso n.º 13/2004
+Por ordem superior se torna público que, em 8 de Abril de 2002 e 29 de Dezembro de 2003, foram emitidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros da República Portuguesa e pela Embaixada da Turquia em Lisboa, referindo ambas terem sido concluídas as respectivas formalidades constitucionais internas de aprovação do Acordo entre a República de Portugal e a República da Turquia sobre a Promoção e a Protecção Recíproca de Investimentos e Protocolo Anexo, assinado em Lisboa em 19 de Fevereiro de 2001.
+Por parte de Portugal, o Acordo foi aprovado pela Resolução da Assembleia da República n.º 22/2002 e ratificado pelo Decreto do Presidente da República n.º 20/2002, publicado no Diário da República, 1.ª série-A, n.º 79, de 4 de Abril de 2002.
+Nos termos do n.º 1 do artigo 14.º do Acordo, este começará a produzir efeitos a partir de 30 de Janeiro de 2004.
+Direcção-Geral das Relações Bilaterais, 14 de Janeiro de 2004. - A Directora de Serviços da Europa, Helena de Almeida Coutinho.
