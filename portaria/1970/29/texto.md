@@ -1,0 +1,30 @@
+Portaria n.º 29/70
+Tendo em vista as vantagens práticas da exploração do espaço extra-atmosférico, postas em relevo numa conferência das Nações Unidas reunida em Viena de Áustria de 14 a 27 de Agosto de 1968, e não devendo o nosso país ficar ausente do movimento internacional de cooperação e intercâmbio que permite a recolha continuada dos resultados que advêm da exploração do espaço exterior, do maior interesse para o desenvolvimento social e económico dos povos;
+Convindo promover a actualização dos nossos especialistas de astronáutica, o que deverá ter lugar nos países mais adiantados na matéria, principalmente no que respeita às aplicações práticas desse novo ramo da ciência;
+Sendo urgente centralizar a documentação, a informação e a divulgação de conhecimentos indispensáveis ao aproveitamento dos nossos recursos naturais e, bem assim, estruturar os respectivos programas ao nível nacional:
+Manda o Governo da República Portuguesa, pelo Presidente do Conselho, observar o seguinte:
+1.º Criar na Junta Nacional de Investigação Científica e Tecnológica a Comissão Permanente de Estudos do Espaço Exterior, à qual compete:
+a) Manter-se informada sobre os planos elaborados pelos serviços nacionais e outras entidades interessadas nos estudos e aplicações das investigações respeitantes ao espaço extra-atmosférico e promover a sua coordenação;
+b) Elaborar programas, anuais ou plurianuais, com base naqueles planos e em outros que ela própria estabeleça;
+c) Fomentar a especialização e actualização de pessoal científico e técnico necessário às actividades nacionais nos domínios do espaço exterior;
+d) Acompanhar o estado de execução dos empreendimentos dos programas nacionais com o objectivo de os apoiar e de propor as providências de carácter geral necessárias à sua realização eficaz;
+e) Acompanhar, em íntima ligação com o Ministério dos Negócios Estrangeiros, as realizações internacionais no domínio da exploração e aproveitamento do espaço exterior e colaborar com o mesmo Ministério em tudo quanto respeita à participação portuguesa em reuniões internacionais;
+f) Facilitar e estimular a expansão de actividades no domínio do aproveitamento e exploração do espaço exterior para fins pacíficos e suas aplicações;
+g) Manter relações de cooperação com organismos estrangeiros e fomentar o intercâmbio de informações científicas e técnicas.
+2.º A Comissão Permanente será constituída por um professor universitário de Astronomia e outro de Aeronáutica e pelos representantes dos seguintes organismos:
+a) Ministério dos Negócios Estrangeiros;
+b) Secretaria de Estado da Aeronáutica;
+c) Junta de Investigações do Ultramar;
+d) Instituto de Alta Cultura;
+e) Direcção-Geral da Aeronáutica Civil;
+f) Serviço Meteorológico Nacional;
+g) Correios e Telecomunicações de Portugal;
+h) Observatório Astronómico de Lisboa,
+e bem assim por duas entidades, oficiais ou privadas, que se tenham interessado por assuntos de astronáutica.
+Os representantes dos organismos acima referidos serão designados pelos respectivos Ministros.
+O presidente e o vice-presidente da Junta Nacional de Investigação Científica e Tecnológica poderão assistir a quaisquer reuniões da Comissão Permanente.
+3.º O Presidente do Conselho designará de entre os membros que constituem a Comissão Permanente o seu presidente e o seu vice-presidente.
+4.º A Comissão Permanente poderá trabalhar em subcomissões compostas pelos vogais designados pelo presidente.
+Cada subcomissão será presidida pelo presidente ou vice-presidente da Comissão Permanente.
+5.º A Junta Nacional de Investigação Científica e Tecnológica agregará à Comissão Permanente nela integrada o pessoal julgado necessário ao funcionamento dos respectivos serviços.
+Presidência do Conselho, 14 de Janeiro de 1970. - Pelo Presidente do Conselho, o Ministro de Estado, Alfredo de Queirós Ribeiro Vaz Pinto.
