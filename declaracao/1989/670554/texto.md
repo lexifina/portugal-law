@@ -1,0 +1,5 @@
+Declaração
+Para os devidos efeitos se declara que a Resolução do Conselho de Ministros n.º 15/89, publicada no Diário da República, 1.ª série, n.º 78 (suplemento), de 4 de Abril de 1989, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No n.º 7, onde se lê «7 - A diferença entre as tarifas normais e as tarifas degradadas será considerada em activo a imobilizar em vários anos, através do reforço de capitais próprios.» deve ler-se «7 - A diferença entre as tarifas normal e degradada será considerada como activo imobilizado, a amortizar em vários anos, em correlação com o reforço dos capitais próprios da EDP.».
+No n.º 8, onde se lê «8 - Proceder à revisão da incidência do imposto sobre produtos petrolíferos sobre o fuel utilizado pela EDP, E. P., na produção de electricidade.» deve ler-se «8 - O não agravamento relativo dos custos do fuel utilizado pela EDP, procedendo-se, se necessário, à revisão do ISP.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 26 de Maio de 1989. - O Secretário-Geral, França Martins.
