@@ -1,0 +1,397 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=WEUMi7%2fBtIIg%2fkHBDyZ%2fsil3BmWuButejMvPGkqNVyUfIJXddc1IDB3t8GXfBL3zSPQF%2bIyDi3AcWLUm0oL6crfUIOoirULFjyvRAul6J%2by6a6FDtpJuVrK3Y3rP8bCLGdxev%2bdUqQgc%2bXEDQI%2f8OLEsCv3IziG5WQHDSzFAl7qQApdhGho5obQdwDn6iwyWAFYt%2fzWn72d9GQ0G7zTxyKwsQjpKzhAqqYI6%2fCsSwtcK7MkwpbhLc%2bPOBViftzfwo0QY4%2b1hHCAUUDtd7wn2zRmIMG1aKMpZb8PUmWVGX9mCVPzhBcSom0%2boac5wXwR%2fcfo1uKTMHtBvk9eTSDfjfyy5P2leMqegA1xVPD5%2bIs%2bMWrsB8j6dH%2fUqNW7MrBr8&fich=PeticoesVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "c7a8b036f2bb9420007f23598577186345f4c787fefe68382e6a1aac6e3b6ea3",
+  "legislatura": "VIII",
+  "id": "6125",
+  "numero": "39",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2000-10-31",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2001-01-17",
+            "dataResposta": null,
+            "entidades": [
+              "Governo"
+            ],
+            "nrOficio": "OF 34/COM",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2001-08-28",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2000-11-10",
+        "DataArquivo": "2001-08-28",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2001-10-03",
+        "DataReaberta": "2000-11-10",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2000-10-31",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c304e505453383556464e545579394562324e31625756756447397a5547563061574e68627938774e574e6a4e6d51324e69316c597a42694c5452684f545174596d4d305a43316c4d5749774e7a6b344f4755795a6a59756347526d&fich=05cc6d66-ec0b-4a94-bc4d-e1b07988e2f6.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "27",
+        "Legislatura": "VIII",
+        "Nome": "COMISSAO DE TRABALHO, SOLIDARIEDADE E SEGURANÇA SOCIAL",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2001-08-26",
+            "gp": "PS",
+            "id": "159",
+            "motivoCessacao": null,
+            "nome": "Artur Penedos"
+          }
+        ],
+        "RelatorioFinal": [
+          "21346"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2001-10-12",
+    "Documentos": [
+      {
+        "DataDocumento": "2000-10-31",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c63793968596d55324d474d794e4330324e5749784c54526b4d44597459545a694d5330324e7a566b4e6d45324e7a4d30595749756347526d&fich=abe60c24-65b1-4d06-a6b1-675d6a6734ab.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2001-10-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139532",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "418-419"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-13",
+                "pubLeg": "VIII",
+                "pubNr": "12",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/012/2001-10-13/418?pgs=418-419&org=PLC"
+              }
+            ],
+            "Sumario": "PRETENDE QUE SEJA REDUZIDA A IDADE DE REFORMA DOS TRABALHADORES POR TURNOS ATRAVÉS DE UMA BONIFICAÇÃO NOS ANOS DE CONTRIBUIÇÃO PARA A SEGURANÇA SOCIAL",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2001-10-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139533",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "419-419"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-13",
+                "pubLeg": "VIII",
+                "pubNr": "12",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/012/2001-10-13/419?pgs=419&org=PLC"
+              }
+            ],
+            "Sumario": "PRETENDE QUE SEJA REDUZIDA A IDADE DE REFORMA DOS TRABALHADORES POR TURNOS ATRAVÉS DE UMA BONIFICAÇÃO NOS ANOS DE CONTRIBUIÇÃO PARA A SEGURANÇA SOCIAL",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2001-10-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139534",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "419-420"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-13",
+                "pubLeg": "VIII",
+                "pubNr": "12",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/012/2001-10-13/419?pgs=419-420&org=PLC"
+              }
+            ],
+            "Sumario": "PRETENDE QUE SEJA REDUZIDA A IDADE DE REFORMA DOS TRABALHADORES POR TURNOS ATRAVÉS DE UMA BONIFICAÇÃO NOS ANOS DE CONTRIBUIÇÃO PARA A SEGURANÇA SOCIAL",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2001-10-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139535",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "420-421"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-13",
+                "pubLeg": "VIII",
+                "pubNr": "12",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/012/2001-10-13/420?pgs=420-421&org=PLC"
+              }
+            ],
+            "Sumario": "PRETENDE QUE SEJA REDUZIDA A IDADE DE REFORMA DOS TRABALHADORES POR TURNOS ATRAVÉS DE UMA BONIFICAÇÃO NOS ANOS DE CONTRIBUIÇÃO PARA A SEGURANÇA SOCIAL",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2001-10-13",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139536",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "421-421"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-13",
+                "pubLeg": "VIII",
+                "pubNr": "12",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/012/2001-10-13/421?pgs=421&org=PLC"
+              }
+            ],
+            "Sumario": "PRETENDE QUE SEJA REDUZIDA A IDADE DE REFORMA DOS TRABALHADORES POR TURNOS ATRAVÉS DE UMA BONIFICAÇÃO NOS ANOS DE CONTRIBUIÇÃO PARA A SEGURANÇA SOCIAL",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "6125",
+    "PetAssunto": "Pretende que seja reduzida a idade de reforma dos trabalhadores por turnos através de uma bonificação nos anos de contribuição para a Segurança Social.",
+    "PetDataEntrada": "2000-10-31",
+    "PeticoesAssociadas": null,
+    "PetId": "6125",
+    "PetLeg": "VIII",
+    "PetNr": "39",
+    "PetNrAssinaturas": "14894",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "124",
+        "obs": null,
+        "pag": [
+          "418-421"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-10-13",
+        "pubLeg": "VIII",
+        "pubNr": "12",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/012/2001-10-13/418?pgs=418-421&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "121515",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-11-04",
+        "pubLeg": "VIII",
+        "pubNr": "7",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/08/02/007/2000-11-04?org=PLC"
+      }
+    ]
+  }
+}
