@@ -1,8 +1,8 @@
 # Artigo 18.º
 
-### Repartição de Controlo Orçamental e Financeiro
+### Departamento de Controlo Orçamental e Financeiro
 
-1 - À RCOF compete, designadamente:
+1 - Ao DCOF compete, designadamente:
 
 a) Coordenar e orientar os serviços que funcionam na sua dependência;
 
@@ -18,4 +18,8 @@ f) Manter actualizado o registo de vencimentos do pessoal;
 
 g) Desempenhar outras funções de natureza financeira de que seja superiormente incumbida.
 
-2 - A RCOF integra a Secção de Processamento e Tesouraria (SPT).
+2 - O DCOF integra duas secções:
+
+a) Secção de Processamento e Tesouraria (SPT);
+
+b) Secção de Controlo Orçamental (SCO).

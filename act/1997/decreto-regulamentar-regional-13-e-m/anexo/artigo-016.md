@@ -1,7 +1,3 @@
-## Secção V
-
-## Direcção de Serviços Administrativos, Financeiros e Património
-
 ## Subsecção I
 
 ## Divisão de Gestão de Recursos Humanos

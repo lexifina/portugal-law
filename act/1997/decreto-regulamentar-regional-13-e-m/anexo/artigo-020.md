@@ -6,7 +6,7 @@
 
 ### Atribuições
 
-1 - À RSA compete, nomeadamente:
+1 - Ao DSA compete, nomeadamente:
 
 a) Coordenar e orientar todas as funções administrativas da DRFP, de modo a assegurar uma maior funcionalidade dos serviços;
 
@@ -30,7 +30,7 @@ j) Coordenar os serviços de reprografia;
 
 l) Executar todas as demais funções que no âmbito da sua área de intervenção decorram do normal desempenho das suas funções
 
-2 - A RSA integra duas secções:
+2 - O DSA integra duas secções:
 
 a) Secção de Expediente Geral (SEG);
 

@@ -1,7 +1,3 @@
-## Secção IV
-
-## Direcção de Serviços do Fundo Social Europeu
-
 ## Subsecção I
 
 ## Divisão de Análise Técnica e Pedagógica
@@ -19,3 +15,5 @@ b) Analisar as candidaturas, procedendo à sua verificação e tratamento, e pro
 c) Participar superiormente as deficiências detectadas em sede de análise técnico-pedagógica das acções submetidas a aprovação;
 
 d) Prestar todos os esclarecimentos que no âmbito das respectivas competências venham a ser superiormente solicitados.
+
+2 - Na dependência da DATP funciona a Secção de Candidaturas (SC).

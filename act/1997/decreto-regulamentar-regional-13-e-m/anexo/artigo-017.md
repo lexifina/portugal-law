@@ -20,4 +20,4 @@ e) Orientar e gerir a verificação dos processos e documentos respeitantes à g
 
 f) Executar todas as demais tarefas que decorram do normal desempenho das suas funções.
 
-2 - Na dependência da DGF funciona a Repartição de Controlo Orçamental e Financeiro (RCOF).
+2 - Na dependência da DGF funciona o Departamento de Controlo Orçamental e Financeiro (DCOF).

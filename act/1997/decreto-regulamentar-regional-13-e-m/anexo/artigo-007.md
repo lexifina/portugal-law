@@ -35,3 +35,5 @@ j) Coordenar e gerir os meios à sua disposição tendo em vista a gestão e o f
 l) Promover e executar os programas dos cursos de aprendizagem e os respectivos instrumentos complementares de acordo com as orientações a nível nacional, tendo em conta as especificidades da Região;
 
 m) Assegurar, em articulação com a DIOP, acções de aconselhamento vocacional nas acções de formação.
+
+2 - Na dependência da DF funciona a Secção de Apoio Logístico (SAL).
