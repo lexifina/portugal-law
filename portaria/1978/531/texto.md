@@ -1,0 +1,30 @@
+Portaria n.º 531/78
+de 8 de Setembro
+Pelo Decreto n.º 282/78 atribui-se ao Secretário de Estado da Marinha Mercante competência para regulamentar a actividade exercida pelos afretadores nacionais.
+Nestes termos, ao abrigo do disposto no artigo 8.º do citado diploma:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Marinha Mercante, o seguinte:
+1.º - a) Sempre que um afretador, no exercício da sua actividade, pretenda celebrar um contrato de fretamento por viagem, ou por viagens consecutivas até um limite máximo de duas viagens, dará conhecimento prévio dessa pretensão à Direcção-Geral da Marinha de Comércio.
+b) Do conhecimento prévio, dado por carta ou telex, deverão constar os seguintes elementos:
+Nome do navio e respectivo pavilhão;
+Natureza e quantidade das mercadorias a transportar;
+Identificação do(s) carregador(es) e do(s) recebedor(es);
+Custos previstos para a operação, discriminados segundo as cláusulas do contrato em que estejam inseridos;
+Porto(s) de origem e de destino;
+Datas previsíveis da operação e do fecho do contrato;
+Tipo de carta-partida a utilizar.
+2.º - a) Os contratos referidos na alínea a) do número anterior serão analisados pela Direcção-Geral da Marinha de Comércio.
+b) Os interessados poderão fechar os contratos de fretamento, objecto de conhecimento prévio, se, em tempo útil, não receberem comunicação em contrário da Direcção-Geral da Marinha de Comércio.
+3.º - a) Os contratos a que se refere a alínea a) do n.º 1 desta portaria deverão ser confirmados, pelas entidades afretadoras, após a sua celebração, à Direcção-Geral da Marinha de Comércio.
+b) Para efeitos do disposto na alínea anterior, é criado um impresso-tipo denominado «Confirmação de fretamento», cujo modelo se publica em anexo ao presente diploma.
+c) Os afretadores remeterão à Direcção-Geral da Marinha de Comércio quatro exemplares do impresso «Confirmação de fretamento» devidamente preenchidos.
+d) A Direcção-Geral da Marinha de Comércio aporá o visto nos impressos enviados pelos afretadores, remetendo, de imediato, um exemplar ao Banco de Portugal e outro aos interessados.
+4.º - a) Os pedidos de autorização, a que se referem os n.os 1 e 2 do artigo 4.º do Decreto-Lei n.º 282/78, são dirigidos à Direcção-Geral da Marinha de Comércio.
+b) Dos pedidos de autorização, abrangidos pela alínea anterior, deverão constar os elementos necessários a análise dos contratos a que respeitem e nomeadamente os elementos enumerados na alínea b) do n.º 1 da presente portaria.
+c) As entidades afretadoras remeterão à Direcção-Geral da Marinha de Comércio quaisquer outros elementos respeitantes aos contratos de fretamento que pretendam realizar, sempre que, nesse sentido, sejam solicitadas.
+d) A decisão que sobre os pedidos de autorização vier a ser proferida pelo Secretário de Estado da Marinha Mercante será comunicada aos interessados, em tempo útil, e, bem assim, ao Banco de Portugal.
+5.º As entidades afretadoras, após execução dos contratos de fretamento, remeterão à Direcção-Geral da Marinha de Comércio as respectivas contas de exploração, bem como quaisquer outros elementos que lhes venham a ser solicitados.
+6.º - a) A inscrição como afretador, referida no n.º 1 do artigo 3.º do Decreto-Lei n.º 282/78, tem lugar na Direcção-Geral da Marinha de Comércio.
+b) As entidades interessadas apresentarão, para efeitos de inscrição como afretador, de entre outros elementos justificativos do exercício da actividade pretendida, certidão dos respectivos estatutos.
+Ministério dos Transportes e Comunicações. - O Secretário de Estado da Marinha Mercante, Luís António Penedo Correia Maltês.
+
+(ver documento original)
