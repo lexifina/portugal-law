@@ -1,0 +1,4 @@
+Portaria n.º 158/76
+de 23 de Março
+Manda o Governo da República Portuguesa, pelo Ministro da Agricultura e Pescas, tornar público, que, nos termos do disposto nos artigos 18.º, n.º 1 do Decreto-Lei n.º 40768, de 8 de Setembro de 1956, 1.º, alínea a), e 8.º do Decreto-Lei n.º 406-A/75, de 29 de Julho, foi declarado nulo e de nenhum efeito o acto de expropriação do prédio rústico inscrito na matriz rústica da freguesia e concelho de Coruche, sob o artigo 1.º da secção ZZ-1, com a área de 944,5000 ha, pertencente a António Queirós Roquete, herdeiros, por inexistência do objecto do acto expropriativo, declaração contida sob o n.º 33 da Portaria n.º 46/76, de 29 de Janeiro, deste Ministério, publicada no Diário do Governo, 1.ª série, n.º 24, da mesma data.
+Ministério da Agricultura e Pescas, 13 de Março de 1976. - O Ministro da Agricultura e Pescas, António Poppe Lopes Cardoso.
