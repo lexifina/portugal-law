@@ -6,7 +6,7 @@
 
 a) Quando constituírem os crimes previstos nos artigos 221.º, 262.º a 271.º, 308.º a 321.º e 325.º a 345.º;
 
-b) Quando constituírem os crimes previstos nos artigos 159.º, 160.º, 169.º, 172.º, 173.º, 176.º e 236.º a 238.º, no n.º 1 do artigo 239.º e no artigo 242.º, desde que o agente seja encontrado em Portugal e não possa ser extraditado;
+b) Quando constituírem os crimes previstos nos artigos 159.º, 160.º, 169.º, 172.º, 173.º, 176.º e 237.º, desde que o agente seja encontrado em Portugal e não possa ser extraditado;
 
 c) Por portugueses, ou por estrangeiros contra portugueses, sempre que:
 
