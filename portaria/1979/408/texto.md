@@ -1,0 +1,27 @@
+Portaria n.º 408/79
+de 8 de Agosto
+Considerando a necessidade de ajustar os poderes funcionais da Direcção do Serviço de instrução e Treino de forma a dotá-la com a capacidade de intervenção indispensável à adequada condução dos assuntos do âmbito da instrução e treino da Armada;
+Tendo em conta ainda a necessidade de que a sua estrutura orgânica passe a reflectir os objectivos agora fixados:
+Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, nos termos do artigo 7.º do Decreto n.º 48689, de 16 de Novembro de 1968, com a redacção que lhe foi dada pela Portaria n.º 262/79, de 6 de Junho, o seguinte:
+1.º A Direcção do Serviço de Instrução e Treino (DSIT) é o organismo da Superintendência dos Serviços do Pessoal que tem por missão dirigir, coordenar e supervisar todas as actividades e assuntos relativos à instrução e ao treino do pessoal de Armada, com excepção dos que se prendem com o ensino ministrado no Instituto Superior Naval de Guerra e com aspectos de treino que por disposições próprias pertençam a outras entidades ou organismos.
+2.º No âmbito da sua missão incumbe especialmente à DSIT:
+a) Estabelecer os princípios orientadores e os programas, em conformidade com os objectivos superiormente definidos;
+b) Desenvolver os esforços tendentes à optimização do rendimento das actividades de instrução e treino, procedendo, nomeadamente, à regular avaliação dos resultados obtidos;
+c) Assegurar a correcta execução das normas e directivas aplicáveis.
+3.º A DSIT compreende:
+a) O director do Serviço de Instrução e Treino;
+b) A 1.ª Repartição (Oficiais);
+c) A 2.ª Repartição (Sargentos e Praças);
+d) A 3.ª Repartição (Material Didáctico e Publicações);
+e) A 4.ª Repartição (Assuntos Pedagógicos);
+f) A 5.ª Repartição (Educação Física);
+g) A secretaria.
+4.º O director do Serviço de Instrução e Treino é um contra-almirante da classe de marinha, nomeado por portaria do Chefe do Estado-Maior da Armada.
+5.º As Repartições da DSIT podem ser subdivididas em secções, de acordo com as exigências do serviço, constando essa subdivisão do respectivo regulamento interno.
+6.º Adstrito à DSIT, e na dependência do seu director, funciona o Centro de Instrução por Correspondência (CIC), tendo por missão organizar e promover a realização de cursos por correspondência destinados ao pessoal em serviço na Marinha.
+7.º Como órgão de estudo e consulta do director do Serviço de Instrução e Treino funciona no âmbito da DSIT a Comissão Permanente de Instrução e Treino (CPIT).
+8.º Incumbe à CPIT estudar e dar pareceres sobre todos os assuntos de carácter pedagógico e técnico que no âmbito da instrução e do treino lhe sejam apresentados pelo director do Serviço de Instrução e Treino.
+9.º As atribuições, constituição e condições de funcionamento da CPIT serão fixadas por despacho do Chefe do Estado-Maior da Armada.
+10.º As lotações da DSIT em pessoal militar e em pessoal civil são fixadas, respectivamente, por portaria e por despacho do Chefe do Estado-Maior da Armada.
+11.º As alterações na estrutura orgânica da DSIT introduzidas pelo presente diploma entrarão em vigor, gradual e parcelarmente, de forma a não ser perturbado o funcionamento dos serviços, devendo estar normalizada a implantação da nova estrutura no prazo máximo de noventa dias, a contar da data de publicação do presente diploma.
+Estado-Maior da Armada, 19 de Julho de 1979. - O Chefe do Estado-Maior da Armada, António Egídio de Sousa Leitão.
