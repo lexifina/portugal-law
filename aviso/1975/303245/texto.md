@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que o representante permanente de Portugal junto das Nações Unidas, em Nova Iorque, depositou junto do secretário-geral daquela organização internacional, em 20 de Janeiro de 1975, o instrumento de ratificação, por parte de Portugal, do Acordo Internacional do Açúcar, 1973, aprovado para ratificação pelo Decreto n.º 687/74, publicado no suplemento ao Diário do Governo, 1.ª série, n.º 280, de 2 de Dezembro.
+Até 20 de Janeiro de 1975 eram partes no Acordo Internacional do Açúcar, 1973, os seguintes países: República Democrática Alemã, Singapura, Bangladesh, Jugoslávia, Ghana, Hungria, Canadá, República da Coreia, Índia, União das Repúblicas Socialistas Soviéticas, El Salvador, Filipinas, Equador, Bolívia, Malawi, Finlândia, Camarões, República Dominicana, Brasil, Guatemala, Nicarágua, Madagáscar, Indonésia, Chile e Cuba.
+O Acordo é provisoriamente aplicável, nos termos do artigo 35.º do Acordo a: Marrocos, Costa Rica, Colômbia, Nigéria, Egipto e Peru.
+Direcção-Geral dos Negócios Económicos, 6 de Março de 1975. - O Adjunto do Director-Geral, Alexandre Eduardo Lencastre da Veiga.
