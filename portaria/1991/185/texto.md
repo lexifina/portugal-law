@@ -1,0 +1,20 @@
+Portaria n.º 185/91
+de 4 de Março
+A requerimento da Província Portuguesa do Instituto das Franciscanas Missionárias de Maria;
+Instruído e analisado o respectivo processo nos termos do Estatuto do Ensino Superior Particular e Cooperativo (Decreto-Lei n.º 271/89, de 19 de Agosto);
+Tendo em consideração o enquadramento estabelecido para o ensino da enfermagem pelo Decreto-Lei n.º 480/88, de 23 de Dezembro, e o disposto na Portaria n.º 195/90, de 17 de Março;
+Nos termos e ao abrigo dos artigos 18.º, 19.º e 25.º, n.º 1, do Decreto-Lei n.º 271/89, de 19 de Agosto:
+Manda o Governo, pelos Ministros da Educação e da Saúde, o seguinte:
+1.º É reconhecida a Escola Superior de Enfermagem das Franciscanas Missionárias de Maria, de que é titular a Província Portuguesa do Instituto das Franciscanas Missionárias de Maria, a funcionar nas instalações que possui em Lisboa, como estabelecimento de ensino superior particular.
+2.º É autorizado o funcionamento na Escola Superior de Enfermagem das Franciscanas Missionárias de Maria, a partir do ano lectivo de 1990-1991, do curso superior de Enfermagem, de acordo com o plano de estudos publicado em anexo à presente portaria.
+3.º Ao curso referido no número anterior são reconhecidos os efeitos correspondentes aos da titularidade do grau de bacharelato do ensino público.
+4.º As habilitações mínimas que permitem o ingresso no curso atrás referido são as exigidas para o mesmo curso do ensino público, sem prejuízo de outros requisitos que sejam estabelecidos no regulamento interno da Escola Superior de Enfermagem das Franciscanas Missionárias de Maria.
+5.º O reconhecimento e autorização estabelecidos na presente portaria não prejudicam, sob pena de revogação, a obrigação do cumprimento de eventuais adaptações ou correcções que sejam determinadas pela Direcção-Geral do Ensino Superior, quer em aplicação de pareceres de comissões e serviços especializados que se pronunciaram sobre o processo de criação e funcionamento do estabelecimento e do curso, quer de futuras informações dos serviços de inspecção daquele departamento, de acordo com a legislação vigente.
+Ministérios da Educação e da Saúde.
+Assinada em 18 de Fevereiro de 1991.
+Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior. - Pelo Ministro da Saúde, Albino Aroso Ramos, Secretário de Estado Adjunto do Ministro da Saúde.
+
+ANEXO
+Escola Superior de Enfermagem das Franciscanas Missionárias de Maria
+Curso superior de Enfermagem
+(ver documento original)
