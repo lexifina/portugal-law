@@ -1,0 +1,343 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "45",
+    "id": "5640",
+    "titulo": "Custos de transporte dos livros, jornais e revistas entre as Regiões Autónomas dos Açores e Madeira e Portugal Continental."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1995-12-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1504",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1995-12-20",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "5252",
+        "leg": "VII",
+        "nr": "71",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "152",
+            "obs": null,
+            "pag": [
+              "526-528"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1995-12-21",
+            "pubLeg": "VII",
+            "pubNr": "18",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/018/1995-12-21/526?pgs=526-528&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "P",
+        "titulo": "Aprova o regime disciplinar das federações desportivas"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1995-12-20",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1182",
+                "nome": "Ruben de Carvalho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45406",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "528-528"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-21",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/018/1995-12-21/528?pgs=528&org=PLC"
+              }
+            ],
+            "sumario": "CUSTO DE LIVROS, REVISTAS E JORNAIS DE E PARA A REGIAOAUTONOMA DA MADEIRA- CUSTO DE TRANSPORTES DOS LIVROS, JORNAIS E REVISTAS ENTREAS REGIOES AUTONOMAS DOS ACORES E MADEIRA E PORTUGALCONTINENTAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1468",
+                "nome": "Sérgio Ávila"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45407",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "527-528"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-21",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/018/1995-12-21/527?pgs=527-528&org=PLC"
+              }
+            ],
+            "sumario": "CUSTO DE LIVROS, REVISTAS E JORNAIS DE E PARA A REGIAOAUTONOMA DA MADEIRA- CUSTO DE TRANSPORTES DOS LIVROS, JORNAIS E REVISTAS ENTREAS REGIOES AUTONOMAS DOS ACORES E MADEIRA E PORTUGALCONTINENTAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1461",
+                "nome": "António Trindade"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45408",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "527-527"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-21",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/018/1995-12-21/527?pgs=527&org=PLC"
+              }
+            ],
+            "sumario": "CUSTO DE LIVROS, REVISTAS E JORNAIS DE E PARA A REGIAOAUTONOMA DA MADEIRA- CUSTO DE TRANSPORTES DOS LIVROS, JORNAIS E REVISTAS ENTREAS REGIOES AUTONOMAS DOS ACORES E MADEIRA E PORTUGALCONTINENTAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "167",
+                "nome": "Fernando Pereira Marques"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45409",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "526-527"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-21",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/018/1995-12-21/526?pgs=526-527&org=PLC"
+              }
+            ],
+            "sumario": "CUSTO DE LIVROS, REVISTAS E JORNAIS DE E PARA A REGIAOAUTONOMA DA MADEIRA- CUSTO DE TRANSPORTES DOS LIVROS, JORNAIS E REVISTAS ENTREAS REGIOES AUTONOMAS DOS ACORES E MADEIRA E PORTUGALCONTINENTAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "45410",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "526-526"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-12-21",
+                "pubLeg": "VII",
+                "pubNr": "18",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/018/1995-12-21/526?pgs=526&org=PLC"
+              }
+            ],
+            "sumario": "CUSTO DE LIVROS, REVISTAS E JORNAIS DE E PARA A REGIAOAUTONOMA DA MADEIRA- CUSTO DE TRANSPORTES DOS LIVROS, JORNAIS E REVISTAS ENTREAS REGIOES AUTONOMAS DOS ACORES E MADEIRA E PORTUGALCONTINENTAL",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "104193",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "110585",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1995-12-21",
+        "pubLeg": "VII",
+        "pubNr": "18",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/018/1995-12-21?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
