@@ -1,0 +1,10 @@
+Resolução n.º 51/77
+Considerando a necessidade de resolver rapidamente o conflito que ora se desenvolve no sector das pescas e que algumas organizações sindicais procuram fazer alastrar à marinha de comércio, com graves riscos para a economia nacional, nomeadamente no que respeita ao abastecimento das populações, e ao agravamento da já difícil situação económica e financeira das empresas armadoras, que na sua quase totalidade se encontram nacionalizadas;
+Considerando que a legitimidade do princípio da audição prévia dos trabalhadores do mar não pode ser confundida com a sujeição da Administração aos critérios, quer das organizações sindicais, quer das entidades patronais;
+Considerando que não existe inconveniente digno de menção no facto de as escalas de tripulantes para embarque poderem ser geridas por entidades exteriores à Administração, desde que devidamente regulamentadas:
+O Conselho de Ministros, reunido em 8 de Fevereiro de 1977, resolveu:
+Condicionar, através de instrumentos legais adequados, a inscrição marítima e a fixação de lotações à aprovação pelos órgãos competentes da Administração Central, após audição dos sindicatos e associações de armadores quanto às necessidades verificadas.
+Definir como princípio que as escalas para embarque podem ser geridas por entidades exteriores à Administração, nomeadamente comissões mistas ou associações sindicais, consoante as condições locais, devendo para tanto ser regulamentado o seu funcionamento da sua natureza das organizações envolvidas.
+Não permitir que as associações sindicais possam condicionar a matrícula em navios mercantes e de pesca a outras exigências que não sejam a de mera comprovação pelo respeito à escala que porventura administrem.
+Tomar as medidas consideradas necessárias para que não possam ser postas em causa, quer a segurança do abastecimento de bens alimentares e outros produtos essenciais, quer as ligações marítimas entre o continente e as ilhas adjacentes, caso a situação não se venha a normalizar num prazo de vinte e quatro horas.
+Presidência do Conselho de Ministros, 8 de Fevereiro de 1977. - O Primeiro-Ministro, Mário Soares.
