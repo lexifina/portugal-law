@@ -17,9 +17,23 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1937/12/30401/17341736.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1937-12-31",
-  "in_force_basis": "publication day in the Diário da República (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário da República",
+  "text_status": "ocr",
   "source_sha256": "46a8a5f65486691fc11efbd4c71ab8e10805e6f29e0eed4f47aa3fa5461a3b0d",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.6,
+    "pages": 3,
+    "columns": [
+      3,
+      3,
+      3
+    ],
+    "pdf_sha256": "c3fdb88bf5384fc8f30d4f58a03210db29d72ca009220427e6f0005e1a5a0dd1",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 2551
 }
