@@ -1,0 +1,5 @@
+Portaria n.º 24362
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar com a importância de 50000$00 a verba do capítulo 10.º, artigo 2033.º, n.º 14), alínea a) «Encargos gerais - Diversas despesas - Despesas com funerais de funcionários do activo e aposentados (artigos 115.º e 116.º do Decreto n.º 38043, de 8 de Novembro de 1950) - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral da província de Angola para o ano em curso, tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo 7.º, artigo 1945.º, n.º 2) «Serviços de fomento - Serviço Meteorológico - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal contratado», da referida tabela de despesa.
+Ministério do Ultramar, 8 de Outubro de 1969. - Pelo Ministro do Ultramar, José Coelho de Almeida Cota, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Angola. - J. Cota.
