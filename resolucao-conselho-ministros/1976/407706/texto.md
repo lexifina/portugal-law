@@ -1,0 +1,8 @@
+Resolução do Conselho de Ministros
+Por resolução do Conselho de Ministros do VI Governo Provisório, datada de 9 de Junho de 1976 e publicada no Diário da República, de 2 de Julho de 1976, foi determinada a intervenção do Estado numa série de empresas participadas pelas Companhias de Seguros Império, Sagres e Universal, para as quais foram nomeados gestores por parte do Estado, colocados na dependência directa dos respectivos Ministérios de Tutela.
+Considerando que entre as empresas colocadas sob a dependência do Ministério da Indústria e Tecnologia figura a Itelcar - Automóveis de Aluguer, S. A. R. L., empresa que, por se dedicar ao aluguer de automóveis, melhor se enquadraria no Ministério do Comércio e Turismo;
+Considerando que uma das áreas de actuação da Enatur - Empresa Nacional de Turismo, E. P., criada pelo Decreto-Lei n.º 662/76, de 4 de Agosto, é a integração das empresas de aluguer de automóveis sem condutor sob intervenção do Estado;
+Considerando que a integração referida no número anterior será muito facilitada se for antecedida pela colocação da Itelcar sob a dependência do Ministério do Comércio e Turismo:
+O Conselho de Ministros, reunido em 30 de Novembro de 1976, resolveu:
+Colocar a empresa Itelcar - Aluguer de Automóveis, S. A. R. L., sob a dependência do Ministério do Comércio e Turismo, perante o qual o gestor por parte do Estado, nomeado por resolução datada de 9 de Junho de 1976 e publicada no Diário da República, de 2 de Julho de 1976, responderá nos termos da lei.
+Presidência do Conselho de Ministros, 30 de Novembro de 1976. - O Primeiro-Ministro, Mário Soares.
