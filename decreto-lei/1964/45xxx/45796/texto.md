@@ -1,0 +1,6 @@
+Decreto-Lei n.º 45796
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. É criada a Embaixada de Portugal em Zomba, no Malawi, com a dotação anual para despesas de representação de 300000$00
+§ único. As despesas de representação da Embaixada criada pelo presente diploma serão inscritas no orçamento para 1965 e as que hajam de ser pagas no corrente ano económico sê-lo-ão por força das disponibilidades da verba da alínea 2 do n.º 1), artigo 22.º, capítulo 3.º, do orçamento em vigor.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 6 de Julho de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - Francisco Pereira Neto de Carvalho.
