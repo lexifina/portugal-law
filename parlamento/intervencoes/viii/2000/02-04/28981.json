@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2furkWvc0lKdq20ak2KlHOmirXJXFYm74sABWT32jiDLN0U8f%2fPEtMfn8RnKJ0uGruwmBNe3jwMO37t%2fiSCQ9aculmRkJeIKwr%2fOiOzMziHJAnUHHtOwdh287ngLEtCriB2WWEC7LYWi1fowW8ns7Xdb7ZeW1KZ%2fh4MoxhR77APfbIk6lGh2Xrj7umHYAgvxBKomL8r%2b7w%2bcVlag%2bST%2fprrlUOE0u%2b6qHwbnvIQKfKeygiUNrSNiI04zccBV4YEQPPfynibRRVQMmV0H0WPDuRcSm80sGGQgNyTsUcq3R2DGZQtkpt%2bs4PaWOTvEOy%2b0HxZFhxj0gLaLBKCcha3mTRy2bCNMZep%2b9wDXb88fyVXk%3d&fich=IntervencoesVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6a76c73abc08ffed4c44b15f3f36f3269364cf06e4b7f2d6259e2b14d6049817",
+  "legislatura": "VIII",
+  "id": "28981",
+  "tipo": "Intervenção",
+  "orador": "Odete Santos (PCP)",
+  "data_registo": "2000-02-04",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "249844",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "6262",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Altera o Artigo 69° n°2 da Lei n°16/98 de 8 de Abril que regula a estrutura e funcionamento do Centro de Estudos Judiciários e introduz um regime excepcional de afectação de Magistrados Judiciais Jubilados"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2000-02-04",
+    "Debate": "PPL 13",
+    "Deputados": {
+      "GP": "PCP",
+      "idCadastro": "219",
+      "nome": "Odete Santos"
+    },
+    "FaseDebate": "GENERALIDADE",
+    "FaseSessao": "POD",
+    "Id": "28981",
+    "IdDebate": "5907",
+    "Iniciativas": [
+      {
+        "fase": "Discussão generalidade",
+        "id": "6262",
+        "tipo": "Proposta de Lei"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VIII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "28981",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "1375-1378"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-02-05",
+        "pubLeg": "VIII",
+        "pubNr": "36",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/036/2000-02-05/1375?pgs=1375-1378&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputada",
+    "Resumo": null,
+    "Sessao": "1",
+    "Sumario": "ALTERA O ART.69, N.2 DA LEI 69/98, DE 8 DE ABRIL, QUE REGULAA ESTRUTURA E FUNCIONAMENTO DO CENTRO DE ESTUDOS JUDICIARIOSE INTRODUZ UM REGIME EXCEPCIONAL DE AFECTACAO DE MAGISTRADOSJUBILADOS",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
