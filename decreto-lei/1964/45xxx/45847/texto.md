@@ -1,0 +1,9 @@
+Decreto-Lei n.º 45847
+Tornando-se imprescindível melhorar as condições em que é exercida a superintendência pedagógica e administrativa dos institutos técnicos médios;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
+Artigo 1.º É criado nos institutos industriais e nos institutos comerciais o lugar de subdirector, que será exercido em comissão por um dos professores do respectivo quadro e remunerado com a gratificação mensal de 600$00, cujo abono se fará durante todo o ano.
+Art. 2.º O n.º 1 do artigo 211.º, tanto do Decreto n.º 38032, de 4 de Novembro de 1950, como do Decreto n.º 38231, de 23 de Abril de 1951, passa a ter a seguinte redacção:
+Art. 211.º - 1. Por proposta do director do instituto pode um contínuo ser nomeado chefe do pessoal menor, com o encargo de dirigir, coordenar e fiscalizar o serviço desse pessoal, bem como de participar superiormente todos os factos que perturbem a disciplina ou causem dano ao instituto.
+Art. 3.º Os empregados menores dos institutos que, por determinação superior e fora das horas do seu trabalho normal, prestem serviço no período nocturno das actividades escolares serão remunerados nos termos do artigo 43.º do Decreto-Lei n.º 26115, de 23 de Novembro de 1935.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 3 de Agosto de 1964. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
