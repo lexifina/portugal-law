@@ -1,0 +1,12 @@
+Portaria n.º 22353
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, abrir os seguintes créditos especiais:
+1.º Um de 55380$00, destinado a reforçar a verba do capítulo II, artigo 14.º «Serviços próprios do Conselho Ultramarino - Diversos encargos - Despesa de anos económicos findos», da tabela de despesa do orçamento privativo do Conselho Ultramarino para o corrente ano, tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo I, artigo 2.º «Representação das províncias ultramarinas no Conselho Ultramarino - Diversos encargos - Gratificações aos onze vogais eleitos pelos conselhos legislativos das províncias ultramarinas», da referida tabela de despesa.
+2.º Um de 168400$00, a inscrever em adicional à tabela de despesa do orçamento privativo da Comissão de Coordenação dos Serviços Provinciais de Planeamento e Integração Económica para o corrente ano, destinado ao pagamento dos vencimentos aos funcionários que, por força do disposto no artigo 28.º do Decreto n.º 47168, de 26 de Agosto último, transitaram da Comissão para os Inquéritos Agrícolas para o Gabinete de Planeamento e Integração Económica, tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo único, artigo 1.º, n.º 1), alínea b) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Do Gabinete», da referida tabela de despesa.
+3.º Um de 39048$00, destinado a reforçar, com as quantias que se indicam, as seguintes verbas da tabela de despesa da Comissão de Coordenação dos Serviços Provinciais de Planeamento e Integração Económica para o corrente ano:
+Despesas com o pessoal:
+Artigo 3.º, n.º 2) «Outras despesas com o pessoal - Subsídio eventual de custo de vida, criado pelo Decreto-Lei n.º 47137, de 5 de Agosto de 1966» ... 34648$00
+Diversos encargos:
+Artigo 10.º «Abono de família» ... 4400$00
+... 39048$00
+tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo único, artigo 1.º, n.º 1), alínea b) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Do Gabinete», da referida tabela de despesa.
+Ministério do Ultramar, 5 de Dezembro de 1966. - Pelo Ministro do Ultramar, José Coelho de Almeida Cota, Subsecretário de Estado da Administração Ultramarina.
