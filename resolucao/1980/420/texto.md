@@ -1,0 +1,6 @@
+Resolução n.º 420/80
+Face ao adiantado do ano e a fim de tornar rápida a utilização do reforço de 1 milhão e meio de contos de que, por força da Lei n.º 47/80, de 9 de Dezembro, da Assembleia da República, beneficiou a dotação provisional inscrita no actual orçamento do Ministério das Finanças e do Plano;
+Com base no n.º 2 do artigo 5.º do Decreto-Lei n.º 93/78, de 13 de Maio, o Conselho de Ministros, reunido em 29 de Dezembro de 1980, resolveu o seguinte:
+1 - A autorização concedida ao Ministro das Finanças e do Plano através do n.º 1 da Resolução n.º 311/80, do Conselho de Ministros, de 13 de Agosto, publicada no Diário da República, 1.ª série, n.º 200, de 30 do referido mês, mantém-se relativamente ao reforço de 1 milhão e meio de contos de que, por força da Lei n.º 47/80, de 9 de Dezembro, beneficiou a dotação provisional de 9 milhões de contos, inscrita em despesas correntes, no cap. 60 «Despesas excepcionais», div. 05 «Intendência-Geral do Orçamento», do vigente orçamento do Ministério das Finanças e do Plano.
+2 - Igualmente se mantém o disposto no n.º 2 da referida resolução.
+Presidência do Conselho de Ministros, 29 de Dezembro de 1980. - O Vice-Primeiro-Ministro, Diogo Pinto de Freitas do Amaral.
