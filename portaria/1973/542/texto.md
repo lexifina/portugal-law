@@ -1,0 +1,4 @@
+Portaria n.º 542/73
+de 8 de Agosto
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, anular as Portarias n.os 163/73, de 5 de Março, e 237/73, de 3 de Abril, publicadas nas citadas datas, respectivamente, no Diário do Governo, 1.ª série, n.os 54 e 79, por se ter verificado em tempo oportuno o cumprimento das formalidades exigidas para a regularização dos processos respeitantes às coutadas n.os 943 e 549, referentes, respectivamente, às propriedades denominadas «Herdade da Chainça», com uma área de 545 ha, situada na freguesia de Assunção, concelho de Arronches, e «Besteiros», «Besteirinhos» e «Cardeira», com uma área de 563,6270 ha, situadas no concelho de Ponte de Sor.
+Ministério da Economia, 24 de Julho de 1973. - O Secretário de Estado da Agricultura, José Eduardo Mendes Ferrão.
