@@ -1,0 +1,5 @@
+Aviso n.º 10/2000
+Por ordem superior se torna público que, por nota de 14 de Dezembro de 1999, o director-geral da Organização Internacional do Trabalho, na sua qualidade de depositário da Convenção n.º 160 da OIT, relativa às estatísticas do trabalho, adoptada em Genebra em 25 de Junho de 1985, comunicou ter o Governo de Portugal notificado, em 29 de Novembro de 1999, que a referida Convenção foi estendida ao território de Macau. A República Portuguesa mais declarou aceitar, relativamente ao território de Macau, as obrigações decorrentes da parte II da Convenção, com exclusão dos artigos 9.º, n.º 2, 10.º e 11.º
+Portugal é Parte da Convenção, que foi aprovada, para ratificação, pelo Decreto n.º 22/93, de 26 de Junho, publicado no Diário da República, 1.ª série-A, n.º 148, de 26 de Junho de 1993, e foi estendida a Macau pelo Decreto do Presidente da República n.º 211/99, de 9 de Novembro, publicado no Diário da República, 1.ª série-A, n.º 261, de 9 de Novembro de 1999.
+Para ser publicado no Boletim Oficial de Macau.
+Comissão Interministerial sobre Macau, 14 de Dezembro de 1999. - João Maria Rebelo de Andrade Cabral.
