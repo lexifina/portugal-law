@@ -8,6 +8,8 @@ Butalbital - ácido 5-alil-5-isobarbitúrico.
 
 Ciclobarbital - 5-(1-ciclo-hexeno-1-il)-5-etilbarbitúrico.
 
+flunitrazepam
+
 Glutetamida - 2-etil-2-fenilglutarimida.
 
 Mecloqualona - 3-(O-clorofenil)-2-metil-4(3H)-quinazolinona.

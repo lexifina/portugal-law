@@ -26,4 +26,6 @@ Metilfenidato - éster metílico do ácido 2 fenil-2-(2-piperidil) acético.
 
 Tetraidrocanabinol - os seguintes isómeros: (Delta) 6a (10a), (Delta) 6a (7), (Delta) 7, (Delta) 8, (Delta) 9, (Delta) 10, (Delta) (11).
 
+Zipeprol — a-(a-metoxibenzil)-4-(b-metoxifenetil)-1-piperazineetanol.
+
 Os derivados e sais das substâncias inscritas nesta tabela, sempre que a sua existência seja possível, assim como todos os preparados em que estas substâncias estejam associadas a outros compostos, qualquer que seja a acção destes.

@@ -6,11 +6,15 @@ Alprazolam - 8-cloro-1-metil-6-fenil-4 H-s-triazol [4,3-(alfa)] [1,4] benzodiaze
 
 Amfepramona - 2-(dietilamino) propiofenona.
 
+Aminorex — 2-amino-5-fenil-2-oxazolina.
+
 Barbital - ácido 5,5-dietilbarbitúrico.
 
 Benzefetamina - N-benzil-N, -dimetilfenetilamina.
 
 Bromazepam - 7-bromo-1,3-di-hidro-5-(2-piridinil)-2 H-1,4-benzodiazepina-2-ona.
+
+Brotizolam — 2-bromo-4-(0-clorofenil)-9-metil-6H-tieno[3,2-f]-s-triazolo[4,3-a][1,4]diazepina.
 
 Butobarbital - ácido 5, butil-5-etilbarbitúrico.
 
@@ -56,8 +60,6 @@ Fenproporex - (mais ou menos)-3-((alfa)-metilfenitilamina) propionitrilo.
 
 Fludiazepam - 7-cloro-5-(2-fluorofenil)-1,3-di-hidro-1-metil-2H-1,4-benzodiazepina-2-ona.
 
-Flunitrazepam - 5-(2-fluorofenil)-1,3-di-hidro-1-metil-7-nitro-2H-1,4-benzodiazepina-2-ona.
-
 Flurazepam - 7-cloro-1-[2-(dietilamino) etil]-5-(2-fluorofenil)-1,3-di-hidro-2H-1,4-benzodiazepina-2-ona.
 
 Halazepam - 7-cloro-1,3-di-hidro-5-fenil-1-(2,2,2-trifluoretil)-2H-1,4-benzodiazepina-2-on a.
@@ -77,6 +79,8 @@ Medazepam - 7-cloro-2,3-di-hidro-1-metil-5-fenil-1H-1,4-benzodiazepina.
 Mefenorex - (mais ou menos)-N-(3-cloropropil)-a-metilfenetilamina.
 
 Meprobamato - dicarbamato-2-metil-2-propil-1,3-propanediol.
+
+Mesocarbe — 3-(a-metilfenetil)-N-(fenilcarbamoil)sidnona imina.
 
 Metilfenobarbital - ácido-5-etil-1-metil-5-fenilbarbitúrico.
 

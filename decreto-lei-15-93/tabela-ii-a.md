@@ -22,6 +22,8 @@ DPT - dipropiltriptamina.
 
 Eticiclidina, PCE - N-etil-1-fenilciclo-hexilamina.
 
+Etriptamina — 3-(2-aminobutil)indol.
+
 Fenciclidina, PCP - 1-(1-fenilciclo-hexi) piperidina.
 
 Lisergida, LSD, LSD-25-(mais ou menos)-N-N-dietilisergamida; dietilamida do ácido dextro-lisérgico.
@@ -31,6 +33,8 @@ MDMA - 3,4-metilenadioxianfetamina.
 Mescalina - 3,4,5-trimetoxifenetilamina.
 
 4-metilaminorex - (mais ou menos)-cis-2-amino-4-metil-5-fenil-2-oxazolina.
+
+Metcatinona — 2-(metilamino)-1-fenilpropan-1-ona.
 
 MMDA - (mais ou menos)-5-metoxi-3,4-metilenodioxi-(alfa) metilfeniletilamina.
 
