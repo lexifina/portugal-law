@@ -1,0 +1,3 @@
+Despacho Normativo n.º 116/79
+Nos termos do artigo 36.º do Decreto-Lei n.º 149-A/78, de 19 de Junho, estabelece-se que as marcas de cigarros com filtro normal Kart Longo, Negritas Gigante e CT Longo, com as características e os preços estabelecidos no Despacho Normativo n.º 136-A/78, de 15 de Junho, publicado no Diário da República, 1.ª série, de 19 do mesmo mês, passam a designar-se, respectivamente, por Kart King-Size, Negritas King-Size e CT King-Size.
+Ministérios das Finanças e do Plano e da Indústria e Tecnologia, 16 de Maio de 1979. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Indústria e Tecnologia, Álvaro Roque de Pinho Bissaia Barreto.
