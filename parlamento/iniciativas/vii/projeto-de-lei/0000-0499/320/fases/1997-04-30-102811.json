@@ -1,0 +1,808 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "320",
+    "id": "5181",
+    "titulo": "Lei-quadro das empresas municipais e intermunicipais."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1997-04-30",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1233",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1997-04-30",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "5176",
+        "leg": "VII",
+        "nr": "86",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "239",
+            "obs": null,
+            "pag": [
+              "2342-2354"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1997-05-02",
+            "pubLeg": "VII",
+            "pubNr": "67",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/067/1997-05-02/2342?pgs=2342-2354&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "239",
+            "obs": null,
+            "pag": [
+              "2342-2354"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1997-05-02",
+            "pubLeg": "VII",
+            "pubNr": "67",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/067/1997-05-02/2342?pgs=2342-2354&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "P",
+        "titulo": "Cria empresas públicas municipais e intermunicipais."
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "5523",
+        "leg": "VII",
+        "nr": "127",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "239",
+            "obs": null,
+            "pag": [
+              "2342-2354"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1997-05-02",
+            "pubLeg": "VII",
+            "pubNr": "67",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/067/1997-05-02/2342?pgs=2342-2354&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "239",
+            "obs": null,
+            "pag": [
+              "2342-2354"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1997-05-02",
+            "pubLeg": "VII",
+            "pubNr": "67",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/067/1997-05-02/2342?pgs=2342-2354&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Lei-quadro das empresas publicas municipais, intermunicipais e regionais."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1997-04-30",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1217",
+                "nome": "Nuno Abecasis"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48608",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2355-2355"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-02",
+                "pubLeg": "VII",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/067/1997-05-02/2355?pgs=2355&org=PLC"
+              }
+            ],
+            "sumario": "EMPRESAS PUBLICAS MUNICIPAIS E INTERMUNICIPAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1155",
+                "nome": "Manuel Jorge Goes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48609",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2354-2354"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-02",
+                "pubLeg": "VII",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/067/1997-05-02/2354?pgs=2354&org=PLC"
+              }
+            ],
+            "sumario": "EMPRESAS PUBLICAS MUNICIPAIS E INTERMUNICIPAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "324",
+                "nome": "Fernando Pedro Moutinho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48610",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2353-2354"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-02",
+                "pubLeg": "VII",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/067/1997-05-02/2353?pgs=2353-2354&org=PLC"
+              }
+            ],
+            "sumario": "EMPRESAS PUBLICAS MUNICIPAIS E INTERMUNICIPAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1155",
+                "nome": "Manuel Jorge Goes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48611",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2351-2353"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-02",
+                "pubLeg": "VII",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/067/1997-05-02/2351?pgs=2351-2353&org=PLC"
+              }
+            ],
+            "sumario": "EMPRESAS PUBLICAS MUNICIPAIS E INTERMUNICIPAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "82",
+                "nome": "Falcão e Cunha"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48612",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2350-2350"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-02",
+                "pubLeg": "VII",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/067/1997-05-02/2350?pgs=2350&org=PLC"
+              }
+            ],
+            "sumario": "EMPRESAS PUBLICAS MUNICIPAIS E INTERMUNICIPAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48613",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2349-2350"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-02",
+                "pubLeg": "VII",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/067/1997-05-02/2349?pgs=2349-2350&org=PLC"
+              }
+            ],
+            "sumario": "EMPRESAS PUBLICAS MUNICIPAIS E INTERMUNICIPAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1155",
+                "nome": "Manuel Jorge Goes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48614",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2349-2349"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-02",
+                "pubLeg": "VII",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/067/1997-05-02/2349?pgs=2349&org=PLC"
+              }
+            ],
+            "sumario": "EMPRESAS PUBLICAS MUNICIPAIS E INTERMUNICIPAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1385",
+                "nome": "Gonçalo Ribeiro da Costa"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48616",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2348-2349"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-02",
+                "pubLeg": "VII",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/067/1997-05-02/2348?pgs=2348-2349&org=PLC"
+              }
+            ],
+            "sumario": "EMPRESAS PUBLICAS MUNICIPAIS E INTERMUNICIPAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48618",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2347-2347"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-02",
+                "pubLeg": "VII",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/067/1997-05-02/2347?pgs=2347&org=PLC"
+              }
+            ],
+            "sumario": "EMPRESAS PUBLICAS MUNICIPAIS E INTERMUNICIPAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48619",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2346-2347"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-02",
+                "pubLeg": "VII",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/067/1997-05-02/2346?pgs=2346-2347&org=PLC"
+              }
+            ],
+            "sumario": "EMPRESAS PUBLICAS MUNICIPAIS E INTERMUNICIPAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1385",
+                "nome": "Gonçalo Ribeiro da Costa"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48621",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2346-2346"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-02",
+                "pubLeg": "VII",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/067/1997-05-02/2346?pgs=2346&org=PLC"
+              }
+            ],
+            "sumario": "EMPRESAS PUBLICAS MUNICIPAIS E INTERMUNICIPAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1385",
+                "nome": "Gonçalo Ribeiro da Costa"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48625",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2343-2344"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-02",
+                "pubLeg": "VII",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/067/1997-05-02/2343?pgs=2343-2344&org=PLC"
+              }
+            ],
+            "sumario": "EMPRESAS PUBLICAS MUNICIPAIS E INTERMUNICIPAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48627",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2342-2343"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-05-02",
+                "pubLeg": "VII",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/067/1997-05-02/2342?pgs=2342-2343&org=PLC"
+              }
+            ],
+            "sumario": "EMPRESAS PUBLICAS MUNICIPAIS E INTERMUNICIPAIS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "102811",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "109814",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1997-05-02",
+        "pubLeg": "VII",
+        "pubNr": "67",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/067/1997-05-02?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
