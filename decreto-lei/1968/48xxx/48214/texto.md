@@ -1,0 +1,24 @@
+Decreto-Lei n.º 48214
+Entre as medidas programadas pelo Ministério das Finanças no sentido de normalizar os mercados monetário e financeiro, assumem particular importância as que visam estimular a formação da poupança privada, assegurando a sua mais ampla participação no financiamento do desenvolvimento económico nacional.
+Os certificados de aforro, instituídos pelo Decreto-Lei n.º 43453, de 30 de Dezembro de 1960, constituem um dos meios para se atingirem esses objectivos e os resultados já alcançados revelam o interesse que esta forma de poupança despertou no público, e a contribuição que poderá vir a prestar ao financiamento dos empreendimentos a realizar pelo Estado no quadro de planos de fomento.
+Todavia, importa ajustar periòdicamente as condições financeiras dos certificados de aforro às situações dos mercados do dinheiro. Por isso se aprova uma nova tabela de progressão do valor daqueles títulos. Ainda, dada a finalidade que se tem em vista, convém limitar às pequenas poupanças a possibilidade de investimento nesta forma de dívida pública.
+Tal como se verificou relativamente às melhorias introduzidas pelo Decreto-Lei n.º 45643, de 7 de Abril de 1964, os benefícios estabelecidos no presente diploma tornam-se aplicáveis não só aos certificados a emitir, como ainda aos já emitidos.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Os certificados de aforro emitidos ou a emitir, ao abrigo do artigo 14.º do Decreto-Lei n.º 43453, de 30 de Dezembro de 1960, poderão ser reembolsados ou convertidos em renda vitalícia por valor inferior, igual ou superior ao seu valor facial, conforme o tempo que tenha decorrido desde a data de aquisição até à de reembolso ou conversão em renda vitalícia.
+Art. 2.º A partir de 1 de Outubro de 1968, o valor de amortização dos certificados de aforro a que se refere o artigo anterior, em caso de reembolso ou de conversão em renda vitalícia, será calculado de harmonia com a tabela anexa ao presente diploma, a qual abrange um período de dez anos e substituirá a referida no artigo 1.º do Decreto-Lei n.º 45643, de 7 de Abril de 1964.
+§ único. Para além do período de dez anos, o valor de cada certificado será calculado de harmonia com a tabela que oportunamente for aprovada.
+Art. 3.º O limite fixado no artigo 6.º deste diploma e a tabela ou tabelas por que deva determinar-se o valor de amortização dos certificados de aforro podem ser alterados por simples portaria do Ministro das Finanças, mas, em relação aos certificados já emitidos, essas alterações só produzirão efeito se daí não resultarem prejuízos para os aforristas.
+Art. 4.º O reembolso ou a conversão em renda vitalícia de certificados de aforro só poderá ter lugar 60 dias depois da sua emissão.
+Art. 5.º Haverá certificados de aforro com o valor facial correspondente a 1, 5, 10 e 50 unidades de 100$00 cada uma, sendo cada unidade adquirida pela quantia de 70$00.
+Art. 6.º É alterado para 50000$00 o limite fixado no n.º 2.º da Portaria n.º 21038, de 9 de Janeiro de l965, respeitante à soma dos valores faciais dos certificados de aforro que podem ser emitidos a favor de cada pessoa durante o mesmo ano económico.
+Art. 7.º Os certificados de aforro gozam dos direitos, isenções e garantias consignados no artigo 58.º da Lei n.º 1933, de 13 de Fevereiro de 1936, e no artigo 22.º do Decreto-Lei n.º 43453, de 30 de Dezembro de 1960, que lhes forem aplicáveis, incluindo a isenção do imposto sobre as sucessões e doações.
+Art. 8.º São revogados o artigo 13.º e seu § único, o artigo 14.º e seu § único e o artigo 15.º do Decreto n.º 43454, de 30 de Dezembro de 1960.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 22 de Janeiro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Para ser presente à Assembleia Nacional.
+
+Tabela de amortização dos certifica dos de aforro em vigor a partir de 1 de Outubro de 1968
+(ver documento original)
+Ministério das Finanças, 22 de Janeiro de 1968. - O Ministro das Finanças, Ulisses Cruz de Aguiar Cortês.
