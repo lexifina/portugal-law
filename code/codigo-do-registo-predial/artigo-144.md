@@ -1,7 +1,7 @@
 # Artigo 144.º
 
-### (Registos pendentes)
+### (Registos dependentes)
 
-1 - No caso de recusa, julgados procedentes o recurso ou a reclamação, ou reparada a decisão pelo conservador, anotar-se-á a caducidade dos registos provisórios incompatíveis com o acto recusado e converter-se-ão oficiosamente os registos dependentes.
+1 - No caso de recusa, julgados procedentes a reclamação, o recurso hierárquico ou o recurso contencioso, deve anotar-se a caducidade dos registos provisórios incompatíveis com o acto inicialmente recusado e converter-se oficiosamente os registos dependentes.
 
-2 - Verificando-se a caducidade do direito de impugnação, ou qualquer dos factos previstos no n.º 2 do artigo anterior, é anotada a caducidade dos registos dependentes e são convertidos os registos incompatíveis.
+2 - Verificando-se a caducidade do direito de impugnação ou qualquer dos factos previstos no n.º 2 do artigo 149.º, é anotada a caducidade dos registos dependentes e são convertidos os registos incompatíveis.

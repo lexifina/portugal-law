@@ -14,4 +14,8 @@ d) No caso do n.º 3 do artigo 9.º, a expressa advertência aos interessados da
 
 e) A manifestação da vontade dos interessados que não queiram registar, para os efeitos do disposto no n.º 2 do artigo 39.º
 
-2 - Da certidão dos actos referidos no número anterior, passada para fins de registo, devem constar todos os elementos aí previstos.
+2 - Os documentos comprovativos da descrição e do teor da inscrição matricial devem ter sido passados com antecedência não superior a seis meses em relação à data do título.
+
+3 - Se o prédio não estiver descrito, deve ser comprovada essa circunstância por certidão passada pela conservatória com antecedência não superior a três meses.
+
+4 - Da certidão dos actos referidos no n.º 1, passada para fins de registo, devem constar todos os elementos aí previstos.

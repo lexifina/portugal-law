@@ -8,7 +8,7 @@
 
 a) A expropriação, a venda executiva, a penhora, o arresto, a apreensão em processo de falência ou insolvência e outras providências que afectem a livre disposição dos imóveis;
 
-b) Os actos de transmissão ou oneração outorgados por quem tenha adquirido, em instrumento lavrado no mesmo dia e no mesmo cartório, os bens transmitidos ou onerados;
+b) Os actos de transmissão ou oneração outorgados por quem tenha adquirido, em instrumento lavrado no mesmo dia, os bens transmitidos ou onerados:
 
 c) Os casos de urgência devidamente justificada por perigo de vida dos outorgantes.
 

@@ -10,4 +10,6 @@ b) Quando os documentos não respeitarem a actos de registo predial;
 
 c) Quando a apresentação pelo correio não obedecer ao preceituado no artigo anterior.
 
-2 - No caso de ser rejeitada a apresentação, o impresso-requisição será devolvido com despacho justificativo do conservador.
+d) Quando o pedido não for feito em impresso de modelo aprovado, salvo nos casos de rectificação de registo e de anotação não oficiosa prevista na lei.
+
+2 - No caso de ser rejeitada, a requisição é devolvida com despacho justificativo do conservador.

@@ -10,8 +10,8 @@
 
 2 - As requisições não têm apresentação e devem conter, além da identificação do requisitante, o número da descrição e a freguesia dos prédios ou fracções autónomas a que respeitem.
 
-3 - Os duplicados das requisições são arquivados em maços mensais.
+3 - Tratando-se de prédio não descrito deve indicar-se a natureza do prédio, a sua situação, as confrontações, o artigo da matriz e o nome, estado e residência do proprietário ou possuidor actual, bem como dos dois imediatamente anteriores, salvo, quanto a estes, se o requisitante alegar na requisição as razões justificativas do seu desconhecimento.
 
-4 - Tratando-se de prédio não descrito deve indicar-se a natureza do prédio, a sua situação, as confrontações, o artigo da matriz e o nome, estado e residência do proprietário ou possuidor actual, bem como dos dois imediatamente anteriores, salvo, quando a estes, se o requisitante alegar na requisição as razões justificativas do seu desconhecimento.
+4 - Se a requisição respeitar a quota-parte de prédio indiviso, deve conter o nome, estado e residência de todos os comproprietários.
 
-5 - Se a requisição respeitar a quota-parte de prédio indiviso, deve conter o nome, estado e residência de todos os comproprietários.
+5 - Podem ser pedidas verbalmente fotocópias com valor de certidão dos registos e despachos e de quaisquer documentos.
