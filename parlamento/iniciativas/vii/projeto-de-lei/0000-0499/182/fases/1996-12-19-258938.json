@@ -1,0 +1,942 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "182",
+    "id": "5420",
+    "titulo": "Contagem especial do tempo de prisão e de clandestinidade por razões politicas para efeitos de pensão de velhice ou de invalidez"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1996-12-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "6744",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1996-12-19",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1996-12-19",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1084",
+                "nome": "Maria José Nogueira Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50243",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "844-845"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-20",
+                "pubLeg": "VII",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/021/1996-12-20/844?pgs=844-845&org=PLC"
+              }
+            ],
+            "sumario": "CONTAGEM ESPECIAL TEMPO PRISAO E CLANDESTINIDADE POR RAZOESPOLITICAS PARA EFEITOS DE PENSAO DE VELHICE OU INVALIDEZ.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1084",
+                "nome": "Maria José Nogueira Pinto"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50267",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "836-837"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-20",
+                "pubLeg": "VII",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/021/1996-12-20/836?pgs=836-837&org=PLC"
+              }
+            ],
+            "sumario": "CONTAGEM ESPECIAL TEMPO PRISAO E CLANDESTINIDADE POR RAZOESPOLITICAS PARA EFEITOS PENSAO DE VELHICE OU INVALIDEZLIDEZ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50269",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "836-836"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-20",
+                "pubLeg": "VII",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/021/1996-12-20/836?pgs=836&org=PLC"
+              }
+            ],
+            "sumario": "CONTAGEM ESPECIAL TEMPO PRISAO E CLANDESTINIDADE POR RAZOESPOLITICAS PARA EFEITOS PENSAO DE VELHICE OU INVALIDEZ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "167",
+                "nome": "Fernando Pereira Marques"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50275",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "836-836"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-20",
+                "pubLeg": "VII",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/021/1996-12-20/836?pgs=836&org=PLC"
+              }
+            ],
+            "sumario": "CONTAGEM ESPECIAL TEMPO PRISAO E CLANDESTINIDADE POR RAZOESPOLITICAS PARA EFEITOS PENSAO DE VELHICE OU INVALIDEZ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1084",
+                "nome": "Maria José Nogueira Pinto"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50277",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "835-836"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-20",
+                "pubLeg": "VII",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/021/1996-12-20/835?pgs=835-836&org=PLC"
+              }
+            ],
+            "sumario": "CONTAGEM ESPECIAL TEMPO PRISAO E CLANDESTINIDADE POR RAZOESPOLITICAS PARA EFEITOS PENSAO DE VELHICE OU INVALIDEZ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "815",
+                "nome": "José Calçada"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50278",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "835-836"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-20",
+                "pubLeg": "VII",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/021/1996-12-20/835?pgs=835-836&org=PLC"
+              }
+            ],
+            "sumario": "CONTAGEM ESPECIAL TEMPO PRISAO E CLANDESTINIDADE POR RAZOESPOLITICAS PARA EFEITOS PENSAO DE VELHICE OU INVALIDEZ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1084",
+                "nome": "Maria José Nogueira Pinto"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50279",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "835-835"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-20",
+                "pubLeg": "VII",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/021/1996-12-20/835?pgs=835&org=PLC"
+              }
+            ],
+            "sumario": "CONTAGEM ESPECIAL TEMPO PRISAO E CLANDESTINIDADE POR RAZOESPOLITICAS PARA EFEITOS PENSAO DE VELHICE OU INVALIDEZ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "148",
+                "nome": "Marques Júnior"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50281",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "835-835"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-20",
+                "pubLeg": "VII",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/021/1996-12-20/835?pgs=835&org=PLC"
+              }
+            ],
+            "sumario": "CONTAGEM ESPECIAL TEMPO PRISAO E CLANDESTINIDADE POR RAZOESPOLITICAS PARA EFEITOS PENSAO DE VELHICE OU INVALIDEZ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1165",
+                "nome": "Raimundo Narciso"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50282",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "834-834"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-20",
+                "pubLeg": "VII",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/021/1996-12-20/834?pgs=834&org=PLC"
+              }
+            ],
+            "sumario": "CONTAGEM ESPECIAL TEMPO PRISAO E CLANDESTINIDADE POR RAZOESPOLITICAS PARA EFEITOS PENSAO DE VELHICE OU INVALIDEZ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1084",
+                "nome": "Maria José Nogueira Pinto"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50283",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "833-834",
+                  "835-835"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-20",
+                "pubLeg": "VII",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/021/1996-12-20/833?pgs=833-834,835&org=PLC"
+              }
+            ],
+            "sumario": "CONTAGEM ESPECIAL TEMPO PRISAO E CLANDESTINIDADE POR RAZOESPOLITICAS PARA EFEITOS PENSAO DE VELHICE OU INVALIDEZ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1165",
+                "nome": "Raimundo Narciso"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50284",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "833-833"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-20",
+                "pubLeg": "VII",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/021/1996-12-20/833?pgs=833&org=PLC"
+              }
+            ],
+            "sumario": "CONTAGEM ESPECIAL TEMPO PRISAO E CLANDESTINIDADE POR RAZOESPOLITICAS PARA EFEITOS PENSAO DE VELHICE OU INVALIDEZ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50285",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "831-831"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-20",
+                "pubLeg": "VII",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/021/1996-12-20/831?pgs=831&org=PLC"
+              }
+            ],
+            "sumario": "CONTAGEM ESPECIAL TEMPO PRISAO E CLANDESTINIDADE POR RAZOESPOLITICAS PARA EFEITOS PENSAO DE VELHICE OU INVALIDEZ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "123",
+                "nome": "Miguel Macedo"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50286",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "833-833"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-20",
+                "pubLeg": "VII",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/021/1996-12-20/833?pgs=833&org=PLC"
+              }
+            ],
+            "sumario": "CONTAGEM ESPECIAL TEMPO PRISAO E CLANDESTINIDADE POR RAZOESPOLITICAS PARA EFEITOS PENSAO DE VELHICE OU INVALIDEZ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "167",
+                "nome": "Fernando Pereira Marques"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50287",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "832-832"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-20",
+                "pubLeg": "VII",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/021/1996-12-20/832?pgs=832&org=PLC"
+              }
+            ],
+            "sumario": "CONTAGEM ESPECIAL TEMPO PRISAO E CLANDESTINIDADE POR RAZOESPOLITICAS PARA EFEITOS PENSAO DE VELHICE OU INVALIDEZ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "167",
+                "nome": "Fernando Pereira Marques"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50289",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "831-832"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-20",
+                "pubLeg": "VII",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/021/1996-12-20/831?pgs=831-832&org=PLC"
+              }
+            ],
+            "sumario": "CONTAGEM ESPECIAL TEMPO PRISAO E CLANDESTINIDADE POR RAZOESPOLITICAS PARA EFEITOS PENSAO DE VELHICE OU INVALIDEZ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "123",
+                "nome": "Miguel Macedo"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50290",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "830-831",
+                  "832-833"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-20",
+                "pubLeg": "VII",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/021/1996-12-20/830?pgs=830-831,832-833&org=PLC"
+              }
+            ],
+            "sumario": "CONTAGEM ESPECIAL TEMPO PRISAO E CLANDESTINIDADE POR RAZOESPOLITICAS PARA EFEITOS PENSAO DE VELHICE OU INVALIDEZ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50295",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "830-830"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-20",
+                "pubLeg": "VII",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/021/1996-12-20/830?pgs=830&org=PLC"
+              }
+            ],
+            "sumario": "CONTAGEM ESPECIAL TEMPO PRISAO E CLANDESTINIDADE POR RAZOESPOLITICAS PARA EFEITOS PENSAO DE VELHICE OU INVALIDEZ",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "167",
+                "nome": "Fernando Pereira Marques"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50298",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "828-839"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-12-20",
+                "pubLeg": "VII",
+                "pubNr": "21",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/021/1996-12-20/828?pgs=828-839&org=PLC"
+              }
+            ],
+            "sumario": "CONTAGEM ESPECIAL TEMPO PRISAO E CLANDESTINIDADE POR RAZOESPOLITICAS PARA EFEITOS PENSAO DE VELHICE OU INVALIDEZ",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "258938",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "6744",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1996-12-20",
+        "pubLeg": "VII",
+        "pubNr": "21",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/021/1996-12-20?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
