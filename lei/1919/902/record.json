@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1919/10/20600/21352135.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1919-10-11",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "40e177c82c7bd55adced39782540023fa7196f9d2abb46b074d6897ffdaf7ad9",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.8,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "6b54b1be3ef22cb7f68268983e63ac79b84f6e9271dc11a9e108e7be5beee1e7",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 160
 }
