@@ -1,0 +1,26 @@
+Decreto-Lei n.º 357/79
+de 31 de Agosto
+O Decreto-Lei n.º 313/78, de 27 de Outubro, reestrutura a carreira de graduados da Guarda Fiscal.
+Considerando que este diploma cria os postos de sargento-chefe e de sargento-mor;
+Considerando que os sargentos-chefes possuem, em virtude da sua formação, qualificações técnicas para o desempenho das funções de tesoureiros dos conselhos administrativos;
+Nestes termos:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º O artigo 2.º do Decreto-Lei n.º 468/75, de 28 de Agosto, passa a ter a seguinte redacção:
+Art. 2.º - 1 - Os conselhos administrativos dos batalhões terão a seguinte composição:
+Presidente, o 2.º comandante da unidade;
+Chefe de contabilidade e vogal relator, um capitão ou subalterno do serviço de administração militar;
+Tesoureiro, um capitão ou subalterno du quadro do serviço geral do Exército ou do quadro de complemento ou um sargento-chefe.
+2 - ...
+3 - ...
+Art. 2.º O artigo 3.º do Decreto-Lei n.º 313/78, de 27 de Outubro, passa a ter a seguinte redacção:
+Art. 3.º - 1 - ...
+2 - ...
+...
+b) Sargento-chefe. - Elemento das repartições ou serviços do Comando-Geral e dos batalhões, estado-maior dos comandantes dos batalhões e do Centro de Instrução ou unidades equivalentes e das companhias independentes e ainda o exercício de chefia em órgãos técnicos;
+...
+3 - ...
+4 - ...
+Visto e aprovado em Conselho de Ministros de 31 de Julho de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes.
+Promulgado em 9 de Agosto de 1979.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
