@@ -1,0 +1,8 @@
+Decreto-Lei n.º 43305
+A natureza especial da actividade de alguns serviços do Ministério das Obras Públicas, principalmente a relacionada com os trabalhos de dragagens e reparação do respectivo equipamento e com a de construção de pontes, não permite a interrupção dos trabalhos, obrigando frequentemente o pessoal operário e de fiscalização a prolongar o seu serviço para além do horário normal.
+Assim, nos termos do disposto da alínea a) do artigo 42.º do Decreto-Lei n.º 26115, de 23 de Novembro de 1935;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Fica autorizado o pagamento da remuneração por trabalhos extraordinários, não só ao pessoal operário oficinal e marítimo da Divisão de Dragagens da Direcção-Geral dos Serviços Hidráulicos, como também ao pessoal assalariado em serviço na Junta Autónoma de Estradas.
+Art. 2.º As disposições deste decreto-lei têm efeitos a partir de 1 de Janeiro do corrente ano no que se refere ao pessoal da Divisão de Dragagens da Direcção-Geral dos Serviços Hidráulicos.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 11 de Novembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
