@@ -1,0 +1,12 @@
+Portaria n.º 24274
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, ao abrigo do disposto no artigo 4.º do Decreto-Lei n.º 49192, de 18 de Agosto de 1969, o seguinte:
+1.º A habilitação ao direito do subsídio de guarnição far-se-á com a entrega pelos interessados, devidamente preenchido e em duplicado, de um boletim do modelo a fixar pelo Ministro da Marinha.
+Sempre que haja alteração nas declarações anteriormente prestadas, deverá o interessado preencher um novo boletim, também em duplicado.
+2.º As declarações do interessado serão confirmadas pelo imediato, subdirector ou oficial que exercer funções análogas na unidade, serviço ou organismo onde o militar estiver a prestar serviço, para o que recorrerá aos averbamentos registados nos documentos existentes nos respectivos arquivos. Na falta da confirmação, poderão ser admitidas, como meio de prova, declarações prestadas por dois militares de posto igual ou superior ao do interessado.
+3.º A prova de incapacidade física, nos termos do n.º 2 do Decreto-Lei n.º 49192, terá de ser feita sempre por atestado médico, fixando-se em seis meses o período da respectiva validade.
+4.º O boletim a que se refere o n.º 1.º será entregue, em duplicado, pelo interessado, no serviço do detalhe ou na secretaria da unidade, serviço ou organismo onde o militar estiver a prestar serviço, que imediatamente remeterá ao respectivo conselho administrativo.
+5.º O conselho administrativo ficará com um dos exemplares do boletim no seu arquivo, enquanto liquidar o subsídio ao interessado, devendo, quando se verificar transferência do militar ou passagem em diligência que se prolongue por período igual ou superior a um mês, remetê-lo ao conselho administrativo que passar a fazer essa liquidação. O outro exemplar do boletim será, acompanhado de nota, enviado à 3.ª Repartição da Intendência dos Serviços de Administração Financeira da Marinha.
+6.º Os conselhos administrativos liquidarão o abono do subsídio, incluindo-o na respectiva folha de vencimentos, mas não o poderão fazer sem primeiro terem recebido, devidamente preenchidos, os boletins em duplicado.
+7.º A 3.ª Repartição da Intendência dos Serviços de Administração Financeira da Marinha verificará o direito que o interessado tem ao abono do subsídio e conferirá a sua liquidação pela respectiva folha de vencimentos.
+8.º As dúvidas ou casos omissos serão resolvidos por despacho do Ministro da Marinha.
+Ministério da Marinha, 8 de Setembro de 1969. - O Ministro da Marinha, Manuel Pereira Crespo.
