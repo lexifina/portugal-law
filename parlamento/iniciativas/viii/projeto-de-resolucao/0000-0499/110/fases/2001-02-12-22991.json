@@ -1,0 +1,451 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "110",
+    "id": "5755",
+    "titulo": "Em defesa do ensino e divulgação da língua e da cultura portuguesa no estrangeiro"
+  },
+  "fase": "Entrada",
+  "codigo_fase": "10",
+  "data_registo": "2001-02-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "10",
+    "Comissao": null,
+    "DataFase": "2001-02-12",
+    "EvtId": "1",
+    "Fase": "Entrada",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-04-04",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "77",
+                "nome": "José Cesário"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138193",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2689-2690"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-05",
+                "pubLeg": "VIII",
+                "pubNr": "68",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/068/2001-04-05/2689?pgs=2689-2690&org=PLC"
+              }
+            ],
+            "sumario": "POLÍTICA DE DEFESA DO ENSINO E DIVULGAÇÃO DA LINGUA E DA CULTURA PORTUGUESAS NO ESTRANGEIRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "161",
+                "nome": "Carlos Luís"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138194",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2690-2691"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-05",
+                "pubLeg": "VIII",
+                "pubNr": "68",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/068/2001-04-05/2690?pgs=2690-2691&org=PLC"
+              }
+            ],
+            "sumario": "POLÍTICA DE DEFESA DO ENSINO E DIVULGAÇÃO DA LINGUA E DA CULTURA PORTUGUESAS NO ESTRANGEIRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1485",
+                "nome": "Rodeia Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138195",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2691-2692"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-05",
+                "pubLeg": "VIII",
+                "pubNr": "68",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/068/2001-04-05/2691?pgs=2691-2692&org=PLC"
+              }
+            ],
+            "sumario": "POLÍTICA DE DEFESA DO ENSINO E DIVULGAÇÃO DA LINGUA E DA CULTURA PORTUGUESAS NO ESTRANGEIRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "152",
+                "nome": "António Braga"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138196",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2693-2693",
+                  "2695-2696"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-05",
+                "pubLeg": "VIII",
+                "pubNr": "68",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/068/2001-04-05/2693?pgs=2693,2695-2696&org=PLC"
+              }
+            ],
+            "sumario": "POLÍTICA DE DEFESA DO ENSINO E DIVULGAÇÃO DA LINGUA E DA CULTURA PORTUGUESAS NO ESTRANGEIRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1652",
+                "nome": "Fernando Rosas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138197",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2693-2694"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-05",
+                "pubLeg": "VIII",
+                "pubNr": "68",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/068/2001-04-05/2693?pgs=2693-2694&org=PLC"
+              }
+            ],
+            "sumario": "POLÍTICA DE DEFESA DO ENSINO E DIVULGAÇÃO DA LINGUA E DA CULTURA PORTUGUESAS NO ESTRANGEIRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138198",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2694-2695"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-05",
+                "pubLeg": "VIII",
+                "pubNr": "68",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/068/2001-04-05/2694?pgs=2694-2695&org=PLC"
+              }
+            ],
+            "sumario": "POLÍTICA DE DEFESA DO ENSINO E DIVULGAÇÃO DA LINGUA E DA CULTURA PORTUGUESAS NO ESTRANGEIRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  ADMINISTRAÇÃO  EDUCATIVA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Maria Jose Rau"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138199",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2696-2697"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-05",
+                "pubLeg": "VIII",
+                "pubNr": "68",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/068/2001-04-05/2696?pgs=2696-2697&org=PLC"
+              }
+            ],
+            "sumario": "POLÍTICA DE DEFESA DO ENSINO E DIVULGAÇÃO DA LINGUA E DA CULTURA PORTUGUESAS NO ESTRANGEIRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "77",
+                "nome": "José Cesário"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138200",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2697-2697"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-05",
+                "pubLeg": "VIII",
+                "pubNr": "68",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/068/2001-04-05/2697?pgs=2697&org=PLC"
+              }
+            ],
+            "sumario": "POLÍTICA DE DEFESA DO ENSINO E DIVULGAÇÃO DA LINGUA E DA CULTURA PORTUGUESAS NO ESTRANGEIRO",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "22991",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-04-05",
+        "pubLeg": "VIII",
+        "pubNr": "68",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/068/2001-04-05?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
