@@ -1,0 +1,824 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "89",
+    "id": "6226",
+    "titulo": "Democratização das comissões de coordenação regional"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2000-06-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1702",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2000-06-08",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "6109",
+        "leg": "VIII",
+        "nr": "172",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "434",
+            "obs": null,
+            "pag": [
+              "2975-2999"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-06-09",
+            "pubLeg": "VIII",
+            "pubNr": "76",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/076/2000-06-09/2975?pgs=2975-2999&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Criação dos Institutos Regionais"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-06-08",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27497",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2998-2999"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-09",
+                "pubLeg": "VIII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/076/2000-06-09/2998?pgs=2998-2999&org=PLC"
+              }
+            ],
+            "sumario": "DEMOCRATIZACAO DAS COMISSOES DE COORDENACAO REGIONAL E CRIACAO DE INSTITUTOS REGIONAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "682",
+                "nome": "José Miguel Medeiros"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27498",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2995-2997"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-09",
+                "pubLeg": "VIII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/076/2000-06-09/2995?pgs=2995-2997&org=PLC"
+              }
+            ],
+            "sumario": "DEMOCRATIZACAO DAS COMISSOES DE COORDENACAO REGIONAL E CRIACAO DE INSTITUTOS REGIONAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "281",
+                "nome": "Álvaro Amaro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27499",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2993-2995"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-09",
+                "pubLeg": "VIII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/076/2000-06-09/2993?pgs=2993-2995&org=PLC"
+              }
+            ],
+            "sumario": "DEMOCRATIZACAO DAS COMISSOES DE COORDENACAO REGIONAL E CRIACAO DE INSTITUTOS REGIONAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1677",
+                "nome": "Bruno Almeida"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27500",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2989-2993"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-09",
+                "pubLeg": "VIII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/076/2000-06-09/2989?pgs=2989-2993&org=PLC"
+              }
+            ],
+            "sumario": "DEMOCRATIZACAO DAS COMISSOES DE COORDENACAO REGIONAL E CRIACAO DE INSTITUTOS REGIONAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "211",
+                "nome": "João Amaral"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27501",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2988-2989",
+                  "2992-2993",
+                  "2997-2997"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-09",
+                "pubLeg": "VIII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/076/2000-06-09/2988?pgs=2988-2989,2992-2993,2997&org=PLC"
+              }
+            ],
+            "sumario": "DEMOCRATIZACAO DAS COMISSOES DE COORDENACAO REGIONAL E CRIACAO DE INSTITUTOS REGIONAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "192",
+                "nome": "José Penedos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27502",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2988-2988"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-09",
+                "pubLeg": "VIII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/076/2000-06-09/2988?pgs=2988&org=PLC"
+              }
+            ],
+            "sumario": "DEMOCRATIZACAO DAS COMISSOES DE COORDENACAO REGIONAL E CRIACAO DE INSTITUTOS REGIONAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27503",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-09",
+                "pubLeg": "VIII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/076/2000-06-09?org=PLC"
+              }
+            ],
+            "sumario": "DEMOCRATIZACAO DAS COMISSOES DE COORDENACAO REGIONAL E CRIACAO DE INSTITUTOS REGIONAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1176",
+                "nome": "Casimiro Ramos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27504",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2985-2985"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-09",
+                "pubLeg": "VIII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/076/2000-06-09/2985?pgs=2985&org=PLC"
+              }
+            ],
+            "sumario": "DEMOCRATIZACAO DAS COMISSOES DE COORDENACAO REGIONAL E CRIACAO DE INSTITUTOS REGIONAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "132",
+                "nome": "Rui Rio"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27505",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2985-2985"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-09",
+                "pubLeg": "VIII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/076/2000-06-09/2985?pgs=2985&org=PLC"
+              }
+            ],
+            "sumario": "DEMOCRATIZACAO DAS COMISSOES DE COORDENACAO REGIONAL E CRIACAO DE INSTITUTOS REGIONAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1262",
+                "nome": "Francisco de Assis"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27507",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2984-2985"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-09",
+                "pubLeg": "VIII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/076/2000-06-09/2984?pgs=2984-2985&org=PLC"
+              }
+            ],
+            "sumario": "DEMOCRATIZACAO DAS COMISSOES DE COORDENACAO REGIONAL E CRIACAO DE INSTITUTOS REGIONAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "132",
+                "nome": "Rui Rio"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27508",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2981-2989"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-09",
+                "pubLeg": "VIII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/076/2000-06-09/2981?pgs=2981-2989&org=PLC"
+              }
+            ],
+            "sumario": "DEMOCRATIZACAO DAS COMISSOES DE COORDENACAO REGIONAL E CRIACAO DE INSTITUTOS REGIONAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27509",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2980-2981"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-09",
+                "pubLeg": "VIII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/076/2000-06-09/2980?pgs=2980-2981&org=PLC"
+              }
+            ],
+            "sumario": "DEMOCRATIZACAO DAS COMISSOES DE COORDENACAO REGIONAL E CRIACAO DE INSTITUTOS REGIONAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1242",
+                "nome": "João Moura de Sá"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27510",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2979-2980"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-09",
+                "pubLeg": "VIII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/076/2000-06-09/2979?pgs=2979-2980&org=PLC"
+              }
+            ],
+            "sumario": "DEMOCRATIZACAO DAS COMISSOES DE COORDENACAO REGIONAL E CRIACAO DE INSTITUTOS REGIONAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27511",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2978-2978"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-09",
+                "pubLeg": "VIII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/076/2000-06-09/2978?pgs=2978&org=PLC"
+              }
+            ],
+            "sumario": "DEMOCRATIZACAO DAS COMISSOES DE COORDENACAO REGIONAL E CRIACAO DE INSTITUTOS REGIONAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "211",
+                "nome": "João Amaral"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27512",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2975-2981",
+                  "2997-2998"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-09",
+                "pubLeg": "VIII",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/076/2000-06-09/2975?pgs=2975-2981,2997-2998&org=PLC"
+              }
+            ],
+            "sumario": "DEMOCRATIZACAO DAS COMISSOES DE COORDENACAO REGIONAL E CRIACAO DE INSTITUTOS REGIONAIS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "105242",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "111127",
+        "obs": null,
+        "pag": [
+          "2975-2999"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-06-09",
+        "pubLeg": "VIII",
+        "pubNr": "76",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/076/2000-06-09/2975?pgs=2975-2999&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
