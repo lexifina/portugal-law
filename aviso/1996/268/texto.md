@@ -1,0 +1,3 @@
+Aviso n.º 268/96
+Por ordem superior se torna público que o representante permanente de Portugal junto do Conselho da Europa, embaixador Álvaro Guerra, e o Sr. Bruno Haller, em nome do Secretário-Geral do Conselho da Europa, procederam, em 27 de Agosto de 1996, à troca dos instrumentos de ratificação do Acordo Suplementar ao Acordo Geral sobre Privilégios e Imunidades do Conselho da Europa, referente ao Centro Europeu para a Interdependência e Solidariedade Mundiais, assinado entre Portugal e o Conselho da Europa em 15 de Dezembro de 1994.
+Direcção de Serviços das Organizações Políticas Internacionais, 30 de Agosto de 1996. - O Director de Serviços, João José Gomes Caetano da Silva.
