@@ -1,0 +1,18 @@
+Decreto n.º 85/80
+de 19 de Setembro
+Existindo no quadro do Serviço Nacional de Ambulâncias um lugar de adjunto de chefe de secretaria, com a letra J, que nunca chegou a ser provido, por se considerar desnecessário;
+Considerando que o Decreto-Lei n.º 191-C/79 veio atribuir a letra J aos lugares de primeiro-oficial;
+Havendo conveniência para o Serviço em extinguir o referido lugar e criar em sua substituição um outro de primeiro-oficial, com a consequente adaptação do Decreto n.º 494-A/75, de 10 de Setembro:
+O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
+Artigo 1.º É extinto o lugar de adjunto de chefe de secretaria constante do quadro de pessoal anexo ao Decreto n.º 494-A/75, de 10 de Setembro.
+Art. 2.º É criado no mesmo quadro mais um lugar de primeiro-oficial.
+Art. 3.º As alíneas c) e f) do n.º 1 do artigo 27.º do Decreto n.º 494-A/75 passam a ter a seguinte redacção:
+Art. 27.º - 1 - ...
+...
+c) Chefe de secretaria, de entre indivíduos diplomados com curso superior adequado ao exercício das respectivas funções ou de entre primeiros-oficiais com pelo menos três anos de bom e efectivo serviço na categoria;
+...
+f) Primeiros-oficiais e segundos-oficiais, de entre, respectivamente, segundos-oficiais e terceiros-oficiais com pelo menos três anos de bom e efectivo serviço na categoria.
+Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Adelino Manuel Lopes Amaro da Costa - Aníbal António Cavaco Silva.
+Promulgado em 1 de Setembro de 1980.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
