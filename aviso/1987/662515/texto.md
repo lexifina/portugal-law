@@ -1,0 +1,6 @@
+Aviso
+Por ordem superior se torna público ter o Secretariado Permanente da Conferência da Haia de Direito Internacional Privado feito saber que o Reino dos Países Baixos designou, conforme o artigo 2 da Convenção sobre a Obtenção de Provas no Estrangeiro em Matéria Civil ou Comercial (concluída na Haia aos 18 de Março de 1970 e em vigor desde 7 de Outubro de 1972), como Autoridade Central para a ilha de Aruba o «Procurer-Generaal in Aruba van het Gemeenschappelijk Hof van Justitie van de Nederlandse Antillen en Aruba» (Procurador-Geral em Aruba junto do Tribunal de Justiça comum às Antilhas Holandesas e a Aruba).
+A Convenção é aplicável a Aruba, sujeita às mesmas declarações feitas aquando da sua ratificação, em 8 de Abril de 1981, pelo Reino dos Países Baixos para o Reino na Europa.
+Além disso, conforme o artigo 4, parágrafos 3 e 4, Aruba não aceitará cartas rogatórias redigidas em língua francesa, a não ser que venham acompanhadas de uma tradução em língua holandesa, inglesa ou espanhola.
+Portugal é parte no instrumento diplomático em apreço.
+Secretaria-Geral do Ministério, 10 de Fevereiro de 1987. - O Director do Serviço jurídico e de Tratados, Fernão Manuel Homem de Gouveia Fávila Vieira.
