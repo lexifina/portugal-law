@@ -1,0 +1,122 @@
+Portaria n.º 63/94
+de 28 de Janeiro
+A sociedade SAPEC - Parques Industriais, S. A., requereu ao Ministro do Planeamento e da Administração do Território, nos termos do disposto no n.º 1 do artigo 5.º do Decreto-Lei n.º 232/92, de 22 de Outubro, autorização para a instalação de um parque industrial no concelho de Setúbal.
+A pretensão referida mereceu parecer favorável da CP - Caminhos de Ferro Portugueses, da EDP - Electricidade de Portugal, da Junta Autónoma de Estradas, da Administração dos Portos de Setúbal e Sesimbra, da Direcção-Geral da Indústria, da Direcção Regional da Indústria e Energia de Lisboa e Vale do Tejo, da Direcção-Geral de Transportes Terrestres, do Instituto Português do Património Arquitectónico e Arqueológico, da Direcção-Geral do Ordenamento do Território, da Comissão de Coordenação Regional de Lisboa e Vale do Tejo e da Câmara Municipal de Setúbal.
+Foram cumpridas todas as formalidades exigidas pelo Decreto-Lei n.º 232/92, de 22 de Outubro.
+O projecto de parque industrial foi submetido a estudo de impacte ambiental nos termos da alínea e) do n.º 4 do artigo 5.º do Decreto-Lei n.º 232/92, de 22 de Outubro.
+Todavia, o estudo realizado não obsta que a instalação de unidades industriais não seja também objecto de estudo de impacte ambiental, quando tal seja exigível nos termos do Decreto-Lei n.º 186/90, de 6 de Julho, e do Decreto Regulamentar n.º 38/90, de 27 de Novembro.
+Refira-se, por outro lado, que, estando em vigor na área do Parque Industrial as normas provisórias do Plano Director Municipal de Setúbal, publicadas no Diário da República, 2.ª série, n.º 219, de 22 de Setembro de 1992, estas normas, assim como quaisquer outras que sejam previstas em plano regional ou municipal de ordenamento do território, prevalecem, enquanto vigorarem, sobre as normas do Regulamento do Parque Industrial.
+Assim:
+Manda o Governo, pelos Ministros do Planeamento e da Administração do Território e da Indústria e Energia, nos termos do artigo 4.º do Decreto-Lei n.º 232/92, de 22 de Outubro, que seja autorizada a instalação do Parque Industrial - Sapec Bay, que se rege pelo Regulamento e planta de síntese anexos à presente portaria e que dela fazem parte integrante.
+Ministérios do Planeamento e da Administração do Território e da Indústria e Energia.
+Assinada em 6 de Janeiro de 1994.
+O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
+
+Regulamento do Parque Industrial - Sapec Bay
+Artigo 1.º
+Objecto
+O presente Regulamento estabelece as normas que disciplinam a instalação e gestão do Parque Industrial - Sapec Bay, adiante abreviadamente designado por Parque Industrial.
+Artigo 2.º
+Área e localização
+O Parque Industrial ocupa uma área de 3606499 m2, delimitada na planta de síntese publicada em anexo, e que corresponde aos prédios que integram a Herdade das Praias, freguesia do Sado, município de Setúbal.
+Artigo 3.º
+Ocupação dos solos
+1 - O índice global de ocupação dos solos é de 0,3, correspondendo ao coeficiente entre a soma das áreas de implantação dos edifícios e a área total do Parque Industrial.
+2 - A área de ocupação dos solos é de 1081950 m2, correspondendo à soma das áreas de implantação dos edifícios.
+Artigo 4.º
+Zonamento
+A área do Parque Industrial integra, de acordo com a planta de síntese publicada em anexo, as seguintes zonas:
+a) Zona industrial existente;
+b) Zona industrial de expansão;
+c) Zonas de terciário;
+d) Zonas de protecção.
+Artigo 5.º
+Zonas industriais
+1 - Nas zonas referidas nas alíneas a) e b) do artigo 4.º, o uso dominante dos solos é a indústria.
+2 - São interditas todas as actividades e utilizações que prejudiquem ou comprometam o referido uso dominante, sem prejuízo do disposto no número seguinte.
+3 - Poderão ser autorizadas actividades e utilizações complementares às do uso dominante, desde que contribuam para o seu desenvolvimento e valorização.
+Artigo 6.º
+Zonas de terciário
+As zonas referidas na alínea c) do artigo 4.º são predominantemente destinadas a serviços, comércio, equipamentos públicos e privados e instalação de unidades hoteleiras ou similares, sendo-lhes aplicável o disposto nos n.os 2 e 3 do artigo anterior.
+Artigo 7.º
+Zonas de protecção
+1 - Nas zonas de protecção identificadas na planta de síntese anexa é interdito o uso industrial dos solos.
+2 - Integram as zonas de protecção referidas no número anterior, designadamente, as seguintes áreas:
+a) Uma faixa de 50 m a partir da plataforma da estrada nacional n.º 10-4;
+b) Uma faixa de 15 m a contar da plataforma do ramal ferroviário da CP - Caminhos de Ferro Portugueses, E. P.;
+c) A área incluída pelo Decreto-Lei n.º 430/80, de 1 de Outubro, na Reserva Natural do Estuário do Sado;
+d) A área incluída na Reserva Ecológica Nacional.
+3 - Nas áreas referidas na alínea a) do número anterior são permitidos todos os restantes usos admitidos no presente Regulamento, nos termos do Decreto-Lei n.º 13/71, de 23 de Janeiro.
+Artigo 8.º
+Cérceas
+1 - A altura total máxima de qualquer corpo de edifício não poderá ultrapassar, quando isolado, um plano de 45º definido a partir de qualquer dos limites da parcela.
+2 - A altura referida no número anterior poderá ser ultrapassada em caso de silos, depósitos de água e outras instalações especiais tecnicamente justificadas.
+Artigo 9.º
+Obras de urbanização
+A entidade gestora promoverá a realização das obras de urbanização dentro do perímetro do Parque Industrial, podendo requerer à Câmara Municipal, antes do respectivo pedido de licenciamento, nos termos do artigo 26.º do Decreto-Lei n.º 448/91, de 29 de Novembro, a sua execução por fases.
+Artigo 10.º
+Licenciamento da actividade industrial
+1 - A instalação, alteração e laboração dos estabelecimentos industriais depende de prévio licenciamento da entidade coordenadora competente, nos termos do n.º 1 do artigo 10.º do Decreto-Lei n.º 232/92, de 22 de Outubro.
+2 - Poderão instalar-se no Parque Industrial estabelecimentos industriais que se dediquem, designadamente, às actividades industriais referidas na tabela anexa.
+3 - A instalação, alteração e laboração de estabelecimentos industriais no Parque Industrial obedecerá a todas as normas legais e regulamentares vigentes em matéria de protecção do ambiente e controlo de poluição.
+Artigo 11.º
+ETAR
+O Parque Industrial utilizará a estação de tratamento de águas residuais (ETAR) da Cachofarra, nos moldes que para o efeito forem acordados entre a Câmara Municipal de Setúbal e a entidade gestora.
+Artigo 12.º
+Transmissão de direitos sobre instalações, edifícios e terrenos
+Os direitos sobre instalações, edifícios e terrenos integrados no Parque Industrial poderão ser transmitidos por qualquer dos modos de disposição legalmente admitidos, nomeadamente através de arrendamento, constituição do direito de superfície e venda.
+Artigo 13.º
+Gestão do Parque Industrial
+A gestão do Parque Industrial - Sapec Bay é atribuída à sociedade anónima SAPEC - Parques Industriais, S. A., que assume a qualidade de entidade gestora, nos termos e para os efeitos do disposto nos artigos 13.º e 14.º do Decreto-Lei n.º 232/92, de 22 de Outubro.
+Artigo 14.º
+Prestação de serviços
+1 - A entidade gestora poderá assegurar, directa ou indirectamente, os seguintes serviços:
+a) Serviço de logística global, incluindo carga, descarga, armazenagem, tráfego e expedição de mercadorias;
+b) Segurança, guarda e vigilância de instalações, edifícios e terrenos;
+c) Recolha de lixos domésticos.
+2 - As condições de prestação dos serviços referidos no número anterior serão as que caso a caso forem acordadas entre a entidade gestora e cada estabelecimento industrial.
+3 - Os estabelecimentos industriais podem adquirir a terceiros os serviços prestados pela entidade gestora, mediante autorização desta.
+Artigo 15.º
+Encargos de manutenção
+1 - A manutenção das infra-estruturas urbanísticas do Parque Industrial que não sejam da responsabilidade das autoridades administrativas competentes será suportada pela entidade gestora.
+2 - A forma de comparticipação dos estabelecimentos industriais nos encargos referidos no número anterior será acordada casuisticamente com a entidade gestora, aplicando-se supletivamente, a fórmula seguinte:
+Emi = (0,4 (ati/at) + 0,6 (Aci/Ac)) x Emt
+em que:
+Emt = encargos totais com a manutenção;
+Emi = encargos com a manutenção por lotes;
+At = soma das áreas dos lotes;
+Ati = área por lote;
+Ac = área de construção total autorizada;
+Aci = área de construção autorizada por lote.
+ANEXO I
+Regulamento do Parque Industrial - Sapec Bay
+Tipos de actividades a instalar
+1 - Actividades industriais (segundo classificação da Portaria n.º 744-B/93, de 18 de Agosto):
+Indústrias transformadoras:
+15 - Indústrias alimentares e das bebidas.
+16000 - Indústria do tabaco.
+17 - Fabricação de têxteis.
+18 - Indústrias do vestuário. Preparação, tingimento e fabricação de artigos de peles com pêlo.
+19 - Indústrias de couro e de produtos de couro.
+20 - Indústrias de madeira e de cortiça e suas obras (excepto mobiliário).
+21 - Fabricação de pasta de papel e cartão e seus artigos.
+22 - Impressão e actividades dos serviços relacionados com a impressão.
+23 - Fabricação de coque e produtos petrolíferos refinados.
+24 - Fabricação de produtos químicos.
+25 - Fabricação de artigos de borracha.
+26 - Fabricação de outros produtos minerais não metálicos.
+27 - Indústrias metalúrgicas de base.
+28 - Fabricação de produtos metálicos, excepto máquinas e equipamentos.
+29 - Fabricação de máquinas e equipamentos, N. E.
+30 - Fabricação de máquinas de escritório e de equipamentos para o tratamento automático da informação.
+31 - Fabricação de máquinas e aparelhos eléctricos, N. E.
+32 - Fabricação de equipamento e de aparelhos de rádio, televisão e comunicação.
+33 - Fabricação de aparelhos e instrumentos médico-cirúrgicos, ortopédicos e de precisão, de óptica e de relojoaria.
+34 - Fabricação de veículos automóveis, reboques e semi-reboques.
+35 - Fabricação de outro material de transporte.
+36 - Fabricação de mobiliário; outras indústrias transformadoras, N. E.
+37 - Reciclagem.
+55 - Restauração.
+2 - Actividades de natureza logística.
+3 - Actividades comerciais e serviços.
+(ver documento original)
