@@ -8,7 +8,7 @@
 
 1 - Quem ofender o corpo ou a saúde de outra pessoa é punido com pena de prisão até 3 anos ou com pena de multa.
 
-2 - O procedimento criminal depende de queixa.
+2 - O procedimento criminal depende de queixa, salvo quando a ofensa seja cometida contra agentes das forças e serviços de segurança, no exercício das suas funções ou por causa delas.
 
 3 - O tribunal pode dispensar de pena quando:
 

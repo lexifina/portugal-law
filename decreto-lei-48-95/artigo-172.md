@@ -18,8 +18,10 @@ b) Actuar sobre menor de 14 anos, por meio de conversa obscena ou de escrito, es
 
 c) Utilizar menor de 14 anos em fotografia, filme ou gravação pornográficos; ou
 
-d) Exibir ou ceder a qualquer título ou por qualquer meio os materiais previstos na alínea anterior;
+d) Exibir ou ceder a qualquer título ou por qualquer meio os materiais previstos na alínea anterior;ou
+
+e) Detiver materiais previstos na alínea c), com o propósito de os exibir ou ceder;
 
 é punido com pena de prisão até 3 anos.
 
-4 - Quem praticar os actos descritos no número anterior com intenção lucrativa é punido com pena de prisão de 6 meses a 5 anos.
+4 - Quem praticar os actos descritos nas alíneas a), b), c) e d) do número anterior com intenção lucrativa é punido com pena de prisão de 6 meses a 5 anos.
