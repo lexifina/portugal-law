@@ -1,0 +1,13 @@
+Resolução do Conselho de Ministros n.º 55/86
+Nos termos do artigo 6.º do Decreto-Lei n.º 464/82, de 9 de Dezembro, os gestores públicos podem ser livremente exonerados pelas entidades que os nomearam, podendo a exoneração fundar-se em mera conveniência de serviço, no decurso do prazo ou em motivo justificado.
+Assim, e considerando:
+Que a tutela da gestão das empresas públicas ou equiparadas incumbe ao Governo e assenta no rigoroso desenvolvimento do mandato conferido aos gestores;
+Que é pressuposto essencial da aceitação de qualquer mandato de gestão pública a concordância com os objectivos sectorialmente definidos e, em consequência, a subordinação dialogada às directivas da tutela traçadas com vista à concretização daqueles objectivos;
+Que é igualmente pressuposto essencial da aceitação de qualquer mandato de gestão pública o reconhecimento de que tais funções só podem ser exercidas dentro dos considerandos anteriores, através da comunhão de esforços de todos os componentes do órgão colegial onde se inserem;
+Que se constatou não ter o vice-presidente da comissão de gestão da DOCAPESCA e Serviço de Lotas e Vendagem aproveitado atempadamente factos de que teve conhecimento e que serviam eficazmente os interesses daquela empresa e se subsumiam nos objectivos tutelarmente definidos;
+Que se constatou não ter o referido gestor informado, oportuna e rigorosamente, os restantes elementos do órgão colegial a que pertencia de factos com a relevância já referida e que teriam permitido àquele órgão tomar, eventualmente, decisões consentâneas com as directivas tutelares de que tinham conhecimento;
+Que tal circunstância, reveladora de manifesta quebra de solidariedade do vice-presidente da comissão de gestão da DOCAPESCA e Serviço de Lotas e Vendagem para com os restantes elementos daquele comissão, se revelou impeditiva do normal desempenho das suas funções;
+Que estes comportamentos violam os deveres impostos aos gestores públicos constantes das alíneas b), c) e e) do n.º 1 do artigo 9.º do Decreto-Lei n.º 464/82, de 9 de Dezembro, o que integra o conceito de motivo justificado de exoneração, a que se refere a alínea b) do n.º 3 do artigo 6.º do mesmo diploma legal;
+Que se procedeu à audiência prévia do gestor nos termos legalmente prescritos,
+o Conselho de Ministros, reunido em 19 de Junho de 1986, ao abrigo do disposto no artigo 6.º do Decreto-Lei n.º 464/82, de 9 de Dezembro, determinou exonerar, por motivo justificado, o Dr. Carlos Alberto Figueiredo dos Santos do exercício das funções de vice-presidente da comissão de gestão da DOCAPESCA e Serviço de Lotas e Vendagem.
+Presidência do Conselho de Ministros. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
