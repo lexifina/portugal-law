@@ -1,0 +1,4 @@
+Despacho ministerial
+O despacho da Presidência do Conselho e do Ministério das Finanças de 7 de Julho de 1971, publicado no Diário do Governo, 1.ª série, n.º 164, de 14 de Julho de 1971, determinou o montante das gratificações mensais a perceber pelos médicos civis contratados que se encontram ao serviço das unidades e estabelecimentos militares dos Ministérios do Exército e da Marinha e da Secretaria de Estado da Aeronáutica.
+Verifica-se que nas disposições daquele despacho não se fez referência aos médicos civis contratados dos serviços dependentes do Ministro da Defesa Nacional, pelo que se devem considerar os mesmos incluídos no mencionado despacho tendo em conta o disposto no artigo 5.º do Decreto-Lei n.º 220/71, de 26 de Maio.
+Presidência do Conselho e Ministério das Finanças, 9 de Agosto de 1971. - O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo. - Pelo Ministro das Finanças, Augusto Victor Coelho, Secretário de Estado do Orçamento.
