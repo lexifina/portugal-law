@@ -1,0 +1,15 @@
+Portaria n.º 369/2001
+de 10 de Abril
+Com fundamento no disposto nos artigos 20.º da Lei n.º 30/86, de 27 de Agosto, e 79.º do Decreto-Lei n.º 136/96, de 14 de Agosto, e ainda no disposto no n.º 3 do artigo n.º 164.º do Decreto-Lei n.º 227-B/2000, de 15 de Setembro;
+Ouvidos o Conselho Cinegético Municipal e o Conselho Nacional da Caça e da Conservação da Fauna:
+Manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos denominados «Herdade da Vinagra» e «Herdades da Barrosinha, do Pau e da Amendoeira» e águas públicas cujos leitos e margens os integrem, sitos na freguesia de Nossa Senhora de Machede, município de Évora, com uma área de 901,2125 ha, conforme planta anexa à presente portaria, que dela faz parte integrante.
+2.º Pela presente portaria é concessionada pelo período de 10 anos à EBORACAÇA - Turismo Cinegético, Lda., com o número de pessoa colectiva 504822918 e sede na Avenida do Dr. Francisco de Sá Carneiro, 390, Évora, a zona de caça turística da Herdade da Barrosinha e outras (processo n.º 2509 da Direcção-Geral das Florestas).
+3.º Por despacho do Secretário de Estado do Turismo, foi a presente concessão considerada de relevante interesse, nos termos e para os efeitos previstos na alínea b) do n.º 2 do artigo 66.º e no artigo 71.º, ambos do Decreto-Lei n.º 136/96, de 14 de Agosto, condicionada à apresentação do projecto de arquitectura do pavilhão de caça no prazo de dois meses a contar da data de publicação da presente portaria, à aprovação pela Direcção-Geral do Turismo do projecto de arquitectura acima referido, à execução e conclusão das obras do pavilhão de caça no prazo de 12 meses a contar da data da notificação da aprovação do projecto pela Direcção-Geral do Turismo, à verificação por esta entidade da conformidade das obras efectuadas com o projecto funcional do pavilhão de caça e à legalização do alojamento que eventualmente venha a ser disponibilizado nas instalações da zona de caça turística, numa das figuras previstas no Decreto-Lei n.º 167/97, de 4 de Julho, com a redacção que lhe foi dada pelo Decreto-Lei n.º 305/99, de 6 de Agosto, ou no Decreto-Lei n.º 169/97, de 4 de Julho.
+4.º Nesta zona de caça turística é facultado o exercício venatório a todos os caçadores em igualdade de circunstâncias, quando devidamente licenciados pela entidade gestora.
+5.º A zona de caça turística será obrigatoriamente sinalizada com tabuleta do modelo n.º 3 e com o sinal do modelo n.º 10 definidos na Portaria n.º 1103/2000, de 23 de Novembro.
+6.º A eficácia da concessão está dependente de prévia sinalização, de acordo com as condições definidas na Portaria n.º 1103/2000, de 23 de Novembro.
+Em 19 de Março de 2001.
+Pelo Ministro da Economia, Vítor José Cabrita Neto, Secretário de Estado do Turismo. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural.
+
+(ver planta no documento original)
