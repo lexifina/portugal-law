@@ -26,7 +26,7 @@ j) A deliberação de amortização, conversão e remissão de acções;
 
 l) A emissão de obrigações e a respectiva autorização;
 
-m) A designação e cessação de funções, por qualquer causa que não seja o decurso do tempo, dos membros dos órgãos de administração e de fiscalização das sociedades;
+m) A designação e cessação de funções, por qualquer causa que não seja o decurso do tempo, dos membros dos órgãos de administração e de fiscalização das sociedades, bem como do secretário da sociedade;
 
 n) A prestação de contas das sociedades anónimas, em comandita por acções, bem como das sociedades por quotas e em nome colectivo, quando houver lugar a depósito, e de contas consolidadas das sociedades obrigadas a prestá-las;
 
@@ -43,3 +43,5 @@ s) O encerramento da liquidação ou o regresso à actividade da sociedade;
 t) A deliberação de manutenção do domínio total de uma sociedade por outra, em relação de grupo, bem como o termo dessa situação;
 
 u) O contrato de subordinação, suas modificações e seu termo.
+
+v) A cessação da existência do conselho fiscal e a introdução do fiscal único.
