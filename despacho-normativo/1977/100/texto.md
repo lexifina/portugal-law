@@ -1,0 +1,3 @@
+Despacho Normativo n.º 100/77
+Considerando a falta de mão-de-obra que actualmente se faz sentir ao nível das actividades da pesca de cerco e artesanal, fica suspenso o Despacho Normativo n.º 57/77, de 4 de Março, no que diz respeito a estas actividades, para efeitos de concessão de licenças de trabalho, até à fixação das normas previstas pela nova redacção do corpo do artigo 14.º do Regulamento de Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca.
+Ministérios da Agricultura e Pescas e dos Transportes e Comunicações, 28 de Março de 1977. - O Secretário de Estado das Pescas, Pedro Amadeu de Albuquerque Santos Coelho. - O Secretário de Estado da Marinha Mercante, António José Borrani Crisóstomo Teixeira.
