@@ -1,0 +1,5 @@
+Aviso n.º 125/99
+Por ordem superior se torna público que, por nota de 2 de Agosto de 1999, o director-geral da Organização das Nações Unidas para a Educação, Ciência e Cultura, na sua qualidade de depositário da Convenção Universal sobre os Direitos de Autor, revista em Paris em 24 de Julho de 1971, comunicou ter o Governo de Portugal notificado, em 23 de Julho de 1999, que a Convenção é aplicável ao território de Macau e que, por aplicação do seu artigo XIII, entrará em vigor para Macau em 23 de Outubro de 1999.
+A Convenção foi aprovada, para adesão, pelo Decreto n.º 140-A/79 de 26 de Dezembro, publicado no Diário da República 1.ª série, n.º 296, de 26 de Dezembro de 1979, e foi estendida a Macau pelo Decreto do Presidente da República n.º 134/99 de 22 de Abril, publicado no Diário da República, 1.ª série-A, n.º 94, de 22 de Abril de 1999.
+Para ser publicado no Boletim Oficial de Macau.
+Comissão Interministerial sobre Macau, 26 de Agosto de 1999. - António Nunes de Carvalho Santana Carlos.
