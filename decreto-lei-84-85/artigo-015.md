@@ -1,9 +1,7 @@
 # Artigo 15.º
 
-1 - Das receitas dos concursos do totobola e do totoloto são deduzidas importâncias correspondentes a 0,5 %, até perfazer os montantes máximos, respetivamente, de (euro) 74 820 e (euro) 423 978, para constituição de dois fundos para pagamento de prémios por reclamações.
+1 - Da soma das receitas dos concursos de apostas, mútuas será deduzida uma importância correspondente a 0,5%, até perfazer o montante máximo de 100000 contos, para constituição de um fundo previsional de pagamento de prémios por reclamações, quando tenha ocorrido acumulação com os prémios do concurso seguinte, nos termos do regulamento geral dos concursos.
 
-2 - Das receitas dos concursos referidos no número anterior são igualmente deduzidas as importâncias correspondentes a 1 % e 2 %, até perfazer os montantes máximos, (euro) 748 197 e (euro) 24 939 895, respetivamente no 'Totobola' e no 'Totoloto', destinadas à formação de dois fundos, renováveis, para reestruturação e investimento do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, tendo em vista a implantação do sistema de registo de apostas em tempo real (sistema online) no território nacional.
+2 - Das receitas arrecadadas nos termos do número anterior deduzir-se-á ainda uma importância correspondente a 1%, até perfazer o montante máximo de 1 milhão de contos, destinada à formação de um fundo de renovação de equipamento e material.
 
-3 - Os fundos referidos no número anterior poderão ser utilizados para suportar quaisquer despesas resultantes do processo de implantação do sistema de registo de apostas em tempo real (sistema on-line), nomeadamente os relativos à imagem, agentes, pessoal, renovação das instalações, renovação de material e equipamento, e outros.
-
-4 - Os rendimentos dos fundos previstos nos números antecedentes acrescem aos respectivos montantes, até à concorrência dos seus valores máximos, após o que constituem receita de exploração.
+3 - Os rendimentos dos fundos previstos nos números antecedentes acrescem aos respectivos montantes, até à concorrência dos seus valores máximos, após o que constituem receita de exploração.

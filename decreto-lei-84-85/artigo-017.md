@@ -1,23 +1,11 @@
 # Artigo 17.º
 
-1 - Os montantes correspondentes às percentagens referidas na alínea c) do n.º 3 e na alínea b) do n.º 4 do artigo 16.º serão distribuídos em 40% e 60%, respectivamente, pelos Ministérios da Segurança Social e do Trabalho e da Saúde.
+1 - O montante correspondente à percentagem referida na alínea b) do n.º 2 do artigo 16.º será distribuído em partes iguais pelos Ministros do Trabalho e Segurança Social e da Saúde para financiar projectos de instituições de solidariedade social que exerçam acções no domínio da prevenção e reabilitação de deficientes.
 
-2 - Os montantes atribuídos ao Instituto de Gestão Financeira da Segurança Social, correspondentes às percentagens constantes da alínea d) do n.º 3 e da alínea d) do n.º 4 do artigo 16.º, destinam-se à cobertura parcial de despesas efectuadas pelas instituições de segurança social no domínio da acção social.
+2 - Os montantes correspondentes às percentagens referidas nas alíneas h) e i) do n.º 2 do artigo anterior serão repartidos em partes iguais pelos clubes de cada uma das mencionadas divisões.
 
-3 - Os montantes correspondentes às percentagens constantes da alínea e) do n.º 4 do artigo 16.º serão distribuídos de acordo com as seguintes regras:
+3 - Esses montantes e o referido na alínea j) serão entregues à Secretaria de Estado dos Desportos, que procederá à sua repartição e gestão, com rigorosa afectação aos mencionados fins.
 
-a) Instituto Nacional do Desporto - 85%;
+4 - O montante correspondente à alínea m) será entregue à Direcção-Geral da Comunicação Social, que procederá à sua repartição pelas empresas jornalísticas segundo critérios objectivos a fixar por portaria do membro do Governo com tutela sobre a comunicação social, ouvidas as respectivas associações representativas, sem prejuízo da sua fixação por lei.
 
-b) Ministério da Educação, para apoio ao desporto escolar e investimentos em infra-estruturas desportivas escolares - 10%;
-
-c) Instituto do Desporto da Madeira (IDRAM) - 2,5%;
-
-d) Fundo Regional de Fomento do Desporto dos Açores (FRFD) - 2,5%.
-
-4 - As verbas atribuídas por força das alíneas c) e d) do número anterior são processadas directamente para os organismos referidos e deverão consignar um montante destinado ao apoio ao desporto escolar e investimentos em infra-estruturas desportivas escolares.
-
-5 - Os montantes correspondentes às percentagens constantes da alínea e) do n.º 3 e da alínea c) do n.º 4 do artigo 16.º serão atribuídos ao Ministério do Trabalho e Segurança Social e destinam-se a apoiar as misericórdias e outras instituições particulares de solidariedade social que prossigam modalidades de acção social, em termos a regulamentar.
-
-6 - Os montantes correspondentes às percentagens constantes da alínea e) do n.º 3 e da alínea c) do n.º 4 do artigo 16.º serão atribuídos ao Ministério da Segurança Social e do Trabalho e destinam-se a apoiar as misericórdias e outras instituições particulares de solidariedade social que prossigam modalidades de acção social, em termos a regulamentar.
-
-7 - Os montantes correspondentes às percentagens constantes da alínea f) do n.º 3 e da alínea h) do n.º 4 do artigo 16.º serão transferidos para o Serviço Nacional de Protecção Civil.
+5 - O montante correspondente à alínea n) será entregue ao Ministro da Administração Interna, que procederá à sua repartição pelas associações de bombeiros voluntários segundo critérios objectivos a fixar por portaria, ouvidos os representantes das associações interessadas, sem prejuízo da sua fixação por lei.
