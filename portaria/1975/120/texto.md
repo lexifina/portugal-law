@@ -1,0 +1,10 @@
+Portaria n.º 120/75
+de 22 de Fevereiro
+O artigo 6.º do Decreto-Lei n.º 372/74, de 20 de Agosto, estabeleceu aumentos para as pensões de aposentação, a partir de 1 de Julho de 1974.
+Por outro lado, no artigo 11.º do Decreto-Lei n.º 475/72, de 25 de Novembro, e no artigo 15.º do Decreto-Lei n.º 477/72, de 27 de Novembro, expressamente se consigna que os subsídios vitalícios concedidos, respectivamente, pela Administração-Geral do Porto de Lisboa e pela Administração dos Portos do Douro e Leixões, ao abrigo do artigo 115.º do Decreto-Lei n.º 36976 e do artigo 83.º do Decreto-Lei n.º 36977, ambos de 20 de Julho de 1948, e das disposições do Decreto-Lei n.º 42880, de 21 de Março de 1960, beneficiam de melhorias iguais às que forem atribuídas às pensões de aposentação dos servidores do Estado, mediante a publicação de portaria do Ministro do Equipamento Social e do Ambiente.
+Assim:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado dos Transportes e Comunicações, nos termos dos artigos 11.º e 15.º respectivamente dos Decretos-Leis n.os 475/72 e 477/72, de 25 e 27 de Novembro:
+1.º Que os subsídios vitalícios concedidos ao abrigo dos artigos 115.º e 83.º dos Decretos-Leis n.os 36976 e 36977, ambos de 20 de Julho de 1948, beneficiem dos aumentos concedidos às pensões de aposentação nos termos do artigo 6.º do Decreto-Lei n.º 372/74, de 20 de Agosto, a partir de 1 de Julho de 1974.
+2.º Que, de igual modo, a partir de 1 de Julho de 1974, aos subsídios vitalícios concedidos ao abrigo do Decreto-Lei n.º 42880, de 21 de Março de 1960, sejam extensivos idênticos benefícios, levando em conta o aumento a conceder pela Caixa Geral de Aposentações para efeito do estabelecido no artigo 6.º do referido Decreto-Lei n.º 372/74.
+3.º É tornado extensivo aos beneficiários dos subsídios vitalícios concedidos ao abrigo das disposições citadas nos números anteriores o subsídio de Natal instituído pelo Decreto-Lei n.º 372/74 e nas condições nele fixadas para os servidores aposentados.
+Ministério do Equipamento Social e do Ambiente, 7 de Fevereiro de 1975. - O Secretário de Estado dos Transportes e Comunicações, Manuel Branco Ferreira Lima.
