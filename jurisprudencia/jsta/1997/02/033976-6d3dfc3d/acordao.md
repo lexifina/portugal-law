@@ -1,0 +1,57 @@
+# Acórdão do Supremo Tribunal Administrativo de 1997-02-18, processo 033976
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 033976
+
+**Data do Acordão:** 02/18/1997
+
+**Tribunal:** 2 SUBSECÇÃO DO CA
+
+**Relator:** BARATA FIGUEIRA
+
+**Descritores:** COMPETÊNCIA DO MINISTRO DA JUSTIÇA; COMPETÊNCIA DO DIRECTOR GERAL DOS SERVIÇOS JUDICIÁRIOS; OFICIAL DE JUSTIÇA; ACTO VERTICALMENTE DEFINITIVO; RECURSO HIERÁRQUICO NECESSÁRIO; ACTO ADMINISTRATIVO
+
+**Nº Convencional:** JSTA00046497
+
+**Nº do Documento:** SA119970218033976
+
+**Data de Entrada:** 02/24/1994
+
+**Recorrente:** OLIVEIRA , ANTONIO
+
+**Recorrido 1:** DIRGER DOS SERVIÇOS JUDICIARIOS
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 97
+
+**Privacidade:** 1
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** SENT TAC LISBOA DE 1993/06/24.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR ADM GER - ADM PUBL CENTRAL. DIR ADM CONT - ACTO. DIR PROC ADM GRAC - REC HIERÁRQUICO.
+
+**Legislação Nacional:** DL 99/82 DE 1982/04/07 ART1 N1 ART2 D.; DL 376/87 DE 1987/12/11 ART39 N1.; DL 323/89 DE 1989/09/26 ART11 N2 N3.; CPA91 ART142 N1 ART170 N1 ART174 N1.; L 1/89 DE 1989/07/08.; CONST89 ART268 N4.; LPTA85 ART25 N1.
+
+**Jurisprudência Nacional:** AC STA PROC39983 DE 1996/07/09.; AC STA PROC32132 DE 1996/11/14.; AC STA PROC39872 DE 1996/11/28.; AC STA PROC34945 DE 1996/01/18.; AC STA PROC32582 DE 1996/02/06.; AC STA PROC39124 DE 1996/04/30.; AC STA PROC39387 DE 1996/05/23.; AC STA PROC39787 DE 1996/06/20.; AC STA PROC39872 DE 1996/07/09.; AC STA DE 1994/11/17 AD N401 PAG512.; AC TC DE 1995/01/07 IN DR 69 IIS 1996/03/23 PAG3160-3164.; AC TC DE 1995/01/11 IN DR 63 IIS 1996/03/14 PAG3484-3490.
+
+**Referência a Doutrina:** FREITAS DO AMARAL DIREITO ADMINISTRATIVO VIII PAG234.; PAULO OTERO AS GARANTIAS IMPUGNATÓRIAS DOS PARTICULARES NO CÓDIGO DO PROCEDIMENTO ADMINISTRATIVO IN SC IUR N235-237 ANOXLI PAG58-66.; PAULO OTERO O PODER DE SUBSTITUIÇÃO EM DIREITO ADMINISTRATIVO IN LEX 1995 VII PAG724-731 PAG731-733.; ROGÉRIO SOARES O ACTO ADMINISTRATIVO IN SC IUR N223-228 ANOXXXIX PAG23-35.; MÁRIO TORRES A GARANTIA CONSTITUCIONAL DO RECURSO CONTENCIOSO IN SC IUR N223-228 ANOXXXIX PAG36-39.; RUI MEDEIROS ESTRUTURA E ÂMBITO DA ACÇÃO PARA RECONHECIMENTO DE DIREITO OU INTERESSE LEGALMENTE PROTEGIDO IN RDES ANOXXXI NIV IIS N1 N2 PAG65 PAG89.; PEDRO GONÇALVES RELAÇÕES ENTRE AS IMPUGNAÇÕES ADMINISTRATIVAS NECESSÁRIAS E O RECURSO CONTENCIOSO DE ANULAÇÃO DE ACTOS ADMINISTRATIVOS 1996 PAG42-51.; GOMES CANOTILHO E VITAL MOREIRA CONSTITUIÇÃO DA REPÚBLICA PORTUGUESA ANOTADA 3ED PAG939.
+
+## Sumário
+
+I - É própria, mas não exclusiva, a competência do Director- -Geral dos Serviços Judiciários, para proceder aos movimentos dos oficiais de Justiça.
+
+II - Assim, o acto praticado ao abrigo de tal competência, não
+
+é verticalmente definitivo, dele cabendo recurso hierárquico necessário para o Ministro da Justiça.
+
+III - Só do acto praticado por este Ministro caberá recurso contencioso, por constituir a última palavra da Administração sobre a matéria.
+
+IV - O art. 25, n. 1 da L.P.T.A., não ofende o art. 268, n.
+
+4, da C.R.P., enquanto faz depender o recurso contencioso da definitividade do acto administrativo, quando este não lese imediata e directamente direitos ou interesses legalmente protegidos do interessado.
