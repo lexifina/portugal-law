@@ -1,0 +1,5 @@
+Portaria n.º 19392
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, e da alínea e) do artigo 3.º do mesmo diploma, com a nova redacção que lhe foi dada pelo artigo 4.º do Decreto n.º 40712, de 1 de Agosto de 1956, abrir em Moçambique um crédito especial da quantia de 1000000$00, destinado a reforçar a verba do capítulo 10.º, artigo 2500.º, n.º 4), alínea b), 2 «Encargos gerais - Diversas despesas - Despesas eventuais (artigo 1.º e § 2.º do artigo 6.º do Decreto n.º 22545, de 18 de Maio de 1933) - Não especificadas - Na província», da tabela de despesa ordinária do orçamento geral em vigor, tomando como contrapartida o excesso de cobrança sobre a previsão da verba do capítulo 1.º, artigo 11.º «Impostos directos gerais - Impostos directos extintos», do orçamento da receita ordinária do referido ano.
+Ministério do Ultramar, 14 de Setembro de 1962. - Pelo Ministro do Ultramar, João da Costa Freitas, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Moçambique. - J. da Costa Freitas.
