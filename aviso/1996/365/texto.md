@@ -1,0 +1,4 @@
+Aviso n.º 365/96
+Por ordem superior se torna público que, por nota de 28 de Outubro de 1996, o Ministério dos Negócios Estrangeiros notificou a Embaixada do Paquistão em Lisboa do cumprimento dos procedimentos constitucionais internos referentes ao Acordo entre a República Portuguesa e a República Islâmica do Paquistão sobre a Promoção e a Protecção Mútua de Investimentos, aprovado pelo Decreto n.º 30/96, publicado no Diário da República, 1.ª série-A, de 11 de Outubro de 1996.
+Tendo a Embaixada do Paquistão comunicado idêntico procedimento por nota de 21 de Junho de 1995, fica concluído o processo, pelo que, nos termos do artigo 13.º do citado Acordo, este entrou em vigor em 28 de Novembro de 1996.
+Direcção-Geral das Relações Bilaterais, 26 de Novembro de 1996. - O Director-Geral, Francisco de Quevedo Crespo.
