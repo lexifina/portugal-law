@@ -1,6 +1,6 @@
 ## Capítulo II
 
-## Grupo I - diminuição dos efeitos poluentes na agricultura
+## Grupo I - diminuição dos efeitos poluentes da agricultura
 
 ## Secção I
 

@@ -4,7 +4,7 @@
 
 O presente regime de ajudas desenvolve-se através dos seguintes grupos de medidas:
 
-a) Grupo I - diminuição dos efeitos poluentes na agricultura;
+a) Grupo I - diminuição dos efeitos poluentes da agricultura;
 
 b) Grupo II - extensificação e ou manutenção dos sistemas agrícolas tradicionais;
 
