@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Ministério da Cultura, a Portaria n.º 806/83, publicada no Diário da República, 1.ª série, n.º 174, de 30 de Julho de 1983, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No sumário, onde se lê «Aprova o modelo de cartões de identidade para uso dos membros e outro pessoal que preste serviço no Gabinete do Ministro da Cultura. Revoga a Portaria n.º 587/80, de 11 de Setembro» deve ler-se «Aprova o modelo de cartões de identidade para uso dos membros e outro pessoal que preste serviço no Gabinete do Ministro da Cultura, bem como de todos os funcionários de órgãos e serviços do mesmo Ministério. Revoga a Portaria n.º 587/80, de 11 de Setembro».
+Secretaria-Geral da Presidência do Conselho de Ministros, 5 de Agosto de 1983. - Pelo Secretário-Geral, o Director dos Serviços Administrativos, José Serra.
