@@ -1,0 +1,315 @@
+Portaria n.º 728/81
+de 27 de Agosto
+Sob proposta do conselho científico da Faculdade de Letras da Universidade de Lisboa:
+Ao abrigo do disposto nos Decretos-Leis n.os 173/80, de 29 de Maio, e 263/80 e 264/80, de 7 de Agosto:
+Manda o Governo da República Portuguesa, pelo Ministro da Educação e Ciência, o seguinte:
+1.º
+(Criação)
+A Universidade de Lisboa, através da Faculdade de Letras, concede o grau de mestre em:
+a) Literaturas Clássicas, com três áreas de especialização:
+I) Literatura Grega;
+II) Literatura Latina;
+III) Literaturas Comparadas;
+b) Linguística Portuguesa Histórica;
+c) Linguística Portuguesa Descritiva;
+d) Literatura Portuguesa;
+e) Literatura Brasileira e Literaturas Africanas de Expressão Portuguesa;
+f) Literatura Francesa;
+g) Estudos Anglo-Americanos, com quatro áreas de especialização:
+I) Literatura Inglesa;
+II) Linguística Inglesa;
+III) Cultura Inglesa;
+IV) Literatura e Cultura Norte-Americanas;
+h) Filosofia, com sete áreas de especialização:
+I) História da Filosofia;
+II) Metafísica e Antropologia;
+III) Filosofia do Conhecimento e Epistemologia;
+IV) Filosofia da Linguagem e Lógica;
+V) Filosofia da Cultura;
+VI) Filosofia Social e Política;
+VII) Filosofia e Cultura em Portugal;
+i) Geografia Humana e Planeamento Regional;
+j) Geografia Física e Regional.
+2.º
+(Organização dos cursos)
+Os cursos especializados conducentes aos mestrados enumerados no n.º 1.º, adiante simplesmente designados por cursos, organizam-se pelo sistema de unidades de crédito.
+3.º
+(Estrutura curricular)
+A estrutura curricular dos cursos é a descrita nos anexos I a x da presente portaria.
+4.º
+(Precedências)
+As tabelas e o regime de precedências serão fixados pelo conselho científico.
+5.º
+(Habilitação de acesso)
+1 - São admitidos à candidatura à matrícula em cada um dos cursos os titulares das licenciaturas descritas nos anexos I a x ou de licenciaturas em áreas afins ou habilitações legalmente equivalentes, com a classificação mínima de 14 valores.
+2 - Excepcionalmente, em casos devidamente justificados, o conselho científico poderá admitir à candidatura à matrícula candidatos cujo currículo demonstre uma adequada preparação científica de base, embora na licenciatura referida no n.º 1 tenham classificação inferior a 14 valores.
+3 - Excepcionalmente, em casos devidamente justificados, e nos termos do n.º 4 do n.º 7.º, o conselho científico poderá admitir à candidatura à matrícula nos cursos os titulares de outra licenciatura pelas universidades portuguesas, ou legalmente equivalente, cujo currículo demonstre uma adequada preparação científica de base.
+4 - Cabe ao conselho científico definir quais os cursos a incluir nas áreas afins referidas no n.º 1.
+6.º
+(«Numerus clausus»)
+1 - O numerus clausus de cada curso será fixado anualmente por despacho do Ministro da Educação e Ciência.
+2 - Uma percentagem do numerus clausus, a fixar igualmente no despacho a que se refere o número anterior, será reservada a docentes de estabelecimentos de ensino superior.
+7.º
+(Critério de selecção)
+1 - Os candidatos à matrícula em cada curso serão seleccionados pelo conselho científico, tendo em consideração os seguintes critérios:
+a) Classificação da licenciatura a que se refere o n.º 8.º ou de outros graus já obtidos pelo candidato;
+b) Currículo académico, científico e técnico;
+c) Experiência docente.
+2 - Será igualmente tida em consideração, nomeadamente para as vagas referidas no n.º 6, n.º 2, uma equilibrada satisfação da procura por docentes de outros estabelecimentos de ensino superior.
+3 - O conselho científico poderá submeter os candidatos à matrícula a provas académicas de selecção para avaliação do nível daqueles nas áreas científicas de base correspondente ao curso, bem como determinar a obrigatoriedade de frequência com aproveitamento de determinadas disciplinas do elenco de licenciaturas ou outras como condição prévia para a candidatura à matrícula no curso.
+4 - Os candidatos a que se refere o n.º 3 do n.º 5.º só serão considerados após a selecção dos candidatos a que se referem os n.os 1 e 2 do mesmo número.
+5 - A selecção a que se refere o presente n.º 7.º será feita pelo conselho científico da Faculdade de Letras da Universidade de Lisboa, de cuja decisão não cabe recurso, salvo se arguida de vício de forma.
+8.º
+(Regime geral)
+As regras de matrícula e inscrição e, bem assim, o regime de faltas, de avaliação de conhecimentos e de classificação, para as disciplinas que integram o curso, serão os previstos na lei para os cursos de licenciatura, naquilo em que não forem contrariados pelo disposto na presente portaria e pela natureza do curso.
+9.º
+(Calendário)
+Os prazos de candidatura e inscrição e o calendário lectivo serão fixados pelo despacho a que se refere o n.º 6.º
+10.º
+(Dispensa das provas complementares de doutoramento)
+Os titulares de aprovação em cada curso terão dispensa da prova a que se refere o n.º 3 do artigo 8.º do Decreto-Lei n.º 388/70, de 18 de Agosto, para a obtenção do grau de doutor nas especialidades indicadas nos anexos I a X.
+Ministério da Educação e Ciência, 10 de Agosto de 1981. - O Ministro da Educação e Ciência, Vítor Pereira Crespo.
+
+ANEXO I
+Mestrado em Literaturas Clássicas
+1 - Área científica do curso:
+Literaturas Clássicas.
+2 - Duração normal do curso:
+Dois anos lectivos.
+3 - Áreas e unidades de crédito necessárias à obtenção do curso:
+I - Comuns a todas as áreas de especialização:
+a) Problemática de Literatura ... 6
+b) Linguística ... 4
+c) Cultura ... 4
+d) Filosofia ... 4
+e) História ... 4
+f) Metodologia Científica ... 4
+II - Área de especialização em Literatura Grega:
+a) Literatura Grega ... 5
+b) Literatura Latina ... 5
+c) Literaturas Modernas ... 5
+III - Área de especialização em Literatura Latina:
+a) Literatura Latina ... 5
+b) Literatura Grega ... 5
+c) Literaturas Modernas ... 5
+IV - Área de especialização em Literaturas Comparadas:
+a) Literaturas Modernas ... 5 unidades numa área e 5 noutra.
+b) Literatura Grega ... 5 unidades numa área e 5 noutra.
+c) Literatura Latina ... 5 unidades numa área e 5 noutra.
+4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:
+a) Filologia Clássica;
+b) Línguas e Literaturas Clássicas.
+5 - Especialidades a que se refere o n.º 10.º:
+a) Área de especialização em Literatura Grega:
+Literatura Grega;
+b) Área de especialização em Literatura Latina:
+Literatura Latina;
+c) Área de especialização em Literaturas Comparadas:
+A fixar caso a caso pelo conselho científico face ao plano de estudos do curso seguido por cada candidato.
+
+ANEXO II
+Mestrado em Linguística Portuguesa Histórica
+1 - Área científica do curso:
+Linguística Portuguesa Histórica.
+2 - Duração normal do curso:
+Dois anos lectivos.
+3 - Áreas e unidades de crédito necessárias à obtenção do curso:
+I - Obrigatória:
+Linguística Portuguesa Descritiva ... 8
+II - Opcionais:
+a) Linguística Portuguesa ... 8
+b) Linguística Românica ... 8
+c) Linguística Geral ... 8
+d) Linguística Aplicada ... 8
+4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:
+a) Filologia Românica;
+b) Línguas e Literaturas Modernas (variantes com estudos portugueses).
+5 - Especialidade a que se refere o n.º 10.º:
+a) Linguística Portuguesa.
+
+ANEXO III
+Mestrado em Linguística Portuguesa Descritiva
+1 - Área científica do curso:
+Linguística Portuguesa Descritiva.
+2 - Duração normal do curso:
+Dois anos lectivos.
+3 - Áreas e unidades de crédito necessárias à obtenção do curso:
+I - Obrigatória:
+Linguística Portuguesa Descritiva ... 8
+II - Opcionais:
+a) Linguística Portuguesa ... 8
+b) Linguística Românica ... 8
+c) Linguística Geral ... 8
+d) Linguística Aplicada ... 8
+4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:
+a) Filologia Românica;
+b) Línguas e Literaturas Modernas (variantes com estudos portugueses).
+5 - Especialidade a que se refere o n.º 10.º:
+a) Linguística Portuguesa.
+
+ANEXO IV
+Mestrado em Literatura Portuguesa
+1 - Área científica do curso:
+Literatura Portuguesa.
+2 - Duração normal do curso:
+Dois anos lectivos.
+3 - Áreas e unidades de crédito necessárias à obtenção do curso:
+I - Obrigatórias:
+a) Problemática da Leitura Literária ... 4
+b) Literatura Portuguesa ... 8
+II - Opcionais:
+a) Problemática da Leitura Literária ... (ver nota a) 4
+b) Literatura Brasileira e Literaturas Africanas de Expressão Portuguesa ... (ver nota a) 4
+c) Literatura Francesa ... (ver nota a) 4
+(nota a) Para cada aluno poderá ser determinado que as quatro unidades de crédito sejam obtidas na área II, alínea a).
+4 - Licenciaturas a que se refere o n.º 5.º:
+a) Filologia Românica;
+b) Línguas e Literaturas Modernas (variantes com estudos portugueses).
+5 - Especialidade a que se refere o n.º 10.º:
+a) Literatura Portuguesa.
+
+ANEXO V
+Mestrado em Literatura Brasileira e Literaturas Africanas de Expressão Portuguesa
+1 - Área científica do curso:
+Literatura Brasileira e Literaturas Africanas de Expressão Portuguesa.
+2 - Duração normal do curso:
+Dois anos lectivos.
+3 - Áreas e unidades de crédito necessárias à obtenção do curso:
+I - Obrigatórias:
+a) Problemática da Leitura Literária ... 4
+b) Literatura Brasileira e Literaturas Africanas de Expressão Portuguesa ... 8
+II - Opcionais:
+a) Problemática da Leitura Literária ... (ver nota a) 4
+b) Literatura Portuguesa ... (ver nota a) 4
+c) Literatura Francesa ... (ver nota a) 4
+(nota a) Para cada aluno poderá ser determinado que as quatro unidades de crédito sejam obtidas na área II, alínea a).
+4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:
+a) Filologia Românica;
+b) Línguas e Literaturas Modernas (variantes com estudos portugueses).
+5 - Especialidade a que se refere o n.º 10.º:
+a) Literatura Brasileira.
+
+ANEXO VI
+Mestrado em Literatura Francesa
+1 - Área científica do curso:
+Literatura Francesa.
+2 - Duração normal do curso:
+Dois anos lectivos.
+3 - Áreas e unidades de crédito necessárias à obtenção do curso:
+I - Obrigatórias:
+a) Problemática da Leitura Literária ... 4
+b) Literatura Francesa ... 4
+II - Opcionais:
+a) Problemática da Leitura Literária ... (ver nota a) 4
+b) Literatura Brasileira e Literaturas Africanas de Expressão Portuguesa ... (ver nota a) 4
+c) Literatura Portuguesa ... (ver nota a) 4
+(nota a) Para cada aluno poderá ser determinado que as quatro unidades de crédito sejam obtidas na área II, alínea a).
+4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:
+a) Filologia Românica;
+b) Línguas e Literaturas Modernas (variantes com estudos franceses).
+5 - Especialidade a que se refere o n.º 10.º:
+a) Literatura Francesa.
+
+ANEXO VII
+Mestrado em Estudos Anglo-Americanos
+1 - Área científica do curso:
+Estudos Anglo-Americanos.
+2 - Duração normal do curso:
+Dois anos lectivos
+3 - Áreas e unidades de crédito necessárias à obtenção do curso:
+3.1 - Área de especialização em Literatura Inglesa:
+I - Obrigatória:
+a) Literatura Inglesa ... 8
+II - Opcionais:
+a) Literatura Inglesa ... 8
+b) Linguística Inglesa ... 8
+c) Cultura Inglesa ... 8
+d) Literatura e Cultura Norte-Americanas ... 8
+3.2 - Área de especialização em Linguística Inglesa:
+I - Obrigatória:
+a) Linguística Inglesa ... 8
+II - Opcionais:
+a) Linguística Inglesa ... 8
+b) Literatura Inglesa ... 8
+c) Cultura Inglesa ... 8
+d) Literatura e Cultura Norte-Americanas ... 8
+3.3 - Área de especialização em Cultura Inglesa:
+I - Obrigatória:
+a) Cultura Inglesa ... 8
+II - Opcionais:
+a) Cultura Inglesa ... 8
+b) Literatura Inglesa ... 8
+c) Linguística Inglesa ... 8
+d) Literatura e Cultura Norte-Americanas ... 8
+3.4 - Área de especialização em Literatura e Cultura Norte-Americanas:
+I - Obrigatória:
+a) Literatura e Cultura Norte-Americanas ... 8
+II - Opcionais:
+a) Literatura e Cultura Norte-Americanas ... 8
+b) Cultura Inglesa ... 8
+c) Literatura Inglesa ... 8
+d) Linguística Inglesa ... 8
+4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:
+a) Filologia Germânica;
+b) Línguas e Literaturas Modernas (variantes com inglês).
+5 - Especialidades a que se refere o n.º 10.º:
+a) Literatura Inglesa;
+b) Literatura Norte-Americana;
+c) Linguística Inglesa.
+
+ANEXO VIII
+Mestrado em Filosofia
+1 - Área científica do curso:
+Filosofia.
+2 - Duração normal do curso:
+Dois anos lectivos.
+3 - Áreas e unidades de crédito necessárias à obtenção do curso:
+3.1 - A área de especialização em que é conferido o grau é definida pela dissertação.
+3.2 - Para qualquer área de especialização, as áreas e unidades de crédito necessárias à obtenção do curso são as seguintes:
+a) Metodologia do Trabalho Filosófico ... 4
+b) História da Filosofia ... 12
+c) Metafísica e Antropologia ... 12
+d) Filosofia do Conhecimento e Epistemologia ... 12
+e) Filosofia da Linguagem e Lógica ... 12
+f) Filosofia da Cultura ... 12
+g) Filosofia Social e Política ... 12
+h) Filosofia e Cultura em Portugal ... 12
+4 - Licenciatura a que se refere o n.º 1 do n.º 5.º:
+a) Filosofia.
+5 - Especialidades a que se refere o n.º 10.º:
+Serão definidas caso a caso pelo conselho científico face ao plano de estudos do curso seguido por cada candidato;
+Caso o candidato seja titular do grau de mestre, será considerada igualmente a área sobre que incidiu a dissertação.
+
+ANEXO IX
+Mestrado em Geografia Humana e Planeamento Regional e Local
+1 - Área científica do curso:
+Geografia Humana e Planeamento Regional e Local.
+2 - Duração normal do curso:
+Dois anos lectivos.
+3 - Áreas e unidades de crédito necessárias à obtenção do curso:
+I - Obrigatórias:
+a) Geografia Humana ... 6
+b) Desenvolvimento e Planeamento Regional e Local ... 8
+II - Opcionais:
+a) Gestão Regional e Local ... 4
+b) Análise Regional e Local ... 4
+II - Estágio numa das áreas I, alíneas a) ou b), ou II, alínea a) ... 2
+4 - Licenciatura a que se refere o n.º 1 do n.º 5.º:
+a) Geografia.
+5 - Especialidade a que se refere o n.º 10.º:
+a) Geografia Humana.
+
+ANEXO X
+Mestrado em Geografia Física e Regional
+1 - Área científica do curso:
+Geografia Física e Regional.
+2 - Duração normal do curso:
+Dois anos lectivos.
+3 - Áreas e unidades de crédito necessárias à obtenção do curso:
+a) Geomorfologia ... 6
+b) Climatologia ... 6
+c) Geografia Regional ... 6
+4 - Licenciatura a que se refere o n.º 1 do n.º 5.º:
+a) Geografia.
+5 - Especialidade a que se refere o n.º 10.º:
+a) Geografia Física.
