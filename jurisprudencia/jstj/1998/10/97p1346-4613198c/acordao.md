@@ -1,0 +1,35 @@
+# Acórdão do Supremo Tribunal de Justiça de 1998-10-29, processo 97P1346
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 97P1346
+
+**Nº Convencional:** JSTJ00035657
+
+**Relator:** CARLINDO COSTA
+
+**Descritores:** FALSIFICAÇÃO DE ATESTADO; ATESTADO MÉDICO; ATESTADO FALSO; CEMITÉRIO; ENTERRAMENTO; PRINCÍPIO DA LIVRE APRECIAÇÃO DA PROVA; PODERES DO SUPREMO TRIBUNAL DE JUSTIÇA; ERRO NOTÓRIO NA APRECIAÇÃO DA PROVA
+
+**Nº do Documento:** SJ199810290013463
+
+**Data do Acordão:** 10/29/1998
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REC PENAL.
+
+**Decisão:** NEGADO PROVIMENTO.
+
+**Área Temática:** DIR PROC PENAL - RECURSOS.; DIR CRIM - CRIM C/SOCIEDADE.
+
+## Sumário
+
+I - Se um dos dois arguidos, médico, atesta o óbito de uma pessoa como se ele tivesse ocorrido em lugar distinto daquele em que, efectivamente, ocorreu, para, satisfazendo o desejo dos familiares do falecido, possibilitar o seu enterramento noutro cemitério que não o competente em função do local real do óbito; se o outro arguido (gerente de uma agência funerária), servindo-se do atestado, consegue efectivamente, que o enterro se faça no cemitério indevido, e, finalmente, se está, até, dado como provado que, "determinando que o funeral ocorresse em cemitério diferente do competente, aí ocupando indevidamente uma das sepulturas vagas, os arguidos ocasionaram um prejuízo ao Estado" (o que sendo conclusivo não deixa de ser um facto que, enquanto resultante da livre apreciação da prova, nos termos do artigo 127, do CPP, está fora da sindicabilidade do STJ), deve considerar-se verificado o requisito "prejuízo", para efeitos de integração do tipo legal de crime de falsificação, p.p. pelo artigo 256, ns. 1, alínea b), e 3, do CP de 1995.
+
+II - "E sobre este prejuízo dado como provado, não impende o vício do erro notório, pois a violação sobre os regulamentos de enterramento não pode deixar de causar prejuízo funcional dos respectivos serviços públicos, a quem compete a defesa dos interesses gerais da comunidade e que poderá estar associada um potencial valor económico" (sic).
+
+III - "Igualmente, esses mesmos factos podem ser vistos como um benefício ilegítimo para os arguidos, ou seja, obtiveram que o corpo fosse sepultado no cemitério da Ajuda, que não era o competente, e com as suas condutas retiram benefícios económicos" (sic).
