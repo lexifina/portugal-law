@@ -1,5 +1,7 @@
 # Artigo 3.º
 
+### Os concelhos, com excepção dos de Lisboa e Porto, podem ser de 1.ª, 2.ª e 3.ª ordem.
+
 Os concelhos, com excepção dos de Lisboa e Pôrto, podem ser de 1.ª, 2.ª e 3.ª ordem.
 
 § 1.º Quanto aos concelhos urbanos:
