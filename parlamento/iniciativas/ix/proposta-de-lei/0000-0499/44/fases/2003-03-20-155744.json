@@ -1,0 +1,322 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "44",
+    "id": "19546",
+    "titulo": "Autoriza o Governo a legislar sobre certos aspectos legais dos serviços da sociedade da informação, em especial do comércio electrónico, no mercado interno, transpondo para a ordem jurídica nacional a directiva n.º 2000/31/CE, do Parlamento Europeu) e do Conselho, de 8 de Junho de 2000."
+  },
+  "fase": "Votação na generalidade",
+  "codigo_fase": "250",
+  "data_registo": "2003-03-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2495",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "250",
+    "Comissao": null,
+    "DataFase": "2003-03-20",
+    "EvtId": "13",
+    "Fase": "Votação na generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2003-03-20",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144927",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4296-4296"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-03-21",
+                "pubLeg": "IX",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/102/2003-03-21/4296?pgs=4296&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre certos aspectos legais dos serviços da sociedade da informação, em especial do comércio electrónico, no mercado interno, transpondo para a ordem jurídica nacional a Directiva n.º 2000/31/CE do Parlamento Europeu e do Conselho, de 8 de Junho de 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "156",
+                "nome": "António Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144943",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4296-4296"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-03-21",
+                "pubLeg": "IX",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/102/2003-03-21/4296?pgs=4296&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre certos aspectos legais dos serviços da sociedade da informação, em especial do comércio electrónico, no mercado interno, transpondo para a ordem jurídica nacional a Directiva n.º 2000/31/CE do Parlamento Europeu e do Conselho, de 8 de Junho de 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144945",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4296-4296"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-03-21",
+                "pubLeg": "IX",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/102/2003-03-21/4296?pgs=4296&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre certos aspectos legais dos serviços da sociedade da informação, em especial do comércio electrónico, no mercado interno, transpondo para a ordem jurídica nacional a Directiva n.º 2000/31/CE do Parlamento Europeu e do Conselho, de 8 de Junho de 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144946",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4297-4297"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-03-21",
+                "pubLeg": "IX",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/102/2003-03-21/4297?pgs=4297&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre certos aspectos legais dos serviços da sociedade da informação, em especial do comércio electrónico, no mercado interno, transpondo para a ordem jurídica nacional a Directiva n.º 2000/31/CE do Parlamento Europeu e do Conselho, de 8 de Junho de 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144948",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4297-4297"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-03-21",
+                "pubLeg": "IX",
+                "pubNr": "102",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/102/2003-03-21/4297?pgs=4297&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar sobre certos aspectos legais dos serviços da sociedade da informação, em especial do comércio electrónico, no mercado interno, transpondo para a ordem jurídica nacional a Directiva n.º 2000/31/CE do Parlamento Europeu e do Conselho, de 8 de Junho de 2000",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "155744",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2495",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-03-21",
+        "pubLeg": "IX",
+        "pubNr": "102",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/102/2003-03-21?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2003-03-20",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS-PP</I><BR>Contra:<I>PCP</I>, <I> BE</I>, <I> PEV</I><BR>Abstenção:<I>PS</I>",
+        "id": "29847",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "100",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
