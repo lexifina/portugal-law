@@ -16,6 +16,6 @@ e) O valor patrimonial constante da matriz ou, na sua falta, o valor venal;
 
 f) A situação matricial do prédio expressa pelo artigo de matriz ou pela menção de estar omisso.
 
-2 - Na descrição genérica de prédio em regime de propriedade horizontal é mencionada a série das letras correspondentes às fracções e na de prédio ou conjunto imobiliário classificado para fins turísticos esta circunstância, bem como as letras correspondentes às parcelas habitacionais, quando existam.
+2 - Na descrição genérica de prédio ou prédios em regime de propriedade horizontal é mencionada a série das letras correspondentes às fracções e na de empreendimento turístico classificado para fins turísticos esta circunstância, bem como as letras correspondentes às unidades de alojamento, quando existam.
 
 3 - Na descrição de prédio resultante de anexação ou desanexação de outros são mencionados os números das respectivas descrições e as cotas de referência em vigor.
