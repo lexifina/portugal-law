@@ -6,4 +6,4 @@
 
 2 - Considera-se deficiência aquela que resulte num atraso ou paragem do normal desenvolvimento da criança.
 
-3 - O disposto no n.º 1 é aplicável, com as necessárias adaptações, à tutela, à confiança judicial ou administrativa e à adopção, de acordo com os respectivo regime.
+3 - O disposto no n.º 1 é aplicável, com as necessárias adaptações, à tutela, à confiança judicial ou administrativa e à adopção, de acordo com os respectivos regimes.
