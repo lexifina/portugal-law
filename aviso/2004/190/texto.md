@@ -1,0 +1,5 @@
+Aviso n.º 190/2004
+Por ordem superior se torna público que foram emitidas notas, em 8 e 14 de Outubro de 2004, respectivamente pelo Consulado-Geral de Portugal em Macau e pelo Secretariado do Governo da Região Administrativa Especial de Hong Kong, da República Popular da China, em que se comunica terem sido cumpridas as respectivas formalidades internas de aprovação do Acordo entre a República Portuguesa e a Região Administrativa Especial de Hong Kong Relativo à Transferência de Pessoas Condenadas, assinado em Hong Kong em 24 de Maio de 2001.
+Por parte de Portugal, o citado Acordo foi aprovado pela Resolução da Assembleia da República n.º 55/2004, de 27 de Maio, e ratificado pelo Decreto do Presidente da República n.º 38/2004, publicado no Diário da República, 1.ª série-A, n.º 170, de 21 de Julho de 2004.
+Nos termos do artigo 11.º do citado Acordo, este entra em vigor em 7 de Novembro de 2004.
+Direcção-Geral das Relações Bilaterais, 8 de Novembro de 2004. - O Subdirector-Geral, António de Almeida Lima.
