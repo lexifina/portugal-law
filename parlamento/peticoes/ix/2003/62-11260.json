@@ -1,0 +1,341 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gIjTIOBD8fzbBQNrdCzuBBmwczclk6SD5HYRiA%2fDz6LvtzEOZz0p16VuinZ4c9xnv1XSgJHpVu8L3TmsAZNDGnOMwZOl11DIWbTTxvH9TZlpguA1Dr0xHxKf%2bQeAZgBPJ2JGSuYu7x65iAUduW5D4zeNirkg7R2OQEqLYjPjV69GXh3r3XIihzhHxDGQdi7oVusUbcfcYXzy5bAfGFP4LX4pUxhc8G05JIdx13wuiGlQzDNPxWXGvFL9wH8tviClTchA%2bgzQmfiBzvQfSs%2fvcRcPk4nUvD76VhB1rTiLyNK7L6yAVcl1PlcZsq2sEsFqGpdxuyeZkEQ%2bcGfcnacT%2fg%3d%3d&fich=PeticoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "c26dac93ad93dfa2ae59e6cc67f4607f06aab6fd9463b02c8517cb31fb62b02c",
+  "legislatura": "IX",
+  "id": "11260",
+  "numero": "62",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2003-12-19",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2004-10-20",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2004-01-21",
+        "DataArquivo": "2004-10-27",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2004-10-29",
+        "DataReaberta": "2004-01-21",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2003-12-19",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a793944543030764e3056445179394562324e31625756756447397a5547563061574e686279387a595451315954417a4d79316c5a44566b4c54526d596a67744f544a684f433169597a49784f5749335a44566c4e5441756347526d&fich=3a45a033-ed5d-4fb8-92a8-bc219b7d5e50.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "108",
+        "Legislatura": "IX",
+        "Nome": "COMISSÃO DE EDUCAÇÃO, CIÊNCIA E CULTURA",
+        "NotasAdmissibilidade": null,
+        "Numero": "7",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2004-01-21",
+            "gp": "PS",
+            "id": "1890",
+            "motivoCessacao": null,
+            "nome": "Cristina Granada"
+          }
+        ],
+        "RelatorioFinal": [
+          "21868"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2004-12-09",
+    "Documentos": [
+      {
+        "DataDocumento": "2003-12-19",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a7939555a58683062305a70626d46735547563061574e765a584d764d6d4a695a574a69595451744e6a686a4f5330304d7a49344c54686d5a4459744d324d315a4751335a4745305a47517a4c6e426b5a673d3d&fich=2bbebba4-68c9-4328-8fd6-3c5dd7da4dd3.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2004-12-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151293",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1303-1303"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-12-10",
+                "pubLeg": "IX",
+                "pubNr": "21",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/021/2004-12-10/1303?pgs=1303&org=PLC"
+              }
+            ],
+            "Sumario": "Pedido de adopção das medidas necessárias para que os alunos do 4º ano do ISCAL possam ser admitidos na Câmara dos Técnicos Oficiais de Contas com dispensa de estágio",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-12-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151294",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1303-1304"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-12-10",
+                "pubLeg": "IX",
+                "pubNr": "21",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/021/2004-12-10/1303?pgs=1303-1304&org=PLC"
+              }
+            ],
+            "Sumario": "Pedido de adopção das medidas necessárias para que os alunos do 4º ano do ISCAL possam ser admitidos na Câmara dos Técnicos Oficiais de Contas com dispensa de estágio",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-12-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151295",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1304-1304"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-12-10",
+                "pubLeg": "IX",
+                "pubNr": "21",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/021/2004-12-10/1304?pgs=1304&org=PLC"
+              }
+            ],
+            "Sumario": "Pedido de adopção das medidas necessárias para que os alunos do 4º ano do ISCAL possam ser admitidos na Câmara dos Técnicos Oficiais de Contas com dispensa de estágio",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-12-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151296",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1304-1305"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-12-10",
+                "pubLeg": "IX",
+                "pubNr": "21",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/021/2004-12-10/1304?pgs=1304-1305&org=PLC"
+              }
+            ],
+            "Sumario": "Pedido de adopção das medidas necessárias para que os alunos do 4º ano do ISCAL possam ser admitidos na Câmara dos Técnicos Oficiais de Contas com dispensa de estágio",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11260",
+    "PetAssunto": "Solicitam que sejam tomadas as medidas necessárias para que os alunos que se encontram a frequentar o 4º.ano do ISCAL possam ser admitidos na Câmara dos Técnicos Oficiais de Contas com dispensa de estágio.",
+    "PetDataEntrada": "2003-12-19",
+    "PeticoesAssociadas": null,
+    "PetId": "11260",
+    "PetLeg": "IX",
+    "PetNr": "62",
+    "PetNrAssinaturas": "5384",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "185",
+        "obs": null,
+        "pag": [
+          "1303-1305"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-12-10",
+        "pubLeg": "IX",
+        "pubNr": "21",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/021/2004-12-10/1303?pgs=1303-1305&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "291445",
+        "obs": null,
+        "pag": [
+          "181-181"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-07-03",
+        "pubLeg": "IX",
+        "pubNr": "35",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/02/035/2004-07-03/181?pgs=181&org=PLC"
+      }
+    ]
+  }
+}
