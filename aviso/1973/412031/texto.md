@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação do Secretariado Permanente da Conferência da Haia de Direito Internacional Privado, o Governo da Ilha Maurícia informou o Ministério dos Negócios Estrangeiros dos Países Baixos de que, nos termos da alínea 2 do artigo 6.º da Convenção Destinada a Suprimir a Exigência de Legalização dos Actos Públicos Estrangeiros, assinada na Haia em 5 de Outubro de 1961, a autoridade competente para, naquele país, efectuar a aposição da apostilha prevista na alínea 1 do artigo 3.º da mesma Convenção é a seguinte:
+O Secretário Permanente (The Permanent Secretary) ou, na sua ausência, o Secretário do Principal Assistente do Gabinete do Primeiro-Ministro (The Principal Assistent Secretary of the Prime Minister's Office).
+Secretaria-Geral do Ministério, 13 de Novembro de 1973. - O Secretário-Geral, José Calvet de Magalhães.
