@@ -1,0 +1,46 @@
+Portaria n.º 75/2002
+de 22 de Janeiro
+A Portaria n.º 536/95, de 3 de Junho, aprovou o Regulamento do Serviço de Vales de Correio. Decorridos mais de seis anos sobre a data da sua entrada em vigor, verifica-se a necessidade de se proceder a algumas alterações pontuais relativamente às questões de guarda, arquivo, destruição e recolha de imagem, segurança e força probatória das cópias dos documentos originais, no sentido da simplificação do seu regime e da sua compaginação com os normativos do Decreto-Lei n.º 279/2000, de 10 de Novembro.
+Com efeito, sendo o vale de correio uma ordem de pagamento de fundos, a subsistência de um regime diferente do aplicável às instituições de crédito e sociedades financeiras, no âmbito da guarda e da conservação de documentos, sempre apareceria como redundante e, nessa medida, dificilmente sustentável. Por outro lado, as medidas substantivas e conservatórias consignadas na lei coadunam-se sem constrangimentos com a fiabilidade e rigor exigíveis do serviço público de vales de correio.
+Aproveita-se ainda a oportunidade para introduzir alterações de pormenor nas matérias respeitantes a segundas emissões e ao pagamento de vales, ainda no sentido de harmonizar procedimentos entre os CTT e as instituições de crédito.
+Assim:
+Manda o Governo, pelos Ministros das Finanças e do Equipamento Social, ao abrigo do disposto no n.º 2 do artigo 56.º do Regulamento do Serviço Público dos Correios, aprovado pelo Decreto-Lei n.º 176/88, de 18 de Maio, o seguinte:
+1.º Os artigos 10.º, 11.º, 12.º, 14.º, 15.º e 18.º do Regulamento do Serviço de Vales de Correio, aprovado pela Portaria n.º 536/95, de 3 de Junho, passam a ter a redacção seguinte:
+«Artigo 10.º
+Vales perdidos, deteriorados ou destruídos
+1 - Os vales extraviados, perdidos ou destruídos podem ser substituídos por segundas emissões após decurso do respectivo prazo de validade.
+2 - ...
+3 - É aplicável às segundas emissões, com as necessárias adaptações, o disposto nos artigos 6.º, 7.º, 9.º, 11.º, 12.º, 14.º e 15.º, contando-se o prazo de caducidade a partir da data da emissão dos vales a que respeitam.
+Artigo 11.º
+[...]
+1 - Os vales são transmissíveis por endosso.
+2 - ...
+3 - ...
+Artigo 12.º
+[...]
+1 - Os vales são pagos ao destinatário, remetente, endossado ou seus representantes legais ou voluntários.
+2 - ...
+3 - As instituições de crédito aceitam vales e efectuam o respectivo tratamento e arquivo, nos termos do artigo 18.º, n.º 3, e segundo procedimentos a estabelecer com os CTT.
+4 - O pagamento dos vales faz-se mediante recibo.
+Artigo 14.º
+[...]
+1 - As pessoas a quem é feito o pagamento dos vales são identificadas mediante a apresentação do bilhete de identidade, passaporte ou outro documento que os CTT considerem idóneo para o efeito.
+2 - ...
+3 - ...
+4 - ...
+Artigo 15.º
+[...]
+1 - ...
+a) ...
+b) ...
+c) Os vales que tenham excedido o prazo de validade.
+2 - ...
+3 - ...
+Artigo 18.º
+[...]
+1 - ...
+2 - ...
+3 - É aplicável ao serviço de vales de correio, com as necessárias adaptações, o regime jurídico de guarda e arquivo, destruição, recolha de imagem, segurança e força probatória das cópias de documentos originais, aprovado pelo Decreto-Lei n.º 279/2000, de 10 de Novembro.»
+2.º É revogado o artigo 17.º do Regulamento do Serviço de Vales de Correio.
+Em 31 de Dezembro de 2001.
+O Ministro das Finanças, Guilherme d'Oliveira Martins. - O Ministro do Equipamento Social, Eduardo Luís Barreto Ferro Rodrigues.
