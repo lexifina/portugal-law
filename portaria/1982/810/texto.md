@@ -1,0 +1,17 @@
+Portaria n.º 810/82
+de 27 de Agosto
+Considerando que, após a publicação da Portaria n.º 317/80, de 6 de Junho, importa rever, em alguns casos, a distribuição dos lugares de chefe de serviços administrativos de 1.ª classe e 2.ª classe de estabelecimentos de ensino preparatório e secundário;
+Tendo em consideração o disposto no n.º 2 do artigo 2.º do Decreto-Lei n.º 273/79, de 3 de Agosto:
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros da Educação e da Reforma Administrativa, o seguinte:
+1.º Nas dotações privativas de pessoal administrativo dos estabelecimentos dos ensinos preparatório e secundário, constantes do mapa anexo à Portaria n.º 317/80, são introduzidas as seguintes alterações:
+a) Nas Escolas Preparatórias de Francisco Arruda, em Lisboa, e de Gomes Teixeira e de Ramalho Ortigão, no Porto, o lugar de chefe de serviços administrativos de 2.ª classe com que já se encontram dotadas extingue-se quando vagar;
+b) Nas Escolas Secundárias de Águas Santas (Maia) e de Valadares (Vila Nova de Gaia) é criado, em cada uma delas, 1 lugar de chefe de serviços administrativos de 1.ª classe e o lugar de chefe de serviços administrativos de 2.ª classe da Escola Secundária de Águas Santas (Maia), de que se encontra já dotada, extingue-se quando vagar;
+c) Na Escola Preparatória da Figueira da Foz e na Escola Secundária n.º 2 de Santo Tirso é criado, em cada uma delas, 1 lugar de chefe de serviços administrativos de 2.ª classe e o lugar de chefe de serviços administrativos de 1.ª classe da Escola Preparatória da Figueira da Foz, de que já se encontra dotada, extingue-se quando vagar;
+d) Na Escola Secundária de Carolina de Michaëlis, no Porto, é criado 1 lugar de chefe de serviços administrativos de 2.ª classe, o qual se extingue quando vagar, sendo, porém, aplicável o disposto no n.º 2 da Portaria n.º 317/80, com a nova redacção que lhe é dada por esta portaria.
+2.º Na dotação privativa da Escola Secundária do Laranjeiro (Almada), constante do mapa anexo à Portaria n.º 317/80, o lugar de chefe de serviços administrativos de 1.ª classe, de que já se encontra dotada, passa a poder ser provido sempre que vagar.
+3.º Na dotação privativa da Escola Secundária de Campos de Melo, na Covilhã, constante do mapa anexo à Portaria n.º 317/80, o lugar de chefe de serviços administrativos de 2.ª classe, de que já se encontra dotada, passa a poder ser provido sempre que vagar.
+4.º O n.º 2 da Portaria n.º 317/80, de 6 de Junho, passa a ter a seguinte redacção:
+2 - Nos estabelecimentos de ensino em cuja dotação privativa exista 1 lugar de chefe de serviços administrativos de 1.ª classe e 1 lugar de chefe de serviços administrativos de 2.ª classe, em que um deles seja a extinguir quando vagar, o provimento de um impedirá o provimento do outro.
+5.º É acrescentado um número à Portaria n.º 317/80, de 6 de Junho, com a seguinte redacção:
+1 - Sem prejuízo do disposto no n.º 2 desta portaria, os lugares vagos de chefe de serviços administrativos que não sejam a extinguir quando vagarem podem ser postos a concurso.
+Ministérios das Finanças e do Plano, da Educação e da Reforma Administrativa, 16 de Agosto de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Educação, João José Fraústo da Silva. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
