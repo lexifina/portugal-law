@@ -14,9 +14,9 @@
 
 a) Pessoas colectivas;
 
-b) Membros do conselho geral;
+b) Membros do conselho geral, sem prejuízo do disposto nos n.os 2 e 3 do artigo 437.º;
 
-c) Membros dos órgãos de administração e de fiscalização de sociedades que estejam em relação de domínio ou de grupo com a sociedade considerada;
+c) Membros dos órgãos de fiscalização de sociedades que estejam em relação de domínio ou de grupo com a sociedade considerada;
 
 d) Cônjuges, parentes e afins na linha recta e até ao terceiro grau, inclusive, na linha transversal, das pessoas referidas nas alíneas b) e c);
 
