@@ -1,0 +1,5 @@
+Aviso n.º 280/99
+Por ordem superior se torna público que, por nota de 7 de Dezembro de 1999, o director-geral da Organização Internacional do Trabalho, na sua qualidade de depositário da Convenção n.º 8 da OIT sobre Indemnização por Desemprego em Caso de Perda por Naufrágio, adoptada em Génova em 15 de Junho de 1920, comunicou ter o Governo de Portugal notificado, em 11 de Novembro de 1999, que a referida Convenção foi estendida ao território de Macau nos mesmos termos em que a ela está vinculado o Estado Português.
+Portugal é Parte da Convenção, que foi aprovada, para ratificação, pelo Decreto n.º 133/80, de 28 de Novembro, publicado no Diário da República, 1.ª série, n.º 276, de 28 de Novembro de 1980, e estendida a Macau pelo Decreto do Presidente da República n.º 207/99, de 9 de Novembro, publicado no Diário da República, 1.ª série-A, n.º 261, de 9 de Novembro de 1999.
+Para ser publicado no Boletim Oficial de Macau.
+Comissão Interministerial sobre Macau, 9 de Dezembro de 1999. - António Nunes de Carvalho Santana Carlos.
