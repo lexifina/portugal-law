@@ -8,6 +8,6 @@ As deliberações das câmaras municipais podem revestir a forma de postura ou r
 
 1.ª Prisão até um mês, aplicável por sentença do juiz competente;
 
-2.ª Multa até 500$00, acrescida de um têrço por cada reincidência;
+2.ª Multa até 2000$00, acrescida de um terço por cada reincidência;
 
 3.ª Apreensão dos instrumentos da contravenção, móveis ou semoventes, os quais caucionarão a responsabilidade civil e penal do contraventor.

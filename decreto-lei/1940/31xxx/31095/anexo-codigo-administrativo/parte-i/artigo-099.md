@@ -32,4 +32,4 @@ Nos concelhos de Lisboa e Porto dependem de deliberação tomada em reunião da 
 
 15.º A organização interna dos serviços municipais.
 
-§ único. Nas posturas e regulamentos policiais poderá ser cominada a pena de multa até 2.500$00.
+§ único. Nas posturas e regulamentos policiais poderá ser cominada a pena de multa até 10000$00.

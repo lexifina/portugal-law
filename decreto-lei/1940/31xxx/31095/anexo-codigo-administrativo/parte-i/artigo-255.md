@@ -42,6 +42,6 @@ Para o desempenho das suas atribuïções, compete às juntas de freguesia:
 
 § 2.º As posturas paroquiais serão sempre submetidas à aprovação do presidente da câmara, que examinará a sua legalidade e conformidade com os interêsses do município. Da decisão do presidente da câmara que julgar da legalidade das posturas poderá a junta de freguesia recorrer para o governador civil e da decisão dêste para o tribunal competente, e da decisão que as julgar pouco conformes com os interêsses do município poderá a mesma junta recorrer para o conselho municipal ou, tratando-se dos concelhos de Lisboa e Pôrto, para a câmara municipal.
 
-§ 3.º As juntas de freguesia podem cominar, nas posturas que elaborarem, a pena de multa até 100$00.
+§ 3.º As juntas de freguesia podem cominar, nas posturas que elaborarem, a pena de multa até 500$00.
 
 § 4.º São aplicáveis às juntas de freguesia as disposições dos artigos 53.º e 54.º, salvo, quanto ao primeiro, no que respeita à afixação dos regulamentos e posturas em todas as freguesias do concelho.
