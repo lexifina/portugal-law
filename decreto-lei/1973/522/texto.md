@@ -1,0 +1,20 @@
+Decreto-Lei n.º 522/73
+de 12 de Outubro
+A fixação dos preços dos produtos manipulados e preparações inscritas no Formulário Galénico Nacional tem estado a cargo da comissão prevista no Decreto n.º 24316, de 8 de Agosto de 1934. Entretanto, as modificações operadas nos serviços do Ministério da Saúde e Assistência pelo Decreto-Lei n.º 413/71, de 27 de Setembro, obrigaram a introduzir alterações na constituição e funcionamento da referida comissão.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Junto da Direcção de Serviços de Farmácia e Medicamentos, da Direcção-Geral de Saúde, funcionará uma comissão permanente para a elaboração e revisão dos preços dos produtos manipulados e preparados inscritos no Formulário Galénico Nacional, com a seguinte composição:
+a) Um presidente, designado por despacho do Ministro da Saúde e Assistência, sob proposta do director-geral de Saúde;
+b) Três vogais farmacêuticos, indicados, respectivamente, pela Ordem dos Farmacêuticos, pelo Grémio Nacional das Farmácias e pela Direcção-Geral de Saúde;
+c) Um vogal economista, a indicar pelo Ministério da Economia;
+d) Um técnico de saúde pública da Direcção de Serviços de Farmácia e Medicamentos, sem direito a voto, que será o secretário.
+Art. 2.º Compete à comissão:
+a) Rever anualmente o Regimento Geral dos Preços dos Medicamentos e Manipulações, introduzindo-lhe as alterações julgadas necessárias, eliminando as drogas que deixarem de ter aplicação e incluindo outras cujo interesse venha a ser demonstrado, fixando os seus preços e actualizando-os ou corrigindo-os de acordo com as flutuações dos mercados;
+b) Fixar os preços das fórmulas inscritas no Formulário Galénico Nacional, actualizando-os ou corrigindo-os, sempre que for caso disso.
+Art. 3.º Os componentes da comissão terão direito a senhas de presença e, quando não residam em Lisboa, ao abono de transportes e de ajudas de custo.
+Art. 4.º O presidente da comissão terá uma gratificação mensal, que será fixada em despacho conjunto dos Ministros das Finanças e da Saúde e Assistência.
+Art. 5.º O serviço de expediente e arquivo da comissão será executado por um funcionário administrativo da Direcção de Serviços de Farmácia e Medicamentos, que perceberá uma gratificação mensal que será fixada em despacho conjunto dos Ministros das Finanças e da Saúde e Assistência.
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Baltasar Leite Rebelo de Sousa.
+Promulgado em 27 de Setembro de 1973.
+Publique-se.
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
