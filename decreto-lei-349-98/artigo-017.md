@@ -12,4 +12,4 @@
 
 5 - A taxa de juro contratual aplicável será livremente negociada entre as partes.
 
-6 - Os juros decorrentes dos empréstimos intercalares são suportados pelo mutuário, até à data da respectiva amortização.
+6 - Os juros calculados nos termos do número anterior integrarão o montante do empréstimo definitivo.

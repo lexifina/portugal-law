@@ -2,10 +2,10 @@
 
 ### Comprovação anual das condições de acesso
 
-1 - Para apuramento do rendimento anual bruto corrigido do agregado familiar é tida em conta a composição do agregado familiar declarada pelos mutuários à instituição de crédito mutuante e por esta transmitida à Direcção-Geral do Tesouro.
+1 - Os mutuários deverão fazer a comprovação do rendimento anual bruto e da composição do agregado familiar junto da instituição de crédito mutuante nos termos a regulamentar na portaria a que se refere o n.º 1 do artigo 11.º
 
-2 - Para efeito do disposto no número anterior, os mutuários devem fazer a comprovação da composição do agregado familiar junto da instituição de crédito mutuante sempre que se verifique uma alteração da respectiva composição ou quando procedam à entrega da declaração referida na parte final da alínea b) do n.º 7 do artigo 11.º do presente diploma, nos termos da portaria a que se refere o n.º 1 do mesmo artigo.
+2 - A comprovação a que se refere o número anterior deve ser feita mediante a apresentação dos documentos comprovativos da composição e dos rendimentos do agregado familiar previstos no n.º 8 do artigo 11.º
 
-3 - Por portaria dos membros do Governo responsáveis pelas áreas das finanças e da habitação, são determinados os procedimentos e elementos a utilizar para efeito de determinação do rendimento anual bruto corrigido do agregado familiar.
+3 - A falta de comprovação a que se refere o n.º 1 determina a perda das bonificações a que os mutuários tenham direito no período anual seguinte do contrato.
 
-4 - (Revogado.)
+4 - A prestação de falsas declarações quanto ao rendimento anual bruto e composição do agregado familiar determina a imediata integração dos mutuários nas condições do regime geral de crédito para além da obrigatoriedade de reembolso das bonificações nos termos do n.º 2 do artigo 12.º
