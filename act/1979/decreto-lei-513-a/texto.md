@@ -1,0 +1,16 @@
+Decreto-Lei n.º 513-A/79
+de 24 de Dezembro
+Completam-se em 1980 quatro séculos sobre a morte de Luís de Camões, cujo génio criador o impôs como o maior de entre os grandes poetas portugueses e como um dos maiores vultos da literatura universal.
+Constitui, assim, inalienável dever da comunidade nacional honrá-lo, neste IV centenário da sua morte, com a dignidade e a projecção que os valores intangíveis da nossa história e a afirmação da nossa contribuição específica para a cultura, espelhada na vida e obra de Luís de Camões, justificam, impondo-se, deste modo, a participação de todos os portugueses, tanto no País como no estrangeiro.
+Assim:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º Comemorar-se-á, durante todo o ano de 1980 e com início em 1 de Janeiro, o IV Centenário da Morte de Luís de Camões.
+Art. 2.º As comemorações, que serão consideradas de carácter e interesse nacionais, desenrolar-se-ão sob a égide de uma comissão de honra, a que se dignará presidir o Presidente da República.
+Art. 3.º - 1 - O programa das comemorações oficiais e a sua execução ficarão, por sua vez, a cargo de uma comissão organizadora, cujo presidente será nomeado pelo Presidente da República, mediante proposta do Primeiro-Ministro.
+2 - Os restantes membros da comissão organizadora serão nomeados pelo Primeiro-Ministro, sob proposta do respectivo presidente.
+Art. 4.º O presidente da comissão organizadora apresentará ao Primeiro-Ministro o programa das comemorações e respectiva previsão de encargos nos quarenta e cinco dias seguintes à data de constituição da comissão.
+Art. 5.º O Ministro das Finanças tomará as providências necessárias à execução do presente diploma, devendo ser inscritas as dotações adequadas no orçamento da Secretaria-Geral da Presidência do Conselho de Ministros, que prestará à comissão organizadora o apoio administrativo necessário.
+Visto e aprovado em Conselho de Ministros de 19 de Dezembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco.
+Promulgado em 19 de Novembro de 1979.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
