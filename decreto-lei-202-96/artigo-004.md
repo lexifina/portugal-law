@@ -8,6 +8,8 @@
 
 3 - Quando o grau de incapacidade arbitrado for susceptível de variação futura, a junta deve indicar a data de novo exame, levando em consideração o previsto na Tabela Nacional de Incapacidades ou na fundamentação clínica que lhe tenha sido presente.
 
-4 - O atestado médico de incapacidade deve indicar o fim a que se destina e respectivos efeitos legais.
+4 - Sempre que a lei faça depender a atribuição de benefícios de determinados requisitos específicos, o atestado médico de incapacidade deve indicar o fim a que se destina e respectivos efeitos e condições legais, bem como a natureza das deficiências e os condicionalismos relevantes para a concessão do benefício.
 
 5 - Sempre que a junta médica entender ser necessário esclarecimento adicional no âmbito de especialidade médico-cirúrgica, deverá o presidente solicitar exames complementares, técnicos ou de especialidade, cujo relatório deve ser apresentado no prazo de 30 dias.
+
+6 - Os atestados de incapacidade podem ser utilizados para todos os fins legalmente previstos, adquirindo uma função multiuso, devendo todas as entidades públicas ou privadas, perante quem sejam exibidos, devolvê-los aos interessados ou seus representantes após anotação de conformidade com o original, aposta em fotocópia simples.
