@@ -1,0 +1,1204 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Projeto de Revisão Constitucional",
+    "numero": "2",
+    "id": "19904",
+    "titulo": "Projecto de Revisão Constitucional nº2/VII."
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "1997-09-03",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3294",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "1997-09-03",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1997-09-03",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "82",
+                "nome": "Falcão e Cunha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "16:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46433",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4096-4097"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-09-04",
+                "pubLeg": "VII",
+                "pubNr": "106",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/106/1997-09-04/4096?pgs=4096-4097&org=PLC"
+              }
+            ],
+            "sumario": "RC4-DECLARACOES DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "19",
+                "nome": "Barbosa de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "16:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46434",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4096-4097"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-09-04",
+                "pubLeg": "VII",
+                "pubNr": "106",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/106/1997-09-04/4096?pgs=4096-4097&org=PLC"
+              }
+            ],
+            "sumario": "RC4-DECLARACOES DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "117",
+                "nome": "Maria Manuela Aguiar"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "16:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46435",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4096-4097"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-09-04",
+                "pubLeg": "VII",
+                "pubNr": "106",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/106/1997-09-04/4096?pgs=4096-4097&org=PLC"
+              }
+            ],
+            "sumario": "RC4-DECLARACOES DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1537",
+                "nome": "Hugo Velosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "16:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46436",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4094-4096"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-09-04",
+                "pubLeg": "VII",
+                "pubNr": "106",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/106/1997-09-04/4094?pgs=4094-4096&org=PLC"
+              }
+            ],
+            "sumario": "RC4-DECLARACOES DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "397",
+                "nome": "Correia de Jesus"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "16:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46437",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4094-4096"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-09-04",
+                "pubLeg": "VII",
+                "pubNr": "106",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/106/1997-09-04/4094?pgs=4094-4096&org=PLC"
+              }
+            ],
+            "sumario": "RC4-DECLARACOES DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "16:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46438",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4094-4096"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-09-04",
+                "pubLeg": "VII",
+                "pubNr": "106",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/106/1997-09-04/4094?pgs=4094-4096&org=PLC"
+              }
+            ],
+            "sumario": "RC4-DECLARACOES DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "167",
+                "nome": "Fernando Pereira Marques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "16:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46439",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4092-4094"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-09-04",
+                "pubLeg": "VII",
+                "pubNr": "106",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/106/1997-09-04/4092?pgs=4092-4094&org=PLC"
+              }
+            ],
+            "sumario": "RC4-DECLARACOES DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "149",
+                "nome": "António Martinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "16:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46440",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4092-4092"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-09-04",
+                "pubLeg": "VII",
+                "pubNr": "106",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/106/1997-09-04/4092?pgs=4092&org=PLC"
+              }
+            ],
+            "sumario": "RC4-DECLARACOES DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "542",
+                "nome": "Isabel Sena Lino"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "16:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46441",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4091-4092"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-09-04",
+                "pubLeg": "VII",
+                "pubNr": "106",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/106/1997-09-04/4091?pgs=4091-4092&org=PLC"
+              }
+            ],
+            "sumario": "RC4-DECLARACOES DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1462",
+                "nome": "Arlindo Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "16:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46442",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4091-4092"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-09-04",
+                "pubLeg": "VII",
+                "pubNr": "106",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/106/1997-09-04/4091?pgs=4091-4092&org=PLC"
+              }
+            ],
+            "sumario": "RC4-DECLARACOES DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "235",
+                "nome": "Manuel Alegre"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "16:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46443",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4091-4091"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-09-04",
+                "pubLeg": "VII",
+                "pubNr": "106",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/106/1997-09-04/4091?pgs=4091&org=PLC"
+              }
+            ],
+            "sumario": "RC4-DECLARACOES DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "167",
+                "nome": "Fernando Pereira Marques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "16:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46444",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4090-4091"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-09-04",
+                "pubLeg": "VII",
+                "pubNr": "106",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/106/1997-09-04/4090?pgs=4090-4091&org=PLC"
+              }
+            ],
+            "sumario": "RC4-DECLARACOES DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "165",
+                "nome": "Elisa Damião"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "16:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46446",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4090-4091"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-09-04",
+                "pubLeg": "VII",
+                "pubNr": "106",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/106/1997-09-04/4090?pgs=4090-4091&org=PLC"
+              }
+            ],
+            "sumario": "RC4-DECLARACOES DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1372",
+                "nome": "Arnaldo Homem Rebelo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "16:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46447",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4090-4091"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-09-04",
+                "pubLeg": "VII",
+                "pubNr": "106",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/106/1997-09-04/4090?pgs=4090-4091&org=PLC"
+              }
+            ],
+            "sumario": "RC4-DECLARACOES DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "164",
+                "nome": "Eduardo Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "16:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46448",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4090-4091"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-09-04",
+                "pubLeg": "VII",
+                "pubNr": "106",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/106/1997-09-04/4090?pgs=4090-4091&org=PLC"
+              }
+            ],
+            "sumario": "RC4-DECLARACOES DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1154",
+                "nome": "Helena Roseta"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "16:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46449",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4090-4091"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-09-04",
+                "pubLeg": "VII",
+                "pubNr": "106",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/106/1997-09-04/4090?pgs=4090-4091&org=PLC"
+              }
+            ],
+            "sumario": "RC4-DECLARACOES DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "148",
+                "nome": "Marques Júnior"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "16:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46450",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4090-4091"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-09-04",
+                "pubLeg": "VII",
+                "pubNr": "106",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/106/1997-09-04/4090?pgs=4090-4091&org=PLC"
+              }
+            ],
+            "sumario": "RC4-DECLARACOES DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "462",
+                "nome": "Alberto Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "16:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46451",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4090-4091"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-09-04",
+                "pubLeg": "VII",
+                "pubNr": "106",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/106/1997-09-04/4090?pgs=4090-4091&org=PLC"
+              }
+            ],
+            "sumario": "RC4-DECLARACOES DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "16:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46452",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4086-4089"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-09-04",
+                "pubLeg": "VII",
+                "pubNr": "106",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/106/1997-09-04/4086?pgs=4086-4089&org=PLC"
+              }
+            ],
+            "sumario": "RC4-DECLARACOES FINAIS PREVIAS A VOTACAO FINAL GLOBAL DOTEXTO DA REVISAO CONSTITUCIONAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "370",
+                "nome": "Luís Marques Mendes"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "16:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46453",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4083-4086"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-09-04",
+                "pubLeg": "VII",
+                "pubNr": "106",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/106/1997-09-04/4083?pgs=4083-4086&org=PLC"
+              }
+            ],
+            "sumario": "RC4-DECLARACOES FINAIS PREVIAS A VOTACAO FINAL GLOBAL DOTEXTO DA REVISAO CONSTITUCIONAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "581",
+                "nome": "Ferreira Ramos"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "16:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46454",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4081-4083"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-09-04",
+                "pubLeg": "VII",
+                "pubNr": "106",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/106/1997-09-04/4081?pgs=4081-4083&org=PLC"
+              }
+            ],
+            "sumario": "RC4-DECLARACOES FINAIS PREVIAS A VOTACAO FINAL GLOBAL DOTEXTO DA REVISAO CONSTITUCIONAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "16:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46455",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4079-4081"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-09-04",
+                "pubLeg": "VII",
+                "pubNr": "106",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/106/1997-09-04/4079?pgs=4079-4081&org=PLC"
+              }
+            ],
+            "sumario": "RC4-DECLARACOES FINAIS PREVIAS A VOTACAO FINAL GLOBAL DOTEXTO DA REVISAO CONSTITUCIONAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "16:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46456",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4078-4079"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-09-04",
+                "pubLeg": "VII",
+                "pubNr": "106",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/106/1997-09-04/4078?pgs=4078-4079&org=PLC"
+              }
+            ],
+            "sumario": "RC4-DECLARACOES FINAIS PREVIAS A VOTACAO FINAL GLOBAL DOTEXTO DA REVISAO CONSTITUCIONAL",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "167734",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "3294",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1997-09-04",
+        "pubLeg": "VII",
+        "pubNr": "106",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/106/1997-09-04?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "1997-09-03",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I><BR>Contra:<I>CDS-PP</I>, <I> PCP</I>, <I> PEV</I>, <I> Manuel Alegre (PS)</I><BR>Abstenção:<I>Elisa Damião (PS)</I>, <I> Helena Roseta (PS)</I>, <I> Fernando Pereira Marques (PS)</I>, <I> Luís Filipe Madeira (PS)</I>, <I> Arnaldo Homem Rebelo (PS)</I>, <I> Alberto Martins (PS)</I>, <I> Eduardo Pereira (PS)</I>, <I> Marques Júnior (PS)</I>",
+        "id": "32890",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "106",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
