@@ -1,0 +1,9 @@
+Portaria n.º 192/79
+de 21 de Abril
+Para o preenchimento dos lugares da carreira de programadores do quadro do pessoal de informática, aprovado pelo Decreto-Lei n.º 26/78, de 27 de Janeiro, foi considerado naquele quadro um lugar de programador estagiário com lugar de ingresso normal. Por outro lado, por força da alínea e) do n.º 4 do artigo 4.º do Decreto-Lei n.º 525/77, de 29 de Dezembro, existe uma segunda fonte de recrutamento para a referida carreira, o que obsta a que, neste caso, tenha aplicação a providência prevista no artigo 1.º do Decreto-Lei n.º 27199, de 16 de Novembro de 1936, permitindo o reflexo nos efectivos dos lugares de ingresso das vacaturas existentes nos lugares de acesso. Dado, porém, que aquela fonte de recrutamento alternativa é grandemente aleatória, a existência de um único lugar na categoria de programador estagiário inviabiliza, na prática, o preenchimento oportuno do quadro acima mencionado, pelo que se torna necessário aumentar outro lugar à referida categoria.
+Nestes termos, e havendo a concordância do Ministro das Finanças e do Plano:
+Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, nos termos do n.º 4 do artigo 1.º do Decreto-Lei n: 618/70, de 14 de Dezembro, o seguinte:
+1.º No mapa a que se refere o n.º 1 do artigo 1.º do Decreto-Lei n.º 618/70, de 14 de Dezembro, com os reajustamentos introduzidos pelo Decreto-Lei n.º 26/78, de 27 de Janeiro, no grupo V - Pessoal de informática é aumentado o seguinte lugar:
+1 programador estagiário.
+2.º Esta portaria entra em vigor em 1 de Março de 1979 e os encargos dela resultantes serão suportados no ano corrente pelas disponibilidades da dotação inscrita no cap. 02, div. 03, C. E. 01.02, do projecto de orçamento da Marinha ou dos correspondentes duodécimos provisórios.
+Estado-Maior da Armada, 29 de Março de 1979. - O Chefe do Estado-Maior da Armada, António Egídio de Sousa Leitão, almirante.
