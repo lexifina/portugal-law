@@ -1,0 +1,5 @@
+Resolução n.º 187/81
+Pela Resolução do Conselho de Ministros n.º 78/81, de 7 de Abril, foi prorrogado até 31 de Julho de 1981 o prazo fixado para o termo da intervenção estatal nas empresas Nutripol - Sociedade Portuguesa de Supermercados, S. A. R. L., e Supermercados Boa Ajuda Modelar, Lda.
+Não se encontrando ainda reunidas as condições que se julgam indispensáveis para fazer cessar a intervenção do Estado, mas estando a decorrer o processo conducente a tal cessação:
+O Conselho de Ministros, reunido em 6 de Agosto de 1981, resolveu prorrogar até 31 de Dezembro de 1981, com efeitos a partir do dia 1 de Agosto de 1981, o prazo fixado na Resolução do Conselho de Ministros n.º 78/81, de 7 de Abril, nos termos do n.º 3 do artigo 6.º do Decreto-Lei n.º 422/76, de 29 de Maio, com a redacção que lhe foi dada pelo artigo 2.º do Decreto-Lei n.º 370/77, de 5 de Setembro, legislação aplicável por força do disposto no artigo 2.º do Decreto-Lei n.º 90/81, de 28 de Abril.
+Presidência do Conselho de Ministros, 6 de Agosto de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
