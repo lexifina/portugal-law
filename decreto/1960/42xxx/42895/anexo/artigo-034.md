@@ -1,5 +1,11 @@
 # Artigo 34.º
 
-Placas de advertência. - Nas instalações deverão ser afixadas, em locais bem visíveis do exterior, uma ou mais placas de dimensões não inferiores a 12 cm x 20 cm, com uma flecha vermelha em ziguezague e a inscrição «Perigo de morte», durável e bem legível.
+### Sinalização de segurança
 
-Comentário. - Recomenda-se a inscrição das iniciais e número de telefone do distribuidor de energia na placa de «Perigo de morte» ou noutra colocada junto dela.
+Nas instalações deverão ser afixadas, em locais bem visíveis do exterior, uma ou mais placas de sinalização de segurança de dimensões apropriadas.
+
+Comentários.
+
+1 - As normas portuguesas NP-608 e NP-609 fixam as características das sinalizações de segurança.
+
+2 - Recomenda-se que junto das placas colocadas nos locais do acesso do exterior sejam indicadas as iniciais e o número de telefone do distribuidor local.

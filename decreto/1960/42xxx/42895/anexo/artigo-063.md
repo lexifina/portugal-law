@@ -1,5 +1,7 @@
 # Artigo 63.º
 
-Transformadores em paralelo. - Num posto de transformação com transformadores funcionando em paralelo, além da protecção individual ou comum contra curtos-circuitos, cada um dos transformadores deverá ser protegido, no lado da alta ou no da baixa tensão, com dispositivos contra sobrecargas.
+### Resistência aos curtos-circuitos
 
-§ único. Permite-se a protecção comum de dois transformadores contra sobrecargas quando trabalhem constantemente em paralelo.
+Os transformadores de potência, os disjuntores, os interruptores, os seccionadores e demais aparelhagem, bem como os condutores nus e seus apoios e demais canalizações, deverão poder resistir aos efeitos dinâmicos e térmicos dos curtos-circuitos até ao momento da actuação das protecções.
+
+Comentário. - No cálculo dos efeitos dinâmicos deve considerar-se o valor máximo instantâneo da corrente termicamente equivalente de curto-circuito e no cálculo dos efeitos térmicos deve considerar-se a corrente permanente de curto-circuito.
