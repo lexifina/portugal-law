@@ -1,0 +1,30 @@
+Decreto n.º 48398
+Considerando a necessidade de garantir às instalações da bateria de Alcabideche e outros órgãos de defesa costeira nas suas imediações as medidas de segurança indispensáveis e a possibilidade de execução das missões que lhes competem;
+Considerando a conveniência de promover a protecção de pessoas e bens nas zonas confinantes com aquelas instalações;
+Considerando o disposto nos artigos 1.º, 6.º, alínea a), 8.º, 9.º e 10.º da Lei n.º 2078, de 11 de Julho de 1955, e as disposições do Decreto-Lei n.º 45986, de 22 de Outubro de 1964;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º Ficam sujeitos a servidão militar os terrenos confinantes com a bateria de Alcabideche e órgãos anexos compreendidos:
+1) Nos círculos de raio igual a 200 m com centro nas peças e nos observatórios;
+2) Na área delimitada pelos azimutes cartográficos de 00º 00' e 117º 00' (referidos à segunda peça) e os arcos de círculo com os raios de 200 m e de 600 m;
+3) Na área delimitada pelos azimutes cartográficos de 117º 00' e 360º 00' (referidos à segunda peça) e os arcos de círculo com os raios de 200 m e de 1600 m.
+Art. 2.º Sobre a área descrita no n.º 1) do artigo anterior terá aplicação o disposto na alínea d) do artigo 2.º da Lei n.º 2078, sendo proibida, sem licença da entidade militar competente, a execução de quaisquer dos trabalhos ou actividades descritas no artigo 9.º da referida lei e ainda a instalação de cabos de transporte de energia eléctrica, aéreos ou subterrâneos.
+Art. 3.º Na área definida no n.º 2) do artigo 1.º é proibida, sem licença da entidade militar competente, a execução de quaisquer dos trabalhos e actividades a que se refere o artigo 10.º da Lei n.º 2078, de 11 de Julho de 1955.
+Art. 4.º Na área definida no n.º 3) do artigo 1.º é exigida a prévia licença militar como se estabelece no artigo anterior, sendo, porém, dispensadas dessa licença as construções cuja altura não ultrapasse 15 m e fiquem situadas:
+a) Entre os limites definidos pelos azimutes cartográficos de 117º 00' e 210º 00' e sejam implantadas em terrenos de cotas inferiores a 60 m;
+b) Entre os limites definidos pelos azimutes cartográficos de 210º 00' e 240º 00' e sejam implantados em terrenos de cotas inferiores a 65 m;
+c) Entre os limites definidos pelos azimutes cantográficos de 240º 00' e 360º 00' e sejam implantadas em terrenos de cotas inferiores a 75 m.
+Art. 5.º Ao Governo Militar de Lisboa compete, ouvida a Direcção do Serviço de Fortificações e Obras Militares, conceder as licenças a que neste decreto se faz referência.
+Art. 6.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao Comando do Regimento de Artilharia de Costa e, em escalão imediatamente superior, ao governador militar de Lisboa, por intermédio da delegação do Serviço de Fortificações e Obras Militares no Governo Militar de Lisboa.
+Art. 7.º A demolição das obras feitas ilegalmente e a aplicação das multas consequentes são da competência da delegação do Serviço de Fortificações e Obras Militares do Governo Militar de Lisboa.
+Art. 8.º Das decisões tomadas nos termos do artigo 5.º cabe recurso para o Ministro do Exército; das decisões tomadas nos termos do artigo anterior cabe recurso para o governador militar de Lisboa.
+Art. 9.º As áreas descritas no artigo 1.º serão demarcadas nas cartas n.os 429 e 430 do Serviço Cartográfico do Exército, na escala de 1 : 25000, organizando-se oito colecções com a classificação de «Reservado», que terão os seguintes destinos:
+Uma ao Secretariado-Geral da Defesa Nacional.
+Uma ao Estado-Maior do Exército (3.ª Repartição).
+Uma à Comissão Superior de Fortificações.
+Uma à Direcção da Arma de Artilharia.
+Uma à Direcção do Serviço de Fortificações e Obras Militares.
+Uma ao Governo Militar de Lisboa.
+Uma ao Ministério das Obras Públicas.
+Uma ao Ministério do Interior.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 23 de Maio de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Joaquim da Luz Cunha - José Albino Machado Vaz.
