@@ -1,0 +1,6 @@
+Rectificação
+Tendo sido publicada com inexactidão no Diário do Governo, 1.ª série, n.º 168, de 19 de Julho último, pelo Ministério dos Negócios Estrangeiros, Direcção-Geral dos Negócios Económicos, a Convenção entre Portugal e a Dinamarca para Evitar a Dupla Tributação em Matéria de Impostos sobre o Rendimento, aprovada pelo Decreto n.º 365/73, determino que se façam as seguintes rectificações:
+Na versão inglesa, no artigo 8.º, n.º 3, onde se lê: «... shall be taxable in the Contracting State ...», deve ler-se: «... shall be taxable only in the Contracting State ...», e no artigo 13.º, n.º 4, onde se lê: «... or issue of shares with right of preference for the members of such companies», deve ler-se: «... or issue of shares with right of preference».
+No protocolo, artigo 15.º, n.º 3, onde se lê: «... shall de taxable ...», deve ler-se: «... shall be taxable ...».
+Na versão portuguesa, após o artigo 29.º, onde se lê: «Em testamento do qual os plenipotenciários dos dois Estados assinaram a presente Convenção e puseram os respectivos selos», deve ler-se: «Em testemunho do que os plenipotenciários dos dois Estados assinaram a presente Convenção e apuseram os respectivos selos».
+Presidência do Conselho, 11 de Outubro de 1973. - O Presidente do Conselho, Marcello Caetano.
