@@ -1,0 +1,516 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "189",
+    "id": "19930",
+    "titulo": "Sobre a extinção do Instituto Geológico e Mineiro, a obtenção e o tratamento da informação geológica  sistemática e os recursos minerais relativos ao território nacional."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2004-02-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3001",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2004-02-20",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "19903",
+        "leg": "IX",
+        "nr": "187",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "772",
+            "obs": null,
+            "pag": [
+              "3018-3025"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-02-21",
+            "pubLeg": "IX",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/054/2004-02-21/3018?pgs=3018-3025&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "772",
+            "obs": null,
+            "pag": [
+              "3018-3025"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-02-21",
+            "pubLeg": "IX",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/054/2004-02-21/3018?pgs=3018-3025&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Sobre a extinção do Instituto Geológico e Mineiro."
+      },
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "20138",
+        "leg": "IX",
+        "nr": "223",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "772",
+            "obs": null,
+            "pag": [
+              "3018-3025"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-02-21",
+            "pubLeg": "IX",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/054/2004-02-21/3018?pgs=3018-3025&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "772",
+            "obs": null,
+            "pag": [
+              "3018-3025"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-02-21",
+            "pubLeg": "IX",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/054/2004-02-21/3018?pgs=3018-3025&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "R",
+        "titulo": "Sobre a extinção do Instituto Geológico mineiro e de uma entidade autónoma no domínio das eco-ciências."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2004-02-20",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1278",
+                "nome": "Augusto Santos Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148608",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3018-3019"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-21",
+                "pubLeg": "IX",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/054/2004-02-21/3018?pgs=3018-3019&org=PLC"
+              }
+            ],
+            "sumario": "Extinção do Instituto Geológico e Mineiro, obtenção e tratamento da informação geológica  sistemática e recursos minerais relativos ao território nacional; extinção do IGM e de uma entidade autónoma no domínio das eco-ciências",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1423",
+                "nome": "Luísa Mesquita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148609",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3019-3020"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-21",
+                "pubLeg": "IX",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/054/2004-02-21/3019?pgs=3019-3020&org=PLC"
+              }
+            ],
+            "sumario": "Extinção do Instituto Geológico e Mineiro, obtenção e tratamento da informação geológica  sistemática e recursos minerais relativos ao território nacional; extinção do IGM e de uma entidade autónoma no domínio das eco-ciências",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148610",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3020-3021"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-21",
+                "pubLeg": "IX",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/054/2004-02-21/3020?pgs=3020-3021&org=PLC"
+              }
+            ],
+            "sumario": "Extinção do Instituto Geológico e Mineiro, obtenção e tratamento da informação geológica  sistemática e recursos minerais relativos ao território nacional; extinção do IGM e de uma entidade autónoma no domínio das eco-ciências",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1899",
+                "nome": "José Manuel Alves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148611",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3021-3021"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-21",
+                "pubLeg": "IX",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/054/2004-02-21/3021?pgs=3021&org=PLC"
+              }
+            ],
+            "sumario": "Extinção do Instituto Geológico e Mineiro, obtenção e tratamento da informação geológica  sistemática e recursos minerais relativos ao território nacional; extinção do IGM e de uma entidade autónoma no domínio das eco-ciências",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1488",
+                "nome": "Afonso Candal"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148612",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3022-3023"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-21",
+                "pubLeg": "IX",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/054/2004-02-21/3022?pgs=3022-3023&org=PLC"
+              }
+            ],
+            "sumario": "Extinção do Instituto Geológico e Mineiro, obtenção e tratamento da informação geológica  sistemática e recursos minerais relativos ao território nacional; extinção do IGM e de uma entidade autónoma no domínio das eco-ciências",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1975",
+                "nome": "Alda Sousa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148613",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3023-3023"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-21",
+                "pubLeg": "IX",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/054/2004-02-21/3023?pgs=3023&org=PLC"
+              }
+            ],
+            "sumario": "Extinção do Instituto Geológico e Mineiro, obtenção e tratamento da informação geológica  sistemática e recursos minerais relativos ao território nacional; extinção do IGM e de uma entidade autónoma no domínio das eco-ciências",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1310",
+                "nome": "Henrique Campos Cunha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148614",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3024-3025"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-21",
+                "pubLeg": "IX",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/054/2004-02-21/3024?pgs=3024-3025&org=PLC"
+              }
+            ],
+            "sumario": "Extinção do Instituto Geológico e Mineiro, obtenção e tratamento da informação geológica  sistemática e recursos minerais relativos ao território nacional; extinção do IGM e de uma entidade autónoma no domínio das eco-ciências",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "161550",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "285722",
+        "obs": null,
+        "pag": [
+          "3018-3025"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-02-21",
+        "pubLeg": "IX",
+        "pubNr": "54",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/054/2004-02-21/3018?pgs=3018-3025&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
