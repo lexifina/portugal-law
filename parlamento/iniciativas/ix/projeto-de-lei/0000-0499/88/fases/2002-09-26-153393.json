@@ -1,0 +1,936 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "88",
+    "id": "19145",
+    "titulo": "Aprova medidas tendentes a garantir a eficiência e a combater a fraude e a evasão fiscal."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2002-09-26",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2258",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2002-09-26",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2002-09-26",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1987",
+                "nome": "Eduardo Cabrita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142079",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1661-1664"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-09-27",
+                "pubLeg": "IX",
+                "pubNr": "41",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/041/2002-09-27/1661?pgs=1661-1664&org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas tendentes a garantir a eficiência e a combater a fraude e a evasão fiscal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142080",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1663-1664",
+                  "1675-1675"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-09-27",
+                "pubLeg": "IX",
+                "pubNr": "41",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/041/2002-09-27/1663?pgs=1663-1664,1675&org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas tendentes a garantir a eficiência e a combater a fraude e a evasão fiscal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1147",
+                "nome": "António da Silva Preto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142081",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1664-1667"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-09-27",
+                "pubLeg": "IX",
+                "pubNr": "41",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/041/2002-09-27/1664?pgs=1664-1667&org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas tendentes a garantir a eficiência e a combater a fraude e a evasão fiscal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "428",
+                "nome": "Fernando Serrasqueiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142082",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1666-1666"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-09-27",
+                "pubLeg": "IX",
+                "pubNr": "41",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/041/2002-09-27/1666?pgs=1666&org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas tendentes a garantir a eficiência e a combater a fraude e a evasão fiscal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1267",
+                "nome": "Joaquim Pina Moura"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142083",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1667-1667"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-09-27",
+                "pubLeg": "IX",
+                "pubNr": "41",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/041/2002-09-27/1667?pgs=1667&org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas tendentes a garantir a eficiência e a combater a fraude e a evasão fiscal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1147",
+                "nome": "António da Silva Preto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142084",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1667-1669"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-09-27",
+                "pubLeg": "IX",
+                "pubNr": "41",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/041/2002-09-27/1667?pgs=1667-1669&org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas tendentes a garantir a eficiência e a combater a fraude e a evasão fiscal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142085",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1668-1668"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-09-27",
+                "pubLeg": "IX",
+                "pubNr": "41",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/041/2002-09-27/1668?pgs=1668&org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas tendentes a garantir a eficiência e a combater a fraude e a evasão fiscal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142086",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1669-1670"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-09-27",
+                "pubLeg": "IX",
+                "pubNr": "41",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/041/2002-09-27/1669?pgs=1669-1670&org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas tendentes a garantir a eficiência e a combater a fraude e a evasão fiscal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1953",
+                "nome": "Diogo Feio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142087",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1670-1672",
+                  "1679-1679"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-09-27",
+                "pubLeg": "IX",
+                "pubNr": "41",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/041/2002-09-27/1670?pgs=1670-1672,1679&org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas tendentes a garantir a eficiência e a combater a fraude e a evasão fiscal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142088",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1672-1673"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-09-27",
+                "pubLeg": "IX",
+                "pubNr": "41",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/041/2002-09-27/1672?pgs=1672-1673&org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas tendentes a garantir a eficiência e a combater a fraude e a evasão fiscal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E. DOS  ASSUNTOS FISCAIS",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Vasco Valdez"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142089",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1673-1676"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-09-27",
+                "pubLeg": "IX",
+                "pubNr": "41",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/041/2002-09-27/1673?pgs=1673-1676&org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas tendentes a garantir a eficiência e a combater a fraude e a evasão fiscal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142090",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1675-1675"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-09-27",
+                "pubLeg": "IX",
+                "pubNr": "41",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/041/2002-09-27/1675?pgs=1675&org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas tendentes a garantir a eficiência e a combater a fraude e a evasão fiscal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142091",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1677-1677"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-09-27",
+                "pubLeg": "IX",
+                "pubNr": "41",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/041/2002-09-27/1677?pgs=1677&org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas tendentes a garantir a eficiência e a combater a fraude e a evasão fiscal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142092",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1677-1677"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-09-27",
+                "pubLeg": "IX",
+                "pubNr": "41",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/041/2002-09-27/1677?pgs=1677&org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas tendentes a garantir a eficiência e a combater a fraude e a evasão fiscal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E. DOS  ASSUNTOS FISCAIS",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Vasco Valdez"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142093",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1677-1677"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-09-27",
+                "pubLeg": "IX",
+                "pubNr": "41",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/041/2002-09-27/1677?pgs=1677&org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas tendentes a garantir a eficiência e a combater a fraude e a evasão fiscal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142094",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1677-1677"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-09-27",
+                "pubLeg": "IX",
+                "pubNr": "41",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/041/2002-09-27/1677?pgs=1677&org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas tendentes a garantir a eficiência e a combater a fraude e a evasão fiscal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142095",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1678-1678"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-09-27",
+                "pubLeg": "IX",
+                "pubNr": "41",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/041/2002-09-27/1678?pgs=1678&org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas tendentes a garantir a eficiência e a combater a fraude e a evasão fiscal.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142096",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1678-1680"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-09-27",
+                "pubLeg": "IX",
+                "pubNr": "41",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/041/2002-09-27/1678?pgs=1678-1680&org=PLC"
+              }
+            ],
+            "sumario": "Aprova medidas tendentes a garantir a eficiência e a combater a fraude e a evasão fiscal.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "153393",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2258",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2002-09-27",
+        "pubLeg": "IX",
+        "pubNr": "41",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/041/2002-09-27?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
