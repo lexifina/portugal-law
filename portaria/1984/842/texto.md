@@ -1,0 +1,43 @@
+Portaria n.º 842/84
+de 30 de Outubro
+Manda o Governo da República Portuguesa, pelo Secretário de Estado das Comunicações, ao abrigo dos artigos 27.º e 44.º do Decreto-Lei n.º 42417, de 27 de Julho de 1959, o seguinte:
+1.º Que seja criada uma emissão de cartões de boas-festas alusivos ao Natal de 1984 destinados a circular de 1 de Novembro de 1984 a 31 de Janeiro de 1985, em sobrescritos série A para o serviço nacional e série B para o serviço internacional, com porte pago e tarja fosforescente.
+2.º Que estes cartões tenham as dimensões de 157 mm x 108 mm, em formato fechado, e os sobrescritos 162 mm x 114 mm.
+3.º Que sejam vendidos ao público, incluindo a franquia, pela importância de 35$00 para o serviço nacional e de 45$00 para o serviço internacional (cartão e sobrescrito).
+4.º Que as tiragens sejam as seguintes:
+Motivo 1 - 137500 exemplares:
+«Fuga para o Egipto».
+Vitral da capela-mor da igreja do Mosteiro de Santa Maria da Vitória da Batalha (1514 Ca.).
+Motivo 2 - 93000 exemplares:
+«Boas-Festas».
+Motivo 3 - 152000 exemplares:
+«A Virgem com o Menino e os Anjos».
+Pintura luso-flamenga, século XVI (colecção do Museu Nacional de Arte Antiga de Lisboa).
+Motivo 4 - 193500 exemplares:
+«Natal Português».
+Óleo de Eduardo Alarcão, 1984.
+(Colecção dos CTT.)
+Motivo 5 - 171000 exemplares:
+«Natal Tradicional».
+Motivo 6 - 277000 exemplares:
+«Adoração dos Magos».
+(Pormenor.)
+Escola Machado de Castro, século XVIII.
+(Da colecção dos Meninos Jesus do Crato.)
+Motivo 7 - 129500 exemplares:
+«Presentes de Natal».
+Motivo 8 - 165000 exemplares:
+«Presépio».
+Josefa de Óbidos, século XVII.
+(Colecção do Museu Nacional de Arte Antiga de Lisboa.)
+Motivo 9 - 129500 exemplares:
+«Alegoria ao Natal».
+Original de José Luís Tinoco, 1984.
+(Colecção dos CTT.)
+Motivo 10 - 152000 exemplares:
+«Natal».
+Original de José Cândido, 1984.
+(Colecção dos CTT.)
+Secretaria de Estado das Comunicações.
+Assinada em 17 de Outubro de 1984.
+O Secretário de Estado das Comunicações, Raul Manuel Gouveia Bordalo Junqueiro.
