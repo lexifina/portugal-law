@@ -1,0 +1,6 @@
+Despacho Normativo n.º 8-A/85
+Com a entrada em vigor do Decreto-Lei n.º 20/85, de 17 de Janeiro, foi revogado o Decreto-Lei n.º 183/77, de 5 de Maio, na redacção que lhe foi dada pelo Decreto-Lei n.º 297/83, de 24 de Junho, perdendo consequentemente sentido as referências e remissões constantes do Despacho Normativo n.º 35/84, de 13 de Fevereiro, para aquele diploma legal.
+Não obstante se preveja a entrada em vigor a curto prazo de nova e inovadora disciplina normativa, importa garantir a subsistência plena de um instrumento que a prática tem revelado importante para a minimização das consequências geradas pelo não pagamento pontual das retribuições devidas pelos empregadores aos seus trabalhadores.
+Nestes termos, determino:
+As referências e remissões feitas no Despacho Normativo n.º 35/84, de 13 de Fevereiro, para o Decreto-Lei n.º 183/77, de 5 de Maio, na redacção que lhe foi dada pelo Decreto-Lei n.º 297/83, de 24 de Junho, consideram-se feitas para o regime não contributivo de protecção no desemprego constante dos artigos 28.º e seguintes do Decreto-Lei n.º 20/85, de 17 de Janeiro.
+Ministério do Trabalho e Segurança Social, 30 de Janeiro de 1985. - O Ministro do Trabalho e Segurança Social, Amândio Anes de Azevedo.
