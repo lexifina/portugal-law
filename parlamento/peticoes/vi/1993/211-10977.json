@@ -1,0 +1,325 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jvMQgL4qeojTXYc%2byhcz5p3ic3xODuK0iUO0Y2y2ClcTtFB9k3sD%2b9wQveZYSd8NZLsCb9yzJniqsFTagd7CbMNr9RiU3i%2bk3rmuobGx84PbCdMXEaO2tAt4ls9fukmsItoX60VYYqS8JyucRXeNK4DfI799g%2blbezfSJpZ8w7%2baZYMBqfv1VesnUx6bJSW47suQTEZztwlqhsheF%2fV6CayXq9XylkeKBdMS4k0WpFeGsJUrYs53Ga%2fzv4nbFZSlZiCimHdTEOsH%2b%2fNcwjWayb61QyVSstj3ODN9XM8DB46f%2bPQ7wSP1KSIrsnu6vc0NN5UqeG88nqFw4kPOlzPTpz7DVHur%2fsRBhn0B8NlVzMX2nw7jDBVCKY54B7pyG%2fWe&fich=PeticoesVI_json.txt&Inline=true",
+  "ficheiro_sha256": "a0b19d1767819df1af646741c024bf367ae6532369315672414b384340a05bf4",
+  "legislatura": "VI",
+  "id": "10977",
+  "numero": "211",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "1993-06-30",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "1994-12-14",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "1993-10-06",
+        "DataArquivo": "1994-12-14",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "1995-01-13",
+        "DataReaberta": "1993-10-06",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4",
+        "Legislatura": "VI",
+        "Nome": "COMISSÃO PETIÇÕES",
+        "NotasAdmissibilidade": null,
+        "Numero": "2",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "1994-12-14",
+            "dataNomeacao": "1994-01-27",
+            "gp": "PSD",
+            "id": "14",
+            "motivoCessacao": null,
+            "nome": "António Vairinhos"
+          }
+        ],
+        "RelatorioFinal": [
+          "21102"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "1996-05-31",
+    "Documentos": null,
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "1996-06-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43931",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2608-2609"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-01",
+                "pubLeg": "VII",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/078/1996-06-01/2608?pgs=2608-2609&org=PLC"
+              }
+            ],
+            "Sumario": "GREVE: REVOGACAO DAS NORMAS E PRATICAS QUE PROIBAM O SEU LIVRE EXERCICIO",
+            "Teor": "INTERVEM NO DEBATE "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "1996-06-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43932",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2608-2608"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-01",
+                "pubLeg": "VII",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/078/1996-06-01/2608?pgs=2608&org=PLC"
+              }
+            ],
+            "Sumario": "GREVE: REVOGACAO DAS NORMAS E PRATICAS QUE PROIBAM O SEU LIVRE EXERCICIO",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "1996-06-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43933",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2607-2608"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-01",
+                "pubLeg": "VII",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/078/1996-06-01/2607?pgs=2607-2608&org=PLC"
+              }
+            ],
+            "Sumario": "GREVE: REVOGACAO DAS NORMAS E PRATICAS QUE PROIBAM O SEU LIVRE EXERCICIO",
+            "Teor": "INTERVEM NO DEBATE "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "1996-06-01",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43934",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2606-2607"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-06-01",
+                "pubLeg": "VII",
+                "pubNr": "78",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/078/1996-06-01/2606?pgs=2606-2607&org=PLC"
+              }
+            ],
+            "Sumario": "GREVE: REVOGACAO DAS NORMAS E PRATICAS QUE PROIBAM O SEU LIVRE EXERCICIO",
+            "Teor": "INTERVEM NO DEBATE "
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "10977",
+    "PetAssunto": "Solicitam a intervenção da Assembleia da República para que se revogue todas as normas e práticas que proíbam o livre exercício do direito à greve, designadamente o abuso repressivo e desmedido dos denominados serviços mínimos e a intervenção da A.R. junto do Governo para suster a ofensiva contra os direitos individuais e colectivos dos trabalhadores.",
+    "PetDataEntrada": "1993-06-30",
+    "PeticoesAssociadas": null,
+    "PetId": "10977",
+    "PetLeg": "VI",
+    "PetNr": "211",
+    "PetNrAssinaturas": "5079",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "13",
+        "obs": null,
+        "pag": [
+          "2606-2609"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1996-06-01",
+        "pubLeg": "VII",
+        "pubNr": "78",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/078/1996-06-01/2606?pgs=2606-2609&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "169506",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1993-10-13",
+        "pubLeg": "VI",
+        "pubNr": "42",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/06/02/042/1993-10-13?org=PLC"
+      }
+    ]
+  }
+}
