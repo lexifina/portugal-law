@@ -1,13 +1,13 @@
 # Artigo 30.º
 
-1 - A título experimental e enquanto não forem publicados novos estatutos, os estatutos em vigor podem ser modificados desde que se verifiquem as seguintes condições:
+- 1. A aquisição ou construção de casas a atribuir sob a forma de propriedade resolúvel será requerida, por um ou mais sócios, desde que:
 
-a) A alteração resulte da iniciativa da direcção do Cofre;
+a) Se destinem à exclusiva e permanente habitação do sócio e do seu agregado familiar;
 
-b) A proposta de alteração seja aprovada pela maioria dos associados presentes na assembleia geral especialmente convocada para o efeito;
+b) Não possuam, por si ou por seus cônjuges, na área, casa própria;
 
-c) As alterações aprovadas sejam publicadas na 3.ª série do Diário da República.
+c) Não tenham, por si ou por seus cônjuges, usufruído do direito de aquisição de casa através do Cofre ou de instituição congénere.
 
-2 - O regime estabelecido no número anterior apenas se observa quanto às disposições relativas à organização e funcionamento do Cofre, não podendo de forma alguma envolver aumento de despesas ou diminuição de receitas do Estado, nem afectar as leis vigentes que regem a Administração Pública ou o estatuto do seu funcionalismo.
+2. O estudo dos projectos e as avaliações ou estimativas do custo das edificações, bem como quaisquer outras despesas preliminares da construção, constituem encargo dos interessados no prédio, que por elas ficarão solidariamente responsáveis até à realização do contrato de venda.
 
-3 - Sem prejuízo da indicação, devidamente documentada, dos valores venais, reais e contratuais, nas avaliações de casas já construídas, em todos os laudos e pareceres dos serviços técnicos do Cofre deverá constar, com os indispensáveis fundamentos, o tipo de habitação que o sócio pretende.
+3. Nas avaliações para aquisição de casas já construídas deverão indicar-se, devidamente documentados, os valores venal, real e contratual.
