@@ -1,0 +1,6 @@
+Portaria n.º 620/82
+de 22 de Junho
+Considerando que, pelo Decreto-Lei n.º 465/80, de 14 de Outubro, foram estruturadas as carreiras de tesoureiro e de secretário-recepcionista, devendo os quadros de pessoal ser objecto de alteração, de acordo com o determinado no n.º 2 do seu artigo 10.º:
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros do Trabalho e da Reforma Administrativa, que os quadros e as carreiras do pessoal do Fundo de Desenvolvimento da Mão-de-Obra e do Gabinete de Gestão do Fundo de Desemprego, do Ministério do Trabalho, criados pelo Decreto n.º 146/78, de 13 de Dezembro, e alterados pela Portaria n.º 297/81, de 27 de Março, passam a ter, relativamente às carreiras de tesoureiro e de secretário-recepcionista, a composição seguinte:
+(ver documento original)
+Ministérios das Finanças e do Plano, do Trabalho e da Reforma Administrativa, 14 de Maio de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro do Trabalho, António José de Barros Queirós Martins. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
