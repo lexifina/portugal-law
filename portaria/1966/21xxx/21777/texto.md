@@ -1,0 +1,4 @@
+Portaria n.º 21777
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e das Comunicações, que, nos termos do disposto no § 1.º do artigo 2.º do Decreto-Lei n.º 39083, de 17 de Janeiro de 1953, seja desafectada do domínio público do Estado uma parcela de terreno situada em Lisboa, Cabo Ruivo, freguesia dos Olivais, na área de jurisdição da Administração-Geral do Porto de Lisboa, assim discriminada:
+Parcela de terreno, com a área de 119850 m2, confrontando do norte, nascente e poente com terrenos da Administração-Geral do Porto de Lisboa e do sul com terrenos da Sociedade Anónima Concessionária da Refinação de Petróleos em Portugal (Sacor), S. A. R. L., e da Companhia Portuguesa dos Petróleos BP, S. A. R. L.
+Ministérios das Finanças e das Comunicações, 8 de Janeiro de 1966. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro. - Pelo Ministro das Finanças, Ricardo Augusto Parreira de Faria Blanc, Subsecretário de Estado do Tesouro.
