@@ -1,0 +1,19 @@
+Portaria n.º 106/90
+de 12 de Fevereiro
+O Decreto-Lei n.º 98/82, de 7 de Abril, veio determinar um novo esquema de garantias financeiras exigíveis às seguradoras autorizadas em Portugal, segundo o qual estas devem, a fim de garantirem o cumprimento das suas responsabilidades, constituir provisões técnicas e dispor de uma margem de solvência e de um fundo de garantia adequados ao exercício da actividade desenvolvida.
+Nesta conformidade, foram, por um lado, fixados, para efeitos de determinação da margem de solvência, determinados valores a serem atendidos, quer em relação a todos os ramos de seguros, com excepção do ramo «Vida», quer em relação aos complementares do ramo «Vida», e, por outro lado, estabelecidos valores mínimos para o fundo de garantia, em função do tipo de empresa e dos ramos de seguros explorados.
+Acresce que foi desde logo prevista no próprio diploma a possibilidade de os citados valores serem anualmente revistos, com base em propostas apresentadas pelo Instituto de Seguros de Portugal.
+Nestes termos:
+Manda o Governo, pelo Secretário de Estado do Tesouro, em conformidade com o artigo 54.º do Decreto-Lei n.º 98/82, de 7 de Abril, o seguinte:
+1.º Os limites estabelecidos nos artigos 23.º, 24.º, 30.º e 33.º do Decreto-Lei n.º 98/82, de 7 de Abril, com a redacção dada por portaria de 20 de Janeiro de 1989 do Secretário de Estado do Tesouro e das Finanças, publicada no Diário da República, 2.ª série, n.º 32, de 8 de Fevereiro de 1989, são alterados para os seguintes valores:
+a) O valor de 1716000 contos fixado no n.º 3 do artigo 23.º é alterado para 1760000 contos;
+b) O valor de 1201500 contos fixado no n.º 5 do artigo 24.º é alterado para 1232000 contos;
+c) O valor de 1716000 contos fixado no n.º 3 do artigo 30.º é alterado para 1760000 contos;
+d) Os valores de 69000 contos, 51500 contos e 34500 contos fixados na alínea a) do n.º 2 do artigo 33.º são alterados para, respectivamente, 70500 contos, 53000 contos e 35500 contos;
+e) Os valores de 51500 contos, 39000 contos e 26000 contos fixados na alínea b) do n.º 2 do artigo 33.º são alterados para, respectivamente, 53000 contos, 40000 contos e 26500 contos;
+f) Os valores de 34500 contos, 26000 contos e 17500 contos fixados na alínea c) do n.º 2 do artigo 33.º são alterados para, respectivamente, 35500 contos, 26500 contos e 18000 contos;
+g) Os valores de 137500 contos, 103000 contos e 69000 contos fixados no n.º 3 do artigo 33.º são alterados para, respectivamente, 141000 contos, 106000 contos e 70500 contos.
+2.º Os valores fixados no número anterior serão, nos termos do artigo 54.º do Decreto-Lei n.º 98/82, de 7 de Abril, tomados em consideração a partir do dia 31 de Dezembro de 1989.
+Ministério das Finanças.
+Assinada em 17 de Janeiro de 1990.
+O Secretário de Estado do Tesouro, Carlos Manuel Tavares da Silva.
