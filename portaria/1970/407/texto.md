@@ -1,0 +1,5 @@
+Portaria n.º 407/70
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar com a importância de 650000$00 a verba do capítulo 10.º, artigo 1456.º, n.º 7), alínea b), n.º 1 «Encargos gerais - Quota-parte da província em encargos na metrópole - Junta das Missões Geográficas e de Investigações do Ultramar - Missões - Geográfica», da tabela de despesa ordinária do orçamento geral da província de Angola para o ano em curso, tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo 4.º, artigo 80.º, n.º 1) «Administração geral e fiscalização - Serviços de Administração Civil - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal das quadros aprovados por lei - Vencimentos», da referida tabela de despesa.
+Ministério do Ultramar, 20 de Agosto de 1970. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada no Boletim Oficial de Angola. - J. da Silva Cunha.
