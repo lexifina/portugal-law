@@ -1,0 +1,30 @@
+Decreto-Lei n.º 274/85
+de 18 de Julho
+A Lei n.º 2-B/85, de 28 de Fevereiro, estabelece no seu artigo 6.º que o Governo fica autorizado, nos termos da alínea h) do artigo 164.º da Constituição, a emitir um empréstimo interno para pagamento de bonificações de juros a cargo do Estado, até ao montante máximo de 100 milhões de contos, em condições a fixar por decreto-lei.
+O presente decreto-lei vem estabelecer as condições em que é emitido o empréstimo interno denominado «Obrigações do Tesouro - Bonificações - 1985».
+Assim:
+Usando da autorização concedida pelo artigo 6.º da Lei n.º 2-B/85, de 28 de Fevereiro;
+O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º Para pagamento de encargos decorrentes de bonificações a cargo do Estado em dívida ao sistema bancário será emitido um empréstimo interno, amortizável, denominado «Obrigações do Tesouro - Bonificações - 1985».
+Art. 2.º O empréstimo, cujo serviço fica a cargo da junta do Crédito Público, tem o limite máximo nominal de 100 milhões de contos, ficando desde já a Direcção-Geral do Tesouro autorizada a emitir a respectiva obrigação geral.
+Art. 3.º - 1 - A representação deste empréstimo será feita em certificados de dívida inscrita correspondentes a qualquer quantidade de obrigações de valor nominal de 500000$00 cada uma.
+2 - Os certificados de dívida inscrita representativos deste empréstimo levarão as assinaturas de chancela do Ministro das Finanças e do Plano, do vogal presidente e de outro vogal da Junta do Crédito Público, bem como o selo branco da mesma Junta.
+Art. 4.º Os certificados de dívida inscrita representativos das obrigações emitidas gozam da garantia do pagamento integral dos juros e dos reembolsos a partir do vencimento ou da amortização, por força das receitas gerais do Estado, e da isenção de todos os impostos, incluindo o imposto sobre as sucessões e doações.
+Art. 5.º - 1 - A colocação do empréstimo será feita nas instituições de crédito às quais o Estado seja devedor de bonificações de juros a seu cargo, até ao limite do valor da respectiva dívida, incluindo-se nesta também os juros devidos até 30 de Junho de 1985.
+2 - Os valores em dívida a cada instituição de crédito irão sendo indicados pela Direcção-Geral do Tesouro à Junta do Crédito Público, que emitirá as respectivas cautelas, até à emissão dos certificados.
+Art. 6.º A data de emissão deste empréstimo é a de 1 de Julho de 1985.
+Art. 7.º - 1 - O empréstimo vence anualmente juros, à taxa básica de desconto do Banco de Portugal em vigor no primeiro dia de cada período anual de contagem de juro, sendo de considerar como primeiro dia para contagem do primeiro vencimento de juros a data de emissão do empréstimo.
+2 - O vencimento dos primeiros juros terá lugar em 1 de Julho de 1986.
+Art. 8.º - 1 - A duração do empréstimo é de 12 anos, contados a partir da sua emissão.
+2 - A amortização do empréstimo far-se-á em 9 prestações anuais de capital e juros, segundo um esquema de amortizações de valor crescente, vencendo-se a primeira em 1 de Julho de 1989 e a última em 1 de Julho de 1997.
+3 - O valor anual das amortizações será fixado pelo Ministro das Finanças e do Plano.
+Art. 9.º O pagamento de juros e das amortizações será averbado nos certificados representativos das obrigações do empréstimo.
+Art. 10.º No Orçamento do Estado serão inscritas as verbas indispensáveis para ocorrer aos encargos do empréstimo regulado por este diploma.
+Art. 11.º Não são aplicáveis a este empréstimo as disposições do artigo 39.º do Decreto-Lei n.º 42900, de 5 de Abril de 1960, no que se refere à indicação do encargo máximo.
+Art. 12.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes.
+Promulgado em 10 de Julho de 1985.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 11 de Julho de 1985.
+O Primeiro-Ministro, Mário Soares.
