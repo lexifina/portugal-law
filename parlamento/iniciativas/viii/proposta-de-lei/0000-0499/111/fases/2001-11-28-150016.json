@@ -1,0 +1,1032 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "111",
+    "id": "18812",
+    "titulo": "Altera a Lei n.º 30-C/2000, de 29 de Dezembro, que aprova o Orçamento do Estado"
+  },
+  "fase": "Discussão especialidade",
+  "codigo_fase": "300",
+  "data_registo": "2001-11-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2091",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "300",
+    "Comissao": null,
+    "DataFase": "2001-11-28",
+    "EvtId": "17",
+    "Fase": "Discussão especialidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "18812",
+        "leg": "VIII",
+        "nr": "111",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "618",
+            "obs": null,
+            "pag": [
+              "836-862"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-11-29",
+            "pubLeg": "VIII",
+            "pubNr": "23",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/023/2001-11-29/836?pgs=836-862&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "P",
+        "titulo": "Altera a Lei n.º 30-C/2000, de 29 de Dezembro, que aprova o Orçamento do Estado"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-11-28",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANCAS",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Guilherme D'Oliveira Martins"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139940",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "836-843",
+                  "854-859",
+                  "861-862"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/023/2001-11-29/836?pgs=836-843,854-859,861-862&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 30-C/2000, de 29 de Dezembro, que aprova o Orçamento do Estado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139941",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "838-838"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/023/2001-11-29/838?pgs=838&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 30-C/2000, de 29 de Dezembro, que aprova o Orçamento do Estado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139942",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "839-839",
+                  "857-858"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/023/2001-11-29/839?pgs=839,857-858&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 30-C/2000, de 29 de Dezembro, que aprova o Orçamento do Estado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139943",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "840-840"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/023/2001-11-29/840?pgs=840&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 30-C/2000, de 29 de Dezembro, que aprova o Orçamento do Estado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1709",
+                "nome": "António Pires de Lima"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139944",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "841-841"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/023/2001-11-29/841?pgs=841&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 30-C/2000, de 29 de Dezembro, que aprova o Orçamento do Estado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139947",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "842-842"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/023/2001-11-29/842?pgs=842&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 30-C/2000, de 29 de Dezembro, que aprova o Orçamento do Estado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139949",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "843-847",
+                  "859-861"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/023/2001-11-29/843?pgs=843-847,859-861&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 30-C/2000, de 29 de Dezembro, que aprova o Orçamento do Estado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "428",
+                "nome": "Fernando Serrasqueiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139950",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "845-845"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/023/2001-11-29/845?pgs=845&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 30-C/2000, de 29 de Dezembro, que aprova o Orçamento do Estado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1673",
+                "nome": "Luísa Vasconcelos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139951",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "846-846"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/023/2001-11-29/846?pgs=846&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 30-C/2000, de 29 de Dezembro, que aprova o Orçamento do Estado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139952",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "847-849",
+                  "861-862"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/023/2001-11-29/847?pgs=847-849,861-862&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 30-C/2000, de 29 de Dezembro, que aprova o Orçamento do Estado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1352",
+                "nome": "Paulo Portas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139953",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "849-850"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/023/2001-11-29/849?pgs=849-850&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 30-C/2000, de 29 de Dezembro, que aprova o Orçamento do Estado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1262",
+                "nome": "Francisco de Assis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139954",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "850-851",
+                  "859-859",
+                  "862-862"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/023/2001-11-29/850?pgs=850-851,859,862&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 30-C/2000, de 29 de Dezembro, que aprova o Orçamento do Estado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "428",
+                "nome": "Fernando Serrasqueiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139955",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "851-854"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/023/2001-11-29/851?pgs=851-854&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 30-C/2000, de 29 de Dezembro, que aprova o Orçamento do Estado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1537",
+                "nome": "Hugo Velosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139956",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "852-853"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/023/2001-11-29/852?pgs=852-853&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 30-C/2000, de 29 de Dezembro, que aprova o Orçamento do Estado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1687",
+                "nome": "Jorge Neto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139957",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "853-853"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/023/2001-11-29/853?pgs=853&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 30-C/2000, de 29 de Dezembro, que aprova o Orçamento do Estado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139958",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "854-854"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/023/2001-11-29/854?pgs=854&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 30-C/2000, de 29 de Dezembro, que aprova o Orçamento do Estado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1625",
+                "nome": "Maria Celeste Cardona"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139959",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "856-857"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/023/2001-11-29/856?pgs=856-857&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 30-C/2000, de 29 de Dezembro, que aprova o Orçamento do Estado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "152",
+                "nome": "António Braga"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139960",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "860-860"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/023/2001-11-29/860?pgs=860&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 30-C/2000, de 29 de Dezembro, que aprova o Orçamento do Estado",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139961",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "861-861"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/023/2001-11-29/861?pgs=861&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 30-C/2000, de 29 de Dezembro, que aprova o Orçamento do Estado",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "150016",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "267093",
+        "obs": null,
+        "pag": [
+          "860--862"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-11-29",
+        "pubLeg": "VIII",
+        "pubNr": "23",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/023/2001-11-29/860?pgs=860--862&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
