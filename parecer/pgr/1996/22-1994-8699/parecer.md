@@ -1,0 +1,51 @@
+# Informação-Parecer complementar do Conselho Consultivo da Procuradoria-Geral da República n.º 22/1994, de 1996-07-30
+
+**Fonte:** https://www.ministeriopublico.pt/pareceres-pgr/8699
+
+**Número do Parecer:** 22/1994, de 30.07.1996
+
+**Data do Parecer:** 30-07-1996
+
+**Tipo de Parecer:** Informação-Parecer complementar
+
+**Votação:** Não Aplicável
+
+**Iniciativa:** Governo
+
+**Entidade:** Direcção-Geral dos Assuntos Multilaterais
+
+**Relator:** LUÍS DA SILVEIRA
+
+## Descritores
+
+CONVENÇÃO EUROPEIA
+DIREITOS DO HOMEM
+PROTOCOLO ADICIONAL
+TRIBUNAL EUROPEU DOS DIREITOS DO HOMEM
+COMISSÃO EUROPEIA DOS DIREITOS DO HOMEM
+JURISDIÇÃO OBRIGATÓRIA
+APROVAÇÃO DE TRATADOS
+HIERRARQUIA DAS FONTES DE DIREITO
+DIRETIO DE PETIÇÃO
+CONSELHO DA EUROPA
+DIREITO COMUNITÁRIO
+UNIÃO EUROPEIA
+TERCEIRO PILAR
+
+## Legislação
+
+CONST76 ART164 ART169.
+L 65/78 DE 1978/10/13.
+DL 265/79 DE 1979/08/01.
+DESP NORM 130/80 DE 1980/04/17.
+
+## Referências Complementares
+
+DIR INT PUBL * DIR HOMEM * TRATADOS /DIR CONST * DIR FUND.*****
+DECLAR CONJ DA ASS CEE CONS CEE COM CEE SOBRE RESPEITO DA CEDH DE 1977/04705 IN JOCE C103 DE 1977/04/27.*****
+CEDH
+PROT AD CEDH N11
+PROT AD CEDH N2
+PROT AD CEDH N3
+PROT AD CEDH N4
+PROT AD CEDH N5
