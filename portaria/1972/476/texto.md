@@ -1,0 +1,25 @@
+Portaria n.º 476/72
+de 18 de Agosto
+O reconhecimento de que a produtividade dos serviços constitui factor decisivo do progresso económico e social impõe a tomada de medidas que conduzam ao seu mais útil e integral aproveitamento e levam a olhar, com particular incidência, aqueles sectores que, pela sua natureza e objectivo, melhor podem contribuir para o desenvolvimento do sector agrícola.
+Reconhece-se, também, que muito é possível fazer-se, no que respeita ao progresso da agricultura, através da simples inovação técnica de aplicação de conhecimentos, mas sabe-se que esta só poderá produzir resultados palpáveis quando apoiada por uma investigação sòlidamente estruturada.
+E muito embora a investigação agrária possua, no nosso pais, posição de relevo e honrosas tradições, verifica-se, contudo, uma considerável dispersão por numerosos estabelecimentos e um desaconselhável isolamento entre os serviços dedicados ao estudo dos problemas agronómicos, pecuários e florestais.
+Considera-se, pois, indispensável a criação de um órgão que assegure a coordenação e uma mais eficiente orientação dos trabalhos de experimentação e investigação levados a efeito nos diversos serviços da Secretaria de Estado da Agricultura.
+Nestes termos:
+Com fundamento no disposto no artigo 16.º do Decreto-Lei n.º 45151, de 22 de Julho de 1963:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, o seguinte:
+1. Com o objectivo de assegurar uma orientação e coordenação mais eficiente da experimentação e da investigação científica e tecnológica nos domínios da agronomia, da pecuária, da silvicultura e da piscicultura das águas interiores, a levar a efeito pelos diferentes estabelecimentos da Secretaria de Estado da Agricultura, é criado, na dependência directa do Secretário de Estado, o Conselho de Coordenação da Investigação Agrária.
+2. Compete ao Conselho:
+a) Dar parecer quanto à orientação e coordenação de toda a actividade de investigação científica e tecnológica dos diversos serviços da Secretaria de Estado;
+b) Apreciar e definir linhas de trabalho para os diferentes serviços;
+c) Estabelecer prioridades nos programas de acção;
+d) Propor as medidas julgadas convenientes para a maior eficiência dos diversos estudos, quer em execução, quer programados;
+e) Prestar informação sobre todos os assuntos que interessem ao aperfeiçoamento da investigação agrária;
+f) Dar parecer sobre os problemas que lhe sejam submetidos pelo Secretário de Estado.
+3. O Conselho é dirigido por um presidente, que terá como assessores um representante de cada uma das Direcções-Gerais dos Serviços Agrícolas, dos Serviços Pecuários, dos Serviços Florestais e Aquícolas e da Junta de Colonização Interna.
+4. O presidente é da livre escolha do Secretário de Estado da Agricultura, de entre os técnicos de reconhecida competência, pertencentes aos quadros da Secretaria de Estado.
+5. Os assessores a que se refere o n.º 3 são de nomeação do Secretário de Estado, mediante propostas dos respectivos serviços.
+6. Sempre que for julgado conveniente e por proposta do presidente, poderão ser criadas comissões ou grupos de trabalho, consoante se trate de assuntos de carácter permanente ou temporário.
+7. Para assegurar o bom andamento dos programas de acção, o presidente poderá socorrer-se de técnicos da Secretaria de Estado e solicitar a colaboração de especialistas, de reconhecida competência, estranhos àqueles
+serviços.
+8. O presidente assegurará pessoalmente, ou através do representante para os assuntos agro-pecuários na Junta Nacional de Investigação Científica e Tecnológica, estreita ligação com aquele organismo, visando a compatibilização das orientações a seguir.
+Ministério da Economia, 7 de Agosto de 1972. - O Secretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas.
