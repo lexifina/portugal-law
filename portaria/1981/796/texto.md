@@ -1,0 +1,26 @@
+Portaria n.º 796/81
+de 12 de Setembro
+A Lei n.º 77/77, de 29 de Setembro, criou nos seus artigos 50.º e 51.º os princípios que deveriam passar a reger a entrega de terras expropriadas e nacionalizadas.
+O Decreto-Lei n.º 111/78, de 27 de Maio, veio regular com mais pormenor essa matéria, desenvolvendo os princípios contidos na citada lei.
+Procurou-se que a regulamentação não fosse de tal maneira rígida que impedisse a salutar diversificação de modelos, conforme as circunstâncias geográficas e os ditames técnicos. Mas, igualmente se julgou inconveniente deixar apenas à casuística a aplicação dos grandes critérios a cada região ou sub-região agrícola.
+Por isso se prevê que a pormenorização dos critérios que devam presidir à entrega de terras para exploração possa ser aprovada por portaria, que determinará, em relação a cada região ou sub-região agrícola, a área dos prédios que serão afectos a cada estabelecimento agrícola, o tipo de empresa agrícola que poderá candidatar-se à celebração dos contratos para entrega de exploração e o tipo de contrato a utilizar.
+Não foram ainda criadas as regiões e sub-regiões agrícolas. Contudo, o próprio Decreto-Lei n.º 111/78 define já quais os critérios que presidirão à determinação da área a afectar a cada estabelecimento agrícola, indica quais as empresas que poderão candidatar-se à celebração dos contratos para entrega de exploração e respectivas preferências dentro de cada classe e privilegia o contrato de concessão de exploração.
+Pensa-se não ser por ora viável, e nem mesmo aconselhável, uma maior pormenorização de critérios.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Ministro da Agricultura e Pescas, nos termos do artigo 4.º do Decreto-Lei n.º 111/78, de 27 de Maio, o seguinte:
+1.º Enquanto não forem criadas as regiões e sub-regiões agrícolas, a entrega para exploração dos prédios expropriados ou nacionalizados no âmbito da Reforma Agrária, mediante contratos de concessão de exploração, é determinada por despacho do Secretário de Estado da Produção, sob proposta da competente Direcção Regional de Agricultura, que definirá, para cada caso, qual a área dos prédios a afectar a cada estabelecimento agrícola e qual o tipo de empresa agrícola que poderá candidatar-se à celebração dos contratos para entrega de exploração.
+2.º Na determinação da área a afectar a cada estabelecimento agrícola ter-se-á em especial atenção a capacidade de uso do solo, as culturas nele existentes ou possíveis e a configuração do prédio expropriado ou nacionalizado no passado mais próximo, de forma a conseguir-se um ordenamento equilibrado do território.
+3.º A proposta referida no n.º 1.º será precedida de audição dos trabalhadores permanentes em serviço nos prédios expropriados ou nacionalizados e das associações de classe da respectiva zona concelhia ligados à agricultura.
+4.º A área a entregar a cada empresa não poderá ser inferior à equivalente a 10000 pontos ou a 100000 pontos, nem superior à equivalente a 15000 pontos ou 750000 pontos, conforme se trate, respectivamente, de entidades singulares ou colectivas.
+5.º Na determinação do tipo de empresa que poderá candidatar-se à celebração do contrato, observar-se-á a seguinte ordem de preferência:
+a) Pequenos agricultores da região que não tenham a posse útil da terra e vivam exclusivamente da agricultura;
+b) Pequenos agricultores da região que não tenham a posse útil da terra e vivam predominantemente da agricultura;
+c) Unidades de exploração colectiva por trabalhadores;
+d) Cooperativas de produção agrícola;
+e) Pequenos agricultores da região que vivam exclusivamente da agricultura;
+f) Pequenos agricultores da região que vivam predominantemente da agricultura;
+g) Sociedades cooperativas agrícolas cujos sócios vivam predominantemente da actividade agrícola e não sejam em número superior ao pessoal contratado.
+6.º Estão incluídos nas alíneas a) e b) do número anterior os trabalhadores permanentes em serviço nos prédios expropriados ou nacionalizados.
+7.º O contrato da concessão de exploração rege-se pelas disposições constantes na secção II do capítulo V do Decreto-Lei n.º 111/78, de 27 de Maio, aplicando-se ao respectivo processo as regras constantes do capítulo VI do mesmo diploma.
+8.º O presente diploma entra em vigor no dia da sua publicação.
+Ministério da Agricultura e Pescas, 20 de Agosto de 1981. - O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha.
