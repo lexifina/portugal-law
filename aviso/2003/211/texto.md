@@ -1,0 +1,8 @@
+Aviso n.º 211/2003
+Por ordem superior se torna público que, em 19 de Agosto de 2003, o Governo da República Portuguesa depositou, junto do Secretário-Geral das Nações Unidas, o instrumento de ratificação ao Protocolo Facultativo à Convenção sobre os Direitos da Criança Relativo à Participação de Crianças em Conflitos Armados, de 2000, com as seguintes declarações e ou reservas:
+«The government of Portugal declares, in accordance with article 3, paragraph 2, of the Optional Protocol to the Convention on the Rights of the Child on the Involvement of Children in Armed Conflict, that the minimum age for any recruitment - including voluntary - of persons into its national armed forces is 18 years. This age limit is already contained in the Portuguese domestic legislation.»
+Tradução
+«Nos termos do n.º 2 do artigo 3.º do Protocolo Facultativo à Convenção sobre os Direitos da Criança Relativo à Participação de Crianças em Conflitos Armados, Portugal declara que a sua legislação interna fixa em 18 anos a idade mínima a partir da qual é autorizado o recrutamento voluntário das suas Forças Armadas.»
+O referido Protocolo Facultativo foi aprovado, para ratificação, pela Resolução da Assembleia da República n.º 22/2003, publicada no Diário da República, 1.ª série-A, n.º 74, de 28 de Março de 2003, e ratificado pelo Decreto do Presidente da República n.º 22/2003, publicado no Diário da República, 1.ª série-A, n.º 74, de 28 de Março de 2003.
+Nos termos do n.º 2 do seu artigo 10.º, o referido Protocolo entrará em vigor, relativamente a Portugal, em 19 de Setembro de 2003.
+Direcção-Geral dos Assuntos Multilaterais, 14 de Outubro de 2003. - O Director de Serviços das Organizações Políticas Internacionais, Bernardo Fernandes Homem de Lucena.
