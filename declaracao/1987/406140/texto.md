@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação da 14.ª Delegação da Direcção-Geral da Contabilidade Pública junto do Ministério das Finanças (PIDDAC), a declaração de transferências de verbas publicada no Diário da República, 1.ª série, n.º 219, de 23 de Setembro de 1987, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+Onde se lê «div. 14 - Saúde, subdiv. 01 - DEPSD - Humanização dos serviços de saúde, C. F. 3.02.0» e «div. 72 - Despesas de apoio, subdiv. 98 - DEPSD - Humanização dos serviços de saúde, C. F. 3.02.0» deve ler-se «div. 14 - Saúde, subdiv. 01 - DEPSD - Humanização dos serviços de saúde, C. F. 4.02.0» e «div. 72 - Despesas de apoio, subdiv. 98 - DEPSD - Humanização dos serviços de saúde, C. F. 4.02.0».
+Secretaria-Geral da Presidência do Conselho de Ministros, 14 de Dezembro de 1987. - O Secretário-Geral, França Martins.
