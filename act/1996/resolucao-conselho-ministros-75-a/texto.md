@@ -1,0 +1,13 @@
+Resolução do Conselho de Ministros n.º 75-A/96
+O Decreto-Lei n.º 34-A/96, de 24 de Abril, que regulou a 2.ª fase do processo de privatização do capital social da Portugal Telecom, S. A., conferiu ao Conselho de Ministros, nos termos da Lei n.º 11/90, de 5 de Abril, a competência para, mediante resolução, estabelecer as condições necessárias à concretização daquele processo.
+No exercício dessa competência, o Conselho de Ministros regulamentou, através da Resolução n.º 67-A/96, de 10 de Maio, diversos aspectos das operações de venda previstas no decreto-lei supracitado.
+Torna-se agora necessário definir as quantidades de acções a alienar, quer mediante a oferta pública de venda, quer mediante a venda directa, assim como fixar as quantidades de acções destinadas a cada uma das reservas criadas no âmbito daquela oferta pública de venda.
+Assim:
+Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:
+1 - A oferta pública de venda a que se refere o n.º 3 do artigo 2.º do Decreto-Lei n.º 34-A/96, de 24 de Abril, terá por objecto um lote de 11000000 de acções, nas quais se incluem as das reservas mencionadas nos n.os 2 a 4 da presente resolução.
+2 - A reserva para trabalhadores, pequenos subscritores e emigrantes a que se refere o n.º 2 do artigo 3.º do Decreto-Lei n.º 34-A/96, de 24 de Abril, constará de um lote de 7500000 acções, o qual será dividido em dois sublotes, conforme o previsto no n.º 4 da Resolução do Conselho de Ministros n.º 67-A/96, de 10 de Maio, sendo 3500000 acções oferecidas à aquisição por trabalhadores e 4000000 de acções oferecidas à aquisição por pequenos subscritores e emigrantes.
+3 - O lote de acções reservado para a aquisição por obrigacionistas da TP e dos TLP e por detentores de títulos de participação dos CTT e dos TLP, nos termos do n.º 5 da Resolução do Conselho de Ministros n.º 67-A/96, de 10 de Maio, será constituído por 300000 acções.
+4 - O lote de acções reservado para a aquisição pelo público em geral, referido na parte inicial do n.º 23 da Resolução do Conselho de Ministros n.º 67-A/96, de 10 de Maio, será constituído por 3200000 acções.
+5 - O lote de acções referido na parte inicial do n.º 29 da Resolução do Conselho de Ministros n.º 67-A/96, de 10 de Maio, respeitante à operação de venda directa prevista no n.º 3 do artigo 2.º do Decreto-Lei n.º 34-A/96, de 24 de Abril, será constituído por 26350000 acções.
+6 - A presente resolução entra em vigor no dia imediato ao da sua publicação.
+Presidência do Conselho de Ministros, 23 de Maio de 1996. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
