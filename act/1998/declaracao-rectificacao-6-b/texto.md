@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 6-B/98
+Para os devidos efeitos se declara que o Decreto-Lei n.º 28/98, publicado no Diário da República, 1.ª série, n.º 35, de 11 de Fevereiro de 1998, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No artigo 2.º dos Estatutos do Instituto de Gestão do Crédito Público (IGCP), onde se lê «O IGCP rege-se pelos presentes Estatutos e pelos seus regulamentos internos, a aprovar pelo Ministro das Finanças, bem como, no que por aqueles ou por estes não for especialmente regulado, exclusivamente» deve ler-se «O IGCP rege-se pelos presentes Estatutos e pelos seus regulamentos internos, bem como, no que por aqueles ou por estes não for especialmente regulado, exclusivamente».
+Secretaria-Geral da Presidência do Conselho de Ministros, 27 de Fevereiro de 1998. - O Secretário-Geral, Alexandre Figueiredo.
