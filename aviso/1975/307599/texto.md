@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que a Embaixada da Roménia em Lisboa enviou ao Ministério dos Negócios Estrangeiros uma nota verbal, datada de 11 de Agosto de 1975, informando que a parte romena já dera cumprimento às formalidades constitucionais relativas à elaboração e entrada em vigor do Acordo entre o Governo de Portugal e o Governo da República Socialista da Roménia Relativo a Transporte Aéreo Civil, assinado em Lisboa em 8 de Fevereiro de 1975, e publicado no Diário do Governo, 1.ª série, n.º 125, de 31 de Maio de 1975, em resposta a uma nota verbal deste Ministério, datada de 4 de Julho de 1975, que informava estarem cumpridas aquelas formalidades pela parte portuguesa.
+Nesta conformidade e segundo o disposto no n.º 1 do seu artigo 18, o Acordo em apreço entrou em vigor no dia 11 de Agosto de 1975.
+Direcção-Geral dos Negócios Económicos, 25 de Agosto de 1975. - O Director-Geral, João E. N. de Oliveira Pequito.
