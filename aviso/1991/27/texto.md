@@ -1,0 +1,4 @@
+Aviso n.º 27/91
+Por ordem superior se faz público ter o Belize aceite a Constituição da Organização Mundial de Saúde, assinada em Nova Iorque, em 22 de Julho de 1946, incluindo as emendas aos artigos 24.º, 25.º e 34.º, adoptadas pelas 12.ª, 20.ª, 26.ª, 29.ª e 39.ª Sessões da Assembleia Mundial de Saúde, respectivamente.
+Igualmente por ordem superior se faz público ter a Tailândia, o Nepal, o Egipto, a Tunísia, a Papua-Nova Guiné, o Irão e o Butão aceite as emendas de 1986 introduzidas nos artigos 24.º e 25.º da Constituição da Organização Mundial de Saúde, assinada em Nova Iorque, em 22 de Julho de 1946, conforme foram adoptadas pela 39.ª Assembleia Mundial de Saúde, em 12 de Maio de 1988.
+Direcção-Geral dos Negócios Político-Económicos, 1 de Fevereiro de 1991. - O Director de Serviços dos Assuntos Multilaterais, António Santana Carlos.
