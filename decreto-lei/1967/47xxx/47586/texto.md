@@ -1,0 +1,12 @@
+Decreto-Lei n.º 47586
+Considerando que o quadro do pessoal docente do Instituto Superior de Agronomia não foi alterado depois da publicação da reforma de estudos levada a efeito pelo Decreto n.º 38636, de 8 de Fevereiro de 1952, que aumentou consideràvelmente o número de disciplinas professadas nesse estabelecimento;
+Considerando que as circunstâncias não permitem que neste momento se proceda a uma revisão geral do mesmo quadro;
+Considerando, porém, que se torna indispensável acudir à situação particularmente difícil em que, sob este aspecto, se encontra o 1.º grupo, constituído pelas disciplinas de Botânica Agrícola, Genética e Melhoramento, Botânica Sistemática e Fitogeografia e Desenho Organográfico e reduzido a um professor catedrático e a um professor extraordinário;
+Considerando que só por si a disciplina de Botânica Agrícola já exige uma equipa de especialistas que se consagre à investigação e ensino de matérias tão importantes para a formação do engenheiro agrónomo e do engenheiro silvicultor como a organografia, a fisiologia vegetal, os fundamentos da botânica especial das plantas cultivadas, agrícolas e florestais, bem como as noções basilares da ecologia;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º O quadro do pessoal docente do Instituto Superior de Agronomia é acrescido de um lugar de professor extraordinário, que fica adstrito ao 1.º grupo de disciplinas.
+Art. 2.º Mediante decreto assinado pelos Ministros das Finanças e da Educação Nacional far-se-ão as alterações orçamentais necessárias à satisfação dos encargos resultantes da publicação do presente diploma.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 10 de Março de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Para ser presente à Assembleia Nacional.
