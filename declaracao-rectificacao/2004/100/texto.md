@@ -1,0 +1,3 @@
+Declaração de Rectificação n.º 100/2004
+Por ter sido publicado com inexactidão no Diário da República, 1.ª série-A, n.º 268, de 15 de Novembro de 2004, o Decreto do Presidente da República n.º 76/2004, de 15 de Novembro, rectifica-se que onde se lê «É exonerada, sob proposta do Governo, a ministra plenipotenciária de 1.ª classe Ana Maria de Almeida Hidalgo Barata do cargo de embaixador de Portugal em Zagreb» deve ler-se «É exonerada, sob proposta do Governo, a ministra plenipotenciária de 1.ª classe Ana Maria de Almeida Hidalgo Barata do cargo de Embaixadora de Portugal em Zagreb».
+Secretaria-Geral da Presidência da República, 16 de Novembro de 2004. - Pelo Secretário-Geral, a Directora de Serviços Administrativos e Financeiros, Graça Ferreira.
