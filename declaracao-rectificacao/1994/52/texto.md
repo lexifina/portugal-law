@@ -1,0 +1,10 @@
+Declaração de rectificação n.º 52/94
+Para os devidos efeitos se declara que o Decreto-Lei n.º 40/94, publicado no Diário da República, n.º 35, de 11 de Fevereiro de 1994, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 4.º, n.º 2, onde se lê «O director-geral é substituído nas suas ausências e impedimentos pelo subdirector-geral que for designado pelo Ministro da Justiça.» deve ler-se «O director-geral é substituído, nas suas ausências e impedimentos, pelo subdirector-geral que for designado pelo Ministro da Justiça.».
+No artigo 6.º, n.º 3, alínea a), onde se lê «pelo subdirector-geral com a tutela da DST e ainda por quatro vogais» deve ler-se «pelo subdirector-geral com a tutela da DST e, ainda, por quatro vogais.».
+No artigo 9.º, n.º 1, onde se lê «O conselho administrativo reúne ordinariamente uma vez por mês e extraordinariamente sempre que convocado pelo presidente,» deve ler-se «O conselho administrativo reúne, ordinariamente, uma vez por mês e, extraordinariamente, sempre que convocado pelo presidente,».
+No artigo 11.º, n.º 5, onde se lê «O apoio técnico-jurídico às divisões acima referidas é prestado por conservadores e notários em regime de requisição ou destacamento.» deve ler-se «O apoio técnico-jurídico às divisões acima referidas é prestado por conservadores e notários, em regime de requisição ou destacamento.».
+No artigo 17.º, onde se lê «Constituem despesas da DGRN as que resultem dos cargos e responsabilidades» deve ler-se «Constituem despesas da DGRN as que resultem dos encargos e responsabilidades».
+No artigo 30.º, na epígrafe, onde se lê «Exercício das funções de director do Gabinete de Estudos e Planeamento» deve ler-se «Exercício das funções de director-geral do Gabinete de Estudos e Planeamento».
+No artigo 30.º, onde se lê «as funções de director do Gabinete de Estudos e Planeamento» deve ler-se «as funções de director-geral do Gabinete de Estudos e Planeamento».
+Secretaria-Geral da Presidência do Conselho de Ministros, 29 de Abril de 1994. - O Secretário-Geral, França Martins.
