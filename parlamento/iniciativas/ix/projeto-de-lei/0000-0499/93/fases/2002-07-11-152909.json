@@ -1,0 +1,737 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "93",
+    "id": "19166",
+    "titulo": "Altera a Lei n.º 12-B/2000, de 8 de Julho, que proíbe como contraordenação os espectáculos tauromáquicos em que seja infligida a morte às reses neles lidadas."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2002-07-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2220",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2002-07-11",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "CDS-PP, PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "19138",
+        "leg": "IX",
+        "nr": "86",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "642",
+            "obs": null,
+            "pag": [
+              "1305-1316"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-07-12",
+            "pubLeg": "IX",
+            "pubNr": "32",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/032/2002-07-12/1305?pgs=1305-1316&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Altera a Lei n.º 12-B/2000, de 8 de Julho, e o Decreto-Lei n.º 92/95, de 12 de Setembro."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2002-07-11",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1700",
+                "nome": "Vitalino Canas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141910",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1305-1306"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/032/2002-07-12/1305?pgs=1305-1306&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 12-B/2000, de 8 de Julho, e o Dec-Lei n.º 92/95, de 12 de Setembro ( proibição como contra-ordenação dos espectáculos tauromáquicos em que seja infligida a morte às reses neles lidadas)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141911",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1306-1306"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/032/2002-07-12/1306?pgs=1306&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 12-B/2000, de 8 de Julho, e o Dec-Lei n.º 92/95, de 12 de Setembro ( proibição como contra-ordenação dos espectáculos tauromáquicos em que seja infligida a morte às reses neles lidadas)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141912",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1306-1308"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/032/2002-07-12/1306?pgs=1306-1308&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 12-B/2000, de 8 de Julho, e o Dec-Lei n.º 92/95, de 12 de Setembro ( proibição como contra-ordenação dos espectáculos tauromáquicos em que seja infligida a morte às reses neles lidadas)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141913",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1308-1308"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/032/2002-07-12/1308?pgs=1308&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 12-B/2000, de 8 de Julho, e o Dec-Lei n.º 92/95, de 12 de Setembro ( proibição como contra-ordenação dos espectáculos tauromáquicos em que seja infligida a morte às reses neles lidadas)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1485",
+                "nome": "Rodeia Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141914",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1308-1310"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/032/2002-07-12/1308?pgs=1308-1310&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 12-B/2000, de 8 de Julho, e o Dec-Lei n.º 92/95, de 12 de Setembro ( proibição como contra-ordenação dos espectáculos tauromáquicos em que seja infligida a morte às reses neles lidadas)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1700",
+                "nome": "Vitalino Canas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141915",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1310-1313"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/032/2002-07-12/1310?pgs=1310-1313&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 12-B/2000, de 8 de Julho, e o Dec-Lei n.º 92/95, de 12 de Setembro ( proibição como contra-ordenação dos espectáculos tauromáquicos em que seja infligida a morte às reses neles lidadas)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141916",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1312-1312"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/032/2002-07-12/1312?pgs=1312&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 12-B/2000, de 8 de Julho, e o Dec-Lei n.º 92/95, de 12 de Setembro ( proibição como contra-ordenação dos espectáculos tauromáquicos em que seja infligida a morte às reses neles lidadas)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1993",
+                "nome": "Pedro do Ó Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141917",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1312-1312"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/032/2002-07-12/1312?pgs=1312&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 12-B/2000, de 8 de Julho, e o Dec-Lei n.º 92/95, de 12 de Setembro ( proibição como contra-ordenação dos espectáculos tauromáquicos em que seja infligida a morte às reses neles lidadas)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1588",
+                "nome": "Fernando Penha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141918",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1313-1315"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/032/2002-07-12/1313?pgs=1313-1315&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 12-B/2000, de 8 de Julho, e o Dec-Lei n.º 92/95, de 12 de Setembro ( proibição como contra-ordenação dos espectáculos tauromáquicos em que seja infligida a morte às reses neles lidadas)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "20",
+                "nome": "Paulo Pereira Coelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141919",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1315-1315"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/032/2002-07-12/1315?pgs=1315&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 12-B/2000, de 8 de Julho, e o Dec-Lei n.º 92/95, de 12 de Setembro ( proibição como contra-ordenação dos espectáculos tauromáquicos em que seja infligida a morte às reses neles lidadas)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "156",
+                "nome": "António Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141920",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1315-1316"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/032/2002-07-12/1315?pgs=1315-1316&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 12-B/2000, de 8 de Julho, e o Dec-Lei n.º 92/95, de 12 de Setembro ( proibição como contra-ordenação dos espectáculos tauromáquicos em que seja infligida a morte às reses neles lidadas)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "235",
+                "nome": "Manuel Alegre"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141921",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1316-1316"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/032/2002-07-12/1316?pgs=1316&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 12-B/2000, de 8 de Julho, e o Dec-Lei n.º 92/95, de 12 de Setembro ( proibição como contra-ordenação dos espectáculos tauromáquicos em que seja infligida a morte às reses neles lidadas)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "11:15",
+            "horaTermo": "12:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141922",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1317-1317"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-07-12",
+                "pubLeg": "IX",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/032/2002-07-12/1317?pgs=1317&org=PLC"
+              }
+            ],
+            "sumario": "Altera a Lei n.º 12-B/2000, de 8 de Julho, e o Dec-Lei n.º 92/95, de 12 de Setembro ( proibição como contra-ordenação dos espectáculos tauromáquicos em que seja infligida a morte às reses neles lidadas)",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "152909",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "271684",
+        "obs": null,
+        "pag": [
+          "1305-1317"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2002-07-12",
+        "pubLeg": "IX",
+        "pubNr": "32",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/032/2002-07-12/1305?pgs=1305-1317&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
