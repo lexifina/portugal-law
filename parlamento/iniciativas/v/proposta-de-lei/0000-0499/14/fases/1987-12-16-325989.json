@@ -1,0 +1,3441 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "14",
+    "id": "29283",
+    "titulo": "Orçamento do Estado para 1988"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1987-12-16",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "12077",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1987-12-16",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "29210",
+        "leg": "V",
+        "nr": "15",
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Grandes Opções do Plano para 1988"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1987-12-16",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207488",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "802-802"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/802?pgs=802&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207489",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "802-802",
+                  "802-802"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/802?pgs=802,802&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207490",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "802-802"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/802?pgs=802&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207491",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "802-802"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/802?pgs=802&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207492",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "803-803",
+                  "803-803",
+                  "803-803"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/803?pgs=803,803,803&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207493",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "802-802",
+                  "803-803",
+                  "803-803",
+                  "803-803"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/802?pgs=802,803,803,803&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "VICE-PRIMEIRO-MINISTRO  E  MINISTRO DA  DEFESA  NACIONAL",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Eurico de Melo"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207494",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "803-804",
+                  "805-806"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/803?pgs=803-804,805-806&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207496",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "804-804"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/804?pgs=804&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207498",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "804-805"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/804?pgs=804-805&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207499",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "805-805"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/805?pgs=805&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207500",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "805-805"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/805?pgs=805&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207501",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "807-807"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/807?pgs=807&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "António Capucho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207502",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "807-807"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/807?pgs=807&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207504",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "807-807"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/807?pgs=807&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207505",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "807-808",
+                  "809-810"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/807?pgs=807-808,809-810&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207506",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "808-808"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/808?pgs=808&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207507",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "808-809"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/808?pgs=808-809&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207508",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "809-809"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/809?pgs=809&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207509",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "810-810",
+                  "811-811",
+                  "811-811",
+                  "812-812"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/810?pgs=810,811,811,812&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207510",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "811-811"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/811?pgs=811&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207512",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "812-812"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/812?pgs=812&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207513",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "812-812",
+                  "812-812"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/812?pgs=812,812&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207514",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "810-810",
+                  "811-811",
+                  "812-812",
+                  "812-812",
+                  "812-812",
+                  "812-812"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/810?pgs=810,811,812,812,812,812&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207515",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "813-813"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/813?pgs=813&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207524",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "813-815",
+                  "816-818"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/813?pgs=813-815,816-818&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207527",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "815-816"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/815?pgs=815-816&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207528",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "816-816"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/816?pgs=816&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207529",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "816-816"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/816?pgs=816&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DO PLANEAMENTO E ADMINISTRAÇÃO DO TERRITÓRIO",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Luis Valente De Oliveira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207530",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "818-821",
+                  "825-827"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/818?pgs=818-821,825-827&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207533",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "821-822"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/821?pgs=821-822&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207535",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "822-822"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/822?pgs=822&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207536",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "822-823"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/822?pgs=822-823&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207538",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "823-823"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/823?pgs=823&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207539",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "823-824"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/823?pgs=823-824&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207541",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "824-824"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/824?pgs=824&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207542",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "824-825"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/824?pgs=824-825&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207543",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "827-827"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/827?pgs=827&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207544",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "827-827"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/827?pgs=827&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207545",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "827-827"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/827?pgs=827&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DO PLANEAMENTO E ADMINISTRAÇÃO DO TERRITÓRIO",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Luis Valente De Oliveira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207546",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "827-827"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/827?pgs=827&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207548",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "827-830",
+                  "831-831"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/827?pgs=827-830,831&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207549",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "830-830"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/830?pgs=830&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207554",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "830-830"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/830?pgs=830&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207556",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "830-831"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/830?pgs=830-831&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DO COMÉRCIO E TURISMO",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Ferreira do Amaral"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207558",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "831-833",
+                  "835-836"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/831?pgs=831-833,835-836&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207562",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "833-833"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/833?pgs=833&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207565",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "833-834"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/833?pgs=833-834&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207566",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "834-834"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/834?pgs=834&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207567",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "834-835"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/834?pgs=834-835&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207568",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "836-838",
+                  "838-839"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/836?pgs=836-838,838-839&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207569",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "838-838"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/838?pgs=838&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207570",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "838-838"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/838?pgs=838&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207571",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "839-840"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/839?pgs=839-840&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207572",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "840-843",
+                  "844-845"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/840?pgs=840-843,844-845&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207573",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "843-844"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/843?pgs=843-844&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207574",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "845-846",
+                  "847-847"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/845?pgs=845-846,847&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207575",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "846-847"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/846?pgs=846-847&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207576",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "847-849"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/847?pgs=847-849&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207577",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "849-851"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/849?pgs=849-851&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207578",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "851-852",
+                  "853-853"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/851?pgs=851-852,853&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207579",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "852-852"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/852?pgs=852&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207580",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "852-853"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/852?pgs=852-853&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207582",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "853-854",
+                  "855-855"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/853?pgs=853-854,855&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207583",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "855-855"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/855?pgs=855&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207584",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "855-856"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/855?pgs=855-856&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207586",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "856-857"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/856?pgs=856-857&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207588",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "857-858",
+                  "858-858"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/857?pgs=857-858,858&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207589",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "858-858"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/858?pgs=858&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DO EMPREGO E DA SEGURANÇA SOCIAL",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Silva Peneda"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207591",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "858-860",
+                  "862-863",
+                  "864-864"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/858?pgs=858-860,862-863,864&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207593",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "861-861"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/861?pgs=861&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207594",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "861-861",
+                  "864-864"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/861?pgs=861,864&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207595",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "861-862"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/861?pgs=861-862&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207597",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "862-862"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/862?pgs=862&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207598",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "864-866"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/864?pgs=864-866&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207601",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "866-866"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/866?pgs=866&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207602",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "866-866"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/866?pgs=866&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "António Capucho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207603",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "866-866"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/866?pgs=866&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207604",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "866-866",
+                  "866-866"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-17",
+                "pubLeg": "V",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/032/1987-12-17/866?pgs=866,866&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1988; Grandes Opções do Plano para 1988",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "325989",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
