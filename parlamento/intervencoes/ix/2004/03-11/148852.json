@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ikbb22EfidWyh5aL9J45Him8rhm3hBQttHxkrMbFeyYEwrlCCV9ZfcNHgV8WjSxu83VjOPt6VK7tfawrIfKZtTDmfI0Eg1Qj2%2fgR4zkB218vexxTlHm9ELnuOSX5QSKeM5RBZD467bhRAPU4hPcfbqahvryp3gb6e37C1v7CloSAMeYftDHuGXetsMTuqWKWDw8jw4LLkjhOMYrtuWUeiCrg7lyiTG%2fjnHAs%2fmcgrOZO8jIFWuyniqH%2f16iGaVZzEzfL%2b4SfA3O6drPBVYibztEF%2fs9tJC4xx3DcN5MsnQfVSXH3wVPofkvbJEOlvWHKvrzXi7OMn9qcwTKLuqkVUEIS1yusoxybTMXClPgsIs8%3d&fich=IntervencoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "ab3e3445119ef03a27cc4debeadf3049422a38e0d13b37a933bd5be6cbd2d916",
+  "legislatura": "IX",
+  "id": "148852",
+  "tipo": "Intervenção",
+  "orador": "António Filipe (PCP)",
+  "data_registo": "2004-03-11",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "38",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "74175",
+        "tipo": "VOT",
+        "titulo": "De Protesto - Voto de Protesto pelos acontecimentos ocorridos em Marco de Canavezes."
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "74215",
+        "tipo": "VOT",
+        "titulo": "De Protesto - Voto de Protesto contra os comportamentos incorrectos de vários agentes ligados ao futebol e o apelo para o empenhamento de todos na promoção da boa ética desportiva."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2004-03-11",
+    "Debate": "VOTO 136/IX/2; VOTO 138/IX/2",
+    "Deputados": {
+      "GP": "PCP",
+      "idCadastro": "209",
+      "nome": "António Filipe"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "148852",
+    "IdDebate": "21164",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "IX",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "148852",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "3449-3449"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-03-12",
+        "pubLeg": "IX",
+        "pubNr": "62",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/062/2004-03-12/3449?pgs=3449&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": null,
+    "Sessao": "2",
+    "Sumario": "Voto de protesto pelos acontecimentos ocorridos, durante um jogo de futebol, em Marco de Canavezes; pelo comportamento incorrecto de vários agentes ligados ao futebol e apelo ao empenhamento de todos na promoção da boa ética desportiva",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
