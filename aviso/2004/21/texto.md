@@ -1,0 +1,5 @@
+Aviso n.º 21/2004
+Por ordem superior se torna público que, em 1 de Outubro de 2003, o Reino do Lesoto depositou o seu instrumento de ratificação da Convenção sobre o Comércio Internacional das Espécies de Fauna e Flora Selvagens Ameaçadas de Extinção (CITES), assinada em Washington em 3 de Março de 1973.
+Portugal é parte da mesma Convenção, aprovada, para ratificação, pelo Decreto n.º 50/80, publicado no Diário da República, 1.ª série-A, n.º 168, de 23 de Julho de 1980, tendo depositado o seu instrumento de ratificação em 11 de Dezembro de 1980 (Diário da República, 1.ª série-A, n.º 260, de 11 de Novembro de 1981), e tendo entrado em vigor em 11 de Março de 1981 (Diário da República, 1.ª série-A, n.º 157, de 10 de Julho de 2003).
+Nos termos do artigo XXII, parágrafo 2, a Convenção entrou em vigor para o Reino do Lesoto em 30 de Dezembro de 2003.
+Direcção-Geral dos Assuntos Multilaterais, 28 de Janeiro de 2004. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
