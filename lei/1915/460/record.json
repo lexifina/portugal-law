@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1915/09/19400/10371037.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1915-09-24",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "0c4ef0380369dcedb66be0f33663e50a46c59c51061f46eb4bafb5addf28d6e4",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.4,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "c5eda70bcf72a0c2fb1a488eb22ae457ea26f9f5a3222b25c3a345b9c727bc0e",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 324
 }
