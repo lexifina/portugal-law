@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jICRzj3KB1Bmg3m8DVSHnpi8rXpapb3j4jMO5BtN2LbfPF3esMoTH6fDrsMuFJ9lPAZvTPAWxS9PFAt7bzMiuI04fWuRpEaIxl4mcW%2fcx1acNCntIvb5NLRRHaPebnKKry6IchvGghYnV5lkvxQk495hFB7swBEB4rvnhCoTOeXflL%2foNK7o0b4dy592StEdZmQVtVkruElsfWncCV%2b%2bpavK9g3VZy%2bP4cmQ40z%2f0a69tQcMqoIjKHap%2bFpAkJMgbKcIQykqLjBLupnXrNjLuRZ30Ox0rp%2fdoXYbf5r3SXm4%2fEbMutFiFUX0sUvjGKIZ7ZqNfVf38E4D2PhkYxEZx9pZ7GwemaRdvkVkJ4JulFaJGzWdDjdFCx4KRpH%2bqN7s&fich=IntervencoesV_json.txt&Inline=true",
+  "ficheiro_sha256": "e07157b1d50033e077d4f054f931a3450edfcc0fcd53456e529928b3d3af1eae",
+  "legislatura": "V",
+  "id": "468607",
+  "tipo": "Intervenção",
+  "orador": "Nogueira de Brito (CDS)",
+  "data_registo": "1990-06-29",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "79789",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "27093",
+        "tipo": "INI",
+        "titulo": "Ratificação - Decreto-lei nº 121-B/90, de 12 de Abril, que define a Estrutura Orgânica relativa a Gestão, Acompanhamento, Avaliação e Controlo da Execução do Quadro Comunitário de Apoio para as Intervenções Estruturais Comunitárias no Território Português (QCA), que foi estabelecido pela decisão da Comissão das Comunidades Europeias nº C(89) 1869, de 31 de Outubro de 1989"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "27094",
+        "tipo": "INI",
+        "titulo": "Ratificação - Decreto-lei nº 121-B/90, de 12 de Abril, que define a estrutura orgânica relativa à gestão, acompanhamento, avaliação e controlo da execução do Quadro Comunitário de Apoio para as Intervenções Estruturais Comunitárias no Território Português (QCA), que foi estabelecido pela decisão de Comissão das Comunidades  Europeias nº C (89) 1869, de 31 de Outubro de 1989"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1990-06-29",
+    "Debate": "Define a estrutura orgânica relativa à gestão, acompanhamento, avaliação e controlo da execução do quadro comunitário de apoio para as intervenções estruturais comunitárias no território português [RAT n.º 128/V/3; RAT n.º 129/V/3)",
+    "Deputados": {
+      "GP": "CDS",
+      "idCadastro": "226",
+      "nome": "Nogueira de Brito"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "468607",
+    "IdDebate": "16210",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "V",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "468607",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "3196-3197"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1990-06-30",
+        "pubLeg": "V",
+        "pubNr": "93",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/093/1990-06-30/3196?pgs=3196-3197&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": null,
+    "Sessao": "3",
+    "Sumario": "Define a estrutura orgânica relativa à gestão, acompanhamento, avaliação e controlo da execução do quadro comunitário de apoio para as intervenções estruturais comunitárias no território português",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
