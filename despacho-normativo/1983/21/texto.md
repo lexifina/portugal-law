@@ -1,0 +1,7 @@
+Despacho Normativo n.º 21/83
+Considerando que, de acordo com o Decreto-Lei n.º 327/82, de 16 de Agosto, a normalização institucional das regiões de turismo existentes depende da adaptação dos respectivos estatutos aos princípios nele consagrados através da ratificação dos mesmos por portaria do membro do Governo com tutela sobre o sector do turismo;
+Considerando que algumas daquelas regiões não poderão concluir até 31 de Dezembro de 1982, conforme estatui o Despacho Normativo n.º 200/82, de 11 de Setembro, o processo de adaptação dos respectivos estatutos às regras estabelecidas no citado Decreto-Lei n.º 327/82, mormente por razões ligadas às recentes eleições autárquicas, as quais vieram provocar alterações na representação dos municípios nos concelhos regionais das mencionadas regiões de turismo:
+Assim, no uso da competência que me é conferida pelo Despacho Normativo n.º 309/81, de 20 de Outubro, determino o seguinte:
+1.º Ao abrigo do n.º 3 do artigo 23.º do Decreto-Lei n.º 327/82, de 16 de Agosto, é fixado até 28 de Fevereiro de 1983 o prazo para a conclusão do processo de adaptação dos estatutos das regiões de turismo existentes às normas estabelecidas por este diploma legal.
+2.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1983.
+Secretaria de Estado do Turismo, 30 de Dezembro de 1982. - O Secretário de Estado do Turismo, Luís Fernando Cardoso Nandim de Carvalho.
