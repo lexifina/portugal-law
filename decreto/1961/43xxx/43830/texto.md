@@ -1,0 +1,6 @@
+Decreto n.º 43830
+Considerando o que foi exposto pelo Ministério da Economia;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo único. É prorrogado por mais dois anos o prazo de vigência do artigo 15.º do Decreto n.º 30290, de 13 de Fevereiro de 1940, prorrogado até 12 de Agosto de 1960 por força do disposto no artigo 1.º do Decreto n.º 41799, de 8 de Agosto de 1958, mantendo-se, consequentemente, pelo referido prazo, no arquipélago da Madeira a isenção de direitos e de imposições locais aos fios e tecidos indicados no artigo 2.º do Decreto-Lei n.º 38201, de 12 de Março de 1951, bem como aos lenços de tecidos abertos, de algodão, incluídos nos artigos 61.05.03 e 61.06.03 da pauta de importação, em conformidade com o artigo 4.º do Decreto-Lei n.º 33590, de 29 de Março de 1944, e ainda aos tecidos incluídos nos artigos 58.08.02 e 60.01.02 da mesma pauta, de harmonia com o artigo 2.º do Decreto-Lei n.º 39174, de 17 de Abril de 1953.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 29 de Julho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa.
