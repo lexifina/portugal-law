@@ -1,0 +1,408 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "54",
+    "id": "18839",
+    "titulo": "Decreto-Lei n.º 281/2001, de 25 de Outubro, que \"Altera o Decreto-Lei n.º 34/2001, de 8 de Fevereiro, que institui o regime de modulações aplicável aos pagamentos concedidos aos agricultores no âmbito da Política Agrícola Comum, prorrogando por um ano o prazo da sua entrada em vigor\"."
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "2002-05-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2158",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "2002-05-17",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2002-05-17",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "10:15",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140822",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "434-435"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-18",
+                "pubLeg": "IX",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/012/2002-05-18/434?pgs=434-435&org=PLC"
+              }
+            ],
+            "sumario": "Apreciação do Dec-Lei nº 281/2001, de 25 de Outubro, que altera o Dec-Lei 34/2001, de 8 de Fevereiro, que institui o regime de modulação aplicável aos pagamentos concedidos aos agricultores no âmbito da Política Agrícola Comum, prorrogando por um ano o prazo da sua entrada em vigor",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "733",
+                "nome": "Miguel Ginestal"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "10:15",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140823",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "435-437"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-18",
+                "pubLeg": "IX",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/012/2002-05-18/435?pgs=435-437&org=PLC"
+              }
+            ],
+            "sumario": "Apreciação do Dec-Lei nº 281/2001, de 25 de Outubro, que altera o Dec-Lei 34/2001, de 8 de Fevereiro, que institui o regime de modulação aplicável aos pagamentos concedidos aos agricultores no âmbito da Política Agrícola Comum, prorrogando por um ano o prazo da sua entrada em vigor",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1731",
+                "nome": "António Nazaré Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "10:15",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140824",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "436-436"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-18",
+                "pubLeg": "IX",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/012/2002-05-18/436?pgs=436&org=PLC"
+              }
+            ],
+            "sumario": "Apreciação do Dec-Lei nº 281/2001, de 25 de Outubro, que altera o Dec-Lei 34/2001, de 8 de Fevereiro, que institui o regime de modulação aplicável aos pagamentos concedidos aos agricultores no âmbito da Política Agrícola Comum, prorrogando por um ano o prazo da sua entrada em vigor",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "10:15",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140825",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "436-436",
+                  "438-439"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-18",
+                "pubLeg": "IX",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/012/2002-05-18/436?pgs=436,438-439&org=PLC"
+              }
+            ],
+            "sumario": "Apreciação do Dec-Lei nº 281/2001, de 25 de Outubro, que altera o Dec-Lei 34/2001, de 8 de Fevereiro, que institui o regime de modulação aplicável aos pagamentos concedidos aos agricultores no âmbito da Política Agrícola Comum, prorrogando por um ano o prazo da sua entrada em vigor",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1588",
+                "nome": "Fernando Penha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "10:15",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140826",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "437-439"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-18",
+                "pubLeg": "IX",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/012/2002-05-18/437?pgs=437-439&org=PLC"
+              }
+            ],
+            "sumario": "Apreciação do Dec-Lei nº 281/2001, de 25 de Outubro, que altera o Dec-Lei 34/2001, de 8 de Fevereiro, que institui o regime de modulação aplicável aos pagamentos concedidos aos agricultores no âmbito da Política Agrícola Comum, prorrogando por um ano o prazo da sua entrada em vigor",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1984",
+                "nome": "Luís Duque"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "10:15",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140827",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "439-440"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-18",
+                "pubLeg": "IX",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/012/2002-05-18/439?pgs=439-440&org=PLC"
+              }
+            ],
+            "sumario": "Apreciação do Dec-Lei nº 281/2001, de 25 de Outubro, que altera o Dec-Lei 34/2001, de 8 de Fevereiro, que institui o regime de modulação aplicável aos pagamentos concedidos aos agricultores no âmbito da Política Agrícola Comum, prorrogando por um ano o prazo da sua entrada em vigor",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "733",
+                "nome": "Miguel Ginestal"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "10:15",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140828",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "440-440"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-18",
+                "pubLeg": "IX",
+                "pubNr": "12",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/012/2002-05-18/440?pgs=440&org=PLC"
+              }
+            ],
+            "sumario": "Apreciação do Dec-Lei nº 281/2001, de 25 de Outubro, que altera o Dec-Lei 34/2001, de 8 de Fevereiro, que institui o regime de modulação aplicável aos pagamentos concedidos aos agricultores no âmbito da Política Agrícola Comum, prorrogando por um ano o prazo da sua entrada em vigor",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "151964",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2158",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2002-05-18",
+        "pubLeg": "IX",
+        "pubNr": "12",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/012/2002-05-18?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
