@@ -1,0 +1,35 @@
+Portaria n.º 718/76
+de 27 de Novembro
+Em execução do disposto no Decreto-Lei n.º 540/76, de 9 de Julho:
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças, o seguinte:
+1.º A concessão de crédito a emigrantes portugueses, nos termos do Decreto-Lei n.º 540/76, bem como a constituição de contas especiais de depósito para aquele fim, consoante o previsto no mesmo diploma, só são possíveis em instituições de crédito do Estado ou nacionalizadas.
+2.º - 1. A qualidade de emigrante pode ser comprovada mediante a apresentação da carteira de residente no estrangeiro, da carteira de trabalho ou de qualquer outro documento pelo qual a instituição de crédito depositária se possa assegurar de que o interessado é efectivamente emigrante e reside no estrangeiro há mais de seis meses.
+2. Os documentos apresentados para provar a qualidade de emigrante devem ficar arquivados na instituição de crédito depositária, podendo os documentos originais ser substituídos por fotocópias que reproduzam a totalidade ou apenas os elementos fundamentais desses documentos, devidamente autenticados por reconhecimento notarial ou por confirmação da sua autenticidade pela respectiva instituição de crédito.
+3.º - 1. A concessão de crédito nos termos deste diploma subordina-se às seguintes condições:
+a) O empréstimo destinar-se-á à construção, aquisição ou melhoramentos de prédios urbanos ou à aquisição ou benfeitorias de prédios rústicos;
+b) O montante do empréstimo, cujo limite máximo é de 1000000$00, não pode ultrapassar o saldo da conta de depósito no momento da apresentação do respectivo pedido, nem ser superior a 50% do valor que a instituição de crédito atribuir aos bens referidos na alínea anterior;
+c) Nos casos de construção ou de melhoramentos de prédios urbanos ou de benfeitorias em prédios rústicos, a utilização do empréstimo ficará condicionada à verificação do andamento das obras;
+d) Os empréstimos serão garantidos por hipoteca sobre os mesmos bens a favor da instituição de crédito;
+e) O prazo de empréstimo não poderá exceder doze anos;
+f) A amortização será feita em prestações mensais ou semestrais, iguais de capital e juros.
+2. Cada instituição de crédito adoptará as providências que considerar necessárias para verificar que o crédito concedido é aplicado em inteira concordância com as disposições desta portaria.
+Se verificar que o capital emprestado teve aplicação diferente da prevista na lei e no contrato, o empréstimo vence se imediatamente, o montante em dívida torna-se exigível e cessam todas as regalias previstas na lei.
+4.º - 1. As contas de depósito de poupança-crédito serão expressas em escudos e o seu período de vigência pode ir até ao máximo de cinco anos, contados a partir da data da sua abertura.
+2. Não sendo o respectivo saldo utilizado para o seu fim específico, ao fim de cinco anos deve o mesmo ser transferido para uma conta de depósito à ordem ou a prazo, conforme o titular preferir, e cancelada a conta de poupança-crédito.
+5.º As contas de depósito de poupança-crédito somente podem ser creditadas:
+a) Com o contravalor em escudos de transferências de moeda estrangeira efectuadas através do sistema bancário;
+b) Com o contravalor em escudos de notas estrangeiras e outros meios de pagamento sobre o exterior de que o respectivo titular seja portador ou que tenha remetido ao seu procurador;
+c) Com escudos transferidos de contas abertas em outras instituições de crédito, mediante prova de que esses escudos tiveram origem em remessas de moeda estrangeira, observada a limitação de seis meses prevista no artigo 4.º do Decreto-Lei n.º 540/76;
+d) Com a transferência do saldo, ou parte, expresso em escudos, de contas de depósito de emigrantes em moeda estrangeira;
+e) Com os juros vencidos e a pagar pelo depositário.
+6.º - 1. Os titulares das contas de depósito de poupança-crédito podem autorizar que residentes em território nacional movimentem tais contas nas condições e dentro dos montantes que estabeleçam, sem prejuízo das condicionantes que estiverem legalmente determinadas. Constitui documento adequado uma procuração passada pelo titular da conta em que este especifique os poderes que pretende delegar.
+2. Sempre que a delegação de poderes seja feita a favor dos cônjuges, pais, filhos ou irmãos, pode essa delegação constar dos documentos relativos à abertura da conta de depósito.
+7.º Durante o período de vigência do depósito de poupança-crédito podem ser livremente efectuados levantamentos de fundos, pelo que para este tipo de depósitos não é permitida a emissão de promissórias.
+8.º - 1. Os depósitos de poupança-crédito vencem juros à taxa atribuída aos depósitos a prazo de cento e oitenta dias, que serão contados ao semestre e capitalizados na própria conta.
+2. Por cada período completo de um ano e um dia em que a conta não registe levantamentos creditar-se-á um prémio correspondente ao diferencial da taxa de juro para os depósitos a prazo a mais de um ano.
+3. Se ao abrigo de uma conta de depósito de poupança-crédito for concedido crédito nos termos desta portaria, a referida conta será cancelada a partir da data da respectiva escritura.
+9.º - 1. As instituições mutuantes serão reembolsadas pelo Estado do diferencial entre o montante de juros cobrados e o que resultaria da aplicação da taxa vigente no mercado para operações hipotecárias.
+2. Para o efeito do disposto no número anterior, as instituições de crédito devem contabilizar os juros periodicamente e debitá-los ao mutuário nas datas previstas para amortização. Devem ainda remeter, também periodicamente, à entidade encarregada do reembolso mencionado no n.º 1 relação dos créditos concedidos e respectivos juros cobrados.
+3. O Banco de Portugal difundirá as instruções necessárias à indicação da entidade atrás referida e, bem assim, à conveniente satisfação, pelas instituições de crédito, da obrigatoriedade de relacionação também mencionada no número anterior e de todos os demais procedimentos que repute indispensáveis à uniformização de critérios e de actuação por parte das instituições de crédito.
+10.º Os notários, conservadores e outros funcionários que intervenham em actos relacionados com a concessão de crédito e a transacção de imóveis regulados neste diploma podem exigir dos interessados, com vista a fundamentarem a ausência de transcrição do instrumento de autorização, nos termos do artigo 7.º do Decreto-Lei n.º 540/76, declaração em que a instituição mutuante confirme autenticamente tratar-se de empréstimo ou aquisição efectuada nos termos do mencionado decreto-lei.
+Ministério das Finanças, 15 de Novembro de 1976. - O Ministro das Finanças, Henrique Medina Carreira.
