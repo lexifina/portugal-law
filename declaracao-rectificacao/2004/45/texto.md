@@ -1,0 +1,9 @@
+Declaração de Rectificação n.º 45/2004
+Para os devidos efeitos se declara que a Lei n.º 11/2004, de 27 de Março (estabelece o regime de prevenção e repressão do branqueamento de vantagens de proveniência ilícita e procede à 16.ª alteração ao Código Penal e à 11.ª alteração ao Decreto-Lei n.º 15/93, de 22 de Janeiro), publicada no Diário da República, 1.ª série-A, n.º 74, de 27 de Março de 2004, saiu com as seguintes incorrecções, que assim se rectificam:
+No artigo 21.º, onde se lê «deveres enumerados no artigo 3.º,» deve ler-se «deveres enumerados no artigo 2.º,».
+No proémio do artigo 43.º, onde se lê «qualquer pessoa mencionada na alínea c) do artigo 36.º, as seguintes infracções:» deve ler-se «qualquer pessoa mencionada na alínea c) do artigo 36.º àquela ligada, as seguintes infracções:».
+No proémio do artigo 44.º, onde se lê «qualquer pessoa mencionada na alínea c) do artigo 36.º, as seguintes infracções:» deve ler-se «qualquer pessoa mencionada na alínea c) do artigo 36.º àquela ligada, as seguintes infracções:».
+No proémio do artigo 45.º, onde se lê «a pessoa mencionada na alínea b) ou c) do artigo 36.º:» deve ler-se «a pessoa mencionada na alínea b) do artigo 36.º, ou na alínea c) do mesmo artigo, ligada a entidades não financeiras, com excepção dos advogados e solicitadores:».
+No proémio do artigo 46.º, onde se lê «a pessoa mencionada na alínea b) ou c) do artigo 36.º, as seguintes infracções:» deve ler-se «a pessoa mencionada na alínea b) do artigo 36.º, ou na alínea c) do mesmo artigo, ligada a entidades não financeiras, com excepção dos advogados e solicitadores, as seguintes infracções:».
+No n.º 2 do artigo 368.º-A aditado ao Código Penal pelo artigo 53.º, onde se lê «transferência de vantagens, por si ou por terceiro,» deve ler-se «transferência de vantagens, obtidas por si ou por terceiro,».
+Assembleia da República, 24 de Maio de 2004. - Pela Secretária-Geral, a Adjunta, Conceição Henriques.
