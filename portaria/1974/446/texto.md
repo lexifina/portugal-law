@@ -1,0 +1,8 @@
+Portaria n.º 446/74
+de 10 de Julho
+Manda o Governo Provisório da República Portuguesa, pelo Secretário de Estado dos Assuntos Económicos, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, o seguinte:
+1) Reforçar, com a importância de 100000$00, a verba do capítulo 11.º, artigo 1576.º, n.º 1) «Exercícios findos - Para pagamento de despesas não previstas - Na metrópole», da tabela de despesa ordinária do orçamento geral do Estado Português de Angola em vigor, tomando como contrapartida disponibilidades do capítulo 7.º, artigo 1261.º, n.º 1) «Serviços de fomento - Serviços de Obras Públicas e Transportes - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da mesma tabela de despesa;
+2) Reforçar, com a importância de 100000$00, a verba do capítulo 10.º, artigo 3058.º n.º 36, alínea a) «Encargos gerais - Diversas despesas - Passagens e auxílio a necessitados - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral do Estado Português de Moçambique em vigor, tomando como contrapartida disponibilidades do capítulo 7.º, artigo 2799.º, n.º 1, alínea a) «Serviços de fomento - Gabinete de Urbanização e Habitação da Região de Lourenço Marques - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da mesma tabela de despesa.
+Ministério da Coordenação Interterritorial, 10 de Julho de 1974. - O Secretário de Estado dos Assuntos Económicos, Fernando de Castro Fontes.
+
+Para ser publicada nos Boletins Oficiais dos Estados de Angola e Moçambique. - Fernando de Castro Fontes.
