@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=qUAFp27CBkIttcOxiLgk0FIFM%2benj3agWAdWp9f2uUE7DM89Hf79g0s6kJ1OpP%2b%2bV8tF1iVoXzUjf9MdNSMm4nwgUSw8wSK%2f8IWQGg3htMY3c5Ya6BFuH2nCggW0h1GujT%2bIUdPmA8SvTT3HpzcWjwY1Ytx02d%2b7d2kHzuJsMkIxOLhUMfluBDICsI431jugsRtyLdTkTs3iZNjh0bZeiTsuFJxPyR5N7XOGoIkmGpdUelnuD9Uv%2bK5tX%2fCtB3SYc9FZA1mlNR599B92fTx%2bndvsVfZla0grGGcMC1Ygbf5wdyt%2fcERRcbU8v%2fdkvPhkc3PKeJXfSzhOHsiR3Kxg%2fadV%2fCqpiI%2bSBylGrc6dYzg%3d&fich=IntervencoesVII_json.txt&Inline=true",
+  "ficheiro_sha256": "63246bfd185a5eb6b3d6f557ea72ee60968af9ce7c1a76c63b16943a173ed13f",
+  "legislatura": "VII",
+  "id": "56978",
+  "tipo": "Intervenção",
+  "orador": "Isabel Castro (PEV)",
+  "data_registo": "1998-10-09",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "253054",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "5062",
+        "tipo": "INI",
+        "titulo": "Projeto de Resolução - Sobre as medidas que suspendem a actividade das frotas de pesca durante o fim-de-semana."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1998-10-09",
+    "Debate": "PPR 56",
+    "Deputados": {
+      "GP": "PEV",
+      "idCadastro": "231",
+      "nome": "Isabel Castro"
+    },
+    "FaseDebate": "VOTACAO FINAL GLOBAL",
+    "FaseSessao": "POD",
+    "Id": "56978",
+    "IdDebate": "6198",
+    "Iniciativas": [
+      {
+        "fase": "Apreciação",
+        "id": "5062",
+        "tipo": "Projeto de Resolução"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "56978",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "377-378"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1998-10-10",
+        "pubLeg": "VII",
+        "pubNr": "12",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/012/1998-10-10/377?pgs=377-378&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputada",
+    "Resumo": null,
+    "Sessao": "4",
+    "Sumario": "APROVA P/ RATIF. A CONVENCAO N°159 DA ORGANIZACAO INTERNACIONAL DO TRABALHO, RESPEITANTE A READAPTACAO PROFISSIONAL E AO EMPREGO DE DEFICIENTES",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
