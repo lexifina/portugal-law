@@ -1,0 +1,4 @@
+Despacho
+Nos termos do artigo 1.º do Decreto-Lei n.º 229/72, de 6 de Julho, e artigo 7.º do Decreto-Lei n.º 47267, de 21 de Outubro de 1966, que, respectivamente, se referem a pessoal da Polícia de Segurança Pública nomeado, por escala, para serviços com duração de vinte e quatro horas seguidas e a pessoal da mesma corporação, convocado para frequência da Escola Prática de Polícia, e de acordo com o artigo 2.º do referido Decreto-Lei n.º 229/72, os abonos diários para a alimentação são fixados, para vigorar a partir de 1 de Julho último, nos quantitativos seguintes:
+(ver documento original)
+Ministérios da Administração Interna e das Finanças, 19 de Novembro de 1975. - O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa. - O Ministro das Finanças, Francisco Salgado Zenha.
