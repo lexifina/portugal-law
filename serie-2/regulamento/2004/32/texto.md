@@ -1,0 +1,5 @@
+Regulamento n.º 32/2004. - Considerando o disposto no artigo 11.º do Regulamento Geral das Especialidades, aprovado em sessão do conselho geral de 9 de Janeiro de 2004, regulamento n.º 15/2004, publicado no Diário da República, 2.ª série, n.º 81, de 5 de Abril de 2004, e ainda, designadamente, o disposto nos artigos 169.º e 171.º do Estatuto da Ordem dos Advogados, aprovado pelo Decreto-Lei n.º 84/84, de 16 de Março, com a redacção que lhe foi dada pela Lei n.º 80/2001, de 20 de Junho, o conselho geral da Ordem dos Advogados, em sessão de 16 de Julho de 2004, deliberou ao abrigo do disposto na alínea f) do n.º 1 do artigo 42.º do mesmo Estatuto, o seguinte:
+Artigo único
+Inscrição
+Nos termos e para os efeitos de execução da disposição transitória subjectiva do Regulamento Geral de Especialidades, a atribuição do título de advogado especialista obriga a inscrição directa no conselho distrital respectivo e a sujeição aos deveres e obrigações constantes do Estatuto da Ordem dos Advogados, nos seus precisos termos.
+19 de Julho de 2004. - O Bastonário, José Miguel Júdice.
