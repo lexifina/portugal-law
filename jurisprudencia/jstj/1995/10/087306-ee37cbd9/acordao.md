@@ -1,0 +1,45 @@
+# Acórdão do Supremo Tribunal de Justiça de 1995-10-11, processo 087306
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 087306
+
+**Nº Convencional:** JSTJ00028139
+
+**Relator:** MIGUEL MONTENEGRO
+
+**Descritores:** SOCIEDADE COMERCIAL; OBJECTO; DENOMINAÇÃO SOCIAL; NOVIDADE; PRINCÍPIO DA ESPECIALIDADE; PRINCÍPIO DA EXCLUSIVIDADE; PRINCÍPIO DA VERDADE MATERIAL; NULIDADE PROCESSUAL
+
+**Nº do Documento:** SJ199510110873061
+
+**Data do Acordão:** 10/11/1995
+
+**Votação:** UNANIMIDADE
+
+**Tribunal Recurso:** T REL PORTO
+
+**Processo no Tribunal Recurso:** 567/94
+
+**Data:** 12/19/1994
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REVISTA.
+
+**Decisão:** CONCEDIDA A REVISTA.
+
+**Área Temática:** DIR COM - SOC COMERCIAIS. DIR PROC CIV.
+
+## Sumário
+
+I - Nos artigos 10 n. 5 do Código das Sociedades Comerciais, consagram-se os princípios da novidade, exclusividade e verdade, no sentido de se pretender afastar qualquer possível confusão quer quanto à formulação das firmas ou denominações como ao que respeita às actividades que propõem desenvolver, assim se protegendo a própria firma ou denominação da prossecução dos respectivos interesses como ainda os dos terceiros que com elas pretendam ter relacionamento por forma a dirigirem-se àquela que mais lhes convenha.
+
+II - Assente que a denominação de uma sociedade e a de outras referidas nos autos eram insusceptíveis de confundibilidade no que toca à sua literalidade, pode, porém, a confundibilidade surgir da circunstância de se pretender alterar o objecto daquela mesma sociedade para determinadas actividades não previstas inicialmente.
+
+III - Vendo-se do pacto social de uma sociedade que o objecto desta é o exercício das actividades de importação e exportação, e outras não proíbidas por lei, podendo por deliberação do seu conselho de administração adquirir acções, quotas de capital em sociedades, bem como comparticipar na sua criação e exercer cargos sociais nas mesmas, não contraria a lei - artigo 2 n. 2, última parte do Decreto-Lei 42/89, ao falar em actividades exercidas ou a exercer -, uma reformulação do objecto da mesma sociedade para "actividades de importação e exportação, prestação de serviços técnicos de gestão de administração em empresas, projectos industriais e outros, incluindo fornecimento de mão de obra qualificada, técnica e administrativa, concepção e realização de acções de formação de pessoal, aquisição, alienação, permuta e locação de bens mobiliários e imobiliários por quaisquer actos e contratos e a sua oneração, ainda que mediante a constituição de garantias reais, bem como a aquisição e detenção de acções ou quotas em sociedades".
+
+IV - No caso concreto, não se trata de modificação ou alteração do objecto social da sociedade mas apenas de uma sua ampliação aos sectores indicados.
+
+V - Não ocorre o vício enunciado no artigo 668 n. 1 alínea d), do Código de Processo Civil, consistente em pronúncia sobre questão concernente ao princípio da verdade, quando o acórdão recorrido apenas tenha julgado que, do exercício, pela recorrente, de novas actividades diversas das que prosseguia até ao momento em que requereu o certificado de admissibilidade e já prossseguidas por por outras empresas, resultaria confundibilidade obstativa da concessão do certificado de admissibilidade pretendido, não se dizendo nem deixando de se dizer que tais actividades se encontravam ou não abarcadas pela formulação geral ou genérica da denominação da mesma recorrente.
