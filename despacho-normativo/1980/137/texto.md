@@ -1,0 +1,3 @@
+Despacho Normativo n.º 137/80
+Ao abrigo do disposto no n.º 3 do artigo 1.º do Decreto-Lei n.º 303/77, de 29 de Julho, e em aditamento à tabela n.º 1 «Produtos fitofarmacêuticos», é autorizada a alteração dos teores de 340 g/l + 137 g/l para 336 g/l + 144 g/l relativamente aos produtos fitofarmacêuticos com base na mistura alacloro + atrazina formulados em suspensão oleosa.
+Secretarias de Estado do Fomento Agrário e do Comércio e Turismo, 10 de Março de 1980. - O Secretário de Estado do Fomento Agrário, José Vicente de Jesus de Carvalho Cardoso. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.
