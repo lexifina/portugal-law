@@ -1,0 +1,17 @@
+Decreto Regulamentar n.º 18/78
+de 1 de Julho
+Considerando a necessidade de rever alguns princípios estabelecidos no Decreto Regulamentar n.º 89/77, de 31 de Dezembro, relativo ao serviço docente extraordinário e nocturno prestado pelo pessoal docente dos ensinos preparatório, secundário e médio;
+Ao abrigo do n.º 1 do artigo 1.º do Decreto-Lei n.º 59/76, de 23 de Janeiro:
+O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+Artigo 1.º - 1 - Considera-se trabalho docente nocturno o prestado para além das 19 horas.
+2 - Para efeitos de remuneração, considera-se como equivalendo a hora e meia diurna a hora de serviço docente prestada pelos professores dos ensinos preparatório, secundário e médio com horário exclusivamente nocturno, para além das quinze horas semanais que constituem horário nocturno completo.
+3 - O serviço prestado nos termos do número anterior só é permitido desde que o mesmo resulte conjuntamente do número de horas curriculares da disciplina que o professor rege e da necessidade de não atribuir ao professor um horário incompleto.
+Art. 2.º Para efeitos do cálculo da remuneração do trabalho docente extraordinário, considera-se como valor da hora de serviço normal a fórmula:
+(V x 12)/(52 x 22)
+sendo V o vencimento mensal do professor.
+Art. 3.º O disposto no presente diploma aplica-se desde o dia seguinte ao da entrada em vigor do Decreto-Lei n.º 89/77, de 31 de Dezembro.
+Art. 4.º São revogados o n.º 3 do artigo 3.º, o n.º 1 do artigo 5.º e o artigo 6.º do Decreto Regulamentar n.º 89/77, de 31 de Dezembro.
+Mário Soares - Vítor Manuel Ribeiro Constâncio - Rui Eduardo Ferreira Rodrigues Pena - Mário Augusto Sottomayor Leal Cardia.
+Promulgado em 15 de Junho de 1978.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
