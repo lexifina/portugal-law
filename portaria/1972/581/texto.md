@@ -1,0 +1,5 @@
+Portaria n.º 581/72
+de 7 de Outubro
+Reconhecendo-se a necessidade de prorrogar a vigência da lotação do pessoal permanente das Oficinas Navais de S. Vicente (O. N. S. V.) e da correspondente tabela de vencimentos, dado não ser ainda oportuna a respectiva fixação na forma definitiva:
+Manda o Governo da República Portuguesa, pelos Ministros da Defesa Nacional, das Finanças e da Marinha, ao abrigo do disposto no artigo 9.º do Decreto-Lei n.º 48193, de 4 de Janeiro de 1968, prorrogar até 31 de Dezembro de 1972 a vigência da lotação provisória do pessoal permanente das O. N. S. V. e da correspondente tabela de vencimentos, aprovada pela Portaria n.º 23920, de 14 de Fevereiro de 1969, com a alteração introduzida nessa tabela pela Portaria n.º 347/71, de 29 de Junho.
+Presidência do Conselho e Ministérios das Finanças e da Marinha, 26 de Setembro de 1972. - O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo. - O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias. - O Ministro da Marinha, Manuel Pereira Crespo.
