@@ -1,0 +1,3 @@
+Declaração de Rectificação n.º 8/97
+Por ter sido publicado com inexactidão no suplemento ao Diário da República, 1.ª série-A, n.º 76, de 1 de Abril de 1997, o Decreto do Presidente da República n.º 16-E/97, em que nomeia o vice-almirante Nuno Gonçalo Vieira Matias para o cargo de Chefe do Estado-Maior da Armada, rectifica-se que a p. 1470-(2), onde se lê «sendo promovido ao posto de almirante, por força do disposto no artigo 234.º do Estatuto dos Militares das Forças Armadas» deve ler-se «sendo promovido ao posto de almirante, por força do disposto no artigo 233.º do Estatuto dos Militares das Forças Armadas».
+Secretaria-Geral da Presidência da República, 8 de Abril de 1997. - O Secretário-Geral, José Vicente de Bragança.
