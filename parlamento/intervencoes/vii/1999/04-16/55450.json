@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=qUAFp27CBkIttcOxiLgk0FIFM%2benj3agWAdWp9f2uUE7DM89Hf79g0s6kJ1OpP%2b%2bV8tF1iVoXzUjf9MdNSMm4nwgUSw8wSK%2f8IWQGg3htMY3c5Ya6BFuH2nCggW0h1GujT%2bIUdPmA8SvTT3HpzcWjwY1Ytx02d%2b7d2kHzuJsMkIxOLhUMfluBDICsI431jugsRtyLdTkTs3iZNjh0bZeiTsuFJxPyR5N7XOGoIkmGpdUelnuD9Uv%2bK5tX%2fCtB3SYc9FZA1mlNR599B92fTx%2bndvsVfZla0grGGcMC1Ygbf5wdyt%2fcERRcbU8v%2fdkvPhkc3PKeJXfSzhOHsiR3Kxg%2fadV%2fCqpiI%2bSBylGrc6dYzg%3d&fich=IntervencoesVII_json.txt&Inline=true",
+  "ficheiro_sha256": "63246bfd185a5eb6b3d6f557ea72ee60968af9ce7c1a76c63b16943a173ed13f",
+  "legislatura": "VII",
+  "id": "55450",
+  "tipo": "Intervenção",
+  "orador": "João Corregedor da Fonseca (PCP)",
+  "data_registo": "1999-04-16",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "99275",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "4517",
+        "tipo": "INI",
+        "titulo": "Proposta de Resolução - Aprova, para adesão, a Convenção Internacional para a Protecção dos Artistas Intérpretes ou Executantes, dos Produtores de Fonogramas e dos Organismos de Radiodifusão (Convenção de Roma), aprovada em Roma em 26 de Outubro de 1961"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1999-04-16",
+    "Debate": "PPR 133",
+    "Deputados": {
+      "GP": "PCP",
+      "idCadastro": "212",
+      "nome": "João Corregedor da Fonseca"
+    },
+    "FaseDebate": "VOTACAO FINAL GLOBAL",
+    "FaseSessao": "POD",
+    "Id": "55450",
+    "IdDebate": "679",
+    "Iniciativas": [
+      {
+        "fase": "Apreciação",
+        "id": "4517",
+        "tipo": "Proposta de Resolução"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "55450",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "2661-2662"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1999-04-17",
+        "pubLeg": "VII",
+        "pubNr": "73",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/073/1999-04-17/2661?pgs=2661-2662&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": null,
+    "Sessao": "4",
+    "Sumario": "APROVA, PARA ADESAO, A CONVENCAO INTERNACIONAL PARA A PROTECCAO DOS ARTISTAS INTERPRETES OU EXECUTANTES DOS PRODUTORES DE FONOGRAMAS E DOS ORGANISMOS DE RADIODIFUSAO (CONVENCAO DEROMA), APROVADA EM ROMA, EM 26 DE OUTUBRO DE 1961",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
