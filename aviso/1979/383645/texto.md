@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que o representante permanente de Portugal junto dos organismos e organizações internacionais, em Genebra, notificou o secretário executivo da Comissão Económica para a Europa, em 25 de Janeiro de 1978, da aceitação, por parte de Portugal, da Resolução relativa à aplicação das disposições dos anexos técnicos da Convenção TIR e à utilização do modelo da caderneta TIR, adoptada em 14 de Novembro de 1975, no âmbito da Comissão Económica para a Europa, e aprovada para ratificação pelo Decreto n.º 102/78, de 20 de Setembro.
+Direcção-Geral dos Negócios Económicos, 13 de Fevereiro de 1979. - O Adjunto do Director-Geral, Carlos Alberto Soares Simões Coelho.
