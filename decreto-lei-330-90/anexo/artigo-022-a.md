@@ -11,5 +11,3 @@ b) Contenha situações ou sugestões de utilização do veículo perturbadoras 
 c) Apresente situações de infracção das regras do Código da Estrada, nomeadamente excesso de velocidade, manobras perigosas, não utilização de acessórios de segurança e desrespeito pela sinalização ou pelos peões.
 
 2 - Para efeitos do presente Código, entende-se por veículos automóveis todos os veículos de tracção mecânica destinados a transitar pelos seus próprios meios nas vias públicas.
-
-3 - É proibida a publicidade, sob qualquer forma, à prática de atos que levem ao incumprimento do estabelecido nos n.ºs 1 a 4 do artigo 8.º do Regulamento da Transformação de Veículos.

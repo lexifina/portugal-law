@@ -12,7 +12,7 @@ a) Incitar directamente os menores, explorando a sua inexperiência ou credulida
 
 b) Incitar directamente os menores a persuadirem os seus pais ou terceiros a comprarem os produtos ou serviços em questão;
 
-c) Conter elementos susceptíveis de fazerem perigar a sua integridade física ou moral, bem como a sua saúde ou segurança, nomeadamente através de cenas de pornografia ou do incitamento à violência;
+c) Conter elementos susceptíveis de fazerem perigar a sua integridade física ou moral, designadamente pelo incitamento à violência;
 
 d) Explorar a confiança especial que os menores depositam nos seus pais, tutores ou professores.
 

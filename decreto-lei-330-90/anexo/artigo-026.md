@@ -1,6 +1,6 @@
 ## Capítulo III
 
-## Publicidade na televisão e televenda
+## Publicidade na televisão
 
 # Artigo 26.º
 

@@ -2,4 +2,4 @@
 
 ### Princípio do respeito pelos direitos do consumidor
 
-É proibida a publicidade que atente contra os direitos do consumidor.
+A publicidade não deve atentar contra os direitos do consumidor.
