@@ -1,0 +1,3 @@
+Declaração
+Declara-se, nos termos do n.º 3 do artigo 9.º do Decreto-Lei n.º 49040, de 4 de Junho de 1969, que, por despachos de SS. Exas. o Ministro da Justiça e o Secretário de Estado do Orçamento, respectivamente de 18 de Fevereiro último e 3 de Março corrente, foram fixados em 1/30 dos actuais vencimentos mensais dos respectivos carcereiros efectivos em serviço nos mesmos estabelecimentos prisionais regionais e comarcãos os salários diários a abonar, durante o corrente ano, ao pessoal de vigilância, do sexo feminino, que for assalariado eventualmente, nos termos da alínea a) do n.º 1 do citado artigo 9.º do Decreto-Lei n.º 49040.
+Direcção-Geral dos Serviços Prisionais, 10 de Fevereiro de 1971. - O Director-Geral, José Guardado Lopes.
