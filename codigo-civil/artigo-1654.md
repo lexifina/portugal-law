@@ -14,7 +14,7 @@ São lavrados por transcrição:
 
 a) Os assentos dos casamentos católicos celebrados em Portugal;
 
-b) Os assentos dos casamentos civis urgentes celebrados em Portugal;
+b) Os assentos dos casamentos civis urgentes ou por forma religiosa celebrados em Portugal;
 
 c) Os assentos dos casamentos católicos ou civis celebrados no estrangeiro por portugueses, ou por estrangeiros que adquiram a nacionalidade portuguesa;
 

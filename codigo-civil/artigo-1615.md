@@ -8,6 +8,10 @@
 
 # Artigo 1615.º
 
-### (Publicidade e solenidade)
+### Publicidade e forma
 
-A celebração do casamento é pública e está sujeita às solenidades fixadas nas leis do registo civil.
+A celebração do casamento é pública e está sujeita, segundo a vontade dos nubentes:
+
+a) À forma fixada neste Código e nas leis do registo civil;
+
+b) À forma religiosa, nos termos de legislação especial.
