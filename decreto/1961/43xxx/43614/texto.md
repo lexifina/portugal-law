@@ -1,0 +1,10 @@
+Decreto n.º 43614
+Nos termos do disposto na alínea a) do n.º 3) do § 1.º do artigo 1.º do Regulamento de Transportes em Automóveis, aprovado pelo Decreto n.º 37272, de 31 de Dezembro de 1948, o transporte remunerado de alunos em automóveis de propriedade de estabelecimentos de ensino, no trajecto das suas residências para os colégios que frequentam, só é permitido em centros urbanos.
+Tem-se verificado, porém, ser necessário facilitar a deslocação dos estudantes residentes fora das localidades em que se situam os colégios, em percursos onde não haja transportes colectivos e, quando existam, nos casos em que os respectivos horários não possam ajustar-se, sem prejuízo do interesse geral, aos dos estabelecimentos de ensino.
+Nestes termos:
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º Sem prejuízo do disposto na alínea a) do n.º 3) do § 1.º do artigo 1.º do Regulamento de Transportes em Automóveis, a Direcção-Geral de Transportes Terrestres poderá autorizar os estabelecimentos de ensino a efectuar, em automóveis de sua propriedade, o transporte remunerado dos respectivos alunos nos percursos compreendidos entre as suas residências e os colégios que frequentarem e vice-versa, desde que esse transporte não ultrapasse os concelhos limítrofes do da sede do colégio e não existam transportes colectivos, por estrada ou caminho de ferro, que satisfaçam o fim em vista.
+Art. 2.º A remuneração do transporte será permitida apenas quando tiverem sido aprovados pela Direcção-Geral de Transportes Terrestres os respectivos preços, os quais, em caso algum, poderão exceder as despesas a realizar com o mesmo.
+Art. 3.º O transporte a que se refere o artigo 1.º será, para todos os efeitos, considerado transporte particular.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 21 de Abril de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Carlos Gomes da Silva Ribeiro.
