@@ -1,0 +1,4 @@
+Despacho ministerial
+Nos termos do disposto no artigo 12.º do Decreto-Lei n.º 632/75, de 14 de Novembro, determina-se que os chefes de secção pertencentes à Polícia de Segurança Pública da ex-colónia da Guiné, actualmente na situação de adidos, sejam integrados na congénere corporação portuguesa com a categoria de chefes de esquadra.
+Nestas circunstâncias, ao mapa I anexo ao diploma acima mencionado deverá ser acrescentada aquela categoria, bem como a que lhe é equivalente, para efeitos de integração.
+Ministérios da Cooperação, da Administração Interna e das Finanças, 31 de Março de 1976. - O Ministro da Cooperação, Vítor Manuel Trigueiros Crespo. - O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa. - Pelo Ministro das Finanças, Vítor Manuel Ribeiro Constâncio, Secretário de Estado do Planeamento e Orçamento.
