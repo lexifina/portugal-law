@@ -1,0 +1,113 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "tipo": "Projeto de Resolução",
+  "numero": "3",
+  "id": "18994",
+  "fases": 11,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2002-04-18",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2003-09-14",
+    "DataInicioleg": "2002-04-05",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "1154",
+        "nome": "Helena Roseta"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1262",
+        "nome": "Francisco de Assis"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "18994",
+    "IniLeg": "IX",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a79394562324e31625756756447397a5357357059326c6864476c325953396d596a4a6d5954646b59533033593251774c5451344e574d744f44426c5a4330315a54686c4d6a4d314f4749344e6a6b755a47396a&fich=fb2fa7da-7cd0-485c-80ed-5e8e2358b869.doc&Inline=true",
+    "IniNr": "3",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Sobre o cumprimento das Leis n.º 6/84, de 11 de Maio, e n.º 90/97, de 30 de Julho, e sobre a realidade do aborto clandestino em Portugal.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": [
+      {
+        "autor": "CDS-PP, PSD",
+        "id": "19115",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "270915",
+            "obs": null,
+            "pag": [
+              "154-154"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-05-18",
+            "pubLeg": "IX",
+            "pubNr": "7",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/09/01/007/2002-05-18/154?pgs=154&org=PLC"
+          }
+        ],
+        "tipo": "Proposta de Alteração"
+      },
+      {
+        "autor": "BE",
+        "id": "19116",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "270916",
+            "obs": null,
+            "pag": [
+              "154-154"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-05-18",
+            "pubLeg": "IX",
+            "pubNr": "7",
+            "pubSL": "1",
+            "pubTipo": "DAR II série A",
+            "pubTp": "A",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/09/01/007/2002-05-18/154?pgs=154&org=PLC"
+          }
+        ],
+        "tipo": "Proposta de Alteração"
+      }
+    ]
+  }
+}
