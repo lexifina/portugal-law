@@ -1,0 +1,3 @@
+Portaria n.º 20725
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do § 1.º do artigo 4.º do Decreto-Lei n.º 28326, de 2 7 de Dezembro de 1937, reforçar com a importância de 17000$00 a verba do artigo 18.º «Diversos encargos - Missões de estudo», da tabela de despesa do orçamento privativo do Instituto de Medicina Tropical para o corrente ano, tomando como contrapartida as disponibilidades existentes na verba do artigo 22.º «Diversos encargos - Bolsas de estudo», do referido orçamento.
+Ministério do Ultramar, 12 de Agosto de 1964. - Pelo Ministro do Ultramar, Joaquim Moreira da Silva Cunha, Subsecretário de Estado da Administração Ultramarina.
