@@ -1,0 +1,3 @@
+Aviso n.º 240/97
+Por ordem superior se torna público que a Bulgária, Croácia, República Checa, Dinamarca, Estónia, França, Alemanha, Hungria, Islândia, Letónia, Lituânia, Luxemburgo, Malta, Noruega, Polónia, Portugal, Roménia, Eslováquia, Eslovénia, Suécia, ex-República Jugoslava da Macedónia, Ucrânia, Azerbeijão, Geórgia, Santa Sé, Kasakistão e Estados Unidos da América assinaram, em 11 de Abril de 1997, a Convenção sobre o Reconhecimento das Qualificações Relativas ao Ensino Superior na Região Europeia, aberta à assinatura em Lisboa em 11 de Abril de 1997.
+Direcção de Serviços das Organizações Políticas Multilaterais, 14 de Julho de 1997. - O Director de Serviços, João José Gomes Caetano da Silva.
