@@ -1,0 +1,9 @@
+Despacho Normativo n.º 17/2004
+Tendo-se constatado a existência de constrangimentos de ordem técnico-informática não resolúveis em tempo adequado para garantir condições de exequibilidade do regime de obrigatoriedade nos prazos estabelecidos nos n.os 8 e 9 do Despacho Normativo n.º 25/2003, de 29 de Maio, torna-se necessário, para salvaguardar, quer os padrões de qualidade do serviço prestado pela Administração, quer a excelência do serviço prestado aos operadores, fasear e diferir a aplicação daquele regime.
+Assim, ao abrigo do n.º 3 do artigo 8.º do Código dos Impostos Especiais de Consumo, aprovado pelo Decreto-Lei n.º 566/99, de 22 de Dezembro, e do artigo 25.º do Decreto-Lei n.º 135/99, de 22 de Abril, determina o Secretário de Estado dos Assuntos Fiscais que os n.os 8 e 9 do Despacho Normativo n.º 25/2003, de 29 de Maio, passem a ter a seguinte redacção:
+«8 - A partir de 1 de Abril de 2004, as obrigações declarativas previstas no Código dos Impostos Especiais de Consumo (CIEC), relativas à DIC, são obrigatoriamente cumpridas por transmissão electrónica de dados sempre que:
+a) ...
+b) ...
+c) ...
+9 - A partir de 1 de Outubro de 2004, o regime da obrigatoriedade de envio, por transmissão electrónica de dados, aplica-se ao documento administrativo de acompanhamento (DAA) e a todos os operadores com estatuto reconhecido pela DGAIEC nos termos do CIEC, com excepção das DIC processadas pelas pequenas destilarias na acepção do artigo 60.º daquele Código.»
+Ministério das Finanças, 1 de Março de 2004. - O Secretário de Estado dos Assuntos Fiscais, Vasco Jorge Valdez Ferreira Matias.
