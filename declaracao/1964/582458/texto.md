@@ -1,0 +1,3 @@
+Declaração
+Ponderada a conveniência de esclarecer a natureza dos preços de venda de pão nas padarias, seus depósitos e sucursais, e dos acréscimos a esses preços na venda de pão ao domicílio, a que se referem os artigos 16.º e 17.º respectivamente, do Decreto-Lei n.º 45223, de 2 de Setembro de 1963, para os devidos efeitos S. Ex.ª o Secretário de Estado do Comércio, por seu despacho de 21 do corrente mês, determinou que são máximos os preços e as importâncias a que se referem os artigos 16.º e 17.º do Decreto-Lei n.º 45223, de 2 de Setembro de 1963.
+Intendência-Geral dos Abastecimentos, 24 de Abril de 1964. - O Intendente-Geral, João Teixeira Pinto.
