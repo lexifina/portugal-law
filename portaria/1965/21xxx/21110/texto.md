@@ -1,0 +1,5 @@
+Portaria n.º 21110
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar com a importância de 20000$00 a verba do capítulo 10.º, artigo 298.º, n.º 19), alínea a) «Encargos gerais - Diversas despesas - Despesas com a assistência médica, tratamento e internamento em hospitais, manicómios, casas de saúde e sanatórios de funcionários civis do activo, aposentados e operários do Estado - Na metrópole», da tabela de despesa ordinária do orçamento geral da província de S. Tomé e Príncipe para 1964, tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo 10.º, artigo 297.º, n.º 4), alínea b), 1.º «Encargos gerais - Deslocações do pessoal - Passagens de ou para o exterior - Por quaisquer outros motivos - A pagar na metrópole», da referida tabela de despesa.
+Ministério do Ultramar, 16 de Fevereiro de 1965. - Pelo Ministro do Ultramar, Joaquim Moreira da Silva Cunha, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de S. Tomé e Príncipe. - J. da Silva Cunha.
