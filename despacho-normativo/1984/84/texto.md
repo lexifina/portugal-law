@@ -1,0 +1,8 @@
+Despacho Normativo n.º 84/84
+O regime geral de segurança social garante a pensão de sobrevivência aos cônjuges, ainda que separados de pessoas e bens, e aos cônjuges divorciados litigiosamente ou por mútuo consentimento com direito a alimentos aquando da morte do beneficiário.
+Neste aspecto, o regime aplicável aos beneficiários abrangidos pelo Regulamento das Caixas de Previdência de Pensões de Reforma de 1 de Janeiro de 1927 da Companhia dos Caminhos de Ferro Portugueses apenas prevê a atribuição da pensão de sobrevivência à viúva, ainda que separada judicialmente, se a sentença de separação foi proferida a seu favor.
+O esquema de prestações diferidas dos trabalhadores ferroviários abrangidos por aquele Regulamento obedece a características próprias que o situam entre os regimes fechados que mais divergem do regime geral de segurança social.
+Esta circunstância, se impede a sua inteira assimilação a este regime, não parece dever impedir o seu aperfeiçoamento no sentido de uma maior aproximação de respostas socialmente mais correctas.
+Nestes termos, ao abrigo do artigo 201.º do Decreto n.º 45266, de 23 de Setembro de 1963, determino o seguinte:
+Os ex-cônjuges dos beneficiários abrangidos pelo regime previsto no Regulamento das Caixas de Previdência de Pensões de Reforma de 1 de Janeiro de 1927 da Companhia de Caminhos de Ferro Portugueses têm direito a pensão de sobrevivência nas mesmas circunstâncias em que o referido direito é reconhecido aos ex-cônjuges dos beneficiários do regime geral de segurança social, incluindo as regras sobre concorrência no direito à pensão.
+Secretaria de Estado da Segurança Social, 30 de Março de 1984. - A Secretária de Estado da Segurança Social, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
