@@ -1,0 +1,710 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=6tRSrsS472KL0pihrbeU3Juv4E5ApzTlkuIJMDYc5d38v4XsZgYhKVB7Ayr7k6BD7ZNRnhu1uQv2nCwvvkoyXJgfHcd33Rt69gnnqGDLZ7jjDe9WHr1ZOrkFyZHrN%2bdvof6dUKIxE5Wasjk0TQFMyoX%2fKDcVSYqW4xooRfuNYiYxRnpgxINjnNAVq18dgakPF%2fXopgVWi9%2fPK8k2cZ5tRjc%2bd8zO7m6xWvdsbeUHkofo9FaMQ0PghWTFmLBF2ObMw8XQM9vXrZDGjYuCymHSoJrECXBxqIIzCmd0QdMQC5B6LWcA54XELbiVJgZxukznf%2fhdJzQ3jKe6Egx9h%2fh5EH5FtypL9lWrfzDQfsf80Is%3d&fich=IniciativasVI_json.txt&Inline=true",
+  "ficheiro_sha256": "cb79e0745a8347d94ab476dc88937917b337689f6631b8b987a47bad388a33b7",
+  "legislatura": "VI",
+  "iniciativa": {
+    "tipo": "Ratificação",
+    "numero": "140",
+    "id": "3302",
+    "titulo": "Decreto-lei n.º 55/95, de 29 de Março, que transpõe para a ordem jurídica interna as Directivas n°s 92/50/CEE, do Conselho, de 18 de Junho de 1992, e 93/36/CEE, do Conselho, de 14 de Junho de 1193, e estabelece o regime de realização de despesas públicas com empreitadas de obras e aquisição de serviços e bens, bem como o da contratação pública relativa a prestação de serviços, locação e aquisição de bens móveis."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "1995-05-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "7925",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "1995-05-12",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Ratificação",
+        "id": "3307",
+        "leg": "VI",
+        "nr": "137",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "130",
+            "obs": null,
+            "pag": [
+              "2474-2483"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1995-05-13",
+            "pubLeg": "VI",
+            "pubNr": "76",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/076/1995-05-13/2474?pgs=2474-2483&org=PLC"
+          }
+        ],
+        "sel": "4",
+        "tipo": "F",
+        "titulo": "Decreto-lei n.º 55/95, de 29 de Março, que transpõe para a ordem jurídica interna as Directivas n°s 92/50/CEE, do Conselho, de 18 de Junho de 1992, e 93/36/CEE, do Conselho, de 14 de Junho de 1193, e estabelece o regime de realização de despesas públicas com empreitadas de obras e aquisição de serviços e bens, bem como o da contratação pública relativa a prestação de serviços, locação e aquisição de bens móveis."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1995-05-12",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "188",
+                "nome": "Gameiro dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39903",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2481-2481"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-05-13",
+                "pubLeg": "VI",
+                "pubNr": "76",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/076/1995-05-13/2481?pgs=2481&org=PLC"
+              }
+            ],
+            "sumario": "OBRAS PUBLICAS E AQUISICAO DE SERVICOS E BENS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "42",
+                "nome": "Duarte Pacheco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39946",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2481-2481"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-05-13",
+                "pubLeg": "VI",
+                "pubNr": "76",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/076/1995-05-13/2481?pgs=2481&org=PLC"
+              }
+            ],
+            "sumario": "OBRAS PUBLICAS E AQUISICAO DE SERVICOS E BENS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39947",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2481-2481"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-05-13",
+                "pubLeg": "VI",
+                "pubNr": "76",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/076/1995-05-13/2481?pgs=2481&org=PLC"
+              }
+            ],
+            "sumario": "OBRAS PUBLICAS E AQUISICAO DE SERVICOS E BENS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "228",
+                "nome": "Manuel Queiró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39962",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2480-2481"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-05-13",
+                "pubLeg": "VI",
+                "pubNr": "76",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/076/1995-05-13/2480?pgs=2480-2481&org=PLC"
+              }
+            ],
+            "sumario": "OBRAS PUBLICAS E AQUISICAO DE SERVICOS E BENS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39964",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2480-2480"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-05-13",
+                "pubLeg": "VI",
+                "pubNr": "76",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/076/1995-05-13/2480?pgs=2480&org=PLC"
+              }
+            ],
+            "sumario": "OBRAS PUBLICAS E AQUISICAO DE SERVICOS E BENS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "188",
+                "nome": "Gameiro dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39966",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2479-2479"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-05-13",
+                "pubLeg": "VI",
+                "pubNr": "76",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/076/1995-05-13/2479?pgs=2479&org=PLC"
+              }
+            ],
+            "sumario": "OBRAS PUBLICAS E AQUISICAO DE SERVICOS E BENS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Indep",
+                "idCadastro": "220",
+                "nome": "Mário Tomé"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39967",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2479-2479"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-05-13",
+                "pubLeg": "VI",
+                "pubNr": "76",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/076/1995-05-13/2479?pgs=2479&org=PLC"
+              }
+            ],
+            "sumario": "OBRAS PUBLICAS E AQUISICAO DE SERVICOS E BENS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "42",
+                "nome": "Duarte Pacheco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39970",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2478-2480"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-05-13",
+                "pubLeg": "VI",
+                "pubNr": "76",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/076/1995-05-13/2478?pgs=2478-2480&org=PLC"
+              }
+            ],
+            "sumario": "OBRAS PUBLICAS E AQUISICAO DE SERVICOS E BENS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "194",
+                "nome": "Júlio Henriques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39971",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2477-2478"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-05-13",
+                "pubLeg": "VI",
+                "pubNr": "76",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/076/1995-05-13/2477?pgs=2477-2478&org=PLC"
+              }
+            ],
+            "sumario": "OBRAS PUBLICAS E AQUISICAO DE SERVICOS E BENS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "42",
+                "nome": "Duarte Pacheco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39972",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2477-2477"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-05-13",
+                "pubLeg": "VI",
+                "pubNr": "76",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/076/1995-05-13/2477?pgs=2477&org=PLC"
+              }
+            ],
+            "sumario": "OBRAS PUBLICAS E AQUISICAO DE SERVICOS E BENS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "188",
+                "nome": "Gameiro dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39974",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2476-2483"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-05-13",
+                "pubLeg": "VI",
+                "pubNr": "76",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/076/1995-05-13/2476?pgs=2476-2483&org=PLC"
+              }
+            ],
+            "sumario": "OBRAS PUBLICAS E AQUISICAO DE SERVICOS E BENS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39975",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2474-2476"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-05-13",
+                "pubLeg": "VI",
+                "pubNr": "76",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/076/1995-05-13/2474?pgs=2474-2476&org=PLC"
+              }
+            ],
+            "sumario": "OBRAS PUBLICAS E AQUISICAO DE SERVICOS E BENS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO ORÇAMENTO",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Norberto Rosa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "108251",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2482-2483"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-05-13",
+                "pubLeg": "VI",
+                "pubNr": "76",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/076/1995-05-13/2482?pgs=2482-2483&org=PLC"
+              }
+            ],
+            "sumario": "OBRAS PUBLICAS E AQUISICAO DE SERVICOS E BENS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "273156",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
