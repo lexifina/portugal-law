@@ -1,0 +1,16 @@
+Declaração
+Para os devidos efeitos se declara que os anexos do Decreto do Governo n.º 24/87, publicado no Diário da República, 1.ª série, n.º 154, de 8 de Julho de 1987, e cujo original se encontra arquivado nesta Secretaria-Geral, não foram, por lapso, publicados, pelo que se procede de novo à publicação integral do referido decreto:
+MINISTÉRIO DOS NEGÓCIOS ESTRANGEIROS
+Decreto do Governo n.º 24/87
+de 8 de Julho
+O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o seguinte:
+Artigo 1.º É aprovada, para ratificação, a Convenção Internacional sobre o Sistema Harmonizado de Designação e de Codificação de Mercadorias, feita em Bruxelas em 14 de Junho de 1983, cujo texto original em francês e a respectiva tradução para português seguem em anexo ao presente decreto.
+Art. 2.º É aprovado, para aceitação, o Protocolo de Emenda à Convenção referida no artigo 1.º, elaborado pelo Conselho de Cooperação Aduaneira em 24 de Junho de 1986, cujo texto original em francês e a respectiva tradução para português seguem em anexo ao presente decreto.
+Visto e aprovado em Conselho de Ministros de 31 de Março de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Pedro José Rodrigues Pires de Miranda - Jorge Manuel Águas da Ponte Silva Marques - João Maria Leitão de Oliveira Martins.
+Assinado em 16 de Abril de 1987.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 21 de Abril de 1987.
+Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.
+
+(ver documento original)
