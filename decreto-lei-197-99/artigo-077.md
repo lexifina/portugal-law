@@ -6,7 +6,7 @@
 
 a) Para aquisição, desenvolvimento, produção ou co-produção de programas por parte de organismos de radiodifusão e contratos relativos ao tempo de antena;
 
-b) De aquisição de serviços de telefonia vocal, telex, radiotelefonia móvel, chamada de pessoas e comunicações via satélite;
+b) De aquisição de serviços de telefonia vocal, telex, radiotelefonia móvel, chamada de pessoas e comunicações via satélite, com excepção dos celebrados pelo Estado e institutos públicos;
 
 c) De aquisição de serviços de arbitragem e conciliação;
 
