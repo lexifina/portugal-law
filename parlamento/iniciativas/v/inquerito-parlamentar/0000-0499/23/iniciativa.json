@@ -1,0 +1,152 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "tipo": "Inquérito Parlamentar",
+  "numero": "23",
+  "id": "32919",
+  "fases": 7,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "1991-04-18",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "1991-11-03",
+    "DataInicioleg": "1990-10-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "2927",
+        "nome": "António Barreto"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "2948",
+        "nome": "Carlos Brito"
+      },
+      {
+        "GP": "PRD",
+        "idCadastro": "2992",
+        "nome": "Hermínio Martinho"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "229",
+        "nome": "Narana Coissoró"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3020",
+        "nome": "José Manuel Mendes"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "188",
+        "nome": "Gameiro dos Santos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "462",
+        "nome": "Alberto Martins"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "199",
+        "nome": "Julieta Sampaio"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "152",
+        "nome": "António Braga"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "285",
+        "nome": "José Sócrates"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "209",
+        "nome": "António Filipe"
+      },
+      {
+        "GP": "PRD",
+        "idCadastro": "148",
+        "nome": "Marques Júnior"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "162",
+        "nome": "Edite Estrela"
+      },
+      {
+        "GP": "Indep",
+        "idCadastro": "2991",
+        "nome": "Herculano Pombo"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "158",
+        "nome": "Armando Vara"
+      },
+      {
+        "GP": "PRD",
+        "idCadastro": "2912",
+        "nome": "Alexandre Leite"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "222",
+        "nome": "Octávio Teixeira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "195",
+        "nome": "Leonor Coutinho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "628",
+        "nome": "António Guterres"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      },
+      {
+        "GP": "PCP"
+      },
+      {
+        "GP": "PRD"
+      },
+      {
+        "GP": "CDS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Inquérito Parlamentar",
+    "IniEpigrafe": null,
+    "IniId": "32919",
+    "IniLeg": "V",
+    "IniLinkTexto": "",
+    "IniNr": "23",
+    "IniObs": "Regimento da Comissão: DAR IIS C nº 41, de 07-08-1991; Relatório Final da Comissão: DAR IIS B nº 2, de 22-11-1991.",
+    "IniSel": "4",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "I",
+    "IniTitulo": "Constituição de uma comissão eventual de inquérito destinada a averiguar as condições de legalidade e regularidade financeira e técnica de todo o processamento que envolve o Centro Cultural de Belém.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
