@@ -1,0 +1,3 @@
+Despacho
+Determina-se, de harmonia com o disposto na alínea c) do artigo 258.º do Código das Custas Judiciais e artigo único do Decreto-Lei n.º 588/71, de 27 de Dezembro, que aos magistrados judiciais e do Ministério Público nomeados em comissão de serviço para os tribunais das forças armadas da metrópole seja abonada a participação emolumentar que, em cada ano, for fixada para os magistrados judiciais dependentes do Ministério da Justiça.
+Presidência do Conselho e Ministério das Finanças, 29 de Maio de 1973. - O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo. - Pelo Ministro das Finanças, Augusto Victor Coelho, Secretário de Estado do Orçamento.
