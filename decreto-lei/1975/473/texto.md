@@ -1,0 +1,16 @@
+Decreto-Lei n.º 473/75
+de 29 de Agosto
+O recrutamento dos agentes do Ministério Público junto dos tribunais do trabalho constitui preocupação dominante no momento em que se procura, através de várias medidas legislativas, melhorar a administração da justiça do trabalho nos seus aspectos orgânicos e processuais. Essa preocupação, justificada pela necessidade de atribuir o patrocínio judiciário da classe trabalhadora a técnicos capazes de defenderem os seus legítimos direitos, aponta também para a conveniência de se garantir o acesso desses técnicos à judicatura em condições de poderem exercer cabalmente tais funções.
+Considera-se, por isso, indispensável a institucionalização de um estágio em termos de, num futuro próximo, permitir que o acesso à magistratura laboral se faça com o menor risco de escolha, quer no aspecto pessoal, quer do ponto de vista técnico. Por outro lado, entende-se conveniente e justo que esse estágio seja remunerado, embora, naturalmente, a nível inferior ao correspondente à situação de agente do Ministério Público.
+Nestes termos:
+Usando a faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Na nomeação dos agentes do Ministério Público junto dos tribunais do trabalho terão preferência os licenciados em Direito que já tenham exercido essas funções durante mais de um ano com bom e efectivo serviço e os que venham a obter aproveitamento classificado de Bom ou superior no estágio previsto neste diploma.
+Art. 2.º - 1. O estágio dos candidatos a agentes do Ministério Público terá a duração de três meses, e será prestado nos Tribunais do Trabalho de Lisboa, Porto e Coimbra (1.ª Vara).
+2. A admissão ao estágio será requerida ao Ministro do Trabalho até ao número de varas existentes naqueles Tribunais, dependendo de simples despacho e visto do Tribunal de Contas.
+3. O estagiário terá direito a perceber um terço do vencimento auferido pelo agente do Ministério Público junto da vara onde prestar serviço, sem quaisquer outras regalias.
+Art. 3.º Compete à Inspecção-Geral dos Tribunais do Trabalho classificar o aproveitamento a que se refere o artigo 1.º deste diploma, podendo convocar pessoalmente o estagiário para recolha de elementos julgados necessários para esse efeito.
+Art. 4.º Os encargos a que der lugar a execução do presente diploma são reembolsados ao Estado trimestralmente, pela receita prevista no artigo 152.º do Decreto-Lei n.º 45698, de 30 de Abril de 1964, mediante competente guia passada pela repartição da Direcção-Geral da Contabilidade Pública que tiver autorizado a despesa, até que o reembolso seja dispensado por decreto dos Ministros das Finanças e do Trabalho.
+Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José Joaquim Fragoso - José Inácio da Costa Martins.
+Promulgado em 20 de Agosto de 1975.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
