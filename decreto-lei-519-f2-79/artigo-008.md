@@ -1,5 +1,9 @@
 # Artigo 8.º
 
-1 - Nas cidades que sirvam de sede às direcções dos serviços de viação ha uma ou mais conservatórias do registo de automóveis com competência limitada à área da respectiva circunscrição.
+1 - O primeiro registo referente aos veículos automóveis pode ser feito em qualquer conservatória do registo de automóveis.
 
-2 Às conservatórias do registo de automóveis é aplicável o disposto no artigo anterior.
+2 - O registo a que se refere o número anterior determina a competência da conservatória para quaisquer actos posteriores referentes ao veículo.
+
+3 - Para a prática de actos de registo referentes a veículos já registados continua a ser competente a conservatória onde foi efectuado o primeiro registo.
+
+4- Às conservatórias do registo de automóveis é aplicável o disposto no artigo anterior.
