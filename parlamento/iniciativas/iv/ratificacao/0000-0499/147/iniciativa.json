@@ -1,0 +1,103 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=sHIRRaZSClvqs2fgPou4a23MGhhl3X0gpgbp%2btNARhGZicYLOXPZWkruq4vVo2sWGLeVuvGAgqbFJbJwQRW44CI9tfmX%2bbWTsyeHmJUtTMccM5o%2bccvn1sCfcA%2fpd%2bu%2fwKJ%2bFD1ev4cnIw3pVnfMa%2bhzSz6cuwzZblBv5LWM36SEbL%2bBs5zO8uiZpaydxrwOvnbXHxO20Qolz2olAmCgsT1gDBlsVm7WmD5xQWyQKm1VSK31nRXYjP8b8P%2feFXtP5tOSkcyuffzIm3hAkBaoFGuUyO4s%2fkJ5BzS9ISNRC1O2ZlNJZ6At2vSnnzEc478srqvpEWstyCICdzJ0iIVMlkL18DFe0lclA2tQQF6038g%3d&fich=IniciativasIV_json.txt&Inline=true",
+  "ficheiro_sha256": "66d499906f5f48d8fdeb07035c408bad3bf810ad88e2ed743ec1b74baa57e0d7",
+  "legislatura": "IV",
+  "tipo": "Ratificação",
+  "numero": "147",
+  "id": "27213",
+  "fases": 4,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "1987-03-26",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "1987-08-12",
+    "DataInicioleg": "1986-10-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "CDS",
+        "idCadastro": "3249",
+        "nome": "João Morgado"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "3243",
+        "nome": "Francisco Teixeira"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "3115",
+        "nome": "Manuel Pinto"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "1285",
+        "nome": "Manuel Cavaleiro Brandão"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "3114",
+        "nome": "Henrique de Moraes"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "3197",
+        "nome": "José Barros"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "3149",
+        "nome": "Andrade Pereira"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "3101",
+        "nome": "Vieira Dias"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "3132",
+        "nome": "Carlos Laranjeira"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "3188",
+        "nome": "Abel Almeida"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "3098",
+        "nome": "Horácio Marçal"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "CDS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Ratificação",
+    "IniEpigrafe": null,
+    "IniId": "27213",
+    "IniLeg": "IV",
+    "IniLinkTexto": "",
+    "IniNr": "147",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "F",
+    "IniTitulo": "Decreto-Lei nº 100/87, de 5 de Março, que harmoniza a legislação regulamentadora da região demarcada do Dão aos princípios e normas estabelecidas na Lei n.º 8/85, de 4 de Junho, que aprova a Lei-quadro das regiões demarcadas vitivinícolas",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
