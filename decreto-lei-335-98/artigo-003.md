@@ -16,6 +16,8 @@ e) Protecção das suas instalações e do seu pessoal;
 
 f) Uso público dos serviços inerentes à actividade portuária e sua fiscalização.
 
+g) Assunção da responsabilidade em matéria de segurança marítima e portuária na sua área de jurisdição, definindo as condições de segurança de funcionamento do porto, em todas as suas vertentes, tendo em atenção a necessidade de garantir, de forma adequada, a sua exploração comercial.
+
 3 - No exercício das competências referidas no número anterior, o pessoal da APDL, S. A., pode:
 
 a) Solicitar o auxílio das autoridades administrativas e policiais, quando for necessário para o desempenho das suas funções;
