@@ -1,0 +1,10 @@
+Aviso n.º 4
+Ao publicar o Decreto-Lei n.º 75-D/77, de 28 de Fevereiro, o Governo pretende estabelecer, como consta do seu preâmbulo, um Fundo de Garantia de Riscos Cambiais, com a finalidade de assumir os riscos de variação da taxa de câmbio aplicável a operações de crédito externo de relevante interesse nacional.
+Nos termos do artigo 15.º do estatuto daquele Fundo, compete ao Banco de Portugal fixar os prémios, comissões ou sobretaxas a praticar nas suas operações, as quais constituirão receitas do mesmo Fundo.
+Assim, sob a orientação do Ministro das Finanças, o Banco de Portugal, no uso da competência que lhe é atribuída pelos artigos 16.º e 26.º da sua Lei Orgânica, determina o seguinte, em regulamentação do previsto no artigo 28.º, alínea b), daquela Lei Orgânica:
+1.º - 1. Nas operações de crédito, com excepção das referidas no artigo 2.º do aviso n.º 2/77, de 28 de Fevereiro, e nas de financiamento para aquisição de habitação própria e para aquisição de bens alimentares com preço tabelado e indispensáveis ao abastecimento público, será aplicada uma sobretaxa de juro de 0,5%, que constituirá receita do Fundo.
+2. Tratando-se de operações de crédito ao consumo de bens duradouros, a sobretaxa de juro será de 2%.
+2.º - 1. Relativamente a cada contrato de fixação de câmbio celebrado nos termos dos estatutos do Fundo, constituirá receita deste, a título de prémio de garantia de risco cambial, a diferença entre a taxa máxima de juro fixada na legislação nacional para operações de crédito em escudos de igual duração e a taxa efectiva na operação de crédito concluída com o credor estrangeiro, deduzida de 0,5%.
+2. Sempre que se verifique a intervenção de uma instituição de crédito que opere em território nacional como avalista, poderá ser subtraída à diferença apurada nos termos da alínea anterior uma taxa correspondente à da comissão de aval, com o máximo de 0,75%.
+3.º O Banco de Portugal, como gestor do Fundo, dimanará as instruções indispensáveis à execução destas determinações.
+Ministério das Finanças, 28 de Fevereiro de 1977. - O Ministro das Finanças, Henrique Medina Carreira.
