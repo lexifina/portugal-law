@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que o Governo de Malta notificou o secretário-geral da Organização das Nações Unidas de que se considera vinculado, a partir do dia 21 de Setembro de 1964, data em que obteve a independência, pela Convenção aduaneira relativa à importação temporária para uso privado de embarcações de recreio e aeronaves, concluída em Genebra em 18 de Maio de 1956 e cuja aplicação havia sido tornada extensiva ao seu território antes da acessão à independência.
+Direcção-Geral dos Negócios Económicos e Consulares, 22 de Junho de 1966. - O Adjunto do Director-Geral, Fernando de Magalhães Cruz.
