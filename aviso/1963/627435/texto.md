@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que, conforme comunicação do secretário-geral das Nações Unidas à Missão Permanente de Portugal junto deste organismo internacional, os Governos da Albânia e Checoslováquia, respectivamente em 26 de Fevereiro de 1963 e 4 de Março de 1963, declararam não aceitar a posição do Governo Federal da Alemanha, no sentido de tornar aplicável à cidade de Berlim o Acordo europeu sobre sinais de estrada (Road Markings), celebrado em Genebra em 13 de Dezembro de 1957.
+Direcção-Geral dos Negócios Económicos e Consulares, 31 de Maio de 1963. - O Director-Geral, Albano Pires Fernandes Nogueira.
