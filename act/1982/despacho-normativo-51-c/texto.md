@@ -1,0 +1,30 @@
+Despacho Normativo n.º 51-C/82
+Ao abrigo do disposto nas alíneas a) e c) do n.º 2 do artigo 1.º do Decreto-Lei n.º 70/78, de 7 de Abril, e do n.º 3 do artigo 13.º do Decreto-Lei n.º 260/76, de 8 de Abril, com a redacção que lhe foi dada pelo artigo 1.º do Decreto-Lei n.º 25/79, de 19 de Fevereiro, determinam-se os preços e condições de venda dos seguintes cereais:
+I
+Trigo
+1.º Os preços de venda pela EPAC do trigo mole nacional e rijo da classe C no continente são os seguintes:
+(ver documento original)
+2.º O preço da tonelada de trigo mole nacional e rijo da classe C do peso inferior a 73 kg por hectolitro é reduzido de 31$60 por cada quilograma a menos.
+3.º Os preços de venda por tonelada de trigo rijo de grão claro das classes A e B, definidos e classificados pela Portaria n.º 20795, de 9 de Setembro de 1964, serão os estabelecidos no n.º 1.º deste despacho, acrescidos de 900$00 ou 600$00, respectivamente.
+4.º O preço de venda do trigo mole importado será o do trigo nacional, acrescido dos montantes da tabela seguinte:
+... Por tonelada
+Soft red winter US n.º 2 ... 400$00
+Hard red winter US n.º 2 ... 600$00
+Trigo tendre francês ... 200$00
+5.º O preço de venda do trigo mole nas Regiões Autónomas dos Açores e da Madeira será o estabelecido no n.º 1 deste despacho, acrescido de 400$00 por tonelada.
+II
+Centeio
+6.º Os preços de venda pela EPAC do centeio destinado à produção de farinhas são os seguintes:
+(ver documento original)
+7.º O preço da tonelada de centeio de peso inferior a 69 kg por hectolitro é reduzido de 30$00 por cada quilograma a menos.
+III
+Disposições gerais
+8.º O preço de venda do centeio respeita ao cereal nos silos ou celeiros da EPAC, em sacaria do comprador.
+9.º Os preços de venda do trigo referem-se ao cereal colocado sobre vagão ou outro meio de transporte na origem, em sacaria do comprador.
+10.º Os preços de venda dos cereais são diminuídos de 30$00 por tonelada para as entregas feitas nos celeiros ou silos da EPAC, sempre que o transporte se efectue a granel.
+11.º Sempre que a EPAC utilize a armazenagem própria dos sectores industriais utilizadores em quantidades que excedem os 30 dias, em conformidade com a laboração de cada industrial, sobre essa mesma quantidade pagará uma taxa de 70$00 por tonelada e por mês.
+12.º Nos termos do n.º 1 do artigo 25.º do Decreto-Lei n.º 70/78, de 7 de Abril, as fábricas de farinhas de trigo liquidarão à EPAC, no prazo de 60 dias, para crédito do Fundo de Abastecimento, a diferença entre os preços por que adquiriram os cereais em seu poder à data da entrada em vigor do presente diploma e os novos preços agora fixados.
+13.º Os diferenciais entre os preços fixados neste despacho para os cereais a fornecer pela EPAC e os preços reais de aquisição por aquela empresa pública serão encargo ou receita do Fundo de Abastecimento.
+14.º Fica revogado o Despacho Normativo n.º 109-B/81, de 6 de Abril, publicado no suplemento ao Diário da República, 1.ª série, n.º 80, de 6 de Abril de 1981.
+15.º Este despacho entra em vigor, no continente, no dia imediato ao da sua publicação e, nas Regiões Autónomas dos Açores e da Madeira, 30 dias após a mesma data.
+Secretarias de Estado do Orçamento e do Comércio, 19 de Abril de 1982. - O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado do Comércio, António Escaja Gonçalves.
