@@ -1,0 +1,846 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "385",
+    "id": "5048",
+    "titulo": "Introduz alterações na legislação penal, em particular no respeitante aos crimes sexuais contra menores e aos crimes contra a liberdade de circulação"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1997-10-22",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1075",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1997-10-22",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "5043",
+        "leg": "VII",
+        "nr": "125",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "286",
+            "obs": null,
+            "pag": [
+              "227-238"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1997-10-23",
+            "pubLeg": "VII",
+            "pubNr": "6",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/006/1997-10-23/227?pgs=227-238&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "P",
+        "titulo": "Criminaliza os mais graves atentados dolosos contra a liberdade de circulação de transporte rodoviário, ou por ar, água ou caminhos-de-ferro que não cheguem a criar perigo para a vida, integridade física ou bens patrimoniais de valor elevado."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1997-10-22",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "123",
+                "nome": "Miguel Macedo"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "53769",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "238-238"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-10-23",
+                "pubLeg": "VII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/006/1997-10-23/238?pgs=238&org=PLC"
+              }
+            ],
+            "sumario": "CRIMES: SEXUAIS CONTRA MENORES E DE LIBERDADE DE CIRCULACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  JUSTIÇA",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Vera Jardim"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "53770",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "238-238"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-10-23",
+                "pubLeg": "VII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/006/1997-10-23/238?pgs=238&org=PLC"
+              }
+            ],
+            "sumario": "CRIMES: SEXUAIS CONTRA MENORES E DE LIBERDADE DE CIRCULACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "123",
+                "nome": "Miguel Macedo"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "53771",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "236-238"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-10-23",
+                "pubLeg": "VII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/006/1997-10-23/236?pgs=236-238&org=PLC"
+              }
+            ],
+            "sumario": "CRIMES: SEXUAIS CONTRA MENORES E DE LIBERDADE DE CIRCULACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "53772",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "235-237"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-10-23",
+                "pubLeg": "VII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/006/1997-10-23/235?pgs=235-237&org=PLC"
+              }
+            ],
+            "sumario": "CRIMES: SEXUAIS CONTRA MENORES E DE LIBERDADE DE CIRCULACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "53773",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "235-235"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-10-23",
+                "pubLeg": "VII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/006/1997-10-23/235?pgs=235&org=PLC"
+              }
+            ],
+            "sumario": "CRIMES: SEXUAIS CONTRA MENORES E DE LIBERDADE DE CIRCULACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "53774",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "234-235"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-10-23",
+                "pubLeg": "VII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/006/1997-10-23/234?pgs=234-235&org=PLC"
+              }
+            ],
+            "sumario": "CRIMES: SEXUAIS CONTRA MENORES E DE LIBERDADE DE CIRCULACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "53775",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "233-234"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-10-23",
+                "pubLeg": "VII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/006/1997-10-23/233?pgs=233-234&org=PLC"
+              }
+            ],
+            "sumario": "CRIMES: SEXUAIS CONTRA MENORES E DE LIBERDADE DE CIRCULACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "53776",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "231-232"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-10-23",
+                "pubLeg": "VII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/006/1997-10-23/231?pgs=231-232&org=PLC"
+              }
+            ],
+            "sumario": "CRIMES: SEXUAIS CONTRA MENORES E DE LIBERDADE DE CIRCULACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "53777",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "231-232"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-10-23",
+                "pubLeg": "VII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/006/1997-10-23/231?pgs=231-232&org=PLC"
+              }
+            ],
+            "sumario": "CRIMES: SEXUAIS CONTRA MENORES E DE LIBERDADE DE CIRCULACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1385",
+                "nome": "Gonçalo Ribeiro da Costa"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "53778",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "231-231"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-10-23",
+                "pubLeg": "VII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/006/1997-10-23/231?pgs=231&org=PLC"
+              }
+            ],
+            "sumario": "CRIMES: SEXUAIS CONTRA MENORES E DE LIBERDADE DE CIRCULACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "53779",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "230-231"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-10-23",
+                "pubLeg": "VII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/006/1997-10-23/230?pgs=230-231&org=PLC"
+              }
+            ],
+            "sumario": "CRIMES: SEXUAIS CONTRA MENORES E DE LIBERDADE DE CIRCULACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1385",
+                "nome": "Gonçalo Ribeiro da Costa"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "53780",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "230-230"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-10-23",
+                "pubLeg": "VII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/006/1997-10-23/230?pgs=230&org=PLC"
+              }
+            ],
+            "sumario": "CRIMES: SEXUAIS CONTRA MENORES E DE LIBERDADE DE CIRCULACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "53781",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "227-230"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-10-23",
+                "pubLeg": "VII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/006/1997-10-23/227?pgs=227-230&org=PLC"
+              }
+            ],
+            "sumario": "CRIMES: SEXUAIS CONTRA MENORES E DE LIBERDADE DE CIRCULACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  JUSTIÇA",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Vera Jardim"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "53782",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "227-230"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-10-23",
+                "pubLeg": "VII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/006/1997-10-23/227?pgs=227-230&org=PLC"
+              }
+            ],
+            "sumario": "CRIMES: SEXUAIS CONTRA MENORES E DE LIBERDADE DE CIRCULACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "325",
+                "nome": "Moreira da Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "53783",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "227-227"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-10-23",
+                "pubLeg": "VII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/006/1997-10-23/227?pgs=227&org=PLC"
+              }
+            ],
+            "sumario": "CRIMES: SEXUAIS CONTRA MENORES E DE LIBERDADE DE CIRCULACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  JUSTIÇA",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Vera Jardim"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107178",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "238-238"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-10-23",
+                "pubLeg": "VII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/006/1997-10-23/238?pgs=238&org=PLC"
+              }
+            ],
+            "sumario": "CRIMES: SEXUAIS CONTRA MENORES E DE LIBERDADE DE CIRCULACAO",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "101423",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "109125",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1997-10-23",
+        "pubLeg": "VII",
+        "pubNr": "6",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/006/1997-10-23?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
