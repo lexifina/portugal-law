@@ -1,0 +1,5 @@
+Despacho Normativo n.º 93/86
+Considerando que a autorização para a constituição de armazéns públicos de depósito provisório, cujas normas se encontram previstas no Decreto-Lei n.º 281/86, de 5 de Setembro, pressupõe a prévia fixação do capital social mínimo das entidades requerentes;
+Importando, em complemento do normativo citado, fixar aquele mínimo em termos que assegurem um estatuto social-económico dos requerentes, actual e potencialmente apto aos objectivos que se visou prosseguir com a criação daqueles armazéns, quer no continente quer nas regiões autónomas:
+Ao abrigo do n.º 3 do artigo 4.º do Decreto-Lei n.º 281/86, de 5 de Setembro, determino que o capital social das sociedades comerciais que requeiram autorização para a constituição de armazéns públicos de depósito provisório não poderá ser inferior a 20000 contos no continente e a 4000 contos nas regiões autónomas.
+Ministério das Finanças, 25 de Setembro de 1986. - Pelo Ministro das Finanças, José de Oliveira Costa, Secretário de Estado para os Assuntos Fiscais.
