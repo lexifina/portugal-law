@@ -1,0 +1,48 @@
+Decreto n.º 47/90
+de 29 de Outubro
+Segundo o regime do Decreto-Lei n.º 176-A/88, de 18 de Maio, foi já decidida pela Resolução do Conselho de Ministros n.º 34/89, de 28 de Setembro, a elaboração do Plano Regional de Ordenamento do Território para a Zona Envolvente das Barragens da Aguieira, Coiço e Fronhas, pelo que, em conformidade, urge estabelecer medidas preventivas destinadas a evitarem alterações das circunstâncias existentes, susceptíveis de comprometerem, dificultarem ou encarecerem a sua execução.
+Ora, dado que a elaboração deste Plano Regional de Ordenamento do Território se destina a criar uma disciplina que, entre outros objectivos, impeça a degradação dos recursos naturais e a incorrecta ocupação dos solos desta região, é necessário que desde já se salvaguarde a vegetação ao longo das linhas de água, a estabilidade dos solos nas zonas mais declivosas, as zonas de cabeceira, as zonas de mosaico agro-florestal, o património construído característico desta paisagem rural e as potencialidades agrícolas dos solos.
+Assim:
+Nos termos da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º Fica sujeita a medidas preventivas, nos termos do artigo 5.º do Decreto-Lei n.º 176-A/88, de 18 de Maio, e do capítulo II do Decreto-Lei n.º 794/76, de 5 de Novembro, pelo prazo de dois anos a contar da data da entrada em vigor do presente diploma ou até à aprovação do Plano Regional de Ordenamento do Território para a Zona Envolvente das Barragens da Aguieira, Coiço e Fronhas (PROZAG), se esta ocorrer no decurso daquele prazo, a área definida na planta anexa ao presente diploma, que dele faz parte integrante, a qual inclui as seguintes freguesias e partes de freguesias:
+Município de Arganil:
+Freguesia de Sarzedo;
+Parte das freguesias de Arganil, Pombeiro da Beira, São Martinho da Cortiça e Secarias;
+Município de Carregal do Sal:
+Freguesias de Currelos, Parada e Papízios;
+Parte das freguesias de Oliveira do Conde e Sobral de Papízios;
+Município de Mortágua:
+Parte das freguesias de Almaça, Cercosa, Mortágua, Sobral e Marmeleira;
+Município de Tábua:
+Freguesias de Ázere, Carapinha e Covelo;
+Parte das freguesias de Midões, Mouronho, Póvoa de Midões, Sinde e Tábua;
+Município de Penacova:
+Parte das freguesias de Oliveira do Mondego, Travanca do Montego, Penacova, São Paio do Mondego e São Pedro de Alva.
+Município de Santa Comba Dão:
+Freguesias de Santa Comba Dão e Ovoa;
+Parte das freguesias de Pinheiro de Ázere, Couto do Mosteiro, São Joaninho, São João de Areias, Treixedo e Vimieiro.
+Art. 2.º - 1 - As medidas preventivas referidas no artigo anterior consistem, sem prejuízo de quaisquer outras competências ou condicionamentos legalmente exigidos, em sujeitar à prévia autorização da câmara municipal respectiva, precedida de parecer favorável da Comissão de Coordenação da Região do Centro, a prática dos actos ou actividades seguintes:
+a) Criação de novos núcleos habitacionais;
+b) Construção ou ampliação de edifícios que se localizem fora de aglomerados urbanos existentes definidos nos termos do Decreto-Lei n.º 400/84, de 31 de Dezembro, fora de aldeamentos turísticos já aprovados ou em zonas não abrangidas por planos de urbanização, planos de pormenor e áreas de desenvolvimento urbano prioritário plenamente eficazes;
+c) Instalações ou ampliações de estabelecimentos de 1.ª e 2.ª classes, nos termos da tabela anexa ao Regulamento de Instalação e Laboração de Estabelecimentos Industriais, aprovado pelo Decreto n.º 46924, de 28 de Março de 1966;
+d) Alterações, por meio de aterros ou escavações, à configuração geral do terreno, quando possam ser consideradas como acções preparatórias às actividades referidas nas alíneas b) e c);
+e) Destruição do solo vivo;
+f) Destruição do coberto vegetal em áreas superiores a 5000 m2 que não se destinem a fins agrícolas ou florestais.
+2 - O parecer da Comissão de Coordenação da Região do Centro referido no número anterior será solicitado pela câmara municipal respectiva.
+3 - Na aprovação da localização dos empreendimentos turísticos a que se refere a alínea a) do n.º 1 do artigo 20.º do Decreto-Lei n.º 328/86, de 30 de Setembro, continuará a observar-se o disposto naquele diploma e suas disposições regulamentares, sendo o parecer da Comissão de Coordenação da Região do Centro relativo aos empreendimentos localizados na área do PROZAG vinculativo.
+4 - Para efeitos de emissão de parecer, pode a Comissão de Coordenação da Região do Centro solicitar à câmara municipal, ou à Direcção-Geral do Turismo, uma única vez, o envio de novos elementos necessários à instrução do processo.
+5 - O parecer da Comissão de Coordenação da Região do Centro será emitido no prazo de 60 dias contados da data da recepção do processo ou, caso tenham sido pedidos elementos nos termos do número anterior, da data da recepção desses elementos.
+6 - A não emissão do parecer da Comissão de Coordenação da Região do Centro no prazo referido no número anterior interpretar-se-á como favorável.
+Art. 3.º - 1 - A Direcção-Geral de Geologia e Minas, nos processos de licenciamento de estabelecimentos para exploração de pedreiras que, nos termos do Decreto-Lei n.º 89/90, de 16 de Março, sejam da sua competência, terá de solicitar à Comissão de Coordenação da Região do Centro a emissão de parecer, sendo o parecer desta Comissão relativo às explorações localizadas na área do PROZAG vinculativo.
+2 - Aos processos previstos no número anterior é aplicável, com as devidas adaptações, o disposto nos n.os 4, 5 e 6 do artigo anterior.
+Art. 4.º As câmaras municipais, a Comissão de Coordenação da Região do Centro, a Direcção-Geral do Ordenamento do Território e a Direcção-Geral dos Recursos Naturais, na área sob a sua jurisdição, são competentes para promover a fiscalização do cumprimento das medidas estabelecidas neste diploma e para proceder em conformidade com o disposto no artigo 12.º do Decreto-Lei n.º 794/76, de 5 de Novembro.
+Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Presidência do Conselho de Ministros, 3 de Setembro de 1990.
+Aníbal António Cavaco Silva - José Manuel Nunes Liberato - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - Fernando Manuel Barbosa Faria de Oliveira - Fernando Nunes Ferreira Real.
+Assinado em 12 de Outubro de 1990.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 17 de Outubro de 1990.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+(ver documento original)
