@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação da Direcção-Geral dos Negócios Económicos e Consulares, o aviso acerca das condições da entrada do navio nuclear americano Savannah nas águas territoriais e portos portugueses, publicado no Diário do Governo n.º 2, 1.ª série, de 4 de Janeiro findo, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a inexactidão seguinte, que assim se rectifica:
+No texto de língua inglesa, no Appendix A, article III, onde se lê: «... a nuclear incident caused by the N. S. Savannah is sustained in Portugal, the United States will not interpose ...», deve ler-se «... a nuclear incident caused by the N. S. Savannah is sustained in Portugal, on a voyage to or departing from Portugal, the United States will not interpose ...».
+Secretaria-Geral da Presidência do Conselho, 10 de Fevereiro de 1965. - O Secretário-Geral, Diogo de Castelbranco de Paiva de Faria Leite Brandão.
