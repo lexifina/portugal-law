@@ -1,0 +1,6 @@
+Portaria n.º 19465
+Considerando a necessidade de se harmonizarem as promoções dos alunos dos cursos de engenharia actualmente professados na Academia Militar ao abrigo quer do Decreto-Lei n.º 42151, de 12 de Fevereiro de 1959, quer de disposições anteriores, a fim de se evitarem situações anómalas que não correspondem a uma correcta efectivação dos princípios que enformam a hierarquia militar:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Exército, que se observe o seguinte:
+1.º Os alunos da Academia Militar que frequentem no ano lectivo de 1962-1963 os 2.º, 3.º e 4.º anos dos cursos transitórios de engenharia são promovidos a alferes-alunos na mesma data e contando a mesma antiguidade que os alunos dos cursos de engenharia que no mesmo ano lectivo frequentem o 5.º ano nos termos do Decreto-Lei n.º 42151, de 12 de Fevereiro de 1959.
+2.º No corrente ano, os encargos resultantes da presente portaria são cobertos por contrapartida das disponibilidades da verba do capítulo 3.º, artigo 58.º, n.º 1) «Pessoal dos quadros aprovados por lei», do orçamento do Ministério do Exército.
+Ministérios das Finanças e do Exército, 29 de Outubro de 1962. - O Ministro das Finanças, António Manuel Pinto Barbosa. - O Ministro do Exército, Mário José Pereira da Silva.
