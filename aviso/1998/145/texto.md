@@ -1,0 +1,7 @@
+Aviso n.º 145/98
+Por ordem superior se torna público o texto das reservas formuladas por Portugal aquando do depósito, em 17 Dezembro de 1975, do seu instrumento de ratificação da Convenção sobre a Lei Aplicável às Obrigações de Alimentos, concluída na Haia em 2 de Outubro de 1973, que foi aprovada, para ratificação, pelo Decreto n.º 339/75, de 2 de Julho, e que, conforme aviso publicado no Diário da República, 1.ª série, n.º 211, de 12 de Setembro de 1977, vigora para Portugal desde 1 de Outubro de 1977:
+«Conformément à l'article 24, paragraphe premier, de la Convention, l'État portugais se réserve le droit de ne pas appliquer la Convention aux obligations alimentaires mentionnées dans l'article 14, numéros 2 et 3, et ses autorités appliqueront sa loi interne lorsque le créancier et le débiteur ont la nationalité portugaise et le débiteur a sa résidence habituelle au Portugal (article 15).»
+Tradução
+Ao abrigo do primeiro parágrafo do artigo 24.º da Convenção, Portugal reserva-se o direito de não aplicar a mesma Convenção às obrigações de alimentos a que se referem os n.os 2 e 3 do artigo 14.º e o de as suas autoridades aplicarem a sua lei interna quando o credor e o devedor tiverem a nacionalidade portuguesa e o devedor residir habitualmente em Portugal (artigo 15.º).
+A autoridade central em Portugal é a Direcção-Geral dos Serviços Judiciários, do Ministério da Justiça.
+Departamento de Assuntos Jurídicos, 25 de Junho de 1998. - O Director, José Maria Teixeira Leite Martins.
