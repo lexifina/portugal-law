@@ -1,0 +1,4 @@
+Aviso n.º 215/2003
+Por ordem superior se torna público que, em 30 de Abril de 2003, a República Árabe Síria depositou o seu instrumento de adesão à Convenção sobre o Comércio Internacional das Espécies de Fauna e Flora Selvagens Ameaçadas de Extinção (CITES), assinada em Washington no dia 3 de Março de 1973.
+Portugal é parte da mesma Convenção, aprovada, para ratificação, pelo Decreto n.º 50/80, publicado no Diário da República, 1.ª série-A, n.º 168, de 23 de Julho de 1980, tendo depositado o seu instrumento de ratificação em 11 de Dezembro de 1980 (Diário da República, 1.ª série-A, n.º 260, de 11 de Novembro de 1981) e tendo entrado em vigor em 11 de Março de 1981 (Diário da República, 1.ª série-A, n.º 157, de 10 de Julho de 2003).
+Direcção-Geral dos Assuntos Multilaterais, 16 de Outubro de 2003. - A Directora de Serviços das Organizações Económicas Internacionais, Graça Gonçalves Pereira.
