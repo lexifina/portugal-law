@@ -1,3 +1,7 @@
+## Secção 3.ª
+
+## Disposições relativas ao licenciamento de obras a realizar nas proximidades das vias municipais
+
 # Artigo 79.º
 
 Para efeito de concessão de licenças nos termos do presente regulamento, as faixas de terreno ao longo das vias municipais denominam-se «faixas de respeito».

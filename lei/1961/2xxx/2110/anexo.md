@@ -1,0 +1,59 @@
+# Anexo
+
+CADERNETA DE CANTONEIRO
+
+(ARTIGO 16.º, I)
+
+(ver documento original)
+
+BRAÇAL DE LÁ ENCARNADA COM LETRAS AZUIS
+
+(ARTIGO 21.º)
+
+(ver documento original)
+
+FARDAMENTO DE PESSOAL CANTONEIRO
+
+(ARTIGO 22.º)
+
+(ver documento original)
+
+MARCO DE ORIGEM
+
+(ARTIGO 27.º)
+
+(ver documento original)
+
+MARCO DE LIMITE DE CANTÃO
+
+(ARTIGO 27.º)
+
+(ver documento original)
+
+MARCO QUILOMÉTRICO
+
+(ARTIGO 27.º)
+
+(ver documento original)
+
+SINALIZAÇÃO DE LIMITE DE ÁREA DE JURISDIÇÃO DAS CÂMARAS MUNICIPAIS
+
+(ARTIGO 28.º, § 4.º)
+
+(ver documento original)
+
+LIGAÇÕES E CRUZAMENTOS
+
+ESQUEMAS INDICANDO OS RAIOS MÍNIMOS FORA DAS POVOAÇÕES
+
+(Plano Rodoviário)
+
+(ARTIGO 58.º)
+
+(ver documento original)
+
+DETERMINAÇÃO DAS ZONAS DE VISIBILIDADE NOS CRUZAMENTOS DE ESTRADAS MUNICIPAIS ENTRE SI OU COM CAMINHOS MUNICIPAIS, DENTRO DAS POVOAÇÕES
+
+(ARTIGO 58.º, b.)
+
+(ver documento original)

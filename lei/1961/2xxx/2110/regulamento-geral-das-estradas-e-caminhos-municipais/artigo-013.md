@@ -1,3 +1,7 @@
+## Secção 6.ª
+
+## Atribuições e competência
+
 # Artigo 13.º
 
 Ao chefe dos serviços técnicos municipais de obras pertence:

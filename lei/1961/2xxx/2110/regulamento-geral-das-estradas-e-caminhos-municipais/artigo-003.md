@@ -1,3 +1,7 @@
+## Secção 2.ª
+
+## Serviço de conservação
+
 # Artigo 3.º
 
 Para efeitos de conservação e polícia, as estradas e caminhos municipais serão divididos, dentro de cada concelho, em cantões de extensão, em regra, não inferior a 4 km nem superior a 8 km. Os cantões serão agrupados em esquadras.

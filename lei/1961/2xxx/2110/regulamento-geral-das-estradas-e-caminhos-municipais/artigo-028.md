@@ -1,3 +1,7 @@
+## Secção 2.ª
+
+## Sinalização
+
 # Artigo 28.º
 
 A sinalização das vias municipais obedecerá às seguintes normas:

@@ -2,6 +2,10 @@
 
 ## Disposições relativas à policia das vias municipais
 
+## Secção 1.ª
+
+## Deveres do público em relação à polícia das estradas e caminhos municipais
+
 # Artigo 39.º
 
 É proibido:
