@@ -1,3 +1,7 @@
+## Secção IV
+
+## Serviço de Relações Públicas
+
 # Artigo 33.º
 
 ### Âmbito funcional
