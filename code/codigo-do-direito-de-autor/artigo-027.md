@@ -1,6 +1,6 @@
 ## Capítulo III
 
-## Do autor e do nome literário e artístico
+## Do autor e do nome literário ou artístico
 
 # Artigo 27.º
 

@@ -1,21 +1,27 @@
+## Título III
+
+## Dos direitos conexos
+
 # Artigo 176.º
 
-### (Licença especial)
+### (Noção)
 
-1 - Quando, passados 7 anos sobre a publicação de obra escrita em língua estrangeira, o titular do direito de tradução, ou outrem com autorização deste, não a tiver publicado em português, poderá qualquer pessoa obter do Ministério da Cultura uma licença não exclusiva para traduzir e publicar a obra.
+1 - As prestações dos artistas intérpretes ou executantes, dos produtores de fonogramas e de videogramas e dos organismos de radiodifusão são protegidas nos termos deste título.
 
-2 - Esta licença só poderá ser concedida quando o requerente provar que solicitou do titular do direito de tradução a autorização de traduzir e de publicar a tradução e, depois das devidas diligências da sua parte, não pôde estabelecer contacto com o autor ou obter a sua autorização.
+2 - Artistas intérpretes ou executantes são os actores, cantores, músicos, bailarinos e outros que representem, cantem, recitem, declamem, interpretem ou executem de qualquer maneira obras literárias ou artísticas.
 
-3 - Nas mesmas condições, a licença poderá também ser concedida quando, tratando-se de uma tradução já publicada em português, as edições estiverem esgotadas.
+3 - Produtor de fonograma ou videograma é a pessoa singular ou colectiva que fixa pela primeira vez os sons provenientes de uma execução ou quaisquer outros, ou as imagens de qualquer proveniência, acompanhadas ou não de sons.
 
-4 - Se o requerente não puder estabelecer contacto com o titular do direito de tradução, deverá enviar cópias do seu pedido ao editor, cujo nome figura na obra, e ao representante diplomático ou consular do Estado a que pertença o titular do direito de tradução - caso a nacionalidade do titular do direito de tradução seja conhecida - ou ao organismo eventualmente designado pelo governo desse Estado.
+4 - Fonograma é o registo resultante da fixação, em suporte material, de sons provenientes de uma execução ou quaisquer outros.
 
-5 - A licença não poderá ser concedida antes de findo o prazo de 2 meses, a contar da remessa das cópias do pedido.
+5 - Videograma é o registo resultante da fixação, em suporte material, de imagens, acompanhadas ou não de sons, bem como a cópia de obras cinematográficas ou áudio-visuais.
 
-6 - Deve ser fixada uma remuneração equitativa, conforme aos usos internacionais, em benefício do titular do direito de tradução, cujo pagamento será caucionado pelo requerente.
+6 - Cópia é o suporte material em que se reproduzem sons ou imagens, separada ou cumulativamente, captados directa ou indirectamente de um fonograma ou videograma, e se incorporam, total ou parcialmente, os sons ou imagens nestes fixados.
 
-7 - Não são consideradas válidas licenças obtidas em país estrangeiro, mas poderá fazer-se a importação e a venda de exemplares de traduções desta forma obtidas.
+7 - Reprodução é a obtenção de cópias de uma fixação ou de uma parte qualitativa ou quantitativamente significativa dessa fixação.
 
-8 - A licença de tradução é intransmissível.
+8 - Distribuição é a actividade que tem por objecto a oferta ao público, em quantidade significativa, de fonogramas ou videogramas, directa ou indirectamente, quer para venda quer para aluguer.
 
-9 - Quando o autor haja exercido o direito de retirada, a licença não pode ser concedida.
+9 - Organismo de radiodifusão é a entidade que efectua emissões de radiodifusão sonora ou visual, entendendo-se por emissão de radiodifusão a difusão de sons ou de imagens, separada ou cumulativamente, por fios ou sem fios, nomeadamente por ondas hertzianas, fibras ópticas, cabo ou satélite, destinada à recepção pelo público.
+
+10 - Retransmissão é a emissão simultânea por um organismo de radiodifusão de uma emissão de outro organismo de radiodifusão.

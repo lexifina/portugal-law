@@ -1,4 +1,4 @@
-## Capítulo VI
+## Capítulo V
 
 ## Da transmissão e oneração do conteúdo patrimonial do direito de autor
 

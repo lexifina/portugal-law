@@ -1,3 +1,7 @@
+## Título IV
+
+## Da violação e defesa do direito de autor e dos direitos conexos
+
 # Artigo 195.º
 
 ### (Usurpação)
