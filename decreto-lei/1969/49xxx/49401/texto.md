@@ -1,0 +1,56 @@
+Decreto-Lei n.º 49401
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Da organização, competência e atribuições da Direcção-Geral de Segurança
+Artigo 1.º É criado no Ministério do Interior um serviço nacional com a designação de Direcção-Geral de Segurança.
+Art. 2.º A competência da Direcção-Geral de Segurança exerce-se em todo o território nacional, incluindo as ilhas adjacentes e as províncias ultramarinas.
+Art. 3.º São atribuições fundamentais da Direcção-Geral de Segurança:
+a) Velar pela segurança interior e exterior do Estado;
+b) Proceder à recolha e pesquisa, centralização, coordenação e estudo das informações úteis à segurança;
+c) Vigiar e fiscalizar as fronteiras terrestres, marítimas e aéreas;
+d) Efectuar a investigação dos crimes contra a segurança interior e exterior do Estado, procedendo à instrução preparatória dos respectivos processos;
+e) Proceder do mesmo modo quanto às infracções de emigração clandestina e de aliciamento ilícito de emigrantes e perseguir as infracções ao regime legal de passagem das fronteiras e de entrada e permanência de estrangeiros em território nacional;
+f) Manter relações com organizações policiais nacionais e estrangeiras e serviços similares, para troca recíproca de informações e para a cooperação na luta contra a criminalidade;
+g) Assegurar as relações com a Organização Internacional de Polícia Criminal.
+Art. 4.º O Ministro do Interior tem, em relação à Direcção-Geral de Segurança, a mesma competência que a lei confere ao Ministro da Justiça relativamente à Polícia Judiciária; nas províncias ultramarinas essa competência cabe ao Ministro do Ultramar.
+Da direcção
+Art. 5.º - 1. A Direcção-Geral de Segurança fica a cargo de um director-geral, a quem compete orientar, coordenar e inspeccionar os serviços e submeter a despacho do Ministro do Interior ou do Ultramar, conforme os casos, os assuntos que careçam de resolução superior.
+2. O director-geral é coadjuvado no exercício das suas funções por dois inspectores superiores, que têm a seu cargo a coordenação dos serviços da metrópole e do ultramar, respectivamente.
+3. O director-geral será substituído nos seus impedimentos pelo inspector-superior mais antigo na categoria.
+Dos serviços
+Art. 6.º A Direcção-Geral de Segurança compreende os seguintes serviços:
+a) Direcção de Serviços de Informação;
+b) Direcção de Serviços de Investigação e Contencioso;
+c) Direcção de Serviços de Estrangeiros e Fronteiras;
+d) Direcção dos Serviços Administrativos;
+e) Delegações, subdelegações e postos.
+2. Na Direcção de Serviços de Investigação e Contencioso funcionará o Gabinete Nacional da Interpol.
+3. A Direcção dos Serviços Administrativos superintende na escola técnica.
+Art. 7.º - 1. As direcções de serviços são chefiadas por directores de serviços e compreendem divisões, dirigidas por inspectores-adjuntos de segurança ou por inspectores de segurança, e secções, chefiadas por chefes de secção.
+2. As delegações na metrópole e nas províncias ultramarinas de governo-geral são chefiadas por directores de serviços, e nas restantes províncias ultramarinas por chefes de serviços, podendo, no entanto, aquelas ficar a cargo de inspectores-adjuntos de segurança, com direito a uma gratificação de chefia de importância igual à diferença de vencimentos entre as letras E e D do Decreto-Lei n.º 42046, de 23 de Dezembro de 1958, abonada por conta do cofre da Direcção-Geral, e compreenderão os serviços que forem julgados indispensáveis para o seu bom funcionamento.
+3. As delegações terão quatro serviços correspondentes às direcções e chefias de serviços e compreendem divisões e secções, chefiadas, respectivamente, por inspectores-adjuntos de segurança ou inspectores de segurança e subinspectores de segurança ou chefes de secção, em conformidade com as necessidades do serviço.
+4. As subdelegações serão, conforme a sua importância, dirigidas por inspectores-adjuntos de segurança, inspectores de segurança ou subinspectores de segurança e terão serviços em correspondência com as respectivas actividades.
+5. Os postos de fronteira destinam-se à fiscalização das fronteiras terrestres, marítimas e aéreas, terão a composição e serviços correspondentes ao respectivo movimento e serão chefiados por subinspectores de segurança, chefes de brigada de segurança ou agentes de segurança.
+6. Os postos de vigilância serão estabelecidos em locais que devam ser objecto de fiscalização especial e terão os serviços e efectivos de pessoal julgados necessários e serão chefiados por subinspectores de segurança, chefes de brigada de segurança ou agentes de segurança.
+Disposições finais e transitórias
+Art. 8.º É extinta a Polícia Internacional e de Defesa do Estado, criada pelo Decreto-Lei n.º 35046, de 22 de Outubro de 1945.
+Art. 9.º - 1. Até à publicação da lei orgânica da Direcção-Geral de Segurança, ficará esta a reger-se pelas disposições contastes dos diplomas que até agora disciplinavam o funcionamento da Polícia Internacional e de Defesa do Estado.
+2. São transferidos para a Direcção-Geral de Segurança, sem dependência de quaisquer formalidades, os arrendamentos e todo o material mecânico, veículos, armamento e munições, mobiliário, livros, papéis de escrituração, documentos e demais elementos afectos à Polícia Internacional e de Defesa do Estado.
+3. O pessoal constante do mapa anexo ao Decreto-Lei n.º 48794, de 26 de Dezembro de 1968, passa, com as mesmas categorias, para a Direcção-Geral de Segurança, considerando-se, para todos os efeitos, o tempo de serviço prestado, que será contado em conformidade com a legislação aplicável, sem prejuízo dos seus anteriores direitos e regalias.
+Art. 10.º O mapa do pessoal referido no n.º 3 do artigo anterior é substituído, para todos os efeitos, pelo mapa n.º 1 anexo a este decreto-lei, e elaborado em conformidade com as suas disposições.
+Art. 11.º - 1. Os encargos resultantes da criação da Direcção-Geral de Segurança são suportados, no actual ano económico, pelas verbas descritas no capítulo 6.º do orçamento do Ministério do Interior.
+2. Os encargos resultantes das alterações do quadro do pessoal da Direcção-Geral de Segurança serão suportados, no actual ano económico, pelas disponibilidades da verba destinada ao pessoal no capítulo 6.º do orçamento do Ministério do Interior.
+3. Os funcionários da Direcção-Geral de Segurança que desempenhem funções de direcção ou chefia na metrópole têm direito às gratificações a fixar pelo Ministro do Interior, com o acordo do Ministro das Finanças, consoante a natureza ou ónus especial dos seus cargos, de harmonia com o preceituado no artigo 13.º do Decreto-Lei n.º 26115, e no artigo 8.º, § 1.º, do Decreto-Lei n.º 26116, ambos de 23 de Novembro de 1935.
+4. No ultramar, as gratificações referidas no número anterior serão fixadas pelo Ministro do Ultramar, de harmonia com a legislação em vigor.
+Art. 12.º Os subdirectores, inspectores-adjuntos de polícia, inspectores de polícia, subinspectores de polícia, chefes de brigada e agentes passam a designar-se, respectivamente, por directores de serviços, inspectores-adjuntos de segurança, inspectores de segurança, subinspectores de segurança, chefes de brigada de segurança e agentes de segurança, mantendo a mesma classe designada pela letra da categoria que lhe é conferida no mapa de pessoal anexo ao Decreto-Lei n.º 48794, de 26 de Dezembro de 1968.
+Art. 13.º É criado um lugar de auditor jurídico no Ministério do Interior, que será provido nos termos do artigo 198.º do Estatuto Judiciário. Este auditor exercerá, além das funções de consulta jurídica do Ministério, aquelas que lhe forem conferidas na lei orgânica da Direcção-Geral de Segurança.
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
+Promulgado em 19 de Novembro de 1969.
+Publique-se.
+Presidência da República, 24 de Novembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas, excepto no da de Macau. - J. da Silva Cunha.
+
+MAPA I
+Categorias e vencimentos do pessoal do quadro único da Direcção-Geral de Segurança
+(ver documento original)
+Ministérios do Interior e do Ultramar, 19 de Novembro de 1969. - O Ministro do Interior, António Manuel Gonçalves Rapazote. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
