@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação da 1.ª Delegação da Direcção-Geral da Contabilidade Pública (Presidência do Conselho de Ministros), a declaração de transferência de verbas publicada no Diário da República, 1.ª série, n.º 278, de 4 de Dezembro de 1989, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Onde se lê «Cap. 01, div. 03, C. E. -, al. -, Remunerações certas e permanentes:, Reforço -, Anulações -» e «Cap. 15, div. 03, C. E. 04.01.03, al. D, Delegação Regional do Norte [...], Reforço 778, Anulações -» deve ler-se «Cap. 01, div. 03, C. E. 01.01.00, al. -, Remunerações certas e permanentes:, Reforço -, Anulações -» e «Cap. 15, div. 03, C. E. 04.01.03, al. D, Delegação Regional do Norte [...], Reforço 778, Anulações 2000».
+Secretaria-Geral da Presidência do Conselho de Ministros, 18 de Dezembro de 1989. - O Secretário-Geral, França Martins.
