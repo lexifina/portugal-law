@@ -1,0 +1,3 @@
+Resolução n.º 187/80
+O Conselho de Ministros, reunido em 20 de Maio de 1980, resolveu conceder o aval do Estado ao empréstimo de 50000 contos, com prazo total de dez anos e a reembolsar em dezassete prestações iguais de capital e juros, que a Caixa Geral de Depósitos concedeu à Gaslimpo - Sociedade de Desgasificação de Navios, S. A. R. L., destinado a fazer face ao aumento do custo da estação de limpeza e desgasificacação de navios em construção na Mitrena.
+Presidência do Conselho de Ministros, 20 de Maio de 1980. - Pelo Primeiro-Ministro, Francisco José Pereira Pinto Balsemão, Ministro Adjunto do Primeiro-Ministro.
