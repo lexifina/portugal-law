@@ -1,0 +1,1238 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=6tRSrsS472KL0pihrbeU3Juv4E5ApzTlkuIJMDYc5d38v4XsZgYhKVB7Ayr7k6BD7ZNRnhu1uQv2nCwvvkoyXJgfHcd33Rt69gnnqGDLZ7jjDe9WHr1ZOrkFyZHrN%2bdvof6dUKIxE5Wasjk0TQFMyoX%2fKDcVSYqW4xooRfuNYiYxRnpgxINjnNAVq18dgakPF%2fXopgVWi9%2fPK8k2cZ5tRjc%2bd8zO7m6xWvdsbeUHkofo9FaMQ0PghWTFmLBF2ObMw8XQM9vXrZDGjYuCymHSoJrECXBxqIIzCmd0QdMQC5B6LWcA54XELbiVJgZxukznf%2fhdJzQ3jKe6Egx9h%2fh5EH5FtypL9lWrfzDQfsf80Is%3d&fich=IniciativasVI_json.txt&Inline=true",
+  "ficheiro_sha256": "cb79e0745a8347d94ab476dc88937917b337689f6631b8b987a47bad388a33b7",
+  "legislatura": "VI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "123",
+    "id": "3327",
+    "titulo": "Aprova bonificações de juros para empréstimos, com garantia do Estado, contraídos por associações sem fins lucrativos."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1995-03-29",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "114",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1995-03-29",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1995-03-29",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "170",
+                "nome": "Guilherme D'oliveira Martins"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40184",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1944-1944"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-30",
+                "pubLeg": "VI",
+                "pubNr": "58",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/058/1995-03-30/1944?pgs=1944&org=PLC"
+              }
+            ],
+            "sumario": "APROVA BONIFICACOES DE JUROS PARA EMPRESTIMOS COM GARANTIA DO ESTADO, CONTRAIDOS POR ASSOCIACOES SEM FINS LUCRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40195",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1945-1946"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-30",
+                "pubLeg": "VI",
+                "pubNr": "58",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/058/1995-03-30/1945?pgs=1945-1946&org=PLC"
+              }
+            ],
+            "sumario": "APROVA BONIFICACOES DE JUROS PARA EMPRESTIMOS COM GARANTIA DO ESTADO, CONTRAIDOS POR ASSOCIACOES SEM FINS LUCRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "228",
+                "nome": "Manuel Queiró"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40196",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1944-1944"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-30",
+                "pubLeg": "VI",
+                "pubNr": "58",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/058/1995-03-30/1944?pgs=1944&org=PLC"
+              }
+            ],
+            "sumario": "APROVA BONIFICACOES DE JUROS PARA EMPRESTIMOS COM GARANTIA DO ESTADO, CONTRAIDOS POR ASSOCIACOES SEM FINS LUCRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "228",
+                "nome": "Manuel Queiró"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40198",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1941-1942"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-30",
+                "pubLeg": "VI",
+                "pubNr": "58",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/058/1995-03-30/1941?pgs=1941-1942&org=PLC"
+              }
+            ],
+            "sumario": "APROVA BONIFICACOES DE JUROS PARA EMPRESTIMOS COM GARANTIA DO ESTADO, CONTRAIDOS POR ASSOCIACOES SEM FINS LUCRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "170",
+                "nome": "Guilherme D'oliveira Martins"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40199",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1940-1941"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-30",
+                "pubLeg": "VI",
+                "pubNr": "58",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/058/1995-03-30/1940?pgs=1940-1941&org=PLC"
+              }
+            ],
+            "sumario": "APROVA BONIFICACOES DE JUROS PARA EMPRESTIMOS COM GARANTIA DO ESTADO, CONTRAIDOS POR ASSOCIACOES SEM FINS LUCRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "273",
+                "nome": "Carlos Pinto"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40200",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1939-1940",
+                  "1941-1941",
+                  "1942-1942"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-30",
+                "pubLeg": "VI",
+                "pubNr": "58",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/058/1995-03-30/1939?pgs=1939-1940,1941,1942&org=PLC"
+              }
+            ],
+            "sumario": "APROVA BONIFICACOES DE JUROS PARA EMPRESTIMOS COM GARANTIA DO ESTADO, CONTRAIDOS POR ASSOCIACOES SEM FINS LUCRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "132",
+                "nome": "Rui Rio"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40201",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1939-1939"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-30",
+                "pubLeg": "VI",
+                "pubNr": "58",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/058/1995-03-30/1939?pgs=1939&org=PLC"
+              }
+            ],
+            "sumario": "APROVA BONIFICACOES DE JUROS PARA EMPRESTIMOS COM GARANTIA DO ESTADO, CONTRAIDOS POR ASSOCIACOES SEM FINS LUCRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "170",
+                "nome": "Guilherme D'oliveira Martins"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40202",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1937-1939"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-30",
+                "pubLeg": "VI",
+                "pubNr": "58",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/058/1995-03-30/1937?pgs=1937-1939&org=PLC"
+              }
+            ],
+            "sumario": "APROVA BONIFICACOES DE JUROS PARA EMPRESTIMOS COM GARANTIA DO ESTADO, CONTRAIDOS POR ASSOCIACOES SEM FINS LUCRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "228",
+                "nome": "Manuel Queiró"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40203",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1936-1937"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-30",
+                "pubLeg": "VI",
+                "pubNr": "58",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/058/1995-03-30/1936?pgs=1936-1937&org=PLC"
+              }
+            ],
+            "sumario": "APROVA BONIFICACOES DE JUROS PARA EMPRESTIMOS COM GARANTIA DO ESTADO, CONTRAIDOS POR ASSOCIACOES SEM FINS LUCRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "170",
+                "nome": "Guilherme D'oliveira Martins"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40205",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1934-1934"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-30",
+                "pubLeg": "VI",
+                "pubNr": "58",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/058/1995-03-30/1934?pgs=1934&org=PLC"
+              }
+            ],
+            "sumario": "APROVA BONIFICACOES DE JUROS PARA EMPRESTIMOS COM GARANTIA DO ESTADO, CONTRAIDOS POR ASSOCIACOES SEM FINS LUCRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40206",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1934-1934"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-30",
+                "pubLeg": "VI",
+                "pubNr": "58",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/058/1995-03-30/1934?pgs=1934&org=PLC"
+              }
+            ],
+            "sumario": "APROVA BONIFICACOES DE JUROS PARA EMPRESTIMOS COM GARANTIA DO ESTADO, CONTRAIDOS POR ASSOCIACOES SEM FINS LUCRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "384",
+                "nome": "Vieira de Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40207",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1945-1945"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-30",
+                "pubLeg": "VI",
+                "pubNr": "58",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/058/1995-03-30/1945?pgs=1945&org=PLC"
+              }
+            ],
+            "sumario": "APROVA BONIFICACOES DE JUROS PARA EMPRESTIMOS COM GARANTIA DO ESTADO, CONTRAIDOS POR ASSOCIACOES SEM FINS LUCRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "228",
+                "nome": "Manuel Queiró"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40208",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1944-1945"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-30",
+                "pubLeg": "VI",
+                "pubNr": "58",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/058/1995-03-30/1944?pgs=1944-1945&org=PLC"
+              }
+            ],
+            "sumario": "APROVA BONIFICACOES DE JUROS PARA EMPRESTIMOS COM GARANTIA DO ESTADO, CONTRAIDOS POR ASSOCIACOES SEM FINS LUCRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "228",
+                "nome": "Manuel Queiró"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40210",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1941-1941"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-30",
+                "pubLeg": "VI",
+                "pubNr": "58",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/058/1995-03-30/1941?pgs=1941&org=PLC"
+              }
+            ],
+            "sumario": "APROVA BONIFICACOES DE JUROS PARA EMPRESTIMOS COM GARANTIA DO ESTADO, CONTRAIDOS POR ASSOCIACOES SEM FINS LUCRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "170",
+                "nome": "Guilherme D'oliveira Martins"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40211",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1940-1941"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-30",
+                "pubLeg": "VI",
+                "pubNr": "58",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/058/1995-03-30/1940?pgs=1940-1941&org=PLC"
+              }
+            ],
+            "sumario": "APROVA BONIFICACOES DE JUROS PARA EMPRESTIMOS COM GARANTIA DO ESTADO, CONTRAIDOS POR ASSOCIACOES SEM FINS LUCRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "273",
+                "nome": "Carlos Pinto"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40234",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1939-1940",
+                  "1941-1941",
+                  "1942-1942"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-30",
+                "pubLeg": "VI",
+                "pubNr": "58",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/058/1995-03-30/1939?pgs=1939-1940,1941,1942&org=PLC"
+              }
+            ],
+            "sumario": "APROVA BONIFICACOES DE JUROS PARA EMPRESTIMOS COM GARANTIA DO ESTADO, CONTRAIDOS POR ASSOCIACOES SEM FINS LUCRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "170",
+                "nome": "Guilherme D'oliveira Martins"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40235",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1937-1939"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-30",
+                "pubLeg": "VI",
+                "pubNr": "58",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/058/1995-03-30/1937?pgs=1937-1939&org=PLC"
+              }
+            ],
+            "sumario": "APROVA BONIFICACOES DE JUROS PARA EMPRESTIMOS COM GARANTIA DO ESTADO, CONTRAIDOS POR ASSOCIACOES SEM FINS LUCRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "132",
+                "nome": "Rui Rio"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40236",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1939-1939"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-30",
+                "pubLeg": "VI",
+                "pubNr": "58",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/058/1995-03-30/1939?pgs=1939&org=PLC"
+              }
+            ],
+            "sumario": "APROVA BONIFICACOES DE JUROS PARA EMPRESTIMOS COM GARANTIA DO ESTADO, CONTRAIDOS POR ASSOCIACOES SEM FINS LUCRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "228",
+                "nome": "Manuel Queiró"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40237",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1936-19377"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-30",
+                "pubLeg": "VI",
+                "pubNr": "58",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/058/1995-03-30/1936?pgs=1936-19377&org=PLC"
+              }
+            ],
+            "sumario": "APROVA BONIFICACOES DE JUROS PARA EMPRESTIMOS COM GARANTIA DO ESTADO, CONTRAIDOS POR ASSOCIACOES SEM FINS LUCRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40239",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1934-1934"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-30",
+                "pubLeg": "VI",
+                "pubNr": "58",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/058/1995-03-30/1934?pgs=1934&org=PLC"
+              }
+            ],
+            "sumario": "APROVA BONIFICACOES DE JUROS PARA EMPRESTIMOS COM GARANTIA DO ESTADO, CONTRAIDOS POR ASSOCIACOES SEM FINS LUCRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40241",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1933-1934"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-30",
+                "pubLeg": "VI",
+                "pubNr": "58",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/058/1995-03-30/1933?pgs=1933-1934&org=PLC"
+              }
+            ],
+            "sumario": "APROVA BONIFICACOES DE JUROS PARA EMPRESTIMOS COM GARANTIA DO ESTADO, CONTRAIDOS POR ASSOCIACOES SEM FINS LUCRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Indep",
+                "idCadastro": "568",
+                "nome": "Raúl Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40243",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1933-1934"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-30",
+                "pubLeg": "VI",
+                "pubNr": "58",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/058/1995-03-30/1933?pgs=1933-1934&org=PLC"
+              }
+            ],
+            "sumario": "APROVA BONIFICACOES DE JUROS PARA EMPRESTIMOS COM GARANTIA DO ESTADO, CONTRAIDOS POR ASSOCIACOES SEM FINS LUCRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "170",
+                "nome": "Guilherme D'oliveira Martins"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40245",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1932-1932"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-30",
+                "pubLeg": "VI",
+                "pubNr": "58",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/058/1995-03-30/1932?pgs=1932&org=PLC"
+              }
+            ],
+            "sumario": "APROVA BONIFICACOES DE JUROS PARA EMPRESTIMOS COM GARANTIA DO ESTADO, CONTRAIDOS POR ASSOCIACOES SEM FINS LUCRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  ADJUNTO E DO TESOURO",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Walter Marques"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107314",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1933-1935"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-30",
+                "pubLeg": "VI",
+                "pubNr": "58",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/058/1995-03-30/1933?pgs=1933-1935&org=PLC"
+              }
+            ],
+            "sumario": "APROVA BONIFICACOES DE JUROS PARA EMPRESTIMOS COM GARANTIA DO ESTADO, CONTRAIDOS POR ASSOCIACOES SEM FINS LUCRATIVOS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "94371",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "114",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1995-03-30",
+        "pubLeg": "VI",
+        "pubNr": "58",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/058/1995-03-30?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
