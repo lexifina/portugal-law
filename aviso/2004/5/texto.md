@@ -1,0 +1,4 @@
+Aviso n.º 5/2004
+Por ordem superior se torna público que, agindo na sua qualidade de depositário da Convenção Relativa às Medidas a Adoptar para Proibir e Impedir a Importação, a Exportação e a Transferência Ilícitas da Propriedade de Bens Culturais, adoptada em Paris em 14 de Novembro de 1970, o Director-Geral da Organização das Nações Unidas para a Educação, Ciência e Cultura (UNESCO) comunicou ter Marrocos depositado, em 3 de Fevereiro de 2003, o seu instrumento de ratificação da citada Convenção, que entrou em vigor para este país em 3 de Maio de 2003.
+Portugal é Parte da mencionada Convenção, tendo depositado o respectivo instrumento de ratificação em 9 de Dezembro de 1985, conforme publicado no Diário da República, 1.ª série-A, n.º 177, de 2 de Agosto de 2002.
+Direcção-Geral dos Assuntos Multilaterais, 12 de Dezembro de 2003. - O Director de Serviços das Organizações Políticas Internacionais, Bernardo Fernandes Homem de Lucena.
