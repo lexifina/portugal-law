@@ -1,0 +1,4 @@
+Declaração
+Para os devidos efeitos se declara que a rectificação à declaração de rectificação da declaração de transferências de verbas do Ministério da Saúde publicada no Diário da República, 1.ª série, n.º 225 (2.º suplemento), de 30 de Setembro de 1987, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+Na p. 3688-(8), onde se lê «[...] alínea A - Prestação de serviços em regime de tarefa ou outro - 1562 1540 - (b) e (c) [...] alínea A - Prestação de serviços em regime de tarefa ou outro - 1500 - 1540 (b) e (c)» deve ler-se «[...] alínea A - Prestação de serviços em regime de tarefa ou outro - 1562 --- (b) e (c) [...] alínea A - Prestação de serviços em regime de tarefa ou outro - 1500 --- (b) e (c)».
+Secretaria-Geral da Presidência do Conselho de Ministros, 15 de Outubro de 1987. - O Secretário-Geral, França Martins.
