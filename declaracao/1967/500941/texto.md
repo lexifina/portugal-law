@@ -1,0 +1,3 @@
+Declaração
+Para os devidos efeitos se declara que S. Ex.ª o Ministro da Marinha, por despacho de 29 de Dezembro de 1966, determinou, ao abrigo do disposto no artigo 17.º do Decreto-Lei n.º 47148, de 13 de Agosto de 1966, que, em relação ao ano de 1966, seja levada ao fundo de actualização da frota de cada empresa de navegação obrigada a constituí-lo importância correspondente a 1,5 por cento do custo de cada navio, salvo para os navios-tanques, em relação aos quais essa importância será correspondente a 2 por cento do respectivo custo.
+Repartição do Gabinete, 20 de Janeiro de 1967. - O Chefe do Gabinete, Eugénio Ferreira de Almeida, comodoro.
