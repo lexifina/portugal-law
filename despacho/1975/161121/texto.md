@@ -1,0 +1,4 @@
+Despacho
+Para evitar situações manifestamente injustas e também o inconveniente desaproveitamento de apreciável número de graduados da PSP regressados do ultramar, o pessoal das companhias móveis de polícia cuja comissão tenha sido dada por finda fica, futuramente, a cargo da PSP e a prestar serviço nesta corporação, por onde receberá todas as remunerações normais, independentemente da existência de vagas nos respectivos quadros.
+Os encargos resultantes da execução deste despacho serão satisfeitos pelas sobras das respectivas dotações orçamentais consignadas à Polícia de Segurança Pública até à promulgação de diploma adequado sobre o assunto.
+Ministérios da Coordenação Interterritorial, da Administração Interna e das Finanças, 28 de Fevereiro de 1975. - O Ministro da Coordenação Interterritorial, António de Almeida Santos. - O Ministro da Administração Interna, Manuel da Costa Brás. - O Ministro das Finanças, José da Silva Lopes.
