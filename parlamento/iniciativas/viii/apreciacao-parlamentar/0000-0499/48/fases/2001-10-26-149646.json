@@ -1,0 +1,450 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "48",
+    "id": "18613",
+    "titulo": "Decreto-Lei n.º 177/2001, de 4 de Junho, que \"Altera o Decreto-Lei n.º 555/99, de 16 de Dezembro, que estabelece o regime jurídico da urbanização e da edificação\""
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "2001-10-26",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2069",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "2001-10-26",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-10-26",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1184",
+                "nome": "Joaquim Matias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "14:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139638",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "609-610"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-27",
+                "pubLeg": "VIII",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27/609?pgs=609-610&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 177/2001, de 4 de Junho, que \"Altera o Decreto-Lei n.º 555/99, de 16 de Dezembro, que estabelece o regime jurídico da urbanização e da edificação\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1679",
+                "nome": "Renato Sampaio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "14:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139639",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "610-610"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-27",
+                "pubLeg": "VIII",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27/610?pgs=610&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 177/2001, de 4 de Junho, que \"Altera o Decreto-Lei n.º 555/99, de 16 de Dezembro, que estabelece o regime jurídico da urbanização e da edificação\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1351",
+                "nome": "Manuel Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "14:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139640",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "610-611"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-27",
+                "pubLeg": "VIII",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27/610?pgs=610-611&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 177/2001, de 4 de Junho, que \"Altera o Decreto-Lei n.º 555/99, de 16 de Dezembro, que estabelece o regime jurídico da urbanização e da edificação\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "14:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139641",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "611-611"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-27",
+                "pubLeg": "VIII",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27/611?pgs=611&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 177/2001, de 4 de Junho, que \"Altera o Decreto-Lei n.º 555/99, de 16 de Dezembro, que estabelece o regime jurídico da urbanização e da edificação\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "14:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139642",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "611-612"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-27",
+                "pubLeg": "VIII",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27/611?pgs=611-612&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 177/2001, de 4 de Junho, que \"Altera o Decreto-Lei n.º 555/99, de 16 de Dezembro, que estabelece o regime jurídico da urbanização e da edificação\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "14:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139643",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "612-613"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-27",
+                "pubLeg": "VIII",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27/612?pgs=612-613&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 177/2001, de 4 de Junho, que \"Altera o Decreto-Lei n.º 555/99, de 16 de Dezembro, que estabelece o regime jurídico da urbanização e da edificação\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "14:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  ORDENAMENTO DO TERRITÓRIO  E  DA  CONSERVAÇÃO  DA  NATUREZA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Manuel Silva Pereira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139644",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "613-616"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-27",
+                "pubLeg": "VIII",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27/613?pgs=613-616&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 177/2001, de 4 de Junho, que \"Altera o Decreto-Lei n.º 555/99, de 16 de Dezembro, que estabelece o regime jurídico da urbanização e da edificação\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1184",
+                "nome": "Joaquim Matias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "14:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139645",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "615-615"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-27",
+                "pubLeg": "VIII",
+                "pubNr": "18",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27/615?pgs=615&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 177/2001, de 4 de Junho, que \"Altera o Decreto-Lei n.º 555/99, de 16 de Dezembro, que estabelece o regime jurídico da urbanização e da edificação\"",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "149646",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2069",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-10-27",
+        "pubLeg": "VIII",
+        "pubNr": "18",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/018/2001-10-27?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
