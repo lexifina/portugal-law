@@ -1,0 +1,5 @@
+Aviso n.º 108/96
+Por ordem superior se torna público que, por nota de 5 de Dezembro de 1995 e nos termos do artigo 6.º, quinto parágrafo, da Convenção Relativa à Emissão de Certidões Plurilingues de Actos de Registo Civil (Convenção CIEC n.º 16), assinada em Viena, em 8 de Setembro de 1976, o Departamento Federal dos Negócios Estrangeiros da Confederação Helvética notificou que a República da Bósnia-Herzegovina depositou, em 11 de Outubro de 1995, junto do Conselho Federal Suíço, uma declaração de sucessão.
+A República da Bósnia-Herzegovina tornou-se Parte na Convenção em 6 de Março de 1992, dia da sua independência.
+Portugal é Parte na mesma Convenção, que foi aprovada para adesão pelo Decreto do Governo n.º 34/83, de 12 de Maio, tendo notificado o Estado depositário de se encontrarem cumpridas as formalidades constitucionais, em 30 de Junho de 1983, conforme aviso publicado no Diário da República, 1.ª série, n.º 174, de 30 de Julho de 1983.
+Departamento de Assuntos Jurídicos, 17 de Abril de 1996. - O Director, José Maria Teixeira Leite Martins.
