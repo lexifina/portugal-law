@@ -1,0 +1,4 @@
+Portaria n.º 17864
+Tendo-se repetido, no ano agrícola decorrente, as adversas condições climáticas para a produção de cevada dística destinada à indústria de malte; verificando-se, como na campanha transacta, que as quantidades obtidas são reduzidas em relação às quantidades semeadas; observando-se também que a qualidade, particularmente no que respeita ao rendimento à calibragem, é manifestamente inferior à dos anos normais:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, ao abrigo do disposto no artigo 6.º do Decreto-Lei n.º 38153, de 18 de Janeiro de 1951, que se mantenham em vigor os limites de tolerância que constam do quadro a que se refere o n.º 1.º da Portaria n.º 17403, de 22 de Outubro de 1959, apenas para aplicação à cevada dística produzida na campanha de 1959-1960.
+Ministério da Economia, 28 de Julho de 1960. - O Secretário de Estado da Agricultura, Luís Quartin Graça.
