@@ -1,0 +1,3 @@
+Portaria n.º 20046
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio, que o centeio destinado à incorporação nas farinhas espoadas de trigo seja vendido pela Federação Nacional dos Produtores de Trigo à Federação Nacional dos Industriais de Moagem (e por esta às moagens) nas condições estabelecidas para o trigo rijo comum de igual peso de hectolitro e que a diferença entre o preço de compra à Federação Nacional dos Produtores de Trigo e o de venda pela Federação Nacional dos Industriais de Moagem às moagens constitua receita do Fundo Especial de Compensação das Farinhas.
+Secretaria de Estado do Comércio, 4 de Setembro de 1963. - O Secretário de Estado do Comércio, Armando Ramos de Paula Coelho.
