@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2furkWvc0lKdq20ak2KlHOmirXJXFYm74sABWT32jiDLN0U8f%2fPEtMfn8RnKJ0uGruwmBNe3jwMO37t%2fiSCQ9aculmRkJeIKwr%2fOiOzMziHJAnUHHtOwdh287ngLEtCriB2WWEC7LYWi1fowW8ns7Xdb7ZeW1KZ%2fh4MoxhR77APfbIk6lGh2Xrj7umHYAgvxBKomL8r%2b7w%2bcVlag%2bST%2fprrlUOE0u%2b6qHwbnvIQKfKeygiUNrSNiI04zccBV4YEQPPfynibRRVQMmV0H0WPDuRcSm80sGGQgNyTsUcq3R2DGZQtkpt%2bs4PaWOTvEOy%2b0HxZFhxj0gLaLBKCcha3mTRy2bCNMZep%2b9wDXb88fyVXk%3d&fich=IntervencoesVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6a76c73abc08ffed4c44b15f3f36f3269364cf06e4b7f2d6259e2b14d6049817",
+  "legislatura": "VIII",
+  "id": "28677",
+  "tipo": "Explicações",
+  "orador": "Luísa Mesquita (PCP)",
+  "data_registo": "2000-03-16",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "249915",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "6202",
+        "tipo": "INI",
+        "titulo": "Projeto de Resolução - Promove medidas de combate a violência no meio escolar."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2000-03-16",
+    "Debate": "PJR 38-CDS-PP",
+    "Deputados": {
+      "GP": "PCP",
+      "idCadastro": "1423",
+      "nome": "Luísa Mesquita"
+    },
+    "FaseDebate": "GENERALIDADE",
+    "FaseSessao": "POD",
+    "Id": "28677",
+    "IdDebate": "5917",
+    "Iniciativas": [
+      {
+        "fase": "Apreciação",
+        "id": "6202",
+        "tipo": "Projeto de Resolução"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VIII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "28677",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "1783-1784"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-03-17",
+        "pubLeg": "VIII",
+        "pubNr": "43",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/043/2000-03-17/1783?pgs=1783-1784&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputada",
+    "Resumo": "MEDIDA DISCIPLINAR ",
+    "Sessao": "1",
+    "Sumario": "PROMOVE MEDIDAS DE COMBATE A VIOLENCIA NO MEIO ESCOLAR",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Explicações"
+  }
+}
