@@ -1,0 +1,13 @@
+Resolução do Conselho de Ministros n.º 12/2004
+Sob proposta da Câmara Municipal, a Assembleia Municipal da Amadora aprovou, em 27 de Fevereiro de 2003, a suspensão do artigo 36.º e do último parágrafo do artigo 57.º do Regulamento do Plano Director Municipal da Amadora, na área delimitada na planta anexa à presente resolução, até à entrada em vigor do plano de pormenor de toda a unidade estratégica abrangida pela suspensão, correspondente ao Casal de São Mamede/Fonte Santa, actualmente em elaboração.
+O Plano Director Municipal da Amadora foi ratificado pela Resolução do Conselho de Ministros n.º 44/94, de 22 de Junho, e alterado pelas deliberações da Assembleia Municipal da Amadora de 25 de Maio de 2000 e 1 de Fevereiro de 2001, publicadas, respectivamente, no Diário da República, 2.ª série, n.os 2, de 3 de Janeiro de 2001, e 235, de 11 de Outubro de 2002.
+A suspensão parcial do Plano Director Municipal da Amadora fundamenta-se na verificação de circunstâncias excepcionais, resultantes de situações de fragilidade ambiental, que determinaram a necessidade de instalar no território do município um equipamento de tratamento e valorização orgânica de resíduos sólidos urbanos, que completa o sistema multimunicipal de valorização e tratamento de resíduos sólidos urbanos de Lisboa Norte, em que o município da Amadora está incluído. Sucede que a instalação daquele equipamento é incompatível com as disposições daquele Plano em vigor para a mesma área.
+Importa referir ainda que, sem prejuízo da suspensão parcial do Plano Director Municipal e da não sujeição do projecto do referido equipamento a licenciamento municipal, este deve ser executado de acordo com o projecto apresentado à Câmara Municipal da Amadora.
+A suspensão parcial foi objecto de parecer favorável da ex-Direcção Regional do Ambiente e do Ordenamento do Território - Lisboa e Vale do Tejo.
+Considerando o disposto na alínea b) do n.º 2 do artigo 100.º do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção que lhe foi conferida pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro:
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Ratificar a suspensão do artigo 36.º e do último parágrafo do artigo 57.º do Regulamento do Plano Director Municipal da Amadora, na área delimitada na planta anexa à presente resolução, que dela faz parte integrante, até à entrada em vigor do plano de pormenor de toda a unidade estratégica, correspondente ao Casal de São Mamede/Fonte Santa.
+Presidência do Conselho de Ministros, 28 de Janeiro de 2004. - O Primeiro-Ministro, José Manuel Durão Barroso.
+
+(ver planta no documento original)
