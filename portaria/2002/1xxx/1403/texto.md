@@ -1,0 +1,19 @@
+Portaria n.º 1403/2002
+de 29 de Outubro
+Mais de 12 anos volvidos desde a entrada em vigor da Portaria n.º 389/90, de 23 de Maio, torna-se necessário proceder a ajustamentos nos valores e nos critérios relativos ao cálculo das taxas nela previstos.
+A experiência adquirida impõe a diferenciação dos critérios de fixação da taxa a pagar entre as várias utilizações dos solos da RAN, já que os critérios em vigor conduzem, no caso de projectos de florestação, a valores que não são justificáveis em face do custo do serviço em causa.
+Por outro lado, há necessidade de actualizar os montantes anteriormente fixados tendo em conta a introdução do euro.
+Torna-se igualmente necessário proceder ao ajustamento das disposições da Portaria n.º 389/90, de 23 de Maio, por forma a ter em conta a nova estrutura orgânica do Ministério da Agricultura, Desenvolvimento Rural e Pescas.
+Mantém-se a isenção do pagamento de taxas para as autarquias locais.
+Nestes termos, ao abrigo do disposto no artigo 42.º do Decreto-Lei n.º 196/89, de 14 de Junho, com a alteração que lhe foi dada pelo Decreto-Lei n.º 274/92, de 12 de Dezembro:
+Manda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:
+1.º O valor base das taxas a pagar pela emissão dos pareceres referidos no artigo 9.º do Decreto-Lei n.º 196/89, de 14 de Junho, com a alteração introduzida pelo Decreto-Lei n.º 274/92, de 12 de Dezembro, é fixado em (euro) 60.
+2.º Com excepção do caso dos pareceres relativos a projectos de florestação, ao valor base referido no número anterior acresce um montante variável de (euro) 0,03/m2, aplicável apenas à fracção da área de solos da Reserva Agrícola Nacional a afectar a utilizações não agrícolas, a que o parecer respeita, superior a 500 m2.
+3.º Para efeitos de cálculo do valor da taxa a pagar pelos interessados, a área de solos da Reserva Agrícola Nacional a afectar a utilizações não agrícolas, a que o parecer respeita, é arredondada à centena de metros quadrados imediatamente superior.
+4.º Os valores referidos nos n.os 1.º e 2.º serão objecto de actualização anual com base no coeficiente resultante da totalidade da variação do índice de preços no consumidor, sem habitação, apurado pelo Instituto Nacional de Estatística, previsto no artigo 32.º do Regime do Arrendamento Urbano e publicado na forma de aviso no Diário da República, até 30 de Outubro de cada ano.
+5.º As taxas serão pagas pelos interessados no acto de entrega do requerimento inicial, e demais documentação necessária à emissão do respectivo parecer, na direcção regional de agricultura territorialmente competente.
+6.º Sempre que haja interposição de recurso para o Conselho Nacional da Reserva Agrícola de parecer emitido pelas comissões regionais de reserva agrícola, nos termos do n.º 2 do artigo 17.º do Decreto-Lei n.º 196/89, de 14 de Junho, com as alterações introduzidas pelo Decreto-Lei n.º 274/92, de 12 de Dezembro, 40% do montante da taxa, paga pelos interessados à direcção regional de agricultura respectiva pela emissão do parecer objecto do recurso, constituirá receita do Instituto de Desenvolvimento Rural e Hidráulica (IDRH), devendo ser entregue ao IDRH até final do mês seguinte ao da decisão do recurso.
+7.º Os montantes percebidos pela emissão dos pareceres a que se referem os números anteriores constituem receitas próprias das direcções regionais de agricultura e do IDRH, nos termos acima indicados, e serão prioritariamente afectos à satisfação de encargos por eles originados.
+8.º As autarquias locais estão isentas do pagamento de taxas pela emissão dos pareceres a que se refere a alínea d) do n.º 2 do artigo 9.º e o n.º 1 do artigo 32.º do Decreto-Lei n.º 196/89, de 14 de Junho, com as alterações introduzidas pelo Decreto-Lei n.º 274/92, de 12 de Dezembro.
+9.º É revogada a Portaria n.º 389/90, de 23 de Maio.
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 1 de Outubro de 2002.
