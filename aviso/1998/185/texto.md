@@ -1,0 +1,4 @@
+Aviso n.º 185/98
+Por ordem superior se torna público que a Hungria depositou, em 8 de Outubro de 1997, os instrumentos de ratificação da Convenção para a Protecção das Pessoas relativamente ao Tratamento Automatizado de Dados de Carácter Pessoal, aberta para assinatura, em Estrasburgo, em 28 de Janeiro de 1981.
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 23/93, publicada no Diário da República, 1.ª série-A, n.º 159, de 9 de Julho de 1993, tendo depositado o seu instrumento de ratificação em 2 de Setembro de 1993, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 259, de 5 de Novembro de 1993.
+Direcção-Geral dos Assuntos Multilaterais, 11 de Setembro de 1998. - O Director de Serviços das Organizações Políticas Internacionais, João José Gomes Caetano da Silva.
