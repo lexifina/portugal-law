@@ -1,0 +1,27 @@
+Portaria n.º 233/88
+de 16 de Abril
+Considerando que as quotas atribuídas a alguns dos importadores que se candidataram aos contingentes pautais de direito nulo instituídos pelo Decreto-Lei n.º 266/87, de 1 de Julho, não foram utilizadas na sua totalidade;
+Atendendo a que, por um lado, nem todas as empresas que importaram em 1987 produtos abrangidos por aquele decreto-lei puderam por ele ser contempladas ou usufruir, em toda a sua extensão, dos benefícios no mesmo consagrados e que, por outro, os montantes das quotas não utilizadas se situam a níveis que se consideram significativos face às necessidades destas empresas e importa proceder à redistribuição pelas mesmas dos montantes ainda disponíveis:
+Assim, nos termos do artigo 2.º do Decreto-Lei n.º 266/87, de 1 de Julho:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças, da Indústria e Energia e do Comércio e Turismo, o seguinte:
+1.º Os montantes disponíveis dos contingentes pautais de direito nulo instituídos pelo Decreto-Lei n.º 266/87, de 1 de Julho, e que constam do anexo I à presente portaria serão redistribuídos pelas empresas que em 1987 efectuaram importações de produtos contemplados naquele diploma legal.
+2.º - 1 - Só poderão beneficiar da redistribuição referida no número anterior os importadores que a ela se candidatem.
+2 - As candidaturas deverão ser dirigidas ao director-geral da Indústria, remetidas sob registo com aviso de recepção ou entregues contra recibo na Avenida do Conselheiro Fernando de Sousa, 11, 1092 Lisboa Codex, no prazo de quinze dias contado a partir da data da publicação da presente portaria.
+3.º - 1 - Os montantes disponíveis de cada um dos contingentes serão distribuídos pelos importadores proporcionalmente às importações por cada um deles realizadas no ano de 1987 de mercadorias que, estando incluídas no anexo ao Decreto-Lei n.º 266/87, não beneficiaram da suspensão da cobrança dos respectivos direitos.
+2 - Para o efeito e sob pena de não serem consideradas, as candidaturas deverão fazer-se acompanhar de:
+a) Elementos relativos às importações efectuadas em 1987 dos produtos incluídos em cada um dos contingentes, de acordo com o mapa-resumo indicado no anexo II;
+b) Facturas relativas a todas as importações referidas na alínea anterior, devidamente ordenadas e identificadas com os despachos respectivos;
+c) Boletins técnicos relativos aos produtos importados; no caso das fibras substandard, deverão ser apresentados boletins de análise emitidos pelo Instituto dos Têxteis.
+4.º - 1 - A redistribuição a que se refere este diploma deverá estar concluída no prazo de 30 dias contado a partir da data da respectiva publicação.
+2 - A Direcção-Geral da Indústria, uma vez efectuada a redistribuição informará as Direcções-Gerais das Alfândegas e do Comércio Externo do resultado da mesma e os candidatos sobre os montantes que lhes foram atribuídos.
+Ministérios das Finanças, da Indústria e Energia e do Comércio e Turismo.
+Assinada em 30 de Março de 1988.
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.
+
+ANEXO I
+Lista a que se refere o n.º 1.º
+(ver documento original)
+
+ANEXO II
+Quadro a que se refere a alínea a) do n.º 2 do n.º 3.º
+(ver documento original)
