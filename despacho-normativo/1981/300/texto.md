@@ -1,0 +1,3 @@
+Despacho Normativo n.º 300/81
+Nos termos do n.º 1 do artigo 23.º do Decreto-Lei n.º 290/81, de 14 de Outubro, subdelego cumulativamente no Ministro de Estado e das Finanças e do Plano, Dr. João Maurício Fernandes Salgueiro, e nos Ministros dos Negócios Estrangeiros, Prof. Doutor André Gonçalves Pereira, e da Agricultura, Comércio e Pescas, Dr. Basílio Adolfo Mendonça Horta da Franca, a competência para autorizar o aumento do número de automóveis para os chefes de missões diplomáticas que podem ser importados com isenção de direitos.
+Presidência do Conselho de Ministros, 14 de Outubro de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
