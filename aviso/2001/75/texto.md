@@ -1,0 +1,5 @@
+Aviso n.º 75/2001
+Por ordem superior se torna público que, em 6 de Junho e em 5 de Julho de 2001, foram remetidas notas verbais, respectivamente pelo Ministério dos Negócios Estrangeiros de Portugal e pelo Ministério das Relações Exteriores da Argentina, em que se comunica terem sido cumpridas as formalidades requeridas pelos ordenamentos jurídicos de ambos os países para a aprovação do Convénio sobre Prevenção do Uso Indevido e Repressão do Tráfico Ilícito de Estupefacientes e de Substâncias Psicotrópicas entre o Governo da República Portuguesa e o Governo da República da Argentina, assinado em Buenos Aires em 21 de Julho de 1997.
+O presente Convénio foi aprovado pelo Decreto do Presidente da República n.º 66/97, publicado no Diário da República, 1.ª série-A, n.º 300, de 30 de Dezembro de 1997.
+Em conformidade com o disposto no seu artigo VII, o Convénio entrará em vigor no dia 4 de Agosto de 2001.
+Direcção-Geral das Relações Bilaterais, 12 de Julho de 2001. - O Director-Geral, José Caetano de Campos Andrada da Costa Pereira.
