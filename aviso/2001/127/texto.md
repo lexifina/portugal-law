@@ -1,0 +1,5 @@
+Aviso n.º 127/2001
+Por ordem superior se faz público que, segundo comunicação do Secretário-Geral das Nações Unidas de 9 de Maio de 2001, o Governo da República de Malta depositou, em 7 de Maio de 2001, o instrumento de ratificação referente à Convenção sobre a Proibição da Utilização, Armazenagem, Produção e Transferência de Minas Antipessoais e sobre a Sua Destruição, assinada em Otava em 3 de Dezembro de 1997. Esta Convenção entrou em vigor para a República de Malta em 8 de Novembro de 2001.
+A referida Convenção foi ratificada por Portugal nos termos do Decreto do Presidente da República n.º 64/99, de 28 de Janeiro, publicado no Diário da República, 1.ª série-A, n.º 23, de 28 de Janeiro de 1999, tendo sido depositado o correspondente instrumento em 19 de Fevereiro de 1999, conforme o Aviso n.º 87/2000, publicado no Diário da República, 1.ª série-A, n.º 45, de 23 de Fevereiro de 2000.
+A Convenção entrou em vigor relativamente a Portugal em 1 de Agosto de 1999.
+Direcção-Geral dos Assuntos Multilaterais, 20 de Novembro de 2001. - O Director de Serviços das Organizações de Segurança e Defesa, Manuel Cansado Carvalho.
