@@ -1,0 +1,3 @@
+Despacho
+Nos termos do artigo 1.º do Decreto-Lei n.º 43000, de 1 de Junho de 1960, o Conselho de Ministros resolve, mediante proposta do Ministério da Educação Nacional, considerar como habilitação adequada, para efeito de provimento no lugar de condutor de obras do quadro do pessoal do Sanatório de D. Manuel II, o curso de construtor civil regulado pelo Decreto n.º 37029, de 25 de Agosto de 1948, ou outro que, em diferentes organizações do ensino técnico profissional, lhe corresponda, ou ainda, na falta de candidatos com essa habilitação, o curso de carpinteiro civil de qualquer das organizações do mesmo ensino.
+Presidência do Conselho, 18 de Março de 1968. - Pelo Presidente do Conselho, o Ministro de Estado, António Jorge Martins da Mota Veiga.
