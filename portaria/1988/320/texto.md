@@ -1,0 +1,28 @@
+Portaria n.º 320/88
+de 19 de Maio
+1. No âmbito da convenção celebrada entre o Governo Português e a Comissão das Comunidades Europeias tendente à modernização e reestruturação do sector siderúrgico nacional foram cometidos à CECA e ao Estado Português encargos relativos às medidas especiais de protecção dos trabalhadores das empresas dos sectores do carvão e do aço.
+2. No que respeita ao Estado Português, esses encargos são ainda avolumados pela assunção de outras medidas de protecção social, normais e extraordinárias, que o Governo entendeu assumir para possibilitar aos referidos trabalhadores uma melhor protecção sócio-laboral.
+3. Cumpre, pela presente portaria, nos termos do disposto no Decreto-Lei n.º 156/88, de 2 de Maio, designadamente do seu artigo 36.º, proceder à repartição dos respectivos encargos.
+Essa repartição atendeu naturalmente à natureza das medidas aplicadas e à competência e fins das entidades intervenientes.
+Cabem assim ao Orçamento do Estado os encargos com os apoios que, tendo de ser assumidos pelo Estado Português nos termos da convenção para haver lugar à participação financeira da CECA, se não insiram nos objectivos próprios ou afins do sector da segurança social e do emprego e formação profissional e, consequentemente, no âmbito do orçamento global da Segurança Social.
+Assim, nos termos do disposto no já citado artigo 36.º do Decreto-Lei n.º 156/88, de 2 de Maio:
+Manda o Governo, pelos Ministros das Finanças, da Indústria e Energia e do Emprego e da Segurança Social, o seguinte:
+1.º A repartição dos encargos financeiros assumidos pelo Estado Português decorrentes dos apoios a conceder aos trabalhadores de empresas dos sectores do carvão e do aço, referidos no Decreto-Lei n.º 156/88, é fixada nos termos do presente diploma.
+2.º São da responsabilidade financeira das instituições de segurança social os encargos relativos ao pagamento das seguintes importâncias:
+a) Os subsídios de desemprego, nos termos dos artigos 9.º a 11.º;
+b) As participações nas compensações salariais que assumam a forma de complemento de subsídios de desemprego, nos termos da alínea a) do artigo 32.º e ainda do artigo 5.º da convenção;
+c) As reformas antecipadas, nos termos dos artigos 24.º a 27.º
+3.º São da responsabilidade financeira do Instituto do Emprego e Formação Profissional os encargos relativos ao pagamento de participações em:
+a) Compensações salariais aos trabalhadores que criem o seu próprio emprego, nos termos dos artigos 12.º a 15.º;
+b) Indemnizações por diferença de salários, nos termos do artigo 20.º;
+c) Auxílios de mobilidade geográfica, nos termos do artigo 21.º;
+d) Auxílios de formação profissional, nos termos dos artigos 22.º e 23.º
+4.º Em substituição da responsabilidade normalmente imputável às empresas, incumbe ao Ministério das Finanças a cobertura dos encargos relativos ao pagamento de:
+a) Valores atribuídos a título de pré-reforma, nos termos dos artigos 16.º a 19.º e 34.º;
+b) Comparticipação nas indemnizações por cessação do contrato de trabalho, nos termos dos artigos 7.º e 8.º e 35.º;
+c) Comparticipação nas compensações salariais das situações de pré-reforma, nos termos dos artigos 31.º, alínea a), e 34.º;
+d) Comparticipação nas contribuições para a Segurança Social relativas às prestações de pré-reforma, nos termos do artigo 19.º, imputáveis às empresas.
+5.º A presente portaria produz efeitos a partir de 1 de Janeiro de 1986.
+Ministérios das Finanças, da Indústria e Energia e do Emprego e da Segurança Social.
+Assinada em 2 de Maio de 1988.
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
