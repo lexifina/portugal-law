@@ -1,0 +1,7 @@
+Despacho Normativo n.º 129/79
+Sendo necessário esclarecer dúvidas suscitadas pela publicação do Decreto-Lei n.º 371/78, de 30 de Novembro, em face da legislação respeitante aos investimentos directos estrangeiros, determino o seguinte:
+a) Todos os pedidos de autorização para operações de investimento directo estrangeiro deverão ser apresentados no Instituto do Investimento Estrangeiro;
+b) Quando se verifique, durante a avaliação dessas operações, que aquele investimento implica ou envolve a prática de algum dos actos a que se refere o Decreto-Lei n.º 371/78, de 30 de Novembro, o Instituto do Investimento Estrangeiro encaminhará as respectivas petições, com todos os necessários elementos de informação, para a Direcção-Geral do Tesouro, a qual, nos termos do artigo 8.º do mesmo diploma, solicitará o parecer do Banco de Portugal e da comissão directiva da Bolsa de Valores de Lisboa;
+c) A decisão favorável do Ministério das Finanças e do Plano quanto à prática desses actos deverá ser comunicada ao Instituto do Investimento Estrangeiro e constituirá condição necessária para a autorização final desta entidade, devendo ser expressamente mencionada nos boletins de autorização do investimento estrangeiro;
+d) A obtenção dessas decisões favoráveis não prejudicará a necessidade de homologação ministerial da autorização do Instituto do Investimento Estrangeiro nos casos previstos no artigo 5.º do Decreto Regulamentar n.º 51/77, de 24 de Agosto.
+Ministério das Finanças e do Plano, 22 de Maio de 1979. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes.
