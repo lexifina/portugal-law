@@ -2,4 +2,4 @@
 
 ### Isenção pela aquisição de prédios destinados exclusivamente a habitação
 
-São isentas do IMT as aquisições de prédio urbano ou de fracção autónoma de prédio urbano destinado exclusivamente a habitação, cujo valor que serviria de base à liquidação não exceda (euro) 80000.
+São isentas do IMT as aquisições de prédio urbano ou de fracção autónoma de prédio urbano destinado exclusivamente a habitação, cujo valor que serviria de base à liquidação não exceda (euro) 81600.
