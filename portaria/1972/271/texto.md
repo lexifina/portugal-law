@@ -1,0 +1,13 @@
+Portaria n.º 271/72
+de 15 de Maio
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar e pelo Ministro da Educação Nacional, aprovar o Regulamento do Prémio Vasco da Gama, destinado a recompensar anualmente os dois melhores alunos (um de cada sexo) das escolas do ensino primário do concelho de Sines e da ilha de Moçambique.
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha. - O Ministro da Educação Nacional, José Veiga Simão.
+
+Para ser publicada no Boletim Oficial de Moçambique. - J. da Silva Cunha.
+
+REGULAMENTO DO PRÉMIO VASCO DA GAMA
+Artigo 1.º É instituído pela T. A. P. - Transportes Aéreos Portugueses, S. A. R. L., o Prémio Vasco da Gama, destinado a recompensar anualmente os dois melhores alunos (um de cada sexo) das escolas do ensino primário do concelho de Sines e da ilha de Moçambique.
+Art. 2.º O prémio é constituído por uma viagem de avião (ida e volta) a Moçambique e uma viagem de avião (ida e volta) à metrópole, por conta daquela sociedade, de forma que aqueles alunos possam visitar a ilha de Moçambique e Sines e outras localidades de Moçambique e do continente, respectivamente, cimentando, assim, no espírito desses jovens a força e a realidade da expansão portuguesa no Mundo e perpetuar a memória do grande navegador.
+Art. 3.º As crianças premiadas serão acompanhadas por uma pessoa idónea durante as suas viagens e a concessão do prémio inclui as despesas de estadia das crianças, bem como da pessoa que as acompanhar, designada pelos Transportes Aéreos Portugueses.
+Art. 4.º A Direcção do Distrito Escolar de Moçambique e a Direcção do Distrito Escolar de Setúbal deverão indicar, respectivamente, ao director-geral de Educação, do Ministério do Ultramar, e ao director-geral do Ensino Básico, do Ministério da Educação Nacional, no final de cada ano escolar, os nomes dos dois alunos e das duas alunas das escolas primárias da ilha de Moçambique e do concelho de Sines aprovados no exame da 4.ª classe que mais se houverem distinguido pelo seu comportamento moral, assiduidade às aulas e aproveitamento escolar, com indicação das suas moradas.
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha. - O Ministro da Educação Nacional, José Veiga Simão.
