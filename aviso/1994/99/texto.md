@@ -1,0 +1,6 @@
+Aviso n.º 99/94
+Por ordem superior se torna público que o Bureau Permanente da Conferência da Haia de Direito Internacional Privado informou que, por nota de 23 de Julho de 1993, recebida nesta data no Ministério dos Negócios Estrangeiros do Reino dos Países Baixos, a Embaixada do Reino Unido da Grã-Bretanha e Irlanda do Norte notificou aquele Ministério de que a aceitação pelo Reino Unido, em 19 de Fevereiro de 1993, da adesão da Austrália à Convenção sobre a Obtenção de Provas no Estrangeiro em Matéria Civil ou Comercial, concluída na Haia em 18 de Março de 1970, vale igualmente para os seguintes territórios: bailiado de Guernesey, bailiado de Jersey, ilha de Man, Anguilla, ilhas dos Caimões, ilhas Falkland, Gibraltar, Hong Kong, Geórgia do Sul e ilhas Sandwich do Sul.
+Relativamente a Portugal, a Convenção acima mencionada foi ratificada pelo Decreto n.º 764/74, de 30 de Dezembro, conforme Diário do Governo, n.º 302, de 30 de Dezembro de 1974.
+Foi publicado um aviso no Diário do Governo, 1.ª série, n.º 82, de 8 de Abril de 1975.
+A Convenção entrou em vigor para Portugal em 11 de Maio de 1975.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 16 de Fevereiro de 1994. - O Secretário-Geral-Adjunto, Afonso de Castro de Sá Pereira e Vasconcelos.
