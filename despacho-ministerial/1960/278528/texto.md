@@ -1,0 +1,3 @@
+Despacho ministerial
+Atendendo ao que foi exposto pelo Ministério da Saúde e Assistência e usando da faculdade conferida pelo § único do artigo 1.º do Decreto-Lei n.º 36820, de 17 de Abril de 1948, autorizo que, para ocorrer às necessidades de assistência do distrito autónomo do Funchal, continue em vigor durante o ano de 1960 a tabela aprovada por despacho ministerial de 19 de Dezembro de 1955, publicado no Diário do Governo n.º 276, 1.ª série, do mesmo ano, e ainda a cobrança de uma taxa de 4$80 sobre cada quilograma de tabaco em folha, em rolo e manipulado que entrar no distrito.
+Ministério das Finanças, 17 de Fevereiro de 1960. - O Ministro das Finanças, António Manuel Pinto Barbosa.
