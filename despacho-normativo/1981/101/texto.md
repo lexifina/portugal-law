@@ -1,0 +1,7 @@
+Despacho Normativo n.º 101/81
+Para execução do disposto nos artigos 2.º, 3.º, 5.º e 6.º do Decreto-Lei n.º 885/76, de 29 de Dezembro, na redacção que lhes foi dada pelo Decreto-Lei n.º 85/80, de 19 de Abril, determina-se o seguinte:
+1 - Para efeitos da cobertura dos encargos resultantes da diferença entre os custos de importação do arroz em reserva adquirido pela Empresa Pública de Abastecimento de Cereais, bem como do a adquirir pela mesma Empresa na campanha 1980-1981, acrescidos de 390$00 por tonelada, e os respectivos preços de venda, deverá o Fundo de Abastecimento inscrever uma verba de 450000 contos no seu orçamento para o ano de 1981.
+2 - Em relação às despesas com a remessa do arroz para as Regiões Autónomas da Madeira e dos Açores, deverá igualmente o Fundo de Abastecimento inscrever uma verba de 10000 contos no seu orçamento para o ano de 1981.
+3 - Fica revogado o Despacho Normativo n.º 149/80, de 11 de Fevereiro, das Secretarias de Estado do Orçamento, do Comércio e Indústrias Agrícolas e do Comércio Interno.
+4 - Este despacho entra em vigor no dia seguinte ao da sua publicação.
+Secretarias de Estado das Finanças, da Transformação e Mercados e do Comércio, 4 de Março de 1981. - O Secretário de Estado das Finanças, José António da Silveira Godinho. - O Secretário de Estado da Transformação e Mercados, Jaime António Morais Figo. - O Secretário de Estado do Comércio, Walter Waldemar Pego Marques.
