@@ -1,0 +1,450 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "50",
+    "id": "6105",
+    "titulo": "Recomendar ao Governo que reforce um programa específico sério de combate a tuberculose."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2000-12-07",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "5865",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2000-12-07",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-12-07",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1596",
+                "nome": "Nuno Freitas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136117",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1114-1117"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-09",
+                "pubLeg": "VIII",
+                "pubNr": "28",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/028/2000-12-09/1114?pgs=1114-1117&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que reforce um programa específico sério de combate à tuberculose (PSD)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "177",
+                "nome": "João Rui de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136122",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1116-1116"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-09",
+                "pubLeg": "VIII",
+                "pubNr": "28",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/028/2000-12-09/1116?pgs=1116&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que reforce um programa específico sério de combate à tuberculose (PSD)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1701",
+                "nome": "Luísa Portugal"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136123",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1118-1118"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-09",
+                "pubLeg": "VIII",
+                "pubNr": "28",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/028/2000-12-09/1118?pgs=1118&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que reforce um programa específico sério de combate à tuberculose (PSD)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1102",
+                "nome": "Pedro Mota Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136124",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1117-1117"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-09",
+                "pubLeg": "VIII",
+                "pubNr": "28",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/028/2000-12-09/1117?pgs=1117&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que reforce um programa específico sério de combate à tuberculose (PSD)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136126",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1119-1119"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-09",
+                "pubLeg": "VIII",
+                "pubNr": "28",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/028/2000-12-09/1119?pgs=1119&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que reforce um programa específico sério de combate à tuberculose (PSD)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1653",
+                "nome": "Helena Neves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136127",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1120-1120"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-09",
+                "pubLeg": "VIII",
+                "pubNr": "28",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/028/2000-12-09/1120?pgs=1120&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que reforce um programa específico sério de combate à tuberculose (PSD)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  SAÚDE",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Miguel Boquinhas"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136130",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1120-1121"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-09",
+                "pubLeg": "VIII",
+                "pubNr": "28",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/028/2000-12-09/1120?pgs=1120-1121&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que reforce um programa específico sério de combate à tuberculose (PSD)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1596",
+                "nome": "Nuno Freitas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136132",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1121-1122"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-09",
+                "pubLeg": "VIII",
+                "pubNr": "28",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/028/2000-12-09/1121?pgs=1121-1122&org=PLC"
+              }
+            ],
+            "sumario": "Recomenda ao Governo que reforce um programa específico sério de combate à tuberculose (PSD)",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "249519",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "5865",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-12-09",
+        "pubLeg": "VIII",
+        "pubNr": "28",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/028/2000-12-09?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
