@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação da Embaixada da Suíça em Lisboa, o Governo da França depositou, em 13 de Fevereiro de 1973, o instrumento de ratificação das Convenções Internacionais Relativas ao Transporte de Mercadorias por Caminho de Ferro (CIM) e ao Transporte de Passageiros e de Bagagens por Caminho de Ferro (CIV), bem como do Protocolo adicional às referidas Convenções e do Protocolo Relativo às Contribuições para as Despesas do Serviço Central dos Estados Partes nas Convenções Internacionais CIM e CIV, concluídos em Berna em 7 de Fevereiro de 1970.
+Direcção-Geral dos Negócios Económicos, 25 de Maio de 1973. - O Adjunto do Director-Geral, José Joaquim de Mena e Mendonça.
