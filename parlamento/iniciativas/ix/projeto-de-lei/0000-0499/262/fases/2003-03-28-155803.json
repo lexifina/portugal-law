@@ -1,0 +1,347 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "262",
+    "id": "19589",
+    "titulo": "Altera o Código Penal, para garantia do julgamento em Portugal dos autores de crimes previstos no Estatuto do Tribunal Penal Internacional."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2003-03-28",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2505",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2003-03-28",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "19521",
+        "leg": "IX",
+        "nr": "224",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "691",
+            "obs": null,
+            "pag": [
+              "4457-4463"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2003-03-29",
+            "pubLeg": "IX",
+            "pubNr": "106",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/106/2003-03-29/4457?pgs=4457-4463&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Assegura a competência plena dos tribunais portugueses face à jurisdição do Tribunal Penal Internacional (Altera o Código Penal Português em matéria do crime de genocídio, dos crimes contra a humanidade e dos crimes de guerra)."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2003-03-28",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1022",
+                "nome": "Eugénio Marinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "11:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144624",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4457-4458",
+                  "4462-4463"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-03-29",
+                "pubLeg": "IX",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/106/2003-03-29/4457?pgs=4457-4458,4462-4463&org=PLC"
+              }
+            ],
+            "sumario": "Assegura a competência plena dos tribunais portugueses face à jurisdição do Tribunal Penal Internacional (Altera o Código Penal Português em matéria do crime de genocídio, dos crimes contra a humanidade e dos crimes de guerra); Altera o Código Penal, para garantia do julgamento em Portugal dos autores de crimes previstas no Estatuto do Tribunal Penal Internacional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "11:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144625",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4458-4459"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-03-29",
+                "pubLeg": "IX",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/106/2003-03-29/4458?pgs=4458-4459&org=PLC"
+              }
+            ],
+            "sumario": "Assegura a competência plena dos tribunais portugueses face à jurisdição do Tribunal Penal Internacional (Altera o Código Penal Português em matéria do crime de genocídio, dos crimes contra a humanidade e dos crimes de guerra); Altera o Código Penal, para garantia do julgamento em Portugal dos autores de crimes previstas no Estatuto do Tribunal Penal Internacional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1987",
+                "nome": "Eduardo Cabrita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "11:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144626",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4459-4460",
+                  "4463-4463"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-03-29",
+                "pubLeg": "IX",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/106/2003-03-29/4459?pgs=4459-4460,4463&org=PLC"
+              }
+            ],
+            "sumario": "Assegura a competência plena dos tribunais portugueses face à jurisdição do Tribunal Penal Internacional (Altera o Código Penal Português em matéria do crime de genocídio, dos crimes contra a humanidade e dos crimes de guerra); Altera o Código Penal, para garantia do julgamento em Portugal dos autores de crimes previstas no Estatuto do Tribunal Penal Internacional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "11:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144627",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4460-4461"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-03-29",
+                "pubLeg": "IX",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/106/2003-03-29/4460?pgs=4460-4461&org=PLC"
+              }
+            ],
+            "sumario": "Assegura a competência plena dos tribunais portugueses face à jurisdição do Tribunal Penal Internacional (Altera o Código Penal Português em matéria do crime de genocídio, dos crimes contra a humanidade e dos crimes de guerra); Altera o Código Penal, para garantia do julgamento em Portugal dos autores de crimes previstas no Estatuto do Tribunal Penal Internacional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "11:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144628",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4462-4462"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-03-29",
+                "pubLeg": "IX",
+                "pubNr": "106",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/106/2003-03-29/4462?pgs=4462&org=PLC"
+              }
+            ],
+            "sumario": "Assegura a competência plena dos tribunais portugueses face à jurisdição do Tribunal Penal Internacional (Altera o Código Penal Português em matéria do crime de genocídio, dos crimes contra a humanidade e dos crimes de guerra); Altera o Código Penal, para garantia do julgamento em Portugal dos autores de crimes previstas no Estatuto do Tribunal Penal Internacional.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "155803",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "276678",
+        "obs": null,
+        "pag": [
+          "4457-4463"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-03-29",
+        "pubLeg": "IX",
+        "pubNr": "106",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/106/2003-03-29/4457?pgs=4457-4463&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
