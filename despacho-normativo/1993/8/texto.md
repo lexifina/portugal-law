@@ -1,0 +1,3 @@
+Despacho Normativo n.º 8/93
+Ao abrigo da competência que me foi delegada pelo Despacho n.º 5/92, de 19 de Março, e nos termos e para os efeitos do artigo 72.º da Lei n.º 1/76, de 17 de Fevereiro, com a nova redacção que lhe foi dada pela Lei n.º 13/90, de 10 de Maio, e do artigo 5.º da Lei n.º 6/83, de 29 de Julho, determino a publicação no Boletim Oficial de Macau do Decreto n.º 39/92, de 20 de Agosto, que aprova, para ratificação, as emendas introduzidas ao Protocolo de Montreal sobre as Substâncias Que Empobrecem a Camada de Ozono.
+Presidência do Conselho de Ministros, 6 de Janeiro de 1993. - O Ministro Adjunto, Luís Manuel Gonçalves Marques Mendes.
