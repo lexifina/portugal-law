@@ -1,0 +1,15 @@
+Portaria n.º 1448/2001
+de 22 de Dezembro
+Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto nos n.os 2 e 6, respectivamente, dos artigos 61.º e 54.º do Decreto-Lei n.º 519-F2/79, de 29 de Dezembro, e tendo presente o estabelecido no artigo 59.º do Decreto-Lei n.º 92/90, de 17 de Março, o seguinte:
+1.º Transitoriamente, para o ano de 2002, o vencimento de exercício de cada conservador, notário e oficial dos registos e do notariado é constituído pela média aritmética da participação emolumentar apurada de Janeiro a Outubro de 2001, não sendo, para o efeito, consideradas as variações decorrentes de situações especiais, designadamente:
+a) De faltas ou licenças;
+b) De destacamentos ou requisições;
+c) De substituições ou acumulação de funções;
+d) De penas disciplinares que impliquem perda de remuneração.
+2.º As situações especiais referidas no número anterior que ocorram no ano de 2002 podem, porém, determinar a subsequente variação do vencimento de exercício, nos termos das disposições legais aplicáveis.
+3.º Tendo-se verificado, até Outubro de 2001, ingresso ou progressão na carreira de conservador, notário e oficial dos registos e do notariado, início de funções noutra conservatória ou cartório notarial ou alteração da classe do serviço, o vencimento de exercício, para efeitos do n.º 1, é calculado apenas com base na participação emolumentar efectivamente apurada em virtude da nova situação funcional.
+4.º Sempre que as situações referidas na primeira parte do número anterior ocorram a partir de Novembro de 2001, o vencimento de exercício, para efeitos do n.º 1, passa a ser calculado com base na média aritmética da participação emolumentar a que o funcionário teria direito se estivesse investido na nova situação funcional de Janeiro a Outubro de 2001.
+5.º Enquanto se mantiverem, as situações de requisição ou de comissão de serviço iniciadas antes de Novembro de 2001 seguem o regime previsto no número anterior.
+6.º Aos conservadores, notários e oficiais dos registos e do notariado de serviço que entrem em funcionamento após a data prevista no n.º 4 é assegurado um vencimento de exercício calculado sobre uma receita mensal líquida de 2500000$00, 15000000$00 e 20000000$00, conforme se trate, respectivamente, de serviço de 3.ª, 2.ª e 1.ª classes.
+7.º A presente portaria produz efeitos a partir de 1 de Janeiro de 2002.
+Pelo Ministro da Justiça, Diogo Campos Barradas de Lacerda Machado, Secretário de Estado da Justiça, em 13 de Dezembro de 2001.
