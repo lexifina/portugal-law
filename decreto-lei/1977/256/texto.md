@@ -1,0 +1,20 @@
+Decreto-Lei n.º 256/77
+de 17 de Junho
+Considerando a impossibilidade de ser aprovado desde já o regulamento dos Serviços Prisionais Militares (SPM) a que se refere o artigo 6.º do Decreto-Lei n.º 762/75, de 31 de Dezembro;
+Mostrando-se necessária a imediata definição da situação funcional do pessoal afecto aos SPM, de forma a possibilitar a liquidação dos respectivos encargos:
+O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
+Artigo 1.º É criado o quadro único do pessoal dos Serviços Prisionais Militares, constante do mapa anexo ao presente diploma.
+Art. 2.º - 1. O provimento dos lugares do quadro ora criado respeitante ao pessoal civil será feito por escolha do membro do Conselho da Revolução designado nos termos do artigo 3.º do Decreto-Lei n.º 762/75, de 31 de Dezembro, sem prejuízo das habilitações literárias exigíveis para as diferentes categorias, de entre os indivíduos que, à data da publicação do presente diploma, prestem serviço a qualquer título, há mais de um ano e em regime de tempo completo, nos Serviços Prisionais Militares, e que venham a integrar lista nominativa a publicar no Diário da República, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas.
+2. A integração prevista no número anterior far-se-á com salvaguarda de todos os direitos e regalias adquiridos, incluindo a manutenção da categoria funcional.
+Art. 3.º Serão fixadas em decreto regulamentar do Conselho da Revolução as normas respeitantes a futuros provimentos nos lugares de pessoal civil que ficarem vagos, bem como as relativas a promoções.
+Art. 4.º O quadro de pessoal criado pelo presente diploma será integrado no futuro regulamento dos SPM, devendo os respectivos encargos ser suportados pelos mesmos Serviços.
+Art. 5.º Este diploma entra em vigor no dia seguinte ao da sua publicação, produzindo, todavia, efeitos desde 1 de Janeiro de 1977.
+Visto e aprovado em Conselho da Revolução.
+Promulgado em 27 de Maio de 1977.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+ANEXO
+Quadro de pessoal a que se refere o artigo 1.º
+(ver documento original)
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.
