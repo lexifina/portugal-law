@@ -1,0 +1,5 @@
+Aviso n.º 156/98
+Por ordem superior se torna público que, segundo comunicação da Organização Mundial da Propriedade Intelectual, o Governo de Granada depositou, em 22 de Junho de 1998, o instrumento de adesão à Convenção de Paris para a Protecção da Propriedade Industrial, de 20 de Março de 1883, revista em Estocolmo a 14 de Julho de 1967 e modificada a 28 de Setembro de 1979.
+A referida Convenção entrará em vigor para o Governo de Granada em 28 de Setembro de 1998. A partir desta data, Granada tornar-se-á também membro da União Internacional para a Protecção da Propriedade Industrial (União de Paris), criada pela Convenção de Paris.
+Esta Convenção foi aprovada, para ratificação, por Portugal nos termos do Decreto n.º 22/75, de 22 de Janeiro, tendo sido depositado o correspondente instrumento em 27 de Janeiro de 1975, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 63, de 15 de Março de 1975.
+Direcção-Geral dos Assuntos Multilaterais, 13 de Agosto de 1998. - O Director de Serviços das Organizações Económicas Internacionais, João Perestrello Cavaco.
