@@ -8,7 +8,7 @@ Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
 
 Manda o Governo, pelos Ministros da Agricultura e do Ambiente e Recursos Naturais, o seguinte:
 
-1.ºFicam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Tuizelo e Santalha, município de Vinhais, com uma área de 2783,60 ha.
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Tuizelo e Santalha, município de Vinhais, com a área de 2978,90 ha.
 
 1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.
 
