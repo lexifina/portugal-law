@@ -1,0 +1,7 @@
+Decreto n.º 45530
+Considerando que, por demora na apreciação do projecto definitivo do estudo da aplicação de novas técnicas de organização nos serviços financeiros, contabilísticos e administrativos da Administração-Geral do Porto de Lisboa, adjudicado ao Gabinete de Estudos Técnicos de Organização - Orgatec, de Lisboa, não foi ainda possível passar à fase de execução do referido projecto definitivo, previsto no respectivo contrato, autorizado pelo Decreto n.º 43815, de 22 de Julho de 1961;
+Considerando que, por tal facto, se torna necessário transferir para os anos de 1964 e de 1965 parte dos encargos que no mesmo diploma haviam sido previstos, correspondentes aos trabalhos por executar, na importância de 110000$00;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo único. O saldo de 110000$00 apurado em 1963 e correspondente aos trabalhos ainda não realizados pelo Gabinete de Estudos Técnicos de Organização - Orgatec e incluídos na execução do estudo cujo contrato foi autorizado pelo Decreto n.º 43815, de 22 de Julho de 1961, reverte para os anos de 1964 e 1965. A Administração-Geral do Porto de Lisboa é autorizada a liquidar no ano de 1964 a quantia de 90000$00 e em 1965 a importância de 20000$00 ou o que se apurar como saldo.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 15 de Janeiro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Carlos Gomes da Silva Ribeiro.
