@@ -1,0 +1,22 @@
+Decreto-Lei n.º 353/82
+de 4 de Setembro
+A exemplo da iniciativa da UNICEF e do Secretariado do IYDP - International Year of Disabled Persons, de estabelecer um programa internacional de emissão de moedas para assinalar 1981 como o ano internacional das pessoas deficientes, dentro de uma vasta campanha, a nível mundial, com vista a prevenir as incapacidades, a intensificar a assistência ao deficiente e a educar o público acerca dos seus direitos e necessidades, por sugestão da CCNOD - Comissão Coordenadora Nacional dos Organismos dos Deficientes, o Governo como manifestação do real interesse que o assunto merece por parte da população portuguesa, determina que se proceda a uma emissão de moedas alusivas ao acontecimento.
+Seguindo o critério adoptado pelo Secretariado do IYDP para as emissões internacionais, também a emissão nacional de moedas contempla a representação em efígie de personalidades de mérito, que, ou alcançaram posições de relevo, a despeito das suas incapacidades, ou se distinguiram pelo contributo científico que puseram à disposição dos deficientes. É assim que a escolha recaiu sobre o nome de 2 portugueses ilustres: António Feliciano de Castilho, intelectual de grande prestígio na cultura portuguesa do século passado, e Jacob Rodrigues Pereira, judeu de origem portuguesa, considerado um dos beneméritos da humanidade por ter sido o iniciador de um método de ensino para surdos-mudos e autor da obra Observations sur les sourdes-muets, publicada em França no ano de 1762.
+Assim, e com o acordo do Banco de Portugal, nos termos do artigo 12.º, n.º 2, da sua Lei Orgânica, aprovada pelo Decreto-Lei n.º 644/75, de 15 de Novembro:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º - 1 - É criada uma colecção de moedas comemorativas do Ano Internacional do Deficiente, constituída por 2 moedas metálicas de valores faciais de 25$00 e 100$00.
+2 - Dos lucros da amoedação reverte para o Ministério dos Assuntos Sociais a importância de 50000 contos, destinada à criação de programas de reabilitação de deficientes.
+As moedas dos respectivos valores faciais serão cunhadas segundo as características técnicas definidas nos Decretos-Leis n.os 847/76, de 15 de Dezembro, 534/77, de 30 de Dezembro, 519-R/79, de 28 de Dezembro, e 299/80, de 16 de Agosto, que se resumem:
+Moeda de 25$00 - liga de 75% de cobre e 25% de níquel; diâmetro: 28,5 mm; peso: 11 g; tolerância no título: (mais ou menos)1,5%, e no peso: (mais ou menos)2%; bordo serrilhado;
+Moeda de 100$00 - liga de 75% de cobre e 25% de níquel; diâmetro: 34 mm; peso: 16,5 g; tolerância no título e no peso: (mais ou menos)1,5%; bordo serrilhado.
+Art. 2.º - 1 - Os desenhos dos anversos apresentam no centro do campo o escudo das armas nacionais, orlado na parte superior pela legenda «República Portuguesa» e na parte inferior pela inscrição do respectivo valor facial em algarismos: 25$00 e 100$00.
+2 - Os reversos ostentam a legenda circular comum, na orla superior «Ano Internacional do Deficiente 1981» em 2 linhas e na orla inferior «Trabalho-Reabilitação».
+No campo, os desenhos são:
+Na moeda de 25$00 - a efígie de Jacob Rodrigues Pereira interrompendo a legenda na orla inferior e, à direita, o seu nome e as eras «1715-1780» em 5 linhas;
+Na moeda de 100$00 - a efígie de António Feliciano de Castilho interrompendo a legenda na orla inferior e, à esquerda, o seu nome e as eras «1800-1885» em 6 linhas.
+Art. 3.º É autorizada a Imprensa Nacional-Casa da Moeda, E. P., a cunhar, até aos limites de 2000000 e 1000000, respectivamente, a moeda comemorativa do Ano Internacional do Deficiente, dos valores faciais de 25$00 e 100$00.
+Art. 4.º As moedas criadas por este decreto-lei têm curso legal, mas ninguém pode ser obrigado a receber, em qualquer pagamento, mais de 2000$00 ou 4000$00, conforme os casos, em moedas de 25$00 ou 100$00.
+Visto e aprovado em Conselho de Ministros de 27 de Julho de 1982. - Francisco José Pereira Pinto Balsemão.
+Promulgado em 26 de Agosto de 1982.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
