@@ -1,0 +1,3 @@
+Portaria n.º 23994
+Manda o Governo da República Portuguesa, pelo Ministro das Comunicações, de harmonia com o disposto no artigo 96.º do Estatuto das Juntas Autónomas dos Portos, aprovado pelo Decreto-Lei n.º 37754, de 18 de Fevereiro de 1950, manter em vigor as tarifas provisórias da Junta Autónoma dos Portos de Barlavento do Algarve, aprovadas pela Portaria n.º 15497, de 9 de Agosto de 1955, com as alterações introduzidas pelas Portarias n.os 15974, de 18 de Setembro de 1956, e 18147, de 23 de Dezembro de 1960.
+Ministério das Comunicações, 27 de Março de 1969. - O Ministro das Comunicações, José Estêvão Abranches Couceiro do Canto Moniz.
