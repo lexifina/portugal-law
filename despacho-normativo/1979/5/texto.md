@@ -1,0 +1,3 @@
+Despacho Normativo n.º 5/79
+Subdelego no Secretário de Estado do Planeamento, Prof. Doutor Rui José da Conceição Nunes, a competência que, ao abrigo do Despacho Normativo n.º 4/79, e nos termos do artigo 4.º n.º 1, do Decreto-Lei n.º 427/73, de 25 de Agosto, com a redacção que lhe foi dada pelo artigo 1.º do Decreto-Lei n.º 96/77, de 17 de Março, e do artigo 4.º do Decreto n.º 428/73, de 25 de Agosto, que foi delegada pelo Primeiro-Ministro relativamente ao Conselho Nacional de Estatística.
+Presidência do Conselho de Ministros, 26 de Dezembro de 1978. - O Vice-Primeiro-Ministro para os Assuntos Económicos e Integração Europeia e Ministro das Finanças e do Plano, Manuel Jacinto Nunes.
