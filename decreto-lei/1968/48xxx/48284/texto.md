@@ -1,0 +1,18 @@
+Decreto-Lei n.º 48284
+A Santa Casa da Misericórdia de Lisboa, no desejo de completar tão útil iniciativa que foi a criação do Centro de Medicina de Reabilitação, em Alcoitão, projectou a construção de algumas pequenas unidades destinadas à reabilitação vocacional.
+Foi escolhido para edificação do Centro de Reabilitação Profissional, a articular com o Centro de Medicina de Reabilitação, em Alcoitão, um terreno fronteiro deste, com a área total de 66100 m2, composto de 22 parcelas, das quais 4 foram adquiridas por escritura pública, e em relação às 18 restantes foi declarada a utilidade pública e a urgência da sua expropriação (Diário do Governo, 2.ª série, de 14 de Agosto de 1961) e celebrados os respectivos autos de expropriação amigável, com excepção de 3 parcelas para as quais foi necessária a expropriação judicial.
+Por seu turno, o Serviço de Reabilitação Prifissional do Ministério das Corporações e Previdência Social pretende levar a cabo a criação de um centro de reabilitação profissional em moldes absolutamente idênticos aos previstos pela Santa Casa da Misericórdia de Lisboa, estando incluída a instalação de um centro de formação profissional e de um lar, podendo este último ser reservado em parte da sua capacidade aos estagiários do Centro de Medicina de Reabilitação, mediante adequado acordo de cooperação.
+Nestas circunstâncias, acordaram o Serviço de Reabilitação Profissional e a Santa Casa da Misericórdia de Lisboa na cedência àquele departamento do Estado das 22 parcelas de terreno adquiridas, recebendo a Misericórdia de Lisboa apenas a quantia do seu custo, acrescida das despesas efectuadas, no total de 1891800$00.
+A aquisição, alienação e troca de bens por parte da Misericórdia deve efectuar-se com observância das formalidades legais aplicáveis aos bens do Estado, como dispõe o § 4.º do artigo 12.º do Decreto-Lei n.º 40397, de 24 de Novembro de 1955.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É autorizada a Santa Casa da Misericórdia de Lisboa a alienar ao Serviço de Reabilitação Profissional do Ministério das Corporações e Previdência Social os terrenos constantes do quadro anexo ao presente diploma, recebendo a importância de 1891800$00.
+Art. 2.º A referida importância será satisfeita, sem encargos de juros, de uma só vez, no acto da celebração da respectiva escritura.
+Art. 3.º Dados os fins análogos a que se destinam os terrenos alienados, é mantida a declaração de utilidade pública dada por despacho de 26 de Julho de 1961 do Conselho de Ministros e consequentemente declarada a inexistência do direito à reversão.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 21 de Março de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Propriedades da Santa Casa da Misericórdia de Lisboa a ceder ao Serviço de Reabilitação Profissional do Ministério das Corporações e Previdência Social.
+Terrenos livres
+(ver documento original)
+Ministério da Saúde e Assistência, 21 de Março de 1968. - O Ministro da Saúde e Assistência, Francisco Pereira Neto de Carvalho.
