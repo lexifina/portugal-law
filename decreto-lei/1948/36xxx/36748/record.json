@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1948/02/03300/01140114.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1948-02-11",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "1a50ce78d31483a9ebebf068a932879b58bfcd79334b55b8a1b6893e08d0777d",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.9,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "b1e41fc39b7614456d24aac8f67e64021cb86ae37dca4af91112be351d78a406",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 144
 }
