@@ -1,0 +1,7 @@
+Portaria n.º 185/70
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
+1.º Nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar, com a importância de 50000$00, a verba do capítulo 10.º, artigo 314.º n.º 25) «Encargos gerais - Diversas despesas - Remunerações a abonar, nos termos do Decreto n.º 44732, de 26 de Novembro de 1962», da tabela de despesa ordinária do orçamento geral da província de Cabo Verde para o ano em curso, tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo 10.º, artigo 317.º «Encargos gerais - Saldo orçamental», da referida tabela de despesa.
+2.º Nos termos do artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, conjugado com o artigo 5.º do Decreto nº 40712, de 1 de Agosto de 1956, abrir um crédito especial da importância de 3000000$00, destinado a reforçar a verba do capítulo 12.º, artigo 2887.º, n.º 2), alínea h) «Despesa extraordinária - Outras despesas extraordinárias - Diversos - Execução do programa de instalações prisionais», da tabela de despesa extraordinária do orçamento geral da província de Moçambique para o ano em curso, tomando como contrapartida o saldo das contas de exercícios findos.
+Ministério do Ultramar, 9 de Abril de 1970. - Pelo Ministro do Ultramar, Leão Maria de Tavares Rosado do Sacramento Monteiro, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada nos Boletins Oficiais de Cabo Verde e Moçambique. - Sacramento Monteiro.
