@@ -1,0 +1,11 @@
+Portaria n.º 19285
+Considerando que deixaram de existir as razões que recomendavam que os estudos complementares de cada campanha das Missões Geográficas de Angola e de Moçambique fossem normalmente efectuados na metrópole;
+Considerando que tanto numa como na outra das citadas províncias se verifica existirem as condições necessárias para que as referidas missões geográficas passem a executar ali a quase totalidade dos trabalhos complementares que vinham efectuar na metrópole e que desta forma ficará assegurado o melhor aproveitamento do tempo para os trabalhos de campo e a permanente articulação entre estes e os de gabinete:
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do § 3.º do artigo 32.º do Decreto-Lei n.º 35395, de 26 de Dezembro de 1945, o seguinte:
+1.º Ficam instaladas em Angola e Moçambique as sedes das respectivas missões geográficas.
+2.º Os trabalhos de gabinete complementares de cada campanha e a elaboração dos relatórios ou de outros trabalhos de gabinete das Missões Geográficas de Angola e de Moçambique serão normalmente efectuados na respectiva província.
+3.º A deslocação à metrópole de qualquer dos membros da missão, para fins relacionados com a execução dos seus programas de trabalho, só será autorizada com o parecer favorável dos governadores-gerais respectivos.
+4.º Ficam revogadas as disposições em contrário.
+Ministério do Ultramar, 19 de Julho de 1962. - O Ministro do Ultramar, Adriano José Alves Moreira.
+
+Para ser publicada no Boletim Oficial de Angola e Moçambique. - A. Moreira.
