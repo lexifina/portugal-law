@@ -1,0 +1,10 @@
+Decreto-Lei n.º 44303
+Tendo diversas empresas e entidades manifestado ao Governo, repetidas vezes, o desejo de porem à sua disposição fundos que permitissem estimular a investigação científica sobre matérias relacionadas com a actividade financeira do Estado, julgou o Governo oportuno que o Ministério das Finanças criasse as condições necessárias para aproveitar aquela sugestão e os referidos meios materiais para dar execução a uma ideia que se afigura do maior alcance para o progresso da administração financeira portuguesa.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É criado, para ser atribuído pelo Ministério das Finanças, um prémio anual para o melhor trabalho sobre tema histórico, económico, financeiro ou jurídico relacionado com a actividade deste departamento de Estado.
+§ único. A designação do prémio será objecto de portaria do Ministro das Finanças.
+Art. 2.º O prémio será de 50000$00, saindo a respectiva importância de fundos postos à disposição do Governo por qualquer empresa, ou entidade pública ou particular, cuja colaboração para o efeito seja julgada útil em despacho do Ministro das Finanças.
+Art. 3.º As condições de abertura do concurso, de admissão de candidaturas e de atribuição do prémio, bem como o processo de constituição e funcionamento do respectivo júri, serão fixados em portaria pelo Ministro das Finanças.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 27 de Abril de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
