@@ -1,0 +1,3 @@
+Resolução n.º 215/82
+O Conselho de Ministros, reunido em 16 de Novembro de 1982, resolveu nomear, sob proposta do Ministro de Estado e das Finanças e do Plano e ouvido o Banco de Portugal, ao abrigo do n.º 2 do artigo 14.º dos estatutos da PAREMPRESA, Sociedade Parabancária para a Recuperação de Empresas, S. A. R. L., aprovados pelo Decreto-Lei n.º 125/79, de 10 de Maio, com a redacção dada pelo Decreto-Lei n.º 310/79, de 20 de Agosto, para presidente do conselho de administração da empresa a Dra. Maria Isaura Anjos Lopes Trindade Calha.
+Presidência do Conselho de Ministros. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.
