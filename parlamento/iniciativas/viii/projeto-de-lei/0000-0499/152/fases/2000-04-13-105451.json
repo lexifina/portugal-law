@@ -1,0 +1,996 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "152",
+    "id": "6136",
+    "titulo": "Regula o direito de voto dos emigrantes nas eleições presidênciais"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2000-04-13",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1753",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2000-04-13",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "6135",
+        "leg": "VIII",
+        "nr": "153",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "420",
+            "obs": null,
+            "pag": [
+              "2183-2208"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-04-14",
+            "pubLeg": "VIII",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/054/2000-04-14/2183?pgs=2183-2208&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "420",
+            "obs": null,
+            "pag": [
+              "2183-2208"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-04-14",
+            "pubLeg": "VIII",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/054/2000-04-14/2183?pgs=2183-2208&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Regula o processo de votação na eleição do Presidente da República dos cidadãos portugueses não residentes no território nacional"
+      },
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "6141",
+        "leg": "VIII",
+        "nr": "19",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "420",
+            "obs": null,
+            "pag": [
+              "2183-2208"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-04-14",
+            "pubLeg": "VIII",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/054/2000-04-14/2183?pgs=2183-2208&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "420",
+            "obs": null,
+            "pag": [
+              "2183-2208"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-04-14",
+            "pubLeg": "VIII",
+            "pubNr": "54",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/054/2000-04-14/2183?pgs=2183-2208&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Regula o voto dos cidadãos portugueses residentes no estrangeiro na eleição do Presidente da Republica e alarga as situações de voto antecipado alterando o Decreto-lei n°319-A/ 76 de 3 de Maio"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-04-13",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28269",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2207-2208"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-04-14",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/054/2000-04-14/2207?pgs=2207-2208&org=PLC"
+              }
+            ],
+            "sumario": "REGULA A ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESES RESIDENTES NO ESTRANGEIRO, ALTERACAO DO DL.319-A/76DE 3 DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1741",
+                "nome": "Paulo Pisco"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28270",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2205-2207"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-04-14",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/054/2000-04-14/2205?pgs=2205-2207&org=PLC"
+              }
+            ],
+            "sumario": "REGULA A ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESES RESIDENTES NO ESTRANGEIRO, ALTERACAO DO DL.319-A/76DE 3 DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28271",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2203-2205"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-04-14",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/054/2000-04-14/2203?pgs=2203-2205&org=PLC"
+              }
+            ],
+            "sumario": "REGULA A ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESES RESIDENTES NO ESTRANGEIRO, ALTERACAO DO DL.319-A/76DE 3 DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28272",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2202-2203"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-04-14",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/054/2000-04-14/2202?pgs=2202-2203&org=PLC"
+              }
+            ],
+            "sumario": "REGULA A ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESES RESIDENTES NO ESTRANGEIRO, ALTERACAO DO DL.319-A/76DE 3 DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28273",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2200-2202"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-04-14",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/054/2000-04-14/2200?pgs=2200-2202&org=PLC"
+              }
+            ],
+            "sumario": "REGULA A ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESES RESIDENTES NO ESTRANGEIRO, ALTERACAO DO DL.319-A/76DE 3 DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28274",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2196-2200"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-04-14",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/054/2000-04-14/2196?pgs=2196-2200&org=PLC"
+              }
+            ],
+            "sumario": "REGULA A ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESES RESIDENTES NO ESTRANGEIRO, ALTERACAO DO DL.319-A/76DE 3 DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "117",
+                "nome": "Maria Manuela Aguiar"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28275",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2196-2198"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-04-14",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/054/2000-04-14/2196?pgs=2196-2198&org=PLC"
+              }
+            ],
+            "sumario": "REGULA A ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESES RESIDENTES NO ESTRANGEIRO, ALTERACAO DO DL.319-A/76DE 3 DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28276",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2194-2196"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-04-14",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/054/2000-04-14/2194?pgs=2194-2196&org=PLC"
+              }
+            ],
+            "sumario": "REGULA A ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESES RESIDENTES NO ESTRANGEIRO, ALTERACAO DO DL.319-A/76DE 3 DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "117",
+                "nome": "Maria Manuela Aguiar"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28277",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2191-2193"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-04-14",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/054/2000-04-14/2191?pgs=2191-2193&org=PLC"
+              }
+            ],
+            "sumario": "REGULA A ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESES RESIDENTES NO ESTRANGEIRO, ALTERACAO DO DL.319-A/76DE 3 DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "235",
+                "nome": "Manuel Alegre"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28278",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2190-2190"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-04-14",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/054/2000-04-14/2190?pgs=2190&org=PLC"
+              }
+            ],
+            "sumario": "REGULA A ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESES RESIDENTES NO ESTRANGEIRO, ALTERACAO DO DL.319-A/76DE 3 DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28279",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2189-2190"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-04-14",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/054/2000-04-14/2189?pgs=2189-2190&org=PLC"
+              }
+            ],
+            "sumario": "REGULA A ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESES RESIDENTES NO ESTRANGEIRO, ALTERACAO DO DL.319-A/76DE 3 DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28280",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2189-2189"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-04-14",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/054/2000-04-14/2189?pgs=2189&org=PLC"
+              }
+            ],
+            "sumario": "REGULA A ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESES RESIDENTES NO ESTRANGEIRO, ALTERACAO DO DL.319-A/76DE 3 DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "1798",
+                "nome": "Fernando Pésinho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28281",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2188-2188"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-04-14",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/054/2000-04-14/2188?pgs=2188&org=PLC"
+              }
+            ],
+            "sumario": "REGULA A ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESES RESIDENTES NO ESTRANGEIRO, ALTERACAO DO DL.319-A/76DE 3 DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "77",
+                "nome": "José Cesário"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28282",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2187-2188"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-04-14",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/054/2000-04-14/2187?pgs=2187-2188&org=PLC"
+              }
+            ],
+            "sumario": "REGULA A ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESES RESIDENTES NO ESTRANGEIRO, ALTERACAO DO DL.319-A/76DE 3 DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28283",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2186-2187",
+                  "2193-2193",
+                  "2199-2199",
+                  "2202-2203",
+                  "2206-2206"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-04-14",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/054/2000-04-14/2186?pgs=2186-2187,2193,2199,2202-2203,2206&org=PLC"
+              }
+            ],
+            "sumario": "REGULA A ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESES RESIDENTES NO ESTRANGEIRO, ALTERACAO DO DL.319-A/76DE 3 DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28284",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2183-2186",
+                  "2188-2191",
+                  "2207-2207"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-04-14",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/054/2000-04-14/2183?pgs=2183-2186,2188-2191,2207&org=PLC"
+              }
+            ],
+            "sumario": "REGULA A ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESES RESIDENTES NO ESTRANGEIRO, ALTERACAO DO DL.319-A/76DE 3 DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA REFORMA  DO ESTADO E DA ADMINISTRAÇÃO PÚBLICA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Alberto Martins"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107463",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2183-2186",
+                  "2188-2191",
+                  "2207-2207"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-04-14",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/054/2000-04-14/2183?pgs=2183-2186,2188-2191,2207&org=PLC"
+              }
+            ],
+            "sumario": "REGULA A ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESES RESIDENTES NO ESTRANGEIRO, ALTERACAO DO DL.319-A/76DE 3 DE MAIO",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "105451",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "111245",
+        "obs": null,
+        "pag": [
+          "2183-2208"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-04-14",
+        "pubLeg": "VIII",
+        "pubNr": "54",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/054/2000-04-14/2183?pgs=2183-2208&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
