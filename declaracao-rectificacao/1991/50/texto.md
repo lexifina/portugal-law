@@ -1,0 +1,3 @@
+Declaração de rectificação n.º 50/91
+Segundo comunicação da 5.ª Delegação da Direcção-Geral da Contabilidade Pública junto do Ministério da Justiça, relativamente à Declaração n.º 24/91, publicada no Diário da República, n.º 43, de 21 de Fevereiro de 1991, cujo original se encontra arquivado nesta Secretaria-Geral, saiu, por lapso, repetido, nas pp. 872 e 873, o código da classificação económica 01.02.04 do cap. 01, div. 04, C. F. 1.03.0, «Ajudas de custo», com o reforço de «150 contos», pelo que deve considerar-se sem efeito o da p. 873.
+Secretaria-Geral da Presidência do Conselho de Ministros, 22 de Março de 1991. - O Secretário-Geral, França Martins.
