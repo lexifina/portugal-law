@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo informação da Embaixada da Suíça em Lisboa, o Governo da Suíça depositou, em 21 de Julho de 1972, o seu instrumento de ratificação das Convenções Internacionais Relativas ao Transporte de Mercadorias por Caminhos de Ferro (CIM) e ao Transporte de Passageiros e de Bagagens por Caminho da Ferro (CIV), bem como o Protocolo adicional às referidas Convenções e o Protocolo Relativo às Despesas do Serviço Central dos Estados Partes nas Convenções CIM e CIV, concluídos em Berna em 7 de Fevereiro de 1970.
+Direcção-Geral dos Negócios Económicos, 12 de Setembro de 1972. - O Adjunto do Director-Geral, Luiz Alberto de Vasconcelos Góis Fernandes Figueira.
