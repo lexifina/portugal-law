@@ -4,7 +4,7 @@
 
 1 - O arguido pode constituir advogado em qualquer altura do processo.
 
-2 - Nos casos em que a lei determinar que o arguido seja assistido por defensor e aquele o não tiver constituído ou o não constituir, o juiz nomeia-lhe advogado ou advogado estagiário, mas o defensor nomeado cessa funções logo que o arguido constituir advogado. Excepcionalmente, em caso de urgência e não sendo possível a nomeação de advogado ou de advogado estagiário, poderá ser nomeada pessoa idónea, de preferência licenciado em Direito, a qual cessa funções logo que seja possível nomear advogado ou advogado estagiário.
+2 - Nos casos em que a lei determinar que o arguido seja assistido por defensor e aquele o não tiver constituído ou o não constituir, o juiz nomeia-lhe advogado ou advogado estagiário, mas o defensor nomeado cessa funções logo que o arguido constituir advogado.
 
 3 - A nomeação referida no número anterior pode ser feita:
 
