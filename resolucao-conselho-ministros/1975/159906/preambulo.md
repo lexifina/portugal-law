@@ -1,0 +1,29 @@
+Resolução do Conselho de Ministros
+
+O Conselho de Ministros, reunido em 30 de Janeiro de 1975, resolveu:
+
+1. As conversações preparatórias e as negociações entre Portugal e as Comunidades Europeias formalmente acordadas na recente reunião em Lisboa da Comissão Mista que funciona ao abrigo do acordo existente vão desenvolver-se em ritmo acelerado, conforme decidido por ambas as partes, tendo em vista a necessidade de criar novas condições para intensificar a cooperação existente entre Portugal e as Comunidades Europeias e alargá-la, sempre que possível, a outros sectores, de modo a abrir à economia portuguesa mais amplas perspectivas para o seu desenvolvimento.
+
+2. Nesta ordem de ideias, torna-se indispensável que os estudos que a Administração terá de preparar para as negociações sejam realizados por forma prática e expedita, até porque se pretende evitar, nesta fase de contactos com a CEE, que se levantem questões que envolvam discussão de problemas de natureza global, designadamente quanto a aspectos institucionais. O âmbito mais restrito que se visa não dispensa, porém, a existência de um instrumento capaz de dar resposta aos problemas postos.
+
+3. Um tal instrumento enquadra-se no conjunto das funções cometidas à Comissão Interministerial de Cooperação Económica Externa. Todavia, dadas as indiscutíveis vantagens de ordem funcional e técnica, afigura-se conveniente dispor de um mecanismo homólogo ao que as próprias Comunidades já estabeleceram para as novas negociações com Portugal.
+
+4. Nestes termos, é criado no quadro da referida Comissão Interministerial um grupo de trabalho especial para estudar e coordenar os elementos fornecidos pelos diferentes departamentos do Estado e preparar a apresentação dos pontos de vista portugueses. A acção desse Grupo terá carácter prioritário e, se necessário, funcionará por sectores de actividade.
+
+5. O Grupo de Trabalho Especial será presidido pelo presidente da Comissão Interministerial de Cooperação Económica Externa - a quem caberá promover e dinamizar os trabalhos do Grupo - e deverá incluir, além de um vice-presidente, a designar pelo Ministro da Economia, um representante de cada um dos seguintes departamentos:
+
+Ministério das Finanças - Secretaria de Estado do Tesouro, Secretaria de Estado do Planeamento e Secretaria de Estado do Orçamento (Direcção-Geral das Alfândegas);
+
+Ministério da Economia - cada uma das Secretarias de Estado;
+
+Ministério dos Negócios Estrangeiros;
+
+Ministério do Trabalho - Secretaria de Estado da Emigração;
+
+Ministério dos Assuntos Sociais - Secretaria de Estado da Segurança Social.
+
+6. Deve entender-se que o representante de cada um dos Ministérios ou Secretarias de Estado deverá igualmente funcionar como eficaz elemento de ligação com os respectivos serviços, os quais deverão prestar-lhe a colaboração indispensável ao cabal desempenho das suas funções. Esses representantes poderão agregar a si delegados dos serviços directamente competentes nas matérias em apreciação.
+
+7. O grupo de trabalho especial ficará adstrito ao Gabinete do Ministro da Economia e ficará instalada na Comissão Interministerial de Cooperação Económica Externa, que assegurará todo o expediente daquela e a cujo cargo ficam as respectivas despesas.
+
+8. Incumbe ao Ministro da Economia assegurar a execução desta resolução.
