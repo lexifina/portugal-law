@@ -1,0 +1,4 @@
+Aviso n.º 89/91
+Por ordem superior se torna público que a Jugoslávia, a Checoslováquia, a Noruega, a Guiana, o Ruanda, a Colômbia, a Costa do Marfim, Chipre e as Maldivas depositaram junto do Secretário-Geral das Nações Unidas, respectivamente em 3 de Janeiro, 7 de Janeiro, 8 de Janeiro, 14 de Janeiro, 24 de Janeiro, 28 de Janeiro, 4 de Fevereiro, 7 de Fevereiro e 11 de Fevereiro de 1991, os instrumentos de ratificação da Convenção sobre os Direitos da Criança, adoptada pela assembleia geral das Nações Unidas em 20 de Novembro de 1989.
+Em 2 de Janeiro de 1991, o Malawi depositou junto do Secretário-Geral das Nações Unidas o instrumento de adesão à Convenção sobre os Direitos da Criança.
+Direcção-Geral dos Negócios Político-Económicos, 16 de Maio de 1991. - O Director dos Serviços de Assuntos Multilaterais, António Nunes de Carvalho Santana Carlos.
