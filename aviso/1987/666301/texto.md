@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que o Ministério dos Negócios Estrangeiros enviou à Embaixada da República Popular da Bulgária em Lisboa uma nota verbal datada de 17 de Março de 1987 informando que a parte portuguesa deu já cumprimento às formalidades constitucionais relativas à elaboração e entrada em vigor do Acordo entre o Governo da República Portuguesa e o Governo da República Popular da Bulgária sobre Transportes Rodoviários Internacionais de Pessoas e Mercadorias por Estrada, assinado em Sófia em 21 de Março de 1979 e publicado no Diário da República, 1.ª série, n.º 207, de 9 de Setembro de 1985.
+A Embaixada da República Popular da Bulgária enviou ao Ministério dos Negócios Estrangeiros da República Portuguesa uma nota verbal datada de 13 de Março de 1987 informando estarem cumpridas as mesmas formalidades pela parte búlgara.
+Nesta conformidade, e segundo o disposto no n.º 1 do artigo 20.º, o Acordo em apreço entra em vigor em 17 de Abril de 1987.
+Direcção-Geral dos Negócios Político-Económicos, 26 de Março de 1987. - O Director-Geral, José Cutileiro.
