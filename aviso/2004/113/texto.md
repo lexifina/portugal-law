@@ -1,0 +1,5 @@
+Aviso n.º 113/2004
+Por ordem superior se torna público que, a 14 de Abril de 2004, os Emirados Árabes Unidos depositaram o seu instrumento de adesão ao Acto de Paris, da Convenção de Berna para a Protecção das Obras Literárias e Artísticas (de 9 de Setembro de 1886, revista em 24 de Julho de 1971 e modificada em 28 de Setembro de 1979), de 24 de Julho de 1971.
+Portugal é parte do mesmo Acto, aprovado, para adesão, pelo Decreto n.º 73/78, publicado no Diário da República, 1.ª série-A, n.º 170, de 26 de Julho de 1978, tendo aderido em 10 de Outubro de 1978, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 1, de 2 de Janeiro de 1979, e tendo o Acto entrado em vigor em 12 de Janeiro de 1979 (Diário da República, 1.ª série-A, n.º 1, de 2 de Janeiro de 1979).
+O Acto de Paris entrará em vigor para os Emirados Árabes Unidos a 14 de Julho de 2004.
+Direcção-Geral dos Assuntos Multilaterais, 19 de Maio de 2004. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
