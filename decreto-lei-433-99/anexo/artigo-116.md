@@ -4,7 +4,7 @@
 
 1 - Poderá haver prova pericial no processo de impugnação judicial sempre que o juiz entenda necessário o parecer de técnicos especializados.
 
-2 - A realização da perícia será ordenada pelo juiz, oficiosamente ou a pedido do impugnante ou do representante da Fazenda Pública formulado, respectivamente, na petição inicial e na apreciação referida no n.º 4 do artigo 111.º
+2 - A realização da perícia é ordenada pelo juiz, oficiosamente ou a pedido do impugnante ou do representante da Fazenda Pública, formulado, respectivamente, na petição inicial e na contestação.
 
 3 - A perícia poderá também ser requerida no prazo de 20 dias após a notificação das informações oficiais, se a elas houver lugar.
 

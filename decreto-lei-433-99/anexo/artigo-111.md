@@ -1,23 +1,17 @@
 # Artigo 111.º
 
-### Apreciação da impugnação
+### Organização do processo administrativo
 
-1 - Caso dispuser dos elementos necessários e a questão for de manifesta simplicidade, poderá o dirigente do órgão periférico local da administração tributária, no prazo referido no n.º 4 do artigo anterior, deferir de imediato o pedido do contribuinte, caso se mostrem reunidos os respectivos pressupostos legais.
+1 - O órgão periférico local da situação dos bens ou da liquidação deve organizar o processo e remetê-lo ao representante da Fazenda Pública, no prazo de 30 dias a contar do pedido que lhe seja feito por aquele, sem prejuízo do disposto no artigo seguinte.
 
-2 - O dirigente máximo do serviço poderá esclarecer genericamente as questões de manifesta simplicidade previstas no número anterior.
+2 - Ao órgão referido no número anterior compete, designadamente, instruir o processo com os seguintes elementos:
 
-3 - Caso não se verifiquem as circunstâncias referidas no número anterior, deverá o órgão instrutor remeter o processo de impugnação para a entidade competente para a sua apreciação.
+a) A informação da inspecção tributária sobre a matéria de facto considerada pertinente;
 
-4 - Recebido o processo, o dirigente do órgão periférico regional da administração tributária apreciará o pedido.
+b) A informação prestada pelos serviços da administração tributária sobre os elementos oficiais que digam respeito à colecta impugnada e sobre a restante matéria do pedido;
 
-5 - A entidade referida no número anterior arquivará o processo, em caso de total revogação do acto impugnado.
+c) Outros documentos de que disponha e repute convenientes para o julgamento, incluindo, quando já tenha sido resolvido, procedimento de reclamação graciosa relativamente ao mesmo acto.
 
-6 - No caso de o acto impugnado ser revogado parcialmente, deverá notificar-se o impugnante para, no prazo de 8 dias, se pronunciar, prosseguindo o processo se o impugnante nada disser ou declarar que mantém a impugnação no prazo igualmente de 8 dias.
+3 - Caso haja sido apresentada, anteriormente à recepção da petição de impugnação, reclamação graciosa relativamente ao mesmo acto, esta deve ser apensa à impugnação judicial, no estado em que se encontrar, sendo considerada, para todos os efeitos, no âmbito do processo de impugnação.
 
-7 - Sempre que, antes da impugnação, já tiver sido resolvida reclamação graciosa com o mesmo objecto, o processo será de imediato remetido a tribunal.
-
-8 - Caso tenha sido ou seja posteriormente apresentada reclamação graciosa com o mesmo objecto, antes da entrada do processo no tribunal, será aquela apensada para efeitos do n.º 4.
-
-9 - Se, após a remessa do processo a tribunal, for apresentada reclamação graciosa ou recurso hierárquico com o mesmo objecto, estes serão apensados à impugnação e tomados em consideração na decisão final.
-
-10 - A competência referida no presente artigo poderá ser delegada pela entidade competente para a apreciação em funcionário qualificado.
+4 - Caso, posteriormente à recepção da petição de impugnação, seja apresentada reclamação graciosa relativamente ao mesmo acto e com diverso fundamento, deve esta ser apensa à impugnação judicial, sendo igualmente considerada, para todos os efeitos, no âmbito do processo de impugnação.

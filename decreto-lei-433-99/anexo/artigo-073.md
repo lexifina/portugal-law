@@ -8,7 +8,7 @@
 
 3 - Não haverá instrução, caso a entidade referida no número anterior disponha de todos os elementos necessários para a decisão.
 
-4 - Caso a questão a resolver seja de manifesta simplicidade, o órgão periférico local decidirá de imediato após o fim da instrução, caso esta tenha tido lugar.
+4 - Caso o valor do processo não exceda o quíntuplo da alçada do tribunal tributário de 1.ª instância e a questão a resolver seja de manifesta simplicidade, o órgão periférico local decidirá de imediato após o fim da instrução, caso esta tenha tido lugar.
 
 5 - Caso não se verifiquem as circunstâncias referidas no número anterior, o órgão periférico local remeterá de imediato a reclamação para o órgão competente para a decisão.
 
