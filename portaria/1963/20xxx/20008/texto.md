@@ -1,0 +1,5 @@
+Portaria n.º 20008
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar com 20000$00 a verba do capítulo 10.º, artigo 290.º, n.º 13) «Encargos gerais - Outros encargos - Para fazer face aos encargos resultantes de conferências internacionais e organismos delas derivados e outras despesas correlativas», da tabela de despesa ordinária do orçamento geral em vigor na província de S. Tomé e Príncipe, tomando como contrapartida as disponibilidades existentes na verba do capítulo 11.º, artigo 302.º «Exercícios findos - Para pagamento das despesas de exercícios findos referidas no artigo 57.º do Decreto n.º 17881, de 11 de Janeiro de 1930, e legislação que posteriormente aditou ou alterou tal disposição», da mesma tabela de despesa.
+Ministério do Ultramar, 14 de Agosto de 1963. - Pelo Ministro do Ultramar, Joaquim Moreira da Silva Cunha, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de S. Tomé e Príncipe. - J. Silva Cunha.
