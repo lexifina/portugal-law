@@ -1,0 +1,15 @@
+# Resolução n.º 904/2001
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 59/2001, de 2001-07-12
+
+**Sumário:** Autoriza a Secretaria Regional do Plano e Finanças a proceder, junto do Banco Comercial Português, S.A., à liquidação da importância de 62.552.856$00.
+
+## Texto
+
+Resolução n.º 904/2001
+O Conselho do Governo reunido em plenário em 5 de Julho de 2001, resolveu:
+Autorizar a Secretaria Regional do Plano e Finanças a proceder junto do Banco Comercial Português, S.A., à liquidação da importância de 62.552.856$00, referente ao pagamento da 5ª. prestação de juros do Empréstimo Interno de Longo Prazo, contraído pela Região Autónoma da Madeira na modalidade de crédito Directo no dia 30 de Dezembro de 1998, cujo vencimento ocorre no dia 15 de Julho de 2001.
+Esta despesa tem cabimento orçamental na Secretaria 09, Capítulo 01, Divisão 01, Subdivisão 00, Classificação Económica 03.01.04 (Juros - Instituições de Crédito).
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Alberto João Cardoso Gonçalves Jardim.
