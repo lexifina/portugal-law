@@ -4,7 +4,7 @@
 
 1 - Os juízes do Tribunal Constitucional elegem de entre si o presidente e o vice-presidente do Tribunal Constitucional.
 
-2 - A eleição do presidente e do vice-presidente só pode realizar-se estando preenchidos todos os lugares de juiz do Tribunal.
+2 - Eliminado.
 
 3 - A eleição do presidente precede a do vice-presidente quando os 2 lugares se encontrem vagos.
 

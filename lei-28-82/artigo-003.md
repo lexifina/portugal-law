@@ -1,6 +1,6 @@
 # Artigo 3.º
 
-### (Publicação das decisões)
+### Publicação das decisões
 
 1 - São publicadas na 1.ª série do Diário da República as decisões do Tribunal Constitucional que tenham por objecto:
 
@@ -16,6 +16,6 @@ e) Verificar a morte ou a incapacidade para o exercício da função presidencia
 
 f) Declarar que uma qualquer organização perfilha a ideologia fascista e decretar a respectiva extinção;
 
-g) Verificar a constitucionalidade e a legalidade das consultas directas aos eleitores a nível local.
+g) Verificar a constitucionalidade e a legalidade das propostas de referendo e das consultas directas aos eleitores a nível local.
 
-2 - São publicadas na 2.ª série do Diário da República as demais decisões do Tribunal Constitucional, salvo as de natureza meramente interlocutória.
+2 - São publicadas na 2.ª série do Diário da República as demais decisões do Tribunal Constitucional, salvo as de natureza meramente interlocutória ou simplesmente repetitivas de outras anteriores.

@@ -1,6 +1,4 @@
-## Subsecção II
-
-## Outros processos eleitorais
+## Secção II
 
 # Artigo 101.º
 
