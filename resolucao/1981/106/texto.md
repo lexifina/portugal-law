@@ -1,0 +1,3 @@
+Resolução n.º 106/81
+O Conselho de Ministros, reunido em 12 de Maio de 1981, depois de cumprido o disposto no n.º 1, in fine, do artigo 10.º dos Estatutos da Companhia Portuguesa de Transportes Marítimos, E. P., aprovados pelo artigo 6.º do Decreto-Lei n.º 77/80, de 16 de Abril, e sob proposta do Ministro dos Transportes e Comunicações, resolveu nomear o Dr. António José do Amaral Ferreira de Lemos para vogal do conselho de gerência da CTM - Companhia Portuguesa de Transportes Marítimos, E. P.
+Presidência do Conselho de Ministros, 12 de Maio de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
