@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Gabinete do Ministro da República para a Região Autónoma dos Açores, o Decreto Regulamentar Regional n.º 17/80/A, publicado no Diário da República, 1.ª série, n.º 81, de 7 de Abril de 1980, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No mapa anexo ao decreto, onde se lê: «Conselheiro de orientação profissional de 2.ª classe, de 1.ª classe ou principal - J, H, G ou F», «Promotor estagiário de 2.ª classe, de 1.ª classe ou principal» e «Cozinheiro-ajudante de 2.ª classe, de 1.ª classe ou chefe (e)», deve ler-se: «Conselheiro de orientação profissional de 2.ª classe, de 1.ª classe ou principal - G, E ou D», «Promotor estagiário, de 2.ª classe, de 1.ª classe ou principal» e «Cozinheiro-ajudante, de 2.ª classe, de 1.ª classe ou chefe (e)».
+Secretaria-Geral da Presidência do Conselho de Ministros, 13 de Maio de 1980. - O Secretário-Geral, França Martins.
