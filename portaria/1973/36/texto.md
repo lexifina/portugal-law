@@ -1,0 +1,8 @@
+Portaria n.º 36/73
+de 20 de Janeiro
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
+1) Nos termos do artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, conjugado com o artigo 14.º do mesmo diploma e sua alínea e), com a nova redacção dada pelo artigo 4.º do Decreto n.º 40712, de 1 de Agosto de 1956, e artigo 5.º deste último diploma, abrir um crédito especial de $500000,00, a inscrever em adicional à tabela de despesa extraordinária do orçamento geral da província de Macau para o ano económico de 1972, destinado à concessão de um subsídio de igual importância ao Leal Senado de Macau para satisfação de diversas despesas, tomando como contrapartida o excesso de cobrança sobre a previsão da receita do capítulo 5.º, artigo 39.º, aliena c) «Domínio privado, empresas e indústrias do Estado, participação de lucros - Rendimento do exclusivo das corridas de galgos - Comparticipação no rendimento», do orçamento da receita ordinária para o mesmo ano económico;
+2) Nos termos do artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, conjugado com o artigo 5.º do Decreto n.º 40712, de 1 de Agosto de 1956, abrir um crédito especial da importância de 9000000$00, a inscrever em adicional à tabela de despesa extraordinária do orçamento geral da província de Timor para o ano económico de 1972, destinado ao pagamento das despesas com o afretamento de aviões para a carreira Baucau-Darwin, tomando como contrapartida os saldos das contas de exercícios findos.
+Ministério do Ultramar, 11 de Janeiro de 1973. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada nos Boletins Oficiais de Macau e Timor. - J. da Silva Cunha.
