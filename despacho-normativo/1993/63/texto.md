@@ -1,0 +1,6 @@
+Despacho Normativo n.º 63/93
+O Programa Operacional Prisma, aprovado pela Decisão da Comissão C (92) 128, de 30 de Janeiro de 1992, cujo Regulamento de Aplicação foi aprovado pelo Despacho Normativo n.º 213/92, de 26 de Outubro, publicado no Diário da República, de 13 de Novembro de 1992, tem como objectivo promover a adaptação das empresas às novas condições de concorrência do mercado único europeu nos domínios da certificação e metrologia e da melhoria da competitividade dos sectores industriais.
+Considerando a vigência do Programa Prisma até 31 de Dezembro de 1993 e os prazos normais que decorrem desde a apresentação das candidaturas até à sua aprovação, para que seja possível cumprir os compromissos assumidos com a Comunidade no âmbito do referido Programa:
+Determina-se o seguinte:
+O prazo para a apresentação de novas candidaturas às medidas A e B do Programa Operacional Prisma, cujo Regulamento de Aplicação foi aprovado pelo Despacho Normativo n.º 213/92, de 26 de Outubro, termina no dia 30 de Abril de 1993.
+Ministérios do Planeamento e da Administração do Território e da Indústria e Energia, 22 de Março de 1993. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
