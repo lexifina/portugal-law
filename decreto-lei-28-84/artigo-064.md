@@ -10,9 +10,9 @@ b) A exposição de bens que, por unidade, devam ter certo peso ou medida, quand
 
 c) A falta, inexactidão ou deficiência nos rótulos das embalagens de indicações legalmente obrigatórias;
 
-d) A falta de indicação dos preços de venda ao público dos bens expostos nos locais onde aquela se efectue, indicação feita por forma insuficientemente visível ou legível para o consumidor, nas condições normais de compra, bem como a não observância de preceitos especiais sobre a matéria;
+d) (Revogada);
 
-e) A falta de indicação dos preços dos serviços nos locais onde os mesmos são normalmente prestados ou oferecidos ao público, indicação feita por forma insuficientemente visível ou legível para o consumidor ou utente, bem como a não observância de preceitos especiais sobre a matéria;
+e) (Revogada).
 
 f) A falta de tabelas relativas às condições de venda nos termos legalmente exigidos.
 
