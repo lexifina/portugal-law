@@ -1,0 +1,32 @@
+Lei n.º 12/83
+de 24 de Agosto
+Autorização legislativa ao Governo em matéria penal e processual penal
+A Assembleia da República decreta, nos termos dos artigos 164.º, alínea e), 168.º, n.º 1, alíneas c), u) e v), e 169.º, n.º 2, da Constituição, o seguinte:
+ARTIGO 1.º
+É concedida ao Governo autorização legislativa para alterar os regimes em vigor, tipificando novos ilícitos penais e contravencionais, definindo novas penas, ou modificando as actuais, tomando para o efeito, como ponto de referência, a dosimetria do Código Penal, nas seguintes áreas:
+a) Em matéria de infracções antieconómicas e contra a saúde pública;
+b) Em matéria de delitos de corrupção, tráfico de influências e outras fraudes que ponham em causa a moralidade da Administração Pública;
+c) Em matéria de consumo e tráfico ilícito de drogas;
+d) Em matéria de responsabilidade dos membros dos órgãos do Estado, dos agentes da administração central, regional e local e dos órgãos das empresas do sector empresarial do Estado.
+ARTIGO 2.º
+É o Governo igualmente autorizado a alterar o regime jurídico das contra-ordenações, seus processos e sanções, previstos, designadamente nos Decretos-Leis n.os 191/83, de 16 de Maio, e 433/82, de 27 de Outubro, para o qual aquele remete.
+ARTIGO 3.º
+É ainda o Governo autorizado a alterar a legislação processual penal em vigor, a fim de a adequar ao novo Código Penal e de tornar mais eficiente e mais célere a instrução criminal, a acusação e o julgamento dos delinquentes.
+ARTIGO 4.º
+O sentido das autorizações constantes dos artigos anteriores é:
+a) Quanto às infracções antieconómicas e contra a saúde pública, a obtenção de maior celeridade e eficácia na prevenção e repressão deste tipo de infracções, nomeadamente actualizando o regime em vigor;
+b) Quanto aos delitos de corrupção, tráfico de influências e outras fraudes que ponham em causa a moralidade da Administração Pública, bem como a efectivação da responsabilidade dos agentes públicos, combater em geral a fraude e moralizar os comportamentos, efectivando a responsabilidade penal e civil dos agentes administrativos em adequação ao grau da sua responsabilidade funcional;
+c) Quanto ao consumo e tráfico ilícito de drogas, actualizar o regime em vigor, à luz da experiência interna e externa comparada, adequando a definição dos meios preventivos, dos ilícitos e da sua repressão, à gravidade de que o fenómeno presentemente se reveste;
+d) Quanto aos ilícitos de mera ordenação social, uma maior adaptação da sua regulamentação às novas realidades sociais e económicas, tendo em atenção o movimento de descriminalização de determinado tipo de infracções, às quais não deve ser conferida dignidade penal;
+e) Quanto ao processo penal, enquanto não é possível publicar o novo código, adequar a actual legislação aos preceitos substantivos do Código Penal, simplificar a tramitação de instrução criminal, a acusação e o julgamento dos delinquentes, sem prejuízo dos direitos fundamentais e garantias dos arguidos e da verdade material.
+ARTIGO 5.º
+A presente autorização legislativa caduca se não for utilizada dentro do prazo de 120 dias.
+ARTIGO 6.º
+A presente lei entra em vigor no dia imediato ao da sua publicação.
+Aprovada em 13 de Julho de 1983.
+O Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.
+Promulgada em 8 de Agosto de 1983.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendada em 9 de Agosto de 1983.
+O Primeiro-Ministro, Mário Soares.
