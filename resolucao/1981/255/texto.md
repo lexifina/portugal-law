@@ -1,0 +1,3 @@
+Resolução n.º 255/81
+O Conselho de Ministros, reunido em 26 de Novembro de 1981, resolveu, nos termos previstos no n.º 2 do artigo 6.º do pacto social da sociedade por quotas de responsabilidade limitada CONFRANPOR - Sociedade Franco-Portuguesa de Controle, Lda., exonerar, a seu pedido, do cargo de membro do conselho de gerência da referida Sociedade o engenheiro Eduardo Abranches de Magalhães e nomear para o mesmo cargo, assim preenchendo a vaga aberta, o Dr. Leonardo Eugénio Ramos Ribeiro de Almeida, devendo as referidas exoneração e nomeação produzir efeitos a partir de 1 de Janeiro de 1982.
+Presidência do Conselho de Ministros, 26 de Novembro de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
