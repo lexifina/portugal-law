@@ -1,0 +1,9 @@
+Rectificação
+Tendo sido publicado com inexactidão no suplemento ao Diário do Governo, 1.ª série, n.º 125, de 31 de Maio de 1975, pelos Ministérios das Finanças e do Comércio Externo, o anexo I ao Decreto-Lei n.º 271-A/75, determino que se façam as seguintes rectificações no anexo I:
+Onde se lê: «29.10.09», deve ler-se: «27.10.09».
+Onde se lê: «28.26», deve ler-se: «28.16».
+Onde se lê: «ex 32.07 - Outras matérias corantes; produtos orgânicos dos tipos utilizados como 'luminóforos' (com excepção do azul-ultramar - 32.07.01)», deve ler-se: «32.07.01 - Azul-ultramar».
+Onde se lê: «84.15.05 - Partes e peças separadas para armários e outros móveis produtores de frio», deve ler-se: «84.15.05 - Partes e peças separadas de material, máquinas e aparelhos produtores de frio, mesmo equipados electricamente: armários e outros móveis».
+Onde se lê: «ex 87.02 - Automóveis para transporte de pessoas ou de mercadorias, compreendendo os de corridas e os trolley-bus (excepto os destinados a carregamento, com caixa basculante - 87.02.01, ambulâncias - 87.02.02, de mais de 2500 Kg, destinados exclusivamente a trabalhos em estaleiros ou semelhantes - 87.02.13)», deve ler-se: «ex 87.02 - Automóveis para transporte de pessoas ou de mercadorias, compreendendo os de corridas e os trolley-bus (excepto os destinados a carroçamento, com caixa basculante - 87.02.01, ambulâncias - 87.02.07, de carga com caixa basculante de mais de 2500 Kg de peso, destinados exclusivamente a trabalhos em estaleiros ou semelhantes - 87.02.13)».
+Onde se lê: «89.02 - Embarcações especialmente concebidas para receber ou impelir outras embarcações», deve ler-se: «89.02 - Embarcações especialmente concebidas para rebocar ou impelir outras embarcações».
+Presidência do Conselho de Ministros, 27 de Junho de 1975. - O Primeiro-Ministro, Vasco dos Santos Gonçalves.
