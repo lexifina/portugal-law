@@ -1,0 +1,6 @@
+Aviso n.º 32/92
+Por ordem superior se torna público que, por nota de 17 de Fevereiro de 1992 e nos termos do artigo 45.º da Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, concluída na Haia a 25 de Outubro de 1980, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou terem os seguintes Estados declarado aceitar a adesão do Equador à referida Convenção:
+Os Estados Unidos da América, em 28 de Janeiro de 1992, e o Reino dos Países Baixos (para o Reino na Europa), em 4 de Fevereiro de 1992.
+Nos termos do artigo 38.º, parágrafo 5.º, a Convenção entrará em vigor entre o Equador e os Estados Unidos da América em 1 de Abril de 1992 e entre o Equador e o Reino dos Países Baixos (para o Reino na Europa) em 1 de Maio de 1992.
+Portugal é parte na mesma Convenção, que foi aprovada, para ratificação, pelo Decreto do Governo n.º 33/83, de 11 de Agosto, tendo depositado o seu instrumento de ratificação em 22 de Setembro de 1983, conforme aviso publicado no Diário da República, 1.ª série, n.º 126, de 31 de Maio de 1984. A Convenção vigora em Portugal desde 1 de Dezembro de 1983.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 6 de Março de 1992. - O Chefe do Serviço Jurídico e de Tratados, António Salgado Manso Preto Mendes Cruz.
