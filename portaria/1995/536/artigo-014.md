@@ -2,7 +2,7 @@
 
 ### Identificação
 
-1 - As pessoas a quem é feito o pagamento dos vales ou das autorizações de pagamento são identificadas mediante a apresentação do bilhete de identidade, passaporte ou outro documento que os CTT considerem idóneo para o efeito.
+1 - As pessoas a quem é feito o pagamento dos vales são identificadas mediante a apresentação do bilhete de identidade, passaporte ou outro documento que os CTT considerem idóneo para o efeito.
 
 2 - Quando o pagamento é efectuado ao representante legal ou voluntário, deve ainda ser apresentado documento comprovativo dos poderes de representação.
 

@@ -8,7 +8,7 @@ a) Os vales que não contenham os requisitos constantes no artigo 4.º;
 
 b) Os vales que estejam preenchidos de forma a suscitar dúvidas;
 
-c) Os vales e as autorizações de pagamento que tenham excedido o prazo de validade.
+c) Os vales que tenham excedido o prazo de validade.
 
 2 - É ainda recusado o pagamento dos vales às pessoas que não se identificarem nos termos do disposto no artigo anterior.
 
