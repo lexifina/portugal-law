@@ -1,0 +1,59 @@
+Portaria n.º 632/77
+de 4 de Outubro
+Considerando a actual orientação do consumo interno de pesticidas de uso agrícola, torna-se necessário actualizar as listas de produtos sujeitos ao regime de preços máximos, por forma que os pesticidas seleccionados continuem a ser os de maior incidência a nível da lavoura.
+Assim, impõe-se a revisão das listas anexas às Portarias n.º 285/76, de 6 de Maio, n.º 446/76, de 31 de Julho, e n.º 146/77, de 19 de Março.
+Nestes termos:
+Ao abrigo do disposto no n.º 2 do artigo 1.º do Decreto-Lei n.º 75-Q/77, de 28 de Fevereiro:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio Interno, o seguinte:
+1.º Ficam sujeitos ao regime de preços máximos os pesticidas de uso agrícola constantes da lista anexa a esta portaria.
+2.º Deixam de estar sujeitos ao regime de preços máximos os seguintes pesticidas:
+a) Fungicidas:
+Oxicloreto de cobre.
+b) Herbicidas:
+MCPA;
+2,4 - D + MCPA;
+Bentazão;
+Oxadiazão.
+c) Insecticidas:
+Aldrina;
+Óleos-de-verão;
+Óleos-de-verão + paratião;
+Malatião.
+3.º Consideram-se em vigor os preços de todos os pesticidas constantes dos Despachos Normativos n.º 116/77, de 17 de Maio, n.º 102/77, de 27 de Abril, n.º 66/77, de 19 de Março, e n.º 166/77, de 4 de Agosto, até se proceder à sua alteração.
+4.º As dúvidas e os casos omissos resultantes da aplicação desta portaria serão resolvidos por despacho do Secretário de Estado do Comércio Interno.
+5.º Esta portaria entra em vigor no dia imediato ao da sua publicação.
+Secretaria de Estado do Comércio Interno, 15 de Setembro de 1977. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.
+
+Lista anexa a que se refere o n.º 1 desta portaria
+a) Fungicidas:
+Sulfato de cobre 25%.
+Enxofre em pó (90% a 95%).
+Enxofre em pó + 95%.
+Enxofre molhável (80% a 85%).
+Zinebe + 90%.
+Zinebe (65% a 75%).
+Oxicloreto de cobre 37,5% + zinebe (15% a 17,5%).
+Oxicloreto de cobre 30% + zinebe 7,5% + manebe 8%.
+Propinebe 70%.
+N' (triclorometiltio) ftalimida 40% e a 50%.
+Mancozebe 68% e a 80%.
+Metirame 80%.
+Sulfato de cobre 17,5% + zinebe 12,5%.
+Carbonato básico de cobre 4,2% + mancozebe 20% + oxicloreto de cobre 12,6% + sulfato de cobre 4,2%.
+b) Herbicidas:
+Amitrol 90%.
+Simazina 50% e a 80%.
+Amitrol 19% + simazina 39%.
+Paraquato 200 g/l.
+Molinato 7,5%.
+Propanil 350 g/l e a 460 g/l.
+c) Insecticidas:
+Azinfos-etilo 25%.
+Azinfos-etilo 440 g/l.
+Paratião 20%.
+Paratião 500 g/l.
+Dimetoato 200 g/l.
+Dimetoato (400 g/l a 424 g/l).
+Azinfos-metilo 25% + demetão - S - metil sulfona 7,5%.
+Dicofol 160 g/l + tetradifão 60 g/l.
+O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.
