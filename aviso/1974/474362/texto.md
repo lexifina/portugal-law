@@ -1,0 +1,6 @@
+Aviso
+Por ordem superior se torna público que, segundo informação do secretário-geral das Nações Unidas, o Governo da União das Repúblicas Socialistas Soviéticas depositou, em 20 de Fevereiro de 1974, o instrumento de adesão à Convenção Aduaneira sobre o Transporte Internacional de Mercadorias a coberto de Cadernetas TIR (Convenção TIR), concluída em Genebra em 15 de Janeiro de 1959, tal como emendada em 19 de Novembro de 1963 e em 1 de Julho de 1966.
+O referido instrumento continha uma reserva do seguinte teor:
+A União das Repúblicas Socialistas Soviéticas não se considera vinculada pelo artigo 44, parágrafos 2 e 3, da Convenção Aduaneira sobre o Transporte Internacional de Mercadorias a coberto de Cadernetas TIR e declara que a submissão a arbitragem de qualquer conflito entre Partes contratantes relativo à interpretação ou aplicação da Convenção Aduaneira deverá ser sujeito, em cada caso específico, a acordo entre todas as Partes em conflito e que só pessoas designadas por acordo entre as Partes em conflito podem actuar como árbitros.
+A referida Convenção entrou em vigor, relativamente a URSS, em 21 de Maio de 1974.
+Direcção-Geral dos Negócios Económicos, 14 de Agosto de 1974. - O Adjunto do Director-Geral, José Joaquim de Mena e Mendonça.
