@@ -1,0 +1,10 @@
+Portaria n.º 38/77
+de 25 de Janeiro
+O n.º 2 do artigo 6.º do Regulamento do Código da Estrada, na redacção dada pela Portaria n.º 254/76, de 22 de Abril, impõe que as marcas rodoviárias, designadamente as linhas longitudinais, tenham a cor branca. Tal determinação, aliás, continha-se já na versão original do referido Regulamento e fora objecto de consagração a nível internacional, através do Protocolo sobre Marcas Rodoviárias datado de 1973 e adicional ao Acordo de Genebra sobre a mesma matéria.
+Verifica-se, no entanto, que a maioria das nossas estradas se apresenta marcada com linhas longitudinais de cor amarela, tornando-se impossível operar, por razões de ordem técnico-económica, a rectificação das cores a curto prazo. Torna-se, pois, conveniente fixar um período transitório, durante o qual se considere a cor amarela, actualmente existente de facto nas marcas rodoviárias, equivalente, sob o ponto de vista jurídico, ao branco determinado pelas disposições atrás citadas. O mesmo período transitório servirá para que se proceda à substituição integral das linhas longitudinais amarelas pela marcação a branco, nos termos regulamentares.
+Nestes termos:
+Considerando o disposto no artigo 2.º do Decreto n.º 39987, de 22 de Dezembro de 1954:
+Manda o Governo da República Portuguesa, pelos Secretários de Estado dos Transportes e Comunicações e das Obras Públicas, o seguinte:
+1.º As marcas rodoviárias referidas no n.º 2 do artigo 6.º do Regulamento do Código da Estrada, aprovado pelo Decreto n.º 39987, de 22 de Dezembro de 1954, e que actualmente se encontrem materializadas através de pintura de cor amarela têm o mesmo significado que as mesmas marcas de cor branca previstas no referido artigo 6.º
+2.º O disposto no número anterior entra imediatamente em vigor e cessa a sua vigência em 31 de Dezembro de 1979.
+Ministérios dos Transportes e Comunicações e das Obras Públicas, 7 de Janeiro de 1977. - O Secretário de Estado dos Transportes e Comunicações, António Machado Rodrigues. - O Secretário de Estado das Obras Públicas, Mário Adriano de Moura e Castro Brandão Fernandes de Azevedo.
