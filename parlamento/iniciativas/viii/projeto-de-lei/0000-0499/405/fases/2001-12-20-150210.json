@@ -1,0 +1,510 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "405",
+    "id": "7074",
+    "titulo": "Altera o Código Penal, para garantia do julgamento em Portugal dos autores de crimes de maior gravidade que afectam a comunidade internacional no seu conjunto"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2001-12-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2110",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2001-12-20",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "18654",
+        "leg": "VIII",
+        "nr": "468",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "623",
+            "obs": null,
+            "pag": [
+              "1170-1180"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-12-21",
+            "pubLeg": "VIII",
+            "pubNr": "30",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/030/2001-12-21/1170?pgs=1170-1180&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "623",
+            "obs": null,
+            "pag": [
+              "1170-1180"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-12-21",
+            "pubLeg": "VIII",
+            "pubNr": "30",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/030/2001-12-21/1170?pgs=1170-1180&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Assegura a competência plena dos Tribunais portugueses face à jurisdição do Tribunal Penal  Internacional (altera o Código Penal Português em matéria do crime de genocídio dos crimes contra a humanidade e dis crimes de guerra)"
+      },
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Resolução",
+        "id": "5935",
+        "leg": "VIII",
+        "nr": "41",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "623",
+            "obs": null,
+            "pag": [
+              "1170-1180"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-12-21",
+            "pubLeg": "VIII",
+            "pubNr": "30",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/030/2001-12-21/1170?pgs=1170-1180&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "623",
+            "obs": null,
+            "pag": [
+              "1170-1180"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-12-21",
+            "pubLeg": "VIII",
+            "pubNr": "30",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/030/2001-12-21/1170?pgs=1170-1180&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "S",
+        "titulo": "Aprova, para ratificação, o Estatuto de Roma do Tribunal Penal Internacional aberto a assinatura dos Estados, em Roma, em 17 de Julho de 1998"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-12-20",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  ADJUNTO DO MINISTRO DA  JUSTIÇA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Eduardo Cabrita"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140155",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1170-1171"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-12-21",
+                "pubLeg": "VIII",
+                "pubNr": "30",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/030/2001-12-21/1170?pgs=1170-1171&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICACAO O ESTATUTO DE ROMA DO TRIBUNAL PENAL INTERNACIONAL ABERTO A ASSINATURA DOS ESTADOS EM ROMA EM 17 DE JULHO DE 1998; Altera o Código Penal, para garantia do julgamento em Portugal dos autores de crimes de maior gravidade que afectam a comunidade internacional no seu conjunto;Assegura a competência plena dos Tribunais portugueses face à jurisdição do Tribunal Penal  Internacional (altera o Código Penal Português em matéria do crime de genocídio dos crimes contra a humanidade e dis crimes de guerra)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140156",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1171-1173"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-12-21",
+                "pubLeg": "VIII",
+                "pubNr": "30",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/030/2001-12-21/1171?pgs=1171-1173&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICACAO O ESTATUTO DE ROMA DO TRIBUNAL PENAL INTERNACIONAL ABERTO A ASSINATURA DOS ESTADOS EM ROMA EM 17 DE JULHO DE 1998; Altera o Código Penal, para garantia do julgamento em Portugal dos autores de crimes de maior gravidade que afectam a comunidade internacional no seu conjunto;Assegura a competência plena dos Tribunais portugueses face à jurisdição do Tribunal Penal  Internacional (altera o Código Penal Português em matéria do crime de genocídio dos crimes contra a humanidade e dis crimes de guerra)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "128",
+                "nome": "Pedro Roseta"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140157",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1173-1177"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-12-21",
+                "pubLeg": "VIII",
+                "pubNr": "30",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/030/2001-12-21/1173?pgs=1173-1177&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICACAO O ESTATUTO DE ROMA DO TRIBUNAL PENAL INTERNACIONAL ABERTO A ASSINATURA DOS ESTADOS EM ROMA EM 17 DE JULHO DE 1998; Altera o Código Penal, para garantia do julgamento em Portugal dos autores de crimes de maior gravidade que afectam a comunidade internacional no seu conjunto;Assegura a competência plena dos Tribunais portugueses face à jurisdição do Tribunal Penal  Internacional (altera o Código Penal Português em matéria do crime de genocídio dos crimes contra a humanidade e dis crimes de guerra)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "143",
+                "nome": "Alberto Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140158",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1177-1179"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-12-21",
+                "pubLeg": "VIII",
+                "pubNr": "30",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/030/2001-12-21/1177?pgs=1177-1179&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICACAO O ESTATUTO DE ROMA DO TRIBUNAL PENAL INTERNACIONAL ABERTO A ASSINATURA DOS ESTADOS EM ROMA EM 17 DE JULHO DE 1998; Altera o Código Penal, para garantia do julgamento em Portugal dos autores de crimes de maior gravidade que afectam a comunidade internacional no seu conjunto;Assegura a competência plena dos Tribunais portugueses face à jurisdição do Tribunal Penal  Internacional (altera o Código Penal Português em matéria do crime de genocídio dos crimes contra a humanidade e dis crimes de guerra)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1652",
+                "nome": "Fernando Rosas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140159",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1179-1180"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-12-21",
+                "pubLeg": "VIII",
+                "pubNr": "30",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/030/2001-12-21/1179?pgs=1179-1180&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICACAO O ESTATUTO DE ROMA DO TRIBUNAL PENAL INTERNACIONAL ABERTO A ASSINATURA DOS ESTADOS EM ROMA EM 17 DE JULHO DE 1998; Altera o Código Penal, para garantia do julgamento em Portugal dos autores de crimes de maior gravidade que afectam a comunidade internacional no seu conjunto;Assegura a competência plena dos Tribunais portugueses face à jurisdição do Tribunal Penal  Internacional (altera o Código Penal Português em matéria do crime de genocídio dos crimes contra a humanidade e dis crimes de guerra)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140160",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1180-1180"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-12-21",
+                "pubLeg": "VIII",
+                "pubNr": "30",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/030/2001-12-21/1180?pgs=1180&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICACAO O ESTATUTO DE ROMA DO TRIBUNAL PENAL INTERNACIONAL ABERTO A ASSINATURA DOS ESTADOS EM ROMA EM 17 DE JULHO DE 1998; Altera o Código Penal, para garantia do julgamento em Portugal dos autores de crimes de maior gravidade que afectam a comunidade internacional no seu conjunto;Assegura a competência plena dos Tribunais portugueses face à jurisdição do Tribunal Penal  Internacional (altera o Código Penal Português em matéria do crime de genocídio dos crimes contra a humanidade e dis crimes de guerra)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140161",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1181-1181"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-12-21",
+                "pubLeg": "VIII",
+                "pubNr": "30",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/030/2001-12-21/1181?pgs=1181&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICACAO O ESTATUTO DE ROMA DO TRIBUNAL PENAL INTERNACIONAL ABERTO A ASSINATURA DOS ESTADOS EM ROMA EM 17 DE JULHO DE 1998; Altera o Código Penal, para garantia do julgamento em Portugal dos autores de crimes de maior gravidade que afectam a comunidade internacional no seu conjunto;Assegura a competência plena dos Tribunais portugueses face à jurisdição do Tribunal Penal  Internacional (altera o Código Penal Português em matéria do crime de genocídio dos crimes contra a humanidade e dis crimes de guerra)",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "150210",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "267926",
+        "obs": null,
+        "pag": [
+          "1170--1181"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-12-21",
+        "pubLeg": "VIII",
+        "pubNr": "30",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/030/2001-12-21/1170?pgs=1170--1181&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
