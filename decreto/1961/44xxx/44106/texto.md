@@ -1,0 +1,9 @@
+Decreto n.º 44106
+Considerando que foi adjudicada à firma Sorval - Sociedade de Representações Vasconcelos, Lda., a empreitada de fornecimento e instalação de um equipamento de projecção electrónica de mapas em écrans de radar (Video Mapping) e de dois indicadores P. P. I., destinados ao radar de vigilância de Lisboa;
+Considerando que para a execução desta empreitada estão fixados os prazos de 12 meses para a entrega do material na fábrica, em França, 30 dias para a entrega C. I. F. Lisboa após o envio da ordem de remessa e 60 dias para a instalação, a contar da data da notificação da Direcção-Geral da Aeronáutica Civil para o seu início, abrangendo, portanto, parte do ano de 1961, o de 1962 e parte do de 1963;
+Tendo em vista o disposto no artigo 22.º e seu § 1.º do Decreto-Lei n.º 41375, de 19 de Novembro de 1957;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º É autorizada a Direcção-Geral da Aeronáutica Civil a celebrar contrato no corrente ano económico com a firma Sorval - Sociedade de Representações Vasconcelos, Lda., para a execução da empreitada de fornecimento e instalação de um equipamento de projecção electrónica de mapas em écrans de radar (Video Mapping) e de dois indicadores P. P. I., destinados ao radar de vigilância de Lisboa, pela importância total de 1552869$00.
+Art. 2.º Seja qual for o valor do fornecimento ou da instalação a efectuar, não poderá a Direcção-Geral da Aeronáutica Civil despender com pagamentos relativos à referida empreitada, por virtude do contrato a celebrar, mais de 1010000$00 no corrente ano 470000$00 no ano de 1962 e 72869$00, ou o que se apurar como saldo, no ano de 1963.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 20 de Dezembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Carlos Gomes da Silva Ribeiro.
