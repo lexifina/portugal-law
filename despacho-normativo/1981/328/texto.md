@@ -1,0 +1,7 @@
+Despacho Normativo n.º 328/81
+1 - O Despacho Normativo n.º 208/81, publicado no Diário da República, 1.ª série, n.º 188, de 18 de Agosto de 1981, aprovou os instrumentos previsionais de gestão da Rodoviária Nacional, E. P., e considerou incluídos no PISEE/81 os projectos de investimento da empresa, num montante de despesa de investimento e FBCF em 1981 de 2527 milhões de escudos.
+2 - As condições em que se tem desenrolado a execução dos projectos da Rodoviária Nacional, E. P., aconselham a que se proceda a algumas alterações no programa de investimentos, assegurando-se, no entanto, a manutenção dos volumes de despesa e de FBCF, assim como dos meios financeiros atribuídos e das autorizações de recurso ao crédito concedidas.
+3 - Assim, o Ministro de Estado e das Finanças e do Plano e o Ministro da Habitação, Obras Públicas e Transportes determinam que o n.º 2 do Despacho Normativo n.º 208/81, publicado no Diário da República, 1.ª série, n.º 188, de 18 de Agosto de 1981, passe a ter a seguinte redacção:
+2 - Consideram-se incluídos no Programa de Investimentos do Sector para 1981 os projectos da Rodoviária Nacional, E. P., a seguir discriminados:
+(ver documento original)
+Ministérios das Finanças e do Plano e da Habitação, Obras Públicas e Transportes, 22 de Setembro de 1981. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro. - O Ministro da Habitação, Obras Públicas e Transportes, José Carlos Pinto Soromenho Viana Baptista.
