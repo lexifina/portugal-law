@@ -1,0 +1,3 @@
+Aviso n.º 144/92
+Por ordem superior se faz público que, em 12 de Junho de 1992, a República da Eslovénia depositou junto da Organização Mundial da Propriedade Intelectual (OMPI) os instrumentos respeitantes à entrada daquela República no sistema internacional de protecção da propriedade intelectual administrada pela OMPI, continuando a aplicar-se àquele Estado a Convenção de Paris, a União de Madrid, a União de Nice e a Convenção de Berna.
+Direcção-Geral dos Negócios Político-Económicos, 9 de Setembro de 1992. - O Director de Serviços dos Assuntos Multilaterais, António Nunes de Carvalho Santana Carlos.
