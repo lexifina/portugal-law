@@ -1,0 +1,115 @@
+Decreto-Lei n.º 45134
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º São criadas as comarcas do Barreiro e de Cascais, com a área, sede, classe e composição constantes dos mapas anexos ao Estatuto Judiciário, alterados nos termos do presente diploma.
+Art. 2.º - 1. Os tribunais das novas comarcas só começarão a funcionar depois de o Conselho Superior Judiciário verificar a suficiência das suas instalações e das casas para residência dos magistrados e de os juízes serem empossados.
+2. Até ao começo do funcionamento dos novos tribunais conservam as comarcas do Montijo e de Lisboa a competência de que gozam actualmente.
+3. As comarcas referidas no número anterior conservam também a sua competência actual, mesmo depois da entrada em funcionamento dos tribunais das comarcas criadas por este diploma, relativamente às acções que nelas estejam então pendentes.
+Art. 3.º Ao primeiro provimento de todos os lugares de funcionários de justiça dos tribunais das novas comarcas é aplicável o disposto no artigo 767.º do Estatuto Judiciário.
+Art. 4.º Os encargos a que der lugar a execução do presente diploma serão reembolsados ao Estado pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, mediante guia de receita a processar pela 4.ª Repartição da Direcção-Geral da Contabilidade Pública, até que o reembolso seja dispensado por decreto dos Ministros da Justiça e das Finanças.
+Art. 5.º O preceituado no n.º 1 do artigo 393.º do Estatuto Judiciário, aprovado pelo Decreto-Lei n.º 44278, de 14 de Abril de 1962, não prejudica a disposição transitória do n.º 2 do artigo 5.º do Decreto-Lei n.º 43623, de 27 de Abril de 1961, relativamente à admissão aos concursos para escrivão de direito.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 13 de Julho de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
+
+MAPA III
+(Artigos 3.º e 5.º, n.º 1)
+Distritos judiciais
+Distrito judicial de Lisboa
+Sede em Lisboa
+Comarcas abrangidas:
+De 1.ª classe: ...
+De 2.ª classe: Almada, Angra do Heroísmo, Barreiro, Beja, Cascais, Évora, Faro, Loulé, Montijo, Olhão, Portimão, Sintra e Vila Franca de Xira.
+De 3.ª classe: ...
+
+MAPA IV
+(Artigo 2.º, n.º 4)
+Círculos judiciais
+...
+Lisboa
+Sede em Lisboa
+Comarcas compreendidas: Alenquer, Cascais, Mafra, Sintra e Vila Franca de Xira.
+...
+Setúbal
+Sede em Setúbal
+Comarcas compreendidas: Barreiro, Montijo e Setúbal.
+...
+
+MAPA V
+(Artigos 29.º, n.º 1, 31.º e 32.º)
+Composição dos tribunais colectivos
+...
+Círculo judicial de Lisboa
+Segundo-vogal nas comarcas de: Alenquer - o juiz de Vila Franca de Xira; Cascais - o juiz do 9.º juízo correccional de Lisboa; Mafra - o juiz do 10.º juízo correccional de Lisboa; Sintra - o juiz de Mafra; Vila Franca de Xira - o juiz de Alenquer.
+...
+Círculo judicial de Setúbal
+Segundo-vogal nas comarcas de: Barreiro - o juiz do Montijo; Montijo - o juiz do Barreiro; Setúbal, 1.º juízo - o juiz do 2.º juízo; Setúbal, 2.º juízo - o juiz do 1.º juízo.
+...
+
+MAPA VIII
+(Artigo 10.º)
+Comarcas e julgados municipais
+Comarcas
+...
+Barcelos (1.ª classe):
+...
+Barreiro (2.ª classe):
+Sede - Barreiro.
+Distrito judicial - Lisboa.
+Círculo judicial - Setúbal.
+Freguesias:
+Do concelho do Barreiro:
+Barreiro, Lavradio, Palhais
+Do concelho da Moita:
+Alhos Vedros.
+Beja (2.ª classe):
+...
+Cartaxo (3.ª classe):
+...
+Cascais (2.ª classe):
+Sede - Cascais.
+Distrito judicial - Lisboa.
+Círculo judicial - Lisboa.
+Freguesias:
+Do concelho de Cascais:
+Alcabideche, Carcavelos, Cascais, Estoril, Parede, S. Domingos de Rana.
+Castelo Branco (2.ª classe):
+...
+Lisboa (1.ª classe):
+Sede - Lisboa.
+Distrito judicial - Lisboa.
+Freguesias:
+Do concelho de Lisboa:
+...
+Do concelho de Loures:
+...
+Do concelho de Oeiras:
+...
+Montijo (2.ª classe):
+Sede - Montijo.
+Distrito judicial - Lisboa.
+Círculo judicial - Setúbal.
+Freguesias:
+Do concelho do Montijo:
+...
+Do concelho de Alcochete:
+...
+Do concelho da Moita:
+Moita.
+
+MAPA IX
+(Artigos 71.º, n.º 1; 88.º; 251.º, n.º 1; 297.º, n.º 1; 298.º, n.º 2; 416.º, n.º 1, e 416.º, n.º 3).
+Quadro do pessoal das secretarias
+Tribunais de comarca
+...
+Comarcas com dois juízos de direito
+...
+Comarcas de 1.ª classe
+...
+Comarcas de 2.ª classe
+Arcos de Valdevez: ...
+Barreiro, Cascais e Vila Franca de Xira: 1 chefe de secretaria, 2 escrivães de direito, 2 oficiais de diligências, 3 escriturários de 1.ª classe e 3 escriturários de 2.ª classe.
+Beja: ...
+...
+Sintra: ...
+Vila Nova de Famalicão: ...
+Vila Verde: ...
+Ministério da Justiça, 13 de Julho de 1963. - O Ministro da Justiça, João de Matos Antunes Varela.
