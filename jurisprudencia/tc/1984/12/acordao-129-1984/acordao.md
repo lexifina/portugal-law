@@ -1,0 +1,81 @@
+# Acórdão do Tribunal Constitucional n.º 129/1984, de 1984-12-12
+
+**Acórdão:** 129/84
+
+**Processo:** 14/84
+
+**Formação:** 2ª Secção
+
+**Espécie:** Recurso
+
+**Data:** 12.12.1984
+
+**Relator:** Cons. Magalhães Godinho
+
+**Fonte:** https://www.tribunalconstitucional.pt/tc/acordaos/19840129.html
+
+## Texto integral
+
+ACÓRDÃO N.º 129/84
+
+Processo n.º 14/84
+
+2ª Secção
+
+Relator: Conselheiro Magalhães Godinho
+
+Acordam na 2ª Secção do Tribunal Constitucional:
+
+No 9.º Juízo Cível da Comarca do Porto instaurou a A., S.A.R.L., uma execução para pagamento de quantia certa, com processo sumário, baseado na letra de câmbio do montante de 45 000$00, de que era legítima portadora, contra aceitante B., LDA., pedindo o pagamento do respectivo montante e bem assim o juro de 15% desde a data do vencimento até à instauração da acção, e desde essa data até efectivo reembolso, à mesma taxa.
+
+O Mº Juiz, indeferiu liminar e parcialmente a petição inicial, no excedente à taxa de juro de 6%, por entender que o artigo 4.º do Decreto-Lei n.º 262/83 é inconstitucional, por tratar de matéria regulada por tratado internacional (Convenção de Genebra) ao qual Portugal não formulou reserva alguma, e o direito internacional se impor na ordem interna (artigo 8.º da Constituição) e, assim, qualquer alteração do tipo daquela que se pretendeu fazer por aquele decreto-lei está ferida de inconstitucionalidade.
+
+Deste despacho de indeferimento interpôs o Digno Agente de Ministério Público recurso para este Tribunal Constitucional, que foi admitido.
+
+O Exmo. Procurador-Geral Adjunto neste Tribunal e o mandatário da exequente produziram doutas alegações, respectivamente a fls. 17 e 27, sustentando o primeiro dever negar-se provimento ao recurso, e o segundo o seu provimento, decidindo-se não estar aquela disposição do artigo 4.º do Decreto-Lei ferida de inconstitucionalidade.
+
+Cumpre decidir.
+
+Esta 2ª Secção do Tribunal, em sucessivos processos, idênticos ao presente, tem vindo a decidir não conhecer dos recursos interpostos, por incompetência do Tribunal, como se pode ver, por todos, no acórdão n.º 47/84, processo n.º113/83, publicado no Diário da República, II Série, n.º 162, de 14 de Julho, e nos acórdãos proferidos nos processos n.ºs 108783, de 30 de Julho, 31/84, 74/84 e 62/84, todos de 14 de Novembro e 34/84, de 28 de Novembro, ainda inéditos.
+
+No acórdão n.º 47/84, como de resto nos demais, a decisão de não haver recurso assentou na conclusão lógica que parece verificar-se de que admitindo que o artigo 4.º do Decreto-Lei n.º 262/83, não podia dispor contra o n.º 2 do artigo 48.º e o n.º 2 do artigo 49.º da Lei Uniforme (aprovada pela Convenção de Genebra de 7 de Junho de 1930), a infracção não integra inconstitucionalidade directa, mas apenas inconstitucionalidade indirecta, não se enquadrando, portanto, o caso da competência deste Tribunal. E, acrescenta: “esta conclusão encontra hoje apoio no n.º 3 do artigo 4.º do estatuto dos Tribunais Administrativos e Fiscais, aprovado pelo Decreto-Lei n.º 129/84, de 27 de Abril”, “os Tribunais Administrativos e Fiscais devem recusar a aplicação de normas inconstitucionais ou que contrariem outras de hierarquia superior -, na medida em que aí se distingue entre normas inconstitucionais e normas que contrariem outras de hierarquia superior: - isto é, a simples contrariedade de normas de hierarquia superior não constitui, só por si, inconstitucionalidade”.
+
+Esta doutrina é perfilhada pelo parecer n.º 12/82, da Comissão Constitucional, 19.º volume, pág. 116, e o mesmo ponto de vista é exaustivamente sustentado na sentença do Juiz Amâncio Ferreira, publicada no Boletim da Ordem dos Advogados n.º 19, de Outubro de 1983.
+
+Este é precisamente o caso destes autos em que a norma do artigo 4.º do Decreto-Lei n.º 262/83, de 16 de Junho, estaria em contradição com as normas do artigo 48 e 49 da Lei Uniforme que constitui o Anexo I da Convenção de Genebra de 7 de Junho de 1930, de que Portugal foi um dos signatários, mas não fere directamente qualquer norma inserida na Constituição da República Portuguesa, uma vez que não existe nesta qualquer preceito ou princípio que proíba ao legislador fixar taxa de juros para a mora no pagamento da obrigações resultante do aceite de uma letra diferente da que se acha fixada na Lei Uniforme.
+
+Está-se, pois, em presença de uma violação, que só poderia produzir inconstitucionalidade indirecta, já que em primeira linha ela resultaria da violação de uma norma interposta, a do artigo 48 e 49 da Lei Uniforme, e só depois de verificada esta se poderia sustentar a existência de violação da regra de primazia do direito internacional sobre a legislação interna, constante no n.º 2 do artigo 8.º, ponto de vista este expresso e acolhido no acórdão n.º 88/84 proferido no processo n.º 108/83, desta 2ª secção, em 30 de Julho do ano corrente ainda inédito. E, nesse acórdão se salienta que, mesmo que se entendesse que o principio pacta sunt servanda foi recebido no direito português com valor constitucional, por força do preceituado no n.º 1 do artigo 8.º da Constituição ainda aí a violação de tal princípio sempre seria indirecta, só poderia existir por se verificar violação da Convenção de Genebra pelo artigo 4.º do Decreto-Lei n.º 262/83.
+
+“Entendimento diferente só poderia assentar na atribuição de valor constitucional às normas de direito internacional. Mas a tal tese se opõe decisivamente a própria Constituição. Ao permitir a declaração de inconstitucionalidade de normas constantes de convenções internacionais”.
+
+Por isso, o acórdão não viu razão para alterar a doutrina constante no acórdão n.º 47/84, e decidiu que tais casos não se enquadravam na competência do Tribunal.
+
+E chega a esta conclusão por três razões. A primeira, por entender que a “Constituição os quis implicitamente excluir, com carácter de generalidade, na medida em que quando os quis fazer incluir na esfera de competência do Tribunal Constitucional, o veio fazer expressamente, através das alíneas a) e b) do n.º 3 do artigo 280.º, e adoptando a qualificação de “ilegalidade” em vez de “inconstitucionalidade”.
+
+A segunda, “porque tal solução constitucional não se afigura abrangida ou destituída de fundamento material: cabendo primacialmente ao tribunal Constitucional a defesa do “estalão” constitucional (parafraseando a sugestiva terminologia usada no Acórdão n.º 40 da comissão Constitucional), bem se compreende que a sua competência normal se cinja aos casos em que “uma das normas em confronto directo seja uma norma constitucional” (v. declaração de voto do Exmo. Conselheiro Vital Moreira, no Acórdão n.º 27784, deste Tribunal).”
+
+“Finalmente, porque não é verdade que da adopção de tal tese resulte a impossibilidade de intervenção do Tribunal Constitucional em toda uma série de casos sem que existe uma violação de normas interpostas.”
+
+“Na verdade, sucede frequentemente que a violação de uma norma interposta, para além de implicar uma violação indirecta da Constituição, implica igualmente a violação directa e autónoma de normas constitucionais diversas das que fixam as regras de hierarquia.”
+
+E o acórdão comprova estas afirmações, dando exemplos bem elucidativos, É o caso de um decreto-lei publicado no uso de uma autorização legislativa ou que desenvolva as bases gerais de um regime jurídico, em matéria da exclusiva competência da Assembleia da República, que se não subordina à correspondente lei, que não só viola indirectamente o n.º 2 do artigo 115 da Constituição, como viola directa e autonomamente o artigo 167.º ou o artigo 168.º da Lei Fundamental e explica: “E, por isso quando da revisão constitucional, se terá entendido não ser necessário referir expressamente tais casos no artigo 280.º na medida em que se tratava de casos típicos de inconstitucionalidade. É também o caso de um decreto regulamentar que violasse o decreto-lei regulamentado, em matéria constitucionalmente reservada à lei ou o caso de qualquer regulamento ilegal que ofendesse materialmente a Constituição”. Conclui o acórdão citado: “em todos estes casos, para além da violação da norma interposta existe ofensa directa e autónoma da Constituição, justificativa do recurso para o Tribunal Constitucional”.
+
+E, termina o mesmo acórdão: “O que não parece que a Constituição tenha pretendido é que a decisão que, por exemplo, recuse a aplicação de um regulamento governamental puramente ilegal, ou de um regulamento vicinal contrário a um regulamento municipal, seja recorrível para o Tribunal Constitucional, porque tal recusa se fundamentaria, em última análise, em juízo de inconstitucionalidade”. E acrescenta: “A tal entendimento se opõe, efectivamente, e como já se referiu o preceituado nas alíneas a) e b) do n.º 3 do artigo 280.º da Lei Fundamental”.
+
+Assim, acordam em não tomar conhecimento do recurso por incompetência do Tribunal.
+
+Lisboa, 12 de Dezembro de 1984
+
+José Magalhães Godinho
+
+José Manuel Cardoso da Costa
+
+Luís Nunes de Almeida
+
+Mário de Brito
+
+Messias Bento
+
+Mário Afonso (vencido, pelas razões constantes das declarações de voto em vários acórdãos sobre esta matéria).
+
+Armando Manuel Marques Guedes (vencido, com os mesmos fundamentos das declarações de voto formuladas em outros acórdãos em que este mesmo ponto de direito foi versado).
