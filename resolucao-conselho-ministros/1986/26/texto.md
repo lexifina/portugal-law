@@ -1,0 +1,6 @@
+Resolução do Conselho de Ministros n.º 26/86
+O funcionamento adequado do Instituto de Apoio à Emigração e às Comunidades Portuguesas tem vindo a ser assegurado, em parcela importante, por pessoal requisitado dos quadros de outros departamentos da administração central.
+A situação deve-se à carência de pessoal com que o Instituto de Apoio à Emigração e às Comunidades Portuguesas se debate, consequência do aumento de atribuições deste organismo que não tem tido correspondência no aumento do número de funcionários do quadro.
+Assim, considerando aconselhável que até à criação de condições que permitam ao Instituto admitir novo pessoal, o que acontecerá com a reestruturação dos quadros a operar na sequência do Decreto-Lei n.º 248/85, de 15 de Julho, se evite a constante rotação de pessoal requisitado:
+Nos termos do n.º 2 do artigo 32.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, o Conselho de Ministros, reunido em 20 de Fevereiro de 1986, resolveu que as situações de requisição de funcionários do Instituto de Apoio à Emigração e às Comunidades Portuguesas não estejam sujeitas aos prazos constantes do artigo 25.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro.
+Presidência do Conselho de Ministros. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
