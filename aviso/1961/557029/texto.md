@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, conforme comunicação do Departamento de Estado dos Estados Unidos da América à Embaixada de Portugal em Washington, a Costa do Marfim, o Mali, o Senegal e a Nigéria aderiram à Convenção sobre aviação civil internacional, assinada em Chicago em 7 de Dezembro de 1944, respectivamente em 31 de Outubro, 8 de Novembro, 11 de Novembro e 14 de Novembro de 1960, tendo a Convenção entrado em vigor nas seguintes datas: 30 de Novembro de 1960 (Costa do Marfim), 8 de Dezembro de 1960 (Mali), 11 de Dezembro de 1960 (Senegal) e 14 de Dezembro de 1960 (Nigéria).
+Direcção-Geral dos Negócios Económicos e Consulares, 20 de Janeiro de 1961. - O Director-Geral Adjunto, Armando Ramos de Paula Coelho.
