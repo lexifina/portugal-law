@@ -1,0 +1,11 @@
+Despacho Normativo n.º 15/82
+Considerando que o Estatuto da Empresa Pública Imprensa Nacional-Casa da Moeda, E. P., aprovado pelo Decreto-Lei n.º 333/81, de 7 de Dezembro, não contém normas que disciplinem as publicações no Diário da República;
+Considerando que a regulamentação legal das matérias referentes à inserção e à disciplina de publicação nas várias séries do Diário da República é essencial à garantia da fidedignidade dos diplomas e dos actos a publicar;
+Ao abrigo da competência que me foi delegada pelo Despacho Normativo n.º 299/81, de 30 de Dezembro, e no sentido de dar execução à subalínea 1) da alínea a) do n.º 1 do artigo 6.º do Decreto-Lei n.º 333/81, de 7 de Dezembro, determino:
+1 - Os diplomas emanados do Governo só podem ser insertos na 1.ª série do Diário da República quando os originais provenham da Secretaria-Geral da Presidência do Conselho de Ministros e aí devidamente registados e autenticados.
+2 - A inserção de documentos oficiais na 2.ª ou 3.ª séries do mesmo Diário depende de ordem de publicação neles aposta, competentemente assinada e autenticada com o selo branco da repartição pública donde provenham.
+3 - Os anúncios que respeitem a entidades particulares e a empresas públicas inserem-se na 3.ª série e carecem de ordem de publicação com a respectiva assinatura autenticada com o selo branco da entidade interessada ou, na falta deste, legalizada por notário com reconhecimento circunstancial.
+4 - As rectificações dos erros provenientes de divergência entre o texto do original e o texto impresso serão publicadas na série do Diário da República em que o tiver sido o texto rectificando, devendo obedecer aos requisitos exigidos para a publicação deste e provir da mesma origem.
+5 - Só se fará segunda publicação de qualquer texto quando a primeira haja sido feita com transposições, saltos ou erros materiais que tornem difícil o correcto entendimento do conjunto e desde que não haja quaisquer modificações no conteúdo.
+6 - As dúvidas correntes que surjam acerca da inserção de actos ou documentos nas três séries do Diário da República serão resolvidas pelo Secretário-Geral da Presidência do Conselho de Ministros.
+Presidência do Conselho de Ministros, 9 de Fevereiro de 1982. - O Secretário de Estado da Presidência do Conselho de Ministros, Marcelo Nuno Duarte Rebelo de Sousa.
