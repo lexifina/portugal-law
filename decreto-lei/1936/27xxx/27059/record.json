@@ -17,9 +17,24 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1936/09/23000/11461149.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1936-09-30",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "ae71ee6c0f8d887c8742bfde88a635d551c0bb03d1587b827f6d2ad20363e2db",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.8,
+    "pages": 4,
+    "columns": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "pdf_sha256": "f09d456d1b081554397f1c8aaf8f0e7fa1930de6b725c0ee14805f80a6d62556",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 2567
 }
