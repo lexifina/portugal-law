@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ikbb22EfidWyh5aL9J45Him8rhm3hBQttHxkrMbFeyYEwrlCCV9ZfcNHgV8WjSxu83VjOPt6VK7tfawrIfKZtTDmfI0Eg1Qj2%2fgR4zkB218vexxTlHm9ELnuOSX5QSKeM5RBZD467bhRAPU4hPcfbqahvryp3gb6e37C1v7CloSAMeYftDHuGXetsMTuqWKWDw8jw4LLkjhOMYrtuWUeiCrg7lyiTG%2fjnHAs%2fmcgrOZO8jIFWuyniqH%2f16iGaVZzEzfL%2b4SfA3O6drPBVYibztEF%2fs9tJC4xx3DcN5MsnQfVSXH3wVPofkvbJEOlvWHKvrzXi7OMn9qcwTKLuqkVUEIS1yusoxybTMXClPgsIs8%3d&fich=IntervencoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "ab3e3445119ef03a27cc4debeadf3049422a38e0d13b37a933bd5be6cbd2d916",
+  "legislatura": "IX",
+  "id": "147719",
+  "tipo": "Intervenção",
+  "orador": "José Manuel Pavão (PSD)",
+  "data_registo": "2003-12-18",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "160423",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "20025",
+        "tipo": "INI",
+        "titulo": "Inquérito Parlamentar - Concessão da Gestão do Hospital Amadora Sintra a uma entidade privada, à utilização dos dinheiros públicos nesta unidade e ao efectivo acompanhamento da execução do contrato."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2003-12-18",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "1884",
+      "nome": "José Manuel Pavão"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "147719",
+    "IdDebate": "2910",
+    "Iniciativas": [
+      {
+        "fase": "Apreciação",
+        "id": "20025",
+        "tipo": "Inquérito Parlamentar"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "IX",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "147719",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "1927-1928"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-12-19",
+        "pubLeg": "IX",
+        "pubNr": "33",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/033/2003-12-19/1927?pgs=1927-1928&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": null,
+    "Sessao": "2",
+    "Sumario": "Concessão da Gestão do Hospital Amadora Sintra a uma entidade privada, à utilização dos dinheiros públicos nesta unidade e ao efectivo acompanhamento da execução do contrato.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
