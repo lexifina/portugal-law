@@ -1,6 +1,6 @@
 # Artigo 26.º
 
-1 - Os conservadores e notários são substituídos nas suas faltas, licenças ou impedimentos pelos ajudantes, sem prejuízo do disposto nos artigos 24.º, n.º 3, e 38.º, n.º 2, do presente diploma.
+1 - Os conservadores e notários são substituídos nas suas faltas, licenças ou impedimentos pelos ajudantes, sem prejuízo do disposto no artigo 38.º, n.º 2, do presente diploma.
 
 2 - Nas conservatórias divididas em secções e nas secretarias notariais, os conservadores e notários substituir-se-ão entre si e só na falta de todos intervem o ajudante.
 

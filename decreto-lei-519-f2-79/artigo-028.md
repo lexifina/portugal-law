@@ -8,7 +8,7 @@
 
 4 - O conservador da Conservatória dos Registos Centrais faz parte do quadro de 1.ª classe do registo civil.
 
-5 - Os conservadores-adjuntos dos registos centrais ingressam no quadro do registo civil, se a ele ainda não pertencerem, quando providos definitivamente nos termos dos n.os 2 e 3 do artigo 33.º
+5 - Os conservadores-adjuntos dos registos centrais ingressam no quadro do registo civil, se a ele ainda não pertencerem, quando providos definitivamente nos termos dos n.os 3 e 4 do artigo 34.º
 
 6 - Os conservadores dos arquivos centrais e os conservadores auxiliares da Conservatória dos Registos Centrais fazem parte do quadro de conservadores do registo civil.
 

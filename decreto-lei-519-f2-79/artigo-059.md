@@ -2,13 +2,13 @@
 
 1 - Os ordenados dos oficiais dos registos e do notariado são os correspondentes às letras a seguir indicadas:
 
-a) Dos ajudantes, quando sirvam em lugar de classe igual à sua classe pessoal:
+a) Dos ajudantes, quando sirvam em lugar de categoria igual à sua classe pessoal:
 
-Ajudantes de 1.ª classe - H;
+Ajudantes de 1.ª classe - letra H;
 
-Ajudantes de 2.ª classe - J;
+Ajudantes de 2.ª classe - letra J;
 
-Ajudantes de 3.ª classe - L.
+Ajudantes de 3.ª classe - letra L;
 
 b) Dos escriturários:
 
