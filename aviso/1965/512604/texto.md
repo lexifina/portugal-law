@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se faz público que, segundo comunicação da Embaixada da Bélgica em Lisboa, o Governo da República Socialista da Checoslováquia depositou a 23 de Setembro de 1965, junto do Ministério dos Negócios Estrangeiros e do Comércio Exterior Belga, o instrumento de adesão à Convenção relativa à criação de um Conselho de Cooperação Aduaneira, concluída em Bruxelas a 15 de Dezembro de 1950.
+Esta adesão foi acompanhada das seguintes reservas:
+Aderindo a esta Convenção, o Governo Checoslovaco declara que a República Socialista da Checoslováquia não se sente obrigada pelo disposto do artigo XIV da Convenção no que se refere ao Protocolo relativo ao grupo de estudos para a União Aduaneira Europeia e que a Checoslováquia atribuirá os privilégios fixados na parte 6 do Anexo à Convenção, na mesma medida em que estes privilégios são reconhecidos às outras organizações internacionais na República Socialista da Checoslováquia.
+Direcção-Geral dos Negócios Económicos e Consulares, 10 de Novembro de 1965. - O Adjunto do Director-Geral, Fernando de Magalhães Cruz.
