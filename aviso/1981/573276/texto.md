@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que em 19 de Março de 1981, o Governo do Luxemburgo depositou, junto do Ministério dos Negócios Estrangeiros dos Países Baixos, o instrumento de ratificação, com reservas, da Convenção sobre o Reconhecimento e a Execução das Decisões Relativas a Obrigações Alimentares concluída na Haia em 2 de Outubro de 1973, de que Portugal já é parte. Aquele instrumento diplomático entrará em vigor, com referência àquele país, em 1 de Junho de 1981.
+Secretaria-Geral do Ministério, 28 de Abril de 1981. - O Director-Geral dos Serviços Jurídicos e de Tratados, Carlos Augusto Fernandes.
