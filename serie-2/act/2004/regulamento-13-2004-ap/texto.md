@@ -1,0 +1,4 @@
+Regulamento n.º 13/2004 - AP. - A Câmara Municipal de Murça deliberou, em 4 de Julho de 2003, por unanimidade, aprovar o Regulamento sobre o Licenciamento das Actividades Diversas previstas no Decreto-Lei n.º 310/2002, de 18 de Dezembro. Transferência para as câmaras municipais de competências dos governos civis, bem como a adenda à tabela de taxas e licenças no município de Murça.
+Posteriormente foi o presente Regulamento aprovado por unanimidade pela Assembleia Municipal, em sessão ordinária realizada no dia 30 de Setembro de 2003, dando assim cumprimento ao disposto na alínea a) do n.º 2 do artigo 53.º da Lei n.º 169/99, de 18 de Setembro, com a redacção dada pela Lei n.º 5-A/2002, de 11 de Janeiro.
+O Decreto-Lei n.º 310/2002, de 18 de Dezembro, atribui às câmaras municipais competência em matéria de licenciamento em actividades diversas até à data cometidas aos governos civis.
+23 de Setembro de 2004. - A Chefe de Secção, Maria da Conceição.
