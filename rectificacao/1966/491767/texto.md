@@ -1,0 +1,2 @@
+Rectificação
+No sumário da declaração, publicada pelo Ministério das Comunicações, Administração-Geral do Porto de Lisboa, inserta no Diário do Governo n.º 35, de 11 do corrente mês, de ter sido rectificada uma declaração que autoriza o reforço de uma verba, por lapso indicou-se como sendo do orçamento privativo da Administração-Geral dos Correios, Telégrafos e Telefones, quando era da Administração-Geral do Porto de Lisboa.
