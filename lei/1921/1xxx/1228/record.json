@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1921/09/19500/11731173.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1921-09-24",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "b515a8e834a90f391633a7534e0e09ae70c4d935a74bea3b616c57e0b7c7dcfc",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.7,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "dac2ce7629a55d06484d1190f70eb3e6b00e0174c829e140b0b4d3973bac9ab3",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 112
 }
