@@ -1,0 +1,23 @@
+Decreto-Lei n.º 4/83
+de 11 de Janeiro
+Considerando a desactualização sofrida pelos limites mínimos a restituir ou a reclamar, quando se verifiquem diferenças na cobrança dos rendimentos, contra ou a favor do Estado;
+Considerando a morosidade provocada pela utilização exclusiva dos títulos de encontro em despachos dos mesmos donos ou reclamantes, não sendo permitido o endosso;
+Considerando que o prazo para reclamação desses créditos ou débitos não se coaduna com o adoptado na Comunidade Económica Europeia;
+Considerando ainda que o estabelecido, quando as diferenças encontradas nas declarações dos despachos ou documentos que os substituam ultrapassem determinados limites, tem conduzido a uma elevação crescente do número de transgressões fiscais, sem que os erros ou omissões responsabilizem correspondentemente quem os pratica:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º Os artigos 96.º, 98.º, 100.º, 104.º e 105.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, passam a ter a seguinte redacção:
+Art. 96.º Todos os despachos, incluindo os despachos por declaração processados nas casas de despacho junto das encomendas postais, de cujas inexactas declarações, erros ou omissões possa resultar para o Estado ou para quaisquer organismos um prejuízo não superior a 500$00, seguirão sem qualquer procedimento, não se fazendo nas fórmulas quaisquer correcções.
+§ 1.º Se o prejuízo encontrado for de mais de 500$00 e até 1000$00 ou, sendo superior a esta quantia, não exceder 10% da totalidade das imposições constantes da declaração, quando este limite não ultrapassar 5000$00, os despachos seguirão também sem qualquer procedimento, fazendo-se, porém, nas fórmulas as necessárias correcções.
+§ 2.º Quando as diferenças encontradas nas declarações dos despachos ou documentos que os substituem, resultantes de qualquer inexactidão, erro ou omissão, forem superiores aos limites fixados no parágrafo antecedente, são consideradas sempre como transgressão fiscal, não podendo a coima aplicável ser inferior a 6000$00 e superior a 200000$00, salvo os casos de má fé, que são classificados e punidos como descaminho de direitos.
+§ 3.º ...
+Art. 98.º As diferenças nos rendimentos cobrados pelas alfândegas, contra ou a favor do Estado ou de quaisquer organismos, não excedentes a 500$00 não serão indemnizadas.
+Art. 100.º As importâncias que, por manifesto equívoco ou erro na declaração ou na verificação das mercadorias ou na contagem dos direitos e outras imposições, hajam sido indevidamente cobradas serão restituídas por encontros autorizados pelos directores das alfândegas e feitos em quaisquer despachos, em receitas da mesma espécie, desde que tais encontros se efectuem dentro do ano económico em que tenha sido pago o despacho.
+Art. 104.º As quantias a mais recebidas pelas alfândegas só podem ser reclamadas dentro do prazo de 3 anos, a contar da data do pagamento.
+§ único. ...
+Art. 105.º É igualmente limitado a 3 anos o prazo dentro do qual as alfândegas podem exigir a entrega das quantias recebidas a menos, contando-se esse prazo da data em que deveria ter sido efectuado o exacto pagamento.
+§ único. ...
+Art. 2.º O presente diploma entra em vigor 30 dias após a data da sua publicação.
+Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 1982. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro.
+Promulgado em 3 de Janeiro de 1983.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
