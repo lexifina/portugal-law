@@ -1,0 +1,17 @@
+Portaria n.º 20767
+Manda o Governo da República Portuguesa, pelo Ministro dos Negócios Estrangeiros, abonar à Embaixada de Portugal em Paris, com efeitos a partir de 1 de Julho findo, pela verba do n.º 4) do artigo 22.º, capítulo 3.º, do orçamento em vigor, as importâncias abaixo designadas, a fim de ocorrer ao pagamento de salários do pessoal assalariado em serviço na Embaixada, ficando assim alterada a partir daquela data a Portaria n.º 20286, de 2 de Janeiro de 1964, na parte respeitante àquela missão diplomática:
+... Francos franceses
+Encarregado do arquivo ... 1450,00
+Secretária-arquivista ... 1400,00
+Estenógrafo ... 790, 00
+Motorista ... 750,00
+Porteiro ... 700,00
+Contínuo ... 700,00
+Contínuo ... 700,00
+Contínuo ... 700,00
+Empregada ... 320,00
+Telefonista ... 210,00
+... 7720,00
+Ministério dos Negócios Estrangeiros, 24 de Agosto de 1964. - O Ministro dos Negócios Estrangeiros, Alberto Marciano Gorjão Franco Nogueira.
+
+(Não carece de visto ou anotação do Tribunal de Contas).
