@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que Portugal depositou, em 22 de Outubro de 1985, o instrumento de Confirmação e Adesão à Convenção Internacional sobre a Segurança de Contentores de 1972.
+Até àquela data aderiram ou ratificaram aquela Convenção os seguintes Estados:
+África do Sul, Arábia Saudita, Argentina, Austrália, Baamas, Barbados, Bélgica, Bulgária, Canadá, Checoslováquia, Chile, China, Cuba, Dinamarca, Espanha, Estados Unidos da América, França, Guiné, Índia, Israel, Itália, Japão, Libéria, Luxemburgo, Noruega, Nova Zelândia, Países Baixos, Paquistão, Polónia, Reino Unido da Grã-Bretanha e da Irlanda do Norte, República da Coreia, República Democrática Alemã, República Federal da Alemanha, República Socialista Soviética da Bielo Rússia, República Socialista Soviética da Ucrânia, Roménia, Suécia, União das Repúblicas Socialistas Soviéticas e Iémene.
+Direcção-Geral dos Negócios Económicos, 11 de Novembro de 1985. - O Subdirector-Geral, Roberto Nuno de Oliveira e Silva Pereira de Sousa.
