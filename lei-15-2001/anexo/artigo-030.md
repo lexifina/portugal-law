@@ -10,7 +10,7 @@ b) No caso da alínea c), bem como no do artigo 31.º, do pagamento nos 15 dias 
 
 c) Da regularização da situação tributária do infractor dentro do prazo previsto nas alíneas anteriores;
 
-d) De não ser aplicável sanção acessória.
+d) (Revogada).
 
 2 - Em caso de incumprimento do disposto no número anterior, é de imediato instaurado processo contra-ordenacional.
 
