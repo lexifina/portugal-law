@@ -1,0 +1,8 @@
+Portaria n.º 18977
+Sendo necessário reforçar a dotação destinada a «Aproveitamento de recursos - Electricidade e indústrias - Estudo do aproveitamento hidroagrícola e hidroeléctrico do Zambeze» e inscrita no programa de execução do II Plano de Fomento aprovado para 1961 para a província ultramarina de Moçambique;
+Considerando que esse reforço se destina a suportar encargos derivados da experimentação agrícola e reconhecimento de solos e do levantamento aeromagnético e aerocintilométrico da região Atchiza-Masseca-Fingoè e trabalhos complementares;
+Tendo em vista a autorização dada pelo Conselho Económico em sessão de 27 de Dezembro do ano findo:
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 2.º do Decreto n.º 35770, de 29 de Julho de 1946, reforçar com a quantia de 1100000$00 a verba do capítulo 12.º, artigo 1694.º, n.º 2), alínea b), 2) «Plano de Fomento - Programa de execução da 2.ª fase, 1961 - Aproveitamento de recursos - Electricidade e indústrias - Estudo do aproveitamento hidroagrícola e hidroeléctrico do Zambeze», da tabela de despesa extraordinária do orçamento geral de Moçambique para 1961, por transferência de igual importância a sair das disponibilidades do artigo 1694.º, n.º 2), alínea a), 3) «Aproveitamento de recursos - Agricultura, silvicultura e pecuária - 1.ª fase do aproveitamento hidroagrícola do Revuè», da mesma tabela de despesa.
+Ministério do Ultramar, 18 de Janeiro de 1962. - Pelo Ministro do Ultramar, Manuel Rafael Amaro da Costa, Subsecretário de Estado do Fomento Ultramarino.
+
+Para ser publicada no Boletim Oficial de Moçambique. - A. da Costa.
