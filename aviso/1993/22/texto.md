@@ -1,0 +1,3 @@
+Aviso n.º 22/93
+Por ordem superior se torna público terem os Governos de Azerbeijão e do Lesoto depositado junto do Secretário-Geral das Nações Unidas, em 13 de Agosto e 9 de Setembro de 1992, respectivamente, os instrumentos de adesão ao Pacto Internacional Relativo aos Direitos Económicos, Sociais e Culturais e ao Pacto Internacional Relativo aos Direitos Civis e Políticos, adoptados pela Assembleia Geral das Nações Unidas em 16 de Dezembro de 1966.
+Direcção-Geral dos Negócios Político-Económicos, 29 de Dezembro de 1992. - O Director de Serviços dos Assuntos Multilaterais, António Nunes de Carvalho Santana Carlos.
