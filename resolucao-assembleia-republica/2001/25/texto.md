@@ -1,0 +1,9 @@
+Resolução da Assembleia da República n.º 25/2001
+Avaliação dos danos causados ao comércio do Porto pelas obras de requalificação urbana e criação de medidas de apoio às empresas do comércio tradicional da Baixa do Porto.
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, o seguinte:
+1 - Recomendar ao Governo que, em conjunto com a Câmara Municipal do Porto, e enquanto accionista da Sociedade Porto 2001, e as associações representativas dos empresários, tome as medidas adequadas com vista a comprovar prejuízos para o tecido empresarial decorrentes das obras de requalificação urbana em curso na Baixa da cidade do Porto.
+2 - Considerar ser dever de todas as partes envolvidas criar condições objectivas para que, a curto prazo, seja possível assinar o projecto de urbanismo comercial URBCOM, aprovado no âmbito da extensa e profunda intervenção de requalificação urbana em curso na Baixa da cidade do Porto, quadro regulamentar indispensável à promoção de um novo espaço estratégico de desenvolvimento económico daquela zona.
+3 - Pronunciar-se pela necessidade de o Governo, designadamente no âmbito do URBCOM, tomar todas as medidas que permitam minorar os efeitos transitórios causados a pequenas empresas de comércio tradicional, da restauração e similares atingidas pelas consequências das obras, designadamente promovendo a disponibilização, em benefício dessas empresas, de mecanismos de crédito em condições mais favoráveis, nomeadamente no tocante à taxa de juro.
+4 - Instar o Governo e demais entidades interessadas a que promovam iniciativas destinadas a permitir a criação de condições que viabilizem a adequada utilização das verbas previstas ao abrigo do programa URBCOM.
+Aprovada em 15 de Março de 2001.
+O Presidente da Assembleia da República, António de Almeida Santos.
