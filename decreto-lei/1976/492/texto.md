@@ -1,0 +1,20 @@
+Decreto-Lei n.º 492/76
+de 23 de Junho
+Os representantes dos partidos políticos que fazem parte do VI Governo Provisório, na presença do Presidente da República, aprovaram certos princípios fundamentais, posteriormente ratificados pelo Conselho de Ministros, a respeitar no prosseguimento das acções incluídas no processo de reforma agrária na zona de intervenção.
+Entre esses «princípios fundamentais» ficou consagrado que o Governo procederia «... à desocupação de todas as terras que, em conformidade com o disposto no Decreto-Lei n.º 406-A/75, não são passíveis de expropriação».
+Deste princípio decorre que o VI Governo Provisório e as forças políticas que o compõem entendem que as ocupações de terras, susceptíveis de expropriação, se devem manter na situação de facto em que se encontram.
+Para que o Ministério da Agricultura e Pescas possa cumprir a obrigação que lhe incumbe, de corrigir os erros, desmandos e atropelos que se cometeram durante o período em que se criou o vazio jurídico, em certo sector do nosso mundo agrário, e para que, por outro lado, possa levar a bom termo, com a correcção desejada, já, a planificação das expropriações, já, as medidas de reordenamento e desenvolvimento agrários, torna-se necessário estabilizar a situação de facto criada.
+Nada será mais indesejável e prejudicial à prossecução dos objectivos pretendidos pelo VI Governo Provisório do que o gerar-se um novo clima de convulsão e de intolerância, agora com ventos de quadrantes opostos.
+Para evitar que novas injustiças se acamem sobre as velhas e para facultar ao Ministério da Agricultura e Pescas os necessários meios de actuação se publica o presente diploma.
+Nestes termos:
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º - 1. É declarada suspensa a instância em quaisquer acções de reivindicação, de restituição de posse ou quaisquer outras com fundamento em actos de ocupação ou outros conducentes à posse ou simples detenção de prédios rústicos ou explorações agrícolas susceptíveis de expropriação, nos termos do disposto no Decreto-Lei n.º 406-A/75, de 29 de Julho, quando cometido por grupos de trabalhadores agrícolas, e de pequenos agricultores de cooperativas e associações de natureza e composição social idênticas, de unidades colectivas de produção ou por gestores públicos.
+2. O disposto no número antecedente aplica-se à instância de novas acções que preencham os requisitos mencionados no mesmo número, antes de ordenada a citação.
+3. A efectiva expropriação dos prédios ou explorações referidos no n.º 1 acarretará a extinção da instância nas acções mencionadas nos números precedentes, por inutilidade superveniente da lide.
+4. Os incidentes referidos nos números antecedentes são isentos de custas e selos.
+Art. 2.º Incorre na pena prevista para o crime de desobediência qualificada aquele que for notificado por qualquer organismo competente do Ministério da Agricultura e Pescas para proceder à desocupação, restituição entrega de prédios rústicos ou de suas parcelas, ou de explorações agrícolas e seus elementos, e não o fizer no prazo fixado.
+Art. 3.º o presente diploma entra em vigor na data da sua publicação.
+Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - António Poppe Lopes Cardoso.
+Promulgado em 12 de Junho de 1976.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES
