@@ -1,0 +1,6 @@
+Despacho Normativo n.º 175/93
+Considerando o disposto no artigo 3.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, e nos n.os 6, 7 e 8 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção que lhe foi conferida pelo artigo 1.º, daquele diploma;
+Considerando que Maria Alexandra Gonçalves, chefe de divisão da Direcção-Geral de Energia, reúne os requisitos necessários para acesso à categoria de assessora principal e requereu, ao abrigo do n.º 7 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção que lhe foi conferida pelo artigo 1.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, a criação do correspondente lugar:
+Determina-se o seguinte:
+É criado no quadro de pessoal da Direcção-Geral de Energia, aprovado pela Portaria n.º 704/87, de 18 de Agosto, um lugar de assessor principal, área funcional de organização, gestão, planeamento e contencioso, a extinguir quando vagar.
+Ministérios das Finanças e da Indústria e Energia, 7 de Julho de 1993. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Indústria e Energia, Luís Filipe da Conceição Pereira, Secretário de Estado da Energia.
