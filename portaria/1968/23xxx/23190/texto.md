@@ -1,0 +1,3 @@
+Portaria n.º 23190
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças, tendo-se ouvido a Direcção-Geral das Alfândegas e o Comando-Geral da Guarda Fiscal, que passem a considerar-se postos fiscais habilitados a despachar com a competência limitada à cobrança do imposto do pescado os postos fiscais de Ponta do Cinturão, Almada do Ouro e Guerreiros, devendo ser feitas as correspondentes rectificações nos mapas I e II anexos à Reforma Aduaneira, promulgada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, sob a rubrica «Alfândega de Lisboa».
+Ministério das Finanças, 30 de Janeiro de 1968. - Pelo Ministro das Finanças, Manuel Tarujo de Almeida. Subsecretário de Estado do Orçamento.
