@@ -1,0 +1,4 @@
+Portaria n.º 169/75
+de 10 de Março
+Manda o Conselho dos Chefes dos Estados-Maiores das Forças Armadas, pelo Chefe do Estado-Maior-General das Forças Armadas, nos termos do n.º 2 do artigo 11.º do Decreto-Lei n.º 400/74, de 29 de Agosto, transferir transitoriamente para o Estado-Maior-General das Forças Armadas, enquanto não for fixada a respectiva orgânica, conforme se prevê nos artigos 14.º e 15.º do mesmo diploma, todos os organismos pertencentes ao extinto Secretariado-Geral da Defesa Nacional, bem como o Gabinete do titular do também extinto Departamento da Defesa Nacional, cujo pessoal, com excepção do chefe e dos ajudantes-de-campo, transita para o Gabinete do Chefe do Estado-Maior-General das Forças Armadas.
+Estado-Maior-General das Forças Armadas, 19 de Fevereiro de 1975. - O Chefe do Estado-Maior-General das Forças Armadas, Francisco da Costa Gomes.
