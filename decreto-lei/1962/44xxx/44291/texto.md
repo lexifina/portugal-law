@@ -1,0 +1,17 @@
+Decreto-Lei n.º 44291
+O progresso verificado em todos os sectores da vida nacional - do qual a força pública não pode alhear-se - exige uma acentuada melhoria não só dos meios técnicos que equipam a Polícia de Segurança Pública, como do nível cultural, profissional e técnico do seu pessoal.
+Considerando:
+A necessidade de uma mais ampla e eficiente coordenação dos assuntos relativos à Polícia de Segurança Pública;
+A imperiosa necessidade da existência de um conselho administrativo na companhia móvel de polícia;
+A conveniência de criar na companhia móvel de polícia comandos de meias companhias, de modo a permitir a sua intervenção separada e também por imperativo de instrução;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É criado o conselho administrativo da companhia móvel de polícia, ficando a reger-se pelas normas em vigor para os conselhos administrativos dos comandos de polícia, em harmonia com as disposições do Decreto-Lei n.º 39497, de 31 de Dezembro de 1953, e seu regulamento, aprovado pelo Decreto n.º 39550, de 26 de Fevereiro de 1954.
+§ único. Para os fins designados neste artigo, o conselho administrativo será constituído pelo comandante da companhia móvel de polícia, um comissário e um chefe de esquadra, exercendo, respectivamente, as funções de presidente, tesoureiro e secretário.
+Art. 2.º O quadro geral da Polícia de Segurança Pública considera-se aumentado do seguinte pessoal destinado à companhia móvel de polícia:
+1 comissário, para adjunto;
+1 comissário, para as funções de tesoureiro do conselho administrativo;
+1 chefe de esquadra, para as funções de secretário do conselho administrativo.
+§ único. Os comissários exercerão, cumulativamente, o comando das duas meias companhias.
+Art. 3.º Os encargos resultantes da execução do presente decreto-lei serão satisfeitos, no corrente ano económico, pelas sobras verificadas nas respectivas dotações orçamentais.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 23 de Abril de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
