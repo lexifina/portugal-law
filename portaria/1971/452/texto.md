@@ -1,0 +1,4 @@
+Portaria n.º 452/71
+de 25 de Agosto
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do § 1.º do artigo 4.º do Decreto-Lei n.º 28326, de 27 de Novembro de 1937, reforçar com a importância de 6900$00 a verba do capítulo único, artigo 4.º, n.º 2, alínea a) «Despesas com o material - Aquisições de utilização permanente - Aquisição de semoventes - Viaturas com motor», da tabela de despesa do orçamento privativo da Agência-Geral do Ultramar para o ano em curso, tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo único, artigo 4.º, n.º 1, alínea b) «Despesas com o material - Aquisições de utilização permanente - Aquisição de móveis - Máquinas, aparelhos, instrumentos e utensílios», da referida tabela de despesa.
+Pelo Ministro do Ultramar, Leão Maria Tavares Rosado do Sacramento Monteiro, Subsecretário de Estado da Administração Ultramarina.
