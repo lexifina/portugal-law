@@ -1,0 +1,3 @@
+Despacho
+Nos termos do artigo 1.º do Decreto-Lei n.º 43000, de 1 de Junho de 1960, mediante proposta do Ministério da Educação Nacional, ouvido o Conselho Permanente da Acção Educativa, é considerada habilitação adequada para efeito de provimento nos lugares de jardineiro ou encarregado de jardins, quer dos serviços do Estado, quer das autarquias locais, o curso de feitor agrícola, segundo a organização do Decreto n.º 19909, de 19 de Junho de 1931, ou o curso de agente rural, regulado pelo Decreto n.º 41382, de 21 de Novembro de 1957, sem prejuízo da preferência estabelecida pelo artigo 5.º do Decreto-Lei n.º 30739, de 5 de Setembro de 1940.
+Presidência do Conselho, 11 de Maio de 1971. - O Presidente do Conselho, Marcello Caetano.
