@@ -1,0 +1,49 @@
+# Acórdão do Tribunal Constitucional n.º 56/1996, de 1996-02-01
+
+**Acórdão:** 56/96
+
+**Processo:** 114/95
+
+**Formação:** 2ª Secção
+
+**Espécie:** Recurso
+
+**Data:** 01.02.1996
+
+**Relator:** Cons. Alves Correia
+
+**Fonte:** https://www.tribunalconstitucional.pt/tc/acordaos/19960056.html
+
+## Texto integral
+
+ACÓRDÃO Nº 56/96
+
+Processo nº 114/95
+
+2ª Secção
+
+Relator: Conselheiro Alves Correia
+
+Acordam na 2ª Secção do Tribunal Constitucional:
+
+Recorrente: Ministério Público
+
+Recorrido: A.
+
+Nestes autos de recurso, tendo por objecto a norma da alínea d) do nº 3 do artigo 18º da Lei nº 7/92, de 12 de Maio, seguindo na esteira do acórdão na 681/95, tirado em Plenário e publicado no Diário da República, II série, de 30 de Janeiro de 1996, decide-se pela não inconstitucionalidade da norma em causa concede-se provimento ao recurso e revoga-se a decisão recorrida que deve ser reformada em conformidade com tal julgamento de constitucionalidade.
+
+Lisboa, 01 de Fevereiro de 1996
+
+Fernando Alves Correia
+
+Messias Bento
+
+José de Sousa e Brito
+
+Guilherme da Fonseca
+
+Luís Nunes de Almeida
+
+Alberto Tavares da Costa
+
+José Manuel Cardoso da Costa
