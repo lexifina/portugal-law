@@ -1,0 +1,4 @@
+Declaração de rectificação n.º 139/94
+Segundo comunicação do Ministério dos Negócios Estrangeiros, a Portaria n.º 343-A/94, publicada no Diário da República, 1.ª série, n.º 126 (suplemento), de 31 de Maio de 1994, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+Na secção IV, «Notariado», no artigo 47.º, onde se lê «2 - Ao emolumento previsto no número anterior acrescem, por cada lauda ou fracção, além da primeira - 8500$00» deve ler-se «2 - Ao emolumento previsto no número anterior acrescem, por cada lauda ou fracção, além da primeira - 850$00».
+Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Agosto de 1994. - Pelo Secretário-Geral, a Directora dos Serviços de Documentação e Relações Públicas, Maria Guiomar Cruz.
