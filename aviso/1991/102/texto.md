@@ -1,0 +1,3 @@
+Aviso n.º 102/91
+Por ordem superior se faz público que, segundo comunicação do Conselho de Cooperação Aduaneira, o Governo da República Federativa Checa e Eslovaca aceitou, em 18 de Dezembro de 1990, sem reservas, os anexos A.2 e C.1, relativos, respectivamente, ao depósito temporário das mercadorias e à exportação a título definitivo, à Convenção Internacional para a Simplificação e Harmonização dos Regimes Aduaneiros, concluída em Quioto em 18 de Maio de 1973.
+Direcção-Geral dos Negócios Político-Económicos, 5 de Junho de 1991. - O Director de Serviços dos Assuntos Multilaterais, António Nunes de Carvalho Santana Carlos.
