@@ -1,0 +1,11 @@
+Resolução do Conselho de Ministros n.º 94/2001
+A FAPRICELA - Indústria de Trefilaria, S. A., pretende com o presente investimento aumentar a capacidade produtiva, através da aquisição de tecnologia inovadora e iniciar a fabricação de um novo produto, contribuindo deste modo para a substituição de importações.
+Para aumentar a sua capacidade produtiva, a empresa pretende proceder à instalação de uma nova linha de fabrico e aumentar a eficiência das já existentes através da aquisição de equipamentos de última geração, reforçando a competitividade através do aumento da qualidade.
+Trata-se de um projecto que envolve um investimento na ordem dos (euro) 14724230 e a criação de 52 postos de trabalho directos.
+Com a implementação do projecto a empresa prevê alcançar um volume de vendas na ordem dos (euro) 46640112 em ano cruzeiro (2003).
+Face ao exposto, considera-se que este projecto reúne as condições necessárias à admissão ao regime contratual de investimento e à concessão de incentivos financeiros e benefícios fiscais previsto no Decreto-Lei n.º 409/99, de 15 de Outubro.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolveu:
+1 - Aprovar a minuta do contrato de investimento e de concessão de incentivos financeiros a celebrar entre o Estado Português, representado pelo IAPMEI - Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento, e a sociedade FAPRICELA - Indústria de Trefilaria, S. A., com sede no Apartado 5, Manga da Granja, Ançã, com o capital social de (euro) 9000000, para a realização de um projecto de inovação, modernização e expansão industrial.
+2 - Atento o disposto nos n.os 1 a 3 do artigo 39.º do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de Julho, na redacção que lhe foi dada pelo Decreto-Lei n.º 198/2001, de 3 de Julho, e por força do artigo 8.º do Decreto-Lei n.º 406/99, de 15 de Outubro, sob proposta do Ministro das Finanças, conceder os benefícios fiscais em sede de imposto sobre o rendimento de pessoas colectivas e imposto do selo, que constam do contrato de concessão de benefícios fiscais, cuja minuta, rubricada pelo Ministro das Finanças, ficará arquivada no IAPMEI.
+Presidência do Conselho de Ministros, 19 de Julho de 2001. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
