@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1914/06/09300/03480348.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1914-06-08",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "c6f3927a94a633f9ed303eb98b1f41d6846ba3b30dcdf7f680e2f8b3b5639f07",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.3,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "b6c7e0918ed098380749ddb325bbd5e808ced5b3a29a509fa42c4318db34f560",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 119
 }
