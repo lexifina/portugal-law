@@ -1,0 +1,6 @@
+Despacho Normativo n.º 480/93
+Considerando que o licenciado Júlio Gabriel Casanova Nabais exerce, em comissão de serviço, o cargo de adjunto da directora do Secretariado para a Modernização Administrativa, equiparado a subdirector-geral, reúne os requisitos necessários para acesso à categoria de assessor principal e requereu a criação do respectivo lugar;
+Considerando o disposto no artigo 3.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, e nos n.os 6, 7 e 8 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção que lhe foi conferida pelo artigo 1.º daquele diploma:
+Determina-se o seguinte:
+É criado no quadro de pessoal da Direcção-Geral da Administração Pública, aprovado pela Portaria n.º 107/93, de 29 de Janeiro, um lugar de assessor principal, a extinguir quando vagar.
+Ministério das Finanças, 2 de Dezembro de 1993. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento.
