@@ -1,0 +1,13 @@
+Despacho Normativo n.º 115/85
+1. De acordo com o disposto na alínea b) do artigo 48.º do Decreto-Lei n.º 385/82, de 16 de Setembro, compete às secretarias-gerais executar o expediente dos assuntos comuns aos tribunais, cabendo ao respectivo dirigente, conforme o preceituado nos artigos 50.º e 140.º, n.º 2, do mesmo diploma, entre outras funções, a de providenciar pela conservação das instalações e equipamento dos tribunais inseridos no âmbito de gestão da secretaria-geral.
+7. Tal linha de orientação esteve na base da publicação no Diário da República, de 13 de Maio de 1983, do Despacho Normativo n.º 117/83, cujo n.º 5 ordenou fosse assegurado pelas secretarias-gerais o apoio material às procuradorias da República, precisamente porque são comuns a mais de um juízo e secretaria judicial.
+3. Formou-se, assim, o entendimento de que:
+a) Às secretarias-gerais cabe providenciar pela conservação das instalações e equipamento dos tribunais, quando no mesmo edifício se encontre instalada ou seja susceptível de instalação mais de uma secretaria judicial;
+b) O apoio material a serviços que funcionem em instalações que não dependem de uma única ou de nenhuma secretaria judicial é igualmente assegurado pelas secretarias-gerais.
+4. O Tribunal Criminal de Lisboa, instalado em Monsanto, é susceptível de utilização, nos termos da alínea b) do n.º 1 do artigo 56.º da Lei n.º 82/77, de 6 de Dezembro, e dos artigos 7.º a 10.º do Decreto-Lei n.º 269/78, de 1 de Setembro, por qualquer juízo e respectiva secretaria judicial, criminal, correccional e de polícia de Lisboa, deteminando-se tal utilização em conformidade com o grau de segurança e de intervenientes requeridos por cada processo judicial em concreto.
+Não restam, assim, dúvidas de que no edifício do referido Tribunal pode ser instalada mais de uma secretaria judicial, razão por que a respectiva administração não cabe a uma única delas.
+Assim:
+Usando da faculdade conferida pelo artigo 153.º do Decreto-Lei n.º 385/82, de 16 de Setembro, determino:
+1 - Compete à Secretaria-Geral Comum de Lisboa providenciar pela conservação das instalações e equipamento e assegurar o apoio material aos serviços judiciais e do Ministério Público que se instalem, a título transitório no edifício do Tribunal Criminal de Lisboa, sito em Monsanto.
+2 - O pessoal que seja afecto, a título permanente, ao Tribunal a que se refere o número anterior fica na dependência hierárquica do dirigente da Secretaria-Geral Comum de Lisboa.
+Ministério da Justiça, 30 de Outubro de 1985. - O Ministro da Justiça, Mário Ferreira Bastos Raposo.
