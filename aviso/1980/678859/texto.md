@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que o Ministério dos Negócios Estrangeiros enviou à Embaixada da República Popular da Hungria uma nota verbal, datada de 2 de Outubro de 1979, informando que a parte portuguesa dera cumprimento às formalidades constitucionais relativas à entrada em vigor do Acordo de Transportes Marítimos entre o Governo da República Portuguesa e o Governo da República Popular da Hungria, assinado em Budapeste em 24 de Março de 1979 e publicado no Diário da República, 1.ª série, n.º 217, de 19 de Setembro de 1979, em resposta a uma nota verbal daquela Embaixada, datada de 3 de Julho de 1979, que informava estarem cumpridas aquelas formalidades pela parte húngara.
+Nesta conformidade, e segundo o disposto no seu artigo XII, o Acordo em apreço entrou em vigor em 2 de Outubro de 1979.
+Direcção-Geral dos Negócios Económicos, 12 de Fevereiro de 1980. - O Director-Geral-Adjunto, Francisco Moita.
