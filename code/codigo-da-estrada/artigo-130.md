@@ -1,6 +1,6 @@
 # Artigo 130.º
 
-### Caducidade do título de condução
+### Caducidade do título
 
 1 - A carta ou licença de condução caduca quando:
 
@@ -10,7 +10,7 @@ b) Não for revalidada nos termos fixados em regulamento, apenas no que refere �
 
 c) O seu titular não se submeter ou reprovar em qualquer dos exames a que se referem os n.os 1 a 3 do artigo anterior.
 
-2 - Os condutores que deixem ultrapassar sucessivamente dois escalões etários previstos para a revalidação de qualquer categoria do seu título de condução só podem revalidá-la mediante aprovação nas provas do exame a que se refere a alínea e) do n.º 1 do artigo 126.º, salvo se demonstrarem ter sido titulares de um documento idêntico e válido durante esse período.
+2 - A renovação do título de condução depende do prévio cumprimento das sanções aplicadas ao titular que se tenha constituído como infractor.
 
 3 - Os titulares de carta ou licença de condução caducada nos termos da alínea a) do n.º 1 só podem obter novo título idêntico após aprovação em novo exame.
 

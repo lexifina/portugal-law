@@ -6,7 +6,7 @@
 
 ### Apreensão de veículos
 
-1 - O veículo deve ser apreendido pelas autoridades de investigação criminal ou de fiscalização do trânsito ou seus agentes, quando:
+1 - O veículo deve ser apreendido pelas autoridades de investigação criminal ou de fiscalização de trânsito ou seus agentes quando:
 
 a) Transite com números de matrícula que não lhe correspondam ou não tenham sido legalmente atribuídos;
 
@@ -14,9 +14,9 @@ b) Transite sem chapas de matrícula ou não se encontre matriculado, salvo nos 
 
 c) Transite com números de matrícula que não sejam válidos para o trânsito em território nacional;
 
-d) Transite estando o respectivo livrete apreendido, salvo se este tiver sido substituído por guia passada nos termos do artigo anterior;
+d) Transite, estando o respectivo certificado de matrícula apreendido, salvo se este tiver sido substituído por guia passada nos termos do artigo anterior;
 
-e) O respectivo registo de propriedade não tenha sido regularizado no prazo legal;
+e) O respectivo registo de propriedade ou a titularidade do certificado de matrícula não tenham sido regularizados no prazo legal;
 
 f) Não tenha sido efectuado seguro de responsabilidade civil nos termos da lei.
 

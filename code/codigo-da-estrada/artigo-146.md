@@ -30,6 +30,6 @@ j) A transposição ou a circulação em desrespeito de uma linha longitudinal c
 
 l) O trânsito sem iluminação do veículo, quando obrigatória;
 
-m) A condução sob influência do álcool;
+m) A condução sob influência do álcool, quando a taxa de álcool no sangue for igual ou superior a 0,5 g/l;
 
 n) A não utilização do sinal de pré-sinalização de perigo, quando obrigatório, fora das localidades.

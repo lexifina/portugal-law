@@ -1,4 +1,12 @@
-## CÓDIGO DA ESTRADATÍTULO IDisposições geraisCAPÍTULO IPrincípios gerais
+## CÓDIGO DA ESTRADA
+
+## TÍTULO I
+
+## Disposições gerais
+
+## CAPÍTULO I
+
+## Princípios gerais
 
 # Artigo 1.º
 
@@ -45,3 +53,5 @@ s) Rotunda: praça formada por cruzamento ou entroncamento, onde o trânsito se 
 t) Parque de estacionamento: local exclusivamente destinado ao estacionamento de veículos;
 
 u) Localidade: zona com edificações e cujos limites são assinalados com os sinais regulamentares.
+
+v) Zona de estacionamento: local da via pública especialmente destinado, por construção ou sinalização, ao estacionamento.

@@ -4,14 +4,24 @@
 
 # Artigo 81.º
 
-### Condução sob o efeito do álcool ou de estupefacientes ou psicotrópicos
+### Condução sob influência de álcool, estupefacientes, substâncias psicotrópicas ou produtos com efeito análogo
 
-1 - É proibido conduzir sob a influência do álcool ou de substâncias legalmente consideradas estupefacientes ou psicotrópicas.
+1 - É proibido conduzir sob influência de álcool, estupefacientes, substâncias psicotrópicas ou produtos com efeito análogo.
 
-2 - Considera-se sob influência do álcool o condutor que apresente uma taxa de álcool no sangue igual ou superior a 0,5 g/l ou que, após exame realizado nos termos previstos no presente Código e legislação complementar, seja como tal considerado em relatório médico.
+2 - Considera-se sob influência de álcool, estupefacientes, substâncias psicotrópicas ou produtos com efeito análogo o condutor que, após exame realizado nos termos do presente Código e legislação complementar, apresente, em relatório médico ou pericial:
 
-3 - Para efeitos de aplicação do disposto no presente Código, a conversão dos valores do teor de álcool no ar expirado (TAE) em teor de álcool no sangue (TAS) é baseada no princípio de que 1 mg de álcool por litro de ar expirado é equivalente a 2,3 g de álcool por litro de sangue.
+a) Taxa de álcool no sangue superior a 0,2g/l;
 
-4 - Quem conduzir sob influência do álcool é sancionado com coima de 20000$00 a 100000$00, salvo se a taxa de álcool no sangue for igual ou superior a 0,8 g/l, caso em que a coima é de 40000$00 a 200000$00.
+b) Resultado positivo em análises toxicológicas efectuadas para detecção de estupefacientes, substâncias psicotrópicas ou produtos com efeito análogo.
 
-5 - Quem conduzir sob influência de substâncias legalmente consideradas estupefacientes ou psicotrópicas é sancionado com coima de 40000$00 a 200000$00.
+3 - Para efeitos de aplicação do disposto no presente Código, a conversão dos valores do teor de álcool no ar expirado (TAE) em teor de álcool no sangue (TAS) é baseada no princípio de que 0,1 g de álcool por litro de ar expirado é equivalente a 2,3 g de álcool por litro de sangue.
+
+4 - Quem infringir o disposto nos n.os 1 e 2 é sancionado com coima de:
+
+a) 20000$00 a 100000$00, se a taxa de álcool no sangue for superior à prevista na alínea a) do n.º 2;
+
+b) 40000$00 a 200000$00, se aquela taxa for igual ou superior a 0,8 g/l e inferior a 1,2 g/l ou se conduzir sob influência de estupefacientes, substâncias psicotrópicas ou produtos com efeito análogo;
+
+c) 60000$00 a 300000$00, se a taxa de álcool for igual ou superior a 1,2 g/l.
+
+5 - Quem recusar submeter-se aos exames estabelecidos no n.º 2 do presente artigo é sancionado com coima de 300000$00, se ao facto não couber sanção mais grave.

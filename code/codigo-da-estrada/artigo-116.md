@@ -17,3 +17,5 @@ c) Aprovação de alteração de características regulamentares;
 d) Verificação periódica das suas características e condições de segurança.
 
 2 - Pode ainda determinar-se a sujeição dos veículos referidos no número anterior a inspecção quando, em consequência de alteração das características regulamentares do veículo, de acidente ou de outras causas, haja fundadas suspeitas sobre as suas condições de segurança ou dúvidas sobre a sua identificação.
+
+3 - A realização das inspecções depende do prévio cumprimento das sanções aplicadas ao proprietário ou possuidor efectivo do veículo que se tenha constituído infractor.

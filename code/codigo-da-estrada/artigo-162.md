@@ -2,7 +2,7 @@
 
 ### Exames em caso de acidente
 
-1 - Os condutores e quaisquer pessoas que intervenham em acidente de trânsito devem, sempre que o seu estado de saúde o permitir, ser submetidos ao exame de pesquisa de álcool no ar expirado nos termos do artigo 159.º
+1 - Os condutores e peões que intervenham em acidente de trânsito devem, sempre que o seu estado de saúde o permitir, ser submetidos a exame de pesquisa de álcool no ar expirado nos termos do artigo 159.º
 
 2 - Quando não tiver sido possível a realização do exame no local do acidente, deve o médico do estabelecimento hospitalar a que os intervenientes no acidente sejam conduzidos proceder aos exames necessários para
 

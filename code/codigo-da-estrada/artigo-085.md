@@ -18,7 +18,7 @@ c) Certificado de seguro.
 
 a) Título de registo de propriedade do veículo ou documento equivalente;
 
-b) Livrete do veículo ou documento equivalente;
+b) Certificado de matrícula do veículo ou documento equivalente;
 
 c) Ficha de inspecção periódica do veículo, quando obrigatória nos termos legais.
 

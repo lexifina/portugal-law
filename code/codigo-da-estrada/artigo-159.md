@@ -8,7 +8,7 @@
 
 3 - A contraprova referida no número anterior deve ser realizada por um dos seguintes meios, de acordo com a vontade do examinando:
 
-a) Novo exame, a efectuar através de aparelho aprovado especificamente para o efeito;
+a) Novo exame, a efectuar através de aparelho aprovado;
 
 b) Análise de sangue.
 

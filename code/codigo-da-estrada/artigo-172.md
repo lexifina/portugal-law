@@ -1,24 +1,26 @@
 # Artigo 172.º
 
-### Remoção
+### Remoção e bloqueamento
 
-1 - Podem ser removidos da via pública os veículos que se encontrem:
+1 - Podem ser removidos os veículos que se encontrem:
 
 a) Estacionados abusivamente, nos termos do artigo 170.º, não tendo sido retirados nas condições fixadas na lei;
 
-b) Estacionados ou imobilizados por acidente ou avaria na berma de auto-estrada ou via equiparada;
+b) Estacionados ou imobilizados na berma de auto-estrada ou via equiparada;
 
-c) Estacionados ou imobilizados por acidente ou avaria de modo a constituírem evidente perigo ou grave perturbação para o trânsito.
+c) Estacionados ou imobilizados de modo a constituírem evidente perigo ou grave perturbação para o trânsito;
 
-2 - Para os efeitos do disposto na alínea c) do número anterior, considera-se que constituem evidente perigo ou grave perturbação para o trânsito os seguintes casos de estacionamento ou imobilização:
+d) Com sinais exteriores de manifesta inutilização do veículo, nos termos definidos em regulamento.
+
+2 - Para efeitos do disposto na alínea c) do número anterior, considera-se que constituem evidente perigo ou grave perturbação para o trânsito os seguintes casos de estacionamento ou imobilização:
 
 a) Em via ou corredor de circulação reservados a transportes públicos;
 
 b) Em local de paragem de veículos de transporte colectivo de passageiros;
 
-c) Em passagem de peões sinalizada ou em zona reservada exclusivamente ao trânsito de peões;
+c) Em passagem de peões sinalizada;
 
-d) Em cima dos passeios, quando impeça o trânsito de peões;
+d) Em cima dos passeios ou em zona reservada exclusivamente ao trânsito de peões;
 
 e) Na faixa de rodagem, sem ser junto da berma ou passeio;
 
@@ -36,14 +38,14 @@ l) De noite, na faixa de rodagem, fora das localidades, salvo em caso de imobili
 
 m) Na faixa de rodagem de auto-estrada ou via equiparada.
 
-3 - Verificada qualquer das situações previstas na alínea a) do n.º 1, as autoridades competentes para a fiscalização podem bloquear o veículo através de dispositivo adequado, impedindo a sua deslocação até que se possa proceder à remoção.
+3 - Verificada qualquer das situações previstas nas alíneas a), b) e c) do n.º 1, as autoridades competentes para a fiscalização podem bloquear o veículo através de dispositivo adequado, impedindo a sua deslocação até que se possa proceder à remoção.
 
-4 - O desbloqueamento do veículo só pode ser feito pelas autoridades competentes sendo qualquer outra pessoa que o fizer sancionada com coima de 40000$00 a 200000$00.
+4 - Na situação prevista na alínea c) do n.º 1, as autoridades competentes para a fiscalização podem, também, proceder à deslocação provisória do veículo para outro local, a fim de ser aí bloqueado até à remoção.
 
-5 - Os proprietários, usufrutuários, adquirentes com reserva de propriedade ou locatários em regime de locação financeira são responsáveis por todas as despesas ocasionadas pela remoção, sem prejuízo das sanções legais aplicáveis, ressalvando o direito de regresso contra o condutor.
+5 - O desbloqueamento do veículo só pode ser feito pelas autoridades competentes sendo qualquer outra pessoa que o fizer sancionada com coima de 40000$00 a 200000$00.
 
-6 - As taxas devidas pela remoção de veículos, bem como pelo depósito dos mesmos, são aprovadas por regulamento.
+6 - Os proprietários, usufrutuários, adquirentes com reserva de propriedade ou locatários em regime de locação financeira são responsáveis por todas as despesas ocasionadas pela remoção, sem prejuízo das sanções legais aplicáveis, ressalvando o direito de regresso contra o condutor.
 
-7 - As taxas não são devidas quando se verificar que houve errada aplicação das disposições legais.
+7 - As taxas devidas pela remoção de veículos, bem como pelo depósito dos mesmos, são aprovadas por regulamento.
 
-Aditado pelo seguinte diploma: Decreto-Lei n.º 2/98, de 03 de Janeiro
+8 - As taxas não são devidas quando se verificar que houve errada aplicação das disposições legais.

@@ -16,4 +16,4 @@
 
 5 - As características da matrícula são definidas em regulamento.
 
-6 - Quem puser em circulação veículo não matriculado nos termos dos números anteriores é sancionado com coima de 50000$00 a 250000$00, salvo quando se tratar de ciclomotor, tractocarro, tractor ou reboque agrícola ou florestal, em que a coima é de 25000$00 a 125000$00.
+6 - Quem puser em circulação veículo não matriculado nos termos dos números anteriores é sancionado com coima de 100000$00 a 500000$00, salvo quando se tratar de ciclomotor, tractocarro, tractor ou reboque agrícola ou florestal, em que a coima é de 50000$00 a 250000$00.
