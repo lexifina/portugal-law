@@ -1,0 +1,4 @@
+Aviso n.º 67/92
+Por ordem superior se torna público que os Governos de Angola e do Brasil depositaram junto do Secretário-Geral das Nações Unidas, respectivamente em 10 e 24 de Janeiro de 1992, os instrumentos de adesão ao Pacto Internacional Relativo aos Direitos Económicos, Sociais e Culturais e ao Pacto Internacional Relativo aos Direitos Civis e Políticos, ambos adoptados pela Assembleia Geral das Nações Unidas em 16 de Dezembro de 1966.
+Em 10 de Fevereiro de 1992, Angola aderiu ainda ao Protocolo Facultativo ao Pacto Internacional Relativo aos Direitos Civis e Políticos, adoptado pela Assembleia Geral das Nações Unidas em 16 de Dezembro de 1966.
+Direcção-Geral dos Negócios Político-Económicos, 28 de Abril de 1992. - O Director de Serviços dos Assuntos Multilaterais, António Nunes de Carvalho Santana Carlos.
