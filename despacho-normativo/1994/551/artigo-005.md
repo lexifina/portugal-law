@@ -14,7 +14,7 @@ d) Comprovar que dispõem de contabilidade organizada de acordo com as especific
 
 e) Comprovar que possuem ou virão a possuir sistemas de controlo adequados à análise e ao acompanhamento do projecto;
 
-f) Comprovar que têm a sua situação contributiva regularizada perante o Estado e a segurança social, bem como que têm a sua situação regularidada em relação ao Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI);
+f) Comprovar que têm a sua situação contributiva regularizada perante o Estado e a segurança social, bem como que têm a sua situação regularizada em relação ao Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPMEI);
 
 g) Encontrar-se registados para efeitos do cadastro industrial ou comprometerem-se a requerê-lo no prazo de 20 dias úteis;
 
