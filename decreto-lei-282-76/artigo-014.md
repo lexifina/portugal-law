@@ -4,7 +4,7 @@
 
 3. A promoção de faroleiro de 3.ª classe a faroleiro de 2.ª classe realiza-se por diuturnidade, após quatro anos de serviço efectivo naquela categoria.
 
-4. A promoção de faroleiro de 2.ª classe a faroleiro de 1.ª classe realiza-se por antiguidade.
+4 - A promoção de faroleiro de 2.ª classe a faroleiro de 1.ª classe efectua-se por antiguidade e escolha com doseamento sequencial de ambas as modalidades de promoção e de acordo com a proporção a fixar por despacho do Chefe do Estado-Maior da Armada, sob proposta do director do Serviço do Pessoal.
 
 5. A promoção a faroleiro-subchefe efectua-se por concurso entre os faroleiros de 1.ª classe com, pelo menos, dois anos de serviço efectivo nesta categoria.
 
