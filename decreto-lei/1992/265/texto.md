@@ -1,0 +1,68 @@
+Decreto-Lei n.º 265/92
+de 24 de Novembro
+O Departamento de Acompanhamento e Avaliação (DAA) foi criado pelo Decreto-Lei n.º 130/86, de 7 de Junho, tendo por objectivo realizar a supervisão e a apreciação do impacte sobre o desenvolvimento económico e social do País, dos programas e projectos de investimento incluídos no Plano.
+Para isso, foi criada uma metodologia baseada num sistema de acompanhamento e avaliação destinado a fornecer informações actualizadas sobre a execução física e financeira dos programas e projectos de investimento público, dotando, assim, a Administração Pública de meios e técnicas modernos e inovadores, à semelhança do que se passa noutros países da Comunidade Europeia.
+Verificou-se, entretanto, que as funções e programas de cooperação internacional se foram gradualmente esvaziando, perante as alterações da posição de Portugal junto das organizações internacionais com fins de promoção do desenvolvimento, passando de beneficiário a contribuinte daquelas organizações, ao aderir à Comunidade Europeia.
+Por outro lado, a importância que o acompanhamento e a avaliação têm na preparação do Quadro Comunitário de Apoio, bem como na sua negociação com a Comissão Europeia, justificou a passagem das competências do DAA, nesta matéria, para o organismo do Ministério do Planeamento e da Administração do Território incumbido da negociação e da coordenação dos fundos estruturais comunitários, a Direcção-Geral do Desenvolvimento Regional.
+Atendendo, ainda, a que as tarefas de acompanhamento e avaliação têm cada vez maior incidência na preparação do PIDDAC, entendeu-se reforçar, nesta área, as funções do Departamento Central de Planeamento.
+As razões acima referidas, bem como as exigências de racionalização administrativa desde logo estabelecidas no Programa do Governo, levaram à decisão de extinção do DAA.
+Deste modo, em virtude da extinção deste organismo, procede-se à alteração da orgânica do Ministério do Planeamento e da Administração do Território, estabelecida no Decreto-Lei n.º 130/86, de 7 de Junho.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º - 1 - É extinto o Departamento de Acompanhamento e Avaliação, criado pelo Decreto-Lei n.º 130/86, de 7 de Junho.
+2 - São revogados a alínea h) do n.º 1 do artigo 1.º e os artigos 23.º, 24.º e 25.º do diploma referido no número anterior, com a redacção introduzida pelos Decretos-Leis n.os 23/90, de 16 de Janeiro, e 409/90, de 31 de Dezembro.
+Art. 2.º Os artigos 20.º, 21.º e 22.º do Decreto-Lei n.º 130/86, de 7 de Junho, alterados pelos Decretos-Leis n.os 23/90, de 16 de Janeiro, e 409/90, de 31 de Dezembro, passam a ter a seguinte redacção:
+Art. 20.º A Direcção-Geral do Desenvolvimento Regional é o serviço incumbido de estudar e promover a política de desenvolvimento regional, de coordenar as intervenções dos fundos estruturais comunitários e de preparar e acompanhar a execução das acções co-financiadas pelo Fundo Europeu de Desenvolvimento Regional (FEDER).
+Art. 21.º ...
+a) ...
+b) ...
+c) ...
+d) ...
+e) ...
+f) Coordenar as negociações, a gestão e o acompanhamento da execução das acções financiadas pelos fundos estruturais comunitários;
+g) ...
+h) ...
+i) ...
+j) Promover a avaliação do impacte e dos efeitos das intervenções operacionais financiadas pelos fundos estruturais comunitários, em estreita articulação com os departamentos sectoriais mais directamente envolvidos;
+l) Promover a cooperação com entidades nacionais, internacionais e estrangeiras no domínio das suas atribuições.
+Art. 22.º - 1 - A Direcção-Geral do Desenvolvimento Regional é dirigida por um director-geral, coadjuvado por três subdirectores-gerais, e compreende os seguintes serviços:
+a) Núcleo de Política Regional;
+b) Direcção de Serviços de Iniciativas Regionais;
+c) Direcção de Serviços de Programas;
+d) Direcção de Serviços de Apoio ao Investimento;
+e) Direcção de Serviços de Avaliação;
+f) Direcção de Serviços de Informação e Controlo.
+2 - O Núcleo de Política Regional tem a natureza de direcção de serviços.
+Art. 3.º Todas as posições jurídicas activas ou passivas de que, por força de lei, regulamento, contrato ou acto administrativo, no âmbito do Ministério do Planeamento e da Administração do Território, era titular o Departamento de Acompanhamento e Avaliação são transferidas para a Direcção-Geral do Desenvolvimento Regional.
+Art. 4.º - 1 - É extinto o quadro de pessoal privativo do Departamento de Acompanhamento e Avaliação do Ministério do Planeamento e da Administração do Território, criado pelo Decreto-Lei n.º 272/91, de 7 de Agosto, e constante do mapa VIII anexo àquele diploma.
+2 - O pessoal do serviço extinto pelo número anterior transita para o quadro de pessoal do Departamento Central de Planeamento e da Direcção-Geral do Desenvolvimento Regional.
+3 - A transição referida no número anterior verifica-se nos seguintes termos:
+a) Para a mesma carreira, categoria e escalão que o funcionário já possui;
+b) Sem prejuízo das habilitações legais, para carreira e categoria que integre as funções desempenhadas pelo funcionário, em escalão a que corresponda o mesmo índice remuneratório ou, quando não se verifique coincidência de índice, em escalão a que corresponda o índice superior mais aproximado na estrutura da carreira para que se proceda a transição.
+4 - As correspondências de categoria fazem-se em função do índice remuneratório correspondente ao escalão 1 da categoria em que o funcionário se encontra e do escalão 1 da categoria da nova carreira, sem prejuízo da atribuição do índice nos termos da alínea b) do número anterior.
+5 - O disposto na alínea b) do n.º 3 e do n.º 4 é aplicável quando se verificar desajustamento entre as funções desempenhadas e o conteúdo funcional da carreira em que o funcionário se encontrava provido.
+6 - Nas situações previstas nos números anteriores será contado, para efeitos da progressão e promoção, todo o tempo de serviço prestado anteriormente em idêntico desempenho na categoria de que transitam.
+7 - Os funcionários não integrados ao abrigo do n.º 2 são constituídos em excedentes, nos termos da lei, sem prejuízo do recurso aos instrumentos de mobilidade, nomeadamente a transferência, com vista à sua afectação a outros serviços.
+8 - As transições de pessoal previstas no presente artigo não prejudicam os estágios em curso nem os correspondentes direitos dos estagiários.
+9 - As requisições e os destacamentos de funcionários ou agentes que se encontrem a exercer funções no Departamento de Acompanhamento e Avaliação são dados por findos a partir da data da entrada em vigor do presente diploma.
+Art. 5.º Aos quadros do Departamento Central de Planeamento e da Direcção-Geral do Desenvolvimento Regional previstos nos anexos VI e VII do Decreto-Lei n.º 272/91, de 7 de Agosto, são acrescentados os lugares constantes dos mapas anexos ao presente diploma e que dele fazem parte integrante.
+Art. 6.º O património do Departamento de Acompanhamento e Avaliação será afecto por auto de transferência à Direcção-Geral do Desenvolvimento Regional e ao Departamento Central de Planeamento.
+Art. 7.º Os encargos financeiros resultantes da aplicação do presente diploma são suportados, no presente ano económico, pelas verbas orçamentais que estavam destinadas ao Departamento de Acompanhamento e Avaliação mediante as correspondentes transferências de verbas.
+Visto e aprovado em Conselho de Ministros de 23 de Julho de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira.
+Promulgado em 11 de Setembro de 1992.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 15 de Setembro de 1992.
+O Primeiro-ministro Aníbal António Cavaco Silva.
+
+MAPA I
+(previsto no artigo 5.º)
+Lugares acrescentados ao quadro do Departamento Central de Planeamento
+(anexo VI do Decreto-Lei n.º 272/91, de 7 de Agosto)
+(ver documento original)
+
+MAPA II
+(previsto no artigo 5.º)
+Lugar acrescentado ao quadro da Direcção-Geral do Desenvolvimento Regional
+(anexo VII do Decreto-Lei n.º 272/91, de 7 de Agosto)
+(ver documento original)
