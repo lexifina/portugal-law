@@ -1,0 +1,921 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "148",
+    "id": "6145",
+    "titulo": "Actualização das pensões degradadas da função pública."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2000-05-03",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1738",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2000-05-03",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "6225",
+        "leg": "VIII",
+        "nr": "90",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "433",
+            "obs": null,
+            "pag": [
+              "2400-2408"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-05-04",
+            "pubLeg": "VIII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/060/2000-05-04/2400?pgs=2400-2408&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "433",
+            "obs": null,
+            "pag": [
+              "2400-2408"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-05-04",
+            "pubLeg": "VIII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/060/2000-05-04/2400?pgs=2400-2408&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "433",
+            "obs": null,
+            "pag": [
+              "2400-2408"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-05-04",
+            "pubLeg": "VIII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/060/2000-05-04/2400?pgs=2400-2408&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Pensões degradadas da administração pública"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "6189",
+        "leg": "VIII",
+        "nr": "112",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "433",
+            "obs": null,
+            "pag": [
+              "2400-2408"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-05-04",
+            "pubLeg": "VIII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/060/2000-05-04/2400?pgs=2400-2408&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "433",
+            "obs": null,
+            "pag": [
+              "2400-2408"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-05-04",
+            "pubLeg": "VIII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/060/2000-05-04/2400?pgs=2400-2408&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "433",
+            "obs": null,
+            "pag": [
+              "2400-2408"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-05-04",
+            "pubLeg": "VIII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/060/2000-05-04/2400?pgs=2400-2408&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Pensões degradadas da administração pública."
+      },
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "6119",
+        "leg": "VIII",
+        "nr": "162",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "433",
+            "obs": null,
+            "pag": [
+              "2400-2408"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-05-04",
+            "pubLeg": "VIII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/060/2000-05-04/2400?pgs=2400-2408&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "433",
+            "obs": null,
+            "pag": [
+              "2400-2408"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-05-04",
+            "pubLeg": "VIII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/060/2000-05-04/2400?pgs=2400-2408&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "433",
+            "obs": null,
+            "pag": [
+              "2400-2408"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-05-04",
+            "pubLeg": "VIII",
+            "pubNr": "60",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/060/2000-05-04/2400?pgs=2400-2408&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Lei de uniformização das pensões da Função Pública"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-05-03",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1352",
+                "nome": "Paulo Portas"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28013",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2411-2411"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-04",
+                "pubLeg": "VIII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/060/2000-05-04/2411?pgs=2411&org=PLC"
+              }
+            ],
+            "sumario": "PENSOES DEGRADADAS NA ADMINISTRACAO PUBLICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28014",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2410-2410"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-04",
+                "pubLeg": "VIII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/060/2000-05-04/2410?pgs=2410&org=PLC"
+              }
+            ],
+            "sumario": "PENSOES DEGRADADAS NA ADMINISTRACAO PUBLICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1727",
+                "nome": "Alexandre Chaves"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28015",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2409-2409"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-04",
+                "pubLeg": "VIII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/060/2000-05-04/2409?pgs=2409&org=PLC"
+              }
+            ],
+            "sumario": "PENSOES DEGRADADAS NA ADMINISTRACAO PUBLICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28017",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2407-2408"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-04",
+                "pubLeg": "VIII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/060/2000-05-04/2407?pgs=2407-2408&org=PLC"
+              }
+            ],
+            "sumario": "PENSOES DEGRADADAS NA ADMINISTRACAO PUBLICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1352",
+                "nome": "Paulo Portas"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28018",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2407-2407"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-04",
+                "pubLeg": "VIII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/060/2000-05-04/2407?pgs=2407&org=PLC"
+              }
+            ],
+            "sumario": "PENSOES DEGRADADAS NA ADMINISTRACAO PUBLICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1630",
+                "nome": "Menezes Rodrigues"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28019",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2406-2408"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-04",
+                "pubLeg": "VIII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/060/2000-05-04/2406?pgs=2406-2408&org=PLC"
+              }
+            ],
+            "sumario": "PENSOES DEGRADADAS NA ADMINISTRACAO PUBLICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1287",
+                "nome": "Sílvio Rui Cervan"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28020",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2406-2406"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-04",
+                "pubLeg": "VIII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/060/2000-05-04/2406?pgs=2406&org=PLC"
+              }
+            ],
+            "sumario": "PENSOES DEGRADADAS NA ADMINISTRACAO PUBLICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28021",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2405-2406"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-04",
+                "pubLeg": "VIII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/060/2000-05-04/2405?pgs=2405-2406&org=PLC"
+              }
+            ],
+            "sumario": "PENSOES DEGRADADAS NA ADMINISTRACAO PUBLICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1287",
+                "nome": "Sílvio Rui Cervan"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28022",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2404-2405"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-04",
+                "pubLeg": "VIII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/060/2000-05-04/2404?pgs=2404-2405&org=PLC"
+              }
+            ],
+            "sumario": "PENSOES DEGRADADAS NA ADMINISTRACAO PUBLICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28023",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2402-2404"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-04",
+                "pubLeg": "VIII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/060/2000-05-04/2402?pgs=2402-2404&org=PLC"
+              }
+            ],
+            "sumario": "PENSOES DEGRADADAS NA ADMINISTRACAO PUBLICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28024",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-04",
+                "pubLeg": "VIII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/060/2000-05-04?org=PLC"
+              }
+            ],
+            "sumario": "PENSOES DEGRADADAS NA ADMINISTRACAO PUBLICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1287",
+                "nome": "Sílvio Rui Cervan"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28025",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2401-2401"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-04",
+                "pubLeg": "VIII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/060/2000-05-04/2401?pgs=2401&org=PLC"
+              }
+            ],
+            "sumario": "PENSOES DEGRADADAS NA ADMINISTRACAO PUBLICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "26",
+                "nome": "Arménio Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "20:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28026",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2400-2401"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-04",
+                "pubLeg": "VIII",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/060/2000-05-04/2400?pgs=2400-2401&org=PLC"
+              }
+            ],
+            "sumario": "PENSOES DEGRADADAS NA ADMINISTRACAO PUBLICA",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "105394",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "111213",
+        "obs": null,
+        "pag": [
+          "2400-2410"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-05-04",
+        "pubLeg": "VIII",
+        "pubNr": "60",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/060/2000-05-04/2400?pgs=2400-2410&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
