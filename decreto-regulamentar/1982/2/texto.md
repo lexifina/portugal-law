@@ -1,0 +1,24 @@
+Decreto Regulamentar n.º 2/82
+de 15 de Janeiro
+Está em curso a elaboração dos planos parcial e de pormenor para a zona industrial da Formiga - Rio Tinto, decorrendo, por conseguinte, até à sua aprovação um lapso de tempo suficientemente longo para implicar, a não se tomarem providências, dificuldades na sua futura execução, tornando-a mais difícil ou onerosa.
+Urge, pois, submeter a área objecto dos referidos planos, que abrange os concelhos de Gondomar e Valongo, a medidas preventivas, do mesmo modo que se torna conveniente que às autarquias seja concedido, dentro da área da sua jurisdição, o direito de preferência nas transmissões por título oneroso, entre particulares, de terrenos ou edifícios.
+Considerando o disposto nos artigos 7.º e 27.º do Decreto-Lei n.º 794/76, de 5 de Novembro:
+O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+Artigo 1.º - 1 - Durante o prazo de 2 anos fica dependente de autorização das Câmaras Municipais de Gondomar e Valongo, precedida de parecer favorável da Direcção-Geral do Planeamento Urbanístico e sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, a prática na área definida na planta anexa a este diploma dos actos ou actividades seguintes:
+a) Criação de novos núcleos habitacionais;
+b) Construção, reconstrução ou ampliação de edifícios ou de outras instalações;
+c) Instalação de explorações ou ampliação das já existentes;
+d) Alterações importantes, por meio de aterros ou escavações, à configuração geral do terreno;
+e) Derrube de árvores em maciço, com qualquer área;
+f) Destruição do solo vivo e do coberto vegetal.
+2 - É aplicável o disposto nos artigos 10.º a 13.º do Decreto-Lei n.º 794/76, de 5 de Novembro.
+3 - São competentes para promover o cumprimento das medidas estabelecidas neste diploma e de proceder em conformidade com o disposto no artigo 12.º do Decreto-Lei n.º 794/76, de 5 de Novembro, as Câmaras Municipais de Gondomar e Valongo e a Direcção-Geral do Planeamento Urbanístico.
+Art. 2.º - 1 - É concedido às Câmaras Municipais de Gondomar e de Valongo o direito de preferência nas transmissões por título oneroso entre particulares de terrenos ou edifícios situados nos terrenos de sua jurisdição incluídos na área definida no n.º 1 do artigo 1.º
+2 - Deverá ser dirigida aos presidentes das Câmaras Municipais de Gondomar e de Valongo a comunicação a que se refere o artigo 3.º do Decreto n.º 862/76, de 22 de Dezembro, consoante as operações de alienação de imóveis abrangidos pelo direito de preferência se situem num ou noutro concelho.
+Art. 3.º Este decreto entra imediatamente em vigor.
+Francisco José Pereira Pinto Balsemão - José Ângelo Ferreira Correia - José Carlos Pinto Soromenho Viana Baptista.
+Promulgado em 21 de Dezembro de 1981.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+(ver documento original)
