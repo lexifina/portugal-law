@@ -1,0 +1,6 @@
+Portaria n.º 22391
+Todos os prédios situados nas áreas de distribuição postal domiciliária de muitas localidades do País estão já providos de receptáculos destinados à entrega da correspondência ordinária, não volumosa.
+Os bons resultados obtidos com aquele sistema de distribuição aconselham a torná-lo extensivo a outras localidades que estão em ritmo crescente de urbanização e onde, a par disso, se adoptam soluções em altura nas zonas de há muito urbanizadas.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelos Ministros do Interior e das Comunicações, nos termos do disposto no § 3.º do artigo 1.º do Regulamento para o Serviço de Receptáculos Domiciliários, aprovado pelo Decreto-Lei n.º 37927, de 1 de Agosto de 1950, tornar extensivo à área de distribuição postal urbana das cidades de Angra do Heroísmo, Bragança, Chaves, Elvas, Estremoz, Funchal, Horta, Guarda, Lamego e Ponta Delgada e das vilas de Barreiro, Cascais, Gondomar, Matosinhos, Oeiras, Sintra, Torres Vedras e Vila Nova de Gaia e ainda à povoação da Parede todas as disposições do citado regulamento.
+Ministérios do Interior e das Comunicações, 24 de Dezembro de 1966. - O Ministro do Interior, Alfredo Rodrigues dos Santos Júnior. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.
