@@ -1,0 +1,4 @@
+Aviso n.º 173/2000
+Por ordem superior se torna público que Portugal depositou, em 15 de Junho de 2000, o seu instrumento de ratificação da Convenção n.º 182, da Organização Internacional do Trabalho, Relativa à Interdição das Piores Formas de Trabalho das Crianças e à Acção Imediata com vista à Sua Eliminação, adoptada pela Conferência Geral da Organização Internacional do Trabalho em 17 de Junho de 1999, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 47/2000 e promulgada pelo Decreto do Presidente da República n.º 28/2000, de 1 de Junho, publicada no Diário da República, 1.ª série-A, n.º 127, de 1 de Junho de 2000.
+Nos termos do seu artigo 10.º, n.º 3, a Convenção entrará em vigor para Portugal em 15 de Junho de 2001, 12 meses após o registo da sua ratificação.
+Direcção-Geral dos Assuntos Multilaterais, 21 de Julho de 2000. - A Directora-Geral, Ana Martinho.
