@@ -1,0 +1,4 @@
+Portaria n.º 229/74
+de 28 de Março
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e das Comunicações, nos termos do n.º 3 do artigo 37.º do estatuto da empresa pública Correios e Telecomunicações de Portugal, anexo I ao Decreto-Lei n.º 49368, de 10 de Novembro de 1969, atendendo ao que por ela foi solicitado, autorizar a referida empresa a contrair na Caixa Geral de Depósitos um empréstimo até ao montante de 250000000$00, à taxa de juro de 8% ao ano, com o período de utilização de seis meses, a contar da data da escritura, e um ano de diferimento da amortização, que será efectuada em vinte e quatro semestralidades.
+Ministérios das Finanças e das Comunicações, 15 de Março de 1974. - O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias. - O Ministro das Comunicações, Rui Alves da Silva Sanches.
