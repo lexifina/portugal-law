@@ -1,0 +1,3 @@
+Despacho
+De acordo com o exposto no artigo 32.º do Decreto-Lei n.º 427/72, de 31 de Outubro, o Instituto dos Cereais fica autorizado, até 31 de Março de 1977, a contrair na Caixa Geral de Depósitos, Crédito e Previdência ou em outra instituição de crédito nacional empréstimos ou quaisquer outras responsabilidades indispensáveis à realização da actividade de compras no estrangeiro de cereais necessários ao abastecimento do País e ainda ao financiamento dos encargos que cabem ao Fundo de Abastecimento e que se mantêm em dívida ao Instituto dos Cereais.
+Ministérios das Finanças e da Agricultura e Pescas, 24 de Novembro de 1976. - O Ministro das Finanças, Henrique Medina Carreira. - O Secretário de Estado do Comércio e Indústrias Agrícolas, Carlos Alberto Antunes Filipe.
