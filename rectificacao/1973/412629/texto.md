@@ -1,0 +1,2 @@
+Rectificação
+No sumário do Decreto-Lei n.º 548/73, publicado pelo Ministério das Finanças, Direcção-Geral das Alfândegas, inserto no Diário do Governo, 1.ª série, n.º 250, de 25 de Outubro de 1973, onde se lê: «Define a aplicação do disposto no Decreto-Lei n.º 65/70, de 26 de Fevereiro, às mercadorias classificadas por vários artigos da Pauta de Importação», deve ler-se: «Determina a aplicação do disposto no Decreto-Lei n.º 65/70, de 26 de Fevereiro, às mercadorias classificadas por vários artigos da Pauta de Importação»
