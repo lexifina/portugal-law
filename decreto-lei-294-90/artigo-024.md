@@ -1,11 +1,3 @@
-## Capítulo II
-
-## Instituto Português do Sangue
-
-## Secção II
-
-## Órgãos e serviços do IPS
-
 ## Capítulo III
 
 ## Associações de dadores de sangue e direitos dos dadores

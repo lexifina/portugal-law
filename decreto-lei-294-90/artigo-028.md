@@ -4,7 +4,7 @@
 
 1 - São criados a medalha de dador de sangue, o diploma e o distintivo para galardoar a dedicação inerente à dádiva benévola de sangue.
 
-2 -A medalha de dador de sangue compreende os graus de medalha dourada, medalha prateada e medalha cobreada e será concedida pelo Ministro da Saúde nos seguintes casos:
+2 - A medalha de dador de sangue compreende os graus de medalha dourada, medalha prateada e medalha cobreada e será concedida pelo director do IPS nos seguintes casos:
 
 a) A medalha dourada será concedida aos dadores que tenham completado 60 dádivas benévolas de sangue;
 
