@@ -1,0 +1,42 @@
+Portaria n.º 1061/2004
+de 21 de Agosto
+O Decreto-Lei n.º 156/2004, de 30 de Julho, estabelece no n.º 1 do artigo 17.º que o fogo controlado só pode ser realizado sob orientação e responsabilidade de técnico credenciado para o efeito, de acordo com normas técnicas e funcionais a definir em regulamento a aprovar por portaria do Ministro da Agricultura, Desenvolvimento Rural e Pescas.
+Importa pois definir os requisitos exigidos para a credenciação dos técnicos e a validade temporal da mesma, bem como estabelecer o Regulamento do Fogo Controlado, o qual define conceitos e procedimentos relativos ao planeamento e à concretização da queima e a consequente avaliação da satisfação e quantificação dos objectivos programados.
+O objectivo da presente portaria é estabelecer o Regulamento do Fogo Controlado, bem como definir os requisitos dos técnicos habilitados a planear e a exercer a técnica de uso do fogo, de acordo com o disposto nos artigos 17.º e 20.º do Decreto-Lei n.º 156/2004, de 30 de Junho.
+Assim:
+Nos termos dos n.os 1 e 2 do artigo 17.º e do artigo 20.º do Decreto-Lei n.º 156/2004, de 30 de Junho:
+Manda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:
+1.º
+Regulamento
+É aprovado o Regulamento do Fogo Controlado, que consta do anexo ao presente diploma e do qual faz parte integrante.
+2.º
+Entrada em vigor
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 14 de Julho de 2004.
+
+ANEXO
+REGULAMENTO DO FOGO CONTROLADO
+1 - O presente Regulamento é aplicável à utilização do fogo como técnica de gestão de espaços florestais e naturais para fins silvícolas, de gestão de combustíveis, no ordenamento cinegético e silvo-pastoril e na manutenção e recuperação de habitats e paisagens.
+2 - Para efeitos do disposto no presente Regulamento, são adoptadas as seguintes definições e conceitos:
+a) «Fogo controlado» - ferramenta de gestão de espaços florestais que consiste no uso do fogo sob condições, normas e procedimentos conducentes à satisfação de objectivos específicos e quantificáveis e que é executada sob responsabilidade de técnico credenciado;
+b) «Planeamento do fogo controlado» - planeamento que comporta dois níveis, com diferentes escalas territoriais e temporais:
+i) «Plano de fogo controlado» - programação da aplicação da técnica em função da adequação a diferentes ecossistemas florestais e da evolução do coberto florestal e respectivo padrão espacial, correspondendo-lhe um horizonte anual e plurianual e âmbito de uma unidade de gestão;
+ii) «Plano operacional de queima» - adopção do plano de cada acção de uso da técnica em parcelas determinadas e subordinada às condições metereológicas do momento;
+c) «Gestão do fogo» - conjunto de actividades relacionadas com o fogo, com destaque para prevenção dos incêndios florestais, o uso do fogo e a sua supressão. A vigilância ou patrulhamento, a detecção dos incêndios e a fiscalização da lei são áreas específicas de apoio à gestão do fogo;
+d) «Técnico credenciado» - indivíduo habilitado a elaborar o planeamento do fogo controlado, a preparar e a dirigir a execução da operação, bem como a avaliar os seus resultados;
+e) «Equipa de apoio» - conjunto de meios humanos e materiais constituído por um mínimo de quatro elementos devidamente treinados e equipados, apoiados por uma viatura, dispondo de meios de comunicação e de meios de supressão adequados para fazer face à primeira intervenção;
+f) «Entidade proponente» - proprietários, produtores florestais, agrícolas ou pecuários ou as suas estruturas organizativas, organismos da administração central ou local e ainda outras instituições que contribuam para a defesa da floresta contra incêndios e que sejam titulares do direito de propriedade, posse ou outro, que lhes permita sujeitar os respectivos prédios ao fogo controlado;
+g) «Relatório de execução e avaliação» - relatório no qual se registam parâmetros da alteração produzida pelo fogo no coberto, bem como os seus efeitos; é produzido em duas fases, uma imediatamente após a acção do fogo e outra após a primeira estação de crescimento pós-fogo controlado. A área intervencionada deve ser cartografada à escala 1:10000.
+3 - Credenciação - a) Os técnicos especializados em fogo controlado são credenciados pela Direcção-Geral dos Recursos Florestais.
+b) Constituem requisitos cumulativos da credenciação a detenção, pelos técnicos, de formação base de nível superior na área das Ciências Florestais e a respectiva aprovação em curso de especialização ministrado por entidades acreditadas.
+c) Excepcionalmente, podem vir a ser credenciados outros indivíduos que desenvolvam actividade profissional na gestão do fogo, mediante frequência e aproveitamento no curso da especialização referido na alínea anterior e desde que devidamente enquadrados pelo seu organismo de tutela.
+d) Podem ainda obter credenciação, se assim o requererem, sem necessidade de verificação dos requisitos estabelecidos na alínea b), os indivíduos de reconhecido mérito na área do fogo controlado, quer em virtude de comprovada experiência no ensino ou investigação quer em virtude de comprovada experiência profissional.
+e) A credenciação obtida nos termos das alíneas a) e c) é válida por dois anos, sendo renovável por períodos iguais e sucessivos, mediante avaliação do desempenho baseada nos relatórios de execução e avaliação dos resultados do fogos controlados previstos no Regulamento do Fogo Controlado.
+4 - Tramitação processual. - a) A entidade proponente do fogo controlado submete o plano de fogo controlado (PFC), com programação de acções de queima para um período máximo de cinco anos, para apreciação e parecer ao núcleo florestal da Direcção-Geral dos Recursos Florestais, após o que o apresenta à comissão municipal de defesa da floresta contra incêndios.
+b) A comissão municipal de defesa da floresta contra incêndios avalia a sua exequibilidade de acordo com as intervenções propostas no Plano de Defesa da Floresta e emite a decisão no prazo de 20 dias, findo o qual se considera favorável apenas no caso de o núcleo florestal ter emitido parecer positivo.
+c) Após a aprovação formal por parte da comissão municipal de defesa da floresta contra incêndios, fica a entidade promotora apta a desencadear as acções de uso do fogo controlado, cada uma suportada pelo respectivo plano operacional de queima (POQ), que deve conter já a autorização dos proprietários e a notificação dos vizinhos envolvidos, bem como o plano de emergência/contingência, que deve merecer parecer favorável da corporação de bombeiros local.
+d) A comissão municipal de defesa da floresta contra incêndios comunica a aprovação ao núcleo florestal que remete cópia dos PFC aprovados ao Corpo Nacional da Guarda Florestal, para registo da área percorrida pelo fogo e respectiva origem, bem como para a fiscalização das normas contidas no presente Regulamento.
+e) Cada acção do fogo é sempre precedida de aviso prévio, com vinte e quatro horas de antecedência, à corporação de bombeiros local.
+5 - Execução e avaliação. - a) Os relatórios de execução e avaliação dos resultados dos fogos controlados são remetidos pelo técnico credenciado ao núcleo florestal e à comissão municipal de defesa da floresta contra incêndios para conhecimento das entidades que a integram e que detêm responsabilidades em matéria de gestão territorial em espaços florestais.
+b) Se se concluir pela intervenção inadequada do técnico credenciado, o núcleo florestal ou a comissão municipal de defesa da floresta contra incêndios comunica tal situação à Direcção-Geral dos Recursos Florestais, a fim de se averiguar da existência ou não de fundamentos para a suspensão ou cassação da credencial atribuída.
+c) A comissão municipal de defesa da floresta contra incêndios pode, por sua iniciativa ou por decisão do órgão municipal de protecção civil, suspender a execução do plano de fogo controlado por razões que, não decorrendo da gestão florestal, aconselhem o cancelamento das acções, nomeadamente as relativas à qualidade do ar e à previsão de contingências que limitem a capacidade dos meios de socorro.
