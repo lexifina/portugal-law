@@ -154,21 +154,49 @@ Imobilizado:... dB(A), sendo o regime do motor:... min(elevado a -1);
 
 Em movimento: ... dB(A).
 
-46. Gases de Escape (11)
+46 - Emissões de escape (13):
 
-46.1. Número da norma Euro:... (1, 2 ou 3) (12)
+Ensaio do tipo I: CO: ... g/km; HC:... g/km; NO(índice x):... g/km; HC + NO(índice x):... g/km;
 
-46.2. Ensaio do tipo I: CO:... g/km HC:... g/km NO(índice x)... g/km HC + NO(índice x):... g/km (13)
+Ensaio do tipo II: para ciclomotores: CO: ... g/min; HC:... g/min;
 
-46.3. Ensaio do tipo II: CO (13):... g/min HC (13): ... g/min CO (14):... % vol.
+Para motociclos e triciclos: CO: ...% vol;
 
 Poluição visível do ar originada por um motor de ignição por compressão:
 
-valor corrigido do coeficiente de absorção:... m(elevado a -1)
+Valor corrigido do coeficiente de absorção: ... m(elevado a -1).
 
-47 - Potência fiscal ou número(s) de código nacional(is), se aplicável:
+47 - Potência fiscal ou número(s) de código nacional(ais):
 
-(ver documento original)
+Itália: ...
+
+França: ...
+
+Espanha: ...
+
+Bélgica: ...
+
+Alemanha: ...
+
+Luxemburgo: ...
+
+Dinamarca: ...
+
+Países Baixos: ...
+
+Grécia: ...
+
+Reino Unido: ...
+
+Irlanda: ...
+
+Portugal: ...
+
+Áustria: ...
+
+Suécia: ...
+
+Finlândia: ...
 
 50 - Observações: ...
 
@@ -267,26 +295,6 @@ r(índice 1): 1R,1L r(índice 2):1R,1C,1L
 (nota 11) Número da directiva de base e da última directiva de alteração aplicável à homologação. No caso de uma directiva com duas ou mais fases de implementação, indicar também a fase de implementação.
 
 B) Certificado de conformidade que acompanha cada unidade técnica ou componente não de origem da série a que pertence o tipo homologado.
-
-(12) Dependendo do número da diretiva pertinente e do último ato modificativo aplicável à homologação, a conformidade com a norma Euro 1, 2 ou 3 será determinada como segue:
-
-. Indicação do número da norma Euro, se a entidade homologadora assim o desejar, no caso de homologações efetuadas antes da data seguinte: 11 de dezembro de 2013;
-
-. No quadro constante do Anexo XXXIII-A do Regulamento Relativo a Determinados Elementos e Características dos Veículos a Motor de Duas e Três Rodas, aprovado pelo Decreto-Lei n.º 86-A/2010, de 15 de julho, a conformidade com a primeira linha de valores-limite equivale à conformidade com a norma "Euro 1" e a conformidade com a segunda linha de valores-limite, à conformidade com a da norma "Euro 2";
-
-. A plena conformidade com capítulo VI do regulamento referido no ponto anterior, que inclui a conformidade com a norma "Euro 2", combinada com o método de ensaio estabelecido nos artigos 145.º a 147.º do mesmo regulamento, equivale à conformidade com a norma "Euro 3";
-
-. No quadro constante do Anexo XXXVII-A do Regulamento Relativo a Determinados Elementos e Características dos Veículos a Motor de Duas e Três Rodas, a conformidade com:
-
-- as linhas de valores-limite na parte A do referido quadro, no tocante à classe I ((menor que) 150 cm3) e à classe II ((igual ou maior que) 150 cm3) equivalem à conformidade com a norma "Euro 2";
-
-- as linhas de valores-limite na parte B do mesmo quadro, no tocante à classe I ((menor que) 150 cm3) e à classe II ((igual ou maior que) 150 cm3) equivalem à conformidade com a norma "Euro 3";
-
-- as linhas de valores-limite na parte C do referido quadro, no tocante à classe I (v(índice max) (menor que) 130 km/h) e à classe II (v(índice max) (igual ou maior que) 130 km/h) equivalem à conformidade com a norma "Euro 3" nível.
-
-(13) Só para veículos das categorias L1e, L2e e L6e que satisfaçam as disposições constantes do Regulamento Relativo a Determinados Elementos e Características dos Veículos a Motor de Duas e Três Rodas, na sua última redação.
-
-(14) Para veículos da categoria L no âmbito de aplicação do artigo 1.º do Regulamento da Homologação de Veículos a Motor de Duas e Três Rodas e Respetivo Indicador de Velocidade, com exceção dos veículos das categorias L1e, L2e e L6e.
 
 Eu, abaixo assinado... (apelido, nome), declaro que a/o ... (unidade técnica ou componente):
 
