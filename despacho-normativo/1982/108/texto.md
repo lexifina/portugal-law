@@ -1,0 +1,7 @@
+Despacho Normativo n.º 108/82
+Dando cumprimento ao disposto no artigo 13.º do Decreto-Lei n.º 260/76, de 8 de Abril, com a nova redacção introduzida pelo Decreto-Lei n.º 25/79, de 19 de Fevereiro, e na Resolução do Conselho de Ministros n.º 61-A/81, de 10 de Fevereiro, o Ministro da Defesa Nacional e o Ministro de Estado e das Finanças e do Plano determinam:
+1 - Consideram-se incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1982 os projectos da INDEP - Indústrias Nacionais de Defesa, E. P., a seguir discriminados:
+(ver documento original)
+2 - No presente ano fica vedado à empresa lançar e financiar qualquer novo projecto de investimento não incluído no n.º 1.
+3 - A empresa deverá apresentar ao Ministro de Estado e das Finanças e do Plano e ao Secretário de Estado da Defesa Nacional, no prazo de 30 dias, a contar da data da publicação do presente despacho, os instrumentos previsionais de gestão para 1982 actualizados, de acordo com as alterações decorrentes dos números anteriores e outras que, no entretanto, lhe tenham sido comunicadas, de acordo com o artigo 13.º do Decreto-Lei n.º 260/76, de 8 de Abril, com a nova redacção introduzida pelo Decreto-Lei n.º 25/79, de 19 de Fevereiro.
+Ministérios da Defesa Nacional e das Finanças e do Plano, 31 de Maio de 1982. - Pelo Ministro da Defesa Nacional, Carlos José Sanches Vaz Pardal, Secretário de Estado da Defesa Nacional. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.
