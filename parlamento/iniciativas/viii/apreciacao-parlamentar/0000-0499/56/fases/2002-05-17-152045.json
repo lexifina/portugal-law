@@ -1,0 +1,174 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "56",
+    "id": "18841",
+    "titulo": "Decreto-Lei n.º 276/2001, de 17 de Outubro, que \"Estabelece as normas legais tendentes a pôr em aplicação em Portugal a Convenção Europeia para a Protecção dos Animais de Companhia e um regime especial para a detenção de Animais Potencialente Perigosos\"."
+  },
+  "fase": "Baixa comissão especialidade",
+  "codigo_fase": "270",
+  "data_registo": "2002-05-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "270",
+    "Comissao": [
+      {
+        "AccId": "5674",
+        "AguardaAgendamentoPlenario": null,
+        "Audicoes": null,
+        "Audiencias": null,
+        "Competente": "N",
+        "DataAgendamentoDiscussao": null,
+        "DataAgendamentoPlenario": "0001-01-01T00:00:00",
+        "DataDistribuicao": "2002-05-28",
+        "DataDistruibuicaoSubcomissao": null,
+        "DataEntrada": "2002-05-17",
+        "DatafimApreciacaoPublica": null,
+        "DatainicioApreciacaoPublica": null,
+        "DataMotivoNaoParecer": null,
+        "DataRelatorio": null,
+        "DataRemessa": null,
+        "DataReqAgendamentoPlenario": null,
+        "DistribuicaoSubcomissao": null,
+        "Documentos": null,
+        "GpAgendamentoPlenario": null,
+        "IdComissao": "29",
+        "Legislatura": null,
+        "MotivoNaoParecer": null,
+        "Nome": "COMISSÃO DE AGRICULTURA, DESENVOLVIMENTO RURAL E PESCAS",
+        "Numero": "29",
+        "Observacao": null,
+        "PareceresRecebidos": null,
+        "PedidosParecer": null,
+        "Prorrogado": null,
+        "Publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "246-250"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2003-03-15",
+            "pubLeg": "IX",
+            "pubNr": "36",
+            "pubSL": "1",
+            "pubTipo": "DAR II série B",
+            "pubTp": "B",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/01/036/2003-03-15/246?pgs=246-250&org=PLC"
+          }
+        ],
+        "PublicacaoRelatorio": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "0",
+            "obs": null,
+            "pag": [
+              "246-250"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2003-03-15",
+            "pubLeg": "IX",
+            "pubNr": "36",
+            "pubSL": "1",
+            "pubTipo": "DAR II série B",
+            "pubTp": "B",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/01/036/2003-03-15/246?pgs=246-250&org=PLC"
+          }
+        ],
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PSD",
+            "id": "294",
+            "motivoCessacao": null,
+            "nome": "Costa e Oliveira"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PS",
+            "id": "204",
+            "motivoCessacao": null,
+            "nome": "Rosa Maria Albernaz"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "PCP",
+            "id": "1485",
+            "motivoCessacao": null,
+            "nome": "Rodeia Machado"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": null,
+            "gp": "CDS-PP",
+            "id": "1654",
+            "motivoCessacao": null,
+            "nome": "João Rebelo"
+          }
+        ],
+        "RemessaRedaccaoFinal": null,
+        "Remessas": [
+          {
+            "dataDocumento": "2003-03-11",
+            "dataRemessa": "2003-03-12",
+            "numeroOficio": "2013/COM",
+            "observacoes": "Texto de substituição",
+            "tipoRemessa": "Relatório/Parecer"
+          }
+        ],
+        "Sessao": null,
+        "Sigla": null,
+        "Votacao": [
+          {
+            "ausencias": null,
+            "data": "2003-03-11",
+            "descricao": "Artigo a Artigo",
+            "detalhe": null,
+            "id": "29837",
+            "publicacao": null,
+            "resultado": "Aprovado",
+            "reuniao": "29",
+            "tipoReuniao": null,
+            "unanime": null
+          }
+        ]
+      }
+    ],
+    "DataFase": "2002-05-17",
+    "EvtId": "14",
+    "Fase": "Baixa comissão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "152045",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
