@@ -1,0 +1,8 @@
+Aviso n.º 30/99
+Por ordem superior se torna público que, nos termos do artigo 45.º da Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, concluída na Haia, em 25 de Outubro de 1980, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a República Checa, nos termos do artigo 37.º, segundo parágrafo, depositado o seu instrumento de ratificação em 15 de Dezembro de 1997.
+O instrumento de ratificação contém a seguinte reserva:
+Tradução
+«Tendo examinado esta Convenção e sabendo que o Parlamento da República Checa deu o seu consentimento para tal, pela presente a ratificamos e confirmamos com a reserva prevista no artigo 42.º da Convenção, segundo a qual a República Checa não ficará vinculada a assumir quaisquer despesas mencionadas no artigo 26.º, segundo parágrafo, da Convenção, resultantes da participação de advogado ou consultor jurídico ou dos nossos procedimentos judiciais, excepto na medida em que essas despesas se encontrem cobertas pelo seu sistema de apoio judiciário.»
+A Convenção entrou em vigor para a República Checa a 1 de Março de 1998, nos termos do artigo 43.º, segundo parágrafo, subparágrafo 1).
+Portugal é Parte na mesma Convenção, que foi aprovada, para ratificação, pelo Decreto do Governo n.º 33/83, de 11 de Maio, tendo depositado o seu instrumento de ratificação em 29 Setembro de 1983, conforme aviso publicado no Diário da República, 1.ª série, n.º 126, de 31 de Março de 1984. A autoridade central em Portugal é o Instituto de Reinserção Social, conforme o Aviso n.º 302/95, de 18 de Outubro.
+Departamento de Assuntos Jurídicos, 6 de Janeiro de 1999. - O Director, José Maria Teixeira Leite Martins.
