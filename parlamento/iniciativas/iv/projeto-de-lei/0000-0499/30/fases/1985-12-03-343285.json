@@ -1,0 +1,456 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=sHIRRaZSClvqs2fgPou4a23MGhhl3X0gpgbp%2btNARhGZicYLOXPZWkruq4vVo2sWGLeVuvGAgqbFJbJwQRW44CI9tfmX%2bbWTsyeHmJUtTMccM5o%2bccvn1sCfcA%2fpd%2bu%2fwKJ%2bFD1ev4cnIw3pVnfMa%2bhzSz6cuwzZblBv5LWM36SEbL%2bBs5zO8uiZpaydxrwOvnbXHxO20Qolz2olAmCgsT1gDBlsVm7WmD5xQWyQKm1VSK31nRXYjP8b8P%2feFXtP5tOSkcyuffzIm3hAkBaoFGuUyO4s%2fkJ5BzS9ISNRC1O2ZlNJZ6At2vSnnzEc478srqvpEWstyCICdzJ0iIVMlkL18DFe0lclA2tQQF6038g%3d&fich=IniciativasIV_json.txt&Inline=true",
+  "ficheiro_sha256": "66d499906f5f48d8fdeb07035c408bad3bf810ad88e2ed743ec1b74baa57e0d7",
+  "legislatura": "IV",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "30",
+    "id": "27697",
+    "titulo": "Garantia de Independência da Alta Autoridade Contra a Corrupção"
+  },
+  "fase": "Processo de urgência",
+  "codigo_fase": "110",
+  "data_registo": "1985-12-03",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "13363",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "110",
+    "Comissao": null,
+    "DataFase": "1985-12-03",
+    "EvtId": "54",
+    "Fase": "Processo de urgência",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1985-12-03",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "MDP/CDE",
+                "idCadastro": "212",
+                "nome": "João Corregedor da Fonseca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227483",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "348-348"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1985-12-04",
+                "pubLeg": "IV",
+                "pubNr": "11",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/011/1985-12-04/348?pgs=348&org=PLC"
+              }
+            ],
+            "sumario": "Garantia de Independência da Alta Autoridade Contra a Corrupção",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "49",
+                "nome": "Fernando Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227484",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "349-349"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1985-12-04",
+                "pubLeg": "IV",
+                "pubNr": "11",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/011/1985-12-04/349?pgs=349&org=PLC"
+              }
+            ],
+            "sumario": "Garantia de Independência da Alta Autoridade Contra a Corrupção",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "318",
+                "nome": "Lopes Cardoso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227485",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "349-349"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1985-12-04",
+                "pubLeg": "IV",
+                "pubNr": "11",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/011/1985-12-04/349?pgs=349&org=PLC"
+              }
+            ],
+            "sumario": "Garantia de Independência da Alta Autoridade Contra a Corrupção",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "3007",
+                "nome": "Jorge Lemos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227486",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "349-349"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1985-12-04",
+                "pubLeg": "IV",
+                "pubNr": "11",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/011/1985-12-04/349?pgs=349&org=PLC"
+              }
+            ],
+            "sumario": "Garantia de Independência da Alta Autoridade Contra a Corrupção",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "314",
+                "nome": "António Capucho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227487",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "350-350"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1985-12-04",
+                "pubLeg": "IV",
+                "pubNr": "11",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/011/1985-12-04/350?pgs=350&org=PLC"
+              }
+            ],
+            "sumario": "Garantia de Independência da Alta Autoridade Contra a Corrupção",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "49",
+                "nome": "Fernando Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227488",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "350-350"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1985-12-04",
+                "pubLeg": "IV",
+                "pubNr": "11",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/011/1985-12-04/350?pgs=350&org=PLC"
+              }
+            ],
+            "sumario": "Garantia de Independência da Alta Autoridade Contra a Corrupção",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "MDP/CDE",
+                "idCadastro": "212",
+                "nome": "João Corregedor da Fonseca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227489",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "350-350"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1985-12-04",
+                "pubLeg": "IV",
+                "pubNr": "11",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/011/1985-12-04/350?pgs=350&org=PLC"
+              }
+            ],
+            "sumario": "Garantia de Independência da Alta Autoridade Contra a Corrupção",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "49",
+                "nome": "Fernando Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227490",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "350-350"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1985-12-04",
+                "pubLeg": "IV",
+                "pubNr": "11",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/011/1985-12-04/350?pgs=350&org=PLC"
+              }
+            ],
+            "sumario": "Garantia de Independência da Alta Autoridade Contra a Corrupção",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "343285",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "13363",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1985-12-04",
+        "pubLeg": "IV",
+        "pubNr": "11",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/011/1985-12-04?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
