@@ -10,7 +10,7 @@ a) Entrem na composição de firmas ou denominações já registadas;
 
 b) Correspondam a vocábulos comuns sem tradução adequada na língua portuguesa ou de uso generalizado;
 
-c) Correspondam, total ou parcialmente, a nomes, firmas ou denominações de associados;
+c) Correspondam, total ou parcialmente, a nomes, firmas e denominações de sócios ou, tratando-se de representações, às firmas e denominações das sociedades estrangeiras correspondentes, quando legalmente registadas no país de origem;
 
 d) Constituam marca comercial ou industrial de uso legítimo, nos termos da lei respectiva;
 
