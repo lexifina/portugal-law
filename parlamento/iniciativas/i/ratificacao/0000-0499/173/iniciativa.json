@@ -1,0 +1,143 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=EeydxMxWDACnKIdafO1gLuckTcPUKEzq1%2bHH3DxRj1tc2AQfc7RGac%2b4XdUghgos4hwJbWU%2fEsqic91pJfSy558GPhXV9oA5uyvzrB1qFVhCGEknXlWuTT8uRAklugoPfYrUiIlzLHhtSLkmSiI4%2bdYzFtfLATYK8agC7LMNmzinpm7uNNpbroIMRf9ffPjD%2fHACkBGVzah3bssnNnwPFdEjeiiy%2bEyzrNHvpOuJpm4ezAfTJczAjgs4mgA8L35izjUTV1PadybFpEpUVN%2b8NcOO6c8ymJZXTt07TVuJC87qb6GzDk6zmf29WVzsGKDDbWRGOt9g%2brwMTLOTxaLPAw%3d%3d&fich=IniciativasIB_json.txt&Inline=true",
+  "ficheiro_sha256": "8ce94fbc287b7e9dc94a4b6d2a0a9325847ce701b2894595086453b04b7c2e75",
+  "legislatura": "I",
+  "tipo": "Ratificação",
+  "numero": "173",
+  "id": "32554",
+  "fases": 1,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "1980-01-16",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "1980-11-12",
+    "DataInicioleg": "1980-01-03",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "CDS",
+        "idCadastro": "3420",
+        "nome": "Luis Barbosa"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "3435",
+        "nome": "Américo Sá"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "3570",
+        "nome": "Francisco Oliveira Dias"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "3426",
+        "nome": "Pedro Vasconcelos"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "3608",
+        "nome": "Ruy Oliveira"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "3668",
+        "nome": "Luis Moreno"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "3429",
+        "nome": "Victor Pinto da Cruz"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "3549",
+        "nome": "Maria José Sampaio"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "3573",
+        "nome": "Emídio Pinheiro"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "3598",
+        "nome": "José Sanches Osório"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "3667",
+        "nome": "José Macedo Pereira"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "3442",
+        "nome": "Manuel Vasconcelos"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "3249",
+        "nome": "João Morgado"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "3557",
+        "nome": "João Pulido de Almeida"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "3658",
+        "nome": "Artur Fernandes"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "589",
+        "nome": "Luís Beiroco"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "930",
+        "nome": "Joaquim Santos"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "3695",
+        "nome": "Baeta Neves"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "3223",
+        "nome": "Henrique Cruz"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "CDS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Ratificação",
+    "IniEpigrafe": null,
+    "IniId": "32554",
+    "IniLeg": "I",
+    "IniLinkTexto": "",
+    "IniNr": "173",
+    "IniObs": "Não foi anunciada.",
+    "IniSel": "4",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "F",
+    "IniTitulo": "Ratificação do Decreto-Lei nº 359/79, de 31 de Agosto (define agências de viagens e turismo e estabelece a sua natureza e actividades).",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
