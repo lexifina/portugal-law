@@ -1,0 +1,5 @@
+Aviso n.º 208/94
+Por ordem superior se torna público que o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos, depositário da Convenção Relativa à Competência das Autoridades e à Lei Aplicável em Matéria de Protecção de Menores, concluída na Haia, em 5 de Outubro de 1961, por notificação de 27 de Abril de 1994, comunicou que a Suíça declarou aceitar em 22 de Abril de 1994 a adesão da República da Polónia à mencionada Convenção.
+Em conformidade com o artigo 20, a Convenção entrará em vigor entre a República da Polónia e a Suíça em 21 de Junho de 1994.
+Relativamente a Portugal, a Convenção foi aprovada para ratificação pelo Decreto-Lei n.º 48494, conforme Diário do Governo, 1.ª série, n.º 172, de 22 de Julho de 1968. Foi ratificada em 6 de Dezembro de 1968, entrando em vigor para o nosso país em 4 de Fevereiro de 1969, segundo Diário do Governo, 1.ª série, n.º 20, de 24 de Janeiro de 1969.
+Departamento de Assuntos Jurídicos, 25 de Julho de 1994. - O Director, José Maria Teixeira Leite Martins.
