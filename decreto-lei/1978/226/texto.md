@@ -1,0 +1,44 @@
+Decreto-Lei n.º 226/78
+de 5 de Agosto
+O quadro de pessoal, o regime de trabalho e as condições de funcionamento do Instituto de Oftalmologia do Dr. Gama Pinto remontam, com ligeiras alterações, ao regulamento aprovado pelo Decreto de 26 de Abril de 1894, circunstância que, desde logo, explica a sua inadequação às necessidades actuais do serviço, bem como à desejável expansão das respectivas actividades.
+Daí que, sem prejuízo de uma próxima revisão do estatuto daquele Instituto, se torne indispensável proceder, de imediato, à actualização do quadro em vigor, pondo-se, ainda, termo a certas disposições manifestamente anacrónicas do regulamento acima referido, de modo a permitir uma melhor satisfação das finalidades de ensino e assistência que o Instituto deve prosseguir.
+Assim:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º O quadro de pessoal do Instituto de Oftalmologia do Dr. Gama Pinto passa a ser o constante do mapa anexo ao presente diploma.
+Art. 2.º O primeiro provimento nos lugares do quadro a que se refere o artigo anterior será feito de entre pessoal que, a qualquer título, actualmente presta serviço no Instituto, de acordo com as regras seguintes:
+a) Para qualquer das categorias constantes do anexo, quando o agente possua as habilitações para tal exigidas;
+b) Para a categoria que no mapa anexo corresponda às funções que o agente actualmente desempenha.
+Art. 3.º O provimento do pessoal previsto no artigo anterior far-se-á por listas nominativas aprovadas por despacho do Ministro da Educação e Cultura e publicadas no Diário da República, sem dependência de quaisquer formalidades, salvo o visto do Tribunal de Contas.
+Art. 4.º Os chefes de clínica de oftalmologia e de anatomia patológica serão recrutados por concurso, nos termos da Portaria n.º 79/77, de 17 de Fevereiro, e da Portaria n.º 212/77, de 20 de Abril, preferindo, em igualdade de circunstâncias, os médicos que prestam serviço no Instituto.
+Art. 5.º Os especialistas serão recrutados por concurso, nos termos da Portaria n.º 79/77, de 17 de Fevereiro, preferindo, em igualdade de circunstâncias, os médicos que prestam serviço no Instituto.
+Art. 6.º Os preparadores de 1.ª classe serão recrutados de entre indivíduos que possuam o curso geral do ensino secundário ou equivalente e habilitados com o correspondente curso profissional ministrado em algum hospital central ou Faculdade de Medicina.
+Art. 7.º - 1 - O catalogador de 1.ª classe e o fotógrafo-desenhador serão recrutados de entre indivíduos habilitados com o curso geral do ensino secundário ou equivalente.
+2 - No que concerne ao fotógrafo-desenhador, o recrutamento obedecerá, ainda, ao regime de provas práticas.
+Art. 8.º O recrutamento do pessoal de enfermagem reger-se-á, atento o disposto do Decreto n.º 18/77, de 22 de Fevereiro, pelas normas aplicáveis dos Decretos-Leis n.os 414/71, de 27 de Setembro, e 534/76, de 8 de Julho.
+Art. 9.º O pessoal técnico constante do quadro anexo a este diploma será provido nos termos do artigo 87.º do Decreto n.º 18717, de 27 de Março de 1930, com a redacção que lhe foi introduzida pelo Decreto-Lei n.º 24042, de 20 de Junho de 1934.
+Art. 10.º O lugar de chefe de secção será provido, por escolha do Ministro da Educação e Cultura, de entre diplomados com curso superior adequado, podendo, todavia, o provimento recair em primeiro-oficial do quadro referido no artigo 1.º, caso tenha, pelo menos, três anos de bom e efectivo serviço nessa categoria.
+Art. 11.º - 1 - Os lugares de primeiro-oficial e de segundo-oficial serão providos, mediante concurso de provas ou aproveitamento em cursos de formação, de entre, respectivamente, os segundos-oficiais e os terceiros-oficiais com, pelo menos, três anos de bom e efectivo serviço nestas categorias.
+2 - Os lugares de terceiro-oficial são providos, mediante concurso de provas, de entre:
+a) Indivíduos habilitados com o curso geral dos liceus ou equiparado;
+b) Escriturários-dactilógrafos com mais de três anos de bom e efectivo serviço na categoria.
+3 - Os escriturários-dactilógrafos que ingressem na categoria de terceiro-oficial sem a habilitação exigida pela alínea a) do número anterior não poderão ascender a categoria superior à de segundo-oficial enquanto não possuírem a referida habilitação.
+Art. 12.º - 1 - O lugar de regente será provido, por escolha, por indivíduo com o curso geral dos liceus ou habilitação equivalente, de preferência de entre o pessoal a prestar serviço no Instituto.
+2 - O lugar de auxiliar de regente é provido nos termos no número anterior, podendo, porém, ser nomeado um candidato com a simples escolaridade obrigatória, se já fizer parte do quadro de pessoal do Instituto há mais de seis anos.
+Art. 13.º O fiel de 1.ª classe é provido, por escolha, de entre indivíduos com o curso geral dos liceus ou, então, por candidatos com a simples escolaridade obrigatória que pertençam ao quadro do pessoal do Instituto há mais de três anos.
+Art. 14.º O cozinheiro de 1.ª classe é provido, por escolha, de entre os de 2.ª classe, com um mínimo de três anos na categoria.
+Art. 15.º Poderá o Ministro da Educação e Cultura, mediante proposta do Conselho Técnico-Científico, autorizar que, pelas disponibilidades das receitas próprias do Instituto:
+a) Seja contratado além do quadro pessoal nacional e estrangeiro para serviços técnicos ou de investigação científica, para ocorrer a necessidades eventuais e extraordinárias de serviço;
+b) Sejam contratados eventualmente, em regime de prestação temporária de serviço, para orientação de determinados estudos ou de ensino de assuntos especializados, quaisquer investigadores ou técnicos, quer nacionais quer estrangeiros, de reconhecida competência.
+Art. 16.º Cessa a obrigatoriedade de residência no Instituto para o pessoal a que se refere o § 3.º do artigo 20.º do regulamento aprovado por Decreto de 26 de Abril de 1894.
+Art. 17.º - 1 - Passará a ser aplicável ao pessoal de enfermagem do Instituto o horário de trabalho actualmente em vigor nos hospitais centrais.
+2 - Sem prejuízo da garantia de assistência aos doentes internados, o serviço de pessoal médico poderá ser prestado, em condições a determinar pelo Conselho Directivo, entre as 8 e as 20 horas.
+Art. 18.º Os encargos emergentes da execução do presente decreto serão satisfeitos pelas disponibilidades das dotações atribuídas ao Instituto no orçamento do corrente ano económico.
+Art. 19.º As dúvidas suscitadas na execução deste diploma serão resolvidas por despacho do Ministro da Educação e Cultura ou, em caso disso, por despacho conjunto dos Ministros das Finanças e do Plano, da Reforma Administrativa e da Educação e Cultura.
+Mário Firmino Miguel - Vítor Manuel Ribeiro Constâncio - Rui Eduardo Ferreira Rodrigues Pena - Mário Augusto Sottomayor Leal Cardia.
+Promulgado em 20 de Julho de 1978.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Quadro a que se refere o artigo 1.º
+(ver documento original)
+O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio. - O Ministro da Reforma Administrativa, Rui Eduardo Ferreira Rodrigues Pena. - O Ministro da Educação e Cultura, Mário Augusto Sottomayor Leal Cardia.
