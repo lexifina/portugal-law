@@ -1,0 +1,4 @@
+Aviso n.º 187/98
+Por ordem superior se torna público que a Roménia depositou, em 20 de Novembro de 1997, os instrumentos de ratificação da Convenção para a Salvaguarda do Património Arquitectónico da Europa, aberta para assinatura, em Granada, em 3 de Outubro de 1985.
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 5/91, publicada no Diário da República, 1.ª série-A, n.º 19, de 23 de Janeiro de 1991, tendo depositado o seu instrumento de ratificação em 27 de Março de 1991, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 123, de 29 de Maio de 1991.
+Direcção-Geral dos Assuntos Multilaterais, 14 de Setembro de 1998. - O Director de Serviços das Organizações Políticas Internacionais, João José Gomes Caetano da Silva.
