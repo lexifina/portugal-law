@@ -1,0 +1,12 @@
+Portaria n.º 775/77
+de 21 de Dezembro
+A Portaria n.º 340/76, de 5 de Junho, preceituou o cancelamento dos alvarás dos empreiteiros de obras públicas e dos industriais da construção civil emitidos nas antigas colónias que, após o averbamento de validação para Portugal continental e insular, não completassem a instrução do respectivo processo individual no prazo de seis meses, prorrogável por uma só vez.
+Posteriormente, consideradas as dificuldades dos interessados para cumprirem o estipulado na citada portaria, promoveu-se a publicação de nova portaria (n.º 61/77, de 4 de Fevereiro), ampliando-se o prazo inicial para um ano e concedendo-se ainda a possibilidade de prorrogação por uma só vez e por período não superior a seis meses, mediante requerimento fundamentado do interessado ao Ministro das Obras Públicas.
+Aproximando-se a data limite - 5 de Dezembro - para que todos os processos fiquem concluídos, verifica-se que apenas uma percentagem mínima dos titulares dos alvarás emitidos nas ex-colónias conseguiu superar as dificuldades e cumprir o preceituado legalmente.
+Não parece conveniente, nem socialmente justo, que se aplique a pena de cancelamento, como a primeira das portarias prescreve.
+Por outro lado, também parece construtivo promover repetidamente prorrogações de prazos que nada resolvem e só servem para eternizar o problema. Haverá, sim, que encontrar um mecanismo administrativo adequado por forma que a Comissão de Inscrição e Classificação dos Empreiteiros de Obras Públicas e dos Industriais da Construção Civil possa apreciar os fundamentos justificativos das causas que impedem a regularização dos processos abertos e solucionar os casos pendentes.
+Nestes termos, e enquanto decorrem os estudos respectivos:
+Manda o Governo da República Portuguesa, pelo Ministro das Obras Públicas, o seguinte:
+1.º Os alvarás de empreiteiros de obras públicas e de industriais da construção civil emitidos nas ex-colónias e validados para Portugal continental e insular, nos termos da Portaria n.º 340/76, de 5 de Junho, continuam válidos até à publicação de legislação específica que contemple as situações decorrentes das dificuldades que os seus titulares têm encontrado para instruírem os respectivos processos.
+2.º A legislação prevista no n.º 1.º deverá estar publicada até 30 de Junho de 1978.
+Ministério das Obras Públicas, 7 de Dezembro de 1977. - O Ministro das Obras Públicas, João Orlindo de Almeida Pina.
