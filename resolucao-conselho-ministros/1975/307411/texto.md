@@ -1,0 +1,6 @@
+Resolução do Conselho de Ministros
+O Decreto-Lei n.º 132-A/75, de 14 de Março, consignou expressamente o princípio de que os accionistas das instituições de crédito nacionalizadas seriam indemnizados em condições a fixar em legislação própria, que seria publicada no prazo de noventa dias.
+Posteriormente, reconheceu-se que tal prazo era manifestamente insuficiente para contemplar todos os aspectos técnicos que tal problema comporta, pelo que foi prorrogado, até 31 de Dezembro do ano em curso, pelo Decreto-Lei n.º 288-A/75, de 12 de Junho último, o prazo para a fixação das condições de indemnização a atribuir aos accionistas.
+Entretanto, tomou-se conhecimento de que no capital social de alguns dos bancos nacionalizados participavam, ainda que por montantes pouco expressivos, diversas instituições de crédito estrangeiras, designadamente do Brasil e da Espanha.
+Nestas condições, considera o Conselho de Ministros conveniente reafirmar que, com a brevidade possível, se procederá à regularização das participações de bancos estrangeiros, desde que se prove tratar-se de capitais legalmente importados em Portugal.
+Presidência do Conselho de Ministros, 2 de Setembro de 1975. - O Primeiro-Ministro, Vasco dos Santos Gonçalves.
