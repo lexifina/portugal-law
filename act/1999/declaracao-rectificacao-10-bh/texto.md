@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 10-BH/99
+Para os devidos efeitos se declara que o Decreto-Lei n.º 155/99, publicado no Diário da República, 1.ª série, n.º 108, de 10 de Maio de 1999, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No artigo 28.º, n.º 2, onde se lê «Os centros a que se refere o número anterior têm como órgãos de direcção e gestão a comissão pedagógica e o director, aos quais é aplicável, com as necessárias adaptações, o disposto nos artigos 25.º e 27.º do presente diploma.» deve ler-se «Os centros a que se refere o número anterior têm como órgãos de direcção e gestão a comissão pedagógica e o director, aos quais é aplicável, com as necessárias adaptações, o disposto nos artigos 25.º e 26.º do presente diploma.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Julho de 1999. - O Secretário-Geral, Alexandre Figueiredo.
