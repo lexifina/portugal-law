@@ -1,0 +1,701 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "29",
+    "id": "5663",
+    "titulo": "Cria uma rede de serviços públicos para o tratamento e a reinserção de toxicodependentes."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1996-04-03",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1435",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1996-04-03",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1996-04-03",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44355",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1754-1754"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-04-04",
+                "pubLeg": "VII",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/055/1996-04-04/1754?pgs=1754&org=PLC"
+              }
+            ],
+            "sumario": "TOXICODEPENDENCIA: TRATAMENTO E REINSERCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "881",
+                "nome": "Ismael Pimentel"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44356",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1753-1755"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-04-04",
+                "pubLeg": "VII",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/055/1996-04-04/1753?pgs=1753-1755&org=PLC"
+              }
+            ],
+            "sumario": "TOXICODEPENDENCIA: TRATAMENTO E REINSERCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44357",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1752-1752"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-04-04",
+                "pubLeg": "VII",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/055/1996-04-04/1752?pgs=1752&org=PLC"
+              }
+            ],
+            "sumario": "TOXICODEPENDENCIA: TRATAMENTO E REINSERCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "75",
+                "nome": "Jorge Roque Cunha"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44358",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-04-04",
+                "pubLeg": "VII",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/055/1996-04-04?org=PLC"
+              }
+            ],
+            "sumario": "TOXICODEPENDENCIA: TRATAMENTO E REINSERCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "494",
+                "nome": "José Niza"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44359",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1750-1753"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-04-04",
+                "pubLeg": "VII",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/055/1996-04-04/1750?pgs=1750-1753&org=PLC"
+              }
+            ],
+            "sumario": "TOXICODEPENDENCIA: TRATAMENTO E REINSERCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "75",
+                "nome": "Jorge Roque Cunha"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44360",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1748-1750"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-04-04",
+                "pubLeg": "VII",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/055/1996-04-04/1748?pgs=1748-1750&org=PLC"
+              }
+            ],
+            "sumario": "TOXICODEPENDENCIA: TRATAMENTO E REINSERCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1338",
+                "nome": "Agostinho Moleiro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44361",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1747-1747"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-04-04",
+                "pubLeg": "VII",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/055/1996-04-04/1747?pgs=1747&org=PLC"
+              }
+            ],
+            "sumario": "TOXICODEPENDENCIA: TRATAMENTO E REINSERCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "595",
+                "nome": "Nuno Correia da Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44362",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1746-1747"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-04-04",
+                "pubLeg": "VII",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/055/1996-04-04/1746?pgs=1746-1747&org=PLC"
+              }
+            ],
+            "sumario": "TOXICODEPENDENCIA: TRATAMENTO E REINSERCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1024",
+                "nome": "Alberto Marques"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44363",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1745-1746"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-04-04",
+                "pubLeg": "VII",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/055/1996-04-04/1745?pgs=1745-1746&org=PLC"
+              }
+            ],
+            "sumario": "TOXICODEPENDENCIA: TRATAMENTO E REINSERCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "881",
+                "nome": "Ismael Pimentel"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44364",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1745-1745"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-04-04",
+                "pubLeg": "VII",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/055/1996-04-04/1745?pgs=1745&org=PLC"
+              }
+            ],
+            "sumario": "TOXICODEPENDENCIA: TRATAMENTO E REINSERCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2252",
+                "nome": "Jovita Ladeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44365",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1744-1744"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-04-04",
+                "pubLeg": "VII",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/055/1996-04-04/1744?pgs=1744&org=PLC"
+              }
+            ],
+            "sumario": "TOXICODEPENDENCIA: TRATAMENTO E REINSERCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1240",
+                "nome": "Bernardino Vasconcelos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44366",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1743-1744"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-04-04",
+                "pubLeg": "VII",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/055/1996-04-04/1743?pgs=1743-1744&org=PLC"
+              }
+            ],
+            "sumario": "TOXICODEPENDENCIA: TRATAMENTO E REINSERCAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44367",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1742-1743",
+                  "1745-1745",
+                  "1748-1748"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-04-04",
+                "pubLeg": "VII",
+                "pubNr": "55",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/055/1996-04-04/1742?pgs=1742-1743,1745,1748&org=PLC"
+              }
+            ],
+            "sumario": "TOXICODEPENDENCIA: TRATAMENTO E REINSERCAO",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "103900",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1435",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1996-04-04",
+        "pubLeg": "VII",
+        "pubNr": "55",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/055/1996-04-04?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
