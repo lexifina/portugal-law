@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que, segundo comunica a Comissão Técnica de Cooperação Económica Externa, o Secretariado da Organização Europeia de Cooperação Económica foi informado, em 28 de Julho de 1961, pelo chefe da delegação da Alemanha, de que o Protocolo adicional n.º 3, de 15 de Janeiro de 1960, ao Acordo monetário europeu de 5 de Agosto de 1955, se aplica igualmente ao território de Berlim, com efeito a partir da mesma data em que entrou em vigor na República Federal Alemã.
+Direcção-Geral dos Negócios Económicos e Consulares, 16 de Outubro de 1961. - O Director-Geral, Albano Pires Fernandes Nogueira.
