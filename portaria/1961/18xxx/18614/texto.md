@@ -1,0 +1,3 @@
+Portaria n.º 18614
+Manda o Governo da República Portuguesa, pelos Ministros da Marinha e do Ultramar, ao abrigo do disposto no artigo 5.º do Decreto-Lei n.º 42111, de 19 de Janeiro de 1959, que o lugar de capitão-de-fragata de administração naval constante da lotação do Comando Naval de Moçambique, fixada pela Portaria n.º 17994, de 11 de Outubro de 1960, possa ser desempenhado por oficial do mesmo posto e classe na situação de reserva.
+Ministérios da Marinha e do Ultramar, 24 de Julho de 1961. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias. - O Ministro do Ultramar, Adriano José Alves Moreira.
