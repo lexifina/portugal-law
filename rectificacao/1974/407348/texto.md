@@ -1,0 +1,4 @@
+Rectificação
+Tendo sido publicados com inexactidão no Diário do Governo, 1.ª série, n.º 233, de 4 de Outubro, pelo Ministério do Ultramar, os mapas anexos ao Decreto n.º 492/73, determino que se façam as seguintes rectificações:
+No mapa I, onde se lê: «Quadro comum do pessoal superior dos serviços dos correios, telégrafos e telefones do ultramar», deve ler-se: «Quadro comum do pessoal superior dos serviços dos correios e telecomunicações do ultramar», e no mapa II, onde se lê: «Designação e categorias dos funcionários dos quadros privativos dos correios, telégrafos e telefones do ultramar», deve ler-se: «Designação e categorias dos funcionários dos quadros privativos de correios e telecomunicações do ultramar».
+Presidência do Conselho, 31 de Janeiro de 1974. - O Presidente do Conselho, Marcello Caetano.
