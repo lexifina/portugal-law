@@ -1,0 +1,14 @@
+Portaria n.º 760/89
+de 2 de Setembro
+Nos termos do n.º 2 do artigo 2.º do Decreto-Lei n.º 248/88, de 15 de Julho, na redacção que lhe foi dada pelo Decreto-Lei n.º 289/89, de 2 de Setembro, as sociedades de fomento empresarial (SFE) sediadas em regiões mais carecidas de iniciativas empresariais passam a poder constituir-se com um capital social mínimo correspondente a metade do das demais SFE.
+Mantendo a configuração de instituições especializadas na promoção do capital de risco junto das pequenas e médias empresas e dos jovens empresários, desde que as respectivas aplicações se mostrem relevantes para os objectivos do Programa de Correcção Estrutural do Défice Externo e do Desemprego (PCEDED), estabelecem-se condições mínimas de afectação dos recursos, por forma a evitar que os meios gerados nas regiões mais desfavorecidas sejam drenados para os centros urbanos mais desenvolvidos.
+Para a delimitação espacial das áreas mais carecidas de iniciativas empresariais foi ouvido o Ministro do Planeamento e da Administração do Território.
+Assim:
+Manda o Governo, pelo Ministro das Finanças, ao abrigo do n.º 3 do artigo 2.º do Decreto-Lei n.º 248/88, de 15 de Julho, com a redacção que lhe foi dada pelo Decreto-Lei n.º 289/89, de 2 de Setembro, o seguinte:
+1.º Consideram-se regiões mais desfavorecidas:
+a) As seguintes unidades de nível III da Nomenclatura das Unidades Territoriais para Fins Estatísticos (NUTS), previstas no artigo 1.º do Decreto-Lei n.º 46/89, de 15 de Fevereiro: Minho-Lima, Alto Trás-os-Montes, Douro, Beira Interior Norte, Serra da Estrela, Cova da Beira, Pinhal Interior, Beira Interior Sul, Alto Alentejo, Alentejo Central, Baixo Alentejo e Regiões Autónomas dos Açores e da Madeira; e
+b) Os seguintes concelhos: Vila Verde, Terras de Bouro e Amares, da NUT do Cávado; Vieira do Minho e Póvoa de Lanhoso, da NUT do Ave; Cabeceiras de Basto, Ribeira de Pena, Mondim de Basto e Celorico de Basto, da NUT do Tâmega; Castro Daire, Vila Nova de Paiva, Sátão e Penalva do Castelo, da NUT de Dão-Lafões, e Sardoal, Mação, Gavião e Ponte de Sor, da NUT do Médio Tejo.
+2.º As sociedades de fomento empresarial autorizadas nos termos do n.º 2 do artigo 2.º do Decreto-Lei n.º 248/88, de 15 de Julho, com a redacção que lhe foi dada pelo Decreto-Lei n.º 289/89, de 2 de Setembro, devem ter, no prazo máximo de três anos a contar do início da sua actividade, pelo menos, 40% das suas aplicações afectas a empreendimentos localizados em quaisquer das regiões indicadas no número anterior, devendo esse valor ser superior a 20% e 30%, respectivamente, no final dos primeiro e segundo anos de actividade.
+Ministério das Finanças.
+Assinada em 22 de Agosto de 1989.
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe.
