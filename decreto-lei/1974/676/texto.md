@@ -1,0 +1,26 @@
+Decreto-Lei n.º 676/74
+de 29 de Novembro
+A recente atribuição da categoria de hospitais distritais a vários estabelecimentos hospitalares anteriormente classificados de concelhios implica a extensão aos mesmos das carreiras médicas estabelecidas pelo Decreto-Lei n.º 414/71, de 27 de Setembro. Este processo envolve a integração nas referidas carreiras de pessoal que actualmente presta serviço nesses estabelecimentos, desde que habilitado com os requisitos legalmente exigidos, e a consideração das legítimas expectativas de alguns médicos, que, embora não possuindo tais requisitos, têm desde há muito garantido o funcionamento hospitalar e prestado indiscutíveis serviços à população.
+A definição legal das normas da integração e das que permitam contemplar as referidas situações constitui conveniente oportunidade de reformulação de alguns problemas da organização hospitalar, nomeadamente no que se refere a acumulações, regime de transferências e formas de prestação de alguns serviços médicos.
+Nestes termos:
+Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º O regime da carreira médica estabelecida no Decreto-Lei n.º 414/71, de 27 de Setembro, é aplicado aos hospitais que, nos termos do disposto no artigo 74.º, n.º 2, do Decreto-Lei n.º 413/71, de 27 de Setembro, passaram a ser classificados como distritais.
+Art. 2.º - 1. O pessoal médico que nesses hospitais se encontre ao serviço há mais de um ano e reúna as qualificações exigidas pelo Decreto-Lei n.º 414/71, de 27 de Setembro, será integrado nos lugares da carreira, desde que aprovado em concurso curricular de habilitação.
+2. As normas a que deve obedecer o concurso curricular referido no número anterior deverão ser estabelecidas por despacho do Secretário de Estado da Saúde.
+Art. 3.º O pessoal médico que se encontrava ao serviço em 1 de Julho de 1968 e não reúna as condições necessárias para ingressar na carreira, de acordo com o citado Decreto-Lei n.º 414/71, será integrado num quadro eventual, a fixar para cada hospital, ficando equiparado às categorias correspondentes às funções que desempenhavam nessa data e percebendo remunerações idênticas às dos respectivos lugares de carreira.
+Art. 4.º - 1. Nos quadros dos hospitais centrais e distritais é criado o lugar de consultor médico, com vista a garantir apoio técnico no âmbito de especialidades que não constem dos respectivos esquemas orgânicos e em que não se justifique a prestação diária de serviços.
+2. Esta função será exercida por médicos que possuam, pelo menos, o grau de especialista dos hospitais (grau 4) e exerçam funções em regime de tempo parcial no hospital em que ocupam lugares da carreira.
+3. Os consultores médicos deverão prestar o mínimo de doze horas de serviço semanal, incluindo neste tempo o que se repute necessário para deslocações.
+4. Para o exercício das funções de consultor médico serão abertos pela Direcção-Geral dos Hospitais concursos documentais, no prazo máximo de sessenta dias após a publicação dos quadros respectivos de cada hospital.
+5. Os consultores médicos perceberão pelo exercício desse cargo gratificações correspondentes às diferenças entre os vencimentos que auferem no hospital em que exercem funções da carreira e os que aufeririam trabalhando em regime de tempo completo, acrescidos de subsídios para deslocação, a estabelecer em cada caso.
+6. Os encargos resultantes das diferenças e subsídios a que se refere o número anterior serão suportados pelos hospitais em que os consultores exerçam estas funções.
+Art. 5.º Aos médicos pertencentes aos quadros dos hospitais centrais ou distritais não é permitido o exercício de quaisquer funções médicas noutros hospitais centrais, distritais ou concelhios, com excepção das funções de consultor, a que se refere o artigo 4.º do presente diploma.
+Art. 6.º - 1. Os médicos que actualmente exerçam funções em mais de um hospital e que, por força do disposto no artigo 5.º, fiquem abrangidos por qualquer incompatibilidade deverão optar, no prazo de sessenta dias, a partir da data da entrada em vigor deste diploma, pela prestação de serviço num dos hospitais a que se encontrem vinculados, entregando na secretaria desse estabelecimento a correspondente declaração.
+2. Os médicos a que se refere este artigo terão preferência no concurso curricular para os lugares de consultor da respectiva especialidade que eventualmente sejam criados nos estabelecimentos em que deixem de prestar serviço.
+Art. 7.º - 1. O pessoal médico da carreira hospitalar pode requerer transferência para qualquer hospital distrital, desde que haja vaga da sua categoria no quadro do estabelecimento para que pretenda ser transferido.
+2. O pessoal médico pertencente aos quadros eventuais a que se refere o artigo 3.º não tem direito a transferência, excepto para outro quadro eventual.
+3. Os pedidos de transferência e sua efectivação terão lugar segundo normas a fixar por despacho do Secretário de Estado da Saúde.
+Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - Maria de Lourdes Pintasilgo.
+Promulgado em 26 de Novembro de 1974.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
