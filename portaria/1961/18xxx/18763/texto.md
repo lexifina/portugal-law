@@ -1,0 +1,5 @@
+Portaria n.º 18763
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-lei n.º 23367, de 18 de Dezembro de 1933, reforçar com 300000$00 a verba do capítulo 10.º, artigo 1442.º, n.º 2) alínea a) «Encargos gerais - Deslocações do pessoal - Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral de Angola para o ano corrente, tomando como contrapartida as disponibilidades existentes na verba do capítulo 4.º, artigo 120.º, n.º 1) «Administração geral e fiscalização - Direcção Provincial dos Serviços de Instrução - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da referida tabela de despesa.
+Ministério do Ultramar, 7 de Outubro de 1961. - Pelo Ministro do Ultramar, João da Costa Freitas, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Angola. - J. da Costa Freitas.
