@@ -1,0 +1,4 @@
+Aviso n.º 110/2000
+Por ordem superior se torna público que a França retirou a sua reserva ao artigo 23.º da Convenção Relativa à Transferência de Pessoas Condenadas, com efeitos a partir de 22 de Dezembro de 1999. Esta Convenção foi aberta à assinatura, em Estrasburgo, em 21 de Março de 1983.
+Portugal é Parte na mesma Convenção, aprovada, para ratificação, pela Resolução da Assembleia da República n.º 8/93 e ratificada por Decreto do Presidente da República n.º 8/93, de 20 de Abril, publicados no Diário da República, 1.ª série-A, n.º 92, de 20 de Abril de 1993, tendo sido o respectivo instrumento de ratificação depositado em 28 de Junho de 1993.
+Direcção-Geral dos Assuntos Multilaterais, 10 de Maio de 2000. - O Director de Serviços das Organizações Políticas Internacionais, Rui Filipe Monteiro Belo Macieira.
