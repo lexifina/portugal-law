@@ -1,0 +1,4 @@
+Aviso n.º 14/95
+Por ordem superior se torna público que, por nota de 10 de Novembro de 1994, o Bureau Pemanente da Conferência da Haia de Direito Internacional Privado comunicou que o resultado da votação relativa à admissão da República de Malta como membro da Conferência foi favorável, tendo sido obtida a maioria dos votos expressos exigida pelo artigo 2.º, segundo parágrafo do Estatuto da Conferência.
+Portugal é Parte na mesma Conferência, tendo o seu Estatuto sido aprovado pelo Decreto-Lei n.º 41378, de 19 de Novembro de 1957, rectificado por declaração publicada no Diário do Governo, 1.ª série, n.º 217, de 13 de Setembro de 1968. A lista dos países que aceitaram o Estatuto antes de Portugal vem publicada no Diário do Governo, 1.ª série, n.º 272, de 19 de Novembro de 1968.
+Departamento de Assuntos Jurídicos, 2 de Dezembro de 1994. - O Director, José Maria Teixeira Leite Martins.
