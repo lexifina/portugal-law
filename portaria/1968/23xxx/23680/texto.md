@@ -1,0 +1,23 @@
+Portaria n.º 23680
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
+1.º Nos termos do § 1.º do artigo 4.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937:
+a) Reforçar com a importância de 15000$00 a verba do capítulo único, artigo 5.º, n.º 2), alínea a) «Serviço da Agência - Despesas com o material - Despesas de conservação e aproveitamento do material - De móveis - Máquinas, aparelhos, instrumentos e utensílios», da tabela de despesa do orçamento privativo da Agência-Geral do Ultramar para o corrente ano, tomando como contrapartida igual importância a sair das disponibilidades existentes nas seguintes verbas da referida tabela de despesa:
+CAPÍTULO ÚNICO
+Serviço da Agência
+Despesas com o material:
+Artigo 4.º, n.º 2), alína a) «Aquisições de utilização permanente - Aquisição de semoventes - Viaturas com motor» ... 5000$00
+Artigo 5.º, n.º 1), alínea b) «Despesas de conservação e aproveitamento do material - De imóveis - Conservação e reparação de ascensores» ... 10000$00
+... 15000$00
+b) Reforçar com a importância de 15000$00 a verba do capítulo único, artigo 6.º, n.º 1) «Serviço da Agência - Despesas com o material - Material de consumo corrente - Impressos», da tabela de despesa do orçamento privativo da Agência-Geral do Ultramar para o corrente ano, tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo único, artigo 4.º, n.º 2), alínea a) «Serviço da Agência - Despesas com o material - aquisições de utilização permanente - Aquisição de semoventes - Viaturas com motor», da referida tabela de despesa.
+c) Reforçar com a importância de 3500$00 a verba do capítulo único, artigo 12.º «Serviço da Agência - Diversos encargos - Abono de família», da tabela de despesa do orçamento privativo da Agência-Geral do Ultramar para o corrente ano, tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo único, artigo 11.º, n.º 4) «Serviço da Agência - Diversos encargos - Outros encargos - Prémio de D. João II, a atribuir aos concorrentes ao concurso de literatura sobre o tema A Unidade Nacional», da referida tabela de despesa.
+2.º Nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, abrir na tabela de despesa do orçamento privativo da Agência-Geral do Ultramar para o corrente ano os seguintes créditos especiais:
+a) Um da importância de 60000$00, destinado a reforçar a verba do capítulo único, artigo 6.º, n.º 2) «Serviço da Agência - Despesas com o material - Material de consumo corrente - Diversos não especificados, incluindo artigos de expediente, assinaturas do Diário do Governo e outras publicações, compra de livros indispensáveis ao serviço, pequenas reparações eventuais, etc.», tomando como contrapartida igual importância a sair do saldo de anos económicos findos.
+b) Um da importância do 220000$00, destinado a reforçar a verba do capítulo único, artigo 9.º n.º 1), alínea b) «Serviço da Agência - Pagamento de serviços - Diversos serviços - Publicidade - Publicação de relatórios e outros trabalhos», tomando coma contrapartida igual importância a sair das disponibilidades existentes nas seguintes verbos da referida tabela de despesa:
+CAPÍTULO ÚNICO
+Serviço da Agência
+Pagamento de serviços:
+Artigo 9.º, n.º 3) «Diversos serviços - Despesas com o plano anual de intercâmbio entre a metrópole e as províncias ultramarinas (Portaria n.º 19110, de 2 de Abril de 1962)» ... 120000$00
+Diversos encargos:
+Artigo 10.º, n.º 1) «Encargos das instalações - Renda de casa ... 100000$00
+... 220000$00
+Ministério do Ultramar, 29 de Outubro de 1968. - Pelo Ministro do Ultramar, José Coelho de Almeida Cota, Subsecretário de Estado da Administração Ultramarina.
