@@ -1,0 +1,5 @@
+Resolução do Conselho de Ministros
+O Conselho de Ministros, considerando que o industrial de construção civil Joaquim António Pereira Baraona, casado em regime de comunhão de bens com Maria Amália Pereira dos Santos Gallis Baraona, ausente no Brasil, possui uma empresa de construção civil em nome individual, com escritório na Avenida de Valbom, 28, 1.º, em Cascais, mas que, desde Junho de 1975, cessou todos os pagamentos, designadamente aos trabalhadores, o que se integra na previsão da alínea a) do artigo 1174.º do Código de Processo Civil, no exercício da faculdade prevista no artigo 1.º do Decreto-Lei n.º 4/76, de 6 de Janeiro, determina que o Ministério Público requeira a falência da referida firma, nos termos das citadas disposições legais.
+Para efeitos do n.º 2 do artigo 4.º do citado decreto-lei, atento o disposto no artigo 5.º do Decreto-Lei n.º 117-E/76, de 10 de Fevereiro, é designado o Ministro da Habitação, Urbanismo e Construção.
+O Ministério da Justiça promoverá a imediata execução desta resolução.
+Presidência do Conselho de Ministros, 9 de Março de 1976. - O Primeiro-Ministro, José Baptista Pinheiro de Azevedo.
