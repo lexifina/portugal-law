@@ -1,0 +1,5 @@
+Despacho
+Com fundamento no disposto no artigo 181.º do Decreto-Lei n.º 354-A/74, de 14 de Agosto, e porque pode ser objecto de diversas interpretações, esclarece-se o seguinte:
+O preceituado no artigo 143.º do Decreto n.º 354-A/74 continua a ter aplicação nos seus precisos e restritos termos, mesmo quando haja mais de dois dias consecutivos de caça, isto é, cada caçador fora do exercício da caça (no acto de caça só pode transportar dentro dos limites diários para cada espécie) nunca poderá ser portador nos meios de transporte em que se desloque de mais do que o dobro dos limites diários autorizados por lei para cada espécie e só quando o transporte ocorrer a partir das 14 horas do segundo dia.
+Concretamente, nos próximos dias 23, 24, 25 e 26 de Dezembro e até ao dia 30 cada caçador fora do exercício da caça, se deslocar depois das 14 horas do dia 24, só pode transportar peças de caça até ao dobro dos limites diários autorizados por lei.
+Ministério da Agricultura e Pescas, 25 de Novembro de 1976. - O Secretário de Estado das Florestas, António Manuel Chambica Azevedo Gomes.
