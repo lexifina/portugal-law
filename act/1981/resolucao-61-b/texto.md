@@ -1,0 +1,3 @@
+Resolução n.º 61-B/81
+Tendo o presidente da comissão administrativa da Companhia Carris de Ferro de Lisboa, S. A. R. L., brigadeiro João Carlos Câncio da Silva Escudeiro, nomeado pela Resolução n.º 201/77, de 11 de Agosto, apresentado o pedido de exoneração do cargo que ocupava, o Conselho de Ministros, reunido em 5 de Março de 1981, resolveu aceitar o referido pedido de exoneração, incumbindo o Ministro dos Transportes e Comunicações de tomar as medidas necessárias para assegurar transitoriamente o exercício das respectivas funções.
+Presidência do Conselho de Ministros, 5 de Março de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
