@@ -1,0 +1,52 @@
+Portaria n.º 913-I/2003
+de 30 de Agosto
+Na sequência do Decreto-Lei n.º 183/2003, de 19 de Agosto, que alterou o Estatuto da Comissão do Mercado de Valores Mobiliários (CMVM), aprovado pelo Decreto-Lei n.º 473/99, de 8 de Novembro, a presente portaria consagra o novo sistema de taxas de supervisão do mercado de valores mobiliários.
+Tendo em vista, nomeadamente, tornar o novo sistema de taxas de supervisão mais conforme aos princípios do «utilizador-pagador» e da equidade, são eliminadas as taxas sobre as operações realizadas em bolsa, noutros mercados regulamentados e fora deles e criadas taxas de supervisão contínua: (i) dos mercados e dos sistemas centralizados, de compensação e de liquidação de valores mobiliários e das respectivas entidades gestoras, (ii) dos mercados não regulamentados e das respectivas entidades gestoras e (iii) dos intermediários financeiros.
+As taxas de supervisão contínua dos mercados regulamentados, dos sistemas centralizados, de compensação e liquidação de valores mobiliários e das respectivas entidades gestoras são taxas fixas. A taxa devida pelas entidades gestoras de mercados não regulamentados incide apenas sobre o montante das respectivas comissões provenientes das operações realizadas nesses mercados sobre acções admitidas aos mercados de bolsa ou outros mercados regulamentados. Por seu turno, a taxa sobre as instituições de crédito, sociedades financeiras de corretagem ou sociedades corretoras é calculada com base no montante correspondente aos valores mobiliários registados ou depositados em contas abertas nessas instituições, ficando, no entanto, a respectiva colecta sujeita a um limite mínimo e a um valor máximo.
+Por sua vez, as taxas de supervisão contínua das instituições de investimento colectivo, da comercialização de participações em instituições de investimento colectivo estrangeiras e da gestão individual de carteiras mantêm-se, no essencial, inalteradas, procedendo-se apenas a ligeiras modificações pontuais e à actualização de alguns dos seus valores. Sublinhe-se, no entanto, que passam a estar isentos da respectiva taxa de supervisão contínua, durante o semestre subsequente à data de início da respectiva colocação à subscrição, os fundos abertos de tesouraria, do mercado monetário e de investimento mobiliário.
+Nestes termos, a estrutura de taxas estabelecida pela presente portaria, tendo como base uniforme o carácter contínuo dos serviços de supervisão da CMVM, incidindo sobre os destinatários directos desses serviços e deixando de onerar as transacções, constituirá, certamente, um contributo significativo para a dinamização do mercado de valores mobiliários nacional.
+Foram ouvidas a Associação Portuguesa de Bancos, a Associação Portuguesa de Sociedades Corretoras e Financeiras de Corretagem, a Associação Portuguesa das Sociedades Gestoras de Patrimónios e de Fundos de Investimento, a Euronext Lisbon - Sociedade Gestora de Mercados Regulamentados, S. A., e a OPEX - Sociedade Gestora de Mercado de Valores Mobiliários não Regulamentado, S. A.
+Assim, ao abrigo do disposto nas alíneas c) e d) do n.º 2 e no n.º 3 do artigo 25.º-A do Estatuto da CMVM, aprovado pelo Decreto-Lei n.º 473/99, de 8 de Novembro, e sob proposta da CMVM:
+Manda o Governo, pela Ministra de Estado e das Finanças, o seguinte:
+1.º
+Serviços de supervisão contínua dos mercados e suas entidades gestoras
+1 - É devida à CMVM, por cada entidade gestora de mercados, uma taxa mensal, pela supervisão contínua dessa entidade e dos mercados por ela geridos, no valor de:
+a) (euro) 62500, quando se trate de entidade gestora de mercados de bolsa ou de outros mercados regulamentados;
+b) 10% do montante das comissões provenientes das operações sobre acções admitidas aos mercados de bolsa ou outros mercados regulamentados que sejam realizadas nos mercados por ela geridos, quando se trate de entidade gestora de mercados não regulamentados, não podendo a colecta ser superior a (euro) 40000.
+2 - Exceptua-se do disposto na alínea a) do número anterior o mercado especial de dívida pública, estando a respectiva entidade gestora sujeita a uma taxa mensal de (euro) 500 por cada membro desse mercado.
+2.º
+Serviços de supervisão contínua dos sistemas centralizados, de compensação e de liquidação de valores mobiliários
+É devida à CMVM, por cada entidade gestora de sistemas centralizados e de sistemas de compensação e de liquidação de valores mobiliários, uma taxa mensal, pela supervisão contínua dessa entidade e dos sistemas por ela geridos, no valor de (euro) 62500.
+3.º
+Serviços de supervisão contínua de intermediários financeiros
+1 - É devida à CMVM, por cada instituição de crédito, sociedade financeira de corretagem ou sociedade corretora registada junto da CMVM, uma taxa mensal, pela respectiva supervisão contínua, no valor de 0,0333(por mil) do montante correspondente aos valores mobiliários registados ou depositados em contas abertas junto dela no último dia de cada mês, não podendo a colecta ser inferior a (euro) 1000 nem superior a (euro) 30000.
+2 - A taxa prevista no número anterior é igualmente devida:
+a) Pelos intermediários financeiros nele referidos que não exerçam a actividade de registo e depósito de valores mobiliários, os quais ficam sujeitos ao pagamento da taxa pelo valor mínimo aí fixado;
+b) Pelas sucursais, estabelecidas em território nacional, de instituições de crédito ou de empresas de investimento estrangeiras equiparáveis às espécies de intermediários financeiros nele referidos, ainda que aquelas não exerçam a actividade de registo e depósito de valores mobiliários, caso em que ficam sujeitas ao pagamento da taxa pelo valor mínimo aí fixado.
+4.º
+Serviços de supervisão contínua de instituições de investimento colectivo
+1 - É devida à CMVM, pelas respectivas entidades gestoras, uma taxa mensal pela supervisão contínua das instituições de investimento colectivo, que incide sobre o valor líquido global, correspondente ao último dia de cada mês, de cada um dos fundos por elas geridos, no valor de:
+a) 0,0067(por mil), no caso dos fundos de tesouraria, dos fundos do mercado monetário e dos fundos de titularização, não podendo a colecta ser inferior a (euro) 100 nem superior a (euro) 10000;
+b) 0,0133(por mil), no caso dos fundos de investimento mobiliário, na forma societária ou contratual, não referidos na alínea anterior, e dos fundos de capital de risco, não podendo a colecta ser inferior a (euro) 100 nem superior a (euro) 10000;
+c) 0,0266(por mil), no caso dos fundos de investimento imobiliário, não podendo a colecta ser inferior a (euro) 200 nem superior a (euro) 20000;
+d) 0,03(por mil), no caso de outras instituições de investimento colectivo não referidas nas alíneas anteriores, nomeadamente fundos especiais de investimento, não podendo a colecta ser inferior a (euro) 200 nem superior a (euro) 20000.
+2 - Nos casos em que não haja apuramento do valor líquido global correspondente ao último dia de um determinado mês, a taxa a que se refere o número anterior incide sobre o mais recente valor líquido global apurado antes daquela data.
+3 - Os fundos de investimento mobiliário, os fundos de tesouraria e os fundos do mercado monetário, quando sejam abertos e a respectiva colocação à subscrição tenha início após a entrada em vigor da presente portaria, gozam de isenção temporária das taxas previstas no presente artigo durante os seis meses subsequentes à data do início daquela colocação.
+5.º
+Serviços de supervisão contínua da comercialização de participações em instituições de investimento colectivo estrangeiras
+Pela comercialização em Portugal das participações numa instituição de investimento colectivo em valores mobiliários domiciliada fora do território nacional é devida à CMVM, pela respectiva entidade comercializadora, uma taxa mensal no valor de (euro) 100.
+6.º
+Serviços de supervisão contínua da gestão individual de carteiras
+É devida à CMVM, por cada entidade que efectue gestão individual de carteiras por conta de terceiros, uma taxa mensal, pela supervisão contínua desse serviço, que incide sobre o valor total administrado no último dia de cada mês, no valor de 0,0075(por mil), não podendo a colecta ser inferior a (euro) 200 nem superior a (euro) 20000.
+7.º
+Liquidação e pagamento
+As regras e prazos de liquidação e pagamento das taxas previstas na presente portaria são estabelecidas por regulamento da CMVM.
+8.º
+Entrada em vigor
+A presente portaria entra em vigor em 1 de Setembro de 2003.
+9.º
+Disposição transitória
+1 - O produto das taxas sobre operações em mercados regulamentados e fora de mercado regulamentado que tenham sido liquidadas, nos termos dos artigos 1.º e 3.º da Portaria n.º 1303/2001, de 22 de Novembro, até ao final do mês de Agosto de 2003, são entregues à CMVM, pelas entidades referidas no artigo 4.º da mesma portaria, até ao dia 10 de Setembro de 2003.
+2 - As taxas a que se referem os artigos 2.º, 6.º, 7.º e 7.º-A da Portaria n.º 1303/2001, de 22 de Novembro, com as alterações introduzidas pela Portaria n.º 323/2002, de 27 de Março, respeitantes ao mês de Agosto de 2003, são pagas à CMVM, pelos respectivos devedores, até ao dia 10 de Setembro de 2003.
+3 - É suspensa, até ao dia 31 de Dezembro de 2003, a vigência do disposto no n.º 2.º da presente portaria, ficando, até essa data, as entidades gestoras de sistemas centralizados e de sistemas de compensação e de liquidação de valores mobiliários obrigadas ao pagamento de uma taxa mensal à CMVM no valor de 15% sobre as comissões por elas cobradas nessa qualidade, cuja liquidação e pagamento são efectuados até ao dia 10 do mês seguinte àquele a que respeitam.
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite, em 29 de Agosto de 2003.
