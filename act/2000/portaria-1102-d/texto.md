@@ -1,0 +1,94 @@
+Portaria n.º 1102-D/2000
+de 22 de Novembro
+O Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio, que define as medidas nacionais de conservação dos recursos vivos aplicáveis ao exercício da pesca em águas sob soberania e jurisdição nacionais, determina no seu artigo 3.º quais os métodos de pesca admitidos em águas oceânicas e em águas interiores marítimas, remetendo para portaria do membro do Governo responsável pelo sector das pescas o estabelecimento das disposições reguladoras das características das artes e condições de exercício da pesca por qualquer daqueles métodos.
+Com a presente portaria regulamenta-se o método de pesca denominado «pesca por arte de armadilha», dando cumprimento ao citado normativo.
+Assim, ao abrigo do disposto no artigo 3.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio:
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º É aprovado o Regulamento da Pesca por Arte de Armadilha, que faz parte integrante da presente portaria.
+2.º São revogados os seguintes diplomas:
+a) Os n.os 3.º e 4.º da Portaria n.º 57/89, de 28 de Janeiro;
+b) Portaria n.º 58/89, de 28 de Janeiro;
+c) Portaria n.º 1222/90, de 20 de Dezembro;
+d) Portaria n.º 184/2000, de 31 de Março.
+3.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+REGULAMENTO DA PESCA POR ARTE DE ARMADILHA
+CAPÍTULO I
+Disposições gerais
+Artigo 1.º
+Objecto
+O presente regulamento estabelece o regime de exercício da pesca por armadilha.
+Artigo 2.º
+Definição da arte
+Por pesca por armadilha entende-se qualquer método de pesca passivo pelo qual a presa é atraída ou encaminhada para um dispositivo que lhe dificulta ou impossibilita a fuga, sem que para tal tenha abandonado o seu elemento natural.
+Artigo 3.º
+Tipos
+A pesca por armadilha pode ser exercida com artes que se integrem num dos seguintes grupos:
+a) Pesca por armadilha de abrigo;
+b) Pesca por armadilha de gaiola.
+CAPÍTULO II
+Pesca por armadilhas de abrigo
+Artigo 4.º
+Caracterização
+Por pesca por armadilha de abrigo entende-se aquela em que a presa é atraída pela criação artificial de ambientes similares a locais de abrigo ou poiso e dos quais pode sair livremente.
+Artigo 5.º
+Condicionalismos ao exercício da pesca
+1 - A pesca com armadilhas de abrigo só pode ser efectuada com potes ou alcatruzes, destinada à captura de polvo.
+2 - É fixado em 3000 o número máximo de armadilhas que cada embarcação pode utilizar.
+3 - As armadilhas não podem ser caladas a uma distância inferior a:
+a) 1/2 milha de distância da linha da costa para embarcações até 9 m de comprimento de fora a fora (cff);
+b) 1 milha de distância da linha da costa para embarcações com cff superior a 9 m.
+CAPÍTULO III
+Pesca por armadilha de gaiola
+Artigo 6.º
+Caracterização
+Por pesca por armadilha de gaiola entende-se aquela em que se recorre a dispositivo de dimensões e forma muito diversas, constituído por estrutura rígida tal que, por si só ou servindo de suporte a pano de rede, delimitam um compartimento cujo acesso é feito através de uma ou mais aberturas fáceis, mas cuja utilização, em sentido contrário, é dificultada às presas.
+Artigo 7.º
+Classes de malhagem
+1 - Sem prejuízo do estabelecido no número seguinte e no n.º 3 do artigo 11.º, as classes de malhagem das armadilhas de gaiola, bem como as espécies alvo respectivas, são as definidas no anexo I ao presente Regulamento.
+2 - É permitida a utilização de malhagens inferiores ao estabelecido no número anterior nas seguintes partes das armadilhas:
+a) Endiches, ou estrutura de entrada das armadilhas; e
+b) Aquelas em que o processo de construção obrigue a um estreitamento do vazio da malha ou retículo, não podendo essa área ou superfície ser superior a 70% do total.
+3 - As embarcações só serão licenciadas para uma classe de malhagem, no mesmo período de tempo, excepto no caso da pesca dirigida ao camarão, navalheira e polvo utilizando a classe de malhagens 8 mm-29 mm ou 15 mm-29 mm, que poderão ser licenciadas em simultâneo com outras classes de malhagens.
+4 - A determinação do vazio da malha ou retículo é feita nos termos do n.º 2 do artigo 50.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio.
+Artigo 8.º
+Condicionalismos ao exercício da pesca
+1 - As embarcações que exerçam a pesca por armadilha estão sujeitas aos seguintes condicionalismos:
+a) Número máximo de armadilhas, por embarcação, de acordo com o anexo II ao presente Regulamento;
+b) As embarcações com mais de 9 m de comprimento de fora a fora (cff) só podem calar armadilhas para além de 1 milha à distância à linha de costa;
+c) Não podem manter a bordo ou descarregar capturas em cuja composição a percentagem de espécies alvo de referência, relativamente ao total da captura, seja inferior à definida no anexo I ao presente Regulamento.
+2 - O disposto na alínea b) do número anterior não se aplica no caso da pesca dirigida à captura do camarão-branco-legítimo.
+Artigo 9.º
+Pesca do camarão-branco-legítimo, navalheira e polvo
+1 - No exercício da pesca de camarão-branco-legítimo (Palaemon serratus) é permitida a utilização de armadilhas, com a malhagem definida no anexo I e com as seguintes características:
+a) Construídas com rede de material sintético desde que apresentem endiches cuja abertura não ultrapasse 3 cm de diâmetro e o entralhe das armadilhas seja feito com fio biodegradável, podendo ser iscadas; ou
+b) Construídas com dois aros metálicos circulares e pano de rede, sendo utilizadas peças de madeira ou outro material para armar a arte, apresentando até dois endiches laterais e uma abertura superior, sem endiche, com um diâmetro mínimo de 20 cm, não podendo ser iscadas.
+2 - A pesca de navalheira (Necora puber e Liocarcinus spp.) e do polvo (Octopus vulgaris e Eledone spp.) é permitida com a classe de malhagem de 8 mm a 29 mm, desde que sejam utilizadas armadilhas construídas em arame, designadas por «boscas», com diâmetro máximo de 40 cm e altura máxima de 20 cm.
+3 - Só podem ser licenciadas com as armadilhas referidas nos números anteriores as embarcações de pesca registadas na frota local, nas áreas de jurisdição das capitanias de Caminha à Figueira da Foz, não podendo, durante a viagem em que operem com cada uma das artes referidas:
+a) Utilizar nem ter a bordo qualquer outra arte;
+b) Calar e manter a bordo mais de 100 e 250 armadilhas, respectivamente, na pesca de camarão-branco-legítimo, de navalheira e do polvo.
+4 - A pesca de camarão-branco-legítimo, com as armadilhas referidas no n.º 1, só pode ser exercida:
+a) Por embarcações que não disponham cumulativamente de licenças de pesca para arrasto de vara ou «sombreiras»;
+b) Durante o período de 1 de Outubro a 31 de Março.
+Artigo 10.º
+Pesca do camarão da Madeira
+1 - No exercício da pesca dirigida ao conjunto de espécies vulgarmente designadas por camarão da Madeira (Plesionika spp.) é permitida a utilização de armadilhas construídas com rede desde que apresentem endiches cuja abertura externa não ultrapasse 50 mm.
+2 - As embarcações que se dediquem à pesca das espécies referidas no número anterior, durante a viagem que operam com esta arte, não podem:
+a) Utilizar nem ter a bordo qualquer outra arte, excepto artes de pesca à linha;
+b) Calar e manter a bordo mais de 100 armadilhas.
+Artigo 11.º
+Pesca da lagosta e do lavagante
+1 - A pesca de lagosta (Palinurus elephas e P. mauritanicus) e de lavagante (Homarus gammarus) com armadilhas só pode ser exercida entre 1 de Janeiro e 30 de Setembro, sem prejuízo do disposto no n.º 2.
+2 - Nas águas da subárea dos Açores da zona económica exclusiva nacional é proibida a pesca de exemplares fêmeas entre 1 de Janeiro e 31 de Março.
+3 - Nas armadilhas destinadas à captura das espécies referidas no presente artigo, quando construídas com ripas de madeira ou outro material, a distância entre estas deve permitir a introdução sem oposição e em qualquer sentido de uma bitola de 40 mm.
+4 - Durante o período referido no n.º 1, todos os exemplares ovados que forem capturados devem ser rejeitados e devolvidos ao mar, não podendo ser mantidos a bordo, transbordados, desembarcados, transportados, armazenados, expostos ou vendidos.
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 22 de Novembro de 2000.
+
+ANEXO I
+(a que se refere o artigo 7.º)
+Dimensão do vazio da malha ou retículo e percentagem mínima de espécies alvo
+(ver quadro no documento original)
+
+ANEXO II
+(a que se refere o artigo 8.º)
+Número máximo de armadilhas
+(ver quadro no documento original)
