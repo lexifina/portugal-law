@@ -1,0 +1,47 @@
+# Acórdão do Supremo Tribunal Administrativo de 1993-06-02, processo 015678
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 015678
+
+**Data do Acordão:** 06/02/1993
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** COELHO DIAS
+
+**Descritores:** EXECUÇÃO FISCAL; OBRIGAÇÃO FISCAL; PRESCRIÇÃO; PRAZO; APLICAÇÃO DA LEI NO TEMPO
+
+**Nº Convencional:** JSTA00039388
+
+**Nº do Documento:** SA219930602015678
+
+**Data de Entrada:** 12/09/1992
+
+**Recorrente:** FAZENDA PUBLICA
+
+**Recorrido 1:** SOARES , MANUEL
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 93
+
+**Privacidade:** 01
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** DESP.
+
+**Decisão:** PROVIDO.
+
+**Área Temática 1:** DIR PROC TRIBUT CONT - EXEC FISCAL.
+
+**Legislação Nacional:** CPCI63 ART27 ART167.; CPTRIB91 ART13 ART34 ART264.; CCIV66 ART12 ART257 ART297.; CSC86 ART78.
+
+**Jurisprudência Nacional:** AC STA PROC15673 DE 1993/02/25.; AC STA PROC15667 DE 1993/05/05.
+
+**Referência a Doutrina:** SÁ GOMES LIÇÕES DE DIREITO FISCAL IN CTF N307-309 PAG357.; ALEXANDRE AMARAL LIÇÕES DE DIREITO FISCAL PAG107.; BAPTISTA MACHADO SOBRE A APLICAÇÃO NO TEMPO DO NOVO CÓDIGO CIVIL PAG163.; CARDOSO DA COSTA CURSO DE DIREITO FISCAL PAG250.; ALBERTO XAVIER MANUAL DE DIREITO FISCAL PAG203.; BRAZ TEIXEIRA PRINCÍPIOS DE DIREITO FISCAL V1 PAG155 PAG156.; ALFREDO SOUSA E SILVA PAIXÃO CÓDIGO DE PROCESSO DE CONTRIBUIÇÕES E IMPOSTOS COMENTADO E ANOTADO PAG487.; PINTO FERNANDES E CARDOSO DOS SANTOS CÓDIGO DE PROCESSO TRIBUTÁRIO PAG140.; LIMA GUERREIRO E DIAS MATEUS CÓDIGO DE PROCESSO TRIBUTÁRIO PAG15.; PIRES DE LIMA E ANTUNES VARELA CÓDIGO CIVIL ANOTADO V1 PAG191.; TEIXEIRA RIBEIRO IN RLJ ANO125 PAG49.; Texto Integral
+
+## Sumário
+
+Na contagem do prazo de prescrição das obrigações tributárias, encurtado de vinte para dez anos, conforme, arts. 27, do CPCI, e 34 do CPT, é aplicável o disposto no art. 297 n. 1, do C. Civil.
