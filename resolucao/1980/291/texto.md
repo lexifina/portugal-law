@@ -1,0 +1,4 @@
+Resolução n.º 291/80
+Considerando que o Dr. Bernardino Manuel da Costa Pereira, invocando razões do seu interesse pessoal, solicitou a exoneração do cargo de vogal do conselho de gerência da EMMA - Empresa Mineira e Metalúrgica do Alentejo, E. P., a partir de 30 de Junho último:
+O Conselho de Ministros, reunido em 30 de Julho de 1980, resolveu exonerar, a seu pedido, de vogal do conselho de gerência da EMMA - Empresa Mineira e Metalúrgica do Alentejo, E. P., para que fora nomeado por despacho conjunto do Primeiro-Ministro e Ministro da Indústria e Energia de 21 de Fevereiro de 1980, publicado no Diário da República, 2.ª série, n.º 46, de 25 de Fevereiro de 1980, o Dr. Bernardino Manuel da Costa Pereira.
+Presidência do Conselho de Ministros, 30 de Julho de 1980. - O Vice-Primeiro-Ministro, Diogo Pinto de Freitas do Amaral.
