@@ -1,0 +1,6 @@
+Despacho Normativo n.º 79/98
+Considerando que a Resolução do Conselho de Ministros n.º 47/98, de 14 de Abril, criou uma comissão nacional para promover a comemoração condigna do 50.º aniversário da adopção da Declaração Universal dos Direitos do Homem pela Assembleia Geral das Nações Unidas, que ocorrerá no dia 10 de Dezembro de 1998;
+Considerando que a Imprensa Nacional-Casa da Moeda, E. P., pretende associar-se a este evento, imprimindo o Diário da República desse dia em cor diferente da habitual, isto é, em cor azul, por se tratar da cor da Organização das Nações Unidas:
+Ao abrigo do artigo 40.º do Decreto-Lei n.º 333/81, de 7 de Dezembro, alterado pelo Decreto-Lei n.º 406/93, de 14 de Dezembro, e do n.º 2 do despacho n.º 1/95, publicado no Diário da República, 2.ª série, n.º 268 (2.º suplemento), de 20 de Novembro de 1995, determina-se o seguinte:
+A Imprensa Nacional-Casa da Moeda, E. P., é autorizada a publicar o Diário da República de 10 de Dezembro de 1998 em papel especial, de cor azul, bem como a republicar simbolicamente o texto da Declaração Universal dos Direitos do Homem.
+Presidência do Conselho de Ministros, 24 de Novembro de 1998. - O Secretário de Estado da Presidência do Conselho de Ministros, Vitalino José Ferreira Prova Canas.
