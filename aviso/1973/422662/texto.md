@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação do Ministério dos Negócios Estrangeiros dos Países Baixos, o Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte notificou aquele Ministério de que nas Bahamas a autoridade competente para efectuar a aposição da «apostilha» a que se refere o artigo 3.º da Convenção Destinada a Suprimir a Exigência de Legalização dos Actos Públicos Estrangeiros, assinada na Haia em 5 de Outubro de 1961, é o secretário permanente do Ministério dos Negócios Estrangeiros em Nassau («The Permanent Secretary, Ministry of External Affairs», Nassau).
+Secretaria-Geral do Ministério, 24 de Maio de 1973. - O Secretário-Geral, José Calvet de Magalhães.
