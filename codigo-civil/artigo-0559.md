@@ -4,8 +4,8 @@
 
 # Artigo 559.º
 
-### (Taxa de juros)
+### (Taxa de juro)
 
-1. São de cinco por cento ao ano os juros legais e os estipulados sem determinação de taxa ou quantitativo.
+1 - Os juros legais e os estipulados sem determinação de taxa ou quantitativo são os fixados em portaria conjunta dos Ministros da Justiça e das Finanças e do Plano.
 
-2. A estipulação de juros a taxa superior deve ser feita por escrito, sob pena de serem apenas devidos na medida dos juros legais.
+2 - A estipulação de juros a taxa superior à fixada nos termos do número anterior deve ser feita por escrito, sob pena de serem apenas devidos na medida dos juros legais.
