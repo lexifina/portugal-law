@@ -1,0 +1,5 @@
+Portaria n.º 19342
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Novembro de 1933, reforçar com a quantia de 10000$00 a verba do capítulo 10.º, artigo 223.º, n.º 27), alínea a) «Encargos gerais - Diversas despesas - Despesas com a assistência médica, tratamento e internamento em hospitais, manicómios, casas de saúde e sanatórios de funcionários civis do activo, aposentados e operários do Estado - A pagar na metrópole», da tabela de despesa do orçamento geral em vigor na província de Timor, tomando como contrapartida as disponibilidades existentes na verba do capítulo 7.º, artigo 171.º, n.º 2) «Serviços de fomento - Repartição provincial dos Serviços de Agricultura e Veterinária - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal contratado», da mesma tabela de despesa.
+Ministério do Ultramar, 11 de Agosto de 1962. - Pelo Ministro do Ultramar, João da Costa Freitas, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Timor. - J. Costa Freitas.
