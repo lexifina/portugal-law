@@ -1,0 +1,5 @@
+Portaria n.º 21236
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar com a importância de 20000$00 a verba do capítulo 10.º, artigo 237.º, n.º 4), alínea a) «Encargos gerais - Despesas de comunicações fora da província - Transporte de material, fretes e seguros, despachos e outras despesas conexas - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral da província de Timor para o corrente ano, tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo 4.º, artigo 47.º, n.º 1), alínea a) «Administração geral e fiscalização - Serviços de administração civil - Pessoal dos serviços administrativos - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da referida tabela de despesa.
+Ministério do Ultramar, 21 de Abril de 1965. - Pelo Ministro do Ultramar, José Coelho de Almeida Cota, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Timor. - J. Cota.
