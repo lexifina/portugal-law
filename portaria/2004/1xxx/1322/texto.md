@@ -1,0 +1,12 @@
+Portaria n.º 1322/2004
+de 16 de Outubro
+No âmbito da reforma do regime jurídico da acção executiva, foi expressamente prevista a possibilidade de virem a ser criados juízos de execução, com competência específica, para as acções executivas. Paralelamente, previu-se a possibilidade de serem criadas secretarias de execução com competência para a realização das diligências necessárias à tramitação do processo comum de execução.
+Pela Portaria n.º 969/2003, de 13 de Setembro, foi criada a Secretaria-Geral de Execução das Varas Cíveis, dos Juízos Cíveis e dos Juízos de Pequena Instância Cível de Lisboa, cujo quadro de pessoal foi aprovado pela Portaria n.º 1029/2004, de 10 de Agosto. Por seu turno, o Decreto-Lei n.º 148/2004, de 21 de Junho, procedeu à criação de juízos de execução em algumas comarcas do País, com base nos dados estatísticos das respectivas pendências, tendo previsto que a instalação e entrada em funcionamento dos novos juízos de execução é determinada por portaria do Ministério da Justiça.
+Pela presente portaria são instalados os primeiros juízos de execução do País e é criada a Secretaria-Geral de Execução do Porto. Por outro lado, a instalação de juízos de execução em Lisboa, com competência para a generalidade das execuções desta comarca, impõe que se altere a actual designação da Secretaria-Geral de Execução das Varas Cíveis, dos Juízos Cíveis e dos Juízos de Pequena Instância Cível de Lisboa.
+Assim:
+Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto no artigo 5.º do Decreto-Lei n.º 148/2004, de 21 de Junho, e no artigo 121.º-A da Lei n.º 3/99, de 13 de Janeiro, aditado pelo Decreto-Lei n.º 38/2003, o seguinte:
+1.º São declarados instalados, a partir de 18 de Outubro de 2004, o 1.º e o 2.º Juízos de Execução da Comarca de Lisboa e o 1.º Juízo de Execução da Comarca do Porto, compreendendo cada um deles três secções de processos.
+2.º A Secretaria-Geral de Execução das Varas Cíveis, dos Juízos Cíveis e dos Juízos de Pequena Instância Cível de Lisboa, criada pela Portaria n.º 969/2003, de 13 de Setembro, passa a designar-se, a partir de 18 de Outubro de 2004, Secretaria-Geral de Execução de Lisboa.
+3.º É criada a Secretaria-Geral de Execução do Porto, a qual é declarada instalada a partir de 18 de Outubro de 2004.
+4.º A presente portaria entra em vigor no dia seguinte ao da respectiva publicação.
+O Ministro da Justiça, José Pedro Correia de Aguiar Branco, em 11 de Outubro de 2004.
