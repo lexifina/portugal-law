@@ -1,0 +1,4 @@
+Portaria n.º 339/73
+de 16 de Maio
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, abrir um crédito especial da importância de 308550$00, a inscrever em adicional ao orçamento da despesa do Conselho Ultramarino, para o corrente ano económico, destinado a acorrer ao aumento dos vencimentos nos termos do Decreto-Lei n.º 76/73, de 1 de Março, ao seu pessoal, tomando como contrapartida igual importância a sair do capítulo I, artigo 1.º, n.º 1) «Representação das províncias ultramarinas no Conselho Ultramarino - Pagamento de serviços - Despesas de comunicações - Transporte aos onze vogais eleitos pelos conselhos legislativos das províncias ultramarinas», do mesmo orçamento.
+Ministério do Ultramar, 27 de Abril de 1973. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
