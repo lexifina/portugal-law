@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 22/98
+Para os devidos efeitos se declara que a Lei n.º 67/98 [Lei da Protecção de Dados Pessoais (transpõe para a ordem jurídica portuguesa a Directiva n.º 95/46/CE, do Parlamento Europeu e do Conselho, de 24 de Outubro de 1995, relativa à protecção das pessoas singulares no que diz respeito ao tratamento dos dados pessoais e à livre circulação desses dados)], publicada no Diário da República, 1.ª série-A, n.º 247, de 26 de Outubro de 1998, saiu com as seguintes incorrecções, que assim se rectificam:
+No n.º 1 do artigo 27.º, onde se lê «parcialmente autorizados» deve ler-se «parcialmente automatizados» e, no n.º 2 do artigo 27.º, onde se lê «tendendo aos dados a tratar,» deve ler-se «atendendo aos dados a tratar,».
+Assembleia da República, 13 de Novembro de 1998. - A Secretária-Geral, Adelina Sá Carvalho.
