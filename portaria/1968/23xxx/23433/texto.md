@@ -1,0 +1,3 @@
+Portaria n.º 23433
+Manda o Governo da República Portuguesa, pelo Ministro das Comunicações, de harmonia com o disposto no artigo 96.º do Estatuto das Juntas Autónomas dos Portos, aprovado pelo Decreto-Lei n.º 37754, de 18 de Fevereiro de 1950, manter em vigor as tarifas provisórias da Junta Autónoma dos Portos do Distrito de Ponta Delgada, aprovadas pela Portaria n.º 15371, de 9 de Maio de 1955, com as alterações introduzidas pelas Portarias n.º 16364, de 25 de Julho da 1957, n.º 16783, de 28 de Julho de 1958, n.º 17435, de 20 de Novembro de 1959, n.º 20677, de 10 de Julho de 1964, e n.º 22163, de 10 de Agosto de 1966.
+Ministério das Comunicações, 12 de Junho de 1968. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.
