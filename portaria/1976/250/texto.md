@@ -1,0 +1,13 @@
+Portaria n.º 250/76
+de 21 de Abril
+Tornando-se necessário reajustar as atribuições da 2.ª Divisão do Estado-Maior da Armada:
+Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, o seguinte:
+1.º A alínea l) do artigo 14.º do Regulamento do Estado-Maior da Armada, aprovado pela Portaria n.º 20139, de 28 de Outubro de 1963, passa a ter a seguinte redacção:
+Art. 14.º ...
+...
+l) Estudar, orientar, coordenar e impulsionar as actividades de informação e esclarecimento no âmbito da Armada;
+2.º Ao artigo referido no número anterior é acrescentada uma nova alínea, com a seguinte redacção:
+Art. 14.º ...
+...
+m) Estudar e propor as modalidades de cooperação da Armada em tarefas de interesse cívico, de acordo com as directivas emanadas do Estado-Maior-General das Forças Armadas.
+Estado-Maior da Armada, 24 de Março de 1976. - O Chefe do Estado-Maior da Armada, Augusto Souto Silva Cruz, vice-almirante.
