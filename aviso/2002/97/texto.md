@@ -1,0 +1,5 @@
+Aviso n.º 97/2002
+Por ordem superior se torna público que em 19 de Julho e em 4 de Outubro de 2001 foram remetidas notas verbais, respectivamente pelo Ministério das Relações Exteriores da República do Paraguai e pelo Ministério dos Negócios Estrangeiros da República Portuguesa, em que se comunica terem sido cumpridas as formalidades requeridas pelos ordenamentos jurídicos de ambos os países para a aprovação do Acordo entre a República Portuguesa e a República do Paraguai sobre a Promoção e a Protecção Recíprocas de Investimentos e respectivo Protocolo, assinados em Lisboa em 25 de Novembro de 1999.
+O presente Acordo foi aprovado pelo Decreto do Presidente da República n.º 41/2001, publicado no Diário da República, 1.ª série-A, n.º 226, de 28 de Setembro de 2001.
+Em conformidade com o disposto no seu artigo 13.º, o Acordo entrou em vigor em 4 de Novembro de 2001.
+Direcção-Geral das Relações Bilaterais, 27 de Agosto de 2002. - O Director-Geral, José Caetano de Campos de Andrada da Costa Pereira.
