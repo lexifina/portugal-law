@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jICRzj3KB1Bmg3m8DVSHnpi8rXpapb3j4jMO5BtN2LbfPF3esMoTH6fDrsMuFJ9lPAZvTPAWxS9PFAt7bzMiuI04fWuRpEaIxl4mcW%2fcx1acNCntIvb5NLRRHaPebnKKry6IchvGghYnV5lkvxQk495hFB7swBEB4rvnhCoTOeXflL%2foNK7o0b4dy592StEdZmQVtVkruElsfWncCV%2b%2bpavK9g3VZy%2bP4cmQ40z%2f0a69tQcMqoIjKHap%2bFpAkJMgbKcIQykqLjBLupnXrNjLuRZ30Ox0rp%2fdoXYbf5r3SXm4%2fEbMutFiFUX0sUvjGKIZ7ZqNfVf38E4D2PhkYxEZx9pZ7GwemaRdvkVkJ4JulFaJGzWdDjdFCx4KRpH%2bqN7s&fich=IntervencoesV_json.txt&Inline=true",
+  "ficheiro_sha256": "e07157b1d50033e077d4f054f931a3450edfcc0fcd53456e529928b3d3af1eae",
+  "legislatura": "V",
+  "id": "208247",
+  "tipo": "Intervenção",
+  "orador": "José Manuel Mendes (PCP)",
+  "data_registo": "1988-01-19",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "105359",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "32732",
+        "tipo": "INI",
+        "titulo": "Projeto de Deliberação - Constituição de uma Comissão Eventual Para Apreciação dos Projectos de Revisão Constitucional."
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "27949",
+        "tipo": "INI",
+        "titulo": "Projeto de Resolução - Constituição de uma comissão eventual para apreciação dos projectos de revisão constitucional"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1988-01-19",
+    "Debate": "PJD n.º 6/V/1; PJR n.º 8/V/1",
+    "Deputados": {
+      "GP": "PCP",
+      "idCadastro": "3020",
+      "nome": "José Manuel Mendes"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "208247",
+    "IdDebate": "5199",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "V",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "208247",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "1338-1339"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-01-20",
+        "pubLeg": "V",
+        "pubNr": "42",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/042/1988-01-20/1338?pgs=1338-1339&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": null,
+    "Sessao": "1",
+    "Sumario": "Constituição de uma comissão  eventual para apreciação dos projectos de revisão constitucional",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
