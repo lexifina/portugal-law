@@ -1,0 +1,5 @@
+Aviso n.º 172/99
+Por ordem superior se torna público que, por nota de 24 de Setembro de 1999, o Secretário-Geral da Organização da Aviação Civil Internacional, na sua qualidade de depositário do Protocolo Relativo a Uma Emenda à Alínea A) do artigo 50.º da Convenção sobre a Aviação Civil Internacional, adoptado em Montreal, em 26 de Outubro de 1990, comunicou ter o Governo de Portugal notificado, em 16 de Setembro, que o referido Protocolo é aplicável ao território de Macau. A notificação passou a constar dos registos da Organização.
+Portugal é Parte no Protocolo, que foi aprovado, para ratificação, pelo Decreto n.º 47/97, de 3 de Setembro, publicado no Diário da República, 1.ª série-A, n.º 203, de 3 de Setembro de 1997, e foi estendido ao território de Macau pelo Decreto do Presidente da República n.º 176/99, de 5 de Agosto, publicado no Diário da República, 1.ª série-A, n.º 181, de 5 de Agosto de 1999.
+Para ser publicado no Boletim Oficial de Macau.
+Comissão Interministerial sobre Macau, 12 de Outubro de 1999. - António Nunes de Carvalho Santana Carlos.
