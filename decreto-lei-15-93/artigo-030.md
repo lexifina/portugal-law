@@ -10,4 +10,4 @@
 
 4 - O disposto no número anterior só é aplicável após duas apreensões de plantas, substâncias ou preparações incluídas nas tabelas I a IV, realizadas por autoridade judiciária ou por órgão de polícia criminal, devidamente notificadas ao agente referido nos n.os 1 e 2, e não mediando entre elas período superior a um ano, ainda que sem identificação dos detentores.
 
-5 - Verificadas as condições referidas nos n.os 3 e 4, a autoridade competente para a investigação dá conhecimento dos factos à autoridade administrativa que concedeu a autorização de abertura do estabelecimento, que decide sobre o encerramento.
+5 - Verificadas as condições referidas nos n.os 3 e 4, a autoridade competente para a investigação dá conhecimento dos factos ao governador civil do distrito da área respectiva ou à autoridade administrativa que concedeu a autorização de abertura do estabelecimento, que decidirão sobre o encerramento.

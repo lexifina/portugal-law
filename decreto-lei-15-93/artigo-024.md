@@ -2,7 +2,7 @@
 
 ### Agravação
 
-As penas previstas nos artigos 21.º e 22.º são aumentadas de um quarto nos seus limites mínimo e máximo se:
+As penas previstas nos artigos 21.º, 22.º e 23.º são aumentadas de um quarto nos seus limites mínimo e máximo se:
 
 a) As substâncias ou preparações foram entregues ou se destinavam a menores ou diminuídos psíquicos;
 

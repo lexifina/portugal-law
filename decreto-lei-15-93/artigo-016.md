@@ -2,7 +2,7 @@
 
 ### Obrigações especiais dos farmacêuticos
 
-1 - Só o farmacêutico, ou quem o substitua na sua ausência ou impedimento, pode aviar receitas respeitantes a substâncias ou preparações compreendidas nas tabelas i e ii, devendo cumprir as regras sobre identificação previstas no diploma regulamentar.
+1 - Só o farmacêutico, ou quem o substitua na sua ausência ou impedimento, pode aviar receitas respeitantes a substâncias ou preparações compreendidas nas tabelas I e II, devendo verificar a identidade do adquirente e anotar à margem da receita respectiva o nome, número e data de emissão do bilhete de identidade, podendo servir-se de outros elementos seguros de identificação, tais como a carta de condução ou, no caso de estrangeiros, o passaporte, anotando ainda a data da entrega das substâncias, e assinando.
 
 2 - O farmacêutico deve recusar-se a aviar as receitas que não obedeçam às condições impostas no artigo anterior.
 
