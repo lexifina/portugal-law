@@ -1,0 +1,27 @@
+Decreto-Lei n.º 57/77
+de 18 de Fevereiro
+A Constituição determina que as comissões de trabalhadores são eleitas em plenário de trabalhadores por voto directo e secreto (artigo 55.º, n.º 2), devendo também o seu estatuto ser aprovado em plenário de trabalhadores (artigo 55.º, n.º 3).
+A Constituição também determina que as direcções das associações sindicais são eleitas por escrutínio secreto e que a sua actividade assentará na participação activa dos trabalhadores em todos os aspectos da actividade sindical (artigo 57.º, n.º 3).
+Visa ainda a Constituição assegurar a unidade e o diálogo das diversas correntes sindicais eventualmente existentes, garantindo aos trabalhadores o exercício do direito de tendência dentro dos sindicatos, nos casos e nas formas em que tal direito for estatutariamente estabelecido (artigo 57.º, n.º 5).
+Acontece que a aplicação destes preceitos constitucionais é por vezes dificultada pelas realidades da vida prática.
+Nas empresas de laboração contínua torna-se difícil, se não impossível, o exercício do direito de voto pela totalidade dos trabalhadores sem que se estabeleça um esquema viável e adaptado a esse tipo de laboração. Também nas empresas com instalações disseminadas por todo o território nacional (CP, Rodoviária Nacional, Petrogal, etc.) a eleição das comissões de trabalhadores pelo seu plenário, ou seja pela sua totalidade, só será exequível mediante a estruturação de um sistema que tenha em conta as realidades próprias dessas empresas.
+A experiência demonstra que só é possível a eleição por todos os trabalhadores se se permitir o voto nos locais de trabalho e durante o tempo de trabalho.
+O expediente de se marcar o acto eleitoral para dias feriados ou para fora do tempo e do local de trabalho impede, na prática, o voto a muitos trabalhadores, por dificuldades de transportes, obrigações familiares, ou ainda pelo facto de viverem em sítios muito distantes.
+Por esse motivo, permite-se que as eleições das comissões de trabalhadores e das direcções das associações sindicais se realizem no local e durante o tempo de trabalho, a fim de se viabilizarem os preceitos constitucionais referidos, assegurando-se, assim, a efectiva democracia de base que os mesmos postulam. Por razões evidentes, as assembleias gerais ou as reuniões de esclarecimento durante o tempo de trabalho ou de modo a perturbarem-no continuam a não ser permitidas.
+Na elaboração do presente diploma tomaram parte comissões de trabalhadores e associações sindicais para o efeito consultadas pelo Ministério do Trabalho, em obediência aos princípios constitucionais que regem esta matéria.
+Nestes termos:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º - 1. As comissões de trabalhadores serão eleitas por voto directo e secreto, em dias de trabalho, no local e durante o tempo de trabalho.
+2. A eleição só é válida estando presente a maioria dos trabalhadores da empresa.
+3. O acto eleitoral deverá ser anunciado com a antecedência mínima de quinze dias e em termos de ampla publicidade, com menção de horas, local e objecto.
+4. O exercício do direito de voto deve ser registado em documento próprio, reconhecido e visado pela mesa que presidir às eleições, e que constituirá parte integrante da respectiva acta.
+Art. 2.º - 1. A fim de tornar exequível o disposto no n.º 1 do artigo anterior, as urnas deverão ser colocadas nos locais de trabalho, mas de modo a não prejudicarem a laboração normal.
+2. A votação iniciar-se-á, pelo menos, trinta minutos antes do começo e terminará, pelo menos, sessenta minutos depois do encerramento do período de trabalho.
+3. Os trabalhadores poderão votar durante o seu período de trabalho, para o que cada um disporá de tempo suficiente para tal.
+Art. 3.º O disposto nos artigos anteriores aplica-se à aprovação do estatuto das comissões de trabalhadores.
+Art. 4.º Às eleições das direcções sindicais e à aprovação dos respectivos estatutos poderá ser aplicável o disposto nos artigos 1.º e 2.º
+Art. 5.º As assembleias ou reuniões de esclarecimento só são permitidas fora do período de trabalho.
+Visto e aprovado em Conselho de Ministros. - Mário Soares - Francisco Manuel Marcelo Monteiro Curto.
+Promulgado em 7 de Fevereiro de 1977.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
