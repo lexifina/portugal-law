@@ -1,0 +1,11 @@
+Resolução n.º 73/80
+Por Resolução do Conselho de Ministros n.º 220/79, de 4 de Julho, foi determinada a cessação da intervenção do Estado na Corame - Construtora Metálica, Lda., e a sua restituição aos respectivos titulares, nos termos da alínea d) do n.º 1 do artigo 24.º do Decreto-Lei n.º 422/76, de 29 de Maio.
+Porque então se entendeu que a situação da empresa intervencionada não justificava a adopção de quaisquer medidas especiais tendentes ao seu saneamento financeiro, a resolução acima citada não fez qualquer referência a esse tipo de medidas.
+Verificou-se, porém, que, por razões estranhas à sua vontade, não foi possível aos titulares da empresa assumirem, a partir da publicação da referida Resolução n.º 220/79, a efectiva gestão da empresa, como fora previsto.
+Essa não assumpção dos normais poderes de gerência pelos titulares da empresa determinou que a mesma entrasse em prolongado período de inactividade, que, naturalmente, agravou a sua situação económica, alterando, por forma sensível, os dados que haviam sido considerados quando da cessação da intervenção.
+Justifica-se, pois, agora que a empresa finalmente retomou a sua normal actividade, que se determinem medidas entretanto tornadas aconselháveis para garantir essa normalidade e, consequentemente, os postos de trabalho que através dela se asseguram.
+Nestes termos:
+O Conselho de Ministros, reunido em 21 de Fevereiro de 1980, resolveu:
+1 - Fixar o prazo de três meses, a contar da publicação da presente resolução, para que os titulares da empresa apresentem à instituição de crédito maior credora os documentos necessários à celebração de um contrato de viabilização, nos termos do Decreto-Lei n.º 124/77, de 1 de Abril, e demais disposições legais aplicáveis.
+2 - Determinar que, nos termos do n.º 3 do artigo 24.º do Decreto-Lei n.º 422/76, de 29 de Maio, na redacção que lhe foi dada pelo Decreto-Lei n.º 67/78, de 5 de Abril, seja aplicada à empresa, por todo o tempo que mediar até à outorga do contrato de viabilização, mas nunca para além de 31 de Julho de 1980, a disciplina dos artigos 12.º, 13.º e 14.º do referido Decreto-Lei n.º 422/76.
+Presidência do Conselho de Ministros, 21 de Fevereiro de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
