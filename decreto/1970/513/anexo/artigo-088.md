@@ -1,5 +1,7 @@
 # Artigo 88.º
 
-### Corte geral do circuito de alimentação das máquinas
+### Quadro da casa das máquinas
 
-A canalização de alimentação da máquina de tracção de cada elevador deverá possuir um interruptor omnipolar situado na casa das máquinas, junto à porta ou alçapão de acesso, que corte em todos os pólos o circuito de alimentação da máquina de tracção.
+1 - Cada casa das máquinas deverá ser dotada de um quadro situado junto à porta ou alçapão de acesso.
+
+2 - O quadro referido no número anterior deverá ser dotado de um aparelho de corte omnipolar e alimentará os quadros de comando dos elevadores estabelecidos nessa casa das máquinas.

@@ -1,5 +1,5 @@
 # Artigo 103.º
 
-### Identificação dos interruptores
+### Identificação dos circuitos
 
-O interruptor geral, previsto no artigo 88.º, e o interruptor do circuito de iluminação da cabina, previsto no n.º 3 do artigo 90.º, serão devidamente identificados.
+Os circuitos de saída do quadro da casa das máquinas referido no n.º 1 do artigo 88.º deverão ser devidamente identificados.
