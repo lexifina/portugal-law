@@ -1,0 +1,33 @@
+Decreto-Lei n.º 214/82
+de 29 de Maio
+Através da Resolução n.º 224/81, de 30 de Outubro, o Conselho de Ministros, considerando encontrar-se o Fundo de Fomento da Habitação numa situação insusceptível de reconversão para a prossecução dos objectivos da política habitacional do Governo e o Instituto de Apoio à Construção Civil desinserido desses objectivos, deliberou que fossem elaborados projectos de decreto-lei extinguindo o Fundo de Fomento da Habitação e o Instituto de Apoio à Construção Civil e definindo ou constituindo as estruturas orgânicas que lhes sucederão.
+O presente decreto-lei constitui uma das medidas legislativas inscritas nesse quadro.
+Assim:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º São extintos o Fundo de Fomento da Habitação e o Instituto de Apoio à Construção Civil e é dada por finda a actividade das Direcções-Gerais de Coordenação das Empresas de Construção Civil, de Coordenação de Projectistas e Consultores e das Indústrias para a Construção Civil.
+Art. 2.º Os programas em curso, o património incluindo activos e passivos, os saldos das dotações orçamentais e os arrendamentos dos organismos referidos no artigo 1.º serão transmitidos total ou parcialmente para outras entidades, por despacho conjunto do Ministro de Estado e das Finanças e do Plano e do Ministro da Habitação, Obras Públicas e Transportes, com dispensa de quaisquer outras formalidades, salvo as de registo, quando necessário.
+Art. 3.º As atribuições do Fundo de Fomento da Habitação, previstas no artigo 6.º do Decreto-Lei n.º 583/72, de 30 de Dezembro, no Decreto-Lei n.º 8/73, de 8 de Janeiro, no Decreto-Lei n.º 737-A/74, de 23 de Dezembro, no artigo 3.º do Decreto-Lei n.º 608/73, de 14 de Novembro, e no Decreto-Lei n.º 344/79, de 28 de Agosto, bem como as do Instituto de Apoio à Construção Civil, passam a ser prosseguidas pelos serviços que, na área da habitação e urbanismo do Ministério da Habitação, Obras Públicas e Transportes, detêm competências equivalentes, nos termos que forem determinados por despacho do Ministro da Habitação, Obras Públicas e Transportes.
+Art. 4.º - 1 - A fim de assegurar a liquidação do Fundo de Fomento da Habitação, será nomeada, por despacho conjunto do Ministro de Estado e das Finanças e do Plano e do Ministro da Habitação, Obras Públicas e Transportes, uma comissão liquidatária com composição, mandato, prazo e remunerações a definir no mesmo despacho.
+2 - Enquanto não for dado cumprimento ao disposto no artigo 2.º, a comissão liquidatária poderá, designadamente:
+a) Dar conclusão às obras em curso e exercer os direitos e obrigações emergentes dos respectivos contratos ou actos administrativos, designadamente tendo em vista a prossecução dos objectivos definidos pelo Governo quanto à extinção do ex-programa CAR;
+b) Praticar todos os actos de administração e outros necessários à defesa dos direitos do agora extinto Fundo de Fomento da Habitação;
+c) Proceder à alienação do património habitacional, nos termos legais, e praticar todos os actos necessários para o efeito;
+d) Cumprir os contratos de desenvolvimento para a habitação em que seja parte e exercer, nos termos contratuais, a garantia de compra;
+e) Intervir, negociar e outorgar contratos de desenvolvimento para a habitação cuja proposta já tenha sido admitida à data da publicação do presente diploma;
+f) Pagar as dívidas e respectivos encargos perante o tesouro, instituições de crédito e demais credores;
+g) Praticar todos os actos necessários à transferência do património e das situações activas e passivas em conformidade com o disposto no artigo 3.º
+h) Praticar os actos de gestão e satisfazer as despesas necessárias ao pontual cumprimento dos objectivos e competências fixadas nas alíneas anteriores;
+i) Intentar e prosseguir, activa e passivamente, as acções e outros processos necessários à defesa dos interesses e direitos do Fundo de Fomento da Habitação emergentes de actos ou contratos anteriores à entrada em vigor do presente diploma, bem como dos praticados ou celebrados no uso da competência fixada nas alíneas anteriores;
+j) Gerir o pessoal e exercer sobre o mesmo a competência disciplinar.
+Art. 5.º - 1 - Sem prejuízo da manutenção do respectivo vínculo, ficam afectos à Secretaria-Geral do Ministério da Habitação, Obras Públicas e Transportes e à Comissão Liquidatária do Fundo de Fomento da Habitação, respectivamente, os funcionários e agentes das direcções-gerais referidas no artigo 1.º e os do Fundo de Fomento da Habitação.
+2 - Os serviços a que se refere o artigo 3.º definirão, no prazo de 60 dias, as eventuais necessidades suplementares de pessoal para efeito de prosseguimento das atribuições que para eles transitam, nos termos do mesmo artigo.
+3 - A transição para os serviços mencionados no número anterior do pessoal referido no n.º 1 obedecerá aos critérios estabelecidos na legislação em vigor sobre racionalização de serviços e constituição de excedentes e processar-se-á logo que termine o prazo estipulado no n.º 2.
+4 - Serão constituídos em excedentes, desde que não abrangidos pela transição prevista no número anterior, os funcionários e agentes:
+a) Das Direcções-Gerais de Coordenação das Empresas de Construção Civil, de Coordenação de Projectistas e Consultores e das Indústrias para a Construção Civil;
+b) Do Fundo de Fomento da Habitação, à medida que for dada por finda a sua afectação à respectiva comissão liquidatária, facto que constará expressamente de despacho do Ministro da Habitação, Obras Públicas e Transportes, sob proposta daquela comissão.
+5 - Para efeitos do disposto no número anterior é criado na Secretaria-Geral do Ministério da Habitação, Obras Públicas e Transportes o respectivo quadro de efectivos interdepartamentais, no qual ingressarão automaticamente os efectivos que venham a ser constituídos em excedentes, nos termos do presente artigo, e, bem assim, os originários de serviços ou organismos dependentes ou tutelados por aquele Ministério.
+Art. 6.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho do Ministro de Estado e das Finanças e do Plano e dos Ministros da Habitação, Obras Públicas e Transportes e da Reforma Administrativa.
+Visto e aprovado em Conselho de Ministros de 2 de Abril de 1982. - Francisco José Pereira Pinto Balsemão - José Carlos Pinto Soromenho Viana Baptista.
+Promulgado em 17 de Maio de 1982.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
