@@ -1,0 +1,7 @@
+Portaria n.º 388/2005
+de 5 de Abril
+Pela Portaria n.º 351/95, de 24 de Abril, foi concessionada à Falcão-Tur - Sociedade de Caça e Turismo, Lda., a zona de caça turística (processo n.º 1718-DGRF) situada nos municípios de Montemor-o-Novo e Vendas Novas, com a área de 1425,2068 ha, válida até 24 de Abril de 2007.
+Pela Portaria n.º 1037-R/2004, de 12 de Agosto, foi, ao abrigo do disposto no n.º 1 do artigo 49.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, suspenso o exercício da caça e actividades de carácter venatório na zona de caça acima referida, uma vez que a entidade gestora da mesma não cumpriu o determinado na alínea c) do n.º 1 do artigo 42.º do diploma atrás citado, tendo sido determinado o prazo de 90 dias para a entidade concessionária suprir a falta que determinou a suspensão.
+Considerando que aquele prazo se encontra ultrapassado, sem que para tanto tenha sido suprida a falta que originou a suspensão:
+Manda o Governo, pelo Ministro da Agricultura, Pescas e Florestas, ao abrigo do disposto na alínea b) do n.º 1 do artigo 51.º do Decreto-Lei n.º 202/2004, de 18 de Agosto, que seja revogada a concessão da zona de caça turística da Herdade do Catalão e anexas (processo n.º 1718-DGRF), atribuída pela Portaria n.º 351/95, de 24 de Abril, à Falcão-Tur - Sociedade de Caça e Turismo, Lda.
+Pelo Ministro da Agricultura, Pescas e Florestas, Luís António Pires Pinheiro, Secretário de Estado das Florestas, em 25 de Fevereiro de 2005.
