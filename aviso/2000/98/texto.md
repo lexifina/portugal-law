@@ -1,0 +1,4 @@
+Aviso n.º 98/2000
+Por ordem superior se torna público que se encontram cumpridos os pressupostos exigidos na República Portuguesa e na República Federal da Alemanha para a entrada em vigor da Convenção entre o Governo da República Portuguesa e o Governo da República Federal da Alemanha Relativa ao Reembolso de Despesas com Prestações em Espécie do Seguro de Doença, assinada em Lisboa em 10 de Fevereiro de 1998.
+A referida Convenção foi aprovada através do Decreto n.º 10/99, de 26 de Março, publicado no Diário da República, 1.ª série-A, n.º 72, de 26 de Março de 1999, tendo entrado em vigor em 29 de Fevereiro de 2000, na sequência das notificações a que se refere o seu artigo 9.º, n.º 1.
+Direcção de Serviços de Migrações e Apoio Social, 10 de Março de 2000. - O Director de Serviços, Joaquim Ludovina do Rosário.
