@@ -1,0 +1,6 @@
+Declaração
+Segundo comunicação do Ministério da Indústria, Energia e Exportação a Portaria n.º 1148/81, publicada no Diário da República, 1.ª série, n.º 300 (10.º suplemento), de 31 de Dezembro de 1981, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No n.º 7.º, n.º 1, onde se lê «o excedente será facturado a um preço por kilowatt-hora» deve ler-se «o excedente será facturado a um preço por kilovar-hora»; no n.º 4, onde se lê «poderá ser facturado a um preço por kilowatt-hora» deve ler-se «poderá ser facturado a um preço por kilovar-hora» e, no n.º 5, onde se lê «será creditada a um preço por kilowatt-hora» deve ler-se «será creditada a um preço por kilovar-hora».
+No quadro n.º 1, onde se lê «[parâmetro (d) (c)]:» deve ler-se «[parâmetro d) (c)]:» e onde se lê «(f) Quando não existir contagem separada» deve ler-se «(f) Enquanto não existir contagem separada».
+No quadro n.º 2, onde se lê «(d) Os consumidores não domésticos de iluminação e outros estão sujeitos» deve ler-se «(d) Os consumidores não domésticos de iluminação e outros usos estão sujeitos».
+Secretaria-Geral da Presidência do Conselho de Ministros, 17 de Março de 1982. - O Secretário-Geral, França Martins.
