@@ -1,0 +1,53 @@
+Aviso
+Por ordem superior se torna pública a Lista actualizada dos Estados partes no Acordo Internacional do Açúcar, aberto à assinatura em Nova Iorque, de 3 a 24 de Dezembro de 1968:
+África do Sul, em 24 de Dezembro de 1968;
+Argentina, em 18 de Dezembro de 1969;
+Austrália, em 23 de Maio de 1969 (extensão ao território de Papua e ao território sob tutela da Nova Guiné);
+Barbados, em 18 de Abril de 1969;
+Bolívia, em 18 de Março de 1969;
+Brasil, em 13 de Maio de 1969;
+Camarões, em 22 de Junho de 1970;
+Canadá, em 23 de Dezembro de 1968;
+Chile, em 22 de Fevereiro de 1973;
+China, em 8 de Setembro de 1969;
+Colômbia, em 31 de Dezembro de 1969;
+Congo, em 15 de Dezembro de 1969;
+Coreia, em 20 de Dezembro de 1972;
+Cuba, em 22 de Maio de 1969;
+Checoslováquia, em 7 de Março de 1969;
+Dinamarca, em 13 de Abril de 1970;
+República Dominicana, em 13 de Novembro de 1969;
+Fiji, em 17 de Outubro de 1970;
+Filipinas, em 22 de Março de 1971;
+Finlândia, em 6 de Março de 1970;
+Ghana, em 17 de Setembro de 1969;
+Guatemala, em 31 de Dezembro de 1969;
+Guiana, em 7 de Março de 1969;
+Honduras, em 23 de Dezembro de 1969;
+Hungria, em 9 de Julho de 1969;
+Índia, em 4 de Fevereiro de 1969;
+Indonésia, em 18 de Junho de 1969;
+Irlanda, em 11 de Setembro de 1969;
+Jamaica, em 27 de Dezembro de 1968;
+Japão, em 17 de Junho de 1969;
+Líbano, em 1 de Março de 1972;
+Madagáscar, em 4 de Agosto de 1969;
+Malásia, em 29 de Dezembro de 1972;
+Malawi, em 9 de Julho de 1969;
+Maurícias, em 23 de Dezembro de 1968;
+México, em 29 de Dezembro de 1969;
+Nova Zelândia, em 23 de Dezembro de 1968;
+Nigéria, em 13 de Fevereiro de 1970;
+Peru, em 10 de Dezembro de 1969;
+Polónia, em 31 de Dezembro de 1969;
+Portugal, em 31 de Dezembro de 1970;
+Quénia, em 30 de Dezembro de 1968;
+Suazilândia, em 18 de Fevereiro de 1969;
+Suécia, em 23 de Julho de 1969;
+Síria, em 7 de Maio de 1970;
+Tailândia, em 29 de Dezembro de 1969 (denúncia, em 30 de Julho de 1971);
+Trindade e Tabago, em 23 de Dezembro de 1968;
+Uganda, em 30 de Junho de 1969;
+U. R. S. S., em 30 de Dezembro de 1968;
+Reino Unido, em 12 de Março de 1969 (extensão a Antígua, Honduras Britânicas, Ilhas Britânicas do Salomão, Ilhas Virgens, Ilhas Gilbert e Ellice, Gibraltar, Mountserrat, Seychelles, Santa Helena, St. Kitts-Nevis-Anguilla, Bahamas, Turks e Caicos, Bermuda, Tonga e Dominica).
+Direcção-Geral dos Negócios Económicos, 31 de Maio de 1973. - O Adjunto do Director-Geral, José Joaquim de Mena e Mendonça.
