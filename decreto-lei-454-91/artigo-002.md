@@ -10,6 +10,6 @@ b) Apresentação a pagamento, nos termos e prazos da Lei Uniforme Relativa ao C
 
 c) Emissão de cheque sobre elas sacado, em data posterior à notificação a que se refere o artigo 1.º, n.º 4, pelas entidades com quem hajam rescindido a convenção de cheque;
 
-d) Não pagamento de cheque de valor não superior a (euro) 150, emitido através de módulo por elas fornecido;
+d) Não pagamento de cheque de valor não superior a 12500$00, emitido através de módulo por elas fornecido;
 
 e) Recusa de pagamento de cheques com inobservância do disposto no artigo 9.º, n.º 1.

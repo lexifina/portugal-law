@@ -6,13 +6,13 @@
 
 ### Contra-ordenações
 
-1 - Constitui contra-ordenação, punível com coima de (euro) 748,20 a (euro) 12469,95:
+1 - Constitui contra-ordenação punível com coima de 150000$00 a 2500000$00:
 
 a) A omissão do dever de comunicação ao Banco de Portugal a que se refere o artigo 2.º;
 
 b) A inobservância dos requisitos a que se refere o artigo 7.º
 
-2 - Constitui contra-ordenação, punível com coima de (euro) 1496,39 a (euro) 24939,89:
+2 - Constitui contra-ordenação punível com coima de 300000$00 a 5000000$00:
 
 a) A não rescisão da convenção que atribua o direito de emissão de cheques, a celebração de nova convenção ou o fornecimento de módulos de cheques com infracção do disposto neste diploma;
 
@@ -24,7 +24,7 @@ d) A recusa, considerada injustificada, de pagamento de cheque, nos termos do ar
 
 3 - As contra-ordenações previstas nos números anteriores são sempre puníveis a título de negligência.
 
-4 - Se os factos referidos nos números anteriores forem praticados pelos órgãos de pessoa colectiva ou equiparada, no exercício das suas funções, o montante mínimo das coimas aplicadas é, respectivamente, de (euro) 1995,19 e de (euro) 399038, em caso de dolo, e de (euro) 997,60 e (euro) l995,19, em caso de negligência.
+4 - Se os factos referidos nos números anteriores forem praticados pelos órgãos de pessoa colectiva ou equiparada, no exercício das suas funções, o montante mínimo das coimas aplicadas é, respectivamente, de 400000$00 e 800000$00, em caso de dolo, e de 200000$00 e 400000$00, em caso de negligência.
 
 5 - A instrução do processo de contra-ordenação e a aplicação da coima competem ao Banco de Portugal.
 
