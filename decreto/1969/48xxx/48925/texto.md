@@ -1,0 +1,17 @@
+Decreto n.º 48925
+Pelo Decreto n.º 41725, de 8 de Julho de 1958, foi a Companhia do Caminho de Ferro de Benguela, sociedade anónima de responsabilidade limitada, concessionária do caminho de ferro do Lobito à fronteira leste de Angola, autorizada a emitir obrigações até à importância de 800000000$00, em séries, conforme as necessidades do investimento, sob condição de toda a emissão estar concluída em 31 de Dezembro de 1970.
+A 1.ª série - que não poderia exceder 240000000$00 - seria emitida logo a seguir à publicação do diploma e destinar-se-ia a financiar o plano de melhoramentos da empresa nos anos de 1958-1960.
+De acordo com o artigo 5.º, a amortização das obrigações emitidas até 31 de Dezembro de 1970 iniciar-se-ia no ano de 1971, sendo amortizados em cada ano 1/30 do total das mesmas, e terminaria no ano 2000, sem prejuízo do disposto no seu § 3.º, que prescreveu «constituírem as importâncias em dívida por atraso na amortização, observadas determinadas condições, encargo sobre a exploração do caminho de ferro, mesmo para além do termo da concessão, até sua completa liquidação».
+Até à presente data foram emitidas, por conta apenas da referida 1.ª série, obrigações na importância de 148832000$00. Dentro da autorização concedida caberia ainda à Companhia do Caminho de Ferro de Benguela colocar obrigações por mais 651168000$00. Todavia, e apesar da significância dos planos em estudo, a empresa reconhece expressamente não ser possível utilizar em escala apreciável até àquela data a faculdade de emitir obrigações nesse valor e, por isso, «pretende que, sem prejuízo do restante condicionalismo estabelecido no Decreto n.º 41725, o prazo referido no artigo 1.º seja prorrogado até 31 de Dezembro de 1980 e a data do início e a quota anual de amortização, constantes do citado artigo 5.º, sejam também alteradas em conformidade».
+Considerando que a empresa projecta fazer nos próximos anos avultados investimentos com vista ao aumento da capacidade de transporte do seu caminho de ferro e à maior eficiência deste, devendo, para tanto, ter necessidade de recorrer ao capital obrigacionista;
+Considerando que do deferimento da pretensão não resulta ofensa dos direitos e interesses do Estado definidos no decreto que autorizou a concessão da exploração do caminho de ferro de Benguela e nos subsequentes diplomas que o modificaram e respectivos contratos;
+Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por motivo de urgência;
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+Artigo único. Sem prejuízo do restante condicionalismo estabelecido no Decreto n.º 41725, de 8 de Julho de 1958, o prazo fixado no § 1.º do seu artigo 1.º é prorrogado até 31 de Dezembro de 1980, sendo também alteradas, em conformidade, a data do início da amortização e a quota anual da mesma constantes do corpo do artigo 5.º, que passam a ser, respectivamente, no ano de 1981 e de 1/20 do montante a amortizar.
+§ único. Em relação, porém, às obrigações já emitidas, continuará em vigor, sem qualquer alteração, o disposto no corpo do artigo 5.º do citado Decreto n.º 41725.
+Marcello Caetano - Joaquim Moreira da Silva Cunha.
+Promulgado em 17 de Março de 1969.
+Publique-se.
+Presidência da República, 26 de Março de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser publicado no Boletim Oficial de Angola. - J. da Silva Cunha.
