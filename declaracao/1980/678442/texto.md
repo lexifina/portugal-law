@@ -1,0 +1,6 @@
+Declaração
+Segundo comunicação do Ministério da Indústria e Tecnologia, a Portaria n.º 34/80, publicada no suplemento ao Diário da República, 1.ª série, n.º 26, de 31 de Janeiro de 1980, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Onde se lê: «Deste modo, de acordo com os estatutos sobre equilíbrio económico-financeiro [...], o reajustamento tarifário a praticar será de 20%», deve ler-se: «Deste modo, de acordo com os estatutos sobre equilíbrio económico-financeiro [...], o reajustamento tarifário a praticar será de 18%.»
+Onde se lê: «... em conformidade com a orientação do Conselho de Ministros de 00 de Janeiro de 1980», deve ler-se: «... em conformidade com a orientação do Conselho de Ministros de 30 de Janeiro de 1980.»
+Onde se lê: «A incidência desta sobretaxa abrange os adicionais resultantes do n.º 2 da Portaria n.º 550/79, aplicados até esta data.», deve ler-se: «A incidência desta sobretaxa abrange os adicionais resultantes do funcionamento do n.º 2 da Portaria n.º 550/79, aplicados até esta data.»
+Secretaria-Geral da Presidência do Conselho de Ministros, 11 de Março de 1980. - Pelo Secretário-Geral, Joaquim Brandão.
