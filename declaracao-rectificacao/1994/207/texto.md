@@ -1,0 +1,4 @@
+Declaração de rectificação n.º 207/94
+Segundo comunicação do Ministério dos Negócios Estrangeiros, o Aviso n.º 217/94, publicado no Diário da República, n.º 195, de 24 de Agosto de 1994, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+Onde se lê «A autoridade central portuguesa é a Direcção-Geral dos Serviços Judiciários, conforme Diário da República, 1.ª série, n.º 165, de 20 de Julho de 1985» deve ler-se «A autoridade central portuguesa designada relativamente à Convenção da Haia de 25 de Outubro de 1980 sobre os Aspectos Civis do Rapto Internacional de Crianças é a Direcção-Geral dos Serviços Tutelares de Menores, conforme aviso publicado no Diário da República, 1.ª série, n.º 165, de 20 de Julho de 1985».
+Secretaria-Geral da Presidência do Conselho de Ministros, 23 de Novembro de 1994. - O Secretário-Geral, França Martins.
