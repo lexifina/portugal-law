@@ -1,0 +1,39 @@
+# Acórdão do Tribunal da Relação de Lisboa de 1998-03-08, processo 0099682
+
+**Acórdãos TRL:** Acórdão do Tribunal da Relação de Lisboa
+
+**Processo:** 0099682
+
+**Nº Convencional:** JTRL00024652
+
+**Relator:** MARTINS DE SOUSA
+
+**Descritores:** RESPONSABILIDADE OBJECTIVA; DANO CAUSADO POR ANIMAL
+
+**Nº do Documento:** RL199803080099682
+
+**Data do Acordão:** 03/08/1998
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** APELAÇÃO.
+
+**Decisão:** REVOGADA A DECISÃO.
+
+**Área Temática:** DIR CIV - DIR RESP CIV.
+
+**Legislação Nacional:** CCIV66 ART350 ART493 ART502 ART503 ART505.
+
+## Sumário
+
+I - É lícito, em princípio, manter um cão de guarda em liberdade, no interior e exterior da casa de habitação que se encontra isolada e gradeada de molde a impedir qualquer sortida do animal para fora do seu perímetro.
+
+II - Aquele que, como o autor, entra no espaço exterior daquela casa, sem se fazer anunciar, podendo e devendo fazê-lo, e é atacado e mordido pelo canídeo, porque não facultou aos réus o conhecimento da sua presença, impediu-os de adoptar as medidas necessárias que obstassem ao evento danoso, o que é bastante para afastar a sua responsabilidade delitual.
+
+III - A improvidência do autor, imanente à circunstância de ter franqueado a entrada sem anúncio prévio, não é causa de exclusão da responsabilidade objectiva dos réus, prevista no art. 502º do Cod. Civil, se a sua presença foi tolerada por quem de direito e o evento danoso resultar sobretudo das espontâneas reacções instintivas do animal, factor que melhor justifica a assunção de responsabilidade daquele tipo.
+
+IV - Os danos indemnizáveis são todos aqueles que advêm do perigo especial que envolve a utilização do animal, neles se englobando, desde logo, os resultantes das lesões por esta causadas, de natureza patrimonial ou não patrimonial.
