@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que os Governos do Peru, da Tailândia, do Sri-Lanka, do Bangladesh, do Lesotho e de Grenada apresentaram em 28 de Abril, 16 de Maio, 2 de Junho, 28 de Junho, 27 de Julho e 10 de Agosto de 1978, respectivamente, os instrumentos de adesão à Convenção para a Supressão de Actos Ilegais contra a Segurança da Aviação Civil, celebrada em Montreal a 23 de Setembro de 1971, tendo o Governo formulado uma reserva relativa ao artigo 14, parágrafo I, daquela Convenção.
+Direcção-Geral dos Negócios Económicos, 19 de Janeiro de 1979. - O Adjunto do Director-Geral, Carlos Alberto Soares Simões Coelho.
