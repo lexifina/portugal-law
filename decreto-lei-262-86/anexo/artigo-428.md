@@ -2,7 +2,7 @@
 
 ### (Exercício de outras actividades)
 
-1 - Os directores não podem, sem autorização do conselho geral, exercer qualquer outra actividade comercial, por conta própria ou alheia, ou ser membros de órgão de administração ou de fiscalização de qualquer sociedade, ressalvadas aquelas que estejam em relação de domínio ou de grupo com a sociedade em que exercem funções.
+1 - Os directores não podem, sem autorização do conselho geral, exercer qualquer outra actividade comercial, por conta própria ou alheia, ou ser membros de órgão de administração ou de fiscalização de qualquer sociedade, sem prejuízo do disposto na alínea c) do n.º 5 do artigo 425.º
 
 2 - A autorização do conselho geral deve ser dada para cada caso e só pode ser concedida para o exercício de funções em mais duas sociedades.
 
