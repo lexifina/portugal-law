@@ -1,0 +1,37 @@
+# Acórdão do Tribunal da Relação de Coimbra de 2001-05-02, processo 696-2001
+
+**Acórdãos TRC:** Acórdão do Tribunal da Relação de Coimbra
+
+**Processo:** 696-2001
+
+**Nº Convencional:** JTRC5529
+
+**Relator:** MAIO MACÁRIO
+
+**Descritores:** NULIDADE DE SENTENÇA; MATÉRIA DE FACTO; PRINCÍPIO DA LIVRE APRECIAÇÃO DA PROVA; MÁ FÉ
+
+**Data do Acordão:** 05/02/2001
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Meio Processual:** REC. PENAL
+
+**Decisão:** NEGADO PROVIMENTO
+
+**Área Temática:** DIREITO PENAL. DIREITO PROCESSUAL PENAL.
+
+**Legislação Nacional:** ART.4º, 127º, 340º, 374º, 410º, Nº2, 426º, 430º DO CPP; ART. 456º DO CPC
+
+## Sumário
+
+I - Não se encontrando documentada toda a prova oral prestada em audiência, não pode o Tribunal de recurso conhecer da matéria de facto.
+
+II - A renovação da prova no Tribunal de recurso exige que este conheça de facto e de direito.
+
+III - A nulidade da sentença/acórdão tem de resultar do texto da decisão recorrida, por si só ou conjugada com as regras da experiência comum, não sendo possível o apelo a elementos estranhos ao julgamento em si mesmo, designadamente declarações ou depoimentos exarados no processo durante inquérito ou a instrução, ou até mesmo no julgamento.
+
+IV - Dependendo o juízo de credibilidade da prova por declarações do carácter e probidade moral de quem as presta e não sendo tais atributos apreensíveis, em princípio, mediante exame e análise dos textos processuais onde as mesmas se encontram documentadas, mas sim através do contacto com as pessoas, é evidente que o tribunal superior, salvo casos de excepção, deve adoptar o juizo valorativo formulado pelo tribunal a quo.
+
+V - Em processo penal não é possível a condenação do arguido como litigante de má fé, mas já nada impede que tal possa aplicar-se aos demais intervenientes processuais, nomeadamente às partes civis.
