@@ -1,0 +1,15 @@
+Decreto n.º 44484
+O Decreto-Lei n.º 43338, de 21 de Novembro de 1960, aprovou, para adesão, o Acordo relativo ao Fundo Monetário Internacional, cujo texto foi publicado em anexo ao mesmo decreto-lei.
+O artigo 1.º do Decreto-Lei n.º 43341, de 22 de Novembro de 1960, autorizou o Governo a participar no Fundo Monetário Internacional com uma quota no valor de 60000000 de dólares dos Estados Unidos da América.
+Nos termos da alínea b) da secção 3.ª do artigo II do Acordo, já foi paga em ouro quantia equivalente à quarta parte da quota portuguesa, devendo a parte restante ser paga em moeda portuguesa ou substituída por títulos, cujas características se encontram indicadas na secção 5.ª do artigo III do Acordo.
+O n.º 1.º do artigo 11.º do Decreto-Lei n.º 43341, de 22 de Novembro de 1960, já autorizou o Governo a emitir esses títulos de obrigação, mas torna-se necessário fixar as condições em que deve ser feita tal emissão.
+Nestes termos:
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos temos do § 2.º do artigo 80.º, o seguinte:
+Artigo 1.º De harmonia com o disposto no n.º 1.º do artigo 11.º do Decreto-Lei n.º 43341, de 22 de Novembro de 1960, é autorizada a emissão de 51 promissórias, destinadas a substituir parte da moeda com que Portugal teria de entrar para o Fundo Monetário Internacional, nos termos do Acordo aprovado pelo Decreto-Lei n.º 43338, de 21 de Novembro de 1960.
+Art. 2.º O serviço da emissão ficará a cargo da Junta do Crédito Público e as promissórias serão entregues ao Banco de Portugal, ao qual incumbe, nos termos do artigo 4.º do Decreto-Lei n.º 43341, desempenhar as funções de depositário, definidas na secção 2.ª do artigo XIII do Acordo.
+Art. 3.º Haverá 2 promissórias do valor nominal de 10000000 de dólares, correspondendo cada uma a 287500 contos; 48 promissórias do valor nominal de 500000 dólares, correspondendo cada uma a 14375 contos; e 1 promissória do valor nominal de U. S. $398975,31, correspondente a 11470540$20.
+Art. 4.º As promissórias a emitir não são negociáveis nem vencem juros e são pagáveis à vista e ao par, creditando a conta do Fundo Monetário Internacional no Banco de Portugal.
+§ único. No caso de ser paga sòmente uma parte da importância representada em qualquer das promissórias, passar-se-á uma nova promissória com as mesmas características e do valor nominal correspondente à quantia que ficou por pagar.
+Art. 5.º Das promissórias, que serão assinadas de chancela pelo Ministro das Finanças e pelo presidente da Junta do Crédito Público e levarão a assinatura autógrafa de um dos vogais e o selo branco da mesma Junta, constará o respectivo número de ordem, o capital nelas representado, a data da emissão, os decretos que autorizaram esta e os direitos, isenções e garantias de que gozam e que são os dos restantes títulos da dívida pública que lhes forem aplicáveis.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 27 de Julho de 1962. - ANTÓNIO DE OLIVEIRA SALAZAR - António Manuel Pinto Barbosa.
