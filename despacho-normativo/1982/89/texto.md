@@ -1,0 +1,4 @@
+Despacho Normativo n.º 89/82
+Tendo surgido algumas dúvidas acerca do entendimento a dar à expressão contida no n.º 1 do artigo 3.º do Decreto Regulamentar n.º 58/81, de 30 de Dezembro, «exame médico do candidato», esclareço o seguinte, ao abrigo do artigo 53.º do mesmo diploma:
+A referência feita no n.º 1 do artigo 3.º do Decreto Regulamentar n.º 58/81, de 30 de Dezembro, a «exame médico do candidato» abrange tanto os casos de exame médico directo do candidato como aqueles em que esse exame é feito indirectamente, pelo que se considera verificada aquela condição quando a admissão é precedida do preenchimento, pelo candidato, de um questionário clínico.
+Secretaria de Estado da Segurança Social, 23 de Abril de 1982. - O Secretário de Estado da Segurança Social, António José de Castro Bagão Félix.
