@@ -1,0 +1,14 @@
+Decreto-Lei n.º 44779
+Tem-se verificado que o período de tempo que decorre entre a publicação do Decreto-Lei n.º 44104, em 20 de Dezembro de 1961, e a data de 1 de Janeiro de 1963, fixada no decreto para início do novo regime de importação de veículos automóveis, é insuficiente para a instalação de oficinas de montagem que assegurem o regular abastecimento do mercado a partir da última data referida.
+Tal insuficiência, pelos transtornos que determina, quer no aspecto social, pelo desemprego que eventualmente viria a ocasionar na actividade do comércio automóvel, quer no aspecto económico, pelo que afectaria as actividades que utilizam veículos motorizados como elemento fundamental, impõe que se tomem medidas convenientes.
+Portanto:
+Considerando o espaço de tempo ainda necessário para a instalação de oficinas de montagem, mais extenso no caso de veículos ligeiros, pela maior complexidade das instalações, do que no caso de veículos pesados;
+Considerando que relativamente aos importadores não interessados na montagem de veículos automóveis não surgiu qualquer nova circunstância que implique a alteração das disposições previstas no Decreto-Lei n.º 44104;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. Durante o ano de 1963, a partir da data de início das obras de instalação de oficinas de montagem nos termos da legislação em vigor e até dois meses depois da sua entrada em laboração, os importadores que vierem a montar os seus veículos nas referidas oficinas poderão efectuar importações de veículos completamente montados num quantitativo mensal igual ao duodécimo da média anual do triénio 1959-1961 ou de 80 por cento do máximo importado em qualquer destes três anos.
+§ 1.º A importação prevista no presente diploma não poderá exceder para veículos ligeiros de passageiros e mistos a data de 31 de Dezembro de 1963 e para veículos pesados a de 30 de Junho de 1963.
+§ 2.º A suspensão da instalação das oficinas de montagem implica o cancelamento automático da importação permitida no corpo do artigo.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 7 de Dezembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - Edgar Maria da Silva Antunes de Oliveira.
+
+Para ser presente à Assembleia Nacional.
