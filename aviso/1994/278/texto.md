@@ -1,0 +1,11 @@
+Aviso n.º 278/94
+Por ordem superior se torna público que, por notificação do Conselho Permanente da Conferência da Haia de Direito Internacional Privado, de 26 de Julho de 1994, o Reino Unido da Grã-Bretanha e Irlanda do Norte declarou aceitar, em 26 de Maio de 1994, a adesão da Eslovénia à Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, concluída na Haia em 25 de Outubro de 1980.
+No momento da aceitação, o Reino Unido da Grã-Bretanha e Irlanda do Norte fez a seguinte declaração:
+Tradução:
+Não obstante as disposições do artigo 38.º relativo à entrada em vigor da Convenção entre o Estado aderente e o Estado que declarou aceitar a adesão, serão introduzidas modificações ao direito público do Reino Unido, com vista a aplicar a Convenção entre o Reino Unido e a Eslovénia a partir de 1 de Junho de 1994, data na qual a Convenção entra em vigor para a Eslovénia. Gostaria de receber a confirmação de que a Convenção entrará em vigor entre o Reino Unido e a Eslovénia em 1 de Junho de 1994.
+O Ministério dos Negócios Estrangeiros do Reino dos Países Baixos faz saber aos Estados Contratantes que o Governo da Eslovénia confirmou que a Convenção entrou em vigor em 1 de Junho de 1994 entre a República da Eslovénia e o Reino Unido da Grã-Bretanha e Irlanda do Norte.
+Por outro lado, a Austrália declarou aceitar, em 16 de Julho de 1994, a adesão das Baamas, das Honduras e do Panamá à Convenção acima mencionada.
+Em conformidade com o artigo 38.º, alínea 5, a Convenção entrou em vigor entre a Eslovénia e o Reino Unido da Grã-Bretanha e Irlanda do Norte em 1 de Agosto de 1994. Entrará em vigor entre, por um lado, as Baamas, as Honduras e o Panamá e, por outro, a Austrália em 1 de Setembro de 1994.
+Relativamente a Portugal, a Convenção foi aprovada para ratificação pelo Decreto do Governo n.º 33/83, conforme Diário da República, 1.ª série, n.º 108, de 11 de Maio de 1983. O depósito do instrumento de ratificação foi feito em 23 de Setembro de 1983, segundo Diário da República, 1.ª série, n.º 126, de 31 de Maio de 1984.
+A autoridade central portuguesa é a Direcção-Geral dos Serviços Tutelares de Menores conforme Diário da República, 1.ª série, n.º 165, de 20 de Julho de 1985.
+Departamento de Assuntos Jurídicos, 28 de Setembro de 1994. - O Director, José Maria Teixeira Leite Martins.
