@@ -1,0 +1,325 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jvMQgL4qeojTXYc%2byhcz5p3ic3xODuK0iUO0Y2y2ClcTtFB9k3sD%2b9wQveZYSd8NZLsCb9yzJniqsFTagd7CbMNr9RiU3i%2bk3rmuobGx84PbCdMXEaO2tAt4ls9fukmsItoX60VYYqS8JyucRXeNK4DfI799g%2blbezfSJpZ8w7%2baZYMBqfv1VesnUx6bJSW47suQTEZztwlqhsheF%2fV6CayXq9XylkeKBdMS4k0WpFeGsJUrYs53Ga%2fzv4nbFZSlZiCimHdTEOsH%2b%2fNcwjWayb61QyVSstj3ODN9XM8DB46f%2bPQ7wSP1KSIrsnu6vc0NN5UqeG88nqFw4kPOlzPTpz7DVHur%2fsRBhn0B8NlVzMX2nw7jDBVCKY54B7pyG%2fWe&fich=PeticoesVI_json.txt&Inline=true",
+  "ficheiro_sha256": "a0b19d1767819df1af646741c024bf367ae6532369315672414b384340a05bf4",
+  "legislatura": "VI",
+  "id": "11023",
+  "numero": "165",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "1992-11-05",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "1994-07-08",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "1993-04-01",
+        "DataArquivo": "1994-07-08",
+        "DataBaixaComissao": "1993-10-12",
+        "DataEnvioPAR": "1994-10-07",
+        "DataReaberta": "1993-04-01",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4",
+        "Legislatura": "VI",
+        "Nome": "COMISSÃO PETIÇÕES",
+        "NotasAdmissibilidade": null,
+        "Numero": "2",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "1994-07-08",
+            "dataNomeacao": "1993-10-12",
+            "gp": "PSD",
+            "id": "43",
+            "motivoCessacao": null,
+            "nome": "Eduardo Pereira da Silva"
+          }
+        ],
+        "RelatorioFinal": [
+          "21083"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "1995-02-22",
+    "Documentos": null,
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "1995-02-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40816",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1552-1553"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-02-23",
+                "pubLeg": "VI",
+                "pubNr": "44",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/044/1995-02-23/1552?pgs=1552-1553&org=PLC"
+              }
+            ],
+            "Sumario": "SUBSIDIO DE NATAL: OBRIGATORIED DE PAGAMENTO E S/ REGULAMENT",
+            "Teor": "INTERVEM NO DEBATE SUBSIDIO DE NATAL "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "1995-02-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40817",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1552-1552"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-02-23",
+                "pubLeg": "VI",
+                "pubNr": "44",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/044/1995-02-23/1552?pgs=1552&org=PLC"
+              }
+            ],
+            "Sumario": "SUBSIDIO DE NATAL: OBRIGATORIED DE PAGAMENTO E S/ REGULAMENT",
+            "Teor": "INTERVEM NO DEBATE SUBSIDIO DE NATAL "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "1995-02-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40818",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1552-1552"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-02-23",
+                "pubLeg": "VI",
+                "pubNr": "44",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/044/1995-02-23/1552?pgs=1552&org=PLC"
+              }
+            ],
+            "Sumario": "SUBSIDIO DE NATAL: OBRIGATORIED DE PAGAMENTO E S/ REGULAMENT",
+            "Teor": "INTERVEM NO DEBATE SUBSIDIO DE NATAL "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "1995-02-23",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40819",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1551-1551"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-02-23",
+                "pubLeg": "VI",
+                "pubNr": "44",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/044/1995-02-23/1551?pgs=1551&org=PLC"
+              }
+            ],
+            "Sumario": "SUBSIDIO DE NATAL: OBRIGATORIED DE PAGAMENTO E S/ REGULAMENT",
+            "Teor": "INTERVEM NO DEBATE SUBSIDIO DE NATAL "
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11023",
+    "PetAssunto": "Solicitam que a Assembleia da República crie uma norma jurídica que crie a obrigatoriedade de pagamento do subsídio de Natal e sua regulamentação para os trabalhadores dos sectores de portaria, vigilância e limpeza.",
+    "PetDataEntrada": "1992-11-05",
+    "PeticoesAssociadas": null,
+    "PetId": "11023",
+    "PetLeg": "VI",
+    "PetNr": "165",
+    "PetNrAssinaturas": "1861",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "11",
+        "obs": null,
+        "pag": [
+          "1551-1553"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1995-02-23",
+        "pubLeg": "VI",
+        "pubNr": "44",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/044/1995-02-23/1551?pgs=1551-1553&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "169530",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1993-04-23",
+        "pubLeg": "VI",
+        "pubNr": "22",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/06/02/022/1993-04-23?org=PLC"
+      }
+    ]
+  }
+}
