@@ -1,0 +1,6 @@
+Despacho
+Tendo em atenção, perante a perspectiva da próxima colheita de vinho, cujo volume deverá exceder consideràvelmente a do ano findo, que é necessário assegurar um escoamento proporcional das actuais existências de vinho em poder da produção, do comércio e da Junta, e usando da prerrogativa concedida pelo § único do artigo 7.º do Decreto-Lei n.º 40036, de 18 de Janeiro de 1955, determina-se:
+1.º Que sejam substituídas as reduções das existências mínimas obrigatórias do comércio armazenista previstas no citado diploma por uma redução de 10 por cento no período de 1 de Setembro a 10 de Novembro próximo, com reposição até 30 de Novembro;
+2.º É suspensa, a partir de 1 de Setembro, a obrigatoriedade de existências mínimas aos armazenistas que trabalham exclusivamente em vinhos verdes e que tenham os seus armazéns situados na respectiva região demarcada, ficando os mesmos obrigados à reposição dessas existências em 50 por cento até 30 de Novembro e 50 por cento até 31 de Dezembro próximos;
+3.º O conselho geral da Junta Nacional do Vinho manter-se-á atento à evolução do mercado no sentido de propor novas medidas se as circunstâncias assim o aconselharem em relação ao final da presente campanha.
+Secretaria de Estado do Comércio, 6 de Setembro de 1962. - O Secretário de Estado do Comércio, Samuel Rodrigues Sanches.
