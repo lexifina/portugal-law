@@ -1,0 +1,10 @@
+Despacho Normativo n.º 55/93
+Considerando que o Regulamento (CEE) n.º 2075/92, de 30 de Junho, que aprova a OCM do sector do tabaco, no seu artigo 12.º prevê que seja concedida uma ajuda específica aos agrupamentos de produtores reconhecidos e que os fornecimentos efectuados ao abrigo de contratos de cultura abrangem a totalidade da produção dos membros do referido agrupamento;
+Considerando que se torna necessário definir, nos termos do Regulamento (CEE) n.º 84/93, de 19 de Janeiro, as condições para concessão da referida ajuda na campanha de 1993-1994:
+Determina-se o seguinte:
+1 - É delegada no director-geral dos Mercados Agrícolas e da Indústria Agro-Alimentar, ao abrigo do artigo 15.º do Decreto-Lei n.º 323/89, de 26 de Setembro, a competência para reconhecer os agrupamentos de produtores nos termos e para os efeitos do Regulamento (CEE) n.º 84/93, de 19 de Janeiro.
+2 - Considera-se «região de produção separada e afastada», nos termos da alínea f) do n.º 1 do artigo 2.º do referido regulamento, a região de produção morfologicamente separada e com difíceis infra-estruturas de acesso, mas em que é possível manter uma produção homogénea.
+3 - Os agrupamentos podem ser reconhecidos desde que sejam constituídos, no mínimo, por 30 produtores que disponham de certificados de cultura equivalentes a um total mínimo de 50 t para o conjunto das variedades.
+4 - A entidade competente para realizar a instrução dos processos de reconhecimento é a Direcção-Geral dos Mercados Agrícolas e da Indústria Agro-Alimentar, no âmbito das competências previstas na alínea b) do artigo 19.º do Decreto Regulamentar n.º 40/90, de 28 de Novembro, competindo-lhe também verificar se se mantêm reunidas as condições determinantes do reconhecimento.
+5 - O pagamento da ajuda prevista neste regulamento é da competência do Instituto Nacional de Intervenção e Garantia Agrícola (INGA), na medida em que constitui uma majoração do prémio previsto no Regulamento (CEE) n.º 2075/92, de 30 de Junho.
+Ministério da Agricultura, 20 de Março de 1993. - Pelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar.
