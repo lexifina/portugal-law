@@ -1,0 +1,46 @@
+Decreto n.º 64/78
+de 6 de Julho
+O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
+Artigo único. É aprovado o Acordo Comercial entre o Governo da República Portuguesa e o Governo do Reino de Marrocos, assinado em Rabat aos 28 de Janeiro de 1977, cujos textos em francês e respectiva tradução para português acompanham o presente decreto.
+Visto e aprovado em Conselho de Ministros. - Mário Soares - Basílio Adolfo Mendonça Horta da Franca - João Alfredo Félix Vieira de Lima.
+Promulgado em 21 de Junho de 1978.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+ACORDO COMERCIAL ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DO REINO DE MARROCOS
+O Governo da República Portuguesa, por um lado, e o Governo do Reino de Marrocos, por outro lado, animados do desejo de promover, numa base de igualdade e de interesse mútuo, as relações comerciais existentes entre os dois países, acordaram no seguinte:
+ARTIGO I
+O Governo da República Portuguesa e o Governo do Reino de Marrocos, adiante designados por Partes Contratantes, desenvolverão os melhores esforços, de acordo com as leis e regulamentos em vigor nos respectivos países, para intensificar as trocas comerciais entre os dois países.
+ARTIGO II
+As duas Partes Contratantes conceder-se-ão reciprocamente o tratamento mais favorável possível em matéria de importação e de exportação, bem como em matéria aduaneira, nos termos das leis e regulamentos em vigor em cada um dos dois países.
+As disposições deste artigo não se aplicam:
+Às vantagens que uma Parte Contratante conceda ou venha a conceder aos países limítrofes, com vista a facilitar o tráfico fronteiriço;
+Às vantagens resultantes da integração actual ou futura numa união aduaneira ou numa zona de comércio livre de uma das Partes Contratantes;
+Às vantagens que o Governo do Reino de Marrocos conceda ou venha a conceder a um ou vários países do Maghreb Árabe.
+ARTIGO III
+As duas Partes Contratantes encorajarão e facilitarão a conclusão de arranjos e contratos a longo prazo entre os seus organismos competentes em matéria de comércio externo.
+ARTIGO IV
+Nos termos do presente Acordo, a regularização de todas as transacções será efectuada em divisas livremente convertíveis, em conformidade com as leis e regulamentos em vigor em cada um dos países.
+ARTIGO V
+Serão isentos de direitos alfandegários aquando da sua entrada no território aduaneiro de uma das Partes Contratantes os objectos seguintes, provenientes do território da outra Parte Contratante:
+1) Amostras comerciais gratuitas;
+2) Catálogos, listas de preços, prospectos e outros materiais de demonstração, incluindo filmes de publicidade comercial e turística;
+3) Objectos destinados a feiras e exposições, na condição de virem a ser reexportados.
+ARTIGO VI
+Nos termos das respectivas leis e regulamentos, cada Parte Contratante concederá todas as facilidades para a passagem, em trânsito pelo seu território, das mercadorias destinadas à outra Parte Contratante e a terceiros países.
+ARTIGO VII
+Com vista a facilitar as trocas comerciais entre os dois países, cada Parte Contratante fornecerá, a pedido da outra Parte, todas as informações úteis respeitantes ao regime em vigor para a concessão de licenças de importação e de exportação, bem como todas as informações comerciais susceptíveis de desenvolver as trocas entre os dois países.
+ARTIGO VIII
+É instituída uma comissão mista, composta por representantes dos dois Governos, que será encarregada de vigiar pelo bom funcionamento do presente Acordo.
+Essa comissão mista poderá submeter aos dois Governos todas as propostas tendentes a melhorar as relações comerciais entre os dois países.
+A comissão mista reunir-se-á a pedido de uma ou da outra Parte Contratante, alternativamente em Lisboa e em Rabat.
+ARTIGO IX
+O presente Acordo revoga e substitui o Acordo Comercial entre Marrocos e Portugal assinado em 13 de Maio de 1961.
+ARTIGO X
+O presente Acordo entra em vigor na data da sua assinatura. Será válido por um período de cinco anos e será renovável por tácita recondução por um período idêntico, a menos que uma das Partes Contratantes notifique por escrito a outra, com um pré-aviso de seis meses, da sua intenção de o denunciar.
+As disposições do presente Acordo manter-se-ão aplicáveis após a sua denúncia a todos os contratos concluídos dentro do período da sua validade mas que não tiverem sido inteiramente executados até ao dia da denúncia.
+Feito em Rabat aos 28 de Janeiro de 1977 em dois exemplares em língua francesa.
+Pelo Governo da República Portuguesa:
+António Celeste, Secretário de Estado do Comércio Externo.
+Pelo Governo do Reino de Marrocos:
+Moussa Saadi, Secretário de Estado do Comércio, da Indústria, das Minas e da Marinha Mercante.
