@@ -1,0 +1,14 @@
+Resolução do Conselho de Ministros n.º 9/2004
+Sob proposta da Câmara Municipal, a Assembleia Municipal de Torres Novas aprovou, em 24 de Junho de 2002 e 30 de Julho de 2003, a suspensão parcial do Plano Director Municipal de Torres Novas e do Plano Geral de Urbanização de Riachos na área delimitada nas plantas anexas à presente resolução, denominada «Zona do Casal do Tocha», a norte da vila de Riachos, até à entrada em vigor da revisão de um daqueles planos municipais de ordenamento do território.
+O Plano Director Municipal de Torres Novas foi ratificado pela Resolução do Conselho de Ministros n.º 16/97, de 5 de Fevereiro.
+Por seu turno, o Plano Geral de Urbanização de Riachos foi ratificado por despacho do Secretário de Estado da Administração Local e do Ordenamento do Território de 7 de Julho de 1989, publicado no Diário da República, 2.ª série, n.º 229, de 4 de Outubro de 1989.
+A suspensão parcial do Plano Director Municipal de Torres Novas abrange «Espaço urbanizável» e «Área não urbanizável verde A» (área verde de utilização agrícola não afecta à Reserva Agrícola Nacional).
+A área a suspender no Plano Geral de Urbanização de Riachos abrange a zona verde de protecção (Vp), que corresponde a solos de uso protegido e de salvaguarda das infra-estruturas viárias dentro do perímetro urbano.
+O município de Torres Novas fundamenta a suspensão na verificação de circunstâncias excepcionais resultantes de alteração significativa das perspectivas de desenvolvimento económico e social local, mais especificamente no desenvolvimento urbanístico e industrial da Zona do Casal do Tocha, a norte da vila de Riachos, através da instalação de um grande número de empresas de média e grande dimensões e da fixação da população, provocadas pela construção das acessibilidades rodoviárias e ferroviárias (IP 6, EN 3, variante à EN 243 a norte da vila, IC 3 a nascente, linha do Norte e linha de alta velocidade), pela entrada em funcionamento do terminal multimodal de mercadorias do Vale do Tejo e pelo arranque a médio prazo de uma ZAL - zona de apoio logístico.
+A suspensão parcial foi objecto de parecer favorável da Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo.
+Considerando o disposto na alínea b) do n.º 2 do artigo 100.º do Decreto-Lei n.º 380/99, de 22 de Setembro, na redacção que lhe foi conferida pelo Decreto-Lei n.º 310/2003, de 10 de Dezembro:
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve ratificar a suspensão parcial do Plano Director Municipal de Torres Novas e do Plano Geral de Urbanização de Riachos, na área delimitada nas plantas anexas à presente resolução, que dela fazem parte integrante, até à entrada em vigor da revisão de um daqueles planos municipais de ordenamento do território.
+Presidência do Conselho de Ministros, 22 de Janeiro de 2004. - O Primeiro-Ministro, José Manuel Durão Barroso.
+
+(ver plantas no documento original)
