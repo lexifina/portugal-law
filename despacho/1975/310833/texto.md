@@ -1,0 +1,5 @@
+Despacho
+Considerando que a partir de 25 de Março de 1975 deixaram de existir as razões determinantes da diferenciação de salários entre pessoal civil das Oficinas Gerais de Material Aeronáutico com idade inferior ou superior a 21 anos e pessoal que presta ou não serviço ao abrigo da Lei do Serviço Militar (artigo 16.º do Decreto-Lei n.º 40391, de 22 de Novembro de 1955):
+Mandam o Chefe do Estado-Maior-General das Forças Armadas, os Ministros das Finanças e do Trabalho e o Chefe do Estado-Maior da Força Aérea o seguinte:
+Que desde 25 de Março de 1975, inclusive, sejam revogadas as tabelas II, IV e VI anexas ao despacho conjunto de 14 de Julho de 1975, que as aprova e põe em execução a partir de 1 de Janeiro de 1975, passando a vigorar para todo o pessoal as tabelas I, III, V e VII do mesmo despacho.
+Estado-Maior-General das Forças Armadas e Ministérios das Finanças e do Trabalho, 19 de Novembro de 1975. - O Chefe do Estado-Maior-General das Forças Armadas, Francisco da Costa Gomes. - O Ministro das Finanças, Francisco Salgado Zenha. - O Ministro do Trabalho, João Pedro Tomás Rosa. - O Chefe do Estado-Maior da Força Aérea, José Alberto Morais da Silva.
