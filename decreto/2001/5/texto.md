@@ -1,0 +1,23 @@
+Decreto n.º 5/2001
+de 31 de Janeiro
+Solicitou a assembleia de compartes dos baldios da freguesia de Campos, concelho de Vila Nova de Cerveira, a exclusão do regime florestal parcial de uma parcela de terreno com a área de 40000 m2, integrada no perímetro florestal das serras de Vieira e Monte Crasto, a qual, por força do disposto no Decreto de 24 de Dezembro de 1903, foi submetida ao regime florestal parcial pelo Decreto-Lei n.º 46461, de 29 de Julho de 1965, publicado no Diário do Governo, 1.ª série, n.º 168, de 29 de Julho do mesmo ano.
+O terreno é baldio e destina-se à construção de habitações sociais, arruamentos e outras infra-estruturas de apoio ao loteamento, deixando por tal motivo de ter uso florestal para efeitos do disposto no artigo 25.º do Decreto de 24 de Dezembro de 1901.
+Foram consultados a Direcção-Geral das Florestas, a Direcção Regional de Agricultura de Entre Douro e Minho, a Comissão de Coordenação da Região do Norte, o Instituto da Conservação da Natureza, a Direcção Regional do Ambiente e do Ordenamento do Território - Norte e a Câmara Municipal de Vila Nova de Cerveira, tendo todas estas entidades emitido parecer favorável.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+1 - É excluída do regime florestal parcial, a que foi submetida pelo Decreto-Lei n.º 46461, de 29 de Julho de 1965, publicado no Diário do Governo, 1.ª série, n.º 168, de 29 de Julho de 1965, uma parcela de terreno com a área de 40000 m2, a qual está integrada no perímetro florestal das serras de Vieira e Monte Crasto, conforme planta em anexo ao presente diploma, do qual faz parte integrante.
+2 - A parcela de terreno referida no número anterior situa-se no lugar de Monte de São Sebastião, confrontando a nascente com a estrada nacional n.º 13, freguesia de Campos, concelho de Vila Nova de Cerveira, e destina-se à construção de habitações sociais, arruamentos e outras infra-estruturas de apoio ao loteamento, conforme o Plano Director Municipal de Vila Nova de Cerveira, devendo a futura ocupação do terreno respeitar integralmente os condicionamentos fixados no seu Regulamento.
+Artigo 2.º
+1 - A entrega da parcela de terreno referida no artigo anterior só será concretizada após a retirada do material lenhoso nela existente, cabendo à Direcção Regional de Agricultura de Entre Douro e Minho a sua venda e respectiva repartição de receitas, nos termos previstos por lei.
+2 - Caso não se venha a concretizar o uso referido no n.º 2 do artigo anterior no prazo de dois anos a partir da data da publicação do presente decreto, a área em causa será novamente incluída no perímetro florestal das serras de Vieira e Monte Crasto.
+Visto e aprovado em Conselho de Ministros de 23 de Novembro de 2000. - António Manuel de Oliveira Guterres - Henrique Nuno Pires Severiano Teixeira - Luís Manuel Capoulas Santos.
+Assinado em 8 de Janeiro de 2001.
+Publique-se.
+O Presidente da República, JORGE SAMPAIO.
+Referendado em 11 de Janeiro de 2001.
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+ANEXO I
+Área que é excluída do regime florestal parcial e que se destina à construção de habitações sociais, arruamentos e outras infra-estruturas de apoio ao loteamento.
+(ver planta no documento original)
