@@ -1,23 +1,25 @@
 ## Capítulo IV
 
-## Registo de Interesses
+## Antigos Deputados e Deputados honorários
 
 # Artigo 26.º
 
-### Obrigações declarativas e registo de interesses
+### Registo de interesses
 
-1 - Os Deputados estão obrigados à entrega da declaração única de rendimentos, património e interesses, nos termos previstos no regime do exercício de funções por titulares de cargos políticos e altos cargos públicos.
+1 - É criado um registo de interesses na Assembleia da República.
 
-2 - Salvo o disposto no n.º 8, a Assembleia da República assegura obrigatoriamente a publicidade no respetivo sítio da Internet dos elementos da declaração única relativos ao registo de interesses dos Deputados.
+2 - O registo de interesses consiste na inscrição, em livro próprio, de todas as actividades susceptíveis de gerarem incompatibilidades ou impedimentos e quaisquer actos que possam proporcionar proveitos financeiros ou conflitos de interesses.
 
-3 - A Comissão Parlamentar de Transparência e Estatuto dos Deputados tem acesso eletrónico em tempo real à totalidade das declarações de rendimentos, património e interesses apresentadas pelos Deputados à Assembleia da República e pelos membros do Governo, para efeitos de cumprimento das suas atribuições e competências.
+3 - Para efeitos do disposto no número anterior, serão inscritos, em especial, os seguintes factos:
 
-4 - (Revogado.)
+a) Actividades públicas ou privadas, nelas se incluindo actividades comerciais ou empresariais e, bem assim, o exercício de profissão liberal;
 
-5 - (Revogado.)
+b) Desempenho de cargos sociais, ainda que a título gratuito;
 
-6 - (Revogado.)
+c) Apoios ou benefícios financeiros ou materiais recebidos para o exercício das actividades respectivas, designadamente de entidades estrangeiras;
 
-7 - (Revogado.)
+d) Entidades a quem sejam prestados serviços remunerados de qualquer natureza;
 
-8 - A consulta dos elementos da declaração referidos na alínea e) do n.º 2 do artigo 13.º do regime do exercício de funções por titulares de cargos políticos e altos cargos públicos é feita nos termos previstos no n.º 5 do artigo 17.º desse regime.
+e) Sociedades em cujo capital o titular, por si, pelo cônjuge ou pelos filhos, disponha de capital.
+
+4 - O registo é público e pode ser consultado por quem o solicitar.

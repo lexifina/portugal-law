@@ -6,8 +6,8 @@
 
 a) O deferimento do requerimento de substituição temporária por motivo relevante, nos termos do artigo 5.º;
 
-b) O procedimento criminal, nos termos do n.º 3 do artigo 11.º;
+b) O procedimento criminal, nos termos do artigo 11.º;
 
-c) A ocorrência das situações referenciadas nas alíneas a), à exceção do Presidente da República, d), f), g) e h) do n.º 1 do artigo 20.º
+c) A ocorrência das situações referenciadas no n.º 1 do artigo 20.º
 
-2 - A suspensão do mandato estabelecida no número anterior para os casos da alínea g) e h) do n.º 1 do artigo 20.º só é admissível imediatamente após a verificação de poderes pela Assembleia da República ou no momento da investidura no respetivo cargo autárquico e não pode ocorrer por mais do que um único período não superior a 180 dias.
+2 - A suspensão do mandato estabelecida no número anterior para os casos referidos nas alíneas h) e p) do n.º 1 do artigo 20.º pode ser levantada por um único período de 45 dias em cada sessão legislativa, desde que, por igual período, seja assegurada a sua substituição nos termos da lei.

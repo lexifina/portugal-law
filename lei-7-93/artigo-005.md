@@ -2,20 +2,24 @@
 
 ### Substituição temporária por motivo relevante
 
-1 - Os deputados podem pedir ao Presidente da Assembleia da República, por motivo relevante, a sua substituição por uma ou mais vezes, no decurso da legislatura.
+1 - Os Deputados podem pedir ao Presidente da Assembleia da República, por motivo relevante, a sua substituição por uma ou mais vezes, por período global não superior a 18 meses em cada mandato.
 
 2 - Por motivo relevante entende-se:
 
-a) Doença grave que envolva impedimento do exercício das funções por período não inferior a 30 dias e até ao limite do respetivo motivo justificativo;
+a) Doença grave;
 
 b) Exercício da licença por maternidade ou paternidade;
 
-c) Necessidade de garantir seguimento de processo nos termos do n.º 3 do artigo 11.º
+c) Actividade profissional inadiável;
 
-d) Motivos ponderosos de natureza familiar, pessoal, profissional ou académica.
+d) Exercício de funções específicas no respectivo partido;
 
-3 - O requerimento de substituição será apresentado directamente pelo próprio deputado ou através da direcção do grupo parlamentar, acompanhado, neste caso, de declaração de anuência do deputado a substituir.
+e) Razões importantes relacionadas com a vida e interesses do Deputado.
 
-4 - A substituição temporária do deputado, quando se fundamente nos motivos constantes das alíneas a) e b) do n.º 2, não implica a cessação do processamento da remuneração nem a perda da contagem de tempo de serviço.
+3 - O requerimento de substituição será apresentado directamente pelo próprio Deputado ou através da direcção do grupo parlamentar, acompanhado, neste caso, de declaração de anuência do Deputado a substituir.
 
-5 - A suspensão temporária ao abrigo da alínea d) do n.º 2 não pode ocorrer por período inferior a 30 dias, nem por mais de uma vez em cada sessão legislativa, até ao máximo de seis meses por legislatura, sem prejuízo do disposto no n.º 2 do artigo 4.º
+4 - A substituição temporária do deputado, quando se fundamente em licença por maternidade ou paternidade, não implica a cessação do processamento da remuneração nem a perda da contagem de tempo de serviço.
+
+5 - Os Deputados que se encontrem vinculados à função pública ou a empresa pública, nacionalizada ou maioritariamente participada por capitais públicos, bem como os restantes trabalhadores por conta de outrem, podem não reassumir as correspondentes funções, sem perda de direitos e regalias, salvo o direito à retribuição, em caso de suspensão do mandato por um período de 45 dias em cada sessão legislativa.
+
+6 - A suspensão temporária do mandato não pode ocorrer por período inferior a 45 dias, sem prejuízo da aplicação do n.º 2 do artigo 4.º

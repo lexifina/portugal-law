@@ -1,7 +1,5 @@
 # Artigo 22.º
 
-### Dever de declaração de ausência de incompatibilidades e impedimentos
+### Dever de declaração
 
-1 - Da declaração única de rendimentos, património e interesses deve constar a declaração de inexistência de incompatibilidade ou impedimento.
-
-2 - A declaração referida no número anterior deve constar de um campo autónomo da declaração única de rendimentos, património e interesses, referida no artigo 26.º
+Os Deputados formularão e depositarão na Procuradoria-Geral da República declaração de inexistência de incompatibilidade ou impedimento nos 60 dias posteriores à tomada de posse.
