@@ -1,0 +1,670 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "13",
+    "id": "6090",
+    "titulo": "Decreto-lei nº 36/2000, de 14 de Março, que \"dispensa de escritura pública a realização de determinados actos relativos a sociedades, ao estabelecimento individual de responsabilidade limitada e ao agrupamento complementar de empresas (altera o Código das Sociedades Comerciais, o Decreto-lei nº 248/86 de 25 de Agosto, a Lei nº 4/73 de 4 de Junho e o Decreto-lei nº 430/73 de 25 de Agosto)\"."
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "2000-05-26",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1714",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "2000-05-26",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Apreciação Parlamentar",
+        "id": "6101",
+        "leg": "VIII",
+        "nr": "12",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "429",
+            "obs": null,
+            "pag": [
+              "2794-2803"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-05-27",
+            "pubLeg": "VIII",
+            "pubNr": "71",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/071/2000-05-27/2794?pgs=2794-2803&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "A",
+        "titulo": "Decreto-lei nº 35/2000, de 14 de Março, que \"prevê a criação de cartórios notariais de competência especializada\"."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-05-26",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1645",
+                "nome": "Henrique Chaves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27463",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2803-2803"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-27",
+                "pubLeg": "VIII",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/071/2000-05-27/2803?pgs=2803&org=PLC"
+              }
+            ],
+            "sumario": "CARTORIOS NOTARIAIS: COMPETENCIAS. CODIGO DAS SOCIED COMERC",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  JUSTIÇA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "António Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27464",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2800-2803"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-27",
+                "pubLeg": "VIII",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/071/2000-05-27/2800?pgs=2800-2803&org=PLC"
+              }
+            ],
+            "sumario": "CARTORIOS NOTARIAIS: COMPETENCIAS. CODIGO DAS SOCIED COMERC",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1166",
+                "nome": "Claudio Monteiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27465",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2799-2800"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-27",
+                "pubLeg": "VIII",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/071/2000-05-27/2799?pgs=2799-2800&org=PLC"
+              }
+            ],
+            "sumario": "CARTORIOS NOTARIAIS: COMPETENCIAS. CODIGO DAS SOCIED COMERC",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27466",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2798-2799"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-27",
+                "pubLeg": "VIII",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/071/2000-05-27/2798?pgs=2798-2799&org=PLC"
+              }
+            ],
+            "sumario": "CARTORIOS NOTARIAIS: COMPETENCIAS. CODIGO DAS SOCIED COMERC",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27467",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2797-2799"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-27",
+                "pubLeg": "VIII",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/071/2000-05-27/2797?pgs=2797-2799&org=PLC"
+              }
+            ],
+            "sumario": "CARTORIOS NOTARIAIS: COMPETENCIAS. CODIGO DAS SOCIED COMERC",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27468",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2796-2797"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-27",
+                "pubLeg": "VIII",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/071/2000-05-27/2796?pgs=2796-2797&org=PLC"
+              }
+            ],
+            "sumario": "CARTORIOS NOTARIAIS: COMPETENCIAS. CODIGO DAS SOCIED COMERC",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1645",
+                "nome": "Henrique Chaves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27469",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2795-2796"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-27",
+                "pubLeg": "VIII",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/071/2000-05-27/2795?pgs=2795-2796&org=PLC"
+              }
+            ],
+            "sumario": "CARTORIOS NOTARIAIS: COMPETENCIAS. CODIGO DAS SOCIED COMERC",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27470",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2795-2795"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-27",
+                "pubLeg": "VIII",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/071/2000-05-27/2795?pgs=2795&org=PLC"
+              }
+            ],
+            "sumario": "CARTORIOS NOTARIAIS: COMPETENCIAS. CODIGO DAS SOCIED COMERC",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27471",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2795-2795"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-27",
+                "pubLeg": "VIII",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/071/2000-05-27/2795?pgs=2795&org=PLC"
+              }
+            ],
+            "sumario": "CARTORIOS NOTARIAIS: COMPETENCIAS. CODIGO DAS SOCIED COMERC",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  JUSTIÇA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "António Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27472",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2795-2795"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-27",
+                "pubLeg": "VIII",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/071/2000-05-27/2795?pgs=2795&org=PLC"
+              }
+            ],
+            "sumario": "CARTORIOS NOTARIAIS: COMPETENCIAS. CODIGO DAS SOCIED COMERC",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27473",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2794-2794"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-27",
+                "pubLeg": "VIII",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/071/2000-05-27/2794?pgs=2794&org=PLC"
+              }
+            ],
+            "sumario": "CARTORIOS NOTARIAIS: COMPETENCIAS. CODIGO DAS SOCIED COMERC",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  JUSTIÇA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "António Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "105805",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2795-2795"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-27",
+                "pubLeg": "VIII",
+                "pubNr": "71",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/071/2000-05-27/2795?pgs=2795&org=PLC"
+              }
+            ],
+            "sumario": "CARTORIOS NOTARIAIS: COMPETENCIAS. CODIGO DAS SOCIED COMERC",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "105269",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "111143",
+        "obs": null,
+        "pag": [
+          "2794-2803"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-05-27",
+        "pubLeg": "VIII",
+        "pubNr": "71",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/071/2000-05-27/2794?pgs=2794-2803&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
