@@ -1,0 +1,19 @@
+Decreto-Lei n.º 26/90
+de 24 de Janeiro
+As dificuldades de natureza financeira que, no passado e de uma forma generalizada, afectaram as estruturas empresariais portuguesas colocaram em risco de sobrevivência empresas que, no entanto, possuíam uma capacidade económica indiscutível.
+Na situação que então se vivia, as formas de recuperação possíveis para estas empresas passavam essencialmente pela consolidação de dívidas à banca e à Fazenda Pública e, nesse quadro, assumia particular relevo a criação de instrumentos de negociação entre as partes envolvidas no processo de viabilização. É neste contexto que surgem primeiro os contratos de viabilização e, mais tarde, os acordos de assistência da PAREMPRESA, traduzidos na concessão de significativos incentivos fiscais e financeiros, que consubstanciavam a conjugação de esforços dos accionistas das empresas, dos respectivos credores e do próprio Estado.
+Hoje, o quadro económico encontra-se profundamente alterado. Por um lado, assistimos a uma considerável recuperação da situação económica e financeira das empresas e, por outro, as situações de dificuldades que ainda subsistem podem ser ultrapassadas com recurso a novos instrumentos e através de um diálogo directo em que a intervenção do Estado é cada vez menos necessária. A prová-lo está o facto de o número de empresas que se candidatam à assistência da PAREMPRESA ter vindo a reduzir-se de tal modo que já se não justifica a manutenção dos instrumentos de apoio que as empresas tinham ao seu dispor.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º A faculdade de recurso aos instrumentos de recuperação de empresas previstos no Decreto-Lei n.º 125/79, de 10 de Maio, com a nova redacção que lhe foi dada pelo Decreto-Lei n.º 120/83, de 1 de Março, cessa 15 dias após a data de entrada em vigor do presente diploma.
+Art. 2.º - 1 - As candidaturas que até ao termo do prazo fixado no artigo anterior tenham sido apresentadas à PAREMPRESA serão por ela apreciadas, competindo-lhe ainda, nos 30 dias subsequentes à referida data, submeter a homologação ministerial as propostas que forem aprovadas.
+2 - Igual procedimento é aplicado às revisões de contratos de viabilização e acordos de assistência que à data da entrada em vigor deste diploma tenham sido apresentados à PAREMPRESA.
+3 - Os acordos de assistência e contratos de viabilização, bem como as suas revisões, já homologados ou que venham a sê-lo nos termos deste artigo deverão ser celebrados no prazo máximo de 30 dias após a data da homologação ou da publicação deste diploma, se posterior, sob pena de caducidade.
+Art. 3.º - 1 - As competências da PAREMPRESA no acompanhamento da execução de acordos de assistência e contratos de viabilização e no processo conducente à realização das revisões contratualmente previstas são atribuídas à instituição de crédito nacional maior credora, à qual competirá apresentar à Direcção-Geral do Tesouro, para efeitos de homologação, as correspondentes propostas.
+2 - Pela execução das tarefas referidas no número anterior poderá o banco maior credor cobrar das empresas assistidas a taxa de acompanhamento que por estas era devida à PAREMPRESA.
+Visto e aprovado em Conselho de Ministros de 23 de Novembro de 1989. - Aníbal António Cavaco Silva - Rui Carlos Alvarez Carp.
+Promulgado em 13 de Janeiro de 1990.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 15 de Janeiro de 1990.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
