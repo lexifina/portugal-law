@@ -1,0 +1,7 @@
+Portaria n.º 555/80
+de 1 de Setembro
+Pelas Portarias n.os 494/76 e 495/76, de 6 de Agosto, foram mandados expropriar ao Asilo da Infância Desvalida de Évora os prédios rústicos «Andrades», «Montinho do Vale do Pereiro», «Carrascal» e «Herdade dos Musgos».
+Verifica-se que o Asilo da Infância Desvalida de Évora é uma pessoa colectiva de utilidade pública administrativa, com estatutos aprovados por alvará de 6 de Agosto de 1881, pelo que não é expropriável nos termos do disposto na alínea e) do n.º 3 do artigo 23.º da Lei n.º 77/77, de 29 de Setembro.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Ministro da Agricultura e Pescas, derrogar as Portarias n.os 494/76 e 495/76, de 6 de Agosto, no que se refere aos prédios «Andrades», sito na freguesia de Santiago do Escoural, concelho de Montemor-o-Novo, inscrito na matriz sob o artigo 1, secção B; «Montinho do Vale do Pereiro», sito na freguesia de Santa Justa, concelho de Arraiolos, inscrito na matriz sob o artigo 4, secção D; «Carrascal», sito na mesma freguesia e concelho, inscrito na matriz sob o artigo 3, secção D, e «Herdade dos Musgos», sito na freguesia de Alqueva, concelho de Portel, inscrito na matriz sob o artigo 4, secção L, por os mesmos pertencerem ao Asilo da Infância Desvalida de Évora, entidade não expropriável nos termos do disposto na alínea e) do n.º 3 do artigo 23.º da Lei n.º 77/77, de 29 de Setembro.
+Ministério da Agricultura e Pescas, 11 de Agosto de 1980. - O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha.
