@@ -1,0 +1,5 @@
+Portaria n.º 17926
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar com a quantia de 15000$00 a verba do capítulo 10.º, artigo 220.º, n.º 2), alínea a) «Encargos gerais - Deslocações do pessoal - Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral de Macau para o corrente ano, tomando como contrapartida as disponibilidades existentes na verba do mesmo capítulo, artigo 221.º, n.º 27) «Diversas despesas - Subsídio de família a abonar aos funcionários e empregados públicos da província, nos termos dos artigos 49.º a 58.º e 62.º do Diploma Legislativo n.º 858, de 28 de Outubro de 1944, e Diplomas Legislativos n.os 926 e 1245, de 27 de Abril de 1946 e 6 de Setembro de 1952», da referida tabela de despesa.
+Ministério do Ultramar, 1 de Setembro de 1960. - Pelo Ministro do Ultramar, Adriano José Alves Moreira, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Macau. - A. Moreira.
