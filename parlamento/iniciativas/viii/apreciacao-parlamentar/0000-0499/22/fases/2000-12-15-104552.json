@@ -1,0 +1,352 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "22",
+    "id": "5939",
+    "titulo": "Decreto-lei nº 148/2000 de 19 de Julho que \"fixa o regime de pagamento de custas e de patrocínio judiciário dos membros do governo e dos altos dirigentes da administração pública quando demandados em virtude do exercício das suas funções¿."
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "2000-12-15",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1582",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "2000-12-15",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-12-15",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1736",
+                "nome": "Fernando Seara"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135082",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1228-1229"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-16",
+                "pubLeg": "VIII",
+                "pubNr": "31",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/031/2000-12-16/1228?pgs=1228-1229&org=PLC"
+              }
+            ],
+            "sumario": "DECRETO-LEI N.148/2000 DE 19 DE JULHO QUE \"FIXA O REGIME DE PAGAMENTO DE CUSTAS E DE PATROCINIO JUDICIARIO DOS MEMBROS DO GOVERNO E DOS ALTOS DIRIGENTES DA ADMINISTRACAO PUBLICA QUANDO DEMANDADOS EM VIRTUDE DO EXERCICIO DAS SUAS FUNCOES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1436",
+                "nome": "Joaquim Sarmento"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135083",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1229-1230"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-16",
+                "pubLeg": "VIII",
+                "pubNr": "31",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/031/2000-12-16/1229?pgs=1229-1230&org=PLC"
+              }
+            ],
+            "sumario": "DECRETO-LEI N.148/2000 DE 19 DE JULHO QUE \"FIXA O REGIME DE PAGAMENTO DE CUSTAS E DE PATROCINIO JUDICIARIO DOS MEMBROS DO GOVERNO E DOS ALTOS DIRIGENTES DA ADMINISTRACAO PUBLICA QUANDO DEMANDADOS EM VIRTUDE DO EXERCICIO DAS SUAS FUNCOES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135084",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1230-1231"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-16",
+                "pubLeg": "VIII",
+                "pubNr": "31",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/031/2000-12-16/1230?pgs=1230-1231&org=PLC"
+              }
+            ],
+            "sumario": "DECRETO-LEI N.148/2000 DE 19 DE JULHO QUE \"FIXA O REGIME DE PAGAMENTO DE CUSTAS E DE PATROCINIO JUDICIARIO DOS MEMBROS DO GOVERNO E DOS ALTOS DIRIGENTES DA ADMINISTRACAO PUBLICA QUANDO DEMANDADOS EM VIRTUDE DO EXERCICIO DAS SUAS FUNCOES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  PRESIDÊNCIA  DO  CONS.  MINISTROS",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Vitalino Canas"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135085",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1231-1233"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-16",
+                "pubLeg": "VIII",
+                "pubNr": "31",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/031/2000-12-16/1231?pgs=1231-1233&org=PLC"
+              }
+            ],
+            "sumario": "DECRETO-LEI N.148/2000 DE 19 DE JULHO QUE \"FIXA O REGIME DE PAGAMENTO DE CUSTAS E DE PATROCINIO JUDICIARIO DOS MEMBROS DO GOVERNO E DOS ALTOS DIRIGENTES DA ADMINISTRACAO PUBLICA QUANDO DEMANDADOS EM VIRTUDE DO EXERCICIO DAS SUAS FUNCOES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135086",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1233-1233"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-16",
+                "pubLeg": "VIII",
+                "pubNr": "31",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/031/2000-12-16/1233?pgs=1233&org=PLC"
+              }
+            ],
+            "sumario": "DECRETO-LEI N.148/2000 DE 19 DE JULHO QUE \"FIXA O REGIME DE PAGAMENTO DE CUSTAS E DE PATROCINIO JUDICIARIO DOS MEMBROS DO GOVERNO E DOS ALTOS DIRIGENTES DA ADMINISTRACAO PUBLICA QUANDO DEMANDADOS EM VIRTUDE DO EXERCICIO DAS SUAS FUNCOES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135087",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1233-1234"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-16",
+                "pubLeg": "VIII",
+                "pubNr": "31",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/031/2000-12-16/1233?pgs=1233-1234&org=PLC"
+              }
+            ],
+            "sumario": "DECRETO-LEI N.148/2000 DE 19 DE JULHO QUE \"FIXA O REGIME DE PAGAMENTO DE CUSTAS E DE PATROCINIO JUDICIARIO DOS MEMBROS DO GOVERNO E DOS ALTOS DIRIGENTES DA ADMINISTRACAO PUBLICA QUANDO DEMANDADOS EM VIRTUDE DO EXERCICIO DAS SUAS FUNCOES",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "104552",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1582",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-12-16",
+        "pubLeg": "VIII",
+        "pubNr": "31",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/031/2000-12-16?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
