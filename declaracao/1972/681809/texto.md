@@ -1,0 +1,6 @@
+Declaração
+De harmonia com o disposto no n.º 1 do artigo 6.º do Decreto-Lei n.º 54/72, de 15 de Fevereiro, se publica que S. EX.ª o Secretário de Estado da Saúde e Assistência autorizou as seguintes transferências de verbas e alterações de rubricas, nos termos do n.º 2 do artigo 3.º e nos do artigo 4.º do mesmo diploma:
+(ver documento original)
+No capítulo 11.º, a rubrica descrita no artigo 160.º é alterada para: «Transferências - Instituições particulares: 1 Hospitais distritais e outras instituições particulares»; a rubrica descrita no artigo 161.º é alterada para: «Transferências - Instituições particulares: 1 Hospitais distritais e outras instituições particulares»; a rubrica descrita no artigo 162.º, n.º 1, é alterada para: «Hospitais centrais», e a rubrica descrita no artigo 164.º, n.º 1, é alterada para: «Hospitais centrais» (ver nota a).
+(nota a) Despacho de 26 de Fevereiro de 1972. Acordo prévio de S. Ex.ª o Secretário de Estado do Orçamento em despacho de 14 de Março de 1972 e acordo prévio de S. Ex.ª o Ministro de Estado adjunto do Presidente do Conselho em despacho de 26 de Abril de 1972.
+14.ª Repartição da Direcção-Geral da Contabilidade Pública, 10 de Maio de 1972. - O Chefe, Anselmo Dias Simões.
