@@ -1,0 +1,3 @@
+Portaria n.º 18477
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, abrir um credito especial de 1600$00 destinado a reforçar a verba do capítulo único, artigo 8.º, n.º 2) «Pagamento de serviços - Despesas de comunicações - Telefones», do orçamento privativo do Jardim e Museu Agrícola do Ultramar, tomando como contrapartida as disponibilidades existentes na verba do mesmo capítulo, artigo 16.º «Diversos encargos - Despesas eventuais e não especificadas», do referido orçamento.
+Ministério do Ultramar, 16 de Maio de 1961. - Pelo Ministro do Ultramar, João da Costa Freitas, Subsecretário de Estado da Administração Ultramarina.
