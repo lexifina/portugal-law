@@ -1,0 +1,8 @@
+Portaria n.º 570/79
+de 29 de Outubro
+O disposto na alínea b) do artigo 15.º do Regulamento da Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca (RIM), aprovado pelo Decreto n.º 45969, de 15 de Outubro de 1964, não tem tido na devida consideração a situação da classe de câmaras. Com efeito, e sobretudo após o abate da generalidade dos navios de passageiros, a oferta de trabalho neste sector não corresponde à procura, o que provoca longas esperas nas listas para embarque, esperas que, muitas vezes, ultrapassam o prazo previsto para o cancelamento da inscrição marítima, cuja efectivação, nestas circunstâncias, não se considera justa.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Ministro dos Transportes e Comunicações e pelo Secretário de Estado das Pescas, ao abrigo do Decreto-Lei n.º 281/75, de 6 de Julho, o seguinte:
+O § único do artigo 15.º do Regulamento da Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca (RIM), aprovado pelo Decreto n.º 45969, de 15 de Outubro de 1964, passa a constar do § 1.º, aditando-se ao mesmo artigo um § 2.º, com a seguinte redacção:
+§ 2.º O disposto na alínea b) não se aplica aos inscritos marítimos da classe de câmaras, desde que os mesmos façam prova de que estiveram ininterruptamente inscritos nas listas para embarque durante o período ali estabelecido sem que tivessem tido qualquer oferta para embarque.
+Ministérios da Agricultura e Pescas e dos Transportes e Comunicações, 11 de Outubro de 1979. - O Ministro dos Transportes e Comunicações, Frederico Alberto Monteiro da Silva. - O Secretário de Estado das Pescas, António Baptista Duarte Silva.
