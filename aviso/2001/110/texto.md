@@ -1,0 +1,5 @@
+Aviso n.º 110/2001
+Por ordem superior se torna público que, em 27 de Junho de 2001, foi emitida uma nota pelo Ministério dos Negócios Estrangeiros Português e que, em 3 de Setembro de 2001, foi no mesmo Ministério recebida uma nota emitida pela Embaixada da República Federal da Alemanha em Lisboa em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação do Acordo, por troca de notas, entre o Governo da República Portuguesa e o Governo da República Federal da Alemanha sobre o Estatuto das Forças Armadas Portuguesas no Decurso das Estadas Temporárias na República Federal da Alemanha, assinado em Bona em 29 de Abril de 1998.
+Por parte de Portugal, o Acordo foi aprovado pelo Decreto do Presidente da República n.º 34/2001 e pela Resolução da Assembleia da República n.º 43/2001, publicados no Diário da República, 1.ª série-A, n.º 145, de 25 de Junho de 2001.
+Nos termos do exposto nas notas e na resolução acima referidas, o Acordo entrou em vigor em 3 de Setembro de 2001.
+Direcção-Geral das Relações Bilaterais, 5 de Setembro de 2001. - O Director-Geral, José Caetano de Campos de Andrada da Costa Pereira.
