@@ -1,0 +1,60 @@
+Portaria n.º 124/96
+de 19 de Abril
+O Estatuto dos Militares das Forças Armadas (EMFAR), aprovado pelo Decreto-Lei n.º 34-A/90, de 24 de Janeiro, com as alterações introduzidas pela Lei n.º 27/91, de 17 de Julho, e pelo Decreto-Lei n.º 157/92, de 31 de Julho, veio definir uma nova política de formação dos militares das Forças Armadas, caracterizada, no que respeita ao ingresso nos quadros permanentes, por especiais exigências de nível habilitacional e pela possibilidade de equiparação a cursos ministrados nos estabelecimentos de ensino oficial.
+Por seu turno, o Decreto-Lei n.º 127/93, de 22 de Abril, veio reformular o curso de formação de sargentos, por forma a conferir qualificação profissional de nível 3 e respectiva equivalência ao 12.º ano de escolaridade.
+Pelo exposto, importa adequar os aspectos relativos à organização e orientação de ensino dos cursos de formação que habilitam na carreira de sargentos dos quadros permanentes do Exército com as inovações decorrentes das referidas alterações legislativas.
+Assim, ao abrigo do disposto no n.º 1 do artigo 6.º do Decreto-Lei n.º 127/93, de 22 de Abril;
+Manda o Governo, pelos Ministros da Defesa Nacional, da Educação e para a Qualificação e o Emprego, o seguinte:
+1.º
+Cursos
+1 - Na Escola de Sargentos do Exército (ESE) é ministrado o curso de formação de sargentos (CFS), que habilita ao ingresso nos seguintes quadros:
+a) Infantaria (INF);
+b) Artilharia (ART);
+c) Cavalaria (CAV);
+d) Engenharia (ENG);
+e) Transmissões (TM);
+f) Administração Militar (AM);
+g) Material - Mecânica (MATMEC);
+h) Material - Electrónica (MATELE);
+i) Transporte (TRANS);
+j) Pessoal e Secretariado (PESSEC);
+l) Músicos (MUS) e Corneteiros e Clarins (CORN/CLAR).
+2 - Na ESE podem ser ministrados cursos técnico-militares a indivíduos já habilitados com cursos de qualificação profissional de nível 3, completando a sua habilitação para ingresso nos respectivos quadros especiais.
+2.º
+Duração
+1 - O CFS tem a duração de três anos lectivos, a qual inclui a frequência de um estágio.
+2 - O estágio referido no número anterior tem lugar no último ano curricular do curso e destina-se a exercitar as capacidades do aluno para o desempenho de funções no âmbito do seu quadro especial.
+3.º
+Estrutura curricular
+1 - A estrutura curricular que habilita aos diferentes quadros do CFS é a que consta dos anexos I a XI à presente portaria.
+2 - Os currículos conciliam as especificidades da formação militar com o modelo aprovado para as escolas profissionais.
+4.º
+Planos de estudo
+1 - Os planos de estudo do CFS são aprovados por despacho do Chefe do Estado-Maior do Exército, sob proposta do comandante da ESE.
+2 - Os planos de estudo incluem, além do estágio, as seguintes componentes:
+a) Sócio-cultural;
+b) Científica;
+c) Técnica, tecnológica e prática.
+5.º
+Prova final de aptidão profissional
+1 - Faz parte do curso a realização de uma prova final de aptidão profissional, para avaliar de forma integrada os conhecimentos ministrados.
+2 - A organização e forma de realização da prova, bem como a constituição do respectivo júri, são definidas por despacho do Chefe do Estado-Maior do Exército, sobre proposta do comandante da ESE.
+6.º
+Equivalências
+A frequência do CFS, com aproveitamento, confere:
+a) Equivalência ao 12.º ano de escolaridade, com garantia de acesso aos estabelecimentos de ensino superior, civis e militares, nas condições definidas na lei aplicável;
+b) Equiparação a cursos de qualificação profissional de nível 3, previstos na rede de estabelecimentos de ensino oficial ou oficialmente reconhecidos;
+c) Certificado de aptidão e qualificação profissional nas áreas constantes do anexo XII à presente portaria;
+d) Outras qualificações de natureza profissional estabelecidas em acordos com entidades não previstas na alínea b).
+7.º
+Regime de classificação
+A classificação final do CFS é determinada segundo as normas fixadas no Regulamento da ESE.
+8.º
+Produção de efeitos
+O disposto na presente portaria aplica-se aos cursos iniciados em 1995.
+Ministérios da Defesa Nacional, da Educação e para a Qualificação e o Emprego.
+Assinada em 25 de Março de 1996.
+O Ministro da Defesa Nacional, António Manuel de Carvalho Ferreira Vitorino. - O Ministro da Educação, Eduardo Carrega Marçal Grilo. - A Ministra para a Qualificação e o Emprego, Maria João Fernandes Rodrigues.
+
+ANEXO I ao ANEXO XII
+(ver documento original)
