@@ -1,0 +1,30 @@
+Portaria n.º 254/73
+de 10 de Abril
+Tornando-se necessário regular o funcionamento dos órgãos locais do Secretariado para a Juventude, nos termos do disposto no artigo 11.º do Decreto-Lei n.º 446/71, de 25 de Outubro:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Juventude e Desportos, o seguinte:
+1 - As delegações regionais são órgãos locais do Secretariado para a Juventude, dependentes directa e exclusivamente da direcção, que, tendo em vista a sua eficiente actuação, obedecerão às regras de funcionamento contidas na presente portaria.
+2 - As delegações regionais serão chefiadas por um delegado designado, sobre proposta da direcção, por despacho do Ministro da Educação Nacional.
+3 - O mandato dos delegados regionais terá a duração de um ano.
+4 - As delegações regionais terão o pessoal necessário ao seu eficiente funcionamento, recrutado e provido nos mesmos termos do pessoal dos demais serviços do Secretariado.
+5 - A competência das delegações regionais exerce-se no âmbito do distrito.
+6 - Compete às delegações regionais:
+a) Estabelecer contactos entre os serviços centrais do Secretariado, através da direcção, e as entidades públicas ou privadas que actuem na respectiva região;
+b) Manter a direcção permanentemente informada sobre os problemas e actividades juvenis da respectiva região;
+c) Promover o desenvolvimento das actividades juvenis próprias ou apoiadas pelo Secretariado na respectiva região, de acordo com orientações da direcção e em articulação com esta;
+d) Acompanhar a actividade dos centros de juventude da respectiva área de competência territorial, transmitindo as orientações da direcção do Secretariado, coordenando a sua actividade e participando, quando conveniente, no funcionamento dos seus órgãos, sem direito de voto.
+7 - Os delegados poderão autorizar a realização de despesas destinadas à concretização de planos aprovados pela direcção, nos termos a definir em despacho do director.
+8 - Anualmente será fixada a importância a atribuir a cada uma das delegações e a conceder em regime de duodécimos, a qual será aplicada mediante orçamentos (ordinários e suplementares) a aprovar pela direcção, sobre parecer do conselho administrativo, a quem deverão ser remetidos em duplicado.
+9 - Em casos de justificada necessidade poderá a direcção, sobre parecer do conselho administrativo, autorizar o levantamento pelas delegações de importâncias superiores aos duodécimos vencidos, por conta dos duodécimos vincendos.
+10 - Os projectos de orçamento anual ordinário das delegações deverão ser remetidos ao Secretariado, em duplicado, até ao dia 15 de Julho do ano anterior.
+11 - O conjunto dos orçamentos referidos no número anterior, depois de aprovados, constituirá um capítulo «Órgãos locais» do orçamento privativo do Secretariado.
+12 - As receitas que venham a ser cobradas pelas delegações darão entrada na tesouraria do Secretariado até ao dia 10 do mês seguinte ao da cobrança.
+13 - Na cobrança das receitas e na realização das despesas serão observados os preceitos gerais de contabilidade pública.
+14 - O movimento de numerário deverá efectuar-se através de conta na Caixa Geral de Depósitos, Crédito e Previdência, podendo existir em cofre um «fundo permanente» para pequenas despesas urgentes de importância a fixar em despacho do director.
+15 - Com excepção do previsto na parte final do número anterior, os pagamentos serão efectuados por meio de cheque assinado pelo delegado e pelo funcionário que tiver a seu cargo a responsabilidade da contabilidade e do «fundo permanente ou seu substituto».
+16 - Até ao dia 15 de cada mês os delegados remeterão ao conselho administrativo, para apreciação, a conta do mês anterior.
+17 - A conta de gerência anual de cada delegação, elaborada nos moldes aprovados pelo Tribunal de Contas, será remetida, até 15 de Março do ano seguinte, aos serviços administrativos centrais, que sobre a mesma emitirão parecer, submetendo-a à apreciação do conselho administrativo e à aprovação da direcção do Secretariado.
+18 - As contas da gerência, depois de aprovadas, serão integradas na conta da gerência do Secretariado, constituindo um capítulo próprio, tal como no orçamento.
+19 - Pelos serviços administrativos centrais serão expedidas, depois de aprovadas pelo conselho administrativo, as instruções julgadas necessárias, nomeadamente quanto a levantamento de fundos, entrega de receitas, elaboração de orçamentos, apresentação de contas, utilização de modelos e livros de escrituração.
+20 - O pessoal em serviço nas delegações regionais será pago pelas verbas inscritas para o efeito no orçamento de cada uma das delegações e no capítulo respectivo do orçamento do Secretariado.
+21 - Casos omissos ou dúvidas de interpretação que surgirem na aplicação destas normas serão resolvidos por despacho do Secretário de Estado da Juventude e Desportos, emitido sobre proposta da direcção do Secretariado para a Juventude.
+Secretaria de Estado da Juventude e Desportos, 9 de Março de 1973. - O Secretário de Estado da Juventude e Desportos, Augusto de Ataíde Soares de Albergaria.
