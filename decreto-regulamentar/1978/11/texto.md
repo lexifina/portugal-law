@@ -1,0 +1,15 @@
+Decreto Regulamentar n.º 11/78
+de 26 de Abril
+Tornando-se necessário proceder por fases ao lançamento de acções conducentes à ampliação de infra-estruturas no ramal de Sintra;
+Visto o disposto no n.º 4 do artigo 30.º do Regulamento para a Exploração e Polícia dos Caminhos de Ferro, aprovado pelo artigo único do Decreto-Lei n.º 39780, de 21 de Agosto de 1954, na redacção que lhe foi dada pelo artigo único do Decreto-Lei n.º 48594, de 26 de Setembro de 1968:
+O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+Artigo 1.º Até à aprovação dos planos ou anteprojectos de ampliação das infra-estruturas do ramal de Sintra, será considerada área non aedificandi a faixa de terreno entre os quilómetros 23,900 e 24,900, conforme os limites e distâncias expressos no mapa anexo a este diploma, referidos ao eixo actual da entrevia.
+Art. 2.º A implantação de edifícios, arruamentos, passagens de nível ou outro tipo qualquer de construção na área referida no artigo antecedente fica sujeita, caso a caso, a autorização e aprovação especial dos Caminhos de Ferro Portugueses, E. P.
+Art. 3.º Este diploma entra em vigor na data da sua publicação.
+Mário Soares - Manuel Branco Ferreira Lima.
+Promulgado em 6 de Abril de 1978.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+(ver documento original)
+O Ministro dos Transportes e Comunicações, Manuel Branco Ferreira Lima.
