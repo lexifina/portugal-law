@@ -1,0 +1,3 @@
+Despacho
+Nos termos do artigo 2.º do Decreto-Lei n.º 43000, de 1 de Junho de 1960, o Conselho de Ministros resolve, mediante proposta do Ministério da Educação Nacional, declarar a habilitação de um curso industrial completo em que a disciplina de Desenho seja professada até ao último ano, como suficiente, em paralelo com o curso geral dos liceus, para efeito de provimento no lugar de desenhador de 3.ª classe do quadro do Instituto Nacional de Investigação Industrial.
+Presidência do Conselho, 11 de Dezembro de 1963. - Pelo Presidente do Conselho, o Ministro de Estado Adjunto, José Gonçalo da Cunha Sottomayor Correia de Oliveira.
