@@ -1,0 +1,47 @@
+# Acórdão do Supremo Tribunal Administrativo de 1993-12-02, processo 031330
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 031330
+
+**Data do Acordão:** 12/02/1993
+
+**Tribunal:** 1 SUBSECÇÃO DO CA
+
+**Relator:** J GONÇALVES PEREIRA
+
+**Descritores:** CONCURSO DE PROVIMENTO; CONCURSO INTERNO; CHEFE DE SERVIÇOS HOSPITALARES; CARREIRA MÉDICA HOSPITALAR; HOSPITAIS CIVIS DE LISBOA; LISTA DE GRADUAÇÃO; HOMOLOGAÇÃO; RECURSO HIERÁRQUICO; INDEFERIMENTO TÁCITO; REVOGAÇÃO DE ACTO TÁCITO; ACTO CONSTITUTIVO DE DIREITOS; REVOGAÇÃO DE ACTO CONSTITUTIVO DE DIREITOS; PRETERIÇÃO DE FORMALIDADE; PRINCÍPIOS GERAIS DE DIREITO; NULIDADE
+
+**Nº Convencional:** JSTA00038059
+
+**Nº do Documento:** SA119931202031330
+
+**Data de Entrada:** 11/03/1992
+
+**Recorrente:** HOSPITAL S JOSE E OUTRO - CONSELHO DIRECTORES HOSPITAIS CIVIS LISBOA
+
+**Recorrido 1:** CARVALHO , JOAQUIM E OUTROS
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 93
+
+**Privacidade:** 01
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** SENT TAC LISBOA.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR ADM GER - FUNÇÃO PUBL ESTATUTÁRIO. DIR ADM CONT - ACTO.
+
+**Legislação Nacional:** CONST89 ART115.; LOSTA56 ART18.; LPTA85 ART28 N1 D.; DL 100/84 DE 1984/03/29 ART88 N1.; RGU DOS CONCURSOS DE HABILITAÇÃO E DE PROVIMENTO PARA CHEFE DE SERVIÇO HOSPITALAR APROVADO PELA PORT 231/86 DE 1986/05/21 N51 1.; RGU DOS CONCURSOS APROVADO PELA PORT 833/91 DE 1991/08/24.
+
+**Jurisprudência Nacional:** AC STA PROC29042 DE 1993/07/08.; AC STA PROC25454 DE 1991/02/29.; Texto Integral
+
+## Sumário
+
+I - O acto tácito de indeferimento pode ser revogado nos mesmos termos do acto expresso.
+
+II - O art. 88, n. 1, do DL n. 100/84, de 29 de Março, consagra um princípio geral de direito.*
