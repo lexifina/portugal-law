@@ -1,0 +1,29 @@
+Lei n.º 36/77
+de 17 de Junho
+Benefícios fiscais às empresas privadas que celebrem contratos de viabilização
+A Assembleia da República decreta, nos termos da alínea d) do artigo 164.º e do n.º 2 do artigo 169.º da Constituição, o seguinte:
+ARTIGO 1.º
+Às empresas que celebrem contratos de viabilização, nos termos do Decreto-Lei n.º 124/77, de 1 de Abril, poderão ser atribuídos os seguintes benefícios fiscais:
+a) Consideração, para efeitos fiscais, da actualização das amortizações consequentes à reavaliação do activo imobilizado corpóreo, segundo as regras constantes do citado decreto-lei, e redução ou isenção do imposto de mais-valias devido pela incorporação da reserva de reavaliação em capital social;
+b) Aceleração das reintegrações ou amortizações, nos termos referidos no Decreto-Lei n.º 74/74, de 28 de Fevereiro;
+c) Alargamento, até cinco anos, do prazo referido no artigo 44.º do Código da Contribuição Industrial, para fins de reinvestimento dos lucros levados a reserva;
+d) Dedução, total ou parcial, à matéria colectável, para efeitos de contribuição industrial, dos valores dos novos investimentos em bens de equipamento;
+e) Alargamento, até cinco anos, do prazo do artigo 43.º do Código da Contribuição Industrial, para fins de dedução dos prejuízos dos exercícios de 1974, 1975 e 1976, bem como dos prejuízos que se verificarem na vigência do contrato, até aos limites nele previstos;
+f) Isenção ou redução da contribuição industrial;
+g) Isenção ou redução do imposto complementar - secção B;
+h) Isenção ou redução da sisa na compra de imóveis para afectar à exploração;
+i) Afastamento da presunção juris et de jure de remuneração de suprimentos e outros abonos de sócios estabelecida no n.º 5 do artigo 6.º do Código do Imposto de Capitais quando os suprimentos sejam consolidados por um prazo não inferior ao fixado para a operação de consolidação de passivos a que se refere o artigo 6.º
+ARTIGO 2.º
+1. A definição dos critérios a atender na graduação dos benefícios e de outras condições a satisfazer para atribuição dos benefícios fiscais constantes desta lei será regulamentada por decreto-lei a publicar no prazo de cento e vinte dias, a contar da data da entrada em vigor da presente lei.
+2. O disposto no número anterior não prejudica a atribuição dos benefícios fiscais previstos na presente lei.
+3. Para efeitos da definição dos critérios previstos no n.º 1 deste artigo deverão ser tomados em devida conta os contratos de viabilização já celebrados e os correspondentes benefícios fiscais concedidos.
+ARTIGO 3.º
+Poderão ser deduzidos, até ao limite máximo de 50% da matéria colectável do imposto complementar - secção A, os montantes investidos por pessoas singulares na subscrição de obrigações ou acções das empresas contratantes desde que, neste último caso, o investidor não tenha beneficiado do acesso ao financiamento de investimento das empresas contratantes por aumento de capital social subscrito por ex-accionistas de empresas nacionalizadas, nos termos do Decreto-Lei n.º 124/77, de 1 de Abril.
+ARTIGO 4.º
+Os benefícios fiscais previstos na presente lei serão concedidos às empresas que celebrem contratos de viabilização até 31 de Maio de 1978.
+ARTIGO 5.º
+A presente lei entra em vigor no dia imediato ao da sua publicação.
+Aprovada em 12 de Maio de 1977. - O Presidente da Assembleia da República, Vasco da Gama Fernandes.
+Promulgada em 30 de Maio de 1977.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.
