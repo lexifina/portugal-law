@@ -26,7 +26,7 @@ e) Passar certificados de outros factos que tenha verificado;
 
 f) Certificar, ou fazer e certificar, traduções de documentos;
 
-g) Passar certidões de instrumentos públicos, de registos e de outros documentos arquivados, ou extrair públicas-formas de documentos que, para esse fim, lhe sejam presentes pelos interessados;
+g) Passar certidões de instrumentos públicos, de registos e de outros documentos arquivados, extrair públicas-formas de documentos que, para esse fim, lhe sejam presentes ou conferir com os respectivos originais e certificar as fotocópias extraídas pelos interessados;
 
 h) Lavrar instrumentos para receber a declaração, com carácter solene ou sob juramento, de honorabilidade e de não se estar em situação de falência, nomeadamente, para efeitos do preenchimento dos requisitos condicionantes, na ordem jurídica comunitária, da liberdade de estabelecimento ou de prestação de serviços;
 
