@@ -1,0 +1,14 @@
+Portaria n.º 1200/2002
+de 2 de Setembro
+Com fundamento no disposto nos artigos 20.º da Lei n.º 30/86, de 27 de Agosto, e 79.º e 143.º do Decreto-Lei n.º 136/96, de 14 de Agosto, e ainda no disposto no n.º 3 do artigo 164.º do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 338/2001, de 26 de Dezembro:
+Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
+Manda o Governo, pelos Ministros da Economia e da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:
+1.º Fica sujeito ao regime cinegético especial o prédio rústico denominado por Herdade da Ordem (artigos 1.º da secção K e 1.º da secção B), sito nas freguesias de Selmes e Pedrógão, município da Vidigueira, com a área de 522,5750 ha, conforme planta anexa à presente portaria, que dela faz parte integrante.
+2.º Pela presente portaria é concessionada, pelo período de 10 anos, a Filipe António Hermínio Celorico Drago, entidade equiparada a pessoa colectiva com o n.º 805212787 e sede na Rua de Francisco Gomes, 37, 2.º, esquerdo, Vila Real de Santo António, a zona de caça turística do Monte da Ordem (processo n.º 3110 da Direcção-Geral das Florestas).
+3.º Por despacho do Secretário de Estado do Turismo, foi a presente concessão considerada de relevante interesse, nos termos e para os efeitos previstos na alínea b) do n.º 2 do artigo 66.º e no artigo 71.º, ambos do Decreto-Lei n.º 136/96, de 14 de Agosto, condicionada à aprovação pela Direcção-Geral do Turismo do projecto de arquitectura do pavilhão de caça, à execução e conclusão das obras do pavilhão de caça no prazo de 12 meses a contar da data da notificação da aprovação do projecto pela DGT, à verificação por esta entidade da conformidade das obras efectuadas com o projecto funcional do pavilhão previsto e à legalização do alojamento que eventualmente venha a ser disponibilizado nas instalações da ZCT, numa das figuras previstas no Decreto-Lei n.º 167/97, de 4 de Julho, com as alterações introduzidas pelo Decreto-Lei n.º 305/99, de 6 de Agosto, ou no Decreto-Lei n.º 169/97, de 4 de Julho.
+4.º A zona de caça turística será obrigatoriamente sinalizada com a tabuleta do modelo n.º 3 e o sinal do modelo n.º 10 definidos na Portaria n.º 1103/2000, de 23 de Novembro.
+5.º A eficácia da concessão está dependente de prévia sinalização, de acordo com as condições definidas na Portaria n.º 1103/2000 e no n.º 2 do n.º 8.º da Portaria n.º 467/2001, de 8 de Maio.
+6.º A presente portaria produz efeitos a partir do dia 29 de Junho de 2002.
+Pelo Ministro da Economia, Pedro Antunes de Almeida, Secretário de Estado do Turismo, em 13 de Agosto de 2002. - Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Fernando António de Miranda Guedes Bianchi de Aguiar, Secretário de Estado do Desenvolvimento Rural, em 29 de Julho de 2002.
+
+(ver planta no documento original)
