@@ -1,0 +1,5 @@
+Declaração
+Para os devidos efeitos se declara que o Decreto-Lei n.º 394-A/84, publicado no suplemento ao Diário da República, 1.ª série, n.º 297, de 26 de Dezembro de 1984, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No segundo parágrafo do preâmbulo, onde se lê «em virtude de o volume de negócios ser reconhecido pelos dados» deve ler-se «em virtude de o volume de negócios ser conhecido pelos dados».
+No artigo 2.º, n.º 1, onde se lê «a) De 2 a 31 de Janeiro de 1985 contribuintes do grupo C» deve ler-se «a) De 2 a 31 de Janeiro de 1985: contribuintes do grupo C» e onde se lê «b) De 2 de Janeiro a 28 de Fevereiro de 1985 contribuintes do grupo A e do grupo B da contribuição industrial e organismos não tributados em qualquer destes impostos» deve ler-se «b) De 2 de Janeiro a 28 de Fevereiro de 1985: contribuintes do grupo A e do grupo B da contribuição industrial e organismos não tributados neste imposto».
+Secretaria-Geral da Presidência do Conselho de Ministros, 21 de Fevereiro de 1985. - O Secretário-Geral, França Martins.
