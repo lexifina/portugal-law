@@ -1,0 +1,10 @@
+Declaração
+De harmonia com as disposições do artigo 7.º do Decreto-Lei n.º 25299, de 8 de Maio de 1935, se publica que S. Ex.ª o Ministro da Educação Nacional, por seu despacho de 30 do mês findo, autorizou, nos termos do § 2.º do artigo 17.º do Decreto n.º 16670, de 27 de Março de 1929, a seguinte transferência:
+CAPÍTULO 3.º
+Direcção-Geral do Ensino Superior e das Belas-Artes
+Instituto Superior de Agronomia
+Artigo 454.º «Remunerações acidentais»:
+Do n.º 1) «Regências eventuais» ... -11000$00
+Para o n.º 2) «Remuneração por serviço extraordinário ao pessoal docente» ... +11000$00
+Conforme o preceituado no artigo 14.º do Decreto n.º 47447, de 30 de Dezembro de 1966, a presente alteração mereceu, por despacho de 3 do corrente mês, a confirmação de S. Ex.ª o Subsecretário de Estado do Orçamento.
+10.ª Repartição da Direcção-Geral da Contabilidade Pública, 8 de Novembro de 1967. - O Chefe da Repartição, Albertino Marques.
