@@ -23,3 +23,5 @@ e) Transferência de bens para que sobre os mesmos sejam executados quaisquer tr
 f) Transferência de bens para serem temporariamente utilizados em prestações de serviços a efectuar pelo sujeito passivo no Estado membro de chegada da expedição ou transporte dos bens;
 
 g) Transferência de bens para serem temporariamente utilizados pelo sujeito passivo, por um período que não exceda 24 meses, no território de outro Estado membro no interior do qual a importação do mesmo bem proveniente de um país terceiro, com vista a uma utilização temporária, beneficiaria do regime de importação temporária com isenção total de direitos.
+
+4 - Sempre que se deixe de verificar alguma das condições necessárias para poder beneficiar do disposto no número anterior, considera-se que os bens são transferidos para outro Estado membro nos termos do n.º 2 no momento em que a condição deixar de ser preenchida.

@@ -8,6 +8,6 @@ b) A entrega ao sujeito passivo, dono da obra, de um bem móvel corpóreo produz
 
 c) A aquisição de bens expedidos ou transportados a partir de um país terceiro e importados noutro Estado membro, quando ambas as operações forem efectuadas por uma pessoa colectiva das referidas na alínea c) do n.º 1 do artigo 2.º
 
-2 - Salvo disposição especial prevista neste diploma, serão consideradas como aquisições intracomunitárias as operações que, se efectuadas no território nacional, por um sujeito passivo agindo como tal, seriam consideradas transmissões, nos termos do artigo 3.º do Código do IVA.
+2 - Sem prejuízo do disposto neste diploma, serão consideradas como aquisições intracomunitárias as operações que, se efectuadas no território nacional por um sujeito passivo agindo como tal, seriam consideradas transmissões, nos termos do artigo 3.º do Código do IVA.
 
 3 - Não será considerada aquisição intracomunitária a afectação de bens a que se refere a alínea a) do n.º 1 quando a transferência desses bens tiver por objecto a realização, no território nacional, de operações mencionadas no n.º 3 do artigo 7.º
