@@ -1,0 +1,32 @@
+Portaria n.º 24441
+Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, o seguinte:
+Nos termos do artigo 6.º do Decreto-Lei n.º 42559, de 3 de Outubro de 1959, reforçar e inscrever com as quantias que se indicam as seguintes verbas da tabela de despesa do orçamento privativo do Comando Naval de Cabo Verde para o ano de 1969:
+Despesas com o pessoal:
+Artigo 2.º, n.º 1), alínea a) «Remunerações acidentais - Gratificações por funções e serviços especiais - Pessoal militar» ... 12000$00
+Despesas com o material:
+Artigo 4.º, n.º 2), alínea a) «Aquisições de utilização permanente - Móveis - Mobiliário, material de aquartelamento e outros artigos não especificados nas alíneas seguintes» ... 15000$00
+Artigo 5.º, n.º 1), alínea a) «Despesas de conservação e aproveitamento do material - De imóveis - Infra-estruturas» ... 30000$00
+Artigo 5.º, n.º 2), alínea a) «Despesas de conservação e aproveitamento do material - De semoventes - Veículos com motor» ... 30000$00
+Artigo 5.º, n.º 3) «Despesas de conservação e aproveitamento do material - De imóveis» ... 20000$00
+Artigo 6.º, n.º 3) «Material de consumo corrente - Matérias-primas e produtos acabados ou meio acabados» ... 15000$00
+Artigo 6.º, n.º 4) «Material de consumo corrente - Combustíveis e lubrificantes» ... 40000$00
+Pagamento de serviços e diversos encargos:
+Artigo 7.º, n.º 1) «Despesas de higiene, saúde e conforto - Serviços clínicos e de hospitalização» ... 50000$00
+Artigo 7.º, n.º 3) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e limpeza» ... 53000$00
+Artigo 8.º, n.º 3), alínea a) «Despesas de comunicações - Transportes - Do material» ... 15000$00
+Artigo 10.º, n.º 2) «Encargos administrativos - Prémios de transferências de fundos» ... 20000$00
+Artigo 10.º, n.º 3) «Encargos administrativos - Pagamento de serviços e encargos não especificados» ... 2000$00
+Artigo 12.º «Abono de família» ... 25000$00
+... 327000$00
+tomando como contrapartida as seguintes disponibilidades existentes na mesma tabela de despesa:
+Despesas com o pessoal:
+Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 266000$00
+Artigo 3.º, n.º 3) «Outras despesas com o pessoal - Ajudas de custo» ... 10000$00
+Artigo 3.º, n.º 5) «Outras despesas com o pessoal - Subsídios para renda de casa» ... 30000$00
+Artigo 3.º, n.º 6) «Outras despesas com o pessoal - Subsídio eventual de custo de vida» ... 20000$00
+Pagamento de serviços e diversos encargos:
+Artigo 10.º, n.º 1) «Encargos administrativos - Publicidade e propaganda» ... 1000$00
+... 327000$00
+Presidência do Conselho, 27 de Novembro de 1969. - O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo.
+
+Para ser publicada no Boletim Oficial de Cabo Verde. - J. da Silva Cunha.
