@@ -1,0 +1,3 @@
+Despacho Normativo n.º 100/88
+Ao abrigo do disposto no n.º 1 do artigo 1.º do Decreto-Lei n.º 303/77, de 29 de Julho, em aditamento à tabela n.º 2 - Produtos fitofarmacêuticos, aprovada pelo Despacho Normativo n.º 346/80, publicado no Diário da República, 1.ª série, n.º 250, de 28 de Outubro de 1980, é autorizado um novo tipo de embalagem com o conteúdo líquido (peso) de 5 kg para os produtos fitofarmacêuticos com base na substância activa propinebe (fungicida), com o teor de 70% (p/p), formulados em pó molhável.
+Ministérios da Agricultura, Pescas e Alimentação e do Comércio e Turismo, 20 de Dezembro de 1988. - O Secretário de Estado da Agricultura, Álvaro dos Santos Amaro. - O Secretário de Estado do Comércio Interno, Jorge Manuel Mendes Antas.
