@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público ter o Governo Português depositado junto do Secretário-Geral das Nações Unidas, em 21 de Setembro de 1990, o instrumento de ratificação da Convenção sobre os Direitos da Criança, adoptada pela Assembleia Geral das Nações Unidas em 20 de Novembro de 1989.
+Nos termos do seu artigo 49.º, n.º 2, a Convenção entrará em vigor no 30.º dia após a data do depósito do instrumento de ratificação.
+Em 21 de Setembro de 1990 eram partes da Convenção os seguintes Estados: Bangladesh, Butão, Coreia do Norte, Filipinas, Indonésia, Mongólia, Nepal, Vietname, Benim, Burkina-Faso, Egipto, Ghana, Guiné, Guiné-Bissau, Mali, Maurícias, Quénia, Seichelles, Senegal, Serra Leoa, Sudão, Togo, Uganda, Zimbabwe, União das Repúblicas Socialistas Soviéticas, França, Portugal, Santa Sé, Suécia, Belize, Bolívia, Chile, Costa Rica, El Salvador, Equador, Guatemala, Honduras, México, Peru, Saint Kitts and Nevis e Venezuela.
+Direcção-Geral dos Negócios Político-Económicos, 11 de Outubro de 1990. - O Director de Serviços dos Assuntos Multilaterais, José Tadeu Soares.
