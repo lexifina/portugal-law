@@ -18,7 +18,7 @@ f) De negócio jurídico celebrado por gestor ou por procurador sem poderes sufi
 
 g) De aquisição, antes de titulado o contrato;
 
-h) De aquisição por venda judicial, antes de passado o título de transmissão;
+h) De aquisição por venda em processo judicial, antes de passado o título de transmissão;
 
 i) De hipoteca voluntária, antes de lavrado o título constitutivo;
 
@@ -28,7 +28,7 @@ l) De hipoteca judicial, antes de passada em julgado a sentença;
 
 m) Da hipoteca a que se refere o artigo 701.º do Código Civil, antes de passada em julgado a sentença que julgue procedente o pedido;
 
-n) De penhora, arresto ou apreensão em processo de falência, depois de ordenada a diligência, mas antes de esta ser efectuada;
+n) De apreensão em processo de falência, depois de proferida a sentença de declaração de falência, mas antes da efectiva apreensão;
 
 o) De arrolamento ou de outras providências cautelares, antes de passado em julgado o respectivo despacho.
 
