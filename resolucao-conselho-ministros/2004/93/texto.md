@@ -1,0 +1,12 @@
+Resolução do Conselho de Ministros n.º 93/2004
+Considerando que, por via da Resolução do Conselho de Ministros n.º 98/2003, de 1 de Agosto, o Governo resolveu criar uma estrutura de missão, denominada «Centro de Apoio ao Licenciamento de Projectos Turísticos Estruturantes (CALPTE)»;
+Considerando que a estrutura em causa visa coordenar as intervenções das diversas entidades da administração central e local autárquica no âmbito do licenciamento dos projectos turísticos, assumindo-se como interlocutor dos promotores nos projectos turísticos, estruturantes, tendo em vista uma maior celeridade e eficácia na obtenção das licenças em causa;
+Considerando que constitui pressuposto essencial da referida resolução a manutenção em funcionamento da estrutura de missão até à entrada em vigor do novo regime legal relativo ao licenciamento de projectos turísticos, através do qual se adoptarão as medidas que permitam superar os constrangimentos que motivaram a criação da referida estrutura;
+Considerando que se prevê que o novo regime legal seja aprovado a curto prazo;
+Considerando que a resolução acima mencionada nomeou como encarregada de missão a licenciada Ana Cristina Correia Martins Siza Vieira, que foi entretanto nomeada como directora-geral do Turismo, em 14 de Abril de 2004, importando assim proceder à sua substituição:
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Prorrogar o mandato da estrutura de missão designada por Centro de Apoio ao Licenciamento de Projectos Turísticos Estruturantes (CALPTE), criada pela Resolução do Conselho de Ministros n.º 98/2003, de 1 de Agosto, bem como a respectiva estrutura de apoio técnico, administrativo e logístico, até 31 de Dezembro de 2004 ou, se anterior a esta, até à data da entrada em vigor do diploma que proceder à revisão geral do processo de licenciamento de projectos turísticos.
+2 - Nomear como encarregado de missão, com efeitos a partir de 14 de Abril de 2004, o licenciado José Luís Galvão Vieira da Luz, equiparado, para efeitos remuneratórios, incluindo despesas de representação, a cargo de direcção superior de 1.º grau, auferindo as regalias inerentes ao seu exercício.
+3 - Determinar que o n.º 1 da presente resolução produz os seus efeitos no dia seguinte à data fixada no n.º 20 da Resolução do Conselho de Ministros n.º 98/2003, de 1 de Agosto.
+Presidência do Conselho de Ministros, 1 de Julho de 2004. - O Primeiro-Ministro, José Manuel Durão Barroso.
