@@ -1,0 +1,3 @@
+Declaração
+Para os devidos efeitos se declara que, por despachos do Secretário de Estado da Agricultura e do Subsecretário de Estado do Comércio, respectivamente, de 10 e 16 de Fevereiro findo, foi prorrogado o prazo de vigência fixado no despacho de 7 de Abril de 1967, publicado no Diário do Governo, 1.ª série, de 20 do mesmo mês, relativo às dotações de fomento e demais estímulos financeiros com vista à produção de bovinos leiteiros e a que se referem especialmente os despachos de 20 de Junho de 1967, 9 de Março de 1968 e 23 de Agosto de 1968, publicados, respectivamente, no Diário do Governo, 1.ª série, de 4 de Julho de 1967, 9 de Março e 2 de Setembro de 1968.
+Comissão de Coordenação Económica, 8 de Março de 1971. - O Presidente, Henrique de Carvalho Costa.
