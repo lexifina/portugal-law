@@ -1,0 +1,8 @@
+Aviso n.º 11/98
+Por ordem superior se torna público que o Iraque depositou, em 15 de Junho de 1994, os instrumentos de adesão à Convenção sobre os Direitos da Criança, adoptada pela Assembleia Geral das Nações Unidas em 20 de Novembro de 1989, tendo simultaneamente formulado uma reserva, cuja versão em inglês e tradução oficial em português a seguir se transcrevem:
+«(Iraq) has seen fit to accept it (the Convention) [...] subject to a reservation in respect of article 14, paragraph 1, concerning the child's freedom of religion, as allowing a child to change his or her religion runs counter to the provisions of the islamic Shariaa's.»
+Tradução oficial
+«(O Iraque) considerou que é de aceitá-la (a Convenção) [...] sujeita a reserva no que diz respeito ao artigo 14.º, n.º 1, relativamente à liberdade de religião da criança, pois o facto de se permitir a uma criança mudar a sua religião é contrário às disposições da lei islâmica.»
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 20/90, publicada no Diário da República, 1.ª série (suplemento), n.º 211, de 12 de Setembro de 1990, tendo depositado o seu instrumento de ratificação em 21 de Setembro de 1990, conforme aviso publicado no Diário da República, 1.ª série, n.º 248, de 26 de Outubro de 1990.
+Nos termos do artigo 49 (2), a Convenção entrou em vigor para o Iraque no 30.º dia após a data do depósito dos respectivos instrumentos de ratificação, ou seja, a 15 de Julho de 1994.
+Direcção de Serviços das Organizações Políticas Internacionais, 30 de Dezembro de 1997. - O Director de Serviços, João José Gomes Caetano da Silva.
