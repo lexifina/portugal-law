@@ -1,0 +1,99 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=htpYpETdXfgHmO4bgl5XKGQk%2bkZ1UWePwKPL0a952OEb3q68QQJu%2fuE3NuR8L9cT16ct5X3RKqJkceDCyhfVGNPxhHXgbN1eGmi%2f%2fdU0g60yGc2cs%2bn1DMAEwQhj%2bKKB5yX47cODyxeVMUfaXI003Z9keT2kp2rW%2f7kxaUXxrVSf%2brEumAdcCbsQWmtnV66GATPJkIrBDauZqW%2fTWFG8va1dk%2bkmTLKSlM5McQDTmE0NcJE1JnQKMHMv4M0dnjHF6CV6z0vn0bWDxqqYFeDaU5FrwkU826iJw3qNEXisf524qng2dAL%2fTUTvJ5%2b5vdrQNfCO0dMi3U4dP2xTk2nscBJCzFAYe7g9Oj019EJl5HstUW53s7KuzZRGevOeN9LIKt96NeIqRpBfgUg0UQzT5g%3d%3d&fich=RequerimentosVII_json.txt&Inline=true",
+  "ficheiro_sha256": "c4242ebf0e6e244b5787c9940684dff06969f806e8cf9a27eebd15d714e35117",
+  "legislatura": "VII",
+  "id": "16547",
+  "tipo": "Requerimento",
+  "numero": "358",
+  "data_registo": "1998-03-03",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "SITUACAO DOS ARTESAOS - RESOLUCAO DO CONSELHO DE MINISTROS N°136/97, DE 14 DE AGOSTO",
+    "Autores": [
+      {
+        "GP": "PEV",
+        "idCadastro": "834",
+        "nome": "Heloísa Apolónia"
+      }
+    ],
+    "DataEnvio": "1998-03-06",
+    "Destinatarios": [
+      {
+        "dataEnvio": "1998-03-06",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Ministério do Trabalho e da Solidariedade",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": null,
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "1998-03-03",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d314e4d4c7a55344d4463784f44566d4c5463304e5749744e4455304e6931684d4455334c574a694e32517a4e5467335a5459315a4335775a47593d&fich=5807185f-745b-4546-a057-bb7d3587e65d.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "16547",
+    "Legislatura": "VII",
+    "Nr": "358",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "27587",
+        "obs": "78-(6)",
+        "pag": [
+          "78-(6)-78-(6)"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "1998",
+        "pubLeg": "VII",
+        "pubNr": "15",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/07/03/015S1/1998-03-28/78-(6)?pgs=78-(6)&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": [
+      {
+        "dataResposta": null,
+        "docRemetida": null,
+        "entidade": "Ministério do Trabalho e da Solidariedade",
+        "ficheiro": "",
+        "ficheiroComTipo": null,
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "164575",
+            "obs": "106-(12)",
+            "pag": [
+              "106-(12)-106-(12)"
+            ],
+            "pagFinalDiarioSupl": "1º Supl.",
+            "pubdt": "1998",
+            "pubLeg": "VII",
+            "pubNr": "21",
+            "pubSL": "3",
+            "pubTipo": "DAR II série B",
+            "pubTp": "B",
+            "supl": "1º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/07/03/021S1/1998-05-16/106-(12)?pgs=106-(12)&org=PLC"
+          }
+        ]
+      }
+    ],
+    "Sessao": "3",
+    "Tipo": "Requerimento"
+  }
+}
