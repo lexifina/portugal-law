@@ -1,0 +1,6 @@
+Decreto-Lei n.º 43144
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. É acrescentado o seguinte parágrafo ao artigo 2.º do Decreto-Lei n.º 42093, de 9 de Janeiro de 1959, mantido em vigor durante o ano de 1960 pelo Decreto-Lei n.º 42818, de 25 de Janeiro de 1960:
+§ 3.º A receita prevista no n.º 3 poderá ser reduzida a metade sempre que nos estabelecimentos nele referidos actuem conjuntos musicais que sejam constituídos na sua maioria por cegos.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 3 de Setembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
