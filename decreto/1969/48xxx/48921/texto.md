@@ -1,0 +1,29 @@
+Decreto n.º 48921
+Os vencimentos dos servidores civis do Estado na província da Guiné foram fixados pelo Estatuto do Funcionalismo Ultramarino e seu diploma complementar de harmonia com as condições de vida local ao tempo existentes e as limitações impostas pelos recursos disponíveis do Tesouro.
+O aumento do custo de vida que se tem vindo a processar na província impõe, todavia, que se conceda àqueles servidores, na actual conjuntura e a título transitório, um subsídio eventual, cuja percentagem incidirá sobre os actuais vencimentos base e complementar, mas sem neles se integrar, solução que se apresenta, de momento, como a mais flexível e cautelosa.
+Nestes termos:
+Sob proposta do Governo da Guiné;
+Tendo em vista o disposto no 1.º do artigo 150.º da Constituição, por motivo de urgência;
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+Artigo 1.º É concedido, a título transitório, a todos os os servidores civis do Estado em serviço na província da Guiné, a partir de 1 de Janeiro de 1969, um subsídio eventual de custo de vida sobre os vencimentos base e complementar, de harmonia com as seguintes taxas:
+Vencimentos das categorias B a J - 15 por cento;
+Vencimentos das categorias K a O - 20 por cento;
+Vencimentos das categorias P a Y - 25 por cento;
+Vencimentos das categorias Z a Z" - 40 por cento.
+§ 1.º Aos ordenados e salários será aplicada a percentagem de subsídio eventual de custo de vida referida no corpo deste artigo, beneficiando, porém, os salários dos servidores pagos por verbas globais, enquadradas nas categorias das letras Z a Z", da percentagem de 33 por cento.
+§ 2.º Nos casos em que não se verifique coincidência com os vencimentos que correspondam aos grupos estabelecidos no § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino, a taxa do subsídio eventual de custo de vida será a que se aplicar ao grupo com vencimento mais próximo.
+§ 3.º A importância obtida com a aplicação das taxas do subsídio será arredondada, por excesso, para escudos.
+§ 4.º No caso de o servidor não ter direito à totalidade do vencimento, ordenado ou salário, a taxa do subsídio incidirá sobre o abono que legalmente lhe competir, com o arredondamento previsto no parágrafo anterior.
+§ 5.º O subsídio eventual de custo de vida não incidirá sobre as remunerações resultantes de acumulação de cargos.
+Art. 2.º O subsídio eventual de custo de vida, como abono transitório, não tem os mesmos direitos da remuneração base e apenas está sujeito ao desconto do imposto do selo, sendo inalienável e impenhorável.
+§ único. O abono de família, as ajudas de custo, os subsídios diários, de marcha, de campo e para renda de casa e outras remunerações acessórias serão abonados em função da remuneração base atribuída à categoria do servidor do Estado.
+Art. 3.º O limite de vencimentos pelo exercício de funções públicas, referido no artigo 155.º do Estatuto do Funcionalismo Ultramarino, passa a ser acrescido do subsídio eventual de custo de vida.
+Art. 4.º As verbas globais pelas quais se paguem vencimentos, ordenados e salários suportarão também o subsídio que a estes competir.
+Art. 5.º Constitui encargo dos serviços autónomos e dos que satisfaçam abonos ao pessoal, através de orçamentos privativos, a satisfação do subsídio eventual de custo de vida.
+Art. 6.º Fica o Governo da Guiné autorizado a determinar, em termos semelhantes, o regime de alterações a introduzir nos vencimentos dos servidores das autarquias locais.
+Marcello Caetano - Joaquim Moreira de Silva Cunha.
+Promulgado em 12 de Março de 1969.
+Publique-se.
+Presidência da República, 21 de Março de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser publicado no Boletim Oficial da Guiné. - J. da Silva Cunha.
