@@ -1,0 +1,4 @@
+Declaração
+Para os devidos efeitos se declara que a declaração de rectificação à Resolução do Conselho de Ministros n.º 42/90, publicada no Diário da República, 1.ª série, n.º 257 (suplemento), de 7 de Novembro de 1990, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Onde se lê «publicada no Diário da República, 1.ª série, n.º 256 (suplemento), de 26 de Novembro de 1990,» deve ler-se «publicada no Diário da República, 1.ª série, n.º 256 (suplemento), de 6 de Novembro de 1990,» e onde se lê «Secretaria-Geral da Presidência do Conselho de Ministros, 23 de Novembro de 1990.» deve ler-se «Secretaria-Geral da Presidência do Conselho de Ministros, 7 de Novembro de 1990.»
+Secretaria-Geral da Presidência do Conselho de Ministros, 27 de Novembro de 1990. - O Secretário-Geral, França Martins.
