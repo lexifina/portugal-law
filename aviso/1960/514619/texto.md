@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, conforme comunicação do Departamento de Estado dos Estados Unidos da América à Embaixada de Portugal em Washington, o Governo do Kuweit notificou, em 18 de Maio de 1960, ao Governo Americano a sua aceitação do Acordo relativo ao trânsito dos serviços aéreos internacionais, concluído em Chicago em 7 de Dezembro de 1944. O Acordo entrou em vigor relativamente ao Kuweit em 17 de Junho de 1960, data da entrada em vigor com referência àquele país da Convenção de Chicago de 7 de Dezembro de 1944.
+Direcção-Geral dos Negócios Económicos e Consulares, 11 de Agosto de 1960. - O Director-Geral Adjunto, Albano Nogueira.
