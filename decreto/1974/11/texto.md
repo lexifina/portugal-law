@@ -1,0 +1,18 @@
+Decreto n.º 11/74
+de 16 de Janeiro
+Considerando a necessidade de a Companhia de Electricidade de Macau, S. A. R. L., concessionária da produção, transporte e distribuição de energia eléctrica do concelho de Macau, celebrar, com a firma japonesa Mitsubishi Corporation, um contrato em regime de pagamentos diferidos, para a construção da nova central termoeléctrica de 2 x 23 mW, em Coloane, e fornecimento e montagem do respectivo equipamento;
+Revestindo-se de capital importância e premência para o desenvolvimento económico e social da província a materialização de tal empreendimento;
+Atendendo a que a empresa adjudicatária solicitou a prestação de garantias bancárias e abertura de créditos documentários, que o Banco Nacional Ultramarino e o Banco de Fomento Nacional se dispuseram conceder e ordenar, com a correspondente contragarantia do Governo da província de Macau e em condições a acordar;
+Tendo em conta o facto de a província ser accionista daquela empresa de utilidade pública e ter sido obtido o parecer favorável do Governo de Macau;
+Nos termos do § 3.º do artigo 136.º da Constituição, por motivo de urgência;
+Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
+Artigo 1.º É autorizado o Governo de Macau a segurar ao Banco Nacional Ultramarino e ao Banco de Fomento Nacional, ou a qualquer deles, os riscos emergentes das garantias bancárias que vierem a ser prestadas e dos créditos documentários que vierem a ser abertos até ao montante total em capital de 4000 milhões de ienes, acrescidos dos juros e demais encargos que forem devidos, e, ainda, a assumir a responsabilidade por diferenças de câmbio que porventura se verificarem, tudo em consequência do contrato de adjudicação da central termoeléctrica de Coloane, a realizar, em regime de pagamentos diferidos, entre a Companhia de Electricidade de Macau, S. A. R. L. e a empresa japonesa Mitsubishi Corporation.
+Art. 2.º - 1. As operações financeiras a realizar pelos dois Bancos ou por qualquer deles, com contragarantia do Governo de Macau, serão as estipuladas no contrato a firmar entre a Companhia de Electricidade de Macau, S. A. R. L., e a Mitsubishi Corporation, respeitante à adjudicação a que se alude no artigo precedente.
+2. As condições do contrato a celebrar nos termos do número anterior ficam sujeitas à aprovação do Governador de Macau.
+Art. 3.º A província de Macau gozará de privilégio creditório sobre a Companhia de Electricidade de Macau, S. A. R. L., nos termos dos artigos 735.º, n.º 2, 747.º, n.º 1, alínea a), e 748.º, n.º 1, alínea a), do Código Civil, pelas quantias que despender para cumprimento das responsabilidades assumidas nos termos deste decreto.
+Marcello Caetano - Baltasar Leite Rebelo de Sousa.
+Promulgado em 9 de Janeiro de 1974.
+Publique-se.
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser publicado no Boletim Oficial de Macau. - B. Rebelo de Sousa.
