@@ -1,0 +1,3 @@
+Declaração
+Para efeito do disposto na alínea a) do artigo 5.º e do artigo 14.º do Decreto n.º 27149, de 30 de Outubro de 1936, se declara que, por despacho de S. Ex.ª o Subsecretário de Estado do Comércio de 26 de Agosto findo, se mantêm inalterados, para a campanha de 1970-1971, os preços base do arroz em casca e os preços máximos do arroz em branco e dos subprodutos da indústria de descasque de arroz, bem como todas as restantes condições que constam da declaração publicada no Diário do Governo, 1.ª série, n.º 236, de 8 de Outubro de 1969.
+Comissão de Coordenação Económica, 8 de Setembro de 1970. - O Presidente, Henrique de Carvalho Costa.
