@@ -1,0 +1,24 @@
+Portaria n.º 22038
+Tornando-se necessário aplicar ao ultramar algumas disposições dos Decretos n.os 38032 e 38231, de 4 de Novembro de 1950 e 23 de Abril de 1951, respectivamente, que aprovam os Regulamentos dos Institutos Industriais e Comerciais, e que o não foram pela Portaria n.º 18706, de 28 de Agosto de 1961;
+Demonstrando a experiência a necessidade de revisão de alguns dos preceitos dos mesmos diplomas já aplicados:
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do n.º III da base LXXXIII da Lei Orgânica do Ultramar Português:
+1.º É aplicado nas províncias de Angola e Moçambique o artigo 45.º, n.º 1, dos Decretos n.os 38032 e 38231, de 4 de Novembro de 1950 e 23 de Abril de 1951 (Regulamentos dos Institutos Industriais e Comerciais), com a seguinte redacção:
+O provimento subsequente à criação dos lugares dos quadros de professores ordinários é feito por concurso documental a que apenas se podem candidatar os professores ordinários dos institutos comerciais e industriais dos estabelecimentos, dessa modalidade, existentes. Se não for possível preencher todos os lugares por concurso documental, as vagas resultantes serão providas por meio de concurso de provas públicas entre candidatos com a respectiva habilitação-base.
+2.º - a) O concurso documental a que se refere o n.º 1.º desta portaria é aberto perante o instituto a que pertencer a vaga, e a graduação dos candidatos será feita pelo director, nos termos estabelecidos no Estatuto do Ensino Profissional para os professores efectivos do mesmo ensino.
+b) A relação dos concorrentes, devidamente graduada, será publicada no Diário do Governo e Boletim Oficial e as reclamações, se as houver, serão julgadas pelo governador-geral.
+3.º São aplicados, para exacto cumprimento do que se acha preceituado no n.º 1.º da presente portaria, a Angola e Moçambique, os artigos 47.º a 57.º, 63.º e 64.º do Regulamento dos Institutos Industriais (Decreto n.º 38032, de 4 de Novembro de 1950) e do Regulamento dos Institutos Comerciais (Decreto n.º 38231, de 23 de Abril de 1951), devendo observar-se as seguintes alterações de redacção:
+a) Art. 48.º:
+1. Os concursos são anunciados no Diário do Governo e Boletim Oficial com a devida antecedência.
+2. Os programas das matérias sobre que versam os concursos, se não estiverem publicados, serão, para cada caso, propostos pela Direcção-Geral do Ensino do Ministério do Ultramar ou pelo conselho escolar do instituto a que respeitar o concurso e, depois de aprovados pelo Ministro do Ultramar, mediante prévia audiência do Ministério da Educação Nacional, publicados juntamente com o anúncio.
+b) Art. 56.º:
+1. Os júris dos concursos são constituídos pelo director do instituto, que presidirá, e pelos professores do grupo a que se referir a vaga e dos grupos afins, no máximo de seis vogais.
+2. Por despacho do Ministro do Ultramar, podem ser nomeados para fazer parte do júri professores de outras escolas médias ou, mediante aquiescência do Ministério da Educação Nacional, de escolas superiores.
+c) Art. 63.º:
+A nomeação dos professores ordinários será feita de harmonia com as regras estabelecidas na base XL da Lei Orgânica do Ultramar Português e no artigo 27.º do Estatuto do Funcionalismo Ultramarino, dependendo a recondução e a nomeação definitiva do parecer favorável do conselho escolar sobre a qualidade do serviço prestado.
+d) Art. 64.º:
+1. O recrutamento dos professores ordinários provisórios dos diferentes grupos far-se-á de entre pessoas que possuam as habilitações fixadas no artigo 68.º
+2. As nomeações serão feitas pelo Ministro, sob proposta do governador-geral, ouvidos o director do instituto e o conselho escolar.
+4.º Quando surjam dificuldades de recrutamento, poderá recorrer-se ao disposto no n.º 1, alínea e), da Portaria n.º 18706, de 28 de Agosto de 1961.
+Ministério do Ultramar, 6 de Junho de 1966. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada no Boletim Oficial de Angola e Moçambique. - J. da Silva Cunha.
