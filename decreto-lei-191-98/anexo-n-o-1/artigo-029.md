@@ -2,4 +2,4 @@
 
 ### Sinais visuais de socorro
 
-Os rebocadores do alto devem possuir 12 sinais de pára-quedas.
+Os rebocadores do alto devem possuir nove sinais de pára-quedas e três fachos de mão.

@@ -6,4 +6,4 @@
 
 ### Requisitos obrigatórios
 
-As embarcações auxiliares do alto devem satisfazer os requisitos fixados para os navios de carga registados na cabotagem.
+As embarcações auxiliares do alto devem satisfazer os requisitos fixados para os navios de comércio (carga ou passageiros) registados na cabotagem.

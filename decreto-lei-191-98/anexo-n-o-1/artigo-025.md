@@ -4,7 +4,7 @@
 
 ## Subcapítulo 1
 
-## Rebocadores registados no alto
+## Rebocadores registados no alto com arqueação bruta inferior a 500
 
 # Artigo 25.º
 

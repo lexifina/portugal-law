@@ -6,6 +6,6 @@
 
 2 - Os rebocadores do alto devem possuir coletes de salvação para 100% das pessoas embarcadas.
 
-3 - Os rebocadores do alto devem possuir fatos hipotérmicos em número igual ao número de pessoas previstas para tripular a embarcação de socorro e ajudas térmicas para as restantes pessoas embarcadas.
+3 - Nos rebocadores do alto devem existir três fatos de imersão hipotérmicos.
 
-4 - (Revogado.)
+4 - Nos rebocadores devem existir ajudas térmicas para 100% das pessoas embarcadas.
