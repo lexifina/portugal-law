@@ -1,0 +1,4 @@
+Declaração
+Para os devidos efeitos se declara que a resolução do Conselho de Ministros respeitante à construção do porto de Viana do Castelo, publicada no Diário da República, 1.ª série, n.º 224, de 23 de Setembro de 1976, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+Onde se lê: «Autorizar a adjudicação da execução da 1.ª fase da construção do porto de Viana do Castelo e aprovar a minuta do contrato com o empreiteiro adjudicatário Companhia Portuguesa de Transportes Portuários ...», deve ler-se: «Autorizar a adjudicação da execução da 1.ª fase da construção do porto de Viana do Castelo e aprovar a minuta do contrato com o empreiteiro adjudicatário Companhia Portuguesa de Trabalhos Portuários.
+Secretaria-Geral da Presidência do Conselho de Ministros, 24 de Setembro de 1976. - O Secretário-Geral, Alfredo Barroso.
