@@ -1,0 +1,5 @@
+Aviso n.º 107/2002
+Por ordem superior se torna público que o Governo do Reino do Butão depositou, em 15 de Agosto de 2002, o seu instrumento de adesão à Convenção sobre o Comércio Internacional das Espécies da Fauna e da Flora Selvagens Ameaçadas de Extinção - CITES, adoptada em Washington em 3 de Março de 1973, assim como o seu instrumento de aceitação da Emenda ao artigo XXI da referida Convenção, adoptada em Gabarone em 30 de Abril de 1983.
+Portugal é Parte na mesma Convenção e da Emenda mencionada, tendo depositado o instrumento de ratificação à Convenção em 11 de Dezembro de 1980 (Diário da República, 1.ª série, n.º 260, de 11 de Novembro de 1981), assim como da Emenda de Gabarone em 5 de Março de 1992 (Aviso n.º 132/92, publicado no Diário da República, 1.ª série, n.º 197, de 27 de Agosto de 1992).
+Nos termos do artigo XXII, § 2, a Convenção entra em vigor no Reino do Butão em 13 de Novembro de 2002. A Emenda de Gabarone ainda não entrou em vigor.
+Direcção-Geral dos Assuntos Multilaterais, Direcção de Serviços das Organizações Económicas Internacionais, 6 de Novembro de 2002. - A Directora de Serviços, Graça Gonçalves Pereira.
