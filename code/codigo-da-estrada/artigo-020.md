@@ -1,13 +1,9 @@
-## SECÇÃO II
-
-## Sinais dos condutores
-
 # Artigo 20.º
 
-### Sinalização de manobras
+### Veículos de transporte colectivo de passageiros
 
-1 - Quando o condutor pretender reduzir a velocidade, parar, estacionar, mudar de direcção ou de via de trânsito, iniciar uma ultrapassagem ou inverter o sentido de marcha, deve assinalar com a necessária antecedência a sua intenção.
+1 - Nas localidades, os condutores devem abrandar a sua marcha e, se necessário, parar, sempre que os veículos de transporte colectivo de passageiros retomem a marcha à saída dos locais de paragem.
 
-2 - O sinal deve manter-se enquanto se efectua a manobra e cessar logo que ela esteja concluída.
+2 - Os condutores de veículos de transporte colectivo de passageiros não podem, no entanto, retomar a marcha sem assinalarem a sua intenção imediatamente antes de a retomarem e sem adoptarem as precauções necessárias para evitar qualquer acidente.
 
 3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300.

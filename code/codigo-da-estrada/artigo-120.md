@@ -6,4 +6,4 @@
 
 ### Regime especial
 
-O disposto no presente título não é aplicável aos veículos pertencentes ao equipamento das forças militares ou de segurança.
+O disposto no presente título não é aplicável ao equipamento militar circulante ou de intervenção de ordem pública afecto às forças militares ou de segurança.

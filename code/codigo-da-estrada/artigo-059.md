@@ -6,16 +6,28 @@
 
 ### Regras gerais
 
-1 - O uso de dispositivos de sinalização luminosa e de iluminação dos veículos é obrigatório quando estes circulem desde o anoitecer ao amanhecer e, ainda, durante o dia, nos túneis e sempre que existam condições meteorológicas ou ambientais que tornem a visibilidade insuficiente, nomeadamente em caso de nevoeiro, chuva intensa, queda de neve, nuvens de fumo ou pó.
+1 - Os dispositivos de iluminação de sinalização luminosa e os reflectores que devem equipar os veículos, bem como as respectivas características, são fixados em regulamento.
 
-2 - O uso dos dispositivos de sinalização luminosa e de iluminação é obrigatório ainda, nas circunstâncias previstas no número anterior, durante a paragem ou estacionamento dos veículos, excepto:
+2 - É proibida a utilização de luz ou reflector vermelho dirigidos para a frente ou de luz ou reflector branco dirigidos para a retaguarda, salvo:
 
-a) Em locais cuja iluminação permita o fácil reconhecimento do veículo à distância de 100 m;
+a) Luz de marcha atrás e da chapa de matrícula;
 
-b) Fora das faixas de rodagem;
+b) Avisadores luminosos especiais previstos no artigo 23.º;
 
-c) Em vias situadas dentro das localidades.
+c) Dispositivos de iluminação e de sinalização utilizados nos veículos que circulam ao abrigo do disposto no artigo 58.º
 
-3 - Nos veículos que transitem em via de trânsito de sentido reversível, o uso de dispositivos de sinalização luminosa e de iluminação é obrigatório em qualquer circunstância.
+3 - É sancionado com coima de (euro) 60 a (euro) 300 quem:
 
-4 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 30 a (euro) 150, se sanção mais grave não for aplicável por força de disposição especial.
+a) Conduzir veículo que não disponha de algum ou alguns dos dispositivos previstos no regulamento referido no n.º 1;
+
+b) Puser em circulação veículo utilizando dispositivos não previstos no mesmo regulamento ou que, estando previstos, não obedeçam às características ou modos de instalação nele fixados;
+
+c) Infringir o disposto no n.º 2.
+
+4 - É sancionado com coima de (euro) 30 a (euro) 150 quem:
+
+a) Conduzir veículo que não disponha de algum ou alguns dos reflectores previstos no regulamento referido no n.º 1;
+
+b) Puser em circulação veículo utilizando reflectores não previstos no mesmo regulamento ou que, estando previstos, não obedeçam às características ou modos de instalação nele fixados;
+
+c) Sem prejuízo do disposto no n.º 2 do artigo 62.º, conduzir veículo com avaria em algum ou alguns dos dispositivos previstos no n.º 1.

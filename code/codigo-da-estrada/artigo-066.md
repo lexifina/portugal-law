@@ -2,4 +2,4 @@
 
 ### Trânsito de veículos que efectuam transportes especiais
 
-O trânsito, paragem e estacionamento nas vias públicas de veículos que transportem cargas que pela sua natureza, dimensão ou outras características o justifiquem pode ser condicionado por regulamento.
+O trânsito, paragem e estacionamento nas vias públicas de veículos que transportem cargas que pela sua natureza ou outras características o justifiquem pode ser condicionado por regulamento.

@@ -10,4 +10,4 @@
 
 2 - Salvo em caso de perigo iminente, o condutor não deve diminuir subitamente a velocidade do veículo sem previamente se certificar de que daí não resulta perigo para os outros utentes da via, nomeadamente para os condutores dos veículos que o sigam.
 
-3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300.
+3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 120 a (euro) 600.

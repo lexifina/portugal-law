@@ -16,4 +16,6 @@ c) Os casos especialmente previstos em regulamentos locais, para os veículos de
 
 4 - É igualmente proibido o transporte de passageiros fora dos assentos, sem prejuízo do disposto em legislação especial ou salvo em condições excepcionais fixadas em regulamento.
 
-5 - Quem infringir o disposto nos n.os 1, 3 e 4 é sancionado com coima de (euro) 30 a (euro) 150.
+5 - Quem infringir o disposto no n.º 1 é sancionado com coima de (euro) 30 a (euro) 150.
+
+6 - Quem infringir o disposto nos n.os 3 e 4 é sancionado com coima de (euro) 60 a (euro) 300, aplicável por cada pessoa transportada indevidamente, devendo o veículo ficar imobilizado até que a situação seja regularizada.

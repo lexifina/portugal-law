@@ -20,7 +20,7 @@ e) Não seja excedida a capacidade dos animais;
 
 f) Não seja excedida a altura de 4 m a contar do solo;
 
-g) Tratando-se de veículos destinados ao transporte de passageiros ou mistos, aquela não ultrapasse os contornos envolventes do veículo, salvaguardando a correcta identificação dos dispositivos de sinalização e de iluminação e da matrícula;
+g) Tratando-se de veículos destinados ao transporte de passageiros, aquela não prejudique a correcta identificação dos dispositivos de sinalização, de iluminação e da chapa de matrícula e não ultrapasse os contornos envolventes do veículo, salvo em condições excepcionais fixadas em regulamento;
 
 h) Tratando-se de veículos destinados ao transporte de mercadorias, aquela se contenha em comprimento e largura nos limites da caixa, salvo em condições excepcionais fixadas em regulamento;
 
@@ -28,4 +28,6 @@ i) Tratando-se de transporte de mercadorias a granel, aquela não exceda a altur
 
 4 - Consideram-se contornos envolventes do veículo os planos verticais que passam pelos seus pontos extremos.
 
-5 - Quem infringir o disposto nos n.os 1 a 3 é sancionado com coima de (euro) 60 a (euro) 300.
+5 - Quem infringir o disposto nos n.os 1 e 2 é sancionado com coima de (euro) 60 a (euro) 300.
+
+6 - Quem infringir o disposto no n.º 3 é sancionado com coima de (euro) 120 a (euro) 600, se sanção mais grave não for aplicável, podendo ser determinada a imobilização do veículo ou a sua deslocação para local apropriado, até que a situação se encontre regularizada.

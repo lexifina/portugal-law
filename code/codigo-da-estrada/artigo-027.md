@@ -6,26 +6,32 @@
 
 2 - Quem exceder os limites máximos de velocidade é sancionado:
 
-a) Se conduzir motociclo ou automóvel ligeiro, com as seguintes coimas:
+a) Se conduzir automóvel ligeiro ou motociclo, com as seguintes coimas:
 
-1.º De (euro) 60 a (euro) 300, se exceder até 30 km/h;
+1.º De (euro) 60 a (euro) 300, se exceder até 20 km/h, dentro das localidades, ou até 30 km/h, fora das localidades;
 
-2.º De (euro) 120 a (euro) 600, se exceder em mais de 30 km/h até 60 km/h;
+2.º De (euro) 120 a (euro) 600, se exceder em mais de 20 km/h e até 40 km/h, dentro das localidades, ou em mais de 30 km/h e até 60 km/h, fora das localidades;
 
-3.º De (euro) 240 a (euro) 1200, se exceder em mais de 60 km/h;
+3.º De (euro) 300 a (euro) 1500, se exceder em mais de 40 km/h e até 60 km/h, dentro das localidades, ou mais de 60 km/h e até 80 km/h, fora das localidades;
 
-b) Se conduzir automóvel pesado, veículo agrícola, máquina industrial ou ciclomotor, com as seguintes coimas:
+4.º De (euro) 500 a (euro) 2500, se exceder em mais de 60 km/h, dentro das localidades, ou em mais de 80 km/h, fora das localidades;
 
-1.º De (euro) 60 a (euro) 300, se exceder até 20 km/h;
+b) Se conduzir outros veículos, com as seguintes coimas:
 
-2.º De (euro) 120 a (euro) 600, se exceder em mais de 20 km/h até 40 km/h;
+1.º De (euro) 60 a (euro) 300, se exceder até 10 km/h, dentro das localidades, ou até 20 km/h, fora das localidades;
 
-3.º De (euro) 240 a (euro) 1200, se exceder em mais de 40 km/h.
+2.º De (euro) 120 a (euro) 600, se exceder em mais de 10 km/h e até 20 km/h, dentro das localidades, ou em mais de 20 km/h e até 40 km/h, fora das localidades;
 
-3 - O disposto no número anterior é também aplicável aos condutores que excedam os limites máximos de velocidade que lhes tenham sido estabelecidos.
+3.º De (euro) 300 a (euro) 1500, se exceder em mais de 20 km/h e até 40 km/h, dentro das localidades, ou em mais de 40 km/h e até 60 km/h, fora das localidades;
 
-4 - Para os efeitos do disposto nos números anteriores, considera-se que também viola os limites máximos de velocidade instantânea o condutor que percorrer uma determinada distância a uma velocidade média incompatível com a observância daqueles limites, entendendo-se que a contra-ordenação é praticada no local em que terminar o percurso controlado.
+4.º De (euro) 500 a (euro) 2500, se exceder em mais de 40 km/h, dentro das localidades, ou em mais de 60 km/h, fora das localidades.
 
-5 - Sem prejuízo do disposto no artigo 26.º, nas auto-estradas os condutores não podem transitar a velocidade instantânea inferior a 40 km/h.
+3 - O disposto no número anterior é também aplicável aos condutores que excedam os limites máximos de velocidade que lhes tenham sido estabelecidos ou que tenham sido especialmente fixados para os veículos que conduzem.
 
-6 - Quem conduzir injustificadamente a velocidade inferior ao limite estabelecido no número anterior é sancionado com coima de (euro) 60 a (euro) 300.
+4 - Para os efeitos do disposto nos números anteriores, considera-se que viola os limites máximos de velocidade instantânea o condutor que percorrer uma determinada distância a uma velocidade média incompatível com a observância daqueles limites, entendendo-se que a contra-ordenação é praticada no local em que terminar o percurso controlado.
+
+5 - Sem prejuízo do disposto nos números anteriores, quando a velocidade for controlada através de tacógrafo e tiver sido excedido o limite máximo de velocidade permitido ao veículo, considera-se que a contra-ordenação é praticada no local onde for efectuado o controlo.
+
+6 - Sem prejuízo do disposto no artigo 26.º, nas auto-estradas os condutores não podem transitar a velocidade instantânea inferior a 50 km/h.
+
+7 - Quem conduzir a velocidade inferior ao limite estabelecido no número anterior é sancionado com coima de (euro) 60 a (euro) 300.

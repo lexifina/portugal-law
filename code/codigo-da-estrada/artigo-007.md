@@ -2,7 +2,7 @@
 
 ### Hierarquia entre prescrições
 
-1 - As prescrições resultantes dos sinais prevalecem sobre as regras gerais de trânsito.
+1 - As prescrições resultantes dos sinais prevalecem sobre as regras de trânsito.
 
 2 - A hierarquia entre as prescrições resultantes da sinalização é a seguinte:
 

@@ -1,15 +1,21 @@
 # Artigo 173.º
 
-### Hipoteca
+### Garantia de cumprimento
 
-1 - Quando o veículo seja objecto de hipoteca, a remoção deve também ser notificada ao credor, para a residência constante do respectivo registo ou nos termos do n.º 3 do artigo anterior.
+1 - O pagamento voluntário da coima deve ser efectuado no acto da verificação da contra-ordenação.
 
-2 - Da notificação ao credor deve constar a indicação dos termos em que a notificação foi feita ao proprietário e a data em que termina o prazo a que o artigo anterior se refere.
+2 - Se o infractor não pretender efectuar o pagamento voluntário imediato da coima, deve prestar depósito, também imediatamente, de valor igual ao mínimo da coima prevista para a contra-ordenação praticada.
 
-3 - O credor hipotecário pode requerer a entrega do veículo como fiel depositário, para o caso de, findo o prazo, o proprietário o não levantar.
+3 - O depósito referido no número anterior destina-se a garantir o cumprimento da coima em que o infractor possa vir a ser condenado, sendo devolvido se não houver lugar a condenação.
 
-4 - O requerimento pode ser apresentado no prazo de 20 dias após a notificação ou até ao termo do prazo para levantamento do veículo pelo proprietário, se terminar depois daquele.
+4 - Se o pagamento ou depósito não forem efectuados de imediato, nos termos dos n.os 1 e 2, devem ser apreendidos provisoriamente os seguintes documentos:
 
-5 - O veículo deve ser entregue ao credor hipotecário logo que se mostrem pagas todas as despesas ocasionadas pela remoção e depósito, devendo o pagamento ser feito dentro dos oito dias seguintes ao termo do último dos prazos a que se refere o artigo anterior.
+a) Se a sanção respeitar ao condutor, o título de condução;
 
-6 - O credor hipotecário tem direito de exigir do proprietário as despesas referidas no número anterior e as que efectuar na qualidade de fiel depositário.
+b) Se a sanção respeitar ao titular do documento de identificação do veículo, o título de identificação do veículo e o título de registo de propriedade;
+
+c) Se a sanção respeitar ao condutor e ele for, simultaneamente, titular do documento de identificação do veículo, todos os documentos referidos nas alíneas anteriores.
+
+5 - No caso previsto no número anterior, devem ser emitidas guias de substituição dos documentos apreendidos, com validade pelo tempo julgado necessário e renovável até à conclusão do processo, devendo os mesmos ser devolvidos ao infractor se entretanto for efectuado o pagamento nos termos do artigo anterior.
+
+6 - No caso de ser prestado depósito e não ser apresentada defesa, dentro do prazo estipulado para o efeito, considera-se que o depósito efectuado se converte automaticamente em pagamento.

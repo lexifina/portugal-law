@@ -14,46 +14,48 @@
 
 Para os efeitos do disposto no presente Código e legislação complementar, os termos seguintes têm o significado que lhes é atribuído neste artigo:
 
-a) Via pública: via de comunicação terrestre afecta ao trânsito público;
+a) «Auto-estrada» - via pública destinada a trânsito rápido, com separação física de faixas de rodagem, sem cruzamentos de nível nem acesso a propriedades marginais, com acessos condicionados e sinalizada como tal;
 
-b) Via equiparada a via pública: via de comunicação terrestre do domínio privado aberta ao trânsito público;
+b) «Berma» - superfície da via pública não especialmente destinada ao trânsito de veículos e que ladeia a faixa de rodagem;
 
-c) Auto-estrada: via pública destinada a trânsito rápido, com separação física de faixas de rodagem, sem cruzamentos de nível nem acesso a propriedades marginais, com acessos condicionados e sinalizada como tal;
+c) «Caminho» - via pública especialmente destinada ao trânsito local em zonas rurais;
 
-d) Via reservada a automóveis e motociclos: via pública onde vigoram as normas que disciplinam o trânsito em auto-estrada e sinalizada como tal;
+d) «Corredor de circulação» - via de trânsito reservada a veículos de certa espécie ou afectos a determinados transportes;
 
-e) Caminho: via pública especialmente destinada ao trânsito local em zonas rurais;
+e) «Cruzamento» - zona de intersecção de vias públicas ao mesmo nível;
 
-f) Faixa de rodagem: parte da via pública especialmente destinada ao trânsito de veículos;
+f) «Eixo da faixa de rodagem» - linha longitudinal, materializada ou não, que divide uma faixa de rodagem em duas partes, cada uma afecta a um sentido de trânsito;
 
-g) Eixo da faixa de rodagem: linha longitudinal, materializada ou não, que divide uma faixa de rodagem em duas partes, cada uma afecta a um sentido de trânsito;
+g) «Entroncamento» - zona de junção ou bifurcação de vias públicas;
 
-h) Via de trânsito: zona longitudinal da faixa de rodagem, destinada à circulação de uma única fila de veículos;
+h) «Faixa de rodagem» - parte da via pública especialmente destinada ao trânsito de veículos;
 
-i) Via de sentido reversível: via de trânsito afecta alternadamente, através de sinalização, a um ou outro dos sentidos de trânsito;
+i) «Ilhéu direccional» - zona restrita da via pública, interdita à circulação de veículos e delimitada por lancil ou marcação apropriada, destinada a orientar o trânsito;
 
-j) Via de aceleração: via de trânsito resultante do alargamento da faixa de rodagem e destinada a permitir que os veículos que entram numa via pública adquiram a velocidade conveniente para se incorporarem na corrente de trânsito principal;
+j) «Localidade» - zona com edificações e cujos limites são assinalados com os sinais regulamentares;
 
-l) Via de abrandamento: via de trânsito resultante do alargamento da faixa de rodagem e destinada a permitir que os veículos que vão sair de uma via pública diminuam a velocidade já fora da corrente de trânsito principal;
+l) «Parque de estacionamento» - local exclusivamente destinado ao estacionamento de veículos;
 
-m) Berma: superfície da via pública não especialmente destinada ao trânsito de veículos e que ladeia a faixa de rodagem;
+m) «Passagem de nível» - local de intersecção ao mesmo nível de uma via pública ou equiparada com linhas ou ramais ferroviários;
 
-n) Passeio: superfície da via pública, em geral sobrelevada, especialmente destinada ao trânsito de peões e que ladeia a faixa de rodagem;
+n) «Passeio» - superfície da via pública, em geral sobrelevada, especialmente destinada ao trânsito de peões e que ladeia a faixa de rodagem;
 
-o) Corredor de circulação: via de trânsito reservada a veículos de certa espécie ou afectos a determinados transportes;
+o) «Pista especial» - via pública ou via de trânsito especialmente destinada, de acordo com sinalização, ao trânsito de peões, de animais ou de certa espécie de veículos;
 
-p) Pista especial: via pública ou via de trânsito especialmente destinada, de acordo com sinalização, ao trânsito de peões, de animais ou de certa espécie de veículos;
+p) «Rotunda» - praça formada por cruzamento ou entroncamento onde o trânsito se processa em sentido giratório e sinalizada como tal;
 
-q) Cruzamento: zona de intersecção de vias públicas ao mesmo nível;
+q) «Via de abrandamento» - via de trânsito resultante do alargamento da faixa de rodagem e destinada a permitir que os veículos que vão sair de uma via pública diminuam a velocidade já fora da corrente de trânsito principal;
 
-r) Entroncamento: zona de junção ou bifurcação de vias públicas;
+r) «Via de aceleração» - via de trânsito resultante do alargamento da faixa de rodagem e destinada a permitir que os veículos que entram numa via pública adquiram a velocidade conveniente para se incorporarem na corrente de trânsito principal;
 
-s) Rotunda: praça formada por cruzamento ou entroncamento, onde o trânsito se processa em sentido giratório e sinalizada como tal;
+s) «Via de sentido reversível» - via de trânsito afecta alternadamente, através de sinalização, a um ou outro dos sentidos de trânsito;
 
-t) Parque de estacionamento: local exclusivamente destinado ao estacionamento de veículos;
+t) «Via de trânsito» - zona longitudinal da faixa de rodagem destinada à circulação de uma única fila de veículos;
 
-u) Localidade: zona com edificações e cujos limites são assinalados com os sinais regulamentares;
+u) «Via equiparada a via pública» - via de comunicação terrestre do domínio privado aberta ao trânsito público;
 
-v) Zona de estacionamento: local da via pública especialmente destinado, por construção ou sinalização, ao estacionamento de veículos;
+v) «Via pública» - via de comunicação terrestre afecta ao trânsito público;
 
-x) Ilhéu direccional: zona restrita da via pública, interdita à circulação de veículos e delimitada por lancil ou marcação apropriada, destinada a orientar o trânsito.
+x) «Via reservada a automóveis e motociclos» - via pública onde vigoram as normas que disciplinam o trânsito em auto-estrada e sinalizada como tal;
+
+z) «Zona de estacionamento» - local da via pública especialmente destinado, por construção ou sinalização, ao estacionamento de veículos.

@@ -1,3 +1,3 @@
 # Art. 7.º
 
-Até que entrem em vigor as normas regulamentares necessárias para execução do Código da Estrada ora aprovado serão aplicáveis as disposições vigentes, na medida em que não contrariem o que nele se dispõe.
+(Revogado pelo DL n.º 44/2005, de 23 de Fevereiro)

@@ -2,7 +2,7 @@
 
 ### Velocidade moderada
 
-1 - A velocidade deve ser especialmente moderada:
+1 - Sem prejuízo dos limites máximos de velocidade fixados, o condutor deve moderar especialmente a velocidade:
 
 a) À aproximação de passagens assinaladas na faixa de rodagem para a travessia de peões;
 
@@ -20,6 +20,8 @@ g) Nas pontes, túneis e passagens de nível;
 
 h) Nos troços de via em mau estado de conservação, molhados, enlameados ou que ofereçam precárias condições de aderência;
 
-i) Nos locais assinalados com sinais de perigo.
+i) Nos locais assinalados com sinais de perigo;
 
-2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 60 a (euro) 300.
+j) Sempre que exista grande intensidade de trânsito.
+
+2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 120 a (euro) 600.

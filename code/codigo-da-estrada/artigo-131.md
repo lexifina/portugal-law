@@ -4,12 +4,10 @@
 
 ## CAPÍTULO I
 
-## Garantia da responsabilidade civil
+## Disposições gerais
 
 # Artigo 131.º
 
-### Obrigação de seguro
+### Âmbito
 
-1 - Os veículos a motor e seus reboques só podem transitar na via pública desde que seja efectuado, nos termos de legislação especial, seguro da responsabilidade civil que possa resultar da sua utilização.
-
-2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 300 a (euro) 1500 se o veículo for um motociclo ou um automóvel ou de (euro) 180 a (euro) 900 se for outro veículo a motor.
+Constitui contra-ordenação rodoviária todo o facto ilícito e censurável, para o qual se comine uma coima, que preencha um tipo legal correspondente à violação de norma do Código da Estrada ou de legislação complementar, bem como de legislação especial cuja aplicação esteja cometida à Direcção-Geral de Viação.

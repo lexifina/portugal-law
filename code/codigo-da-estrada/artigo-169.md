@@ -1,21 +1,23 @@
-## SECÇÃO V
+## TÍTULO VIII
 
-## Abandono, bloqueamento e remoção de veículos
+## Do processo
+
+## CAPÍTULO I
+
+## Competência
 
 # Artigo 169.º
 
-### Estacionamento indevido ou abusivo
+### Competência para o processamento e aplicação das coimas
 
-Considera-se estacionamento indevido ou abusivo:
+1 - O processamento das contra-ordenações rodoviárias compete à Direcção-Geral de Viação.
 
-a) O de veículo, durante 30 dias ininterruptos, em local da via pública ou em parque ou zona de estacionamento isentos do pagamento de qualquer taxa;
+2 - Tem competência para aplicação das coimas correspondentes às contra-ordenações leves e às coimas e sanções acessórias correspondentes às contra-ordenações graves o director-geral de Viação, que poderá delegá-la nos directores regionais de viação.
 
-b) O de veículo, em parque, quando as taxas correspondentes a cinco dias de utilização não tiverem sido pagas;
+3 - Têm competência para aplicação das coimas e sanções acessórias correspondentes às contra-ordenações muito graves as entidades designadas pelo Ministro da Administração Interna.
 
-c) O de veículo, em zona de estacionamento condicionado ao pagamento de taxa, quando esta não tiver sido paga ou tiverem decorrido duas horas para além do período de tempo pago;
+4 - O director-geral de Viação tem competência exclusiva, sem poder de delegação, para determinar da cassação do título de condução, nos termos previstos no presente diploma.
 
-d) O de veículo que permanecer em local de estacionamento limitado mais de duas horas para além do período de tempo permitido;
+5 - Os directores regionais de viação a quem tenha sido delegada a competência prevista no n.º 2 podem subdelegá-la, nos termos gerais, nos dirigentes de grau hierarquicamente inferior e, ainda, nos coordenadores das contra-ordenações.
 
-e) O de veículos agrícolas, máquinas industriais, reboques e semi-reboques não atrelados ao veículo tractor e o de veículos publicitários que permaneçam no mesmo local por tempo superior a quarenta e oito horas, ou a 30 dias, se estacionarem em parques a esse fim destinados;
-
-f) O que se verifique por tempo superior a quarenta e oito horas, quando se tratar de veículos que apresentem sinais exteriores evidentes de abandono ou de impossibilidade de se deslocarem com segurança pelos seus próprios meios.
+6 - Compete aos serviços regionais da Direcção-Geral de Viação ou, nos distritos em que existam, às respectivas delegações distritais a instrução dos processos de contra-ordenação, devendo solicitar, quando necessário, a colaboração das autoridades policiais, bem como de outras autoridades ou serviços públicos.

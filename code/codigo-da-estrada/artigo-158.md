@@ -1,23 +1,19 @@
-## SECÇÃO II
-
-## Procedimento para a fiscalização da condução sob influência de álcool ou de substâncias legalmente consideradas como estupefacientes ou psicotrópicas.
-
 # Artigo 158.º
 
-### Princípios gerais
+### Outras disposições
 
-1 - Devem submeter-se às provas estabelecidas para a detecção dos estados de influenciado pelo álcool ou por substâncias legalmente consideradas como estupefacientes ou psicotrópicas:
+1 - São fixados em regulamento:
 
-a) Os condutores;
+a) O tipo de material a utilizar na fiscalização e nos exames laboratoriais para determinação dos estados de influenciado pelo álcool ou por substâncias psicotrópicas;
 
-b) Os peões, sempre que sejam intervenientes em acidentes de trânsito;
+b) Os métodos a utilizar para a determinação do doseamento de álcool ou de substâncias psicotrópicas no sangue;
 
-c) As pessoas que se propuserem iniciar a condução.
+c) Os exames médicos para determinação dos estados de influenciado pelo álcool ou por substâncias psicotrópicas;
 
-2 - Quem praticar actos susceptíveis de falsear os resultados dos exames a que seja sujeito não pode prevalecer-se daqueles para efeitos de prova.
+d) Os laboratórios onde devem ser feitas as análises de urina e de sangue;
 
-3 - As pessoas referidas nas alíneas a) e b) do n.º 1 que recusem submeter-se às provas estabelecidas para a detecção do estado de influenciado pelo álcool ou por substâncias legalmente consideradas como estupefacientes ou psicotrópicas são punidas por desobediência.
+e) As tabelas dos preços dos exames realizados e das taxas de transporte dos examinandos e de imobilização e de remoção de veículos.
 
-4 - As pessoas referidas na alínea c) do n.º 1 que recusem submeter-se às provas estabelecidas para a detecção do estado de influenciado pelo álcool ou por substâncias legalmente consideradas como estupefacientes ou psicotrópicas são impedidas de iniciar a condução.
+2 - O pagamento das despesas originadas pelos exames previstos na lei para determinação do estado de influenciado pelo álcool ou por substâncias psicotrópicas, bem como pela imobilização e remoção de veículo a que se refere o artigo 155.º, é efectuado pela entidade a quem competir a coordenação da fiscalização do trânsito.
 
-5 - O médico ou paramédico que, sem justa causa, se recusar a proceder às diligências previstas na lei para diagnosticar o estado de influenciado pelo álcool ou por substâncias legalmente consideradas como estupefacientes ou psicotrópicas é punido por desobediência.
+3 - Quando os exames referidos tiverem resultado positivo, as despesas são da responsabilidade do examinando, devendo ser levadas à conta de custas nos processos crime ou de contra-ordenação a que houver lugar, as quais revertem a favor da entidade referida no número anterior.

@@ -1,5 +1,5 @@
 # Artigo 140.º
 
-### Determinação da medida da sanção
+### Atenuação especial da sanção acessória
 
-A medida da sanção determina-se em função da gravidade da contra-ordenação, da culpa, dos especiais deveres de cuidado que recaem sobre o condutor, designadamente quando este conduza veículos de socorro ou de serviço urgente, de transporte escolar, ligeiros de aluguer para transporte público, pesados de passageiros ou de mercadorias, ou de transporte de mercadorias perigosas, e da situação económica do infractor, tendo ainda em conta os seus antecedentes relativamente ao cumprimento das leis e regulamentos sobre o trânsito.
+Os limites mínimo e máximo da sanção acessória cominada para as contra-ordenações muito graves podem ser reduzidos para metade tendo em conta as circunstâncias da infracção, se o infractor não tiver praticado, nos últimos cinco anos, qualquer contra-ordenação grave ou muito grave ou facto sancionado com proibição ou inibição de conduzir e na condição de se encontrar paga a coima.

@@ -6,7 +6,7 @@
 
 a) Licenças especiais de condução;
 
-b) Cartas de condução emitidas pelos serviços competentes da Administração Portuguesa do território de Macau;
+b) Títulos de condução emitidos pelos serviços competentes da administração portuguesa do território de Macau;
 
 c) Licenças de condução emitidas por outros Estados membros do espaço económico europeu;
 
@@ -14,13 +14,13 @@ d) Licenças de condução emitidas por Estado estrangeiro que o Estado Portugu�
 
 e) Licenças de condução emitidas por Estado estrangeiro, desde que este reconheça idêntica validade aos títulos nacionais;
 
-f) Licenças internacionais de condução.
+f) Licenças internacionais de condução, desde que apresentadas com o título nacional que lhes deu origem.
 
 2 - As condições de emissão das licenças referidas na alínea a) do número anterior, bem como de autorizações especiais para conduzir, são fixadas em regulamento.
 
 3 - O regulamento a que se refere o número anterior pode englobar disposições prevendo iniciativas pedagógicas dirigidas à condução de ciclomotores por condutores com idade não inferior a 14 anos.
 
-4 - Os titulares das licenças referidas nas alíneas d), e) e f) do n.º 1 apenas estão autorizados a conduzir veículos a motor se não tiverem residência habitual em Portugal.
+4 - Os titulares das licenças referidas nas alíneas d), e) e f) do n.º 1 não estão autorizados a conduzir veículos a motor se residirem em Portugal há mais de 185 dias.
 
 5 - Os titulares das licenças referidas no n.º 1 apenas estão autorizados ao exercício da condução se possuírem a idade mínima exigida para a respectiva habilitação, nos termos deste Código.
 

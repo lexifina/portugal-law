@@ -1,11 +1,13 @@
 # Artigo 172.º
 
-### Reclamação de veículos
+### Cumprimento voluntário
 
-1 - Da notificação deve constar a indicação do local para onde o veículo foi removido e, bem assim, que o proprietário o deve retirar dentro dos prazos referidos no artigo anterior e após o pagamento das despesas de remoção e depósito, sob pena de o veículo se considerar abandonado.
+1 - É admitido o pagamento voluntário da coima, pelo mínimo, nos termos e com os efeitos estabelecidos nos números seguintes.
 
-2 - No caso previsto na alínea f) do artigo 169.º, se o veículo apresentar sinais evidentes de acidente, a notificação deve fazer-se pessoalmente, salvo se o proprietário não estiver em condições de a receber, sendo então feita em qualquer pessoa da sua residência, preferindo os parentes.
+2 - A opção de pagamento pelo mínimo e sem acréscimo de custas deve verificar-se no prazo de 15 dias úteis a contar da notificação para o efeito.
 
-3 - Não sendo possível proceder à notificação pessoal por se ignorar a identidade ou a residência do proprietário do veículo, a notificação deve ser afixada na câmara municipal da área onde o veículo tiver sido encontrado ou junto da última residência conhecida do proprietário, respectivamente.
+3 - A dispensa de custas prevista no número anterior não abrange as despesas decorrentes dos exames médicos e análises toxicológicas legalmente previstos para a determinação dos estados de influenciado pelo álcool ou por substâncias psicotrópicas, as decorrentes das inspecções impostas aos veículos, bem como as resultantes de qualquer diligência de prova solicitada pelo arguido.
 
-4 - A entrega do veículo ao reclamante depende da prestação de caução de valor equivalente às despesas de remoção e depósito.
+4 - Em qualquer altura do processo, mas sempre antes da decisão, pode ainda o arguido optar pelo pagamento voluntário da coima, a qual, neste caso, é liquidada pelo mínimo, sem prejuízo das custas que forem devidas.
+
+5 - O pagamento voluntário da coima nos termos dos números anteriores determina o arquivamento do processo, salvo se à contra-ordenação for aplicável sanção acessória, caso em que prossegue restrito à aplicação da mesma.

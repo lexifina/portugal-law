@@ -4,7 +4,7 @@
 
 1 - É proibido o estacionamento:
 
-a) Nas vias em que impeça a formação de uma ou mais filas de trânsito, conforme este se faça num só ou nos dois sentidos;
+a) Impedindo o trânsito de veículos ou obrigando à utilização da parte da faixa de rodagem destinada ao sentido contrário, conforme o trânsito se faça num ou em dois sentidos;
 
 b) Nas faixas de rodagem, em segunda fila, e em todos os lugares em que impeça o acesso a veículos devidamente estacionados, a saída destes ou a ocupação de lugares vagos;
 
@@ -18,12 +18,8 @@ f) Nos locais reservados, mediante sinalização, ao estacionamento de determina
 
 g) De veículos agrícolas, máquinas industriais, reboques ou semi-reboques quando não atrelados ao veículo tractor, salvo nos parques de estacionamento especialmente destinados a esse efeito;
 
-h) Nas zonas de estacionamento de duração limitada quando não for cumprido o respectivo regulamento.
+h) Nas zonas de estacionamento de duração limitada quando não for cumprido o respectivo regulamento;
 
-2 - Fora das localidades, é ainda proibido o estacionamento:
+i) De veículos ostentando qualquer informação com vista à sua transacção, em parques de estacionamento.
 
-a) De noite, nas faixas de rodagem;
-
-b) Nas faixas de rodagem assinaladas com o sinal 'via com prioridade'.
-
-3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 30 a (euro) 150, salvo se se tratar do disposto nas alíneas c) e f) do n.º 1 e b) do n.º 2, casos em que é sancionado com coima de (euro) 60 a (euro) 300, ou na alínea a) do n.º 2, em que a coima é de (euro) 240 a (euro) 1200.
+2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 30 a (euro) 150, salvo se se tratar do disposto nas alíneas c), f) e i), casos em que a coima é de (euro) 60 a (euro) 300.

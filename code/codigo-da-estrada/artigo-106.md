@@ -4,20 +4,16 @@
 
 1 - Os automóveis classificam-se em:
 
-a) Ligeiros: veículos com peso bruto até 3500 kg e com lotação não superior a nove lugares, incluindo o do condutor;
+a) Ligeiros - veículos com peso bruto igual ou inferior a 3500 kg e com lotação não superior a nove lugares, incluindo o do condutor;
 
-b) Pesados: veículos com peso bruto superior a 3500 kg ou com lotação superior a nove lugares, incluindo o do condutor, e veículos tractores.
+b) Pesados - veículos com peso bruto superior a 3500 kg ou com lotação superior a nove lugares, incluindo o do condutor.
 
 2 - Os automóveis ligeiros ou pesados incluem-se, segundo a sua utilização, nos seguintes tipos:
 
-a) De passageiros: os veículos que se destinam ao transporte de pessoas;
+a) De passageiros - os veículos que se destinam ao transporte de pessoas;
 
-b) De mercadorias: os veículos que se destinam ao transporte de carga;
+b) De mercadorias - os veículos que se destinam ao transporte de carga.
 
-c) Mistos: os veículos que se destinam ao transporte, alternado ou simultâneo, de pessoas e carga;
+3 - Os automóveis de passageiros e de mercadorias que se destinam ao desempenho de função diferente do normal transporte de passageiros ou de mercadorias são considerados especiais, tomando a designação a fixar em regulamento, de acordo com o fim a que se destinam.
 
-d) Tractores: os veículos construídos para desenvolver um esforço de tracção, sem comportar carga útil;
-
-e) Especiais: os veículos destinados ao desempenho de uma função específica, diferente do transporte normal de passageiros ou carga.
-
-3 - As categorias de veículos para efeitos de aprovação de modelo são fixadas em regulamento.
+4 - As categorias de veículos para efeitos de aprovação de modelo são fixadas em regulamento.

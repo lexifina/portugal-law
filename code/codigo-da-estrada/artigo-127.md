@@ -2,7 +2,7 @@
 
 ### Restrições ao exercício da condução
 
-1 - Só podem conduzir automóveis das categorias D e D + E e ainda da categoria C + E cujo peso bruto exceda 20000 kg os condutores de idade até 65 anos.
+1 - Só podem conduzir automóveis das categorias D e D + E, das subcategorias D1 e D1 + E e ainda da categoria C + E cujo peso bruto exceda 20000 kg os condutores até aos 65 anos de idade.
 
 2 - Só pode conduzir motociclos de potência superior a 25 kW e com uma relação potência/peso superior a 0,16 kW/kg, ou, se tiver carro lateral, com uma relação potência/peso superior a 0,16 kW/kg, quem:
 
@@ -10,10 +10,10 @@ a) Esteja habilitado, há pelo menos dois anos, a conduzir veículos da categori
 
 b) Seja maior de 21 anos e tenha sido aprovado em prova prática realizada em motociclo sem carro lateral e de potência igual ou superior a 35 kW.
 
-3 - Podem ser impostas aos condutores, em resultado de exame médico ou psicológico, restrições ao exercício da condução, prazos especiais para revalidação dos títulos ou adaptações específicas ao veículo que conduzam, as quais devem ser sempre mencionadas no respectivo título.
+3 - Podem ser impostas aos condutores, em resultado de exame médico ou psicológico, restrições ao exercício da condução, prazos especiais para revalidação dos títulos ou adaptações específicas ao veículo que conduzam, as quais devem ser sempre mencionadas no respectivo título, bem como adequada simbologia no veículo, a definir em regulamento.
 
-4 - Quem conduzir veículo sem observar as restrições que lhe tenham sido impostas é sancionado com coima de (euro) 60 a (euro) 300, se sanção mais grave não estiver prevista para a infracção praticada.
+4 - Quem conduzir veículo sem observar as restrições que lhe tenham sido impostas é sancionado com coima de (euro) 120 a (euro) 600, se sanção mais grave não for aplicável.
 
-5 - Quem conduzir veículo sem as adaptações específicas que tenham sido impostas nos termos do n.º 3 é sancionado com coima de (euro) 60 a (euro) 300.
+5 - Quem conduzir veículo sem as adaptações específicas que tenham sido impostas nos termos do n.º 3 é sancionado com coima de (euro) 120 a (euro) 600.
 
-6 - Quem infringir o disposto nos n.os 1 e 2 é sancionado com coima de (euro) 150 a (euro) 750.
+6 - Quem infringir o disposto nos n.os 1 e 2 é sancionado com coima de (euro) 250 a (euro) 1250.

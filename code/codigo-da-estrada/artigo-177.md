@@ -1,5 +1,7 @@
 # Artigo 177.º
 
-### Usufruto, locação financeira e reserva de propriedade
+### Testemunhas
 
-(Revogado pelo DL n.º 265-A/2001, de 28 de Setembro)
+1 - As testemunhas, peritos ou consultores técnicos indicados pelo arguido na defesa devem por ele ser apresentados na data, hora e local indicados pela entidade instrutora do processo.
+
+2 - Exceptuam-se do disposto no número anterior os peritos dos estabelecimentos, laboratórios ou serviços oficiais, bem como os agentes de autoridade, ainda que arrolados pelo arguido, que devem ser notificados pela autoridade administrativa.

@@ -1,19 +1,27 @@
+## TÍTULO VII
+
+## Procedimentos de fiscalização
+
+## CAPÍTULO I
+
+## Procedimento para a fiscalização da condução sob influência de álcool ou de substâncias psicotrópicas
+
 # Artigo 152.º
 
-### Da responsabilidade
+### Princípios gerais
 
-1 - Quando o agente de autoridade não puder identificar o autor da contra-ordenação, a responsabilidade recai sobre quem for proprietário, adquirente com reserva de propriedade, usufrutuário, locatário em regime de locação financeira, locatário por prazo superior a um ano ou sobre quem, em virtude de facto sujeito a registo, for possuidor do veículo, sendo instaurado contra ele o correspondente processo.
+1 - Devem submeter-se às provas estabelecidas para a detecção dos estados de influenciado pelo álcool ou por substâncias psicotrópicas:
 
-2 - Se, no prazo concedido para a defesa, for devidamente identificada como autora da contra-ordenação pessoa distinta das mencionadas no número anterior, o processo será suspenso, sendo instaurado novo processo contra a pessoa identificada como infractora.
+a) Os condutores;
 
-3 - O processo referido no n.º 1 será arquivado se for provada a utilização abusiva do veículo ou se se vier a determinar, nos termos do número anterior, que outra pessoa praticou a contra-ordenação.
+b) Os peões, sempre que sejam intervenientes em acidentes de trânsito;
 
-4 - Se a responsabilidade for imputada a pessoa singular não habilitada com título de condução ou a pessoa colectiva, a sanção de inibição de conduzir é substituída por apreensão do veículo, por período idêntico de tempo que àquela caberia.
+c) As pessoas que se propuserem iniciar a condução.
 
-5 - As pessoas referidas no n.º 1 respondem subsidiariamente pelo pagamento das coimas e das custas que forem devidas pelo autor da contra-ordenação, sem prejuízo do direito de regresso contra este.
+2 - Quem praticar actos susceptíveis de falsear os resultados dos exames a que seja sujeito não pode prevalecer-se daqueles para efeitos de prova.
 
-6 - O disposto nos n.os 4 e 5 não se aplica quando haja utilização abusiva do veículo.
+3 - As pessoas referidas nas alíneas a) e b) do n.º 1 que recusem submeter-se às provas estabelecidas para a detecção do estado de influenciado pelo álcool ou por substâncias psicotrópicas são punidas por crime de desobediência.
 
-7 - Se o proprietário não for possuidor do veículo ou se o tiver locado, deve proceder à identificação do possuidor ou do locatário, no prazo de 20 dias após ter sido notificado para o efeito.
+4 - As pessoas referidas na alínea c) do n.º 1 que recusem submeter-se às provas estabelecidas para a detecção do estado de influenciado pelo álcool ou por substâncias psicotrópicas são impedidas de iniciar a condução.
 
-8 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 360 a (euro) 1800.
+5 - O médico ou paramédico que, sem justa causa, se recusar a proceder às diligências previstas na lei para diagnosticar o estado de influenciado pelo álcool ou por substâncias psicotrópicas é punido por crime de desobediência.

@@ -1,7 +1,5 @@
 # Artigo 137.º
 
-### Classificação das contra-ordenações
+### Coima
 
-1 - As contra-ordenações previstas neste Código e legislação complementar classificam-se em leves, graves e muito graves.
-
-2 - São contra-ordenações leves as que não forem classificadas como graves ou muito graves.
+As coimas aplicadas por contra-ordenações rodoviárias não estão sujeitas a qualquer adicional e do seu produto não pode atribuir-se qualquer percentagem aos agentes autuantes.

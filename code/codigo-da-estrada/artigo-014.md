@@ -6,4 +6,6 @@
 
 2 - Dentro das localidades, os condutores devem utilizar a via de trânsito mais conveniente ao seu destino, só lhes sendo permitida a mudança para outra, depois de tomadas as devidas precauções, a fim de mudar de direcção, ultrapassar, parar ou estacionar.
 
-3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300.
+3 - Ao trânsito em rotundas, situadas dentro e fora das localidades, é também aplicável o disposto no número anterior, salvo no que se refere à paragem e estacionamento.
+
+4 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300.

@@ -1,17 +1,11 @@
 # Artigo 154.º
 
-### Infractores não domiciliados em Portugal ou com coimas em dívida
+### Impedimento de conduzir
 
-1 - Se o infractor não for domiciliado em Portugal ou, sendo-o, não tiver cumprido as sanções pecuniárias que anteriormente lhe foram aplicadas e não pretender efectuar o pagamento voluntário imediato, deve proceder ao depósito de quantia igual ao valor máximo da coima prevista para a contra-ordenação praticada.
+1 - Quem apresentar resultado positivo no exame previsto no n.º 1 do artigo anterior ou recusar ou não puder submeter-se a tal exame, fica impedido de conduzir pelo período de doze horas, a menos que comprove, antes de decorrido esse período, que não está influenciado pelo álcool, através de exame por si requerido.
 
-2 - O infractor que não tiver cumprido as sanções pecuniárias que anteriormente lhe foram aplicadas deve ainda proceder, de imediato, ao seu pagamento.
+2 - Quem conduzir com inobservância do impedimento referido no número anterior é punido por crime de desobediência qualificada.
 
-3 - O depósito referido no n.º 1 destina-se a garantir o pagamento da coima em que o infractor possa vir a ser condenado, bem como das despesas legais a que houver lugar.
+3 - O agente de autoridade notifica o condutor ou a pessoa que se propuser iniciar a condução nas circunstâncias previstas no n.º 1 de que fica impedido de conduzir durante o período estabelecido no mesmo número, sob pena de crime de desobediência qualificada.
 
-4 - Se o infractor declarar que pretende pagar a coima correspondente à contra-ordenação praticada e às que estão em dívida ou efectuar o respectivo depósito e não puder fazê-lo no acto da verificação da contra-ordenação, devem ser apreendidos o título de condução, o documento de identificação do veículo e o título de registo de propriedade até à efectivação do pagamento ou do depósito.
-
-5 - No caso previsto no número anterior devem ser emitidas guias de substituição dos documentos apreendidos com validade até ao 1.º dia útil posterior ao dia da infracção.
-
-6 - A falta de pagamento ou do depósito nos termos dos números anteriores implica a apreensão do veículo, que se mantém até ao pagamento ou depósito ou à decisão absolutória.
-
-7 - O veículo apreendido responde nos mesmos termos que o depósito pelo pagamento das quantias devidas.
+4 - As despesas originadas pelo exame a que se refere a parte final do n.º 1 são suportadas pelo examinando, salvo se resultarem de contraprova com resultado negativo requerida ao abrigo do n.º 2 do artigo anterior.

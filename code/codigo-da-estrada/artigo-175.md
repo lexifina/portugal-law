@@ -1,11 +1,23 @@
 # Artigo 175.º
 
-### Pessoas a notificar
+### Comunicação da infracção
 
-1 - Existindo sobre o veículo um direito de usufruto, a notificação referida nos artigos 171.º e 172.º deve ser feita ao usufrutuário, aplicando-se ao proprietário, com as necessárias adaptações, o disposto no artigo 173.º
+1 - Após o levantamento do auto, o arguido deve ser notificado:
 
-2 - Em caso de locação financeira ou de locação por prazo superior a um ano, a notificação referida nos artigos 171.º e 172.º deve ser feita ao locatário, aplicando-se ao locador, com as necessárias adaptações, o disposto no artigo 173.º
+a) Dos factos constitutivos da infracção;
 
-3 - Tendo o veículo sido vendido com reserva de propriedade e mantendo-se esta, a notificação referida nos artigos 171.º e 172.º deve ser feita ao adquirente, aplicando-se ao proprietário, com as necessárias adaptações, o disposto no artigo 173.º
+b) Da legislação infringida e da que sanciona os factos;
 
-4 - Nos casos em que, em virtude de facto sujeito a registo, haja posse do veículo, a notificação deve ser feita à pessoa que tiver a qualidade de possuidor, aplicando-se ao proprietário, com as necessárias adaptações, o disposto no artigo 173.º
+c) Das sanções aplicáveis;
+
+d) Do prazo concedido e do local para a apresentação da defesa;
+
+e) Da possibilidade de pagamento voluntário da coima pelo mínimo, do prazo e do modo de o efectuar, bem como das consequências do não pagamento;
+
+f) Do prazo para identificação do autor da infracção, nos termos e com os efeitos previstos nos n.os 3 e 5 do artigo 171.º
+
+2 - O arguido pode, no prazo de 15 dias úteis, a contar da notificação, apresentar a sua defesa, por escrito, com a indicação de testemunhas, até ao limite de três, e de outros meios de prova, ou proceder ao pagamento voluntário, nos termos e com os efeitos estabelecidos no artigo 172.º
+
+3 - No mesmo prazo o arguido pode ainda requerer a atenuação especial ou a suspensão da execução da sanção acessória.
+
+4 - O pagamento voluntário da coima não impede o arguido de apresentar a sua defesa, restrita à gravidade da infracção e à sanção acessória aplicável.

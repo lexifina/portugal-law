@@ -8,4 +8,4 @@
 
 1 - A ultrapassagem deve efectuar-se pela esquerda.
 
-2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 120 a (euro) 600.
+2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 250 a (euro) 1250.

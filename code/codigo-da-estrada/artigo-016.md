@@ -1,13 +1,9 @@
 # Artigo 16.º
 
-### Cruzamentos, entroncamentos e rotundas
+### Placas, postes, ilhéus e dispositivos semelhantes
 
-1 - Nos cruzamentos, entroncamentos e rotundas o trânsito faz-se por forma a dar a esquerda à parte central dos mesmos ou às placas, postes ou dispositivos semelhantes neles existentes, desde que se encontrem no eixo da via de que procedem os veículos.
+1 - Nos cruzamentos, entroncamentos e rotundas o trânsito faz-se por forma a dar a esquerda à parte central dos mesmos ou às placas, postes, ilhéus direccionais ou dispositivos semelhantes existentes, desde que se encontrem no eixo da faixa de rodagem de que procedem os veículos.
 
-2 - Exceptuam-se ao disposto no número anterior:
+2 - Quando na faixa de rodagem exista algum dos dispositivos referidos no n.º 1, o trânsito, sem prejuízo do disposto nos artigos 13.º e 14.º, faz-se por forma a dar-lhes a esquerda, salvo se se encontrarem numa via de sentido único ou na parte da faixa de rodagem afecta a um só sentido, casos em que o trânsito se pode fazer pela esquerda ou pela direita, conforme for mais conveniente.
 
-a) Os casos em que haja sinalização em contrário;
-
-b) Os casos em que as placas situadas no eixo da via tenham forma triangular.
-
-3 - Quem infringir o disposto no n.º 1 e alínea b) do n.º 2 é sancionado com coima de (euro) 60 a (euro) 300.
+3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300.

@@ -10,6 +10,6 @@
 
 4 - Os peões só podem utilizar as pistas referidas no número anterior quando não existam locais que lhes sejam especialmente destinados.
 
-5 - Quem infringir o disposto nos n.os 1 a 3 é sancionado com coima de (euro) 30 a (euro) 150.
+5 - As pessoas que transitam usando patins, trotinetas ou outros meios de circulação análogos devem utilizar as pistas referidas no n.º 3, sempre que existam.
 
-6 - Quem infringir o disposto no n.º 4 é sancionado com coima de (euro) 6 a (euro) 30.
+6 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 30 a (euro) 150, salvo se se tratar do n.º 4, caso em que a coima é de (euro) 10 a (euro) 50.

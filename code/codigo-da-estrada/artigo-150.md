@@ -1,15 +1,11 @@
 ## CAPÍTULO III
 
-## Disposições processuais
-
-## SECÇÃO I
-
-## Regras do processo
+## Garantia da responsabilidade civil
 
 # Artigo 150.º
 
-### Legislação aplicável
+### Obrigação de seguro
 
-1 - Às contra-ordenações previstas neste Código e legislação complementar são aplicáveis as normas gerais que regulam o processo das contra-ordenações, com as adaptações constantes dos artigos seguintes.
+1 - Os veículos a motor e seus reboques só podem transitar na via pública desde que seja efectuado, nos termos de legislação especial, seguro da responsabilidade civil que possa resultar da sua utilização.
 
-2 - Se o mesmo facto constituir simultaneamente crime e contra-ordenação, a aplicação da sanção acessória, nos termos do n.º 1 do artigo 136.º, é da competência do tribunal competente para o julgamento do crime.
+2 - Quem infringir o disposto no n.º 1 é sancionado com coima de (euro) 500 a (euro) 2500, se o veículo for um motociclo ou um automóvel, ou de (euro) 250 a (euro) 1250, se for outro veículo a motor.

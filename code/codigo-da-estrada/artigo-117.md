@@ -6,7 +6,7 @@
 
 ### Obrigatoriedade de matrícula
 
-1 - Os veículos a motor e os seus reboques só são admitidos em circulação desde que sujeitos a matrícula donde constem as características que permitam identificá-los.
+1 - Os veículos a motor e os seus reboques só são admitidos em circulação desde que matriculados, salvo o disposto nos n.os 2 e 3.
 
 2 - Exceptuam-se do disposto no número anterior os veículos que se desloquem sobre carris e os reboques cujo peso bruto não exceda 300 kg.
 
@@ -16,6 +16,8 @@
 
 5 - Os veículos a motor e os reboques que devam ser apresentados a despacho nas alfândegas pelas entidades que se dediquem à sua admissão, importação, montagem ou fabrico podem delas sair com dispensa de matrícula, nas condições fixadas em diploma próprio.
 
-6 - As características da matrícula são fixadas em regulamento.
+6 - O processo de atribuição e a composição do número de matrícula, bem como as características da respectiva chapa, são fixados em regulamento.
 
-7 - Quem puser em circulação veículo não matriculado nos termos dos números anteriores é sancionado com coima de (euro) 600 a (euro) 3000, salvo quando se tratar de ciclomotor, tractocarro, tractor ou reboque agrícola ou florestal, em que a coima é de (euro) 300 a (euro) 1500.
+7 - A entidade competente deve organizar, nos termos fixados em regulamento, um registo nacional de matrículas.
+
+8 - Quem puser em circulação veículo não matrículado nos termos dos números anteriores é sancionado com coima de (euro) 600 a (euro) 3000, salvo quando se tratar de ciclomotor ou veículo agrícola, casos em que a coima é de (euro) 300 a (euro) 1500.

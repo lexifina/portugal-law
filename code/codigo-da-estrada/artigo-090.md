@@ -24,4 +24,4 @@ e) Seguir a par, salvo se transitarem em pista especial e não causarem perigo o
 
 2 - Os condutores de velocípedes devem transitar o mais próximo possível das bermas ou passeios, mesmo nos casos em que, no mesmo sentido de trânsito, sejam possíveis duas ou mais filas.
 
-3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 30 a (euro) 150.
+3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300, salvo se se tratar de condutor de velocípede, caso em que a coima é de (euro) 30 a (euro) 150.

@@ -6,8 +6,8 @@
 
 2 - O atravessamento da faixa de rodagem deve fazer-se o mais rapidamente possível.
 
-3 - Os peões só podem atravessar a faixa de rodagem nas passagens especialmente sinalizadas para esse efeito ou, quando nenhuma exista a uma distância inferior a 50 m, perpendicularmente ao eixo da via.
+3 - Os peões só podem atravessar a faixa de rodagem nas passagens especialmente sinalizadas para esse efeito ou, quando nenhuma exista a uma distância inferior a 50 m, perpendicularmente ao eixo da faixa de rodagem.
 
 4 - Os peões não devem parar na faixa de rodagem ou utilizar os passeios de modo a prejudicar ou perturbar o trânsito.
 
-5 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 6 a (euro) 30.
+5 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 10 a (euro) 50.

@@ -12,7 +12,7 @@
 
 3 - A entrada de gado na via pública deve ser devidamente assinalada pelo respectivo condutor e fazer-se por caminhos ou serventias a esse fim destinados.
 
-4 - Sempre que, nos termos do artigo 59.º, seja obrigatória a utilização de dispositivos de sinalização luminosa, os condutores de veículos de tracção animal ou de animais em grupo devem utilizar uma lanterna de luz branca, visível em ambos os sentidos de trânsito.
+4 - Sempre que, nos termos do artigo 61.º, seja obrigatória a utilização de dispositivos de sinalização luminosa, os condutores de veículos de tracção animal ou de animais em grupo devem utilizar uma lanterna de luz branca, visível em ambos os sentidos de trânsito.
 
 5 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 30 a (euro) 150.
 

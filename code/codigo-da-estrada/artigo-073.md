@@ -8,4 +8,4 @@
 
 3 - O condutor que pretender sair de uma auto-estrada deve ocupar com a necessária antecedência a via de trânsito mais à direita e, se existir via de abrandamento, entrar nela logo que possível.
 
-4 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 240 a (euro) 1200.
+4 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 250 a (euro) 1250.

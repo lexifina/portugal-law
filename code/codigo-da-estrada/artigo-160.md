@@ -1,11 +1,17 @@
 # Artigo 160.º
 
-### Impedimento de conduzir
+### Outros casos de apreensão de títulos de condução
 
-1 - Quem apresentar resultado positivo no exame previsto no n.º 1 do artigo anterior ou recusar ou não puder submeter-se a tal exame, fica impedido de conduzir pelo período de doze horas, a menos que comprove, antes de decorrido esse período, que não está influenciado pelo álcool, através de exame por si requerido.
+1 - Os títulos de condução devem ser apreendidos para cumprimento da cassação do título, proibição ou inibição de conduzir.
 
-2 - Quem conduzir com inobservância do impedimento referido no número anterior é punido por desobediência qualificada.
+2 - A entidade competente deve ainda determinar a apreensão dos títulos de condução quando:
 
-3 - O agente de autoridade notifica o condutor, o peão ou a pessoa que se propuser iniciar a condução nas circunstâncias previstas no n.º 1 de que ficam impedidos de conduzir durante o período estabelecido no mesmo número, sob pena de desobediência qualificada.
+a) Qualquer dos exames realizados nos termos dos n.os 1 e 5 do artigo 129.º revelar incapacidade técnica ou inaptidão física, mental ou psicológica do examinando para conduzir com segurança;
 
-4 - As despesas originadas pelo exame a que se refere a parte final do n.º 1 são suportadas pelo examinando, salvo se resultarem de contraprova com resultado negativo requerida ao abrigo do n.º 2 do artigo anterior.
+b) O condutor não se apresentar a qualquer dos exames referidos na alínea anterior ou no n.º 3 do artigo 129.º, salvo se justificar a falta no prazo de cinco dias;
+
+c) Tenha caducado nos termos dos n.os 1 e 2 do artigo 130.º
+
+3 - Quando haja lugar à apreensão do título de condução, o condutor é notificado para, no prazo de 15 dias úteis, o entregar à entidade competente, sob pena de crime de desobediência, devendo, nos casos previstos no n.º 1, esta notificação ser efectuada com a notificação da decisão.
+
+4 - Sem prejuízo da punição por crime de desobediência, se o condutor não proceder à entrega do título de condução nos termos do número anterior, pode a entidade competente determinar a sua apreensão, através da autoridade de fiscalização e seus agentes.

@@ -4,7 +4,7 @@
 
 1 - Reboque é o veículo destinado a transitar atrelado a um veículo a motor.
 
-2 - Semi-reboque é o veículo destinado a transitar atrelado a um veículo a motor, assentando a parte da frente e distribuindo o peso sobre este.
+2 - Semi-reboque é o reboque cuja parte da frente assenta sobre o veículo a motor, distribuindo o peso sobre este.
 
 3 - Os veículos referidos nos números anteriores tomam a designação de reboque ou semi-reboque agrícola ou florestal quando se destinam a ser atrelados a um tractor agrícola ou a um motocultivador.
 

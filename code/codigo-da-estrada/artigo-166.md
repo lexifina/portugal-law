@@ -1,17 +1,11 @@
 # Artigo 166.º
 
-### Outros casos de apreensão de títulos de condução
+### Reclamação de veículos
 
-1 - Os títulos de condução devem ser apreendidos para cumprimento da cassação do título, proibição ou inibição de conduzir.
+1 - Da notificação referida no artigo anterior deve constar a indicação do local para onde o veículo foi removido e, bem assim, que o titular do respectivo documento de identificação o deve retirar dentro dos prazos referidos no artigo anterior e após o pagamento das despesas de remoção e depósito, sob pena de o veículo se considerar abandonado.
 
-2 - A entidade competente deve ainda determinar a apreensão dos títulos de condução quando:
+2 - Nos casos previstos na alínea f) do n.º 1 do artigo 163.º, se o veículo apresentar sinais evidentes de acidente, a notificação deve fazer-se pessoalmente, salvo se o titular do respectivo documento de identificação não estiver em condições de a receber, sendo então feita em qualquer pessoa da sua residência, preferindo os parentes.
 
-a) Qualquer dos exames realizados nos termos dos n.os 1 e 3 do artigo 129.º revelar incapacidade técnica ou inaptidão física, mental ou psicológica do examinando para conduzir com segurança;
+3 - Não sendo possível proceder à notificação pessoal por se ignorar a residência ou a identidade do titular do documento de identificação do veículo, a notificação deve ser afixada junto da sua última residência conhecida ou na câmara municipal da área onde o veículo tiver sido encontrado.
 
-b) O condutor não se apresentar a qualquer dos exames referidos na alínea anterior ou no n.º 3 do artigo 148.º, salvo se justificar a falta no prazo de cinco dias;
-
-c) Tenha caducado nos termos do n.º 1 do artigo 130.º
-
-3 - Nos casos previstos nos números anteriores, o condutor é notificado para, no prazo de 20 dias, entregar o título de condução à entidade competente, sob pena de desobediência.
-
-4 - Sem prejuízo da punição por desobediência, se o condutor não proceder à entrega do título de condução nos termos do número anterior, pode a entidade competente determinar a sua apreensão, através da autoridade de fiscalização e seus agentes.
+4 - A entrega do veículo ao reclamante depende da prestação de caução de valor equivalente às despesas de remoção e depósito.

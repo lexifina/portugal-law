@@ -1,7 +1,9 @@
 # Artigo 136.º
 
-### Concurso de infracções
+### Classificação das contra-ordenações rodoviárias
 
-1 - Se o mesmo facto constituir simultaneamente crime e contra-ordenação, o agente é punido sempre a título de crime sem prejuízo da aplicação da sanção acessória prevista para a contra-ordenação.
+1 - As contra-ordenações rodoviárias, nomeadamente as previstas no Código da Estrada e legislação complementar, classificam-se em leves, graves e muito graves, nos termos dos respectivos diplomas legais.
 
-2 - As sanções aplicadas às contra-ordenações em concurso são sempre cumuladas materialmente.
+2 - São contra-ordenações leves as sancionáveis apenas com coima.
+
+3 - São contra-ordenações graves ou muito graves as que forem sancionáveis com coima e com sanção acessória.

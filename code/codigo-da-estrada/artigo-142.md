@@ -1,21 +1,11 @@
 # Artigo 142.º
 
-### Suspensão da execução da sanção de inibição de conduzir
+### Revogação da suspensão da execução da sanção acessória
 
-1 - Pode ser suspensa a execução da sanção de inibição de conduzir no caso de se verificarem os pressupostos de que a lei penal geral faz depender a suspensão da execução das penas.
+1 - A suspensão da execução da sanção acessória é sempre revogada se, durante o respectivo período:
 
-2 - A suspensão da execução da sanção de inibição de conduzir pode ser condicionada, singular ou cumulativamente, ao cumprimento dos seguintes deveres:
+a) O infractor, no caso de inibição de conduzir, cometer contra-ordenação grave ou muito grave, praticar factos sancionados com proibição ou inibição de conduzir, não cumprir os deveres impostos nos termos do n.º 3 do artigo anterior ou for ordenada a cassação do título de condução;
 
-a) Prestação de caução de boa conduta;
+b) O infractor, tratando-se de outra sanção acessória, cometer nova contra-ordenação ao mesmo diploma legal ou seus regulamentos, também cominada com sanção acessória.
 
-b) Frequência de acções de formação;
-
-c) Cooperação em campanhas de prevenção rodoviária.
-
-3 - O período de suspensão é fixado entre seis meses e dois anos.
-
-4 - A caução de boa conduta é fixada entre (euro) 300 e (euro) 3000, tendo em conta a duração da inibição de conduzir e a situação económica do infractor.
-
-5 - Os encargos decorrentes da frequência de acções de formação são suportados pelo infractor.
-
-6 - A aplicação dos deveres previstos nas alíneas b) e c) do n.º 2 deve ter em conta a personalidade e as aptidões profissionais do infractor, não podendo prejudicar o exercício normal da sua actividade profissional nem representar obrigações cujo cumprimento não lhe seja razoavelmente exigível.
+2 - A revogação determina o cumprimento da sanção cuja execução estava suspensa e a quebra da caução, que reverte a favor da entidade que tiver determinado a suspensão.

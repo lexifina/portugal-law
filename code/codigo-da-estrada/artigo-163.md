@@ -1,19 +1,27 @@
+## CAPÍTULO III
+
+## Abandono, bloqueamento e remoção de veículos
+
 # Artigo 163.º
 
-### Fiscalização da condução sob influência de substâncias legalmente consideradas como estupefacientes ou psicotrópicas
+### Estacionamento indevido ou abusivo
 
-1 - Os condutores e as pessoas que se propuserem iniciar a condução devem ser submetidos aos exames legalmente estabelecidos para detecção de substâncias legalmente consideradas como estupefacientes ou psicotrópicas, quando haja indícios de que se encontram sob influência destas substâncias.
+1 - Considera-se estacionamento indevido ou abusivo:
 
-2 - Os condutores e os peões que intervenham em acidente de trânsito de que resultem mortos ou feridos graves devem ser submetidos aos exames referidos no número anterior.
+a) O de veículo, durante 30 dias ininterruptos, em local da via pública ou em parque ou zona de estacionamento isentos do pagamento de qualquer taxa;
 
-3 - O agente de autoridade notifica:
+b) O de veículo, em parque de estacionamento, quando as taxas correspondentes a cinco dias de utilização não tiverem sido pagas;
 
-a) Os condutores e os peões de que devem submeter-se aos exames necessários, sob pena de desobediência, e de que ficam impedidos de conduzir pelo período de quarenta e oito horas, salvo se, antes de decorrido aquele período, o exame laboratorial de rastreio apresentar resultado negativo;
+c) O de veículo, em zona de estacionamento condicionado ao pagamento de taxa, quando esta não tiver sido paga ou tiverem decorrido duas horas para além do período de tempo pago;
 
-b) As pessoas que se propuserem iniciar a condução nas circunstâncias previstas no n.º 1 de que são impedidas de conduzir pelo período de quarenta e oito horas, salvo se, antes de decorrido aquele período, se submeterem a exame laboratorial de rastreio que apresente resultado negativo.
+d) O de veículo que permanecer em local de estacionamento limitado mais de duas horas para além do período de tempo permitido;
 
-4 - O agente de autoridade providencia o transporte dos examinandos a estabelecimento oficial de saúde.
+e) O de veículos agrícolas, máquinas industriais, reboques e semi-reboques não atrelados ao veículo tractor e o de veículos publicitários que permaneçam no mesmo local por tempo superior a setenta e duas horas, ou a 30 dias, se estacionarem em parques a esse fim destinados;
 
-5 - Quando o exame laboratorial de rastreio realizado aos condutores e peões nos termos da alínea a) do n.º 3 apresentar resultado positivo, devem aqueles submeter-se aos exames complementares necessários, sob pena de desobediência.
+f) O que se verifique por tempo superior a quarenta e oito horas, quando se trate de veículos que apresentem sinais exteriores evidentes de abandono, de inutilização ou de impossibilidade de se deslocarem com segurança pelos seus próprios meios;
 
-6 - Para os efeitos previstos nos números anteriores aplica-se, com as necessárias adaptações, o disposto nos n.os 2, 3 e 4 do artigo 162.º
+g) O de veículos ostentando qualquer informação com vista à sua transacção, em parque de estacionamento;
+
+h) O de veículos sem chapa de matrícula ou com chapa que não permita a correcta leitura da matrícula.
+
+2 - Os prazos previstos nas alíneas a) e e) do número anterior não se interrompem, desde que os veículos sejam apenas deslocados de um para outro lugar de estacionamento, ou se mantenham no mesmo parque ou zona de estacionamento.

@@ -16,4 +16,6 @@
 
 1 - Todo o veículo ou animal que circule na via pública deve ter um condutor, salvo as excepções previstas neste Código.
 
-2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 30 a (euro) 150.
+2 - Os condutores devem, durante a condução, abster-se da prática de quaisquer actos que sejam susceptíveis de prejudicar o exercício da condução com segurança.
+
+3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300.

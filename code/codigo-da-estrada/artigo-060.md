@@ -1,29 +1,25 @@
 # Artigo 60.º
 
-### Espécies de luzes
+### Utilização de luzes
 
-1 - As espécies de luzes a utilizar pelos condutores são as seguintes:
+1 - Os dispositivos de iluminação a utilizar pelos condutores são os seguintes:
 
 a) Luz de estrada (máximos), destinada a iluminar a via para a frente do veículo numa distância não inferior a 100 m;
 
 b) Luz de cruzamento (médios), destinada a iluminar a via para a frente do veículo numa distância até 30 m;
 
-c) Luzes de presença, destinadas a assinalar a presença e a largura do veículo, quando visto de frente e da retaguarda, tomando as da frente a designação 'mínimos';
+c) Luz de nevoeiro da frente, destinada a melhorar a iluminação da estrada em caso de nevoeiro ou outras situações de visibilidade reduzida;
 
-d) Luz de mudança de direcção, destinada a indicar aos outros utentes a intenção de mudar de direcção;
+d) Luz de marcha atrás, destinada a iluminar a estrada para a retaguarda do veículo e avisar os outros utentes que o veículo faz ou vai fazer marcha atrás.
 
-e) Luzes de perigo, destinadas a assinalarem que o veículo representa um perigo especial para os outros utentes e constituídas pelo funcionamento simultâneo de todos os indicadores de mudança de direcção;
+2 - Os dispositivos de sinalização luminosa a utilizar pelos condutores são os seguintes:
 
-f) Luz de travagem, destinada a indicar aos outros utentes o accionamento do travão de serviço;
+a) Luzes de presença, destinadas a assinalar a presença e a largura do veículo, quando visto de frente e da retaguarda, tomando as da frente a designação «mínimos»;
 
-g) Luz de marcha atrás, destinada a iluminar a estrada para a retaguarda do veículo e avisar os outros utentes que o veículo faz ou vai fazer marcha atrás;
+b) Luz de mudança de direcção, destinada a indicar aos outros utentes a intenção de mudar de direcção;
 
-h) Luz da chapa de matrícula, destinada a iluminar a chapa de matrícula da retaguarda;
+c) Luzes avisadoras de perigo, destinadas a assinalar que o veículo representa um perigo especial para os outros utentes e constituídas pelo funcionamento simultâneo de todos os indicadores de mudança de direcção;
 
-i) Luz de nevoeiro, destinada a tornar mais visível o veículo em caso de nevoeiro intenso ou de outras situações de redução significativa de visibilidade.
+d) Luz de travagem, destinada a indicar aos outros utentes o accionamento do travão de serviço;
 
-2 - As características das espécies de luzes referidas no número anterior são fixadas em regulamento.
-
-3 - Em caso algum pode ser usada uma luz ou um reflector vermelho dirigidos para a frente ou, salvo a luz de marcha atrás e da chapa de matrícula, uma luz ou um reflector branco dirigidos para a retaguarda.
-
-4 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 60 a (euro) 300.
+e) Luz de nevoeiro da retaguarda, destinada a tornar mais visível o veículo em caso de nevoeiro intenso ou de outras situações de redução significativa de visibilidade.
