@@ -1,0 +1,27 @@
+# Acórdão do Tribunal da Relação de Coimbra de 1999-02-02, processo 1007/96
+
+**Acórdãos TRC:** Acórdão do Tribunal da Relação de Coimbra
+
+**Processo:** 1007/96
+
+**Nº Convencional:** JTRC/123
+
+**Relator:** TÁVORA VÍTOR
+
+**Descritores:** CONTRATO DE ABERTURA DE CRÉDITO; CONTA CORRENTE; DESCOBERTO DE CONTA
+
+**Data do Acordão:** 02/02/1999
+
+**Texto Integral:** N
+
+**Meio Processual:** APELAÇÃO
+
+**Legislação Nacional:** ARTIGO 344º DO CÓDIGO COMERCIAL.
+
+## Sumário
+
+I. O contrato de abertura de conta corrente é portador de uma regulamentação jurídica complexa assentando antes de mais nas cláusulas contratuais a que o cliente do Banco adere ao abrir a conta (contrato de adesão), relevando ainda particularmente no normal prossegui-mento das relações entre as partes os princípios da boa-fé (com os comportamentos conclu-dentes das partes e ainda o costume do sector cujo conhecimento se presume da parte dos sujeitos da relação jurídico-bancária.
+
+I. Conatural à abertura de conta na instituição bancária é a adopção de uma conta cor-rente que funciona como meio de escrituração dos movimentos, sendo fonte de informação do depositário sobre os movimentos a crédito e a débito, mas que se não confunde com o con-trato corrente a que alude o artº 344º do Código Comercial.
+
+II- Associado não raro ao contrato de abertura de crédito existe o "descoberto de conta" mediante o qual o banco perante o saldo negativo de certos clientes tolera por curtos períodos o descoberto com o fim de não perturbar o firo dos seus negócios. Esta situação decorre den-tro de uma situação de confiança que não confere direitos nem retira obrigações aos titulares da conta perante a entidade bancária.
