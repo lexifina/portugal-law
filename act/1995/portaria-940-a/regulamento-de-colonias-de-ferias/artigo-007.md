@@ -6,4 +6,4 @@
 
 2 - A confirmação da inscrição depende do pagamento da comparticipação.
 
-3 - No acto de pagamento deverão os beneficiários fazer a entrega de toda a documentação exigida nos termos do artigo seguinte, identificando também a pessoal ou pessoa responsáveis pelo acolhimento do inscrito à chegada.
+3 - No acto de pagamento deverão os beneficiários fazer a entrega de toda a documentação exigida nos termos do artigo seguinte, identificando também a pessoa ou pessoas responsáveis pelo acolhimento do inscrito à chegada.
