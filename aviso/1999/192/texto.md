@@ -1,0 +1,5 @@
+Aviso n.º 192/99
+Por ordem superior se torna público que, por nota de 7 de Outubro de 1999, o Secretário-Geral das Nações Unidas, na sua qualidade de depositário da Convenção sobre o Trânsito Rodoviário, feita em Genebra em 19 de Setembro de 1949, comunicou ter o Governo de Portugal notificado, em 24 de Setembro de 1999, que a referida Convenção é aplicável ao território de Macau. Comunicou ainda que a Convenção entrou em vigor para Macau em 24 de Outubro de 1999.
+A Convenção foi aprovada, para adesão, pelo Decreto-Lei n.º 39904, de 13 de Novembro de 1954, publicado no Diário do Governo, 1.ª série, n.º 254, de 13 de Novembro de 1954, e foi estendida a Macau pela publicação da Portaria n.º 16842, de 22 de Agosto de 1958, publicada no Diário do Governo, 1.ª série, n.º 181, de 22 de Agosto de 1958. O decreto-lei e a portaria foram publicados no Boletim Oficial de Macau, n.º 37, de 13 de Setembro de 1958.
+Para ser publicado no Boletim Oficial de Macau.
+Comissão Interministerial sobre Macau, 27 de Outubro de 1999. - António Nunes de Carvalho Santana Carlos.
