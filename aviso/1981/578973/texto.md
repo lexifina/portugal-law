@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que em 8 de Dezembro de 1980 o Governo do Peru notificou ao Secretário-Geral das Nações Unidas, em conformidade com a secção B (2) do artigo 1.º da Convenção Relativa ao Estatuto dos Refugiados, assinada em Genebra em 28 de Julho de 1951, de que aquele Governo é parte, que, para fins das suas obrigações decorrentes da Convenção, as palavras «acontecimentos a ocorrerem antes de 1 de Janeiro de 1951», no artigo 1.º secção A, deverão ser entendidas como significando «acontecimentos a ocorrerem na Europa ou noutras terras antes de 1 de Janeiro de 1951».
+Direcção-Geral dos Negócios Políticos, 20 de Maio de 1981. - O Director-Geral-Adjunto dos Negócios Políticos, José Gregório Faria.
