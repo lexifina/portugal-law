@@ -1,0 +1,15 @@
+Portaria n.º 156/90
+de 23 de Fevereiro
+Pela Portaria n.º 1065/89, de 12 de Dezembro, foram sujeitos ao regime cinegético especial vários prédios rústicos situados nas freguesias de Beirã e Santa Maria da Devesa, concelhos de Marvão e Castelo de Vide, perfazendo uma área de 1921,9750 ha, e concedida à Associação de Caçadores de Santo António das Areias (registo na Direcção-Geral das Florestas n.º 4.212.88) a exploração de uma zona de caça associativa (processo n.º 9 da Direcção-Geral das Florestas).
+Por não ter sido possível à Associação de Caçadores de Santo António das Areias chegar a acordo com o proprietário de um prédio rústico que se encontra no interior da zona concessionada, requereu a mesma, ao abrigo do disposto no artigo 28.º da Lei n.º 30/86, de 27 de Agosto, a agregação daquele prédio à zona de caça associativa, por impossibilidade de dar cumprimento ao determinado no artigo 21.º da mesma lei.
+Verificando-se que o prédio rústico em causa está nas condições definidas nos n.os 1 e 2 do artigo 28.º da Lei n.º 30/86, de 27 de Agosto:
+Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:
+1.º É rectificada a Portaria n.º 1065/89, de 12 de Dezembro, com a anexação do prédio rústico registado na Repartição de Finanças do Concelho de Castelo de Vide, freguesia de Santa Maria da Devesa, secção J, prédio n.º 4, com a designação de «Pego da Água Alta», com uma área de 12,6000 ha, que fica sujeito ao regime cinegético especial.
+2.º É rectificada a área desta concessão, que passa a ser de 1934,5750 ha.
+3.º Esta área, até 31 de Maio de 2001, é concessionada à Associação de Caçadores de Santo António das Areias.
+4.º A planta anexa à Portaria n.º 1065/89, de 12 de Dezembro, é substituída pela planta anexa a este diploma.
+Ministério da Agricultura, Pescas e Alimentação.
+Assinada em 6 de Fevereiro de 1990.
+Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
+
+(ver documento original)
