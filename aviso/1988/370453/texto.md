@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que foi concluído e rubricado em Camberra aos 20 de Dezembro de 1985 e assinado em Lisboa aos 21 de Abril de 1987 o Tratado de Extradição entre o Governo da República Portuguesa e o Governo da Austrália, que foi aprovado pela Resolução da Assembleia da República n.º 13/88, de 1 de Março, publicado no Diário da República, 1.ª série, de 4 de Junho de 1988, e ratificado pelo Decreto do Presidente da República n.º 58/88, de 22 de Julho.
+Trocados os instrumentos de ratificação em 29 de Julho de 1988 e de acordo com o artigo 19.º («Entrada em vigor e denúncia»), o Tratado de Extradição entre o Governo da República Portuguesa e o Governo da Austrália entrará em vigor em 29 de Agosto de 1988, ou seja, 30 dias após a troca daqueles instrumentos de ratificação.
+Secretaria-Geral do Ministério, 16 de Agosto de 1988. - Pelo Director do Serviço Jurídico e de Tratados, Vasco Luís Pereira Bramão Ramos.
