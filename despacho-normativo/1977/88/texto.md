@@ -1,0 +1,4 @@
+Despacho Normativo n.º 88/77
+Por despacho do Secretário de Estado do Tesouro de 8 de Novembro de 1976, publicado no Diário da República, 1.ª série, n.º 286, de 10 de Dezembro de 1976, foi determinado o congelamento dos bens pessoais de Vasco João Scazzola Taborda Ferreira, Helena Maria Correia de Sá Taborda Ferreira e António Macieira Coelho, como medida preventiva, atentas as conclusões do relatório apresentado pela comissão administrativa da Efico - Empresa de Iniciativas Financeiras e Promoção Económica, S. A. R. L.
+Tendo presente que até ao momento não foram propostas quaisquer acções de condenação visando os sujeitos passivos da mencionada medida, nem se mostra provável, a curto prazo, a propositura de procedimentos judiciais, determino o descongelamento dos bens das pessoas referidas no presente despacho.
+Ministério das Finanças, 25 de Março de 1977. - O Secretário de Estado do Tesouro, António Carlos Feio Palmeiro Ribeiro.
