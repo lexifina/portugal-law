@@ -1,0 +1,4 @@
+Resolução n.º 330/80
+O Conselho de Ministros, reunido em 4 de Setembro de 1980, resolveu nomear, em comissão de serviço, vogal do conselho de gerência da EPNC - Empresa Pública dos Jornais Notícias e Capital Rogério de Oliveira Gonçalves, em acumulação com as funções de vice-presidente do conselho de gerência da EPDP - Empresa Pública do Jornal Diário Popular, mas sem vencimento suplementar.
+Esta nomeação reveste-se de carácter interino, nos termos do artigo 7.º, n.º 3, da Lei n.º 78/77, de 25 de Outubro, flcando a sua confirmação dependente do parecer do Conselho de Informação para a Imprensa, bem como da audição das estruturas representativas dos trabalhadores da EPNC, nos termos legais.
+Presidência do Conselho de Ministros, 4 de Setembro de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
