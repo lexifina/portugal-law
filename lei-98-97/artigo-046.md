@@ -4,7 +4,7 @@
 
 1 - Devem ser remetidos ao Tribunal de Contas para efeitos de fiscalização prévia, nos termos do artigo 5.º, n.º 1, alínea c), os documentos que representem, titulem ou dêem execução aos actos e contratos seguintes:
 
-a) Todos os actos de que resulte aumento da dívida pública fundada dos serviços e fundos de Estado com autonomia administrativa e financeira, e das demais entidades referidas nas alíneas b) a e) do n.º 1 do artigo 2.º, bem como os actos que modifiquem as condições gerais de empréstimos visados;
+a) Todos os actos de que resulte o aumento da dívida pública fundada dos serviços e fundos do Estado e das Regiões Autónomas com autonomia administrativa e financeira, e das demais entidades referidas nas alíneas c) a e) do n.º 1 do artigo 2.º, bem como os actos que modifiquem as condições gerais de empréstimos visados;
 
 b) Os contratos reduzidos a escrito de obras públicas, aquisição de bens e serviços, bem como outras aquisições patrimoniais que impliquem despesa;
 
