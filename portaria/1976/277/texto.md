@@ -1,0 +1,4 @@
+Portaria n.º 277/76
+de 3 de Maio
+Manda o Governo da República Portuguesa, pelo Ministro da Agricultura e Pescas, tornar público que, nos termos do disposto no artigo 18.º, n.º 1, do Decreto-Lei n.º 40768, de 8 de Setembro de 1956, e nos artigos 1.º, alínea a), e 8.º do Decreto-Lei n.º 406-A/75, de 29 de Julho, foi declarado nulo e de nenhum efeito o acto de expropriação do prédio rústico inscrito na matriz rústica da freguesia e concelho de Grândola sob o artigo 40, da secção R, denominado «Herdade de Enxoto Tordos», pertencente a José Dias Nunes, por inexistência do seu objecto, declaração contida na Portaria n.º 66/76, de 3 de Fevereiro, deste Ministério, publicada no Diário do Governo, 1.ª série, n.º 28.
+Ministério da Agricultura e Pescas, 20 de Abril de 1976. - O Ministro da Agricultura e Pescas, António Poppe Lopes Cardoso.
