@@ -1,0 +1,8 @@
+Despacho Normativo n.º 42/85
+Considerando que a prática aconselha a repor determinadas disposições legais eliminadas por despachos normativos anteriores:
+Determino, ao abrigo do disposto no artigo único do Decreto n.º 17/76, de 14 de Janeiro, que seja eliminado o § único do artigo 245.º do Regulamento das Alfândegas, aprovado pelo Decreto n.º 31730, de 15 de Dezembro de 1941, e sejam introduzidos os §§ 1.º, 2.º e 3.º:
+Art. 245.º ...
+§ 1.º No caso de mercadorias tributadas ad valorem, deverá declarar-se, também por extenso e em algarismos, o valor fiscal das mercadorias, nos termos prescritos nas instruções preliminares das pautas, mencionando-se as quantidades e espécies das mercadorias incluídas em cada volume e o valor correspondente a cada uma dessas mercadorias.
+§ 2.º No caso de mercadorias destinadas a comércio e abrangidas pelo § 4.º do artigo 691.º, a declaração deverá conter também a designação comercial ou mais corrente das mercadorias, as suas qualidades e respectivas quantidades, marcas, números, cores ou outros sinais que possam servir para a sua identificação.
+§ 3.º A declaração referida no parágrafo anterior será feita em duplicado, em impresso próprio, ficando o original junto ao respectivo bilhete de despacho e, uma vez desembaraçadas as mercadorias da acção fiscal, será restituído ao importador o duplicado, depois de o verificador ter aposto os números de ordem e de receita do bilhete, a data, a sua assinatura e o carimbo da estância aduaneira.
+Ministério das Finanças e do Plano, 17 de Maio de 1985. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento.
