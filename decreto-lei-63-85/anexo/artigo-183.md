@@ -1,5 +1,5 @@
 # Artigo 183.º
 
-### (Duração)
+### Duração
 
-A protecção do artista subsiste pelo período de quarenta anos, contados do primeiro dia do ano subsequente àquele em que ocorreu o facto gerador da protecção.
+A protecção do artista subsiste pelo período de 50 anos contados a partir do 1.º dia do ano subsequente àquele em que ocorreu o facto gerador da protecção.

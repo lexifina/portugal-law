@@ -4,7 +4,7 @@
 
 # Artigo 75.º
 
-### (Âmbito)
+### Âmbito
 
 São lícitas, sem o consentimento do autor, as seguintes utilizações da obra:
 
@@ -16,7 +16,7 @@ c) A fixação, reprodução e comunicação pública, por quaisquer meios, de c
 
 d) A reprodução, no todo ou em parte, pela fotografia ou processo análogo, de uma obra que tenha sido previamente tomada acessível ao público, desde que tal reprodução seja realizada por uma biblioteca pública, um centro de documentação não comercial ou uma instituição científica e que essa reprodução e o respectivo número de exemplares se não destinem ao público e se limitem às necessidades das actividades próprias dessas instituições;
 
-e) A reprodução parcial, pelos processos enumerados na alínea anterior, nos estabelecimentos de ensino, contanto que essa reprodução e respectivo número de exemplares se destinem exclusivamente aos fins do ensino nesses mesmos estabelecimentos;
+e) A reprodução parcial, pelos processos enumerados na alínea anterior, nos estabelecimentos de ensino, contanto que essa reprodução e o respectivo número de exemplares se destinem exclusivamente aos fins do ensino nesses estabelecimentos e não tenham fins lucrativos;
 
 f) A inserção de citações ou resumos de obras alheias, quaisquer que sejam o seu género e natureza, em apoio das próprias doutrinas ou com fins de crítica, discussão ou ensino;
 
