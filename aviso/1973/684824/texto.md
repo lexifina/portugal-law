@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação do Secretariado da Conferência do Direito Internacional Privado da Haia, a Convenção Destinada a Suprimir a Exigência da Legalização dos Actos Públicos Estrangeiros, assinada em 5 de Outubro de 1961, entrou em vigor em relação à Hungria no dia 18 de Janeiro de 1973.
+O Governo Húngaro, ao depositar o respectivo instrumento de adesão, indicou, nos termos do n.º 1 do artigo 3.º da Convenção, que a autoridade competente para efectuar a denominada «apostilha» é, quanto aos documentos públicos e legalizações feitas pelas entidades judiciárias, o Ministro da Justiça e, quanto aos documentos públicos e legalizações provenientes de autoridades não judiciárias, o Ministro dos Negócios Estrangeiros.
+Secretaria-Geral do Ministério, 3 de Fevereiro de 1973. - O Secretário-Geral, José Tomás Cabral Calvet de Magalhães.
