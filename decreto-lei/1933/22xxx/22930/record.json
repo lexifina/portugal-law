@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1933/07/17101/15031504.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1933-07-31",
-  "in_force_basis": "publication day in the Diário da República (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário da República",
+  "text_status": "ocr",
   "source_sha256": "09339d43f82d2d250da3e3761e1fa535adcac3ac99e1f4e677eb759b95c7be8d",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.3,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "1158d421e18b511afbaf1755990dc23ee8089facc81aee44e8d0655c014fbded",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 149
 }
