@@ -1,0 +1,32 @@
+Portaria n.º 18020
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
+1.º Nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933:
+a) Reforçar com a quantia de 23547$60 a verba do capítulo 10.º, artigo 254.º, n.º 6), alínea a) «Encargos gerais - Outros encargos - Parte com que concorre a província para despesas da Secretaria Internacional das Uniões Postal, Telegráfica e Radiotelegráfica, nos termos do Decreto n.º 16415, de 24 de Janeiro de 1929 - Encargos normais», da tabela de despesa ordinária do orçamento geral em vigor na província de S. Tomé e Príncipe, tomando como contrapartida as disponibilidades existentes na verba do mesmo capítulo, artigo 263.º «Saldo orçamental», da referida tabela de despesa;
+b) Reforçar com a quantia de 20000$00 a verba do capítulo 10.º, artigo 1400.º, n.º 39), alínea c) «Encargos gerais - Diversas despesas - Passagens a estudantes residentes no ultramar que se destinem a estudos oficiais na metrópole - Passagens de regresso», da tabela de despesa ordinária do orçamento geral em vigor na província de Angola, tomando como contrapartida as disponibilidades existentes na verba do capítulo 7.º, artigo 1256.º, n.º 2) «Serviços geográficos e cadastrais - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal contratado - Vencimentos», da mesma tabela de despesa.
+2.º Nos termos da alínea g) do artigo 11.º e do artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, abrir em Angola um crédito especial da importância de 124791$16, a inscrever em adicional à tabela de despesa ordinária do orçamento vigente, destinado a pagar a Adelino Custódio de Figueiredo, conforme sentença dos tribunais, a título de indemnização, a quantia de 33$33 por cada dia útil desde 15 de Dezembro de 1938 até 31 de Janeiro de 1941 e como pensão vitalícia a quantia de 15$00 diários desde 1 de Fevereiro de 1941, em virtude de acidente de que foi vítima quando trabalhava em obras do Estado no Posto Agrícola do Cavaco, tomando como contrapartida as seguintes disponibilidades existentes na mencionada tabela de despesa:
+CAPÍTULO 7.º
+Serviços de geologia e minas
+Artigo 1170.º, n.º 1) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 81791$16
+Serviço de aeronáutica civil
+Artigo 1317.º, n.º 3), alínea a) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal assalariado - Salários» ... 43000$00
+... 124791$16
+3.º Nos termos da alínea e) do artigo 3.º e do artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, abrir em Angola um crédito especial da quantia de 1800000$00 para reforçar com as importâncias que se indicam as seguintes verbas da tabela de despesa ordinária do orçamento geral vigente:
+CAPÍTULO 4.º
+Serviços de saúde e higiene
+Artigo 444.º, n.º 1) «Direcção dos Serviços - Diversos encargos - Encargos administrativos - Prémios aos dadores de sangue» ... 110000$00
+Artigo 448.º, n.º 1) «Hospitais de Luanda - Pagamento de serviços - Despesas de higiene, saúde e conforto - Dietas, combustíveis e utensílios de cozinha» ... 1000000$00
+Artigo 455.º, n.º 1) «Círculo sanitário de Luanda - Pagamento de serviços - Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 4000$00
+Artigo 465.º, n.º 1) «Distrito sanitário do Congo - Pagamento de serviços - Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 40000$00
+Artigo 470.º, n.º 1) «Distrito sanitário do Cuanza Norte - Pagamento de serviços - Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 20000$00
+Artigo 475.º, n.º 1) «Distrito sanitário do Cuanza Sul - Pagamento de serviços - Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 40000$00
+Artigo 490.º, n.º 1) «Círculo sanitário de Benguela - Pagamento de serviços - Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 300000$00
+Artigo 495.º, n.º 1) «Distrito sanitário de Huambo - Pagamento de serviços - Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 180000$00
+Artigo 500.º, n.º 1) «Círculo sanitário do Bié-Cuando Cubango - Pagamento de serviços - Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 12000$00
+Artigo 505.º, n.º 1) «Distrito sanitário do Moxico - Pagamento de serviços - Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 6000$00
+Artigo 510.º, n.º 1) «Distrito sanitário de Moçamedes - Pagamento de serviços - Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 20000$00
+Artigo 516.º, n.º 1) «Círculo sanitário da Huíla - Pagamento de serviços - Despesas de higiene, saúde e conforto - Dietas, combustível e utensílios de cozinha» ... 68000$00
+... 1800000$00
+tomando como contrapartida o excesso de cobrança sobre a previsão da receita da verba do capítulo 7.º, artigo 73.º «Reembolsos e reposições - Reembolsos, reposições e indemnizações à Fazenda Nacional não especificados», do orçamento geral para o corrente ano.
+Ministério do Ultramar, 26 de Outubro de 1960. - Pelo Ministro do Ultramar, Adriano José Alves Moreira, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de S. Tomé e Príncipe e Angola. - A. Moreira.
