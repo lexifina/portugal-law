@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público ter o Governo de Antígua e Barbuda declarado ao Ministério dos Negócios Estrangeiros do Reino dos Países Baixos que se considera ligado à Convenção Relativa à Citação e Notificação no Estrangeiro de Actos Judiciais e Extrajudiciais em Matéria Civil e Comercial, a qual já tinha sido declarada aplicável à Antígua em 20 de Maio de 1970 pelo Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte, de que Portugal já é parte.
+Secretaria-Geral do Ministério, 28 de Junho de 1985. - O Director dos Serviços Jurídicos e de Tratados, Francisco Manuel dos Reis Caldeira.
