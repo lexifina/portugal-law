@@ -1,0 +1,3 @@
+Resolução n.º 268/81
+O Conselho de Ministros para os Assuntos Económicos, reunida em 24 de Novembro de 1981, resolveu, ouvida a comissão de trabalhadores, nos termos do artigo 5.º dos Estatutos da SOCARMAR, E. P., aprovados pelo Decreto Regulamentar n.º 57/77, de 25 de Agosto, com a redacção dada pelo artigo único do Decreto Regulamentar n.º 46/81, de 8 de Outubro, nomear para vogal do conselho de gerência da empresa o comandante da marinha mercante Flávio Duarte de Torres Lino.
+Presidência do Conselho de Ministros, 24 de Novembro de 1981. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.
