@@ -1,0 +1,5 @@
+Despacho Normativo n.º 44/89
+Pelo Despacho Normativo n.º 49/88, de 4 de Julho, e no âmbito das atribuições cometidas à Direcção-Geral do Ordenamento do Território pelo artigo 30.º do Decreto-Lei n.º 130/86, de 7 de Junho, aprovei o regulamento do concurso para participação em equipamentos de utilização colectiva de natureza simples.
+Pelo n.º 1 do referido regulamento limita-se a admissibilidade das candidaturas à natureza simples dos trabalhos a comparticipar e ao seu custo, cujo montante será periodicamente actualizado, como dispõe o n.º 13.
+Com vista a dar maior flexibilidade ao programa, determino que possam ser aceites candidaturas que proponham trabalhos cujo custo exceda o valor fixado nos termos conjugados dos n.os 1 e 13 em percentagem não superior a 30% sem prejuízo de aquele valor se manter como limite para efeitos de cálculo da comparticipação.
+Ministério do Planeamento e da Administração do Território, 18 de Maio de 1989. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.
