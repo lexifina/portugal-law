@@ -1,0 +1,3 @@
+Aviso n.º 129/96
+Por ordem superior se torna público que foram trocados em Abidjan, em 20 de Maio de 1994, entre o embaixador Emmanuel Nouama, director do Departamento Europa do Ministério dos Negócios Estrangeiros da Costa do Marfim, e o embaixador de Portugal em Abidjan, Luís Nuno de Menezes Cordeiro, os instrumentos de ratificação do Acordo de Cooperação Económica, Técnica e Cultural entre a República Portuguesa e a República da Costa do Marfim, assinado em Abidjan em 24 de Julho de 1984 e aprovado pelo Decreto do Governo n.º 81/84, de 30 de Novembro.
+Instituto da Cooperação Portuguesa, 9 de Maio de 1996. - O Presidente, José Pacheco Luís Gomes.
