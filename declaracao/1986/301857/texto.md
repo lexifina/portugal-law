@@ -1,0 +1,4 @@
+Declaração
+Para os devidos efeitos se declara que a Resolução do Conselho de Ministros n.º 25/86, publicada no Diário da República, 1.ª série, n.º 55, de 7 de Março de 1986, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Onde se lê «Um representante do Ministério da Indústria e Comércio; um representante do Ministério das Obras Públicas, Transportes e Comunicações; um representante do Ministério do Trabalho e Segurança Social;» deve ler-se «Um representante do Ministério da Indústria e Comércio; um representante do Ministério da Educação e Cultura; um representante do Ministério das Obras Públicas, Transportes e Comunicações; um representante do Ministério da Saúde; um representante do Ministério do Trabalho e Segurança Social;».
+Secretaria-Geral da Presidência do Conselho de Ministros, 12 de Março de 1986. - O Secretário-Geral, França Martins.
