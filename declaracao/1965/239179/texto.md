@@ -1,0 +1,5 @@
+Declaração
+Declara-se, para os devidos efeitos, que, ao abrigo do artigo 1.º do Decreto n.º 45143, de 17 de Julho de 1963, e nos termos do disposto no n.º 12.º da Portaria n.º 20443, de 17 de Março 1964, S. Ex.ª o Ministro da Economia, por despacho de 13 do corrente mês, considerou aplicável ao bacalhau importado individualmente o disposto nos n.os 10.º e 11.º da Portaria n.º 19947, de 17 de Julho de 1963, nas condições seguintes:
+1.º O bacalhau importado individualmente por qualquer armazenista ou grupo de armazenistas deverá ser levantado no prazo de vinte dias, a contar da data em que a Comissão Reguladora do Comércio de Bacalhau tenha determinado a sua entrada no mercado.
+2.º A falta de cumprimento do disposto no número anterior implica para o armazenista ou grupo de armazenistas importadores faltosos a dedução das quantidades não levantadas na distribuição ou distribuições gremiais seguintes.
+Comissão de Coordenação Económica, 21 de Janeiro de 1965. - Pelo Presidente, Miguel Gonçalves.
