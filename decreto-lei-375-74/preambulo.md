@@ -1,7 +1,3 @@
-Decreto-Lei n.º 375/74
-
-de 20 de Agosto
-
 1. A reforma fiscal é tarefa prioritária do Governo Provisório.
 
 Exige-a o Programa do Movimento das Forças Armadas, hoje lei constitucional, ao determinar que sejam lançados os fundamentos de «uma nova política económica, posta ao serviço do povo português, em particular das camadas da população até agora mais desfavorecidas, tendo como preocupação imediata a luta contra a inflação e a alta excessiva do custo de vida, o que necessariamente implicará uma estratégia antimonopolista».

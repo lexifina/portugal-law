@@ -1,231 +1,163 @@
 # Parte
 
-### LISTA A
+### LISTA B
 
-Transacções isentas de imposto
+Transacções sujeitas à taxa de 25%
 
-1. Adubos.
+1. Aeronaves não abrangidas pela verba n.º 2 da lista A.
 
-2. Aeronaves destinadas a serviços públicos de transportes regulares de passageiros ou mercadorias e os lubrificantes e combustíveis utilizados nas mesmas aeronaves.
+2. Altifalantes e amplificadores de som.
 
-Esta isenção está sujeita ao condicionalismo previsto nos §§ 2.º a 5.º do artigo 5.º do Código.
+3. Antiguidades, raridades e objectos de colecção ou quaisquer mercadorias transaccionadas como tais.
 
-Compreendem-se nesta verba as partes, peças e acessórios, desde que sejam reconhecíveis como exclusiva ou principalmente destinados às referidas aeronaves e os correspondentes simuladores de voo.
+4. Aparelhos para aquecimento central.
 
-3. Água comum.
+5. Aparelhos de massagem, estética e outros aparelhos para tratamento de beleza.
 
-Não se compreende nesta verba a água comum transaccionada em garrafas, garrafões, botijas, frascos ou outros recipientes análogos.
+6. Aparelhos receptores para radiodifusão ou televisão, incluindo os receptores combinados com gramofones ou gira-discos.
 
-4. Algodão hidrófilo.
+Compreendem-se nesta verba as partes, peças e acessórios quando reconhecíveis como exclusiva ou principalmente a eles destinados.
 
-5. Almofadas, colchões e travesseiros com enchimento de palha ou folhelho.
+7. Aparelhos para registo e reprodução de som:
 
-6. Animais vivos exclusiva ou principalmente destinados à alimentação, ao trabalho agrícola ou à reprodução.
+a) Máquinas de ditar e outros aparelhos de gravação e reprodução de som, compreendendo os gira-discos e dispositivos semelhantes. Compreende as partes, peças, acessórios e respectivos estojos;
 
-7. Aparelhos e artefactos de prótese destinados a substituir, no todo ou em parte, qualquer membro ou órgão do corpo humano e ainda os empregados para corrigir a audição e os utilizados para tratamento de fracturas.
+b) Suportes de som para as máquinas e aparelhos abrangidos pela alínea anterior ou para usos análogos, tais como discos, cilindros, ceras, tiras, fitas e fios, preparados para gravação de som ou já gravados e respectivos álbuns.
 
-Compreendem-se nesta verba as partes, peças e acessórios dos aparelhos e artefactos nela referidos, desde que sejam reconhecíveis como exclusiva ou principalmente a eles destinados.
+8. Armas de qualquer natureza e munições, salvo as de guerra.
 
-8. Aparelhos ortopédicos, compreendendo o calçado, cintas médico-cirúrgicas e meias medicinais.
+Compreendem-se nesta verba, designadamente:
 
-Compreendem-se nesta verba as partes, peças e acessórios dos aparelhos nela referidos, desde que sejam reconhecíveis como exclusiva ou principalmente a eles destinados.
+a) Armas de fogo, de caça, de defesa, de recreio e de ornamentação;
 
-9. Bagaço de azeitona e de outras oleaginosas.
+b) Espingardas, carabinas e pistolas de mola, de ar comprimido ou de gás;
 
-10. Cadeiras de rodas e veículos semelhantes, accionados manualmente ou por motor, para inválidos.
+c) Partes, acessórios e peças separadas das referidas armas;
 
-Compreendem-se nesta verba as partes, peças e acessórios das cadeiras e veículos nela referidos, desde que sejam reconhecíveis como exclusiva ou principalmente a eles destinados, excluindo-se, porém, os protectores, pneumáticos e câmaras-de-ar.
+d) Projécteis e munições, respectivas partes e peças separadas, compreendendo nomeadamente, zagalotes, chumbo de caça, balas de chumbo, setas, buchas para cartuchos e cartuchos de qualquer espécie.
 
-11. Carvão mineral e vegetal, mesmo aglomerado, e coque.
+9. Artefactos total ou parcialmente de metais preciosos, com ou sem pérolas naturais ou de cultura, pedras preciosas naturais, sintéticas ou reconstituídas.
 
-12. Electricidade.
+Compreendem-se também nesta verba os artefactos só de prata, desde que contenham pérolas ou pedras preciosas.
 
-13. Embarcações de qualquer natureza não abrangidas pela verba n.º 16 da lista B.
+Estão excluídos os instrumentos de trabalho, quando da aplicação das matérias referidas resulte maior utilidade para o fim a que eles se destinam.
 
-Com exclusão dos motores fora de borda, compreendem-se nesta verba as partes, peças e acessórios das embarcações nela referidas, desde que sejam reconhecíveis como exclusiva ou principalmente a elas destinados.
+10. Artigos de caça e de pesca desportiva, incluindo a submarina, bem como os respectivos equipamentos individuais.
 
-14. Enxofre sublimado.
+11. Artigos para divertimentos carnavalescos e fogos-de-artifício para recreio.
 
-15. Farinhas, resíduos e desperdícios das indústrias alimentares e quaisquer outros produtos próprios para alimentação de gados e aves de capoeira.
+12. Azulejos pintados à mão e tijoleira vidrada para painéis decorativos.
 
-16. Forragens e palha.
+13. Bebidas alcoólicas e extractos concentrados e compostos para a sua preparação ou fabrico, de preço superior a 50$00 por litro.
 
-17. Gás do petróleo e da hulha.
+14. Charuteiras, cigarreiras, tabaqueiras, fosforeiras, acendedores e isqueiros, domésticos ou portáteis.
 
-18. Gasóleo e fuelóleo.
+15. Conservas de esturjão e de salmão e preparados de ovas (caviar).
 
-19. Jornais e outras publicações periódicas, como tais considerados na legislação que regular a matéria.
+16. Embarcações de recreio ou de desporto.
 
-20. Lenha e desperdícios de madeira.
+Compreendem-se nesta verba as partes, peças e acessórios das embarcações nela referidas, desde que sejam reconhecíveis como exclusiva ou principalmente a elas destinados, bem como os motores fora de borda de potência superior a 25 H. P.
 
-21. Lentes para correcção da vista, excluídas as lupas.
+17. Estatuetas e outros objectos de ornamentação, de madeira, de vidro, de pedra, de metal, de faiança ou de porcelana.
 
-22. Livros e folhetos de natureza cultural, educativa, recreativa e desportiva, brochados ou encadernados.
+Exceptua-se desta verba a louça regional portuguesa.
 
-Exceptuam-se da isenção as obras em cuja encadernação entrem peles, tecidos de seda, veludos ou semelhantes e, bem assim, as obras abrangíveis na verba n.º 3 da lista B.
+18. Instrumentos e aparelhos de fotografia, cinematografia e de óptica:
 
-23. Máquinas, ferramentas e outros bens de equipamento afectos ao processo produtivo das mercadorias ou aos departamentos de apoio directo e exclusivo à produção de mercadorias.Esta isenção está sujeita ao condicionalismo previsto nos §§ 2.º a 5.º do artigo 5.º do Código.
+a) Máquinas fotográficas, aparelhos ou dispositivos para produção de luz relâmpago para fotografia e cinematografia;
 
-Compreendem-se nesta verba as partes, peças e acessórios dos referidos bens de equipamento, desde que adquiridos para nos mesmos serem aplicados.
+b) Aparelhos de tomadas de vistas e de som, mesmo combinados, e aparelhos de projecção, com ou sem reprodução de som, para cinematografia;
 
-24. Material circulante para vias férreas, bem como catenárias e carris, material para a sua instalação, aparelhagem de via e instalações e material de sinalização eléctrica ou outra utilizados no transporte ferroviário de passageiros e mercadorias.
+c) Aparelhos de projecção fixa e móvel; aparelhos de ampliação ou de redução fotográfica;
 
-Esta isenção está sujeita ao condicionalismo previsto nos §§ 2.º a 5.º do artigo 5.º do Código.
+d) Alvos para projecções;
 
-Compreendem-se nesta verba as partes, peças e acessórios, desde que sejam reconhecíveis como exclusiva ou principalmente destinados aos bens nela incluídos.
+e) Binóculos e óculos de grande alcance;
 
-25. Material exclusivamente didáctico.
+f) Óculos de protecção (de sol, para alpinismo e desportos de Inverno, submarinos e estereoscópicos).
 
-Compreendem-se nesta verba:
+Compreendem-se as partes, peças e acessórios dos referidos aparelhos, instrumentos e máquinas, quando sejam reconhecidos como exclusiva ou principalmente a eles destinados.
 
-a) Cadernos escolares que contenham a designação do seu uso e ainda as capas soltas quando tenham a indicação do estabelecimento de ensino;
+19. Jogos, compreendendo os jogos mecânicos para recintos públicos.
 
-b) Colecções de anatomia, botânica, geologia, mineralogia, zoologia ou outras ciências e respectivos exemplares;
+Compreendem-se nesta verba as partes, peças e acessórios dos jogos nela referidos, desde que sejam reconhecíveis como exclusiva ou principalmente a eles destinados; os acessórios comuns à maior parte dos jogos, tais como dados, fichas e indicadores de tempo; e, nomeadamente, as cartas de jogar, as mesas para jogos especialmente construídas para esse fim, como, por exemplo, as mesas com jogos de damas, aparelhos como o bilhar eléctrico e os jogos de tiro eléctricos, o futebol de mesa e semelhantes, de qualquer sistema, e os jogos de dominó, gamão, mahjong, glória, etc. Exclui-se, porém, o material de jogos reconhecidos como desportivos e o de jogos com características de brinquedo.
 
-c) Mapas ou estampas para o ensino;
+20. Karts e suas peças ou acessórios, com exclusão dos pneumáticos, protectores e câmaras-de-ar.
 
-d) Globos terrestres ou celestes;
+21. Louças e objectos de cerâmica, de faiança ou de porcelana, pintados à mão ou assinados.
 
-e) Obras cartográficas;
+Exceptuam-se desta verba a louça regional portuguesa.
 
-f) Preparações microscópicas;
+22. Máquinas e aparelhos eléctricos, a gás ou a petróleo:
 
-g) Instrumentos, aparelhos, utensílios, máquinas - incluindo as seccionadas - e modelos utilizados no ensino, não susceptíveis de outro uso;
+a) Aparelhos frigoríficos;
 
-h) Quadros de qualquer material para escrita e desenho, encaixilhados ou não, e respectivos ponteiros e apagadores.
+b) Máquinas de lavar e secar louça;
 
-26. Medicamentos, especialidades farmacêuticas e outros produtos farmacêuticos destinados exclusivamente a fins terapêuticos ou profilácticos.
+c) Máquinas de lavar e secar roupa;
 
-27. Pastas, gazes, tiras, pensos, adesivos e outros suportes análogos, mesmo impregnados ou revestidos de quaisquer substâncias, para usos higiénicos, medicinais ou cirúrgicos.
+d) Aspiradores de poeira e enceradoras;
 
-28. Plantas, raízes e tubérculos medicinais no estado natural.
+e) Esmagadores e misturadores de alimentos, batedores e espremedores de frutas;
 
-29. Plantas vivas, de espécies florestais ou frutíferas, e suas estacas e enxertos.
+f) Máquinas de fazer café, chaleiras, torradeiras, grelhadores, assadores e aquecedores de alimentos;
 
-30. Produtos destinados à alimentação humana a seguir indicados:
+g) Máquinas e aparelhos de cozinha não especificados nesta verba, com excepção dos fogões;
 
-a) Pão, produtos afins e farinhas para a sua fabricação; bolachas de água e sal, e bolachas edulcoradas dos tipos Maria e Torrada;
+h) Ventoinhas, aparelhos renovadores de ar e secadores de cabelo;
 
-b) Massas alimentícias e pastas secas similares.
+i) Máquinas de barbear, incluindo as de pilhas;
 
-Exceptuam-se desta alínea as massas recheadas, embora prontas para utilização imediata, e as massas dos tipos Ravioli, Cannelloni, Tortellini e semelhantes; estão, porém, compreendidas na isenção as massas destes tipos mas de consumo popular;
+j) Aparelhos para aquecimento de casas e usos semelhantes, incluindo os climatizadores.
 
-c) Leite para alimentação sob todas as formas e produtos derivados, sem adição de matérias estranhas.
+23. Marfim e suas obras.
 
-Compreendem-se nesta alínea:
+24. Metais preciosos, salvo a prata e suas ligas.
 
-1) Iogurtes já preparados e natas;
+25. Microfones e respectivos suportes.
 
-2) Leite conservado em garrafas ou outros recipientes, fechados hermeticamente, ainda que adicionados de cacau, chocolate ou baunilha;
+26. Moedas de ouro ou prata e de ligas em que entrem aqueles ou outros metais preciosos, quando não tiverem curso legal no país de origem.
 
-3) Leite evaporado ou concentrado, no estado líquido, pastoso, em blocos ou em pó;
+27. Motociclos de cilindrada igual ou superior a 175 c. c.
 
-4) Leite em pó ou granulado, leites dietéticos e farinhas lácteas, ainda que adicionados de elementos complementares, exclusivamente destinados à alimentação de crianças;
+28. Objectos de cristal e de vidro de alta qualidade.
 
-5) Manteigas;
+29. Objectos de estanho e suas ligas para fins domésticos, decorativos ou de ornamentação.
 
-6) Queijos;
+30. Objectos de porcelana, de madrepérola, de âmbar ou de coral, para ornamentação de interiores ou para adorno pessoal.
 
-d) Azeites e outros óleos comestíveis; margarinas, manteiga e mais gorduras alimentares de origem animal e vegetal.
+Compreendem-se nesta verba os objectos de toucador.
 
-Exceptuam-se desta alínea a gordura alimentar açucarada do tipo Sweet fat;
+31. Pedras preciosas naturais, sintéticas ou reconstituídas e pérolas naturais ou de cultura, e suas obras, quando destinadas a adorno pessoal ou ornamentação.
 
-e) Batatas, legumes e outros produtos hortícolas, frescos, congelados, refrigerados, secos ou desidratados, em grão, em farinha ou em puré, quando não tenham sofrido preparação diferente da cozedura ou da fritura;
+32. Peles e penas de avestruz, peles de elefante, répteis, peixes e mamíferos marinhos e suas obras.
 
-f) Frutos frescos, congelados, curtidos, secos ou em salmoura, sem adição de produtos estranhos.
+Só se consideram obras aquelas em cujo valor as peles ou as penas entrem em proporção superior a 40%.
 
-Não estão abrangidos por esta isenção:
+33. Peles em cabelo, para adorno, abafo ou vestuário e suas obras, com exclusão das de coelho e de ovinos ou de caprinos adultos, de espécies comum não denominadas.
 
-1) Frutas enlatadas, cristalizadas, caldeadas ou cobertas;
+Só se consideram obras aquelas em cujo valor as peles entrem em proporção superior a 40%.
 
-2) Doces, geleias, compostas, purés e pastas de frutas, obtidos por cozedura ou com adição de açúcar ou de álcool;
+34. Produtos para fotografia e cinematografia:
 
-3) Castanha de caju, avelãs, pinhões, nozes, amêndoa, coco e amendoim torrado;
+a) Chapas, películas de qualquer espécie, papel, cartolina, cartão e tecidos para fotografia;
 
-4) Anis estrelado, tapioca e baunilha;
+b) Chapas, películas e fitas cinematográficas, incluindo os diapositivos;
 
-5) Sumos de frutas e seus extractos ou concentrados.
+c) Produtos químicos para fotografia e cinema.
 
-Considera-se, porém, incluída na isenção da presente alínea f) a marmelada;
+35. Produtos de perfumaria e toucador, com excepção apenas dos sabões, sabonetes, pastas dentífricas ou pós saponificados e dentifrícios e dos considerados medicinais pela Direcção-Geral de Saúde.
 
-g) Outros produtos de origem vegetal, da pesca, da piscicultura, da avicultura, da cunicultura, da apicultura e da caça, que não tenham sofrido transformação.
+Compreendem-se nesta verba os produtos perfumados e os utilizados no embelezamento e no tratamento estético, designadamente perfumes de qualquer natureza, incluindo os extractos e os óleos essenciais ou essências, seus subprodutos e soluções; água-de-colónia e loções; vinagres de toucador; cremes de beleza e para barbear; leites e águas de beleza; tintas para o rosto (secas, gordas e líquidas); depilatórios; pós-de-arroz e pós compactos, champôs, brilhantinas e fixadores; corantes para os lábios; cremes para tirar a pintura do rosto; óleos, pomadas e vaselinas perfumadas; vernizes, lacas e mais produtos corantes e descorantes para as unhas; talco perfumado; tintas, lápis e outros produtos para caracterização; rímel; lápis para as sobrancelhas; desodorizantes e linimentos anti-solares; preparados para ondulação do cabelo, incluindo as lacas; produtos para aplicação antes ou depois de fazer a barba; tintas e outros produtos para coloração e descoloração do cabelo; sais de banho; óleos para massagens; preparados perfumados (em pó, líquido, pastilhas, fitas, etc.) e saquinhos de plantas aromáticas para salas e quartos de banho ou para malas e armários.
 
-Incluem-se, porém, nesta alínea:
+36. Reboques de campismo ou desporto, bem como os veículos automóveis com carroçaria apropriada àqueles mesmos fins.
 
-1) Ramas de açúcar e açúcar refinado e granulado;
+Compreendem-se nesta verba as partes, peças e acessórios dos reboques ou veículos nela referidos, desde que sejam reconhecíveis como exclusiva ou principalmente a eles destinados, excluindo, porém, os protectores, pneumáticos e câmaras-de-ar.
 
-2) Chá e café, ainda que solúveis ou sem cafeína;
+37. Relógios com caixas total ou parcialmente de metais preciosos ou guarnecidos de pérolas naturais ou de cultura, de pedras preciosas naturais, sintéticas ou reconstituídas.
 
-3) Cevada, chicória e grão-de-bico, torrados;
+38. Rendas, bordados, galões e guarnições, em peça, em tiras ou em aplicações.
 
-4) Arroz branqueado e glaceado;
+39. Tapeçarias, tapetes e tecidos feitos à mão; tapeçarias em peça ou em obra género Gobelins, Flandres, Aubusson, Beauvais e semelhantes.
 
-5) Farinhas, féculas e sêmolas para alimentação de crianças;
-
-6) Sopas e caldos concentrados e sintéticos;
-
-7) Peixe salgado seco ou em salmoura;
-
-8) Conservas simples de sardinha, atum, cavala, carapau, anchovas e de moluscos, salvo ostras e caracóis;
-
-9) Mel, ainda que refinado.
-
-Estão excluídos da isenção contida nesta alínea g):
-
-1) Cacau, chocolates e respectivos compostos;
-
-2) Especiarias, condimentos, molhos, temperos e produtos aromatizantes para alimentos;
-
-3) Produtos industrializados que precisam de preparação prévia para serem consumidos; leveduras e pós para preparar sobremesas, pudins, refrescos, bebidas, cremes, gelados, sorvetes, geleias e outros, ainda que não adicionados de açúcar;
-
-4) Arroz expandido, corn-flakes e produtos análogos, obtidos de cereais por torrefacção ou por qualquer outro processo;
-
-5) Sumos de produtos hortícolas e seus extractos ou concentrados;
-
-6) Conservas de aves e de caça;
-
-7) Pastas de fígado (foie-gras) e semelhantes;
-
-8) Misturas de farinhas, féculas, amidos, extractos de malte com leite, leitelho, açúcar, ovos, caseína, albumina, glúten, farinhas de legumes ou de frutas ou substâncias aromáticas; farinhas de cacau com aveia; preparados constituídos pela mistura de ovos e leite, em pó, extracto de malte e cacau; preparados constituídos por farinha de arroz, féculas diversas, farinha de bolota doce, açúcar e cacau aromatizado com baunilha; preparados compostos por misturas de farinhas de cereais e farinhas de frutas, adicionados ou não de cacau ou malte, ou constituídos por farinha de frutas adicionadas de cacau;
-
-9) Salgadinhos de qualquer tipo e outros produtos utilizados como aperitivos ou acompanhantes de bebidas, constituídos por misturas de vários ingredientes, tais como farinhas, sêmolas, malte, sal, gorduras, especiarias, queijo, presunto, mariscos, etc.;
-
-h) Carnes de quaisquer outros animais, frescas, refrigeradas ou congeladas e miudezas comestíveis;
-
-i) Preparados de carne ou de miudezas, simplesmente cozinhados ou como produtos de salsicharia (enchidos, ensacados, salgados e fumados); fiambre e presunto.
-
-Estão excluídos desta isenção: a mortadela, o salame, as pastas, purés e galantinas, os picados e o toucinho fumado (bacon);
-
-j) Sal (cloreto de sódio):
-
-a) Sal marinho;
-
-b) Sal-gema.
-
-Não estão abrangidos nesta isenção o sal marinho e o sal-gema misturados com outros produtos para alimentação humana, nem o sal para tornar mais tenros os alimentos;
-
-l) Vinagres comestíveis;
-
-m) Vinhos comuns ou de pasto vendidos a granel.
-
-Apenas são considerados como vendidos a granel os vinhos transaccionados em quantidade não inferior a 40 l por vasilha.
-
-Os vinhos de outra natureza e as restantes bebidas alcoólicas são excluídas desta isenção.
-
-Na interpretação das isenções dos produtos alimentícios referidos na presente verba n.º 30 deverá ter-se em consideração que são excluídos do seu âmbito todos os produtos edulcorados não expressamente isentos, qualquer que seja a forma ou o aspecto que apresentem.
-
-São, pelo contrário, incluídos nas isenções desta verba os alimentos já cozinhados que por sua natureza tenham de ser consumidos imediatamente.
-
-31. Produtos considerados exclusivamente como desinfectantes, insecticidas, fungicidas, herbicidas, parasiticidas, raticidas e semelhantes.
-
-32. Ráfia natural.
-
-33. Sabões sólidos, não perfumados, para o uso doméstico.
-
-34. Sementes, bolbos e alporques para a agricultura, horticultura e floricultura.
-
-35. Sulfato cúprico, sulfato férrico e sulfato duplo de cobre e ferro.
-
-36. Utensílios e alfaias agrícolas, silos móveis, motocultivadores, tractores e outras máquinas e aparelhos, exclusiva ou principalmente destinados à agricultura, pecuária ou silvicultura.
-
-Compreendem-se nesta verba as partes, peças e acessórios, desde que sejam reconhecíveis como exclusiva ou principalmente destinados aos bens nela referidos, com exclusão, porém, dos protectores, pneumáticos e câmaras-de-ar.
+40. Tecidos em peça ou em obra, de seda natural, de vigonho, de pêlo de camelo, de alpaca, de iaque, de caxemira ou de cabra mohair.
