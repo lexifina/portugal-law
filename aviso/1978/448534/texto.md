@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que a Embaixada da República de Cuba enviou ao Ministério dos Negócios Estrangeiros uma nota verbal, datada de 14 de Dezembro de 1977, informando que a parte cubana dera cumprimento às formalidades constitucionais relativas à entrada em vigor do Acordo Comercial a Longo Prazo entre o Governo da República Portuguesa e o Governo Revolucionário da República de Cuba, assinado em Lisboa em 13 de Setembro de 1976, e do respectivo Protocolo Adicional, assinado na mesma data, em resposta a uma nota verbal deste Ministério que informava estarem cumpridas aquelas formalidades pela parte portuguesa.
+Nesta conformidade, e segundo o disposto no seu artigo 15, o Acordo em apreço entrou em vigor no dia 14 de Dezembro de 1977.
+Direcção-Geral dos Negócios Económicos, 18 de Janeiro de 1978. - O Director-Geral-Adjunto, Paulo Ennes.
