@@ -1,0 +1,6 @@
+Rectificação
+Tendo sido publicado com inexactidão no Diário do Governo n.º 163, 1.ª série, de 14 de Julho corrente, pelos Ministérios do Ultramar e da Educação Nacional, o n.º 4 do artigo 14.º do Decreto-Lei n.º 49119, determino que se proceda de novo à publicação do respectivo texto, que é do seguinte teor:
+Art. 14.º ...
+...
+4. A prova indicada na alínea a) do n.º 2 terá a duração de meia hora; cada uma das provas indicadas na alínea b) terá a duração de duas horas.
+Presidência do Conselho, 28 de Julho de 1969. - O Presidente do Conselho, Marcello Caetano.
