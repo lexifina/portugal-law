@@ -1,0 +1,7 @@
+Decreto-Lei n.º 46363
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. O artigo 3.º da Lei do Recrutamento e Serviço Militar (Lei n.º 1961, de 1 de Setembro de 1937, alteradada pela Lei n.º 2034, de 18 de Julho de 1949) passa a ter a seguinte redacção:
+Art. 3.º São isentos da prestação de todo o serviço militar os indivíduos que padecerem de alguma das lesões mencionadas na respectiva tabela.
+§ único. Nos quadros permanentes do Exército nenhum militar poderá ingressar na classe de sargentos ou ascender ao posto de oficial se não tiver, respectivamente, a altura mínima de 1,60 m e 1,62 m, salvo caso de promoção por feitos distintos em combate.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 31 de Maio de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
