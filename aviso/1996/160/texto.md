@@ -1,0 +1,3 @@
+Aviso n.º 160/96
+Por ordem superior se torna público que a Estónia ratificou, em 16 de Abril de 1996, a Convenção de Salvaguarda dos Direitos do Homem e das Liberdades Fundamentais, aberta à assinatura em 4 de Novembro de 1950, o seu Protocolo Adicional, aberto à assinatura em 20 de Março de 1952, e os Protocolos n.os 4, 7, 9, 10 e 11 à referida Convenção, abertos à assinatura, respectivamente, em 16 de Setembro de 1963, 22 de Novembro de 1984, 6 de Novembro de 1990, 25 de Março de 1992 e 11 de Maio de 1994.
+Direcção de Serviços das Organizações Políticas Internacionais, 5 de Junho de 1996. - O Director de Serviços, João José Gomes Caetano da Silva.
