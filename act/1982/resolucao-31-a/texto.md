@@ -1,0 +1,3 @@
+Resolução n.º 31-A/82
+O Conselho de Ministros para os Assuntos Económicos, reunido em 16 de Fevereiro de 1982, resolveu nomear, ao abrigo do disposto no n.º 1 do artigo 3.º do Decreto-Lei n.º 572/76, de 20 de Julho, com a redacção que lhe foi introduzida pelo artigo 1.º do Decreto-Lei n.º 240/77, de 8 de Junho, o licenciado Eurico Faustino Correia e Rui Duarte de Mendonça Torres para os cargos de presidente e vogal da comissão de gestão da CPP - Companhia Portuguesa de Pesca, S. A. R. L., respectivamente.
+Presidência do Conselho de Ministros, 16 de Fevereiro de 1982. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.
