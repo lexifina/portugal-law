@@ -1,0 +1,13 @@
+Decreto-Lei n.º 46102
+A Lei n.º 2118, de 8 de Abril de 1963, que promulgou as bases para a promoção da saúde mental, estabelece que a acção do Estado neste sector será exercida pelo Ministério da Saúde e Assistência, por intermédio do Instituto de Saúde Mental, ressalvando a competência que por lei pertencer a departamentos dependentes de outros Ministérios. O mesmo diploma fixa, seguidamente, os princípios da orgânica do referido Instituto.
+O Instituto de Saúde Mental virá substituir o Instituto de Assistência Psiquiátrica, ao qual cabe, presentemente, a orientação e superintendência deste sector de actividade.
+Está previsto que a substituição se faça através da promulgação da lei orgânica do Ministério da Saúde e Assistência, em preparação adiantada. Mas importa que, entretanto, se prossiga no desenvolvimento da assistência psiquiátrica e que a acção a realizar se integre, desde já, na orientação definida naquela lei, nomeadamente no que respeita à criação dos centros de saúde mental previstos na base VIII.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Os centros de saúde mental previstos na base VIII da Lei n.º 2118, de 3 de Abril de 1963, poderão ser criados desde já, mediante portarias do Ministro da Saúde e Assistência, nas quais se fixarão as regras gerais do seu funcionamento e se determinará a forma de integração, nesses centros, dos serviços e estabelecimentos actualmente existentes.
+Art. 2.º Em Lisboa, Porto e Coimbra, os centros de saúde mental integrados em estabelecimentos hospitalares já existentes terão autonomia técnica e funcionarão sem prejuízo da estrutura administrativa daqueles estabelecimentos.
+Art. 3.º Os centros de saúde mental consideram-se em regime de instalação, nos termos do Decreto-Lei n.º 31913, de 12 de Março de 1942, pelo período de dois anos, a contar da data da sua criação, podendo este período ser prorrogado por mais um ano, em caso de necessidade.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 23 de Dezembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Para ser presente à Assembleia Nacional.
