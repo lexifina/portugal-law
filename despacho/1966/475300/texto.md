@@ -1,0 +1,8 @@
+Despacho
+Não se justifica, nas circunstâncias actuais, a existência de um tabelamento para os produtos cerâmicos de construção.
+A tabela de preços em vigor difìcilmente se mostra equitativa, face aos diferentes aspectos desta indústria, como sejam a localização das fábricas, seu grau de apetrechamento e condições diversas de laboração das múltiplas unidades fabris instaladas.
+Por outro lado, já se encontra a vigorar um regulamento do exercício da indústria de barro vermelho para a construção civil, o qual virá a constituir travão ao aviltamento da qualidade dos produtos deste sector industrial, do mesmo passo que já foi aprovada a criação de um centro técnico de apoio à indústria, cuja acção se prevê muito contribuirá para a solução dos problemas desta indústria. Assim, todas estas medidas permitirão estabelecer uma disciplina que obstará, por certo, à concorrência desregrada que eventualmente possa surgir da libertação dos preços de venda dos produtos em causa.
+Nestes termos, e para o efeito do disposto no n.º 2 do artigo 24.º do Decreto-Lei n.º 41204, de 24 de Julho de 1957, determino o seguinte:
+1.º A partir da data da publicação do presente despacho, cessa o tabelamento dos preços dos produtos cerâmicos de construção - artigos de barro vermelho e grés e artigos de barro fino (faiança de construção).
+2.º É revogado o despacho ministerial de 14 de Janeiro de 1948, publicado no Diário do Governo n.º 16, 2.ª série, de 20 do mesmo mês e ano, bem como as tabelas de preços dos produtos cerâmicos referidos no n.º 1.º, que os industriais praticavam nas fábricas em Dezembro de 1946.
+Secretaria de Estado do Comércio, 14 de Julho de 1966. - O Secretário de Estado do Comércio, Fernando Manuel Alves Machado.
