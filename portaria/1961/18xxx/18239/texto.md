@@ -1,0 +1,5 @@
+Portaria n.º 18239
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, que, nos termos do § 1.º do artigo 22.º do Decreto-Lei n.º 39749, de 9 de Agosto de 1954, e de harmonia com as necessidades de serviço, sejam criados os postos da Polícia Internacional e de Defesa do Estado na cidade de Mindelo, na ilha de S. Vicente, e no aeroporto da ilha do Sal, ambos dependentes da subdelegação da mesma Polícia na província ultramarina de Cabo Verde, com sede na cidade da Praia, cabendo ao governador da província, mediante proposta do director da Polícia Internacional e de Defesa do Estado, a faculdade de promover a fixação e distribuição do pessoal efectivo e eventual, em conformidade com o mapa referido no Decreto-Lei n.º 43076, de 16 de Julho de 1960, e nos termos do § 4.º do artigo 46.º do citado Decreto-Lei n.º 39749, com a nova redacção dada pelo Decreto-Lei n.º 40541, de 27 de Fevereiro de 1956.
+Ministério do Ultramar, 27 de Janeiro de 1961. - O Ministro do Ultramar, Vasco Lopes Alves.
+
+Para ser publicada no Boletim Oficial de Cabo Verde. - Vasco Lopes Alves.
