@@ -1,0 +1,5 @@
+Portaria n.º 22600
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, conjugado com a alínea e) do artigo 3.º do mesmo decreto, com a redacção que lhe foi dada pelo artigo 4.º do Decreto n.º 40712, de 1 de Agosto de 1956, abrir na província de Moçambique um crédito especial da quantia de 500000$00 para reforçar a verba do capítulo 12.º, artigo 2608.º, n.º 4), alínea n), 1) «Despesa extraordinária - Outras despesas extraordinárias - Diversos - Segurança pública - Despesas com as companhias móveis - Vencimentos», da tabela de despesa extraordinária do orçamento geral para 1966, tomando como contrapartida o excesso de cobrança sobre a previsão da receita do capítulo 2.º, artigo 19.º, alínea d) «Impostos indirectos - Imposto do selo - Selo de verba», do orçamento da receita ordinária do mesmo ano.
+Ministério do Ultramar, 28 de Março de 1967. - Pelo Ministro do Ultramar, José Coelho de Almeida Cota, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Moçambique. - J. Cota.
