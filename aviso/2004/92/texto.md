@@ -1,0 +1,4 @@
+Aviso n.º 92/2004
+Por ordem superior se torna público que a República da Eslovénia depositou junto do Secretário-Geral do Conselho da Europa, em 17 de Julho de 2003, o seu instrumento de ratificação à Convenção Quadro Europeia para a Cooperação Transfronteira entre as Comunidades ou Autoridades Territoriais, aberta para assinatura em Madrid em 21 de Maio de 1980.
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pelo Decreto do Governo n.º 29/87, conforme aviso tornado público no Diário da República, 1.ª série-A, n.º 185, de 13 de Agosto de 1987, tendo depositado o seu instrumento de ratificação em 10 de Janeiro de 1989, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 39, de 16 de Fevereiro de 1989.
+Direcção-Geral dos Assuntos Multilaterais, 28 de Abril de 2004. - O Director de Serviços das Organizações Políticas Internacionais, Bernardo Fernandes Homem de Lucena.
