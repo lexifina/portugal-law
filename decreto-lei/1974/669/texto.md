@@ -1,0 +1,19 @@
+Decreto-Lei n.º 669/74
+de 29 de Novembro
+A evolução do material de bordo, no sector da electrotecnia, tende a tornar cada vez menos nítida a distinção entre equipamentos eléctricos e electrónicos, cuja manutenção e reparação competiam, respectivamente e em especial, aos artífices electricistas e artífices radioelectricistas.
+Torna-se assim necessário, com vista a um mais eficaz aproveitamento do pessoal e um melhor rendimento da sua instrução, promover a junção numa única classe das actuais classes de artífices electricistas e de artífices radioelectricistas, classe a que passam a competir as funções até agora atribuídas às duas classes referidas.
+Verifica-se, por outro lado, a conveniência em modificar a designação tradicional das duas classes a extinguir de artífices electricistas e de artífices radioelectricistas e, bem assim, a designação da actual classe de artífices condutores de máquinas, em termos que melhor traduzam as funções e preparação técnica do respectivo pessoal.
+Nestes termos:
+Usando da faculdade conferida pelo artigo 1.º da Lei Constitucional n.º 4/74, de 1 de Julho, o Conselho dos Chefes dos Estados-Maiores das Forças Armadas decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º - 1. Nos quadros do activo dos sargentos e praças da Armada é criada a classe de electrotécnicos, a cujo pessoal competem as funções presentemente desempenhadas pelo das classes de artífices electricistas e de artífices radioelectricistas, as quais passam a designar-se, respectivamente, por classe de técnicos de electricidade e classe de técnicos radioelectricistas.
+2. As classes de técnicos de electricidade e de técnicos radioelectricistas serão extintas logo que deixe de prestar serviço nos quadros do activo o pessoal que actualmente lhes pertence e o que se encontra em preparação para nelas ingressar, desde que essa preparação se tenha iniciado em ano escolar anterior ao de 1973-1974.
+Art. 2.º - 1. Os efectivos, total e por postos, da classe de electrotécnicos são os que a seguir se indicam:
+(ver documento original)
+2. Enquanto permanecer nos quadros do activo pessoal das classes de técnicos de electricidade e de técnicos radioelectricistas, os efectivos indicados no número anterior são diminuídos dos quantitativos correspondentes às existências nas classes referidas.
+Art. 3.º Os limites de idade para passagem à situação de reserva da Armada com direito a pensão dos sargentos e praças da classe de electrotécnicos são os que, pelo Decreto-Lei n.º 44883, de 18 de Fevereiro de 1963, se encontram fixados para os sargentos e praças das classes de artífices electricistas e radioelectricistas.
+Art. 4.º A classe de artífices condutores de máquinas passa a ser designada por classe de maquinistas navais.
+Art. 5.º Serão incluídas, por portaria, no Estatuto dos Sargentos e Praças da Armada, aprovado e posto em execução pelo Decreto-Lei n.º 44884, de 18 de Fevereiro de 1963, as disposições regulando a estrutura da nova classe de electrotécnicos, a sua divisão em ramos e a carreira militar dos sargentos e praças que a ela pertencem.
+Visto e aprovado em Conselho dos Chefes dos Estados-Maiores das Forças Armadas. - Francisco da Costa Gomes - José Baptista Pinheiro de Azevedo - Carlos Alberto Idães Soares Fabião - Narciso Mendes Dias.
+Promulgado em 12 de Novembro de 1974.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
