@@ -1,0 +1,20 @@
+Resolução do Conselho de Ministros n.º 71/86
+O Decreto-Lei n.º 41/84, de 3 de Fevereiro, criou toda uma série de instrumentos de mobilidade e reafectação de pessoal da função pública, tornando-se, contudo, necessário introduzir mecanismos que lhes confiram maior operacionalidade. É esse, em síntese, o objecto da presente resolução.
+Mantendo-se inalterado o princípio legal de, por razões de conveniência de serviço, poder ser recusada a transferência de um serviço ou organismo para outro, ressalvar-se-ão as carreiras cuja especialidade não se enquadra neste mecanismo.
+Esta resolução vem também atenuar a necessidade de criação indiscriminada de «quadros de efectivos interdepartamentais» (QEIs), restringindo-os àquelas situações em que para os «excedentes» resultantes da racionalização dos serviços não se encontre hipótese de reafectação imediata noutros serviços ou organismos ou, a haver, se depare com a recusa do funcionário.
+É então aqui, mas exclusivamente aqui, que, fora da matéria tratada nesta resolução, sairemos do âmbito do Decreto-Lei n.º 41/84, de 3 de Fevereiro (instrumentos de mobilidade), para entrarmos no domínio de aplicação do Decreto-Lei n.º 43/84, de 3 de Fevereiro (QEIs).
+Deste modo, também aí se introduz maior economia e racionalidade administrativas nos mecanismos de reafectação, a título definitivo, de potenciais «excedentes».
+Naturalmente estes mecanismos, mais expeditos, de mobilidade e reafectação pressupõem a informatização dos processos, e assim se estão preparando os serviços na Secretaria de Estado do Orçamento.
+Nestes termos:
+O Conselho de Ministros, reunido em 4 de Setembro de 1986, resolveu:
+1 - Sem prejuízo das regras aplicáveis aos excedentes de pessoal, os serviços e organismos que considerem poder dispensar, definitiva ou transitoriamente, pessoal deverão comunicar tal facto aos serviços responsáveis pelas funções de organização e gestão de pessoal do respectivo ministério, especificando o período de dispensa e fornecendo, através da ficha de modelo anexo, elementos de identificação pessoal e profissional dos funcionários e agentes nessas condições.
+2 - Os organismos que pretendam satisfazer as suas necessidades de pessoal por recurso a funcionários e agentes através dos instrumentos de mobilidade, caso o não consigam por iniciativa própria, deverão dar conta do facto aos serviços de organização e pessoal referidos no n.º 1, fornecendo simultaneamente os seguintes elementos: categoria a prover e ou funções a desempenhar, habilitações literárias legalmente exigíveis, formação e experiência profissionais adequadas, letra de vencimento e local de trabalho.
+3 - Os serviços de organização e pessoal de cada ministério deverão fornecer à Direcção-Geral da Administração e da Função Pública no prazo de um mês os elementos referidos nos n.os 1 e 2, caso não seja possível satisfazer essas solicitações no âmbito do respectivo ministério.
+4 - Na posse dos elementos referidos no número anterior, a Direcção-Geral da Administração e da Função Pública deverá promover a mobilidade interdepartamental (serviços centrais, regionais e locais), avaliando os perfis funcionais e informando os funcionários e serviços dos pedidos e ofertas.
+5 - Os serviços de organização e pessoal de cada ministério e a Direcção-Geral da Administração e da Função Pública deverão apresentar trimestralmente ao respectivo membro do Governo o mapa de modelo anexo devidamente preenchido, acompanhado de relatório sucinto sobre a execução do previsto na presente resolução, que deverá ser tido em conta na análise, por esses serviços, dos pedidos de descongelamento e fixação das respectivas quotas anuais.
+6 - Para a execução do previsto na presente resolução a Direcção-Geral da Contabilidade Pública prestará a informação necessária, no âmbito das suas competências.
+Presidência do Conselho de Ministros. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+MINISTÉRIO DAS FINANÇAS
+Mapa a que se refere o n.º 5 da Resolução do Conselho de Ministros n.º 71/86
+(ver documento original)
