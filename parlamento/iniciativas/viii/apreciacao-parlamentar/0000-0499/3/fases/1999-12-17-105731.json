@@ -1,0 +1,396 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "3",
+    "id": "6365",
+    "titulo": "Decreto-lei nº 236/99,de 25 de Junho, que \"aprova o novo Estatuto dos Militares das Forças Armadas\"."
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "1999-12-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1805",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "1999-12-17",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1999-12-17",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29530",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "749-750"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-12-18",
+                "pubLeg": "VIII",
+                "pubNr": "20",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/020/1999-12-18/749?pgs=749-750&org=PLC"
+              }
+            ],
+            "sumario": "DEC-LEI 236/99,DE 25 DE JUNHO, APROVA O ESTATUTO DOS MILITARES DAS FORCAS ARMADAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "397",
+                "nome": "Correia de Jesus"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29531",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "749-749"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-12-18",
+                "pubLeg": "VIII",
+                "pubNr": "20",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/020/1999-12-18/749?pgs=749&org=PLC"
+              }
+            ],
+            "sumario": "DEC-LEI 236/99,DE 25 DE JUNHO, APROVA O ESTATUTO DOS MILITARES DAS FORCAS ARMADAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "148",
+                "nome": "Marques Júnior"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29532",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "747-749"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-12-18",
+                "pubLeg": "VIII",
+                "pubNr": "20",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/020/1999-12-18/747?pgs=747-749&org=PLC"
+              }
+            ],
+            "sumario": "DEC-LEI 236/99,DE 25 DE JUNHO, APROVA O ESTATUTO DOS MILITARES DAS FORCAS ARMADAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1654",
+                "nome": "João Rebelo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29533",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "746-747"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-12-18",
+                "pubLeg": "VIII",
+                "pubNr": "20",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/020/1999-12-18/746?pgs=746-747&org=PLC"
+              }
+            ],
+            "sumario": "DEC-LEI 236/99,DE 25 DE JUNHO, APROVA O ESTATUTO DOS MILITARES DAS FORCAS ARMADAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "397",
+                "nome": "Correia de Jesus"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29534",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "745-746"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-12-18",
+                "pubLeg": "VIII",
+                "pubNr": "20",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/020/1999-12-18/745?pgs=745-746&org=PLC"
+              }
+            ],
+            "sumario": "DEC-LEI 236/99,DE 25 DE JUNHO, APROVA O ESTATUTO DOS MILITARES DAS FORCAS ARMADAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "211",
+                "nome": "João Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29535",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "744-745",
+                  "750-750"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-12-18",
+                "pubLeg": "VIII",
+                "pubNr": "20",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/020/1999-12-18/744?pgs=744-745,750&org=PLC"
+              }
+            ],
+            "sumario": "DEC-LEI 236/99,DE 25 DE JUNHO, APROVA O ESTATUTO DOS MILITARES DAS FORCAS ARMADAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:35",
+            "horaTermo": "13:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  DEFESA NACIONAL",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Julio Castro Caldas"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "105811",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "749-750"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-12-18",
+                "pubLeg": "VIII",
+                "pubNr": "20",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/020/1999-12-18/749?pgs=749-750&org=PLC"
+              }
+            ],
+            "sumario": "DEC-LEI 236/99,DE 25 DE JUNHO, APROVA O ESTATUTO DOS MILITARES DAS FORCAS ARMADAS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "105731",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1805",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1999-12-18",
+        "pubLeg": "VIII",
+        "pubNr": "20",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/020/1999-12-18?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
