@@ -10,7 +10,7 @@
 
 ### Descaminho
 
-1 - Os factos descritos nos artigos 92.º, 93.º e 95.º da presente lei que não constituam crime em razão do valor da prestação tributária ou da mercadoria objecto da infracção são puníveis com coima de (euro) 150 a (euro) 150000.
+1 - Os factos descritos nos artigos 92.º, 93.º e 95.º da presente lei que não constituam crime em razão do valor da prestação tributária ou da mercadoria objecto da infracção, ou, independentemente destes valores, sempre que forem praticados a título de negligência, são puníveis com coima de (euro) 150 a (euro) 150000.
 
 2 - Os meios de transporte utilizados na prática da contra-ordenação prevista no número anterior serão declarados perdidos a favor da Fazenda Nacional quando a mercadoria objecto da infracção consistir na parte de maior valor relativamente à restante mercadoria transportada e desde que esse valor exceda (euro) 3750, valendo, também nesses casos, as excepções consagradas nas alíneas a) e b) do n.º 1 do artigo 19.º
 

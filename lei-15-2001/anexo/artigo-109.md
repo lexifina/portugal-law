@@ -2,7 +2,7 @@
 
 ### Introdução irregular no consumo
 
-1 - Os factos descritos no artigo 96.º da presente lei, quando não constituam crime em razão do valor da prestação tributária ou da mercadoria objecto da infracção, são puníveis com coima de (euro) 150 a (euro) 150000.
+1 - Os factos descritos no artigo 96.º da presente lei que não constituam crime em razão do valor da prestação tributária ou da mercadoria objecto da infracção, ou, independentemente destes valores, sempre que forem praticados a título de negligência, são puníveis com coima de (euro) 150 a (euro) 150000.
 
 2 - A mesma coima é aplicável a quem:
 
@@ -39,3 +39,5 @@ p) Introduzir no consumo ou comercializar produtos com violação das regras de 
 3 - A tentativa é punível.
 
 4 - O montante da coima é reduzido a metade no caso de os produtos objecto da infracção serem tributados à taxa zero.
+
+5 - O montante máximo da coima é agravado para o dobro nos casos previstos na alínea p) do n.º 2.
