@@ -1,0 +1,9 @@
+Decreto n.º 44827
+Carece a Administração-Geral dos Correios, Telégrafos e Telefones de renovar a sua frota de carruagens-ambulâncias postais em dez unidades.
+Concluídas as formalidades conducentes à adjudicação do fornecimento e formação do acordo, delas resulta que o encargo se reparte por mais de um ano económico. Não se verificando a circunstância prevista no artigo 12.º do Decreto-Lei n.º 41597, de 24 de Abril de 1958, há que dar cumprimento ao disposto no artigo 22.º do Decreto-Lei n.º 41375, de 19 de Novembro de 1957.
+Nestes termos:
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º Fica a Administração-Geral dos Correios, Telégrafos e Telefones autorizada, nos termos e para os efeitos do artigo 22.º do Decreto-Lei n.º 41375, de 19 de Novembro de 1957, a celebrar com a firma Sociedades Reunidas de Fabricações Metálicas, Lda., contrato para o fornecimento de dez carruagens-ambulâncias postais, acessórios e peças sobresselentes, pela importância de 25088600$00. Esta importância está sujeita a ajustamento proveniente de eventual variação das cotações de matérias-primas e salários, conforme fórmula de correcção constante do contrato.
+Art. 2.º No ano económico de 1963 não poderá a referida Administração-Geral despender importância superior a 5017720$00. Nos anos económicos de 1964 e 1965 não poderá, em cada ano, despender importância superior a 8781010$00. No ano de 1966 a importância a despender é de 2508860$00, acrescida da correspondente ao agravamento de custo resultante da aplicação da fórmula referida no artigo 1.º
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 29 de Dezembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Carlos Gomes da Silva Ribeiro.
