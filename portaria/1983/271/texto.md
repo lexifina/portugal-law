@@ -1,0 +1,13 @@
+Portaria n.º 271/83
+de 9 de Março
+Considerando a inexistência no mercado de placas retro-reflectoras aprovadas pela Direcção-Geral de Viação, nos termos do n.º 9 do artigo 17.º do Regulamento do Código da Estrada, e a necessidade de exigir que as placas já colocadas nos veículos obedeçam, no mínimo, às condições impostas por aquela disposição legal:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado dos Transportes Interiores, que o n.º 9 do artigo 17.º do Regulamento do Código da Estrada passe a ter a seguinte redacção:
+9 - a) ...
+b) ...
+c) ...
+d) ...
+e) O bordo inferior das placas deverá ficar sempre em posição horizontal e a sua altura ao solo estará compreendida entre 50 cm e 150 cm.
+f) Todas as placas deverão estar fixadas de forma inamovível, mantendo-se sempre limpas e em bom estado de conservação.
+g) Os veículos matriculados a partir de 1 de Outubro de 1983 só poderão instalar placas aprovadas pela Direcção-Geral de Viação. Os restantes veículos, nos quais a instalação das placas é obrigatória, nos termos do n.º 4 do artigo 30.º do Código da Estrada, poderão instalar placas não aprovadas, desde que as mesmas obedeçam às condições impostas pelo presente número.
+A partir de 1 de Janeiro de 1987 só poderão ser instaladas placas aprovadas.
+Ministério da Habitação, Obras Públicas e Transportes, 22 de Fevereiro de 1983. - O Secretário de Estado dos Transportes Interiores, Abílio Gaspar Rodrigues.
