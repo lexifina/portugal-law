@@ -1,0 +1,41 @@
+# Acórdão do Supremo Tribunal de Justiça de 1986-07-24, processo 073888
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 073888
+
+**Nº Convencional:** JSTJ00013764
+
+**Relator:** GOMES DOS SANTOS
+
+**Descritores:** MUTUO; FORMA; USUCAPIÃO; RESTITUIÇÃO; ENRIQUECIMENTO SEM CAUSA
+
+**Nº do Documento:** SJ198607240738882
+
+**Data do Acordão:** 07/24/1986
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REVISTA.
+
+**Decisão:** NEGADA A REVISTA.
+
+**Área Temática:** DIR CIV - DIR CONTRAT.
+
+## Sumário
+
+I - Pelo mutuo, uma das partes empresta a outra dinheiro ou outra coisa fungivel, obrigando-se esta a restituir outro tanto do mesmo genero e qualidade e, dada essa fungibilidade, a coisa emprestada confunde-se no patrimonio do mutuario, e, por isso, a coisa emprestada, pelo facto da entrega, torna-se propriedade do mutuario.
+
+II - Deriva daqui que o mutuario não tem de invocar a usucapião para justificar a propriedade do dinheiro recebido, mas isso não significa que se extinga a prestação a que se obrigou da sua restituição.
+
+III - E e, precisamente, esta obrigação que esta em causa na acção em que se pede o cumprimento respectivo.
+
+IV - No mutuo a lei faz derivar a sua validade de certa forma, no caso, a escritura publica, e, por isso, na sua ausencia, segue-se a nulidade da declaração negocial que tem efeito retroactivo, devendo ser restituido tudo que tiver sido prestado ou, se a restituição não for possivel, o valor correspondente.
+
+V - O contrato carecido de forma e inteiramente nulo como se não tivesse sido celebrado, de sorte que, as quantias ou coisas a restituir por causa da nulidade, são-no como se o fossem no momento da concessão do negocio, pelo que nada podem produzir ou render e nem despoletar qualquer tipo de indemnização ou de actualização.
+
+VI - Não haveria nunca que ter em consideração o instituto do enriquecimento sem causa, por a lei fazer depender a sua aplicação da inexistencia de outro meio para o autor ser restituido, o que não acontece no caso dos autos.
