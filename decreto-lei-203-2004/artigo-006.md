@@ -8,4 +8,4 @@
 
 1 - A formação médica durante o internato médico é atribuição do Ministério da Saúde.
 
-2 - O Ministério da Saúde exerce as suas atribuições através dos serviços e estabelecimentos de saúde e dos órgãos do internato médico, sob a coordenação da Administração Central do Sistema de Saúde, I. P., em colaboração com a Ordem dos Médicos, de acordo com o previsto no presente decreto-lei e no Regulamento do Internato Médico, aprovado por portaria do membro do Governo responsável pela área da saúde.
+2 - O Ministério da Saúde exerce as suas atribuições através dos serviços e estabelecimentos de saúde e dos órgãos do internato médico, sob a coordenação do Departamento de Modernização e Recursos da Saúde (DMRS), e com a colaboração da Ordem dos Médicos, de acordo com o previsto no presente diploma e no regulamento do internato médico, a aprovar mediante portaria do Ministro da Saúde, nos termos do artigo 28.º
