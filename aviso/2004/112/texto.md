@@ -1,0 +1,5 @@
+Aviso n.º 112/2004
+Por ordem superior se torna público que a República do Chipre depositou junto do Secretário-Geral do Conselho da Europa, em 17 de Março de 2004, o seu instrumento de ratificação à Convenção Europeia sobre o Reconhecimento da Personalidade Jurídica das Organizações não Governamentais, aberta para assinatura, em Estrasburgo, em 24 de Abril de 1986.
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 28/91, publicada no Diário da República, 1.ª série-A, n.º 205, de 6 de Setembro de 1991, e ratificada pelo Decreto do Presidente da República n.º 44/91, publicado no Diário da República, 1.ª série-A, n.º 205, de 6 de Setembro de 1991, tendo depositado o seu instrumento de ratificação em 1 de Outubro de 1991, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 273, de 27 de Novembro de 1991.
+A Convenção entrará em vigor para a República do Chipre em 1 de Julho de 2004.
+Direcção-Geral dos Assuntos Multilaterais, 14 de Maio de 2004. - O Director de Serviços das Organizações Políticas Internacionais, Bernardo Fernandes Homem de Lucena.
