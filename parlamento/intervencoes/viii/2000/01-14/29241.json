@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2furkWvc0lKdq20ak2KlHOmirXJXFYm74sABWT32jiDLN0U8f%2fPEtMfn8RnKJ0uGruwmBNe3jwMO37t%2fiSCQ9aculmRkJeIKwr%2fOiOzMziHJAnUHHtOwdh287ngLEtCriB2WWEC7LYWi1fowW8ns7Xdb7ZeW1KZ%2fh4MoxhR77APfbIk6lGh2Xrj7umHYAgvxBKomL8r%2b7w%2bcVlag%2bST%2fprrlUOE0u%2b6qHwbnvIQKfKeygiUNrSNiI04zccBV4YEQPPfynibRRVQMmV0H0WPDuRcSm80sGGQgNyTsUcq3R2DGZQtkpt%2bs4PaWOTvEOy%2b0HxZFhxj0gLaLBKCcha3mTRy2bCNMZep%2b9wDXb88fyVXk%3d&fich=IntervencoesVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6a76c73abc08ffed4c44b15f3f36f3269364cf06e4b7f2d6259e2b14d6049817",
+  "legislatura": "VIII",
+  "id": "29241",
+  "tipo": "Interpelação à mesa",
+  "orador": "Luiz Fagundes Duarte (PS)",
+  "data_registo": "2000-01-14",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "105689",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "6345",
+        "tipo": "INI",
+        "titulo": "Proposta de Resolução - Aprova, para ratificação, a Convenção do Unidroit sobre bens culturais roubados ou ilicitamente exportados,  assinada em Roma, a 24 de Julho de 1995"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2000-01-14",
+    "Debate": "PPR 3",
+    "Deputados": {
+      "GP": "PS",
+      "idCadastro": "1666",
+      "nome": "Luiz Fagundes Duarte"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "29241",
+    "IdDebate": "1796",
+    "Iniciativas": [
+      {
+        "fase": "Apreciação",
+        "id": "6345",
+        "tipo": "Proposta de Resolução"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VIII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "29241",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "1054-1054"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-01-15",
+        "pubLeg": "VIII",
+        "pubNr": "27",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/027/2000-01-15/1054?pgs=1054&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "UNIDROIT ROMA ",
+    "Sessao": "1",
+    "Sumario": "APROVA P/ RATIF. A CONVENCAO DO UNIDROIT",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Interpelação à mesa"
+  }
+}
