@@ -1,0 +1,4 @@
+Declaração
+Para os devidos efeitos se declara que a Resolução do Conselho de Ministros n.º 45/88, publicada no Diário da República, 1.ª série, n.º 234, de 10 de Outubro de 1988, e a rectificação publicada em 31 de Outubro, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No n.º 4 da resolução e da rectificação, onde se lê «pelas áreas da indústria e da energia e um representante do ministro responsável pela área do turismo» deve ler-se «pelas áreas da indústria e da energia, um representante do ministro responsável pela área dos transportes e um representante do ministro responsável pela área do turismo».
+Secretaria-Geral da Presidência do Conselho de Ministros, 28 de Novembro de 1988. - O Secretário-Geral, França Martins.
