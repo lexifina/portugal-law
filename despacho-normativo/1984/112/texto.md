@@ -1,0 +1,7 @@
+Despacho Normativo n.º 112/84
+Considerando que a actual redacção do n.º 9 do Despacho Normativo n.º 32/84, de 27 de Janeiro, publicado no Diário da República, de 9 de Fevereiro, não salvaguarda devidamente as legítimas expectativas dos professores que à data da sua publicação se encontravam em exercício de funções;
+Considerando a intenção, expressamente declarada no preâmbulo daquele despacho, de acautelar tais situações:
+Nos termos do disposto no artigo 3.º do Decreto-Lei n.º 519-E/79, de 29 de Dezembro, determina-se:
+O n.º 9 do Despacho Normativo n.º 32/84, de 27 de Janeiro, publicado no Diário da República, de 9 de Fevereiro de 1984, passa a ter a seguinte redacção:
+9 - Salvo nos casos em que deste despacho resultar benefício de situação, os candidatos que se encontrem colocados até à data da publicação do aviso de abertura do concurso relativo ao ano escolar de 1984-1985 mantêm, independentemente do grupo, subgrupo, disciplina ou especialidade em que obtiveram colocação, a titularidade de habilitação própria ou suficiente, de acordo com a legislação em vigor à data imediatamente anterior à da publicação do presente despacho e com respeito pelos escalões nela fixados.
+Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e da Educação, 24 de Abril de 1984. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Educação, José Augusto Seabra. - O Secretário de Estado da Administração Pública, José San-Bento de Menezes.
