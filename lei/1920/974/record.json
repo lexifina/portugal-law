@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1920/05/10800/07250725.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1920-05-25",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "2fff8c2dcefc10fe0602ba86db37a1d6a0644ec31c3b2dd8570a7ac3d6691782",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.7,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "623efd5eb3b26194ad9e93add4f1503cc8c87328c7d38a54c144848a9e4e3cd3",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 134
 }
