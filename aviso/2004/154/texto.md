@@ -1,0 +1,3 @@
+Aviso n.º 154/2004
+Para os devidos efeitos se torna público que no Aviso n.º 130/2004, de 23 de Julho, relativo à Convenção Relativa ao Reconhecimento e à Execução de Decisões em Matéria de Obrigações Alimentares, concluída na Haia, em 2 de Outubro de 1973, no n.º 2 da tradução da reserva apresentada pela Lituânia, onde se lê «entre pessoas com parentesco colateral» deve ler-se «entre parentes na linha colateral» bem como, no seu n.º 3, onde se lê «entre pessoas com parentesco por afinidade» deve ler-se «entre afins».
+Departamento de Assuntos Jurídicos, 27 de Julho de 2004. - O Director, Luís Serradas Tavares.
