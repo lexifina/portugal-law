@@ -1,0 +1,1220 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=6tRSrsS472KL0pihrbeU3Juv4E5ApzTlkuIJMDYc5d38v4XsZgYhKVB7Ayr7k6BD7ZNRnhu1uQv2nCwvvkoyXJgfHcd33Rt69gnnqGDLZ7jjDe9WHr1ZOrkFyZHrN%2bdvof6dUKIxE5Wasjk0TQFMyoX%2fKDcVSYqW4xooRfuNYiYxRnpgxINjnNAVq18dgakPF%2fXopgVWi9%2fPK8k2cZ5tRjc%2bd8zO7m6xWvdsbeUHkofo9FaMQ0PghWTFmLBF2ObMw8XQM9vXrZDGjYuCymHSoJrECXBxqIIzCmd0QdMQC5B6LWcA54XELbiVJgZxukznf%2fhdJzQ3jKe6Egx9h%2fh5EH5FtypL9lWrfzDQfsf80Is%3d&fich=IniciativasVI_json.txt&Inline=true",
+  "ficheiro_sha256": "cb79e0745a8347d94ab476dc88937917b337689f6631b8b987a47bad388a33b7",
+  "legislatura": "VI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "2",
+    "id": "4324",
+    "titulo": "Elimina algumas restrições à concessão de habitação social."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1992-01-14",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "549",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1992-01-14",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "4325",
+        "leg": "VI",
+        "nr": "1",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "523",
+            "obs": null,
+            "pag": [
+              "505-523"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1992-01-15",
+            "pubLeg": "VI",
+            "pubNr": "21",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/021/1992-01-15/505?pgs=505-523&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Regularização extraordinária de estrangeiros não-comunitários em situação irregular."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1992-01-14",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33069",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "526-526"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-01-15",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/021/1992-01-15/526?pgs=526&org=PLC"
+              }
+            ],
+            "sumario": "DIREITO DOS ESTRANGEIROS - HABITACAO SOCIAL - DIREITO DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "156",
+                "nome": "António Costa"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33070",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "526-526"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-01-15",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/021/1992-01-15/526?pgs=526&org=PLC"
+              }
+            ],
+            "sumario": "DIREITO DOS ESTRANGEIROS - HABITACAO SOCIAL - DIREITO DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "133",
+                "nome": "Rui Gomes da Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33071",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "524-527"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-01-15",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/021/1992-01-15/524?pgs=524-527&org=PLC"
+              }
+            ],
+            "sumario": "DIREITO DOS ESTRANGEIROS - HABITACAO SOCIAL - DIREITO DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33072",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "524-524"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-01-15",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/021/1992-01-15/524?pgs=524&org=PLC"
+              }
+            ],
+            "sumario": "DIREITO DOS ESTRANGEIROS - HABITACAO SOCIAL - DIREITO DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33073",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "523-523"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-01-15",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/021/1992-01-15/523?pgs=523&org=PLC"
+              }
+            ],
+            "sumario": "DIREITO DOS ESTRANGEIROS - HABITACAO SOCIAL - DIREITO DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Indep",
+                "idCadastro": "220",
+                "nome": "Mário Tomé"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33080",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "523-523"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-01-15",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/021/1992-01-15/523?pgs=523&org=PLC"
+              }
+            ],
+            "sumario": "DIREITO DOS ESTRANGEIROS - HABITACAO SOCIAL - DIREITO DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "50",
+                "nome": "Fernando Condesso"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33081",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "522-523"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-01-15",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/021/1992-01-15/522?pgs=522-523&org=PLC"
+              }
+            ],
+            "sumario": "DIREITO DOS ESTRANGEIROS - HABITACAO SOCIAL - DIREITO DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "100",
+                "nome": "Luís Geraldes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33082",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "521-521"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-01-15",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/021/1992-01-15/521?pgs=521&org=PLC"
+              }
+            ],
+            "sumario": "DIREITO DOS ESTRANGEIROS - HABITACAO SOCIAL - DIREITO DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "162",
+                "nome": "Edite Estrela"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33085",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "520-521"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-01-15",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/021/1992-01-15/520?pgs=520-521&org=PLC"
+              }
+            ],
+            "sumario": "DIREITO DOS ESTRANGEIROS - HABITACAO SOCIAL - DIREITO DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33088",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "519-519"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-01-15",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/021/1992-01-15/519?pgs=519&org=PLC"
+              }
+            ],
+            "sumario": "DIREITO DOS ESTRANGEIROS - HABITACAO SOCIAL - DIREITO DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "156",
+                "nome": "António Costa"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33089",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "518-519"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-01-15",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/021/1992-01-15/518?pgs=518-519&org=PLC"
+              }
+            ],
+            "sumario": "DIREITO DOS ESTRANGEIROS - HABITACAO SOCIAL - DIREITO DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "66",
+                "nome": "João Matos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33090",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "517-520"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-01-15",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/021/1992-01-15/517?pgs=517-520&org=PLC"
+              }
+            ],
+            "sumario": "DIREITO DOS ESTRANGEIROS - HABITACAO SOCIAL - DIREITO DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "100",
+                "nome": "Luís Geraldes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33091",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "516-516"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-01-15",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/021/1992-01-15/516?pgs=516&org=PLC"
+              }
+            ],
+            "sumario": "DIREITO DOS ESTRANGEIROS - HABITACAO SOCIAL - DIREITO DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "156",
+                "nome": "António Costa"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33092",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "515-516"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-01-15",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/021/1992-01-15/515?pgs=515-516&org=PLC"
+              }
+            ],
+            "sumario": "DIREITO DOS ESTRANGEIROS - HABITACAO SOCIAL - DIREITO DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "100",
+                "nome": "Luís Geraldes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33093",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "515-515"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-01-15",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/021/1992-01-15/515?pgs=515&org=PLC"
+              }
+            ],
+            "sumario": "DIREITO DOS ESTRANGEIROS - HABITACAO SOCIAL - DIREITO DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "228",
+                "nome": "Manuel Queiró"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33094",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "514-514"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-01-15",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/021/1992-01-15/514?pgs=514&org=PLC"
+              }
+            ],
+            "sumario": "DIREITO DOS ESTRANGEIROS - HABITACAO SOCIAL - DIREITO DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "190",
+                "nome": "José Leitão"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33095",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "512-514",
+                  "516-517"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-01-15",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/021/1992-01-15/512?pgs=512-514,516-517&org=PLC"
+              }
+            ],
+            "sumario": "DIREITO DOS ESTRANGEIROS - HABITACAO SOCIAL - DIREITO DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33096",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "510-512"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-01-15",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/021/1992-01-15/510?pgs=510-512&org=PLC"
+              }
+            ],
+            "sumario": "DIREITO DOS ESTRANGEIROS - HABITACAO SOCIAL - DIREITO DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "228",
+                "nome": "Manuel Queiró"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33097",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "509-509"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-01-15",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/021/1992-01-15/509?pgs=509&org=PLC"
+              }
+            ],
+            "sumario": "DIREITO DOS ESTRANGEIROS - HABITACAO SOCIAL - DIREITO DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33098",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "509-509"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-01-15",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/021/1992-01-15/509?pgs=509&org=PLC"
+              }
+            ],
+            "sumario": "DIREITO DOS ESTRANGEIROS - HABITACAO SOCIAL - DIREITO DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Indep",
+                "idCadastro": "212",
+                "nome": "João Corregedor da Fonseca"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33099",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "508-508"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-01-15",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/021/1992-01-15/508?pgs=508&org=PLC"
+              }
+            ],
+            "sumario": "DIREITO DOS ESTRANGEIROS - HABITACAO SOCIAL - DIREITO DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSN",
+                "idCadastro": "232",
+                "nome": "Manuel Sérgio"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33100",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "507-509"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-01-15",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/021/1992-01-15/507?pgs=507-509&org=PLC"
+              }
+            ],
+            "sumario": "DIREITO DOS ESTRANGEIROS - HABITACAO SOCIAL - DIREITO DE VOTO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "156",
+                "nome": "António Costa"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "33107",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "505-507"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-01-15",
+                "pubLeg": "VI",
+                "pubNr": "21",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/021/1992-01-15/505?pgs=505-507&org=PLC"
+              }
+            ],
+            "sumario": "DIREITO DOS ESTRANGEIROS - HABITACAO SOCIAL - DIREITO DE VOTO",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "97922",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "107330",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1992-01-15",
+        "pubLeg": "VI",
+        "pubNr": "21",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/021/1992-01-15?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
