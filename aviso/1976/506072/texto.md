@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que a Embaixada de Portugal em Belgrado enviou à Secretaria Federal dos Negócios Estrangeiros uma nota verbal, datada de 18 de Dezembro de 1975, informando que a parte portuguesa já dera cumprimento às formalidades constitucionais relativas à elaboração e entrada em vigor do Acordo Comercial entre a República Portuguesa e a República Socialista Federativa da Jugoslávia, assinado em Lisboa em 9 de Maio de 1975 e publicado no Diário do Governo, 1.ª série, n.º 269, de 20 de Novembro de 1975, em resposta a uma nota verbal daquela Secretaria Federal que informava estarem cumpridas aquelas formalidades pela parte jugoslava.
+Nesta conformidade, e segundo as disposições do seu artigo X, o Acordo em apreço entrou em vigor no dia 18 de Dezembro de 1975.
+Direcção-Geral dos Negócios Económicos, 26 de Dezembro de 1975. - O Director-Geral Adjunto, Fernando Manuel da Silva Marques.
