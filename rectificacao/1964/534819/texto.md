@@ -1,0 +1,13 @@
+Rectificação
+Tendo sido publicado com inexactidão no Diário do Governo n.º 129, 1.ª série, de 1 de Junho último, pelo Ministério do Ultramar, Direcção-Geral da Aeronáutica Civil, o Decreto n.º 45745, determino que se faça a seguinte rectificação:
+No mapa do quadro do pessoal, anexo ao diploma, onde se lê:
+Pessoal auxiliar:
+...
+Bombeiros auxiliares: ... S
+...
+deve ler-se:
+Pessoal auxiliar:
+...
+Bombeiros auxiliares ... Z
+...
+Presidência do Conselho, 12 de Agosto de 1964. - O Presidente do Conselho, António de Oliveira Salazar.
