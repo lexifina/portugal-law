@@ -1,0 +1,3 @@
+Despacho
+Nos termos do disposto no artigo 2.º do Decreto-Lei n.º 43000, de 1 de Junho de 1960, mediante proposta do Ministério da Educação Nacional, é declarada a habilitação do curso de condutor de máquinas agrícolas professado nas escolas práticas de agricultura, na vigência do Decreto n.º 1971, de 9 de Outubro de 1915, como suficiente, em paralelo com o curso geral dos liceus, para efeito de provimento nos lugares de encarregado geral de sondagens da Direcção-Geral dos Serviços Hidráulicos.
+Presidência do Conselho, 31 de Dezembro de 1969. - Pelo Presidente do Conselho, o Ministro de Estado, Alfredo de Queirós Ribeiro Vaz Pinto.
