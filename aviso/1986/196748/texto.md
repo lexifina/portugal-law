@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que, em 14 de Janeiro de 1986, a República Federal da Alemanha depositou, junto do Ministério dos Negócios Estrangeiros do Reino dos Países Baixos, uma notificação de denúncia da Convenção sobre as Leis Relativas aos Efeitos do Casamento sobre os Direitos e Deveres dos Esposos nas Suas Relações Pessoais e sobre os Bens dos Esposos, feita na Haia em 17 de Julho de 1905, bem como o Protocolo relativo à adesão àquela Convenção, feito na Haia em 28 de Novembro de 1923. A denúncia da Convenção produzirá efeitos em relação à República Federal da Alemanha a partir de 23 de Agosto de 1987.
+Portugal é Parte nos instrumentos diplomáticos em questão.
+Secretaria-Geral do Ministério, 27 de Fevereiro de 1986. - O Director dos Serviços Jurídicos e de Tratados, Fernão Manuel Fávila Vieira.
