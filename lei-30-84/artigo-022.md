@@ -1,9 +1,15 @@
 # Artigo 22.º
 
-### Directores dos serviços de informações
+### Secretário-geral da Comissão Técnica
 
-1 - O Serviço de Informações Estratégicas de Defesa e o Serviço de Informações de Segurança são dirigidos, cada um deles, por um director, coadjuvado por um director-adjunto.
+1 - O secretário-geral da Comissão Técnica goza de todos os direitos e regalias conferidos aos directores dos serviços de informações e dispõe de um gabinete de apoio com a composição e nas condições de prestação de serviço que forem fixadas pelo Primeiro-Ministro.
 
-2 - O director dos serviços de informações é titular de um cargo de direcção superior de 1.º grau e o director-adjunto de um cargo superior de 2.º grau.
+2 - Sem prejuízo da competência própria da Comissão Técnica, compete ao secretário-geral:
 
-3 - Compete ao director assumir, no quadro das orientações emanadas do Secretário-Geral, a responsabilidade directa pela normal actividade e pelo regular funcionamento de cada serviço.
+a) Assegurar o apoio funcional necessário aos trabalhos do Conselho Superior de Informações;
+
+b) Garantir a articulação entre a Comissão Técnica e os outros órgãos e serviços do Sistema de Informações da República Portuguesa;
+
+c) Transmitir informações pontuais e sistemáticas às entidades que lhe forem indicadas pelo Primeiro-Ministro;
+
+d) Desenvolver a sua actividade, elaborar estudos e preparar documentos, de acordo com as orientações e determinações do Primeiro-Ministro.

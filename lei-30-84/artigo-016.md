@@ -2,4 +2,4 @@
 
 ### Autonomia administrativa e financeira
 
-O Serviço de Informações Estratégicas de Defesa e o Serviço de Informações de Segurança gozam de autonomia administrativa e financeira. .
+O Serviço de Informações Estratégicas de Defesa e Militares e o Serviço de Informações de Segurança gozam de autonomia administrativa e financeira.
