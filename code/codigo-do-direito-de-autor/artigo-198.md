@@ -1,9 +1,9 @@
 # Artigo 198.º
 
-### (Violação do direito moral)
+### Violação do direito moral
 
-Será punido com as penas previstas no artigo anterior:
+É punido com as penas previstas no artigo anterior:
 
-a) Quem se arrogar fraudulentamente a paternidade de uma obra ou de prestação que sabe não lhe pertencer;
+a) Quem se arrogar a paternidade de uma obra de prestação que sabe não lhe pertencer;
 
-b) Quem atentar fraudulentamente contra a genuinidade ou integridade de obra ou prestação, praticando acto que a desvirtue e possa afectar a honra e reputação do autor ou do artista.
+b) Quem atentar contra a genuinidade ou integridade da obra ou prestação, praticando acto que a desvirtue e possa afectar a honra ou reputação do autor ou do artista.

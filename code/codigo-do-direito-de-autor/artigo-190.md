@@ -1,10 +1,10 @@
 # Artigo 190.º
 
-### (Requisitos da protecção)
+### Requisitos da protecção
 
-1 - O artista é protegido desde que se verifique uma das seguintes condições:
+1 - O artista, intérprete ou executante é protegido desde que se verifique uma das seguintes condições:
 
-a) Que seja de nacionalidade portuguesa;
+a) Que seja de nacionalidade portuguesa ou de Estado membro das Comunidades Europeias;
 
 b) Que a prestação ocorra em território português;
 
@@ -12,7 +12,7 @@ c) Que a prestação original seja fixada ou radiodifundida pela primeira vez em
 
 2 - Os fonogramas e os videogramas são protegidos desde que se verifique uma das seguintes condições:
 
-a) Que o produtor seja de nacionalidade portuguesa ou tenha a sua sede em território português;
+a) Que o produtor seja de nacionalidade portuguesa ou de um Estado membro das Comunidades Europeias ou que tenha a sua sede efectiva em território português ou em qualquer ponto do território comunitário;
 
 b) Que a fixação dos sons e imagens, separada ou cumulativamente, tenha sido feita licitamente em Portugal;
 
@@ -20,6 +20,6 @@ c) Que o fonograma ou videograma tenha sido publicado pela primeira vez ou simul
 
 3 - As emissões de radiodifusão são protegidas desde que se verifique uma das seguintes condições:
 
-a) Que a sede do organismo esteja situada em território português;
+a) Que a sede efectiva do organismo esteja situada em Portugal ou em Estado membro das Comunidades Europeias;
 
-b) Que a emissão de radiodifusão tenha sido transmitida a partir de estação situada em território português.
+b) Que a emissão de radiodifusão tenha sido transmitida a partir de estação situada em território português ou de Estado membro das Comunidades Europeias.
