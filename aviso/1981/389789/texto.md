@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo informação da Embaixada da Bélgica em Lisboa, o Governo de Papua-Nova Guiné depositou, em 14 de Outubro de 1980, a notificação de sucessão respeitante à Convenção para Unificação de Certas Regras no Campo de Assistência e Salvaguarda Marítima, com efeito a partir da data da independência de Papua-Nova Guiné, em 16 de Setembro de 1975, bem como o instrumento de adesão ao Protocolo, assinado em Bruxelas em 27 de Maio de 1967, que introduziu alterações à referida Convenção, assinada em Bruxelas em 23 de Setembro de 1910.
+Direcção-Geral dos Negócios Económicos, 20 de Janeiro de 1981. - O Adjunto do Director-Geral, Carlos Alberto Soares Simões Coelho.
