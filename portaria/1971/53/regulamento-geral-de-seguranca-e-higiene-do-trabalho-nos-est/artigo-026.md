@@ -1,11 +1,13 @@
 ## Secção IV
 
-## Ruído
+## Ruído e vibrações
 
 # Artigo 26.º
 
-### (Protecção contra o ruído)
+### (Ruído e vibrações)
 
-Nos locais de trabalho devem eliminar-se ou reduzir-se os ruídos e limitar-se a sua propagação pela adopção de medidas técnicas apropriadas.
+1 - Nos locais de trabalho devem eliminar-se ou reduzir-se os ruídos e vibrações prejudicais ou incómodos.
 
-Quando as medidas técnicas de protecção aplicáveis não forem suficientes, deve limitar-se o tempo de exposição ao ruído e os trabalhadores usarem protectores adequados.
+2 - Os critérios de avaliação do risco de trauma auditivo por exposição ao ruído, bem como o de avaliação do risco devido à exposição a vibrações, devem ser os previstos em normas portuguesas específicas.
+
+Recomendação. - Recomenda-se que os valores limites de exposição ao ruído e às vibrações não ultrapassem os indicados em normas portuguesas.

@@ -1,21 +1,23 @@
 # Artigo 69.º
 
-### (Manutenção das cargas)
+### (Manutenção de cargas)
 
-1. A elevação das cargas deve efectuar-se verticalmente, a fim de evitar oscilações no decurso da elevação.
+1 - A elevação das cargas deve efectuar-se verticalmente, a fim de evitar oscilações no decurso da operação. Quando for absolutamente necessária uma elevação oblíqua, devem ser observadas as precauções convenientes.
 
-Quando for absolutamente necessária uma elevação oblíqua, devem ser observadas as precauções indicadas pelas circunstâncias.
+2 - As cargas devem ser içadas, arreadas ou removidas de modo a evitar choques bruscos.
 
-2. A elevação deve ser precedida da verificação da correcta fixação dos cabos, lingas ou outras amarras às cargas, do bom equilíbrio destas e da não existência de qualquer perigo para outros operários.
+3 - Os recipientes destinados a içar ou arrear ferramentas ou materiais soltos devem ser concebidos de maneira que nenhum dos objectos transportados possa cair.
 
-Em caso de má sustentação de uma carga no decurso da sua elevação, o condutor deve accionar imediatamente o sinal avisador e pousar a carga, a fim de ser correctamente amarrada.
+4 - A elevação deve ser precedida da verificação da correcta fixação dos cabos, lingas ou outras amarras às cargas, do bom equilíbrio destas e da não existência de qualquer perigo para outros trabalhadores.
 
-3. No decurso da elevação, transporte horizontal e descida das cargas suspensas, os sinaleiros devem dirigir a manobra de maneira que as cargas não esbarrem em qualquer objecto.
+Recomendação. - Em caso de má sustenção de uma carga no decurso da sua elevação, o condutor deve accionar imediatamente o sinal avisador e pousar a carga, a fim de ser correctamente amarrada.
 
-Precauções idênticas se devem tomar relativamente às lingas suspensas e aos próprios ganchos quando os aparelhos de elevação funcionem em vazio.
+5 - No decurso da elevação, transporte horizontal e descida das cargas suspensas os sinaleiros devem dirigir a manobra de maneira que as cargas não esbarrem em qualquer objecto.
 
-4. Os condutores dos aparelhos de elevação devem evitar, tanto quanto possível, transportar as cargas por cima dos operários e dos locais onde a sua eventual queda possa constituir perigo.
+Recomendação. - Precauções idênticas se devem tomar relativamente às lingas suspensas e aos próprios ganchos quando os aparelhos de elevação funcionem em vazio.
 
-Quando seja necessário deslocar, por cima dos locais de trabalho, cargas perigosas, tais como metal em fusão ou objectos presos a electroímanes deve lançar-se um sinal de advertência eficaz, a fim de permitir que os operários abandonem a zona perigosa.
+6 - Os condutores dos aparelhos de elevação devem evitar, tanto quanto possível, transportar as cargas por cima dos trabalhadores e dos locais onde a sua eventual queda possa constituir perigo.
 
-Os condutores dos aparelhos de elevação não os devem deixar sem vigilância quando estiver suspensa uma carga.
+Recomendação. - Quando seja necessário deslocar, por cima dos locais de trabalho, cargas perigosas, tais como metal em fusão ou objectos presos a electroímanes, deve lançar-se um sinal de advertência eficaz, a fim de alertar os trabalhadores para abandonarem a zona perigosa.
+
+Recomendação. - Os condutores dos aparelhos de elevação não os devem deixar sem vigilância quando estiver suspensa uma carga.

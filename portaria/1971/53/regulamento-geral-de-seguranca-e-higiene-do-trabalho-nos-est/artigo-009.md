@@ -2,6 +2,10 @@
 
 ### (Paredes)
 
-1. As paredes dos locais de trabalho devem ser de cor clara não brilhante, se outra cor não for imposta por condições inerentes à laboração.
+1 - As paredes dos locais de trabalho, quando não sejam construídas com material preparado para ficar à vista, serão guarnecidas com revestimentos apropriados que garantam as indispensáveis condições de salubridade.
 
-2. Quando se mostre necessário, as paredes devem ter um revestimento impermeável total ou parcial de, pelo menos, 1,5 m de altura.
+2 - As paredes devem ser de preferência lisas, de fácil limpeza e revestidas ou pintadas de cores claras não brilhantes, se outras cores não forem impostas por condições especiais.
+
+3 - Quando for necessário, as paredes devem ser revestidas com materiais impermeáveis até, pelo menos, 1,50 m de altura.
+
+4 - Sempre que necessário, as paredes devem ser incombustíveis.

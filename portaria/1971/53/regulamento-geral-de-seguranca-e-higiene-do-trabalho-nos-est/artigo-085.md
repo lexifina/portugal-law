@@ -2,9 +2,9 @@
 
 ### (Elevação e transporte de materiais)
 
-1. Sempre que possível, devem ser utilizados aparelhos mecânicos para elevar e transportar materiais.
+1 - Devem ser utilizados meios técnicos apropriados na carga, descarga, circulação, transporte e armazenagem de materiais, de forma a evitar, na medida do possível, os esforços físicos.
 
-Os operários encarregados da manutenção dos materiais devem ser instruídos no que respeita à maneira de elevar e transportar cargas com segurança.
+Recomendação. - Os trabalhadores encarregados do manuseamento dos materiais devem ser instruídos no que respeita à maneira de elevar e transportar cargas com segurança.
 
 2. Quando tenham de ser elevados ou transportados objectos muito pesados por uma equipa de trabalhadores, a elevação e a deposição das cargas devem ser comandadas por forma a manter a unidade da manobra e a segurança das operações.
 

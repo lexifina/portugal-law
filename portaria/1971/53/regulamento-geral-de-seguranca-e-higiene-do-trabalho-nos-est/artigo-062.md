@@ -10,6 +10,4 @@
 
 ### (Construção e conservação)
 
-Todos os elementos da estrutura e do mecanismo e os acessórios dos aparelhos de elevação devem ser de boa construção, de materiais apropriados e resistentes, e ser mantidos em bom estado de conservação e funcionamento.
-
-Os parafusos devem ter a parte roscada com comprimento suficiente para permitir o reaperto, e aqueles que fixam os mecanismos devem ser providos de contraporcas ou anilhas de segurança.
+Todos os elementos da estrutura, mecanismo, fixação e acessórios dos aparelhos de elevação devem ser de boa construção, de materiais apropriados e resistentes, e ser mantidos em bom estado de conservação e funcionamento.

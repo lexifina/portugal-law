@@ -1,9 +1,7 @@
 # Artigo 150.º
 
-### (Protecção das vias respiratórias)
+### (Protecção de outras regiões do corpo)
 
-Os trabalhadores expostos a risco de inalação de poeiras, gases ou vapores nocivos devem dispor de máscaras ou outros dispositivos adequados à natureza do risco.
+Os trabalhadores que estejam expostos a riscos que afectem outras partes do corpo devem dispor de vestuário adequado, aventais, capuzes, peitilhos ou outras protecções de forma e material apropriados.
 
-Os aparelhos respiratórios devem ser, de preferência, individuais.
-
-Quando usados por outro indivíduo, devem ser esterilizados.
+Recomendação. - Em casos de especial exposição a risco de incêndio deve evitar-se o uso de equipamento de protecção individual confeccionado com fibras artificias, facilmente inflamáveis.

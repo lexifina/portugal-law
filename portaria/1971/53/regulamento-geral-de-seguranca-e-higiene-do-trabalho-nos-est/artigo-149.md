@@ -1,7 +1,7 @@
 # Artigo 149.º
 
-### (Protecção de outras partes do corpo)
+### (Protecção das vias respiratórias)
 
-Os trabalhadores que estejam expostos a riscos que afectem outras partes do corpo devem dispor de vestuário adequado, aventais, capuzes ou peitilhos, de forma e material apropriados.
+1 - Os trabalhadores expostos ao risco de inalação de poeiras, gases, fumos ou vapores nocivos devem dispor de máscaras ou outros dispositivos adequados à natureza dos riscos.
 
-Em casos de especial exposição a risco de incêndio, deve evitar-se o uso de roupas confeccionadas com fibras artificiais fàcilmente inflamáveis.
+2 - As máscaras poderão ser utilizadas isoladamente ou acopuladas a outros dispositivos de protecção individual, formando conjuntos adequados aos vários riscos inerentes a determinados postos de trabalho.
