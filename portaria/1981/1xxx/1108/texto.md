@@ -1,0 +1,21 @@
+Portaria n.º 1108/81
+de 30 de Dezembro
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Tesouro, ao abrigo do disposto no n.º 1 do artigo 1.º do Decreto-Lei n.º 371/78, de 30 de Novembro, observado o estabelecido no n.º 1 do artigo 8.º do mesmo diploma, autorizar a LISNAVE - Estaleiros Navais de Lisboa, S. A. R. L., com sede em Lisboa, a emitir, para subscrição pública, ao par, 1200000 obrigações do valor nominal de 1000$00, representadas por títulos ao portador de 1 e 10 obrigações ou em certificados.
+A taxa de juro nominal do 1.º cupão é de 20%.
+Para cada um dos cupões seguintes a taxa de juro será a correspondente à taxa básica de desconto do Banco de Portugal em vigor no primeiro dia de cada período de vencimento de juros, acrescida do diferencial de 2%.
+Ao abrigo do artigo 27.º do Decreto-Lei n.º 46492, de 18 de Agosto de 1965, é concedida aos juros das obrigações a isenção do imposto de capitais e do imposto complementar.
+Os juros das obrigações contar-se-ão semestralmente, a partir da data do início da subscrição, e vencer-se-ão nos dias 15 de Fevereiro e 15 de Agosto de cada ano, sendo 15 de Agosto de 1982 a data do primeiro pagamento, correspondente aos juros contados desde o início da subscrição até àquela data.
+A duração máxima das obrigações será de 6 anos e a amortização destas efectuar-se-á, por sorteio, em 5 anuidades, na data do vencimento da primeira prestação de juros ocorrente em cada ano, sendo a primeira efectuada em 15 de Fevereiro de 1984 e a última em 15 de Fevereiro de 1988.
+As amortizações serão feitas pelo valor nominal, acrescido dos seguintes prémios de reembolso:
+Na 1.ª amortização - 45$00;
+Na 2.ª amortização - 60$00;
+Na 3.ª amortização - 75$00;
+Na 4.ª amortização - 95$00;
+Na 5.ª amortização - 115$00.
+As condições de pagamento dos juros e das amortizações correspondentes às obrigações farão parte do respectivo plano de amortização a publicar no Diário da República.
+Os encargos deste empréstimo serão suportados pela LISNAVE - Estaleiros Navais de Lisboa, S. A. R. L., por eles respondendo o total das suas receitas.
+Esta autorização é concedida nas seguintes condições:
+1.ª A emissão só poderá realizar-se depois de terem dado entrada na Direcção-Geral do Tesouro o documento comprovativo de ter sido efectuado o competente registo na Conservatória do Registo Comercial e um exemplar do Diário da República em que tenha sido publicado o respectivo plano de amortização;
+2.ª Dos títulos definitivos deverá constar o número e a data do Diário da República que publicar a presente portaria, bem como o plano de amortização e o número e data do Diário da República em que este foi publicado;
+3.ª O período de subscrição fica sujeito à prévia concordância da Direcção-Geral do Tesouro.
+Ministério das Finanças e do Plano, 18 de Dezembro de 1981. - O Secretário de Estado do Tesouro, Walter Waldemar Pego Marques.
