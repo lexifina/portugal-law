@@ -1,0 +1,5 @@
+Declaração
+Segundo comunicação do Ministério do Comércio e Turismo, a Resolução n.º 18/79, publicada no Diário da República, 1.ª série, n.º 14, de 17 de Janeiro de 1979, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No ponto 1.1, onde se lê: «... Sointal - Sociedade de Iniciativas Turísticas do Algarve, S. A. R. L., ...», deve ler-se: «... Sointal - Sociedade de Iniciativas Turísticas Algarvias, S. A. R. L., ...», e onde se lê: «... John Benedice Stilwell, ...», deve ler-se: «... John Benedict Stilwell, ...»
+No ponto 1.2, onde se lê: «Nomear a comissão administrativa do Grupo de Sociedades Prainha - Empreendimentos Imobiliários, S. A. R. L., ...» deve ler-se: «Nomear a comissão administrativa do Grupo Painha (Prainha Empreendimentos Turísticos, S. A. R. L.; Prainha - Empreendimentos Imobiliários, S. A. R. L.; Adeprainha - Administração da Aldeia da Prainha, Lda.) ...»
+Secretaria-Geral da Presidência do Conselho de Ministros, 7 de Fevereiro de 1979. - O Secretário-Geral, Alfredo Barroso.
