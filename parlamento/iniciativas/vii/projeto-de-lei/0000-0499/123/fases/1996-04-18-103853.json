@@ -1,0 +1,782 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "123",
+    "id": "5535",
+    "titulo": "Assegura a consulta pública dos arquivos das extintas PIDE/ /DGS e LP, devolve originais de documentos apreendidos a cidadãos e adopta outras medidas de preservação da memória histórica da luta contra a ditadura."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1996-04-18",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1424",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1996-04-18",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "CDS-PP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "5506",
+        "leg": "VII",
+        "nr": "139",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "173",
+            "obs": null,
+            "pag": [
+              "1882-1896"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1996-04-19",
+            "pubLeg": "VII",
+            "pubNr": "59",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/059/1996-04-19/1882?pgs=1882-1896&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Devolução de documentos de natureza privada constantes dos arquivos das extintas PIDE/DGS e LP."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1996-04-18",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1352",
+                "nome": "Paulo Portas"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44308",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1895-1896"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-04-19",
+                "pubLeg": "VII",
+                "pubNr": "59",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/059/1996-04-19/1895?pgs=1895-1896&org=PLC"
+              }
+            ],
+            "sumario": "PIDE/DGS E LP: CONSULTA PUBLICA DOS ARQUIVOS E DEVOLUCAO DEDOCUMENTOS DE INTERESSE PRIVADO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "235",
+                "nome": "Manuel Alegre"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44309",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1894-1895"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-04-19",
+                "pubLeg": "VII",
+                "pubNr": "59",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/059/1996-04-19/1894?pgs=1894-1895&org=PLC"
+              }
+            ],
+            "sumario": "PIDE/DGS E LP: CONSULTA PUBLICA DOS ARQUIVOS E DEVOLUCAO DEDOCUMENTOS DE INTERESSE PRIVADO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44310",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1894-1894"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-04-19",
+                "pubLeg": "VII",
+                "pubNr": "59",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/059/1996-04-19/1894?pgs=1894&org=PLC"
+              }
+            ],
+            "sumario": "PIDE/DGS E LP: CONSULTA PUBLICA DOS ARQUIVOS E DEVOLUCAO DEDOCUMENTOS DE INTERESSE PRIVADO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "81",
+                "nome": "Silva Marques"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44311",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1890-1891"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-04-19",
+                "pubLeg": "VII",
+                "pubNr": "59",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/059/1996-04-19/1890?pgs=1890-1891&org=PLC"
+              }
+            ],
+            "sumario": "PIDE/DGS E LP: CONSULTA PUBLICA DOS ARQUIVOS E DEVOLUCAO DEDOCUMENTOS DE INTERESSE PRIVADO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44312",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1890-1890"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-04-19",
+                "pubLeg": "VII",
+                "pubNr": "59",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/059/1996-04-19/1890?pgs=1890&org=PLC"
+              }
+            ],
+            "sumario": "PIDE/DGS E LP: CONSULTA PUBLICA DOS ARQUIVOS E DEVOLUCAO DEDOCUMENTOS DE INTERESSE PRIVADO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "81",
+                "nome": "Silva Marques"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44313",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1888-1890"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-04-19",
+                "pubLeg": "VII",
+                "pubNr": "59",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/059/1996-04-19/1888?pgs=1888-1890&org=PLC"
+              }
+            ],
+            "sumario": "PIDE/DGS E LP: CONSULTA PUBLICA DOS ARQUIVOS E DEVOLUCAO DEDOCUMENTOS DE INTERESSE PRIVADO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "235",
+                "nome": "Manuel Alegre"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44314",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1887-1888"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-04-19",
+                "pubLeg": "VII",
+                "pubNr": "59",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/059/1996-04-19/1887?pgs=1887-1888&org=PLC"
+              }
+            ],
+            "sumario": "PIDE/DGS E LP: CONSULTA PUBLICA DOS ARQUIVOS E DEVOLUCAO DEDOCUMENTOS DE INTERESSE PRIVADO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1243",
+                "nome": "Maria do Céu Ramos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44315",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1886-1887"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-04-19",
+                "pubLeg": "VII",
+                "pubNr": "59",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/059/1996-04-19/1886?pgs=1886-1887&org=PLC"
+              }
+            ],
+            "sumario": "PIDE/DGS E LP: CONSULTA PUBLICA DOS ARQUIVOS E DEVOLUCAO DEDOCUMENTOS DE INTERESSE PRIVADO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "167",
+                "nome": "Fernando Pereira Marques"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44316",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1885-1886"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-04-19",
+                "pubLeg": "VII",
+                "pubNr": "59",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/059/1996-04-19/1885?pgs=1885-1886&org=PLC"
+              }
+            ],
+            "sumario": "PIDE/DGS E LP: CONSULTA PUBLICA DOS ARQUIVOS E DEVOLUCAO DEDOCUMENTOS DE INTERESSE PRIVADO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1086",
+                "nome": "Jorge Ferreira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44317",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1885-1885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-04-19",
+                "pubLeg": "VII",
+                "pubNr": "59",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/059/1996-04-19/1885?pgs=1885&org=PLC"
+              }
+            ],
+            "sumario": "PIDE/DGS E LP: CONSULTA PUBLICA DOS ARQUIVOS E DEVOLUCAO DEDOCUMENTOS DE INTERESSE PRIVADO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "167",
+                "nome": "Fernando Pereira Marques"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44318",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1885-1885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-04-19",
+                "pubLeg": "VII",
+                "pubNr": "59",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/059/1996-04-19/1885?pgs=1885&org=PLC"
+              }
+            ],
+            "sumario": "PIDE/DGS E LP: CONSULTA PUBLICA DOS ARQUIVOS E DEVOLUCAO DEDOCUMENTOS DE INTERESSE PRIVADO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1352",
+                "nome": "Paulo Portas"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44319",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1883-1888"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-04-19",
+                "pubLeg": "VII",
+                "pubNr": "59",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/059/1996-04-19/1883?pgs=1883-1888&org=PLC"
+              }
+            ],
+            "sumario": "PIDE/DGS E LP: CONSULTA PUBLICA DOS ARQUIVOS E DEVOLUCAO DEDOCUMENTOS DE INTERESSE PRIVADO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "167",
+                "nome": "Fernando Pereira Marques"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44320",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1882-1883"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-04-19",
+                "pubLeg": "VII",
+                "pubNr": "59",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/059/1996-04-19/1882?pgs=1882-1883&org=PLC"
+              }
+            ],
+            "sumario": "PIDE/DGS E LP: CONSULTA PUBLICA DOS ARQUIVOS E DEVOLUCAO DEDOCUMENTOS DE INTERESSE PRIVADO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1182",
+                "nome": "Ruben de Carvalho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "44321",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-04-19",
+                "pubLeg": "VII",
+                "pubNr": "59",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/059/1996-04-19?org=PLC"
+              }
+            ],
+            "sumario": "PIDE/DGS E LP: CONSULTA PUBLICA DOS ARQUIVOS E DEVOLUCAO DEDOCUMENTOS DE INTERESSE PRIVADO",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "103853",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "110394",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1996-04-19",
+        "pubLeg": "VII",
+        "pubNr": "59",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/059/1996-04-19?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
