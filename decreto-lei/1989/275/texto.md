@@ -1,0 +1,14 @@
+Decreto-Lei n.º 275/89
+de 22 de Agosto
+O Decreto-Lei n.º 300/84, de 7 de Setembro, que define o sistema de autoridade marítima, prevê, como um dos órgãos consultivos para as matérias relacionadas com o exercício global das actividades da autoridade marítima, a Comissão do Domínio Público Marítimo, integrada por representantes de vários departamentos do Estado com responsabilidade nesse domínio.
+Dada a importância crescente da política de ordenamento do território e as suas implicações óbvias com a actividade da autoridade marítima, impõe-se a participação na Comissão do Domínio Público Marítimo de um representante do departamento que tutela o ordenamento do território.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+Artigo único. Ao n.º 2 do artigo 5.º do Decreto-Lei n.º 300/84, de 7 de Setembro, é acrescentada a seguinte alínea:
+u) Um representante do departamento de tutela do ordenamento do território.
+Visto e aprovado em Conselho de Ministros de 13 de Julho de 1989. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - João de Deus Rogado Salvador Pinheiro - Álvaro Roque de Pinho Bissaia Barreto - Luís Fernando Mira Amaral - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Joaquim Martins Ferreira do Amaral.
+Promulgado em 2 de Agosto de 1989.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 4 de Agosto de 1989.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
