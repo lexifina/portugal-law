@@ -1,0 +1,4 @@
+Portaria n.º 637/77
+de 7 de Outubro
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Tesouro, observado o que dispõe o Decreto-Lei n.º 55/72, de 16 de Fevereiro, autorizar a Milnorte - Metalurgia do Norte, S. A. R. L., com sede na Rua de Azevedo Coutinho, 39, 2.º, Porto, a aumentar o seu capital social de 80000 contos para 180000 contos, mediante a emissão, ao par, de 100000 acções de valor nominal de 1000$00 cada uma, a subscrever pelos actuais accionistas, sem prejuízo da obrigatoriedade de 20% do capital social (total) virem a ser subscritos pelo recurso à subscrição pública, devendo o respectivo pagamento ser feito integralmente a dinheiro no acto da subscrição.
+Secretaria de Estado do Tesouro, 27 de Setembro de 1977. - O Secretário de Estado do Tesouro, Maria Manuela Matos Morgado Santiago Baptista.
