@@ -1,0 +1,20 @@
+Despacho
+As actuais condições de funcionamento da Jacinto Ramos & Irmão, empresa significativa no sector das máquinas-ferramentas, pondo em risco o emprego de mais de uma centena de trabalhadores e a sobrevivência de uma unidade industrial dotada de uma razoável capacidade técnica, justificam e aconselham a intervenção urgente do Estado sob a forma de um regime provisório de gestão.
+Nestes termos, considerando preenchidas as condições previstas no Decreto-Lei n.º 422/76, de 29 de Maio, o Governo, por intermédio dos Ministros das Finanças e da indústria e Tecnologia, determina:
+a) A nomeação dos seguintes gestores:
+Engenheiro Joaquim Pinto Leal, que presidirá e coordenará a gestão da empresa sem prejuízo do desempenho das suas funções na comissão administrativa da Ed. Ferreirinha & Irmão - Motores e Máquinas EFI, S. A. R. L.;
+Engenheiro José Jorge Oliveira Ribeiro de Carvalho, que assegurará a direcção e gestão da empresa em estreita ligação com os restantes gestores;
+Um terceiro elemento, que se ocupará da orientação administrativa e financeira da empresa, que será o membro da comissão administrativa da Ed. Ferreirinha & Irmão - Motores e Máquinas EFI, S. A. R. L., que nesta empresa desempenhar essas funções, a nomear.
+b) Os gestores responderão, nos termos das disposições legais sobre a matéria, perante o Ministério da Indústria e Tecnologia, por intermédio do IAPMEI, que os assistirá:
+1) Na definição dos objectivos a atingir a curto e médio prazos e dos respectivos planos e orçamentos;
+2) Na elaboração de previsões de tesouraria a curto e médio prazos e na obtenção dos financiamentos considerados necessários;
+3) Na sistematização da informação de gestão e normalização contabilística.
+c) O IAPMEI, em colaboração com o seu núcleo de máquinas-ferramentas, orientará a sua acção em conjunto com os gestores e com a comissão administrativa da Ed. Ferreirinha & Irmão - Motores e Máquinas EFI, S. A. R. L., com o objectivo de assegurar a fusão das duas empresas, desde que se confirme a sua viabilidade.
+Nesta perspectiva, os gestores da Jacinto Ramos deverão, em conjunto com a comissão administrativa da EFI, dar cumprimento aos seguintes pontos:
+1) Apresentar, num prazo de cento e vinte dias, um estudo em que se confirme a viabilidade da fusão das duas empresas e se analise as implicações dela decorrentes, nomeadamente no que diz respeito à definição da linha de produtos e reclassificação do pessoal;
+2) O estudo referido no número anterior deverá ser devidamente enquadrado no projecto de reestruturação da EFI oportunamente apresentado pela respectiva comissão administrativa ao Ministério da Indústria e Tecnologia, pelo que o referido projecto deverá ser igualmente reformulado, tendo em atenção os objectivos a atingir;
+3) No caso de o estudo mencionado no n.º 1 demonstrar que a fusão é viável, apresentar dentro de um período de sessenta dias, contados a partir da decisão que, com base nesse estudo, for tomada, um projecto de estatutos da empresa que se irá constituir, bem como a avaliação patrimonial das duas empresas em questão;
+4) Preparar todos os elementos conducentes à fusão a efectuar no prazo máximo de um ano, assegurando que ao fim desse período de tempo a comercialização das duas empresas seja realizada por um departamento único.
+d) O IAPMEI apoiará ainda as iniciativas dos trabalhadores no sentido não só de ser instaurado nesta empresa o contrôle organizado da gestão, como também na mobilização do esforço colectivo para a recuperação da empresa e sua contribuição para a reconstrução do País.
+e) Realização imediata de um inquérito pela Inspecção-Geral de Finanças, sem prejuízo da elaboração de qualquer outro considerado necessário pelo Ministério da Indústria e Tecnologia.
+Ministérios das Finanças e da Indústria e Tecnologia, 30 de Junho de 1976. - Pelo Ministro das Finanças, José Dias dos Santos Pais, Subsecretário de Estado Adjunto do Ministro das Finanças. - O Ministro da Indústria e Tecnologia, Walter Ruivo Pinto Gomes Rosa.
