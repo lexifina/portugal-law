@@ -1,0 +1,6 @@
+Portaria n.º 92/72
+de 15 de Fevereiro
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar, com a importância de 300000$00, a verba do capítulo 10.º, artigo 2896.º, n.º 40, alínea a) «Encargos gerais - Diversas despesas - Despesas com assistência médica, tratamento e internamento de casos de tuberculose, cancro, alienação mental e lepra em hospitais, manicómios, casas de saúde e sanatórios de funcionários civis do activo, aposentados e operários do Estado e de pobres das províncias ultramarinas - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral da província de Moçambique para o ano económico de 1971, tomando como contrapartida igual importância a sair dais disponibilidades do capítulo 10.º, artigo 2895.º n.º 2, alínea a) «Encargos gerais - Deslocações de pessoal - Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na metrópole», da mesma tabela de despesa.
+Pelo Ministro do Ultramar, Leão Maria Tavares Rosado do Sacramento Monteiro, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Moçambique. - Sacramento Monteiro.
