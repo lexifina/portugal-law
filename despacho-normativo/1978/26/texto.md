@@ -1,0 +1,3 @@
+Despacho Normativo n.º 26/78
+Tendo-se suscitado dúvidas quanto ao âmbito de aplicação do Decreto-Lei n.º 923/76, de 31 de Dezembro, esclarece-se, ao abrigo do artigo 6.º do mesmo diploma, que os vencimentos fixados no respectivo artigo 1.º são devidos, com efeitos desde 1 de Janeiro de 1977, a todos os trabalhadores que se encontrem nas condições estatuídas no despacho do Ministro da Administração Interna e do Ministro das Finanças de 18 de Dezembro de 1975, publicado no Diário do Governo, de 30 de Dezembro do mesmo ano.
+Secretarias de Estado da Administração Pública e do Orçamento, 30 de Novembro de 1977. - O Secretário de Estado da Administração Pública, José Dias dos Santos Pais. - O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira.
