@@ -1,0 +1,3 @@
+Resolução n.º 142/81
+O Conselho de Ministros, reunido em 28 de Maio de 1981, resolveu, nos termos do artigo 1.º da Convenção Luso-Espanhola de Extradição, assinada em 1867, autorizar o prosseguimento do processo de extradição do cidadão colombiano Guillermo Gutierrez Becerra, evadido de um estabelecimento prisional de Madrid onde cumpria pena por delitos comuns, estando pronunciado pela prática de um crime de homicídio voluntário, punível com pena de doze a vinte anos de prisão maior.
+Presidência do Conselho de Ministros, 28 de Maio de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
