@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que, segundo uma comunicação dirigida pela Embaixada da República Popular da Polónia em Londres à Embaixada de Portugal na mesma cidade, o Governo da República do Equador depositou, em 1 de Dezembro de 1969, o seu instrumento de adesão à Convenção para a Unificação de Certas Normas Relativas ao Transporte Aéreo Internacional, assinada em Varsóvia a 12 de Outubro de 1929, e ao Protocolo de modificação da referida Convenção, assinado na Haia a 28 de Setembro de 1955.
+2. De harmonia com o artigo 38.º da Convenção e o artigo XXIII do Protocolo, os referidos Actos Internacionais entraram em vigor, em relação ao Equador, a partir de 1 de Março de 1970.
+3. Segundo a mesma comunicação, o Governo de Barbados notificou, em 8 de Janeiro de 1970, o Governo da República Popular da Polónia de que se considerava vinculado pelas disposições da referida Convenção, a qual já era aplicável ao seu território desde 3 de Dezembro de 1934.
+Direcção-Geral dos Negócios Económicos, 4 de Maio de 1970. - O Adjunto do Director-Geral, Manuel Rodrigues de Almeida Coutinho.
