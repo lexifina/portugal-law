@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação da 7.ª Repartição da Direcção-Geral da Contabilidade Pública, junto do Ministério dos Negócios Estrangeiros, a declaração de transferência de verba publicada no Diário do Governo n.º 129, 1.ª série, de 9 de Junho corrente, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a inexactidão seguinte, que assim se rectifica:
+Onde se lê: «Conforme o preceituado no artigo 1.º do Decreto-Lei n.º 33538, de 21 de Fevereiro de 1944, esta alteração mereceu, ...», deve ler-se: «Conforme o preceituado no artigo 1.º do Decreto-Lei n.º 33538, de 21 de Fevereiro de 1944, e artigo 14.º do Decreto n.º 46091, de 22 de Dezembro de 1964, esta alteração mereceu, ...».
+Secretaria-Geral da Presidência do Conselho, 25 de Junho de 1965. - O Secretário-Geral, Diogo de Castelbranco de Paiva de Faria Leite Brandão.
