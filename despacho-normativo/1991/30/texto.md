@@ -1,0 +1,6 @@
+Despacho Normativo n.º 30/91
+Tendo cessado em 15 de Outubro de 1989 a comissão de serviço do Dr. António Ulisses Mota e Castro Carneiro, como subdirector regional da Direcção Regional de Agricultura de Entre Douro e Minho, torna-se necessário proceder à criação de um lugar de técnico superior principal da carreira técnica superior do quadro de pessoal daquele organismo, em execução do disposto na alínea a) do n.º 2 e nos n.os 3 e 4 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro.
+Nestes termos, ao abrigo do disposto no n.º 5 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, os Ministros das Finanças e da Agricultura, Pescas e Alimentação determinam o seguinte:
+1 - É criado no quadro de pessoal da Direcção Regional de Agricultura de Entre Douro e Minho, constante do Decreto Regulamentar n.º 57/86, de 8 de Outubro, um lugar de técnico superior principal da carreira técnica superior.
+2 - A criação do lugar referido no número anterior produz efeitos a partir de 15 de Outubro de 1989 e o mesmo será extinto quando vagar.
+Ministérios das Finanças e da Agricultura, Pescas e Alimentação, 8 de Janeiro de 1991. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
