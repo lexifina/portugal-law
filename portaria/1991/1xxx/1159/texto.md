@@ -1,0 +1,9 @@
+Portaria n.º 1159/91
+de 11 de Novembro
+Considerando que o curso técnico de secretariado de serviços de saúde, criado no âmbito do ensino técnico-profissional, não tem sido assegurado pela rede de ensino oficial, reconhece-se como da maior importância a promoção de medidas concretas que visem a melhor qualificação profissional;
+Considerando que o pessoal que tem vindo a assegurar as funções de secretariado clínico nos Hospitais da Universidade de Coimbra possui habilitações escolares ao nível do 12.º ano ou habilitação superior e a formação profissional que se afigura relevante para o desempenho daquelas funções, bem como um curso de formação de secretários clínicos, ministrado, a título de formação interna, pelo Serviço de Educação Permanente dos Hospitais da Universidade de Coimbra;
+Considerando ainda que o programa do mesmo curso integrou um conjuto de áreas temáticas concretamente dirigidas ao conteúdo funcional da carreira de secretário de serviços de saúde (nível 4), introduzindo uma componente profissionalizante nas habilitações escolares do pessoal acima referido:
+Manda o Governo, pelos Ministros das Finanças e da Saúde, ao abrigo da alínea b) do n.º 3 do artigo 20.º do Decreto-Lei n.º 248/85, de 15 de Julho, que ao pessoal que se encontra actualmente a exercer funções de secretariado clínico nos Hospitais da Universidade de Coimbra seja reconhecida, como adequada ao provimento em lugares da carreira de secretário de serviços de saúde, a habilitação conferida pelo curso de formação de secretários clínicos ministrado pelo Serviço de Educação Permanente daqueles Hospitais, acrescido do 12.º ano de escolaridade/via de ensino.
+Ministérios das Finanças e da Saúde.
+Assinada em 17 de Outubro de 1991.
+Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado da Administração da Saúde.
