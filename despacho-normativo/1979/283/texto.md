@@ -1,0 +1,3 @@
+Despacho Normativo n.º 283/79
+Suscitando-se dúvidas sobre se, no cálculo do preço legal de bens e serviços, as margens de comercialização ou de lucro líquido do retalhista, incidindo sobre os preços de aquisição, incidem também sobre o imposto de transacções, esclarece-se, nos termos do artigo 19.º do Decreto-Lei n.º 329-A/74, de 10 de Setembro, que, para o efeito do cálculo do preço legal dos bens e serviços, a margem de comercialização ou de lucro líquido do retalhista incidirá sobre o preço de aquisição, acrescido da importância correspondente ao imposto de transacções, quando devido, salvo disposição em contrário.
+Secretaria de Estado do Comércio Interno, 25 de Julho de 1979. - O Secretário de Estado do Comércio Interno, Manuel Duarte Pereira.
