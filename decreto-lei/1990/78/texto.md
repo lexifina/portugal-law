@@ -1,0 +1,18 @@
+Decreto-Lei n.º 78/90
+de 12 de Março
+As áreas de actuação das comissões de coordenação regional (CCR) criadas pelo Decreto-Lei n.º 494/79, de 21 de Dezembro, correspondem, actualmente, às sete unidades territoriais que constituem o nível II da Nomenclatura de Unidades Territoriais para Fins Estatísticos (NUTS), fixado pelo artigo 1.º do Decreto-Lei n.º 46/89, de 15 de Fevereiro.
+Em resultado da delimitação constante do anexo I ao referido decreto-lei, o Município de Ponte de Sor anteriormente integrado na área de actuação da CCR de Lisboa e Vale do Tejo, ficou a pertencer à área de actuação da CCR do Alentejo.
+Na sequência da alteração verificada, torna-se agora necessário proceder à reformulação das áreas de actuação dos gabinetes de apoio técnico abrangidos, reajustando-os à nova realidade.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º O Município de Ponte de Sor deixa de se inserir na área de actuação do Gabinete de Apoio Técnico C-9, sediado em Abrantes, passando a integrar-se na área de actuação do Gabinete de Apoio Técnico D-6, com sede em Portalegre.
+Art. 2.º O quadro anexo ao Decreto-Lei n.º 58/79, de 29 de Março, é alterado em conformidade com o anexo ao presente diploma, que dele faz parte integrante.
+Visto e aprovado em Conselho de Ministros de 1 de Fevereiro de 1990. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira.
+Promulgado em 23 de Fevereiro de 1990.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 1 de Março de 1990.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+Anexo a que se refere o artigo 2.º
+(ver documento original)
