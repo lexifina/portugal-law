@@ -1,0 +1,10 @@
+Decreto-Lei n.º 47264
+Dentro do montante previsto para o desenvolvimento da rede urbana de transportes ferroviários na cidade de Lisboa, no programa de execução em 1966 do Plano Intercalar de Fomento, organizado pelo Governo ao abrigo da Lei n.º 2123, de 14 de Dezembro de 1964, pretende o Metropolitano de Lisboa, S. A. R. L., concessionária dos mesmos transportes, proceder a uma nova emissão de obrigações e para estas solicita o aval do Estado.
+O Governo, continuando a reconhecer o elevado interesse público deste empreendimento, concede pelo presente diploma a garantia pedida e define as demais características da operação.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Fica a empresa Metropolitano de Lisboa, S. A. R. L., autorizada a emitir em 1966, por uma só vez e até o montante de 70000000$00, obrigações com as isenções fiscais estabelecidas no § 2.º do artigo 1.º do Decreto-Lei n.º 39795, de 28 de Agosto de 1954, e a proceder à emissão nos termos do artigo 4.º do mesmo diploma.
+§ único. As obrigações tem o valor nominal de 1000$00, vencem o juro anual de 4 por cento e são amortizáveis em vinte semestralidades, a partir do quinto ano a contar da emissão.
+Art. 2.º O Estado dá o seu aval às obrigações a emitir, nos termos e condições fixados nos artigos 2.º e 3.º do referido Decreto-Lei n.º 39795.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 19 de Outubro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
