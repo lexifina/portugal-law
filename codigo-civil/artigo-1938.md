@@ -2,13 +2,13 @@
 
 ### (Actos dependentes de autorização do tribunal)
 
-1. O tutor, como representante do pupilo, necessita de autorização do tribunal de menores:
+1 - O tutor, como representante do pupilo, necessita de autorização do tribunal:
 
 a) Para praticar qualquer dos actos mencionados no n.º 1 do artigo 1889.º;
 
 b) Para adquirir bens, móveis ou imóveis, como aplicação de capitais do menor;
 
-c) Para aceitar herança, doação ou legado;
+c) Para aceitar herança, doação ou legado, ou convencionar partilha extrajudicial;
 
 d) Para contrair ou solver obrigações, salvo quando respeitem a alimentos do menor ou se mostrem necessárias à administração do seu património;
 

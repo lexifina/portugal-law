@@ -24,7 +24,7 @@ i) Ceder direitos de crédito;
 
 j) Repudiar herança ou legado;
 
-l) Aceitar herança, doação ou legado com encargos;
+l) Aceitar herança, doação ou legado com encargos, ou convencionar partilha extrajudicial;
 
 m) Locar bens, por prazo superior a seis anos;
 

@@ -6,7 +6,7 @@
 
 a) Dispor a título gratuito dos bens do menor;
 
-b) Tomar de arrendamento ou adquirir, directamente ou por interposta pessoa, ainda que seja em hasta pública, bens ou direitos do menor, ou tornar-se cessionário de créditos ou outros direitos contra ele, excepto nos casos de sub-rogação legal ou de licitação em processo de inventário;
+b) Tomar de arrendamento ou adquirir, directamente ou por interposta pessoa, ainda que seja em hasta pública, bens ou direitos do menor, ou tornar-se cessionário de créditos ou outros direitos contra ele, excepto nos casos de sub-rogação legal, de licitação em processo de inventário ou de outorga em partilha judicialmente autorizada;
 
 c) Celebrar em nome do pupilo contratos que o obriguem pessoalmente a praticar certos actos, excepto quando as obrigações contraídas sejam necessárias à sua educação, estabelecimento ou ocupação;
 
