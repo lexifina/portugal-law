@@ -1,0 +1,3 @@
+Despacho Normativo n.º 165/81
+Ao abrigo do n.º 10 da Resolução n.º 422/80, de 11 de Dezembro, do Conselho de Ministros, publicada no Diário da República, 1.ª série, n.º 301, de 31 de Dezembro de 1980, esclarece-se que, nos termos do n.º 6 da citada resolução, e adentro da colaboração aí prevista ser prestada pelos serviços da administração central se conta o da possibilidade de destacamento de elementos dos seus quadros a fim de prestarem a colaboração que ad hoc lhes for solicitada pela CSBA, sem prejuízo do prévio acordo do funcionário ou agente e da anuência do membro do Governo de que dependa.
+Presidência do Conselho de Ministros, 28 de Maio de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
