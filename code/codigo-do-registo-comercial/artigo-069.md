@@ -4,21 +4,35 @@
 
 1 - São registados por averbamento às inscrições a que respeitam os seguintes factos:
 
-a) O levantamento da inibição e a reabilitação do falido ou insolvente;
+a) A penhora, o arresto, o arrolamento e demais actos ou providências sobre créditos garantidos por penhor ou consignação de rendimentos;
 
-b) A mudança de residência do comerciante individual dentro da área de competência territorial da conservatória;
+b) A transmissão e o usufruto dos créditos referidos na alínea anterior;
 
-c) A deslocação da sede da pessoa colectiva ou do estabelecimento individual de responsabilidade limitada dentro da área de competência territorial da conservatória;
+c) A transmissão de quotas ou partes sociais por efeito de transferência global de patrimónios;
 
-d) A modificação, renúncia e revogação do mandato ou o seu substabelecimento;
+d) A transmissão e o usufruto do direito de algum ou alguns dos titulares de inscrição de bens integrados em herança indivisa ou património em liquidação, bem como a penhora, arresto, arrolamento, apreensão e demais actos ou providências sobre esse direito;
 
-e) A recondução ou cessação de funções de gerentes, administradores, directores, representantes e liquidatários;
+e) A cessão de posição contratual relativa à transferência de quotas ou partes sociais;
 
-f) A deliberação de aprovação do projecto de fusão e de cisão;
+f) O trespasse do usufruto de quotas ou partes sociais;
 
-g) O termo da situação de domínio total superveniente de grupo;
+g) A consignação judicial de rendimentos de quotas ou partes sociais objecto de inscrição de penhora;
 
-h) A emissão de cada série de obrigações.
+h) O levantamento da inibição e a reabilitação do falido ou insolvente;
+
+i) A mudança de residência do comerciante individual dentro da área de competência territorial da conservatória;
+
+j) A deslocação da sede da pessoa colectiva ou do estabelecimento individual de responsabilidade limitada dentro da área de competência territorial da conservatória;
+
+k) A modificação, renúncia e revogação do mandato ou o seu substabelecimento;
+
+l) A recondução ou cessação de funções de gerentes, administradores, directores, representantes e liquidatários;
+
+fm A deliberação de aprovação do projecto de fusão e de cisão;
+
+n) O termo da situação de domínio total superveniente de grupo;
+
+o) A emissão de cada série de obrigações.
 
 2 - São registados nos mesmos termos:
 

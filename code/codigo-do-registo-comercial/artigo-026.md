@@ -7,3 +7,5 @@
 2 - Para o registo de representações de pessoas colectivas sujeitas a registo com sede em Portugal e das demais representações de sociedades e de outras pessoas colectivas de tipo correspondente a qualquer dos abrangidos por este Código com sede no estrangeiro são competentes as conservatórias da área de situação dessas representações.
 
 3 - As conservatórias referidas no n.º 2 são exclusivamente competentes para o registo do mandato comercial de sociedades ou outras pessoas colectivas sujeitas a registo.
+
+4 - Para o registo do contrato de agência é competente a conservatória da área de situação da sede ou do estabelecimento do agente.
