@@ -1,0 +1,219 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jvMQgL4qeojTXYc%2byhcz5p3ic3xODuK0iUO0Y2y2ClcTtFB9k3sD%2b9wQveZYSd8NZLsCb9yzJniqsFTagd7CbMNr9RiU3i%2bk3rmuobGx84PbCdMXEaO2tAt4ls9fukmsItoX60VYYqS8JyucRXeNK4DfI799g%2blbezfSJpZ8w7%2baZYMBqfv1VesnUx6bJSW47suQTEZztwlqhsheF%2fV6CayXq9XylkeKBdMS4k0WpFeGsJUrYs53Ga%2fzv4nbFZSlZiCimHdTEOsH%2b%2fNcwjWayb61QyVSstj3ODN9XM8DB46f%2bPQ7wSP1KSIrsnu6vc0NN5UqeG88nqFw4kPOlzPTpz7DVHur%2fsRBhn0B8NlVzMX2nw7jDBVCKY54B7pyG%2fWe&fich=PeticoesVI_json.txt&Inline=true",
+  "ficheiro_sha256": "a0b19d1767819df1af646741c024bf367ae6532369315672414b384340a05bf4",
+  "legislatura": "VI",
+  "id": "11139",
+  "numero": "51",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "1992-02-26",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "1994-04-22",
+            "dataResposta": null,
+            "entidades": [
+              "Minist. Pla. Admi. Terr."
+            ],
+            "nrOficio": "OF 731/COM",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "1194-06-27",
+                "dataResposta": null,
+                "nrOficio": "OF 1167/C",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "1994-04-22",
+            "dataResposta": null,
+            "entidades": [
+              "Ministério Finanças"
+            ],
+            "nrOficio": "OF 731/COM",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "1994-01-01",
+                "dataResposta": null,
+                "nrOficio": "OF 123/COM",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "1995-02-14",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          },
+          {
+            "data": "1995-02-14",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "1992-06-16",
+        "DataArquivo": "1995-02-14",
+        "DataBaixaComissao": "1992-10-21",
+        "DataEnvioPAR": "1995-03-15",
+        "DataReaberta": "1992-06-16",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4",
+        "Legislatura": "VI",
+        "Nome": "COMISSÃO PETIÇÕES",
+        "NotasAdmissibilidade": null,
+        "Numero": "2",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "1995-02-14",
+            "dataNomeacao": "1993-04-01",
+            "gp": "PSD",
+            "id": "33",
+            "motivoCessacao": null,
+            "nome": "Carlos Marta"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "1995-02-14",
+            "gp": "PSD",
+            "id": "6",
+            "motivoCessacao": null,
+            "nome": "Cerqueira de Oliveira"
+          }
+        ],
+        "RelatorioFinal": [
+          "21171",
+          "21172"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "1995-02-14",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "1992-06-16",
+        "DataArquivo": "1995-02-14",
+        "DataBaixaComissao": "1992-10-21",
+        "DataEnvioPAR": "1995-03-15",
+        "DataReaberta": "1992-06-16",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "77",
+        "Legislatura": "VI",
+        "Nome": "COMISSÃO DE PETIÇÕES (ANTIGA)",
+        "NotasAdmissibilidade": null,
+        "Numero": "72",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "1993-04-01",
+            "dataNomeacao": "1992-10-21",
+            "gp": "PSD",
+            "id": "25",
+            "motivoCessacao": null,
+            "nome": "Armando Cunha"
+          }
+        ],
+        "RelatorioFinal": [
+          "21026"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": null,
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11139",
+    "PetAssunto": "Solicitam a extensão do subsídio de risco e dos benefícios remuneratórios atribuídos aos técnicos profissionais do nível 3, aos fiscais municipais e chefe de serviços de fiscalização municipal.",
+    "PetDataEntrada": "1992-02-26",
+    "PeticoesAssociadas": null,
+    "PetId": "11139",
+    "PetLeg": "VI",
+    "PetNr": "51",
+    "PetNrAssinaturas": "10",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
