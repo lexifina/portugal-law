@@ -1,0 +1,6 @@
+Aviso n.º 87/2000
+Por ordem superior se torna público que Portugal depositou, em 19 de Fevereiro de 1999, junto do Secretário-Geral da Organização das Nações Unidas, em Nova Iorque, o instrumento de ratificação da Convenção sobre a Proibição da Utilização, Armazenagem, Produção e Transferência de Minas Antipessoais e sobre a Sua Destruição.
+A referida Convenção foi aberta para assinatura em Otava no dia 3 de Dezembro de 1997, aprovada, para ratificação, em 23 de Outubro de 1998 pela Resolução da Assembleia da República n.º 5/99, publicada no Diário da República, 1.ª série-A, n.º 23, de 28 de Janeiro de 1999, e ratificada pelo Decreto do Presidente da República n.º 64/99, publicado no Diário da República, 1.ª série-A, n.º 23, de 28 de Janeiro de 1999.
+Mais se torna público que, nos termos do n.º 2 do artigo 17.º, a referida Convenção produziu efeitos para Portugal a partir do 1.º dia do 6.º mês a contar da data de depósito do respectivo instrumento de ratificação, ou seja, 1 de Agosto de 1999.
+Este aviso substitui o aviso n.º 16995/99 (2.ª série), que foi publicado por lapso no Diário da República, 2.ª série, n.º 273, de 23 de Novembro de 1999.
+Direcção-Geral dos Assuntos Multilaterais, 21 de Janeiro de 2000. - A Directora-Geral, Ana Maria da Silva Marques Martinho.
