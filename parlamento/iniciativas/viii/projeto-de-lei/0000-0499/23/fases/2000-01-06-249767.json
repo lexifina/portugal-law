@@ -1,0 +1,850 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "23",
+    "id": "6333",
+    "titulo": "Relocalização distrital dos serviços desconcentrados da administração central"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2000-01-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "5892",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2000-01-06",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-01-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29349",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "896-896"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-07",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/023/2000-01-07/896?pgs=896&org=PLC"
+              }
+            ],
+            "sumario": "RELOCALIZACAO DISTRITAL DOS SERVICOS DESCONCENTRADOS DA ADMINISTRACAO CENTRAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29350",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "896-896"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-07",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/023/2000-01-07/896?pgs=896&org=PLC"
+              }
+            ],
+            "sumario": "RELOCALIZACAO DISTRITAL DOS SERVICOS DESCONCENTRADOS DA ADMINISTRACAO CENTRAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1740",
+                "nome": "Basílio Horta"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29351",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "895-895"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-07",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/023/2000-01-07/895?pgs=895&org=PLC"
+              }
+            ],
+            "sumario": "RELOCALIZACAO DISTRITAL DOS SERVICOS DESCONCENTRADOS DA ADMINISTRACAO CENTRAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1262",
+                "nome": "Francisco de Assis"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29352",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "893-894"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-07",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/023/2000-01-07/893?pgs=893-894&org=PLC"
+              }
+            ],
+            "sumario": "RELOCALIZACAO DISTRITAL DOS SERVICOS DESCONCENTRADOS DA ADMINISTRACAO CENTRAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1352",
+                "nome": "Paulo Portas"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29353",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "893-893"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-07",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/023/2000-01-07/893?pgs=893&org=PLC"
+              }
+            ],
+            "sumario": "RELOCALIZACAO DISTRITAL DOS SERVICOS DESCONCENTRADOS DA ADMINISTRACAO CENTRAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "370",
+                "nome": "Luís Marques Mendes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29354",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "892-893",
+                  "895-896"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-07",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/023/2000-01-07/892?pgs=892-893,895-896&org=PLC"
+              }
+            ],
+            "sumario": "RELOCALIZACAO DISTRITAL DOS SERVICOS DESCONCENTRADOS DA ADMINISTRACAO CENTRAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "370",
+                "nome": "Luís Marques Mendes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29355",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "890-891"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-07",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/023/2000-01-07/890?pgs=890-891&org=PLC"
+              }
+            ],
+            "sumario": "RELOCALIZACAO DISTRITAL DOS SERVICOS DESCONCENTRADOS DA ADMINISTRACAO CENTRAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1176",
+                "nome": "Casimiro Ramos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29356",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "889-890"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-07",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/023/2000-01-07/889?pgs=889-890&org=PLC"
+              }
+            ],
+            "sumario": "RELOCALIZACAO DISTRITAL DOS SERVICOS DESCONCENTRADOS DA ADMINISTRACAO CENTRAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29357",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "888-889"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-07",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/023/2000-01-07/888?pgs=888-889&org=PLC"
+              }
+            ],
+            "sumario": "RELOCALIZACAO DISTRITAL DOS SERVICOS DESCONCENTRADOS DA ADMINISTRACAO CENTRAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1242",
+                "nome": "João Moura de Sá"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29358",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "888-888"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-07",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/023/2000-01-07/888?pgs=888&org=PLC"
+              }
+            ],
+            "sumario": "RELOCALIZACAO DISTRITAL DOS SERVICOS DESCONCENTRADOS DA ADMINISTRACAO CENTRAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1352",
+                "nome": "Paulo Portas"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29359",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "887-892"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-07",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/023/2000-01-07/887?pgs=887-892&org=PLC"
+              }
+            ],
+            "sumario": "RELOCALIZACAO DISTRITAL DOS SERVICOS DESCONCENTRADOS DA ADMINISTRACAO CENTRAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1242",
+                "nome": "João Moura de Sá"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29360",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "886-887"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-07",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/023/2000-01-07/886?pgs=886-887&org=PLC"
+              }
+            ],
+            "sumario": "RELOCALIZACAO DISTRITAL DOS SERVICOS DESCONCENTRADOS DA ADMINISTRACAO CENTRAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1680",
+                "nome": "Helena Ribeiro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29361",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "884-886",
+                  "888-888"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-07",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/023/2000-01-07/884?pgs=884-886,888&org=PLC"
+              }
+            ],
+            "sumario": "RELOCALIZACAO DISTRITAL DOS SERVICOS DESCONCENTRADOS DA ADMINISTRACAO CENTRAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "104",
+                "nome": "Castro de Almeida"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29362",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "883-883"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-07",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/023/2000-01-07/883?pgs=883&org=PLC"
+              }
+            ],
+            "sumario": "RELOCALIZACAO DISTRITAL DOS SERVICOS DESCONCENTRADOS DA ADMINISTRACAO CENTRAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1740",
+                "nome": "Basílio Horta"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29363",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "880-884"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-07",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/023/2000-01-07/880?pgs=880-884&org=PLC"
+              }
+            ],
+            "sumario": "RELOCALIZACAO DISTRITAL DOS SERVICOS DESCONCENTRADOS DA ADMINISTRACAO CENTRAL",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1242",
+                "nome": "João Moura de Sá"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29364",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "878-880"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-07",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/023/2000-01-07/878?pgs=878-880&org=PLC"
+              }
+            ],
+            "sumario": "RELOCALIZACAO DISTRITAL DOS SERVICOS DESCONCENTRADOS DA ADMINISTRACAO CENTRAL",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "249767",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "5892",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-01-07",
+        "pubLeg": "VIII",
+        "pubNr": "23",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/023/2000-01-07?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
