@@ -1,0 +1,11 @@
+Portaria n.º 23759
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças, nos termos do disposto no § único do artigo 4.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965:
+1.º Permitir a importação, sob regime de draubaque, de fibras têxteis, sintéticas ou artificiais, contínuas ou descontínuas, que, depois de transformadas em tecidos - em cuja constituição entre apenas uma dessas fibras importadas ou misturas destas fibras entre si ou com outras fibras, mesmo naturais, que não tenham sido importadas em regime de draubaque -, se destinem ao fabrico de vestuário ou de roupas, de uso doméstico ou para guarnição de interiores, a exportar ao abrigo do mesmo regime.
+2.º Estabelecer as seguintes bases para aplicação do citado regime:
+a) Restituir-se-ão os direitos correspondentes ao peso das fibras importadas contidas nos artefactos exportados;
+b) Se os artefactos exportados forem constituídos apenas por uma fibra, o peso aludido na alínea anterior será conferido pela verificação aduaneira;
+c) Se os artefactos forem constituídos por duas ou mais fibras, os pesos das que foram importadas em regime de draubaque, e naqueles se contêm, deverão ser declarados pelo exportador e confirmados por análise a efectuar, a expensas deste, no laboratório da Direcção-Geral das Alfândegas;
+d) Se os artefactos a exportar contiverem quaisquer adereços, como botões, molas, rendas, elásticos ou debruns, deverá o peso desses adereços ser descontado no peso dos artefactos, para o que o exportador apresentará na alfândega, juntamente com a mercadoria, iguais adereços isolados, de forma a poder calcular-se o peso a deduzir no montante da exportação;
+e) Permite-se a restituição dos direitos correspondentes às matérias-primas importadas contidas nos desperdícios resultantes da confecção dos artefactos, para o que deverão ser conservados pela firma interessada, nas suas instalações, a fim de serem inutilizados;
+f) A fixação dos limites máximos a considerar para efeitos do disposto na alínea e) e as restantes condições de aplicação e execução serão reguladas, para cada caso, por despacho ministerial.
+Ministério das Finanças, 7 de Dezembro de 1968. - O Ministro das Finanças, João Augusto Dias Rosas.
