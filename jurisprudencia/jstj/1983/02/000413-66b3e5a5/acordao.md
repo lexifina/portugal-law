@@ -1,0 +1,39 @@
+# Acórdão do Supremo Tribunal de Justiça de 1983-02-18, processo 000413
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 000413
+
+**Nº Convencional:** JSTJ00015967
+
+**Relator:** SANTOS VICTOR
+
+**Descritores:** NOTA DE CULPA; AUDIÊNCIA DO ARGUIDO; FALTA; PROCESSO DISCIPLINAR; JUSTA CAUSA DE DESPEDIMENTO; QUESITO NOVO; REQUISITOS; AUDIÊNCIA DE JULGAMENTO
+
+**Nº do Documento:** SJ198302180004134
+
+**Data do Acordão:** 02/18/1983
+
+**Votação:** MAIORIA COM 2 DEC VOT E 2 VOT VENC
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REVISTA.
+
+**Decisão:** CONCEDIDA A REVISTA.
+
+**Área Temática:** DIR TRAB - CONTRAT INDIV TRAB.; DIR PROC TRAB. DIR PROC CIV.
+
+## Sumário
+
+I - Em sede de despedimento não é admissível a formulação de quesitos novos, em audiência de julgamento, que assentem sobre factos apurados em processo disciplinar que não constem da nota de culpa.
+
+II - Integra justa causa de despedimento a declaração de um trabalhador, para outros da mesma empresa, quando esclarecido por um destes, de que na sua ausência se pintara uma média diária de 150 sinais, mas que a partir do seu regresso ao serviço se pintariam apenas 100, isto quando anteriormente já tinha sido advertido da sua baixa produtividade e estando aquela declaração relacionada com o facto de alguns dos trabalhadores da empresa terem tido, na altura, aumentos salariais superiores aos seus.
+
+III - A formulação de novos quesitos pelo tribunal em audiência de julgamento é lícita, mesmo que sobre factos não articulados, mas está condicionada à cumulativa verificação de certos requisitos: a) serem os factos a quesitar indispensáveis para a boa decisão da causa; b) não implicarem os mesmos uma nova causa de pedir, nem alteração ou ampliação da causa ou causas de pedir; c) tratando-se de factos não articulados, o de poder sobre eles incidir contradição.
+
+IV - Um facto que não constar da nota de culpa nunca pode, por falta de audiência do arguido, servir de base ao seu despedimento, que só poderá assentar em factos apurados no processo disciplinar que se tenham feito constar da referida nota.
+
+V - Para se apreciar a adequação da sanção do despedimento ao comportamento do trabalhador pela sua baixa produtividade, há que atender ao carácter das relações entre o trabalhador e os seus companheiros e a todas as relevantes do caso.
