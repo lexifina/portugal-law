@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que Portugal depositou, em 7 de Novembro de 1983, o instrumento de confirmação e ratificação da Convenção Internacional para a Salvaguarda da Vida Humana no Mar, de 1974.
+Até àquela data eram partes da Convenção os seguintes Estados:
+Índia, Noruega, México, Tonga, Cabo Verde, França, Reino Unido, Libéria, Dinamarca, Panamá, Canadá, Suécia, Países Baixos, Espanha, Estados Unidos da América, Trindade e Tabago, Baamas, Iémene do Norte, República Democrática Alemã, República Federal da Alemanha, Uruguai, Israel, Roménia, Jugoslávia, Koweit, Bélgica, Peru, Argentina, China, URSS, Hungria, Chile, República Dominicana, Grécia, Japão, Brasil, África do Sul, Itália, Turquia, Tunísia, Checoslováquia, Colômbia, Papua, Nova Guiné, Finlândia, Qatar, República da Coreia, Maldivas, Guiné, Indonésia, Singapura, Nigéria, Líbia, Egipto, Suíça, Bangladesh, Filipinas, Gabão, Equador, Vanuatu, Barbados, Guatemala, Fiji, Venezuela, Gana, Islândia, Austrália, Sri-Lanka, Jamaica e Malásia.
+Direcção-Geral dos Negócios Económicos, 23 de Novembro de 1983. - O Subdireator-Geral, Roberto Nuno de Oliveira e Silva Pereira de Sousa.
