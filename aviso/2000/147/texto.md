@@ -1,0 +1,4 @@
+Aviso n.º 147/2000
+Por ordem superior se torna público que, por nota de 8 de Setembro de 1999 e nos termos da Convenção Relativa ao Processo Civil, concluída na Haia em 1 de Março de 1954, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos informou que, relativamente à sucessão da Ucrânia, não foi recebida qualquer notificação em contrário até 1 de Setembro de 1999, pelo que a Convenção se mantém em vigor entre os Estados Contratantes e a Ucrânia.
+Portugal é Parte na mesma Convenção, que foi aprovada, para ratificação, pelo Decreto-Lei n.º 47097, de 14 de Julho de 1966, tendo depositado o seu instrumento de ratificação em 3 de Julho de 1967, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 196, de 23 de Agosto de 1967.
+Departamento de Assuntos Jurídicos, 15 de Junho de 2000. - A Directora, Maria Margarida Aleixo Antunes Rei.
