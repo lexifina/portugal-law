@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que, segundo informação do Departamento Político Federal da Suíça, os Governos da Hungria e da Grécia depositaram, em 8 de Agosto e em 5 de Novembro de 1973, respectivamente, os instrumentos de adesão à Convenção Adicional à Convenção Internacional Relativa ao Transporte de Passageiros e de Bagagens por Caminho de Ferro (CIV) de 25 de Fevereiro de 1961, relativa à responsabilidade do caminho de ferro pela morte e ferimentos dos passageiros, concluída em Berna em 26 de Fevereiro de 1966.
+Ambos os Governos formularam a reserva prevista no § 2.º do artigo 1.º da referida Convenção adicional.
+Também segundo informação do mesmo Departamento Político Federal, o Governo da Áustria não se pode considerar parte na mencionada Convenção adicional, desde 1 de Janeiro de 1973, pois não havia ratificado ainda o Protocolo I, de 22 de Outubro de 1971, adoptado pela Conferência diplomática reunida para determinar a entrada em vigor daquela Convenção adicional.
+Direcção-Geral dos Negócios Económicos, 17 de Julho de 1974. - O Adjunto do Director-Geral, Luís Alberto de Vasconcelos Góis Fernandes Figueira.
