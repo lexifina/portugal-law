@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=2UPfDKqx4yThZkCiWeDvzZahwRkNMsQnE24OvBZ8AQP4b9vLhOz5HeV8hVxyPJHJ8ksq0tq9PZ0dW0Thx2wqKViMfSelY21acf9tKlvuT%2bBVZy2KHe0HmmPBynAp85sbnt1BVV39jrAzsrdek%2f7TtHhLFct8jeYawEpIt%2fQHOLswD3sih4hoy66fgBVAtt6H9ygINxTWi5FNmDyriNdNwoWb5VskQvfOcNrmYVIjTS9IGBP0EQjeMWuwshVlzHJQGqcAmyrmR8xAksXUjJuMhfFCQiBeCAAXQSIoMEzuV9pOUAqkueBVsQQFz%2bJsM9g9na0p69krrgJ3RGL8GdN9jLKc97oScVoy8bOVtmNyjig%3d&fich=IniciativasII_json.txt&Inline=true",
+  "ficheiro_sha256": "2d1420d0c7ebeb0e40f4da305b81f9a5f39e3f60a98c12da4ec0fe9e3f55e5fc",
+  "legislatura": "II",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "11",
+    "id": "33135",
+    "titulo": "Requer ao Governo o envio à Comissão Parlamentar de Direitos, Liberdades e Garantias do relatório sobre os acontecimentos do 1º de Maio de 1982 elaborado pela Procuradoria-Geral da República"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "1983-01-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "1983-01-11",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "244851",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "360917",
+        "obs": null,
+        "pag": [
+          "1107-1126"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1983-01-12",
+        "pubLeg": "II",
+        "pubNr": "32",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/02/03/032/1983-01-12/1107?pgs=1107-1126&org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "360918",
+        "obs": null,
+        "pag": [
+          "1139-1146"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1983-01-14",
+        "pubLeg": "II",
+        "pubNr": "33",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/02/03/033/1983-01-14/1139?pgs=1139-1146&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
