@@ -1,0 +1,5 @@
+Portaria n.º 18355
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, conjugado com a alínea e) do artigo 3.º do mesmo diploma, com a nova redacção que lhe foi dada pelo artigo 4.º do Decreto n.º 40712, de 1 de Agosto de 1956, abrir na província de Cabo Verde um crédito especial de 600000$00 para reforçar a verba do capítulo 5.º, artigo 161.º, n.º 3) «Serviços aduaneiros - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal assalariado», da tabela de despesa ordinária do orçamento geral daquela província para o ano de 1960, tomando como contrapartida o excesso de cobrança sobre a previsão da verba do capítulo 4.º, artigo 30.º «Taxas - Rendimentos de diversos serviços - Diversas - Taxas do tráfego aduaneiro», do orçamento da receita ordinária do referido ano.
+Ministério do Ultramar, 24 de Março de 1961. - Pelo Ministro do Ultramar, Adriano José Alves Moreira, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Cabo Verde. - A. Moreira.
