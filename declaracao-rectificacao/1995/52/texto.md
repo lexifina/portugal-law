@@ -1,0 +1,5 @@
+Declaração de rectificação n.º 52/95
+Para os devidos efeitos se declara que a Resolução do Conselho de Ministros n.º 43-A/95, publicada no Diário da República, 1.ª série, n.º 103 (suplemento), de 4 de Maio de 1995, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No caderno de encargos, no artigo 8.º («Celebração do contrato»), n.º 1, onde se lê «A celebração do contrato de venda das acções formaliza-se com a assinatura do contrato de venda e colocação (underwriting agreement) entre a CN e a PT, por um lado, e os adquirentes, por outro.» deve ler-se «A celebração dos contratos de venda das acções formaliza-se com a assinatura dos contratos de venda e colocação (underwriting agreements) entre a CN e a PT, por um lado, e os adquirentes, por outro.».
+No n.º 2, onde se lê «O contrato fixará as comissões e os pagamentos» deve ler-se «Os contratos fixarão as comissões e os pagamentos».
+Secretaria-Geral da Presidência do Conselho de Ministros, 11 de Maio de 1995. - O Secretário-Geral, França Martins.
