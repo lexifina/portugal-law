@@ -1,0 +1,16 @@
+Portaria n.º 335/78
+de 23 de Junho
+Considerando a conveniência de criar, para todos os funcionários deste Ministério, um meio de identificação que permita o fácil reconhecimento da sua qualidade:
+Manda o Governo da República Portuguesa, pelo Ministério da Indústria e Tecnologia, ao abrigo da alínea d) do artigo 202.º da Constituição, o seguinte:
+1.º São criados cartões de identidade dos modelos anexos à presente portaria.
+2.º O cartão de modelo A destina-se ao pessoal dos gabinetes, ao pessoal dirigente, técnico superior, técnico e, quanto ao técnico auxiliar, apenas a quem exerça funções de inspecção, fiscalização ou similares; o de modelo B destina-se ao restante pessoal.
+3.º Os referidos cartões serão de cor branca, com uma faixa em diagonal, verde e vermelha, com as dimensões de 105 mm x 74 mm e terão obrigatoriamente a numeração correspondente à atribuída no Ministério ao funcionário seu detentor.
+4.º Serão passados pela Secretaria-Geral, assinados pelo portador e pelo secretário-geral ou seu substituto, sendo a assinatura deste autenticada com o selo branco, que marcará também o canto inferior esquerdo da fotografia.
+5.º Serão substituídos sempre que se verifique qualquer alteração nos elementos deles constantes, e obrigatoriamente entregues nos serviços quando os seus titulares cessem o exercício das respectivas funções.
+6.º Será passada uma segunda via em caso de extravio, destruição ou deterioração, de que se fará referência expressa no novo título.
+7.º O cartão deverá ser sempre exibido de forma bem visível perante as autoridades a quem haja necessidade de recorrer e no momento da entrada nos estabelecimentos a visitar.
+8.º No sentido de se evitarem despesas, quer para os serviços, quer para o próprio funcionário, poderão os cartões já emitidos continuar a ser utilizados, desde que neles seja aposto carimbo, com a actual designação do Ministério e dos departamentos que o integram.
+Ministério da Indústria e Tecnologia, 23 de Maio de 1978. - O Ministro da Indústria e Tecnologia, Carlos Montês Melancia.
+
+(ver documento original)
+O Ministro da Indústria e Tecnologia, Carlos Montês Melancia.
