@@ -1,19 +1,3 @@
-## Capítulo I
-
-## Objecto
-
-## Capítulo II
-
-## Órgãos
-
-## Capítulo III
-
-## Da freguesia
-
-## Secção I
-
-## Da assembleia de freguesia
-
 # Artigo 4.º
 
 ### Constituição

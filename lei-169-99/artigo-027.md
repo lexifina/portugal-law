@@ -2,26 +2,12 @@
 
 ### Funções a tempo inteiro e a meio tempo
 
-1 - Em todas as juntas de freguesias o presidente pode exercer o mandato em regime de meio tempo.
+1 - Nas freguesias com o mínimo de 5000 eleitores e o máximo de 10000 eleitores ou nas freguesias com mais de 3500 eleitores e 50 km2 de área, o presidente da junta pode exercer o mandato em regime de meio tempo.
 
-2 - Nas freguesias com mais de 10 000 eleitores ou nas freguesias com mais de 7000 eleitores e de 100 km2 de área, o presidente da junta pode exercer o mandato em regime de tempo inteiro.
+2 - Nas freguesias com mais de 10000 eleitores ou nas freguesias com mais de 7000 eleitores e 100 km2 de área, o presidente da junta pode exercer o mandato em regime de tempo inteiro.
 
-3 - Desde que suportado pelo orçamento da freguesia, e sem que o encargo anual com a respetiva remuneração ultrapasse 12 % do valor total geral da receita constante na conta de gerência do ano anterior, nem do valor inscrito no orçamento em vigor:
+3 - Fora dos casos previstos nos n.os 1 e 2, pode ainda exercer o mandato em regime de meio tempo o presidente da junta das freguesias com mais de 1000 eleitores e em regime de tempo inteiro o presidente da junta das freguesias com mais de 1500 eleitores, desde que se verifiquem cumulativamente as condições estabelecidas no número seguinte.
 
-a) (Revogada.)
+4 - Para efeitos do número anterior, o encargo anual com a respectiva remuneração, prevista na lei, não pode ultrapassar 12% do valor total geral da receita constante da conta de gerência do ano anterior nem do valor inscrito no orçamento em vigor.
 
-b) Pode exercer o mandato em regime de tempo inteiro o presidente de junta nas freguesias com até 10 000 eleitores.
-
-c) Pode ainda exercer o mandato em regime de tempo inteiro mais um vogal do órgão executivo das freguesias com mais de 10 000 eleitores e o máximo de 20 000 ou das freguesias com mais de 7000 eleitores e de 100 km2 de área;
-
-d) Podem ainda exercer o mandato em regime de tempo inteiro mais dois vogais do órgão executivo das freguesias com mais de 20 000 eleitores.
-
-4 - Os tempos inteiros referidos nos números anteriores podem ser divididos em meios tempos, nos termos gerais.
-
-5 - A possibilidade de exercício de funções a tempo inteiro habilita igualmente o exercício de funções apenas a meio tempo, nomeadamente nos casos em que tal seja necessário para assegurar o cumprimento dos limites com encargos anuais previstos no n.º 3.
-
-6 - A possibilidade de exercício de funções a meio tempo nos termos do n.º 1, cujo pagamento de remunerações e encargos é assegurada pelo Orçamento do Estado, habilita igualmente o exercício de funções em regime de tempo inteiro desde que cumpridos os requisitos da alínea b) do n.º 3, caso em que a remuneração e encargos remanescentes são assegurados pelo orçamento próprio da freguesia.
-
-7 - O número de eleitores relevante para efeitos dos números anteriores é o constante do recenseamento vigente na data das eleições gerais, imediatamente anteriores, para a assembleia de freguesia.
-
-8 - O valor base da remuneração do presidente da junta de freguesia em regime de meio tempo é fixado em metade de cada escalão estabelecido nas alíneas do n.º 1 do artigo 5.º da Lei n.º 11/96, de 18 de abril, na sua redação atual.
+5 - O número de eleitores relevante para efeitos dos números anteriores é o constante do recenseamento vigente na data das eleições gerais, imediatamente anteriores, para a assembleia de freguesia.
