@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ikbb22EfidWyh5aL9J45Him8rhm3hBQttHxkrMbFeyYEwrlCCV9ZfcNHgV8WjSxu83VjOPt6VK7tfawrIfKZtTDmfI0Eg1Qj2%2fgR4zkB218vexxTlHm9ELnuOSX5QSKeM5RBZD467bhRAPU4hPcfbqahvryp3gb6e37C1v7CloSAMeYftDHuGXetsMTuqWKWDw8jw4LLkjhOMYrtuWUeiCrg7lyiTG%2fjnHAs%2fmcgrOZO8jIFWuyniqH%2f16iGaVZzEzfL%2b4SfA3O6drPBVYibztEF%2fs9tJC4xx3DcN5MsnQfVSXH3wVPofkvbJEOlvWHKvrzXi7OMn9qcwTKLuqkVUEIS1yusoxybTMXClPgsIs8%3d&fich=IntervencoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "ab3e3445119ef03a27cc4debeadf3049422a38e0d13b37a933bd5be6cbd2d916",
+  "legislatura": "IX",
+  "id": "145468",
+  "tipo": "Intervenção",
+  "orador": "Luís Campos Ferreira (PSD)",
+  "data_registo": "2003-05-23",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "156562",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "19354",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Aprova medidas com vista à modernização do regime da realização de despesas públicas com locação e aquisição de bens e serviços de comunicações pela administração pública."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2003-05-23",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "1998",
+      "nome": "Luís Campos Ferreira"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "145468",
+    "IdDebate": "2571",
+    "Iniciativas": [
+      {
+        "fase": "Discussão generalidade",
+        "id": "19354",
+        "tipo": "Projeto de Lei"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "IX",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "145468",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "5234-5236"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-05-24",
+        "pubLeg": "IX",
+        "pubNr": "125",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/125/2003-05-24/5234?pgs=5234-5236&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "Responde a pedido de esclarecimento do deputado José Magalhães (PS)",
+    "Sessao": "1",
+    "Sumario": "Aprova medidas com vista à modernização do regime da realização de despesas públicas com locação e aquisição de bens e serviços de comunicações pela administração pública",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
