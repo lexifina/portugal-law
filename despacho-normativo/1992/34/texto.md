@@ -1,0 +1,16 @@
+Despacho Normativo n.º 34/92
+A inventariação do património cultural constitui uma das atribuições da Secretaria de Estado da Cultura, nos termos do Decreto-Lei n.º 59/80, de 3 de Abril, e da Lei do Património Cultural, aprovada pela Lei n.º 13/85, de 6 de Julho.
+Para o efeito foi recentemente institucionalizada a Comissão para o Inventário do Património Cultural Móvel, criada pelo Despacho Normativo n.º 199/91, de 17 de Setembro.
+O tempo entretanto decorrido veio, todavia, demonstrar ser necessário efectuar à respectiva composição e funcionamento alguns ajustamentos.
+Assim, nos termos dos artigos 2.º, alínea a), e 31.º, n.º 1, do Decreto-Lei n.º 59/80, de 3 de Abril, determino o seguinte:
+O Despacho Normativo n.º 199/91, de 17 de Setembro, passa a ter a seguinte redacção:
+1 - É criada, no âmbito da Secretaria de Estado da Cultura, a Comissão para o Inventário do Património Cultural Móvel, doravante designada por Comissão, que deverá efectuar o inventário do património cultural móvel de propriedade do Estado ou sob a sua tutela.
+2 - Compõem a Comissão um coordenador-geral e um coordenador-adjunto, nomeados pelo membro do Governo responsável pela área da cultura, e seis outros vogais, representando o Instituto Português do Património Cultural, o Instituto Português do Livro e da Leitura, a Biblioteca Nacional, o Arquivo Nacional da Torre do Tombo, o Instituto Português de Arquivos e o Instituto Português de Museus, indicados pelos respectivos órgãos dirigentes e nomeados pelo membro do Governo responsável pela área da cultura.
+3 - ...
+4 - Os departamentos e serviços do Instituto Português do Património Cultural, do Instituto Português do Livro e da Leitura, da Biblioteca Nacional, do Arquivo Nacional da Torre do Tombo, do Instituto Português de Arquivos e do Instituto Português de Museus devem prestar à Comissão a colaboração que lhes for solicitada, com prioridade sobre as demais tarefas.
+5 - ...
+6 - ...
+7 - ...
+8 - ...
+9 - As despesas que advierem do disposto nos n.os 7 e 8 serão suportadas por verbas adequadas previstas no orçamento do Instituto Português de Arquivos.
+Presidência do Conselho de Ministros, 6 de Fevereiro de 1992. - O Subsecretário de Estado da Cultura, António Costa de Albuquerque de Sousa Lara.
