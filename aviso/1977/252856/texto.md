@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que o Contrato de Empréstimo entre o Kreditanstalt für Wiederaufbau e a República Portuguesa, no montante de 70 milhões de marcos, para defesa contra cheias e irrigação no Baixo Mondego e o Contrato de Arbritagem (com referência ao n.º 6 do artigo X do Contrato anterior), publicados em anexo ao Decreto-Lei n.º 110/77, de 26 de Março, foram assinados em Francoforte, em 31 de Março de 1977, pelo embaixador de Portugal em Bona (em nome do Governo Português) e por dois representantes daquela instituição alemã.
+Direcção-Geral dos Negócios Económicos, 13 de Maio de 1977. - O Director-Geral-Adjunto, Paulo Manuel Lage David Ennes.
