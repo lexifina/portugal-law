@@ -1,0 +1,5 @@
+Aviso n.º 67/91
+Por ordem superior se torna público que, por nota de 3 de Abril de 1991 e nos termos do artigo 42.º da Convenção sobre a Obtenção de Provas no Estrangeiro em Matéria Civil ou Comercial, concluída na Haia em 18 de Março de 1970, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter o Reino dos Países Baixos declarado aceitar, no que respeita a Aruba, a adesão dos Estados Unidos Mexicanos à mencionada Convenção.
+Nos termos do artigo 39.º, a Convenção entrará em vigor entre os Estados Unidos Mexicanos e Aruba em 18 de Maio de 1991.
+Portugal é Parte na mesma Convenção, a qual foi aprovada, para ratificação, pelo Decreto n.º 764/74, de 30 de Dezembro (publicado no 2.º suplemento ao Diário do Governo, 1.ª série). Portugal depositou o seu instrumento de ratificação, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 82, de 8 de Abril de 1975.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 18 de Abril de 1991. - O Chefe do Serviço Jurídico e de Tratados, António Salgado Manso Preto Mendes Cruz.
