@@ -1,0 +1,77 @@
+Despacho Normativo n.º 4-D/85
+Face ao agravamento registado nos custos de exploração da indústria de transportes de aluguer em veículos ligeiros de passageiros, considerou-se indispensável proceder à revisão tarifária dos serviços prestados por esta categoria de veículos.
+Assim, nos termos do artigo 13.º do Decreto-Lei n.º 16/82, de 23 de Janeiro, determina-se o seguinte:
+1.º São aprovadas as tarifas que a seguir se indicam para os serviços de aluguer em automóveis ligeiros de passageiros:
+A) Serviço a táxi
+a) Automóveis de aluguer com distintivo e cor padrão:
+Automóveis de 4 lugares:
+Tarifa n.º 1 - Serviço diurno:
+Os primeiros 375 m ou fracção ... 60$00
+Por cada 134 m a mais ou fracção ... 4$00
+Por cada 39 segundos de espera ou fracção ... 4$00
+Tarifa n.º 2 - Serviço nocturno:
+Os primeiros 312 m ou fracção ... 60$00
+Por cada 111 m a mais ou fracção ... 4$00
+Por cada 39 segundos de espera ou fracção ... 4$00
+B) Serviço à hora
+a) Automóveis de aluguer com distintivo e cor padrão:
+Automóveis de 4 lugares:
+A primeira hora ou fracção ... 720$00
+Cada meia hora ou fracção ... 360$00
+Automóveis de 6 lugares:
+A primeira hora ou fracção ... 840$00
+Cada meia hora ou fracção ... 420$00
+b) Automóveis de aluguer isentos de distintivo e cor padrão:
+Automóveis de 4 lugares:
+A primeira hora ou fracção ... 1000$00
+Cada meia hora ou fracção ... 500$00
+Automóveis de 6 lugares:
+A primeira hora ou fracção ... 1160$00
+Cada meia hora ou fracção ... 580$00
+C) Serviço ao quilómetro
+a) Automóveis de aluguer com distintivo e cor padrão:
+Automóveis de 4 lugares:
+Por quilómetro ou fracção ... 26$00
+Mínimo de cobrança ... 140$00
+Automóveis de 6 lugares:
+Por quilómetro ou fracção ... 34$00
+Mínimo de cobrança ... 190$00
+b) Automóveis de aluguer isentos de distintivo e cor padrão:
+Automóveis de 4 lugares:
+Por quilómetro ou fracção ... 32$00
+Mínimo de cobrança ... 180$00
+Automóveis de 6 lugares:
+Por quilómetro ou fracção ... 38$00
+Mínimo de cobrança ... 220$00
+Automóveis de 6 lugares:
+Tarifa n.º 1 - Serviço diurno:
+Os primeiros 300 m ou fracção ... 60$00
+Por cada 122 m a mais ou fracção ... 4$00
+Por cada 39 segundos de espera ou fracção ... 4$00
+Tarifa n.º 2 - Serviço nocturno:
+Os primeiros 257 m ou fracção ... 60$00
+Por cada 101 m a mais ou fracção ... 4$00
+Por cada 39 segundos de espera ou fracção ... 4$00
+b) Automóveis de aluguer isentos de distintivo e cor padrão:
+Automóveis de 4 lugares:
+Os primeiros 365 m ou fracção ... 66$00
+Por cada 97 m a mais ou fracção ... 4$00
+Por cada 33 segundos a mais ou fracção ... 4$00
+Automóveis de 6 lugares:
+Os primeiros 365 m ou fracção ... 66$00
+Por cada 97 m a mais ou fracção ... 4$00
+Por cada 33 segundos a mais ou fracção ... 4$00
+2.º A partir das 22 horas e até às 6 horas será aplicada aos serviços a táxi a tarifa n.º 2 - serviço nocturno. Assim, a mudança de tarifa deverá ser efectuada mesmo no decurso dos serviços que tenham o seu início antes das 22 horas ou o seu termo depois das 6 horas.
+3.º Os serviços ao quilómetro efectuados no período referido no número anterior serão agravados com uma sobretaxa de 20%.
+4.º O serviço à hora só é permitido em serviços prestados por ocasião de espectáculos públicos (incluindo ida, espera e retorno), casamentos, baptizados e enterros ou em transportes de excursionistas e noutros casos especiais a fixar pela câmaras municipais.
+5.º No serviço de transporte de passageiros em veículos ligeiros em regime de aluguer ao quilómetro, a espera será cobrada à razão de 6$00 por cada minuto ou fracção.
+6.º O transporte em automóveis ligeiros de aluguer de passageiros só poderá ser contratado nos termos do artigo 27.º do Regulamento de Transportes em Automóveis, na redacção que lhe foi dada pelo Decreto Regulamentar n.º 21-A/80, de 24 de Junho.
+7.º A verificação dos taxímetros deverá ser feita no prazo de 90 dias, a contar da entrada em vigor do presente despacho.
+8.º Até à verificação será utilizada a tabela de conversão anexa, que faz parte integrante do presente despacho e deverá ser afixada no interior das viaturas, uma na parte dianteira e outra nas costas do banco da frente.
+9.º As transgressões às disposições dos números anteriores serão punidas nos termos do artigo 211.º do Regulamento de Transportes em Automóveis, aprovado pelo Decreto n.º 37272, de 31 de Dezembro de 1948, observando-se em todos os casos o disposto no corpo do artigo 218.º do referido Regulamento.
+10.º O presente despacho entra em vigor no próximo dia 1 de Fevereiro.
+Ministérios do Comércio e Turismo e do Equipamento Social, 11 de Janeiro de 1985. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral. - O Ministro do Equipamento Social, João Rosado Correia.
+
+Tabela de conversão dos preços correspondentes aos serviços prestados em automóveis - Táxis
+(ver documento original)
+Nota. - Acima destes valores deverá ser aplicada uma sobretaxa de 20% sobre o valor marcado no taxímetro.
