@@ -1,0 +1,8 @@
+Portaria n.º 298/76
+de 14 de Maio
+Nos termos previstos no n.º 7 do artigo 38.º do Decreto-Lei n.º 44063, de 28 de Novembro de 1961, na redacção que lhe foi dada pelo Decreto-Lei n.º 530/72, de 20 de Dezembro, tendo em atenção o disposto na alínea d) da Portaria n.º 68/76, de 6 de Fevereiro, e considerando que a Portaria n.º 264/76, de 27 de Abril, saiu no Diário da República com inexactidões no tocante às percentagens das participações emolumentares a abonar aos segundos-ajudantes e terceiros-ajudantes e, bem assim, aos escriturários-dactilógrafos, o que se traduziria em distorções e desigualdades nas remunerações globais das referenciadas categorias de funcionários, que urge eliminar:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado dos Assuntos Judiciários, o seguinte:
+a) Pelas forças do produto da percentagem referida no n.º 6 do artigo 38.º do Decreto-Lei n.º 44063, de 28 de Novembro de 1961 (redacção introduzida pelo Decreto-Lei n.º 258/76, de 8 de Abril), serão abonadas mensalmente, a título de participação emolumentar, aos funcionários em exercício da categoria de chefe de secção e aos das categorias de primeiro-ajudante, segundo-ajudante e terceiro-ajudante, e de escriturário-dactilógrafo, as importâncias correspondentes, respectivamente, a 8%, 15%, 19% (segundo-ajudante e terceiro-ajudante) e 22% do seu vencimento;
+b) Aos técnicos de 1.ª, 2.ª e 3.ª classes do quadro auxiliar da Conservatória dos Registos Centrais não é abonada percentagem emolumentar;
+c) Esta portaria produz efeitos a partir do dia 1 de Maio do ano em curso.
+Ministério da Justiça, 30 de Abril de 1976. - O Secretário de Estado dos Assuntos Judiciários, Armando Bacelar.
