@@ -1,0 +1,3 @@
+Declaração
+Para o efeito do disposto no n.º 2 do artigo 24.º do Decreto-Lei n.º 41204, de 24 de Julho de 1957, se declara que, por despacho de S. Ex.ª o Secretário de Estado do Comércio de 24 de Janeiro findo, foi autorizada a venda ao público de manteiga pasteurizada em embalagens originais inferiores a 125 g, desde que o custo da fracção a utilizar não venha a corresponder a preço superior ao fixado para 1 kg de manteiga pasteurizada, aprovado por despacho ministerial de 9 de Outubro de 1956 e constante da declaração publicada no Diário do Governo n.º 260, 1.ª série, de 29 de Novembro desse ano.
+Comissão de Coordenação Económica, 9 de Fevereiro de 1962. - Pelo Presidente, António Fezas Vital.
