@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 27-C/2002
+Segundo comunicação do Ministério da Saúde, o Despacho Normativo n.º 33/2002, publicado no Diário da República, 1.ª série, n.º 101, de 2 de Maio de 2002, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No n.º 4 do capítulo IX, sob a epígrafe «Inscrição para a realização de provas de aptidão e estágios de adaptação», onde se lê «onde o mesmo tenha lugar ou no local indicado pelas entidades regionais competentes, na situação prevista no n.º 8 do capítulo X deste Regulamento.» deve ler-se «onde o mesmo tenha lugar ou no local indicado pelas autoridades regionais competentes, na situação prevista no n.º 8 do capítulo XI deste Regulamento.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Agosto de 2002. - O Secretário-Geral, José M. Sousa Rego.
