@@ -1,0 +1,3 @@
+Despacho Normativo n.º 116/78
+Ao abrigo do disposto no artigo 1.º do Decreto-Lei n.º 550/74, de 23 de Outubro, é criado um consulado de 1.ª classe em Benguela, com área de jurisdição sobre as províncias de Benguela, Huambo, Moçâmedes, Lubango, Cunene, Cuando Cubango, Moxico e Bié, que são para o efeito desanexadas da área de jurisdição do Consulado-Geral em Luanda.
+Ministérios das Finanças e do Plano e dos Negócios Estrangeiros, 8 de Maio de 1978. - Pelo Ministro das Finanças e do Plano, Herlânder dos Santos Estrela, Secretário de Estado do Tesouro. - O Ministro dos Negócios Estrangeiros, Vítor Augusto Nunes de Sá Machado.
