@@ -1,0 +1,6 @@
+Decreto n.º 48598
+Tendo o Doutor António de Oliveira Salazar cessado o exercício das suas funções como Presidente do Conselho;
+Usando da faculdade que me confere o n.º 1.º do artigo 81.º da Constituição:
+Hei por bem conceder ao Doutor António Jorge Martins da Mota Veiga, general Manuel Gomes de Araújo, Dr. António Manuel Gonçalves Rapazote, Doutor Mário Júlio de Almeida Costa, Dr. João Augusto Dias Rosas, brigadeiro José Manuel Bettencourt Conceição Rodrigues, comodoro Manuel Pereira Crespo, Dr. Alberto Marciano Gorjão Franco Nogueira, engenheiro José Albino Machado Vaz, Doutor Joaquim Moreira da Silva Cunha, Dr. José Hermano Saraiva, Dr. José Gonçalo da Cunha Sottomayor Correia de Oliveira, engenheiro José Estêvão Abranches Couceiro do Canto Moniz, Doutor José João Gonçalves de Proença e Dr. Joaquim de Jesus Santos a exoneração, respectivamente, de Ministros de Estado adjunto do Presidente do Conselho, da Defesa Nacional, do Interior, da Justiça, das Finanças, do Exército, da Marinha, dos Negócios Estrangeiros, das Obras Públicas, do Ultramar, da Educação Nacional, da Economia, das Comunicações, das Corporações e Previdência Social e da Saúde e Assistência, lugares que me apraz declarar exerceram com zelo, inteligência e acendrado patriotismo.
+Publique-se.
+Paços do Governo da República, 27 de Setembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.
