@@ -1,0 +1,32 @@
+Portaria n.º 538/2003
+de 9 de Julho
+Após um período de expansão da comercialização do vinho do Porto ao longo de quase 10 anos, registaram-se em 2001 e 2002 quebras significativas que afectaram, particularmente, o sector produtivo, na medida em que originaram importantes quantidades de vinho em stock.
+Esta situação traduz-se na não comercialização de quantidades significativas de vinho do Porto o que, associado às quebras de preço verificadas em 2002, implicou uma perda de liquidez muito acentuada na região, colocando alguns produtores em séries dificuldades.
+O negócio do vinho do Porto é o principal, se não mesmo o único, suporte económico de toda a região duriense e dos seus 30000 viticultores e representa 20% das exportações nacionais de produtos agro-alimentares.
+A presente situação aconselha à adopção de medidas, excepcionais e transitórias, que contribuam para a regularização da oferta na primeira colocação no mercado no quadro da Organização Comum de Mercado do Vinho e da decisão adoptada pela Comissão Interprofissional da Região Demarcada do Douro.
+As disponibilidades geradas pelas taxas específicas incidentes sobre os produtos vínicos e suportadas pelo sector vitivinícola desta região demarcada fornecem os meios financeiros necessários para accionar as medidas de regularização da oferta agora previstas.
+Assim:
+Manda o Governo, pela Ministra de Estado e das Finanças e pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, nos termos do disposto no artigo 2.º do Decreto-Lei n.º 74/96, de 18 de Junho, e no artigo 5.º do estatuto anexo ao Decreto-Lei n.º 414/93, de 23 de Dezembro, o seguinte:
+1.º É criada uma medida de apoio aos produtores de vinho generoso da Região Demarcada do Douro possuidores de vinho apto à denominação de origem Porto da vindima de 2002 não comercializado, que contratem empréstimos junto de instituições de crédito.
+2.º - a) O montante máximo de crédito objecto da presente medida de apoio é de (euro) 25000000.
+b) O montante de crédito a apoiar a cada produtor tem por limite o valor correspondente à diferença entre o quantitativo de vinho generoso produzido na vindima de 2002 e o quantitativo comercializado à data do pedido do empréstimo.
+c) Para efeito da presente portaria, considera-se que cada litro de vinho tem a valorização máxima de (euro) 1,75.
+3.º - a) Têm acesso à medida de apoio os produtores de vinho generoso detentores de vinho apto à denominação de origem Porto da vindima de 2002 não comercializado.
+b) Para efeito de acesso, os interessados apresentam junto da instituição de crédito:
+i) Declaração, emitida pelo Instituto do Vinho do Porto (IVP), que comprove o número de litros de vinho apto à denominação de origem Porto da vindima de 2002 não comercializado até à data do pedido de empréstimo;
+ii) Declarações, emitidas pela Direcção-Geral dos Impostos e pelo Instituto de Gestão Financeira da Segurança Social, que comprovem que a respectiva situação perante a administração fiscal e a segurança social se encontra regularizada.
+c) A contratação dos empréstimos previstos na presente portaria tem como data limite 30 de Agosto de 2003.
+4.º - a) O apoio corresponde a 40% da taxa de juro contratual, até ao limite máximo de 1,8%.
+b) O apoio é apurado no final de cada ano civil e calculado dia a dia sobre o capital determinado de acordo com o disposto nas alíneas seguintes.
+c) O capital objecto de apoio reduz-se, em 31 de Dezembro de cada ano, em 25% do montante a que se refere a alínea b) do n.º 2.º, excepto se o valor do capital amortizado ou o valor da venda do vinho, apurado nos termos da alínea c) do mesmo n.º 2.º, não acompanhada de amortização, for superior àquela percentagem.
+d) Na situação prevista na parte final da alínea anterior, o capital objecto de apoio reduz-se, automaticamente, na data em que ocorre a amortização do capital ou a venda do vinho.
+5.º - a) Os apoios previstos na presente portaria são processados e pagos pelo IVP, de acordo com as instruções dirigidas às instituições de crédito.
+b) O apoio é atribuído enquanto se verificar o pontual cumprimento de todas as obrigações assumidas pelos mutuários perante a instituição de crédito mutuante.
+c) A atribuição do apoio depende ainda da apresentação pelo mutuário à instituição de crédito mutuante, até 31 de Dezembro de cada ano, de declarações, actualizadas, que comprovem o pontual cumprimento das suas obrigações perante a administração fiscal e a segurança social.
+6.º - a) Os empréstimos são garantidos por penhor mercantil constituído sobre o vinho a que se refere a alínea b) do n.º 2.º, o qual é reduzido ou substituído em função da venda de vinho valorizada nos termos previstos na alínea c) do mesmo número.
+b) Em reforço da garantia prevista na alínea anterior pode ser exigida outra garantia considerada adequada ao risco do empréstimo pela instituição de crédito mutuante.
+7.º - a) O acompanhamento e verificação do cumprimento do disposto na presente portaria incumbe ao IVP.
+b) Para efeito do disposto nas alíneas b) a d) do n.º 4.º, o IVP comunica, de imediato, às instituições de crédito mutuantes os quantitativos vendidos e a data da respectiva venda.
+8.º Até à reestruturação orgânica do IVP, cabe ao Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas suportar os encargos decorrentes da presente portaria.
+Em 27 de Junho de 2003.
+Pela Ministra de Estado e das Finanças, Francisco Adelino Gusmão Esteves de Carvalho, Secretário de Estado do Tesouro e Finanças. - O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto.
