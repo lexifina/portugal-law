@@ -1,0 +1,3 @@
+Portaria n.º 21421
+Manda o Governo da República Portuguesa, pelos Ministro do Interior e Secretário de Estado da Agricultura, que a Câmara Municipal de Valongo seja incluída na relação n.º 2 anexa à Portaria n.º 9708, de 23 de Dezembro de 1940, ficando autorizada a cobrar durante quinze anos a sobretaxa de 3 por cento sobre o valor das carnes dos animais abatidos para consumo público no matadouro camarário, calculada na base da estiva aprovada pela Portaria n.º 11466, de 22 de Agosto de 1946.
+Ministério do Interior e Secretaria de Estado da Agricultura, 26 de Julho de 1965. - O Ministro do Interior, Alfredo Rodrigues dos Santos Júnior. - O Secretário de Estado da Agricultura, Domingos Rosado Vitória Pires.
