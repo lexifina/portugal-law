@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que se encontra concluído por ambas as partes o processo de aprovação do Acordo entre o Governo da República Portuguesa e o Governo da República Socialista Federativa da Jugoslávia Relativo aos Transportes Internacionais de Pessoas e Mercadorias por Estrada, assinado em Lisboa em 16 de Junho de 1978 e publicado no Diário da República, 1.ª série, n.º 157, de 11 de Julho de 1981.
+Nesta conformidade, e segundo a interpretação do disposto no seu artigo 18.º, foi acordado, por troca de notas entre a Embaixada de Portugal em Belgrado e o Ministério dos Negócios Estrangeiros da República Federativa Socialista da Jugoslávia, que o Acordo em apreço entrou em vigor em 30 de Março de 1983.
+Direcção-Geral dos Negócios Político-Económicos, 29 de Maio de 1988. - O Director-Geral, José Gregório Faria.
