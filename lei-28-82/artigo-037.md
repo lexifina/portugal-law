@@ -1,8 +1,8 @@
 # Artigo 37.º
 
-### (Eleição do presidente e do vice-presidente)
+### Eleição do presidente e vice-presidente
 
-1 - Os juízes do Tribunal Constitucional elegem de entre si o presidente e o vice-presidente do Tribunal Constitucional.
+1 - Os juízes do Tribunal Constitucional elegem de entre si o Presidente e o Vice-Presidente do Tribunal Constitucional, os quais exercem funções por um período igual a metade do mandato de juiz do Tribunal Constitucional, podendo ser reconduzidos.
 
 2 - Eliminado.
 

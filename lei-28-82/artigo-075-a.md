@@ -10,4 +10,8 @@
 
 4 - O disposto nos números anteriores é aplicável, com as necessárias adaptações, ao recurso previsto na alínea i) do n.º 1 do artigo 70.º
 
-5 - Se o requerimento de interposição do recurso não indicar algum dos elementos previstos no presente artigo, o juiz convidará o requerente a prestar essa indicação no prazo de cinco dias.
+5 - Se o requerimento de interposição do recurso não indicar algum dos elementos previstos no presente artigo, o juiz convidará o requerente a prestar essa indicação no prazo de 10 dias.
+
+6 - O disposto nos números anteriores é aplicável pelo relator no Tribunal Constitucional, quando o juiz ou o relator que admitiu o recurso de constitucionalidade não tiver feito o convite referido no n.º 5.
+
+7 - Se o requerente não responder ao convite efectuado pelo relator no Tribunal Constitucional, o recurso é logo julgado deserto.

@@ -1,6 +1,6 @@
 # Artigo 78.º
 
-### (Efeitos e regime de subida)
+### Efeitos e regime de subida
 
 1 - O recurso interposto de decisão que não admita outro, por razões de valor ou alçada, tem os efeitos e o regime de subida do recurso que no caso caberia se o valor ou a alçada o permitissem.
 
@@ -9,3 +9,5 @@
 3 - O recurso interposto de decisão proferida já em fase de recurso mantém os efeitos e o regime de subida do recurso anterior, salvo no caso de ser aplicável o disposto no número anterior.
 
 4 - Nos restantes casos, o recurso tem efeito suspensivo e sobe nos próprios autos.
+
+5 - Quando, por aplicação das regras dos números anteriores, ao recurso couber efeito suspensivo, o Tribunal, em conferência, pode, oficiosamente e a título excepcional, fixar-lhe efeito meramente devolutivo, se, com isso, não afectar a utilidade da decisão a proferir.

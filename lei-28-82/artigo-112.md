@@ -6,4 +6,6 @@
 
 2 - Ocorrendo a hipótese prevista na parte final do número anterior, o Presidente do Tribunal ordenará a notificação do declarante, para este responder, no prazo de 20 dias, à promoção do Ministério Público e, sendo caso disso, juntar a prova documental que tiver por conveniente ou, em casos excepcionais, requerer a produção de outro meio de prova, após o que o Tribunal decidirá em sessão plenária.
 
-3 - A decisão do Tribunal que determine, nos termos do n.º 3 do artigo 10.º da Lei n.º 64/93, de 26 de Agosto, a perda do mandato ou a demissão de titular de cargo político será publicada na 1.ª série-B do Diário da República ou naquela em que tiver sido publicada a designação do mesmo titular para o cargo, e produzirá efeitos desde a publicação.
+3 - O Tribunal, se considerar fundada a existência de dúvida sobre a ocorrência de uma situação de incompatibilidade, limitar-se-á a ordenar a sua cessação, fixando prazo para o efeito.
+
+4 - A decisão do Tribunal que determine, nos termos do n.º 3 do artigo 10.º da Lei n.º 64/93, de 26 de Agosto, a perda do mandato ou a demissão de titular de cargo político será publicada na 1.ª série-B do Diário da República ou naquela em que tiver sido publicada a designação do mesmo titular para o cargo, e produzirá efeitos desde a publicação.

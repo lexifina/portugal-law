@@ -18,4 +18,4 @@
 
 8 - A cooptação de cada indigitado só se considera definitiva depois de preenchidas todas as vagas.
 
-9 - A lista dos cooptados é publicada na 1.ª série do Diário da República, sob a forma de declaração assinada pelo juiz que tiver dirigido a reunião.
+9 - A lista dos cooptados é publicada na 1.ª série-A do Diário da República, sob forma de declaração assinada pelo juiz que tiver dirigido a reunião, no dia seguinte ao da cooptação.

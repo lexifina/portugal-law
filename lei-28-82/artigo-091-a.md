@@ -1,6 +1,6 @@
 ## Subcapítulo I-A
 
-## Processos relativos à perda de mandato de Deputados
+## Processos relativos ao contencioso da perda de mandato de Deputados
 
 # Artigo 91.º-A
 

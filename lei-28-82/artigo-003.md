@@ -2,7 +2,7 @@
 
 ### Publicação das decisões
 
-1 - São publicadas na 1.ª série do Diário da República as decisões do Tribunal Constitucional que tenham por objecto:
+1 - São publicadas na 1.ª série-A do Diário da República as decisões do Tribunal Constitucional que tenham por objecto:
 
 a) Declarar a inconstitucionalidade ou a ilegalidade de quaisquer normas;
 
@@ -16,7 +16,7 @@ e) Verificar a morte ou a incapacidade para o exercício da função presidencia
 
 f) Declarar que uma qualquer organização perfilha a ideologia fascista e decretar a respectiva extinção;
 
-g) Verificar a constitucionalidade e a legalidade das propostas de referendo e das consultas directas aos eleitores a nível local.
+g) Verificar a constitucionalidade e a legalidade das propostas de referendo nacional, regional e local;
 
 h) Apreciar a regularidade e a legalidade das contas dos partidos políticos.
 

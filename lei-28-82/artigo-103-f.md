@@ -4,7 +4,7 @@
 
 Para além do que se encontra previsto na legislação aplicável, o Ministério Público deve ainda requerer a extinção dos partidos políticos que:
 
-a) Não apresentem as suas contas em três anos consecutivos ou cinco interpolados num período de 10 anos;
+a) Não apresentem as suas contas em três anos consecutivos;
 
 b) Não procedam à anotação dos titulares dos seus órgãos centrais, num período superior a seis anos;
 

@@ -1,5 +1,5 @@
 # Artigo 33.º
 
-### (Passaporte)
+### Passaporte
 
-O presidente do Tribunal Constitucional tem direito a passaporte diplomático e os restantes juízes a passaporte especial, nos termos da respectiva legislação.
+Os juízes do Tribunal Constitucional têm direito a passaporte diplomático.
