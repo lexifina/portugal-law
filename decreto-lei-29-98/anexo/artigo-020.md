@@ -22,4 +22,6 @@ f) O reembolso com a aquisição de suportes magnéticos necessários à gravaç
 
 2 - O reembolso com despesas de papel, fotocópias e outro expediente, bem como os encargos referidos nas alíneas e) e f), é calculado à razão de metade de 1 UC nas primeiras 50 folhas ou fracção do processado e de um décimo de UC por cada conjunto subsequente de 25 folhas ou fracção do processado.
 
-3 - No processo de execução fiscal, o reembolso a que se refere o número anterior não pode exceder o montante das despesas efectivamente realizadas.
+3 - O reembolso com despesas de divulgação da venda através da Internet é estabelecido em 1 UC.
+
+4 - No processo de execução fiscal, o reembolso a que se refere o n.º 2 não pode exceder o montante das despesas efectivamente realizadas.

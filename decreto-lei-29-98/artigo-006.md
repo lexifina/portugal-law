@@ -17,5 +17,3 @@ a) Urbanas, cada uma - 1/150 de UC;
 b) Cadastrais:
 
 (ver tabela no documento original)
-
-Os valores referidos são arredondados para a dezena de escudos imediatamente superior.
