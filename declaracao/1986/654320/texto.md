@@ -1,0 +1,4 @@
+Declaração
+Para os devidos efeitos se declara que o Decreto-Lei n.º 72-A/86, publicado no Diário da República, 1.ª série, n.º 90 (suplemento), de 18 de Abril de 1986, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No n.º 9 do artigo 10.º, na redacção que lhe foi dada pelo artigo 2.º, onde se lê «[...] coeficientes técnicos de rendimento que produzam a sua valorização relativa.» deve ler-se «[...] coeficientes técnicos de rendimento que traduzem a sua valorização relativa.» e no n.º 11 do mesmo artigo, onde se lê «Poderão ser atribuídas restrições à exportação [...]» deve ler-se «Poderão ser atribuídas restituições à exportação [...]»
+Secretaria-Geral da Presidência do Conselho de Ministros, 23 de Maio de 1986. - O Secretário-Geral, França Martins.
