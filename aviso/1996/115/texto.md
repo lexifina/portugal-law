@@ -1,0 +1,5 @@
+Aviso n.º 115/96
+Por ordem superior se torna público que, por nota de 21 de Março de 1996 e nos termos do artigo 31.º da Convenção Relativa ao Processo Civil, concluída na Haia em 1 de Março de 1954, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a ex-República Jugoslava da Macedónia informado o Ministério, em 20 de Março de 1996, que deseja suceder à República Socialista Federativa da Jugoslávia como parte na referida Convenção.
+O Ministério é de opinião que, salvo notificação em contrário até 1 de Junho de 1996, a Convenção se mantém em vigor entre os Estados Contratantes e a ex-República Jugoslava da Macedónia.
+Portugal é parte na mesma Convenção, que foi aprovada para ratificação pelo Decreto-Lei n.º 47097, de 14 de Julho de 1966, tendo depositado o seu instrumento de ratificação em 3 de Julho de 1967, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 196, de 23 de Agosto de 1967.
+Departamento de Assuntos Jurídicos, 12 de Abril de 1996. - O Director, José Maria Teixeira Leite Martins.
