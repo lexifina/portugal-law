@@ -1,0 +1,57 @@
+# Acórdão do Supremo Tribunal de Justiça de 1997-07-02, processo 97P203
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 97P203
+
+**Nº Convencional:** JSTJ00035850
+
+**Relator:** FLORES RIBEIRO
+
+**Descritores:** SENTENÇA PENAL; FUNDAMENTAÇÃO; PROVA PERICIAL; VALOR PROBATÓRIO; TRÁFICO DE ESTUPEFACIENTE; MEDIDA DA PENA; GRAVAÇÃO DA PROVA; SEGREDO DE JUSTIÇA; CONFISSÃO; VALOR CONSIDERAVELMENTE ELEVADO; TRÁFICO DE ESTUPEFACIENTE; NATUREZA DA INFRACÇÃO; ASSOCIAÇÃO CRIMINOSA; CRIME DE EXECUÇÃO PERMANENTE
+
+**Nº do Documento:** SJ199707020002033
+
+**Data do Acordão:** 07/02/1997
+
+**Votação:** UNANIMIDADE
+
+**Tribunal Recurso:** T CIRC FUNCHAL
+
+**Processo no Tribunal Recurso:** 48/96
+
+**Data:** 11/25/1996
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REC PENAL.
+
+**Decisão:** NEGADO PROVIMENTO.
+
+**Indicações Eventuais:** CAVALEIRO DE FERREIRA IN LIÇÕES DE DIREITO PENAL I 1992 PAG395.
+
+**Área Temática:** DIR CRIM - CRIM C/SOCIEDADE / CRIM C/PESSOAS.; DIR PROC PENAL - RECURSOS. DIR PROC CIV.
+
+## Sumário
+
+I - Resulta do artigo 374 n. 2 do CPP que não é obrigatória a indicação desenvolvida dos meios de prova, mas tão só as fontes das provas; que não é obrigatória a apreciação crítica da prova; que não é obrigatória a indicação das provas quanto à matéria de facto não provada, pois a lei não impõe que se faça a destrinça das fontes das provas que levaram à convicção do tribunal quanto aos factos provados dos não provados.
+
+II - Se o Laboratório de Polícia Científica não chegou a qualquer conclusão no exame a que procedeu, o Tribunal, em face da prova produzida em audiência estava livre de chegar a uma certa convicção. A limitação prevista no artigo 163 n. 1 do CPP não existia no caso.
+
+III - Tendo presente que o crime de tráfico de estupefacientes constitui, hoje em dia, como é do conhecimento geral, um flagelo social, a fixação da pena em abstracto não pode deixar de reflectir tal circunstância. Mas isto não quer dizer que ao fixar a pena ao agente o julgador não leve em consideração, para além da culpa daquele - limite máximo para a pena de acordo com o n. 2 do artigo 40 do CP - a necessidade de prevenção, quer especial, quer geral. É o momento concreto, o da fixação da pena, que interessa ter em conta.
+
+IV - A confissão, só por si, é manifestamente insuficiente para fazer funcionar a norma do artigo 72 n. 1 do CP, quando a mesma não apresenta como essencial para a descoberta da verdade.
+
+V - Não há segredo de justiça na fase de audiência quanto às conversas telefónicas gravadas ou também transcritas, com interesse para a decisão da causa.
+
+VI - A quantia de 2800000 escudos pode ser considerada avultada para efeitos de agravação nos termos do artigo 24 do DL 15/93, se se lançar mão, como princípio orientador - que não imposto - a que o CP/95 manda atender no seu artigo 202, alíneas a) e b), tendo em conta que os factos ocorreram quando tal diploma legal já estava em vigor.
+
+VII - O Ministério Público não está sujeito à multa prevista no artigo 145 n. 5 do CPC.
+
+VIII - Para se poder falar em "associação criminosa" não basta uma simples cooperação entre pessoas para se concluir pela sua verificação. Há que estar perante um grupo, organização ou associação actuando concertadamente. Não é um simples satisfazer de um pedido ainda que repetido, que pode integrar uma associação. Tem de ser uma actuação concertada.
+
+IX - O crime de tráfico de estupefacientes previsto no artigo
+
+21 n. 1 do DL 15/93 não se apresenta como a concretização de uma única conduta ou comportamento. Traduz-se numa actividade que se prolonga por período maior ou menor no tempo. Não é um crime instantâneo, mas de execução permanente. Há como que uma continuação criminosa que só acabará com a desistência por parte dos agentes, ou com a detenção dos mesmos. Cada actividade não vem a ser uma infracção; é apenas um acto de execução. Daí que se esteja perante um único crime de tráfico e não perante um concurso real. Estamos perante aquilo a que a moderna teoria geral chama de crime exaurido.
