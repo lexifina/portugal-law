@@ -1,0 +1,6 @@
+Portaria n.º 19877
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do n.º III da base LXXXVIII da Lei Orgânica do Ultramar Português, que a regra 4.ª da Portaria n.º 12238, de 9 de Janeiro de 1948, e a regra 3.ª das Portarias n.os 16681 e 17416, respectivamente de 25 de Abril de 1958 e 2 de Novembro de 1959, passem a ter a seguinte redacção:
+É da competência do Ministro do Ultramar a autorização de transferências do ensino liceal particular da metrópole para o oficial do ultramar, a fim de acautelar os interesses de educação daqueles cujas famílias são obrigadas a mudança de residência para o ultramar, quando nas localidades em que vão residir não seja possível recorrer àquele, e bem assim a autorização de transferências para o ensino oficial de alunos do particular que tendo estado matriculados no ensino oficial só o abandonaram por mudança de residência obrigada da família - a comprovar documentalmente - e por inexistência de liceus nos locais da metrópole ou do ultramar onde a família foi residir, cabendo esta mesma competência aos governadores quando se trate de transferências a realizar dentro de uma mesma província.
+Ministério do Ultramar, 29 de Maio de 1963. - O Ministro do Ultramar, António Augusto Peixoto Correia.
+
+Para ser publicada no Boletim Oficial de todas as províncias ultramarinas. - Peixoto Correia.
