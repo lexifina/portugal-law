@@ -1,0 +1,4 @@
+Portaria n.º 681/74
+de 21 de Outubro
+Manda o Governo Provisório da República Portuguesa, pelo Secretário de Estado dos Assuntos Económicos, abrir, nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, um crédito especial de 12567$00, para reforço da verba do capítulo II, artigo 12.º «Diversos encargos - Encargos administrativos», do orçamento da despesa do Conselho Ultramarino para o ano económico em curso, tomando como contrapartida igual importância a sair da verba do capítulo II, artigo 4.º, n.º 1, alínea a) «Despesas com o pessoal - Remunerações acidentais - Gratificações a 14 vogais (3 eleitos, 10 nomeados e 1 nato)», da mesma tabela de despesa.
+Ministério da Coordenação Interterritorial, 10 de Outubro de 1974. - O Secretário de Estado dos Assuntos Económicos, Fernando de Castro Fontes.
