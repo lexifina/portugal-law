@@ -1,0 +1,13 @@
+Portaria n.º 106/80
+de 13 de Março
+Por despacho do Ministro da Agricultura e Pescas datado de 25 de Janeiro de 1977 foi demarcada nos prédios rústicos denominados «S. Sebastião», «Tojais», «Valongo» (parte) e «Minas» uma reserva de 50000 pontos a José Braga de Carvalho.
+Entretanto, o reservatário requereu, nos termos e para os efeitos do disposto no n.º 1 do artigo 65.º da Lei n.º 77/77, de 29 de Setembro, a sujeição ao regime desta lei da reserva já demarcada.
+Organizado o processo previsto no artigo 22.º e seguintes do Decreto-Lei n.º 81/78, de 29 de Abril, verificou-se que o requerente preenche os requisitos previstos nos artigos 26.º, n.º 1, e 28.º, n.º 2, da Lei n.º 77/77, de 29 de Setembro.
+Nestes termos, e ao abrigo do disposto no n.º 1 do artigo 25.º do Decreto-Lei n.º 81/78, de 29 de Abril:
+Manda o Governo da República Portuguesa, pelo Ministro da Agricultura e Pescas:
+1 - Sujeitar ao regime da Lei n.º 77/77, de 29 de Setembro, a reserva já demarcada a José Braga de Carvalho.
+2 - Conceder-lhe uma área de reserva equivalente a 70000 pontos, acrescida de 4708 pontos de majoração, nos termos do n.º 2 do artigo 28.º da lei citada, a demarcar no prédio rústico que a seguir se descreve:
+Herdade das Fontes: matriz cadastral 3-I.
+Freguesia: Vila Nova da Baronia.
+Concelho: Alvito.
+Ministério da Agricultura e Pescas, 29 de Fevereiro de 1980. - O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha.
