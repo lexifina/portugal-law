@@ -1,0 +1,8 @@
+Portaria n.º 20854
+Porque têm vindo a acentuar-se de ano para ano os inconvenientes do sistema de contingentar, em cada campanha, a importação de certas variedades de batata de semente, considera-se aconselhável abandoná-lo, entrando decisivamente no caminho da liberalização.
+Impõe-se no entanto que a nova orientação seja aplicada, com prudência, por forma a evitar que dela resulte acentuada expansão de variedades com difícil escoamento para os mercados interno e externo. Nesse sentido se estabelece, pela presente portaria, a possibilidade de fixação de um diferencial sobre tais variedades, como meio de restringir a sua utilização e de fomentar, de forma indirecta, o recurso a outras variedades de maior valor comercial.
+Assim, com fundamento no disposto no Decreto-Lei n.º 36665, de 10 de Dezembro de 1947, no Decreto-Lei n.º 38747, de 10 de Maio de 1952, e no Decreto-Lei n.º 45835, de 27 de Julho de 1964:
+Manda o Governo da República Portuguesa, pelos Ministro das Finanças e Secretário de Estado do Comércio, o seguinte:
+1.º A importação de algumas variedades de batata de semente poderá ser onerada, com um diferencial até 80$00/saco 50 kg, cujo produto reverterá para um fundo administrado pela Junta Nacional das Frutas nos termos da Portaria n.º 20855, desta data.
+2.º Até à quantia referida no n.º 1.º, o montante desse diferencial será fixado, em cada campanha, por despacho do Secretário de Estado do Comércio.
+Ministério das Finanças e Secretaria de Estado do Comércio, 20 de Outubro de 1964. - O Ministro das Finanças, António Manuel Pinto Barbosa. - O Secretário de Estado do Comércio, Armando Ramos de Paula Coelho.
