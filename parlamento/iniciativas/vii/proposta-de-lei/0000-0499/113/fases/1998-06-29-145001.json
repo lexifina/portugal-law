@@ -1,0 +1,247 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "113",
+    "id": "5086",
+    "titulo": "Estatuto do Ministério Público."
+  },
+  "fase": "Votação requerimento avocação plenário",
+  "codigo_fase": "290",
+  "data_registo": "1998-06-29",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1847",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "290",
+    "Comissao": null,
+    "DataFase": "1998-06-29",
+    "EvtId": "16",
+    "Fase": "Votação requerimento avocação plenário",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1998-06-29",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "22:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51564",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2993-2997"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-30",
+                "pubLeg": "VII",
+                "pubNr": "86",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/086/1998-06-30/2993?pgs=2993-2997&org=PLC"
+              }
+            ],
+            "sumario": "ESTATUTO DO MINISTERIO PUBLICO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "22:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51565",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2992-2993",
+                  "2995-2995"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-30",
+                "pubLeg": "VII",
+                "pubNr": "86",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/086/1998-06-30/2992?pgs=2992-2993,2995&org=PLC"
+              }
+            ],
+            "sumario": "ESTATUTO DO MINISTERIO PUBLICO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1343",
+                "nome": "Calvão da Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:40",
+            "horaTermo": "22:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51566",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2991-2992",
+                  "2994-2994"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-30",
+                "pubLeg": "VII",
+                "pubNr": "86",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/086/1998-06-30/2991?pgs=2991-2992,2994&org=PLC"
+              }
+            ],
+            "sumario": "ESTATUTO DO MINISTERIO PUBLICO",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "145001",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1847",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1998-06-30",
+        "pubLeg": "VII",
+        "pubNr": "86",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/086/1998-06-30?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": [
+      "PSD"
+    ],
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "1998-06-29",
+        "descricao": "avocação dos artº 3º, 10º, 12º, 37º, 44º, 46º, 47º, 56º e 80º - rejeitadas propostas de alteração aos mesmos",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> PEV</I>, <I> Lemos Damião (Indep)</I>",
+        "id": "27659",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "172831",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1998-06-30",
+            "pubLeg": "VII",
+            "pubNr": "86",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/086/1998-06-30?org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "86",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
