@@ -1,0 +1,7 @@
+Resolução do Conselho de Ministros n.º 5/85
+Verificando-se que os municípios que exploram a distribuição, no continente, de energia eléctrica não cumprem pontualmente as obrigações decorrentes da aplicação do tarifário oficialmente aprovado e que, em resultado disso, são devedores à EDP - Electricidade de Portugal, E. P., de montantes muito elevados;
+Considerando o disposto no Decreto-Lei n.º 262/84, de 1 de Agosto, que estabelece as condições em que o Governo pode, em Conselho de Ministros, determinar que a exploração da distribuição de energia eléctrica em baixa tensão seja cometida à EDP - Electricidade de Portugal, E. P., na área de um município que explore, no continente, essa distribuição e tenha deixado ou deixe de cumprir pontualmente as obrigações decorrentes da aplicação do tarifário oficialmente aprovado e, em resultado disso, se torne devedor àquela empresa pública:
+O Conselho de Ministros, reunido em 17 de Janeiro de 1985, resolveu:
+1 - Determinar que os municípios que exploram a distribuição, no continente, de energia eléctrica e não cumprem pontualmente as obrigações decorrentes da aplicação do tarifário oficialmente aprovado sejam notificados para regularizar a situação até 31 de Março de 1985.
+2 - Determinar que, em caso de recusa de tal regularização, a distribuição de energia eléctrica em baixa tensão na área do município em falta seja cometida à EDP - Electricidade de Portugal, E. P., a partir de 1 de Abril de 1985.
+Presidência do Conselho de Ministros. - O Primeiro-Ministro, Mário Soares.
