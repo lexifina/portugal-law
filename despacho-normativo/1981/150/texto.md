@@ -1,0 +1,3 @@
+Despacho Normativo n.º 150/81
+Ao abrigo do disposto no n.º 3 do artigo 1.º do Decreto-Lei n.º 303/77, de 29 de Julho, e em aditamento à tabela n.º 2 «Produtos fitofarmacêuticos», é autorizada a alteração do modo de exprimir o teor em substância activa, de gramas por litro (g/l) (980 g/l) para percentagem (p/p) (98%), relativamente aos produtos fitofarmacêuticos com base em brometo de metilo e formulados em produto líquido para a obtenção de fumigante.
+Secretarias de Estado da Produção e do Comércio, 13 de Maio de 1981. - O Secretário de Estado da Produção, João Ribeiro Goulão. - O Secretário de Estado do Comércio, Walter Waldemar Pego Marques.
