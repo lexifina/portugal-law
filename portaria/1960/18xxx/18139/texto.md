@@ -1,0 +1,5 @@
+Portaria n.º 18139
+Manda o Governo da República Portuguesa, pelo Ministro da Educação Nacional, que os artigos 1.º e 2.º do Regulamento do Prémio Zeferino de Oliveira, aprovado pela Portaria n.º 15408, de 6 de Junho de 1955, passem a ter a seguinte redacção:
+Artigo 1.º O Prémio Zeferino de Oliveira, instituído na Faculdade de Letras da Universidade de Lisboa por doação do falecido Prof. Doutor José Maria Rodrigues, destina-se a galardoar anualmente o melhor trabalho do aluno da cadeira de Estudos Camonianos da referida Faculdade.
+Art. 2.º O Prémio é constituído pelo rendimento dos títulos do empréstimo de 1923 incorporados no certificado de renda perpétua n.º 2679, cujo rendimento global anual ficará afecto, na importância de 429$20, ao referido Prémio, e na de 7759$00, correspondente à doação Zeferino de Oliveira, ao pagamento da gratificação de regências da cadeira de Estudos Camonianos.
+Ministério da Educação Nacional, 20 de Dezembro de 1960. - Pelo Ministro da Educação Nacional, Baltasar Leite Rebelo de Sousa, Subsecretário de Estado da Educação Nacional.
