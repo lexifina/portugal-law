@@ -1,0 +1,3 @@
+Despacho Normativo n.º 382/79
+Ao abrigo do que estabelece o artigo 3.º do Decreto n.º 473/76, de 16 de Junho, e a fim de resolver quaisquer dúvidas que possa suscitar a aplicação do disposto na alínea c) do artigo 1.º do mesmo diploma, esclarece-se que as habilitações mínimas exigidas para o provimento de lugares do pessoal técnico auxiliar do quadro de pessoal do Gabinete de Estudos e Planeamento do Ministério das Finanças consistem no curso geral dos liceus ou equivalente, acrescidas de curso de formação técnico-profissional complementar, com a duração mínima de dois anos e adequado ao exercício das respectivas funções.
+Ministério das Finanças, 21 de Dezemrbo de 1979. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.
