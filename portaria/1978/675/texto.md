@@ -1,0 +1,7 @@
+Portaria n.º 675/78
+de 23 de Novembro
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e dos Transportes e Comunicações, nos termos do n.º 3 do artigo 23.º do Estatuto da Empresa Pública Telefones de Lisboa e Porto, anexo I do Decreto-Lei n.º 48007, de 26 de Outubro de 1967, o seguinte:
+1 - Autorizar a referida Empresa a contrair um empréstimo na Caixa Geral de Depósitos no montante de 500000 contos, pelo prazo de oito anos, amortizável em dezasseis prestações semestrais, iguais e sucessivas, de capital e juros, vencendo juros à taxa de 18,75% ao ano, ajustável em função das variações que venha a sofrer o limite legalmente consentido para operações de prazo idêntico, podendo ser outra a taxa inicial se ao tempo da assinatura do contrato de empréstimo aquela já tiver sido legalmente alterada, empréstimo que será garantido por consignação das receitas em geral dos Telefones de Lisboa e Porto.
+2 - Esta portaria anula idêntica portaria conjunta dos Ministros das Finanças e do Plano e dos Transportes e Comunicações publicada no Diário da República, 2.ª série, n.º 120, de 26 de Maio de 1978.
+3 - A presente portaria produz efeitos a partir de 26 de Maio de 1978.
+Ministérios das Finanças e do Plano e dos Transportes e Comunicações, 6 de Novembro de 1978. - Pelo Ministro das Finanças e do Plano, Maria Manuela Matos Morgado Santiago Baptista, Secretário de Estado do Tesouro. - O Ministro dos Transportes e Comunicações, Amílcar José Gouveia Marques.
