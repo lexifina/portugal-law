@@ -1,0 +1,32 @@
+Portaria n.º 699-A/76
+de 23 de Novembro
+Em cumprimento do disposto no artigo 15.º do Decreto n.º 762/76, de 22 de Outubro, manda o Governo da República Portuguesa, pelo Ministro das Finanças, o seguinte:
+1. As revisões pessoal e de bagagem serão realizadas por pessoal convenientemente especializado para o efeito, sob orientação directa de pessoal do quadro auxiliar técnico, em termos a definir.
+A Direcção-Geral das Alfândegas providenciará no sentido de estarem concluídos, no final do ano de 1977, os cursos de formação adequados a esta especialização.
+Os participantes nos cursos de formação serão recrutados de entre os actuais fiéis do quadro do tráfego, com idade não superior a 55 anos.
+2. Enquanto não entrar em vigor o estabelecido no número anterior, compete aos actuais intervenientes nas revisões pessoal e de bagagem:
+a) Pessoal do quadro auxiliar técnico:
+Supervisar, com presença permanente no local de revisão de bagagem, a execução das funções atribuídas ao pessoal do quadro do tráfego;
+Controlar a aplicação dos critérios de determinação da amostra;
+Sancionar o valor declarado dos objectos separados de bagagem;
+Processar despacho;
+Participar os factos que contituam infracção nos termos da lei;
+Desempenhar outras funções que lhe competirem no desembaraço aduaneiro das bagagens.
+b) Fiéis do quadro do tráfego:
+Auxiliar a abertura e fecho dos volumes de bagagem pertencentes a passageiros cuja idade, estado físico ou de saúde não lhes possibilite essa tarefa;
+Proceder, depois de obtida a competente declaração do passageiro ou tripulante, ao exame completo e rigoroso dos volumes de bagagem seleccionados para revisão;
+Separar, para apreciação do funcionário do quadro auxiliar técnico, as mercadorias que não estejam em condições de beneficiar de isenção, as de importação condicionada ou proibida e as que, nos termos da lei, constituam objecto de infracção;
+Proceder às revisões pessoais que forem determinadas;
+Desempenhar outras funções que lhes competirem no desembaraço aduaneiro das bagagens.
+3. A partir de 1 de Janeiro de 1978, nas estâncias aduaneiras onde e quando o movimento de passageiros o justificar, não poderá o pessoal investido nas funções descritas no número anterior ser desviado para funções de carácter administrativo nem de tesouraria.
+4. A determinação da amostra - designação dos passageiros a submeter a revisão de bagagem, ou a esta e à revisão pessoal - é da competência do chefe da estância aduaneira, que definirá, sob proposta do funcionário que superintende directamente na execução do serviço de revisão de bagagem, os critérios a pôr em prática para o efeito, devendo ter em conta as seguintes circunstâncias:
+a) Volume de serviço em cada momento;
+b) Natureza da viagem;
+c) Procedência do passageiro ou meio de transporte;
+d) Residência e nacionalidade do passageiro.
+5. A revisão dos volumes de bagagem será sempre rigorosa e deverá incidir sobre a totalidade dos volumes transportados pelo passageiro ou veículo particular seleccionado para o efeito.
+A revisão dos volumes de bagagem transportados em veículos de transporte colectivo poderá incidir apenas sobre uma parte desses volumes.
+6. O limite referido na alínea a) do n.º 1 do artigo 9.º do Decreto n.º 762/76, de 22 de Outubro, é de 500$00.
+7. O limite referido na alínea a) do n.º 1 do artigo 11.º daquele diploma é de 2500$00 se a última saída do País dos passageiros nela considerados se tiver verificado há menos de um ano e de 5000$00 se aquela saída se tiver verificado há mais de um ano.
+8. Esta portaria entra em vigor no dia 22 de Novembro de 1976
+Ministério das Finanças, 22 de Novembro de 1976. - O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira.
