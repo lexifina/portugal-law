@@ -1,5 +1,11 @@
 # Artigo 17.º
 
-### Sociedades de transparência fiscal e estabelecimentos afectos a profissões liberais
+### Prazo e local do pagamento
 
-O valor tributável de participações de pessoas singulares em sociedades tributadas no regime de transparência fiscal e o de espaços afectos ao exercício de profissões liberais é o valor de trespasse declarado pelo cabeça-de-casal ou pelo beneficiário ou o determinado pela aplicação dos factores previstos no n.º 2 do artigo 16.º, consoante o que for maior.
+1 - O imposto é entregue pelas entidades a quem incumba essa obrigação nos serviços locais ou qualquer outro local autorizado nos termos da lei até ao final do mês seguinte àquele em que a obrigação tributária se tenha constituído.
+
+2 - Nos documentos, títulos e livros sujeitos a imposto são mencionados o valor do imposto e a data da liquidação.
+
+3 - Sempre que o imposto deva ser liquidado pelos serviços da administração fiscal e o quantitativo da liquidação não seja inferior a 2000$00, o contribuinte será notificado para efectuar o seu pagamento no prazo de 30 dias, no serviço local da área a que pertença o serviço liquidador.
+
+4 - Tratando-se de imposto devido por operações de crédito ou garantias prestadas por um conjunto de instituições de crédito ou de sociedades financeiras, a liquidação do imposto pode ser efectuada globalmente por qualquer daquelas entidades, sem prejuízo da responsabilidade, nos termos gerais, de cada uma delas em caso de incumprimento.

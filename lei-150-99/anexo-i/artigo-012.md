@@ -4,6 +4,10 @@
 
 # Artigo 12.º
 
-### Contratos de valor indeterminado
+### Taxas
 
-Sem prejuízo do disposto no artigo 9.º, o serviço de finanças da área do domicílio ou sede do sujeito passivo pode alterar o valor tributável declarado sempre que, nos contratos de valor indeterminado ou na determinação da equivalência em unidades monetárias nacionais de valores representados em espécie, não tiverem sido seguidas as regras, respectivamente, dos artigos 9.º e 11.º
+1 - As taxas do imposto são as constantes da Tabela anexa, em vigor no momento em que o imposto é devido.
+
+2 - Não haverá acumulação de taxas do imposto em um mesmo acto ou documento.
+
+3 - Quando mais de uma taxa estiver prescrita, somente é devida a maior.

@@ -1,7 +1,9 @@
 # Artigo 27.º
 
-### Formalidades da participação
+### Contratos de arrendamento
 
-1 - A participação a que se refere o artigo 26.º é assinada pelos interessados, seus representantes legais ou mandatários.
+1 - As entidades referidas no artigo 2.º comunicam à repartição de finanças da área da situação do prédio os contratos de arrendamento, subarrendamento e respectivas promessas, bem como as suas alterações.
 
-2 - Com base na mesma participação, instaura-se o respectivo processo de liquidação do imposto.
+2 - A comunicação referida no número anterior é efectuada até ao fim do mês seguinte ao do início do arrendamento, subarrendamento, das alterações ou, no caso de promessa, da disponibilização do bem locado.
+
+3 - No caso de o contrato de arrendamento ou subarrendamento apresentar a forma escrita, a comunicação referida no n.º 1 é acompanhada de um exemplar do contrato.

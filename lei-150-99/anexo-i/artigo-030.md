@@ -1,5 +1,23 @@
 # Artigo 30.º
 
-### Desconhecimento dos interessados ou dos bens
+### Letras e livranças
 
-Quando forem desconhecidos os interessados ou os bens, ou estes tiverem desaparecido, o respectivo processo será enviado com todas as informações ao director de finanças, que decidirá se ele deve ser arquivado ou ordenará as diligências que entender ainda convenientes.
+1 - As letras emitidas obedecerão aos requisitos previstos na lei uniforme relativa a letras e livranças.
+
+2 - O modelo das letras e livranças e suas características são estabelecidos em portaria do Ministro das Finanças.
+
+3 - As letras serão oficialmente editadas ou, facultativamente, pelas empresas públicas e sociedades regularmente constituídas, desde que o número de letras emitidas durante o ano não seja inferior a 600.
+
+4 - Para efeitos da segunda parte do número anterior, poderão as entidades nele referidas emitir letras no ano de início da sua actividade quando prevejam que o número de letras a emitir nesse ano será igual ou superior ao múltiplo do número de meses de calendário desde o início da actividade até ao final do ano, por 50.
+
+5 - As letras editadas pelas empresas públicas e sociedades regularmente constituídas serão impressas nas tipografias autorizadas para o efeito por despacho do Ministro das Finanças.
+
+6 - As letras referidas no número anterior contêm numeração sequencial impressa tipograficamente com uma ou mais séries, convenientemente referenciadas.
+
+7 - A aquisição das letras é efectuada mediante requisição de modelo oficial que contém a identificação fiscal da entidade adquirente, bem como da tipografia, ficando esta sujeita relativamente ao registo e comunicação às mesmas obrigações aplicáveis à impressão das facturas com as adaptações necessárias.
+
+8 - As entidades que emitam letras devem possuir registo de onde conste o número sequencial, a data de emissão e o valor da letra, bem como o valor e a data de liquidação do imposto.
+
+9 - As letras oficialmente editadas são requisitadas nos serviços locais da administração fiscal da respectiva área ou noutros estabelecimentos que aquela autorize.
+
+10 - As livranças são exclusivamente editadas pelas instituições de crédito e sociedades financeiras.

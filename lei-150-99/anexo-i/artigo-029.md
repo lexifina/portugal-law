@@ -4,8 +4,10 @@
 
 # Artigo 29.º
 
-### Sonegação de bens
+### Cheques
 
-1 - Em caso de suspeita fundada de sonegação de bens, o chefe de finanças competente requer o respectivo arrolamento nos termos dos artigos 141.º e 142.º do Código de Procedimento e de Processo Tributário.
+1 - A impressão dos cheques é feita pelas instituições de crédito para uso das entidades emitentes que nelas tenham disponibilidades, podendo as entidades privadas que não sejam instituições de crédito mandar imprimir os seus próprios cheques, por intermédio dessas instituições e de acordo com as normas aprovadas.
 
-2 - Tratando-se de bens a que a administração fiscal esteja impedida de aceder, face a situações de sigilo legalmente previstas, é comunicado o facto ao agente do Ministério Público do tribunal da comarca da residência do autor da transmissão ou da residência do beneficiário para que o mesmo desenvolva as diligências que entender adequadas em defesa dos interesses do Estado.
+2 - Os cheques são numerados por séries e, dentro destas, por números.
+
+3 - Em cada instituição de crédito haverá um registo dos cheques impressos contendo número de série, número de cheques de cada série, total de cheques de cada impressão, data da recepção de cheques impressos, imposto do selo devido e data e local do pagamento.

@@ -1,5 +1,5 @@
 # Artigo 24.º
 
-### Processo individual
+### Títulos de crédito passados no estrangeiro
 
-No serviço de finanças competente, organiza-se em relação a cada sujeito passivo um processo em que se incorporam as declarações e outros elementos que se relacionem com o mesmo.
+Os títulos de crédito passados no estrangeiro não podem ser sacados, aceites, endossados, pagos ou por qualquer modo negociados em território nacional sem que se mostre cobrado o respectivo imposto.

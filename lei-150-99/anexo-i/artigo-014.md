@@ -1,21 +1,27 @@
 # Artigo 14.º
 
-### Valor tributável dos bens móveis
+### Liquidação e pagamento
 
-1 - O valor dos bens móveis de qualquer natureza que não seja determinado por aplicação de regras específicas previstas no presente Código é o dos valores oficiais, quando existam, ou o declarado pelo cabeça-de-casal ou pelo beneficiário, consoante o que for maior, devendo, tanto quanto possível, aproximar-se do seu valor de mercado.
+A liquidação e o pagamento do imposto competem às seguintes entidades:
 
-2 - O valor dos veículos automóveis e motociclos, bem como o das aeronaves de turismo e barcos de recreio, é o valor de mercado ou o determinado nos termos do n.º 7 do artigo 24.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, consoante o que for maior.
+a) Notários, conservadores dos registos civil, comercial, predial e de bens móveis e outras entidades públicas, incluindo os estabelecimentos e organismos do Estado, relativamente aos actos, contratos e outros factos em que sejam intervenientes, e quando, nos termos da alínea n) do artigo anterior, os contratos ou documentos lhes sejam apresentados para qualquer efeito legal;
 
-3 - O valor dos objectos de arte, objectos de colecção e antiguidades, tal como se encontram definidos na lista em anexo ao regime de tributação em imposto sobre o valor acrescentado, aprovado pelo Decreto-Lei n.º 199/96, de 18 de Outubro, determina-se nos termos das alíneas seguintes, segundo a sua ordem de prioridade:
+b) Entidades concedentes do crédito e da garantia ou credoras dos juros, prémios, comissões e outras contraprestações;
 
-a) Por avaliador oficial, caso exista, desde que o cabeça-de-casal ou interessado junte a respectiva certidão de avaliação com a participação prevista no artigo 26.º;
+c) Instituições de crédito, sociedades financeiras ou outras entidades a elas legalmente equiparadas residentes que tenham intermediado operações de crédito, garantias peticionadas ou juros, comissões e outras contraprestações devidos por residentes em território nacional a instituições de crédito ou sociedades financeiras domiciliadas fora deste território;
 
-b) Pelo valor de 60% do valor de substituição ou perda fixado em contrato de seguro que incida sobre esses bens, caso tenha sido celebrado e esteja em vigor à data da transmissão ou até 30 dias anteriores e seja apresentado com a participação prevista no mesmo artigo;
+d) Entidades mutuárias, beneficiárias da garantia ou devedoras dos juros, comissões e outras contraprestações no caso das operações referidas na alínea anterior que não tenham sido intermediadas por instituições de crédito, sociedades financeiras ou outras entidades a elas legalmente equiparadas, e cujo credor não exerça a actividade, em regime de livre prestação de serviços, no território português;
 
-c) Pelo valor do contrato de seguro referido na regra anterior, caso seja a administração fiscal a obter os seus dados junto das companhias de seguros;
+e) Empresas seguradoras relativamente à soma do prémio do seguro, custo da apólice e quaisquer outras importâncias cobradas em conjunto ou em documento separado, bem como às comissões pagas a mediadores, líquidas de imposto;
 
-d) Por avaliação promovida pela administração fiscal a expensas do interessado, a qual, para o efeito, obterá o necessário parecer de perito idóneo e independente, devendo o interessado colaborar na avaliação facultando o acesso aos referidos bens.
+f) Entidades emitentes de letras, livranças e outros títulos de crédito, entidades editantes de cheques ou, no caso de títulos emitidos no estrangeiro, a primeira entidade que intervenha na negociação ou pagamento;
 
-4 - O valor do ouro para investimento e o dos títulos que comportem um direito de propriedade ou de crédito sobre os mesmos e o das moedas de ouro, como tal qualificadas no regime previsto no Decreto-Lei n.º 362/99, de 16 de Setembro, é o valor de aquisição que serviu de base à liquidação do imposto sobre o valor acrescentado, ainda que dele isentos, ou o valor declarado, conforme o que for maior.
+g) Locador e sublocador, nos arrendamentos e subarrendamentos;
 
-5 - Para efeitos do disposto no n.º 3, considera-se como avaliador oficial o que se encontrar habilitado, por parte dos organismos oficiais competentes, para proceder à avaliação dos bens aí referidos e como perito independente o que, face aos seus conhecimentos, dê garantias de idoneidade técnica para avaliar os mesmos bens.
+h) Outras entidades que intervenham nos actos e contratos ou emitam ou utilizem os documentos, livros, títulos ou papéis;
+
+i) Representantes que, para o efeito, são obrigatoriamente nomeados em Portugal, pelas entidades emitentes das apólices dos seguros realizadas no território de outros Estados membros da Comunidade Europeia cujo risco ocorra em território português;
+
+j) Representantes que, para o efeito, são obrigatoriamente nomeados em Portugal pelas instituições de crédito ou sociedades financeiras que, no território português, realizam operações financeiras em regime de livre prestação de serviços que não sejam intermediadas por instituições de crédito ou sociedades financeiras domiciliadas em Portugal;
+
+l) Representantes que, para o efeito, são obrigatoriamente nomeados em Portugal por quaisquer entidades que, no território português, realizem quaisquer outras operações abrangidas pela incidência do presente Código em regime de livre prestação de serviços.

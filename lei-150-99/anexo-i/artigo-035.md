@@ -1,9 +1,11 @@
+## Capítulo IX
+
+## Disposições diversas
+
 # Artigo 35.º
 
-### Suspensão do processo por exigência de dívidas activas
+### Assinatura de documentos
 
-1 - As pessoas referidas no artigo anterior também podem requerer a suspensão do processo de liquidação, nos termos nele previstos, quando penda acção judicial a exigir dívidas activas pertencentes à herança ou doação ou quando tenha corrido ou esteja pendente processo de insolvência ou de falência contra os devedores.
+1 - As declarações, relações e comunicações são assinadas pelas entidades obrigadas à sua apresentação ou pelos seus representantes ou por gestor de negócios, devidamente identificados.
 
-2 - Enquanto durar o processo, os requerentes da suspensão devem apresentar nova certidão do seu estado, no mês de Janeiro de cada ano.
-
-3 - À medida que as dívidas activas forem sendo recebidas, em parte ou na totalidade, os responsáveis pelo imposto devem declarar o facto no serviço de finanças competente, dentro dos 30 dias seguintes, a fim de se proceder à respectiva liquidação.
+2 - São recusadas as declarações, relações e comunicações que não se mostrem devidamente preenchidas e assinadas, sem prejuízo das sanções estabelecidas para a falta da sua apresentação.

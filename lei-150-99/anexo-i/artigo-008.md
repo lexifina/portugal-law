@@ -1,5 +1,11 @@
+## Capítulo III
+
+## Valor tributável
+
 # Artigo 8.º
 
-### Averbamento da isenção
+### Valor tributável
 
-Sempre que haja lugar a qualquer isenção, deve averbar-se no documento ou título, ou indicar-se na declaração a que se refere o artigo 60.º, a disposição legal que a prevê.
+1 - O valor tributável do imposto do selo é o que resulta da Tabela Geral, sem prejuízo do disposto no número seguinte.
+
+2 - Nos contratos de valor indeterminado, a sua determinação é efectuada pelas partes, de acordo com os critérios neles estipulados ou, na sua falta, segundo juízos de equidade.
