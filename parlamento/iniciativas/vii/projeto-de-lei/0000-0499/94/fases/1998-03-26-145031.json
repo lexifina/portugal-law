@@ -1,0 +1,907 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "94",
+    "id": "5568",
+    "titulo": "Processo de criação e instituição das regiões administrativas."
+  },
+  "fase": "Votação final global decreto",
+  "codigo_fase": "510",
+  "data_registo": "1998-03-26",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1849",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "510",
+    "Comissao": null,
+    "DataFase": "1998-03-26",
+    "EvtId": "22",
+    "Fase": "Votação final global decreto",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "5508",
+        "leg": "VII",
+        "nr": "137",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "312",
+            "obs": null,
+            "pag": [
+              "1798-1817"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1998-03-27",
+            "pubLeg": "VII",
+            "pubNr": "53",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/053/1998-03-27/1798?pgs=1798-1817&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "312",
+            "obs": null,
+            "pag": [
+              "1798-1817"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1998-03-27",
+            "pubLeg": "VII",
+            "pubNr": "53",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/053/1998-03-27/1798?pgs=1798-1817&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Lei de criação das Regiões Administrativas"
+      },
+      {
+        "autor": "PEV",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "5491",
+        "leg": "VII",
+        "nr": "143",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "312",
+            "obs": null,
+            "pag": [
+              "1798-1817"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1998-03-27",
+            "pubLeg": "VII",
+            "pubNr": "53",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/053/1998-03-27/1798?pgs=1798-1817&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "312",
+            "obs": null,
+            "pag": [
+              "1798-1817"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1998-03-27",
+            "pubLeg": "VII",
+            "pubNr": "53",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/053/1998-03-27/1798?pgs=1798-1817&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Criação e processo de instituição das regiões administrativas."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1998-03-26",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "117",
+                "nome": "Maria Manuela Aguiar"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50992",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1817-1817"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-03-27",
+                "pubLeg": "VII",
+                "pubNr": "53",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/053/1998-03-27/1817?pgs=1817&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE CRIACAO DAS REGIOES ADMINISTRATIVAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "281",
+                "nome": "Álvaro Amaro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50993",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1817-1817"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-03-27",
+                "pubLeg": "VII",
+                "pubNr": "53",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/053/1998-03-27/1817?pgs=1817&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE CRIACAO DAS REGIOES ADMINISTRATIVAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1367",
+                "nome": "Soares Gomes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50994",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1817-1817"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-03-27",
+                "pubLeg": "VII",
+                "pubNr": "53",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/053/1998-03-27/1817?pgs=1817&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE CRIACAO DAS REGIOES ADMINISTRATIVAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1483",
+                "nome": "Paulo Arsénio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50995",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1816-1817"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-03-27",
+                "pubLeg": "VII",
+                "pubNr": "53",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/053/1998-03-27/1816?pgs=1816-1817&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE CRIACAO DAS REGIOES ADMINISTRATIVAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1211",
+                "nome": "Carlos Amândio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50996",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1816-1817"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-03-27",
+                "pubLeg": "VII",
+                "pubNr": "53",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/053/1998-03-27/1816?pgs=1816-1817&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE CRIACAO DAS REGIOES ADMINISTRATIVAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1337",
+                "nome": "António Saleiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50997",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1816-1817"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-03-27",
+                "pubLeg": "VII",
+                "pubNr": "53",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/053/1998-03-27/1816?pgs=1816-1817&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE CRIACAO DAS REGIOES ADMINISTRATIVAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "50999",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1816-1816"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-03-27",
+                "pubLeg": "VII",
+                "pubNr": "53",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/053/1998-03-27/1816?pgs=1816&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE CRIACAO DAS REGIOES ADMINISTRATIVAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "161",
+                "nome": "Carlos Luís"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51000",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1816-1816"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-03-27",
+                "pubLeg": "VII",
+                "pubNr": "53",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/053/1998-03-27/1816?pgs=1816&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE CRIACAO DAS REGIOES ADMINISTRATIVAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL - VETO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51008",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1806-1806"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-03-27",
+                "pubLeg": "VII",
+                "pubNr": "53",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/053/1998-03-27/1806?pgs=1806&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE CRIACAO DAS REGIOES ADMINISTRATIVAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1385",
+                "nome": "Gonçalo Ribeiro da Costa"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL - VETO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51009",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1805-1806"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-03-27",
+                "pubLeg": "VII",
+                "pubNr": "53",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/053/1998-03-27/1805?pgs=1805-1806&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE CRIACAO DAS REGIOES ADMINISTRATIVAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "77",
+                "nome": "José Cesário"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL - VETO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51010",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1805-1805"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-03-27",
+                "pubLeg": "VII",
+                "pubNr": "53",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/053/1998-03-27/1805?pgs=1805&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE CRIACAO DAS REGIOES ADMINISTRATIVAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1401",
+                "nome": "Artur Torres Pereira"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL - VETO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51011",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1803-1805"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-03-27",
+                "pubLeg": "VII",
+                "pubNr": "53",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/053/1998-03-27/1803?pgs=1803-1805&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE CRIACAO DAS REGIOES ADMINISTRATIVAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "211",
+                "nome": "João Amaral"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL - VETO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51012",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1802-1803"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-03-27",
+                "pubLeg": "VII",
+                "pubNr": "53",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/053/1998-03-27/1802?pgs=1802-1803&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE CRIACAO DAS REGIOES ADMINISTRATIVAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "281",
+                "nome": "Álvaro Amaro"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL - VETO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51013",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1801-1801"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-03-27",
+                "pubLeg": "VII",
+                "pubNr": "53",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/053/1998-03-27/1801?pgs=1801&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE CRIACAO DAS REGIOES ADMINISTRATIVAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "VOTACAO FINAL GLOBAL - VETO",
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "51014",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1798-1802"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-03-27",
+                "pubLeg": "VII",
+                "pubNr": "53",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/053/1998-03-27/1798?pgs=1798-1802&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE CRIACAO DAS REGIOES ADMINISTRATIVAS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "145031",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "1998-03-26",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PEV</I>, <I> Mendes Bota (PSD)</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>Cabrita Neto (PSD)</I>, <I> António Vairinhos (PSD)</I>",
+        "id": "27669",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "172841",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1998-03-27",
+            "pubLeg": "VII",
+            "pubNr": "53",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/053/1998-03-27?org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "53",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
