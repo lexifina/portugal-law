@@ -1,0 +1,7 @@
+Aviso
+Por ordem superior se faz público que, segundo comunicação do secretário-geral da Organização das Nações Unidas, o Governo da Bulgária depositou, em 13 de Fevereiro de 1963, o instrumento de adesão à Convenção sobre tráfego rodoviário, concluída em Genebra em 19 de Setembro de 1949.
+O instrumento da adesão contém as seguintes reservas:
+a) Artigo 33 da Convenção sobre tráfego rodoviário, dispondo que qualquer disputa entre dois ou mais Estados Contratantes que diga respeito à interpretação ou aplicação daquela Convenção, que as Partes não possam solucionar por meio de negociações ou qualquer outro meio de solução, pode ser enviada ao Tribunal Internacional de Justiça para decisão;
+b) Anexo 1 da Convenção sobre tráfego rodoviário, dispondo que as bicicletas equipadas com um motor auxiliar de combustão interna com uma capacidade máxima de cilindrada de 50 cm3 (3.05.cu.in.) não devem ser considerados como veículos a motor, desde que mantenham todas as características normais das bicicletas no que respeita à sua estrutura;
+c) Segunda frase da secção II, parágrafo (c), do Anexo 6 da Convenção sobre tráfego rodoviário, que dispõe: «No entanto, bicicletas motorizadas com um motor de uma capacidade máxima de 50 cm3 (3.05.cu.in.) podem ser excluídas desta obrigação».
+Direcção-Geral dos Negócios Económicos e Consulares, 20 de Julho de 1963. - O Director-Geral, Albano Pires Fernandes Nogueira.
