@@ -1,0 +1,51 @@
+# Acórdão do Supremo Tribunal Administrativo de 2003-11-05, processo 0437/03
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0437/03
+
+**Data do Acordão:** 11/05/2003
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** MENDES PIMENTEL
+
+**Descritores:** TAXA DE COMERCIALIZAÇÃO DE PRODUTOS DE SAÚDE.; INFARMED.; IMPOSTO.; TAXA.; IMPOSTO SOBRE VOLUME DE NEGÓCIOS.; INCIDÊNCIA.; REENVIO PREJUDICIAL.; DIREITO COMUNITÁRIO.
+
+**Nº Convencional:** JSTA00059820
+
+**Nº do Documento:** SA2200311050437
+
+**Data de Entrada:** 02/25/2003
+
+**Recorrente:** FAZENDA PÚBLICA
+
+**Recorrido 1:** A...
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** SENT TT1INST LISBOA PER SALTUM.
+
+**Decisão:** PROVIDO.
+
+**Área Temática 1:** DIR FISC - RECEITA PARAFISCAL/TAXA.
+
+**Área Temática 2:** DIR COMUN.
+
+**Legislação Nacional:** L 3-B/2000 DE 2000/04/04 ART72 N1 N3.; DL 455/99 DE 1999/11/18 ART6 N3.; CONST97 ART103 N2.
+
+**Legislação Comunitária:** RGU CONS CEE 77/388 DE 1977/05/17 NA REDACÇÃO DO RGU CONS CEE 91/680 DE 1991/12/16 ART33.; T CEE ART234.
+
+**Jurisprudência Nacional:** AC STA PROC493/03 DE 2003/07/09.; AC STA PROC1063/03 DE 2003/10/15.; AC STA PROC438/03 DE 2003/10/22.; AC STA PROC1060/03 DE 2003/10/29.; AC STA PROC1061/03 DE 2003/10/29.; AC STA DE 1983/02/10 IN AD N257 PAG579.; AC TC DE 2000/02/16 IN AC TC V46 PAG21.; AC STA PROC18911 DE 1999/11/24.; AC STA PROC21843 DE 1999/04/28.; AC STA PROC21649 DE 1999/03/24.
+
+**Jurisprudência Internacional:** AC TRIJ PROC93/88 DE 1989/07/13 IN COLECÇÃO PAG2671.; AC TRIJ PROC73/85 DE 1986/07/08 IN COLECÇÃO PAG2219.; AC TRIJ PROC295/94 DE 1995/11/27 IN COLECÇÃO PAG3759.
+
+**Referência a Pareceres:** P PGR DE 1991/12/15 IN DR IIS DE 1993/06/04.
+
+**Referência a Doutrina:** TEIXEIRA RIBEIRO IN RLJ N117 PAG294.; ALBERTO XAVIER MANUAL DE DIREITO FISCAL PAG42 PAG43.; SOUSA FRANCO FINANÇAS PÚBLICAS E DIREITO FINANCEIRO PAG491.; CASALTA NABAIS O DEVER FUNDAMENTAL DE PAGAR IMPOSTOS PAG260 PAG262 PAG263.; MOTA CAMPOS DIREITO COMUNITÁRIO VII PAG436.; CASALTA NABAIS DIREITO FISCAL 2ED PAG142.
+
+## Sumário
+
+Os tributos previstos no artigo 72° da Lei 3-B/2000, de 04.IV, são de qualificar como impostos, sendo que tal preceito não afronta o artigo 103°, 2, da Constituição e as mesmas imposições não são proibidas pelo artigo 33° da 6ª Directiva -77/388/CEE, do Conselho, de 17.V.77, na redacção da Directiva n.º 91/680/CEE, do Conselho, de 16.XII.91.
