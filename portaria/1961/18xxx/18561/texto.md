@@ -1,0 +1,5 @@
+Portaria n.º 18561
+Manda o Governo da República Portuguesa, pelos Ministro do Interior e Secretário de Estado da Agricultura, que a câmara Municipal de Ponta Delgada, incluída na relação n.º 2 anexa à Portaria n.º 9708, de 23 de Dezembro de 1940, fique autorizada a cobrar durante quinze anos a sobretaxa de 7,2 por cento sobre o valor das carnes abatidas para consumo público no matadouro camarário, calculada na base da estiva aprovada pela Portaria n.º 11466, de 22 de Agosto de 1946.
+Esta autorização só é válida a partir da data da concessão de um novo empréstimo de 4000 contos para a terminação das obras e apetrechamento do matadouro-frigorífico, após o que deixará de vigorar o disposto na Portaria n.º 15610, de 21 de Novembro de 1955.
+A sobretaxa fixada na presente portaria será revista findo o prazo de sete anos.
+Ministérios do Interior e da Economia, 30 de Junho de 1961. - O Ministro do Interior, Alfredo Rodrigues dos Santos Júnior. - O Secretário de Estado da Agricultura, João Mota Pereira de Campos.
