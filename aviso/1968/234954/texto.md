@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que, nos termos do artigo 38.º da Convenção sobre Aviação Civil Internacional de 7 de Dezembro de 1944, o Governo Português comunicou à Organização da Aviação Civil Internacional que foram eliminadas as diferenças existentes entre a regulamentação nacional e as normas ou recomendações contidas nos parágrafos 4.12, 4.13, 4.14 e 4.15 do Anexo 9 à citada Convenção, diferenças a que se referia o aviso publicado no Diário do Governo n.º 273, 1.ª série, de 2 de Dezembro de 1965.
+Direcção-Geral dos Negócios Económicos, 8 de Março de 1968. - O Director-Geral, José Calvet de Magalhães.
