@@ -1,0 +1,17 @@
+Portaria n.º 525/80
+de 18 de Agosto
+O Decreto-Lei n.º 29/72, de 24 de Janeiro, permite a microfilmagem de documentos que devem manter-se em arquivo e a consequente inutilização dos respectivos originais.
+Todavia, há documentos que, decorrido certo tempo, não interessa conservar, pelo que a sua microfilmagem, sempre dispendiosa, não apresenta qualquer razão de utilidade.
+Tendo em vista, por outro lado, a conveniência em descongestionar arquivos estáticos:
+Manda o Governo da República Portuguesa, pelo Ministro dos Assuntos Sociais, ao abrigo dos artigos 1.º e 2.º do Decreto-Lei n.º 29/72, de 24 de Janeiro, o seguinte:
+1.º São a Direcção-Geral de Saúde e os organismos na sua dependência autorizados a microfilmar a documentação que devem manter em arquivo e, bem assim, a proceder à inutilização dos respectivos originais, nos seguintes termos:
+a) Não é autorizada a destruição dos originais dos documentos com interesse histórico, artístico, administrativo ou ainda por motivo comprovadamente atendível;
+b) A documentação referida na alínea anterior transitará, consoante a sua natureza, para os arquivos interessados na sua conservação, ou, em última análise, para os arquivos eruditos;
+c) O prazo que obriga a conservação de documentos em arquivo fica limitado a cinco anos, conforme a utilidade de manutenção dos documentos a preservar por mais tempo.
+2.º O responsável pelos serviços administrativos de cada estabelecimento, ouvido o seu superior hierárquico ou o funcionário designado para o efeito, será o responsável pelas operações de microfilmagem e segurança da inutilização dos documentos.
+3.º A autenticidade dos microfilmes será garantida por meio de selo branco ou de perfuração especial.
+4.º A segurança de inutilização dos documentos originais será garantida, em regra:
+a) A documentação corrente será destruída por corte ou rasgamento total, ao meio, pelo menos em quatro partes;
+b) A documentação de responsabilidade ou reservada será destruída de modo a impedir completamente a sua leitura e, de preferência, por incineração.
+Esta destruição poderá ser feita por Funcionário para o efeito designado pelo responsável pelo departamento.
+Ministério dos Assuntos Sociais, 22 de Julho de 1980. - O Ministro dos Assuntos Sociais, João António Morais Leitão.
