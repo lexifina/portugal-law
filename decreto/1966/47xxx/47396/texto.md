@@ -1,0 +1,15 @@
+Decreto n.º 47396
+Tendo em vista que foram adjudicadas às firmas Frias, Lda., Construtora do Tâmega, Lda., e Ludgero Castro & Maia, Lda., as empreitadas adiante mencionadas;
+Considerando que para a sua execução estão fixados prazos que abrangem parte dos anos económicos de 1966 e 1967;
+Tendo em vista o disposto no artigo 22.º e seu § 1.º do Decreto-Lei n.º 41375, de 19 de Novembro de 1957;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º É autorizada a Direcção-Geral da Aeronáutica Civil a celebrar no corrente ano económico os contratos com as firmas seguintes:
+Frias, Lda., para a execução da empreitada de terraplenagens junto às plataformas 13 e 16 do aeroporto de Lisboa, no valor de 2250000$00;
+Construtora do Tâmega, Lda., para a execução da empreitada de reforço e drenagem da pista do aeroporto de Porto Santo, no valor de 12107645$00;
+Ludgero Castro & Maia, Lda., para a execução da empreitada de remodelação da aerogare do aeroporto do Porto, 2.ª fase, no valor de 2000000$00.
+Art. 2.º Seja qual for o valor dos trabalhos a efectuar, não poderá a Direcção-Geral da Aeronáutica Civil despender com pagamentos relativos aos respectivos contratos mais do que as quantias adiante mencionadas:
+Frias, Lda., para a execução da empreitada de terraplenagens junto às plataformas 13 e 16 do aeroporto de Lisboa, 2250000$00 no ano de 1967;
+Construtora do Tâmega, Lda., para a execução da empreitada de reforço e drenagem da pista do aeroporto de Porto Santo, 1000000$00 no ano de 1966 e 11107645$00, ou o que se apurar como saldo, no ano de 1967;
+Ludgero Castro & Maia, Lda., para a execução da empreitada de remodelação da aerogare do aeroporto do Porto, 2.ª fase, 300000$00 no ano de 1966 e 1700000$00, ou o que se apurar como saldo, no ano de 1967.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 21 de Dezembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Carlos Gomes da Silva Ribeiro.
