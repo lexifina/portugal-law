@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação da Embaixada da Bélgica em Lisboa, o Alto Volta e o Bangladesh depositaram, em 15 de Junho e 1 de Julho de 1978, respectivamente, junto do Governo Belga, os instrumentos de adesão à Convenção sobre a Nomenclatura para a Classificação das Mercadorias nas Pautas Aduaneiras e Anexo e ao Protocolo de rectificação da mesma Convenção e Anexo, concluídos em Bruxelas em 15 de Dezembro de 1950 e em 1 de Julho de 1955, respectivamente.
+De acordo com as disposições aplicáveis, aqueles actos entram em vigor, em relação ao Alto Volta, em 15 de Setembro de 1978, e, em relação ao Bangladesh, em 1 de Outubro de 1978.
+Direcção-Geral dos Negócios Económicos, 21 de Setembro de 1978. - O Adjunto do Director-Geral, Carlos Alberto Soares Simões Coelho.
