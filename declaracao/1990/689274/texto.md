@@ -1,0 +1,6 @@
+Declaração
+Segundo comunicação do Ministério das Finanças, Direcção-Geral da Contabilidade Pública, a declaração de alterações de rubricas publicada no Diário da República, 1.ª série, n.º 228, de 2 de Outubro de 1990, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No Ministério da Administração Interna, no cap. 50, div. 52, subdiv. 01, na coluna «Rubrica», onde se lê «GEPSI - Instal. das forças e serviços de segurança» deve ler-se «GEPI - Instal. das forças e serviços de segurança».
+No Ministério da Agricultura, Pescas e Alimentação, no cap. 50, div. 43, subdiv. 03, na coluna «Rubrica», onde se lê «EPL - Ampliação das instalações da EPPL» deve ler-se «EPPL - Ampliação das instalações da EPPL» e no cap. 50, div. 73, subdiv. 13, onde se lê «Cl. func. 8.03.1» deve ler-se «Cl. func. 8.02.1».
+No Ministério da Educação, no cap. 50, div. 12, subdiv. 05, C. E. 08.02.04, al. X, coluna «Rubrica», onde se lê «Santa Comba Dão (78)» deve ler-se «Santa Comba Dão (78067)» e no cap. 50, div. 12, subdiv. 13, C. E. 08.02.04, al. F - Câmara Municipal de Ponte de Sor, coluna «Reforço», onde se lê «254150» deve ler-se «264150».
+Secretaria-Geral da Presidência do Conselho de Ministros, 21 de Novembro de 1990. - O Secretário-Geral, França Martins.
