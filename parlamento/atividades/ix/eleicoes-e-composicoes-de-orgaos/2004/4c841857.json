@@ -1,0 +1,98 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=P0Fiu%2fOxm2B6i1Qb1v6Kl8P9Ddn6RTIUCktgva%2fyOaH7lWGUnkkysYTUSoIwHSs4BsNkQvxZU1Jn26l834KO7HtuiuTauD6UP2bFLXGt1tGFPrfPngnS3CSTBHYbjc71uc6LAaWwWMNPEAhBQhLTogdfX0k86zYaSRdtMb5VxaaW%2bmRVLZ1kFuUjHoiU3DnKr1hwTFH2RjyVH0%2bkvoh5J2473p4WEAcwEGu0cbkopo0uGKBdgu45lweS1xncByHsc5RkSTt5XtJ4jYpzMHGU0JCobwocVoDRrWDIaByf6THsN8d28CiCvqU0mvdSGeyt9pZrFNIo3KeVbLuYHnmRx0uPU1z9aF2A03pcO1L5Ivg%3d&fich=AtividadesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "158feac9a195837800498c997c5f15d982e196bc878ba5194b23e12459159b60",
+  "legislatura": "IX",
+  "tipo": "Eleições e composições de órgãos",
+  "numero": null,
+  "data_registo": "2004-06-16",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Eleição para o cargo de Provedor de Justiça",
+    "AutoresGP": null,
+    "Convidados": null,
+    "DataAgendamentoDebate": "2004-06-18",
+    "DataAnuncio": null,
+    "DataEntrada": "2004-06-16",
+    "DescTipo": "Eleições e composições de órgãos",
+    "Eleitos": [
+      {
+        "cargo": "Provedor de Justiça",
+        "nome": "HENRIQUE ALBERTO FREITAS DO NASCIMENTO RODRIGUES"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Legislatura": "IX",
+    "Numero": null,
+    "Observacoes": null,
+    "OrgaoExterior": "Provedoria de Justiça",
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "291362",
+        "obs": "Indicação do candidato a Provedor de Justiça apresentado pelo PSD e CDS-PP",
+        "pag": [
+          "563-563"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-06-26",
+        "pubLeg": "IX",
+        "pubNr": "32",
+        "pubSL": "2",
+        "pubTipo": "DAR II série C",
+        "pubTp": "C",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2c/09/02/032/2004-06-26/563?pgs=563&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": null,
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "2",
+    "Texto": null,
+    "TextosAprovados": [
+      "5405",
+      "5424"
+    ],
+    "Tipo": "OEX",
+    "TipoAutor": null,
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2004-06-17",
+        "descricao": null,
+        "detalhe": null,
+        "id": "32319",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "291149",
+            "obs": null,
+            "pag": [
+              "5332-5332"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-06-19",
+            "pubLeg": "IX",
+            "pubNr": "98",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/098/2004-06-19/5332?pgs=5332&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "97",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
