@@ -1,0 +1,3 @@
+Despacho ministerial
+De harmonia com o disposto no n.º 2 do artigo 20.º do Decreto-Lei n.º 48166, de 27 de Dezembro de 1967, a designação da categoria de «enfermeiros para servir em estabelecimentos asilares», inscrita no quadro do Instituto de Assistência Psiquiátrica, aprovado pela Portaria n.º 17075, de 19 de Março de 1959, é alterada para enfermeiros de 1.ª, com efeitos a partir de 1 de Janeiro do ano em curso, considerando-se providos nos lugares da referida categoria os funcionários que já anteriormente os ocupavam.
+Ministério da Saúde e Assistência, 16 de Abril de 1968. - O Ministro da Saúde e Assistência, Francisco Pereira Neto de Carvalho.
