@@ -2,7 +2,7 @@
 
 ### Ónus da prova
 
-1 - O ónus da prova dos factos constitutivos dos direitos da administração tributária ou dos contribuintes recai sobre quem os invoque.
+1 - O ónus da prova dos factos constitutivos dos direitos da administração tributária ou dos contribuintes recai sobre quem os invoque, excepto nas situações de não sujeição, em que recai sempre sobre os contribuintes.
 
 2 - Quando os elementos de prova dos factos estiverem em poder da administração tributária, o ónus previsto no número anterior considera-se satisfeito caso o interessado tenha procedido à sua correcta identificação junto da administração tributária.
 

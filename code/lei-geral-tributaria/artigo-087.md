@@ -21,3 +21,5 @@ c) A matéria tributável do sujeito passivo se afastar, sem razão justificada,
 d) Os rendimentos declarados em sede de IRS se afastarem significativamente para menos, sem razão justificada, dos padrões de rendimento que razoavelmente possam permitir as manifestações de fortuna evidenciadas pelo sujeito passivo nos termos do artigo 89.º-A;
 
 e) Os sujeitos passivos apresentarem, sem razão justificada, resultados tributáveis nulos ou prejuízos fiscais durante três anos consecutivos, salvo nos casos de início de actividade, em que a contagem deste prazo se faz do termo do terceiro ano, ou em três anos durante um período de cinco.
+
+f) Existência de uma divergência não justificada de, pelo menos, um terço entre os rendimentos declarados e o acréscimo de património ou o consumo evidenciados pelo sujeito passivo no mesmo período de tributação.
