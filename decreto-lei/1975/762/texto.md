@@ -1,0 +1,24 @@
+Decreto-Lei n.º 762/75
+de 31 de Dezembro
+O sistema prisional militar vigente baseia-se em estruturas que não prevêem as actuais funções, o que origina deficiências de vária ordem.
+Pelo presente diploma institucionalizam-se os Serviços Prisionais Militares, dando-se assim início à reforma de toda a instituição prisional militar.
+Nestes termos:
+Usando da faculdade conferida pelo artigo 6.º, n.º 1, da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º São criados, na directa dependência do Conselho da Revolução, os Serviços Prisionais Militares, aos quais compete orientar, coordenar e dirigir as actividades dos estabelecimentos prisionais militares que lhes venham a ser atribuídos e dotá-los dos meios necessários ao seu perfeito funcionamento.
+Art. 2.º - 1. Os Serviços Prisionais Militares terão um director, brigadeiro ou comodoro das forças armadas, ou, excepcionalmente, um coronel ou capitão-de-mar-e-guerra, que será para o efeito designado pelo Conselho da Revolução.
+2. Ao director compete dirigir os Serviços Prisionais Militares e orientar e coordenar as suas actividades.
+Art. 3.º O Conselho da Revolução designará um dos seus membros para superintender nas actividades dos Serviços, o qual terá, para todos os efeitos, competência igual à do Ministro.
+Art. 4.º Os Serviços Prisionais Militares gozam de autonomia administrativa e financeira.
+Art. 5.º - 1. Os Serviços Prisionais Militares terão um conselho administrativo, que será constituído por um presidente, um chefe de contabilidade e um tesoureiro.
+2. O lugar de presidente do conselho administrativo será desempenhado por um oficial superior das forças armadas, podendo os restantes lugares ser preenchidos por oficiais das forças armadas ou funcionários civis devidamente qualificados.
+Art. 6.º Constituem encargos dos Serviços Prisionais Militares os que resultarem da execução das suas actividades, de acordo com o presente diploma e com o seu regulamento, a aprovar pelo Conselho da Revolução.
+Art. 7.º O pessoal dirigente técnico, administrativo e auxiliar dos Serviços Prisionais Militares constituirá um quadro único, cuja composição constará do regulamento previsto no artigo 6.º
+Art. 8.º - 1. O director poderá propor ao membro do Conselho da Revolução designado nos termos do artigo 3.º a admissão de pessoal em regime de prestação de serviços.
+2. A duração, termos e remunerações dos contratos de prestação de serviços serão estabelecidos por portaria do membro do Conselho da Revolução referido no artigo 3.º
+3. Poderá ainda o director propor, nos termos do n.º 1, a requisição de funcionários dos quadros do Estado para o desempenho de funções de carácter especializado.
+Art. 9.º Para satisfação de todos os encargos resultantes deste diploma serão inscritas no Orçamento Geral do Estado as necessárias dotações.
+Art. 10.º O presente diploma entra em vigor em 1 de Janeiro de 1976 e será revisto num prazo máximo de nove meses.
+Visto e aprovado em Conselho da Revolução.
+Promulgado em 30 de Dezembro de 1975.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
