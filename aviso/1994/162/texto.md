@@ -1,0 +1,4 @@
+Aviso n.º 162/94
+Por ordem superior se torna público que o director dos Assuntos Jurídicos do Conselho da Europa, por notificação de 6 de Maio de 1994, comunicou que a Finlândia assinou e aceitou, em 28 de Abril de 1994, a Convenção Europeia sobre o Reconhecimento e a Execução das Decisões em Matéria de Guarda de Crianças, aberta à assinatura em 20 de Maio de 1980.
+Relativamente a Portugal, a Convenção foi aprovada pelo Decreto n.º 136/82, de 21 de Dezembro, conforme Diário da República, n.º 293, de 21 de Dezembro de 1982. O depósito de instrumento de ratificação foi feito em 18 de Março de 1983, segundo aviso publicado no Diário da República, n.º 91, de 20 de Abril de 1983.
+Direcção-Geral dos Assuntos Multilaterais, 17 de Junho de 1994. - A Directora de Serviços das Organizações Políticas Internacionais, Ana Maria da Silva Marques Martinho.
