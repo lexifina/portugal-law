@@ -1,0 +1,3 @@
+Portaria n.º 18365
+Manda o Governo da República Portuguesa, pelos Ministro do Interior e Secretário de Estado da Agricultura, que a Câmara Municipal de Angra do Heroísmo seja incluída no grupo F da relação n.º 1 anexa à Portaria n.º 9708, de 23 de Dezembro de 1940, ficando autorizada a cobrar a taxa de 6 por cento sobre o valor das carnes abatidas para consumo público no seu matadouro, calculada na base da estiva aprovada pela Portaria n.º 11466, de 22 de Agosto de 1946.
+Ministérios do Interior e da Economia, 29 de Março de 1961. - O Ministro do Interior, Arnaldo Schulz. - O Secretário de Estado da Agricultura, Luís Quartin Graça.
