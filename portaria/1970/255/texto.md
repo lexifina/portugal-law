@@ -1,0 +1,7 @@
+Portaria n.º 255/70
+Pela Portaria n.º 18597, de 14 de Julho de 1961, foi determinado um aumento dos abonos a fazer aos ranchos dos fuzileiros especiais, considerando que a natureza das missões inerentes às unidades constituídas por aquele pessoal implica a necessidade de lhes ser fornecida uma alimentação reforçada.
+Algumas vezes, porém, acontece que missões idênticas às que competem às unidades de fuzileiros especiais têm de ser atribuídas a outras unidades de fuzileiros, resultando daí a necessidade de promover de modo análogo o reforço da alimentação fornecida pelos respectivos ranchos.
+Nestas circunstâncias:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Marinha, nos termos da observação 36.ª, introduzida pelo artigo 2.º do Decreto-Lei n.º 40734, de 23 de Agosto de 1956, nas tabelas de ração a géneros das praças da Armada, aprovadas pelo Decreto-Lei n.º 37893, de 22 de Julho de 1950, o seguinte:
+O aumento estabelecido para os ranchos das unidades de fuzileiros especiais pela Portaria n.º 18597, de 14 de Julho de 1961, poderá, com base em propostas devidamente fundamentadas, ser autorizado pelo Ministro da Marinha para os ranchos de outras unidades de fuzileiros a que sejam atribuídas, com carácter de continuidade, missões de natureza idêntica às que competem às unidades de fuzileiros especiais.
+Ministérios das Finanças e da Marinha, 26 de Maio de 1970. - Pelo Ministro das Finanças, Augusto Victor Coelho, Secretário de Estado do Orçamento. - O Ministro da Marinha, Manuel Pereira Crespo.
