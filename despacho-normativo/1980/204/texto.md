@@ -1,0 +1,12 @@
+Despacho Normativo n.º 204/80
+Considerando:
+a) A resolução aprovada em reunião do Conselho de Ministros de 9 de Junho de 1980 relativa à distribuição de subsídios não reembolsáveis às empresas públicas tuteladas pelos diversos Ministérios;
+b) As diferentes situações económico-financeiras das empresas públicas tuteladas pela Secretaria de Estado da Comunicação Social à luz da política definida no Programa e prosseguida pelo VI Governo Constitucional, a qual teve sempre em atenção a progressiva igualdade no apoio a todos os órgãos de comunicação social, públicos e privados;
+c) A orientação do Despacho Normativo n.º 147/80, de 3 de Maio, acerca do regime jurídico que regula a atribuição do subsídio ao papel de jornal, que, por força dos sucessivos aumentos de preço que sobre ele têm recaído, o Governo, na prossecução da sua política no sector, vem agora compensar, pelo reforço da verba atribuída em 1979;
+o Ministro das Finanças e do Plano e o Secretário de Estado da Comunicação Social determinam que:
+1 - A verba de 857000 contos atribuída à Secretaria de Estado da Comunicação Social para subsídios não reembolsáveis às empresas públicas e para apoio às empresas privadas de comunicação social escrita seja distribuída conforme o quadro seguinte:
+(ver documento original)
+2 - A distribuição indicada pressupõe as seguintes directivas:
+a) Da verba de 12000 contos a atribuir à Empresa do Jornal do Comércio, S. A. R. L., a importância de 7000 contos destina-se a fazer face às remunerações em atraso dos trabalhadores inactivos e excedentários resultantes da Resolução do Conselho de Ministros n.º 242/77, que determinou a cessação definitiva da publicação do Jornal do Comércio. Dada esta determinação, este subsídio reveste natureza social e em nada colide com a referida política de apoio a empresas jornalísticas;
+b) A verba de 200000 contos para subsídio ao papel de jornal inclui 60000 contos atribuídos como reforço à respectiva verba de 1979 e será paga de acordo com o escalonamento previsto no n.º 2 do Despacho Normativo n.º 147/80, com início no mês de Junho e correspondente aos meses de Janeiro, Fevereiro e Março.
+Presidência do Conselho de Ministros e Ministério das Finanças e do Plano, 25 de Junho de 1980. - O Secretário de Estado da Comunicação Social, Carlos Pedro Brandão de Melo de Sousa e Brito. - Pelo Ministro das Finanças e do Plano, José Alberto Vasconcelos Tavares Moreira, Secretário de Estado do Tesouro.
