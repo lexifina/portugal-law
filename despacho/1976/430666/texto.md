@@ -1,0 +1,3 @@
+Despacho
+É dispensado o cumprimento das formalidades exigidas na parte final do n.º 6 do artigo 7.º do Decreto n.º 34419, de 23 de Fevereiro de 1945, considerando-se automaticamente prorrogado o limite de abono de ajudas de custo para as deslocações superiores a noventa dias, quando se trate de instrutores, monitores e instruendos durante a frequência de cursos, escolas, estágios e outras modalidades de instrução, cuja duração seja superior àquele período.
+Ministério das Finanças, 23 de Junho de 1976. - Pelo Ministro das Finanças, Vítor Manuel Ribeiro Constâncio, Secretário de Estado do Orçamento.
