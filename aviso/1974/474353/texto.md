@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo informação do Secretário-Geral das Nações Unidas, o Governo do Mali depositou, em 1 de Agosto de 1973, o instrumento de adesão à Convenção Relativa às Facilidades Aduaneiras a Favor do Turismo, concluída em Nova Iorque em 4 de Junho de 1954, e o Governo do Malawi depositou, em 11 de Junho de 1974, o instrumento de adesão ao Protocolo Adicional à mesma Convenção, relativo à importação de material e documentos de propaganda turística, também concluído em Nova Iorque em 4 de Junho de 1954.
+Direcção-Geral dos Negócios Económicos, 22 de Agosto de 1974. - O Adjunto do Director-Geral, José Joaquim de Mena e Mendonça.
