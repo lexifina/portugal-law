@@ -1,0 +1,4 @@
+Resolução n.º 138/78
+Nos termos da alínea c) do artigo 146.º e do n.º 1 do artigo 281.º da Constituição, o Conselho da Revolução, a solicitação do Provedor de Justiça e precedendo parecer da Comissão Constitucional, pronuncia-se pela inconstitucionalidade, por violação do n.º 4 do artigo 32.º da Constituição, das normas do n.º 1 do artigo único do Decreto-Lei n.º 198/77, de 17 de Maio, e da alínea a) do artigo 2.º da autorização legislativa contida na Lei n.º 16/77, de 25 de Fevereiro, na parte em que determinam ser da competência de juízes dos tribunais da 1.ª instância das contribuições e impostos a instrução relativa às infracções tributárias previstas no Decreto-Lei n.º 619/76, de 27 de Julho.
+Aprovada em Conselho da Revolução em 24 de Maio de 1978.
+O Presidente do Conselho da Revolução Interino, Vasco da Gama Fernandes.
