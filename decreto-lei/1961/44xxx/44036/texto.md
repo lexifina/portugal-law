@@ -1,0 +1,9 @@
+Decreto-Lei n.º 44036
+No artigo 21.º do Decreto-Lei n.º 42072, de 31 de Dezembro de 1958, e Decreto-Lei n.º 43083, de 22 de Julho de 1960, que isentam os Serviços Sociais das Forças Armadas de várias contribuições e impostos, não está prevista a isenção da contribuição predial e, bem assim, a isenção de emolumentos de todos os actos notariais e do registo predial.
+Como compete a estes Serviços promover a aquisição e construção de casas económicas, bem como a aquisição e construção de imóveis destinados às suas instalações.
+Considerando que o pagamento dos encargos não descritos no artigo 21.º do Decreto-Lei n.º 42072 e artigo único do Decreto-Lei n.º 43083 absorveria importantes quantias, em prejuízo da missão caracterìsticamente assistencial deste organismo, a cuja acção se pretende dar o maior desenvolvimento;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. É adicionada ao artigo 21.º do Decreto-Lei n.º 42072, de 31 de Dezembro de 1958, a seguinte alínea:
+K) Contribuição predial e emolumentos nos actos notariais e de registo predial.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 17 de Novembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
