@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 11-C/97
+Para os devidos efeitos se declara que o Decreto-Lei n.º 122/97, publicado no Diário da República, 1.ª série, n.º 116, de 20 de Maio de 1997, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 37.º, no n.º 1, onde se lê «O pessoal do quadro do Departamento de Estudos e Planeamento da Saúde transita,» deve ler-se «O pessoal dos quadros da Direcção-Geral da Saúde e do Departamento de Estudos e Planeamento da Saúde transita,» e, no n.º 2, onde se lê «Os concursos para ingresso ou acesso nos quadros do Departamento de Estudos e Planeamento da Saúde» deve ler-se «Os concursos para ingresso ou acesso nos quadros da Direcção-Geral da Saúde e do Departamento de Estudos e Planeamento da Saúde».
+Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Junho de 1997. - O Secretário-Geral, Alexandre Figueiredo.
