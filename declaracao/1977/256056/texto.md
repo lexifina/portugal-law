@@ -1,0 +1,13 @@
+Declaração
+Segundo comunicação do Ministério das Finanças, o Decreto-Lei n.º 279/77, publicado no Diário da República, 1.ª série, n.º 153, de 5 de Julho, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No artigo 1.º, onde se lê:
+Artigo 1.º O n.º 1 do artigo 2.º do Decreto-Lei n.º 75-E/77, de 28 de Fevereiro, passa a ter a seguinte redacção:
+Art. 2.º - 1. No prazo de sessenta dias após a data da comunicação da aprovação do parecer da Inspecção-Geral de Finanças, devem os relatórios e contas do exercício de 1975 - documentos enumerados nos n.os 1 e 2 do artigo 2.º do Decreto-Lei n.º 147/72, de 5 de Maio -, bem como o referido parecer, ser apresentados pela empresa para publicação no Diário da República e num dos jornais mais lidos na localidade.
+2. ...
+3. ...
+deve ler-se:
+Artigo 1.º O n.º 1 do artigo 2.º do Decreto-Lei n.º 75-E/77, de 28 de Fevereiro, passa a ter a seguinte redacção:
+Art. 2.º - 1. No prazo de sessenta dias após a data da comunicação da aprovação do parecer da Inspecção-Geral de Finanças, devem os relatórios e contas do exercício de 1975 - documentos enumerados nos n.os 1 e 2 do artigo 1.º do Decreto-Lei n.º 147/72, de 5 de Maio -, bem como o referido parecer, ser apresentados pela empresa para publicação no Diário da República e num dos jornais mais lidos na localidade.
+2. ...
+3. ...
+Secretaria-Geral da Presidência do Conselho de Ministros, 4 de Agosto de 1977. - Pelo Secretário-Geral, o Director dos Serviços Administrativos, José Serra.
