@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que, em 31 de Julho de 1970, entrou em vigor o Convénio entre Portugal e Espanha para a Construção das Obras de Melhoramento da Barra do Rio Guadiana, assinado em Lisboa em 20 de Junho de 1969 e publicado no Diário do Governo, 1.ª série, n.º 281, de 2 de Dezembro de 1969, em virtude de, nos termos do disposto no respectivo artigo 14.º, os dois Governos se haverem recìprocamente comunicado o cumprimento das suas disposições constitucionais relativas à aprovação do mesmo.
+Direcção-Geral dos Negócios Políticos, 31 de Dezembro de 1970. - O Director-Geral, Gonçalo Luís Maravilhas Correia Caldeira Coelho.
