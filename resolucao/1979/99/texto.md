@@ -1,0 +1,8 @@
+Resolução n.º 99/79
+Por resolução do Conselho de Ministros de 18 de Outubro de 1978, publicada no Diário da República, 1.ª série, n.º 256, de 7 de Novembro de 1978, foi confirmado o despacho conjunto dos Ministros das Finanças e do Plano e da Indústria e Tecnologia de 25 de Julho de 1978, publicado no Diário da República, 2.ª série, n.º 185, de 12 de Agosto de 1978, no qual se aponta para a constituição de uma sociedade de economia mista como forma de resolução da situação criada pela falência da Messa - Máquinas de Escrever, S. A. R. L., e ratificado o protocolo de acordo celebrado em 4 de Agosto de 1978 entre o Estado, o grupo de investidores e os trabalhadores da Messa - Máquinas de Escrever, S. A. R. L., que incluía os termos da constituição de uma nova empresa e o projecto económico-financeiro que lhe dava cobertura.
+Considerando a acentuada relevância económico-social da Messa - Indústria de Precisão, S. A. R. L., constituída em 30 de Dezembro de 1978, e o risco associado ao financiamento do programa de investimentos a que é necessário proceder com vista à sua viabilização:
+O Conselho de Ministros, reunido em 28 de Março de 1979, resolveu:
+Autorizar a concessão de avales do Estado, até ao montante de 120000 contos, para garantir as operações financeiras necessárias aos investimentos previstos no projecto económico-financeiro da nova empresa, assim distribuídos:
+90000 contos, para aquisição de bens de equipamento;
+30000 contos, para aquisição de matérias-primas.
+Presidência do Conselho de Ministros, 28 de Março de 1979. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.
