@@ -1,0 +1,4 @@
+Despacho
+Nos termos da resolução de hoje do Conselho de Ministros, de acordo com a qual este tipo de questões passará a ser decidido por despacho do Primeiro-Ministro, determino que o n.º 3 da resolução do Conselho de Ministros de 20 de Setembro de 1974, publicada no suplemento ao Diário do Governo, 1.ª série, n.º 233, de 7 de Outubro do mesmo ano, passe a ter a seguinte redacção:
+3. A partir da data deste despacho não se efectuarão novos contratos de arrendamentos para instalações de serviços públicos, nem se poderão efectuar aquisições de veículos automóveis, de mobiliário e outras consideradas como despesas de capital que, embora de carácter utilitário e necessárias, possam ser adiadas.
+Presidência do Conselho de Ministros, 11 de Abril de 1975. - O Primeiro-Ministro, Vasco dos Santos Gonçalves.
