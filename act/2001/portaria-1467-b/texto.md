@@ -1,0 +1,76 @@
+Portaria n.º 1467-B/2001
+de 31 de Dezembro
+Considerando que a Comissão Permanente da Organização Europeia para a Segurança da Navegação Aérea (EUROCONTROL), alargada aos representantes dos Estados não membros desta Organização que participam no Sistema de Taxas de Rota, decidiu proceder à alteração da taxa de juros de mora prevista na Portaria n.º 50/95, de 20 de Janeiro, com a redacção dada pelas Portarias n.os 61/97, de 25 de Janeiro, 37/98, de 26 de Janeiro, 55/99, de 7 de Janeiro, 42/2000, de 1 de Fevereiro, e 1223-B/2000, de 29 de Dezembro, torna-se necessário proceder à alteração do disposto na referida portaria.
+Atendendo ao grande número de alterações introduzidas à redacção da Portaria n.º 50/95, de 20 de Janeiro, considerou-se vantajoso proceder à sua republicação, com as necessárias correcções materiais, em anexo ao presente diploma.
+Assim, ao abrigo do disposto no n.º 1 do artigo 5.º do Decreto-Lei n.º 461/88, de 14 de Dezembro:
+Manda o Governo, pelo Ministro do Equipamento Social, o seguinte:
+1.º É revogado o actual n.º 12.º da Portaria n.º 50/95, de 20 de Janeiro (na renumeração operada pela Portaria n.º 42/2000, de 1 de Fevereiro).
+2.º É alterada a numeração das disposições da Portaria n.º 50/95, de 20 de Janeiro, com a redacção dada pelas Portarias n.os 61/97, de 25 de Janeiro, 37/98, de 26 de Janeiro, 55/99, de 7 de Janeiro, 42/2000, de 1 de Fevereiro, e 1223-B/2000, de 29 de Dezembro, passando os seus actuais n.os 13.º, 14.º, 15.º, 16.º, 17.º, 18.º e 19.º (na renumeração operada pela Portaria n.º 42/2000, de 1 de Fevereiro) a ser, respectivamente, os n.os 12.º, 13.º, 14.º, 15.º, 16.º, 17.º e 18.º
+3.º Os n.os 13.º e 15.º da Portaria n.º 50/95, de 20 de Janeiro (anteriores n.os 14.º e 16.º, na renumeração operada pela Portaria n.º 42/2000, de 1 de Fevereiro), passam a ter a seguinte redacção:
+«13.º - 1 - Os pagamentos devem ser acompanhados de uma indicação das referências, datas e montantes em euros das facturas regularizadas e notas de crédito deduzidas.
+2 - ...
+15.º - 1 - Caso qualquer factura não tenha sido regularizada na data do seu vencimento, o montante em dívida começará a vencer juros de mora à taxa de 9,25% ao ano.
+2 - ...»
+4.º A Portaria n.º 50/95, de 20 de Janeiro, com as alterações introduzidas pelas Portarias n.os 61/97, de 25 de Janeiro, 37/98, de 26 de Janeiro, 55/99, de 7 de Janeiro, 42/2000, de 1 de Fevereiro, e 1223-B/2000, de 29 de Dezembro, e pelo presente diploma, é republicada em anexo, com as necessárias correcções materiais.
+5.º A presente portaria produz efeitos a partir de 1 de Janeiro de 2002.
+Pelo Ministro do Equipamento Social, José António Fonseca Vieira da Silva, Secretário de Estado das Obras Públicas, em 21 de Dezembro de 2001.
+
+ANEXO PREVISTO NO N.º 4.º
+1.º - 1 - Será cobrada uma taxa de rota, prevista no n.º 1 do artigo 2.º do Decreto-Lei n.º 461/88, de 14 de Dezembro, daqui em diante chamada «taxa», calculada em conformidade com o disposto nos n.os 3.º a 7.º da presente portaria, por cada voo efectuado de acordo com as regras de voo por instrumentos (voo IFR), em conformidade com os procedimentos resultantes da aplicação das normas e recomendações da Organização da Aviação Civil Internacional no espaço aéreo das seguintes regiões de informação de voo (RIV):
+Região de Informação de Voo de Lisboa;
+Região Superior de Informação de Voo de Lisboa;
+Região de Informação de Voo de Santa Maria.
+Além disso, nas regiões de informação de voo supradefinidas poderá ser cobrada uma taxa por cada voo efectuado em conformidade com as regras de voo à vista. Os voos efectuados em parte de acordo com as regras de voo à vista e em parte de acordo com as regras de voo por instrumentos (voos mistos VFR/IFR) nas regiões de informação de voo supradefinidas são submetidos, pela totalidade da distância percorrida nas ditas regiões de informação de voo, à taxa cobrada para os voos IFR.
+2 - As regiões referidas no número anterior, incluindo as instalações de que dispõem e, bem assim, os serviços que fornecem, encontram-se descritas no Manual de Informação Aeronáutica (AIP Portugal).
+2.º A taxa constitui a remuneração dos custos suportados pelo Estado Português a título das instalações e dos serviços de navegação aérea de rota e de operação do sistema postos à disposição dos utentes, bem como dos custos suportados pela EUROCONTROL para a operação do referido sistema.
+3.º Para o espaço aéreo das RIV a que se refere o n.º 1 do n.º 1.º, a taxa relativa a cada voo será calculada segundo a fórmula:
+r = t x N
+em que r é a taxa, t a taxa unitária e N o número de unidades de serviço correspondente ao voo. As taxas unitárias podem, se for caso disso, ser fixadas separadamente para os voos VFR e IFR.
+4.º Para cada voo, o número de unidades de serviço, designado por N, conforme o número anterior, será obtido pela aplicação da seguinte fórmula:
+N = d x p
+em que d é o coeficiente distância correspondente ao espaço aéreo das RIV referidas no n.º 1 do n.º 10.º e p o coeficiente peso da aeronave envolvida.
+5.º - 1 - O coeficiente de distância (d) é igual ao quociente da divisão por 100 do número que mede a distância ortodrómica expressa em quilómetros entre:
+O aeródromo de partida situado no interior do espaço aéreo das regiões de informação de voo referidas no n.º 1 do n.º 1.º, ou o ponto de entrada nesse espaço; e
+O aeródromo de primeiro destino situado no interior do referido espaço aéreo, ou o ponto de saída desse espaço.
+Os pontos de entrada e de saída são os pontos em que os limites laterais do referido espaço aéreo são interceptados pela rota descrita no plano de voo. Este plano de voo incorpora as modificações introduzidas pelo operador da aeronave no plano de voo inicial, assim como as modificações aprovadas por aquele em resultado de medidas relativas à gestão dos fluxos de tráfego aéreo.
+2 - A distância a considerar será reduzida de 20 km por cada descolagem ou aterragem efectuada no território nacional.
+6.º - 1 - O coeficiente peso (p) é igual à raiz quadrada do coeficiente por 50 do peso máximo certificado à descolagem da aeronave, expresso em toneladas métricas, tal como consta do certificado de navegabilidade ou do manual de voo, ou de qualquer outro documento oficial equivalente, como se segue:
+(ver fórmula no documento original)
+2 - Quando o peso máximo certificado à descolagem da aeronave não for conhecido dos organismos responsáveis pela cobrança das taxas, o coeficiente peso é estabelecido com base no peso da versão mais pesada conhecida para esse tipo de aeronave.
+3 - Quando existirem vários pesos máximos certificados à descolagem para a mesma aeronave, o coeficiente peso é estabelecido com base no peso máximo à descolagem da versão mais pesada, autorizado pelo seu Estado de matrícula.
+4 - Todavia, no caso de o operador haver declarado aos organismos responsáveis pela cobrança das taxas que a frota de que dispõe inclui várias aeronaves correspondentes a versões diferentes de um mesmo tipo, o coeficiente peso para cada aeronave deste tipo utilizada por este operador é determinado com base na média dos pesos máximos à descolagem de todas as suas aeronaves desse tipo. O cálculo deste coeficiente por tipo de aeronave e por operador é efectuado, pelo menos, uma vez por ano.
+5 - Para o cálculo da taxa, o coeficiente peso é expresso por um número com duas decimais.
+7.º - 1 - A taxa unitária aplicável aos voos efectuados nas RIV definidas no n.º 1 do n.º 1.º é periodicamente fixada nos termos do n.º 2 do artigo 5.º do Decreto-Lei n.º 461/88, de 14 de Dezembro, com a redacção dada pelo Decreto-Lei n.º 118/90, de 6 de Abril, em euros.
+2 - Excepto decisão em contrário por parte de um Estado interessado, a taxa unitária para um Estado contratante cuja moeda nacional não seja o euro é recalculada mensalmente aplicando a taxa de câmbio média mensal entre o euro e a moeda nacional para o mês anterior àquele em que o voo foi efectuado.
+3 - Para efeitos do número anterior, a taxa de câmbio aplicada é a média mensal das «taxas cruzadas no fecho», calculada pela Reuters com base nas taxas BID diárias.
+8.º As disposições dos números anteriores não se aplicam aos voos das categorias a seguir indicadas:
+Voos efectuados por aeronaves militares portuguesas;
+Voos efectuados por aeronaves militares estrangeiras de países que, em regime de reciprocidade, isentem de pagamento de taxas de rota as aeronaves militares portuguesas;
+Voos de busca e salvamento autorizados por um organismo SAR competente;
+Voos efectuados segundo as regras de voo à vista (VFR) na totalidade do percurso em rota, considerando que os voos efectuados parcialmente em conformidade com as regras de voo à vista e parcialmente em conformidade com as regras de voo por instrumentos (voos mistos VFR/IFR) só beneficiam de isenção na parte em que são efectuados exclusivamente em VFR;
+Voos que terminem no aeródromo de partida e no decurso dos quais não se tenha verificado nenhuma aterragem (voos circulares);
+Voos efectuados exclusivamente para o transporte, em deslocação oficial, de monarcas reinantes e sua família directa, de chefes de Estado e de governo, bem como de ministros, devendo, em qualquer destes casos, ser indicado no plano de voo o respectivo estatuto;
+Voos efectuados exclusivamente com vista a verificar e a testar os equipamentos utilizados ou destinados a ser utilizados como ajudas no solo à navegação aérea, excluindo os voos de posicionamento pelas aeronaves visadas;
+Voos de treino efectuados exclusivamente com vista a obter uma licença ou uma qualificação para o pessoal navegante técnico, devendo o facto ser especificamente mencionado no plano de voo. Estes voos devem ser realizados unicamente no espaço aéreo português e não devem destinar-se a qualquer tipo de transporte nem a qualquer deslocação da própria aeronave, incluindo o respectivo transporte desde o seu local de fabrico.
+9.º - 1 - O montante da taxa é pago na sede da EUROCONTROL, em Bruxelas, de acordo com as condições de pagamento constantes dos n.os 11.º e seguintes.
+2 - A moeda utilizada é o euro.
+10.º Para um voo efectuado por uma aeronave no espaço aéreo de RIV sob competência de vários Estados contratantes, é cobrada uma taxa única, R, igual à soma das taxas ri devidas relativamente ao espaço aéreo das RIV sob a competência de cada Estado contratante.
+(ver fórmula no documento original)
+11.º - 1 - Os montantes facturados pela EUROCONTROL são pagos na sua sede em Bruxelas, sendo, no entanto, considerados como liberatórios os pagamentos efectuados nas contas abertas em nome da EUROCONTROL em estabelecimentos bancários, designados pelos órgãos competentes do sistema nos Estados contratantes ou noutros Estados.
+2 - O montante da taxa é devido na data da realização do voo. A data limite em que o pagamento deve ser feito à EUROCONTROL vem indicada na factura. O pagamento deve ser efectuado nos 30 dias seguintes à data de facturação.
+12.º O pagamento é considerado como tendo sido recebido pela EUROCONTROL na data em que o montante devido tiver sido creditado numa conta bancária designada pela EUROCONTROL. A data de valor é a data a partir da qual a EUROCONTROL pode utilizar os fundos.
+13.º - 1 - Os pagamentos devem ser acompanhados de uma indicação das referências, datas e montantes em euros das facturas regularizadas e notas de crédito deduzidas.
+2 - Sempre que o pagamento não seja acompanhado das indicações referidas no número anterior, de modo a permitir a sua afectação a uma ou várias facturas específicas, a EUROCONTROL pode afectar o pagamento:
+Primeiro, aos juros;
+Depois, às facturas mais antigas em dívida.
+14.º - 1 - Qualquer reclamação relativa a uma factura deve ser enviada por escrito à EUROCONTROL. A data limite para apresentação das reclamações é de 60 dias a contar da data da factura, devendo nela ser expressamente indicada.
+2 - A data de apresentação das reclamações é a da sua recepção pela EUROCONTROL.
+3 - As reclamações, cujo motivo deve ser claramente expresso, devem ser acompanhadas de uma exposição fundamentada e dos documentos justificativos.
+4 - O facto de um utente ter apresentado uma reclamação não o autoriza a deduzir na factura o montante contestado, a menos que a EUROCONTROL o tenha autorizado.
+5 - No caso de a EUROCONTROL e de um utente serem devedor e credor um do outro, não pode ser efectuado qualquer pagamento compensatório sem acordo prévio da EUROCONTROL.
+15.º - 1 - Caso qualquer factura não tenha sido regularizada na data do seu vencimento, o montante em dívida começará a vencer juros de mora à taxa de 9,25% ao ano.
+2 - A taxa de juros de mora a que se refere o número anterior é uma taxa simples, calculada dia a dia sobre o montante em dívida.
+3 - Os juros são calculados e facturados em euros.
+16.º Sempre que o devedor não tenha efectuado o pagamento dos montantes da taxa de rota em dívida, podem ser desencadeadas medidas tendo em vista a cobrança coerciva.
+17.º São revogadas as Portarias n.os 829/88, de 29 de Dezembro, 85/90, de 2 de Fevereiro, e 310/93, de 17 de Março.
+18.º A presente portaria produz efeitos a partir de 1 de Janeiro de 1995.
