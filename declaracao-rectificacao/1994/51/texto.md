@@ -1,0 +1,5 @@
+Declaração de rectificação n.º 51/94
+Para os devidos efeitos se declara que o Decreto Legislativo Regional n.º 7/94/M, da Região Autónoma da Madeira, publicado no Diário da República, n.º 81, de 7 de Abril de 1994, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 2.º, n.º 1, alínea e), onde se lê «Três representantes dos sindicatos da Região, sendo representantes do sector primário, secundário e terciário» deve ler-se «Quatro representantes dos sindicatos da Região, representando o sector primário, secundário e terciário».
+No artigo 2.º, n.º 1, alínea f), onde se lê «Três representantes das associações patronais» deve ler-se «Quatro representantes das associações patronais, sendo um da ACIF, um da ASSICOM, um da Associação de Comércio e Serviços e um da Associação dos Agricultores da Madeira».
+Secretaria-Geral da Presidência do Conselho de Ministros, 28 de Abril de 1994. - O Secretário-Geral, França Martins.
