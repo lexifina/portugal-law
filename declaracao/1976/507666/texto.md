@@ -1,0 +1,4 @@
+Declaração
+Segundo informação do Estado-Maior da Força Aérea, o Decreto-Lei n.º 776/75, de 31 de Dezembro, publicado no Diário do Governo, 1.ª série, n.º 300, de 31 de Dezembro de 1975, saiu com a seguinte inexactidão, que assim se rectifica:
+No artigo 2.º, n.º 3, onde se lê: «3. A passagem à disponibilidade do pessoal referido nos n.os 2 e 3, só pode ter lugar ...», deve ler-se: «3. A passagem à disponibilidade do pessoal referido nos n.os 1 e 2 só pode ter lugar ...» e no artigo 7.º, n.º 1, onde se lê: «... ao que perceberia se então não tivesse transitado para a situação de reserva», deve ler-se: «... ao que perceberia se então tivesse transitado para a situação de reserva».
+Estado-Maior-General das Forças Armadas, 3 de Fevereiro de 1976. - O Chefe do Gabinete, João António Gonçalves Serôdio, tenente-coronel de infantaria.
