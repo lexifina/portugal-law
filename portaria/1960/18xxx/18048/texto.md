@@ -1,0 +1,12 @@
+Portaria n.º 18048
+Com o fundamento, por um lado, na impossibilidade técnica de despender com o povoamento baseado na cultura do chá o total previsto e na desnecessidade de construir inteiramente no decurso do II Plano de Fomento os cais n.os 9 e 10 do porto da Beira e, por outro lado, na instante necessidade e possibilidade de se incrementar a execução do plano rodoviário, bem como a de novas instalações escolares, propôs o Governo-Geral da província de Moçambique, para o efeito, o reforço das dotações destes objectivos, utilizando-se como cobertura disponibilidades das dotações daqueles.Por isso, e tendo em vista a autorização dada pelo Conselho Económico em reunião de 17 de Outubro corrente:
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 2.º do Decreto n.º 35770, de 29 de Julho de 1946, o seguinte:
+1.º Reforçar com a quantia de 18500000$00 a verba do capítulo 12.º, artigo 1640.º, n.º 4), alínea a) «Plano de Fomento - Programa de execução da 2.ª fase, 1960 - Comunicações e transportes - Execução do plano rodoviário», da tabela de despesa extraordinária do orçamento geral em vigor de Moçambique, por transferência das importâncias que se indicam, a sair da seguintes verbas da mesma tabela de despesa:
+Artigo 1640.º «Plano de Fomento - Programa de execução da 2.ª fase, 1960»:
+N.º 3, alínea c) «Povoamento - Povoamento baseado na cultura do chá - Do saldo das contas de exercícios findos» ... 6000000$00
+N.º 4, alínea c), n.º 2) «Comunicações e transportes - Portos - Beira - De comparticipação dos portos, caminhos de ferro e transportes» ... 12500000$00
+... 18500000$00
+2.º Reforçar com a importância de 1500000$00 a verba do capítulo 12.º, artigo 1640.º, n.º 5), alínea a) «Plano de Fomento - Programa de execução da 2.ª fase, 1960 - Instrução e saúde - Construção e apetrechamento de instalações escolares, incluindo a de ensino agrícola do Limpopo, de feitores ou práticos agrícolas - Do saldo das contas de exercícios findos», da mesma tabela de despesa, por transferência de igual quantia a sair das disponibilidades da verba do artigo 1640.º, n.º 3), alínea c) «Plano de Fomento - Programa de execução da 2.ª fase, 1960 - Povoamento - Povoamento baseado na cultura do chá - Do saldo das contas de exercícios findos».
+Ministério do Ultramar, 9 de Novembro de 1960. - Pelo Ministro do Ultramar, Carlos Krus Abecasis, Subsecretário de Estado do Fomento Ultramarino.
+
+Para ser publicada no Boletim Oficial de Moçambique. - Carlos Abecasis.
