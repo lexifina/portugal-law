@@ -1,0 +1,3 @@
+Despacho Normativo n.º 68/80
+Nos termos do n.º 1 do artigo 1.º do Decreto-Lei n.º 736/76, de 16 de Outubro, subdelego no Ministro das Finanças e do Plano, Prof. Doutor Aníbal António Cavaco Silva, a competência para aprovar as minutas dos contratos de compra de imóveis para o Estado, por preço igual ou superior de 50000 contos, nas condições que hajam sido previamente autorizadas por resolução do Conselho de Ministros, nos termos do n.º 2 do artigo 1.º do Decreto-Lei n.º 27/79, de 22 de Fevereiro.
+Presidência do Conselho de Ministros, 20 de Fevereiro de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
