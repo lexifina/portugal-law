@@ -1,0 +1,339 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=WEUMi7%2fBtIIg%2fkHBDyZ%2fsil3BmWuButejMvPGkqNVyUfIJXddc1IDB3t8GXfBL3zSPQF%2bIyDi3AcWLUm0oL6crfUIOoirULFjyvRAul6J%2by6a6FDtpJuVrK3Y3rP8bCLGdxev%2bdUqQgc%2bXEDQI%2f8OLEsCv3IziG5WQHDSzFAl7qQApdhGho5obQdwDn6iwyWAFYt%2fzWn72d9GQ0G7zTxyKwsQjpKzhAqqYI6%2fCsSwtcK7MkwpbhLc%2bPOBViftzfwo0QY4%2b1hHCAUUDtd7wn2zRmIMG1aKMpZb8PUmWVGX9mCVPzhBcSom0%2boac5wXwR%2fcfo1uKTMHtBvk9eTSDfjfyy5P2leMqegA1xVPD5%2bIs%2bMWrsB8j6dH%2fUqNW7MrBr8&fich=PeticoesVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "c7a8b036f2bb9420007f23598577186345f4c787fefe68382e6a1aac6e3b6ea3",
+  "legislatura": "VIII",
+  "id": "6116",
+  "numero": "51",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2001-02-19",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2001-05-02",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2001-02-19",
+        "DataArquivo": "2001-05-02",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2001-07-31",
+        "DataReaberta": "2001-02-19",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2001-02-19",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c304e505453383252564d765247396a6457316c626e52766331426c64476c6a595738764f5745305a6a566a4e3259745a574d774e6930304f57557a4c574a6c4d3251744d445934596a55305a6a566d4f5751794c6e426b5a673d3d&fich=9a4f5c7f-ec06-49e3-be3d-068b54f5f9d2.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "18",
+        "Legislatura": "VIII",
+        "Nome": "COMISSAO DE EQUIPAMENTO SOCIAL",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2001-03-22",
+            "gp": "PSD",
+            "id": "1578",
+            "motivoCessacao": null,
+            "nome": "Virgílio Almeida Costa"
+          }
+        ],
+        "RelatorioFinal": [
+          "21363"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2004-04-02",
+    "Documentos": [
+      {
+        "DataDocumento": "2001-02-19",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396b4d44686a4e5756684d7930304e5442694c54526d5a546774596d4d7a4e79316a4f4745344d446332597a55314d4749756347526d&fich=d08c5ea3-450b-4fe8-bc37-c8a8076c550b.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2004-04-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149092",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3990-3991"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-04-03",
+                "pubLeg": "IX",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/073/2004-04-03/3990?pgs=3990-3991&org=PLC"
+              }
+            ],
+            "Sumario": "MANIFESTA A SUA OPOSIÇÃO AO TRAÇADO DA A1/ IP9, POR ENTENDER QUE ESSE TRAÇADO DA AUTO-ESTRADA BRAGA-GUIMARÃES ESTÁ A SER FEITO \"À MARGEM DE EXIGENCIAS LEGAIS E CONTRA OS DIREITOS CONSTITUCIONAIS E HUMANOS DOS CIDADÃOS ATINGIDOS DIRECTA E INDIRECTAMENTE",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-04-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149093",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3991-3992"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-04-03",
+                "pubLeg": "IX",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/073/2004-04-03/3991?pgs=3991-3992&org=PLC"
+              }
+            ],
+            "Sumario": "MANIFESTA A SUA OPOSIÇÃO AO TRAÇADO DA A1/ IP9, POR ENTENDER QUE ESSE TRAÇADO DA AUTO-ESTRADA BRAGA-GUIMARÃES ESTÁ A SER FEITO \"À MARGEM DE EXIGENCIAS LEGAIS E CONTRA OS DIREITOS CONSTITUCIONAIS E HUMANOS DOS CIDADÃOS ATINGIDOS DIRECTA E INDIRECTAMENTE",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-04-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149095",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3992-3992"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-04-03",
+                "pubLeg": "IX",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/073/2004-04-03/3992?pgs=3992&org=PLC"
+              }
+            ],
+            "Sumario": "MANIFESTA A SUA OPOSIÇÃO AO TRAÇADO DA A1/ IP9, POR ENTENDER QUE ESSE TRAÇADO DA AUTO-ESTRADA BRAGA-GUIMARÃES ESTÁ A SER FEITO \"À MARGEM DE EXIGENCIAS LEGAIS E CONTRA OS DIREITOS CONSTITUCIONAIS E HUMANOS DOS CIDADÃOS ATINGIDOS DIRECTA E INDIRECTAMENTE",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-04-03",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149109",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3992-3993"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-04-03",
+                "pubLeg": "IX",
+                "pubNr": "73",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/073/2004-04-03/3992?pgs=3992-3993&org=PLC"
+              }
+            ],
+            "Sumario": "MANIFESTA A SUA OPOSIÇÃO AO TRAÇADO DA A1/ IP9, POR ENTENDER QUE ESSE TRAÇADO DA AUTO-ESTRADA BRAGA-GUIMARÃES ESTÁ A SER FEITO \"À MARGEM DE EXIGENCIAS LEGAIS E CONTRA OS DIREITOS CONSTITUCIONAIS E HUMANOS DOS CIDADÃOS ATINGIDOS DIRECTA E INDIRECTAMENTE",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "6116",
+    "PetAssunto": "Manifesta a sua oposição ao traçado da A1/ IP9, por entender que esse traçado da Auto-Estrada Braga - Guimarães está a ser feito \"à margem de exigências legais e contra os direitos constitucionais e humanos dos cidadãos atingidos directa e indirectamente¿.",
+    "PetDataEntrada": "2001-02-19",
+    "PeticoesAssociadas": null,
+    "PetId": "6116",
+    "PetLeg": "VIII",
+    "PetNr": "51",
+    "PetNrAssinaturas": "4880",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "160",
+        "obs": null,
+        "pag": [
+          "3990-3993"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-04-03",
+        "pubLeg": "IX",
+        "pubNr": "73",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/073/2004-04-03/3990?pgs=3990-3993&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "265609",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-07-21",
+        "pubLeg": "VIII",
+        "pubNr": "36",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/08/02/036/2001-07-21?org=PLC"
+      }
+    ]
+  }
+}
