@@ -1,0 +1,5 @@
+Aviso n.º 293/94
+Por ordem superior se torna público que o Secretário-Geral do Conselho da Europa, por comunicação de 21 de Fevereiro de 1994, informou que em 30 de Junho e em 29 de Setembro de 1993 os Governos do Reino dos Países Baixos e do Principado do Liechtenstein concluíram, por troca de notas, um arranjo previsto no artigo 27.º, n.º 4, da Convenção Europeia de Extradição, de 13 de Dezembro de 1957, relativo à extensão da Convenção às Antilhas Neerlandesas e a Aruba. O arranjo entrou em vigor em 1 de Dezembro de 1993.
+Relativamente a Portugal, a Convenção Europeia de Extradição foi aprovada para ratificação pela Resolução da Assembleia da República n.º 23/89 e ratificada pelo Decreto do Presidente da República n.º 57/89, de 21 de Agosto, publicado no Diário da República, 1.ª série, n.º 191, de 21 de Agosto de 1989.
+Foi publicado no Diário da República, 1.ª série, n.º 76, de 31 de Março de 1990, aviso de que Portugal depositou o instrumento de ratificação, com declaração e reservas, à Convenção, Protocolo Adicional e 2.º Protocolo Adicional.
+Departamento de Assuntos Jurídicos, 12 de Outubro de 1994. - O Director, José Maria Teixeira Leite Martins.
