@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se faz público que o embaixador de Portugal junto das Nações Unidas, em Nova Iorque, depositou, em 3 de Julho de 1989, o instrumento de ratificação do Acordo Internacional sobre as Madeiras Tropicais, 1983, concluído em Genebra em 18 de Novembro de 1983.
+Naquela data tinham ratificado, aderido, aceitado ou aprovado o referido Acordo os seguintes Estados: Austrália, Áustria, Bélgica, Canadá, Camarões, China, Congo, Dinamarca, Egipto, Equador, Espanha, Finlândia, França, Gabão, Ghana, Grécia, Holanda, Honduras, Japão, Índia, Indonésia, Irlanda, Itália, Libéria, Luxemburgo, Malásia, Noruega, Panamá, Papua-Nova Guiné, Peru, Reino Unido, República Federal da Alemanha, República da Coreia, Suécia, Suíça, Tailândia, Trindade e Tobago e União das Repúblicas Socialistas Soviéticas.
+Direcção-Geral dos Negócios Político-Económicos, 19 de Julho de 1989. - O Director de Serviços dos Assuntos Multilaterais, José Tadeu Soares.
