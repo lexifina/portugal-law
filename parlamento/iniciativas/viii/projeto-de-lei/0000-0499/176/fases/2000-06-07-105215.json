@@ -1,0 +1,938 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "176",
+    "id": "6078",
+    "titulo": "Lei de alteração do regime do rendimento mínimo garantido"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2000-06-07",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1696",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2000-06-07",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-06-07",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1352",
+                "nome": "Paulo Portas"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27560",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2961-2962"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-08",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/075/2000-06-08/2961?pgs=2961-2962&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE ALTERACAO DO REGIME DO RENDIMENTO MINIMO GARANTIDO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27561",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2961-2961"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-08",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/075/2000-06-08/2961?pgs=2961&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE ALTERACAO DO REGIME DO RENDIMENTO MINIMO GARANTIDO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1022",
+                "nome": "Eugénio Marinho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27562",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2959-2960"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-08",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/075/2000-06-08/2959?pgs=2959-2960&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE ALTERACAO DO REGIME DO RENDIMENTO MINIMO GARANTIDO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27563",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2959-2962"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-08",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/075/2000-06-08/2959?pgs=2959-2962&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE ALTERACAO DO REGIME DO RENDIMENTO MINIMO GARANTIDO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27564",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2957-2958"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-08",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/075/2000-06-08/2957?pgs=2957-2958&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE ALTERACAO DO REGIME DO RENDIMENTO MINIMO GARANTIDO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1352",
+                "nome": "Paulo Portas"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27565",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2956-2956"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-08",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/075/2000-06-08/2956?pgs=2956&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE ALTERACAO DO REGIME DO RENDIMENTO MINIMO GARANTIDO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27567",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2955-2955"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-08",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/075/2000-06-08/2955?pgs=2955&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE ALTERACAO DO REGIME DO RENDIMENTO MINIMO GARANTIDO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27568",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2952-2954",
+                  "2956-2957"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-08",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/075/2000-06-08/2952?pgs=2952-2954,2956-2957&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE ALTERACAO DO REGIME DO RENDIMENTO MINIMO GARANTIDO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27569",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2952-2952"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-08",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/075/2000-06-08/2952?pgs=2952&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE ALTERACAO DO REGIME DO RENDIMENTO MINIMO GARANTIDO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27570",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2950-2951"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-08",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/075/2000-06-08/2950?pgs=2950-2951&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE ALTERACAO DO REGIME DO RENDIMENTO MINIMO GARANTIDO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3",
+                "nome": "Adão Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27571",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2948-2952"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-08",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/075/2000-06-08/2948?pgs=2948-2952&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE ALTERACAO DO REGIME DO RENDIMENTO MINIMO GARANTIDO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27572",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2946-2947",
+                  "2956-2956"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-08",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/075/2000-06-08/2946?pgs=2946-2947,2956&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE ALTERACAO DO REGIME DO RENDIMENTO MINIMO GARANTIDO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27573",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2945-2946",
+                  "2963-2964"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-08",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/075/2000-06-08/2945?pgs=2945-2946,2963-2964&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE ALTERACAO DO REGIME DO RENDIMENTO MINIMO GARANTIDO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1352",
+                "nome": "Paulo Portas"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27574",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-08",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/075/2000-06-08?org=PLC"
+              }
+            ],
+            "sumario": "LEI DE ALTERACAO DO REGIME DO RENDIMENTO MINIMO GARANTIDO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27575",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2940-2944",
+                  "2947-2948",
+                  "2962-2963"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-08",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/075/2000-06-08/2940?pgs=2940-2944,2947-2948,2962-2963&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE ALTERACAO DO REGIME DO RENDIMENTO MINIMO GARANTIDO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1158",
+                "nome": "Barbosa de Oliveira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27576",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2939-2951"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-08",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/075/2000-06-08/2939?pgs=2939-2951&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE ALTERACAO DO REGIME DO RENDIMENTO MINIMO GARANTIDO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27577",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2938-2938"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-08",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/075/2000-06-08/2938?pgs=2938&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE ALTERACAO DO REGIME DO RENDIMENTO MINIMO GARANTIDO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1352",
+                "nome": "Paulo Portas"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27578",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2934-2940",
+                  "2960-2961"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-08",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/075/2000-06-08/2934?pgs=2934-2940,2960-2961&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE ALTERACAO DO REGIME DO RENDIMENTO MINIMO GARANTIDO",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "105215",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1696",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-06-08",
+        "pubLeg": "VIII",
+        "pubNr": "75",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/075/2000-06-08?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
