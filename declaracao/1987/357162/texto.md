@@ -1,0 +1,6 @@
+Declaração
+Segundo comunicação da 10.ª Delegação da Direcção-Geral da Contabilidade Pública junto do Ministério da Educação e Cultura, a declaração de transferências de verbas publicada no Diário da República, 1.ª série, n.º 300 (5.º suplemento), de 31 de Dezembro de 1986, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No cap. 03, onde se lê «div. 02, subdiv. 11 - Museu e Laboratório Antropológico, C. F. 3.02.0, C. E. 31.00 - Prestação de serviço em regime de tarefa ou outro, -, 150» deve ler-se «div. 03, subdiv. 11 - Museu e Laboratório Antropológico, C. F. 3.02.0, C. E. 31.00, alínea A - Prestações de serviço em regime de tarefa ou outro, -, 150».
+No cap. 04, onde se lê «div. 02 - Academia Nacional das Belas-Artes» deve ler-se «dív. 09, subdiv. 02 - Academia Nacional das Belas-Artes».
+No cap. 04, onde se lê «div. 10, subdiv. 19 - Museu Nacional de Arte Antiga, C. F. 7.01.0, C. E. 31.00 - Outras despesas» deve ler-se «div. 11, subdiv. 19 - Museu Nacional de Arte Antiga, C. F. 7.01.0, C. E. 31.00, alínea A - Outras despesas».
+Secretaria-Geral da Presidência do Conselho de Ministros, 16 de Fevereiro de 1987. - O Secretário-Geral, França Martins.
