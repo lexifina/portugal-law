@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que no dia 29 de Novembro de 1973 o embaixador chefe da missão de Portugal junto das Comunidades Europeias procedeu à entrega ao Conselho das mesmas Comunidades do instrumento de notificação relativo ao cumprimento dos processos de ratificação do Acordo entre os Estados Membros da Comunidade Europeia do Carvão e do Aço e a Comunidade Europeia do Carvão e do Aço, por um lado, e a República Portuguesa, por outro lado, assinado em Bruxelas em 22 de Julho de 1972 e aprovado por resolução da Assembleia Nacional de 14 de Dezembro de 1972, publicada no suplemento ao Diário do Governo, 1.ª série, n.º 290, de 15 de Dezembro de 1972.
+2. De acordo com o estabelecido na alínea 5 do seu artigo 33.º, o referido Acordo entrará em vigor em 1 de Janeiro de 1974.
+Direcção-Geral dos Negócios Económicos, 20 de Dezembro de 1973. - O Adjunto do Director-Geral, Luís Alberto de Vasconcelos Góis Fernandes Figueira.
