@@ -1,0 +1,6 @@
+Despacho Normativo n.º 210/93
+Considerando que o licenciado Mário Margarido Gonçalves, a exercer, em comissão de serviço, o cargo de vice-presidente do Instituto de Apoio à Emigração e às Comunidades Portuguesas, requereu, ao abrigo do n.º 7 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção do Decreto-Lei n.º 34/93, de 13 de Fevereiro, a criação do lugar de inspector-coordenador-chefe da carreira de inspecção no quadro a que pertence;
+Considerando o disposto no artigo 3.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, e nos n.os 6 e 8 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção que lhe foi conferida pelo artigo 1.º daquele diploma:
+Determina-se o seguinte:
+É criado no quadro único do pessoal dos organismos e serviços centrais e regionais do Ministério da Educação, aprovado pela Portaria n.º 226-A/88, de 13 de Abril (anexo II), um lugar de inspector-coordenador-chefe da carreira superior de inspecção, a extinguir quando vagar.
+Ministérios da Finanças e da Educação, 27 de Julho de 1993. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro da Educação, António Fernando Couto dos Santos.
