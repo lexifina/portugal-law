@@ -1,0 +1,39 @@
+# Acórdão do Tribunal Central Administrativo Sul de 1998-11-10, processo 00914/98
+
+**Acórdãos TCAS:** Acórdão do Tribunal Central Administrativo Sul
+
+**Processo:** 00914/98
+
+**Secção:** Secção do Contencioso Tributário - Tribunal Central Administrativo
+
+**Data do Acordão:** 11/10/1998
+
+**Relator:** José Maria da Fonseca Carvalho
+
+**Descritores:** NOTIFICAÇÃO IRREGULAR; FALTA DE INQUIRIÇÃO DE TESTEMUNHAS
+
+**Aditamento:** 1
+
+## Sumário
+
+1. A irregularidade constante das notas de notificação por não relacionarem o acto que
+
+transmitem nem o processo em que se inserem nem serem acompanhadas dos fundamentos da decisão do acto transmitido não afecta a perfeição do acto transmitido e consequentemente não afecta a sua validade
+
+2. Tal irregularidade apenas apode afectar a sua eficácia se entretanto se não considerar sanada
+
+3. Não se pode ter por ofensiva dos direitos de defesa do impugnante a sentença em que o m° juiz
+
+decidiu de imediato do pedido por ter entendido que o processo fornecia já todos os elementos
+
+necessários a uma decisão conscienciosa nos termos do preceituado no artigo 132 do CPT.
+
+4. Toma-se inútil ouvir as testemunhas sobre factos provados por documentos que a o impugnante
+
+aceita quanto à sua existência mas de que questiona apenas a sua qualificação para efeitos de dedução fiscal já que tal questão é meramente de direito
+
+5. A fundamentação de um acto administrativo pode também fazer-se por remissão para proposta ou
+
+informação desde que dessa proposta ou informação resulte claramente o sentido da decisão e não haja possibilidade alguma de confusão
+
+6. Reúne a condição de acto suficientemente fundamentado a deliberação de uma comissão de revisão distrital que fixa a matéria colectável por remissão para uma informação dos serviços tributários onde se descriminam determinadas verbas como não podendo ser consideradas como dedutíveis acabando a nova fixação por ser o somatório do rendimento pelo impugnante declarado mais as verbas não consideradas dedutíveis nessa informação.
