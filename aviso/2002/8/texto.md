@@ -1,0 +1,5 @@
+Aviso n.º 8/2002
+Por ordem superior se torna público que, em 17 de Janeiro de 2002 e em 18 de Dezembro de 2001, foram remetidas notas verbais, respectivamente pelo Ministério dos Negócios Estrangeiros da República Portuguesa e pelo Ministério das Relações Exteriores da República do Paraguai, em que se comunica terem sido cumpridas as formalidades requeridas pelos ordenamentos jurídicos de ambos os países para a aprovação do Acordo entre a República Portuguesa e a República do Paraguai sobre Cooperação nos Domínios da Educação, da Ciência, da Cultura, da Juventude e do Desporto, assinado em Lisboa em 25 de Novembro de 1999.
+O presente Acordo foi aprovado pelo Decreto do Presidente da República n.º 12/2000, publicado no Diário da República, 1.ª série-A, n.º 155, de 7 de Julho de 2000.
+Em conformidade com o disposto no seu artigo 26.º, o Acordo entrou em vigor em 17 de Janeiro de 2002.
+Direcção-Geral das Relações Bilaterais, 29 de Janeiro de 2002. - O Director-Geral, José Caetano de Campos de Andrada da Costa Pereira.
