@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que o embaixador do Japão na Haia depositou a 5 de Junho de 1986, junto do Ministério dos Negócios Estrangeiros do Reino dos Países Baixos, em conformidade com o artigo 20.º, parágrafo 2.º, da Convenção da Haia de 2 de Outubro de 1973 sobre a Lei Aplicável às Obrigações Alimentares, o instrumento de aceitação pelo Japão da citada Convenção, da qual Portugal é parte, e que entrará em vigor com respeito àquele país em 1 de Outubro de 1986, de acordo com o seu artigo 25.º
+Secretaria-Geral do Ministério, 8 de Julho de 1986. - O Director do Serviço Jurídico e de Tratados, Fernão Manuel Homem de Gouveia Favila Vieira.
