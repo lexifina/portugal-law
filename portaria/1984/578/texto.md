@@ -1,0 +1,31 @@
+Portaria n.º 578/84
+de 8 de Agosto
+Tem a prática demonstrado que o prazo até agora em vigor de prescrição dos vales de correio é excessivamento longo, sem qualquer aproveitamento para os utentes deste serviço e com pesados encargos para os CTT e para o Tesouro, resultantes da conservação de documentos em arquivo durante longo período de tempo.
+Reconhece-se também a necessidade de encurtar circuitos no que respeita à remessa de vales pagos. com vista à simplificação de procedimentos, sem que a segurança seja, por qualquer forma, prejudicada.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e do Equipamento Social, ao abrigo do n.º 5 do artigo 6.º do anexo I ao Decreto-Lei n.º 49368, de 10 de Novembro de 1969, acrescentado pelo artigo único do Decreto-Lei n.º 5/73, de 5 de Janeiro, que os artigos 4.º, 14.º, 23.º e 28.º da Portaria n.º 311/74, de 24 de Abril - este último artigo na redacção que lhe foi dada pelo n.º 2.º da Portaria n.º 721/80, de 25 de Setembro -, passem a ter a seguinte redacção:
+Artigo 4.º
+(Prescrição)
+1 - O prazo de prescrição dos vales é de 1 ano, a contar do dia imediato ao da sua emissão.
+2 - Todavia, os vales acerca dos quais haja processo pendente nos tribunais ou nos CTT só prescrevem 90 dias após a conclusão do respectivo processo, uma vez que, antes de findo o prazo normal de prescrição, qualquer dos interessados comunique aquele facto aos CTT.
+3 - Findo o prazo de prescrição, a importância dos vales não pagos reverte definitivamente a favor do Estado.
+Artigo 14.º
+(Revalidação)
+1 - Os vales e as autorizações de pagamento, findos os prazos referidos no artigo 3.º, podem ser sucessivamente revalidados até à data da prescrição.
+2 - A revalidação concede aos vales ou às autorizações de pagamento um novo período de validade igual ao primeiro.
+Artigo 23.º
+(Abonação ou reconhecimento das assinaturas)
+1 - As assinaturas dos beneficiários podem ainda ser reconhecidas ou abonadas por uma das seguintes formas:
+a) Reconhecimento notarial;
+b) Abonação de:
+Entidade consular, administrativa, policial, militar ou naval;
+Comerciante;
+Director ou chefe do serviço público ou estabelecimento particular a que o interessado pertence.
+2 - As abonações devem ser sempre autenticadas por meio de afixação do carimbo da entidade abonadora.
+3 - Quando o encarregado do pagamento não conhecer a entidade abonadora, pode exigir do apresentante do vale o reconhecimento notarial da sua assinatura ou a respectiva identificação, a qual obedecerá ao determinado no artigo anterior.
+Artigo 28.º
+(Remessa dos vales pagos)
+Os vales pagos são enviados directamente aos CTT pelos cofres pagadores.
+Ministérios das Finanças e do Plano e do Equipamento Social.
+Assinada em 17 de Julho de 1984.
+O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - O Ministro do Equipamento Social, João Rosado Correia.
