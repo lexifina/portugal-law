@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que foram trocados em Brasília, em 10 de Setembro de 1971, entre o Ministro dos Negócios Estrangeiros de Portugal e o Ministro dos Negócios Estrangeiros da República Federativa do Brasil, os instrumentos de ratificação da Convenção entre Portugal e a República Federativa do Brasil para Evitar a Dupla Tributação em Matéria de Impostos sobre o Rendimento, assinada em Lisboa em 22 de Abril de 1971 e aprovada para ratificação pelo Decreto-Lei n.º 244/71, de 2 de Junho.
+Direcção-Geral dos Negócios Económicos, 18 de Outubro de 1971. - O Director-Geral-Adjunto, Manuel de Almeida Coutinho.
