@@ -1,0 +1,5 @@
+Aviso n.º 143/99
+Por ordem superior se torna público que, por nota de 30 de Agosto de 1999, o Director-Geral da Organização Internacional do Trabalho, na sua qualidade de depositário da Convenção n.º 148 da OIT Relativa à Protecção dos Trabalhadores contra os Riscos Profissionais Devidos à Poluição do Ar, ao Ruído e às Vibrações nos Locais de Trabalho, adoptada em Genebra em 20 de Junho de 1977, comunicou ter o Governo de Portugal notificado, em 6 de Agosto de 1999, que a Convenção é aplicável ao território de Macau.
+Portugal é parte da Convenção, que foi aprovada, para ratificação, pelo Decreto n.º 106/80, de 15 de Outubro, publicado no Diário da República, 1.ª série, n.º 239, de 15 de Outubro de 1980, e estendida a Macau pelo Decreto do Presidente da República n.º 163/99, de 8 de Julho, publicado no Diário da República, 1.ª série-A, n.º 157, de 8 de Julho de 1999.
+Para ser publicado no Boletim Oficial de Macau.
+Comissão Interministerial sobre Macau, 10 de Setembro de 1999. - António Nunes de Carvalho Santana Carlos.
