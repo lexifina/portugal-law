@@ -1,0 +1,18 @@
+Decreto-Lei n.º 241/76
+de 7 de Abril
+Atendendo ao que representou a maioria absoluta dos eleitores com residência habitual nos lugares de Corroios, Santa Marta de Corroios e Vale de Milhaço, pertencentes à freguesia de Amora, do concelho do Seixal, no sentido de ser criada a freguesia de Corroios, com sede na povoação do mesmo nome;
+Considerando que na área da circunscrição a criar já existem os equipamentos colectivos necessários à organização da vida das populações envolvidas;
+Considerando que tanto a freguesia a criar como a de origem ficarão a dispor de recursos suficientes para ocorrer aos seus encargos;
+Considerando os pareceres favoráveis da comissão administrativa do Município do Seixal, da Junta Distrital de Setúbal e do governador civil do mesmo distrito;
+Considerando que se verificam as demais condições enumeradas no artigo 9.º do Código Administrativo e se cumpriram as formalidades exigidas pela mesma disposição legal;
+Considerando que aquela representação há muito foi deduzida e se encontra instruída, pelo que, excepcionalmente, se não deve aguardar nova regulamentação legal sobre a matéria;
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É criada no concelho do Seixal a freguesia de Corroios, com sede na povoação do mesmo nome.
+Art. 2.º A freguesia de Corroios é classificada de 1.ª ordem.
+Art. 3.º Os limites da nova freguesia são definidos por uma linha que, partindo de um ponto localizado junto à ponte-cais do Corpo de Marinheiros, segue pela cala que se dirige para a comporta do Carrasco, até alcançar o meio desta última, continuando, então, pelo caminho que margina a estrema da Quinta do Castelo e vai entroncar na estrada nacional n.º 10, junto ao quilómetro 6,730; depois de atravessar aquela via de comunicação, avança pelo eixo da estrada de acesso à Fábrica de Explosivos Pinheiro da Cruz, cruzando a Auto-Estrada do Sul pela passagem inferior ali existente, e prossegue pela referida estrada até atingir a vedação das instalações da mencionada Fábrica, que passa a acompanhar, primeiro, no sentido poente, seguidamente, para sudoeste e, por último, em sentido nascente, até encontrar a linha de água denominada Vala de Santa Marta; aí, flecte para sul, progredindo pela aludida linha de água em direcção à lagoa do Marquinho, situada nos limites comuns dos concelhos de Seixal e Sesimbra, e dirige-se, depois, para poente, pelos mesmos limites, até ao seu ponto de convergência com os do concelho de Almada; a partir daqui, passa a acompanhar os limites comuns dos concelhos de Seixal e Almada, até alcançar a ponte-cais do Corpo de Marinheiros, onde se iniciou a descrição.
+Art. 4.º A Junta de Freguesia ora criada fica sujeita ao regime de tutela instituído para a generalidade das juntas de freguesia do País, enquanto esse regime vigorar.
+Art. 5.º A Comissão Administrativa do Município do Seixal procederá, no prazo de noventa dias, a contar da publicação do presente decreto-lei, à colocação de marcos onde se tornem necessários, por forma que fiquem bem patentes os limites fixados no artigo 3.º
+José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa.
+Promulgado em 27 de Março de 1976.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
