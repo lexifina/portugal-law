@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que, segundo comunicação da Embaixada da Suíça em Lisboa ao Ministério dos Negócios Estrangeiros, o Governo Belga, invocando o benefício resultante do artigo 3 bis do Arranjo de Madrid revisto pela última vez em Nice em 15 de Junho de 1957 sobre registo internacional de marcas de fábrica e de comércio, declarou que a protecção decorrente da inscrição internacional não será extensível à Bélgica sem que o detentor da marca o solicite formalmente.
+Direcção-Geral dos Negócios Económicos e Consulares, 14 de Maio de 1963. - O Director-Geral, Albano Pires Fernandes Nogueira.
