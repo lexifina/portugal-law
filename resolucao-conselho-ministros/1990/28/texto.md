@@ -1,0 +1,9 @@
+Resolução do Conselho de Ministros n.º 28/90
+Face à necessidade de se proceder ao reforço dos meios financeiros de determinadas entidades públicas, foi autorizado o Governo a emitir dívida pública em 1990, até 80 milhões de contos, ao abrigo do n.º 3 do artigo 12.º da Lei n.º 101/89, de 29 de Dezembro, como contrapartida da compra de créditos detidos por aquelas entidades, ao valor nominal deduzido das respectivas provisões específicas e do pro rata das provisões gerais que se encontram constituídas.
+Nos termos do n.º 4 da mesma disposição legal, cabe ao Governo estabelecer as condições de compra dos referidos créditos.
+Assim:
+Nos termos das alíneas c) e g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:
+1 - Compete ao Ministro das Finanças, com a faculdade de delegar, determinar quais as instituições a considerar para efeitos de aquisição de créditos pelo Estado ao abrigo do disposto nos n.os 3 e 4 do artigo 12.º da Lei n.º 101/89, de 29 de Dezembro, no corrente ano económico, e, bem assim, fixar os limites para cada uma delas, dentro da verba global para o efeito estabelecida na alínea a) do n.º 3 do referido artigo 12.º da Lei n.º 101/89.
+2 - O pagamento dos créditos a adquirir pelo Estado no âmbito desta resolução será efectuado com títulos da dívida pública ou certificados representativos dos mesmos, a emitir nos termos da Resolução do Conselho de Ministros, n.º 15/90, de 12 de Abril, ao abrigo do artigo 2.º da Lei n.º 12/90, de 7 de Abril.
+3 - A compra destes créditos será efectuada mediante contrato escrito, cuja minuta será previamente submetida a aprovação do Ministro das Finanças, que dispõe da faculdade de delegar, juntamente com uma lista discriminativa das operações que o contrato abrange e correspondentes valores nominais e provisões acima referidos.
+Presidência do Conselho de Ministros, 26 de Julho de 1990. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
