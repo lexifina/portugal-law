@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, em 28 de Outubro de 1979, o Governo Francês depositou, junto do Ministério dos Negócios Estrangeiros dos Países Baixos, o instrumento de aceitação da adesão da República de Singapura à Convenção sobre a Obtenção de Provas no Estrangeiro em Matéria Civil e Comercial, concluída na Haia em 18 de Março de 1970, de que Portugal já é parte. Aquele instrumento diplomático entrou em vigor, com referência àquele país, em 27 de Dezembro de 1979, apenas nas relações bilaterais com a França.
+Secretaria-Geral do Ministério, 3 de Janeiro de 1980. - O Chefe dos Serviços Jurídicos e de Tratados, Rui Eduardo Barbosa de Medina.
