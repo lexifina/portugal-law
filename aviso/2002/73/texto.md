@@ -1,0 +1,4 @@
+Aviso n.º 73/2002
+Por ordem superior se torna público que, agindo na sua qualidade de depositário da Convenção Relativa à Protecção do Património Mundial, Cultural e Natural, adoptada em Paris em 16 de Novembro de 1972, o director-geral da Organização das Nações Unidas para a Educação, Ciência e Cultura (UNESCO) comunicou terem os Barbados depositado o seu instrumento de adesão à citada Convenção em 9 de Abril de 2002, entrando em vigor, para este país, em 9 de Julho de 2002.
+Portugal é parte da mesma, tendo depositado o respectivo instrumento de ratificação em 2 de Outubro de 1980, conforme publicado no Diário da República, 1.ª série, n.º 264, de 14 de Novembro de 1980.
+Direcção de Serviços das Organizações Políticas Internacionais, 24 de Junho de 2002. - O Director de Serviços, Rui Filipe Monteiro Belo Macieira.
