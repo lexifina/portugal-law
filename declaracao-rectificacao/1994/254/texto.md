@@ -1,0 +1,8 @@
+Declaração de rectificação n.º 254/94
+Para os devidos efeitos se declara que o Decreto Regulamentar n.º 30/94, publicado no Diário da República, n.º 202, de 1 de Setembro de 1994, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 1.º, n.º 2, na alínea b), onde se lê «Oceânicas;» deve ler-se «Oceânicos;» e na alínea c), onde se lê «Navios-Patrulhas;» deve ler-se «Navios Patrulhas;».
+No artigo 12.º, n.º 1, na alínea d), onde se lê «à Flotilha e esquadrilhas;» deve ler-se «à Flotilha e às esquadrilhas;» e na alínea e), onde se lê «à Flotilha e esquadrilhas;» deve ler-se «à Flotilha e às esquadrilhas;».
+No artigo 14.º, na epígrafe, onde se lê «Esquadrilha de Escoltas Oceânicas» deve ler-se «Esquadrilha de Escoltas Oceânicos» e onde se lê «À Esquadrilha de Escoltas Oceânicas (EEO)» deve ler-se «À Esquadrilha de Escoltas Oceânicos (EEO)» e na alínea a), onde se lê «prontidão e do desempenho» deve ler-se «prontidão e de desempenho».
+No artigo 20.º, na epígrafe, onde se lê «Esquadrilha de Navios-Patrulhas» deve ler-se «Esquadrilha de Navios Patrulhas» e onde se lê «À Esquadrilha de Navios-Patrulhas (ENP) compete:» deve ler-se «À Esquadrilha de Navios Patrulhas (ENP) compete:».
+No artigo 57.º, n.º 2, onde se lê «oceânicas e de navios-patrulhas substituem as actuais flotilhas de escoltas oceânicas e de navios-patrulhas,» deve ler-se «oceânicos e de navios patrulhas substituem as actuais flotilhas de escoltas oceânicos e de navios patrulhas,».
+Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Novembro de 1994. - O Secretário-Geral, França Martins.
