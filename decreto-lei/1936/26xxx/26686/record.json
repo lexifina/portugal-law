@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1936/06/13800/06680668.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1936-06-15",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "2a88faf7e6d9b5a33ad1338bc51cf1734d7bbb453c1023714cb324707075b9e6",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.2,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "b79d5492976cd079c6a8e518b74afecf355828abdb37a10842579c4d6b4cca26",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 127
 }
