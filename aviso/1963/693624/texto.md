@@ -1,0 +1,5 @@
+Aviso
+Por aviso publicado em 8 de Junho de 1963 tornou-se público que o Governo do Tanganhica notificara o Governo Belga, por comunicação recebida em 3 de Dezembro de 1962, de que se considerava obrigado pelas disposições da Convenção internacional para a unificação de certas regras em matéria de conhecimentos e Protocolo de assinatura, assinados em Bruxelas a 25 de Agosto de 1924, e cuja aplicação tinha já sido tornada extensiva àquele território antes da sua acessão à independência.
+Posteriormente, o Governo do Tanganhica informou o Governo Belga de que a mencionada notificação deverá ser considerada como uma adesão do Tanganhica àqueles actos internacionais, e isso a partir de 9 de Dezembro de 1961, data da sua independência, e que em nenhum caso poderá ser interpretada no sentido de que o referido país se considera obrigado pela adesão feita em seu nome pelo Reino Unido da Grã-Bretanha e da Irlanda do Norte antes da mesma independência.
+Este aviso substitui o anteriormente publicado sobre o assunto.
+Direcção-Geral dos Negócios Económicos e Consulares, 18 de Julho de 1963. - O Director-Geral, Albano Pires Fernandes Nogueira.
