@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que o Ministério dos Negócios Estrangeiros enviou à Embaixada da República Socialista da Checoslováquia uma nota verbal, datada de 6 de Fevereiro de 1987, informando que a parte portuguesa deu já cumprimento aos preceitos constitucionais relativos à elaboração e entrada em vigor do Acordo sobre Protecção das Indicações de Proveniência, das Denominações de Origem e de Outras Denominações Geográficas e Similares entre o Governo da República Portuguesa e o Governo da República Socialista da Checoslováquia, assinado em Lisboa em 10 de Janeiro de 1986 e publicado no Diário da República, 1.ª série, n.º 29, de 4 de Fevereiro de 1987.
+A Embaixada da República Socialista da Checoslováquia enviara ao Ministério dos Negócios Estrangeiros uma nota verbal, datada de 9 de Julho de 1986, comunicando estarem cumpridas as mesmas formalidades por parte da Checoslováquia.
+Nesta conformidade, segundo o disposto no seu artigo 14.º, o Acordo em apreço entra em vigor em 7 de Março de 1987.
+Direcção-Geral dos Negócios Político-Económicos, 6 de Fevereiro de 1987. - O Director-Geral, José Cutileiro.
