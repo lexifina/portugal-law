@@ -1,0 +1,37 @@
+Portaria n.º 483/90
+de 29 de Junho
+O Decreto Regulamentar n.º 52/84, de 6 de Agosto, que deu nova redacção aos artigos 10.º e 20.º do Regulamento Geral dos Hospitais, aprovado pelo Decreto-Lei n.º 48358, de 27 de Abril de 1968, permite que os serviços de natureza administrativa dos estabelecimentos hospitalares se estruturem em repartições e ou secções, de acordo com as necessidades de cada um desses estabelecimentos.
+Verificando-se que o quadro de pessoal do Hospital de Santa Maria, aprovado pela Portaria n.º 661/80, de 16 de Setembro, não insere tal departamentalização e tornando-se necessário que a mesma se concretize para melhor rentabilização dos seus serviços administrativos:
+Manda o Governo, pelos Ministros das Finanças e da Saúde, observado o disposto no n.º 1 do artigo 2.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, e ao abrigo do n.º 2 do artigo 1.º do Decreto-Lei n.º 59/76, de 23 de Janeiro, e do artigo 10.º do Decreto-Lei n.º 48358, de 27 de Abril de 1968, com a nova redacção dada pelo Decreto Regulamentar n.º 52/84, de 6 de Agosto, o seguinte:
+1.º O quadro de pessoal do Hospital de Santa Maria, aprovado pela Portaria n.º 661/80, de 16 de Setembro, e posteriormente alterado pelas Portarias n.º 310/82, de 22 de Março, 952/82, de 8 de Outubro, 192/83, de 2 de Março, 345/83, de 29 de Março, 807-V1/83 e 807-X3/83, ambas de 30 de Julho, 481/84, de 20 de Julho, 886/84, de 5 de Dezembro, 963/84, de 26 de Dezembro, 39/85, de 19 de Janeiro, 515/85, de 29 de Julho, 919/85, de 30 de Novembro, 310/87, de 14 de Abril, 556/87, de 6 de Julho, 915/87, de 2 de Dezembro, 961/87, de 29 de Dezembro, 150/88, de 10 de Março, 592/88, de 27 de Agosto, 785/88, de 9 de Dezembro, 796/88, de 10 de Dezembro, 160/89, de 2 de Março, 218/89 e 219/89, ambas de 16 de Março, e 755/89, de 1 de Setembro, é de novo alterado, de acordo com o quadro que se segue:
+Quadro de pessoal do Hospital de Santa Maria
+(ver documento original)
+2.º Os lugares de chefe de repartição e de chefe de secção correspondem às respectivas unidades orgânicas administrativas, de acordo com o indicado no anexo I.
+3.º Os encargos resultantes da presente portaria serão satisfeitos por conta das disponibilidades orçamentais do Hospital de Santa Maria.
+Ministérios das Finanças e da Saúde.
+Assinada em 14 de Maio de 1990.
+Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Saúde, Albino Aroso Ramos, Secretário de Estado Adjunto do Ministro da Saúde.
+
+Anexo I, a que se refere o n.º 2.º
+Os serviços de natureza administrativa do Hospital de Santa Maria ficam departamentalizados da forma que se segue, correspondendo-lhes os lugares de chefe de repartição e chefe de secção constantes do quadro anexo à presente portaria:
+1) Repartição de Pessoal, com as seguintes secções:
+Secção de Informação, Expediente e Arquivo;
+Secção de Gestão de Pessoal;
+Secção de Vencimentos e Controlo de Assiduidade;
+2) Repartição dos Serviços Financeiros, com:
+Secção de Despesa;
+Secção de Receita;
+Secção de Contabilidade Analítica;
+3) Repartição de Aprovisionamento, com:
+Secção de Aquisições;
+Secção de Gestão de Stocks;
+Secção de Património;
+4) Repartição de Estatística Hospitalar e Registo de Doentes, com:
+Secção de Estatística Hospitalar e Registo de Doentes;
+Secção de Registo de Doentes (Internamento);
+5) Repartição do Serviço de Doentes/Ambulatório, com:
+Secção do Serviço de Urgência;
+Secção das Consultas Externas;
+6) Repartição de Apoio Administrativo, com:
+Secção de Secretaria-Geral;
+Secção de Informação e Relações Públicas.
