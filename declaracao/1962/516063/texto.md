@@ -1,0 +1,4 @@
+Declaração
+Declara-se, para os devidos efeitos, que entre o original, arquivado nesta Secretaria-Geral, e o texto do Decreto n.º 44233, publicado pelo Ministério das Corporações e Previdência Social no Diário do Governo n.º 55, 1.ª série, de 12 de Março do ano em curso, existe a seguinte divergência, que assim se rectifica:
+No artigo 7.º, onde se lê: «A suspensão e a anulação dos contratos nos casos previstos neste diploma não poderão ser invocadas com razão de justa causa para impedimento, não isentando, ...», deve ler-se: «A suspensão e a anulação dos contratos nos casos previstos neste diploma não poderão ser invocadas como razão de justa causa para despedimento, não isentando, ...».
+Secretaria-Geral da Presidência do Conselho, 19 de Abril de 1962. - O Secretário-Geral, Diogo de Castelbranco de Paiva de Faria Leite Brandão.
