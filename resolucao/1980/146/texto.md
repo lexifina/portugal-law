@@ -1,0 +1,3 @@
+Resolução n.º 146/80
+Tendo o administrador por parte do Estado na CELBI, Dr. Luís de Melo Breyner Pereira, terminado o seu mandato, o Conselho de Ministros, reunido em 15 de Abril de 1980, resolveu reconduzi-lo para o mandato seguinte (1980-1983), ao abrigo do artigo 2.º do estatuto aprovado pelo Decreto-Lei n.º 831/76, de 25 de Novembro, conjugado com o artigo 1.º, n.º 1, do mesmo diploma e com o artigo 1.º do Decreto-Lei n.º 76-C/75, de 21 de Fevereiro, e artigos 1.º e 3.º do Decreto-Lei n.º 40833, de 26 de Outubro de 1956, e ainda de acordo com o n.º 2 do artigo 8.º dos estatutos da empresa.
+Presidência do Conselho de Ministros, 15 de Abril de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
