@@ -1,0 +1,8 @@
+Declaração de rectificação n.º 81-B/95
+Para os devidos efeitos se declara que o Decreto-Lei n.º 51/95, publicado no Diário da República, n.º 67, de 20 de Março de 1995, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 5.º, n.º 3, onde se lê «chefe de repartição de finanças» deve ler-se «chefe da repartição de finanças».
+No artigo 8.º, onde se lê «Apresentada a declaração [...] serão em seguida entregues» deve ler-se «Apresentada a declaração [...] será em seguida entregue».
+No artigo 26.º, n.º 1, onde se lê «quer por decisão judicial da entidade ou tribunal competente» deve ler-se «quer por decisão da entidade ou tribunal competente».
+Na alínea a) do n.º 1 do artigo 1.º do Regulamento da Contribuição Especial, constante do anexo I, onde se lê «Na área dos municípios de Alcochete, Montijo e Moita e das freguesias de Pinhal Novo e Rio Frio, do Município de Palmela;» deve ler-se «Na área dos municípios de Alcochete, Montijo e Moita e freguesia de Pinhal Novo do município de Palmela;».
+Na alínea b) do n.º 1 do artigo 1.º do Regulamento da Contribuição Especial, constante do anexo I, onde se lê «Na área das freguesias de Palmela, Quinta do Anjo e Cabanas do município de Palmela e da freguesia de Samora Correia do município de Benavente.» deve ler-se «Na área das freguesias de Palmela e Quinta do Anjo do município de Palmela e da freguesia de Samora Correia do município de Benavente.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Junho de 1995. - O Secretário-Geral, França Martins.
