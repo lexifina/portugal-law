@@ -1,0 +1,21 @@
+Portaria n.º 669/90
+de 14 de Agosto
+Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto no n.º 2 do artigo 61.º do Decreto-Lei n.º 519-F2/79, de 29 de Dezembro, tendo presente o estabelecido no artigo 59.º do Decreto-Lei n.º 92/90, de 17 de Março, o seguinte:
+1.º A participação emolumentar atribuída aos chefes de secção da Conservatória dos Registos Centrais e aos oficiais dos registos e do notariado, a que se reporta o n.º 1 do artigo 61.º do Decreto-Lei n.º 519-F2/79, de 29 de Dezembro, terá por limite a percentagem de 15% da receita global líquida da totalidade dos serviços apurada em cada mês a favor do Cofre dos Conservadores, Notários e Funcionários de Justiça.
+2.º Por conta da verba apurada nos termos do número anterior, a participação emolumentar dos chefes de secção e dos oficiais dos registos e do notariado é determinada pela aplicação das seguintes percentagens:
+a) Até 1500000$00, 11%;
+b) Sobre o excedente, 4% para os chefes de secção e oficiais dos registos e 6,5% para os oficiais do notariado.
+3.º A participação apurada nos termos do número precedente será distribuída por todos os chefes de secção e oficiais, na proporção dos respectivos vencimentos de categoria, sendo, para este efeito, o vencimento de chefe de secção multiplicado pelo factor 1,1.
+4.º Ficam assegurados aos chefes de secção e aos oficiais dos registos e do notariado, respectivamente, 65% e 60% do seu vencimento de categoria.
+5.º Para efeitos de aplicação do disposto no n.º 2.º, a receita líquida mensal dos serviços do registo civil e dos cartórios privativos do protesto de letras é multiplicada pelos factores 5, 6 e 8, conforme sejam de 3.ª, 2.ª e 1.ª classes.
+6.º Em caso algum o quantitativo a perceber poderá exceder as seguintes percentagens da participação emolumentar do conservador ou do notário:
+70% quanto aos chefes de secção e ajudantes;
+60% quanto aos ajudantes das conservatórias autónomas do registo de automóveis;
+40% quanto aos escriturários;
+30% quanto aos escriturários das conservatórias autónomas do registo de automóveis.
+7.º As participações emolumentares previstas nesta portaria são actualizadas sempre que o forem os vencimentos de categoria.
+8.º São revogadas as portarias sobre a matéria nesta regulamentada.
+9.º A presente portaria produz efeitos a partir de 1 de Janeiro de 1990.
+Ministério da Justiça.
+Assinada em 20 de Julho de 1990.
+O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio.
