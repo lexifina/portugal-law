@@ -1,0 +1,7 @@
+Despacho
+O Decreto-Lei n.º 645/76, de 30 de Julho, ao definir um «punhado de medidas pontuais dirigidas a necessidades imediatas e incidentes, as mais delas, apenas sobre publicações editadas por empresas estatizadas ou sob intervenção do Estado», consagrou, entre outras, a proibição de acumulação de postos de trabalho no sector estatizado ou sob intervenção do Estado, da Comunicação Social.
+A breve trecho, porém, veio a verificar-se a necessidade de enquadrar esta medida sectorial num contexto mais vasto e global, de forma a abranger todos, ou quase todos, os sectores de actividade nacional.
+Por outro lado, torna-se premente a definição de critérios equitativos e objectivos que permitam a delimitação rigorosa dos casos excepcionais que a própria lei prevê como susceptíveis de serem considerados.
+Nesta óptica, e por se tratar de um problema melindroso que não se compadece com soluções precipitadas, as quais, a serem tomadas, poderão não ter na devida conta a complexidade da situação, sancionando favoravelmente as injustiças a que se pretende obviar, considerou-se indispensável proceder à clarificação e regulamentação do Decreto-Lei n.º 645/76, na parte que diz respeito à proibição do pluriemprego.
+Nestes termos, ouvido o Conselho de Ministros, determino que o prazo a que se refere o n.º 2 do artigo 2.º do Decreto-Lei n.º 645/76, de 30 de Julho, seja prorrogado por trinta dias.
+Presidência do Conselho de Ministros, 13 de Outubro de 1976. - O Secretário de Estado da Comunicação Social, Manuel Alegre de Melo Duarte.
