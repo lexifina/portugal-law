@@ -1,0 +1,46 @@
+Decreto-Lei n.º 175/85
+de 22 de Maio
+Considerando que a cooperação de Portugal com os países em vias de desenvolvimento é parte integrante das relações internacionais do País;
+Considerando que as intervenções no âmbito da cooperação têm um campo de acção extremamente variado e pluridisciplinar, o que implica, necessariamente, a intervenção de vários sectores da Administração Pública;
+Considerando a recente existência deste sector nas relações externas portuguesas;
+Considerando que institucionalmente cabe ao Ministério dos Negócios Estrangeiros a orientação global da política externa, na qual a cooperação tem particular relevância, e que só uma visão integrada de várias acções permitirá a resposta articulada e o delinear de uma política coerente de cooperação:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição da República Portuguesa, o seguinte:
+Artigo 1.º É criada, no Ministério dos Negócios Estrangeiros, a Comissão Interministerial para a Cooperação, órgão de consulta e articulação das actividades desenvolvidas na área da cooperação.
+Art. 2.º - 1 - A Comissão Interministerial para a Cooperação, abreviadamente designada «CIC», será presidida pelo Ministro dos Negócios Estrangeiros, que poderá delegar a competência no Secretário de Estado da Cooperação, e dela farão parte representantes dos seguintes departamentos estatais, a designar pelos respectivos titulares:
+a) Defesa Nacional;
+b) Administração Interna;
+c) Justiça;
+d) Finanças e do Plano;
+e) Educação;
+f) Trabalho;
+g) Segurança Social;
+h) Saúde;
+i) Agricultura;
+j) Comércio e Turismo;
+l) Indústria e Energia;
+m) Cultura;
+n) Equipamento Social;
+o) Qualidade de Vida;
+p) Mar;
+q) Administração Pública;
+r) Comunicação Social.
+2 - Os representantes dos departamentos estatais referidos no número anterior deverão, preferencialmente, ser designados de entre o pessoal dirigente cujo serviço possua competência legal ou cujo âmbito de actividades se insira na área da cooperação.
+3 - Os membros da CIC poderão fazer-se acompanhar dos colaboradores técnicos que julguem necessários para o bom andamento dos trabalhos.
+4 - O director-geral de Cooperação, o presidente do Instituto para a Cooperação Económica e o director-geral das Relações Culturais Externas, do Ministério dos Negócios Estrangeiros, são membros, por inerência, da CIC.
+Art. 3.º Compete à CIC:
+a) Prestar informações ao Ministro dos Negócios Estrangeiros sobre os assuntos que permitam uma correcta execução da política de cooperação;
+b) Contribuir, no plano metodológico, para a harmonização de acções interdepartamentais de cooperação, com vista à sua maior rendibilidade;
+c) Dar parecer sobre os programas, projectos e intervenções no campo da cooperação, quando para tal for solicitada pelo respectivo presidente;
+d) Analisar, por iniciativa própria, quaisquer assuntos relativos à cooperação.
+Art. 4.º A CIC reúne em plenário ordinariamente 2 vezes por ano e extraordinariamente sempre que convocada pelo presidente.
+Art. 5.º - 1 - A CIC poderá reunir-se por secções por determinação do seu presidente, para tratar de assuntos que requeiram análise especializada nos âmbitos de acção actuantes na cooperação.
+2 - Poderão ser convocados pelo presidente da CIC a participar nas reuniões sectoriais, ou para elaboração de pareceres, quaisquer técnicos de reconhecida competência ligados a entidades públicas e especialistas nos assuntos a debater constantes da ordem de trabalhos.
+Art. 6.º O exercício das funções de membro da CIC não será remunerado.
+Art. 7.º O Gabinete do Secretário de Estado da Cooperação assegurará, durante as reuniões e no seu intervalo, o secretariado de apoio.
+Art. 8.º O regimento interno da CIC será aprovado por portaria do Ministro dos Negócios Estrangeiros.
+Visto e aprovado em Conselho de Ministros de 14 de Março de 1985. - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Eduardo Ribeiro Pereira - Jaime José Matos da Gama - Mário Ferreira Bastos Raposo - Ernâni Rodrigues Lopes - João de Deus Rogado Salvador Pinheiro - Amândio Anes de Azevedo - António Manuel Maldonado Gonelha - Álvaro Roque de Pinho Bissaia Barreto - José Veiga Simão - Joaquim Martins Ferreira do Amaral - António Antero Coimbra Martins - Carlos Montez Melancia - Júlio Miranda Calha - José de Almeida Serra.
+Promulgado em 6 de Maio de 1985.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 9 de Maio de 1985.
+O Primeiro-Ministro, Mário Soares.
