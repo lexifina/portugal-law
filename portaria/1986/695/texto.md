@@ -1,0 +1,18 @@
+Portaria n.º 695/86
+de 20 de Novembro
+Atendendo a que as obrigações estatísticas decorrentes do Tratado CECA se revestem de uma especificidade técnica que se afasta da vocação e competências do Instituto Nacional de Estatística, encontra-se a Direcção-Geral da Indústria em situação privilegiada para realizar as operações estatísticas exigidas. Assim, reconhecendo-se toda a vantagem na participação da Direcção-Geral da Indústria neste domínio, importa definir a posição jurídica e institucional deste organismo face ao Instituto Nacional de Estatística e aos órgãos estatísticos das Comunidades.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelos Secretários de Estado do Planeamento e Desenvolvimento Regional e da Indústria e Energia, o seguinte:
+1.º É conferida à Direcção-Geral da Indústria, Serviço de Estudos, Planeamento e Estatística, a qualidade de órgão delegado do Instituto Nacional de Estatística, ao abrigo do n.º 1 do artigo 11.º do Decreto-Lei n.º 427/73, de 25 de Agosto.
+2.º Na qualidade de órgão delegado, poderá a Direcção-Geral da Indústria, Serviço de Estudos, Planeamento e Estatística, realizar, no âmbito das obrigações estatísticas nacionais decorrentes do Tratado CECA, as operações de competência do Instituto Nacional de Estatística previstas no artigo 13.º do Decreto-Lei n.º 427/73, de 25 de Agosto, nos termos e condições estabelecidos em protocolo firmado entre os dois organismos.
+§ único. Sem prejuízo da coordenação global assumida pelo Instituto Nacional de Estatística no que se refere às informações a fornecer ao Serviço de Estatística das Comunidades Europeias, a Direcção-Geral da Indústria, Serviço de Estudos, Planeamento e Estatística, exercerá, relativamente à mesma área, por delegação do Instituto Nacional de Estatística, as funções de coordenação no âmbito do Ministério da Indústria e Comércio.
+3.º O protocolo a que se refere o número anterior estabelecerá o programa de actividades, delimitará a área de intervenção e de colaboração dos dois organismos e será objecto de revisão anual.
+4.º A Direcção-Geral da Indústria, Serviço de Estudos, Planeamento e Estatística, fica sujeita às normas do Sistema Estatístico Nacional e particularmente ao princípio do segredo estatístico estabelecido no artigo 15.º do Decreto-Lei n.º 427/73, de 25 de Agosto.
+5.º A Direcção-Geral da Indústria, Serviço de Estudos, Planeamento e Estatística fica investida de todas as prerrogativas inerentes à qualidade de órgão delegado do Instituto Nacional de Estatística.
+6.º A participação em reuniões das Comunidades Europeias, em particular do Serviço de Estatística, EUROSTAT, e de outros organismos internacionais, que versem matérias estatísticas relacionadas com a área objecto da presente delegação de competências, deverá ser preparada e assegurada conjuntamente pelo Instituto Nacional de Estatística e pela Direcção-Geral da Indústria, Serviço de Estudos, Planeamento e Estatística.
+7.º Sem prejuízo dos princípios que vierem a ser definidos no quadro da reestruturação do Sistema Estatístico Nacional em estudo, a delegação de competências conferida pela presente portaria cessará:
+a) Por mútuo acordo, a qualquer momento;
+b) Por iniciativa do Instituto Nacional de Estatística ou da Direcção-Geral da Indústria, Serviço de Estudos, Planeamento e Estatística, no início do segundo ano civil seguinte àquele em que tal for solicitado.
+Secretarias de Estado do Planeamento e Desenvolvimento Regional e da Indústria e Energia.
+Assinada em 7 de Novembro de 1986.
+O Secretário de Estado do Planeamento e Desenvolvimento Regional, José Albino de Silva Peneda. - O Secretário de Estado da Indústria e Energia, Luís Manuel Pêgo Todo-Bom.
