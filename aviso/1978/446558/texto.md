@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que em 12 de Dezembro de 1977 o Governo da Checoslováquia depositou junto do Secretário-Geral das Nações Unidas a declaração de que não considera válida a reserva formulada pela República Popular da China relativamente aos parágrafos 2, 3 e 4 do artigo 37.º da Convenção de Viena de 18 de Abril de 1961 sobre Relações Diplomáticas (denegação por parte do Governo de Pequim de privilégios ao pessoal não diplomado das missões diplomáticas) de que Portugal é parte sem reservas.
+Secretaria-Geral do Ministério, 10 de Fevereiro de 1978. - O Chefe dos Serviços Jurídicos e de Tratados, Mário d'Oliveira Neves.
