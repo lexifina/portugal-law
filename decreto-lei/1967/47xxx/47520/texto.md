@@ -1,0 +1,13 @@
+Decreto-Lei n.º 47520
+A Celulose do Tejo, sociedade anónima de responsabilidade limitada, com sede em Lisboa, requereu ao Conselho de Ministros, ao abrigo do disposto no Decreto n.º 36824, de 9 de Abril de 1948, a declaração da utilidade pública, com carácter de urgência, da expropriação dos terrenos de que necessita para construção de uma fábrica de pasta de celulose pelo sulfato, a instalar no distrito de Castelo Branco, nos termos do respectivo alvará.
+A Lei n.º 2005, de 14 de Março de 1945, faculta às empresas exploradoras de indústrias de interesse nacional o direito de expropriação por utilidade pública dos imóveis indispensáveis à sua conveniente instalação e acesso e o citado Decreto n.º 36824 regulamenta a forma de dar cumprimento àquele diploma legislativo.
+Observados os trâmites legais, o Conselho de Ministros deliberou deferir o pedido da empresa. Nos termos do Decreto n.º 36824, deve fazer-se por decreto-lei a declaração de utilidade pública, sem embargo de na fase judicial do processo se seguirem os preceitos da Lei n.º 2030 e legislação complementar.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É declarada a utilidade pública e a urgência da expropriação, requerida pela firma Celulose do Tejo, S. A. R. L., dos prédios de que necessita para instalação de uma fábrica de pasta de celulose pelo sulfato, nos termos aprovados pela Secretaria de Estado da Indústria.
+§ único. A descrição dos prédios a que se refere o corpo deste artigo consta de relação assinada pelo secretário-geral da Presidência do Conselho, a publicar na 2.ª série do Diário do Governo.
+Art. 2.º No processo de expropriação serão observados os trâmites prescritos na legislação geral sobre expropriações por utilidade pública.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 3 de Fevereiro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Manuel Rafael Amaro da Costa.
+
+Para ser presente à Assembleia Nacional.
