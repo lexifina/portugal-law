@@ -1,0 +1,5 @@
+Aviso n.º 175/2004
+Por ordem superior torna-se público que, em 1 de Junho e em 21 de Julho de 2004, foram emitidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros da República da Estónia e pela Embaixada de Portugal em Helsínquia, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação do Acordo entre a República da Estónia para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Imposto sobre o Rendimento, assinado em Tallinn em 13 de Maio de 2003.
+Por parte de Portugal, o Acordo foi aprovado pela Resolução da Assembleia da República n.º 47/2004, de 8 de Julho, e ratificado pelo Decreto do Presidente da República n.º 33/2004, de 8 de Julho, ambos publicados no Diário da República, 1.ª série-A, n.º 159, da mesma data.
+Nos termos do artigo 29.º do Acordo, este Acordo entrou em vigor na data da última dessas notificações, ou seja, à data da recepção da Nota Verbal da República Portuguesa, em 23 de Julho de 2004.
+Direcção-Geral das Relações Bilaterais, 5 de Novembro de 2004. - O Director dos Serviços da Europa, Pedro Costa Pereira.
