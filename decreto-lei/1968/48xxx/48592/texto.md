@@ -1,0 +1,9 @@
+Decreto-Lei n.º 48592
+O Decreto-Lei n.º 45561, de 13 de Fevereiro de 1964, tornou aplicável às expropriações a efectuar pela Câmara Municipal de Lisboa e Junta Autónoma de Estradas para a execução dos trabalhos rodoviários considerados indispensáveis para o satisfatório funcionamento da Ponte Salazar o regime em vigor estabelecido para a construção daquela obra e seus acessos.
+Para completar o esquema viário que integra o tráfego da Ponte com o restante, torna-se necessário facultar à Câmara Municipal de Lisboa disposições que a habilitem a concretizar no mais breve período de tempo os trabalhos que constituem as ligações das várias penetrantes e saídas da cidade às principais vias do tecido urbano da capital.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. Consideram-se abrangidas pelo disposto no artigo 1.º do Decreto-Lei n.º 45561, de 13 de Fevereiro de 1964, as seguintes obras a executar pela Câmara Municipal de Lisboa:
+1. Ligação da Avenida do Marechal Carmona (2.ª Circular) ao limite do concelho de Lisboa, na Calçada do Carriche.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 26 de Setembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - António Manuel Gonçalves Rapazote - Mário Júlio de Almeida Costa - João Augusto Dias Rosas - José Manuel Bettencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José Estêvão Abranches Couceiro do Canto Moniz - José João Gonçalves de Proença - Joaquim de Jesus Santos.
