@@ -1,0 +1,57 @@
+# Acórdão do Supremo Tribunal Administrativo de 1990-03-14, processo 012506
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 012506
+
+**Data do Acordão:** 03/14/1990
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** RODRIGUES PARDAL
+
+**Descritores:** TRANSGRESSÃO FISCAL; PROCESSO ORDINARIO; LEGITIMIDADE; ACUSAÇÃO; REPRESENTANTE DA FAZENDA PUBLICA
+
+**Nº Convencional:** JSTA00025436
+
+**Nº do Documento:** SA219900314012506
+
+**Data de Entrada:** 02/28/1990
+
+**Recorrente:** FAZENDA PUBLICA
+
+**Recorrido 1:** MOREIRA DE CARVALHO & BOTELHO LDA
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 90
+
+**Apêndice:** DR
+
+**Data do Apêndice:** 03/31/1993
+
+**1ª Pág. de Publicação do Acordão:** 244
+
+**Privacidade:** 01
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** SENT TT1INST VILA REAL.
+
+**Decisão:** PROVIDO.
+
+**Área Temática 1:** DIR PROC TRIBUT CONT - TRANSGRESSÃO.
+
+**Área Temática 2:** DIR PROC PENAL.
+
+**Legislação Nacional:** CONST82 ART224 N1.; ETAF84 ART23 N5 ART69 ART72 ART74.; CPCI63 ART1 PARUNICO C ART105 ART124 ART125 ART126.; LPTA85 ART131 N3.; L 47/86 DE 1986/10/15 ART3 N1 B.; L 38/87 DE 1987/12/23 ART91.; CSISD58 ART157.; CIP62 ART26 ART27 ART66.; CICOM63 ART39-A PARUNICO ART64 ART67 ART74 ART107 ART149.; DL 20-A/90 DE 1990/01/15 ART5 N2.; ORGANIZAÇÃO DOS SERVIÇOS DE JUSTIÇA FISCAL ART48 C ART49 A ART51 ART53 C ART54 D G ART56 A.; RIS26 ART234.; RGU DO IMPOSTO SOBRE VEICULOS APROVADO PELO DL 137/78 DE 1978/06/12 ART18.
+
+**Jurisprudência Nacional:** AC STA PROC4791 DE 1988/04/27.; AC STA PROC4926 DE 1988/04/27 IN CTF N351 PAG539.; AC STA PROC4917 IN AP-DR 1989/11/30 PAG615.; AC STA PROC4793 DE 1988/05/18.; AC STA PROC5614 DE 1988/08/08 IN AD N326 PAG208.; AC STA PROC5469 DE 1988/06/15.; AC STA PROC5686 DE 1988/10/12.; AC STA PROC5761 DE 1988/10/12.; AC STA PROC10447 DE 1989/01/12.
+
+**Referência a Pareceres:** P CC 380/81 DE 1981/03/31 IN BMJ N306 PAG159.; P CC 8/82 DE 1982/03/09 IN BMJ N315 PAG107.; P PGR 144/88 DE 1988/12/07.
+
+**Referência a Doutrina:** GOMES CANOTILHO E OUTRO CONSTITUIÇÃO DA REPUBLICA PORTUGUESA 2ED VII PAG347 NOTA AO ARTIGO 224.; MARIO TORRES IN RMP CADERNO 2 PAG221 NOTA.; Texto Integral
+
+## Sumário
+
+Mesmo depois da entrada em vigor do ETAF e da LPTA cabe legitimidade ao representante da Fazenda Publica junto do Tribunal Tributario de 1 instancia para deduzir a acusação nos processos ordinarios de transgressão fiscal.
