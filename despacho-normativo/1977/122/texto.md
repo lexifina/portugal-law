@@ -1,0 +1,6 @@
+Despacho Normativo n.º 122/77
+Pela resolução n.º 55/77 do Conselho de Ministros, publicada no Diário da República, 1.ª série, n.º 52, de 3 de Março, foi determinada a recomposição do Grupo de Fomento de Substituição de Importações, bem como o seu funcionamento, na directa dependência da Secretaria de Estado do Planeamento. Para regularização da situação do pagamento das despesas do GFSI, através das verbas do OGE, inscritas no orçamento do MIT para 1977, determina-se:
+a) As despesas e outros encargos do GFSI continuarão a ser pagas pelas verbas que lhe foram atribuídas no Orçamento Geral do Estado para 1977;
+b) As verbas referidas no número anterior serão movimentadas por despacho conjunto do Ministro do Plano e Coordenação Económica e Ministro da Indústria e Tecnologia;
+c) Na sequência da eventual revisão do Orçamento Geral do Estado para 1977, a submeter à aprovação da Assembleia da República, serão os recursos afectados ao funcionamento da GFSI transferidos para o orçamento do Ministério do Plano e Coordenação Económica.
+Ministérios do Plano e Coordenação Económica, das Finanças e da Indústria e Tecnologia, 6 de Maio de 1977. - O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro da Indústria e Tecnologia, Alfredo Jorge Nobre da Costa.
