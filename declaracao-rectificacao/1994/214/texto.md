@@ -1,0 +1,4 @@
+Declaração de rectificação n.º 214/94
+Segundo comunicação do Ministério da Agricultura, a Portaria n.º 929/94, publicada no Diário da República, 1.ª série, n.º 242, de 19 de Outubro de 1994, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No n.º 2.º, n.º 1, onde se lê «efectuada, notificar o IPPAA,» deve ler-se «efectuada, notificar o Centro Nacional de Protecção da Produção Agrícola (CNPPA) do Instituto de Protecção da Produção Agro-Alimentar (IPPAA),» e no n.º 2, onde se lê «Face à intercepção de uma notificação emitida por um Estado membro, o IPPAA» deve ler-se «Face à recepção de uma notificação emitida por um Estado membro, o CNPPA do IPPAA».
+Secretaria-Geral da Presidência do Conselho de Ministros, 10 de Novembro de 1994. - O Secretário-Geral, França Martins.
