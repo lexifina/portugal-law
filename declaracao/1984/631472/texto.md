@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Ministério da Educação, o Despacho Normativo n.º 25/84, publicado no Diário da República, 1.ª série, n.º 25, de 30 de Janeiro de 1984, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No penúltimo considerando, onde se lê «Considerando a experiência e a capacidade pedagógica do Colégio Internato dos Carvalhos, já reconhecidas pela concessão progressiva de paralelismo e autonomia pedagógica há mais de 5 anos;» deve ler-se «Considerando a experiência e a capacidade pedagógica do Colégio Internato dos Carvalhos, já reconhecidas pela concessão do paralelismo pedagógico desde 1978/1979;».
+Secretaria-Geral da Presidência do Conselho de Ministros, 14 de Março de 1984. - O Secretário-Geral, França Martins.
