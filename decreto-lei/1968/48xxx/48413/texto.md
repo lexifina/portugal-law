@@ -1,0 +1,8 @@
+Decreto-Lei n.º 48413
+Pelo Decreto-Lei n.º 41473, de 23 de Dezembro de 1957, foi reestabelecido o Conselho Superior de Agricultura, do qual fazem parte como vogais permanentes os representantes das federações dos grémios da lavoura no conselho da Corporação.
+Sucede, porém, que há interesses económicos especìficamente representados na organização corporativa por entidades distintas dos grémios da lavoura e das suas federações que não têm assento no Conselho Superior de Agricultura, como seja o caso da Federação dos Vinicultores do Douro (Casa do Douro), que abrange áreas não cobertas pela acção dos grémios da lavoura.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. O presidente da Federação dos Vinicultores do Douro fará parte do Conselho Superior de Agricultura como vogal permanente.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 30 de Maio de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Domingos Rosado Vitória Pires.
