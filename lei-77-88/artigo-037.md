@@ -6,7 +6,7 @@
 
 a) Gerir os recursos humanos;
 
-b)Implementar um sistema de aplicação de normas de higiene, saúde e segurança no trabalho;
+b) Implementar um sistema de aplicação de normas de higiene e segurança no trabalho e de medicina no trabalho;
 
 c) Elaborar as propostas de orçamento e do relatório e conta;
 
@@ -22,12 +22,14 @@ h) Assegurar o aprovisionamento de bens e a aquisição de serviços;
 
 i) Garantir o suporte administrativo comum;
 
-j) Garantir a produção reprográfica.
+j) Garantir a produção reprográfica, a microfilmagem e o offset.
 
 2 - A Direcção de Serviços Administrativos e Financeiros compreende:
 
-a) A Divisão de Recursos Humanos e Administração;
+a) A Divisão de Administração de Pessoal;
 
 b) A Divisão de Gestão Financeira;
 
-c) A Divisão de Aprovisionamento e Património.
+c) A Divisão de Aprovisionamento e Património;
+
+d) A Divisão de Administração Geral.

@@ -1,6 +1,6 @@
 ## Secção II
 
-## Presidente e Mesa da Assembleia da República
+## Presidente da Assembleia da República
 
 # Artigo 6.º
 

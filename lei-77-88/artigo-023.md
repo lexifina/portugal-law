@@ -2,6 +2,6 @@
 
 ### Secretariado
 
-1 - O Secretário-Geral da Assembleia da República poderá dispor de um serviço de apoio próprio, constituído, no máximo, por dois adjuntos, dois secretários e um secretário auxiliar, a requisitar aos departamentos do Estado ou a empresas públicas.
+1 - O secretário-geral da Assembleia da República poderá dispor de um serviço de apoio próprio, constituído, no máximo, por um adjunto, um secretário e um secretário auxiliar, a requisitar aos departamentos do Estado ou a empresas públicas.
 
-2 - Ao pessoal referido no número anterior são aplicáveis o n.º 3 do artigo 10.º e o n.º 6 do artigo 62.º
+2 - Ao pessoal referido no número anterior é aplicável, com as necessárias adaptações, o disposto no artigo 62.º

@@ -12,8 +12,6 @@ c) O produto das edições e publicações;
 
 d) Os direitos de autor;
 
-e) Os resultados da aplicação de fundos;
-
-f) As demais receitas que lhe forem atribuídas por lei, resolução da Assembleia, contrato, sucessão ou doação.
+e) As demais receitas que lhe forem atribuídas por lei, resolução da Assembleia, contrato, sucessão ou doação.
 
 2 - Os saldos positivos apurados no fim de cada ano económico são transferidos para a gerência do ano seguinte e distribuídos pelo Conselho de Administração pelas rubricas cujo reforço se mostre necessário em função dos programas aprovados.

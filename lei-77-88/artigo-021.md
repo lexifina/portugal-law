@@ -8,7 +8,7 @@
 
 3 - O secretário-geral da Assembleia da República não pode exercer actividades profissionais privadas nem desempenhar outras funções públicas, salvo as que resultem de inerência ou de actividades de reconhecido interesse público cujo exercício seja autorizado por despacho do Presidente da Assembleia da República.
 
-4-O Secretário-Geral é substituído nas suas faltas e impedimentos pelo director de serviços que o Presidente da Assembleia da República designar.
+4 - O secretário-geral da Assembleia da República é substituído nas suas faltas e impedimentos pelo director-geral que o Presidente da Assembleia da República designar.
 
 5 - A remuneração do secretário-geral da Assembleia da República é igual ao vencimento base fixado para o cargo de director-geral, acrescido da diferença entre o vencimento deste e o de subdirector-geral.
 

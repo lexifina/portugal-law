@@ -8,8 +8,6 @@
 
 # Artigo 45.º
 
-### Estatuto de pessoal da Assembleia da República
+### Estatuto do pessoal parlamentar
 
-1 - O pessoal da Assembleia da República rege-se por estatuto próprio, nos termos da presente lei e das resoluções e regulamentos da Assembleia da República, tomados sob proposta do Conselho de Administração.
-
-2 - A legislação referente aos funcionários da administração central do Estado é aplicável subsidiariamente aos funcionários da Assembleia da República.
+O pessoal da Assembleia da República, que constitui o quadro dos funcionários parlamentares, rege-se por estatuto próprio, nos termos da presente Lei e da sua regulamentação, constituindo direito subsidiário a legislação aplicável à administração central do Estado, designadamente o Estatuto da Aposentação.
