@@ -1,0 +1,5 @@
+Aviso n.º 319/97
+Por ordem superior se torna público que, por nota de 18 de Março de 1994, o Departamento de Estado Norte-Americano comunicou terem sido depositados pelo Djibuti, em 24 de Novembro de 1992, e pela Estónia, em 22 de Dezembro de 1993, os respectivos instrumentos de adesão à Convenção para a Supressão de Actos Ilícitos contra a Segurança da Aviação Civil, concluída em Montreal em 23 de Setembro de 1971.
+Através da mesma comunicação, o Departamento de Estado Norte-Americano informou que a Eslovénia depositou, em 20 de Agosto de 1992, a notificação da sua sucessão quanto a esta Convenção.
+Esta Convenção foi aprovada, para ratificação, por Portugal nos termos do Decreto n.º 451/72, de 14 de Novembro, tendo sido depositado o correspondente instrumento em 15 de Janeiro de 1973, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 100, de 28 de Abril de 1973.
+Direcção-Geral dos Assuntos Multilateriais, 28 de Novembro de 1997. - O Director de Serviços das Organizações Económicas Internacionais, João Perestrello Cavaco.
