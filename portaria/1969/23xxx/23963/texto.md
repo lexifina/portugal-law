@@ -1,0 +1,5 @@
+Portaria n.º 23963
+Pelo Decreto-Lei n.º 40520, de 2 de Fevereiro de 1956, foram estabelecidas as condições de utilização de antioxidantes ou antioxigénios em gorduras de origem animal, margarinas e outras gorduras plásticas e ainda em alimentos que contenham qualquer dos produtos, tendo em vista aumentar o seu período de estabilidade, retardando o desenvolvimento do ranço por auto-oxidação.
+Nestes termos, depois de obtidos os pareceres favoráveis da Direcção-Geral de Saúde e da Comissão Técnica dos Métodos Químico-Analíticos:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Indústria, autorizar a Fábrica Nacional de Margarina, S. A. R. L., de harmonia com o § 2.º do artigo 4.º do Decreto-Lei n.º 40520, a utilizar nas gorduras plásticas das marcas Fofa e Seara, quando destinadas a exportação, o antioxidante butil-hidroxianisole, com o teor máximo de 0,02 g por 100 g de gordura.
+Secretaria de Estado da Indústria, 8 de Março de 1969. - O Secretário de Estado da Indústria, Manuel Rafael Amaro da Costa.
