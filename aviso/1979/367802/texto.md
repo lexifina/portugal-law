@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que o representante permanente da Espanha junto do Conselho da Europa depositou, junto do Secretário-Geral daquela Organização, em 4 de Outubro de 1979, o instrumento de ratificação, com reservas e declarações, por parte do Governo daquele país, da Convenção Europeia dos Direitos do Homem, de 4 de Novembro de 1950, com as emendas que lhe foram introduzidas pelo Protocolo n.º 3, de 6 de Maio de 1963, e pelo Protocolo n.º 5, de 20 de Janeiro de 1966.
+Direcção-Geral dos Negócios Políticos, 19 de Outubro de 1979. - O Director-Geral-Adjunto dos Negócios Políticos, António Leal da Costa Lobo.
