@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação da Organização das Nações Unidas, o Governo do Tonga depositou junto do Secretário-Geral da Organização, em 11 de Novembro de 1977, a notificação de sucessão relativamente à Convenção sobre as Facilidades Aduaneiras a Favor do Turismo e ao Protocolo Adicional à Convenção sobre as Facilidades Aduaneiras a Favor do Turismo, relativo à importação de documentos e de material de propaganda turística, ambos assinados em Nova Iorque em 4 de Junho de 1954.
+Direcção-Geral dos Negócios Económicos, 31 de Março de 1978. - O Adjunto do Director-Geral, Carlos Alberto Soares Simões Coelho.
