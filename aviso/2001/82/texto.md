@@ -1,0 +1,5 @@
+Aviso n.º 82/2001
+Por ordem superior se torna público que o Governo da República Portuguesa depositou, em 15 de Junho de 2001, junto do Secretariado da Agência Internacional de Energia Atómica, o seu instrumento de ratificação ao Protocolo Adicional ao Acordo entre a República Portuguesa, a Comunidade Europeia da Energia Atómica e a Agência Internacional de Energia Atómica, em aplicação do artigo III, n.os 1 e 4, do Tratado de não Proliferação das Armas Nucleares.
+O referido Protocolo foi aprovado, para ratificação, pela Resolução da Assembleia da República n.º 26/2001, publicada no Diário da República, 1.ª série-A, n.º 79, de 3 de Abril de 2001, e foi ratificada pelo Decreto do Presidente da República n.º 25/2001, publicado no Diário da República, 1.ª série-A, n.º 79, de 3 de Abril de 2001.
+Nos termos da alínea a) do seu artigo 17.º, o referido Protocolo entrou em vigor, relativamente a Portugal, em 15 de Junho de 2001.
+Direcção de Serviços das Organizações Económicas Internacionais, 10 de Julho de 2001. - A Directora de Serviços, Liliana Araújo.
