@@ -1,0 +1,4 @@
+Portaria n.º 756/71
+de 31 de Dezembro
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, abrir um crédito especial da importância de 80000$00, destinado a reforçar a verba do capítulo único, artigo 8.º, n.º 3 «Serviços da Agência - Pagamento de serviços - Despesas de comunicações - Transportes, despachos, fretes e seguros», do orçamento da despesa da Agência-Geral do Ultramar para o ano económico de 1971, tomando como contrapartida igual importância a sair das disponibilidades da verba do capítulo único, artigo 10.º, n.º 1 «Serviços da Agência - Diversos encargos - Encargos das instalações - Renda de casa», do mesmo orçamento.
+Pelo Ministro do Ultramar, Leão Maria Tavares Rosado do Sacramento Monteiro, Subsecretário de Estado da Administração Ultramarina.
