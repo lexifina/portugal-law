@@ -1,0 +1,10 @@
+Despacho Normativo n.º 125/84
+O Despacho Normativo n.º 195/80, de 3 de Julho, ao estabelecer, nas escolas preparatórias, o currículo semanal de Trabalhos Manuais de 3 horas, tanto para o 1.º como para o 2.º ano, previa igualmente, no seu n.º 2, o preenchimento do horário dos professores daquela disciplina, sempre que necessário, com actividades de ocupação de tempos livres dos alunos;
+Considerando, porém, que, por razões diversas, ligadas com a falta de instalações, desfasamentos entre as horas enquadráveis nos horários dos professores e o tempo de permanência dos alunos na escola e ainda com o carácter facultativo da participação dos alunos naquelas actividades, não se obtiveram os resultados desejados;
+Considerando, por outro lado, que as actividades de ocupação de tempos livres não devem surgir como decorrentes de necessidades de ordem administrativa, mas antes viabilizarem projectos de centros para ocupação de tempos livres bem definidos e caracterizados, envolvendo a participação de grupos diversificados de professores e alunos com interesses específicos e múltiplos;
+Considerando ainda que a criação desses centros carece de um planeamento que tenha em conta as instalações, os recursos humanos e materiais envolvidos e os encargos financeiros necessários, de modo a garantir a sua validade pedagógica e o seu efectivo cumprimento;
+Considerando, finalmente, que, na sequência da suspensão do Despacho n.º 91/ME/83 pelo Despacho n.º 7/ME/83, de 27 de Junho, toda a problemática dos centros para a ocupação de tempos livres se encontra em reapreciação, com vista a nova e completa reformulação legal da matéria:
+Determino:
+1 - É suspensa a aplicação dos n.os 2, 3, 4 e 5 do Despacho Normativo n.º 195/80, de 3 de Julho, do Ministro da Educação e Ciência, publicado no Diário da República, 1.ª série, n.º 151, de 3 de Julho de 1980.
+2 - O presente despacho produz efeitos a partir do ano lectivo de 1984-1985.
+Ministério da Educação, 23 de Maio de 1984. - O Ministro da Educação, José Augusto Seabra.
