@@ -1,0 +1,38 @@
+Decreto n.º 276/76
+de 13 de Abril
+Torna-se necessário delimitar as áreas de terreno indispensáveis à protecção do centro radioeléctrico formado pela estação emissora de Alfragide, pertencente à Companhia Portuguesa Rádio Marconi e situada na freguesia da Amadora, concelho de Oeiras, constituindo-se, para tal efeito, uma servidão radioeléctrica sobre as respectivas zonas confinantes.
+As populações da área do concelho abrangido pelas restrições ora impostas, depois de terem sido convidadas para se manifestarem sobre esta servidão radioeléctrica, de acordo com o disposto nos artigos 3 e 5.º do Decreto-Lei n.º 181/70, de 28 de Abril, não apresentaram qualquer reclamação que obste à sua constituição.
+Assim, nos termos do artigo 14.º, n.º 1, do Decreto-Lei n.º 597/73, de 7 de Novembro:
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º As zonas confinantes com o centro radioeléctrico de Alfragide, pertencente à Companhia Portuguesa Rádio Marconi, estão sujeitas a servidão radioeléctrica e, bem assim, a outras restrições de utilidade pública, nos termos do disposto no artigo 1.º do Decreto-Lei n.º 597/73, de 7 de Novembro;
+Art. 2.º O centro radioeléctrico referido no artigo anterior situa-se em Alfragide, concelho de Oeiras, junto à estrada nacional n.º 249-1, ao quilómetro 2,1, e ocupa uma área aproximada de 38000 m2, confinando com prédios cujos proprietários são os a seguir indicados:
+a) A norte:
+Jofrasa - Sociedade Imobiliária Joaquim Francisco dos Santos, S. A. R. L., com sede na Avenida da República, 45, 7.º, esquerdo, na cidade de Lisboa;
+Joanne Henriette Dupuy Ollivier, residente na Avenida de João Crisóstomo, 7, 2.º, direito, na cidade de Lisboa;
+b) A sul, nascente e poente: Jofrasa - Sociedade Imobiliária Joaquim Francisco dos Santos, S. A. R. L.
+Art. 3.º A zona de libertação primária a que alude o artigo 7.º do Decreto-Lei n.º 597/73, bem como o limite de 1000 m referente à zona secundária, previsto no artigo 10.º, I, do mesmo decreto-lei, encontram-se demarcados na planta topográfica, na escala de 1:25000, incluída na parte final deste diploma.
+Art. 4.º - 1. Na zona de libertação primária é proibida, salvo autorização dada pelos CTT, qualquer acção que envolva:
+a) A instalação ou manutenção, ainda que temporária, de estruturas ou outros obstáculos metálicos;
+b) A construção ou manutenção de edifícios ou de outros obstáculos cujo nível superior ultrapasse a quota máxima de 170 m em relação ao nível do mar;
+c) O estabelecimento ou manutenção de árvores, culturas ou outros obstáculos que prejudiquem a propagação radioeléctrica;
+d) A existência de estradas abertas ao trânsito público ou de parques públicos de estacionamento de veículos motorizados;
+e) A instalação ou manutenção de linhas aéreas.
+2. A instalação e utilização, na zona de libertação primária, de qualquer aparelhagem eléctrica susceptível de prejudicar o funcionamento das instalações do centro emissor carecem de prévia autorização dos CTT.
+3. A zona de libertação secundária está sujeita aos seguintes condicionamentos:
+I) Nos 1000 m que circundam imediatamente a zona primária definida no artigo 3.º:
+a) As linhas aéreas de energia eléctrica só serão permitidas para tensão composta igual ou inferior a 5 kV e desde que não prejudiquem o funcionamento do centro;
+b) Só poderá ser autorizada a implantação de qualquer obstáculo fixo ou móvel se o nível superior de tal obstáculo não ultrapassar a quota máxima de 170 m em relação ao nível do mar, adicionada de um décimo da distância entre o mesmo obstáculo e o limite exterior da zona primária.
+II) Na restante área da zona secundária até ao afastamento de 4000 m a contar dos limites do centro radioeléctrico só será permitida a montagem de linhas aéreas de energia eléctrica de tensão composta superior a 5 kV, desde que não prejudiquem o funcionamento do centro.
+Art. 5.º A Direcção dos Serviços Radioeléctricos dos CTT é a entidade competente para:
+a) Conceder as autorizações a que se faz referência nos n.os 1 e 2 do artigo anterior;
+b) Ordenar a demolição, remoção, abate ou inutilização dos obstáculos perturbadores referidos, nos termos do artigo 20.º, n.º 2, do Decreto-Lei n.º 597/73;
+c) Fiscalizar o cumprimento das disposições legais respeitantes à presente servidão;
+d) Aplicar, nos termos do artigo 24.º do Decreto-Lei n.º 597/73, as multas decorrentes das infracções verificadas.
+Art. 6.º Das decisões tomadas nos termos das alíneas b) e d) do artigo anterior cabe recurso para o Ministro dos Transportes e Comunicações.
+José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - José Augusto Fernandes - Rui Alberto Barradas do Amaral.
+Promulgado em 27 de Março de 1976.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
+
+(ver documento original)
+O Ministro dos Transportes e Comunicações, José Augusto Fernandes.
