@@ -1,6 +1,6 @@
 # Artigo 70.º-B
 
-### Modo de exercício do direito de voto antecipado por militares, agentes de forças e serviços de segurança e trabalhadores dos transportes.
+### Modo de exercício do direito de voto antecipado por militares, agentes de forças e serviços de segurança, trabalhadores dos transportes e membros que representem oficialmente selecções nacionais, organizadas por federações desportivas dotadas de estatuto de utilidade pública desportiva.
 
 1 - Qualquer eleitor que esteja nas condições previstas nas alíneas a), b) e c) do artigo anterior pode dirigir-se ao presidente da câmara do município em cuja área se encontre recenseado, entre o 10.º e o 5.º dias anteriores ao da eleição, manifestando a sua vontade de exercer antecipadamente o direito de sufrágio.
 

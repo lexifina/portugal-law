@@ -14,6 +14,8 @@ d) Os eleitores que por motivo de doença se encontrem internados ou presumivelm
 
 e) Os eleitores que se encontrem presos e não privados de direitos políticos.
 
+f) Os membros que representem oficialmente selecções nacionais, organizadas por federações desportivas dotadas de estatuto de utilidade pública desportiva, e se encontrem deslocados no estrangeiro, em competições desportivas, no dia da realização da eleição.
+
 2 - Podem ainda votar antecipadamente os seguintes eleitores recenseados no território nacional e deslocados no estrangeiro:
 
 a) Militares, agentes militarizados e civis integrados em operações de manutenção de paz, cooperação técnico-militar ou equiparadas;
