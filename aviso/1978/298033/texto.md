@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que em 7 de Março de 1978 o Governo da Polónia depositou junto do Secretário-Geral das Nações Unidas o instrumento de objecção relativo à reserva formulada pela República Árabe da Líbia, quanto aos princípios da inviolabilidade da mala diplomática e da liberdade de comunicação diplomática, consagrados no artigo 27 da Convenção de Viena sobre Relações Diplomáticas, concluída em 16 de Abril de 1961, de que Portugal já é parte sem qualquer reserva.
+Secretaria-Geral do Ministério, 16 de Junho de 1978. - O Chefe dos Serviços Jurídicos e de Tratados, Mário d'Oliveira Neves.
