@@ -1,0 +1,26 @@
+Portaria n.º 344/74
+de 31 de Maio
+Manda o Governo Provisório da República Portuguesa, pelo Secretário de Estado das Finanças, nos termos do disposto no § único do artigo 4.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, o seguinte:
+1.º É autorizada a empresa S. P. C. - Serviço Português de Contentores, S. A. R. L., a estabelecer um terminal de carga para mercadorias transportadas em contentores ou a coberto do regime TIR nas suas instalações situadas na Rua Marginal ao Caminho de Ferro, em Cabo Ruivo, funcionando como depósito especial de regime aduaneiro.
+2.º As instalações referidas no n.º 1.º serão exteriormente resguardadas por uma vedação de altura não inferior a 3 m, sendo todo o movimento de entrada e de saída feito por um único portão, devidamente fiscalizado, e observando-se as demais disposições que forem superiormente determinadas, de modo a tornar fácil e sempre eficaz a fiscalização.
+3.º Junto ao portão deste depósito especial aduaneiro deverá existir uma pequena instalação para as praças da Guarda Fiscal encarregadas dessa fiscalização, a exercer permanentemente.
+4.º Todas as despesas com a criação e manutenção daquela instalação são de conta da empresa.
+5.º No recinto do terminal haverá também instalações para os serviços aduaneiros, situados tanto quanto possível em local próximo do referido portão, instalações essas que deverão estar providas de gabinetes para os serviços de verificação e de reverificação e devidamente mobilados e dotados do material necessário para a execução daqueles serviços.
+6.º As despesas de instalação e manutenção destas instalações serão suportadas pela mesma empresa.
+7.º Quando se reconhecer necessária a criação de uma estância aduaneira junto do terminal, constituirá encargo da respectiva empresa a sua instalação e manutenção, nos termos que lhe forem indicados pela Direcção-Geral das Alfândegas.
+8.º Sempre que o entenda necessário, a Alfândega mandará visitar as instalações do terminal, a fim de averiguar das condições de segurança fiscal, podendo visitar todas as dependências, examinar livros e pedir os esclarecimentos que julgue necessários.
+9.º A Alfândega dará ao serviço da Guarda Fiscal junto do terminal as instruções que julgue convenientes para a defesa dos superiores interesses do Estado e providenciará a resolução das dúvidas que pelos mesmos serviços forem postas.
+10.º Permite-se receber, em regime de armazenagem, as mercadorias chegadas ao terminal em contentores, quer vindas por via marítima, quer circulem a coberto da Convenção TIR.
+11.º O prazo máximo de armazenagem neste depósito é de quinze dias, a contar da data da entrada do respectivo contentor ou do camião em regime TIR. Findo este prazo, sem que a mercadoria haja sido desembaraçada da acção fiscal, será a mesma remetida, sob fiscalização, para depósito geral franco do porto de Lisboa, processando-se o respectivo bilhete de entrada.
+12.º Os contentores vindos por via marítima serão acompanhados de folhas de descarga e de fiscalização, excepto nos casos em que esta seja de dispensar.
+13.º Os contentores vindos por via marítima são abertos e proceder-se-á à conferência das mercadorias ali contidas, sob o contrôle directo da Alfândega, pelas respectivas folhas de descarga.
+14.º A movimentação dos contentores, propriamente ditos, far-se-á nos termos do Decreto n.º 45814, de 14 de Julho de 1964, alterado pelo Decreto-Lei n.º 500/72, de 9 de Dezembro, e das instruções em vigor.
+15.º No caso de contentores que circulem a coberto da Convenção TIR, proceder-se-á de harmonia com as instruções em vigor para aplicação daquela Convenção.
+16.º O expediente de despacho das mercadorias depositadas no terminal poderá correr em qualquer estância aduaneira dependente da Alfândega de Lisboa, para isso autorizada pela sua direcção.
+17.º Os bilhetes de despacho serão processados nos termos do Regulamento das Alfândegas e sujeitos ao cumprimento de todas as formalidades legais.
+18.º Os serviços aduaneiros procederão no terminal à conferência da descarga, à verificação e à reverificação das mercadorias ali depositadas.
+19.º A empresa ficará responsável pelo recebimento e entrega das mercadorias movimentadas através do terminal.
+20.º A empresa será subsidiariamente responsável pelas infracções que sejam praticadas pelos seus empregados.
+21.º Carece de aprovação da Direcção-Geral das Alfândegas o regulamento de exploração, assim como as taxas de armazenagem a vigorar, que deverão ser elaborados e apresentados, para os devidos efeitos, pela empresa.
+22.º O terminal só poderá entrar em funcionamento após a aprovação definitiva dada pela Direcção-Geral das Alfândegas, depois de constatar terem sido observadas todas as condições indispensáveis à defesa dos interesses da Fazenda Nacional.
+Secretaria de Estado das Finanças, 23 de Maio de 1974. - O Secretário de Estado das Finanças, José da Silva Lopes.
