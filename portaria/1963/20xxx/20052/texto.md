@@ -1,0 +1,3 @@
+Portaria n.º 20052
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio, ao abrigo do § único do artigo 7.º do Decreto-Lei n.º 45223, de 2 de Setembro de 1963, que seja fixada em 15 por cento a proporção de farinhas de outros cereais a incorporar na farinha de 2.ª qualidade; que, nos distritos de Évora, Portalegre, Beja e Faro e nos concelhos de Grândola, Alcácer do Sal, Santiago do Cacém e Sines, do distrito de Setúbal, a incorporação consista em 10 por cento de farinha de centeio e 5 por cento de farinha de milho e, no resto do País, em 15 por cento de farinha de milho.
+Secretaria de Estado do Comércio, 4 de Setembro de 1963. - O Secretário de Estado do Comércio, Armando Ramos de Paula Coelho.
