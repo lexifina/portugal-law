@@ -1,0 +1,669 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "29",
+    "id": "19303",
+    "titulo": "Aprova o Código do Trabalho"
+  },
+  "fase": "Votação do parecer recurso de admissibilidade",
+  "codigo_fase": "184",
+  "data_registo": "2002-11-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2352",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "184",
+    "Comissao": null,
+    "DataFase": "2002-11-27",
+    "EvtId": "43",
+    "Fase": "Votação do parecer recurso de admissibilidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2002-11-27",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "321",
+                "nome": "Francisco José Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142874",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2550-2551",
+                  "2553-2554"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-28",
+                "pubLeg": "IX",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/060/2002-11-28/2550?pgs=2550-2551,2553-2554&org=PLC"
+              }
+            ],
+            "sumario": "Paracer da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias relativo aos recursos intrepostos pelo PCP e BE da admissão pelo Senhor Presidente da Assembleia da Républica da PPL n.º.29 (Aprova o Código do Trabalho)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142875",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2551-2551"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-28",
+                "pubLeg": "IX",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/060/2002-11-28/2551?pgs=2551&org=PLC"
+              }
+            ],
+            "sumario": "Paracer da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias relativo aos recursos intrepostos pelo PCP e BE da admissão pelo Senhor Presidente da Assembleia da Républica da PPL n.º.29 (Aprova o Código do Trabalho)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "205",
+                "nome": "Rui Cunha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142876",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2551-2552"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-28",
+                "pubLeg": "IX",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/060/2002-11-28/2551?pgs=2551-2552&org=PLC"
+              }
+            ],
+            "sumario": "Paracer da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias relativo aos recursos intrepostos pelo PCP e BE da admissão pelo Senhor Presidente da Assembleia da Républica da PPL n.º.29 (Aprova o Código do Trabalho)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142877",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2552-2552"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-28",
+                "pubLeg": "IX",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/060/2002-11-28/2552?pgs=2552&org=PLC"
+              }
+            ],
+            "sumario": "Paracer da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias relativo aos recursos intrepostos pelo PCP e BE da admissão pelo Senhor Presidente da Assembleia da Républica da PPL n.º.29 (Aprova o Código do Trabalho)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142878",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2552-2553"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-28",
+                "pubLeg": "IX",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/060/2002-11-28/2552?pgs=2552-2553&org=PLC"
+              }
+            ],
+            "sumario": "Paracer da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias relativo aos recursos intrepostos pelo PCP e BE da admissão pelo Senhor Presidente da Assembleia da Républica da PPL n.º.29 (Aprova o Código do Trabalho)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142879",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2553-2553"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-28",
+                "pubLeg": "IX",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/060/2002-11-28/2553?pgs=2553&org=PLC"
+              }
+            ],
+            "sumario": "Paracer da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias relativo aos recursos intrepostos pelo PCP e BE da admissão pelo Senhor Presidente da Assembleia da Républica da PPL n.º.29 (Aprova o Código do Trabalho)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142898",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2571-2571"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-28",
+                "pubLeg": "IX",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/060/2002-11-28/2571?pgs=2571&org=PLC"
+              }
+            ],
+            "sumario": "Paracer da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias relativo aos recursos intrepostos pelo PCP e BE da admissão pelo Senhor Presidente da Assembleia da Républica da PPL n.º.29 (Aprova o Código do Trabalho)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1700",
+                "nome": "Vitalino Canas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142899",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2571-2571"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-28",
+                "pubLeg": "IX",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/060/2002-11-28/2571?pgs=2571&org=PLC"
+              }
+            ],
+            "sumario": "Paracer da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias relativo aos recursos intrepostos pelo PCP e BE da admissão pelo Senhor Presidente da Assembleia da Républica da PPL n.º.29 (Aprova o Código do Trabalho)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "462",
+                "nome": "Alberto Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142900",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2571-2571"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-28",
+                "pubLeg": "IX",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/060/2002-11-28/2571?pgs=2571&org=PLC"
+              }
+            ],
+            "sumario": "Paracer da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias relativo aos recursos intrepostos pelo PCP e BE da admissão pelo Senhor Presidente da Assembleia da Républica da PPL n.º.29 (Aprova o Código do Trabalho)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1987",
+                "nome": "Eduardo Cabrita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142901",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2571-2571"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-28",
+                "pubLeg": "IX",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/060/2002-11-28/2571?pgs=2571&org=PLC"
+              }
+            ],
+            "sumario": "Paracer da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias relativo aos recursos intrepostos pelo PCP e BE da admissão pelo Senhor Presidente da Assembleia da Républica da PPL n.º.29 (Aprova o Código do Trabalho)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1671",
+                "nome": "Maria de Belém Roseira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142902",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2571-2571"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-28",
+                "pubLeg": "IX",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/060/2002-11-28/2571?pgs=2571&org=PLC"
+              }
+            ],
+            "sumario": "Paracer da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias relativo aos recursos intrepostos pelo PCP e BE da admissão pelo Senhor Presidente da Assembleia da Républica da PPL n.º.29 (Aprova o Código do Trabalho)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142903",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2571-2571"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-11-28",
+                "pubLeg": "IX",
+                "pubNr": "60",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/060/2002-11-28/2571?pgs=2571&org=PLC"
+              }
+            ],
+            "sumario": "Paracer da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias relativo aos recursos intrepostos pelo PCP e BE da admissão pelo Senhor Presidente da Assembleia da Républica da PPL n.º.29 (Aprova o Código do Trabalho)",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": "Parecer da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias",
+    "OevId": "154169",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2352",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2002-11-28",
+        "pubLeg": "IX",
+        "pubNr": "60",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/060/2002-11-28?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": [
+      "BE",
+      "PCP"
+    ],
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2002-11-27",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS-PP</I><BR>Contra:<I>PCP</I>, <I> BE</I>, <I> PEV</I><BR>Abstenção:<I>PS</I>",
+        "id": "29390",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "58",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
