@@ -1,0 +1,37 @@
+# Acórdão do Tribunal da Relação de Guimarães de 2002-09-30, processo 503/02-1
+
+**Acórdãos TRG:** Acórdão do Tribunal da Relação de Guimarães
+
+**Processo:** 503/02-1
+
+**Relator:** TOMÉ BRANCO
+
+**Descritores:** RECURSO; DECISÃO; ADMINISTRAÇÃO; CONTRA-ORDENAÇÃO; FACTOS NOVOS; ADMISSIBILIDADE; INSTÂNCIA
+
+**Nº do Documento:** RG
+
+**Data do Acordão:** 09/30/2002
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+## Sumário
+
+I - Com a impugnação da decisão da entidade administrativa junto do tribunal de comarca não se inicia qualquer fase de verdadeiro recurso em sentido próprio, funcionando este tribunal de comarca como 1ª instância.
+
+II - No sentido deste entendimento vão as menções dos artºs 65º-A e 66º, sempre do mencionado D.L. 433/82, que referem "...sentença em 1ª instância..." e "...audiência em 1ª instância...", respectivamente.
+
+III - É licita, com esta impugnação, a alegação de novos factos no sentido de factos ainda não alegados junto da entidade administrativa, nomeadamente, na sequência da notificação ao coimado nos termos e para os efeitos do artº 50º do D.L. 433/82 de 27 de Outubro.
+
+IV - Nos termo do artº 63º do mesmo D.L. 433/82, os únicos fundamentos para a rejeição residem no não cumprimento das exigências de prazo e de forma e que se refere o artº 59º do mesmo diploma legal.
+
+30.09.2002
+
+Relator: Tomé Branco
+
+Adjuntos: Heitor Gonçalves
+
+Anselmo Lopes
