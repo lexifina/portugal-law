@@ -1,0 +1,9 @@
+Aviso do Banco de Portugal n.º 6/2001
+Tendo presente o disposto na secção II do capítulo III do título VII do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, o Banco de Portugal, em regulamentação do artigo 133.º do mesmo Regime Geral, determina o seguinte:
+1.º Ao n.º 5.º do aviso n.º 8/94, de 2 de Novembro, publicado no Diário da República, 2.ª série, de 15 de Novembro de 1994, é aditada uma alínea c), com a seguinte redacção:
+«5.º ...
+a) ...
+b) ...
+c) A supervisão em base subconsolidada fora das condições indicadas no n.º 2 do n.º 2.º»
+2.º Este aviso entra em vigor no dia imediato ao da sua publicação.
+9 de Abril de 2001. - O Governador, Vítor Constâncio.
