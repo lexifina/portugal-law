@@ -1,0 +1,7 @@
+Resolução n.º 171/79
+1 - Considerando que o curso de Design de Interiores e Equipamento Geral, ministrado pelo IADE - Escola Internacional de Decoradores, Artistas Gráficos e Designers, possui, em termos curriculares, um nível considerável, proporcionando uma formação específica e profissional bastante completa;
+2 - Considerando que os respectivos programas estão bem desenvolvidos e estruturados, face à educação artística e à formação cultural, científica e tecnológica que se pretendem oferecer aos alunos, não excluindo os aspectos práticos e oficinais decorrentes do tipo de ensino em questão;
+3 - Considerando que se trata de um estabelecimento de ensino bem equipado, dispondo nomeadamente de oficinas, equipamento adequado, biblioteca e centro de documentação;
+4 - Considerando, finalmente, o parecer favorável a propósito emitido pela Inspecção-Geral do Ensino Particular, ao abrigo da parte final do n.º 2 do artigo 14.º do Decreto n.º 37545, de 8 de Setembro de 1949 (Estatuto do Ensino Particular), conjugada com o disposto na alínea e) do artigo 2.º do Decreto-Lei n.º 70/77, de 25 de Fevereiro:
+O Conselho de Ministros, reunido em 16 de Maio de 1979, resolveu, nos termos do n.º 2 do artigo 14.º do Decreto n.º 37545, de 8 de Setembro de 1949, reconhecer valor oficial aos diplomas do curso de Design de Interiores e Equipamento Geral, ministrado pelo IADE - Escola Internacional de Decoradores, Artistas Gráficos e Designers.
+Presidência do Conselho de Ministros, 16 de Maio de 1979. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.
