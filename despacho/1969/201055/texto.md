@@ -1,0 +1,3 @@
+Despacho
+Nos termos do artigo 2.º do Decreto-Lei n.º 43000, de 1 de Junho de 1960, ouvido o Conselho Permanente da Acção Educativa, é declarada a habilitação dos cursos de feitor agrícola ou de agente rural, regulados, respectivamente, pelos Decretos n.º 24361, de 14 de Agosto de 1934, e n.º 41382, de 21 de Novembro de 1957, como suficiente, em paralelo com o curso geral dos liceus, para efeito de provimento dos lugares de auxiliar de fiscalização da Junta Nacional do Azeite.
+Presidência do Conselho, 22 de Maio de 1969. - Pelo Presidente do Conselho, o Ministro de Estado, Alfredo de Queirós Ribeiro Vaz Pinto.
