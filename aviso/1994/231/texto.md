@@ -1,0 +1,10 @@
+Aviso n.º 231/94
+Por ordem superior se torna público que o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos, por notificação de 30 de Maio de 1994, comunicou que os Estados seguintes declararam aceitar a adesão do Chile à Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, concluída na Haia em 25 de Outubro de 1980, o Reino Unido da Grã-Bretanha e Irlanda do Norte, a 29 de Abril de 1994, o Luxemburgo, a 9 de Maio de 1994, e a Finlândia, a 25 de Maio de 1994.
+Declararam aceitar a adesão das Honduras à mesma Convenção a Alemanha, a 3 de Maio de 1994, e a Finlândia, a 25 de Maio de 1994.
+O Luxemburgo declarou aceitar a adesão da Eslovénia à citada Convenção em 17 de Maio de 1994.
+A Finlândia declarou aceitar, a 25 de Maio de 1994, a adesão àquela Convenção das ilhas Baamas, Belize, Burkina Faso, Equador, Hungria, Maurício, México, Mónaco, Nova Zelândia, Panamá, Polónia e Roménia.
+Em conformidade com o artigo 38.º, alínea 5, a Convenção entrará em vigor entre o Chile e o Reino Unido da Grã-Bretanha e Irlanda do Norte a 1 de Julho de 1994, com o Luxemburgo a 1 de Agosto de 1994, com a Finlândia a 1 de Agosto de 1994, entre as Honduras e a Alemanha a 1 de Agosto de 1994, com a Finlândia a 1 de Agosto de 1994, entre a Eslovénia e o Luxemburgo a 1 de Agosto de 1994, entre a Finlândia e as ilhas Baamas, Belize, Burkina Faso, Equador, Hungria, Maurício, México, Mónaco, Nova Zelândia, Panamá, Polónia e a Roménia a 1 de Agosto de 1994.
+Quanto à entrada em vigor da Convenção entre o Chile e o Reino Unido da Grã-Bretanha e Irlanda do Norte, estes países formularam a seguinte declaração:
+Tradução
+Não obstante as disposições do citado artigo 38.º, relativo à entrada em vigor entre os Estados aderentes e o Estado que declarou aceitar a adesão, serão introduzidas modificações ao direito público do Reino Unido e do Chile a partir de 1 de Maio de 1994, data da entrada em vigor da Convenção para o Chile.
+Departamento de Assuntos Jurídicos, 1 de Agosto de 1994. - O Director, José Maria Teixeira Leite Martins.
