@@ -1,0 +1,9 @@
+Resolução n.º 27/82
+No âmbito da renegociação do contrato de empreitada n.º 46/74 (construção da conduta adutora Sado-Morgável), foi acordado, entre o GAS e o adjudicatário, retirar do âmbito da empreitada a construção de um troço do túnel com cerca de 2200 m de comprimento, sem exigência de indemnização pelo adjudicatário.
+A construção daquele troço do túnel foi recentemente posta a concurso público, e, por proposta do GAS, o Conselho de Ministros para os Assuntos Económicos, reunido em 13 de Outubro, resolveu:
+1 - Que seja autorizado a adjudicar à firma Moniz da Mata, Serra & Fortunato, Empreiteiros, S. A. R. L., a empreitada DU/51/81, até ao montante de 481350000$00 e pelo prazo de 24 meses, nas condições do caderno de encargos, documentação apresentada a concurso e posteriores esclarecimentos.
+2 - Delegar no Secretário de Estado do Planeamento a competência para aprovar a minuta do contrato de empreitada.
+3 - Delegar no conselho de gestão do GAS a competência para autorizar todas as despesas derivadas das cláusulas contratuais, designadamente revisões de preços e prémios pecuniários devidos por antecipação dos prazos estabelecidos para a execução dos trabalhos.
+4 - Autorizar a celebração de adicionais ao contrato de empreitada n.º 51/81 emergentes das condições contratuais, nomeadamente os originados por diferenças de estimativas no quantitativo dos trabalhos.
+5 - Determinar que o conselho de gestão apresente semestralmente ao Secretário de Estado do Planeamento um relatório donde conste, nomeadamente, o andamento dos trabalhos e os pagamentos liquidados e adicionais celebrados, no âmbito das autorizações mencionadas nas alíneas c) e d), respectivamente.
+Presidência do Conselho de Ministros, 13 de Outubro de 1981. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.
