@@ -1,0 +1,53 @@
+# Acórdão do Supremo Tribunal Administrativo de 2003-12-17, processo 01717/03
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 01717/03
+
+**Data do Acordão:** 12/17/2003
+
+**Tribunal:** 3 SUBSECÇÃO DO CA
+
+**Relator:** JORGE DE SOUSA
+
+**Descritores:** PROCESSO DISCIPLINAR.; OBJECTO DO RECURSO JURISDICIONAL.; PODERES DE COGNIÇÃO.; AUDIÊNCIA E DEFESA.; PROVA TESTEMUNHAL.; FUNDAMENTAÇÃO DO ACTO ADMINISTRATIVO.
+
+**Nº Convencional:** JSTA00059913
+
+**Nº do Documento:** SA12003121701717
+
+**Data de Entrada:** 10/28/2003
+
+**Recorrente:** A...
+
+**Recorrido 1:** SE DO ENSINO SUPERIOR
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** AC TCA.
+
+**Decisão:** PROVIDO.
+
+**Área Temática 1:** DIR ADM GER - FUNÇÃO PUB / DISCIPLINAR.
+
+**Legislação Nacional:** CPC96 ART671 N1 ART672 ART684 N3 N4.; EDF84 ART42 ART61 N4 N5.; CONST97 ART269 N3.; CPA91 ART101 ART102.
+
+**Jurisprudência Nacional:** AC STA PROC39946 DE 1998/06/16.; AC STAPLENO PROC23405 DE 1993/03/30.; AC STA DE 1997/03/20 IN BMJ N465 PAG373.; AC STA PROC28897 DE 1999/04/27.; AC STA PROC29875 DE 1992/10/13.
+
+## Sumário
+
+I - Se foi indeferida a arguição de uma nulidade processo por mais do que uma razão, uma das quais foi a intempestividade da arguição, e não impugnando o recorrente no recurso jurisdicional o decidido sobre esta questão, não pode o tribunal de recurso alterar o decidido sobre esta, tendo de considerar-se definitivamente assente no processo que a arguição da referida nulidade foi intempestiva (arts. 671.º, n.º 1, 672.º e 684.º, n.ºs 3 e 4, do C.P.C.).
+
+II - Nestas condições, seria inútil apreciar se é correcta ou não a decisão recorrida quanto às outras razões de indeferimento da arguição da nulidade, pois sempre teria de se manter esse indeferimento por intempestividade.
+
+III - O art. 61.º, n.º 4, do Estatuto Disciplinar dos Funcionários e Agentes da Administração Central, Regional e Local de 1984, ao proibir a audição de mais de três testemunhas sobre cada facto, tem como pressuposto que elas deponham sobre os factos, pelo que não se contam, para esse efeito, as testemunhas que apenas manifestem o seu desconhecimento deles.
+
+IV - O essencial do direito de defesa do arguido em processo disciplinar consubstancia-se na possibilidade de pronúncia sobre todos os elementos que relevem para a decisão, tanto no que concerne à matéria de facto como à matéria de direito, não podendo esse direito deixar de abranger, nomeadamente, a possibilidade de pronúncia sobre todos os elementos da matéria de facto desfavoráveis que sejam produzidos no processo, independentemente de eles ser ou não produzidos em diligências requeridas pelo arguido.
+
+V - No entanto, o regime do direito de audiência em processo disciplinar é especial, afastando, no seu específico campo de aplicação, a aplicabilidade do regime geral previsto no Código do Procedimento Administrativo, pelo que não é necessariamente imprescindível a audição sobre o relatório final e sobre a proposta de decisão, não o sendo, designadamente, quando não se apreciarem nele questões de facto ou de direito sobre as quais o arguido já tenha tido oportunidade de se pronunciar.
+
+VI - Os depoimentos das testemunhas prestados no processo disciplinar, reduzidos a escrito, constituem prova documental atendível no processo de recurso contencioso, podendo ser neste valorados para formulação de juízo sobre a ocorrência dos factos imputados ao arguido.
+
+VII - A fundamentação é suficiente quando permite a um destinatário normal aperceber-se do itinerário cognoscitivo e valorativo seguido pelo autor do acto para proferir a decisão, isto é, quando aquele possa conhecer as razões por que o autor do acto decidiu como decidiu e não de forma diferente, podendo ser feita por remissão.
