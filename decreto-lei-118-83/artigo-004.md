@@ -1,3 +1,7 @@
+## Secção II
+
+## Beneficiários titulares
+
 ## Subsecção I
 
 ## Dos organismos autónomos
@@ -6,12 +10,12 @@
 
 ### (Autonomia administrativa e financeira ou equiparada)
 
-1 - Os funcionários e agentes dos organismos dotados de autonomia administrativa e financeira e ainda de outros organismos que não sendo financeiramente autónomos sejam dotados de verbas próprias para pagamento do seu pessoal podem adquirir a qualidade de beneficiário titular se, cumulativamente:
+O pessoal dos organismos dotados de autonomia administrativa e financeira e ainda de outros organismos que, não sendo financeiramente autónomos, sejam dotados de verbas próprias para pagamento ao seu pessoal só poderá adquirir a qualidade de beneficiário titular se, cumulativamente:
 
-a) Não beneficiarem como titulares de qualquer outro subsistema de saúde integrado na Administração Pública;
+a) Os respectivos organismos tiverem celebrado um prévio acordo com a ADSE onde serão fixadas as condições respeitantes à atribuição dos benefícios assegurados pela ADSE;
 
-b) Os respectivos organismos assegurarem pelas verbas inscritas nos seus orçamentos privativos os encargos resultantes dos benefícios concedidos pela ADSE;
+b) Não beneficiarem como titulares de qualquer outro regime de natureza igual ou semelhante ao da ADSE;
 
-c) Concorrerem a favor da ADSE a título de comparticipação nas despesas de administração com um quantitativo anual por beneficiário inscrito, quer titular quer familiar, fixado por despacho do membro do Governo responsável pela área das finanças.
+c) Os respectivos organismos assegurarem pelas verbas inscritas nos seus orçamentos privativos os encargos resultantes da aplicação do previsto na alínea a);
 
-2 - Os encargos decorrentes dos benefícios concedidos pela ADSE são suportados pelos respectivos organismos nos termos do preceituado no artigo seguinte.
+d) Concorrerem a favor da ADSE a título de comparticipação nas despesas da Administração com um quantitativo anual por beneficiário inscrito, quer titular quer familiar, fixado por despacho do Ministro de Estado e das Finanças e do Plano.

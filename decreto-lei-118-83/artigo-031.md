@@ -1,3 +1,7 @@
+## Secção II
+
+## Dos cuidados de saúde
+
 ## Subsecção I
 
 ## Dos cuidados de saúde no estrangeiro
@@ -6,8 +10,8 @@
 
 ### (Protecção na doença no estrangeiro)
 
-Os beneficiários da ADSE podem recorrer aos cuidados de saúde no estrangeiro nas seguintes condições:
+Os beneficiários da ADSE poderão recorrer aos cuidados médicos e hospitalares no estrangeiro nas seguintes condições:
 
-a) Desde que não existam meios técnicos em Portugal para os cuidados exigidos, situação que deve ser reconhecida pelo responsável clínico dos serviços da especialidade de um hospital central nacional e mediante decisão fundamentada da ADSE;
+1) Desde que não existam meios técnicos em Portugal para os cuidados exigidos, situação que deverá ser reconhecida pelo responsável clínico dos serviços da especialidade de um hospital central nacional e aceite pela inspecção médica da ADSE:
 
-b)Em qualquer outra situação.
+2) Em qualquer outra situação.

@@ -6,7 +6,7 @@
 
 2 - As informações incluídas no boletim são confirmadas:
 
-a) Pelas entidades responsáveis pela inscrição dos funcionários e agentes no activo, relativamente a estes e aos seus familiares ou equiparados e a familiares sobrevivos quando aqueles tiverem falecido antes da sua inscrição na ADSE;
+a) Pelas entidades responsáveis pela inscrição dos funcionários e agentes no activo, relativamente a estes e aos seus familiares ou equiparados e a familiares sobrevivos, quando aqueles tiverem falecido antes da sua inscrição na ADSE;
 
 b) Pela entidade que paga a pensão aos funcionários e agentes aposentados ou ainda aos seus familiares sobrevivos.
 
@@ -14,8 +14,6 @@ b) Pela entidade que paga a pensão aos funcionários e agentes aposentados ou a
 
 a) Pelas entidades mencionadas na alínea a) do número precedente, relativamente aos beneficiários nela citados;
 
-b) Pela entidade que pague a pensão ao funcionário e agente aposentado;
+b) Pelo próprio, nos restantes casos.
 
-c) Pelo próprio, nos restantes casos.
-
-4 - A ADSE pode, sempre que achar necessário, solicitar das entidades competentes e, bem assim, dos beneficiários titulares e familiares ou equiparados as informações de que careça para verificação das condições de inscrição e manutenção de direitos como beneficiário.
+4 - A ADSE poderá, sempre que achar necessário, solicitar das entidades competentes e, bem assim, dos beneficiários titulares e familiares ou equiparados as informações de que careça para verificação das condições de inscrição e manutenção de direitos como beneficiário.

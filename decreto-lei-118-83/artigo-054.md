@@ -1,11 +1,3 @@
-## Capítulo VI
-
-## Da gestão financeira
-
-## Secção I
-
-## Receitas e despesas
-
 ## Capítulo VII
 
 ## Disposições finais e transitórias

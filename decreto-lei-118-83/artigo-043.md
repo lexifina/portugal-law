@@ -18,4 +18,4 @@ a) De acidente em serviço ou doença profissional;
 
 b) De acidente da responsabilidade de terceiro;
 
-c) De doença abrangida pelo regime de concessão de assistência aos funcionários e agentes tuberculosos e seus familiares.
+c) De doença ao abrigo do Serviço de Luta Antiturberculosa.
