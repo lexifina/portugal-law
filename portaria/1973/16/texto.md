@@ -1,0 +1,6 @@
+Portaria n.º 16/73
+de 11 de Janeiro
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do § único do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, conjugado com o artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, e artigo 3.º do aludido Decreto n.º 35770 e sua alínea e), com a nova redacção dada pelo artigo 4.º do Decreto n.º 40712, de 1 de Agosto de 1956, abrir um crédito especial da importância de 100000$00, destinado a reforçar a verba do capítulo 10.º, artigo 305.º, n.º 1, alínea c) «Encargos gerais - Diversas despesas - Passagens a estudantes, nos termos do Decreto n.º 45653, de 11 de Abril de 1964 - Passagens de regresso», da tabela de despesa ordinária do orçamento geral da província de Timor para o ano económico de 1972, tomando como contrapartida o excesso de cobrança sobre a previsão da receita do capítulo 4.º, artigo 36.º, alínea a) «Taxas - Rendimentos de diversos serviços - Receitas eventuais e não especificadas - Diversas», do orçamento da receita ordinária para o mesmo ano económico.
+Ministério do Ultramar, 4 de Janeiro de 1973. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada no Boletim Oficial de Timor. - J. da Silva Cunha.
