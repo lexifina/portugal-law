@@ -1,0 +1,28 @@
+Decreto n.º 82/81
+de 1 de Julho
+O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
+Artigo único. É aprovado o Acordo Especial de Cooperação entre a República Portuguesa e a República da Guiné-Bissau no Domínio da Assistência aos Diminuídos de Guerra, assinado em 13 de Maio de 1980, cujo texto vai anexo ao presente decreto.
+Visto e aprovado em Conselho de Ministros, 28 de Maio de 1981. - Francisco José Pereira Pinto Balsemão.
+Assinado em 22 de Junho de 1981.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+ACORDO ESPECIAL DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA GUINÉ-BISSAU NO DOMÍNIO DA ASSISTÊNCIA AOS DIMINUÍDOS DE GUERRA.
+Considerando o compromisso assumido pelo Governo da República Portuguesa no Protocolo do Acordo celebrado com o Partido Africano para a Independência da Guiné-Bissau e Cabo Verde (PAIGC) em Argel, aos 26 de Agosto de 1974;
+Tendo em vista o propósito reiteradamente declarado do Governo da República Portuguesa de dar o seu apoio a um plano de reintegração na vida civil dos cidadãos da República da Guiné-Bissau que prestaram serviço militar nas forças armadas portuguesas diminuídos em consequência da guerra colonial;
+Atendendo aos princípios gerais consagrados no Acordo Geral de Cooperação e Amizade, celebrado entre a República Portuguesa e a República da Guiné-Bissau em 11 de Junho de 1975;
+As Partes Contratantes decidem concluir o seguinte Acordo:
+ARTIGO 1.º
+1 - O Estado Português compromete-se a suportar as despesas da assistência com o fornecimento de próteses e ortóteses (inclusive cadeiras de rodas, muletas, canadianas, próteses oculares e auditivas) aos diminuídos de guerra guineenses que prestaram serviço nas forças armadas portuguesas.
+2 - Este financiamento será concedido após prévia apreciação, caso a caso, do tipo e grau de mutilação sofrida, bem como do tipo, qualidade e custo da prótese ou ortótese fornecida.
+3 - Na globalidade, a contribuição do Estado Português não poderá exceder o limite máximo de 2 milhões de escudos anuais.
+ARTIGO 2.º
+Quando solicitado pelo Estado da Guiné-Bissau, o Estado Português poderá igualmente intervir na implantação de esquemas de formação profissional e apoio técnico aos mutilados fisicamente reabilitados, em condições a acordar entre os dois Estados.
+ARTIGO 3.º
+1 - O presente Acordo entrará em vigor provisoriamente na data da sua assinatura e definitivamente na data da troca de notas, confirmando a sua aprovação, em conformidade com os requisitos constitucionais de ambos os países, e terá duração indeterminada.
+2 - O presente Acordo será revisto dentro de um ano a partir da sua entrada em vigor, com base na experiência entretanto adquirida, de molde a manter-se a continuidade dessas condições ou a estabelecer-se outras que se revelem mais consentâneas com os fins em vista.
+Feito em Lisboa, aos 13 de Maio de 1980, em dois exemplares, fazendo ambos os textos igualmente fé.
+Pelo Governo da República Portuguesa:
+Luís de Azevedo Coutinho.
+Pelo Governo da República da Guiné-Bissau:
+Filinto Vaz Martins.
