@@ -1,3 +1,7 @@
+## Capítulo IV
+
+## Do regime internacional
+
 # Artigo 31.º
 
 ### (Competência da ordem jurídica portuguesa)

@@ -1,7 +1,3 @@
-## Título IV
-
-## Da violação e defesa do direito de autor e dos direitos conexos
-
 # Artigo 202.º
 
 ### (Contrafacção)

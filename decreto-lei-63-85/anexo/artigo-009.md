@@ -1,11 +1,3 @@
-## Capítulo II
-
-## Do direito de autor
-
-## Secção I
-
-## Do conteúdo do direito de autor
-
 # Artigo 9.º
 
 ### (Reconhecimento do direito de autor)

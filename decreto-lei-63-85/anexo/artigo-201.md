@@ -1,17 +1,13 @@
+## Título IV
+
+## Da violação e defesa do direito de autor e dos direitos conexos
+
 # Artigo 201.º
 
-### Apreensão e perda de coisas relacionadas com a prática de crime
+### (Violação do direito moral)
 
-1 - São sempre apreendidos os exemplares ou cópias das obras usurpadas ou contrafeitas, quaisquer que sejam a natureza da obra e a forma de violação, bem como os respectivos invólucros materiais, máquinas ou demais instrumentos ou documentos de que haja suspeita de terem sido utilizados ou de se destinarem à prática da infracção.
+1 - Quem se arrogar fraudulentamente a paternidade de uma obra ou de prestação de um artista que sabe não lhe pertencer será punido com prisão até 1 ano e multa de 100 a 200 dias.
 
-2 - Nos casos de flagrante delito, têm competência para proceder à apreensão as autoridades policiais e administrativas, designadamente a Polícia Judiciária, a Polícia de Segurança Pública, a Polícia Marítima, a Guarda Nacional Republicana, a Autoridade de Segurança Alimentar e Económica e a Inspecção-Geral das Actividades Culturais.
+2 - Na mesma pena incorre quem fraudulentamente atentar contra a genuinidade ou integridade da obra ou prestação de artista, praticando acto que a desvirtue e possa afectar a honra e reputação do autor ou do artista.
 
-3 - A sentença que julgar do mérito da acção judicial declara perdidos a favor do Estado os bens que tiverem servido ou estivessem destinados directamente a servir para a prática de um ilícito, ou que por este tiverem sido produzidos, sendo as cópias ou exemplares destruídos, sem direito a qualquer indemnização.
-
-4 - Na aplicação destas medidas, o tribunal deve ter em consideração os legítimos interesses de terceiros, em particular dos consumidores.
-
-5 - O tribunal, ponderada a natureza e qualidade dos bens declarados perdidos a favor do Estado, pode atribuí-los a entidades, públicas ou privadas, sem fins lucrativos se o lesado der o seu consentimento expresso para o efeito.
-
-6 - O tribunal pode igualmente impor ao infractor, ou ao intermediário cujos serviços estejam a ser utilizados pelo infractor, uma medida destinada a inibir a continuação da infracção verificada, designadamente a interdição temporária do exercício de certas actividades ou profissões, a privação do direito de participar em feiras ou mercados ou o encerramento temporário ou definitivo do estabelecimento.
-
-7 - Nas decisões de condenação à cessação de uma actividade ilícita, o tribunal pode prever uma sanção pecuniária compulsória destinada a assegurar a respectiva execução.
+3 - O procedimento criminal depende de queixa.

@@ -1,3 +1,7 @@
+## Secção II
+
+## Da atribuição do direito de autor
+
 # Artigo 12.º
 
 ### (Titularidade)

@@ -1,5 +1,5 @@
 # Artigo 133.º
 
-### (Transmissão dos direitos do produtor)
+### (Regime aplicável)
 
-É igualmente permitido ao produtor transferir a todo o tempo para terceiro, no todo ou em parte, direitos emergentes do contrato, ficando, todavia, responsável para com os autores pelo cumprimento pontual do mesmo.
+Aplicam-se ao contrato de produção cinematográfica as disposições referentes ao contrato de edição, à representação e execução, desde que haja identidade de razão.

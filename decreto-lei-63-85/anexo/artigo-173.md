@@ -1,11 +1,9 @@
-## Secção X
-
-## Dos jornais e outras publicações periódicas
-
 # Artigo 173.º
 
-### (Protecção)
+### (Regime aplicável)
 
-1 - O direito de autor sobre obra publicada, ainda que sem assinatura, em jornal ou publicação periódica pertence ao respectivo titular e só ele pode fazer ou autorizar a reprodução em separado ou em publicação congénere, salvo convenção escrita em contrário.
+1 - As regras relativas à edição de obras originais constantes da secção I deste capítulo aplicam-se à edição das respectivas traduções, quer a autorização para traduzir haja sido concedida ao editor quer ao autor da tradução.
 
-2 - Sem prejuízo do disposto no número precedente, o proprietário ou editor da publicação pode reproduzir os números em que foram publicadas as contribuições referidas.
+2 - Salvo convenção em contrário, o contrato celebrado entre editor e tradutor não implica cedência nem transmissão, temporária ou permanente, a favor daquele dos direitos deste sobre a sua tradução.
+
+3 - O editor pode exigir do tradutor as modificações necessárias para assegurar o respeito pela obra original e, quando esta implicar determinada disposição gráfica, a conformidade do texto com ela.
