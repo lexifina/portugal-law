@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que a Organização Internacional do Trabalho informou ter sido recebida uma declaração do Governo Australiano, em conformidade com o artigo 35 da Constituição daquele organismo internacional, no sentido de considerar aplicável ao Nauru, ilha Norfolk, Nova Guiné e Papuásia a Convenção (n.º 12) sobre a reparação de acidentes de trabalho na agricultura, adoptada na 3.ª secção da Conferência Geral da Organização Internacional do Trabalho, reunida em Genebra em 1921.
+Direcção-Geral dos Negócios Económicos e Consulares, 14 de Maio de 1966. - O Director-Geral, José Calvet de Magalhães.
