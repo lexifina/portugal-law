@@ -1,0 +1,11 @@
+Despacho Normativo n.º 193/82
+Considerando que no âmbito do Acordo de Cooperação Financeira celebrado com a República Federal da Alemanha em 18 de Outubro de 1979 foi assinado um contrato de empréstimo entre a República Portuguesa e o Kreditanstalt für Wiederaufbau (KfW) em 23 de Dezembro de 1980, no montante de 2 milhões de marcos alemães;
+Considerando que o produto deste empréstimo se destina à criação de um fundo de financiamento de estudos de viabilidade de projectos, cujos projectos virão a ser incluídos nos futuros programas de cooperação financeira com a República Federal da Alemanha;
+Considerando as relações que se torna necessário estabelecer entre os vários departamentos do Ministério das Finanças e do Plano envolvidos na aplicação dos recursos deste empréstimo, na sua gestão e na administração das operações financeiras a estabelecer na ordem interna dele decorrentes:
+Nos termos do artigo 5.º do Decreto-Lei n.º 307/82, de 2 de Agosto, determino o seguinte:
+1 - Ao Gabinete para a Cooperação Económica Externa compete analisar a conformidade dos pedidos de saque do empréstimo com as disposições contratuais estabelecidas com o KfW e com o acordado em posteriores conversações com as autoridades alemãs.
+2 - O Gabinete para a Cooperação Económica Externa deverá enviar os pedidos de saque do empréstimo que se encontrem correctamente instruídos para a Direcção-Geral da Junta do Crédito Público, que promoverá as necessárias diligências para apresentação dos mesmos junto do KfW, nos moldes habituais.
+3 - As Direcções-Gerais da Junta do Crédito Público e do Tesouro estabelecerão para o presente empréstimo os procedimentos que actualmente vigoram para os restantes empréstimos contraídos pela República Portuguesa junto do KfW.
+4 - Todos os relatórios que devam ser apresentados ao KfW, em execução do contrato de empréstimo, deverão ser remetidos àquele banco pelo Gabinete para a Cooperação Económica Externa.
+5 - O presente despacho produz efeitos, independentemente da data em que for publicado em Diário da República, a partir da data de entrada em vigor do Decreto-Lei n.º 307/82, de 2 de Agosto.
+Ministério das Finanças e do Plano, 10 de Agosto de 1982. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.
