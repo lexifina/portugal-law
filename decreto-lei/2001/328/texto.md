@@ -1,0 +1,59 @@
+Decreto-Lei n.º 328/2001
+de 18 de Dezembro
+Os municípios de Almeida, Fornos de Algodres, Pinhel e Trancoso pretendem integrar a Região de Turismo da Serra da Estrela, criada pelo Decreto-Lei n.º 41089, publicado no Diário do Governo, 1.ª série, n.º 101, de 2 de Maio de 1957.
+Observados os pressupostos legais que a lei estabelece, designadamente os constantes do artigo 7.º do Decreto-Lei n.º 287/91, de 9 de Agosto, importa para o efeito respeitar a vontade daqueles municípios e proceder-se desde já à alteração dos Estatutos da Região de Turismo da Serra da Estrela, nos termos do n.º 4 do referido artigo 7.º do mesmo diploma legal.
+Procede-se, também, à alteração dos Estatutos da Região de Turismo, aprovados pelo Decreto-Lei n.º 263/93, de 24 de Julho, por força da integração do INATEL na composição da comissão regional.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Alargamento da área da Região de Turismo da Serra da Estrela
+É aprovado o alargamento da área da Região de Turismo da Serra da Estrela, criada pelo Decreto-Lei n.º 41089, publicado no Diário do Governo, 1.ª série, n.º 101, de 2 de Maio de 1957, passando a mesma a integrar os municípios de Almeida, Fornos de Algodres, Pinhel e Trancoso.
+Artigo 2.º
+Alteração dos Estatutos da Região de Turismo da Serra da Estrela
+Os artigos 1.º e 8.º dos Estatutos da Região de Turismo da Serra da Estrela, aprovados pelo Decreto-Lei n.º 263/93, de 24 de Julho, passam a ter a seguinte redacção:
+«Artigo 1.º
+Da área da Região de Turismo e seu alargamento
+1 - A Região de Turismo da Serra da Estrela, pessoa colectiva de direito público, dotada de autonomia administrativa e financeira e património próprio, abrange a área dos seguintes municípios:
+a) Almeida;
+b) Belmonte;
+c) Celorico da Beira;
+d) Covilhã;
+e) Fornos de Algodres;
+f) Fundão;
+g) Gouveia;
+h) Guarda;
+i) Manteigas;
+j) Oliveira do Hospital;
+l) Penamacor;
+m) Pinhel;
+n) Seia;
+o) Trancoso.
+2 - ...
+3 - ...
+Artigo 8.º
+Da composição da comissão regional
+1 - A comissão regional tem a seguinte composição:
+a) ...
+b) ...
+c) ...
+d) ...
+e) ...
+f) ...
+g) ...
+h) ...
+i) ...
+j) ...
+l) ...
+m) ...
+n) Um representante do INATEL.
+2 - ...
+3 - ...
+4 - ...
+5 - ...
+6 - ...»
+Visto e aprovado em Conselho de Ministros de 9 de Novembro de 2001. - Guilherme d'Oliveira Martins - Luís Garcia Braga da Cruz - José Sócrates Carvalho Pinto de Sousa.
+Promulgado em 5 de Dezembro de 2001.
+Publique-se.
+O Presidente da República, JORGE SAMPAIO.
+Referendado em 7 de Dezembro de 2001.
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
