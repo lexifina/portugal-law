@@ -1,0 +1,11 @@
+Portaria n.º 1062/99
+de 7 de Dezembro
+Com fundamento no disposto no artigo 20.º da Lei n.º 30/86, de 27 de Agosto, e no Decreto-Lei n.º 251/92, de 12 de Novembro, foi pela Portaria n.º 496/94, de 5 de Julho, concessionada à ORCINETUR - Estudos e Gestão de Recursos Cinegéticos e Agrícolas, Lda., a zona de caça turística do Padrão (processo n.º 1531-DGF), abrangendo vários prédios rústicos, sitos na freguesia e município de Ponte de Sor, com uma área de 3267,47 ha, válida até 5 de Julho de 2006.
+Considerando que a entidade concessionária deixou de assegurar desde Dezembro de 1997 a fiscalização da zona de caça turística do Padrão pelos dois guardas florestais auxiliares a que estava obrigada nos termos do n.º 6.º da Portaria n.º 496/94, de 5 de Julho;
+Considerando que a entidade concessionária deixou de assegurar desde Abril de 1998 a sinalização da zona de caça em conformidade com o disposto no n.º 5.º da Portaria n.º 496/94, de 5 de Julho;
+Considerando que a entidade concessionária desde 1997 não tem exercido na área concessionada qualquer aproveitamento dos recursos cinegéticos, frustrando assim o fim visado com a sua criação, previsto no artigo 27.º, n.º 1, da Lei n.º 30/86, de 27 de Agosto, e no artigo 62.º, alínea d), do Decreto-Lei n.º 136/96, de 14 de Agosto;
+Considerando que os factos acima descritos constituem incumprimento reiterado das obrigações a que a ORCINETUR - Estudos e Gestão de Recursos Cinegéticos e Agrícolas, Lda., estava vinculada por força da concessão da zona de caça turística do Padrão:
+Assim:
+Com fundamento no disposto na alínea b) do n.º 1 do artigo 86.º do Decreto-Lei n.º 136/96, de 14 de Agosto, manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas, que seja revogada a concessão do regime cinegético especial atribuída pela Portaria n.º 496/94, de 5 de Julho, à ORCINETUR - Estudos e Gestão de Recursos Cinegéticos e Agrícolas, Lda. (processo n.º 1531-DGF).
+Em 22 de Outubro de 1999.
+Pelo Ministro da Economia, Vítor José Cabrita Neto, Secretário de Estado do Turismo. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural.
