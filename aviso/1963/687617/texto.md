@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que, segundo informação da Embaixada da Bélgica em Lisboa, os Governos da Dinamarca, da Finlândia, da Noruega e da Suécia, por respectivas comunicações, recebidas em 30 de Junho de 1963, notificaram o Governo Belga da denúncia da Convenção internacional para a unificação de certas regras à limitação da responsabilidade dos proprietários de navios, e Protocolo, assinados em Bruxelas a 25 de Agosto de 1924. As referidas denúncias produzirão os seus efeitos a partir de 1 de Julho de 1964, nos termos do artigo 20.º da citada Convenção.
+Direcção-Geral dos Negócios Económicos e Consulares, 8 de Outubro de 1963. - O Director-Geral, Albano Pires Fernandes Nogueira.
