@@ -1,0 +1,16 @@
+Despacho
+Em vários despachos ministeriais tem-se encarado o problema da utilização do figo na produção de álcool em termos restritivos, procurando-se sempre encaminhar a produção de figo para outras aplicações viáveis e, ao mesmo tempo, tomar as providências necessárias para que se evite a expansão da cultura da figueira com vista à produção de álcool.
+Segundo esta orientação, e não obstante os pedidos insistentes da lavoura para a elevação do preço do figo que naturalmente decorreria do sempre crescente aumento de encargos, tem-se mantido o preço no mesmo nível desde 1955 - 27$50 por arroba -, com excepção das duas últimas campanhas, em que subiu para 30$00 por arroba.
+Na presente campanha, perante as solicitações da lavoura, por um lado, e a necessidade de manter a directriz segundo a qual não deve ser fomentada a cultura da figueira em condições antieconómicas, sob pena de, pela forçada destilação, se obterem cada vez maiores quantidades de álcool para as quais não há escoamento senão à custa de incomportáveis encargos financeiros, foi decidido marcar o princípio da fixação de um contingente susceptível de satisfazer as necessidades do País em álcool e para o qual se estabeleceu um preço de compra mais elevado.
+Entendeu-se, com efeito, que o País necessita, por campanha, aproximadamente, de 8 milhões de litros de álcool, para os quais são necessárias 1800000 arrobas de figo, que será pago ao preço de 31$80 por arroba.
+Para o figo que ultrapasse este contingente e que se apresenta, portanto, como excedentário, fixa-se o preço de 27$50 por arroba.
+Assim, ao abrigo do disposto no n.º 1 do artigo 11.º do Estatuto da Administração-Geral do Álcool, aprovado pelo Decreto-Lei n.º 47338, de 24 de Novembro de 1966, e sob proposta da Administração-Geral do Álcool, determino, para vigorar na campanha de 1968 - 1969, o seguinte:
+1.º O preço de figo industrial posto nas destilarias indicadas pela Administração-Geral do Álcool, isento de impurezas e com um grau de humidade normal, é fixado em 31$80 por arroba, relativamente ao contingente de 1800000 arrobas.
+2.º Este contingente será distribuído em função da média dos últimos dez anos das entregas para a produção de álcool de cada uma das regiões tradicionais.
+3.º As quantidades de figo que excedam o contingente fixado no n.º 1 serão pagas, nas condições referidas no mesmo, ao preço de 27$50 por arroba.
+4.º Sempre que o figo apresente impurezas ou grau de humidade anormal, os preços fixados sofrerão descontos proporcionais à incidência desses factores.
+5.º O preço da aguardente de figo na base de 50º x 15º posta na fábrica de álcool é de 4$095 por litro.
+6.º A taxa de laboração da aguardente na base de 50º x 15º, posta nas rectificadoras a indicar pela Administração-Geral do Álcool, tendo em consideração o rendimento mínimo de 8,75 l por cada arroba de figo, é de $46 por litro.
+7.º Relativamente ao figo produzido nos concelhos de Abrantes, Almeirim, Alpiarça, Alvaiázere, Azambuja, Cartaxo, Coruche, Ferreira do Zêzere, Mação, Montemor-o-Novo, Palmela, Ponto de Sor, Rio Maior, Salvaterra de Magos e Sardoal, o rendimento mantém o índice de 8,25 l.
+8.º A taxa de laboração para a indústria de álcool é de 2$30 por litro.
+Ministério da Economia, 14 de Outubro de 1968. - O Ministro da Economia, José Gonçalo da Cunha Sottomayor Correia de Oliveira.
