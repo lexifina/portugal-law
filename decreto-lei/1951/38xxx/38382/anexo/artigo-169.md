@@ -1,0 +1,5 @@
+# Artigo 169.º
+
+Os serviços do Estado e das autarquias locais, as Misericórdias, os organismos corporativos e de coordenação económica e, de uma maneira geral, todas as entidades que promovam a distribuição de casas para pobres, casas para pescadores, casas económicas, de renda económica ou de renida limitada, comunicarão às câmaras, antes de efectuada a sua ocupação, os nomes e as moradas dos respectivos beneficiários, para que verifiquem, em relação às casas por eles desocupadas, a conformidade com as licenças concedidas e as condições de habitabilidade e possam agir de harmonia com as disposições do presente regulamento.
+
+## Regulamento Geral das Edificações Urbanas
