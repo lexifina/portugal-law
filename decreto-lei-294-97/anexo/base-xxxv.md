@@ -4,9 +4,9 @@
 
 1 - Os direitos e obrigações do público e dos proprietários confinantes com as auto-estradas em relação ao seu policiamento serão os que constam do Estatuto das Estradas Nacionais e de outras disposições legais ou regulamentares aplicáveis.
 
-2 - (Revogado.)
+2 - Compete à Junta Autónoma de Estradas a aplicação do disposto no Estatuto das Estradas Nacionais e nas demais disposições legais e regulamentares aplicáveis ao tráfego nas auto-estradas nacionais.
 
-3 - A concessionária tem o dever de colaborar com o InIR - Instituto de Infra-Estruturas Rodoviárias, I. P., comunicando-lhe as violações do Estatuto das Estradas Nacionais e outras disposições legais por parte dos proprietários confinantes com as auto-estradas.
+3 - A concessionária tem o dever de colaborar com a Junta Autónoma de Estradas, comunicando-lhe as violações do Estatuto das Estradas Nacionais e outras disposições legais por parte dos proprietários confinantes com as auto-estradas.
 
 4 - A concessionária tem o dever de informar previamente o utente sobre a realização de obras programadas que afectem as normais condições de circulação na auto-estrada, designadamente as que reduzam o número de vias em serviço ou as obriguem a desvios da faixa de rodagem.
 

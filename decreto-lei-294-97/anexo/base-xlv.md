@@ -2,7 +2,7 @@
 
 ### Rescisão da concessão
 
-1 - No caso de incumprimento grave ou reiterado por parte da concessionária das obrigações que lhe são impostas pelo contrato, o Governo, sob proposta do ministro da tutela do sector rodoviário e ouvido o InIR - Instituto de Infra-Estruturas Rodoviárias, I. P., pode rescindir a concessão.
+1 - No caso de incumprimento grave ou reiterado por parte da concessionária das obrigações que lhe são impostas pelo contrato, o Governo, sob proposta do ministro da tutela do sector rodoviário e ouvida a Junta Autónoma de Estradas, poderá rescindir a concessão.
 
 2 - Podem, designadamente, constituir motivo de rescisão:
 
