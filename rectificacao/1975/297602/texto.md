@@ -1,0 +1,4 @@
+Rectificação
+Tendo saído com inexactidão o n.º 1 do artigo 1.º do Decreto-Lei n.º 222-B/75, publicado pelos Ministérios para o Planeamento e Coordenação Económica, da Justiça e das Finanças, no 2.º suplemento ao Diário do Governo, 1.ª série, n.º 109, de 12 de Maio de 1975, determino que de novo se proceda à sua publicação, cujo teor é o seguinte:
+Artigo 1.º - 1. Não poderá ser proposta, nem correr seus termos, acção executiva contra empresas assistidas pelo Estado, ou em que este tenha intervindo, ao abrigo dos Decretos-Leis n.os 660/74, de 25 de Novembro, e 540-A/74, de 12 de Outubro, que vise o pagamento de dívidas contraídas anteriormente à data do início da assistência ou intervenção estadual, ou emergentes de actos anteriores à mesma data.
+Presidência do Conselho de Ministros, 20 de Maio de 1975. - O Primeiro-Ministro, Vasco dos Santos Gonçalves.
