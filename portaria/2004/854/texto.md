@@ -1,0 +1,10 @@
+Portaria n.º 854/2004
+de 19 de Julho
+Pela Portaria n.º 1067/98, de 29 de Dezembro, foi renovada até 16 de Julho de 2004 a zona de caça associativa de Mato da Póvoa e outras (processo n.º 1051-DGF), situada nos municípios de Castelo de Vide e Nisa, concessionada ao Clube de Caçadores de Mato da Póvoa.
+Entretanto, a entidade concessionária veio requerer a sua renovação.
+Cumpridos os preceitos legais, com fundamento no disposto no n.º 8 do artigo 44.º, em articulação com o disposto na alínea a) do n.º 1 do artigo 36.º e no n.º 1 do artigo 114.º, do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 338/2001, de 26 de Dezembro, e ouvidos os Conselhos Cinegéticos Municipais:
+Manda o Governo, pelos Ministros da Agricultura, Desenvolvimento Rural e Pescas e das Cidades, Ordenamento do Território e Ambiente, o seguinte:
+1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça associativa de Mato da Póvoa e outras (processo n.º 1051-DGF), abrangendo vários prédios rústicos sitos na freguesia de Póvoa e Meadas, município de Castelo de Vide, com a área de 564 ha, e na freguesia de Espírito Santo, município de Nisa, com a área de 81 ha, perfazendo a área de 645 ha.
+2.º Poderão ser criadas zonas de interdição à caça, durante o período de concessão, até um máximo de 10% da área da zona de caça, sem direito a qualquer indemnização, sempre que sejam introduzidas alterações de condicionantes por planos especiais de ordenamento do território de áreas protegidas ou obtidos dados científicos que comprovem a incompatibilidade com a actividade cinegética.
+3.º A presente portaria produz efeitos a partir do dia 17 de Julho de 2004.
+Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, João Manuel Alves Soares, Secretário de Estado das Florestas, em 6 de Maio de 2004. - Pelo Ministro das Cidades, Ordenamento do Território e Ambiente, Artur da Rosa Pires, Secretário de Estado do Ambiente e Ordenamento do Território, em 14 de Junho de 2004.
