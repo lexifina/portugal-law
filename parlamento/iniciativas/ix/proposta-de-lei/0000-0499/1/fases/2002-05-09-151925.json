@@ -1,0 +1,322 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "1",
+    "id": "18990",
+    "titulo": "Autoriza o Governo a alterar o Código do IRS, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro, revendo o Regime Jurídico das Mais Valias estabelecido pela Lei n.º 30-G/2000, de 29 de Dezembro, bem como a alterar o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de Julho, revendo o regime aplicável aos rendimentos dos fundos de investimento."
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "2002-05-09",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2153",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "2002-05-09",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2002-05-09",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "156",
+                "nome": "António Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140576",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "307-307"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-10",
+                "pubLeg": "IX",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/009/2002-05-10/307?pgs=307&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o Código do IRS, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro, revendo o Regime Jurídico das Mais Valias estabelecido pela Lei n.º 30-G/2000, de 29 de Dezembro, bem como a alterar o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de Julho, revendo o regime aplicável aos rendimentos dos fundos de investimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1687",
+                "nome": "Jorge Neto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140577",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "307-307"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-10",
+                "pubLeg": "IX",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/009/2002-05-10/307?pgs=307&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o Código do IRS, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro, revendo o Regime Jurídico das Mais Valias estabelecido pela Lei n.º 30-G/2000, de 29 de Dezembro, bem como a alterar o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de Julho, revendo o regime aplicável aos rendimentos dos fundos de investimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140578",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "307-308"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-10",
+                "pubLeg": "IX",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/009/2002-05-10/307?pgs=307-308&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o Código do IRS, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro, revendo o Regime Jurídico das Mais Valias estabelecido pela Lei n.º 30-G/2000, de 29 de Dezembro, bem como a alterar o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de Julho, revendo o regime aplicável aos rendimentos dos fundos de investimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140579",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "308-309"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-10",
+                "pubLeg": "IX",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/009/2002-05-10/308?pgs=308-309&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o Código do IRS, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro, revendo o Regime Jurídico das Mais Valias estabelecido pela Lei n.º 30-G/2000, de 29 de Dezembro, bem como a alterar o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de Julho, revendo o regime aplicável aos rendimentos dos fundos de investimento.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "18:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "140580",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "309-309"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-05-10",
+                "pubLeg": "IX",
+                "pubNr": "9",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/009/2002-05-10/309?pgs=309&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a alterar o Código do IRS, aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de Novembro, revendo o Regime Jurídico das Mais Valias estabelecido pela Lei n.º 30-G/2000, de 29 de Dezembro, bem como a alterar o Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de Julho, revendo o regime aplicável aos rendimentos dos fundos de investimento.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "151925",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2153",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2002-05-10",
+        "pubLeg": "IX",
+        "pubNr": "9",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/009/2002-05-10?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2002-05-09",
+        "descricao": "Favor: 114; Contra: 100",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS-PP</I><BR>Contra:<I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "28941",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "9",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
