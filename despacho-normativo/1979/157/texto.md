@@ -1,0 +1,4 @@
+Despacho Normativo n.º 157/79
+Ao abrigo do disposto na alínea c) do n.º 2 do artigo 1.º do Decreto-Lei n.º 70/78, de 7 de Abril, obtido o visto prévio do Ministro das Finanças e do Plano, nos termos do artigo 26.º do citado decreto-lei, determina-se:
+O preço e demais condições de venda do milho branco pela Empresa Pública de Abastecimento de Cereais - EPAC na Região Autónoma da Madeira são os fixados para o milho amarelo no continente pelo Despacho Normativo n.º 72/79, publicado no Diário da República, 1.ª série, n.º 85, suplemento, de 11 de Abril de 1979.
+Secretarias de Estado do Comércio e Indústrias Agrícolas e do Comércio Interno, 19 de Junho de 1979. - O Secretário de Estado do Comércio e Indústrias Agrícolas, Mário Francisco Barreira da Ponte. - O Secretário de Estado do Comércio Interno, Manuel Duarte Pereira.
