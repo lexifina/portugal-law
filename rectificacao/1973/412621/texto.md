@@ -1,0 +1,2 @@
+Rectificação
+No sumário do Decreto n.º 534/73, publicado pelo Ministério do Ultramar, Direcção-Geral de Obras Públicas e Comunicações, inserto no Diário do Governo, 1.ª série, n.º 244, de 18 de Outubro de 1973, onde se lê: «Regista as categorias e as designações funcionais do pessoal dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique», deve ler-se: «Regula as categorias e as designações funcionais do pessoal dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique».
