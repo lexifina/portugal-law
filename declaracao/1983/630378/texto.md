@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação da 10.ª Delegação da Direcção-Geral da Contabilidade Pública junto do Ministério da Educação, a declaração de transferências de verbas, no montante de 123132 contos, publicada no Diário da República, 1.ª série, n.º 284, de 12 de Dezembro de 1983, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No preâmbulo, onde se lê «nos termos dos n.os 4 e 5 do artigo 5.º» deve ler-se «nos termos do n.º 4 do artigo 5.º» e onde se lê «Cap. 04, div. 01, C. F. 3.01.0, C. E. 29.00, + 9595 e C. E. 41.00 - Diversas» deve ler-se «Cap. 04, div. 01, C. F. 3.01.0, C. E., 29.00, + 955 e C. E. 41.00-2 - Diversas».
+Secretaria-Geral da Presidência do Conselho de Ministros, 28 de Dezembro de 1983. - O Secretário-Geral, França Martins.
