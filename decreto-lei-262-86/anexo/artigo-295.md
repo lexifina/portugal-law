@@ -21,3 +21,5 @@ b) Quanto à emissão de obrigações com direito de subscrição de acções ou
 c) Quanto à troca de obrigações com direito de subscrição de acções ou de obrigações convertíveis em acções, na diferença para mais entre o valor da emissão daquelas e o valor nominal destas;
 
 d) Quanto às entradas em espécie, na diferença para mais entre o valor atribuído aos bens em que a entrada consiste e o valor nominal das acções correspondentes.
+
+4 - Por portaria dos Ministros das Finanças e da Justiça podem ser dispensadas, no todo ou em parte, do regime estabelecido no n.º 2, as reservas constituídas pelos valores referidos na alínea a) daquele número.

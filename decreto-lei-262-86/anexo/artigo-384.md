@@ -6,7 +6,7 @@
 
 2 - O contrato de sociedade pode:
 
-a) Fazer corresponder um só voto a um certo número de acções, contanto que sejam abrangidas todas as acções emitidas pela sociedade e fique cabendo um voto, pelo menos, a cada 100000$00 de capital;
+a) Fazer corresponder um só voto a um certo número de acções, contanto que sejam abrangidas todas as acções emitidas pela sociedade e fique cabendo um voto, pelo menos, a cada 1000 euros de capital;
 
 b) Estabelecer que não sejam contados votos acima de certo número, quando emitidos por um só accionista, em nome próprio ou também como representante de outro.
 
