@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=qUAFp27CBkIttcOxiLgk0FIFM%2benj3agWAdWp9f2uUE7DM89Hf79g0s6kJ1OpP%2b%2bV8tF1iVoXzUjf9MdNSMm4nwgUSw8wSK%2f8IWQGg3htMY3c5Ya6BFuH2nCggW0h1GujT%2bIUdPmA8SvTT3HpzcWjwY1Ytx02d%2b7d2kHzuJsMkIxOLhUMfluBDICsI431jugsRtyLdTkTs3iZNjh0bZeiTsuFJxPyR5N7XOGoIkmGpdUelnuD9Uv%2bK5tX%2fCtB3SYc9FZA1mlNR599B92fTx%2bndvsVfZla0grGGcMC1Ygbf5wdyt%2fcERRcbU8v%2fdkvPhkc3PKeJXfSzhOHsiR3Kxg%2fadV%2fCqpiI%2bSBylGrc6dYzg%3d&fich=IntervencoesVII_json.txt&Inline=true",
+  "ficheiro_sha256": "63246bfd185a5eb6b3d6f557ea72ee60968af9ce7c1a76c63b16943a173ed13f",
+  "legislatura": "VII",
+  "id": "55763",
+  "tipo": "Pedido de esclarecimento",
+  "orador": "Rui Rio (PSD)",
+  "data_registo": "1999-04-09",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "99334",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "4464",
+        "tipo": "INI",
+        "titulo": "Apreciação Parlamentar - Decreto-lei nº 398/98 de 17 de Dezembro, que aprova a Lei Geral Tributária que enuncia e define os princípios gerais que regem o Direito Fiscal Português e os poderes da administração tributária e garantias dos contribuintes."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1999-04-09",
+    "Debate": "AP 75-PSD E CDS-PP",
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "132",
+      "nome": "Rui Rio"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "55763",
+    "IdDebate": "690",
+    "Iniciativas": [
+      {
+        "fase": "Apreciação de Decreto-Lei",
+        "id": "4464",
+        "tipo": "Apreciação Parlamentar"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "55763",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "2564-2564"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1999-04-10",
+        "pubLeg": "VII",
+        "pubNr": "70",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/070/1999-04-10/2564?pgs=2564&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "DL398/98 AO DEPUTADO MANUEL DOS SANTOS (PS) ",
+    "Sessao": "4",
+    "Sumario": "DEC-LEI 398/98, 17 DEZEMBRO, QUE APROVA A LEI GERAL TRIBUTARIA, QUE ENUNCIA E DEFINE OS PRINCIPIOS GERAIS QUE REGEM O DIREITO FISCAL PORTUGUES E OS PODERES DE ADMINISTRACAO TRIBUTARIA E GARANTIA DOS CONTRIBUINTES",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Pedido de esclarecimento"
+  }
+}
