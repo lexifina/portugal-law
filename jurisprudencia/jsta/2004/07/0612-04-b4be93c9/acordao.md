@@ -1,0 +1,43 @@
+# Acórdão do Supremo Tribunal Administrativo de 2004-07-07, processo 0612/04
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 0612/04
+
+**Data do Acordão:** 07/07/2004
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** JORGE DE SOUSA
+
+**Descritores:** EXECUÇÃO FISCAL.; PRIVILÉGIO IMOBILIÁRIO GERAL.; RECLAMAÇÃO DE CRÉDITOS.
+
+**Nº Convencional:** JSTA00061510
+
+**Nº do Documento:** SA2200407070612
+
+**Data de Entrada:** 05/26/2004
+
+**Recorrente:** MINISTÉRIO PÚBLICO E OUTRO
+
+**Recorrido 1:** A...
+
+**Votação:** MAIORIA COM 1 VOT VENC
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** SENT TT1INST LISBOA PER SALTUM.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR PROC TRIBUT CONT - EXEC FISCAL.
+
+**Legislação Nacional:** CPPTRIB99 ART240 ART157 ART246.; CCIV66 ART735 ART204 ART205 ART751 ART749 ART9 ART750 ART819 ART822 ART744 ART639 ART674 ART1146 ART2070 ART2272 ART735 ART733 ART662 ART604 ART864 ART622 ART865 ART693 ART824.; CIRS88 ART111.; DL 103/80 DE 1980/05/09 ART11.; CONST ART203 ART20.; L 3/99 DE 1999/01/13 ART3.; CPC96 ART56 ART94 ART823 ART835 ART864 ART864A ART866 ART866B ART901A ART920 ART1013 ART832.; DL 53/04 DE 2004/03/18 ART47 ART48 ART97 ART140 ART196 ART197 ART216 ART252.
+
+**Jurisprudência Nacional:** AC STA PROC882 DE 2003/07/02.; AC STA PROC946 DE 2003/10/22.; AC STA PROC2078 DE 2004/02/04.; AC STA PROC442 DE 2004/06/16.
+
+**Referência a Doutrina:** PIRES DE LIMA E ANTUNES VARELA CÓDIGO CIVIL ANOTADO 2ED PAG694 PAG693.; MENEZES CORDEIRO DIREITO DAS OBRIGAÇÕES 2V PAG500.
+
+## Sumário
+
+O crédito que goze de privilégio imobiliário geral e não goze de qualquer garantia real não pode ser reclamado em execução fiscal ao abrigo do art. 240.º, n.º 1, do C.P.P.T..
