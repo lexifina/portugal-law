@@ -1,0 +1,13 @@
+Portaria n.º 21940
+Convindo esclarecer dúvidas suscitadas na aplicação do Decreto-Lei n.º 46136, de 31 de Dezembro de 1964;
+Usando da faculdade conferida no artigo 17.º, n.º 1, do mesmo diploma;
+Manda o Governo da República Portuguesa, pelo Ministro da Educação Nacional:
+I) O n.º 2 do artigo 4.º do Decreto-Lei n.º 46136 passa a ter nova redacção, e é aditado a esse artigo um n.º 3, nos termos seguintes:
+2. O director e o pessoal docente de cada curso são nomeados pelo Ministro da Educação Nacional de entre os agentes de ensino do correspondente grau e ramo de ensino oficial, sempre que exista essa correspondência.
+3. Na expressão «agentes de ensino» abrangem-se todos os que exercem funções docentes ou nelas colaboram, seja qual for a modalidade do seu provimento, ainda que eventual.
+II) O preceito do artigo 5.º do Decreto-Lei n.º 46136 passa a constituir o n.º 1 e são-lhe aditados os seguintes novos números:
+2. As nomeações efectuadas em conformidade com o disposto no número anterior consideram-se feitas por conveniência urgente de serviço público, na falta de declaração em contrário, e as correspondentes funções, para todos os efeitos legais, como desempenhadas nos serviços a que os funcionários pertencem.
+3. A qualificação profissional do serviço será feita pelo Instituto de Meios Áudio-Visuais de Ensino, enquanto o funcionário estiver a trabalhar na telescola.
+4. Findo esse serviço, o agente de ensino, mesmo que não pertença aos quadros fixados por lei, regressará ao estabelecimento onde desempenhava funções quando foi chamado a exercê-las na telescola.
+III) O disposto na presente portaria tem carácter interpretativo e portanto aplica-se retroactivamente.
+Ministério da Educação Nacional, 5 de Abril de 1966. - O Ministro da Educação Nacional, Inocêncio Galvão Teles.
