@@ -2,6 +2,6 @@
 
 ### (Tribunal competente)
 
-1 - É competente para conhecer do recurso o tribunal em cuja área territorial se tiver consumado a infracção.
+1 - É competente para conhecer do recurso o juiz de direito da comarca em cuja área tem a sua sede a autoridade que aplicou a coima.
 
-2 - Se a infracção não tiver chegado a consumar-se, é competente o tribunal em cuja área se tiver praticado o último acto de execução ou, em caso de punibilidade dos actos preparatórios, o último acto de preparação.
+2 - O juiz decide singularmente.

@@ -10,4 +10,10 @@ b) As decisões tomadas pelas autoridades administrativas em matéria de facilid
 
 c) A suspensão da execução segundo o artigo 90.º
 
-2 - As decisões referidas no n.º 1 são tomadas sem necessidade de audiência oral, assegurando-se ao arguido ou ao Ministério Público a possibilidade de justificarem, por requerimento escrito, as suas pretensões.
+2 - Admite-se, todavia, recurso para a relação nos seguintes casos:
+
+a) Admissibilidade de execução de coima aplicada por via judicial;
+
+b) Nos casos referidos na alínea b) do número anterior, quando as decisões forem da competência do tribunal da comarca.
+
+3 - As decisões referidas nos n.os 1 e 2 serão tomadas sem necessidade de audiência oral, assegurando-se ao arguido ou ao Ministério Público a possibilidade de justificarem, por requerimento escrito, as suas pretensões.

@@ -6,6 +6,6 @@
 
 2 - A decisão do recurso poderá:
 
-a) Alterar a decisão do tribunal recorrido sem qualquer vinculação aos termos e ao sentido da decisão recorrida, salvo o disposto no artigo 72.º-A;
+a) Alterar a decisão do tribunal recorrido sem qualquer vinculação aos termos e ao sentido da decisão recorrida;
 
 b) Anulá-la e devolver o processo ao tribunal recorrido.

@@ -2,22 +2,24 @@
 
 ### (Sanções acessórias)
 
-1 - A lei pode, simultaneamente com a coima, determinar as seguintes sanções acessórias, em função da gravidade da infracção e da culpa do agente:
+1 - Nos casos em que a lei o determine poderá decidir-se como sanção acessória de uma contra-ordenação a apreensão de objectos.
 
-a) Perda de objectos pertencentes ao agente;
+2 - A apreensão só será permitida quando:
 
-b) Interdição do exercício de profissões ou actividades cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;
+a) Ao tempo da decisão os objectos pertençam ao agente;
 
-c) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;
+b) Representem um perigo para a comunidade ou para a prática de um crime ou de outra contra-ordenação;
 
-d) Privação do direito de participar em feiras ou mercados;
+c) Tendo sido alienados ou onerados a terceiro, este conhecesse, ou devesse razoavelmente conhecer, as circunstâncias determinantes da possibilidade da sua apreensão.
 
-e) Privação do direito de participar em arrematações ou concursos públicos que tenham por objecto a empreitada ou a concessão de obras públicas, o fornecimento de bens e serviços, a concessão de serviços públicos e a atribuição de licenças ou alvarás;
+3 - A lei poderá também, simultaneamente com a coima, determinar, entre outras, as seguintes sanções acessórias:
 
-f) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;
+a) Interdição de exercer uma profissão ou uma actividade;
 
-g) Suspensão de autorizações, licenças e alvarás.
+b) Privação do direito a subsídio outorgado por entidades ou serviços públicos;
 
-2 - As sanções referidas nas alíneas b) a g) do número anterior têm a duração máxima de dois anos, contados a partir da decisão condenatória definitiva.
+c) Privação do direito de participar em feiras ou mercados.
 
-3 - A lei pode ainda determinar os casos em que deva dar-se publicidade à punição por contra-ordenação.
+4 - As sanções referidas no número anterior terão a duração máxima de 2 anos, contados a partir da decisão condenatória definitiva.
+
+5 - A lei poderá ainda determinar os casos em que deva dar-se publicidade à punição por contra-ordenação.

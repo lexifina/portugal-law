@@ -6,4 +6,4 @@
 
 2 - Cada comparticipante é punido segundo a sua culpa, independentemente da punição ou do grau de culpa dos outros comparticipantes.
 
-3 - É aplicável ao cúmplice a coima fixada para o autor, especialmente atenuada.
+3 - Se a lei determinar que um facto em princípio qualificado como contra-ordenação deve ser considerado como crime devido a certas qualidades ou relações especiais do agente, só se aplicará a lei penal ao comparticipante ou comparticipantes que detenham essas qualidades ou relações especiais.

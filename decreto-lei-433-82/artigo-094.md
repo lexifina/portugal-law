@@ -14,6 +14,6 @@ c) O transporte de bens apreendidos;
 
 d) A indemnização das testemunhas.
 
-3 - As custas são suportadas pelo arguido em caso de aplicação de uma coima ou de uma sanção acessória, de desistência ou rejeição da impugnação judicial ou dos recursos de despacho ou sentença condenatória.
+3 - As custas serão suportadas pelo arguido em caso de aplicação de uma coima pela autoridade administrativa, de desistência ou rejeição da impugnação judicial ou dos recursos, de despacho ou sentença condenatória.
 
 4 - Nos demais casos, as custas serão suportadas pelo erário público.

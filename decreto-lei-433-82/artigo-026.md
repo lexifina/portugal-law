@@ -1,9 +1,7 @@
 # Artigo 26.º
 
-### Objectos pertencentes a terceiro
+### (Indemnização)
 
-A perda de objectos perigosos pertencentes a terceiro só pode ter lugar:
+1 - Quando a apreensão referida na alínea b) do n.º 2 do artigo 21.º recair sobre objectos pertencentes a terceiro, este terá direito a indemnização segundo as normas da lei civil, salvo se os tiver adquirido de má fé.
 
-a) Quando os seus titulares tiverem concorrido, com culpa, para a sua utilização ou produção, ou do facto tiverem tirado vantagens; ou
-
-b) Quando os objectos forem, por qualquer título, adquiridos após a prática do facto, conhecendo os adquirentes a proveniência.
+2 - A obrigação de indemnização compete ao Estado ou à entidade pública para a qual tenha sido transferida a propriedade dos objectos apreendidos.

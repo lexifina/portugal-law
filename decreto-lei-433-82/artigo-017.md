@@ -6,10 +6,12 @@
 
 ### (Montante da coima)
 
-1 - Se o contrário não resultar de lei, o montante mínimo da coima aplicável às pessoas singulares é de (euro) 3,74 e o máximo de (euro) 3740,98.
+1 - Se o contrário não resultar da lei, o montante mínimo da coima será de 200$00 e o máximo de 200000$00.
 
-2 - Se o contrário não resultar de lei, o montante máximo da coima aplicável às pessoas colectivas é de (euro) 44891,81.
+2 - Se a lei, relativamente ao montante máximo, não distinguir o comportamento doloso do negligente, este só poderá ser sancionado até metade do montante máximo da coima prevista.
 
-3 - Em caso de negligência, se o contrário não resultar de lei, os montantes máximos previstos nos números anteriores são, respectivamente, de (euro) 1870,49 e de (euro) 22445,91.
+3 - As coimas aplicadas às pessoas colectivas poderão elevar-se até aos montantes máximos de:
 
-4 - Em qualquer caso, se a lei, relativamente ao montante máximo, não distinguir o comportamento doloso do negligente, este só pode ser sancionado até metade daquele montante.
+a) 3000000$00 em caso de dolo;
+
+b) 1500000$00 em caso de negligência.

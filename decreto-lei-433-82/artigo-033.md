@@ -1,7 +1,3 @@
-## II Parte
-
-## Do processo de contra-ordenação
-
 ## Capítulo I
 
 ## Da competência
@@ -10,4 +6,4 @@
 
 ### (Regra da competência das autoridades administrativas)
 
-O processamento das contra-ordenações e a aplicação das coimas e das sanções acessórias competem às autoridades administrativas, ressalvadas as especialidades previstas no presente diploma.
+O processamento das contra-ordenações e a aplicação das coimas competem às autoridades administrativas, ressalvadas as particularidades previstas no presente decreto-lei.

@@ -4,4 +4,4 @@
 
 1 - Age sem culpa quem actua sem consciência da ilicitude do facto, se o erro lhe não for censurável.
 
-2 - Se o erro lhe for censurável, a coima pode ser especialmente atenuada.
+2 - Se o erro lhe for censurável, a coima poderá ser atenuada.

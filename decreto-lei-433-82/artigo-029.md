@@ -4,8 +4,8 @@
 
 1 - As coimas prescrevem nos prazos seguintes:
 
-a) Três anos, no caso de uma coima superior ao montante máximo previsto no n.º 1 do artigo 17.º;
+a) 4 anos, no caso de uma coima superior a 100000$00;
 
-b) Um ano, nos restantes casos.
+b) 3 anos, nos restantes casos.
 
-2 - O prazo conta-se a partir do carácter definitivo ou do trânsito em julgado da decisão condenatória.
+2 - O prazo conta-se a partir do trânsito em julgado da decisão condenatória.
