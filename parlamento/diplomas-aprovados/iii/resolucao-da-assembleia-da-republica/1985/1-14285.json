@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=HCNc1CxjkLcZmy1K28%2fMpuMBj9ED4WeiUZsJwaMX38DbmCDjqON7v%2fonZZXMyXV2NiRBh7FnHPuesJM9a635uzcaIptNy9l677w8pubiLfnAXcijVa2JcOBmWjeAsnKxHiuwU2HbSYmGTAqo5BJGDqN1xxby8GJuA1Ho%2bSjb5yKEZ8sa8gh5ZAbj9d%2bnE%2fdeL9LYPYgxpmAClNYDsAeuGlacj8ZXvVsnoSaXqqeNECslw2MU%2fhrveq5ZOrwiuHaXCGIKJ2jlAMxO98qznnXLOPKWqhiYWGEzVcCkj33tgECYOgN3Ji31tKF0wTZqSlQbCa9XwdbH1J%2fMvC1dp%2bAkMwt4%2b%2foYBzgIXoBOWcCANIaoxMBGSBheNspnrfkIlb%2fz&fich=DiplomasIII_json.txt&Inline=true",
+  "ficheiro_sha256": "f78c8386a1b4100752d5a42932a3e0baace25a995a8d64355be276e3c616e6a6",
+  "legislatura": "III",
+  "id": "14285",
+  "tipo": "Resolução da Assembleia da República",
+  "numero": "1",
+  "data_registo": "1985-01-11",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "1985",
+    "Id": "14285",
+    "Iniciativas": [
+      {
+        "DataFimleg": null,
+        "DataInicioleg": null,
+        "IniAnexos": null,
+        "IniAutorDeputados": null,
+        "IniAutorGruposParlamentares": null,
+        "IniAutorOutros": null,
+        "IniciativasEuropeias": null,
+        "IniciativasOrigem": null,
+        "IniciativasOriginadas": null,
+        "IniDescTipo": null,
+        "IniEpigrafe": null,
+        "IniEventos": null,
+        "IniId": "33111",
+        "IniLeg": null,
+        "IniLinkTexto": "",
+        "IniNr": "15",
+        "IniObs": null,
+        "IniSel": null,
+        "IniTestaFicheiro": null,
+        "IniTextoSubst": null,
+        "IniTextoSubstCampo": null,
+        "IniTipo": "I",
+        "IniTitulo": null,
+        "Links": null,
+        "Peticoes": null,
+        "PropostasAlteracao": null
+      }
+    ],
+    "Legislatura": "III",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a53556c4d5a5763765247396a6457316c626e52766330466a64476c32615752685a47565159584a735957316c626e5268636938304e4441344d7a417a4d7930784e6a526d4c5452684e574d744f57466a4e4330795a5442684f574a6d593249774d5759756347526d&fich=44083033-164f-4a5c-9ac4-2e0a9bfcb01f.pdf&Inline=true",
+    "Numero": "1",
+    "Numero2": null,
+    "Observacoes": null,
+    "OrcamContasGerencia": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "353513",
+        "obs": null,
+        "pag": [
+          "61-61"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1985-01-11",
+        "pubLeg": "III",
+        "pubNr": "9",
+        "pubSL": "2",
+        "pubTipo": "DR I série",
+        "pubTp": "M",
+        "supl": null,
+        "URLDiario": "http://data.dre.pt/eli/diario/1/9/1985/0/pt/html"
+      }
+    ],
+    "Sessao": "2",
+    "Tipo": "Resolução da Assembleia da República",
+    "Titulo": "Inquérito parlamentar aos actos do conselho de gerencia da RTP relativamente a cobertura televisiva da moção de censura apresentada pelo CDS",
+    "Tp": "A",
+    "Versao": null
+  }
+}
