@@ -1,0 +1,79 @@
+Portaria n.º 520/95
+de 31 de Maio
+A Assembleia Municipal de Aljustrel aprovou, em 24 de Fevereiro de 1995, o Plano de Pormenor da Zona Industrial de Aljustrel.
+Considerando que foi realizado o inquérito público nos termos previstos no artigo 14.º do Decreto-Lei n.º 69/90, de 2 de Março;
+Considerando os pareceres favoráveis emitidos pela Comissão de Coordenação da Região do Alentejo, Delegação Regional do Ambiente e Recursos Naturais do Alentejo, Direcção de Estradas de Beja, TELECOM - Área de Telecomunicações de Beja, EDP, Delegação Regional da Indústria e Energia do Alentejo e Direcção-Geral do Ordenamento do Território e Desenvolvimento Urbano;
+Considerando que se verificou a conformidade do Plano de Pormenor com as disposições legais e regulamentares em vigor e com os planos, programas e projectos de interesse para o município ou supramunicipal, nos termos previstos no n.º 2 do artigo 16.º do Decreto-Lei n.º 69/90, de 2 de Março;
+Ao abrigo do n.º 4 do artigo 3.º do Decreto-Lei n.º 69/90, de 2 de Março, com as alterações introduzidas pelo Decreto-Lei n.º 211/92, de 8 de Outubro, e da delegação de competências conferida pelo Despacho n.º 52/93 do Ministro do Planeamento e da Administração do Território, publicado no Diário da República, 2.ª série, de 25 de Setembro:
+Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordenamento do Território, que seja ratificado o Plano de Pormenor da Zona Industrial de Aljustrel, também designado por Plano de Pormenor do Malha Ferro - Aljustrel (Zona Industrial), cujo Regulamento e planta de síntese se publicam em anexo à presente portaria, dela fazendo parte integrante.
+Ministério do Planeamento e da Administração do Território.
+Assinada em 1 de Maio de 1995.
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
+
+Regulamento do Plano de Pormenor do Malha Ferro - Aljustrel (Zona Industrial)
+CAPÍTULO I
+Disposições gerais
+Artigo 1.º O presente Regulamento faz parte integrante do Plano de Pormenor do Malha Ferro (Zona Industrial), em Aljustrel, e tem por objectivo estabelecer as regras e orientações a que deverá obedecer a ocupação e uso do solo dentro dos limites da sua área de intervenção.
+Art. 2.º O terreno tem a área de 9,6 ha e confina: a nordeste, com a Herdade do Monte da Beguina; a sudeste, com o Monte Ruas; a sudoeste, com José Pinto Costa Salgueiro e irmão, GRAFIQUATRO, José Francisco Rodrigues Agostinho, Manuel Joaquim Conceição Mestre, TECLASUL, Luís Coelho Pereira e Alfredo Pardal Fialho, e a noroeste, com FORAKY, José Francisco Larguinho, Câmara Municipal de Aljustrel, António F. Raposo Pereira e Estrada Nacional n.º 2.
+Art. 3.º Os lotes, numerados de 1 a 36, agrupam-se, em função da sua área e acessibilidade, segundo três classes:
+Classe A (área igual ou superior a 2001 m2);
+Classe B (área igual ou superior a 1251 m2 e igual ou inferior a 2000 m2);
+Classe C (área igual ou superior a 534 m2 e igual ou inferior a 1250 m2).
+Art. 4.º Os lotes destinam-se à construção de armazéns, oficinas e indústrias de pequena e média dimensão e classificadas de B, C e D, conforme a tabela anexa à Portaria n.º 744-B/93, de 18 de Agosto.
+Art. 5.º A instalação ou posterior alteração dos estabelecimentos industriais carece de licenciamento prévio pelo organismo competente, de acordo com o Regulamento do Exercício da Actividade Industrial (Decreto Regulamentar n.º 25/93, de 17 de Agosto).
+Art. 6.º Todos os estabelecimentos deverão funcionar de acordo com as normas disciplinadoras do exercício da actividade industrial que constam do Decreto-Lei n.º 109/91, de 15 de Março, alterado pelo Decreto-Lei n.º 282/93, de 17 de Agosto.
+Art. 7.º A instalação dos estabelecimentos das classes B e C depende do cumprimento dos artigos enunciados no capítulo III deste Regulamento.
+Art. 8.º Todos os lotes ficam obrigados a respeitar os valores e índices constantes do quadro anexo a este Regulamento, bem como o Regulamento Geral das Edificações Urbanas (RGEU) e os demais regulamentos vigentes e aplicáveis às especialidades.
+Art. 9.º A implantação dos lotes e alinhamentos das construções será da responsabilidade dos Serviços Técnicos da Câmara Municipal de Aljustrel, em conformidade com as peças desenhadas e dentro da aproximação que o trabalho de campo permitir, sem prejuízo da concepção global do Plano.
+Art. 10.º Os equipamentos a construir deverão corresponder às necessidades manifestas pelos utentes da Zona Industrial, ter a volumetria e área de construção assinaladas na planta de síntese e merecer a aprovação da Câmara Municipal de Aljustrel.
+Art. 11.º Não poderá ser alterado o uso dos edifícios para outros fins que se mostrem incompatíveis com o presente Regulamento.
+Art. 12.º Toda a actividade nos estabelecimentos industriais obriga-se a aplicar o Regulamento Geral de Segurança e Higiene do Trabalho nos Estabelecimentos Industriais, aprovado pela Portaria n.º 53/71, de 3 de Fevereiro, e revista pela Portaria n.º 702/80, de 22 de Setembro.
+Art. 13.º A área do Plano de Pormenor definida como verde ou de lazer não poderá ser utilizada para outros fins incompatíveis com os seus objectivos.
+Art. 14.º Deverá ainda e sempre ser considerada toda a legislação que sobre estas matérias venha a ser regulamentada.
+Art. 15.º Quaisquer omissões ou dúvidas surgidas na aplicação do presente Regulamento serão resolvidas pela Câmara Municipal de Aljustrel.
+CAPÍTULO II
+Caracterização e ocupação dos lotes
+Art. 16.º A todas as construções, incluindo muros de vedação, é exigido bom aspecto exterior, patente nos projectos de arquitectura a submeter à Câmara Municipal de Aljustrel.
+Art. 17.º Com o projecto das construções devem ser apresentados à entidade licenciadora os projectos das redes de abastecimento e drenagem das águas residuais e pluviais, o projecto de instalação eléctrica e electromecânica e os sistemas antipoluentes preconizados, quando a actividade o exija.
+Art. 18.º As construções nos lotes deverão ter um afastamento igual ou superior a 5 m do limite da respectiva parcela, com excepção para os lotes n.os 4 e 5.
+Art. 19.º Nos lotes n.os 4 e 5 é permitida a construção até ao limite da parcela, desde que não se pratiquem vãos na fachada contígua e desde que se faça a drenagem das águas de cobertura sem prejuízo para o lote vizinho (gotejamento ou infiltrações).
+Art. 20.º As construções podem ser executadas por fases, desde que a cada fase corresponda um dos módulos definidos na planta de síntese para cada lote.
+Art. 21.º Todas as paredes, independentemente do sistema construtivo adoptado, terão um acabamento duradouro de cor branca e adequado à actividade exercida.
+Art. 22.º Serão permitidos materiais tradicionais (azulejo unicolor, tijoleira, etc.) e cores (azul-cobalto, ocre) para revestimento ou pintura de socos, emolduramento de vãos e cimalhas.
+Art. 23.º As coberturas serão as recomendadas para unidades industriais, oficinas e armazéns, devendo ser compatíveis com a estrutura das paredes, com ou sem recurso a asnas, mas exclusivamente de cor branca ou de cor de tijolo.
+Art. 24.º As coberturas não deverão ultrapassar o plano vertical que delimita o lote e as águas dos telhados deverão ser drenadas para caixas dentro do terreno a que correspondem.
+Art. 25.º A altura do beirado deverá ser de 4,60 m em relação à respectiva cota de soleira, podendo, para os módulos das construções assinalados na planta de síntese por «hM», atingir a altura de 6,50 m.
+Art. 26.º As construções com a altura máxima de beirado a 6,50 m poderão corresponder a dois pisos.
+Art. 27.º Os caixilhos dos vãos poderão ser em madeira, ferro, PVC ou alumínio (anodizado ou termolacado), contudo, deverão ser identificados pela mesma cor em cada lote.
+Art. 28.º As cotas de soleira das construções deverão ter 0,20 m acima da cota média na zona central do lote, permitindo-se acertos no trabalho de campo.
+Art. 29.º Os muros de vedação devem estar de acordo com o projecto tipo precozinado pela Câmara.
+§ 1.º Pedra aparelhada até 1 m de altura com rede metálica até à altura de 0,80 m, para os lotes ao nível das vias e na separação longitudinal entre os mesmos.
+§ 2.º Gabiões com pedra da região para suporte de terras em taludes de grande inclinação, para os lotes desnivelados das vias.
+Art. 30.º Cada lote deverá possuir estacionamento para veículos ligeiros e de mercadorias proporcional à actividade que exerça e ao número de funcionários que possua.
+Art. 31.º Os pavimentos descobertos deverão ser convenientemente drenados através de sarjetas e câmaras depuradoras, para que não perturbem os lotes circundantes.
+Art. 32.º Cerca de 20% da área total do lote deverá ser mantida como área não impermeabilizada e tratada como zona verde, com especial incidência para a sua frente.
+Art. 33.º O tipo e as características da vegetação deverão ser aconselhadas pela Câmara para que não prejudiquem o pleno funcionamento da unidade nem se tornem potencialmente perigosas ou ameaçadoras de qualquer acidente.
+Art. 34.º Os logradouros dos lotes não deverão constituir depósitos de materiais susceptíveis de degradar a paisagem urbana e ou a saúde pública.
+Art. 35.º Será obrigatória a colocação do número do lote junto aos portões de entrada, com algarismos em metal, cujas dimensões correspondam à inscrição num rectângulo de 0,10 m x 0,20 m.
+Art. 36.º Os portões serão em ferro perfilado e para correrem à face exterior do lote.
+CAPÍTULO III
+Instalação das actividades e sistemas despoluentes
+Art. 37.º Não será permitida a instalação de indústrias ou actividades consideradas poluentes.
+Art. 38.º Deverão constar do processo de licenciamento análises relativas ao comportamento da actividade a instalar e descrição detalhada das substâncias necessárias à laboração, sob pena de a mesma não ser autorizada.
+§ 1.º Os limites de emissão e concentração de poluentes na atmosfera deverão ser os definidos nos anexos ao Despacho Normativo n.º 29/87, de 20 de Março, e o controlo será o preconizado no Decreto-Lei n.º 352/90, de 9 de Novembro, nomeadamente no seu capítulo IV.
+§ 2.º Os ruídos produzidos pelas actividades a instalar deverão respeitar as disposições contidas no Regulamento Geral do Ruído - Decreto-Lei n.º 251/87, de 24 de Junho, com as alterações introduzidas pelo Decreto-Lei n.º 292/89, de 2 de Setembro.
+Rede de águas residuais
+Art. 39.º As ligações à rede pública são encargo dos estabelecimentos industriais, as quais devem ser requeridas à Câmara Municipal de Aljustrel, a quem deverão ser pagos os respectivos custos de instalação.
+§ 1.º O projecto deverá conter informação sobre o caudal de descarga previsto e a previsão de pré-tratamento antes da descarga no colector. As ligações deverão ter em conta a natureza das águas residuais a evacuar, que poderá eventualmente exigir um tratamento prévio, de modo que as características do efluente lançado na rede pública sejam compatíveis com o sistema geral e obedeçam aos parâmetros de fluidos determinados pelo Decreto-Lei n.º 74/90, de 7 de Março. Sendo esse pré-tratamento da responsabilidade do estabelecimento industrial, as lamas resultantes do referido pré-tratamento são da responsabilidade dos estabelecimentos industriais, os quais devem indicar qual o seu destino final.
+§ 2.º De acordo com o Decreto-Lei n.º 488/85, de 25 de Novembro, e a Portaria n.º 374/87, de 4 de Maio, as empresas são responsáveis por dar destino adequado aos resíduos industriais, cabendo-lhes as tarefas de recolha, transporte, armazenagem e eliminação dos mesmos.
+§ 3.º É estritamente proibido o lançamento de óleos na rede geral. Os produtos de óleos usados deverão cumprir, no que respeita à sua recolha, armazenagem, transporte e eliminação, o constante na legislação em vigor.
+§ 4.º Os estabelecimentos deverão garantir a limpeza periódica dentro do próprio lote da rede de saneamento, de forma a evitar o entupimento, e a degradação da rede. Da não observação do estipulado poderão resultar danos ou entupimentos da rede geral do loteamento, de que poderá ser responsabilizado o proprietário dos lotes que os provocarem.
+Rede de abastecimento de água
+Art. 40.º As ligações à rede pública são encargo dos estabelecimentos industriais, as quais devem ser requeridas à Câmara Municipal de Aljustrel, a quem deverão ser pagos os respectivos custos de instalação, utilização e consumo.
+Art. 41.º O abastecimento de água deverá processar-se, sempre que possível, a partir da rede pública de distribuição.
+§ 1.º O projecto deverá conter informação sobre o consumo previsto.
+§ 2.º Os estabelecimentos industriais que prevejam consumos de água instantâneos superiores a 0,80 l/s serão responsáveis pela instalação de um sistema que os satisfaça, sem afectar o abastecimento dos restantes estabelecimentos industriais.
+Art. 42.º A rede de distribuição de água incluirá bocas de serviço de incêndio. O serviço de incêndio só poderá ser manobrado pelo pessoal responsável pela gestão da zona e bombeiros, salvo em casos de reconhecida emergência.
+Rede eléctrica
+Art. 43.º Os lotes que necessitam de rede eléctrica com potência superior a 50 kVA deverão prever na construção área para um posto de transformação privativo (cerca de 15 m2) que cumpra o regulamento de segurança de postos de transformação.
+(ver documento original)
