@@ -27,3 +27,5 @@ h) Requisitos a que devem obedecer os valores mobiliários que integram a contra
 i) Deveres de informação a cargo das pessoas que beneficiam de derrogação quanto à obrigatoriedade de lançamento de oferta pública de aquisição;
 
 j) Taxas devidas à CMVM pelo registo da oferta ou da recolha de intenções de investimento e pela aprovação de publicidade.
+
+l) Deveres de informação para a distribuição através de oferta pública dos valores mobiliários a que se refere a alínea g) do artigo 1.º

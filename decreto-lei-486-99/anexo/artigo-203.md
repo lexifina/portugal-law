@@ -10,10 +10,16 @@ a) Estejam autorizados a realizar operações sobre valores mobiliários; e
 
 b) Participem no sistema de liquidação das operações realizadas nesse mercado ou que, para esse efeito, tenham celebrado contrato com um participante naquele sistema.
 
-3 - Nos mercados constituídos para a realização exclusiva de operações entre investidores institucionais, estes podem ser admitidos como membros, ainda que não satisfaçam os requisitos do proémio e da alínea a) do número anterior.
+3 - Podem ainda ser admitidos como membros de mercado:
 
-4 - A admissão dos membros de um mercado compete à respectiva entidade gestora, de acordo com princípios de igualdade e de respeito pelas regras de sã e leal concorrência.
+a) Investidores institucionais, desde que preencham os requisitos da alínea b) do número anterior;
 
-5 - A intervenção dos membros de um mercado pode consistir no mero registo de operações.
+b) Outras entidades que negoceiem exclusivamente por conta própria, nos termos a definir em regulamento da CMVM e desde que preencham os requisitos da alínea b) do número anterior.
 
-6 - A CMVM pode autorizar que as funções dos membros de mercado não regulamentado sejam exercidas pela respectiva entidade gestora.
+4 - O regulamento da CMVM define as condições em que as entidades referidas no número anterior podem prestar serviços acessórios à sua actividade a outros membros de mercado.
+
+5 - A admissão dos membros de um mercado compete à respectiva entidade gestora, de acordo com princípios de igualdade e de respeito pelas regras de sã e leal concorrência.
+
+6 - A intervenção dos membros de um mercado pode consistir no mero registo de operações.
+
+7 - A CMVM pode autorizar que as funções dos membros de mercado não regulamentado sejam exercidas pela respectiva entidade gestora.

@@ -2,7 +2,7 @@
 
 ### Admissão de obrigações à negociação
 
-1 - Só podem ser admitidas à negociação obrigações representativas de empréstimo obrigacionista ou de alguma das suas séries cujo montante seja igual ou superior a (Euro) 500000.
+1 - Só podem ser admitidas à negociação obrigações representativas de empréstimo obrigacionista ou de alguma das suas séries cujo montante seja igual ou superior a (euro) 200000.
 
 2 - A admissão de obrigações convertíveis em acções ou com direito de subscrição de acções depende de prévia ou simultânea admissão das acções a que conferem direito ou de acções pertencentes à mesma categoria.
 

@@ -15,3 +15,5 @@ d) A informação semestral a prestar quando o primeiro exercício económico da
 e) A obrigatoriedade de prestar informação trimestral, em termos similares aos exigidos nos artigos anteriores;
 
 f) A organização, pelas entidades gestoras dos mercados, de sistemas de informação, acessíveis ao público, contendo dados actualizados relativos a cada um dos emitentes dos valores mobiliários admitidos à negociação.
+
+g) Deveres de informação para a admissão à negociação dos valores mobiliários a que se refere a alínea g) do artigo 1.º

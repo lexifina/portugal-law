@@ -2,7 +2,7 @@
 
 ### Informação auditada
 
-1 - Deve ser objecto de relatório ou parecer elaborados por auditor registado na CMVM a informação financeira contida em documento de prestação de contas, em estudo de viabilidade ou em outros documentos que:
+1 - Deve ser objecto de relatório ou parecer elaborados por auditor registado na CMVM, à excepção da informação trimestral, a informação financeira contida em documento de prestação de contas, em estudo de viabilidade ou em outros documentos que:
 
 a) Devam ser submetidos à CMVM;
 

@@ -4,7 +4,7 @@
 
 1 - Estão sujeitas à supervisão prudencial da CMVM:
 
-a) As entidades gestoras de mercados, de sistemas de liquidação e de sistemas centralizados de valores mobiliários;
+a) As entidades gestoras de mercados, de sistemas de liquidação, de sistemas centralizados de valores mobiliários e as entidades a que se refere a alínea c) do n.º 2 do artigo 268.º;
 
 b) As instituições de investimento colectivo;
 

@@ -12,6 +12,6 @@ c) A quantidade de valores mobiliários negociados;
 
 d) O preço de referência a que se refere o artigo 225.º, calculado nos termos das regras do mercado.
 
-2 - No decurso das sessões normais, a entidade gestora da bolsa mantém à disposição do público, em locais por ela definidos, informação permanente sobre a evolução dessas sessões.
+2 - A CMVM pode, através de regulamento, definir as condições em que, em situações excepcionais, é possível o diferimento da divulgação da informação referida nas alíneas a) e c) do n.º 1.
 
 3 - Se os preços não forem expressos em moeda com curso legal em Portugal, deve ser clara a informação quanto à moeda utilizada.

@@ -16,11 +16,15 @@ a) Instituições de crédito autorizadas a exercer actividade em Portugal;
 
 b) Entidades gestoras de mercados regulamentados e de sistemas de liquidação.
 
+c) Entidades cujo objecto social seja a compensação de operações em mercados de derivados sobre mercadorias, que cumpram requisitos de capital e fundos próprios equivalentes às entidades gestoras de sistema de liquidação com funções de contraparte central e que, para o efeito, sejam autorizadas por portaria conjunta do Ministro das Finanças e do ministro do sector dos activos subjacentes, ouvida a CMVM.
+
 3 - Podem actuar como contraparte central:
 
 a) Instituições de crédito autorizadas a exercer actividade em Portugal;
 
 b) Entidades gestoras de um sistema de liquidação ou de um mercado regulamentado.
+
+c) As entidades referidas na alínea c) do número anterior.
 
 4 - Podem desempenhar as funções de agentes de liquidação:
 

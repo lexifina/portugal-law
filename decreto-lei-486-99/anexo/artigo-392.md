@@ -24,7 +24,7 @@ b) O cancelamento de registos ou a destruição de títulos em depósito fora do
 
 c) A criação, a manutenção, a gestão, a suspensão ou o encerramento de sistema centralizado de valores mobiliários fora dos casos e termos previstos em lei ou regulamento.
 
-3 - Constitui contra-ordenação grave a emissão ou a distribuição junto do público de documentos representativos de situações jurídicas homogéneas que visem, directa ou indirectamente, o financiamento de entidades públicas ou privadas, se tais documentos não merecerem a qualificação ou não tiverem sido reconhecidos como valores mobiliários.
+3 - (Revogado).
 
 4 - Constitui contra-ordenação grave:
 
