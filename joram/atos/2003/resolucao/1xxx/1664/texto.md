@@ -1,0 +1,18 @@
+# Resolução n.º 1664/2003
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 149/2003, de 2003-12-31
+
+**Sumário:** Autoriza o pagamento de uma indemnização aos proprietários de gado, existente nos terrenos afectos às Serras do município de Santana, no valor unitário de 187,00.
+
+## Texto
+
+Resolução n.º 1664/2003
+Considerando que a racionalização do actual regime silvo-pastoril constitui um passo muito importante com vista à regeneração natural das Serras da Madeira, contribuindo desta forma para um ambiente mais rico e de melhor qualidade para a Comunidade.
+Considerando que a existência de pastoreio livre quer de ovinos quer de caprinos, é incompatível com os objectivos de preservar e defender a floresta e a natureza em geral;
+O Conselho do Governo reunido em plenário em 30 de Dezembro de 2003, resolveu autorizar o pagamento de uma indemnização aos proprietários de gado, existentes nos terrenos afectos às Serras do Concelho de Santana, com vista à retirada dos animais do local, sendo fixado o valor em 187 Euros, valor unitário de indemnização para ovinos e caprinos.
+Arelação de proprietários a indemnizar é a seguinte: Abel da Silva Fernandes Luís .................................5.610,00 Abel de Andrade.....................................................45.067,00 Agostinho de Freitas da Conceição........................1.870,00 Agostinho de Sousa Viveiros.......................................187,00 António Vieira Rocha................................................1.122,00 João Abel Mendonça de Andrade............................2.992,00 João Fernandes de Nobrega.........................................935,00 João Marques de Gouveia ........................................4.675,00 João Paulo Marques Rufino de Mendonça.............2.057,00 João Vieira..................................................................5.610,00 José Agostinho Freitas Nobrega...............................3.740,00 José Agostinho Marques de Freitas .........................1.870,00
+
+José António de Freitas .............................................9.350,00 José António de Gouveia Teixeira...........................1.870,00 José António Santos da Silva....................................2.618,00 José Carlos Rodrigues de Abreu..............................1.870,00 José Isidro Caetano....................................................2.805,00 José Manuel de Freitas..............................................2.431,00 José Marques da Silva...............................................5.984,00 Luis de Ascensão Fernandes Patrício ......................1.683,00 Manuel de Andrade...................................................1.309,00 Manuel Eusébio da Costa Gomes............................3.740,00 Manuel João da Silva Ascensão...............................3.740,00 Manuel João Mendonça de Freitas..........................1.683,00 Manuel João de Ornelas............................................1.122,00 Manuel Luís Pereira..................................................2.992,00 Manuel Marques de Freitas......................................5.049,00 Manuel Marques de Gouveia Júnior .......................2.805,00 Manuel Mendes.........................................................2.992,00 Martinho Pires Gomes............................................39.083,00 Os encargos emergentes totalizam 168.861,00 e têm cabimento no orçamento da Região Autónoma da Madeira, Secretaria Regional do Ambiente e dos Recursos Naturais, capítulo 50, Divisão 28, sub-divisão 13, e classificação económica 04.08.02.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Alberto João Cardoso Gonçalves Jardim.
