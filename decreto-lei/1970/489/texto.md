@@ -1,0 +1,19 @@
+Decreto-Lei n.º 489/70
+de 21 de Outubro
+Considerando a conveniência de elevar a hierarquia militar dos alunos da Escola Naval que frequentam os três últimos anos dos cursos que habilitam ao ingresso nos quadros do activo dos oficiais da Armada;
+Tendo em conta o que em tal matéria passa a vigorar na Academia Militar;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º - 1. Os alunos da Escola Naval que frequentam os cursos de que trata o n.º 2 do artigo 1.º do Decreto-lei n.º 49501, de 31 de Dezembro de 1969, têm os seguintes postos:
+a) Cadete: quando frequentam o 1.º ano daqueles cursos;
+b) Aspirante a oficial: quando frequentam os 2.º, 3.º e 4.º anos dos mesmos cursos.
+2. A promoção a aspirante a oficial é referida a 1 de Outubro do ano em que os alunos iniciam a frequência do 2.º ano lectivo dos respectivos cursos.
+Art. 2.º - 1. Os alunos, quando aspirantes a oficial e em regime de internato na Escola Naval, ficam sujeitos aos seguintes descontos:
+a) Desconto para alimentação;
+b) Desconto para alojamento.
+2. Os descontos a que se refere o número anterior são fixados anualmente pelo Ministro da Marinha, mediante proposta do comandante da Escola Naval.
+3. Enquanto sujeitos ao desconto a que se refere a alínea a) do n.º 1 deste artigo, os aspirantes a oficial recebem por inteiro o subsídio de guarnição.
+Art. 3.º Os encargos resultantes da execução do presente diploma são satisfeitos, até ao fim do ano económico de 1970, pelas disponibilidades das dotações inscritas no Orçamento Geral do Estado destinadas ao Ministério da Marinha.
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Manuel Pereira Crespo.
+Promulgado em 14 de Outubro de 1970.
+Publique-se.
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
