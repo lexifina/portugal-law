@@ -1,0 +1,2013 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "25",
+    "id": "27742",
+    "titulo": "Regras do processo especial de apreciação e votação da revisão constitucional"
+  },
+  "fase": "Discussão especialidade",
+  "codigo_fase": "300",
+  "data_registo": "1989-04-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "12862",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "300",
+    "Comissao": null,
+    "DataFase": "1989-04-12",
+    "EvtId": "17",
+    "Fase": "Discussão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1989-04-12",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221337",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2141-2141"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2141?pgs=2141&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221339",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2141-2141"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2141?pgs=2141&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221341",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2141-2141"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2141?pgs=2141&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221342",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2141-2142"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2141?pgs=2141-2142&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221343",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2142-2142",
+                  "2142-2142"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2142?pgs=2142,2142&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221344",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2142-2142",
+                  "2142-2142"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2142?pgs=2142,2142&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221345",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2142-2142"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2142?pgs=2142&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Art.º 1 a 5.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221347",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2143-2143"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2143?pgs=2143&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Art.º 6.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221351",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2143-2143",
+                  "2143-2143"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2143?pgs=2143,2143&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Art.º 6.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221511",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2143-2143"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2143?pgs=2143&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Art.º 6.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221515",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2143-2144"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2143?pgs=2143-2144&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Art.º 6.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221516",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2144-2144"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2144?pgs=2144&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Art.º 6.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221523",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2144-2144",
+                  "2144-2144",
+                  "2145-2145"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2144?pgs=2144,2144,2145&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Art.º 6.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221527",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2144-2144"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2144?pgs=2144&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Art.º 6.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221533",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2145-2145"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2145?pgs=2145&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Art.º 6.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221538",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2146-2146"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2146?pgs=2146&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Art.º 9; n.º 1.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221542",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2146-2146"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2146?pgs=2146&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Art.º 9; n.º 1.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221547",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2146-2146"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2146?pgs=2146&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Art.º 9; n.º1-A.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221553",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2146-2146"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2146?pgs=2146&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Art.º 9; n.º1-A.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221554",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2146-2146"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2146?pgs=2146&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Art.º 9; n.º1-A.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221557",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2146-2146"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2146?pgs=2146&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Art.º 9; n.º1-A.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221558",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2146-2146"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2146?pgs=2146&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Art.º 9; n.º1-A.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221561",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2147-2147"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2147?pgs=2147&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Art.º 9; n.º2 e 3.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221563",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2147-2147"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2147?pgs=2147&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Art.º 9; n.º2 e 3.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221564",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2147-2147",
+                  "2148-2148"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2147?pgs=2147,2148&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Art.º 11; n.º 2.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221565",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2147-2148",
+                  "2148-2149"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2147?pgs=2147-2148,2148-2149&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Art.º 11; n.º 2.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221568",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2148-2148"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2148?pgs=2148&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Art.º 11; n.º 2.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221572",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2149-2149"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2149?pgs=2149&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Requerimento de adiamento da votação do art.º 13, n.º 1.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221574",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2149-2149",
+                  "2149-2149"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2149?pgs=2149,2149&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Requerimento de adiamento da votação do art.º 13, n.º 1.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221575",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2149-2149",
+                  "2149-2149"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2149?pgs=2149,2149&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Requerimento de adiamento da votação do art.º 13, n.º 1.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221576",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2149-2149"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2149?pgs=2149&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Requerimento de adiamento da votação do art.º 13, n.º 1.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221577",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2149-2149"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2149?pgs=2149&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Requerimento de adiamento da votação do art.º 13, n.º 1.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221580",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2150-2150"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2150?pgs=2150&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Art.º14.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221581",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2150-2150"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2150?pgs=2150&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Art.º 14.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221584",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2150-2150"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2150?pgs=2150&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Art.º 14.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221586",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2150-2150",
+                  "2151-2151"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2150?pgs=2150,2151&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Proposta de aditamento de um novo artigo, que é o n.º 5 da proposta apresentada pelo PCP.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221589",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2151-2151"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2151?pgs=2151&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Proposta de aditamento de um novo artigo, que é o n.º 5 da proposta apresentada pelo PCP.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221593",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2151-2151",
+                  "2151-2151"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2151?pgs=2151,2151&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Proposta de aditamento de um novo artigo, que é o n.º 5 da proposta apresentada pelo PCP.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221595",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2151-2151",
+                  "2151-2151"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2151?pgs=2151,2151&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Proposta de aditamento de um novo artigo, que é o n.º 5 da proposta apresentada pelo PCP.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221601",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2151-2151",
+                  "2152-2152"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2151?pgs=2151,2152&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Proposta de aditamento de um novo artigo, que é o n.º 6 da proposta apresentada pelo PCP.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221604",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2151-2152",
+                  "2152-2152"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2151?pgs=2151-2152,2152&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Proposta de aditamento de um novo artigo, que é o n.º 6 da proposta apresentada pelo PCP.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221606",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2152-2152"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2152?pgs=2152&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Proposta de aditamento de um novo artigo, que é o n.º 6 da proposta apresentada pelo PCP.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221608",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2152-2152"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2152?pgs=2152&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Proposta de aditamento de um novo artigo, que é o n.º 6 da proposta apresentada pelo PCP.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221611",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2152-2152"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2152?pgs=2152&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Proposta de aditamento de um novo artigo, que é o n.º 6 da proposta apresentada pelo PCP.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221617",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2152-2152"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-13",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13/2152?pgs=2152&org=PLC"
+              }
+            ],
+            "sumario": "Regras do processo especial de apreciação e votação da revisão constitucional.Proposta de aditamento de um novo artigo, que é o n.º 6 da proposta apresentada pelo PCP.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "336040",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "12862",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1989-04-13",
+        "pubLeg": "V",
+        "pubNr": "62",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/062/1989-04-13?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
