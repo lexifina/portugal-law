@@ -1,0 +1,33 @@
+Lei n.º 8/99
+de 10 de Fevereiro
+3.ª alteração à Lei n.º 7/93, de 1 de Março - Estatuto dos Deputados, alterada pelas Leis n.os 24/95, de 18 de Agosto, e 55/98, de 18 de Agosto.
+A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:
+Artigo 1.º
+A alínea c) do n.º 2 do artigo 21.º da Lei n.º 7/93, de 1 de Março, na redacção que lhe foi dada pela Lei n.º 24/95, de 18 de Agosto, passa a ter a seguinte redacção:
+«Artigo 21.º
+[...]
+1 - ...
+2 - ...
+a) ...
+b) ...
+c) Cargos de nomeação governamental, cuja aceitação não seja autorizada pela comissão parlamentar competente em matéria de incompatibilidades e impedimentos.
+3 - ...
+a) ...
+b) ...
+c) ...
+d) ...
+e) ...
+4 - ...»
+Artigo 2.º
+É revogado o artigo 28.º da Lei n.º 7/93, de 1 de Março.
+Artigo 3.º
+Os artigos 29.º, 30.º, 31.º e 32.º da Lei n.º 7/93, de 1 de Março, passam a 28.º, 29.º, 30.º e 31.º, respectivamente.
+Artigo 4.º
+A presente lei entra em vigor no dia imediato ao da sua publicação.
+Aprovada em 17 de Dezembro de 1998.
+O Presidente da Assembleia da República, António de Almeida Santos.
+Promulgada em 28 de Janeiro de 1999.
+Publique-se.
+O Presidente da República, JORGE SAMPAIO.
+Referendada em 1 de Fevereiro de 1999.
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
