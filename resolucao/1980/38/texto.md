@@ -1,0 +1,7 @@
+Resolução n.º 38/80
+Considerando que, por força da Resolução do Conselho de Ministros n.º 1/80, de 10 de Janeiro, foi deliberado suspender todas as resoluções que foram tomadas após as eleições do dia 2 de Dezembro de 1979, por se entender que o V Governo Constitucional perdera legitimidade para as tomar;
+Tendo em atenção que o objectivo da referida Resolução n.º 1/80 foi apenas o de permitir ao actual Governo o reexame das resoluções tomadas, mas em termos de não perturbar a sua aplicação quando porventura se reconheça que corresponderam à normal decisão de um processo desenvolvido ao longo do tempo:
+Sob proposta do Ministro das Finanças e do Plano, o Conselho de Ministros, reunido em 5 de Fevereiro de 1980, resolveu o seguinte:
+1 - Confirmar a Resolução n.º 361-B/79, publicada no 3.º suplemento ao Diário da República, 1.ª série, n.º 296, de 26 de Dezembro de 1979, com excepção da inscrição da verba de 7500 contos efectuada no orçamento de Encargos Gerais da Nação, sob o cap. 04, div. 10, C. F. 1.01.0, C. E. 44.09, alínea H.
+2 - Revogar, na mesma resolução, a importância referida no número anterior em conta da dotação provisional descrita no orçamento do Ministério das Finanças e do Plano, sob o cap. 08, C. F. 1.01.0, C. E. 44.09, alínea B.
+Presidência do Conselho de Ministros, 5 de Fevereiro de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
