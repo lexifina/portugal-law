@@ -1,0 +1,17 @@
+Despacho
+As circunstâncias dramáticas em que ocorreu a descolonização originaram que, na generalidade dos casos, os cidadãos nacionais residentes nos antigos territórios ultramarinos hajam perdido a quase totalidade dos seus patrimónios - o que levou o Estado a tomar medidas tendentes a isentar de impostos e taxas aduaneiras os bens que dali conseguiram ser trazidos ou recuperados.
+Nomeadamente, dispuseram sobre o tema os despachos de 8 de Novembro de 1974 e de 5 de Novembro de 1975, que estenderam aos desalojados, sob certas condições, o estatuído no Decreto-Lei n.º 402/74, de 29 de Agosto.
+Porém, verifica-se agora a necessidade de modificar aquele condicionalismo, bem como a de obviar a numerosas situações não previstas, a que urge dar remédio, designadamente quanto à prova de propriedade dos veículos automóveis, até aqui só admitida por intermédio do respectivo título de registo, que em muitos casos se extraviou - pelo que se impõe alargar a gama dos meios de prova admissíveis.
+Havendo, porém, que escalonar prioridades, aquele título terá o primeiro lugar, com precedência sobre os demais meios de prova; entretanto, e no intuito de evitar fraudes, tipifica-se um auto de inquirição de testemunhas para a colheita de depoimentos.
+Cria-se, igualmente, um esquema de publicidade para os casos duvidosos (quanto à autenticidade da prova ou à sua suficiência), com inserção de anúncios nos jornais.
+Isto tudo ponderado, determino:
+1. Os refugiados das ex-colónias portuguesas beneficiarão das isenções fiscais aduaneiras estabelecidas no Decreto-Lei n.º 402/74, de 29 de Agosto, desde que:
+a) Façam prova iniludível do seu direito de propriedade sobre os bens para que requerem as referidas isenções;
+b) Esses bens tenham sido adquiridos nas ex-colónias até 31 de Dezembro de 1975; e
+c) Tenham sido trazidos daqueles territórios.
+2. Serão admitidos para prova de propriedade todos os meios permitidos em direito, cumprindo à Direcção-Geral das Alfândegas apreciar da validade de cada um, devendo sempre ser dada prioridade aos títulos de registo de propriedade, quando existam.
+3. Na falta destes títulos, ou quando surjam dúvidas sobre a sua autenticidade e haja necessidade de recorrer a outros meios - nomeadamente a inquirição de testemunhas -, a Direcção-Geral das Alfândegas promoverá ainda a publicação, num jornal de grande expansão, de edital em que identifique o requerente e a viatura cuja propriedade ele se arroga, convidando quem se julgar com melhor direito a fazer dele prova ante a autoridade aduaneira competente.
+4. Tal publicação será obtida pelos interessados através de edital cujo modelo será fornecido pelos serviços competentes da Direcção-Geral das Alfândegas, impendendo sobre os mesmos interessados não só o encargo do seu pagamento como também a entrega nos ditos serviços de um exemplar do jornal de que conste a referida publicação.
+5. As falsas declarações do requerente e testemunhas quanto à existência do direito de propriedade invocado serão punidas nos termos das leis penal comum e penal aduaneira.
+6. Nos casos de dúvida quanto à autenticidade dos títulos de registo apresentados, poderão os serviços aduaneiros, quando tal for oportuno, solicitar a colaboração dos serviços diplomáticos ou consulares portugueses nos novos países nascidos da descolonização, no sentido de obterem comprovativo de fidelidade daqueles documentos nas respectivas conservatórias.
+Ministério das Finanças, 21 de Outubro de 1976. - O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira.
