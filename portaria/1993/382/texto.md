@@ -1,0 +1,13 @@
+Portaria n.º 382/93
+de 3 de Abril
+A produção e comercialização de vinhos de mesa regionais, regulamentada pelo Decreto-Lei n.º 309/91, de 17 de Agosto, pelo interesse que acolheu junto do sector vitivinícola, levou já à criação de diversas regiões produtoras e ao estabelecimento das respectivas denominações de «Vinho Regional».
+Nestas circunstâncias e uma vez que os vinhos de mesa regionais constituem, numa hierarquia de qualidade, produtos situados entre os «vinhos de qualidade produzidos em regiões determinadas» e os vinhos de mesa sem direito a qualquer indicação de proveniência, deverá o Instituto da Vinha e do Vinho (IVV) acautelar, desde já, o rigoroso controlo da sua produção e comercialização, por forma a preservar as potencialidades comerciais desta gama de produtos, pela sua acreditação junto dos consumidores.
+O sistema de controlo que se exige para os vinhos regionais justifica, porém, a aplicação de uma taxa, cujo valor importa definir e que constitui contrapartida de serviços prestados pela entidade certificadora. No entanto, sendo previsível e desejável que o IVV, sem abdicar da sua competência de fiscalização do cumprimento dos preceitos legais aplicáveis ao sector vitivinícola, transfira para o âmbito interprofissional, mediante protocolo, as funções de controlo da produção, certificação e comercialização dos vinhos de mesa regionais e tendo em conta as necessidades da promoção dos vinhos regionais a controlar pelas comissões vitivinícolas regionais, deverá admitir-se, nestes casos, uma maior flexibilidade na fixação daquele valor.
+Assim, ao abrigo do disposto no artigo 2.º do Decreto-Lei n.º 560/73, de 26 de Outubro:
+Manda o Governo, pelo Ministro da Agricultura, o seguinte:
+1.º Para os vinhos de mesa regionais, o valor do selo ou do certificado de garantia é fixado pelo Instituto da Vinha e do Vinho (IVV), ouvido o seu conselho consultivo, até ao máximo de 3$00 por cada litro, ou fracção, de vinho acondicionado em recipientes com capacidade igual ou superior a 0,5 l, sendo de metade daquele valor para os recipientes com capacidade inferior a 0,5 l.
+2.º Para os vinhos de mesa regionais relativamente aos quais o IVV tenha transferido, mediante protocolo, as suas competências de controlo da produção, certificação e circulação do produto para uma organização interprofissional, o valor máximo a que se refere o número anterior é de 5$00 e fixado por decisão do respectivo conselho geral.
+3.º A presente portaria entra em vigor no dia imediato ao da sua publicação.
+Ministério da Agricultura.
+Assinada em 2 de Março de 1993.
+Pelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar.
