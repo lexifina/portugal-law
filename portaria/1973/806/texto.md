@@ -1,0 +1,5 @@
+Portaria n.º 806/73
+de 16 de Novembro
+A fim de se iniciar a preparação dos técnicos auxiliares de investigação criminal e de lofoscopia necessários para o alargamento de competência da Polícia Judiciária previsto no artigo 13.º do Decreto-Lei n.º 202/73, de 4 de Maio, e com vista à integração no quadro do pessoal superior de investigação criminal dos inspectores que na referida Polícia já prestam serviço como auxiliares:
+Manda o Governo da República Portuguesa, pelos Ministros da Justiça e das Finanças, ao abrigo do disposto no n.º 2 do artigo 8.º do Decreto-Lei n.º 415/73, de 21 de Agosto, declarar abertas as vagas de três inspectores de 1.ª classe, quatro inspectores de 2.ª classe, dois inspectores de 3.ª classe, dezassete agentes de 1.ª classe, dezassete agentes de 2.ª classe, dezasseis agentes de 3.ª classe, três técnicos auxiliares de lofoscopia de 1.ª classe, dois técnicos auxiliares de lofoscopia de 2.ª classe e dois técnicos auxiliares de lofoscopia de 3.ª classe.
+Ministérios da Justiça e das Finanças, 5 de Novembro de 1973. - O Ministro da Justiça, Mário Júlio Brito de Almeida Costa - O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.
