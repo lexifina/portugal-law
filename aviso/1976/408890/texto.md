@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que foram trocados em Lisboa, em 19 de Agosto de 1976, entre o Ministério dos Negócios Estrangeiros de Portugal e o embaixador da República de Cabo Verde, os instrumentos de ratificação referentes aos Acordos Geral de Cooperação e Amizade e de Cooperação Científica e Técnica, celebrados entre a República Portuguesa e a República de Cabo Verde, assinados em Lisboa em 16 e 30 de Janeiro de 1976 e aprovados para ratificação pelos Decretos n.os 78/76, de 27 de Janeiro, e 110/76, de 7 de Fevereiro, respectivamente.
+Direcção-Geral dos Negócios Políticos, 30 de Setembro de 1976. - O Director-Geral, Fernando de Magalhães Cruz.
