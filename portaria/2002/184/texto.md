@@ -1,0 +1,10 @@
+Portaria n.º 184/2002
+de 4 de Março
+A alínea j) do n.º 1 do artigo 42.º do Código do IRC estabelece que os juros e outras formas de remuneração de suprimentos e empréstimos feitos pelos sócios à sociedade, na parte em que excedam o valor correspondente à taxa de referência EURIBOR a 12 meses do dia da constituição da dívida, não são dedutíveis para efeitos de determinação do lucro tributável, mesmo quando contabilizados como custos ou perdas do exercício. De acordo com a redacção que lhe foi dada pela Lei n.º 85/2001, de 4 de Agosto, pode aquela taxa ser substituída por outra que a utilize como indexante, definida por portaria do Ministro das Finanças.
+Define-se como valor limite da remuneração de suprimentos e empréstimos feitos pelos sócios à sociedade a aceitar como custo o correspondente à taxa EURIBOR a 12 meses do dia da constituição da dívida acrescida de um spread de 1,5%.
+Por outro lado, clarifica-se o âmbito de aplicação do preceito em causa, tendo em atenção eventuais conflitos de normas, o que poderá verificar-se quanto a situações que, em concreto, fiquem simultaneamente abrangidas por esta disposição e pelas regras aplicáveis aos preços de transferência, reafirmando-se a especialidade destas relativamente àquela.
+Assim:
+Manda o Governo, pelo Ministro das Finanças, nos termos da alínea j) do n.º 1 do artigo 42.º do Código do IRC, o seguinte:
+1.º Para os efeitos previstos na alínea j) do n.º 1 do artigo 42.º do Código do IRC, na redacção que lhe foi dada pela Lei n.º 85/2001, de 4 de Agosto, é fixado em 1,5% o spread a acrescer à taxa EURIBOR a 12 meses do dia da constituição da dívida.
+2.º Às situações a que seja aplicável o regime estabelecido no artigo 58.º do Código do IRC e na Portaria n.º 1446-C/2001, de 21 de Dezembro, e ainda às abrangidas por normas convencionais relativas a preços de transferência não é aplicável o disposto na alínea j) do n.º 1 do artigo 42.º do Código do IRC.
+O Ministro das Finanças, Guilherme d'Oliveira Martins, em 6 de Fevereiro de 2002.
