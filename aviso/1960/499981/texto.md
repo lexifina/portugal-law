@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que, conforme comunicação recebida do Governo Suíço, a República Árabe Unida passou a ocupar o lugar do Egipto e da Síria como membro da União de Paris para a protecção da propriedade industrial, de harmonia com as notas remetidas em 2 de Fevereiro e 24 de Junho de 1960 à Embaixada da Suíça no Cairo pelo Ministério dos Negócios Estrangeiros da República Árabe Unida.
+Do mesmo modo a República Árabe Unida passou a representar o Egipto e a Síria na União restrita de Madrid para a repressão das falsas indicações de proveniência. Contudo, as Uniões restritas de Madrid para o registo internacional das marcas de fábrica ou de comércio e da Haia para o depósito internacional dos desenhos ou modelos industriais apenas continuam a dizer respeito à província do Egipto.
+Direcção-Geral dos Negócios Económicos e Consulares, 12 de Agosto de 1960. - O Director-Geral, adjunto, Albano Nogueira.
