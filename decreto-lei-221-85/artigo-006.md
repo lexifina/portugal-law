@@ -4,7 +4,7 @@ O imposto devido é calculado do seguinte modo:
 
 a) Ao montante das contraprestações, com IVA incluído, respeitante às operações tributáveis registadas no período deduz-se o montante, igualmente com inclusão do IVA, dos custos registados no mesmo período relativos às transmissões de bens e prestações de serviços efectuadas por terceiros para benefício directo do cliente;
 
-b) A diferença obtida nos termos da alínea anterior é dividida por 108, multiplicando-se o quociente por 100 e arredondando o resultado por defeito ou por excesso para a unidade mais próxima;
+b) A diferença obtida nos termos da alínea anterior é dividida por 116, multiplicando-se o quociente por 100 e arredondando o resultado por defeito ou por excesso para a unidade mais próxima;
 
 c) Sobre a base tributável obtida nos termos da alínea anterior incide a taxa do imposto;
 
