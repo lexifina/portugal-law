@@ -1,0 +1,71 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BCSSVGCAjuIOB9TM0zLN1MaTIqUGuyZG5KdMozMqIhz0HV3lihHZAL1CwunnWMXRny5c%2fGnGCZHzxAWlNWvriQl3h2wUQD%2bowHEAD9eFRyf2JdeqjyBaRNHhZe8gVkGI8mHwTOZENL4EKoCxEZGcqbJHnmvnktrZ4L%2bCcB8XDhcCIEzIVr5jrbsC3o5hptTbaMwBgoF68mV3RStIYJyvQOduog5%2fiGjrt1rykAbE6ZwjcV24oKkbnK9PzvNKat80j9hNRf25bAhE0BNfRW0lt5b5hM3muahpK8XuICAdwne8vQ2nXeVCLUrRt%2bdJWjM%2beniMeMyOwoBt8PVsAU3fA0MzFhD6d4IZoNU16Bo9GB0%3d&fich=IniciativasIII_json.txt&Inline=true",
+  "ficheiro_sha256": "8066d65f0f2dcaef0e8f116d49b73de6f6558c03e12923057ff44277a1828037",
+  "legislatura": "III",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "400",
+    "id": "29970",
+    "titulo": "Remunerações dos titulares dos cargos políticos"
+  },
+  "fase": "Votação generalidade decreto",
+  "codigo_fase": "450",
+  "data_registo": "1985-03-13",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "450",
+    "Comissao": null,
+    "DataFase": "1985-03-13",
+    "EvtId": "58",
+    "Fase": "Votação generalidade decreto",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "230589",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "340228",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1985-03-14",
+        "pubLeg": "III",
+        "pubNr": "57",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/03/02/057/1985-03-14?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "1985-03-13",
+        "descricao": "153 votos a favor e 58 votos contra",
+        "detalhe": "A Favor: <I>António Frederico (PS)</I>, <I> Rosa Maria Albernaz (PS)</I>, <I> José Valente (PS)</I>, <I> João Ferraz De Abreu (PS)</I>, <I> Luís Cacito (PS)</I>, <I> Raúl Rêgo (PS)</I>, <I> Frederico Augusto Oliveira (PS)</I>, <I> Domingues Azevedo (PS)</I>, <I> Agostinho Domingues (PS)</I>, <I> Gaspar Teixeira (PS)</I>, <I> José Roque Lino (PS)</I>, <I> José Martins Pires (PS)</I>, <I> Fernando Fradinho (PS)</I>, <I> Manuel Alegre (PS)</I>, <I> José Cunha Sá (PS)</I>, <I> Dinis Alves (PS)</I>, <I> Paulo Manuel Barral (PS)</I>, <I> Luís Saias (PS)</I>, <I> Leonel Fadigas (PS)</I>, <I> João Eliseu (PS)</I>, <I> Hermínio Oliveira (PS)</I>, <I> Rui Mateus (PS)</I>, <I> Mário Sottomayor Cardia (PS)</I>, <I> Teófilo Santos (PS)</I>, <I> Joaquim Catanho (PS)</I>, <I> Marcelo Curto (PS)</I>, <I> Alberto Avelino (PS)</I>, <I> António Azevedo Gomes (PS)</I>, <I> António Rebelo De Sousa (PS)</I>, <I> João Joaquim Gomes (PS)</I>, <I> Rodolfo Crespo (PS)</I>, <I> Maria Margarida Marques (PS)</I>, <I> Gil Romão (PS)</I>, <I> António Macedo (PS)</I>, <I> José Luís Nunes (PS)</I>, <I> Carlos Lage (PS)</I>, <I> Rosado Correia (PS)</I>, <I> Raul Brito (PS)</I>, <I> José Lello (PS)</I>, <I> Francisco Monteiro (PS)</I>, <I> Laranjeira Vaz (PS)</I>, <I> Fernando De Sousa (PS)</I>, <I> José Niza (PS)</I>, <I> Silvino Sequeira (PS)</I>, <I> Victor Hugo (PS)</I>, <I> Américo Salteiro (PS)</I>, <I> José Fillol (PS)</I>, <I> Carlos Augusto Pires (PS)</I>, <I> António Da Costa (PS)</I>, <I> Rui Cabral Neves (PS)</I>, <I> Francisco Rodrigues (PS)</I>, <I> Avelino Rodrigues (PS)</I>, <I> Ricardo Barros (PS)</I>, <I> Ângelo Correia (PSD)</I>, <I> Manuel Fonseca (PSD)</I>, <I> Adérito Campos (PSD)</I>, <I> Rocha De Almeida (PSD)</I>, <I> João Salgueiro (PSD)</I>, <I> António Marques Mendes (PSD)</I>, <I> Lemos Damião (PSD)</I>, <I> Amândio Oliveira (PSD)</I>, <I> António Barbosa De Azevedo (PSD)</I>, <I> Duarte Lima (PSD)</I>, <I> Manuel Pereira (PSD)</I>, <I> Mariana Perdigão (PSD)</I>, <I> José Gago Vitorino (PSD)</I>, <I> Cristóvão  Norte (PSD)</I>, <I> Marília Raimundo (PSD)</I>, <I> Silva Marques (PSD)</I>, <I> Reinaldo Gomes (PSD)</I>, <I> Fernando Costa (PSD)</I>, <I> António Capucho (PSD)</I>, <I> Arménio Santos (PSD)</I>, <I> Pedro Pinto (PSD)</I>, <I> Rui Oliveira E Costa (PSD)</I>, <I> Correia Afonso (PSD)</I>, <I> Margarida Salema (PSD)</I>, <I> Leonel Santa Rita (PSD)</I>, <I> Malato Correia (PSD)</I>, <I> Mário Montalvão Machado (PSD)</I>, <I> José Augusto Seabra (PSD)</I>, <I> Manuel Moreira (PSD)</I>, <I> Agostinho Branquinho (PSD)</I>, <I> Manuel Martins (PSD)</I>, <I> Bento Gonçalves (PSD)</I>, <I> Manuel Araújo Dos Santos (PSD)</I>, <I> Fernando Condesso (PSD)</I>, <I> Cardoso Ferreira (PSD)</I>, <I> Eduardo Gomes (PSD)</I>, <I> José Domingos (PSD)</I>, <I> Roleira Marinho (PSD)</I>, <I> Gaspar Pacheco (PSD)</I>, <I> Daniel Bastos (PSD)</I>, <I> João Teixeira (PSD)</I>, <I> João De Barros (PSD)</I>, <I> Luís Martins (PSD)</I>, <I> José Cesário (PSD)</I>, <I> Correia De Jesus (PSD)</I>, <I> Virgilio Pereira (PSD)</I>, <I> Cecília  Catarino (PSD)</I>, <I> José Figueiredo (PSD)</I>, <I> Zulmira Silva (PS)</I>, <I> Joel Ferro (PS)</I>, <I> Maria Sousa Fernandes (PS)</I>, <I> Maria Ângela Correia (PS)</I>, <I> Litério Monteiro (PS)</I>, <I> Ferdinando Gouveia (PS)</I>, <I> Jorge Correia (PS)</I>, <I> Igrejas Caeiro (PS)</I>, <I> Maria Nazarette Rosa (PS)</I>, <I> Edmundo Pedro (PS)</I>, <I> José Borja Borges (PS)</I>, <I> Acácio Barreiros (PS)</I>, <I> Carlos Cordeiro (PS)</I>, <I> João Nascimento Guerra (PS)</I>, <I> João Luis Fernandes (PS)</I>, <I> Jorge Aparício Miranda (PS)</I>, <I> António Santos Meira (PS)</I>, <I> Manuel Orvalho (PS)</I>, <I> Bento Cruz (PS)</I>, <I> Juvenal Ribeiro (PS)</I>, <I> Rui Picciochi (PS)</I>, <I> Ruben Raposo (ASDI)</I>, <I> Maria Luisa Daniel (PS)</I>, <I> José Nunes Ambrósio (PS)</I>, <I> Maria Pegado Quintas (PS)</I>, <I> José Azevedo Preza (PS)</I>, <I> Nuno Freitas Alpoim (PS)</I>, <I> Nelson Ramos (PS)</I>, <I> Mota Torres (PS)</I>, <I> Caio Roque (PS)</I>, <I> Joaquim Monteiro (PSD)</I>, <I> Vitor Manuel Mota (PSD)</I>, <I> Jaime Ramos (PSD)</I>, <I> Licinio Moreira (PSD)</I>, <I> Carlos Coelho (PSD)</I>, <I> Guido Rodrigues (PSD)</I>, <I> Mário Santos (PSD)</I>, <I> Abílio Guedes (PSD)</I>, <I> Vargas Bulcão (PSD)</I>, <I> Pedro Silva (PSD)</I>, <I> Paulo Silveira (PSD)</I>, <I> Luís Vaz (PS)</I>, <I> Machado Lourenço (PSD)</I>, <I> Eleutério Alves (PSD)</I>, <I> Beatriz Cal Brandão (PS)</I>, <I> Vilhena De Carvalho (ASDI)</I><BR>Contra:<I>Lopes Cardoso (UEDS)</I>, <I> Zita Seabra (PCP)</I>, <I> Francisco Miguel (PCP)</I>, <I> Belchior Pereira (PCP)</I>, <I> Custódio Gingão (PCP)</I>, <I> Vidigal Amaro (PCP)</I>, <I> Carlos Alfredo Brito (PCP)</I>, <I> José Tengarrinha (MDP/CDE)</I>, <I> Anselmo Aníbal (PCP)</I>, <I> Jerónimo De Sousa (PCP)</I>, <I> Alda Nogueira (PCP)</I>, <I> Carlos Carvalhas (PCP)</I>, <I> Jorge Lemos (PCP)</I>, <I> João Amaral (PCP)</I>, <I> Manuel Lopes (PCP)</I>, <I> Joaquim Miranda (PCP)</I>, <I> Lino Carvalho Lima (PCP)</I>, <I> Raul Castro (MDP/CDE)</I>, <I> António Da Silva Mota (PCP)</I>, <I> Dias Lourenço (PCP)</I>, <I> Álvaro Brasileiro (PCP)</I>, <I> José Vitoriano (PCP)</I>, <I> José Manuel Maia (PCP)</I>, <I> Odete Santos (PCP)</I>, <I> Rogério Brito (PCP)</I>, <I> João Corregedor Da Fonseca (MDP/CDE)</I>, <I> Carlos Espadinha (PCP)</I>, <I> Jorge Patrício (PCP)</I>, <I> Nogueira De Brito (CDS)</I>, <I> Hernâni Moutinho (CDS)</I>, <I> Miguel Anacoreta Correia (CDS)</I>, <I> Francisco Menezes Falcão (CDS)</I>, <I> Lucas Pires (CDS)</I>, <I> Alfredo Azevedo Soares (CDS)</I>, <I> Narana Coissoró (CDS)</I>, <I> Gomes De Pinho (CDS)</I>, <I> Adriano Moreira (CDS)</I>, <I> João Porto (CDS)</I>, <I> Henrique Cruz (CDS)</I>, <I> Abreu Lima (CDS)</I>, <I> Manuel Vasconcelos (CDS)</I>, <I> José Gama (CDS)</I>, <I> Mariana Lanita (PCP)</I>, <I> José Manuel Mendes (PCP)</I>, <I> João Abrantes (PCP)</I>, <I> António Gonzalez (Indep)</I>, <I> Octávio Teixeira (PCP)</I>, <I> José Magalhães (PCP)</I>, <I> Francisco Costa Fernandes (PCP)</I>, <I> Ilda Figueiredo (PCP)</I>, <I> Manuel Gaspar (PCP)</I>, <I> Horácio Marçal (CDS)</I>, <I> Ruy Seabra (CDS)</I>, <I> Abel Almeida (CDS)</I>, <I> Adalberto Neiva (CDS)</I>, <I> Alexandre Reigoto (CDS)</I>, <I> Dorilo Inácio (UEDS)</I>",
+        "id": "46910",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "57",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
