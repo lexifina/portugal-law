@@ -1,0 +1,9 @@
+Portaria n.º 839/81
+de 24 de Setembro
+A recente revisão das tarifas para os transportes colectivos de passageiros suscita o problema da validade dos bilhete pré-comprados adquiridos pelos utentes antes da alteração tarifária.
+Consagrado o princípio de que a validade destes bilhetes está condicionada pelas tarifas em vigor à data da sua emissão, vieram as Portarias n.os 765-A/81, de 6 de Agosto, e 736-B/81, de 28 de Agosto, no entanto, admitir um período de quarenta e cinco dias, a contar da entrada em vigor das novas tarifas, durante o qual aqueles bilhetes continuam válidos, sem, contudo, poderem ser reembolsados ou trocados.
+Considerando, porém, a situação de muitos utentes que, tendo adquirido bilhetes pré-comprados, se poderão ver impossibilitados de os utilizar no período referido e o carácter inovador do regime estabelecido, considera-se aconselhável admitir a sua troca num período suplementar.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano, do Comércio e Turismo e dos Transportes e Comunicações, o seguinte:
+O valor dos bilhetes pré-comprados para os transportes colectivos de passageiros adquiridos antes da entrada em vigor das alterações tarifárias resultantes da Portaria n.º 675-A/81, de 6 de Agosto, e da Portaria n.º 736-B/81, de 28 de Agosto, poderá ser descontado na aquisição de bilhetes pré-comprados emitidos de acordo com as novas tarifas, no período de quinze dias, contados a partir de 15 de Outubro de 1981.
+Ministérios das Finanças e do Plano, do Comércio e Turismo e dos Transportes e Comunicações, 2 de Setembro de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro do Comércio e Turismo, Alexandre de Azeredo Vaz Pinto. - O Ministro dos Transportes e Comunicações, José Carlos Pinto Soromenho Viana Baptista.
