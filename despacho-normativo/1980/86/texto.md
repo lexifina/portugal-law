@@ -1,0 +1,3 @@
+Despacho Normativo n.º 86/80
+Para efeitos de execução da Portaria n.º 42-B/80, de 15 de Fevereiro, os diferenciais entre os preços fixados pela citada portaria para fornecimento de matérias-primas à indústria extractora de óleos e às indústrias produtoras de sabões e de margarinas e de alimentos compostos para animais e os preços reais de aquisição serão suportados pelo Fundo de Abastecimento.
+Secretarias de Estado do Orçamento e do Comércio Interno, 22 de Fevereiro de 1980. - O Secretário de Estado do Orçamento, António Jorge de Figueiredo Lopes. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.
