@@ -1,0 +1,17 @@
+Resolução do Conselho de Ministros n.º 26/97
+O Plano de Ordenamento da Albufeira da Caniçada, adiante designado por POAC, aprovado por despacho conjunto publicado no Diário da República, 2.ª série, n.º 133, de 8 de Junho de 1993, fixou as regras a observar na utilização dessa albufeira e na sua zona envolvente, de acordo com o previsto no Decreto Regulamentar n.º 2/88, de 20 de Janeiro.
+Tendo sido um estudo pioneiro, não existiam à data conhecimentos que permitissem aferir da eficácia das soluções nele contidas, pelo que veio a verificar-se não terem estas surtido os efeitos pretendidos.
+Constatando-se, por outro lado, a necessidade de compatibilizar o POAC com os ulteriores planos directores municipais que incidem sobre a mesma área, impõe-se a sua suspensão, bem como a elaboração de um novo plano.
+Importa, contudo, que sejam desde já adoptadas medidas, previstas no artigo 6.º do Decreto-Lei n.º 151/95, de 24 de Junho, que evitem uma alteração das circunstâncias e das condições actualmente existentes que possa comprometer a revisão do POAC.
+Foram ouvidas as Câmaras Municipais de Montalegre, Terras de Bouro e Vieira do Minho.
+Assim:
+Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:
+1 - É suspenso o Plano de Ordenamento da Albufeira da Caniçada (POAC) para efeitos da sua revisão, ficando a área por ele abrangida, referente ao plano de água e área envolvente da albufeira, sujeita às seguintes medidas preventivas:
+a) Na zona de protecção da albufeira, tal como definida pelo n.º 1 do artigo 7.º do Decreto Regulamentar n.º 2/88, de 20 de Janeiro, aplica-se o disposto nos Planos Directores Municipais de Montalegre, Terras de Bouro e Vieira do Minho, quando estas disposições não contrariem as normas do artigo 8.º daquele decreto regulamentar;
+b) Na zona reservada da albufeira, tal como definida pelo n.º 4 do artigo 7.º do Decreto Regulamentar n.º 2/88, não são permitidas novas ocupações, salvo quando tenham fins habitacionais e desde que se localizem em áreas urbanas ou urbanizáveis, de acordo com os planos directores municipais referidos na alínea anterior;
+c) A Direcção Regional do Ambiente e Recursos Naturais do Norte procederá à sinalização, na margem e no plano de água da albufeira, das áreas de segurança da barragem e de recreio balnear.
+2 - É interdita a navegação a motor a menos de 50 m da margem da albufeira, salvo para efeitos de acostagem das embarcações, a qual deverá ser feita perpendicularmente à margem, em velocidade reduzida e sempre fora das áreas sinalizadas para recreio balnear.
+3 - A demarcação da área de segurança da barragem destina-se a garantir o respeito pela barragem e seus órgãos, não sendo nela admitida a prática de qualquer actividade; serão sinalizadas como áreas de recreio balnear aquelas que reúnam as condições necessárias para a prática de banhos e natação, onde é interdita a prática de qualquer outra actividade.
+4 - O prazo de vigência das medidas preventivas é de um ano, prorrogável, se necessário, por mais um, caducando com a entrada em vigor do Plano Especial de Ordenamento da Albufeira da Caniçada.
+5 - Aos municípios abrangidos compete dar publicidade à adopção das medidas previstas na presente resolução, por editais a afixar nos paços do concelho, nas sedes das juntas de freguesia a que respeitam as áreas abrangidas e por meio de aviso publicado no jornal mais lido da região.
+Presidência do Conselho de Ministros, 30 de Janeiro de 1997. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
