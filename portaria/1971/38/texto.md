@@ -1,0 +1,4 @@
+Portaria n.º 38/71
+de 25 de Janeiro
+Manda o Governo da República Portuguesa, pelos Secretários de Estado do Tesouro e das Comunicações e Transportes, nos termos do n.º 3 do artigo 23.º do Estatuto dos Telefones de Lisboa e Porto, anexo ao Decreto-Lei n.º 48007, de 26 de Outubro de 1967, atendendo ao que foi solicitado por esta empresa, com o acordo dos Correios e Telecomunicações de Portugal, autorizar os mesmos Telefones de Lisboa e Porto a contrair um empréstimo na Caixa Geral de Depósitos, Crédito e Previdência de 50000000$00, pelo prazo de oito anos, amortizável em dezasseis semestralidades e à taxa de juro de 5,5 por cento ao ano.
+O Secretário de Estado do Tesouro, João Luís da Costa André. - O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.
