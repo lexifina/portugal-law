@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação do Ministério dos Negócios Estrangeiros do Reino da Noruega, o Governo do Reino Unido da Grã-Bretanha e da Irlanda do Norte depositou em 30 de Junho de 1975 o instrumento da ratificação da Convenção para a Prevenção da Poluição Marítima Causada por Operações de Imersão Efectuadas por Navios e Aeronaves, assinada em Oslo em 15 de Fevereiro de 1972, e que entrará em vigor para todo o território do Reino Unido em 30 de Julho de 1975.
+Direcção-Geral dos Negócios Económicos, 4 de Agosto de 1975. - O Adjunto do Director-Geral, Alexandre Eduardo Lencastre da Veiga.
