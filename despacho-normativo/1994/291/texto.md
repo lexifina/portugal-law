@@ -1,0 +1,7 @@
+Despacho Normativo n.º 291/94
+Considerando que Ângelo Nelson Rosário de Souza, subdirector-geral do quadro de pessoal da Direcção-Geral da Indústria, Maria Delfina Ferreira Baeta Serpa Pinto, Leonel Barbosa, José Filomeno Beja Cardeiro, directores de serviço do quadro da mesma Direcção-Geral, e Rosa Maria Simões da Silva Sousa Marques, chefe de divisão do já referido quadro de pessoal, cessaram em 24 de Março de 1993 as comissões de serviço nos respectivos cargos dirigentes, por força do disposto no artigo 28.º do Decreto Regulamentar n.º 8/93, de 19 de Março;
+Considerando que os referidos funcionários, atento o disposto no artigo 3.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, reúnem os requisitos necessários para acesso à categoria de assessor principal;
+Considerando o disposto nos n.os 6 e 8 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção que lhe foi conferida pelo artigo 1.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro:
+Determina-se o seguinte:
+São criados no quadro de pessoal da Direcção-Geral da Indústria, aprovado pela Portaria n.º 973/93, de 4 de Outubro, cinco lugares de assessor principal, um na carreira de técnico superior e quatro na carreira de engenheiro, a extinguir quando vagarem.
+Ministérios das Finanças e da Indústria e Energia, 19 de Abril de 1994. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
