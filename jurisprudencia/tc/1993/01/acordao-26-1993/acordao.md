@@ -1,0 +1,45 @@
+# Acórdão do Tribunal Constitucional n.º 26/1993, de 1993-01-14
+
+**Acórdão:** 26/93
+
+**Processo:** 270/92
+
+**Formação:** 1ª Secção
+
+**Espécie:** Recurso
+
+**Data:** 14.01.1993
+
+**Relator:** Cons. Tavares da Costa
+
+**Fonte:** https://www.tribunalconstitucional.pt/tc/acordaos/19930026.html
+
+## Texto integral
+
+ACÓRDÃO N.º 26/93
+
+Processo n.º 270/92
+
+1.ª Secção
+
+Relator: Conselheiro Tavares da Costa
+
+Acordam na 1.ª Secção do Tribunal Constitucional
+
+Nos presentes autos em que é recorrente o Ministério Público e recorrido A., Lda. e B., contra o qual a execução foi declarada revertida, nos termos dos artigos 16.º e 146.º do Código de Processo das Contribuições e Impostos, concordando-se com a exposição prévia oportunamente elaborada e tendo em conta os fundamentos aduzidos no Acórdão deste Tribunal n.º 331/92, publicado no Diário da República, II Série, de 14 de Novembro de 1992, decide-se não julgar inconstitucional a norma constante do artigo 9.º, n.º 1, do Decreto-Lei n.º 154/91, de 23 de Abril, por si ou em conjugação com o seu n.º 2 e, em consequência, determinar a reforma da decisão impugnada em conformidade com o presente juízo sobre a questão de constitucionalidade.
+
+Lisboa, 14 de Janeiro de 1993
+
+Alberto Tavares da Costa
+
+Vítor Nunes de Almeida
+
+Armindo Ribeiro Mendes
+
+Maria da Assunção Esteves
+
+Antero Alves Monteiro Diniz
+
+António Vitorino
+
+José Manuel Cardoso da Costa
