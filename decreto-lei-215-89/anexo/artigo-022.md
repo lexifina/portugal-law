@@ -1,15 +1,7 @@
 # Artigo 22.º
 
-### Caixas de crédito agrícola mútuo
+### Aplicações por prazo superior a cinco anos
 
-Os rendimentos das caixas de crédito agrícola mútuo são tributados em IRC às seguintes taxas:
+1 - Os rendimentos de aplicações financeiras, nomeadamente obrigações, certificados de depósito e outros títulos de dívida, seguros e operações do ramo 'Vida', emitidos por prazo superior a cinco anos, cujas características permitam a prova, e esta seja feita, de que não foram negociados, reembolsados, resgatados ou objecto de destaque de direitos autónomos, nem tenham, no referido período, sido objecto de qualquer distribuição de rendimentos, contam por 80% do seu quantitativo para efeitos de IRS.
 
-a) Rendimentos respeitantes ao exercício de 1989 - 12,5%;
-
-b) Rendimentos respeitantes ao exercício de 1990 - 16%;
-
-c) Rendimentos respeitantes ao exercício de 1991 - 20%;
-
-d) Rendimentos respeitantes ao exercício de 1992 - 25%;
-
-e) Rendimentos respeitantes ao exercício de 1993 - 31%.
+2 - Os requisitos referidos no número anterior apenas se consideram verificados quando se trate de aplicações financeiras nominativas, escriturais ou tituladas, que se encontrem integradas em sistema centralizado, registadas ou depositadas junto de intermediário financeiro, ou registadas ou depositadas junto da entidade emitente, pertencentes a pessoas singulares residentes em território português.

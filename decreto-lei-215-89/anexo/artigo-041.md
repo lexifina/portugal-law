@@ -4,7 +4,7 @@
 
 # Artigo 41.º
 
-### Zona franca da Madeira e zona franca da ilha de Santa Maria
+### Zona Franca da Madeira e Zona Franca da Ilha de Santa Maria
 
 1 - As entidades instaladas nas zonas francas da Madeira e da ilha de Santa Maria beneficiam de isenção de IRS ou de IRC, até 31 de Dezembro de 2011, nos termos seguintes:
 
@@ -12,7 +12,11 @@ a) As entidades instaladas na zona demarcada industrial respectiva, relativament
 
 b) As entidades devidamente licenciadas que prossigam a actividade da indústria de transportes marítimos, relativamente aos rendimentos derivados do exercício da actividade licenciada, exceptuados os rendimentos derivados do transporte de passageiros ou de carga entre portos nacionais;
 
-c) As instituições de crédito e as sociedades financeiras, relativamente aos rendimentos da respectiva actividade aí exercida, desde que neste âmbito não realizem quaisquer operações com residentes em território português ou com um estabelecimento estável de um não residente aí situado, exceptuadas as entidades instaladas nas zonas francas que não sejam instituições de crédito, sociedades financeiras ou sucursais financeiras que realizem operações próprias da sua actividade com residentes ou estabelecimentos estáveis de não residentes;
+c) As instituições de crédito e as sociedades financeiras, relativamente aos rendimentos da respectiva actividade aí exercida, desde que neste âmbito:
+
+1) Não realizem quaisquer operações com residentes em território português ou com estabelecimento estável de um não residente aí situado, exceptuadas as entidades instaladas nas zonas francas que não sejam instituições de crédito, sociedades financeiras ou sucursais financeiras que realizem operações próprias da sua actividade com residentes ou estabelecimentos estáveis de não residentes;
+
+2) Não realizem quaisquer operações com não residentes que se encontrem em relação de domínio, tal como este é definido no artigo 13.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, com entidades residentes em território português, fora das zonas francas, ou com entidades financeiras não residentes que sejam maioritariamente detidas, directa ou indirectamente, por entidades residentes em território português, fora das zonas francas;
 
 d) As entidades que prossigam a actividade de gestão de fundos de investimento, relativamente aos rendimentos derivados da gestão de fundos, cujas unidades de participação sejam exclusivamente adquiridas, na emissão, por não residentes em território português, com excepção dos respectivos estabelecimentos estáveis aí situados, e cujas aplicações sejam realizadas exclusivamente em activos financeiros emitidos por não residentes ou em outros activos situados fora do território português, sem prejuízo de o valor líquido global do fundo poder ser constituído, até um máximo de 10%, por numerário, depósitos bancários, certificados de depósito ou aplicações em mercados interbancários;
 
@@ -68,4 +72,20 @@ b) Todos os rendimentos decorrentes da prestação de serviços a pessoas singul
 
 13 - Para os efeitos do disposto nos números anteriores, consideram-se residentes em território português as entidades como tal qualificadas nos termos dos Códigos do IRS e do IRC e que não sejam consideradas residentes de outro Estado por força de convenção destinada a eliminar a dupla tributação de que o Estado Português seja parte.
 
-14 - Quando a qualidade de não residente não resulte inequivocamente dos documentos que suportam a operação, deve aquela ser comprovada através de declaração do próprio, contendo todos os elementos de identificação, a qual é considerada documento fiscalmente relevante para todos os efeitos legais.
+14 - Para efeito do disposto nos números anteriores, a qualidade de não residente deve ser comprovada da forma seguinte:
+
+a) Quando forem bancos centrais, instituições de direito público ou organismos internacionais, bem como quando forem instituições financeiras, domiciliadas em qualquer Estado membro da União Europeia ou em Estado com o qual Portugal tenha celebrado convenção para evitar a dupla tributação internacional e estejam submetidas a um regime especial de supervisão ou de registo administrativo, com a respectiva identificação fiscal;
+
+b) Nos restantes casos, mediante a apresentação de certificado de residência ou documento equivalente emitido pelas autoridades fiscais ou outra entidade oficial do Estado da residência ou de documento emitido por consulado português, comprovativo da residência no estrangeiro, com data de emissão não anterior a três anos nem posterior a três meses em relação à data de realização das operações e da percepção dos rendimentos, salvo se o prazo de validade do documento for inferior, caso em que se observa este.
+
+15 - Compete às entidades a que se refere o n.º 1 a prova da qualidade de não residente das entidades com as quais estabeleçam relações, devendo os meios de prova ser conservados durante um período não inferior a cinco anos e exibidos ou facultados à administração tributária sempre que solicitados.
+
+16 - A falta de apresentação da prova de não residente a que se refere o número anterior pelas entidades a que se refere o n.º 1 tem as consequências seguintes:
+
+a) Ficam sem efeito os benefícios concedidos às entidades beneficiárias que pressuponham a referida qualidade;
+
+b) São aplicáveis as normas gerais previstas nos competentes códigos relativas à responsabilidade pelo pagamento do imposto em falta;
+
+c) Presume-se que as operações foram realizadas com entidades residentes em território português para efeitos do disposto neste preceito.
+
+17 - As entidades a que se refere a alínea c) do n.º 1 que não exerçam em exclusivo a sua actividade nas zonas francas, devem organizar a contabilidade, de modo a permitir o apuramento dos resultados das operações realizadas no âmbito das zonas francas, para o que poderão ser definidos procedimentos por portaria do Ministro das Finanças.

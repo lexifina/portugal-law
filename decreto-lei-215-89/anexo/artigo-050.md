@@ -10,7 +10,7 @@
 
 a) Os Estados estrangeiros, quanto aos prédios destinados às respectivas representações diplomáticas ou consulares, quando haja reciprocidade;
 
-b) As instituições de segurança social e, bem assim, as instituições de previdência referidas no artigo 79.º da Lei n.º 28/84, de 14 de Agosto, quanto aos prédios ou partes de prédios destinados directamente à realização dos seus fins;
+b) As instituições de segurança social e de previdência a que se referem os artigos 87.º e 114.º da Lei n.º 17/2000, de 8 de Agosto, quanto aos prédios ou partes de prédios destinados directamente à realização dos seus fins;
 
 c) As associações ou organizações de qualquer religião ou culto às quais seja reconhecida personalidade jurídica, quanto aos templos ou edifícios exclusivamente destinados ao culto ou à realização de fins não económicos com este directamente relacionados;
 
@@ -26,15 +26,15 @@ h) Os estabelecimentos de ensino particular integrados no sistema educativo, qua
 
 i) As associações desportivas e as associações juvenis legalmente constituídas, em relação aos prédios ou parte de prédios destinados directamente à realização dos seus fins;
 
-j) As associações de bolsa, as associações prestadoras de serviços especializados e a associação nacional dos intermediários financeiros do mercado de balcão que vierem a constituir-se como associações de direito privado sem fins lucrativos, nos termos da legislação reguladora do mercado de valores mobiliários, relativamente aos imóveis destinados à instalação das bolsas e centros de transacção de valores e demais serviços dessas associações;
+j) (Revogada).
 
-l) Os prédios ou parte de prédios cedidos gratuitamente pelos respectivos proprietários ou usufrutuários a entidades públicas não sujeitas a contribuição autárquica enumeradas no artigo 9.º do respectivo Código, ou a entidades referidas nas alíneas anteriores, para o prosseguimento directo dos respectivos fins.
+l) Os prédios ou parte de prédios cedidos gratuitamente pelos respectivos proprietários a entidades públicas isentas de contribuição autárquica enumeradas no artigo 9.º do respectivo Código, ou a entidades referidas nas alíneas anteriores, para o prosseguimento directo dos respectivos fins;
 
 m) Sociedades de capitais exclusivamente públicos relativamente aos prédios cedidos a qualquer título ao Estado ou a outras entidades públicas, no exercício de uma actividade de interesse público.
 
 2 - As isenções a que se refere o número anterior iniciam-se:
 
-a) Relativamente às situações previstas nas alíneas a) a d) e g) a j), no ano, inclusive, em que o prédio ou parte do prédio for destinado aos fins nelas referidos;
+a) Relativamente às situações previstas nas alíneas a) a d) e g) a i), no ano, inclusive, em que o prédio ou parte do prédio for destinado aos fins nelas referidos;
 
 b) Relativamente às situações previstas nas alíneas e) e f), a partir do ano, inclusive, em que se constitua o direito de propriedade;
 
