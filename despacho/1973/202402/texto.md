@@ -1,0 +1,3 @@
+Despacho
+Nos termos do artigo 2.º do Decreto-Lei n.º 43000, de 1 Junho de 1960, mediante proposta do Ministério da Educação Nacional, ouvido o Conselho Permanente da Acção Educativa, a habilitação do curso de comércio ou do curso complementar de aprendizagem de comércio, regulados, respectivamente, pelo Decreto n.º 20420, de 20 de Outubro de 1931, e pelo Decreto n.º 37029, de 25 de Agosto de 1948, é declarada suficiente, em paralelo com o curso geral dos liceus, para o provimento em lugares de primeiro-oficial, segundo-oficial e terceiro-oficial do quadro dos serviços da Missão de Estudos Agronómicos do Ultramar.
+Presidência do Conselho, 23 de Fevereiro de 1973. - Pelo Presidente do Conselho, João Mota Pereira de Campos, Ministro de Estado.
