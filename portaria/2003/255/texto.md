@@ -1,0 +1,6 @@
+Portaria n.º 255/2003
+de 19 de Março
+Considerando que para uma gestão mais eficaz da pesca na albufeira do Torrão a zona de pesca reservada do rio Tâmega-Formão, criada pela Portaria n.º 165/99, de 10 de Março, deverá estender-se também à margem direita daquele troço do rio Tâmega:
+Manda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, ao abrigo das bases IV, XXIX e XXXIII da Lei n.º 2097, de 6 de Junho de 1959, e dos artigos 5.º e 84.º do Decreto n.º 44623, de 10 de Outubro de 1962, que o n.º 1.º da Portaria n.º 165/99, de 10 de Março, passe a ter a seguinte redacção:
+«1.º É criada uma zona de pesca reservada no troço do rio Tâmega (albufeira do Torrão) compreendido entre a ponte da A 4 no lugar de Formão, freguesia de Cepelos, na margem esquerda, e lugar de Amarantinho, freguesia de Fregim, na margem direita, concelho de Amarante, a montante, e a ponte de Baía, freguesia de Salvador do Monte, na margem esquerda, e freguesia de Vila Caiz, na margem direita, concelho de Amarante, a jusante, numa extensão de 2,5 km.»
+Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Fernando António de Miranda Guedes Bianchi de Aguiar, Secretário de Estado do Desenvolvimento Rural, em 5 de Março de 2003.
