@@ -1,9 +1,15 @@
 # Artigo 96.º
 
-- 1. Na direcção haverá um secretariado incumbido de elaborar as actas das sessões da direcção e o despacho de todo o expediente.
+1 - Na direcção haverá um secretariado incumbido do despacho de todo o expediente, podendo ser-lhe especialmente delegadas outras competências pela direcção.
 
-2. O secretariado, assistido pelo chefe dos serviços do Cofre, será constituído pelos seguintes elementos da direcção:
+2 - As deliberações do secretariado serão obrigatoriamente submetidas à apreciação da direcção nos casos seguintes:
 
-a) Um sócio de inscrição obrigatória que não pertença ao quadro dos trabalhadores do Cofre, destacado a tempo completo, mediante autorização do Ministro das Finanças, e sem perda dos direitos do cargo de origem;
+a) Quando não tenham sido tomadas por unanimidade;
 
-b) Os dois trabalhadores do Cofre.
+b) Quando, no prazo de trinta dias a contar do conhecimento da respectiva deliberação, os interessados solicitem que o assunto seja resolvido pela direcção.
+
+3 - O secretariado, assistido pelo director de serviços, será constituído pelos seguintes elementos da direcção:
+
+a) Um dos membros da direcção, por esta designado, e que tenha disponibilidades de tempo para o desempenho de funções no secretariado;
+
+b) Os dois trabalhadores do Cofre
