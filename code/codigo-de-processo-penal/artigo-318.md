@@ -2,7 +2,7 @@
 
 ### (Residentes fora da comarca)
 
-1 - Excepcionalmente, a tomada de declarações ao assistente, às partes civis, a testemunhas, a peritos ou consultores técnicos pode, oficiosamente ou a requerimento, ser solicitada pelo presidente ao juiz de outra comarca, por meio adequado de comunicação, nos termos do artigo 111.º, se:
+1 - Excepcionalmente, a tomada de declarações ao assistente, às partes civis, às testemunhas, a peritos ou a consultores técnicos pode, oficiosamente ou a requerimento, não ser prestada presencialmente, podendo ser solicitada pelo presidente ao juiz de outra comarca, por meio adequado de comunicação, nos termos do artigo 111.º, se:
 
 a) Aquelas pessoas residirem fora do círculo judicial;
 
@@ -16,7 +16,7 @@ c) Forem previsíveis graves dificuldades ou inconvenientes, funcionais ou pesso
 
 4 - A tomada de declarações processa-se com observância das formalidades estabelecidas para a audiência.
 
-5 - Sempre que estiverem disponíveis os indispensáveis recursos técnicos, a tomada de declarações realiza-se em simultâneo com a audiência de julgamento, com recurso a meios de telecomunicação em tempo real.
+5 - A tomada de declarações realiza-se em simultâneo com a audiência de julgamento, com recurso a meios de telecomunicação em tempo real.
 
 6 - No caso previsto no número anterior, observam-se as disposições aplicáveis à tomada de declarações em audiência de julgamento. Compete, porém, ao juiz da comarca a quem a diligência foi solicitada praticar os actos referidos nos artigos 323.º, alíneas b), primeira parte, d) e e), e 348.º, n.º 3.
 

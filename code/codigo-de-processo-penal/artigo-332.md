@@ -2,7 +2,7 @@
 
 ### (Presença do arguido)
 
-1 - É obrigatória a presença do arguido na audiência, sem prejuízo do disposto nos artigos 333.º, n.º 2, e 334.º, n.os 1, 2 e 3.
+1 - É obrigatória a presença do arguido na audiência, sem prejuízo do disposto nos artigos 333.º, n.os 1 e 2, e 334.º, n.os 1 e 2.
 
 2 - O arguido que deva responder perante determinado tribunal, segundo as normas gerais da competência, e estiver preso em comarca diferente pela prática de outro crime, é requisitado à entidade que o tiver à sua ordem.
 

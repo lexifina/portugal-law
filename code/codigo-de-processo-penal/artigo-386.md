@@ -6,8 +6,8 @@
 
 a) Se o arguido solicitar esse prazo para preparação da sua defesa;
 
-b) Se ao julgamento faltarem testemunhas de que o Ministério Público, o assistente ou o arguido não prescindam; ou
-
-c) Se o tribunal, oficiosamente ou a requerimento do Ministério Público, considerar necessário que se proceda a quaisquer diligências de prova essenciais à descoberta da verdade e que possam previsivelmente realizar-se dentro daquele prazo.
+b) Se o tribunal, oficiosamente ou a requerimento do Ministério Público, considerar necessário que se proceda a quaisquer diligências de prova essenciais à descoberta da verdade e que possam previsivelmente realizar-se dentro daquele prazo.
 
 2 - Se a audiência for adiada, o juiz adverte o arguido de que esta prosseguirá na data designada, mesmo que não compareça, sendo representado por defensor.
+
+3 - Se faltarem testemunhas de que o Ministério Público, o assistente ou o arguido não prescindam, a audiência não é adiada, sendo inquiridas as testemunhas presentes pela ordem indicada nas alíneas b) e c) do artigo 341.º, sem prejuízo da alteração que seja necessária efectuar no rol apresentado, e as declarações documentadas.

@@ -2,7 +2,7 @@
 
 ### Declaração de contumácia
 
-1 - Fora dos casos previstos nos n.os 1, 2 e 3 do artigo anterior, se, depois de realizadas as diligências necessárias à notificação a que se refere o artigo 313.º, n.º 2, não for possível notificar o arguido do despacho que designa dia para a audiência, ou executar a detenção ou a prisão preventiva referidas nos artigos 116.º, n.º 2, e 254.º, ou consequentes a uma evasão, o arguido é notificado por editais para se apresentar em juízo, num prazo até 30 dias, sob pena de ser declarado contumaz.
+1 - Fora dos casos previstos nos n.os 1 e 2 do artigo anterior, se, depois de realizadas as diligências necessárias à notificação a que se refere o artigo 313.º, n.º 2 e primeira parte do n.º 3, não for possível notificar o arguido do despacho que designa o dia para a audiência, ou executar a detenção ou a prisão preventiva referidas nos artigos 116.º, n.º 2, e 254.º, ou consequentes a uma evasão, o arguido é notificado por editais para se apresentar em juízo, num prazo até 30 dias, sob pena de ser declarado contumaz.
 
 2 - Os editais contêm as indicações tendentes à identificação do arguido, do crime que lhe é imputado e das disposições legais que o punem e a comunicação de que, não se apresentando no prazo assinado, será declarado contumaz.
 

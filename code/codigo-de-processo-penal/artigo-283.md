@@ -14,7 +14,7 @@ b) A narração, ainda que sintética, dos factos que fundamentam a aplicação 
 
 c) A indicação das disposições legais aplicáveis;
 
-d) O rol de testemunhas, com a respectiva identificação, discriminando-se as que só devam depor sobre os aspectos referidos no artigo 128.º, n.º 2, que não podem exceder o número de cinco;
+d) O rol com o máximo de 20 testemunhas, com a respectiva identificação, discriminando-se as que só devam depor sobre os aspectos referidos no artigo 128.º, n.º 2, as quais não podem exceder o número de cinco;
 
 e) A indicação dos peritos e consultores técnicos a serem ouvidos em julgamento, com a respectiva identificação;
 
@@ -26,4 +26,6 @@ g) A data e assinatura.
 
 5 - É correspondentemente aplicável o disposto no artigo 277.º, n.º 3, prosseguindo o processo quando os procedimentos de notificação se tenham revelado ineficazes.
 
-6 - As comunicações a que se refere o número anterior efectuam-se por notificação mediante contacto pessoal ou via postal registada.
+6 - As comunicações a que se refere o número anterior efectuam-se mediante contacto pessoal ou por via postal registada, excepto se o arguido e o assistente tiverem indicado a sua residência ou domicílio profissional à autoridade policial ou judiciária que elaborar o auto de notícia ou que os ouvir no inquérito ou na instrução, caso em que são notificados mediante via postal simples, nos termos do artigo 113.º, n.º 1, alínea c).
+
+7 - O limite do número de testemunhas previsto na alínea d) do n.º 3 pode ser ultrapassado desde que tal se afigure necessário para a descoberta da verdade material, designadamente quando tiver sido praticado algum dos crimes referidos no n.º 2 do artigo 215.º ou se o processo se revelar de excepcional complexidade, devido ao número de arguidos ou ofendidos ou ao carácter altamente organizado do crime.

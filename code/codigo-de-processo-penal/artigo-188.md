@@ -2,7 +2,7 @@
 
 ### (Formalidades das operações)
 
-1 - Da intercepção e gravação a que se refere o artigo anterior é lavrado auto, o qual, junto com as fitas gravadas ou elementos análogos, é imediatamente levado ao conhecimento do juiz que tiver ordenado ou autorizado as operações.
+1 - Da intercepção e gravação a que se refere o artigo anterior é lavrado auto, o qual, junto com as fitas gravadas ou elementos análogos, é imediatamente levado ao conhecimento do juiz que tiver ordenado ou autorizado as operações, com a indicação das passagens das gravações ou elementos análogos considerados relevantes para a prova.
 
 2 - O disposto no número anterior não impede que o órgão de polícia criminal que proceder à investigação tome previamente conhecimento do conteúdo da comunicação interceptada a fim de poder praticar os actos cautelares necessários e urgentes para assegurar os meios de prova.
 

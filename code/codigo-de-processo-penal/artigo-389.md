@@ -14,4 +14,4 @@
 
 6 - Finda a produção da prova, a palavra é concedida, por uma só vez, ao Ministério Público, aos representantes do assistente e das partes civis e ao defensor, os quais podem usar dela por um máximo de 30 minutos, improrrogáveis.
 
-7 - A sentença pode ser proferida verbalmente e ditada para a acta.
+7 - A sentença é logo proferida verbalmente e ditada para acta.
