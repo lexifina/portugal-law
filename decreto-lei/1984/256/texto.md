@@ -1,0 +1,22 @@
+Decreto-Lei n.º 256/84
+de 27 de Julho
+Considerando que na execução do Decreto-Lei n.º 211/81, de 13 de Julho, através do qual se procedeu à reestruturação das direcções escolares e das delegações escolares, se verifica a existência de algumas lacunas que têm inviabilizado a transição dos titulares dos cargos com nomeação definitiva;
+Considerando que, assegurando-se o direito à mesma letra de vencimento, importa aproveitar a experiência profissional e conhecimentos daqueles funcionários na área que mais se identifica com as qualificações adquiridas, possibilitando-se uma mais adequada motivação profissional:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º Os artigos 32.º e 34.º do Decreto-Lei n.º 211/81, de 13 de Julho, passam a ter a seguinte redacção:
+Art. 32.º - 1 - Os actuais directores de distrito escolar, com provimento definitivo, que se encontrem no exercício efectivo de funções passam ao regime de comissão de serviço, como directores escolares, previsto no presente diploma.
+2 - Os actuais directores de distrito escolar providos definitivamente e ainda os directores escolares das ex-colónias, os integrados no quadro de supranumerários e os adidos, que à data da entrada em vigor do presente diploma não estejam no exercício efectivo de funções, bem como os directores de distrito escolar, com provimento definitivo, à medida que cessarem as respectivas comissões de serviço como directores escolares, transitam para a categoria de inspector principal da carreira técnica de inspecção, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas.
+3 - Para efeitos do disposto no número anterior consideram-se automaticamente criados os correspondentes lugares no quadro único dos organismos e serviços centrais do Ministério da Educação, os quais se extinguirão à medida que vagarem.
+4 - Os inspectores principais a que se referem os números anteriores são afectos à dotação do pessoal técnico de inspecção administrativo-financeira da Inspecção-Geral de Ensino, que os distribuirá em função das necessidades dos serviços e sempre com acordo dos interessados, se a distribuição implicar mudança de localidade.
+Art. 34.º - 1 - Os actuais adjuntos de director de distrito escolar, com provimento definitivo, que se encontrem no exercício efectivo de funções passam ao regime de comissão de serviço, como subdirectores escolares, previsto no presente diploma.
+2 - Os actuais adjuntos de director de distrito escolar providos definitivamente e ainda os adjuntos de director escolar das ex-colónias, os integrados no quadro de supranumerários e os adidos, que à data da entrada em vigor do presente diploma não estejam no exercício efectivo de funções, bem como os adjuntos de director de distrito escolar, com provimento definitivo, à medida que cessarem as respectivas comissões de serviço como subdirectores escolares, transitam para a categoria de inspector principal adjunto da carreira técnica de inspecção, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas.
+3 - Para efeitos do disposto no número anterior consideram-se automaticamente criados os correspondentes lugares no quadro único dos organismos e serviços centrais do Ministério da Educação, os quais se extinguirão à medida que vagarem.
+4 - Os inspectores principais adjuntos a que se referem os números anteriores são afectos à dotação do pessoal técnico de inspecção administrativo-financeira da Inspecção-Geral de Ensino, que os distribuirá em função das necessidades dos serviços e sempre com acordo dos interessados, se a distribuição implicar mudança de localidade.
+Art. 2.º Os encargos resultantes da aplicação do presente diploma serão suportados pelas dotações aprovadas para despesas com o pessoal do quadro único dos organismos e serviços centrais do Ministério da Educação, operando-se o consequente reforço por transferência de verba orçamentada para as direcções escolares, escolas primárias e postos escolares.
+Art. 3.º O presente diploma produz efeitos desde a data a que se reporta o Decreto-Lei n.º 211/81, de 13 de Julho.
+Visto e aprovado em Conselho de Ministros de 3 de Julho de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Ernâni Rodrigues Lopes - Maria Helena Carvalho dos Santos Oliveira Lopes.
+Promulgado em 11 de Julho de 1984.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 16 de Julho de 1984.
+O Primeiro-Ministro, Mário Soares.
