@@ -1,0 +1,10 @@
+Portaria n.º 134/79
+de 27 de Março
+A experiência vem demonstrando que o sistema da poupança-crédito, instituído pelo Decreto-Lei n.º 540/76, de 9 de Julho, constitui um mecanismo do maior alcance para a formação e orientação da poupança dos emigrantes para o nosso país, com vista à construção, aquisição e melhoramento de prédios urbanos e rústicos. Entre os benefícios que o dito sistema comporta, inclui-se a concessão de empréstimos a emigrantes a uma taxa de juro bonificado, bastante inferior à taxa corrente das operações hipotecárias, assumindo o Estado o encargo de reembolso às instituições de crédito do correspondente diferencial de juros.
+A taxa de juro dos referidos empréstimos foi actualizada para 9,5% pela Portaria n.º 671/77, de 2 de Novembro, não tendo depois sofrido nova alteração, não obstante terem sido aumentadas, a partir de 6 de Maio de 1978, as taxas de juro das operações passivas, o que mais veio beneficiar os utilizadores do sistema da poupança-crédito. Ora, atendendo a que a partir desta última data as taxas de juro das operações activas registaram novos aumentos, conforme aviso do Banco de Portugal de 6 de Maio de 1978, não pode, na presente conjuntura, deixar de se ajustar, ainda que em proporção limitada, a taxa de juro dos empréstimos aos emigrantes no quadro do sistema da poupança-crédito.
+Nestes termos:
+Dado o disposto no n.º 1 do artigo 3.º do Decreto-Lei n.º 540/76, de 9 de Julho:
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano, o seguinte:
+1 - A taxa aplicável aos créditos a conceder aos emigrantes para os efeitos consignados no n.º 1 do artigo 3.º do Decreto-Lei n.º 540/76, de 9 de Julho, é fixada em 11,5%.
+2 - O disposto nesta portaria entra em vigor na data da publicação da mesma, ficando revogada a Portaria n.º 671/77, de 2 de Novembro, aplicando-se, porém, o seu regime aos pedidos de empréstimos que até àquela data tenham sido formalmente apresentados às instituições de crédito.
+Ministério das Finanças e do Plano, 8 de Março de 1979. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes.
