@@ -1,0 +1,23 @@
+Portaria n.º 627/86
+de 25 de Outubro
+Considerando que os acidentes provocados pelo manuseamento dos hidrocarbonetos a granel podem constituir um perigo para a vida humana e para o ambiente;
+Considerando a importância e urgência em se estabeleceram exigências para marítimos da mestrança e marinhagem de convés e máquinas que desempenham ou venham a desempenhar funções e ou assumir responsabilidades específicas no manuseamento dos hidrocarbonetos a granel;
+Considerando a adesão de Portugal à Convenção Internacional sobre Normas de Formação, de Certificação e de Serviço de Quartos para os Marítimos, STCW, 1978, pelo Decreto do Governo n.º 28/85, de 8 de Agosto, que obriga e aconselha a implementação, com a adequada rapidez, respectivamente, das suas regras e resoluções anexas, nomeadamente a Regra V/I e a Resolução n.º 10;
+Considerando a necessidade urgente de se criar um curso que ministre, neste domínio, a formação e a qualificação adequadas, estruturado na linha de orientação programada pela legislação internacional referida, complementando, sobre a matéria, a instrução obtida, tendo ainda em conta a experiência adquirida a bordo pelos tripulantes:
+Manda o Governo da República Portuguesa, pelo Ministro das Obras Públicas, Transportes e Comunicações, ao abrigo do disposto no n.º 1 do artigo 30.º do Regulamento da Escola de Mestrança e Marinhagem, aprovado pelo Decreto n.º 345/72, de 30 de Agosto, o seguinte:
+1.º É criado na Escola de Mestrança e Marinhagem (EMM) o curso para tripulantes de navios-tanques (petroleiros), no âmbito dos cursos de aperfeiçoamento previstos na alínea c) do n.º 1 do artigo 27.º do Regulamento da EMM.
+2.º O curso a que se refere o número anterior destina-se à mestrança e marinhagem de convés e de máquinas e visa habilitá-los com os conhecimentos específicos necessários ao exercício das respectivas funções e sua responsabilidade a bordo dos navios-tanques (petroleiros).
+3.º A estrutura e programa do curso obedecerá ao disposto na alínea b) do parágrafo 2 da Regra V/I da Convenção STCW, 1978, bem como, dentro do possível, ao preconizado na Resolução n.º 10, adoptada pela Conferência Internacional sobre Formação e Emissão de Certificados para os Marítimos sobre a mesma matéria.
+4.º Excepcionalmente, poderão também ser reconhecidos cursos ministrados por outras entidades, mediante parecer concordante da Direcção-Geral do Pessoal do Mar e Estudos Náuticos, ouvida a Escola de Mestrança e Marinhagem.
+5.º As inscrições serão feitas mediante requerimento dirigido ao director da EMM.
+6.º A avaliação de conhecimentos será feita através de exame final e a classificação expressa em Apto ou Não apto.
+7.º A EMM informará a DGPMEN dos candidatos aptos.
+8.º Os tripulantes que tenham obtido a classificação de Apto no curso referido no n.º 1.º deste diploma e que provem ter adquirido, pelo menos, um ano de experiência adequada ao desempenho das suas funções, nas quais se inclui a responsabilização directa pela carga, descarga e precauções a tomar durante o transporte ou manuseamento das cargas, poderão requerer à DGPMEN a passagem de um certificado internacional para tripulantes de navios-tanques (petroleiros), de modelo em anexo a este diploma, desde que façam prova de terem frequentado com aproveitamento um curso de combate a incêndios.
+9.º Aos inscritos marítimos titulares de um certificado congénere emitido por entidade oficial estrangeira poderá, mediante requerimento dirigido ao director-geral do Pessoal do Mar e Estudos Náuticos, ser passado o certificado a que se refere o n.º 8.º deste diploma, uma vez satisfeitas as restantes condições nele expressas.
+Ministério das Obras Públicas, Transportes e Comunicações.
+Assinada em 10 de Outubro de 1986.
+Pelo Ministro das Obras Públicas, Transportes e Comunicações, Gonçalo Manuel Bourbon Sequeira Braga, Secretário de Estado dos Transportes e Comunicações.
+
+ANEXO
+Modelo do certificado de qualificação a que se refere o n.º 8.º
+(ver documento original)
