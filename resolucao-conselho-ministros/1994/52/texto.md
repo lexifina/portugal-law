@@ -1,0 +1,10 @@
+Resolução do Conselho de Ministros n.º 52/94
+Nos termos do n.º 2 do artigo 26.º do caderno de encargos aprovado pela Resolução do Conselho de Ministros n.º 10/94, de 3 de Fevereiro, a Associação da Bolsa de Valores de Lisboa, após verificar que se encontra já pago, na íntegra, o preço de aquisição de 2998800 acções da SECIL - Companhia Geral de Cal e Cimento, S. A., e de 10928000 acções da CMP - Cimentos Maceira e Pataias, S. A., apresentou o resultado da fase de abertura das ofertas e determinação do adquirente ao Conselho de Ministros.
+Compete agora proceder à homologação do resultado final do concurso, face ao disposto no n.º 1 do artigo 28.º do referido caderno de encargos.
+Compete agora proceder à homologação do resultado final do concurso, face ao disposto no n.º 1 do artigo 28.º do referido caderno de encargos.
+Assim:
+Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:
+1 - Homologar o resultado final do concurso público de alienação de 2998800 acções da SECIL - Companhia Geral de Cal e Cimento, S. A., detidas pela PARTEST - Participações do Estado, SGPS, S. A., e de 10928000 acções da CMP - Cimentos Maceira e Pataias, S. A., detidas pela CIMPOR - Cimentos de Portugal, S. A.
+2 - Dar o seu acordo à forma jurídica proposta para assegurar a gestão e exploração integradas da SECIL e da CMP, nos termos e condições que constam da respectiva proposta.
+3 - Confirmar como adquirente o agrupamento constituído por SEMAPA, Sociedade de Investimentos e Gestão, SGPS, Lda., Maud da Conceição Mendonça Queiroz Pereira, Maria Maude Mendonça Queiroz Pereira Lagos, Pedro Mendonça Queiroz Pereira, António Pedro Pereira de Bacelar Carrelhas, Sociedade Agrícola da Quinta da Vialonga, S. A., PARFIL, Sociedade de Gestão de Participações Sociais, SGPS, S. A., Portugália, Administração de Patrimónios, S. A., e Jansen, Administração de Patrimónios, Lda.
+Presidência do Conselho de Ministros, 16 de Junho de 1994. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
