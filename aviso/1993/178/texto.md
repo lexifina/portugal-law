@@ -1,0 +1,5 @@
+Aviso n.º 178/93
+Por ordem superior se torna público que o Conselho Federal Suíço, na sua qualidade de depositário das Convenções de Genebra de 12 de Agosto de 1949 Relativas à Protecção das Vítimas de Guerra e dos Protocolos Adicionais, transmitiu, em 10 de Maio de 1993, uma notificação segundo a qual a República Eslovaca depositou em 2 de Abril de 1993 uma declaração de sucessão em relação às quatro Convenções, bem como aos Protocolos Adicionais I e II, retomando as reservas em seu tempo formuladas pela República Federativa Checa e Eslovaca quanto às Convenções.
+A República Eslovaca tornou-se Parte nas Convenções e nos Protocolos em 1 de Janeiro de 1993, data da sua independência.
+Portugal aprovou, para ratificação, a referida Convenção, sob reserva quanto à doutrina do artigo 10.º, pelo Decreto-Lei n.º 42991, encontrando-se o texto em francês e a respectiva tradução para português no Diário do Governo, 1.ª série, n.º 123, de 26 de Maio de 1960.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 25 de Junho de 1993. - O Chefe do Serviço Jurídico e de Tratados, António Salgado Manso Preto Mendes Cruz.
