@@ -1,0 +1,48 @@
+Portaria n.º 6-A/83
+de 3 de Janeiro
+Os combustíveis têm visto os seus custos agravados como consequência da constante revalorização do dólar em relação ao escudo.
+As actuais estruturas de preços dos combustíveis, não traduzindo os aumentos dos encargos financeiros com a aquisição do petróleo bruto e com a constituição das reservas destinadas a assegurar o abastecimento do País em caso de crise, têm-se vindo a reflectir negativamente na economia dos combustíveis de uma forma progressivamente mais gravosas.
+Assim, torna-se indispensável dotar o Fundo de Abastecimento com os meios necessários que permitam iniciar uma gradual recuperação dos saldos negativos acumulados na área dos combustíveis.
+Por outro lado, reafirma-se novamente a necessidade de manter a política de fixação de preços reais e de prosseguir no sentido da eliminação de distorções entre os preços dos diversos combustíveis.
+Esta orientação não é, todavia, aplicada neste momento ao gasóleo apenas porque ao nível de preços actual se considera que o aumento equilibrado deste combustível deve ser acompanhado de esquemas de apoio à agricultura que, sem criação de expectativas de facilidades inexistentes, visem atenuar os efeitos do impacte de correcções substanciais no seu preço.
+Assim, o preço do gasóleo sofre um agravamento parcial que pode ser absorvido sem gravidade significativa naquele sector de actividade, prevendo-se a correcção desta situação, dentro dos critérios enunciados, logo que oportuno.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros da Agricultura, Comércio e Pescas e da Indústria, Energia e Exportação, ouvida a Direcção-Geral de Energia, e em conformidade com os Decretos-Leis n.os 329-A/74, de 10 de Julho, e 75-Q/77, de 8 de Fevereiro, o seguinte:
+1.º Preços dos combustíveis líquidos. - São fixados, para vigorarem no continente a partir das 0 horas do dia 4 de Janeiro de 1983, os seguintes preços:
+Gasolina I.O.98 RM:
+74$00 por litro, fornecida nos postos abastecedores.
+Gasolina I.O.85 RM:
+70$00 por litro, fornecida nos postos abastecedores.
+Petróleo iluminante:
+35$00 por litro, fornecido, quer a granel, quer em taras, nos postos de revenda.
+Petróleo carburante:
+36$00 por litro, fornecido, quer a granel, quer em taras, nos postos de revenda.
+Gasóleo:
+35$00 por litro, fornecido nos postos abastecedores, quer a granel quer em taras.
+Quando os fornecimentos aos Caminhos de Ferro Portugueses se verificarem nos armazéns de Lisboa, Porto e Sines das empresas distribuidoras, aquele preço será deduzido do diferencial de transporte médio ponderado, calculado com base nos diferenciais de transporte legalmente em vigor, dos distritos para onde o gasóleo é transportado, depois de efectuada a dedução dos encargos correspondentes ao transporte marítimo das refinarias a estes armazéns.
+Fuelóleo:
+a) Thick-fuel-oil de 1% de teor de enxofre - 19$00 por quilograma;
+b) Thick-fuel-oil de 3,5% de teor de enxofre - 17$50 por quilograma, fornecido a granel nas instalações das companhias distribuidoras em Lisboa, Matosinhos e Sines;
+c) Para a Electricidade de Portugal (EDP), E. P., os preços dos produtos anteriores são, respectivamente, de 19$00 e 17$50 por quilograma, fornecidos também a granel nas instalações das companhias distribuidoras em Lisboa, Matosinhos e Sines.
+2.º Preço dos gases de petróleo liquefeitos. - São fixados, para vigorarem no continente a partir das 0 horas do dia 4 de Janeiro de 1983, os seguintes preços:
+Em garrafas de mais de 3 kg:
+Ao público, no estabelecimento do revendedor:
+Butano - 39$00/kg;
+Propano - 40$00/kg;
+Ao público, no local de consumo:
+Butano - 40$00/kg;
+Propano - 41$50/kg;
+Canalizado, no local de consumo:
+Vendido a granel - 41$50/kg;
+Vendido em garrafas - 41$50/kg;
+A granel, à saída das instalações principais das empresas distribuidoras:
+Butano - 39$00/kg;
+Propano - 39$00/kg;
+Em embalagens iguais ou inferiores a 3 kg os preços continuam livres.
+3.º Preço do gás de cidade. - O preço máximo de venda ao público do gás de cidade é fixado em 12$50/m3, só podendo o novo preço ser aplicado a gás consumido após a primeira leitura feita depois da publicação da presente portaria no Diário da República.
+4.º Para a agricultura, a partir das 0 horas do dia 4 de Janeiro de 1983, o preço do gasóleo no continente é fixado em 35$00/litro, fornecido, quer a granel quer em taras nos postos de revenda.
+5.º Para as pescas, o preço de venda do gasóleo estabelecido pelo n.º 1 do Despacho Normativo n.º 154/80, de 21 de Abril, é aumentado 16$50/litro.
+6.º Preço dos asfaltos para pavimentação. - São fixados, para vigorarem no continente a partir das 0 horas do dia 4 de Janeiro de 1983, os seguintes preços máximos de venda ao público, excluído o imposto de transacções:
+Granel - 22000$00/t;
+Tambores abertos ou fechados - 26000$00/t.
+Ministérios das Finanças e do Plano, da Agricultura, Comércio e Pescas e da Indústria, Energia e Exportação, 3 de Janeiro de 1983. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro. - O Ministro da Agricultura, Comércio e Pescas, Basílio Adolfo Mendonça Horta da Franca. - O Ministro da Indústria, Energia e Exportação, Ricardo Manuel Simões Bayão Horta.
