@@ -1,0 +1,9 @@
+Decreto-Lei n.º 48650
+Tendo em vista os artigos 4.º e 6.º, assim como as disposições do Anexo G da Convenção que instituiu a Associação Europeia de Comércio Livre;
+Tendo em vista o regime estabelecido pelo Decreto-Lei n.º 44104, de 20 de Dezembro de 1961;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º A taxa a cobrar pelos automóveis para transporte de passageiros, não especificados, indicada na lista anexa ao Decreto-Lei n.º 47417, de 26 de Dezembro de 1966, para a subposição 87.02.08, passa a ser de 75,8 por cento da taxa da pauta mínima, correspondente ao elemento protector calculado, na conjuntura actual, em 60,5 por cento desta taxa.
+§ único. Os direitos dos referidos automóveis que tenham sido garantidos aquando do seu despacho aduaneiro serão liquidados pela taxa consignada no presente diploma, desde que se encontrem preenchidos todos os demais requisitos inerentes ao tratamento especial de que podem beneficiar nos termos da Convenção de Estocolmo, de 4 de Janeiro de 1960.
+Art. 2.º De futuro, as alterações a introduzir na lista referida no artigo antecedente serão fixadas por despacho conjunto dos Ministros das Finanças e da Economia.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 2 de Novembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bettencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José Estêvão Abranches Couceiro do Canto Moniz - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
