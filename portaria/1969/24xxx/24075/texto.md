@@ -1,0 +1,3 @@
+Portaria n.º 24075
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, abrir um crédito especial da importância de 100000$00 destinado a reforçar a verba do capítulo único, artigo 13.º, n.º 1), alínea c) «Diversos encargos - Publicidade e propaganda - Publicidade - Publicidade em jornais nacionais e estrangeiros», da tabela de despesa do orçamento privativo do Gabinete de Planeamento e Integração Económica para o ano em curso, tomando como contrapartida o saldo do ano económico findo.
+Ministério do Ultramar, 12 de Maio de 1969. - Pelo Ministro do Ultramar, José Coelho de Almeida Cota, Subsecretário de Estado da Administração Ultramarina.
