@@ -1,0 +1,3 @@
+Resolução do Conselho de Ministros
+Face a dúvidas levantadas quanto ao termo do prazo para apresentação de candidaturas a Deputados, o Conselho de Ministros, reunido em 5 de Março de 1976, resolveu interpretar autenticamente o artigo 16.º do Decreto-Lei n.º 93-C/76, de 29 de Janeiro, no sentido de que tal prazo finda em 6 de Março e que, dado o disposto no artigo 144.º, n.º 3, do Código de Processo Civil, na redacção do Decreto-Lei n.º 323/70, o seu termo transita para as 24 horas do dia 8 do corrente mês.
+Presidência do Conselho de Ministros, 5 de Março de 1976. - O Primeiro-Ministro, José Baptista Pinheiro de Azevedo.
