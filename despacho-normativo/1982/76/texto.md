@@ -1,0 +1,3 @@
+Despacho Normativo n.º 76/82
+Ao abrigo do disposto no n.º 1 do artigo 1.º do Decreto-Lei n.º 303/77, de 29 de Julho, e em aditamento à tabela n.º 2 - Produtos fitofarmacêuticos, é autorizada a substituição da embalagem com o conteúdo líquido de 500 g por outra com 25 g em produtos fitofarmacêuticos com base em warfarina, cujo tipo de formulação é em pó, com o teor de 0,75% de substância activa.
+Secretarias de Estado da Produção Agrícola e do Comércio, 8 de Abril de 1982. - O Secretário de Estado da Produção Agrícola, José Vicente Carvalho Cardoso. - O Secretário de Estado do Comércio, António Escaja Gonçalves.
