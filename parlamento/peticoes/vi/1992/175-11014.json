@@ -1,0 +1,409 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jvMQgL4qeojTXYc%2byhcz5p3ic3xODuK0iUO0Y2y2ClcTtFB9k3sD%2b9wQveZYSd8NZLsCb9yzJniqsFTagd7CbMNr9RiU3i%2bk3rmuobGx84PbCdMXEaO2tAt4ls9fukmsItoX60VYYqS8JyucRXeNK4DfI799g%2blbezfSJpZ8w7%2baZYMBqfv1VesnUx6bJSW47suQTEZztwlqhsheF%2fV6CayXq9XylkeKBdMS4k0WpFeGsJUrYs53Ga%2fzv4nbFZSlZiCimHdTEOsH%2b%2fNcwjWayb61QyVSstj3ODN9XM8DB46f%2bPQ7wSP1KSIrsnu6vc0NN5UqeG88nqFw4kPOlzPTpz7DVHur%2fsRBhn0B8NlVzMX2nw7jDBVCKY54B7pyG%2fWe&fich=PeticoesVI_json.txt&Inline=true",
+  "ficheiro_sha256": "a0b19d1767819df1af646741c024bf367ae6532369315672414b384340a05bf4",
+  "legislatura": "VI",
+  "id": "11014",
+  "numero": "175",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "1992-12-11",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "1994-05-24",
+            "dataResposta": null,
+            "entidades": [
+              "Ass. Nacional de Municipios"
+            ],
+            "nrOficio": "969/COM",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "1995-01-19",
+                "dataResposta": null,
+                "nrOficio": "125/COM",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "1994-05-24",
+            "dataResposta": null,
+            "entidades": [
+              "Câmara Municipal Valongo"
+            ],
+            "nrOficio": "OF 969/COM",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "1995-01-19",
+                "dataResposta": null,
+                "nrOficio": "125/COM",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "1994-05-24",
+            "dataResposta": "1994-01-26",
+            "entidades": [
+              "Junta Freguesia Ermesinde"
+            ],
+            "nrOficio": "969/COM",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          },
+          {
+            "dataOficio": "1994-05-27",
+            "dataResposta": "1994-05-28",
+            "entidades": [
+              "Comissão E.Re O.Ad.Pais"
+            ],
+            "nrOficio": "967/COM",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "1995-02-01",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          },
+          {
+            "data": "1995-02-01",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "1993-02-17",
+        "DataArquivo": "1995-02-01",
+        "DataBaixaComissao": "1993-10-12",
+        "DataEnvioPAR": "1995-02-15",
+        "DataReaberta": "1993-02-17",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4",
+        "Legislatura": "VI",
+        "Nome": "COMISSÃO PETIÇÕES",
+        "NotasAdmissibilidade": null,
+        "Numero": "2",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": "1995-02-01",
+            "dataNomeacao": "1993-10-12",
+            "gp": "Indep",
+            "id": "212",
+            "motivoCessacao": null,
+            "nome": "João Corregedor da Fonseca"
+          },
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "1995-01-31",
+            "gp": "PCP",
+            "id": "568",
+            "motivoCessacao": null,
+            "nome": "Raúl Castro"
+          }
+        ],
+        "RelatorioFinal": [
+          "21087",
+          "21705"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "1996-07-10",
+    "Documentos": null,
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "1996-07-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": "APRECIACAO",
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42123",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3225-3226"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-11",
+                "pubLeg": "VII",
+                "pubNr": "94",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/094/1996-07-11/3225?pgs=3225-3226&org=PLC"
+              }
+            ],
+            "Sumario": "ELEVACAO DE ERMESINDE A CONCELHO",
+            "Teor": "ERMESINDE "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "1996-07-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": "APRECIACAO",
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42124",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3225-3225"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-11",
+                "pubLeg": "VII",
+                "pubNr": "94",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/094/1996-07-11/3225?pgs=3225&org=PLC"
+              }
+            ],
+            "Sumario": "ELEVACAO DE ERMESINDE A CONCELHO",
+            "Teor": "ERMESINDE "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "1996-07-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": "APRECIACAO",
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42125",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3225-3225"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-11",
+                "pubLeg": "VII",
+                "pubNr": "94",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/094/1996-07-11/3225?pgs=3225&org=PLC"
+              }
+            ],
+            "Sumario": "ELEVACAO DE ERMESINDE A CONCELHO",
+            "Teor": "ERMESINDE "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "1996-07-11",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": "APRECIACAO",
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42126",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3224-3225"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-11",
+                "pubLeg": "VII",
+                "pubNr": "94",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/094/1996-07-11/3224?pgs=3224-3225&org=PLC"
+              }
+            ],
+            "Sumario": "ELEVACAO DE ERMESINDE A CONCELHO",
+            "Teor": "ERMESINDE "
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11014",
+    "PetAssunto": "Solicitam que a Assembleia da República interceda, junto de quem de direito, no sentido de Ermesinde ser elevado a Concelho.",
+    "PetDataEntrada": "1992-12-11",
+    "PeticoesAssociadas": null,
+    "PetId": "11014",
+    "PetLeg": "VI",
+    "PetNr": "175",
+    "PetNrAssinaturas": "15346",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "19",
+        "obs": null,
+        "pag": [
+          "3224-3226"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1996-07-11",
+        "pubLeg": "VII",
+        "pubNr": "94",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/094/1996-07-11/3224?pgs=3224-3226&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "169522",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1993-03-06",
+        "pubLeg": "VI",
+        "pubNr": "19",
+        "pubSL": "2",
+        "pubTipo": "DAR II série C",
+        "pubTp": "C",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2c/06/02/019/1993-03-06?org=PLC"
+      }
+    ]
+  }
+}
