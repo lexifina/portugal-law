@@ -6,4 +6,4 @@
 
 ### Requerimento
 
-A atribuição das prestações previstas no presente decreto-lei depende da apresentação de requerimento junto das entidades competentes, com excepção da bolsa de estudo que é de atribuição oficiosa.
+A atribuição das prestações previstas neste diploma depende da apresentação de requerimento junto das entidades competentes.

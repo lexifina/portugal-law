@@ -2,7 +2,7 @@
 
 ### Equiparação de cursos
 
-1 - Para efeitos de concessão do abono de família para crianças e jovens e da bolsa de estudo, presumem-se equiparados aos cursos oficiais os cursos ministrados em estabelecimentos de ensino particular e cooperativo, desde que estes possuam autorização legal de funcionamento.
+1 - Para efeitos de concessão do abono de família para crianças e jovens, presumem-se equiparados aos cursos oficiais os cursos ministrados em estabelecimentos de ensino particular e cooperativo, desde que estes possuam autorização legal de funcionamento.
 
 2 - O nível do curso, para efeitos do número anterior, é determinado pelo grau de habilitações exigido no respectivo ingresso.
 

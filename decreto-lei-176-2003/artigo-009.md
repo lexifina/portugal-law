@@ -2,16 +2,24 @@
 
 ### Rendimentos de referência
 
-1 - Os rendimentos de referência a considerar na determinação do escalão de que depende a modulação do abono de família para crianças e jovens e do abono de família pré-natal resultam da soma do total de rendimentos de cada elemento do agregado familiar a dividir:
+1 - Os rendimentos de referência a considerar na determinação do escalão de que depende a modulação do abono de família para crianças e jovens resultam da soma do total de rendimentos de cada elemento do agregado familiar a dividir pelo número de titulares de direito ao abono, inseridos no agregado familiar, acrescido de um.
 
-a) No caso do abono de família para crianças e jovens, pelo número de titulares de direito ao abono, inseridos no agregado familiar, acrescido de um;
+2 - Na determinação do total de rendimentos dos elementos do agregado familiar nos termos do número anterior são tidos em consideração os seguintes rendimentos anuais ilíquidos:
 
-b) No caso do abono de família pré-natal, pelo número de titulares de direito ao abono, inseridos no agregado familiar, acrescido de um e de mais o número dos nascituros.
+a) Rendimentos do trabalho dependente;
 
-2 - (Revogado).
+b) Rendimentos empresariais e profissionais;
 
-3 - (Revogado).
+c) Rendimentos de capitais;
 
-4 - (Revogado).
+d) Rendimentos prediais;
 
-5 - (Revogado).
+e) Incrementos patrimoniais;
+
+f) Pensões;
+
+g) Quaisquer outras prestações compensatórias da perda ou inexistência de rendimentos garantidas pelos subsistemas previdencial ou de solidariedade.
+
+3 - Os rendimentos compreendidos no âmbito das categorias enunciadas nas alíneas a) a f) do número anterior são os estabelecidos para as correspondentes categorias na legislação que regula o imposto sobre os rendimentos das pessoas singulares (IRS).
+
+4 - Não são considerados os rendimentos relativos às prestações garantidas no âmbito do subsistema de protecção familiar.

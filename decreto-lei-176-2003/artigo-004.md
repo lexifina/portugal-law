@@ -6,10 +6,6 @@
 
 ### Titularidade do direito
 
-1 - A titularidade do direito ao abono de família para crianças e jovens é reconhecida às crianças e jovens, abrangidos pelo âmbito pessoal do presente decreto-lei, que, à data do requerimento, satisfaçam as condições de atribuição respectivas.
+1 - A titularidade do direito ao abono de família para crianças e jovens é reconhecida às crianças e jovens que integram o âmbito pessoal deste diploma, que satisfaçam as condições de atribuição respectivas.
 
-2 - A titularidade do direito ao abono de família pré-natal é reconhecida à mulher grávida, abrangida pelo âmbito pessoal do presente decreto-lei, que, à data do requerimento, satisfaça as condições de atribuição respectivas.
-
-3 - Têm direito à bolsa de estudo as crianças e jovens abrangidos pelo âmbito pessoal do presente decreto-lei que satisfaçam as respectivas condições de atribuição.
-
-4 - A titularidade do direito ao subsídio de funeral é reconhecida ao requerente da prestação, abrangido pelo âmbito pessoal do presente decreto-lei, que, à data do requerimento, satisfaça as condições de atribuição respectivas.
+2 - A titularidade do direito ao subsídio de funeral é reconhecida ao requerente da prestação, abrangido pelo âmbito pessoal deste diploma, que satisfaça as condições de atribuição respectivas.
