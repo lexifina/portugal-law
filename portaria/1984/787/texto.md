@@ -1,0 +1,11 @@
+Portaria n.º 787/84
+de 9 de Outubro
+Considerando a necessidade de dar execução à equiparação já definida, de carreira e vencimentos, dos técnicos auxiliares dos serviços complementares de diagnóstico e terapêutica civis dos serviços departamentais das Forças Armadas com os dos profissionais dependentes do Ministério da Saúde;
+Tendo em conta o disposto no n.º 2 do artigo 5.º do Decreto-Lei n.º 254/79, de 28 de Julho, que manda reintegrar na carreira de técnico auxiliar dos serviços complementares de diagnóstico e terapêutica dos serviços departamentais das Forças Armadas os profissionais que tenham obtido aproveitamento em curso de promoção adequado, conforme definido na Portaria n.º 174/83, de 1 de Março;
+Nos termos do disposto na alínea c) do n.º 2 do artigo 44.º da Lei n.º 29/82, de 11 de Dezembro:
+Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, o seguinte:
+1.º O pessoal abrangido pelo n.º 2 do artigo 5.º do Decreto-Lei n.º 254/79, de 28 de Julho, terá direito à remuneração correspondente a técnico auxiliar de 2.ª classe, a partir da data da aprovação no curso de promoção, cuja frequência e aproveitamento são exigidos na referida disposição.
+2.º A antiguidade na categoria e carreira reportar-se-á à data referida no número anterior.
+Ministério da Defesa Nacional.
+Assinada em 24 de Setembro de 1984.
+O Ministro da Defesa Nacional, Carlos Alberto da Mota Pinto.
