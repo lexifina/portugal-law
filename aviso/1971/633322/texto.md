@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação do secretário-geral da I. M. C. O., o Governo da Itália depositou, em 28 de Julho de 1971, o seu instrumento de aceitação das emendas à Convenção Internacional para a Prevenção da Poluição das Águas do Mar pelos Hidrocarbonetos (1954), adoptadas em Londres em 11 de Abril de 1962.
+Acompanhando o referido depósito, aquele Governo formulou a seguinte reserva:
+O Governo Italiano aceita as emendas à Convenção Internacional para a Prevenção da Poluição das Águas do Mar pelos Hidrocarbonetos (12 de Maio de 1954), adoptadas em Londres em 11 de Abril de 1962, na condição, todavia, de que as emendas visadas no parágrafo 4.º do artigo XVI não vinculem o Governo Italiano antes que este tenha declarado, oficialmente, a sua aceitação; neste caso, as emendas entrarão em vigor, relativamente à Itália, dois meses após a acima mencionada notificação.
+Direcção-Geral dos Negócios Económicos, 9 de Outubro de 1971. - O Adjunto do Director-Geral, Manuel Rodrigues de Almeida Coutinho.
