@@ -1,0 +1,11 @@
+Decreto-Lei n.º 48433
+Dificuldades de adjudicação, originadas em elevados preços de praça, não permitiram lançar no ano de 1967 a construção de qualquer das residências para estudantes do ensino secundário prevista no Decreto-Lei n.º 47554, de 22 de Fevereiro de 1967.
+Essas mesmas dificuldades só permitem considerar, por agora, os empreendimentos referentes a Castelo Branco e Bragança, e como o prazo de execução abrangerá o ano de 1969, há necessidade e urgência de alterar o período de financiamento estabelecido no artigo 4.º do referido diploma.
+Como, por outro lado, é insuficiente a verba consignada a tal fim, a Fundação de Calouste Gulbenkian decidiu reforçar a sua contribuição anterior, também em regime de doação, com a importância de 959725$20.
+Aceite esta doação, ao abrigo do disposto no Decreto-Lei n.º 31156, de 3 de Março de 1941, importa alterar no que interessa o Decreto-Lei n.º 47554, de 22 de Fevereiro de 1967.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Por contribuição da Fundação de Calouste Gulbenkian é reforçada com a importância de 959725$20 a verba a que se refere o artigo 1.º do Decreto-Lei n.º 47554, de 22 de Fevereiro de 1967, com vista à execução, por agora, das residências para estudantes do ensino secundário de Castelo Branco e Bragança.
+Art. 2.º As despesas a efectuar, a que respeita o artigo 4.º do mesmo diploma, não deverão exceder os montantes globais de 5900000$00 em 1968 e 4059725$20 em 1969, ou o que neste ano se vier a apurar como saldo.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 15 de Junho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
