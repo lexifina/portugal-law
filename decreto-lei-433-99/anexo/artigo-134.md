@@ -2,13 +2,13 @@
 
 ### Objecto da impugnação
 
-1 - Os atos de fixação dos valores patrimoniais podem ser impugnados, no prazo de três meses após a sua notificação ao contribuinte, com fundamento em qualquer ilegalidade.
+1 - Os actos de fixação dos valores patrimoniais podem ser impugnados, no prazo de 90 dias após a sua notificação ao contribuinte, com fundamento em qualquer ilegalidade.
 
 2 - Constitui motivo de ilegalidade, além da preterição de formalidades legais, o erro de facto ou de direito na fixação.
 
 3 - As incorrecções nas inscrições matriciais dos valores patrimoniais podem ser objecto de impugnação judicial, no prazo de 30 dias, desde que o contribuinte tenha solicitado previamente a correcção da inscrição junto da entidade competente e esta a recuse ou não se pronuncie no prazo de 90 dias a partir do pedido.
 
-4 - À impugnação referida no número anterior aplica-se o disposto no n.º 3 do artigo 111.º
+4 - À impugnação referida no número anterior aplicar-se-á o disposto no n.º 7 do artigo 111.º
 
 5 - O pedido de correcção da inscrição nos termos do número anterior pode ser apresentado a todo o tempo.
 

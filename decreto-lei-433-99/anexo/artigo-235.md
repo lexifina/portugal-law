@@ -1,9 +1,7 @@
-# Artigo 235
+# Artigo 235.º
 
 ### Levantamento da penhora
 
-1 - (Revogado).
+1 - A penhora não será levantada qualquer que seja o tempo por que se mantiver parada a execução, ainda que o motivo não seja imputável ao executado.
 
-2 - A penhora pode ser levantada verificados os pressupostos previstos no artigo 183.º-A, aplicando-se os termos aí estatuídos, com as necessárias adaptações.
-
-3 - Quando a execução tiver sido paga por terceiro sub-rogado e o processo, por motivo que lhe seja imputável, se encontre parado há mais de 6 meses, a penhora poderá ser levantada a requerimento do executado ou de qualquer credor.
+2 - Quando a execução tiver sido paga por terceiro sub-rogado e o processo, por motivo que lhe seja imputável, se encontre parado há mais de 6 meses, a penhora poderá ser levantada a requerimento do executado ou de qualquer credor.

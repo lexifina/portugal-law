@@ -1,19 +1,17 @@
 ## Secção IV
 
-## Do conhecimento inicial do pedido
+## Da introdução em juízo
 
 # Artigo 112.º
 
-### Revogação do acto impugnado
+### Introdução do processo em juízo Efeitos da não contestação especificada dos factos
 
-1 - Compete ao dirigente do órgão periférico regional da administração tributária revogar, total ou parcialmente, dentro do prazo referido no n.º 1 do artigo anterior, o ato impugnado caso o valor do processo não exceda o valor da alçada do tribunal tributário de 1.ª instância.
+1 - Recebido, distribuído e autuado o processo no tribunal, o juiz proferirá, no prazo de 8 dias, despacho inicial, e, quando não houver motivo para indeferimento e a petição estiver em termos de ser recebida, ordenará a notificação do representante da Fazenda Pública para, no prazo de 10 dias, se pronunciar e oferecer provas adicionais se tal considerar necessário, devendo declarar se pretende produzi-las no órgão periférico local da administração tributária.
 
-2 - Compete ao dirigente máximo do serviço revogar, total ou parcialmente, dentro do prazo referido no n.º 1 do artigo anterior, o ato impugnado caso o valor do processo exceda o valor da alçada do tribunal tributário de 1.ª instância.
+2 - O prazo para o representante da Fazenda Pública se pronunciar pode ser prorrogado por 30 dias, quando houver necessidade de obter informações ou de aguardar a consulta feita a instância superior.
 
-3 - No caso de o acto impugnado ser revogado parcialmente, o órgão que procede à revogação deve, nos 3 dias subsequentes, proceder à notificação do impugnante para, no prazo de 10 dias, se pronunciar, prosseguindo o processo se o impugnante nada disser ou declarar que mantém a impugnação.
+3 - O juiz apreciará livremente a falta de contestação especificada dos factos.
 
-4 - A revogação total do acto impugnado é notificada ao representante da Fazenda Pública nos 3 dias subsequentes, cabendo a este promover a extinção do processo.
+4 - Decorridos 90 dias após a apresentação da impugnação sem que o processo tenha sido remetido a tribunal, o impugnante pode requerer ao juiz a remessa imediata do processo.
 
-5 - A revogação parcial do acto impugnado é notificada ao representante da Fazenda Pública, com simultânea remessa do processo administrativo, no prazo de três dias após a recepção da declaração do impugnante referida no n.º 3 ou do termo do prazo aí previsto, sendo, nesse caso, o prazo para contestar de 30 dias a contar da notificação.
-
-6 - A competência referida no presente artigo pode ser delegada pela entidade competente para a apreciação em qualquer dirigente da administração tributária ou em funcionário qualificado.
+5 - Para efeitos do número anterior, se houver mais de um juiz, o pedido do impugnante será objecto de distribuição entre eles.

@@ -1,21 +1,13 @@
 # Artigo 284.º
 
-### Recurso para uniformização de jurisprudência
+### Oposição de acórdãos
 
-1 - As partes e o Ministério Público podem dirigir ao Supremo Tribunal Administrativo, no prazo de 30 dias contado do trânsito em julgado do acórdão impugnado, pedido de admissão de recurso para uniformização de jurisprudência, quando, sobre a mesma questão fundamental de direito, exista contradição:
+1 - Caso o fundamento for a oposição de acórdãos, o requerimento da interposição do recurso deve indicar com a necessária individualização os acórdãos anteriores que estejam em oposição com o acórdão recorrido, bem com o lugar em que tenham sido publicados ou estejam registados, sob pena de não ser admitido o recurso.
 
-a) Entre um acórdão do Tribunal Central Administrativo, e outro acórdão anteriormente proferido pelo mesmo ou outro Tribunal Central Administrativo ou pelo Supremo Tribunal Administrativo;
+2 - O relator pode determinar que o recorrente seja notificado para apresentar certidão do ou dos acórdãos anteriores para efeitos de seguimento do recurso.
 
-b) Entre dois acórdãos do Supremo Tribunal Administrativo.
+3 - Dentro dos 8 dias seguintes ao despacho de admissão do recurso o recorrente apresentará uma alegação tendente a demonstrar que entre os acórdãos existe a oposição exigida.
 
-2 - A petição de recurso é acompanhada de alegação na qual se identifiquem, de forma precisa e circunstanciada, os aspetos de identidade que determinam a contradição alegada e a infração imputada ao acórdão recorrido.
+4 - Caso a alegação não seja feita, o recurso será julgado deserto, podendo, em caso contrário, o recorrido responder, contando-se o prazo de resposta do recorrido a partir do termo do prazo da alegação do recorrente.
 
-3 - O recurso não é admitido se a orientação perfilhada no acórdão impugnado estiver de acordo com a jurisprudência mais recentemente consolidada do Supremo Tribunal Administrativo.
-
-4 - O recurso é julgado pelo pleno da secção e o acórdão é publicado na 1.ª série do Diário da República.
-
-5 - A decisão de provimento emitida pelo tribunal superior não afeta qualquer decisão anterior àquela que tenha sido impugnada, nem as situações jurídicas ao seu abrigo constituídas.
-
-6 - A decisão que verifique a existência da contradição alegada anula o acórdão recorrido e substitui-o, decidindo a questão controvertida.
-
-7 - O recurso de uniformização de jurisprudência deve ser interposto pelo Ministério Público, mesmo quando não seja parte na causa, caso em que não tem qualquer influência na decisão desta, destinando-se unicamente à emissão de acórdão de uniformização sobre o conflito de jurisprudência.
+5 - Caso o relator entenda não haver oposição, considera o recurso findo, devendo, em caso contrário, notificar o recorrente e recorrido para alegar nos termos e no prazo referido no n.º 3 do artigo 282.º

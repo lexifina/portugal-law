@@ -1,6 +1,6 @@
 # Artigo 257.º
 
-### Anulação da venda
+### Prazos de anulação da venda
 
 1 - A anulação da venda só poderá ser requerida dentro dos prazos seguintes:
 
@@ -14,12 +14,4 @@ c) De 15 dias, nos restantes casos previstos no Código de Processo Civil.
 
 3 - Se o motivo da anulação da venda couber nos fundamentos da oposição à execução, a anulação depende do reconhecimento do respectivo direito nos termos do presente Código, suspendendo-se o prazo referido na alínea c) do n.º 1 no período entre a acção e a decisão.
 
-4 - O pedido de anulação da venda deve ser dirigido ao órgão periférico regional da administração tributária que, no prazo máximo de 45 dias, pode deferir ou indeferir o pedido, ouvidos todos os interessados na venda, no prazo previsto no artigo 60.º da lei geral tributária.
-
-5 - Decorrido o prazo previsto no número anterior sem qualquer decisão expressa, o pedido de anulação da venda é considerado indeferido.
-
-6 - Havendo decisão expressa, deve esta ser notificada a todos os interessados no prazo de 10 dias.
-
-7 - Da decisão, expressa ou tácita, sobre o pedido de anulação da venda cabe reclamação nos termos do artigo 276.º
-
-8 - A anulação da venda não prejudica os direitos que possam assistir ao adquirente em virtude da aplicação das normas sobre enriquecimento sem causa.
+4 - A anulação da venda não prejudica os direitos que possam assistir ao adquirente em virtude da aplicação das normas sobre enriquecimento sem causa.

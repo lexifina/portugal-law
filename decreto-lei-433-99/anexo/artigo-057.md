@@ -2,7 +2,7 @@
 
 ### Informações vinculativas
 
-1 - A notificação aos interessados da resposta ao pedido de informação vinculativa inclui obrigatoriamente a informação ou parecer em que a administração tributária se baseou para a sua prestação.
+1 - O despacho que recair sobre pedido de informação vinculativa sobre a concreta situação tributária dos contribuintes ou os pressupostos de quaisquer benefícios fiscais será notificado aos interessados, vinculando os serviços a partir da notificação que, verificados os factos previstos na lei, não poderão proceder de forma diversa, salvo em cumprimento de decisão judicial.
 
 2 - Os interessados não ficam dispensados, quando o despacho for sobre os pressupostos de qualquer benefício fiscal dependente de reconhecimento, de o requerer autonomamente nos termos da lei.
 

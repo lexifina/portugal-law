@@ -2,26 +2,8 @@
 
 ### Citações por via postal
 
-1 - Nos processos de execução fiscal cuja quantia exequenda não exceda 500 unidades de conta, a citação efetua-se, mediante via postal simples, aplicando-se-lhe as regras do artigo anterior, com as necessárias adaptações.
+1 - Nos processos de execução fiscal cuja quantia exequenda não exceda 250 unidades de conta, a citação efectuar-se-á, mediante simples postal, aplicando-se-lhe as regras do artigo anterior, com as necessárias adaptações.
 
-2 - A citação referida no número anterior é feita por via postal registada quando a dívida exequenda for superior a 50 vezes a unidade de conta.
+2 - O postal referido no número anterior será registado quando a dívida exequenda for superior a 10 vezes a unidade de conta.
 
-3 - A citação é pessoal:
-
-a) Nos casos não referidos nos números anteriores;
-
-b) Na efetivação da responsabilidade solidária ou subsidiária;
-
-c) Quando houver necessidade de proceder à venda de bens;
-
-d) Quando o órgão de execução fiscal a considerar mais eficaz para a cobrança da dívida.
-
-4 - As citações referidas no presente artigo podem ser efetuadas para o domicílio fiscal eletrónico ou na respetiva área reservada do Portal das Finanças, valendo como citação pessoal.
-
-5 - [Revogado.]
-
-6 - As citações efetuadas para o domicílio fiscal eletrónico ou na área reservada do Portal das Finanças consideram-se efetuadas no 5.º dia posterior ao registo de disponibilização daquelas no sistema de suporte ao serviço público de notificações eletrónicas associado à morada única digital, na caixa postal eletrónica ou na respetiva área reservada do Portal das Finanças.
-
-7 - A presunção do número anterior só pode ser ilidida pelo citado quando, por facto que não lhe seja imputável, a citação ocorrer em data posterior à presumida e nos casos em que se comprove que o contribuinte comunicou a alteração daquela nos termos do artigo 43.º
-
-8 - As citações efectuadas por transmissão electrónica de dados são sempre autenticadas com a assinatura electrónica avançada certificada nos termos previstos pelo Sistema de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas, da entidade competente.
+3 - Nos casos não referidos nos números anteriores, bem como nos de efectivação de responsabilidade subsidiária, a citação será pessoal.

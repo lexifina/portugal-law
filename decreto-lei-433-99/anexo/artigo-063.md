@@ -1,47 +1,29 @@
 # Artigo 63.º
 
-### Aplicação de disposição antiabuso
+### Aplicação das normas antiabuso
 
-1 - A liquidação de tributos com base na disposição antiabuso constante do n.º 2 do artigo 38.º da lei geral tributária segue os termos previstos neste artigo.
+1 - A liquidação dos tributos com base em quaisquer disposições antiabuso nos termos dos códigos e outras leis tributárias depende da abertura para o efeito de procedimento próprio.
 
-2 - (Revogado).
+2 - Consideram-se disposições antiabuso, para os efeitos do presente Código, quaisquer normas legais que consagrem a ineficácia perante a administração tributária de negócios ou actos jurídicos celebrados ou praticados com manifesto abuso das formas jurídicas de que resulte a eliminação ou redução dos tributos que de outro modo seriam devidos.
 
-3 - A fundamentação do projecto e da decisão de aplicação da disposição antiabuso referida no n.º 1 contém necessariamente:
+3 - O procedimento referido no número anterior pode ser aberto no prazo de três anos após a realização do acto ou da celebração do negócio jurídico objecto da aplicação das disposições antiabuso.
 
-a) A descrição da construção ou série de construções que foram realizadas com abuso das formas jurídicas ou que não foram realizadas por razões económicas válidas que reflitam a substância económica;
+4 - A aplicação das disposições antiabuso depende da audição do contribuinte, nos termos da lei.
 
-b) A demonstração de que a construção ou série de construções foi realizada com a finalidade principal ou uma das finalidades principais de obter uma vantagem fiscal não conforme com o objeto ou a finalidade do direito fiscal aplicável;
+5 - O direito de audição será exercido no prazo de 30 dias após a notificação, por carta registada, do contribuinte, para esse efeito.
 
-c) A identificação dos negócios ou atos que correspondam à substância ou realidade económica, bem como a indicação das normas de incidência que se lhes aplicam;
+6 - No prazo referido no número anterior, poderá o contribuinte apresentar as provas que entender pertinentes.
 
-d) A demonstração de que o sujeito passivo sobre o qual recairia a obrigação de efetuar a retenção na fonte, ou de reter um montante de imposto superior, tinha ou deveria ter conhecimento da construção ou série de construções, quando aplicável.
+7 - A aplicação das disposições antiabuso será prévia e obrigatoriamente autorizada, após a observância do disposto nos números anteriores, pelo dirigente máximo do serviço ou pelo funcionário em quem ele tiver delegado essa competência.
 
-4 - A aplicação da disposição antiabuso referida no n.º 1 depende de:
+8 - As disposições não serão aplicáveis se o contribuinte tiver solicitado à administração tributária informação vinculativa sobre os factos que a tiverem fundamentado e a administração tributária não responder no prazo de seis meses.
 
-a) Audição prévia do contribuinte, nos termos da lei;
+9 - Salvo quando de outro modo resulte da lei, a fundamentação da decisão referida no n.º 7 conterá:
 
-b) Existência de procedimento de inspeção dirigido ao beneficiário do rendimento e ao substituto tributário, quando se verifique o recurso às regras gerais de responsabilidade em caso de substituição tributária a que se refere o n.º 5 do artigo 38.º da Lei Geral Tributária.
+a) A descrição do negócio jurídico celebrado ou do acto jurídico realizado e da sua verdadeira substância económica;
 
-5 - O direito de audição prévia é exercido no prazo de 30 dias a contar da notificação do projecto de aplicação da disposição antiabuso ao contribuinte.
+b) A indicação dos elementos que demonstrem que a celebração do negócio ou prática do acto tiveram como fim único ou determinante evitar a tributação que seria devida em caso de negócio ou acto de substância económica equivalente;
 
-6 - No prazo referido no número anterior, poderá o contribuinte apresentar as provas que entender
+c) A descrição dos negócios ou actos de substância económica equivalente aos efectivamente celebrados ou praticados e das normas de incidência que se lhes aplicam.
 
-pertinentes.
-
-7 - A aplicação da disposição antiabuso referida no n.º 1 é prévia e obrigatoriamente autorizada, após a audição prévia do contribuinte prevista no n.º 5, pelo dirigente máximo do serviço ou pelo funcionário em quem ele tiver delegado essa competência.
-
-8 - A disposição antiabuso referida no n.º 1 não é aplicável se o contribuinte tiver solicitado à administração tributária informação vinculativa sobre os factos que a tiverem fundamentado e a administração tributária não responder no prazo de 150 dias.
-
-9 - (Revogado).
-
-10 - (Revogado).
-
-11 - A impugnação da liquidação de tributos com base na disposição antiabuso referida no n.º 1 será obrigatoriamente precedida de reclamação graciosa.
-
-12 - Quando se verifique a aplicação do disposto no n.º 5 do artigo 38.º da Lei Geral Tributária:
-
-a) A aplicação da disposição antiabuso referida no n.º 1 não prejudica o direito de regresso aplicável do montante do imposto retido e, bem assim, o direito do beneficiário de optar pelo englobamento do rendimento, nos termos previstos na lei;
-
-b) A decisão da reclamação graciosa apresentada pelo beneficiário do rendimento nos termos do número anterior, é igualmente da competência do órgão periférico regional que, nos termos do n.º 1 do artigo 75.º, seja competente para a decisão de reclamação graciosa apresentada pelo substituto tributário, podendo este órgão determinar a sua apensação.
-
-13 - A opção de englobamento prevista no número anterior pode ser exercida pelo sujeito passivo através de declaração de substituição acompanhada de requerimento dirigido ao Diretor-Geral da Autoridade Tributária e Aduaneira, no prazo de 120 dias a contar da data do conhecimento, ou da data em que for possível obter o conhecimento, do trânsito da decisão, quer administrativa quer judicial, das correções efetuadas ao abrigo do n.º 1.
+10 - A autorização referida no n.º 7 do presente artigo é passível de recurso contencioso autónomo.

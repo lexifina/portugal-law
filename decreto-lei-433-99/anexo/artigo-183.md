@@ -2,7 +2,7 @@
 
 ### Garantia. Local da prestação. Levantamento
 
-1 - Se houver lugar a qualquer forma de garantia, esta é prestada junto do órgão da execução fiscal onde pender o processo respetivo, nos termos estabelecidos no presente Código.
+1 - Se houver lugar a qualquer forma de garantia, esta será prestada junto do tribunal tributário competente ou do órgão da execução fiscal onde pender o processo respectivo, nos termos estabelecidos no presente Código.
 
 2 - A garantia poderá ser levantada oficiosamente ou a requerimento de quem a haja prestado, logo que no processo que a determinou tenha transitado em julgado decisão favorável ao garantido ou haja pagamento da dívida.
 

@@ -2,6 +2,6 @@
 
 ### Distribuição do recurso
 
-1 - Recebido o processo no tribunal de recurso, procede-se à sua distribuição, de forma eletrónica, aplicando-se, com as necessárias adaptações, o disposto no Código de Processo Civil quanto à distribuição nos tribunais superiores, incluindo os procedimentos a respeitar na atribuição de um processo a um juiz.
+1 - Recebido o processo no tribunal de recurso, proceder-se-á à sua distribuição, dentro de 8 dias, por todos os juízes, salvo o presidente.
 
-2 - (Revogado.)
+2 - A distribuição será feita pelo presidente ou, na sua falta, pelo vice-presidente, o juiz mais antigo ou o juiz de turno designado para o efeito, podendo assistir os outros membros do tribunal.

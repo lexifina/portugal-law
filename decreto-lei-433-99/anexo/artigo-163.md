@@ -2,20 +2,14 @@
 
 ### Requisitos dos títulos executivos
 
-1 - São requisitos essenciais dos títulos executivos:
+1 - Carece de força executiva, devendo ser devolvido à entidade que o tiver extraído ou remetido, o título a que falte algum dos seguintes requisitos:
 
-a) Menção da entidade emissora ou promotora da execução;
+a) Menção da entidade emissora ou promotora da execução e respectiva assinatura, que poderá ser efectuada por chancela nos termos do presente Código;
 
-b) Assinatura da entidade emissora ou promotora da execução, por chancela nos termos do presente Código ou, preferencialmente, através de aposição de assinatura electrónica avançada;
+b) Data em que foi emitido;
 
-c) Data em que foi emitido;
+c) Nome e domicílio do ou dos devedores;
 
-d) Nome e número de contribuinte do ou dos devedores;
-
-e) Natureza e proveniência da dívida e indicação do seu montante.
+d) Natureza e proveniência da dívida e indicação, por extenso, do seu montante.
 
 2 - No título executivo deve ainda indicar-se a data a partir da qual são devidos juros de mora e a importância sobre que incidem, devendo, na sua falta, esta indicação ser solicitada à entidade competente.
-
-3 - Os títulos executivos são emitidos por via electrónica e, quando provenientes de entidades externas, devem, preferencialmente, ser entregues à administração tributária por transmissão electrónica de dados, valendo nesse caso como assinatura a certificação de acesso.
-
-4 - A aposição da assinatura electrónica avançada deve ser realizada de acordo com os requisitos legais e regulamentares exigíveis pelo Sistema de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas.

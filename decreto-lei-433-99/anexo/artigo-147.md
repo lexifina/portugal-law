@@ -16,4 +16,4 @@
 
 5 - A decisão judicial especificará os actos a praticar para integral cumprimento do dever referido no n.º 1.
 
-6 - Revogado.
+6 - O disposto no presente artigo aplica-se, com as adaptações necessárias, às providências cautelares a favor do contribuinte ou demais obrigados tributários, devendo o requerente invocar e provar o fundado receio de uma lesão irreparável do requerente a causar pela actuação da administração tributária e a providência requerida.

@@ -1,6 +1,6 @@
 # Artigo 8.º
 
-### Representação das entidades desprovidas de personalidade jurídica mas que dispõem de personalidade tributária e das sociedades ou pessoas colectivas sem representante conhecido
+### Representação das entidades que careçam de personalidade tributária e das sociedades ou pessoas colectivas sem representante conhecido
 
 1 - As entidades desprovidas de personalidade jurídica mas que disponham de personalidade tributária são representadas pelas pessoas que, legalmente ou de facto, efectivamente as administrem.
 

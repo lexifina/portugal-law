@@ -2,14 +2,8 @@
 
 ### Notificações aos mandatários
 
-1 - As notificações aos interessados que tenham constituído mandatário são feitas na pessoa deste da seguinte forma:
+1 - As notificações aos interessados que tenham constituído mandatário serão feitas na pessoa deste e no seu escritório.
 
-a) Nos procedimentos tributários, por carta registada, dirigida para o seu escritório ou por transmissão eletrónica de dados na respetiva área reservada do Portal das Finanças;
+2 - Quando a notificação tenha em vista a prática pelo interessado de acto pessoal, além da notificação ao mandatário, será enviada carta ao próprio interessado, indicando a data, o local e o motivo da comparência
 
-b) Nos processos judiciais tributários, nos termos previstos nas normas sobre processo nos tribunais administrativos.
-
-2 - Quando a notificação se destine a chamar o interessado para a prática de ato pessoal, além de ser notificado o mandatário, será enviado pelo correio um aviso registado ao próprio interessado, indicando a data, o local e o fim da comparência.
-
-3 - As notificações referidas nos números anteriores podem ainda ser efetuadas pelo funcionário competente quando o notificando se encontrar no edifício do serviço ou do tribunal.
-
-4 - Às notificações eletrónicas no Portal das Finanças aplica-se o disposto nos n.os 4 a 7 do artigo 38.º-A.
+3 - As notificações serão feitas por carta ou aviso registados, dirigidos para o domicílio ou escritório dos notificandos, podendo estes ser notificados pelo funcionário competente quando encontrados no edifício do serviço ou tribunal.

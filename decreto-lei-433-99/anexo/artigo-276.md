@@ -6,4 +6,4 @@
 
 ### Reclamações das decisões do órgão da execução fiscal
 
-As decisões proferidas pelo órgão da execução fiscal e outras autoridades da administração tributária que no processo afectem os direitos e interesses legítimos do executado ou de terceiro são susceptíveis de reclamação para o tribunal tributário de l.ª instância.
+As decisões proferidas pelo órgão da execução fiscal e outras autoridades da administração tributária que no processo afectem os direitos e interesses legítimos do executado são susceptíveis de reclamação para o tribunal tributário de 1.ª instância.

@@ -2,18 +2,16 @@
 
 ### Outras modalidades de venda
 
-1 - A venda por outra das modalidades previstas no Código de Processo Civil só é efectuada nos seguintes casos:
+1 - A venda por uma das modalidades extrajudiciais previstas no Código de Processo Civil só se efectuará nos seguintes casos:
 
 a) Quando a modalidade de venda for a de propostas em carta fechada e no dia designado para a abertura de propostas se verificar a inexistência de proponentes ou a existência apenas de propostas de valor inferior ao valor base anunciado;
 
-b) Quando os bens a vender forem valores mobiliários admitidos à cotação em bolsa;
+b) Quando a modalidade de venda for a arrematação em hasta pública e depois da primeira praça seja de prever, em face da escassa concorrência de licitantes ou do baixo preço oferecido, a inutilidade da segunda praça;
 
-c) Quando for determinado pelo órgão de execução fiscal.
+c) Quando na mesma modalidade de venda, por suspeita de conluio, a praça tiver sido adiada;
 
-d) ...
+d) Quando os bens a vender forem de créditos com cotação em bolsa.
 
-e) Quando for determinado pelo dirigente máximo do serviço.
+2 - Quando haja urgência na venda de bens ou estes sejam de reduzido valor, a venda será feita por negociação particular.
 
-2 - Quando haja fundada urgência na venda de bens, ou estes sejam de valor não superior a 40 unidades de conta, pode o órgão de execução fiscal determinar a venda por negociação particular.
-
-3 - Quando tenha lugar a venda por negociação particular, são publicitados na Internet, nos termos definidos em portaria do Ministro das Finanças, o nome ou firma do executado, o órgão por onde corre o processo, a identificação sumária dos bens, o local, o prazo e as horas em que estes podem ser examinados, o valor base da venda e o nome ou firma do negociador, bem como a residência ou sede deste.
+3 - A venda extrajudicial poderá ser igualmente efectuada por negociação particular, nos termos e circunstâncias referidos no n.º 3 do artigo 248.º

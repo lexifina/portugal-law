@@ -2,12 +2,14 @@
 
 ### Depoimento das testemunhas
 
-1 - As testemunhas residentes na área de jurisdição do tribunal tributário são notificadas por carta registada, sendo as restantes a apresentar pela parte que as ofereceu, salvo se fundadamente se requerer a sua notificação.
+1 - As testemunhas residentes no concelho onde deva fazer-se a inquirição são notificadas pelo órgão periférico local ou pelo juiz para aí deporem.
 
-2 - A devolução de carta de notificação de testemunha é notificada à parte que a apresentou, mas não dá lugar a nova notificação, salvo nos casos de erro do tribunal, cabendo à parte a apresentação da testemunha.
+2 - Residindo fora, as testemunhas serão ouvidas, caso o impugnante haja requerido carta precatória para a sua inquirição, no órgão periférico local ou no tribunal da área da respectiva residência.
 
-3 - O impugnante e o representante da Fazenda Pública podem requerer que o depoimento das testemunhas residentes fora da área de jurisdição do tribunal tributário seja feito nos termos do número seguinte.
+3 - Não tendo sido requerida carta precatória, as testemunhas só serão ouvidas caso o impugnante as apresente na audiência.
 
-4 - As testemunhas a inquirir nos termos do número anterior são apresentadas pela parte que as ofereceu e são ouvidas por teleconferência gravada a partir do tribunal tributário da área da sua residência, devendo ser identificadas perante funcionário judicial do tribunal onde o depoimento é prestado.
+4 - Faltando alguma testemunha, o impugnante pode imediatamente oferecer outra para a substituir ou ser marcado novo dia, se o impugnante dela não prescindir.
 
-5 - A inquirição das testemunhas prevista no n.º 3 deve ser efectuada durante a mesma diligência em que são ouvidas as demais testemunhas, salvo quando exista motivo ponderoso que justifique que essa inquirição seja marcada para outra data.
+5 - O impugnante só pode usar uma vez da faculdade referida no número anterior.
+
+6 - Os depoimentos das testemunhas serão reduzidos a escrito.

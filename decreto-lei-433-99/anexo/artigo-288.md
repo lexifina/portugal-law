@@ -1,9 +1,9 @@
 # Artigo 288.º
 
-### Julgamento do recurso
+### Conclusão ao relator. Conhecimento de questões prévias
 
-1 - Feita a distribuição, o processo vai com vista ao Ministério Público por 20 dias.
+1 - Feita a distribuição, serão os autos conclusos ao relator que poderá ordenar se proceda a qualquer diligência ou se colha informação do tribunal recorrido ou de alguma autoridade.
 
-2 - Com o parecer do Ministério Público ou decorrido o respetivo prazo, os autos são conclusos ao relator, a quem incumbe deferir todos os termos do recurso até final, nos termos prescritos no Código de Processo Civil.
+2 - O relator não conhecerá do recurso se entender que lhe faltam manifestamente os respectivos pressupostos processuais.
 
 3 - Do despacho do relator referido no número anterior é admitida reclamação para a conferência.
