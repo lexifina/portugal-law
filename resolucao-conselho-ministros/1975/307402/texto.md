@@ -1,0 +1,13 @@
+Resolução do Conselho de Ministros
+1 - A ECA, Empresa de Concentrados de Alvalade, S. A. R. L., com sede em Lisboa, na Rua de D. Estefânia, 157, 1.º, esquerdo, e fábrica em Alvalade, Sado, concelho de Santiago do Cacém, é uma empresa que tem por objecto social a produção, distribuição, venda e exportação de concentrados de tomate.
+Constituída em 10 de Março de 1960, o seu capital social é de 4000 contos, sendo seus principais sócios as famílias Passanha e Beja da Costa.
+A ECA detém, por outro lado, uma apreciável participação financeira dentro da própria empresa, onde adquiriu 550 acções, tendo, além disso, adquirido 3265 acções na firma Consol, Conservas do Outeiro, S. A. R. L., e 200 acções na firma Tomira, Empresa de Concentrados de Tomate de Odemira, S. A. R. L., somando o valor total destas participações financeiras 6065 contos.
+A empresa possui ainda diversas propriedades rústicas sitas no concelho de Santiago do Cacém, numa das quais se localiza a fábrica já referida.
+2 - Por seu despacho de 12 de Junho de 1975, publicado do Diário do Governo, 2.ª série, de 23 de Junho último, o Ministro da Agricultura e Pescas determinou a suspensão da administração e dos demais corpos sociais da empresa, nomeando, em sua substituição, dois administradores por parte do Estado, coadjuvados por dois elementos da comissão de trabalhadores.
+Esta intervenção do Estado fundamentou-se em razões de imperiosidade e urgência, pois se trata de uma empresa cuja administração se encontrava, à data da decisão ministerial, paralisada, imputando-lhe os trabalhadores graves erros de gestão e responsabilizando-a por uma situação gravemente lesiva dos interesses económicos do País e dos próprios trabalhadores.
+3 - Verifica-se, todavia, que, de acordo com o disposto no artigo 3.º, 1, alínea a), do Decreto-Lei n.º 660/74, a aludida intervenção deveria ter sido determinada pelo Conselho de Ministros, e não pelo titular do Ministério de que depende a actividade económica em causa, ao qual cumpria tão-somente propor a adopção das providências decretadas.
+4 - Em face do que antecede, o Conselho de Ministros, reunido em 22 de Agosto de 1975, resolveu:
+a) Ratificar a intervenção do Estado determinada pelo referido despacho ministerial, a qual produz todos os seus efeitos legais a contar da data da publicação;
+b) Ratificar a actual comissão administrativa, nomeada pelo Ministro da Agricultura e Pescas, composta por Francisco Maria Pereira do Ó Pacheco e José Domingos Gonçalves coadjuvados por dois elementos da comissão de trabalhadores;
+c) Ratificar a suspensão da administração e dos demais corpos sociais da empresa.
+Presidência do Conselho de Ministros, 28 de Agosto de 1975. - O Primeiro-Ministro, Vasco dos Santos Gonçalves.
