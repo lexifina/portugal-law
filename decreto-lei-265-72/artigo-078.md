@@ -16,7 +16,7 @@ e) Data da vistoria de registo.
 
 2. O registo definitivo é feito mediante requerimento assinado pelo proprietário da embarcação ou pelo seu representante legal ou voluntário, com indicação do nome, lugar e data da construção e sistema de propulsão ou aparelho da embarcação, actividade a que esta se destina e área onde pretende exercê-la e instruído com:
 
-a) Documento comprovativo da nacionalidade portuguesa do requerente;
+a) Documento comprovativo de que o requerente tem a nacionalidade portuguesa ou é nacional de um dos Estados da União Europeia ou do espaço económico europeu;
 
 b) Certidão da autorização do Ministro da Marinha para a construção ou aquisição, nos casos em que for necessária;
 
