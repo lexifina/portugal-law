@@ -48,7 +48,7 @@ c) Tratando-se de outros rendimentos, há lugar a tributação nos termos mencio
 
 13 - Os rendimentos dos fundos de fundos, constituídos de acordo com a legislação nacional, têm o seguinte regime fiscal:
 
-a) Os rendimentos respeitantes a unidades de participação estão isentos de IRC, não sendo aplicável o disposto no n.º 4 deste artigo;
+a) Os rendimentos respeitantes a unidades de participação em fundos constituídos de acordo com a legislação nacional estão isentos de IRC, não sendo aplicável o disposto no n.º 4 deste artigo;
 
 b) Tratando-se de rendimentos não compreendidos na alínea a), aplicar-se-á um regime fiscal idêntico ao estabelecido para os rendimentos dos fundos de investimento.
 
