@@ -1,0 +1,10 @@
+Despacho Normativo n.º 328/79
+1 - As disposições dos n.os 2 e 3 do artigo 16.º do Decreto-Lei n.º 211/79, de 12 de Julho, têm suscitado dúvidas no que respeita ao tipo de intervenção do Ministério das Finanças em processos de arrendamento de prédios destinados à instalação de serviços públicos, nos casos em que a renda anual é superior a 240000$00.
+Estas dúvidas têm origem na falta de referência expressa ao despacho do Ministro das Finanças, já que, por um lado, o diploma se limita a aludir ao Decreto n.º 38202, de 13 de Março de 1951, enquanto, por outro lado, se refere expressamente à autorização do Ministro da pasta respectiva ou, quando a renda anual ultrapassa os 720000$00, do Conselho de Ministros.
+Importa, pois, aclarar o sentido do diploma nesse aspecto, pelo que, nos termos do disposto no artigo 29.º do referido decreto-lei, se esclarece que o citado artigo 16.º não pretendeu introduzir qualquer alteração ao esquema dos diplomas anteriores sobre a matéria, salvo quanto à fixação de outros limites para o exercício da competência das entidades intervenientes.
+2 - Nestes termos, fica entendido que:
+a) A abertura de todo e qualquer processo de arrendamento de prédios para a instalação de serviços públicos carece sempre da autorização do Ministro de que depende o serviço;
+b) Os arrendamentos em que a renda anual não seja superior a 240000$00 carecem exclusivamente da autorização do Ministro da pasta respectiva;
+c) Os arrendamentos em que a renda anual seja superior a 240000$00 e não ultrapasse os 720000$00 carecem de autorização do Ministro das Finanças, precedendo parecer da comissão de avaliação a que se refere o Decreto n.º 38202, de 13 de Março de 1951;
+d) Os arrendamentos em que a renda anual ultrapasse 720000$00 carecem de autorização do Conselho de Ministros, após o visto do Ministro das Finanças e a precedência do parecer da comissão referida na alínea c).
+Ministério das Finanças, 24 de Outubro de 1979. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.
