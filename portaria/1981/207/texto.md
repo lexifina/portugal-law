@@ -1,0 +1,45 @@
+Portaria n.º 207/81
+de 24 de Fevereiro
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano, ao abrigo do artigo 20.º do Decreto-Lei n.º 575/80, de 31 de Dezembro, o seguinte:
+1.º São fixadas as seguintes remunerações do pessoal contratado ao abrigo do artigo 18.º do Decreto-Lei n.º 575/80, de 31 de Dezembro:
+a) Delegado nas ilhas (regiões autónomas):
+Retribuição total - 100000$00;
+Ajudas de custo diárias nas deslocações entre as ilhas - 800$00;
+Pagamento de transporte entre as ilhas;
+b) Delegado no município:
+Retribuição total - 80000$00;
+Subsídio de frequência completa do curso - 4000$00;
+Subsídio de transporte - 10000$00;
+c) Coordenador na freguesia:
+Retribuição - 1$00 por pessoa recenseada, não podendo o montante global recebido ser inferior a 2500$00 nem superior a 15000$00;
+Subsídio de frequência completa do curso - 500$00;
+d) Subcoordenador na freguesia (para freguesias com mais de 10000 habitantes):
+Retribuição total - 10000$00;
+Subsídio de frequência completa do curso - 500$00;
+e) Agente recenseador:
+Retribuição:
+i) Em aglomerados com 5000 e mais habitantes:
+Por questionário individual - 7$00;
+Por questionário de alojamento - 5$00;
+Por questionário de edifício - 4$00;
+Por questionário de família - 5$00;
+Por cada pessoa inscrita no questionário colectivo - 1$00;
+Subsídio de frequência completa do curso - 500$00;
+Subsídio de transportes - 750$00;
+ii) Em aglomerados com menos de 5000 habitantes:
+Por questionário individual - 8$00;
+Por questionário de alojamento - 6$00;
+Por questionário de edifício - 5$00;
+Por questionário de família - 6$00;
+Por cada pessoa inscrita no questionário - 1$00;
+Subsídio de frequência completa do curso - 500$00;
+Subsídio de transportes - 750$00;
+iii) Ilhas Graciosa, S. Jorge e Terceira:
+Por questionário complementar de edifício - 2$50.
+2.º O subsídio de frequência do curso previsto na alínea b) do n.º 1 da presente portaria não se aplica aos delegados nos municípios da Região Autónoma dos Açores que para efeitos de frequência do curso se desloquem da ilha da sua residência, o qual é substituído pelas seguintes remunerações:
+Ajudas de custo diárias pela frequência completa do curso - 800$00.
+Pagamento dos transportes entre as ilhas.
+3.º Para determinação do montante das ajudas de custo a que se referem os números anteriores serão contados os dias desde a data do transporte imediatamente anterior ao dia de início do curso até ao dia do transporte imediatamente seguinte à data final do curso, ambos inclusive.
+4.º O montante da retribuição fixada nas alíneas a) e b) do n.º 1 da presente portaria para os delegados nas ilhas e delegados nos municípios será distribuída em quatro prestações de igual valor, nos montantes de 25000$00 e 20000$00, respectivamente, sendo pagas a primeira trinta dias após o dia de início dos trabalhos, a segunda e a terceira com iguais intervalos de trinta dias e a última após a conclusão efectiva dos trabalhos.
+5.º Ao pessoal contratado ao abrigo do artigo 19.º do Decreto-Lei n.º 575/80, de 31 de Dezembro, é atribuída a categoria de técnico auxiliar de 2.ª classe, com o vencimento correspondente à letra M da tabela de vencimentos da função pública.
+Ministério das Finanças e do Plano, 4 de Fevereiro de 1981. - O Ministro das Finanças e do Plano, João António Morais Leitão.
