@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação da Secretaria de Estado dos Transportes e Comunicações junto do Ministério das Obras Públicas, Transportes e Comunicações, a Portaria n.º 97/86, publicada no Diário da República, 1.ª série, n.º 68, de 22 de Março de 1986, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Onde se lê «Bloco filatélico: 4 x 68$50 = 274$00 - o priolo e o ordenamento florestal - 220000» deve ler-se «Bloco filatélico: 3 x 68$50 = 205$50 - o Priôlo e o ordenamento florestal - 220000» e onde se lê «Bloco filatélico: 4 x 68$50 = 274$00 - a cagarra e o ambiente marinho - 220000» deve ler-se «Bloco filatélico: 3 x 68$50 = 205$50 - a Cagarra e o ambiente marinho - 220000».
+Secretaria-Geral da Presidência do Conselho de Ministros, 16 de Abril de 1986. - O Secretário-Geral, França Martins.
