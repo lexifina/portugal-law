@@ -1,0 +1,7 @@
+Resolução n.º 15/81
+Pela Resolução do Conselho de Ministros n.º 71/78, de 18 de Maio, procedeu-se à cessação da intervenção do Estado nas empresas do grupo Grão-Pará.
+Encontrando-se já cumpridos os prazos estipulados para entrega às instituições de crédito dos elementos necessários à celebração de um ou mais contratos de viabilização, estão neste momento em análise, nas instituições de crédito, as propostas de contratos de viabilização apresentadas.
+A complexidade dos problemas que estes processos envolvem tem, no entanto, determinado um tempo de apreciação mais longo do que aquele que seria desejável, não sendo previsível a sua conclusão dentro do prazo estipulado na Resolução do Conselho de Ministros n.º 309/80, de 30 de Agosto.
+Considerando, mais uma vez, a necessidade de dotar as empresas dos meios imprescindíveis à minimização dos prejuízos decorrentes dos vários atrasos verificados no processo conducente à celebração dos respectivos contratos de viabilização:
+O Conselho de Ministros, reunido em 27 de Janeiro de 1981, resolveu prorrogar, até 30 de Junho de 1981, ao abrigo do n.º 1 do artigo 20.º do Decreto-Lei n.º 422/76, de 28 de Maio, com a redacção que lhe foi dada pelo Decreto-Lei n.º 381/79, de 5 de Março, o prazo fixado no n.º 8 da Resolução do Conselho de Ministros n.º 71/78, de 3 de Maio, na parte que não colida com o disposto no Decreto-Lei n.º 74-B/79, de 5 de Abril.
+Presidência do Conselho de Ministros, 27 de Janeiro de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
