@@ -1,0 +1,9 @@
+Decreto-Lei n.º 45989
+Considerando a necessidade de assegurar a eficiência do ensino das disciplinas de História e Filosofia no Instituto de Odivelas, dada a incontestável influência que estas disciplinas têm na educação da juventude do ponto de vista cultural, político, moral e religioso;
+Tendo em atenção que o volume de serviço existente justifica a criação de mais um lugar de professora efectiva do 3.º grupo;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Em alteração ao mapa I anexo ao Decreto-Lei n.º 42134, de 3 de Fevereiro de 1959, o número de professoras efectivas de ensino liceal e técnico, que no quadro orgânico constante daquele mapa é de 31, passa a ser de 32.
+Art. 2.º É fixado em seis o número de professoras auxiliares ou agregadas de serviço eventual ou em comissão, a que se refere o artigo 1.º do Decreto n.º 39919, de 22 de Novembro de 1954.
+Art. 3.º O acréscimo de despesa resultante da publicação do presente decreto-lei é suportado no ano em curso pelas disponibilidades das verbas do pessoal dos quadros aprovados por lei consignadas no orçamento do Ministério do Exército ao Instituto de Odivelas.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 23 de Outubro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
