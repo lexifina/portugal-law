@@ -1,0 +1,92 @@
+Portaria n.º 1109-I/2000
+de 27 de Novembro
+No âmbito do III Quadro Comunitário de Apoio para o período de 2000 a 2006 foram aprovados o Programa Operacional de Agricultura e Desenvolvimento Rural (Programa AGRO), bem como os programas operacionais de âmbito regional onde se inclui a medida Agricultura e Desenvolvimento Rural, abreviadamente designada por AGRIS.
+A medida AGRIS pretende garantir a promoção e o desenvolvimento das zonas rurais, nomeadamente através do desenvolvimento e aperfeiçoamento das infra-estruturas ligadas às explorações agrícolas.
+A medida AGRIS integra assim a acção «Caminhos e electrificação agro-rurais», enquadrada no âmbito do Regulamento (CE) n.º 1257/1999, do Conselho, de 17 de Maio, travessão 9 do artigo 33.º, e através da qual se pretende, designadamente, melhorar as acessibilidades nas zonas rurais.
+Assim, ao abrigo do n.º 2 do artigo 22.º do Decreto-Lei n.º 163-A/2000, de 27 de Julho:
+Manda o Governo, pelos Ministros do Planeamento e da Agricultura, do Desenvolvimento Rural e das Pescas, que seja aprovado o Regulamento de Aplicação da Subacção n.º 6.1, «Caminhos Agrícolas e Rurais», da acção n.º 6, «Caminhos e electrificação agro-rurais», da medida AGRIS dos programas operacionais regionais, em anexo ao presente diploma e do qual faz parte integrante.
+Em 31 de Outubro de 2000.
+A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.
+
+ANEXO
+Regulamento de Aplicação da Subacção n.º 6.1, «Caminhos Agrícolas e Rurais»
+Artigo 1.º
+Objecto
+O presente Regulamento estabelece o regime de aplicação da subacção n.º 6.1, «Caminhos agrícolas e rurais», da acção «Caminhos e electrificação agro-rurais» da medida AGRIS.
+Artigo 2.º
+Objectivos
+A atribuição de ajudas no âmbito deste Regulamento tem como objectivo melhorar as acessibilidades nas zonas rurais através do apoio à abertura ou melhoria de caminhos agrícolas e rurais, facilitando a circulação de pessoas e equipamentos, o acesso às explorações agrícolas e o escoamento dos produtos agrícolas.
+Artigo 3.º
+Definições
+Podem ser concedidas ajudas a projectos de construção ou beneficiação de:
+a) Caminho agrícola - caminho de acesso às explorações agrícolas com largura de plataforma até 4 m;
+b) Caminho rural - caminho de ligação entre aglomerados populacionais (lugares, aldeias e vilas), rede viária municipal ou nacional e um perímetro, unidade agrícola ou sub-bloco, com largura de plataforma até 5 m.
+Artigo 4.º
+Beneficiários
+Podem beneficiar das ajudas previstas neste Regulamento:
+a) Caminhos agrícolas: organizações de agricultores e autarquias locais;
+b) Caminhos rurais: autarquias locais.
+Artigo 5.º
+Forma e valor das ajudas
+As ajudas são concedidas sob a forma de incentivo não reembolsável no valor de 100% das despesas elegíveis, no caso dos caminhos agrícolas, e de 50%, no caso dos caminhos rurais.
+Artigo 6.º
+Despesas elegíveis
+São elegíveis as despesas com:
+a) Elaboração de estudos e projectos;
+b) Construção ou beneficiação de caminhos, incluindo obras de arte, sinalização e acções minimizadoras de impacte ambiental;
+c) Acompanhamento e fiscalização das obras;
+d) Controlo de qualidade em ensaios.
+Artigo 7.º
+Apresentação das candidaturas
+1 - As candidaturas são formalizadas através da apresentação de formulário próprio, devendo este ser acompanhado do projecto de execução e demais documentos indicados nas respectivas instruções.
+2 - As candidaturas são apresentadas, ao longo de todo o ano, nas direcções regionais de agricultura (DRA) competentes.
+Artigo 8.º
+Análise das candidaturas
+A análise das candidaturas compete ao coordenador da medida AGRIS, que as remete ao gestor da intervenção operacional regional, nos termos do disposto no artigo 30.º do Decreto-Lei n.º 54-A/2000, de 7 de Abril.
+Artigo 9.º
+Parecer da unidade de gestão
+O gestor formula as propostas de decisão sobre as candidaturas e submete-as a parecer da unidade de gestão.
+Artigo 10.º
+Decisão sobre as candidaturas
+1 - A decisão das candidaturas compete ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo da faculdade de delegação e subdelegação dessas competências nos termos do Decreto-Lei n.º 54-A/2000, de 7 de Abril.
+2 - As candidaturas são decididas nos meses de Abril e Outubro, só podendo ser objecto de decisão aquelas que tenham sido apresentadas até ao fim dos meses de Fevereiro e Agosto, respectivamente.
+3 - São recusadas as candidaturas que não reúnam todas as condições estabelecidas neste Regulamento bem como as que não sejam aprovadas, por insuficiência orçamental, em três períodos de decisão consecutivos.
+4 - As candidaturas são aprovadas em função da dotação orçamental.
+5 - As candidaturas serão hierarquizadas tendo em conta os seguintes critérios:
+a) Candidaturas relativas a caminhos agrícolas apresentadas por organizações de agricultores ou por estas em conjunto com autarquias locais;
+b) Existência de outras infra-estruturas colectivas já realizadas ou em fase de execução;
+c) Articulação com outros projectos de investimento;
+d) Manchas de aptidão agrícola com acessos muito deficientes;
+e) Número de explorações agrícolas servidas;
+f) Custo do projecto/quilómetro;
+g) Zonas abrangidas por acções integradas de desenvolvimento de base territorial em que as actividades agrícolas ou florestais tenham carácter dominante e integrador;
+h) Localização em zonas desfavorecidas.
+Artigo 11.º
+Contrato de atribuição das ajudas
+1 - A atribuição das ajudas previstas neste Regulamento faz-se ao abrigo de contratos celebrados entre o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) e o beneficiário no prazo máximo de 30 dias a contar da data da notificação ao interessado e àquele Instituto da aprovação da candidatura.
+2 - Podem ser exigidas garantias para segurança do reembolso das ajudas atribuídas.
+Artigo 12.º
+Obrigações dos beneficiários
+Constituem, nomeadamente, obrigações dos beneficiários:
+a) Executar o projecto de acordo com os prazos estabelecidos;
+b) Assegurar a conservação e manutenção dos caminhos após a conclusão da obra.
+Artigo 13.º
+Execução dos investimentos
+1 - A elaboração dos estudos e dos projectos de investimento e a execução das obras são da responsabilidade dos proponentes.
+2 - O início das obras só poderá efectuar-se depois da assinatura do contrato e após a sua comunicação pelo beneficiário à entidade fiscalizadora, de modo a permitir um correcto acompanhamento das mesmas.
+3 - Os prazos de início e conclusão das obras são estabelecidos no contrato.
+Artigo 14.º
+Alterações aos investimentos
+As alterações aos projectos serão apreciadas e decididas de acordo com o processo de decisão.
+Artigo 15.º
+Acompanhamento e pagamento das ajudas
+1 - Os pedidos de pagamento serão apresentados através das direcções regionais de agricultura ao coordenador da medida, que, após análise dos mesmos, procederá ao envio de um recapitulativo das despesas ao IFADAP, conforme formulário pré-definido, com base no qual este procederá ao processamento das ajudas.
+2 - O primeiro pagamento da ajuda só será efectuado após a realização de 5% do investimento elegível.
+3 - Poderão ser estabelecidos contratualmente mecanismos de adiantamento de ajudas.
+Artigo 16.º
+Candidaturas apresentadas no âmbito do QCA II
+As candidaturas apresentadas no âmbito do anterior Quadro Comunitário de Apoio e que não foram objecto de decisão, podem beneficiar das presentes ajudas, desde que reúnam as condições estabelecidas neste Regulamento e sejam reformuladas no prazo de 60 dias após a entrada em vigor deste Regulamento.
+Artigo 17.º
+Despesas já realizadas
+1 - Nas situações referidas no artigo anterior, são elegíveis as despesas realizadas a partir da data da apresentação da candidatura.
+2 - As despesas efectuadas a partir de 19 de Novembro de 1999 relativamente à elaboração de estudos e projectos e à realização de projectos de investimento ainda não apresentados, poderão ser consideradas elegíveis desde que os proponentes apresentem a respectiva candidatura no prazo de 60 dias contados a partir da data de entrada em vigor deste Regulamento.
