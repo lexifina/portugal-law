@@ -1,0 +1,4 @@
+Declaração
+Declara-se que, segundo comunicação do Estado-Maior-General das Forças Armadas, se verifica, no Decreto-Lei n.º 302/78, publicado no Diário da República, 1.ª série, n.º 234, de 11 de Outubro de 1978, a seguinte inexactidão, que assim se rectifica:
+No artigo 2.º, onde se lê: «... sem prejuízo das disposições constantes no Decreto-Lei n.º 614/70, de 11 de Dezembro, pelo Decreto-Lei n.º 686/73, de 21 de Dezembro, e pelo presente diploma.», deve ler-se: «... sem prejuízo das disposições constantes no Decreto-Lei n.º 49324, de 27 de Outubro de 1969, alterado pelo Decreto-Lei n.º 614/70, de 11 de Dezembro, pelo Decreto-Lei n.º 686/73, de 21 de Dezembro, e pelo presente diploma».
+Serviços de Apoio do Conselho da Revolução, 14 de Novembro de 1978. - O Secretário Permanente do Conselho da Revolução, Rui Vasco de Vasconcelos e Sá Vaz, capitão-de-fragata.
