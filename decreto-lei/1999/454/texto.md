@@ -1,0 +1,39 @@
+Decreto-Lei n.º 454/99
+de 5 de Novembro
+Em resultado da evolução verificada em algumas variáveis económicas, os pressupostos actuariais em que se basearam os cálculos iniciais das responsabilidades por encargos com pensões podem sofrer alterações que originem o pagamento, por parte das empresas, de contribuições suplementares, cujo regime fiscal não constava do artigo 38.º do Código do IRC.
+O presente diploma tem em vista dar enquadramento fiscal, com efeitos a partir de 1 de Janeiro de 1998, às contribuições suplementares que resultarem da revisão dos pressupostos actuariais iniciais, considerando-as como custos ou perdas do exercício, em que sejam efectuadas, num prazo máximo de cinco, e, bem assim, incluir nas condições estabelecidas no Código do IRC as situações em que, nos termos da regulamentação da actividade seguradora, pode haver lugar à remição das rendas vitalícias em capital.
+Assim:
+No uso da autorização legislativa concedida pelo n.º 4 do artigo 30.º da Lei n.º 87-B/98, de 31 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+Artigo 1.º
+O artigo 38.º do Código do IRC, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro, passa a ter a seguinte redacção:
+«Artigo 38.º
+Realizações de utilidade social
+1 - ...
+2 - ...
+3 - ...
+4 - ...
+a) ...
+b) ...
+c) ...
+d) Sejam efectivamente pagos sob a forma de prestação pecuniária mensal vitalícia pelo menos dois terços dos benefícios em caso de reforma, invalidez ou sobrevivência, sem prejuízo da remição de rendas vitalícias em pagamento que não tenham sido fixadas judicialmente, nos termos e condições estabelecidas em norma regulamentar emitida pela respectiva entidade de supervisão, e desde que seja apresentada prova dos respectivos pressupostos pelo sujeito passivo;
+e) ...
+f) ...
+g) ...
+5 - ...
+6 - ...
+7 - As contribuições suplementares destinadas à cobertura de responsabilidades por encargos com pensões, quando efectuadas em consequência de alteração dos pressupostos actuariais em que se basearam os cálculos iniciais daquelas responsabilidades e desde que devidamente certificadas pelas entidades competentes, podem também ser aceites como custos ou perdas nos seguintes termos:
+a) No exercício em que sejam efectuadas, num prazo máximo de cinco, contado daquele em que se verificou a alteração dos pressupostos actuariais;
+b) Na parte em que não excedam o montante acumulado das diferenças entre os valores dos limites previstos nos n.os 2 ou 3 relativos ao período constituído pelos 10 exercícios imediatamente anteriores ou, se inferior, ao período contado desde o exercício da transferência das responsabilidades ou da última alteração dos pressupostos actuariais e os valores das contribuições efectuadas e aceites como custos em cada um desses exercícios.
+8 - Para efeitos do disposto na alínea b) do número anterior, não são consideradas as contribuições suplementares destinadas à cobertura de responsabilidades com pensionistas, não devendo igualmente ser tidas em conta para o cálculo daquelas diferenças as eventuais contribuições efectuadas para a cobertura de responsabilidades passadas nos termos do n.º 6.
+9 - (Anterior n.º 7.)
+10 - (Anterior n.º 8.)
+11 - (Anterior n.º 9.)
+12 - (Anterior n.º 10.)»
+Artigo 2.º
+O disposto nos n.os 7 e 8 do artigo 38.º do Código do IRC, com a redacção dada pelo artigo 1.º do presente diploma, produz efeitos a partir de 1 de Janeiro de 1998.
+Visto e aprovado em Conselho de Ministros de 26 de Agosto de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Eduardo Luís Barreto Ferro Rodrigues.
+Promulgado em 13 de Outubro de 1999.
+Publique-se.
+O Presidente da República, JORGE SAMPAIO.
+Referendado em 21 de Outubro de 1999.
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
