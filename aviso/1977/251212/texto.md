@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que a Embaixada de Portugal em Belgrado enviou ao Ministério dos Negócios Estrangeiros da República Socialista Federativa da Jugoslávia uma nota verbal, datada de 17 de Junho de 1977, informando que a parte portuguesa dera cumprimento às formalidades constitucionais relativas à entrada em vigor do Acordo de Transportes Aéreos entre o Governo da República Portuguesa e o Governo da República Socialista Federativa da Jugoslávia, assinado em Belgrado, em 3 de Junho de 1976, e publicado no Diário da República, 1.ª série, n.º 132, de 7 de Junho de 1977, em resposta a uma nota verbal daquele Ministério que informava estarem cumpridas aquelas formalidades pela parte jugoslava.
+Nesta conformidade, e segundo o disposto no seu artigo 21.º, o Acordo em apreço entrou em vigor no dia 17 de Junho de 1977.
+Direcção-Geral dos Negócios Económicos, 7 de Julho de 1977. - O Director-Geral Adjunto, Paulo Manuel Lage David Ennes.
