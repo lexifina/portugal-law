@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação do Departamento de Estado dos Estados Unidos da América, os Governos do Gabão e da Bélgica depositaram, em 29 de Junho e 13 de Agosto de 1976, os instrumentos de ratificação à Convenção para a Supressão de Actos Ilícitos contra a Segurança da Aviação Civil e os Governos da França e da Indonésia depositaram os instrumentos de adesão àquela Convenção em 30 de Junho e 27 de Agosto de 1976, respectivamente.
+Direcção-Geral dos Negócios Económicos, 10 de Janeiro de 1977. - O Adjunto do Director-Geral, Alexandre Eduardo Lencastre da Veiga.
