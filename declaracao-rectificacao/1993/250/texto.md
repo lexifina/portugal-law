@@ -1,0 +1,4 @@
+Declaração de rectificação n.º 250/93
+Segundo comunicação do Ministério da Justiça, a Portaria n.º 1084/93, publicada no Diário da República, 1.ª série, n.º 253, de 28 de Outubro de 1993, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No n.º 5.º, onde se lê «O psicólogo referido na alínea f) do n.º 2.º será designado pelo Instituto de Reinserção Social, de entre técnicos superiores de reinserção social licenciados em Psicologia, transitoriamente até que a Comissão providencie o recrutamento de um psicólogo.» deve ler-se «O psicólogo referido na alínea f) do n.º 2.º será designado por alguma das instituições que integram a Comissão ou que com ela colaborem.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 29 de Novembro de 1993. - O Secretário-Geral, França Martins.
