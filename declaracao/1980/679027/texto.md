@@ -1,0 +1,13 @@
+Declaração
+Segundo comunicação do Ministério dos Assuntos Sociais, o Despacho Normativo n.º 9-P/80, publicado no 2.º suplemento ao Diário da República, 1.ª série, n.º 7, de 9 de Janeiro de 1980, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No n.º 4.3 - Esquema C, onde se lê:
+a) Cursos do grau III:
+...
+Mecânico auto III
+...
+deve ler-se:
+a) Cursos do grau III:
+...
+Mecânico auto II
+...
+Secretaria-Geral da Presidência do Conselho de Ministros, 25 de Fevereiro de 1980. - Pelo Secretário-Geral, Joaquim Brandão.
