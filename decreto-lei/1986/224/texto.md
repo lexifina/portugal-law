@@ -1,0 +1,39 @@
+Decreto-Lei n.º 224/86
+de 12 de Agosto
+Novos condicionalismos económicos e políticos, dos quais avulta a adesão de Portugal à Comunidade Económica Europeia, justificam a introdução de alterações de estrutura, a que, inclusivamente, se têm referido as últimas leis orçamentais.
+Dentro dos objectivos que cumpre prosseguir está a extinção da Comissão Reguladora do Comércio de Bacalhau, à qual se procede pelo presente diploma, sem deixar de acautelar os interesses sociais, económicos e financeiros que lhe têm estado afectos e que se enquadram em sectores tão importantes como a pesca, importação e comércio de bacalhau.
+Assim, atento o disposto no artigo 11.º da Lei n.º 9/86, de 30 de Abril:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º - 1 - A Comissão Reguladora do Comércio de Bacalhau, criada pelo Decreto-Lei n.º 23968, de 5 de Junho de 1934, adiante designada por CRCB, é extinta e entra em liquidação a partir da data da publicação deste diploma.
+2 - A CRCB, para efeito de liquidação, manterá a sua personalidade jurídica até à aprovação das contas finais apresentadas pela comissão liquidatária.
+3 - A aprovação das contas referidas no número anterior é da competência dos Ministros das Finanças e da Agricultura, Pescas e Alimentação e será feita por despacho conjunto.
+Art. 2.º - 1 - A liquidação da CRCB será efectuada por uma comissão liquidatária composta por um presidente e dois vogais, a nomear por despacho dos Ministros das Finanças e da Agricultura, Pescas e Alimentação, no qual se fixará a respectiva atribuição.
+2 - A comissão liquidatária desempenhará funções até à efectiva liquidação da CRCB, sendo o seu mandato de dois anos.
+3 - Compete à comissão liquidatária:
+a) Representar a CRCB em juízo e fora dele, constituindo, no primeiro caso, mandatários e podendo confessar, desistir e transigir;
+b) Gerir o pessoal, património e finanças da CRCB até ao termo do respectivo mandato, praticando todos os actos para tanto necessários;
+c) Submeter no prazo de doze meses à aprovação dos Ministros das Finanças e da Agricultura, Pescas e Alimentação o inventário de todos os bens, direitos e obrigações da CRCB;
+d) Realizar o activo e liquidar o passivo e cumprir todas as obrigações assumidas pela CRCB;
+e) Praticar todos os actos necessários à liquidação da CRCB.
+Art. 3.º - 1 - Para o desempenho das suas atribuições, a comissão liquidatária reunirá, pelo menos, uma vez por mês e extraordinariamente sempre que o processo de liquidação o exija, mediante convocação do seu presidente ou a pedido de qualquer dos seus membros.
+2 - Para a comissão liquidatária poder deliberar validamente é necessária a presença da maioria dos seus membros.
+3 - As deliberações da comissão liquidatária são tomadas pela maioria dos votos dos membros presentes, tendo o presidente, em caso de empate, voto de qualidade.
+4 - De todas as reuniões será lavrada acta em livro próprio, assinada por todos os presentes, da qual devem constar rigorosamente o conteúdo e as circunstâncias em que sejam tomadas as deliberações, bem como a maioria por que o forem.
+5 - Os actos ou documentos relativos à liquidação devem ser praticados, pelo menos, por dois membros da comissão liquidatária, excepto para os de mero expediente, em que bastará a assinatura de um só.
+6 - A comissão liquidatária apresentará contas anuais.
+7 - A conta final de liquidação será apresentada nos 60 dias posteriores ao seu encerramento, sendo elaborada em forma de conta corrente e acompanhada de todos os elementos comprovativos.
+8 - A conta final da liquidação será publicada no Diário da República.
+Art. 4.º - 1 - Transitará para uma empresa a criar nesta área, a título de realização do capital subscrito pelo Estado, a parte correspondente do activo financeiro da CRCB, podendo do remanescente ser transferido para o Instituto Português de Conservas e Pescado, a criar, o montante a fixar por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação, afectando-se o restante ao suporte dos custos da comissão liquidatária.
+2 - Os restantes valores patrimoniais - bens, direitos e posições contratuais - da CRCB não incluídos no activo financeiro poderão transitar para a empresa referida no número anterior, sempre a título de realização de capital e pelo valor de balanço da liquidação, nos termos a aprovar por despacho dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
+3 - Os valores patrimoniais da CRCB que não forem transferidos para a empresa a criar poderão transitar, pela forma referida no número anterior, para e Instituto Português de Conservas e Pescado, a criar por diploma próprio.
+Art. 5.º - 1 - O pessoal do quadro ao serviço da CRCB fica vinculado à função pública, sendo-lhe aplicado o regime previsto no Decreto-Lei n.º 43/84, de 3 de Fevereiro, ficando integrado no quadro de efectivos interdepartamentais, criado pelo artigo 1.º do Decreto-Lei n.º 67/85, de 1 de Abril.
+2 - Sem prejuízo do disposto no número seguinte, o pessoal a que se refere o número anterior fica, temporariamente e desde já, afecto à comissão liquidatária.
+3 - Por despacho do Ministro da Agricultura, Pescas e Alimentação, precedido de acordo do trabalhador, poderá transitar para a empresa a criar ou para o Instituto Português de Conservas e Pescado o pessoal necessário ao seu funcionamento, que ficará, neste caso, em regime de requisição, sem sujeição a prazo.
+4 - O pessoal da CRCB que se encontra inscrito na Caixa Geral de Aposentações e que transite para a empresa referida no número anterior poderá optar por manter essa situação se o regime de vinculação àquela for diferente do da função pública.
+5 - Ao pessoal da CRCB será garantida a manutenção dos direitos que cabem ao seu pessoal reformado ou a reformar, competindo à comissão liquidatária assegurar junto da Caixa Geral de Aposentações a constituição das necessárias reservas matemáticas.
+Visto e aprovado em Conselho de Ministros de 5 de Junho de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
+Promulgado em 17 de Julho de 1986.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 18 de Julho de 1986.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
