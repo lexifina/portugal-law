@@ -1,0 +1,6 @@
+Aviso
+Por ordem superior se torna público que se encontram cumpridas as formalidades exigidas em Portugal e em Cabo Verde para a entrada em vigor da Convenção sobre Segurança Social entre a República Portuguesa e a República de Cabo Verde e do Acordo Administrativo Geral Relativo às Modalidades de Aplicação da Convenção, concluídos, respectivamente, em Lisboa, em 17 de Dezembro de 1981, e na Praia, em 5 de Junho de 1985.
+A Convenção, aprovada para ratificação pelo Decreto do Governo n.º 45/85, de 6 de Novembro, publicado no Diário da República, 1.ª série, n.º 255, de 6 de Novembro de 1985, entrará em vigor, nos termos do disposto no artigo 50.º da Convenção, no 1.º dia do 2.º mês subsequente ao decurso do mês em que foram trocados os instrumentos de ratificação.
+O Acordo Geral, aprovado igualmente pelo decreto atrás referido, entrará em vigor, nos termos do disposto no artigo 38.º do Acordo, na mesma data em que a Convenção.
+Assim, tendo os instrumentos de ratificação sido trocados em Lisboa em 22 de Outubro de 1987, a Convenção e o Acordo Geral entrarão em vigor no dia 1 de Dezembro de 1987.
+Gabinete do Secretário de Estado das Comunidades Portuguesas, 22 de Outubro de 1987. - O Chefe do Gabinete, João de Deus Ramos.
