@@ -1,0 +1,7 @@
+Despacho Normativo n.º 21/78
+O § 4.º do artigo 131.º do Regulamento da Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca (RIM), aprovado pelo Decreto n.º 45969, de 15 de Outubro de 1964, permite que nas embarcações costeiras e nas de tráfego local e pesca local qualquer inscrito marítimo possa exercer, eventualmente, a sua actividade, ainda que à sua categoria corresponda género de navegação diferente.
+Acontece que existem inscritos marítimos pertencentes a outros géneros de navegação que de há muito vêm prestando, com regularidade e a contento, a sua actividade no tráfego local ao abrigo daquela disposição;
+Considerando os inconvenientes que resultariam de se vir a impedir aqueles trabalhadores de continuarem a desempenhar os seus cargos, tendo nomeadamente em conta as expectativas entretanto por eles criadas:
+Determino, com base no disposto no artigo 309.º do RIM, o seguinte:
+Os inscritos marítimos que, ainda que pertencentes a outro género de navegação, exerçam, de harmonia com o disposto no § 4.º do artigo 131.º do RIM, a sua actividade profissional no tráfego local poderão continuar no desempenho da mesma actividade enquanto se mantiverem ao serviço da mesma embarcação ou do mesmo armador.
+Ministérios da Agricultura e Pescas e dos Transportes e Comunicações, 30 de Dezembro de 1977. - O Secretário de Estado das Pescas, Pedro Amadeu de Albuquerque Santos Coelho. - O Secretário de Estado da Marinha Mercante, António José Borrani Crisóstomo Teixeira.
