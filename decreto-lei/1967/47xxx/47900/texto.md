@@ -1,0 +1,6 @@
+Decreto-Lei n.º 47900
+Reconhecendo-se vantajoso sancionar, por via legislativa, a pretensão do Grémio dos Industriais de Bordados da Madeira no sentido de se elevar para 40000000$00 o limite do fundo corporativo, presentemente fixado em 30000000$00 pelo Decreto-Lei n.º 42347, de 24 de Junho de 1959;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. O limite de 30000000$00 fixado na Decreto-Lei n.º 42347, de 24 de Junho de 1959, é elevado para 40000000$00.
+Publique-se e cumpra-se como nele se contém.
+Paços da Governo da República, 5 de Setembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Fernando Manuel Alves Machado.
