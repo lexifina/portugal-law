@@ -1,0 +1,5 @@
+Rectificação
+Tendo sido publicado com inexactidão no Diário do Governo, 1.ª série, n.º 144, de 23 de Junho findo, pelo Ministério do Ultramar, Direcção-Geral de Obras Públicas e Comunicações, o Decreto n.º 287/70, determino que se façam as seguintes rectificações:
+No artigo 20.º, n.º 1, alínea g), onde se lê: «Organizar e submeter à apreciação do governador-geral ...», deve ler-se: «Organizar e submeter à aprovação do governador-geral ...».
+No artigo 74.º, n.º 2, alínea c), onde se lê: «... para os lugares de experimentador de 3.ª classe;», deve ler-se: «... para os lugares de experimentador de 2.ª classe;», e no mesmo número e artigo, alínea d), onde se lê: «... à excepção dos que possuam mais de uma cadeira de um curso superior de natureza adequada;», deve ler-se: «... à excepção dos que possuam mais de uma cadeira de um curso superior de natureza adequada, os quais transitam para os lugares de experimentador de 2.ª classe;».
+Presidência do Conselho, 10 de Julho de 1970. - O Presidente do Conselho, Marcello Caetano.
