@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1918/08/17800/15371537.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1918-08-14",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "a3208a630e37922ca13487b9e997f01a3d922cea6371f44a9bfa1912e428bdf6",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 97.9,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "a237f9d91d001332419c0bd9c7eceb6137e915e39a4ddf3ab5265bcc211358e8",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 146
 }
