@@ -17,9 +17,26 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1934/06/14400/08590864.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1934-06-21",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "380b71ad32e7eac6ae2a5e56db45634333c73681ea8a129b1ba599262f2b062e",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each page read whole (Tesseract page layout)",
+    "agreement_pct": 98.7,
+    "pages": 6,
+    "columns": [
+      3,
+      4,
+      3,
+      3,
+      3,
+      3
+    ],
+    "pdf_sha256": "dfc3351db9a49863f2ce817863dd2610b7b5496aad68cce6300b59203e95e4d6",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 5162
 }
