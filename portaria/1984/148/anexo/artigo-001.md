@@ -1,3 +1,7 @@
+## Anexo
+
+## Contrato tipo de concessão de uma distribuição de energia eléctrica em baixa tensão
+
 ## Capítulo I
 
 ## Objecto e âmbito da concessão
