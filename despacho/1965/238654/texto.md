@@ -1,0 +1,3 @@
+Despacho
+Nos termos do artigo 2.º do Decreto-Lei n.º 43000, de 1 de Junho de 1960, o Conselho de Ministros resolve, mediante proposta do Ministério da Educação Nacional, declarar como suficiente para efeito de provimento no lugar de mecânico electricista das instalações académicas da Universidade de Coimbra, em paralelo com a do curso geral dos liceus, a habilitação dos seguintes cursos do ensino técnico profissional: electricista, regulado pelo Decreto n.º 20420, de 21 de Outubro de 1931; montador electricista e electromecânico, regulados pelo Decreto n.º 37029, de 25 de Agosto de 1948.
+Presidência do Conselho, 2 de Fevereiro de 1965. - Pelo Presidente do Conselho, o Ministro de Estado adjunto, José Gonçalo da Cunha Sottomayor Correia de Oliveira.
