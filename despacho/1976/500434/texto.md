@@ -1,0 +1,8 @@
+Despacho
+O despacho do Secretário de Estado das Pescas, datado de 31 de Maio de 1975 e publicado no Diário do Governo, 1.ª série, n.º 138, de 18 de Junho do mesmo ano, regulou vários aspectos do funcionamento das lotas e vendagens do País, emergentes do disposto nos n.os 1 e 2 do artigo 4.º do Decreto-Lei n.º 240/74, de 5 de Junho, definindo transitoriamente o seu regime enquanto não estivesse constituída a entidade que a todos incorporará.
+Estabeleceu-se, porém, no n.º 2.º do mencionado despacho que a comissão liquidatária, criada pelo Decreto-Lei n.º 585/74, de 5 de Novembro, asseguraria no referido contexto a gestão financeira das lotas e vendagens.
+Considerando-se ser inadequada e pouco operativa a intervenção daquela Comissão no serviço em causa, por dissociar a gestão financeira da gestão administrativa, cometendo-as a entidades diferentes.
+Determino:
+Fica revogado o n.º 2.º do despacho do Secretário de Estado das Pescas, datado de 31 de Maio de 1975, publicado no Diário do Governo, 1.ª série, n.º 138, de 18 de Junho do mesmo ano, o qual passará a ter a seguinte redacção:
+2.º Até à constituição da empresa pública a que se refere o número anterior, a gestão financeira das secções (agrupamento administrativo de lotas) caberá também ao mencionado serviço responsável da Direcção-Geral do Planeamento e Fomento das Pescas, competindo às diversas secções arrecadar as receitas que àqueles couberem, nos termos actualmente em vigor, e assegurar o pagamento dos encargos com o pessoal e de outras despesas inerentes ao seu funcionamento.
+Secretaria de Estado das Pescas, 3 de Março de 1976. - O Secretário de Estado das Pescas, Pedro Amadeu dos Santos Coelho.
