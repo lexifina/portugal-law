@@ -1,0 +1,3 @@
+Aviso n.º 152/98
+Por ordem superior se faz público que, segundo comunicação do Secretário-Geral das Nações Unidas, o Governo da Ucrânia depositou em 6 de Fevereiro de 1997 o instrumento de ratificação à Revisão de 1990 ao Protocolo de Montréal sobre Substâncias Que Empobrecem a Camada de Ozono, concluído em Montréal em 16 de Setembro de 1987 e em vigor, a nível internacional, desde 10 de Agosto de 1992. Esta Revisão entrou em vigor para a Ucrânia a 7 de Maio de 1997 e não para a Namíbia, conforme, por lapso, consta do Aviso n.º 126/98, publicado no Diário da República, n.º 150, 1.ª série-A, de 2 de Julho de 1998.
+Direcção-Geral dos Assuntos Multilaterais, 27 de Julho de 1998. - O Director de Serviços das Organizações Económicas Internacionais, João Perestrello Cavaco.
