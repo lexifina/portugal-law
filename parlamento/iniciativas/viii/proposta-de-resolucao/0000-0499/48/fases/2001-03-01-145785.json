@@ -1,0 +1,738 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Resolução",
+    "numero": "48",
+    "id": "5828",
+    "titulo": "Aprova, para ratificação, a Convenção entre a República Portuguesa e a República Federativa do Brasil destinada a Evitar a Dupla Tributação e a Prevenir a Evasão Fiscal em Matéria de Impostos Sobre o Rendimento e Protocolo anexo assinados, em Brasília, em 16 de Maio de 2000"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2001-03-01",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1906",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2001-03-01",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-03-01",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1740",
+                "nome": "Basílio Horta"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136756",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2195-2197"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-02",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/054/2001-03-02/2195?pgs=2195-2197&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICAÇÃO A CONVENCAO ENTRE A REPUBLICA PORTUGUESA E A REPUBLICA FEDERATIVA DO BRASIL DESTINADA A EVITAR A DUPLA TRIBUTACAO E A PREVENIR A EVASAO FISCAL EM MATERIA DE IMPOSTOS SOBRE O RENDIMENTO E PROTOCOLO ANEXO ASSINADOS EM BRASILIA EM 16 DE MAIO DE 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136757",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2195-2195"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-02",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/054/2001-03-02/2195?pgs=2195&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICAÇÃO A CONVENCAO ENTRE A REPUBLICA PORTUGUESA E A REPUBLICA FEDERATIVA DO BRASIL DESTINADA A EVITAR A DUPLA TRIBUTACAO E A PREVENIR A EVASAO FISCAL EM MATERIA DE IMPOSTOS SOBRE O RENDIMENTO E PROTOCOLO ANEXO ASSINADOS EM BRASILIA EM 16 DE MAIO DE 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136758",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2195-2195"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-02",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/054/2001-03-02/2195?pgs=2195&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICAÇÃO A CONVENCAO ENTRE A REPUBLICA PORTUGUESA E A REPUBLICA FEDERATIVA DO BRASIL DESTINADA A EVITAR A DUPLA TRIBUTACAO E A PREVENIR A EVASAO FISCAL EM MATERIA DE IMPOSTOS SOBRE O RENDIMENTO E PROTOCOLO ANEXO ASSINADOS EM BRASILIA EM 16 DE MAIO DE 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136759",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2195-2196"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-02",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/054/2001-03-02/2195?pgs=2195-2196&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICAÇÃO A CONVENCAO ENTRE A REPUBLICA PORTUGUESA E A REPUBLICA FEDERATIVA DO BRASIL DESTINADA A EVITAR A DUPLA TRIBUTACAO E A PREVENIR A EVASAO FISCAL EM MATERIA DE IMPOSTOS SOBRE O RENDIMENTO E PROTOCOLO ANEXO ASSINADOS EM BRASILIA EM 16 DE MAIO DE 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "314",
+                "nome": "António Capucho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136760",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2196-2196"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-02",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/054/2001-03-02/2196?pgs=2196&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICAÇÃO A CONVENCAO ENTRE A REPUBLICA PORTUGUESA E A REPUBLICA FEDERATIVA DO BRASIL DESTINADA A EVITAR A DUPLA TRIBUTACAO E A PREVENIR A EVASAO FISCAL EM MATERIA DE IMPOSTOS SOBRE O RENDIMENTO E PROTOCOLO ANEXO ASSINADOS EM BRASILIA EM 16 DE MAIO DE 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "147",
+                "nome": "António de Almeida Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136761",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2196-2196"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-02",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/054/2001-03-02/2196?pgs=2196&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICAÇÃO A CONVENCAO ENTRE A REPUBLICA PORTUGUESA E A REPUBLICA FEDERATIVA DO BRASIL DESTINADA A EVITAR A DUPLA TRIBUTACAO E A PREVENIR A EVASAO FISCAL EM MATERIA DE IMPOSTOS SOBRE O RENDIMENTO E PROTOCOLO ANEXO ASSINADOS EM BRASILIA EM 16 DE MAIO DE 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "José Magalhães"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136762",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2196-2196"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-02",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/054/2001-03-02/2196?pgs=2196&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICAÇÃO A CONVENCAO ENTRE A REPUBLICA PORTUGUESA E A REPUBLICA FEDERATIVA DO BRASIL DESTINADA A EVITAR A DUPLA TRIBUTACAO E A PREVENIR A EVASAO FISCAL EM MATERIA DE IMPOSTOS SOBRE O RENDIMENTO E PROTOCOLO ANEXO ASSINADOS EM BRASILIA EM 16 DE MAIO DE 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136763",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2197-2197"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-02",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/054/2001-03-02/2197?pgs=2197&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICAÇÃO A CONVENCAO ENTRE A REPUBLICA PORTUGUESA E A REPUBLICA FEDERATIVA DO BRASIL DESTINADA A EVITAR A DUPLA TRIBUTACAO E A PREVENIR A EVASAO FISCAL EM MATERIA DE IMPOSTOS SOBRE O RENDIMENTO E PROTOCOLO ANEXO ASSINADOS EM BRASILIA EM 16 DE MAIO DE 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANCAS",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Pina Moura"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136764",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2197-2198"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-02",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/054/2001-03-02/2197?pgs=2197-2198&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICAÇÃO A CONVENCAO ENTRE A REPUBLICA PORTUGUESA E A REPUBLICA FEDERATIVA DO BRASIL DESTINADA A EVITAR A DUPLA TRIBUTACAO E A PREVENIR A EVASAO FISCAL EM MATERIA DE IMPOSTOS SOBRE O RENDIMENTO E PROTOCOLO ANEXO ASSINADOS EM BRASILIA EM 16 DE MAIO DE 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1740",
+                "nome": "Basílio Horta"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136765",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2198-2198"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-02",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/054/2001-03-02/2198?pgs=2198&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICAÇÃO A CONVENCAO ENTRE A REPUBLICA PORTUGUESA E A REPUBLICA FEDERATIVA DO BRASIL DESTINADA A EVITAR A DUPLA TRIBUTACAO E A PREVENIR A EVASAO FISCAL EM MATERIA DE IMPOSTOS SOBRE O RENDIMENTO E PROTOCOLO ANEXO ASSINADOS EM BRASILIA EM 16 DE MAIO DE 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1672",
+                "nome": "Isabel Pires de Lima"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136766",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2198-2199"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-02",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/054/2001-03-02/2198?pgs=2198-2199&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICAÇÃO A CONVENCAO ENTRE A REPUBLICA PORTUGUESA E A REPUBLICA FEDERATIVA DO BRASIL DESTINADA A EVITAR A DUPLA TRIBUTACAO E A PREVENIR A EVASAO FISCAL EM MATERIA DE IMPOSTOS SOBRE O RENDIMENTO E PROTOCOLO ANEXO ASSINADOS EM BRASILIA EM 16 DE MAIO DE 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "117",
+                "nome": "Maria Manuela Aguiar"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136767",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2199-2199"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-02",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/054/2001-03-02/2199?pgs=2199&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICAÇÃO A CONVENCAO ENTRE A REPUBLICA PORTUGUESA E A REPUBLICA FEDERATIVA DO BRASIL DESTINADA A EVITAR A DUPLA TRIBUTACAO E A PREVENIR A EVASAO FISCAL EM MATERIA DE IMPOSTOS SOBRE O RENDIMENTO E PROTOCOLO ANEXO ASSINADOS EM BRASILIA EM 16 DE MAIO DE 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1710",
+                "nome": "Herculano Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136768",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2199-2199"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-02",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/054/2001-03-02/2199?pgs=2199&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICAÇÃO A CONVENCAO ENTRE A REPUBLICA PORTUGUESA E A REPUBLICA FEDERATIVA DO BRASIL DESTINADA A EVITAR A DUPLA TRIBUTACAO E A PREVENIR A EVASAO FISCAL EM MATERIA DE IMPOSTOS SOBRE O RENDIMENTO E PROTOCOLO ANEXO ASSINADOS EM BRASILIA EM 16 DE MAIO DE 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136769",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2199-2200"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-02",
+                "pubLeg": "VIII",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/054/2001-03-02/2199?pgs=2199-2200&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICAÇÃO A CONVENCAO ENTRE A REPUBLICA PORTUGUESA E A REPUBLICA FEDERATIVA DO BRASIL DESTINADA A EVITAR A DUPLA TRIBUTACAO E A PREVENIR A EVASAO FISCAL EM MATERIA DE IMPOSTOS SOBRE O RENDIMENTO E PROTOCOLO ANEXO ASSINADOS EM BRASILIA EM 16 DE MAIO DE 2000",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "145785",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1906",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-03-02",
+        "pubLeg": "VIII",
+        "pubNr": "54",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/054/2001-03-02?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
