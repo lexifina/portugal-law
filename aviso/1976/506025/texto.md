@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, por troca de notas entre o Ministério dos Negócios Estrangeiros de Portugal e a Embaixada do Reino da Bélgica em Lisboa, de 19 de Dezembro de 1975, foi fixada para o dia 1 de Janeiro de 1976 a entrada em vigor do Acordo entre o Governo da República Portuguesa e o Governo do Reino da Bélgica Relativo aos Transportes Internacionais de Passageiros e Mercadorias, assinado em Lisboa em 3 de Julho de 1975, nos termos do n.º 1 do artigo 19.º do mesmo Acordo.
+Direcção-Geral dos Negócios Económicos, 6 de Janeiro de 1976. - O Director-Geral, João Eduardo Nunes de Oliveira Pequito.
