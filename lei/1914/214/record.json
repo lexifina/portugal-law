@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1914/06/10700/04110412.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1914-06-30",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "8a8021c97b6bd412a6a8c4788221472b55cdf570311a7657386cf87cbbc44ad2",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.1,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "6f1cfc45f572d1857f849311ed57f47840d8d13c0cc982dc78b7801d4112f223",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 266
 }
