@@ -1,0 +1,389 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "tipo": "Projeto de Revisão Constitucional",
+  "numero": "4",
+  "id": "34796",
+  "fases": 27,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "1987-11-17",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "1988-10-14",
+    "DataInicioleg": "1987-08-13",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "48",
+        "nome": "Correia Afonso"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3042",
+        "nome": "Manuel Soares Costa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "249",
+        "nome": "Mendes Bota"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2976",
+        "nome": "Fernando Conceição"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "134",
+        "nome": "Rui Machete"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "300",
+        "nome": "Manuel Dias Loureiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1255",
+        "nome": "Vieira  Mesquita"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "123",
+        "nome": "Miguel Macedo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "73",
+        "nome": "Fernandes Marques"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "108",
+        "nome": "Manuel Moreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "117",
+        "nome": "Maria Manuela Aguiar"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3077",
+        "nome": "Silva Torres"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2947",
+        "nome": "Carla Diogo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2967",
+        "nome": "Daniel Bastos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "23",
+        "nome": "Aristides Teixeira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3056",
+        "nome": "Mary Correia e Lança"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "280",
+        "nome": "Carlos Encarnação"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "27",
+        "nome": "Belarmino Correia"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3029",
+        "nome": "Luís Amaral"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "250",
+        "nome": "Luís Neves Rodrigues"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "67",
+        "nome": "João Maçãs"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "320",
+        "nome": "António Sousa Lara"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3057",
+        "nome": "Mateus de Brito"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3000",
+        "nome": "João Montenegro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "133",
+        "nome": "Rui Gomes da Silva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "63",
+        "nome": "João Salgado"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "127",
+        "nome": "Pedro Holstein Campilho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "74",
+        "nome": "Vilela de Araújo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "130",
+        "nome": "Rui Salvada"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2926",
+        "nome": "António Barbosa de Azevedo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3002",
+        "nome": "João Teixeira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3016",
+        "nome": "José Francisco Amaral"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2964",
+        "nome": "Coelho dos Santos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "105",
+        "nome": "Costa Andrade"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2997",
+        "nome": "João Belém"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "138",
+        "nome": "Virgilio Carneiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "273",
+        "nome": "Carlos Pinto"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2975",
+        "nome": "Evaristo Oliveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3027",
+        "nome": "Lalanda Ribeiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "66",
+        "nome": "João  Matos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1649",
+        "nome": "José Luís Ramos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "62",
+        "nome": "João Poças Santos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2006",
+        "nome": "Assunção Esteves"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2981",
+        "nome": "Fernando Rocha"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "336",
+        "nome": "Luís Filipe Menezes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2955",
+        "nome": "Carlos Esmeraldo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2910",
+        "nome": "Abílio  Costa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "120",
+        "nome": "Mário Santos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "99",
+        "nome": "Luís Pais de Sousa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "125",
+        "nome": "Nuno Delerue"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "55",
+        "nome": "Francisco Bernardino"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "53",
+        "nome": "Filipe Abreu"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "111",
+        "nome": "Conceição Castro Pereira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "39",
+        "nome": "Dinah Alhandra"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "384",
+        "nome": "Vieira de Castro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "95",
+        "nome": "Licinio Moreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "18",
+        "nome": "António Maria Pereira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3015",
+        "nome": "José Ferreira de Campos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3061",
+        "nome": "Natalina Pintão"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "359",
+        "nome": "Francisco Costa"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": [
+      {
+        "assunto": "Regras do processo especial de apreciação e votação da revisão constitucional",
+        "dcl": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "27742",
+        "legislatura": "V",
+        "numero": "25",
+        "sessao": "2",
+        "tipo": "R"
+      },
+      {
+        "assunto": "Alterações ao processo especial de apreciação e votação da revisão constitucional",
+        "dcl": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "27749",
+        "legislatura": "V",
+        "numero": "28",
+        "sessao": "2",
+        "tipo": "R"
+      },
+      {
+        "assunto": "Constituição de uma Comissão Eventual Para Apreciação dos Projectos de Revisão Constitucional.",
+        "dcl": null,
+        "descTipo": "Projeto de Deliberação",
+        "id": "32732",
+        "legislatura": "V",
+        "numero": "6",
+        "sessao": "1",
+        "tipo": "D"
+      },
+      {
+        "assunto": "Constituição de uma Comissão Eventual Para a Apreciação dos Projectos de Revisão Constitucional.",
+        "dcl": null,
+        "descTipo": "Projeto de Deliberação",
+        "id": "32734",
+        "legislatura": "V",
+        "numero": "8",
+        "sessao": "1",
+        "tipo": "D"
+      }
+    ],
+    "IniDescTipo": "Projeto de Revisão Constitucional",
+    "IniEpigrafe": null,
+    "IniId": "34796",
+    "IniLeg": "V",
+    "IniLinkTexto": "",
+    "IniNr": "4",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "C",
+    "IniTitulo": "Projecto de Revisão Constitucional n.º 4/V",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
