@@ -1,0 +1,10 @@
+Decreto n.º 45997
+A produção de plantas pelos serviços florestais não está a corresponder às exigências dos trabalhos de florestação, pelo que se impõe a instalação de novos viveiros, estratègicamente distribuídos pela metrópole e ilhas adjacentes.
+Dada a transitoriedade das necessidades a satisfazer e, portanto, da existência dos viveiros, tem-se adoptado o critério de recorrer ao arrendamento dos terrenos em que se pretende instalá-los.
+Verifica-se agora a necessidade de se proceder à instalação de um campo experimental para o estudo de espécies pascigosas sobcoberto em povoamentos de sobreiro e azinheira e a possibilidade de arrendar, por um período de seis anos, um terreno, com a área de 10 ha, sito na Herdade da Barroca, freguesia de Mora, concelho de Mora, pertencente à Santa Casa da Misericórdia de Mora, que se apresenta dotado de condições favoráveis ao fim em vista.
+Nestas circunstâncias, tendo em vista o disposto no artigo 22.º e seu § 1.º do Decreto-Lei n.º 41375, de 19 de Novembro de 1957;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º É autorizada a Direcção-Geral dos Serviços Florestais e Aquícolas a celebrar contrato com a Santa Casa da Misericórdia de Mora para o arrendamento da sua propriedade, sita na Herdade da Barroca, freguesia de Mora, concelho de Mora, por um prazo de seis anos, renováveis por iguais e sucessivos períodos, se isso convier às partes contratantes.
+Art. 2.º A despesa com o citado arrendamento não poderá exceder 19000$00 anualmente e constituirá, no corrente ano económico, encargo da dotação inscrita na despesa extraordinária do orçamento do Ministério da Economia sob o capítulo 22.º, artigo 322.º, n.º 2), alínea 2 «Repovoamento de terrenos particulares», e de futuro da verba própria inscrita em orçamento.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 30 de Outubro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Luís Maria Teixeira Pinto - Luís Le Cocq de Albuquerque de Azevedo Coutinho.
