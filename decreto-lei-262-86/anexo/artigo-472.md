@@ -1,6 +1,6 @@
 # Artigo 472.º
 
-### (Deliberação dos sócios)
+### (Deliberações dos sócios)
 
 1 - As deliberações dos sócios são tomadas ou unanimemente, nos termos do artigo 54.º, ou em assembleia geral.
 

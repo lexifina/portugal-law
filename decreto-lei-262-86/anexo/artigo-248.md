@@ -1,12 +1,12 @@
 # Artigo 248.º
 
-### (Assembleias gerais)
+### Assembleias gerais
 
 1 - Às assembleias gerais das sociedades por quotas aplica-se o disposto sobre assembleias gerais das sociedades anónimas, em tudo o que não estiver especificamente regulado para aquelas.
 
 2 - Os direitos atribuídos nas sociedades anónimas a uma minoria de accionistas quanto à convocação e à inclusão de assuntos na ordem do dia podem ser sempre exercidos por qualquer sócio de sociedades por quotas.
 
-3 - A convocação das assembleias gerais compete a qualquer dos gerentes e deve ser feita por meio de carta registada, expedida com a antecedência mínima de dez dias, a não ser que a lei ou contrato exijam outras formalidades ou estabeleçam prazo mais longo.
+3 - A convocação das assembleias gerais compete a qualquer dos gerentes e deve ser feita por meio de carta registada, expedida com a antecedência mínima de quinze dias, a não ser que a lei ou o contrato de sociedade exijam outras formalidades ou estabeleçam prazo mais longo.
 
 4 - Salvo disposição diversa do contrato de sociedade, a presidência de cada assembleia geral pertence ao sócio nela presente que possuir ou representar maior fracção de capital, preferindo-se, em igualdade de circunstâncias, o mais velho.
 

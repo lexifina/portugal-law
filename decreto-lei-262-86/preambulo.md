@@ -42,7 +42,7 @@ Permite-se a participação dos cônjuges em sociedades comerciais, desde que s�
 
 Impede-se a limitação da capacidade da sociedade através de cláusulas do contrato, seguindo a orientação da 1.ª Directiva Comunitária.
 
-Admite-se, ainda que em termos limitados, e regulamenta-se não só a sobrevivência como a constituição de sociedades unipessoais (artigos 7.º, n.º 2, 142.º, n.º 1, alínea b), 143.º e 482.º).
+Admite-se, ainda que em termos limitados, e regulamenta-se não só a sobrevivência como a constituição de sociedades unipessoais (artigos 7.º, n.º 2, 142.º, n.º 1, alínea a), 143.º e 482.º).
 
 Consagra-se o importante princípio da inderrogabilidade, por deliberação ordinária dos sócios, dos preceitos, mesmo só dispositivos, da lei que não admitam expressamente tal derrogabilidade - embora possam ser derrogados pelo contrato ou deliberação modificativa deste (artigo 9.º, n.º 3).
 
@@ -78,7 +78,7 @@ Como alteração digna de registo é de apontar que, ocorrendo o falecimento de 
 
 19. No título III, respeitante às sociedades por quotas, aproveitam-se, tanto quanto possível, os ensinamentos da jurisprudência e doutrina nacionais, elaborados e afeiçoados na vigência da Lei de 11 de Abril de 1901, mas sem esquecer o contributo valioso da recente reforma da lei alemã das sociedades de responsabilidade limitada, tipo social que na Alemanha nasceu e mais se desenvolveu. A par da necessária e justificada protecção dos credores e dos sócios minoritários, imprime-se à disciplina legal das sociedades por quotas uma grande maleabilidade, característica essa que é certamente o mais importante factor de difusão deste tipo de sociedades.
 
-20. O capital social mínimo é fixado em 400000$00 (artigo 201.º), quantia essa que, sendo embora igual a oito vezes o mínimo actual, está longe de corresponder, em termos reais, aos 5000$00 exigidos na versão original da Lei de 11 de Março de 1901. Prevê-se um prazo de três anos para que as sociedades constituídas antes da entrada em vigor deste diploma elevem o seu capital até àquele montante e permite-se que, para esse fim, procedam à reavaliação de bens do activo (artigo 512.º). Correlativamente, o montante nominal mínimo da quota passou para 20000$00 (artigo 219.º).
+20. O capital social mínimo é fixado em 400000$00 (artigo 201.º), quantia essa que, sendo embora igual a oito vezes o mínimo actual, está longe de corresponder, em termos reais, aos 5000$00 exigidos na versão original da Lei de 11 de Abril de 1901. Prevê-se um prazo de três anos para que as sociedades constituídas antes da entrada em vigor deste diploma elevem o seu capital até àquele montante e permite-se que, para esse fim, procedam à reavaliação de bens do activo (artigo 512.º). Correlativamente, o montante nominal mínimo da quota passou para 20000$00 (artigo 219.º).
 
 21. Regula-se com bastante pormenor o direito dos sócios à informação, procurando garantir-lhes a possibilidade de um efectivo conhecimento sobre o modo como são conduzidos os negócios sociais e sobre o estado da sociedade (artigos 214.º a 216.º).
 

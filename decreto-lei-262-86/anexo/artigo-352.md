@@ -1,6 +1,6 @@
 # Artigo 352.º
 
-### (Títulos de obrigações)
+### Títulos de obrigações
 
 1 - Os títulos de obrigações emitidos por uma sociedade devem mencionar:
 
@@ -22,6 +22,6 @@ h) A modalidade, nominativa ou ao portador, da obrigação;
 
 i) A série, se disso for caso.
 
-2 - O título de obrigação deve ser assinado pelo menos por dois administradores, não podendo ser de chancela a assinatura de todos eles.
+2 - O título de obrigação deve ser assinado por um ou mais administradores ou directores, podendo as assinaturas ser de chancela por eles autorizada, ou por mandatários da sociedade para o efeito designados.
 
 3 - O valor nominal da obrigação deve ser expresso em moeda portuguesa, salvo se, nos termos da legislação em vigor, for autorizado o pagamento em moeda estrangeira.

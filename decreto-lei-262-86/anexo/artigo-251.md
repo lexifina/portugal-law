@@ -12,7 +12,7 @@ c) Perda pelo sócio de parte da sua quota, na hipótese prevista no artigo 204.
 
 d) Exclusão do sócio;
 
-e) Consentimento previsto no artigo 260.º, n.º 1;
+e) Consentimento previsto no artigo 254.º, n.º 1;
 
 f) Destituição, por justa causa, da gerência que estiver exercendo ou de membro do órgão de fiscalização;
 

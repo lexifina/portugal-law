@@ -1,6 +1,6 @@
 # Artigo 247.º
 
-### (Formas de deliberação)
+### Formas de deliberação
 
 1 - Além de deliberações tomadas nos termos do artigo 54.º, os sócios podem tomar deliberações por voto escrito e deliberações em assembleia geral.
 
@@ -14,6 +14,6 @@
 
 6 - O gerente lavrará acta, em que mencionará a verificação das circunstâncias que permitem a deliberação por voto escrito, transcreverá a proposta e o voto de cada sócio, declarará a deliberação tomada e enviará cópia desta acta a todos os sócios.
 
-7 - A deliberação considera-se tomada no dia em que for recebida a última resposta ou no fim do prazo marcado, caso algum sócio não responda, mas o prazo para a proposição de acção de suspensão ou anulação só começa a correr a partir do terceiro dia subsequente à data do envio da cópia da acta referida na parte final do número anterior.
+7 - A deliberação considera-se tomada no dia em que for recebida a última resposta ou no fim do prazo marcado, caso algum sócio não responda.
 
 8 - Não pode ser tomada deliberação por voto escrito quando algum sócio esteja impedido de votar, em geral ou no caso de espécie.

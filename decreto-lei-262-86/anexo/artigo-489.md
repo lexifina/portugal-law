@@ -2,7 +2,7 @@
 
 ### (Domínio total superveniente)
 
-1 - A sociedade que, directamente ou por outras sociedades ou pessoas que preencham os requisitos indicados no artigo 483.º, n.º 2, domine totalmente uma outra sociedade, por não haver outros sócios, forma um grupo com esta última, por força da lei, salvo se a assembleia geral da primeira tomar algumas das deliberações previstas nas alíneas a) e b) do número seguinte.
+1 - A sociedade que, directamente ou por outras sociedades ou pessoas que preencham os requisitos indicados no artigo 483.º, n.º 2, domine totalmente uma outra sociedade, por não haver outros sócios, forma um grupo com esta última, por força da lei, salvo se a assembleia geral da primeira tomar alguma das deliberações previstas nas alíneas a) e b) do número seguinte.
 
 2 - Nos seis meses seguintes à ocorrências dos pressupostos acima referidos, a administração da sociedade dominante deve convocar a assembleia geral desta para deliberar, em alternativa, sobre:
 

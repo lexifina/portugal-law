@@ -2,7 +2,7 @@
 
 ### (Maioria)
 
-1 - A assembleia geral delibera por maioria dos votos emitidos, seja qual for a percentagem do capital social nele representado, salvo disposição diversa da lei ou do contrato; as abstenções não são contadas.
+1 - A assembleia geral delibera por maioria dos votos emitidos, seja qual for a percentagem do capital social nela representado, salvo disposição diversa da lei ou do contrato; as abstenções não são contadas.
 
 2 - Na deliberação sobre a designação de titulares de órgãos sociais ou de revisores ou sociedades de revisores oficiais de contas, se houver várias propostas, fará vencimento aquela que tiver a seu favor maior número de votos.
 

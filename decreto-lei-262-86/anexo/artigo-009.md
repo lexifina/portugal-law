@@ -22,4 +22,4 @@ h) Consistindo a entrada em bens diferentes de dinheiro, a descrição destes e 
 
 2 - São ineficazes as estipulações do contrato de sociedade relativas a entradas em espécie que não satisfaçam os requisitos exigidos nas alíneas g) e h) do n.º 1.
 
-3 - Os preceitos dispositivos desta lei só podem ser derrogados pelo contrato de sociedade, a não ser que esta expressamente admita a derrogação por deliberação dos sócios.
+3 - Os preceitos dispositivos desta lei só podem ser derrogados pelo contrato de sociedade, a não ser que este expressamente admita a derrogação por deliberação dos sócios.

@@ -18,7 +18,7 @@
 
 a) Sobre a constituição da sociedade, nos precisos termos do projecto registado;
 
-b) Sobre as nomeações para os órgãos sociais.
+b) Sobre as designações para os órgãos sociais.
 
 8 - Com o voto unânime de todos os promotores e subscritores podem ser introduzidas alterações no projecto de contrato de sociedade.
 

@@ -4,7 +4,7 @@
 
 1 - O preceituado nos artigos anteriores aplica-se, com as excepções estabelecidas nos números seguintes, à incorporação por uma sociedade de outra de cujas partes, quotas ou acções aquela seja a única titular, directamente ou por pessoas que detenham essas participações por conta dela mas em nome próprio.
 
-2 - Não são neste caso aplicáveis as disposições relativas à troca de participações sociais aos relatórios dos órgãos sociais e de peritos da sociedade incorporada e à responsabilidade desses órgãos e peritos.
+2 - Não são neste caso aplicáveis as disposições relativas à troca de participações sociais, aos relatórios dos órgãos sociais e de peritos da sociedade incorporada e à responsabilidade desses órgãos e peritos.
 
 3 - A escritura de fusão pode ser lavrada sem prévia deliberação de assembleias gerais, desde que se verifiquem cumulativamente os seguintes requisitos:
 

@@ -10,7 +10,7 @@
 
 2 - A elaboração do relatório de gestão, das contas do exercício e dos demais documentos de prestação de contas deve obedecer ao disposto na lei; o contrato de sociedade pode complementar, mas não derrogar, essas disposições legais.
 
-3 - O relatório de gestão e as contas do exercício devem ser assinados por todos os membros da administração; a recusa de assinatura por qualquer deles deve ser justificada no documento a que respeita e explicada pelo próprio perante o órgão competente para aprovação, ainda que já tenha cessado as suas funções.
+3 - O relatório de gestão e as contas do exercício devem ser assinados por todos os membros da administração; a recusa de assinatura por qualquer deles deve ser justificada no documento a que respeita e explicada pelo próprio perante o órgão competente para a aprovação, ainda que já tenha cessado as suas funções.
 
 4 - O relatório de gestão e as contas do exercício são elaborados e assinados pelos gerentes, administradores ou directores que estiverem em funções ao tempo da apresentação, mas os antigos membros da administração devem prestar todas as informações que para esse efeito lhes forem solicitadas, relativamente ao período em que exerceram aquelas funções.
 

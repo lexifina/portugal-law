@@ -4,9 +4,9 @@
 
 # Artigo 288.º
 
-### (Direito mínimo à informação)
+### Direito mínimo à informação
 
-1 - Qualquer accionista pode consultar, na sede da sociedade, ou exigir que lhe sejam facultados:
+1 - Qualquer accionista que possua acções correspondentes a, pelo menos, 1% do capital social pode consultar, desde que alegue motivo justificado, na sede da sociedade:
 
 a) Os relatórios de gestão e os documentos de prestação de contas previstos na lei, relativos aos três últimos exercícios, incluindo os pareceres do conselho fiscal ou do conselho geral, bem como os relatórios do revisor oficial de contas sujeitos a publicidade, nos termos da lei;
 

@@ -8,4 +8,4 @@
 
 3 - São nulas as aquisições de quotas próprias com infracção do disposto neste artigo.
 
-4 - É aplicável às quotas próprias o disposto no artigo 325.º.
+4 - É aplicável às quotas próprias o disposto no artigo 324.º

@@ -8,6 +8,6 @@
 
 3 - A aquisição pela sociedade de participações em sociedades de responsabilidade limitada abrangidas por esta lei cujo objecto seja igual àquele que a sociedade está exercendo, nos termos do número anterior, não depende de autorização no contrato de sociedade nem de deliberação dos sócios, salvo disposição diversa do contrato.
 
-4 - O contrato pode ainda autorizar, livre ou condicionalmente, a aquisição pela sociedade de participações como sócio de responsabilidade ilimitada ou de participações em sociedades com objecto diferente do acima referido em sociedades reguladas por leis especiais e em agrupamentos complementares de empresas.
+4 - O contrato pode ainda autorizar, livre ou condicionalmente, a aquisição pela sociedade de participações como sócio de responsabilidade ilimitada ou de participações em sociedades com objecto diferente do acima referido, em sociedades reguladas por leis especiais e em agrupamentos complementares de empresas.
 
 5 - A gestão de carteira de títulos pertencentes à sociedade pode constituir objecto desta.

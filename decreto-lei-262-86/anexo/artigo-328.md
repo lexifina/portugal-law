@@ -4,7 +4,7 @@
 
 # Artigo 328.º
 
-### (Limitações à transmissão de acções)
+### Limitações à transmissão de acções
 
 1 - O contrato de sociedade não pode excluir a transmissibilidade das acções nem limitá-la além do que a lei permitir.
 
@@ -12,7 +12,7 @@
 
 a) Subordinar a transmissão das acções nominativas ao consentimento da sociedade;
 
-b) Estabelecer um direito de preferência dos outros accionistas, no caso de alienação de acções nominativas;
+b) Estabelecer um direito de preferência dos outros accionistas e as condições do respectivo exercício, no caso de alienação de acções nominativas;
 
 c) Subordinar a transmissão de acções nominativas e a constituição de penhor ou usufruto sobre elas à existência de determinados requisitos, subjectivos ou objectivos, que estejam de acordo com o interesse social.
 
