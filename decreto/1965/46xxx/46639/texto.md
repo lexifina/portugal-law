@@ -1,0 +1,19 @@
+Decreto n.º 46639
+Até à publicação do Decreto n.º 44241, de 19 de Março de 1962, funcionou nos serviços de administração civil de Timor um quadro auxiliar, cujos serventuários passaram, após a publicação daquele decreto e do n.º 44651, ao quadro de secretaria dos mesmos serviços.
+O pessoal desse quadro auxiliar viveu por muitos anos nos postos espalhados pelo interior da província e adquiriu qualidades de adaptação e conhecimento do meio local que muito convém aproveitar sem demora.
+Nestes termos, por proposta do Governo da província de Timor;
+Tendo em vista o § 1.º do artigo 150.º da Constituição e em conformidade com o disposto na base X, n.º III, alínea a), da Lei Orgânica do Ultramar Português, por motivo de urgência;
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+Artigo 1.º Os actuais adjuntos de administrador de posto do quadro administrativo dos serviços de administração civil de Timor poderão ser promovidos à categoria imediatamente superior, nas vagas actualmente existentes e independentemente de concurso, desde que possuam muito boas informações e, pelo menos, um ano de efectivo serviço na categoria.
+Art. 2.º Os funcionários do quadro de secretaria dos mesmos serviços e províncias oriundos do antigo quadro auxiliar (encarregados de posto) poderão transitar para o quadro administrativo, independentemente das habilitações, nas seguintes condições:
+a) A transição será efectuada, a requerimento do interessado, para a categoria de adjunto de administrador de posto e, excepcionalmente, para administrador de posto, conforme despacho do governador da província, atentas as qualidades reveladas e informações de serviço, desde que contem mais de dez anos de serviço efectivo prestado nos serviços de administração civil;
+b) O número de funcionários a transitar para o quadro administrativo é limitado a metade dos lugares aprovados por lei.
+Art. 3.º Os requerimentos dos interessados deverão dar entrada na Repartição Provincial dos Serviços de Administração Civil no prazo de 60 dias, contados da data da publicação do presente diploma no Boletim Oficial da província, e serão ordenados segundo as seguintes condições de preferência:
+1.ª Melhores informações de serviço;
+2.ª Maior antiguidade no serviço público;
+3.ª Maiores habilitações.
+Art. 4.º Os funcionários do quadro de secretaria que não transitem para o quadro administrativo e excedam os efectivos do seu quadro continuarão em efectividade de serviço nesse ou qualquer outro quadro em que se mostre mais necessário que sejam adstritos, recebendo pela verba do lugar que exerçam ou pela de duplicação de vencimentos até obterem vaga no quadro de secretaria a que pertencem.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 12 de Novembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
+
+Para ser publicado no Boletim Oficial de Timor. - J. da Silva Cunha.
