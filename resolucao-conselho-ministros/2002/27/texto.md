@@ -1,0 +1,10 @@
+Resolução do Conselho de Ministros n.º 27/2002
+Através da Resolução do Conselho de Ministros n.º 67/98, de 8 de Junho, o Governo definiu um plano regional de intervenção destinado a combater o impacte social negativo do desemprego no Alentejo e estabeleceu um conjunto de medidas que lhe dão concretização.
+De entre essas medidas inovadoras de combate ao desemprego incluiu-se a iniciativa piloto de promoção local do emprego no Alentejo, para vigorar até 2001, financiada por verbas do orçamento do IEFP, até ao montante máximo de 3 milhões de contos, e a operacionalizar através da celebração de contratos-programa entre o Instituto do Emprego e Formação Profissional (IEFP) e pessoas colectivas sem fins lucrativos que apresentassem projectos locais de intervenção dirigidos a zonas com problemas sensíveis de despovoamento e de desemprego.
+A ponderação acerca dos termos em que o programa deva ser mantido no Alentejo, ou se deve ser estendido a outras zonas do País, deverá ser relegada para momento posterior, tendo em conta os parâmetros constitucionais que impendem sobre a actuação de um Governo em gestão.
+Considerando, no entanto, que este programa comportou um acentuado grau de adesão, com resultados positivos, importa, para já, dilatar o prazo de aplicação desta medida até ao final do 1.º semestre de 2002 e reforçar o seu financiamento em mais (euro) 2494000, de forma a contemplar projectos locais de intervenção em execução.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - É prorrogado, até ao final do 1.º semestre de 2002, o Programa Iniciativa Piloto de Promoção Vocal do Emprego no Alentejo, criado pela Resolução do Conselho de Ministros n.º 67/98, de 8 de Junho, e reforçado o seu financiamento, por verbas do orçamento do IEFP, em mais (euro) 2494000.
+2 - A presente resolução produz efeitos a partir de 1 de Janeiro de 2002.
+Presidência do Conselho de Ministros, 17 de Janeiro de 2002. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
