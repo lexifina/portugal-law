@@ -1,0 +1,7 @@
+Despacho Normativo n.º 47/92
+Considerando que em 18 de Julho de 1991 cessou a comissão de serviço de José António Lemos da Silva, à data director de estabelecimento prisional central do quadro do pessoal dirigente dos Serviços Externos da Direcção-Geral dos Serviços Prisionais;
+Considerando o disposto na alínea a) do n.º 2 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, e nos n.os 4 e 5 do mesmo artigo e diploma:
+Determina-se o seguinte:
+1 - É criado no quadro do pessoal comum da Direcção-Geral dos Serviços Prisionais, fixado pela Portaria n.º 316/87, de 16 de Abril, e alterado posteriormente pelas Portarias n.os 688/87 e 689/87, ambas de 12 de Agosto, pelos Decretos-Leis n.os 383/87, de 19 de Dezembro, e 23/88, de 29 de Janeiro, pelas Portarias n.os 101/88, de 12 de Fevereiro, 401/88, de 24 de Junho, 680/88, de 11 de Outubro, e 781/88, de 7 de Dezembro, pelos Decretos-Leis n.os 469/88, de 17 de Dezembro, e 319/89, de 23 de Setembro, pela Portaria n.º 652/90, de 9 de Agosto, e pelos Decretos-Leis n.os 249/91, de 16 de Julho, e 346/91, de 18 de Setembro, um lugar de técnico superior principal da carreira técnica superior, a extinguir quando vagar.
+2 - A criação do lugar referido no número anterior produz efeitos a partir de 18 de Julho de 1991.
+Ministérios das Finanças e da Justiça, 20 de Março de 1992. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio.
