@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1948/09/21700/09800980.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1948-09-16",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "c58c3506317a9c5d37d359a547f3d7c6ad0a5a133384d7f4af2991f5576f61f2",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.5,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "e16e6ca32658def3a24a626e45e905035feb88f555c036d321ee72679eb8bfaa",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 317
 }
