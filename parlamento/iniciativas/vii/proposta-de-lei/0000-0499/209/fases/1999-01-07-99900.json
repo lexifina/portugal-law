@@ -1,0 +1,588 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "209",
+    "id": "4650",
+    "titulo": "Financiamento dos partidos políticos e das campanhas eleitorais"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1999-01-07",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "802",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1999-01-07",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "4646",
+        "leg": "VII",
+        "nr": "574",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "349",
+            "obs": null,
+            "pag": [
+              "1192-1205"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1999-01-08",
+            "pubLeg": "VII",
+            "pubNr": "32",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/032/1999-01-08/1192?pgs=1192-1205&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "349",
+            "obs": null,
+            "pag": [
+              "1192-1205"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1999-01-08",
+            "pubLeg": "VII",
+            "pubNr": "32",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/032/1999-01-08/1192?pgs=1192-1205&org=PLC"
+          }
+        ],
+        "sel": "4",
+        "tipo": "J",
+        "titulo": "Financiamento da actividade dos partidos políticos e das campanhas eleitorais"
+      },
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "4645",
+        "leg": "VII",
+        "nr": "575",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "349",
+            "obs": null,
+            "pag": [
+              "1192-1205"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1999-01-08",
+            "pubLeg": "VII",
+            "pubNr": "32",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/032/1999-01-08/1192?pgs=1192-1205&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "349",
+            "obs": null,
+            "pag": [
+              "1192-1205"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1999-01-08",
+            "pubLeg": "VII",
+            "pubNr": "32",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/032/1999-01-08/1192?pgs=1192-1205&org=PLC"
+          }
+        ],
+        "sel": "4",
+        "tipo": "J",
+        "titulo": "Alteração do regime de financiamento dos partidos políticos e das campanhas eleitorais"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1999-01-07",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56571",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1205-1205"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-01-08",
+                "pubLeg": "VII",
+                "pubNr": "32",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/032/1999-01-08/1205?pgs=1205&org=PLC"
+              }
+            ],
+            "sumario": "FINANCIAMENTO DOS PARTIDOS POLITICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56572",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1204-1205"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-01-08",
+                "pubLeg": "VII",
+                "pubNr": "32",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/032/1999-01-08/1204?pgs=1204-1205&org=PLC"
+              }
+            ],
+            "sumario": "FINANCIAMENTO DOS PARTIDOS POLITICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "78",
+                "nome": "Pacheco Pereira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56573",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1199-1205"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-01-08",
+                "pubLeg": "VII",
+                "pubNr": "32",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/032/1999-01-08/1199?pgs=1199-1205&org=PLC"
+              }
+            ],
+            "sumario": "FINANCIAMENTO DOS PARTIDOS POLITICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "462",
+                "nome": "Alberto Martins"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56574",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1198-1199"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-01-08",
+                "pubLeg": "VII",
+                "pubNr": "32",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/032/1999-01-08/1198?pgs=1198-1199&org=PLC"
+              }
+            ],
+            "sumario": "FINANCIAMENTO DOS PARTIDOS POLITICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56575",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1197-1199"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-01-08",
+                "pubLeg": "VII",
+                "pubNr": "32",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/032/1999-01-08/1197?pgs=1197-1199&org=PLC"
+              }
+            ],
+            "sumario": "FINANCIAMENTO DOS PARTIDOS POLITICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56576",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1196-1196"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-01-08",
+                "pubLeg": "VII",
+                "pubNr": "32",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/032/1999-01-08/1196?pgs=1196&org=PLC"
+              }
+            ],
+            "sumario": "FINANCIAMENTO DOS PARTIDOS POLITICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56577",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1192-1197"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-01-08",
+                "pubLeg": "VII",
+                "pubNr": "32",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/032/1999-01-08/1192?pgs=1192-1197&org=PLC"
+              }
+            ],
+            "sumario": "FINANCIAMENTO DOS PARTIDOS POLITICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "António Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107491",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1192-1197"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-01-08",
+                "pubLeg": "VII",
+                "pubNr": "32",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/032/1999-01-08/1192?pgs=1192-1197&org=PLC"
+              }
+            ],
+            "sumario": "FINANCIAMENTO DOS PARTIDOS POLITICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "António Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107492",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1205-1205"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1999-01-08",
+                "pubLeg": "VII",
+                "pubNr": "32",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/032/1999-01-08/1205?pgs=1205&org=PLC"
+              }
+            ],
+            "sumario": "FINANCIAMENTO DOS PARTIDOS POLITICOS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "99900",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "108281",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1999-01-08",
+        "pubLeg": "VII",
+        "pubNr": "32",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/032/1999-01-08?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
