@@ -1,0 +1,29 @@
+Portaria n.º 385/96
+de 20 de Agosto
+A Assembleia Municipal de Baião aprovou, em 23 de Setembro de 1995, sob proposta da respectiva Câmara Municipal, a instituição de medidas preventivas para a área abrangida pelo Plano Geral de Urbanização de Baião.
+Este Plano foi aprovado em 1986, encontra-se desactualizado e inadequado face ao desenvolvimento sócio-económico daquele município, pelo que se revela desajustado face às realidades, tendências e expectativas actuais.
+Foi já deliberada a elaboração de um novo plano de urbanização para a vila de Baião, tendo sido aberto concurso para a revisão do Plano em vigor.
+Verifica-se, assim, a necessidade de evitar a alteração das circunstâncias e das condições existentes na área, o que poderia comprometer a futura execução do novo plano ou torná-la mais difícil ou onerosa.
+Nos últimos quatro anos não foram estabelecidas medidas preventivas para a mesma área.
+Foram emitidos pareceres pela Comissão de Coordenação da Região do Norte e pela Direcção-Geral do Ordenamento do Território e Desenvolvimento Urbano.
+Assim, ao abrigo do disposto nos artigos 7.º e 3.º, n.º 4, do Decreto-Lei n.º 69/90, de 2 de Março, com as alterações introduzidas pelo Decreto-Lei n.º 211/92, de 8 de Outubro, e da delegação de competências conferida pelo Despacho n.º 48/96, do Ministro do Equipamento, do Planeamento e da Administração do Território, publicado no Diário da República, 2.ª série, de 21 de Março de 1996:
+Manda o Governo, pelo Secretário de Estado da Administração Local e Ordenamento do Território, o seguinte:
+1.º São ratificadas as medidas preventivas estabelecidas para a área abrangida pelo Plano Geral de Urbanização de Baião, no município de Baião.
+2.º O texto e a respectiva planta são publicados em anexo à presente portaria, dela fazendo parte integrante.
+3.º As medidas preventivas vigoram pelo prazo de dois anos a contar da publicação desta portaria ou até que sejam substituídas por normas provisórias do novo plano de urbanização de Baião, em elaboração, ou até à entrada em vigor deste plano, consoante o que primeiro ocorrer.
+4.º Durante o período de vigência das medidas preventivas fica suspenso o Plano Geral de Urbanização de Baião, aprovado pela Assembleia Municipal de Baião em 27 de Setembro de 1986, ratificado por despacho de 1 de Fevereiro de 1989 e publicado no Diário da República, 2.ª série, n.º 55, de 7 de Março de 1989.
+Ministério do Equipamento, do Planeamento e da Administração do Território.
+Assinada em 15 de Julho de 1996.
+O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.
+
+ANEXO
+Medidas preventivas
+1 - Para efeito de aplicação do disposto no artigo 7.º do Decreto-Lei n.º 69/90, de 2 de Março, e no capítulo II do Decreto-Lei n.º 794/76, de 5 de Novembro, fica sujeita a medidas preventivas, pelo prazo de dois anos, a área total de 70 ha identificada pela planta anexa.
+2 - As medidas preventivas referidas no número anterior consistem na sujeição a prévia autorização da Câmara Municipal de Baião, sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, da prática dos actos ou actividades seguintes:
+a) Construção, reconstrução ou ampliação de edifícios ou de outras instalações;
+b) Instalação de explorações ou ampliação das existentes;
+c) Alterações importantes, por meio de aterros ou escavações, à configuração geral do aterro;
+d) Derrube de árvores em maciço, com qualquer área;
+e) Destruição do solo vivo e coberto vegetal.
+3 - São competentes para promover o cumprimento das medidas estabelecidas nesta deliberação e de proceder em conformidade com o disposto no artigo 12.º do Decreto-Lei n.º 794/76, de 5 de Novembro, a Câmara Municipal de Baião e a Comissão de Coordenação da Região do Norte.
+(ver documento original)
