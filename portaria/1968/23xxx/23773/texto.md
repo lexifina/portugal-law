@@ -1,0 +1,4 @@
+Portaria n.º 23773
+Manda o Governo da República Portuguesa, pelos Ministro das Finanças e de Educação Nacional, que, nos termos do n.º 2 do artigo 1.º do Decreto-Lei n.º 48079, de 28 de Novembro de 1967, seja aumentado ao quadro de médicos e visitadoras escolares da Direcção-Geral da Educação Física, Desportos e Saúde Escolar um lugar de médico escolar, do sexo masculino, e um de visitadora escolar, no distrito de Ponta Delgada.
+Os encargos resultantes da execução desta portaria serão satisfeitos pela Junta Geral do Distrito Autónomo de Ponta Delgada, que, no corrente ano, reforçará a verba inscrita no seu orçamento, no capítulo XXI, artigo 173.º, n.º 2, alínea a).
+Ministérios das Finanças e da Educação Nacional, 14 de Dezembro de 1968. - Pelo Ministro das Finanças, Augusto Victor Coelho, Subsecretário de Estado do Orçamento. - Pelo Ministro da Educação Nacional, Francisco Elmano Martinez da Cruz Alves, Subsecretário de Estado da Juventude e Desportos.
