@@ -6,7 +6,7 @@
 
 2 - (Revogado).
 
-3 - Os cargos de juiz dos tribunais técnicos, de inspector, de subdirector e de chefe dos serviços de despacho, de fiscalização e de contabilidade e pessoal das Alfândegas de Lisboa e Porto serão providos em regime de comissão de serviço, renovável de 3 em 3 anos.
+3 - (Revogado).
 
 4 - (Revogado).
 
