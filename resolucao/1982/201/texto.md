@@ -1,0 +1,4 @@
+Resolução n.º 201/82
+No quadro do Programa de Cooperação Luso-Norueguesa, foi decidido pelo Governo do Reino da Noruega conceder à República Portuguesa uma doação, até ao montante de 20000000 de coroas norueguesas, destinada à construção de um entreposto frigorífico no Funchal.
+Tendo em conta o interesse que esta doação reveste para o desenvolvimento da Região Autónoma da Madeira, o Conselho de Ministros, reunido em 7 de Outubro de 1982, resolveu autorizar o Ministro de Estado e das Finanças e do Plano, ou quem este designar expressamente para o efeito, a assinar, em representação do Governo Português, o acordo da doação relativa ao projecto supracitado.
+Presidência do Conselho de Ministros, 7 de Outubro de 1982. - Pelo Primeiro-Ministro, Diogo Pinto de Freitas do Amaral, Vice-Primeiro-Ministro.
