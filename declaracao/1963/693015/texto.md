@@ -1,0 +1,4 @@
+Declaração
+Declara-se, para os devidos efeitos, que entre o original, arquivado nesta Secretaria-Geral, e o texto do Protocolo modificando a Convenção assinada em Varsóvia em 12 de Outubro de 1929, anexo ao Decreto-Lei n.º 45069, publicado pelo Ministério dos Negócios Estrangeiros, Direcção-Geral dos Negócios Económicos e Consulares, no Diário do Governo n.º 138, 1.ª série, de 12 de Junho do ano em curso, existe a seguinte divergência, que assim se rectifica:
+No artigo XI, n.º 2, alínea a), do artigo 22.º da referida Convenção, onde se lê: «... não poderá exceder duzentos e cinquenta mil francos por quilo, ...», deve ler-se: «... não poderá exceder duzentos e cinquenta francos por quilo, ...».
+Secretaria-Geral da Presidência do Conselho, 12 de Julho de 1963. - O Secretário-Geral, Diogo de Castelbranco de Paiva de Faria Leite Brandão.
