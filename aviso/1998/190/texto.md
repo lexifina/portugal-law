@@ -1,0 +1,4 @@
+Aviso n.º 190/98
+Por ordem superior se torna público que a Estónia depositou, em 17 de Abril de 1998, os instrumentos de ratificação do Protocolo n.º 6 à Convenção de Salvaguarda dos Direitos do Homem e das Liberdades Fundamentais Relativas à Abolição da Pena de Morte, aberta para assinatura, em Estrasburgo, em 28 de Abril de 1983.
+Portugal é Parte neste Protocolo, que foi aprovado, para ratificação, pela Resolução da Assembleia da República n.º 12/86, publicada no Diário da República, 1.ª série-A, n.º 129, de 6 de Junho de 1986, tendo depositado o seu instrumento de ratificação em 2 de Outubro de 1986, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 258, de 8 de Novembro de 1986.
+Direcção-Geral dos Assuntos Multilaterais, 14 de Setembro de 1998. - O Director de Serviços das Organizações Políticas Internacionais, João José Gomes Caetano da Silva.
