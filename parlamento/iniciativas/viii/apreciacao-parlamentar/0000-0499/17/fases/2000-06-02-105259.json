@@ -1,0 +1,389 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "17",
+    "id": "6086",
+    "titulo": "Decreto-lei n°54-A/2000 de 7 de Abril que \"define a estrutura orgânica relativa a gestão, acompanhamento, avaliação e controlo da execução do QCA III e das Intervenções Estruturais Comunitárias relativas a Portugal nos termos do Regulamento (CE) nº 1260/99 do Conselho de 21 de Junho\"."
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "2000-06-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1709",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "2000-06-02",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Apreciação Parlamentar",
+        "id": "6085",
+        "leg": "VIII",
+        "nr": "18",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "431",
+            "obs": null,
+            "pag": [
+              "2915-2921"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-06-03",
+            "pubLeg": "VIII",
+            "pubNr": "74",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/074/2000-06-03/2915?pgs=2915-2921&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "A",
+        "titulo": "Decreto-lei n° 54-A/2000 de 7 de Abril que \"define a estrutura orgânica relativa à gestão, acompanhamento, avaliação e controlo da execução do QCA III e das intervenções estruturais comunitárias relativas a Portugal nos termos do regulamento (CE) nº 1260/99 do Conselho de 21 de Junho."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-06-02",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1102",
+                "nome": "Pedro Mota Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27590",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2920-2920"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-03",
+                "pubLeg": "VIII",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/074/2000-06-03/2920?pgs=2920&org=PLC"
+              }
+            ],
+            "sumario": "APRECIACAO DO DEC-LEI 54-A/2000, DE 7 DE ABRIL,\"DEFINE A ESTRUTURA ORGANICA RELATIVA A GESTAO, ACOMPANHAMENTO, AVALIACAOE CONTROLO DA EXECUCAO DOS QCA III E DAS INTERVENCOES ESTRUTURAIS COMUNITARIAS RELATIVAS A PORTUGAL NOS TERMOS DO REGULAMENTO N 1260/90(CE), DO CONSELHO DE 21 DE JUNHO\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1102",
+                "nome": "Pedro Mota Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27592",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2917-2918"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-03",
+                "pubLeg": "VIII",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/074/2000-06-03/2917?pgs=2917-2918&org=PLC"
+              }
+            ],
+            "sumario": "APRECIACAO DO DEC-LEI 54-A/2000, DE 7 DE ABRIL,\"DEFINE A ESTRUTURA ORGANICA RELATIVA A GESTAO, ACOMPANHAMENTO, AVALIACAOE CONTROLO DA EXECUCAO DOS QCA III E DAS INTERVENCOES ESTRUTURAIS COMUNITARIAS RELATIVAS A PORTUGAL NOS TERMOS DO REGULAMENTO N 1260/90(CE), DO CONSELHO DE 21 DE JUNHO\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1551",
+                "nome": "Rui Marqueiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27593",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2917-2918"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-03",
+                "pubLeg": "VIII",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/074/2000-06-03/2917?pgs=2917-2918&org=PLC"
+              }
+            ],
+            "sumario": "APRECIACAO DO DEC-LEI 54-A/2000, DE 7 DE ABRIL,\"DEFINE A ESTRUTURA ORGANICA RELATIVA A GESTAO, ACOMPANHAMENTO, AVALIACAOE CONTROLO DA EXECUCAO DOS QCA III E DAS INTERVENCOES ESTRUTURAIS COMUNITARIAS RELATIVAS A PORTUGAL NOS TERMOS DO REGULAMENTO N 1260/90(CE), DO CONSELHO DE 21 DE JUNHO\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1731",
+                "nome": "António Nazaré Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27594",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2916-2917"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-03",
+                "pubLeg": "VIII",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/074/2000-06-03/2916?pgs=2916-2917&org=PLC"
+              }
+            ],
+            "sumario": "APRECIACAO DO DEC-LEI 54-A/2000, DE 7 DE ABRIL,\"DEFINE A ESTRUTURA ORGANICA RELATIVA A GESTAO, ACOMPANHAMENTO, AVALIACAOE CONTROLO DA EXECUCAO DOS QCA III E DAS INTERVENCOES ESTRUTURAIS COMUNITARIAS RELATIVAS A PORTUGAL NOS TERMOS DO REGULAMENTO N 1260/90(CE), DO CONSELHO DE 21 DE JUNHO\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27595",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2915-2916",
+                  "2919-2921"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-03",
+                "pubLeg": "VIII",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/074/2000-06-03/2915?pgs=2915-2916,2919-2921&org=PLC"
+              }
+            ],
+            "sumario": "APRECIACAO DO DEC-LEI 54-A/2000, DE 7 DE ABRIL,\"DEFINE A ESTRUTURA ORGANICA RELATIVA A GESTAO, ACOMPANHAMENTO, AVALIACAOE CONTROLO DA EXECUCAO DOS QCA III E DAS INTERVENCOES ESTRUTURAIS COMUNITARIAS RELATIVAS A PORTUGAL NOS TERMOS DO REGULAMENTO N 1260/90(CE), DO CONSELHO DE 21 DE JUNHO\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  PLANEAMENTO",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Joao Carvalho Mendes"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "105808",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2919-2921"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-03",
+                "pubLeg": "VIII",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/074/2000-06-03/2919?pgs=2919-2921&org=PLC"
+              }
+            ],
+            "sumario": "APRECIACAO DO DEC-LEI 54-A/2000, DE 7 DE ABRIL,\"DEFINE A ESTRUTURA ORGANICA RELATIVA A GESTAO, ACOMPANHAMENTO, AVALIACAOE CONTROLO DA EXECUCAO DOS QCA III E DAS INTERVENCOES ESTRUTURAIS COMUNITARIAS RELATIVAS A PORTUGAL NOS TERMOS DO REGULAMENTO N 1260/90(CE), DO CONSELHO DE 21 DE JUNHO\"",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "105259",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "111138",
+        "obs": null,
+        "pag": [
+          "2915-2921"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-06-03",
+        "pubLeg": "VIII",
+        "pubNr": "74",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/074/2000-06-03/2915?pgs=2915-2921&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
