@@ -1,0 +1,12 @@
+Decreto-Lei n.º 237/79
+de 25 de Julho
+Tendo sido prorrogado até 31 de Dezembro de 1979 o prazo estabelecido no artigo 1.º do Decreto-Lei n.º 126/77, de 2 de Abril, para ser requerida a reavaliação dos bens do activo imobilizado corpóreo de empressas privadas de demonstrada viabilidade económica e que sejam objecto de saneamento económico-financeiro, importa providenciar no sentido de permitir a utilização do benefício a que se refere o artigo 1.º da Lei n.º 39/77, de 17 de Junho, por parte das referidas empresas, uma vez que o prazo concedido pelo seu artigo 3.º terminou em 31 de Dezembro de 1978.
+Nestes termos:
+O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição e ao abrigo da autorização legislativa concedida pelo artigo 22.º da Lei n.º 21-A/79, de 25 de Junho, o seguinte:
+Artigo 1.º O benefício referido no artigo 1.º da Lei n.º 39/77, de 17 de Junho, apenas é concedido às empresas que cumpram as formalidades previstas no n.º 1 do seu artigo 2.º, dentro do prazo de noventa dias, a contar da data em que tomaram conhecimento de terem sido autorizadas a proceder à reavaliação.
+Art. 2.º Às empresas a que à data da entrada em vigor deste decreto-lei já havia sido dado conhecimento de que fora deferido o seu pedido de reavaliação, o prazo de noventa dias contar-se-á a partir dessa data.
+Art. 3.º O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 4 de Julho de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes.
+Promulgado em 12 de Julho de 1979.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
