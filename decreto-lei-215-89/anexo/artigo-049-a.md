@@ -1,6 +1,6 @@
 # Artigo 49.º-A
 
-### Grandes projectos de investimento
+### Benefícios fiscais em regime contratual
 
 1 - Aos projectos de investimento em unidades produtivas, realizados até final de 1995, de valor global igual ou superior a 5 milhões de contos, de especial interesse para a economia nacional, contribuindo para o reforço relevante da inovação nas unidades produtivas e para a acelerada modernização da economia nacional, poderão ser concedidos benefícios fiscais no âmbito do IRC, sisa, contribuição autárquica e imposto do selo, em regime contratual.
 

@@ -8,4 +8,8 @@
 
 3 - Os prédios urbanos afectos ao turismo de habitação beneficiam de isenção de contribuição autárquica por um período de sete anos contado a partir do termo das respectivas obras.
 
-4 - Em todos os aspectos que não estejam regulados neste artigo ou no Código da CA aplicar-se-á, com as necessárias adaptações, o disposto no Decreto-Lei n.º 423/83, de 5 de Dezembro.
+4 - Nos casos previstos neste artigo, a isenção será reconhecida pelo chefe da repartição de finanças da área da situação do prédio, em requerimento devidamente documentado, que deverá ser apresentado pelos sujeitos passivos no prazo de 90 dias contados da data da publicação do despacho de atribuição da utilidade turística.
+
+5 - Se o pedido for apresentado para além do prazo referido no número anterior, a isenção iniciar-se-á a partir do ano imediato, inclusive, ao da sua apresentação, cessando, porém, no ano em que findaria, caso o pedido tivesse sido apresentado em tempo.
+
+6 - Em todos os aspectos que não estejam regulados neste artigo ou no Código da CA aplicar-se-á, com as necessárias adaptações, o disposto no Decreto-Lei n.º 423/83, de 5 de Dezembro.

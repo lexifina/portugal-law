@@ -39,5 +39,3 @@ c) Tratando-se de outros rendimentos, há lugar a tributação nos termos mencio
 8 - As sociedades gestoras dos fundos de investimento são obrigadas a publicar o valor do rendimento distribuído, o valor do imposto retido ou devido nos termos do n.º 1 ou do n.º 5 e o valor do crédito de imposto que lhes corresponder para efeitos do disposto no n.º 7.
 
 9 - As sociedades gestoras dos fundos de investimento são solidariamente responsáveis pelas dívidas de imposto dos fundos cuja gestão lhes caiba.
-
-10 - Para efeitos de IRS são dedutíveis ao rendimento colectável, e até à concorrência deste, 20% dos montantes aplicados durante o ano na aquisição de certificados em fundos de investimento mobiliário, com o limite máximo de 120 contos por sujeito passivo não casado ou 240 contos por ambos os cônjuges não separados judicialmente de pessoas e bens, desde que as acções cotadas representem mais de 40% do valor da carteira do fundo e os certificados sejam detidos pelos titulares pelo menos durante dois anos e estejam depositados numa instituição de crédito.
