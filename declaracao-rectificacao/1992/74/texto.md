@@ -1,0 +1,7 @@
+Declaração de rectificação n.º 74/92
+Segundo comunicação da Presidência do Conselho de Ministros, o Despacho Normativo n.º 56/92, publicado no Diário da República, n.º 99 (suplemento), de 29 de Abril de 1992, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No anexo:
+No artigo 10.º, n.º 1, onde se lê «mínimo de 13 músicos titulares de carteira profissional emitida por entidade legalmente competente» deve ler-se «mínimo de 13 músicos titulares de habilitação adequada emitida por entidade legalmente competente».
+No artigo 21.º, n.º 1, onde se lê «O concurso inicia-se pela publicação simultânea do respectivo aviso de abertura na 2.ª série do Diário da República» deve ler-se «O concurso inicia-se pela publicação simultânea do respectivo aviso de abertura na 3.ª série do Diário da República».
+No artigo 21.º, n.º 4, onde se lê «O contrato de concessão de apoio financeiro é autorizado no prazo de 15 dias, contados a partir da data da notificação a que se refere o número anterior ou do prazo de regularização prevista no n.º 4 do artigo 5.º» deve ler-se «O contrato de concessão de apoio financeiro é outorgado no prazo de 15 dias, contados a partir da data da notificação a que se refere o número anterior ou do prazo de regularização previsto no n.º 4 do artigo 5.º».
+Secretaria-Geral da Presidência do Conselho de Ministros, 27 de Maio de 1992. - O Secretário-Geral, França Martins.
