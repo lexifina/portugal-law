@@ -1,0 +1,4 @@
+Despacho Normativo n.º 186/83
+Empresas interessadas na mobilização de títulos representativos de direitos de indemnização apresentaram dúvidas suscitadas no âmbito da aplicação da Portaria n.º 397-B/82, de 20 de Abril.
+Assim, nos termos do n.º 8.º da citada portaria, esclarece-se que as instituições de crédito devem aceitar a substituição dos obrigacionistas subscritores dos pedidos mencionados no n.º 4.º, n.º 3, da Portaria n.º 397-B/82, de 20 de Abril, quando tais pedidos, por motivos não imputáveis às empresas interessadas, não tenham sido apreciados no prazo fixado no n.º 5 do mesmo número e tal substituição não inclua a oferta de títulos de classes menos valiosas que as dos originalmente propostos e ainda desde que não exista lesão dos interesses dos subscritores substituídos.
+Ministério das Finanças e do Plano, 16 de Setembro de 1983. - O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes.
