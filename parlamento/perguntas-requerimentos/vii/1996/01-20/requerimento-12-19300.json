@@ -1,0 +1,69 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=htpYpETdXfgHmO4bgl5XKGQk%2bkZ1UWePwKPL0a952OEb3q68QQJu%2fuE3NuR8L9cT16ct5X3RKqJkceDCyhfVGNPxhHXgbN1eGmi%2f%2fdU0g60yGc2cs%2bn1DMAEwQhj%2bKKB5yX47cODyxeVMUfaXI003Z9keT2kp2rW%2f7kxaUXxrVSf%2brEumAdcCbsQWmtnV66GATPJkIrBDauZqW%2fTWFG8va1dk%2bkmTLKSlM5McQDTmE0NcJE1JnQKMHMv4M0dnjHF6CV6z0vn0bWDxqqYFeDaU5FrwkU826iJw3qNEXisf524qng2dAL%2fTUTvJ5%2b5vdrQNfCO0dMi3U4dP2xTk2nscBJCzFAYe7g9Oj019EJl5HstUW53s7KuzZRGevOeN9LIKt96NeIqRpBfgUg0UQzT5g%3d%3d&fich=RequerimentosVII_json.txt&Inline=true",
+  "ficheiro_sha256": "c4242ebf0e6e244b5787c9940684dff06969f806e8cf9a27eebd15d714e35117",
+  "legislatura": "VII",
+  "id": "19300",
+  "tipo": "Requerimento",
+  "numero": "12",
+  "data_registo": "1996-01-20",
+  "data_registo_base": "record date = the day of the DAR issue that published the question/request (Publicacao[].URLDiario; the dataset gives no entry day for it) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "DEGRADACAO DAS INSTALACOES DA ESCOLA BASICA DOS 2° E 3° CICLOS DE FEBO MONIZ, EM ALMEIRIM",
+    "Autores": [
+      {
+        "GP": "PEV",
+        "idCadastro": "834",
+        "nome": "Heloísa Apolónia"
+      }
+    ],
+    "DataEnvio": null,
+    "Destinatarios": [
+      {
+        "dataEnvio": null,
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Câmara Municipal de Almeirim",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": null,
+        "retirado": null
+      }
+    ],
+    "DtEntrada": null,
+    "Ficheiro": "",
+    "Fundamentacao": null,
+    "Id": "19300",
+    "Legislatura": "VII",
+    "Nr": "12",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "33653",
+        "obs": "48-(14)",
+        "pag": [
+          "48-(14)-48-(14)"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "1996",
+        "pubLeg": "VII",
+        "pubNr": "11",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/07/01/011S1/1996-01-20/48-(14)?pgs=48-(14)&org=PLC"
+      }
+    ],
+    "ReqTipo": "AL",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
