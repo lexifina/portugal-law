@@ -1,0 +1,3 @@
+Aviso n.º 55/95
+Por ordem superior se torna público que foram trocados em Maputo, aos 5 de Novembro de 1993, entre o Vice-Ministro dos Negócios Estrangeiros da República de Moçambique e o embaixador de Portugal em Maputo, os instrumentos de ratificação da Convenção entre a República Portuguesa e a República de Moçambique para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre Rendimentos, assinada em 21 de Março de 1991 em Lisboa e aprovada pelo Decreto do Presidente da República n.º 60/92, de 30 de Dezembro, e pela Resolução da Assembleia da República n.º 36/92, de 30 de Dezembro.
+Instituto da Cooperação Portuguesa, 2 de Fevereiro de 1995. - O Presidente, José Luiz Gomes.
