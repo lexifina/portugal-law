@@ -1,0 +1,1 @@
+Ministérios da Agricultura e do Comércio e Turismo, 8 de Abril de 1985. - Pelo Ministro da Agricultura, Joaquim António Rosado Gusmão, Secretário de Estado da Produção Agrícola. - Pelo Ministro do Comércio e Turismo, Agostinho Alberto Bento da Silva Abade, Secretário de Estado do Comércio Interno.
