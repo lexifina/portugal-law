@@ -1,0 +1,6 @@
+Portaria n.º 21228
+Verificando-se a conveniência de dispensar, transitòriamente, do tirocìnio de embarque a que têm de satisfazer para a promoção a marinheiro os primeiros-grumetes que frequentem ou venham a frequentar os cursos de alistamento e os cursos preparatórios para admissão àqueles cursos:
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
+1.º Os primeiros-grumetes nomeados durante os anos de 1965 e 1966 para frequência dos cursos de alistamento e dos cursos preparatórios a que se refere o artigo 118.º do Estatuto dos Sargentos e Praças da Armada, ou que, nesses mesmos anos, frequentem os referidos cursos, são dispensados do tempo de embarque indicado no quadro n.º 2 do referido estatuto e que constitui uma das condições especiais de promoção a marinheiro, independentemente do aproveitamento que obtiverem naqueles cursos.
+2.º Os primeiros-grumetes de quer trata o número anterior que não obtenham aproveitamento realizarão, no posto de marinheiro, o tempo de embarque que não chegaram a efectuar por virtude da sua nomeação para os referidos cursos.
+Ministério da Marinha, 15 de Abril de 1965. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.
