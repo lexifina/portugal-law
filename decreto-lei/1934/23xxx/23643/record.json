@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1934/03/05500/03230323.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1934-03-08",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "99f49e75c9e1444f449f80277194d2c4f04267bf4517b740e09f7716c3c15dcd",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.8,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "cc1b61f0675fb48f4a61c1c4994cf89e85ef37ea9bb91d71790e4cb6d16fb9f9",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 210
 }
