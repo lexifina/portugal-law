@@ -4,4 +4,6 @@
 
 1 - O Estado Português comparticipa nos montantes de investimento elegível em 10% e o Instrumento Financeiro de Orientação das Pescas (IFOP) em 50%, excepto na construção de unidades piloto, em que a comparticipação do Estado Português é de 25% e a do IFOP de 50%.
 
-2 - A comparticipação do Estado Português pode assumir as modalidades constantes do artigo 4.º do Decreto-Lei n.º 189/94, de 5 de Julho, bonificação de juros, ajudas financeiras a fundo perdido ou subsídios reembolsáveis.
+2 - Os investimentos promovidos por entidades públicas são comparticipados pelo Estado Português em 25% das despesas elegíveis e pelo IFOP em 75% das mesmas despesas.
+
+3 - A comparticipação do Estado Português pode assumir as modalidades constantes do artigo 4.º do Decreto-Lei n.º 189/94, de 5 de Julho, bonificação de juros, ajudas financeiras a fundo perdido ou subsídios reembolsáveis.

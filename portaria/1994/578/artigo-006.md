@@ -10,7 +10,7 @@ b) Aquisição de material de escritório, excepto equipamento informático e te
 
 c) Trabalhos preparatórios e provisórios, incluindo a aquisição de materiais e equipamentos efectuada antes da apresentação do projecto;
 
-d) Despesas de funcionamento que excedam 12% do custo do projecto;
+d) Despesas de funcionamento;
 
 e) Veículos destinados ao transporte de passageiros;
 

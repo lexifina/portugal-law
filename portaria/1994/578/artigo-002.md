@@ -2,7 +2,7 @@
 
 ### Condições de acesso
 
-1 - Podem apresentar candidaturas ao apoio ao desenvolvimento da aquicultura as pessoas individuais ou colectivas, legalmente constituídas à data de apresentação da candidatura, que reúnam os seguintes requisitos:
+1 - Podem apresentar candidaturas ao apoio ao desenvolvimento da aquicultura as pessoas individuais ou colectivas, públicas ou privadas, legalmente constituídas à data de apresentação da candidatura, que reúnam, de acordo com a sua natureza, as seguintes condições:
 
 a) Ter obtido à data da candidatura a autorização de instalação do estabelecimento de culturas marinhas onde pretende efectuar o projecto;
 

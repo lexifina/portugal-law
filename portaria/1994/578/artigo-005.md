@@ -14,4 +14,6 @@ d) Aquisição e instalação de equipamentos e máquinas novos e destinados exc
 
 e) Iniciativas de investigação ou de formação directamente relacionadas com o projecto.
 
+f) Encargos gerais e despesas imprevistas de investimento até ao montante máximo de 12% do investimento elegível orçamentado.
+
 2 - São também elegíveis as despesas com estudos de viabilidade técnica e de viabilidade económica da cultura de espécies ainda não exploradas comercialmente em aquicultura ou de técnicas de cultura inovadoras que tenham por base trabalhos de investigação científica concludentes.

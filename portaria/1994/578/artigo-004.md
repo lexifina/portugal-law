@@ -1,8 +1,8 @@
 # Artigo 4.º
 
-### Critérios de selecção
+### Critérios de prioridade
 
-Para efeitos de concessão de apoio aos projectos de desenvolvimento da aquicultura, será dada prioridade às candidaturas que satisfaçam as seguintes condições:
+Para efeitos de concessão de apoio aos projectos de desenvolvimento da aquicultura, será dada prioridade às candidaturas que satisfaçam uma ou mais das seguintes condições:
 
 a) Sejam apresentadas colectivamente por várias empresas ou organizações de produtores;
 

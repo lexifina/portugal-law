@@ -4,7 +4,7 @@
 
 São excluídos os projectos que:
 
-a) Não se enquadrem nas necessidades e objectivos da política de pescas;
+a) Não se enquadrem nos objectivos previstos no artigo 1.º;
 
 b) Se destinem ao aumento de produção ou oferta de espécies em que já exista excesso;
 
