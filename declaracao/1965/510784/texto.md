@@ -1,0 +1,5 @@
+Declaração
+Segundo comunicação da Direcção-Geral dos Negócios Económicos e Consulares, o aviso que torna público ter sido concluído entre o Governo Português e o Governo do Malawi um acordo relativo aos serviços de transportes aéreos, publicado no Diário do Governo n.º 85, 1.ª série, de 19 de Abril do corrente ano, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as inexactidões seguintes, que assim se rectificam:
+No texto português, no subparágrafo 3 (3), onde se lê: «... desde que da empresa não pertencem sòmente ao Governo do Malawi pertençam aos Governos ou nacionais ...», deve ler-se: «... desde que a propriedade substancial e contrôle efectivo da Air Malawi pertençam aos Governos ou nacionais ...».
+No texto inglês, no subparágrafo 3 (3), onde se lê: «... to operate the route in the scheduled included in the Annex ...», deve ler-se: «... to operate the route in the schedule included in the Annex ...».
+Secretaria-Geral da Presidência do Conselho, 4 de Outubro de 1965. - O Secretário-Geral, Diogo de Castelbranco de Paiva de Faria Leite Brandão.
