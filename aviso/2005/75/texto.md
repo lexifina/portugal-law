@@ -1,0 +1,6 @@
+Aviso n.º 75/2005
+Por ordem superior se torna público que, em 5 de Outubro de 2004, a República Árabe da Síria depositou o seu instrumento de ratificação às Emendas à Convenção de Basileia sobre o Controlo de Movimentos Transfronteiriços de Resíduos Perigosos e Sua Eliminação, aprovadas na 3.ª Conferência das Partes, concluídas em Genebra em 22 de Setembro de 1995.
+Portugal é Parte das mesmas Emendas à Convenção, aprovadas, para ratificação, pelas decisões III/1 e IV/9, conforme o Aviso n.º 229/99, publicado no Diário da República, 1.ª série-A, n.º 284, de 7 de Dezembro de 1999, tendo depositado o seu instrumento de ratificação em 30 de Outubro de 2000, conforme o Aviso n.º 179/2003, e tendo entrado em vigor para Portugal em 9 de Novembro de 2001 (Diário da República, 1.ª série-A, n.º 157, de 10 de Julho de 2003).
+A República Árabe da Síria formulou a seguinte reserva:
+«[...] que a adesão da República Árabe da Síria às Emendas e ao Protocolo não implica que a Síria reconhece Israel ou que desenvolverá com ele relações susceptíveis de serem regidas pelas disposições destas Emendas e Protocolo.»
+Direcção-Geral dos Assuntos Multilaterais, 21 de Fevereiro de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
