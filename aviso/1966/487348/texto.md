@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público ter a Embaixada Britânica em Bruxelas, por notificação recebida no Ministério dos Negócios Estrangeiros Belga a 21 de Setembro de 1965, feito saber que a Convenção internacional para unificação de certas regras relativas à competência civil em matéria de abalroamento, assinada em Bruxelas a 10 de Maio de 1952, será aplicável às Honduras Britânicas, ao Protectorado das Ilhas Salomão, colónia das ilhas Gilbert e Ellice, ilhas Turcas e Caicos.
+Direcção-Geral dos Negócios Económicos e Consulares, 13 de Abril de 1966. - O Director-Geral, José Calvet de Magalhães.
