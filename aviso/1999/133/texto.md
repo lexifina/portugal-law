@@ -1,0 +1,5 @@
+Aviso n.º 133/99
+Por ordem superior se torna público que, em 22 de Setembro de 1998 e em 5 de Julho de 1999, foram emitidas notas, respectivamente pela Embaixada da Suíça e pelo Ministério dos Negócios Estrangeiros português, em que se comunica que foram cumpridas as formalidades constitucionais internas relativamente à aprovação do Protocolo de Emenda ao Acordo de 28 de Junho de 1973 entre o Governo da República Portuguesa e o Conselho Federal Suíço Relativo aos Transportes Internacionais de Pessoas e Mercadorias por Estrada.
+Por parte de Portugal, o citado Protocolo de Emenda foi aprovado, para ratificação, pela Resolução da Assembleia da República n.º 49/99, de 16 de Abril, e ratificado pelo Decreto do Presidente da República, n.º 151/99, de 30 de Junho, publicado no Diário da República, 1.ª série, n.º 150, de 30 de Junho de 1999.
+Nos termos do artigo 3.º do Protocolo de Emenda ao Acordo este entrou em vigor em 5 de Julho de 1999.
+Direcção-Geral das Relações Bilaterais, 17 de Agosto de 1999. - O Director-Geral, José Caetano de Campos Andrada da Costa Pereira.
