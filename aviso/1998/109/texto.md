@@ -1,0 +1,4 @@
+Aviso n.º 109/98
+Por ordem superior se torna público que as Filipinas depositaram, em 14 de Janeiro de 1998, o instrumento de aceitação da alteração ao n.º 2 do artigo 43.º da Convenção sobre os Direitos da Criança, aprovada pela Resolução da Assembleia Geral das Nações Unidas n.º 50/155, de 21 de Dezembro de 1995.
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 20/90, publicada no Diário da República, 1.ª série, n.º 211 (suplemento), de 12 de Setembro de 1990, tendo depositado o seu instrumento de ratificação em 21 de Setembro de 1990, conforme aviso publicado no Diário da República, 1.ª série, n.º 248, de 26 de Outubro de 1990.
+Direcção de Serviços das Organizações Políticas Internacionais, 4 de Maio de 1998. - O Director de Serviços, João José Gomes Caetano da Silva.
