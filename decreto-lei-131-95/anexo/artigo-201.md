@@ -12,9 +12,9 @@ c) Nome completo do último cônjuge;
 
 d) Hora, data e lugar do falecimento ou do aparecimento do cadáver;
 
-e) Cemitério onde o falecido vai ser sepultado.
+e) Cemitério onde o falecido vai ser ou foi sepultado.
 
-2 - À margem do assento deve ser lançada cota de referência ao registo de nascimento da pessoa a quem o óbito respeita, bem como ao registo do seu casamento, se ela tiver falecido no estado de casada.
+2 - Na sequência do texto do assento deve ser lançada cota de referência ao registo de nascimento da pessoa a quem o óbito respeita, bem como ao registo do seu casamento, se ela tiver falecido no estado de casada.
 
 3 - É aplicável ao assento de óbito o disposto nos n.os 2, 3 e 4 do artigo 102.º, devendo os elementos aí referidos respeitar ao falecido.
 

@@ -2,7 +2,7 @@
 
 ### Dúvidas sobre o assento
 
-1 - As dúvidas sobre a localização ou identificação do assento a que o facto constante do boletim deve ser averbado são esclarecidas por ofício, competindo às conservatórias emitente e receptora do boletim efectuar as diligências necessárias.
+1 - As dúvidas sobre a localização ou identificação do assento a que o facto deve ser averbado são esclarecidas por ofício, competindo às conservatórias emitente e receptora do respectivo boletim efectuar as diligências necessárias.
 
 2 - Se houver erro na feitura do assento ou omissão deste, deve ser instaurado o competente processo de justificação administrativa ou judicial, a fim de que o averbamento possa ser efectuado.
 

@@ -20,10 +20,12 @@ c) Livro de assentos de casamento;
 
 d) Livro de assentos de óbito;
 
-e) Livro de assentos de morte fetal;
+e) Livro de assentos consulares;
 
 f) Livro de transcrição de assentos.
 
 2 - Os livros referidos no número anterior podem ser desdobrados, sempre que o movimento da conservatória o justifique.
 
-3 - São anuais os livros de assentos de nascimento, de casamento e de óbito.
+3 - O livro previsto na alínea e) do número anterior é desdobrado segundo a espécie dos assentos a que respeite.
+
+4 - São anuais os livros de assentos de nascimento, de casamento, de óbito e consulares.

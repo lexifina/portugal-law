@@ -17,3 +17,7 @@
 3 - O recurso para o juiz da comarca faz precludir o direito ao recurso hierárquico, quando a ele haja lugar, e equivale à desistência deste quando já interposto.
 
 4 - Ao recurso hierárquico aplica-se, com as necessárias adaptações, o disposto nos artigos 287.º a 289.º, devendo a decisão ser proferida, no prazo de 90 dias, pelo director-geral dos Registos e do Notariado.
+
+5 - Sempre que o recurso hierárquico tenha sido julgado improcedente, o interessado pode interpor recurso contencioso do despacho inicial do conservador para o tribunal da comarca, no prazo de 10 dias a contar da notificação da decisão, observando-se o disposto no n.º 1 do artigo 288.º
+
+6 - No caso previsto no número anterior, o processo é instruído com o recurso hierárquico.

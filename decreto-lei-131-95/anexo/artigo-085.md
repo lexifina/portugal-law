@@ -22,4 +22,4 @@ d) Tratando-se de assento de casamento, não contiver a expressa menção de os 
 
 2 - O registo lavrado por averbamento só é considerado inexistente por falta de assinatura do funcionário se a falta não for sanável nos termos do artigo 74.º
 
-3 - A falta de assinatura do procurador, das testemunhas ou do intérprete não é causa de inexistência do registo, se do contexto constar a sua intervenção ou, tratando-se de assento de casamento, se a anulabilidade do acto celebrado, resultante da falta de intervenção das testemunhas, tiver sido sanada.
+3 - A falta de assinatura do procurador, das testemunhas ou do intérprete não é causa de inexistência do registo, se do contexto constar a sua intervenção ou, tratando-se de assento de casamento, se a anulabilidade do acto celebrado, resultante da falta de intervenção das testemunhas, quando obrigatória, tiver sido sanada.
