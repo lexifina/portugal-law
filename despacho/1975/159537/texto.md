@@ -1,0 +1,11 @@
+Despacho
+Requisitos específicos para a fabricação de geradores de vapor
+Nos termos do n.º 2 do artigo 10.º do Decreto-Lei n.º 533/74, de 10 de Outubro, determino:
+1 - Este despacho aplica-se à fabricação de qualquer tipo de geradores de vapor de água, actividade industrial que se inclui no subgrupo 3813.1 da revisão I da Classificação das Actividades Económicas (CAE).
+2 - As sociedades que instalem, reabram ou mudem de local estabelecimentos industriais onde se proceda à fabricação de geradores de vapor, bem como as que modifiquem, por ampliação, o respectivo equipamento produtivo, devem possuir, relativamente a esta actividade, um capital social realizado igual, pelo menos, a 30% do investimento fixo global, mas não inferior a 50000 contos.
+3 - A capacidade de produção anual dos estabelecimentos onde ocorram os actos referidos no número anterior não deve ser inferior a um número de geradores cujas superfícies de aquecimento perfaçam uma área de 3000 m2.
+4 - Estes estabelecimentos devem utilizar uma tecnologia actualizada e estar apetrechados em meios técnicos e humanos que assegurem a execução dos esquemas de contrôle da fabricação aprovados pela entidade competente ou previstos nos códigos de construção nacionais ou equivalentes adoptados, podendo, no entanto, parte daquele apetrechamento ser dispensado se para a realização dos correspondentes ensaios os referidos estabelecimentos dispuserem de contrato firmado com laboratório de competência reconhecida pela mesma entidade.
+5 - A direcção técnica dos estabelecimentos onde se proceda à fabricação de geradores de vapor deve incluir, pelo menos, um técnico habilitado com curso superior adequado.
+6 - As sociedades que instalem novas unidades, as que reabram estabelecimentos existentes, bem como as que ampliem ou transfiram os mesmos, devem garantir o cumprimento dos requisitos técnicos, económicos e financeiros, constantes deste despacho, dentro do prazo fixado para a instalação, prestando, nos termos do artigo 32.º do Decreto-Lei n.º 533/74, de 10 de Outubro, uma caução de 2000 contos.
+7 - Ficam excluídos das disposições deste despacho os estabelecimentos que não produzam geradores de vapor de timbre superior a 2 daN/cm2.
+Secretaria de Estado da Indústria e Energia, 11 de Janeiro de 1975. - O Secretário de Estado da Indústria e Energia, José de Melo Torres Campos.
