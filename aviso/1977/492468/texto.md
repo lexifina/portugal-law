@@ -1,0 +1,4 @@
+Aviso
+1 - Por ordem superior se torna público que em 26 de Novembro de 1976 foi efectuado junto do secretário-geral da Organização Intergovernamental Consultiva de Navegação Marítima o depósito por parte de Portugal do instrumento de ratificação à Convenção Internacional sobre Responsabilidade Civil pelos Prejuízos Devidos à Poluição por Hidrocarbonetos, concluída em Bruxelas em 29 de Novembro de 1969 e aprovada para ratificação pelo Decreto-Lei n.º 694/76, publicado no Diário da República, 1.ª série, n.º 222, de 21 de Setembro de 1976.
+2 - Em conformidade com o seu artigo 15.º, a Convenção Internacional sobre Responsabilidade Civil pelos Prejuízos Devidos à Poluição por Hidrocarbonetos entrará em vigor, para Portugal, em 24 de Fevereiro de 1977.
+Direcção-Geral dos Negócios Económicos, 28 de Dezembro de 1976. - O Adjunto do Director-Geral, Alexandre Eduardo Lencastre da Veiga.
