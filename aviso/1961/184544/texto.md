@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se faz público que o Governo da República do Congo depositou, em 20 de Setembro de 1961, junto do Ministério dos Negócios Estrangeiros do Canadá, o seu instrumento de ratificação dos Actos do Congresso da União Postal Universal de 1957.
+No aludido instrumento o Governo da República do Congo manifesta o seu desejo expresso de beneficiar de todas as reservas contidas nos artigos X, XIV e XVI do Protocolo Final do Acordo ratificado, relativo à quota-parte territorial excepcional; o suplemento sobre seguro das encomendas com valores declarados; e a excepção de pagamentos de indemnizações por avarias de encomendas originárias de todos os países e contendo matérias líquidas e corpos liquificáveis, objectos de vidro e artigos da mesma frágil natureza.
+Direcção-Geral dos Negócios Económicos e Consulares, 19 de Dezembro de 1961. - O Director-Geral, Albano Pires Fernandes Nogueira.
