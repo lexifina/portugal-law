@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que, segundo comunicação do consultor jurídico da Organização das Nações Unidas, o Governo da Noruega, e com referência ao § 1 do artigo IV do Acordo relativo à aplicação provisória do projecto das convenções aduaneiras internacionais sobre o turismo, os veículos terrestres e o transporte terrestre internacional de mercadorias, assinado em Genebra em 16 de Junho de 1949, denunciou aquele Acordo no que respeita à Convenção aduaneira internacional sobre o transporte terrestre internacional de mercadorias, em 2 de Março de 1960.
+Direcção-Geral dos Negócios Económicos e Consulares, 13 de Julho de 1960. - O Director-Geral Adjunto, Albano Nogueira.
