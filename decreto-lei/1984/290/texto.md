@@ -1,0 +1,32 @@
+Decreto-Lei n.º 290/84
+de 27 de Agosto
+As disposições do Código do Registo Predial que contêm o regime aplicável à obrigatoriedade de registo aplicam-se hoje subsidiariamente ao registo comercial, onde existe também o registo obrigatório da constituição de sociedades e subsequentes alterações de pacto.
+Foi totalmente alterado esse Código e suprimido o regime da obrigatoriedade, com as consequências de ordem processual a que estava sujeito, pelo que se torna imperioso fazer no Decreto-Lei n.º 42644, de 14 de Novembro de 1959, as adaptações daí decorrentes.
+Usando da autorização legislativa conferida pelo artigo 1.º da Lei n.º 25/84, de 13 de Julho, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º Os artigos 13.º, 14.º, 15.º, 16.º e 17.º do Decreto-Lei n.º 42644, de 14 de Novembro de 1959, passam a ter a seguinte redacção:
+Artigo 13.º
+(Factos sujeitos a registo obrigatório)
+1 - O registo da constituição de sociedades, bem como das subsequentes alterações do pacto social, será obrigatoriamente requerido no prazo de 3 meses, a contar da data da correspondente escritura.
+2 - As sociedades que não requeiram, dentro do prazo legal, a inscrição de factos sujeitos a registo obrigatório incorrem na multa de 600$00 a 30000$00.
+3 - Havendo procedimento criminal, o quantitativo da multa será fixado pelo juiz em atenção ao capital social da sociedade infractora.
+Artigo 14.º
+(Remessa das relações dos actos notariais)
+Até ao dia 15 de cada mês, devem os notários remeter às conservatórias competentes a relação dos documentos referentes às sociedades lavrados no mês anterior, para prova dos factos sujeitos a registo obrigatório.
+Artigo 15.º
+(Auto de transgressão)
+1 - O conservador que verificar, pelas relações previstas no artigo anterior ou por qualquer outro meio, que o registo não foi requerido no prazo legal em termos de ser lavrado como definitivo, levantará auto de transgressão e notificará o responsável de que pode pagar a multa devida, pelo mínimo, no prazo de 30 dias, se ao mesmo tempo se apresentar a requerer o registo com a documentação necessária.
+2 - A notificação é pessoal ou feita por carta registada com aviso de recepção; se a carta for devolvida, a notificação considera-se efectuada no dia seguinte ao do respectivo registo, desde que a remessa tenha sido feita para a residência indicada nas relações a que se refere o artigo antecedente.
+Artigo 16.º
+(Procedimento criminal)
+1 - Não sendo paga a multa e requerido o registo no prazo e nos termos fixados no n.º 1 do artigo anterior, o conservador enviará o auto de transgressão ao ministério público, para fins de instauração do procedimento criminal.
+2 - Na sentença o juiz fixará o prazo dentro do qual o transgressor deve juntar ao processo documento comprovativo de o registo estar efectuado, sob pena de incorrer nas sanções aplicáveis ao crime de desobediência qualificada.
+Artigo 17.º
+(Cessação do procedimento criminal)
+O procedimento criminal só cessa com o pagamento voluntário da multa pelo mínimo e do respectivo imposto de justiça, provando o transgressor que o registo foi efectuado definitivamente.
+Art. 2.º O presente diploma entra em vigor no dia 1 de Outubro de 1984.
+Visto e aprovado em Conselho de Ministros de 2 de Agosto de 1984. - Carlos Alberto da Mota Pinto - Rui Manuel Parente Chancerelle de Machete.
+Promulgado em 8 de Agosto de 1984.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 10 de Agosto de 1984.
+O Primeiro-Ministro, Mário Soares.
