@@ -1,0 +1,11 @@
+Despacho
+Requisitos específicos para a indústria de preparação de pesticidas
+Nos termos do n.º 2 do artigo 10.º do Decreto-Lei n.º 533/74, de 10 de Outubro, determino:
+1 - Este despacho aplica-se à indústria de preparação de pesticidas, ou seja à fabricação, através de formulação adequada, de produtos prontos para aplicação e de concentrados, destinados a combater toda a sorte de pragas, como insectos, ácaros, roedores, nemátodos, fungos, bactérias, etc., e bem assim a controlar o desenvolvimento das plantas infestantes e outros fenómenos da fisiologia vegetal, como o abrolhamento. Esta actividade industrial inclui-se no subgrupo 3512.2 da revisão I da Classificação das Actividades Económicas (CAE).
+2 - As sociedades que instalem, reabram ou mudem de local estabelecimentos industriais produtores de pesticidas, bem como as que modifiquem, por ampliação, o respectivo equipamento produtivo, devem possuir, relativamente a esta actividade, um capital social realizado igual, pelo menos, a 30% do investimento fixo global, mas não inferior a 6000 contos.
+3 - A capacidade de produção anual dos estabelecimentos referidos no número anterior não deve ser inferior a 300 t.
+4 - No caso de estabelecimentos industriais em que seja exercida outra actividade, o fabrico de pesticidas deve ser completamente independente das restantes instalações fabris.
+5 - Os estabelecimentos industriais produtores de pesticidas devem possuir um laboratório, devidamente apetrechado em meios técnicos e humanos, capaz de controlar as matérias-primas utilizadas, as diversas fases de fabrico e de verificar a conformidade dos produtos acabados com as Especificações e Normas Portuguesas ou outras que as substituam.
+6 - A direcção técnica destes estabelecimentos deve incluir, pelo menos, um técnico habilitado com curso superior adequado.
+7 - As sociedades que instalem novas unidades, as que reabram estabelecimentos existentes, bem como as que ampliem ou transfiram os mesmos, devem garantir o cumprimento dos requisitos técnicos, económicos e financeiros, constantes deste despacho, dentro do prazo fixado para a instalação, prestando, nos termos do artigo 32.º do Decreto-Lei n.º 533/74, de 10 de Outubro, uma caução de 300 contos.
+Secretaria de Estado da Indústria e Energia, 11 de Janeiro de 1975. - O Secretário de Estado da Indústria e Energia, José de Melo Torres Campos.
