@@ -10,4 +10,4 @@
 
 2 - As ajudas referidas no número anterior destinam-se a contribuir para os custos com a actividade de técnicos contratados a tempo inteiro.
 
-3 - Para efeitos de concessão das ajudas, as agências são previamente reconhecidas em termos a definir por despacho do Ministro da Agricultura.
+3 - Para efeitos de concessão das ajudas, as agências são previamente reconhecidas em termos a definir por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.

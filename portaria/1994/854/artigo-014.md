@@ -8,7 +8,7 @@
 
 A gestão a nível global incumbe a uma unidade de gestão nacional com a seguinte composição:
 
-a) Um representante do Instituto de Estruturas Agrárias e Desenvolvimento Rural, que preside;
+a) Um representante da Direcção-Geral de Desenvolvimento Rural, que preside;
 
 b) Um representante do Instituto de Financiamento e Apoio ao Desenvolvimento de Agricultura e Pescas (IFADAP);
 

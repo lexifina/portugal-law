@@ -24,4 +24,4 @@ i) Acompanhar a execução financeira regional da aplicação das ajudas;
 
 j) Praticar os demais actos necessários à regular e plena execução das ajudas.
 
-2 - Para efeitos das alíneas b) e h) do número anterior, devem os serviços regionais efectuar visitas às explorações dos beneficiários e dos novos titulares.
+2 - Para efeitos das alíneas b), g) e h) do número anterior, os serviços regionais devem efectuar visitas às explorações dos beneficiários e dos novos titulares.

@@ -2,4 +2,4 @@
 
 ### Constituição das unidades de gestão
 
-Os membros das unidades de gestão são designados por despacho conjunto dos Ministros da Agricultura e do Emprego e Segurança Social.
+Os membros das unidades de gestão são designados por despacho conjunto dos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Trabalho e da Solidariedade.

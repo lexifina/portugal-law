@@ -16,6 +16,6 @@ c) Tenham consagrado à agricultura nos últimos cinco anos pelo menos metade do
 
 d) Tenham trabalhado na exploração do empresário referido na secção anterior durante um período equivalente a dois anos a tempo inteiro, durante os últimos quatro anos;
 
-e) Estejam inscritos na segurança social como trabalhadores por conta de outrem e tenham contribuído durante um período de pelo menos 60 meses que lhes permita completar, ao atingir a idade normal de reforma, o prazo mínimo de garantia;
+e) Estejam inscritos na segurança social como trabalhadores por conta de outrem e tenham contribuído durante um período de, pelo menos, 60 meses, que lhes permita completar, ao atingir a idade normal de reforma, o prazo de garantia;
 
 f) Assumam os compromissos referidos no artigo 4.º
