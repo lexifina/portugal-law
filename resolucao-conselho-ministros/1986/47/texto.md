@@ -1,0 +1,5 @@
+Resolução do Conselho de Ministros n.º 47/86
+Considerando que o Decreto-Lei n.º 268/81, de 16 de Setembro, prevê a assistência religiosa católica nos estabelecimentos prisionais, a qual deverá ser assegurada por sacerdotes designados «assistentes religiosos»;
+Verificando-se a necessidade de prover três dos referidos lugares em três daqueles estabelecimentos prisionais e tendo em conta que o recrutamento dentro da Administração Pública é insuficiente, não sendo possível o recurso a instrumentos de mobilidade:
+Nestes termos, ao abrigo do n.º 7 do artigo 12.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, o Conselho de Ministros, reunido em 5 de Junho de 1986, resolveu autorizar o descongelamento de admissão de pessoal para três lugares de assistente religioso do quadro de pessoal da Direcção-Geral dos Serviços Prisionais, que, nos termos do artigo 6.º do Decreto-Lei n.º 268/81, de 16 de Setembro, deverão prestar assistência católica a reclusos.
+Presidência do Conselho de Ministros. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
