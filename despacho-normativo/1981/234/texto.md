@@ -1,0 +1,8 @@
+Despacho Normativo n.º 234/81
+Tendo em conta os trabalhos desenvolvidos pelo grupo de trabalho criado pelo Despacho n.º 8/81 do Ministro das Finanças e do Plano, de acordo com o artigo 13.º do Decreto-Lei n.º 260/76, de 8 de Abril, com a nova redacção introduzida pelo Decreto-Lei n.º 25/79, de 19 de Fevereiro, os Ministros das Finanças e do Plano e do Comércio e Turismo determinam:
+1 - São aprovados os instrumentos previsionais de gestão para 1981 apresentados pela Enatur - Empresa Nacional de Turismo com as alterações decorrentes dos números seguintes do presente despacho normativo.
+2 - Consideram-se incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1981 os projectos da Empresa a seguir discriminados:
+(ver documento original)
+3 - No presente ano, para além das operações financeiras necessárias à actividade corrente, fica vedado à Empresa e às instituições de crédito lançar e financiar qualquer novo projecto de investimento não contemplado no n.º 2.
+4 - Para além do recurso ao autofinanciamento fica a Empresa autorizada, ao abrigo dos n.os 2, alínea e), e 3 do artigo 13.º do Decreto-Lei n.º 260/76, de 8 de Abril, com a nova redacção que lhe foi dada pelo Decreto-Lei n.º 25/79, de 19 de Fevereiro, a recorrer ao mercado interno para a obtenção do capital alheio a médio ou longo prazo necessário à concretização dos projectos incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1981.
+Ministérios das Finanças e do Plano e do Comércio e Turismo, 20 de Agosto de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro do Comércio e Turismo, Alexandre de Azeredo Vaz Pinto.
