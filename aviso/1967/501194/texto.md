@@ -1,0 +1,3 @@
+Avisos
+Por ordem superior se faz público que o Governo de Singapura notificou o secretário-geral da Organização das Nações Unidas, em 22 de Novembro de 1966, de que se considera vinculado pela Convenção relativa às facilidades aduaneiras a favor do turismo e pelo Protocolo adicional à mesma Convenção relativo à importação de material de publicidade turística, concluídos em Nova Iorque em 4 de Junho de 1954, cuja aplicação havia sido tornada extensiva ao seu território antes da independência.
+Direcção-Geral dos Negócios Económicos, 24 de Janeiro de 1967. - O Director-Geral, José Calvet de Magalhães.
