@@ -1,0 +1,689 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gIjTIOBD8fzbBQNrdCzuBBmwczclk6SD5HYRiA%2fDz6LvtzEOZz0p16VuinZ4c9xnv1XSgJHpVu8L3TmsAZNDGnOMwZOl11DIWbTTxvH9TZlpguA1Dr0xHxKf%2bQeAZgBPJ2JGSuYu7x65iAUduW5D4zeNirkg7R2OQEqLYjPjV69GXh3r3XIihzhHxDGQdi7oVusUbcfcYXzy5bAfGFP4LX4pUxhc8G05JIdx13wuiGlQzDNPxWXGvFL9wH8tviClTchA%2bgzQmfiBzvQfSs%2fvcRcPk4nUvD76VhB1rTiLyNK7L6yAVcl1PlcZsq2sEsFqGpdxuyeZkEQ%2bcGfcnacT%2fg%3d%3d&fich=PeticoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "c26dac93ad93dfa2ae59e6cc67f4607f06aab6fd9463b02c8517cb31fb62b02c",
+  "legislatura": "IX",
+  "id": "11217",
+  "numero": "25",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2002-10-24",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2003-12-03",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2003-01-14",
+        "DataArquivo": "2003-12-03",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2003-12-19",
+        "DataReaberta": "2003-01-14",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2002-10-24",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a793944543030764e3056445179394562324e31625756756447397a5547563061574e6862793969596d566a4e57466b4f4330334e6a677a4c54526a5a4449744f5752684e7930344d5749774d6d4d334f574978595755756347526d&fich=bbec5ad8-7683-4cd2-9da7-81b02c79b1ae.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "108",
+        "Legislatura": "IX",
+        "Nome": "COMISSÃO DE EDUCAÇÃO, CIÊNCIA E CULTURA",
+        "NotasAdmissibilidade": null,
+        "Numero": "7",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2003-01-14",
+            "gp": "BE",
+            "id": "1773",
+            "motivoCessacao": null,
+            "nome": "João Teixeira Lopes"
+          }
+        ],
+        "RelatorioFinal": [
+          "21605"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2004-01-16",
+    "Documentos": [
+      {
+        "DataDocumento": "2002-10-24",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a7939555a58683062305a70626d46735547563061574e765a584d764d446c6b4e7a63334d6a59744e7a677a596930304e5749784c5467345a5755744d324979596a55325a5442684d7a457a4c6e426b5a673d3d&fich=09d77726-783b-45b1-88ee-3b2b56e0a313.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2004-01-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148097",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2266-2267"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-17",
+                "pubLeg": "IX",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/040/2004-01-17/2266?pgs=2266-2267&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 21/VIII/1.ª - Apresentada pela Associação Sindical do Pessoal Administrativo da Saúde, na qual solicitam que a Assembleia da República legisle no sentido de ser aprovado o novo projecto de remodelação das carreiras dos funcionários administrativos da saúde; Petição nº 25/IX/1ª - Apresentada por Maria Fernanda de Jesus Santos Duarte, solicitando à Assembleia da República a alteração do artigo 1º da Lei nº 5/2001, de 2 de Maio, que \"Considera o tempo de serviço prestado na categoria de auxiliar de educação pelos educadores de infância para efeitos de carreira docente\"; Petição nº 1/IX/1ª - Apresentada por Hermínio Ribeiro de Almeida e outros, requerendo à Assembleia da República a instalação de um centro de saúde de raiz com todas as valências na freguesia de Canidelo",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-01-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148098",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2267-2267"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-17",
+                "pubLeg": "IX",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/040/2004-01-17/2267?pgs=2267&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 21/VIII/1.ª - Apresentada pela Associação Sindical do Pessoal Administrativo da Saúde, na qual solicitam que a Assembleia da República legisle no sentido de ser aprovado o novo projecto de remodelação das carreiras dos funcionários administrativos da saúde; Petição nº 25/IX/1ª - Apresentada por Maria Fernanda de Jesus Santos Duarte, solicitando à Assembleia da República a alteração do artigo 1º da Lei nº 5/2001, de 2 de Maio, que \"Considera o tempo de serviço prestado na categoria de auxiliar de educação pelos educadores de infância para efeitos de carreira docente\"; Petição nº 1/IX/1ª - Apresentada por Hermínio Ribeiro de Almeida e outros, requerendo à Assembleia da República a instalação de um centro de saúde de raiz com todas as valências na freguesia de Canidelo",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-01-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148099",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2268-2268"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-17",
+                "pubLeg": "IX",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/040/2004-01-17/2268?pgs=2268&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 21/VIII/1.ª - Apresentada pela Associação Sindical do Pessoal Administrativo da Saúde, na qual solicitam que a Assembleia da República legisle no sentido de ser aprovado o novo projecto de remodelação das carreiras dos funcionários administrativos da saúde; Petição nº 25/IX/1ª - Apresentada por Maria Fernanda de Jesus Santos Duarte, solicitando à Assembleia da República a alteração do artigo 1º da Lei nº 5/2001, de 2 de Maio, que \"Considera o tempo de serviço prestado na categoria de auxiliar de educação pelos educadores de infância para efeitos de carreira docente\"; Petição nº 1/IX/1ª - Apresentada por Hermínio Ribeiro de Almeida e outros, requerendo à Assembleia da República a instalação de um centro de saúde de raiz com todas as valências na freguesia de Canidelo",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-01-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148100",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2268-2269",
+                  "2274-2275"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-17",
+                "pubLeg": "IX",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/040/2004-01-17/2268?pgs=2268-2269,2274-2275&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 21/VIII/1.ª - Apresentada pela Associação Sindical do Pessoal Administrativo da Saúde, na qual solicitam que a Assembleia da República legisle no sentido de ser aprovado o novo projecto de remodelação das carreiras dos funcionários administrativos da saúde; Petição nº 25/IX/1ª - Apresentada por Maria Fernanda de Jesus Santos Duarte, solicitando à Assembleia da República a alteração do artigo 1º da Lei nº 5/2001, de 2 de Maio, que \"Considera o tempo de serviço prestado na categoria de auxiliar de educação pelos educadores de infância para efeitos de carreira docente\"; Petição nº 1/IX/1ª - Apresentada por Hermínio Ribeiro de Almeida e outros, requerendo à Assembleia da República a instalação de um centro de saúde de raiz com todas as valências na freguesia de Canidelo",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-01-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148101",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2269-2270"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-17",
+                "pubLeg": "IX",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/040/2004-01-17/2269?pgs=2269-2270&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 21/VIII/1.ª - Apresentada pela Associação Sindical do Pessoal Administrativo da Saúde, na qual solicitam que a Assembleia da República legisle no sentido de ser aprovado o novo projecto de remodelação das carreiras dos funcionários administrativos da saúde; Petição nº 25/IX/1ª - Apresentada por Maria Fernanda de Jesus Santos Duarte, solicitando à Assembleia da República a alteração do artigo 1º da Lei nº 5/2001, de 2 de Maio, que \"Considera o tempo de serviço prestado na categoria de auxiliar de educação pelos educadores de infância para efeitos de carreira docente\"; Petição nº 1/IX/1ª - Apresentada por Hermínio Ribeiro de Almeida e outros, requerendo à Assembleia da República a instalação de um centro de saúde de raiz com todas as valências na freguesia de Canidelo",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-01-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148102",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2270-2271"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-17",
+                "pubLeg": "IX",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/040/2004-01-17/2270?pgs=2270-2271&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 21/VIII/1.ª - Apresentada pela Associação Sindical do Pessoal Administrativo da Saúde, na qual solicitam que a Assembleia da República legisle no sentido de ser aprovado o novo projecto de remodelação das carreiras dos funcionários administrativos da saúde; Petição nº 25/IX/1ª - Apresentada por Maria Fernanda de Jesus Santos Duarte, solicitando à Assembleia da República a alteração do artigo 1º da Lei nº 5/2001, de 2 de Maio, que \"Considera o tempo de serviço prestado na categoria de auxiliar de educação pelos educadores de infância para efeitos de carreira docente\"; Petição nº 1/IX/1ª - Apresentada por Hermínio Ribeiro de Almeida e outros, requerendo à Assembleia da República a instalação de um centro de saúde de raiz com todas as valências na freguesia de Canidelo",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-01-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148103",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2271-2271"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-17",
+                "pubLeg": "IX",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/040/2004-01-17/2271?pgs=2271&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 21/VIII/1.ª - Apresentada pela Associação Sindical do Pessoal Administrativo da Saúde, na qual solicitam que a Assembleia da República legisle no sentido de ser aprovado o novo projecto de remodelação das carreiras dos funcionários administrativos da saúde; Petição nº 25/IX/1ª - Apresentada por Maria Fernanda de Jesus Santos Duarte, solicitando à Assembleia da República a alteração do artigo 1º da Lei nº 5/2001, de 2 de Maio, que \"Considera o tempo de serviço prestado na categoria de auxiliar de educação pelos educadores de infância para efeitos de carreira docente\"; Petição nº 1/IX/1ª - Apresentada por Hermínio Ribeiro de Almeida e outros, requerendo à Assembleia da República a instalação de um centro de saúde de raiz com todas as valências na freguesia de Canidelo",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-01-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148104",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2271-2272"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-17",
+                "pubLeg": "IX",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/040/2004-01-17/2271?pgs=2271-2272&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 21/VIII/1.ª - Apresentada pela Associação Sindical do Pessoal Administrativo da Saúde, na qual solicitam que a Assembleia da República legisle no sentido de ser aprovado o novo projecto de remodelação das carreiras dos funcionários administrativos da saúde; Petição nº 25/IX/1ª - Apresentada por Maria Fernanda de Jesus Santos Duarte, solicitando à Assembleia da República a alteração do artigo 1º da Lei nº 5/2001, de 2 de Maio, que \"Considera o tempo de serviço prestado na categoria de auxiliar de educação pelos educadores de infância para efeitos de carreira docente\"; Petição nº 1/IX/1ª - Apresentada por Hermínio Ribeiro de Almeida e outros, requerendo à Assembleia da República a instalação de um centro de saúde de raiz com todas as valências na freguesia de Canidelo",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-01-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148105",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2272-2273"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-17",
+                "pubLeg": "IX",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/040/2004-01-17/2272?pgs=2272-2273&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 21/VIII/1.ª - Apresentada pela Associação Sindical do Pessoal Administrativo da Saúde, na qual solicitam que a Assembleia da República legisle no sentido de ser aprovado o novo projecto de remodelação das carreiras dos funcionários administrativos da saúde; Petição nº 25/IX/1ª - Apresentada por Maria Fernanda de Jesus Santos Duarte, solicitando à Assembleia da República a alteração do artigo 1º da Lei nº 5/2001, de 2 de Maio, que \"Considera o tempo de serviço prestado na categoria de auxiliar de educação pelos educadores de infância para efeitos de carreira docente\"; Petição nº 1/IX/1ª - Apresentada por Hermínio Ribeiro de Almeida e outros, requerendo à Assembleia da República a instalação de um centro de saúde de raiz com todas as valências na freguesia de Canidelo",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-01-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148106",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2273-2274"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-17",
+                "pubLeg": "IX",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/040/2004-01-17/2273?pgs=2273-2274&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 21/VIII/1.ª - Apresentada pela Associação Sindical do Pessoal Administrativo da Saúde, na qual solicitam que a Assembleia da República legisle no sentido de ser aprovado o novo projecto de remodelação das carreiras dos funcionários administrativos da saúde; Petição nº 25/IX/1ª - Apresentada por Maria Fernanda de Jesus Santos Duarte, solicitando à Assembleia da República a alteração do artigo 1º da Lei nº 5/2001, de 2 de Maio, que \"Considera o tempo de serviço prestado na categoria de auxiliar de educação pelos educadores de infância para efeitos de carreira docente\"; Petição nº 1/IX/1ª - Apresentada por Hermínio Ribeiro de Almeida e outros, requerendo à Assembleia da República a instalação de um centro de saúde de raiz com todas as valências na freguesia de Canidelo",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-01-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148107",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2274-2274"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-17",
+                "pubLeg": "IX",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/040/2004-01-17/2274?pgs=2274&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 21/VIII/1.ª - Apresentada pela Associação Sindical do Pessoal Administrativo da Saúde, na qual solicitam que a Assembleia da República legisle no sentido de ser aprovado o novo projecto de remodelação das carreiras dos funcionários administrativos da saúde; Petição nº 25/IX/1ª - Apresentada por Maria Fernanda de Jesus Santos Duarte, solicitando à Assembleia da República a alteração do artigo 1º da Lei nº 5/2001, de 2 de Maio, que \"Considera o tempo de serviço prestado na categoria de auxiliar de educação pelos educadores de infância para efeitos de carreira docente\"; Petição nº 1/IX/1ª - Apresentada por Hermínio Ribeiro de Almeida e outros, requerendo à Assembleia da República a instalação de um centro de saúde de raiz com todas as valências na freguesia de Canidelo",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-01-17",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148108",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2275-2275"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-01-17",
+                "pubLeg": "IX",
+                "pubNr": "40",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/040/2004-01-17/2275?pgs=2275&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 21/VIII/1.ª - Apresentada pela Associação Sindical do Pessoal Administrativo da Saúde, na qual solicitam que a Assembleia da República legisle no sentido de ser aprovado o novo projecto de remodelação das carreiras dos funcionários administrativos da saúde; Petição nº 25/IX/1ª - Apresentada por Maria Fernanda de Jesus Santos Duarte, solicitando à Assembleia da República a alteração do artigo 1º da Lei nº 5/2001, de 2 de Maio, que \"Considera o tempo de serviço prestado na categoria de auxiliar de educação pelos educadores de infância para efeitos de carreira docente\"; Petição nº 1/IX/1ª - Apresentada por Hermínio Ribeiro de Almeida e outros, requerendo à Assembleia da República a instalação de um centro de saúde de raiz com todas as valências na freguesia de Canidelo",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11217",
+    "PetAssunto": "Solicita a alteração do artigo 1º da Lei 5/2001, de 2 de Maio, que considera o tempo de serviço prestado na categoria de auxiliar de educação pelos educadores de infância habilitados com cursos de formação a educadores de infância para efeitos da carreira docente.",
+    "PetDataEntrada": "2002-10-24",
+    "PeticoesAssociadas": null,
+    "PetId": "11217",
+    "PetLeg": "IX",
+    "PetNr": "25",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "759",
+        "obs": null,
+        "pag": [
+          "2266-2275"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-01-17",
+        "pubLeg": "IX",
+        "pubNr": "40",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/040/2004-01-17/2266?pgs=2266-2275&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": null
+  }
+}
