@@ -1,0 +1,3 @@
+Portaria n.º 431/70
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, abrir um crédito especial da importância de 45000$00, destinado a reforçar a verba do capítulo único, artigo 11.º, n.º 2) «Diversos encargos - Outros encargos - Prémios para os concorrentes ao concurso de literatura ultramarina», da tabela de despesa do orçamento privativo da Agência-Geral do Ultramar para o ano de 1970, tomando como contrapartida o saldo de anos económicos findos.
+Ministério do Ultramar, 28 de Agosto de 1970. - Pelo Ministro do Ultramar, Leão Maria Tavares Rosado do Sacramento Monteiro, Subsecretário de Estado da Administração Ultramarina.
