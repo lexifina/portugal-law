@@ -1,0 +1,78 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=rKtwshDyv1NBeu65K82ef9j6oFE3w%2fgAbqyUhooMpoSyQQ0pTyzibfD50gH%2baGhs1TrcG1r0l2bU1A0KAmFXPBoWqi6NY9nsxTw%2fxAs2r347ke8O86pD8UW0Vo24i8zPmfcPKM5y3XEB99eQAf1Ojm%2bemILgruHhJl9u7yVaplGsWPI0o%2bZUTUUBCanSa5007dUY7uakZ2EgL138SciEtNOWsIyqy66pG5Eu5crXojP8szj276fRrDhZdP6MEXFhdUelamzN3e1Rpwl8sPVmxdyANoDqpCtvpC0PXNmoyGF02wzb13ACPnwjTtn%2bPiN%2b1oG5E%2bkfl50yDwrf9Q4ck3XnT7zfIqh68Ee0O7Ap66U%3d&fich=IntervencoesVI_json.txt&Inline=true",
+  "ficheiro_sha256": "09dcb463dee20c5105fb36bc1a4e2274ee28613bb7bd19e9b953a0ed8eb5faf8",
+  "legislatura": "VI",
+  "id": "134628",
+  "tipo": "Leitura",
+  "orador": "Barbosa de Melo (PSD)",
+  "data_registo": "1993-09-23",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "3819",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "3819",
+        "tipo": "DEB",
+        "titulo": "Outros Debates - "
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1993-09-23",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "19",
+      "nome": "Barbosa de Melo"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "134628",
+    "IdDebate": "1013",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VI",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "134628",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "3284-3285"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1993-09-24",
+        "pubLeg": "VI",
+        "pubNr": "101",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/101/1993-09-24/3284?pgs=3284-3285&org=PLC"
+      }
+    ],
+    "Qualidade": "Pres. Mesa",
+    "Resumo": "LE A CARTA DO SENHOR PRESIDENTE DA REPUBLICA, SOLICITANDO O ASSENTIMENTO DA ASSEMBLEIA DA REPUBLICA A VIAGEM DE CARACTER OFICIAL QUE PRETENDE REALIZAR A REPUBLICA DA COREIA EM VISITA DE ESTADO, A CONVITE DO PRESIDENTE KIM YOUNG SAM, ENTYRE OS PROXIMOS DIAS 14 E 18 DE OUTUBRO, AO JAPAO, EM VISITA DE ESTADO, A CONVITE DE SUA MAJESTADE O IMPERADOR AKIHITO, ENTRE OS PROXIMOS DIAS 18 E 27 DE OUTUBRO, POR OCASIAO DAS COMEMORACOES DO 450° ANIVERSARIO DA CHEGADA DE PORTUGUESES AO JAPAO, A HONG KONG NO DIA 28 DE OUTUBRO E A MACAU EM VISITA OFICIAL DO TERRITORIO, ENTRE OS DIAS 29 DE OUTUBRO E 1 DE NOVEMBRO.",
+    "Sessao": "2",
+    "Sumario": "VIAGEM OFICIAL DO PR A COREIA, JAPAO, HONG KONG E MACAU",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Leitura"
+  }
+}
