@@ -1,0 +1,8 @@
+Despacho Normativo n.º 23/2002
+Através do Despacho Normativo n.º 6/2002, de 16 de Janeiro, foram definidas as regras relativas a competência, metodologia, procedimentos e calendário de candidaturas no âmbito do Sistema Integrado de Gestão e Controlo (SIGC) de ajudas comunitárias para a campanha de 2002-2003.
+Considerando que o prazo, que se encontra fixado no referido despacho normativo, para a apresentação do pedido de ajudas «Superfícies» (modelo A) pode não ser suficiente para a regularização dos problemas que nesta campanha se verificaram ao nível da gestão de alguns baldios, nomeadamente no que respeita à atempada distribuição pelo gestor do baldio da respectiva área aos diferentes utilizadores, justifica-se a prorrogação daquele prazo por uma semana.
+Considerando que as mesmas circunstâncias podem também condicionar a apresentação do pedido de ajudas «Animais» (modelo N) e que, portanto, se justifica a aplicação de igual prorrogação a este modelo:
+Nestes termos, determino o seguinte:
+1 - O prazo previsto nas alíneas a) e b) do n.º 1 da parte II do Despacho Normativo n.º 6/2002, de 16 de Janeiro, é prorrogado até 12 de Abril de 2002.
+2 - As candidaturas respeitantes aos modelos abrangidos pelo número anterior deverão continuar a ser entregues no INGA, pelas entidades credenciadas, dentro dos prazos que se encontram previstos respectivamente nas alíneas a) e b) do n.º 1 da parte V do citado despacho normativo e, o mais tardar, até ao dia 17 de Maio de 2002.
+Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, 21 de Março de 2002. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.
