@@ -1,0 +1,3 @@
+Aviso n.º 144/91
+Por ordem superior se faz público terem os Países Baixos depositado junto do Secretário-Geral da Organização de Cooperação e de Desenvolvimento Económicos (OCDE), em 1 de Agosto de 1991, o instrumento de ratificação do Protocolo de 16 de Novembro de 1982, que modifica a Convenção sobre a Responsabilidade Civil no Domínio da Energia Nuclear, assinada em Paris em 29 de Julho de 1960 e emendada pelo Protocolo adicional de 28 de Janeiro de 1964.
+Direcção-Geral dos Negócios Político-Económicos, 9 de Setembro de 1991. - O Director de Serviços dos Assuntos Multilaterais, António Nunes de Carvalho Santana Carlos.
