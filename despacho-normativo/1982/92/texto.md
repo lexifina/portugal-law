@@ -1,0 +1,12 @@
+Despacho Normativo n.º 92/82
+Considerando que surgiram algumas dúvidas quanto à interpretação e sequente aplicação prática de algumas das disposições contidas no articulado do Decreto-Lei n.º 307/81, de 13 de Novembro, havendo, por conseguinte, necessidade de as esclarecer definitivamente, e atentos os princípios de economia legislativa que ao caso aproveitam, no uso da faculdade que me é conferida pelo artigo 11.º do mesmo diploma legal, torno público o entendimento que deverá ser dado a tais disposições.
+Assim:
+1 - O n.º 2 do artigo 9.º deverá entender-se como uma disposição supletiva ao n.º 1 do mesmo artigo.
+Com efeito, com a inclusão deste número visou-se fixar o regime de financiamento das despesas do Gabinete da Ponte Ferroviária sobre o Rio Douro enquanto não estiverem inscritas no OGE as verbas a tanto destinadas, quer no que concerne ao ano económico da publicação do diploma (1981), quer nos subsequentes.
+Aliás, a não ser esta a intenção do legislador, a expressão «... e enquanto não forem inscritas ...» seria perfeitamente despicienda.
+Portanto, compete ao FETT suportar as despesas do Gabinete da Ponte Ferroviária sobre o Rio Douro enquanto não forem orçamentadas no Gabinete do Ministro da Habitação, Obras Públicas e Transportes as verbas julgadas necessárias para o seu funcionamento.
+2 - Quando no n.º 3 do artigo 9.º se faz referência à 12.ª Delegação da Contabilidade Pública, deverá passar a entender-se 8.ª Delegação da Contabilidade Pública.
+Com efeito, a primitiva referência à 12.ª Delegação da Contabilidade Pública fundava-se no facto de ser esta a declaração afecta ao Gabinete do Ministro dos Transportes e Comunicações.
+Com a publicação da Lei Orgânica do actual Governo (Decreto-Lei n.º 290/81, de 14 de Outubro), que extinguiu o Ministério dos Transportes e Comunicações (cf. artigo 5.º do citado diploma), criando o novo Ministério da Habitação, Obras Públicas e Transportes (cf. artigo 17.º), alterou-se também o quadro de afectação aos gabinetes ministeriais da delegação da contabilidade pública, cabendo agora ao Gabinete do Ministro da Habitação, Obras Públicas e Transportes a 8.ª Delegação, e não a 12.ª, como anteriormente.
+Por esta razão, deverá entender-se ser a 8.ª Delegação da Contabilidade Pública a competente para a movimentação das verbas destinadas ao Gabinete da Ponte Ferroviária sobre o Rio Douro.
+Ministério da Habitação, Obras Públicas e Transportes, 21 de Maio de 1982. - O Ministro da Habitação, Obras Públicas e Transportes, José Carlos Pinto Soromenho Viana Baptista.
