@@ -2,7 +2,7 @@
 
 ### Publicidade enganosa
 
-1 - É proibida toda a publicidade que, por qualquer forma, incluindo a sua apresentação, e devido ao seu carácter enganador, induza ou seja susceptível de induzir em erro os seus destinatários ou possa prejudicar um concorrente.
+1 - É proibida toda a publicidade que, por qualquer forma, incluindo a sua apresentação, e devido ao seu carácter enganador, induza ou seja susceptível de induzir em erro os seus destinatários, independentemente de lhes causar qualquer prejuízo económico, ou que possa prejudicar um concorrente.
 
 2 - Para se determinar se uma mensagem é enganosa devem ter-se em conta todos os seus elementos e, nomeadamente, todas as indicações que digam respeito:
 
@@ -14,6 +14,8 @@ c) À natureza, às características e aos direitos do anunciante, tais como a s
 
 d) Aos direitos e deveres do destinatário, bem como aos termos de prestação de garantias.
 
-3 - Nos casos previstos no número anterior, pode a entidade competente para a instrução dos respectivos processos de contra-ordenação exigir que o anunciante apresente provas de exactidão material dos dados de factos contidos na publicidade.
+3 - Considera-se, igualmente, publicidade enganosa, para efeitos do disposto no n.º 1, a mensagem que por qualquer forma, incluindo a sua apresentação, induza ou seja susceptível de induzir em erro o seu destinatário ao favorecer a ideia de que determinado prémio, oferta ou promoção lhe será concedido, independentemente de qualquer contrapartida económica, sorteio ou necessidade de efectuar qualquer encomenda.
 
-4 - Os dados referidos no número anterior presumem-se inexactos se as provas exigidas não forem apresentadas ou forem insuficientes.
+4 - Nos casos previstos nos números anteriores, pode a entidade competente para a instrução dos respectivos processos de contra-ordenação exigir que o anunciante apresente provas de exactidão material dos dados de facto contidos na publicidade.
+
+5 - Os dados referidos nos números anteriores presumem-se inexactos se as provas exigidas não forem apresentadas ou forem insuficientes.

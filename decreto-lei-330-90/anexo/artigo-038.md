@@ -2,4 +2,4 @@
 
 ### Instrução dos processos
 
-A instrução dos processos pelas contra-ordenações previstas neste diploma compete à Inspecção-Geral das Actividades Económicas.
+A instrução dos processos pelas contra-ordenações previstas neste diploma compete ao Instituto do Consumidor.

@@ -15,3 +15,5 @@ d) Encerramento temporário das instalações ou estabelecimentos onde se verifi
 2 - As sanções acessórias previstas nas alíneas b), c) e d) do número anterior só podem ser aplicadas em caso de dolo na prática das correspondentes infracções.
 
 3 - As sanções acessórias previstas nas alíneas c) e d) do n.º 1 têm a duração máxima de dois anos.
+
+4 - Em casos graves ou socialmente relevantes pode a entidade competente para decidir da aplicação da coima ou das sanções acessórias determinar a publicidade da punição por contra-ordenação, a expensas do infractor.

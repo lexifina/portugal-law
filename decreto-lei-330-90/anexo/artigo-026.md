@@ -1,7 +1,3 @@
-## Capítulo III
-
-## Publicidade na televisão
-
 # Artigo 26.º
 
 ### Tempo reservado à publicidade
