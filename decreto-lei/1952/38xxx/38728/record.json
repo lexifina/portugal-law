@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1952/04/08900/05270528.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1952-04-24",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "9d5c9fb518acc4d88b70e7a3963da21c2e27e101b1d9f0ff3dec0bc0b8f26d19",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.7,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "a75848e094dd56e7a1b0e3a64e8ed594a1b50e96e541f240a76a6da24b24927c",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 1147
 }
