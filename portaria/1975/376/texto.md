@@ -1,0 +1,3 @@
+Portaria n.º 376/75
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças, que, ao abrigo do disposto no artigo 3.º do Decreto-Lei n.º 707/73, de 29 de Dezembro, seja tornado extensivo ao pessoal dos quadros da administração pública que desempenha as funções de guarda da noite o uso de sobretudo como artigo de fardamento, até agora reservado aos porteiros e correios pelo artigo 9.º do regulamento aprovado pelo Decreto-Lei n.º 45678, de 25 de Abril de 1964, com a redacção que lhe conferiu o Decreto-Lei n.º 707/73.
+Ministério das Finanças, 9 de Junho de 1975. - O Ministro das Finanças, José Joaquim Fragoso.
