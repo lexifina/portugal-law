@@ -6,7 +6,7 @@
 
 ### Classificação das embarcações quanto às actividades a que se destinam
 
-1. As embarcações da marinha nacional, incluindo as do Estado não pertencentes à Armada, em conformidade com as actividades a que se destinam, classificam-se em:
+1. As embarcações da marinha nacional, incluindo as do Estado não pertencentes à Armada, a forças e serviços de segurança interna e a outros órgãos do Estado com atribuições de fiscalização marítima, em conformidade com as actividades a que se destinam, classificam-se em:
 
 a) De comércio;
 
@@ -16,10 +16,10 @@ c) De recreio;
 
 d) Rebocadores;
 
-e) Auxiliares.
+e) De investigação;
 
-2. As embarcações a que se referem as alíneas a), b), d) e e) do número anterior constituem a marinha mercante e designam-se por embarcações mercantes.
+f) Auxiliares;
 
-3. As embarcações a que se referem as alíneas a), b) e c) do n.º 1 constituem, respectivamente, as marinhas de comércio, de pesca e de recreio.
+g) Outras do Estado.
 
-4. Para efeitos do presente diploma, embarcação é todo o engenho ou aparelho de qualquer natureza, excepto um hidroavião amarado, utilizado ou susceptível de ser utilizado como meio de transporte sobre água.
+2. As embarcações a que se referem as alíneas a), b), d) e f) do número anterior constituem a marinha mercante e designam-se por embarcações mercantes.
