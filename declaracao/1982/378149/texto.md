@@ -1,0 +1,4 @@
+Declaração
+Para os devidos efeitos se declara que o Decreto-Lei n.º 382/82, publicado no Diário da República, 1.ª série, n.º 214, de 15 de Setembro de 1982, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No artigo 5.º, onde se lê «3 - O quinhão destinado ao fomento do desporto, de 20%, é distribuído ao Fundo de Fomento do Desporto, que afectará pelo menos 5% dessa verba a actividades desportivas com interesse turístico.» deve ler-se «3 - O quinhão destinado ao fomento do desporto, de 20%, é distribuído ao Fundo de Fomento do Desporto, que afectará pelo menos 25% dessa verba a actividades desportivas com interesse turístico, a definir pelo membro do Governo com tutela sobre o sector do turismo».
+Secretaria-Geral da Presidência do Conselho de Ministros, 14 de Outubro de 1982. - O Secretário-Geral, França Martins.
