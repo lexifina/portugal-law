@@ -1,0 +1,6 @@
+Portaria n.º 106/82
+de 25 de Janeiro
+Manda o Governo da República Portuguesa, nos termos do n.º 2 do artigo 1.º do Decreto-Lei n.º 59/76, de 23 de Janeiro, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros da Reforma Administrativa e da Agricultura, Comércio e Pescas, o seguinte:
+1.º É reduzido de 1 unidade, passando de 27 para 26, o número de lugares correspondentes a técnico superior de 2.ª classe do quadro do pessoal da Direcção-Geral do Comércio Alimentar, anexo à Portaria n.º 955/80, de 10 de Novembro.
+2.º É aumentado de 1 unidade, passando de 10 para 11, o número de lugares correspondentes a técnico auxiliar principal do quadro do pessoal da Direcção-Geral do Comércio Alimentar, anexo à Portaria n.º 955/80, de 10 de Novembro.
+Ministérios das Finanças e do Plano, da Agricultura, Comércio e Pescas e da Reforma Administrativa, 30 de Dezembro de 1981. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Agricultura, Comércio e Pescas, Basílio Adolfo Mendonça Horta da Franca. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
