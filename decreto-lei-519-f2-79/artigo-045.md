@@ -1,11 +1,3 @@
-## Secção III
-
-## Adjuntos estagiários e adjuntos de conservadores e notários
-
-## Secção IV
-
-## Ajudantes e escriturários
-
 # Artigo 45.º
 
 1 - Cada repartição de serviços de registo ou notariado tem um quadro de pessoal com a composição determinada pelo regulamento do presente diploma.

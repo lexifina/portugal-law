@@ -1,6 +1,6 @@
 # Artigo 66.º
 
-1 - Ficam a cargo da Direcção-Geral dos Registos e do Notariado as seguintes despesas:
+1 - Ficam a cargo do Cofre dos Conservadores, Notários e Funcionários de Justiça as seguintes despesas:
 
 a) Os ordenados dos conservadores e notários;
 
@@ -36,7 +36,7 @@ q) O pagamento dos encargos inerentes à inscrição do País como membro da Uni
 
 r) A reforma e a restauração dos livros e verbetes das conservatórias ou cartórios quando a sua perda, destruição ou deterioração não sejam imputáveis à negligência dos funcionários;
 
-s) (Revogada).
+s) As despesas decorrentes da aplicação do disposto nos artigos 17.º e 18.º do presente diploma, que sejam autorizadas pelo Ministro da Justiça;
 
 t) A aquisição de mobiliário para as conservatórias e cartórios;
 
@@ -46,6 +46,6 @@ v) O pagamento da despesa com a edição do Boletim da Direcção-Geral dos Regi
 
 x) As demais despesas expressamente previstas no presente diploma.
 
-2 - (Revogado).
+2 - Constitui encargo dos cofres o saldo negativo mensal das taxas de reembolso.
 
-3 - Nas despesas de apetrechamento e aquisição de mobiliário considera-se compreendido o fornecimento de todos os objectos de utilização permanente necessários ao funcionamento dos serviços.
+3 - Nas despesas de apetrechamento e aquisição de mobiliário a cargo dos cofres considera-se compreendido o fornecimento de todos os objectos de utilização permanente necessários ao funcionamento dos serviços.
