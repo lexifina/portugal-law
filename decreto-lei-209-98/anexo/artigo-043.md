@@ -16,7 +16,7 @@ a) Condutores de veículos das categorias A, B e B + E, da subcategoria A1, de c
 
 b) Condutores de veículos das categorias C e C + E: 40, 45, 50, 55, 60, 65, 68 e, posteriormente, de dois em dois anos;
 
-c) Condutores de veículos das categorias D e D + E: 40, 45, 50, 55 e 60 anos.
+c) Condutores de veículos das categorias D e D + E: 40, 45, 50, 55, 60 e 65 anos.
 
 4 - O disposto no número anterior não prejudica a imposição de períodos de revalidação mais curtos, determinados pela necessidade de o condutor se submeter a exames médicos ou de observação psicológica que lhe tenham sido impostos pelas entidades competentes.
 
