@@ -14,4 +14,4 @@ b) Se a situação económico-financeira da pessoa em causa for inadequada, em f
 
 c) Se a CMVM tiver fundadas dúvidas sobre a licitude da proveniência dos fundos utilizados na aquisição da participação, ou sobre a verdadeira identidade do titular desses fundos;
 
-d) Tratando-se de pessoa singular, se se verificar relativamente a ela algum dos factos que indiciem falta de idoneidade nos termos do n.º 4 do artigo anterior.
+d) Tratando-se de pessoa singular, se se verificar relativamente a ela algum dos factos que indiciem falta de idoneidade nos termos do n.º 3 do artigo anterior.

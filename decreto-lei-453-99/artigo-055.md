@@ -4,7 +4,7 @@
 
 1 - O requerimento de registo deve mencionar os elementos a registar e ser instruído com os documentos necessários para o efeito.
 
-2 - O registo só pode ser efectuado após a concessão da autorização prevista no artigo 48.º
+2 - O registo só pode ser efectuado após a concessão da autorização prevista no artigo 47.º
 
 3 - A junção dos documentos pode ser substituída pela indicação de que os mesmos já se encontram, em termos actualizados, em poder da CMVM.
 
