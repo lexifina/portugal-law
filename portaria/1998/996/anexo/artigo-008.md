@@ -1,7 +1,11 @@
 # Artigo 8.º
 
-1 - Por cada certidão, fotocópia, certificado diverso do previsto no n.º 2 do artigo anterior, pública-forma, conferência e extracto até 12 páginas, inclusive - 1000$00.
+1 - Pelo processo de divórcio e de separação de pessoas e bens por mútuo consentimento:
 
-A partir da 13.ª página, por cada página a mais - 200$00.
+a) No acto da instauração do processo - 7500$00;
 
-2 - Por cada página ou fracção de fotocópia simples não autenticada - 100$00.
+b) No acto da apresentação do pedido da segunda conferência - 7500$00.
+
+2 - Pelo processo de conversão de separação de pessoas e bens em divórcio - 7500$00.
+
+3 - Pelo termo de reconciliação, no processo de separação, previsto no n.º 2 do artigo 1795.º-C do Código Civil - 5000$00.

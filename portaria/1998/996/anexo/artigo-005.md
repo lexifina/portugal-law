@@ -1,13 +1,17 @@
 # Artigo 5.º
 
-1 - Se o acto que constitui objecto da escritura ou do instrumento avulso for de valor determinado, aos emolumentos previstos no artigo anterior acrescem sobre o total do valor, por cada 1000$00 ou fracção:
+1 - Pela organização de processo de casamento - 2000$00.
 
-a) Até 200000$00 - 10$00;
+2 - Ao emolumento do número anterior acrescem:
 
-b) De 200000$00 a 1000000$00 - 5$00;
+a) Por cada nota de substituição de certidão lançada no processo nos termos do artigo 138.º o emolumento correspondente à certidão dispensada;
 
-c) De 1000000$00 a 10000000$00 - 4$00;
+b) Pela nova publicação de editais nos termos do artigo 145.º - 750$00;
 
-d) Acima de 10000000$00, sobre o excedente - 3$00.
+c) Pelo auto de inquirição de testemunhas nos termos do artigo 141.º - 1500$00;
 
-2 - Aos emolumentos previstos no número anterior acresce, nas escrituras de partilha ou de doação, 5000$00 por cada um dos bens descritos, no máximo de 150000$00.
+d) Por cada auto de consentimento para casamento de menores lavrado na conservatória - 500$00;
+
+e) Pelo auto de convenção antenupcial - 6000$00.
+
+3 - Por cada um dos certificados previstos nos artigos 146.º e 163.º - 1500$00.
