@@ -1,0 +1,4 @@
+Declaração de rectificação n.º 50/93
+Para os devidos efeitos se declara que o Decreto Regulamentar Regional n.º 47/92/A, publicado no Diário da República, n.º 275, de 27 de Novembro de 1992, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No mapa, no n.º 2.1 - Repartição de Serviços Administrativos, alínea c) «Pessoal auxiliar», onde se lê «1 - Motorista de ligeiros - (b)» deve ler-se «2 - Motorista de ligeiros - (b)» e no Serviço de Classificação de Leite da Terceira, alínea e) «Pessoal auxiliar», onde se lê «7 - Auxiliar técnico de laboratório - (b)» deve ler-se «11 - Auxiliar técnico de laboratório - (b)».
+Secretaria-Geral da Presidência do Conselho de Ministros, 19 de Março de 1993. - O Secretário-Geral, França Martins.
