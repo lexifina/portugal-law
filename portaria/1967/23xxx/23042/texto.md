@@ -1,0 +1,3 @@
+Portaria n.º 23042
+Manda o Governo da República Portuguesa, pelos Secretários de Estado do Comércio e da Indústria, que, de harmonia com o disposto no § 2.º do artigo 1.º do Decreto-Lei n.º 44104, de 20 de Dezembro de 1961, a percentagem mínima de trabalho nacional a incorporar nos automóveis montados no País, a que se refere o § 1.º do citado artigo, seja elevada para 20 por cento, a partir de 1 de Janeiro de 1968, e para 25 por cento, a partir de 1 de Janeiro de 1969.
+Secretarias de Estado do Comércio e da Indústria, 29 de Novembro de 1967. - O Secretário de Estado do Comércio, Fernando Manuel Alves Machado. - O Secretário de Estado da Indústria, Manuel Rafael Amaro da Costa.
