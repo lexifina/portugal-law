@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação do Secretariado Permanente da Conferência da Haia de Direito Internacional Privado, por notificação feita ao Minstério dos Negócios Estrangeiros dos Países Baixos em 11 de Novembro de 1976, o Governo da República do Surinam declarou que a Convenção que Suprime a Exigência da Legalização dos Actos Públicos Estrangeiros, concluída na Haia em 5 de Outubro de 1961, continuava a ser aplicável ao território da República após o acesso à independência em 25 de Novembro de 1975.
+Direcção-Geral dos Serviços Centrais, 3 de Maio de 1979. - O Director-Geral, Francisco António Borges Grainha do Vale.
