@@ -1,0 +1,11 @@
+Portaria n.º 23554
+Manda o Governo da República Portuguesa, pelo Ministro das Corporações e Previdência Social, que sejam aprovados, ao abrigo do artigo 1.º do Decreto-Lei n.º 42955, de 27 de Abril de 1960, as armas, o estandarte, a bandeira e o selo da Corporação da Assistência, que têm a seguinte descrição:
+1) Armas - De ouro, uma aspa de negro carregada com cinco corações de ouro e acompanhada de um coração de vermelho, em chefe, e de outro, do mesmo, em ponta. Elmo de prata, tauxiado de ouro e forrado de negro, colocado a três quartos. Virol e paquifes de ouro e negro. Timbre: uma torre torreada de ouro, aberta e iluminada de vermelho, com uma cruz latina de negro ladeada pelas letras MI ZA, com os respectivos sinais de abreviatura de vermelho. Tudo saindo de uma coroa mural, de prata, de cinco torres. Tudo disposto conforme a figura 1 anexa a este diploma.
+2) Estandarte - Dentro de um quadrado de amarelo as armas da Corporação nos seus esmaltes próprios; bordadura ornamental de negro, de inspiração simbólica, ornamentada com palmas de ouro e prata, acantonada de corações de ouro. Cordões, borlas, franjas e passadeiras representados nos mesmos esmaltes e dispostos alternadamente, segundo as regras da armaria. A haste, dourada, terá como remate o timbre das armas. Os acessórios da haste serão também dourados. Forma e proporções conforme a figura 2 anexa a este diploma.
+3) Bandeira de hastear - Na forma e proporções da figura 3 anexa a este diploma, é partida de amarelo e negro. No primeiro, a aspa e os corações das armas; no segundo, o timbre nos seus esmaltes. A bandeira é de filele, com o número de panos proporcional à altura onde terá de ficar arvorada e à altura do mastro respectivo.
+4) Selo - Dentro de listel circular as armas da Corporação, sem indicação dos esmaltes e com o nome do organismo inscrito no listel, tudo ordenado conforme a figura 4 anexa a este diploma.
+Ministério das Corporações e Previdência Social, 22 de Agosto de 1968. - O Ministro das Corporações e Previdência Social, José João Gonçalves de Proença.
+
+Da Figura 1 à Figura 4
+(ver documento original)
+Ministério das Corporações e Previdência Social, 22 de Agosto de 1968. - O Ministro das Corporações e Previdência Social, José João Gonçalves de Proença.
