@@ -1,0 +1,3 @@
+Declaração de Rectificação n.º 4-H/97
+Para os devidos efeitos se declara que na Resolução do Conselho de Ministros n.º 6/97, publicada no Diário da República, 1.ª série, n.º 12, de 15 de Janeiro de 1997, cujo original se encontra arquivado nesta Secretaria-Geral, deve ser suprimida a alínea d) do n.º 6.12 e no n.º 9, alínea c), onde se lê «Elaborar os relatórios anuais de execução do Programa, a apresentar ao Conselho Coordenador;» deve ler-se «Elaborar os relatórios anuais de execução do Programa, a apresentar ao Conselho de Gestão;».
+Secretaria-Geral da Presidência do Conselho de Ministros, 27 de Janeiro de 1997. - O Secretário-Geral, Alexandre Figueiredo.
