@@ -1,0 +1,7 @@
+Despacho Normativo n.º 62/79
+Considerando que, nos termos do artigo 2.º do Decreto-Lei n.º 285/77, de 13 de Julho, foi transferida para o Instituto das Participações do Estado a titularidade das participações do sector público no capital de numerosas sociedades, entre as quais a Copenave - Cooperativa Abastecedora de Navios;
+Considerando que esta sociedade tem uma actividade complementar em elevado grau da SNAB - Sociedade Nacional dos Armadores de Bacalhau;
+Considerando que será de toda a vantagem, dada a natureza dos seus serviços, que a sua actividade seja acompanhada pela SNAB:
+Ouvido o Instituto das Participações do Estado, nos termos do artigo 8.º do Decreto-Lei n.º 285/77, de 13 de Julho, são transferidas a titularidade e a gestão das acções da Copenave actualmente detidas pelo IPE para a Sociedade Nacional dos Armadores de Bacalhau.
+Tendo em vista a organização e actualização do cadastro das participações do sector público, a SNAB deverá enviar anualmente ao Instituto das Participações do Estado um inventário discriminado dias participações no capital das sociedades por ela detidas, de acordo com a competência do IPE, preceituada no artigo 5.º, n.º 1, alínea a), do estatuto anexo ao Decreto-Lei n.º 496/76, de 26 de Junho.
+Ministérios das Finanças e do Plano e da Agricultura e Pescas, 12 de Fevereiro de 1979. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal.
