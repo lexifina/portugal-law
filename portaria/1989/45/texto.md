@@ -1,0 +1,13 @@
+Portaria n.º 45/89
+de 24 de Janeiro
+1. Nos termos dos n.os 2 e 3 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, conjugado com o disposto no n.º 3 do artigo 4.º do Decreto-Lei n.º 466/79, de 7 de Dezembro, o recrutamento para cargos de chefes de divisão dos Serviços Municipalizados (grupo I) faz-se de entre funcionários detentores das categorias de assessor ou técnico superior principal pertencentes aos quadros da administração central ou local, por escolha ou através de concurso documental.
+2. O n.º 4 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, permite que, excepcionalmente e em casos devidamente fundamentados, possa ser alargada a área de recrutamento a categorias inferiores.
+3. Considerando que a administração dos Serviços Municipalizados de Transportes Urbanos de Coimbra, tendo em atenção a difícil situação dos serviços, tem adoptado um conjunto de medidas a fim de se conseguir uma gestão mais racional, nomeadamente com a implementação de um modelo integrado de gestão, que implicou a reorganização de serviços, com o recurso à informatização e com a introdução de modernos métodos de gestão.
+4. Considerando que a concretização de alguns objectivos que se têm vindo a prosseguir passa pela necessidade do provimento dos lugares de chefia das Divisões de Exploração, de Equipamento, Administrativa e Financeira.
+Considerando que a complexidade e especificidade das funções cometidas aos cargos de chefes de divisão dos Serviços Municipalizados de Transportes Urbanos de Coimbra (grupo I) impõe que os mesmos sejam desempenhados por funcionários detentores de preparação técnica adequada, bem como de experiência profissional adquirida ao serviço daqueles Serviços Municipalizados, tendo em conta a realidade própria dos serviços urbanos de transportes colectivos:
+Manda o Governo, pelos Ministros das Finanças e do Planeamento e da Administração do Território, o seguinte:
+1.º A área de recrutamento para provimento dos lugares de chefe da Divisão Administrativa, chefe da Divisão Financeira, chefe da Divisão de Exploração e chefe da Divisão de Equipamento dos Serviços Municipalizados de Transportes Urbanos de Coimbra é alargada a funcionários pertencentes à categoria de técnico superior de 1.ª classe detentores de experiência profissional adequada.
+2.º As deliberações de provimento serão acompanhadas, para publicação, dos currículos dos nomeados.
+Ministérios das Finanças e do Planeamento e da Administração do Território.
+Assinada em 7 de Dezembro de 1988.
+Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.
