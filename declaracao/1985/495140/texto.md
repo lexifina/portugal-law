@@ -1,0 +1,4 @@
+Declaração
+Para os devidos efeitos se declara que o Decreto Regulamentar Regional no 4/85/A, publicado no Diário da República, 1.ª série, n.º 72, de 27 de Março de 1985, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 20.º, alínea c), onde se lê «c) Utilizar mais de 8 cães por caçador ou grupo na caça de salto, ou matilha de 8 cães, com tolerância de mais de 2 cachorros com menos de 1 ano, por caçador ou grupo de caça de batida;» deve ler-se «c) Utilizar mais de 2 cães por caçador ou grupo na caça de salto, ou matilha de 12 cães, com tolerância de mais 2 cachorros com menos de 1 ano, por caçador ou grupo de caça de batida;».
+Secretaria-Geral da Presidência do Conselho de Ministros, 24 de Maio de 1985. - O Secretário-Geral, França Martins.
