@@ -1,0 +1,17 @@
+Resolução do Conselho de Ministros n.º 96/2003
+A reforma da Administração Pública, cujas linhas gerais de orientação foram aprovadas na Resolução do Conselho de Ministros n.º 95/2003, de 30 de Julho, constitui a grande prioridade da acção reformadora do Governo.
+O País precisa de uma nova administração pública, com qualidade e em condições de gerar competitividade, e de um novo modelo de administração que conduza a dimensão do Estado aos sectores em que a sua intervenção é indispensável e útil ao cidadão.
+A reforma que vai ser empreendida deverá ser capaz de prestigiar a missão do Estado e dos seus agentes, servindo o cidadão, apresentando resultados e mobilizando capacidades, fundada numa cultura de ética e de aprofundamento dos valores do serviço público.
+A amplitude e a complexidade de tal reforma consubstanciam o seu carácter necessariamente faseado, implicando um acompanhamento permanente.
+De facto, o desenvolvimento das medidas já anunciadas e a sua execução suscitarão certamente muitas outras matérias que importa avaliar e graduar com vista a futuras decisões e implica um acompanhamento sistemático do modo como se vão executando as diferentes iniciativas, garantindo o aperfeiçoamento das soluções encontradas e a coerência dos resultados que se pretenderam atingir com esta reforma estrutural.
+Estabelecidas as orientações e o calendário de execução da reforma, é agora indispensável definir a estrutura que acompanhará o seu desenvolvimento progressivo.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, ao abrigo do artigo 37.º da Lei n.º 49/99, de 22 de Junho, e sob proposta da Ministra de Estado e das Finanças, o Conselho de Ministros resolve:
+1 - Nomear encarregado de missão junto da Ministra de Estado e das Finanças o Prof. João de Deus Pinheiro, a quem incumbirá acompanhar o desenvolvimento das várias etapas da reforma da Administração Pública no cumprimento das linhas de orientação definidas pelo Governo.
+2 - Estabelecer que o encarregado de missão é equiparado a presidente de empresa pública do grupo A, e de nível de complexidade máxima, para efeitos remuneratórios e de representação, ficando autorizado a exercer em acumulação quaisquer funções, não executivas, que não apresentem conflitos de interesse com o objectivo desta nomeação.
+3 - Cria o Conselho Consultivo da Reforma, a funcionar na dependência directa do Primeiro-Ministro, integrado por personalidades de comprovado mérito e prestígio, ao qual incumbirá, designadamente, formular sugestões, recomendações ou propostas com vista a aperfeiçoar e aprofundar a reforma a empreender.
+4 - Determinar que a composição, as competências e o funcionamento do Conselho Consultivo são fixados por despacho conjunto do Primeiro-Ministro e da Ministra de Estado e das Finanças.
+5 - Estabelecer que o mandato do encarregado de missão e do Conselho Consultivo terminará em Dezembro de 2004, devendo ser apresentado um relatório da execução e desenvolvimento da reforma.
+6 - Determinar que o apoio logístico e financeiro necessário ao desempenho das funções do encarregado de missão será assegurado pela Secretaria-Geral do Ministério das Finanças.
+7 - Determinar que os encargos decorrentes do funcionamento do Conselho Consultivo da Reforma são assegurados pelo orçamento da Secretaria-Geral da Presidência do Conselho de Ministros.
+Presidência do Conselho de Ministros, 10 de Julho de 2003. - O Primeiro-Ministro, José Manuel Durão Barroso.
