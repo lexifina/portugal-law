@@ -1,0 +1,51 @@
+# Acórdão do Supremo Tribunal de Justiça de 1991-04-24, processo 002958
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 002958
+
+**Nº Convencional:** JSTJ00009432
+
+**Relator:** SOUSA MACEDO
+
+**Descritores:** EMPRESA PUBLICA; EXTINÇÃO; LIQUIDAÇÃO; CADUCIDADE DO CONTRATO DE TRABALHO; RATIFICAÇÃO; DESPEDIMENTO COLECTIVO; HORARIO DE TRABALHO; DURAÇÃO DO TRABALHO; CONTRATO DE TRABALHO A PRAZO; FUNDAMENTAÇÃO
+
+**Nº do Documento:** SJ199104240029584
+
+**Data do Acordão:** 04/24/1991
+
+**Votação:** UNANIMIDADE
+
+**Referência de Publicação:** BMJ N406 ANO1991 PAG474
+
+**Tribunal Recurso:** T REL LISBOA
+
+**Processo no Tribunal Recurso:** 6305/90
+
+**Data:** 06/20/1990
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REVISTA.
+
+**Decisão:** NEGADA A REVISTA.
+
+**Área Temática:** DIR TRAB - CONTRAT INDIV TRAB.
+
+## Sumário
+
+I - A duração de um mes, renovavel, de um contrato de trabalho a prazo celebrado entre o Autor e a Re, empresa publica em liquidação, encontra-se suficientemente justificada por decorrer das limitações de poderes da comissão liquidataria.
+
+II - A lei que extingue uma empresa publica e determina que entre imediatamente em liquidação pode tambem determinar a caducidade de determinados contratos de trabalho, caducidade que resultaria ainda do proprio encerramento definitivo da empresa por via legal pois surgiria uma impossibilidade superveniente, absoluta e definitiva, de a empresa receber o trabalho (artigo 8 n. 1 alinea b) do Decreto-Lei n. 372-A/75).
+
+III - A cessação dos contratos de trabalho por força da lei não e enquadravel no despedimento colectivo, porque este tem fundamentos legais proprios e e promovido pelo empregador, enquanto naquela os contratos cessam por força da lei.
+
+IV - A Resolução da Assembleia da Republica que negou a ratificação do Decreto-Lei n. 209-A/86 que extinguiu a Empresa Nacional de Petroquimica, E. P. so revogou este diploma para o futuro, respeitando os efeitos decorrentes da sua anterior vigencia, designadamente a cessação dos contratos de trabalho.
+
+V - Do artigo 87 da Lei n. 49/86 que repos em vigor os contratos de trabalho em que fora parte a CNP e garantiu os direitos e regalias adquiridos pelos trabalhadores não resulta que tenha pretendido fazer vigorar os contratos, que haviam caducado, entre a vigencia do Decreto-Lei n. 209-A/86 e aquela lei, mas sim e apenas garantir as vantagens adquiridas na vigencia dos contratos repostos em vigor: categoria, diuturnidades, antiguidade, etc.
+
+VI - A pretensão da Autora no sentido de apenas estar obrigada a cumprir um horario semanal de 35 horas, quando esta provado que na admissão ficou estabelecido entre a Autora e a Re que o horario de trabalho era de 40 horas semanais, acordo este que veio a ser reduzido a escrito, sendo irrelevante o facto de a Re ter sido levantado um auto de transgressão por falta de afixação do horario de trabalho.
+
+VII - Tendo a Re um horario de trabalho flexivel, com o periodo fixo das 9,45 as 12,30 horas e das 15,00 as 17,15 horas, a Autora não tinha direito por ser trabalhadora estudante a dispensa de horas semanais prevista no n. 1 do artigo 3 da Lei n. 26/81, porque aquele horario de trabalho se mostrava amplamente compativel com a frequencia de um curso nocturno.
