@@ -1,0 +1,654 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "67",
+    "id": "6282",
+    "titulo": "Prevê o plano da rede nacional de pistas dedicadas à circulação de velocípedes"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2001-06-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1951",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2001-06-27",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-06-27",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139044",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3935-3937",
+                  "3948-3949"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-28",
+                "pubLeg": "VIII",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/102/2001-06-28/3935?pgs=3935-3937,3948-3949&org=PLC"
+              }
+            ],
+            "sumario": "PREVÊ O PLANO DA REDE NACIONAL DE PISTAS DEDICADAS À CIRCULAÇÃO DE VELOCÍPEDES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1578",
+                "nome": "Virgílio Almeida Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139045",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3937-3939"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-28",
+                "pubLeg": "VIII",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/102/2001-06-28/3937?pgs=3937-3939&org=PLC"
+              }
+            ],
+            "sumario": "PREVÊ O PLANO DA REDE NACIONAL DE PISTAS DEDICADAS À CIRCULAÇÃO DE VELOCÍPEDES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139046",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3938-3939"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-28",
+                "pubLeg": "VIII",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/102/2001-06-28/3938?pgs=3938-3939&org=PLC"
+              }
+            ],
+            "sumario": "PREVÊ O PLANO DA REDE NACIONAL DE PISTAS DEDICADAS À CIRCULAÇÃO DE VELOCÍPEDES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "228",
+                "nome": "Manuel Queiró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139076",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3939-3941"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-28",
+                "pubLeg": "VIII",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/102/2001-06-28/3939?pgs=3939-3941&org=PLC"
+              }
+            ],
+            "sumario": "PREVÊ O PLANO DA REDE NACIONAL DE PISTAS DEDICADAS À CIRCULAÇÃO DE VELOCÍPEDES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1712",
+                "nome": "José Manuel Epifânio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139077",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3941-3942"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-28",
+                "pubLeg": "VIII",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/102/2001-06-28/3941?pgs=3941-3942&org=PLC"
+              }
+            ],
+            "sumario": "PREVÊ O PLANO DA REDE NACIONAL DE PISTAS DEDICADAS À CIRCULAÇÃO DE VELOCÍPEDES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1184",
+                "nome": "Joaquim Matias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139078",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3942-3943"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-28",
+                "pubLeg": "VIII",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/102/2001-06-28/3942?pgs=3942-3943&org=PLC"
+              }
+            ],
+            "sumario": "PREVÊ O PLANO DA REDE NACIONAL DE PISTAS DEDICADAS À CIRCULAÇÃO DE VELOCÍPEDES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1652",
+                "nome": "Fernando Rosas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139079",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3943-3943"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-28",
+                "pubLeg": "VIII",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/102/2001-06-28/3943?pgs=3943&org=PLC"
+              }
+            ],
+            "sumario": "PREVÊ O PLANO DA REDE NACIONAL DE PISTAS DEDICADAS À CIRCULAÇÃO DE VELOCÍPEDES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1131",
+                "nome": "Francisco Torres"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139080",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3944-3944",
+                  "3949-3949"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-28",
+                "pubLeg": "VIII",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/102/2001-06-28/3944?pgs=3944,3949&org=PLC"
+              }
+            ],
+            "sumario": "PREVÊ O PLANO DA REDE NACIONAL DE PISTAS DEDICADAS À CIRCULAÇÃO DE VELOCÍPEDES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1639",
+                "nome": "José Eduardo Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139081",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3944-3948"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-28",
+                "pubLeg": "VIII",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/102/2001-06-28/3944?pgs=3944-3948&org=PLC"
+              }
+            ],
+            "sumario": "PREVÊ O PLANO DA REDE NACIONAL DE PISTAS DEDICADAS À CIRCULAÇÃO DE VELOCÍPEDES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139082",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3946-3946"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-28",
+                "pubLeg": "VIII",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/102/2001-06-28/3946?pgs=3946&org=PLC"
+              }
+            ],
+            "sumario": "PREVÊ O PLANO DA REDE NACIONAL DE PISTAS DEDICADAS À CIRCULAÇÃO DE VELOCÍPEDES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "228",
+                "nome": "Manuel Queiró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139083",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3946-3946"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-28",
+                "pubLeg": "VIII",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/102/2001-06-28/3946?pgs=3946&org=PLC"
+              }
+            ],
+            "sumario": "PREVÊ O PLANO DA REDE NACIONAL DE PISTAS DEDICADAS À CIRCULAÇÃO DE VELOCÍPEDES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1131",
+                "nome": "Francisco Torres"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139084",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3946-3947"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-28",
+                "pubLeg": "VIII",
+                "pubNr": "102",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/102/2001-06-28/3946?pgs=3946-3947&org=PLC"
+              }
+            ],
+            "sumario": "PREVÊ O PLANO DA REDE NACIONAL DE PISTAS DEDICADAS À CIRCULAÇÃO DE VELOCÍPEDES",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "146470",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1951",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-06-28",
+        "pubLeg": "VIII",
+        "pubNr": "102",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/102/2001-06-28?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
