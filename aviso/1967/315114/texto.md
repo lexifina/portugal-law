@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se faz público que, segundo comunicação da Embaixada da Suíça em Lisboa, os Governos da Argentina, do México e do Uruguai depositaram junto do Governo Federal, respectivamente em 5 e 9 de Maio e 7 de Junho do corrente ano, os instrumentos de adesão à Convenção de Berna para a Protecção das Obras Literárias e Artísticas, assinada em 9 de Setembro de 1886, completada em Paris em 4 de Maio de 1896, revista em Berlim em 13 de Novembro de 1908, completada em Berna em 20 de Março de 1914, revista em Roma em 2 de Junho de 1928 e revista em Bruxelas em 26 de Junho de 1948.
+Nos termos do artigo 25(3) da referida Convenção, as adesões da Argentina, do México e do Uruguai produzem efeitos, respectivamente, a partir de 10 e 11 de Junho e 10 de Julho do corrente ano.
+Direcção-Geral dos Negócios Económicos, 31 de Julho 1967. - O Director-Geral, José Calvet de Magalhães.
