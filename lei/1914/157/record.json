@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1914/05/07000/02690269.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1914-05-08",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "3ea3b549cc5858751e67518383986ad23673940b7afabf8f70c83e06804dc03c",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.7,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "3c24734bd0ce1d73f0674cc2e24c3ac047762b995837d4e3557fb582e4758741",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 170
 }
