@@ -13,3 +13,7 @@
 3 - Os encargos suportados pela EDP relativos ao primeiro estabelecimento das redes de iluminação pública serão calculados na mesma base em que forem calculados os seus encargos na rede de distribuição em baixa tensão, de acordo com o estabelecido no capítulo V.
 
 4 - A câmara poderá solicitar a execução de rede de iluminação pública em áreas onde não exista rede de distribuição ou segundo traçado diferente do desta rede, suportando, nesses casos, os respectivos encargos de primeiro estabelecimento.
+
+5 - A gestão da iluminação pública é da inteira responsabilidade do município concedente no que respeita a níveis e horários de iluminação e ao tipo e número de focos e lâmpadas em serviço.
+
+6 - A EDP obriga-se a prestar todo o apoio de natureza consultiva, bem como a garantir a assistência à rede de iluminação pública, salvo se outra solução for acordada.

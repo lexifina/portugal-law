@@ -11,3 +11,5 @@
 a) Nas redes aéreas, normalmente em apoios da rede;
 
 b) Nas redes subterrâneas, em colunas ou consolas.
+
+4 - Na definição dos focos luminosos e lâmpadas a adoptar como tipo de corrente em cada município será tida em conta, para cada tipo de rede a utilização de lâmpadas de adequado rendimento, com observância dos critérios de normalização e mais eficiente utilização da energia eléctrica.
