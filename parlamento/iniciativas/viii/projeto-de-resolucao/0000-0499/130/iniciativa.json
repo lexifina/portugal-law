@@ -1,0 +1,131 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "tipo": "Projeto de Resolução",
+  "numero": "130",
+  "id": "18537",
+  "fases": 8,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2001-03-29",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2001-09-14",
+    "DataInicioleg": "2000-09-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "1262",
+        "nome": "Francisco de Assis"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "314",
+        "nome": "António Capucho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "618",
+        "nome": "Guilherme Silva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1239",
+        "nome": "Luís Marques Guedes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "280",
+        "nome": "Carlos Encarnação"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1671",
+        "nome": "Maria de Belém Roseira"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1674",
+        "nome": "José Barros Moura"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "198",
+        "nome": "Manuel dos Santos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1349",
+        "nome": "António Reis"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1180",
+        "nome": "Dias Baptista"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "459",
+        "nome": "João Cravinho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "614",
+        "nome": "Celeste Correia"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "682",
+        "nome": "José Miguel Medeiros"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1212",
+        "nome": "Ana Catarina Mendonça"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1570",
+        "nome": "Ricardo Gonçalves"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "484",
+        "nome": "José Saraiva"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      },
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "18537",
+    "IniLeg": "VIII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c32466c4f544d794d6a4d774c5467334e544d744e4463305a5330355954466c4c54426d5a54686d5a474d774e5752695969356b62324d3d&fich=ae932230-8753-474e-9a1e-0fe8fdc05dbb.doc&Inline=true",
+    "IniNr": "130",
+    "IniObs": "Substitui o Projectos de Resolução n.ºs 120/VIII e 122/VIII",
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Assunção de poderes de revisão constitucional",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
