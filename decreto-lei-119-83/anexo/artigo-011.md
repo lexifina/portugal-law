@@ -1,5 +1,5 @@
 # Artigo 11.º
 
-### (Modificação dos estatutos)
+### (Dispensa de escritura pública)
 
-A modificação dos estatutos é feita com a observância das formalidades que a lei exige para a elaboração e aprovação iniciais.
+Os estatutos das instituições e respectivas alterações não carecem de revestir a forma de escritura pública desde que o respectivo registo seja efectuado nos termos da portaria referida no n.º 2 do artigo 7.º
