@@ -1,0 +1,17 @@
+Portaria n.º 1009/83
+de 30 de Novembro
+Considerando que em face das novas tarefas que serão cometidas aos serviços de metrologia locais decorrentes da legislação recentemente aprovada - bases do controle metrológico (Decreto-Lei n.º 202/83, de 19 de Maio) - se torna imperioso proceder ao estabelecimento de novas regras para a formação e selecção dos respectivos técnicos;
+Considerando a necessidade e vantagens de optimização dos meios existentes, realizando aquelas acções de formação técnica, através da adequada articulação dos serviços do Ministério da Indústria e Energia competentes na área da formação técnica - o Laboratório Nacional de Engenharia e Tecnologia Industrial (LNETI) - com os serviços competentes na área da metrologia legal - a Direcção-Geral da Qualidade (DGQ);
+Considerando o disposto nos artigos 22.º, n.º 2, alínea d), 24.º, n.º 2, alínea f), e 48.º do Decreto-Lei n.º 548/77, de 31 de Dezembro, 4.º, alínea g), do Decreto-Lei n.º 361/79, de 1 de Setembro, e 13.º do Decreto-Lei n.º 202/83, de 19 de Maio:
+Manda o Governo da República, pelo Ministro da Indústria e Energia, o seguinte:1.º Os exames de aferidor de pesos e medidas são doravante precedidos de cursos de formação técnica abrangidos pelo programa anual de formação do Laboratório Nacional de Engenharia e Tecnologia Industrial e realizados em colaboração pela Direcção-Geral da Qualidade e o Laboratório Nacional de Engenharia e Tecnologia Industrial.
+2.º Os candidatos ao exame de aferidor devem requerer a sua inscrição junto do Laboratório Nacional de Engenharia e Tecnologia Industrial - Centro de Formação Técnica, entre os dias 1 e 10 de Dezembro, com vista ao curso e exame do ano seguinte.
+3.º No acto da inscrição os candidatos farão prova das habilitações literárias mínimas (9.º ano de escolaridade oficial ou equivalente exigidas pelo Decreto-Lei n.º 406/82 e pagarão uma propina a estabelecer anualmente por despacho do Ministro da Indústria e Energia e desde já estabelecida em 1000$00 para o ano de 1984.
+4.º Após a inscrição, o Laboratório Nacional de Engenharia e Tecnologia Industrial informará os candidatos da data e local em que serão submetidos à prova de admissão ao curso de formação e do conteúdo da referida prova, de acordo com a programação conjunta LNETI/DGQ.
+5.º Os cursos serão realizados em ocasião a anunciar previamente pelo Laboratório Nacional de Engenharia e Tecnologia Industrial, tendo em conta o número de candidatos admitidos e as condições de realização.
+6.º O júri da prova de admissão e do exame final será designado pela Direcção-Geral da Qualidade e integrará um técnico nomeado pelo Laboratório Nacional de Engenharia e Tecnologia Industrial.
+7.º O exame final versará as matérias do curso de formação e constará de prova que permita avaliar a capacidade dos candidatos e simular as condições de exercício das funções de aferidor.
+8.º A Direcção-Geral da Qualidade compete a fixação dos programas e a elaboração de textos das matérias versadas na prova de admissão e no curso de formação, cuja edição competirá ao Laboratório Nacional de Engenharia e Tecnologia Industrial e será distribuída gratuitamente aos candidatos ao exame.
+9.º A presente portaria entra imediatamente em vigor.
+Ministério da Indústria e Energia.
+Assinada em 21 de Novembro de 1983.
+Pelo Ministro da Indústria e Energia, João Nuno Boulain de Carvalho Carreira, Secretário de Estado da Indústria.
