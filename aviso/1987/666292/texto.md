@@ -1,0 +1,14 @@
+Aviso
+Por ordem superior se torna público ter o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificado, de acordo com o artigo 42, alíneas d) e e), da Convenção sobre Obtenção de Provas no Estrangeiro em Matéria Civil e Comercial, concluída na Haia em 18 de Março de 1970, que, conforme o artigo 40, parágrafo 2, da referida Convenção, o Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte declarou, por carta datada de 29 de Dezembro de 1986 e recebida no Ministério dos Negócios Estrangeiros do Reino dos Países Baixos em 6 de Janeiro de 1987, que esta Convenção será extensiva à ilha de Jersey, entrando em vigor em relação a esta ilha, nos termos do parágrafo 3 do mesmo artigo 40, em 7 de Março de 1987.
+De acordo com o artigo 35 da Convenção, foram feitas as seguintes designações:
+a) Conforme os artigos 16, 17 e 18 da Convenção, o Tribunal Real de Jersey é designado como autoridade competente para Jersey;
+b) Conforme os artigos 24 e 25 da Convenção, o Tribunal Real é designado como autoridade adicional competente para receber as cartas rogatórias destinadas a serem executadas em Jersey.
+Foram feitas ainda as seguintes declarações, de acordo com o artigo 35:
+1) Conforme o artigo 8, magistrados da autoridade requerente só poderão assistir à execução de uma carta rogatória em Jersey com a prévia autorização do Tribunal Real;
+2) Conforme o artigo 18, um agente diplomático ou consular ou um outro funcionário autorizado a proceder a um acto de instrução conforme os artigos 15, 16 e 17 da Convenção tem a faculdade de se dirigir à autoridade competente de Jersey acima designada para obter a assistência necessária ao cumprimento compulsório deste acto desde que o Estado contratante, cujo agente diplomático ou consular ou outro funcionário apresente o correspondente pedido, tenha feito uma declaração concedendo facilidades recíprocas ao abrigo do artigo 18;
+3) Conforme o artigo 23, Jersey não executará as cartas rogatórias que tenham como objecto um processo conhecido nos Países de Common Law sob o nome de pre-trial discovery of documents.
+Para efeitos desta declaração, o Governo de Jersey entende por carta rogatória tendo como objecto o pre-trial discorery of documents qualquer carta rogatória que solicite a uma pessoa:
+I) A declaração de quais os documentos pertinentes ao processo a que se refere a carta rogatória que estão ou estiveram em sua posse, à sua guarda ou sob a sua responsabilidade; ou
+II) A apresentação de todos os documentos, para além dos especificados na carta rogatória, que o tribunal competente considerar que estão ou são susceptíveis de estarem na sua posse, à sua guarda ou sob a sua responsabilidade.
+Portugal já é parte no instrumento diplomático em apreço.
+Secretaria-Geral do Ministério, 26 de Março de 1987. - O Director do Serviço Jurídico e de Tratados, Fernão Manuel Homem de Gouveia Fávila Vieira.
