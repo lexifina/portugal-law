@@ -1,0 +1,7 @@
+Portaria n.º 504/82
+de 17 de Maio
+Considerando que a redacção do n.º 6.º da Portaria n.º 1039/80, de 10 de Dezembro, levanta dúvidas de interpretação e dado que a intenção do legislador do referido número era cobrir com efeitos de retroactividade em vencimentos todo o pessoal que possuía já categorias de informática em 1 de Julho de 1979, incluindo os que entre esta data e a da saída da portaria acima referida mudaram de categoria:
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelo Secretário de Estado da Reforma Administrativa, nos termos e para os efeitos do n.º 3 do artigo 30.º do Decreto-Lei n.º 110-A/80, de 10 de Maio:
+1.º O disposto no n.º 6 da Portaria n.º 1039/80, de 10 de Dezembro, não prejudica em vencimentos a aplicação do artigo 33.º do Decreto-Lei n.º 110-A/80, de 10 de Maio, do pessoal já provido em categorias de informática em 1 de Julho de 1979.
+2.º Para efeitos do número anterior aplicar-se-á a correspondência prevista no quadro II anexo à referida portaria, segundo o tempo de exercício na categoria ou nas categorias em que se encontravam providos.
+Ministérios das Finanças e do Plano e da Reforma Administrativa, 26 de Março de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Secretário de Estado da Reforma Administrativa, António Jorge de Figueiredo Lopes.
