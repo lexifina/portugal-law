@@ -17,3 +17,5 @@ a) De acordo com as regras aplicáveis aos rendimentos da categoria H, quando a 
 b) Pela taxa correspondente a um quinto do seu valor, em caso de resgate pela totalidade;
 
 c) De acordo com as regras estabelecidas nas alíneas anteriores quanto à respectiva parte dos rendimentos, nos casos em que se verifiquem, simultaneamente, as modalidades nelas referidas.
+
+6 - Ficam isentas do imposto sobre as sucessões e doações as transmissões por morte a favor do cônjuge sobrevivo e dos filhos ou adoptados, no caso de adopção plena, dos valores acumulados afectos a um plano poupança-reforma.
