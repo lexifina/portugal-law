@@ -1,0 +1,23 @@
+Portaria n.º 19766
+Atendendo à importância que os estudos de desenvolvimento comunitário assumiram, e visto a experiência já adquirida no âmbito de actividades do Centro de Estudos Políticos e Sociais, é conveniente autonomizar e dotar com organização apropriada os trabalhos em curso, dentro da Junta de Investigações do Ultramar e sempre com o apoio do Instituto Superior de Ciências Sociais e Política Ultramarina.
+Nestes termos:
+Tendo em atenção as disposições do Decreto-Lei n.º 35395, de 26 de Dezembro de 1945, nomeadamente o disposto no artigo 19.º, e sob proposta da Junta de Investigações do Ultramar:
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
+1.º É criado na Junta de Investigações do Ultramar, para funcionar junto do Instituto Superior de Ciências Sociais e Política Ultramarina, o Centro de Estudos de Desenvolvimento Comunitário.
+2.º Compete ao Centro:
+a) Estudar os problemas de desenvolvimento comunitário, quer do ponto de vista teórico, quer do ponto de vista da ciência aplicada;
+b) Estudar os problemas de geografia que interessam à definição da infra-estrutura do desenvolvimento comunitário;
+c) Promover, de acordo com as actividades docentes do Instituto Superior de Ciências Sociais e Política Ultramarina, a formação de pessoal, especialmente entre os alunos do referido Instituto;
+d) Reunir a documentação necessária à realização dos seus fins;
+e) Redigir trabalhos para publicação baseados em resultados dos estudos efectuados, os quais serão, em regra, publicados na revista do referido Instituto;
+f) Elaborar os seus planos anuais de trabalho para serem apreciados pela Junta e submetidos a aprovação superior.
+3.º O Centro será dirigido por um conselho constituído pelo director do Instituto Superior de Ciências Sociais e Política Ultramarina, que preside, e a quem, por despacho ministerial, poderá ser fixado um subsídio mensal, por um professor do 2.º grupo (Ciências Económicas e Povoamento) e outro do 4.º grupo (Geografia) do mesmo Instituto, sendo estes designados pelo conselho escolar.
+4.º Compete ao presidente exercer as funções executivas, que poderá delegar em qualquer dos vogais e no secretário do Centro.
+5.º Por despacho ministerial, sob proposta da Comissão Executiva da Junta de Investigações do Ultramar, será mandado prestar serviço no Centro o pessoal da Junta que, pelas suas aptidões e prática em trabalho do género, se mostre conveniente, indicando aquele que desempenhará as funções de secretário.
+6.º Para a realização dos seus objectivos o Centro disporá dos meios adequados que lhe forem destinados pela Comissão Executiva da Junta.
+7.º Além do pessoal destacado da Junta nos termos do n.º 5.º, o Centro é constituído por investigadores, estagiários, tirocinantes, pessoal técnico e auxiliares, que prestarão os seus serviços em regime de subsidiados.
+8.º Sob proposta do presidente, poderá o conselho do Centro assalariar, pelas suas dotações, o pessoal indispensável para assegurar os serviços de expediente.
+9.º As verbas que, pela Junta de Investigações do Ultramar, foram atribuídas ao Centro de Estudos Políticos e Sociais para suportar as despesas do Grupo de Estudos de Desenvolvimento Comunitário passam a constituir a dotação do Centro agora criado, para o ano corrente. O Centro receberá também os arquivos e material pertencentes ao referido grupo.
+Ministério do Ultramar, 18 de Março de 1963. - O Ministro do Ultramar, António Augusto Peixoto Correia.
+
+Para ser publicada no Boletim Oficial de todas as províncias ultramarinas. - Peixoto Correia.
