@@ -1,0 +1,51 @@
+# Acórdão do Supremo Tribunal Administrativo de 1992-09-23, processo 014344
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 014344
+
+**Data do Acordão:** 09/23/1992
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** COELHO DIAS
+
+**Descritores:** CÓDIGO DE PROCESSO TRIBUTÁRIO; INCONSTITUCIONALIDADE ORGÂNICA; INCONSTITUCIONALIDADE MATERIAL; EXECUÇÃO FISCAL; COMPETÊNCIA DOS TRIBUNAIS TRIBUTÁRIOS DE 1 INSTÂNCIA; COMPETÊNCIA DA REPARTIÇÃO DE FINANÇAS
+
+**Nº Convencional:** JSTA00038616
+
+**Nº do Documento:** SA219920923014344
+
+**Data de Entrada:** 03/25/1992
+
+**Recorrente:** FAZENDA PUBLICA
+
+**Recorrido 1:** TALAC-SOC COMERCIAL DE MOVEIS LDA
+
+**Votação:** MAIORIA COM 1 VOT VENC
+
+**Ano da Publicação:** 92
+
+**Privacidade:** 01
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** SENT TT1INST PER SALTUM.
+
+**Decisão:** PROVIDO.
+
+**Área Temática 1:** DIR PROC TRIBUT CONT - EXEC FISCAL.
+
+**Legislação Nacional:** DL 154/91 DE 1991/04/23 ART1 ART2 ART9 N1 N2 ART13 N2.; CPTRIB91 ART41 ART108 N3 ART118 N3 ART355 N1 N2 N3 N4 N5.; CONST89 ART20 N1 ART39 ART40 ART41 N2 ART42 N1 C ART43 G ART44 ART46 2 C ART71 N2 F ART102 ART103 ART113 ART114 ART168 N1 Q N2 ART205 ART206 ART214 N3 ART237 ART238 ART259 ART268 N4 N5 ART269 ART280 N3 ART355.; CPCI63 NA REDACÇÃO DO DL 217/76 DE 1976/03/25 ART152.; CPC67 ART201 ART255 N2 ART259.; LTC82 ART75 N1.
+
+**Jurisprudência Nacional:** AC STA PROC14263 DE 1992/06/03.; AC STA DE 1990/02/07 IN AD N352 PAG489.; AC STA PROC13830 DE 1992/02/19.; AC STA PROC13871 DE 1992/03/04.; AC STA PROC14033 DE 1992/03/18.; AC STA PROC13789 DE 1992/03/18.; AC STA PROC13854 DE 1992/03/18.; AC STA PROC13875 DE 1992/03/18.
+
+**Referência a Doutrina:** ALFREDO SOUSA E OUTRO CÓDIGO DE PROCESSO TRIBUTÁRIO COMENTADO E ANOTADO PAG726.; CASTRO MENDES ACÇÃO EXECUTIVA PAG5.; GOMES CANOTILHO E OUTRO CONSTITUIÇÃO DA REPÚBLICA PORTUGUESA ANOTADA 2ED V1 PAG40.; Texto Integral
+
+## Sumário
+
+I - Os ns. 1 e 2 do art. 9 do DL. n. 154/91, de 23 de
+
+Abril, não são orgânica ou materialmente inconstitucionais.
+
+II - Da sua aplicabilidade resulta que os Tribunais Tributários de 1 Instância de Lisboa e Porto - e não as repartições de finanças - são os competentes para conhecer das execuções neles instauradas até à data da entrada em vigor do C.P.T..
