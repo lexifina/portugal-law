@@ -1,0 +1,118 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=BCSSVGCAjuIOB9TM0zLN1MaTIqUGuyZG5KdMozMqIhz0HV3lihHZAL1CwunnWMXRny5c%2fGnGCZHzxAWlNWvriQl3h2wUQD%2bowHEAD9eFRyf2JdeqjyBaRNHhZe8gVkGI8mHwTOZENL4EKoCxEZGcqbJHnmvnktrZ4L%2bCcB8XDhcCIEzIVr5jrbsC3o5hptTbaMwBgoF68mV3RStIYJyvQOduog5%2fiGjrt1rykAbE6ZwjcV24oKkbnK9PzvNKat80j9hNRf25bAhE0BNfRW0lt5b5hM3muahpK8XuICAdwne8vQ2nXeVCLUrRt%2bdJWjM%2beniMeMyOwoBt8PVsAU3fA0MzFhD6d4IZoNU16Bo9GB0%3d&fich=IniciativasIII_json.txt&Inline=true",
+  "ficheiro_sha256": "8066d65f0f2dcaef0e8f116d49b73de6f6558c03e12923057ff44277a1828037",
+  "legislatura": "III",
+  "tipo": "Projeto de Resolução",
+  "numero": "48",
+  "id": "32999",
+  "fases": 4,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "1985-04-18",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "1985-11-03",
+    "DataInicioleg": "1984-10-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PCP",
+        "idCadastro": "569",
+        "nome": "Ilda Figueiredo"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "210",
+        "nome": "Jerónimo de Sousa"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3007",
+        "nome": "Jorge Lemos"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PCP"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "32999",
+    "IniLeg": "III",
+    "IniLinkTexto": "",
+    "IniNr": "48",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Prorroga por mais trinta dias a duração do mandato da Comissão Eventual de Inquérito sobre os Critérios de Atribuição de Verbas pela Secretaria de Estado do Emprego e Formação Profissional, criada pela Resolução nº 2/85, da Assembleia da República",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": [
+      {
+        "autor": "PCP",
+        "id": "33113",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "353870",
+            "obs": null,
+            "pag": [
+              "2907-2909"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1985-04-19",
+            "pubLeg": "III",
+            "pubNr": "71",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/03/02/071/1985-04-19/2907?pgs=2907-2909&org=PLC"
+          }
+        ],
+        "tipo": "Proposta de Alteração"
+      },
+      {
+        "autor": "CEISEEFP",
+        "id": "33114",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "353869",
+            "obs": null,
+            "pag": [
+              "2907-2909"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1985-04-19",
+            "pubLeg": "III",
+            "pubNr": "71",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/03/02/071/1985-04-19/2907?pgs=2907-2909&org=PLC"
+          }
+        ],
+        "tipo": "Proposta de Alteração"
+      }
+    ]
+  }
+}
