@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que o Acordo sobre a Permanência ao Serviço e Readmissão de Nacionais de Uma das Partes Que Se Encontram a Exercer ou Tenham Exercido Funções no Âmbito da Administração Pública da Outra Parte, celebrado entre a República Portuguesa e a República Democrática de São Tomé e Príncipe, assinado em 7 de Maio de 1984 e aprovado pelo Decreto do Governo n.º 42/84, de 26 de Julho, rectificado por declaração publicada no suplemento ao Diário da República, 1.ª série, n.º 202, de 31 de Agosto de 1984, entrou em vigor em 11 de Abril de 1988, data em que se efectivou a troca de notas prevista no artigo 6.º do mesmo Acordo.
+Direcção-Geral para a Cooperação, 18 de Abril de 1988. - O Director-Geral, José Manuel Borges Gama Cornélio da Silva.
