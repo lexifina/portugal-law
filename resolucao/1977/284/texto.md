@@ -1,0 +1,15 @@
+Resolução n.º 284/77
+Considerando que o jazigo de Moncorvo representa um recurso mineiro nacional de elevado valor que urge explorar em condições técnicas e económicas adequadas, optimizando os benefícios à escala regional e nacional;
+Considerando que, pela Resolução n.º 40/77, de 27 de Janeiro, o Conselho de Ministros decidiu que o Plano Siderúrgico Nacional (PSN) integrasse instalações siderúrgicas no Seixal (fase I) e em Sines (fase II), ambas abastecidas preferencialmente por minério de Moncorvo;
+Considerando que a mesma resolução do Conselho de Ministros mandou analisar em detalhe a localização mais conveniente das instalações de peletização do concentrado de Moncorvo, atribuindo, a menos condicionantes de ordem técnica a serem estudadas, prioridade à localização junto à mina;
+Considerando que do relatório e conclusões do grupo de trabalho constituído por técnicos e gestores da Ferrominas, E. P., e da Siderurgia Nacional, E. P., do trabalho de um consultor especializado estrangeiro e do relatório do Secretário de Estado de Energia e Minas se conclui que na fase II do PSN a peletização terá de ser em Sines e que a instalação da primeira unidade de peletização em Moncorvo implica, comparativamente com a localização no Seixal junto às instalações siderúrgicas:
+a) Uma desvantagem económica mínima de 160000 a 180000 contos anuais em custos de exploração, dos quais cerca de 40000 contos em divisas e o restante em transportes;
+b) Limitações de natureza técnica e económica que põem em risco o êxito da exploração adequada do jazigo.
+Considerando que a peletização representa somente uma parte do empreendimento ligado ao jazigo de Moncorvo, representando 30% do investimento global e 25% dos postos de trabalho;
+Considerando que é possível compatibilizar o interesse regional com a criação de condições óptimas para o êxito do projecto de Moncorvo e do Plano Siderúrgico Nacional, fazendo beneficiar aquele, e não este, da mais-valia da operação de peletização atribuindo-a à Ferrominas, E. P., seja qual for a localização geográfica da instalação:
+O Conselho de Ministros, reunido em 19 de Outubro de 1977, resolveu:
+1 - Cometer à Ferrominas, E. P., a responsabilidade total do projecto de Moncorvo, incluindo a operação de peletização.
+2 - Instalar a primeira peletização no Seixal e a segundo em Sines, junto às instalações siderúrgicas. A primeira peletização deverá ter como dimensão mínima 1,5 x 10(elevado a 6)t/ano de peletes autofundentes e a segunda a dimensão que vier a justificar-se face ao complexo siderúrgico de Sines.
+3 - Encarregar as empresas públicas Ferrominas e Siderurgia Nacional de acordarem entre si as condições contratuais de ocupação dos terrenos adequados, fornecimentos de combustíveis, materiais e serviços e outros aspectos, de molde a concretizarem adequadamente o disposto nos n.os 1 e 2.
+4 - Encarregar as empresas públicas Ferrominas, Siderurgia Nacional e CP de estudarem em profundidade o problema técnico do transporte do concentrado de Moncorvo.
+Presidência do Conselho de Ministros, 19 de Outubro de 1977. - O Primeiro-Ministro, Mário Soares.
