@@ -1,0 +1,20 @@
+Decreto-Lei n.º 43655
+Tornando-se necessário estabelecer as normas de subordinação disciplinar e o regime jurídico dos elementos pertencentes às forças militarizadas e aos demais organismos do Estado que nas províncias ultramarinas sejam eventualmente colocados sob comando ou autoridade militar;
+Atendendo a que tal circunstância corresponde, normalmente, a situações que exigem perfeita unidade de acção e o sentido de disciplina e de pronta obediência que caracteriza as instituições militares;
+Tendo em consideração o disposto no artigo 363.º do Código de Justiça Militar quanto à competência dos tribunais militares;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Os elementos das forças militarizadas que prestem serviço nas províncias ultramarinas, quando, individual ou colectivamente, sejam colocados pelo governo da província sob comando ou autoridade militar, estão sujeitos à disciplina militar e à jurisdição dos tribunais militares para os actos praticados durante o período em que estiverem sob esse comando ou autoridade, nas mesmas condições que se encontram estabelecidas para os elementos das forças militares.
+§ 1.º Como forças militarizadas, para efeitos de aplicação do disposto no corpo do presente artigo, compreendem-se as seguintes:
+a) Guarda Fiscal;
+b) Polícia de Segurança Pública;
+c) Polícia de Viação e Trânsito;
+d) Polícia Administrativa;
+e) Polícia Internacional e de Defesa do Estado;
+f) Guarda rural ou equivalente;
+g) Outras forças de natureza semelhante, constituídas ou a constituir.
+§ 2.º A subordinação disciplinar e o regime jurídico das unidades ou corpos de voluntários são regulados por diploma especial.
+Art. 2.º Os funcionários dos organismos do Estado que prestem serviço nas províncias ultramarinas mas não se encontrem abrangidos pelo disposto no artigo anterior, quando, individual ou colectivamente, sejam colocados pelo governo da província sob autoridade militar, estão sujeitos à disciplina militar e à jurisdição dos tribunais militares para os actos praticados durante o período em que estiverem sob essa autoridade, mas ùnicamente quanto aos crimes previstos e punidos pelo Código de Justiça Militar.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 4 de Maio de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
+
+Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - A. Moreira.
