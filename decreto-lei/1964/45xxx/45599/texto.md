@@ -1,0 +1,21 @@
+Decreto-Lei n.º 45599
+Em virtude de terem sido publicados nos últimos dias do mês de Dezembro de 1963, não puderam ter execução os Decretos n.os 45493, 45511 e 45514, abrindo créditos especiais no total de 58014837$40 para despesas com as forças militares no ultramar, tendo por contrapartida a importância de saldos a escriturar como reposições não abatidas nos pagamentos.
+Importa, porém, proceder à contabilização desses saldos em receita do Estado e aplicar a respectiva quantia no pagamento de despesas de defesa do ano passado, pelo que se renova a abertura do crédito daquele montante.
+Por outro lado, apesar do esforço feito em 1963 na satisfação de despesas com as forças militares extraordinárias no ultramar, verifica-se ainda a necessidade de um crédito adicional de 150000 contos para solver todos os compromissos.
+Embora com números provisórios, conhece-se já o resultado da gerência do ano passado, o qual permite, com segurança, suportar a contrapartida para aquele novo crédito. Assim, procede-se, desde já, à sua abertura, pois convém imputar a cada ano o total do esforço feito com as despesas de defesa da integridade nacional.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É aberto no Ministério das Finanças um crédito especial no montante de 208014837$40, devendo a mesma importância ser adicionada à verba inscrita no artigo 308.º «Forças militares extraordinárias no ultramar», capítulo 12.º, do orçamento dos Encargos Gerais da Nação para o corrente ano económico.
+Art. 2.º Para compensação do crédito aludido no artigo precedente, são feitas as seguintes alterações no orçamento das receitas do Estado presentemente em execução:
+Capitulo 7.º «Reembolsos e reposições»:
+Artigo 200.º «Reposições não abatidas nos pagamentos» ... +58014837$40
+Capítulo 9.º «Receita extraordinária»:
+Artigo 273.º «Importância de parte dos saldos de contas de anos económicos
+findos» ... +150000000$00
+... 208014837$40
+Art. 3.º A fim de satisfazer os encargos respeitantes ao ano económico de 1963 por conta do crédito aberto pelo artigo 1.º deste diploma, fica a 1.ª Repartição da Direcção-Geral da Contabilidade Pública, desde já, autorizada a ordenar pagamentos até ao montante de 150000000$00, ficando a restante quantia de 58014837$40 condicionada à efectivação da receita respeitante às reposições não abatidas nos pagamentos referida no artigo anterior.
+Art. 4.º Este diploma entra imediatamente em vigor.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 7 de Março de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Para ser presente à Assembleia Nacional.
