@@ -1,0 +1,9 @@
+Portaria n.º 227/82
+de 19 de Fevereiro
+1 - Pelo Decreto-Lei n.º 181/80, de 3 de Junho, unificaram-se numa única estrutura as acções relativas ao Serviço Distrital de Acolhimento de Lisboa e ao Centro de Apoio Social de Lisboa.
+2 - Resulta com suficiente lógica daquele diploma legal, designadamente da sua parte dispositiva, ter dele surgido um novo serviço, claramente diferenciado, em razão do seu conteúdo funcional, de qualquer dos dois anteriormente existentes, ainda que adoptando a designação de um deles: o Centro de Apoio Social de Lisboa.
+3 - Decidida já a oportuna integração do Centro de Apoio Social de Lisboa no Centro Regional de Segurança Social de Lisboa, com a autonomia de gestão que se revelar desejável e necessária, tendo em atenção os seus fins, torna-se conveniente que, antes de ter lugar aquela integração, e com o objectivo, aliás, de a facilitar, sejam integralmente resolvidas as situações transitórias de uma significativa parte do seu pessoal.
+4 - Tendo em conta o disposto no artigo 5.º do diploma legal de início referido, que colocou o Centro de Apoio Social de Lisboa em regime de instalação com efeitos a partir de 1 de Janeiro de 1980, importa, por razões óbvias, com vista a assegurar o processo de transição decorrente do que se deixou expresso no número anterior, prorrogar, pelo tempo necessário, esse regime de funcionamento.
+Nestes termos, ao abrigo do disposto no n.º 2 do artigo 79.º do Decreto-Lei n.º 413/71, de 27 de Setembro:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Segurança Social, que seja prorrogado até 31 de Dezembro de 1982, com efeitos a partir de 1 de Janeiro do corrente ano, o regime de instalação do Centro de Apoio Social de Lisboa.
+Secretaria de Estado da Segurança Social, 20 de Janeiro de 1982. - O Secretário de Estado da Segurança Social, António José de Castro Bagão Félix.
