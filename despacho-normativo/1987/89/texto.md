@@ -1,0 +1,5 @@
+Despacho Normativo n.º 89/87
+O Despacho Normativo n.º 94/79, de 10 de Abril, ao qual se seguiram os Despachos Normativos n.os 291/81, de 22 de Setembro, e 81/82, de 12 de Maio, veio condicionar a actividade dos designados «circuitos móveis» prosseguida pelo sistema bancário.
+Face à política de progressiva redução da regulamentação existente, entende-se oportuno eliminar o condicionalismo actual, subordinando a actividade dos circuitos móveis apenas aos critérios de gestão das instituições de crédito, salvaguardando a segurança das instalações, dos meios por elas utilizados e, essencialmente, das pessoas que com elas colaboram e, ainda, ponderando a orientação definida no sentido de reduzirem os seus custos, de obterem economias globais ou individuais de meios e de aumentarem as suas produtividades.
+Assim, ouvido o Banco de Portugal, determino que sejam revogados os Despachos Normativos n.os 94/79, de 10 de Abril, 291/81, de 22 de Setembro, e 81/82, de 12 de Maio.
+Secretaria de Estado do Tesouro, 28 de Outubro de 1987. - O Secretário de Estado do Tesouro, Manuel Carlos de Carvalho Fernandes.
