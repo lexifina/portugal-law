@@ -1,0 +1,16 @@
+Decreto-Lei n.º 500-B/77
+de 28 de Novembro
+Considerando a necessidade de instalar um sistema de ILS na Base Aérea n.º 3;
+Tendo em vista as disposições do artigo 6.º do Decreto-Lei n.º 48234, de 31 de Janeiro de 1968:
+O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
+Artigo 1.º É autorizada a Direcção do Serviço de Electricidade e Telecomunicações da Força Aérea a celebrar um contrato com a Ondex - Representações Electrónicas, Lda., para a aquisição e montagem do sistema ILS, até ao montante de 8300000$00, sendo 5664694$30 o contravalor de US $146454,00, ao câmbio de 38$679, e 2635305$70 respeitante ao encargo em escudos.
+Art. 2.º - 1 - O encargo da aquisição a que se refere o artigo anterior não poderá em cada ano exceder as seguintes importâncias:
+Em 1977 - 2350000$00.
+Em 1978 - 5950000$00.
+2 - A importância fixada para o ano de 1978 será acrescida do saldo que se apurar no ano anterior.
+3 - O montante referido anteriormente será acrescido da quantia indispensável à cobertura dos encargos assumidos no contrtao sempre que a oscilação cambial o justifique.
+Art. 3.º Os encargos resultantes da execução do disposto no artigo anterior serão satisfeitos nos anos de 1977 e 1978 por dotações atribuídas ou propostas em despesas gerais dos orçamentos do Departamento da Força Aérea para cada um daqueles anos e nos montantes correspondentes.
+Visto e aprovado em Conselho da Revolução em 17 de Novembro de 1977.
+Promulgado em 26 de Novembro de 1977.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.
