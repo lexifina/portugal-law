@@ -1,5 +1,5 @@
 # Artigo 20.º
 
-### Documento comprovativo do pagamento da taxa de justiça
+### Destino da taxa de justiça
 
-Na falta de junção do documento comprovativo do pagamento da taxa de justiça, é desentranhada a respectiva peça processual.
+A taxa de justiça paga em procedimento de injunção que termine antes da distribuição a que se refere o n.º 1 do artigo 16.º constitui receita do Cofre Geral dos Tribunais.

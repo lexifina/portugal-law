@@ -1,7 +1,5 @@
 # Artigo 9.º
 
-### Apresentação do requerimento de injunção
+### Entrega do requerimento de injunção
 
-1 - O requerimento de injunção é apresentado, num único exemplar, na secretaria judicial.
-
-2 - As formas de apresentação do requerimento são aprovadas por portaria do Ministro da Justiça.
+O requerimento de injunção, num único exemplar, é entregue directamente na secretaria judicial ou a esta remetido pelo correio, sob registo, valendo, neste caso, como data do acto a do registo postal.
