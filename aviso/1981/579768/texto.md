@@ -1,0 +1,5 @@
+Aviso
+O Banco de Portugal, sob orientação superior do Ministério das Finanças e do Plano, e em conformidade com a competência que, como banco central, lhe é conferida pelos artigos 16.º e 26.º da sua Lei Orgânica, determina o seguinte:
+1.º Que aos empréstimos destinados à aquisição ou construção de habitação própria permanente concedidos ao abrigo do regime previsto no aviso da Secretaria de Estado do Tesouro de 27 de Julho de 1978, cujos contratos se encontrassem por celebrar em 2 de Janeiro de 1981, data da entrada em vigor do Decreto-Lei n.º 435/80, de 2 de Outubro, publicado no Diário da República, 1.ª série, n.º 228, de 2 de Outubro do mesmo ano, se aplique, por solicitação dos interessados, o regime estabelecido neste decreto-lei.
+2.º Fica revogado o aviso da Secretaria de Estado do Tesouro de 27 de Julho de 1978, publicado no Diário da República, 1.ª série, n.º 182, de 9 de Agosto do mesmo ano.
+Ministério das Finanças e do Plano, 1 de Julho de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão.
