@@ -1,0 +1,7 @@
+Despacho Normativo n.º 98/81
+1 - Nos termos do artigo 14.º da Lei n.º 75/79, de 29 de Novembro (Lei da Televisão), mandado aplicar, por analogia, à RDP, E. P., por força do Despacho Normativo n.º 200/80, de 8 de Julho, nos serviços de informação com mais de cinco jornalistas deverão ser constituídos conselhos de redacção, compostos por número ímpar de elementos eleitos de entre e por todos os jornalistas profissionais ao serviço da empresa.
+2 - Tendo a comissão administrativa da RDP, E. P., suscitado dúvidas quanto à aplicação prática daquele imperativo legal, dúvidas essas que, em última análise, têm conduzido ao não funcionamento dos referidos conselhos de redacção, esclarece-se e determina-se:
+a) Em cada redacção com mais de cinco jornalistas profissionais serão constituídos conselhos de redacção presididos pelo director de informação ou seus representantes;
+b) Os conselhos de redacção são eleitos de entre e pelos próprios jornalistas, assistindo exclusivamente a estes a legitimidade para definir a sua constituição, modo de eleição e regulamento interno, no cumprimento estrito das disposições legais em vigor;
+c) À comissão administrativa cabe tão-somente o reconhecimento dos conselhos de redacção constituídos, não sendo sua atribuição definir, apreciar ou sequer valorar os métodos de eleição e o regulamento definidos pelos jornalistas que conduziram à sua formação.
+Ministério da Qualidade de Vida, 2 de Março de 1981. - O Secretário de Estado da Comunicação Social, Luís de Oliveira Fontoura.
