@@ -1,0 +1,7 @@
+Despacho Normativo n.º 355/93
+Considerando que o n.º 1 do Despacho Normativo n.º 149/93, de 12 de Julho, criou no quadro de pessoal da Direcção-Geral dos Serviços de Gestão e Organização, aprovado pela Portaria n.º 110/93, de 30 de Janeiro, um lugar de técnico superior principal da carreira de técnico superior de biblioteca e documentação, a extinguir quando vagar;
+Considerando que o n.º 2 do mesmo despacho normativo determina que a criação daquele lugar produz efeitos desde 10 de Junho de 1992;
+Considerando que, desta forma e face ao disposto na alínea a) do n.º 2 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, não foi correctamente equacionada a situação da bibliotecária de 1.ª classe do quadro de pessoal da extinta Biblioteca Nacional Maria Madalena Arruda de Moura Machado Garcia, cuja comissão de serviço como directora de serviços do Instituto Português de Arquivos terminou em 1 de Abril de 1992:
+Determina-se que o n.º 2 do Despacho Normativo n.º 149/93, de 12 de Julho, passe a ter a seguinte redacção:
+2 - A criação do lugar referido no número anterior produz efeitos a partir de 1 de Abril de 1992, considerando-se tais efeitos como reportados ao quadro da ex-Biblioteca Nacional até à entrada em vigor da portaria referida no número anterior.
+Presidência do Conselho de Ministros e Ministério das Finanças, 21 de Outubro de 1993. - A Secretária de Estado Adjunta e do Orçamento, Maria Manuela Dias Ferreira Leite. - O Subsecretário de Estado da Cultura, Manuel Joaquim Barata Frexes.
