@@ -1,0 +1,9 @@
+Despacho Normativo n.º 109/77
+Considerando que quanto à remuneração base e fórmula sobre a qual as pensões de invalidez a militares são calculadas se verifica existir uma disparidade de critérios entre os militares incorporados por Portugal continental, aos quais se aplica desde 1 de Janeiro de 1973 (inclusive) o regime constante do Estatuto da Aposentação (Decreto-Lei n.º 498/72, de 9 de Dezembro), e os militares incorporados pelos ex-territórios ultramarinos, aos quais se aplica o regime estabelecido no Decreto-Lei n.º 48273, de 12 de Março de 1968;
+Considerando que resulta de tal disparidade serem as pensões destes de montante inferior às daqueles;
+Considerando que o Decreto-Lei n.º 43/76, de 20 de Janeiro, quer no seu espírito, quer na sua letra, pretendeu regular de igual modo a situação dos militares que nos seus termos se deficientaram, independentemente do território pelo qual foram incorporados e/ou do local da sua residência;
+Considerando que, no caso específico dos cidadãos portugueses considerados deficientes das forças armadas (DFA), ao abrigo do Decreto-Lei n.º 43/76, de 20 de Janeiro, este diploma revoga o Decreto-Lei n.º 210/73, de 9 de Maio, com excepção dos seus artigos 1.º e 7.º;
+Considerando que os encargos com as pensões de invalidez e reforma extraordinária, que eram suportados pelos orçamentos das ex-províncias ultramarinas, passaram a sê-lo pelo Orçamento Geral do Estado Português:
+Determina-se:
+Que a liquidação das pensões de invalidez e reforma extraordinária dos cidadãos considerados DFA, ao abrigo do Decreto-Lei n.º 43/76, de 20 de Janeiro, que foram incorporados pelos ex-territórios ultramarinos e/ou neles tivessem tido, tenham ou venham a ter residência seja processada em igualdade de condições com os DFA incorporados em Portugal.
+Ministérios da Defesa Nacional e das Finanças, 4 de Março de 1977. - O Ministro da Defesa Nacional, Mário Firmino Miguel. - O Ministro das Finanças, Henrique Medina Carreira.
