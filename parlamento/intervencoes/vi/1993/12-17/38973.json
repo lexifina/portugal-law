@@ -1,0 +1,78 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=rKtwshDyv1NBeu65K82ef9j6oFE3w%2fgAbqyUhooMpoSyQQ0pTyzibfD50gH%2baGhs1TrcG1r0l2bU1A0KAmFXPBoWqi6NY9nsxTw%2fxAs2r347ke8O86pD8UW0Vo24i8zPmfcPKM5y3XEB99eQAf1Ojm%2bemILgruHhJl9u7yVaplGsWPI0o%2bZUTUUBCanSa5007dUY7uakZ2EgL138SciEtNOWsIyqy66pG5Eu5crXojP8szj276fRrDhZdP6MEXFhdUelamzN3e1Rpwl8sPVmxdyANoDqpCtvpC0PXNmoyGF02wzb13ACPnwjTtn%2bPiN%2b1oG5E%2bkfl50yDwrf9Q4ck3XnT7zfIqh68Ee0O7Ap66U%3d&fich=IntervencoesVI_json.txt&Inline=true",
+  "ficheiro_sha256": "09dcb463dee20c5105fb36bc1a4e2274ee28613bb7bd19e9b953a0ed8eb5faf8",
+  "legislatura": "VI",
+  "id": "38973",
+  "tipo": "Leitura",
+  "orador": "Vítor Crespo (PSD)",
+  "data_registo": "1993-12-17",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "3879",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "3879",
+        "tipo": "DEB",
+        "titulo": "Apreciação de relatórios - RELATORIOS DO GRUPO PORTUGUES DA UNIAO INTERPARLAMENTAR"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1993-12-17",
+    "Debate": "RELATORIOS DO GRUPO PORTUGUES DA UNIAO INTERPARLAMENTAR",
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "140",
+      "nome": "Vítor Crespo"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "38973",
+    "IdDebate": "1110",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VI",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "38973",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "724-725"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1993-12-18",
+        "pubLeg": "VI",
+        "pubNr": "21",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/021/1993-12-18/724?pgs=724-725&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "RELATORIO DA 88A. CONFERENCIA DA UNIAO INTERPARLAMENTAR , EM ESTOCOLMO. RELATORIO DA PARTICIPACAO DO GRUPO PORTUGUES NOS TRABALHOS DA 90A. CONFERENCIA INTERPARLAMENTAR, EM CAMBERRA. ",
+    "Sessao": "3",
+    "Sumario": "RELATORIO DA 88A. CONFERENCIA INTERPARLAMENTARRELATORIO DA PARTICIPACAO NOS TRABALHOS DA 90A. CONFERENCIAINTERPARLAMENTAR",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Leitura"
+  }
+}
