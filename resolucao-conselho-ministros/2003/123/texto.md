@@ -1,0 +1,9 @@
+Resolução do Conselho de Ministros n.º 123/2003
+À semelhança do que ocorre em outros países, Portugal enfrenta actualmente uma vaga de calor, com temperaturas superiores a 40ºC, acompanhada de níveis de humidade na atmosfera muito baixos, de ventos de grande intensidade e da ocorrência de trovoadas secas.
+Tal quadro meteorológico, registado, pelo menos, desde o passado dia 20 de Julho, originou um sobreaquecimento tal que não permite, durante a noite, o abaixamento das temperaturas e o aumento da humidade para níveis favoráveis à extinção dos incêndios, os quais têm, inclusivamente, impossibilitado a utilização regular de meios aéreos. Esta situação tem provocado uma rápida propagação dos incêndios e uma elevada intensidade das frentes de chama.
+Desde o passado dia 9 de Agosto, a situação descrita, tendo sido já diagnosticada no território de outros distritos, estendeu-se também ao distrito de Faro, nomeadamente por virtude da ocorrência de incêndios com vastíssimas proporções.
+Importa, desta forma, estender a declaração de calamidade pública, constante da Resolução do Conselho de Ministros n.º 106-B/2003, de 11 de Agosto, à área do distrito de Faro.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve alterar o n.º 1 da Resolução do Conselho de Ministros n.º 106-B/2003, de 11 de Agosto, o qual passa a ter a seguinte redacção:
+«1 - Declarar a situação de calamidade pública, decorrente dos incêndios verificados desde 20 de Julho de 2003, em circunstâncias excepcionalmente gravosas, na área dos distritos de Bragança, Guarda, Castelo Branco, Coimbra, Santarém, Portalegre, Leiria, Setúbal e Faro, produzindo efeitos desde aquela data até ao restabelecimento da normalidade nas áreas afectadas.»
+Presidência do Conselho de Ministros, 14 de Agosto de 2003. - O Primeiro-Ministro, José Manuel Durão Barroso.
