@@ -1,0 +1,479 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=WEUMi7%2fBtIIg%2fkHBDyZ%2fsil3BmWuButejMvPGkqNVyUfIJXddc1IDB3t8GXfBL3zSPQF%2bIyDi3AcWLUm0oL6crfUIOoirULFjyvRAul6J%2by6a6FDtpJuVrK3Y3rP8bCLGdxev%2bdUqQgc%2bXEDQI%2f8OLEsCv3IziG5WQHDSzFAl7qQApdhGho5obQdwDn6iwyWAFYt%2fzWn72d9GQ0G7zTxyKwsQjpKzhAqqYI6%2fCsSwtcK7MkwpbhLc%2bPOBViftzfwo0QY4%2b1hHCAUUDtd7wn2zRmIMG1aKMpZb8PUmWVGX9mCVPzhBcSom0%2boac5wXwR%2fcfo1uKTMHtBvk9eTSDfjfyy5P2leMqegA1xVPD5%2bIs%2bMWrsB8j6dH%2fUqNW7MrBr8&fich=PeticoesVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "c7a8b036f2bb9420007f23598577186345f4c787fefe68382e6a1aac6e3b6ea3",
+  "legislatura": "VIII",
+  "id": "11184",
+  "numero": "81",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2001-10-31",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2002-06-26",
+            "dataResposta": null,
+            "entidades": [
+              "Ministro da Saúde"
+            ],
+            "nrOficio": "519/COM",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2002-11-14",
+                "dataResposta": null,
+                "nrOficio": "1272/COM",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2003-01-28",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2002-05-28",
+        "DataArquivo": "2003-01-28",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2003-02-06",
+        "DataReaberta": "2002-05-28",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "109",
+        "Legislatura": "IX",
+        "Nome": "COMISSÃO DE TRABALHO E DOS ASSUNTOS SOCIAIS",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2002-05-29",
+            "gp": "PSD",
+            "id": "1991",
+            "motivoCessacao": null,
+            "nome": "Clara Carneiro"
+          }
+        ],
+        "RelatorioFinal": [
+          "21535"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2003-01-28",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2001-10-31",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c304e5054533834553151765247396a6457316c626e52766331426c64476c6a595738764e546b774d54413459545974596d513459533030593245774c5749334d6d45745a57466b596d51774d47566a5a5745344c6e426b5a673d3d&fich=590108a6-bd8a-4ca0-b72a-eadbd00ecea8.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "24",
+        "Legislatura": "VIII",
+        "Nome": "COMISSAO DE SAUDE E TOXICODEPENDENCIA",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2003-04-09",
+    "Documentos": [
+      {
+        "DataDocumento": "2001-10-31",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c63793834597a413159325932595330774d7a45324c5451784d7a55744f5446694d6930324e44637a593255324d6a646c4e5445756347526d&fich=8c05cf6a-0316-4135-91b2-6473ce627e51.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2003-04-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145242",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4603-4603"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-10",
+                "pubLeg": "IX",
+                "pubNr": "109",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/109/2003-04-10/4603?pgs=4603&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 15/VIII/1.ª - Apresentada pela Junta de Freguesia de Sintra, São Martinho,  manifestando  o seu desagrado pelo encerramento das urgências do ex-Hospital de Sintra e a sua abertura no Centro de Saúde de Sintra; Petição n.º 79/VIII/3ª- Apresentada pela Comissão de Utentes de Saúde do Pinhal Novo, solicitando a criação de uma extensão de saúde no lado sul do Pinhal Novo; alargamento do horário de atendimento; médico de família para todos os utentes; meios auxiliares de diagnóstico e de serviços continuados de saúde; e Petição n.º 81/VIII/3.ª - Apresentada pela Comissão de Utentes de Saúde da Península de Setúbal, solicitando, nomeadamente, novos equipamentos de saúde no Pinhal Novo, Quinta do Conde, Alto Estanqueiro, Baixa da Banheira, Vale da Amoreira, Azeitão, Amora e Corroios",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-04-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145243",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4603-4604"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-10",
+                "pubLeg": "IX",
+                "pubNr": "109",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/109/2003-04-10/4603?pgs=4603-4604&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 15/VIII/1.ª - Apresentada pela Junta de Freguesia de Sintra, São Martinho,  manifestando  o seu desagrado pelo encerramento das urgências do ex-Hospital de Sintra e a sua abertura no Centro de Saúde de Sintra; Petição n.º 79/VIII/3ª- Apresentada pela Comissão de Utentes de Saúde do Pinhal Novo, solicitando a criação de uma extensão de saúde no lado sul do Pinhal Novo; alargamento do horário de atendimento; médico de família para todos os utentes; meios auxiliares de diagnóstico e de serviços continuados de saúde; e Petição n.º 81/VIII/3.ª - Apresentada pela Comissão de Utentes de Saúde da Península de Setúbal, solicitando, nomeadamente, novos equipamentos de saúde no Pinhal Novo, Quinta do Conde, Alto Estanqueiro, Baixa da Banheira, Vale da Amoreira, Azeitão, Amora e Corroios",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-04-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145244",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4604-4604"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-10",
+                "pubLeg": "IX",
+                "pubNr": "109",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/109/2003-04-10/4604?pgs=4604&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 15/VIII/1.ª - Apresentada pela Junta de Freguesia de Sintra, São Martinho,  manifestando  o seu desagrado pelo encerramento das urgências do ex-Hospital de Sintra e a sua abertura no Centro de Saúde de Sintra; Petição n.º 79/VIII/3ª- Apresentada pela Comissão de Utentes de Saúde do Pinhal Novo, solicitando a criação de uma extensão de saúde no lado sul do Pinhal Novo; alargamento do horário de atendimento; médico de família para todos os utentes; meios auxiliares de diagnóstico e de serviços continuados de saúde; e Petição n.º 81/VIII/3.ª - Apresentada pela Comissão de Utentes de Saúde da Península de Setúbal, solicitando, nomeadamente, novos equipamentos de saúde no Pinhal Novo, Quinta do Conde, Alto Estanqueiro, Baixa da Banheira, Vale da Amoreira, Azeitão, Amora e Corroios",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-04-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145245",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4604-4605"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-10",
+                "pubLeg": "IX",
+                "pubNr": "109",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/109/2003-04-10/4604?pgs=4604-4605&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 15/VIII/1.ª - Apresentada pela Junta de Freguesia de Sintra, São Martinho,  manifestando  o seu desagrado pelo encerramento das urgências do ex-Hospital de Sintra e a sua abertura no Centro de Saúde de Sintra; Petição n.º 79/VIII/3ª- Apresentada pela Comissão de Utentes de Saúde do Pinhal Novo, solicitando a criação de uma extensão de saúde no lado sul do Pinhal Novo; alargamento do horário de atendimento; médico de família para todos os utentes; meios auxiliares de diagnóstico e de serviços continuados de saúde; e Petição n.º 81/VIII/3.ª - Apresentada pela Comissão de Utentes de Saúde da Península de Setúbal, solicitando, nomeadamente, novos equipamentos de saúde no Pinhal Novo, Quinta do Conde, Alto Estanqueiro, Baixa da Banheira, Vale da Amoreira, Azeitão, Amora e Corroios",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-04-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145246",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4605-4606"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-10",
+                "pubLeg": "IX",
+                "pubNr": "109",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/109/2003-04-10/4605?pgs=4605-4606&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 15/VIII/1.ª - Apresentada pela Junta de Freguesia de Sintra, São Martinho,  manifestando  o seu desagrado pelo encerramento das urgências do ex-Hospital de Sintra e a sua abertura no Centro de Saúde de Sintra; Petição n.º 79/VIII/3ª- Apresentada pela Comissão de Utentes de Saúde do Pinhal Novo, solicitando a criação de uma extensão de saúde no lado sul do Pinhal Novo; alargamento do horário de atendimento; médico de família para todos os utentes; meios auxiliares de diagnóstico e de serviços continuados de saúde; e Petição n.º 81/VIII/3.ª - Apresentada pela Comissão de Utentes de Saúde da Península de Setúbal, solicitando, nomeadamente, novos equipamentos de saúde no Pinhal Novo, Quinta do Conde, Alto Estanqueiro, Baixa da Banheira, Vale da Amoreira, Azeitão, Amora e Corroios",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-04-10",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145247",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4606-4606"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-10",
+                "pubLeg": "IX",
+                "pubNr": "109",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/109/2003-04-10/4606?pgs=4606&org=PLC"
+              }
+            ],
+            "Sumario": "Petição n.º 15/VIII/1.ª - Apresentada pela Junta de Freguesia de Sintra, São Martinho,  manifestando  o seu desagrado pelo encerramento das urgências do ex-Hospital de Sintra e a sua abertura no Centro de Saúde de Sintra; Petição n.º 79/VIII/3ª- Apresentada pela Comissão de Utentes de Saúde do Pinhal Novo, solicitando a criação de uma extensão de saúde no lado sul do Pinhal Novo; alargamento do horário de atendimento; médico de família para todos os utentes; meios auxiliares de diagnóstico e de serviços continuados de saúde; e Petição n.º 81/VIII/3.ª - Apresentada pela Comissão de Utentes de Saúde da Península de Setúbal, solicitando, nomeadamente, novos equipamentos de saúde no Pinhal Novo, Quinta do Conde, Alto Estanqueiro, Baixa da Banheira, Vale da Amoreira, Azeitão, Amora e Corroios",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11184",
+    "PetAssunto": "Solicitam a intervenção da Assembleia da República quanto à pretensão, designadamente, de novos equipamentos de saúde em Pinhal Novo, Quinta do Conde, Alto Estanqueiro, Baixa da Banheira, vale da amoreira, Azeitão, Amora e Corroios.",
+    "PetDataEntrada": "2001-10-31",
+    "PeticoesAssociadas": null,
+    "PetId": "11184",
+    "PetLeg": "VIII",
+    "PetNr": "81",
+    "PetNrAssinaturas": "5434",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "SAÚDE",
+    "PetSel": "3",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "694",
+        "obs": null,
+        "pag": [
+          "4603-4606"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-04-10",
+        "pubLeg": "IX",
+        "pubNr": "109",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/109/2003-04-10/4603?pgs=4603-4606&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "271065",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2002-06-08",
+        "pubLeg": "IX",
+        "pubNr": "6",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/01/006/2002-06-08?org=PLC"
+      }
+    ]
+  }
+}
