@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que o Governo de Espanha comunicou, por nota diplomática datada de 10 de Fevereiro de 1983, terem sido cumpridos os requisitos constitucionais exigidos para a entrada em vigor do Protocolo Adicional ao Acordo entre o Governo da República Portuguesa e o Governo de Espanha sobre a Dispensa de Passaportes de 17 de Abril de 1979, assinado em Madrid em 7 de Maio de 1981 e publicado no Diário da República, 1.ª série, n.º 53, de 5 de Maio de 1982, pelo que, nos termos do respectivo artigo 3.º, n.º 2, o referido Protocolo Adicional entrou em vigor em 12 de Março de 1983.
+Direcção-Geral dos Serviços Centrais, 6 de Abril de 1983. - O Director-Geral, João Morais da Cunha Matos.
