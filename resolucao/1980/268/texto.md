@@ -1,0 +1,4 @@
+Resolução n.º 268/80
+Tendo apreciado as situações decorrentes da recente greve da TAP, e considerando os graves danos morais resultantes da difusão, através dos órgãos de comunicação social, de notícias sobre eventuais irregularidades associadas ao funcionamento daquela empresa pública, bem como o alegado envolvimento de personalidades não identificadas em negociações importantes:
+O Conselho de Ministros, reunido em 14 de Julho de 1980, resolveu encarregar os Ministros das Finanças e do Plano, do Trabalho e dos Transportes e Comunicações de promoverem, através das entidades competentes, os inquéritos necessários a um completo e urgente apuramento dos factos, bem como da responsabilidade dos mesmos e da difusão de notícias eventualmente falsas ou deturpadas.
+Presidência do Conselho de Ministros, 14 de Julho de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
