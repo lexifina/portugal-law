@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que em 24 de Dezembro de 1980 o Governo dos Estados Unidos da América depositou junto do Ministério dos Negócios Estrangeiros dos Países Baixos o instrumento de adesão à Convenção Relativa à Supressão da Exigência da Legalização dos Actos Públicos Estrangeiros, concluída na Haia em 5 de Outubro de 1961, com uma declaração. Portugal já é parte desta Convenção. Aquele instrumento diplomático entrará em vigor, com referência àquele país, em 15 de Outubro de 1981.
+Secretaria-Geral do Ministério, 31 de Março de 1981. - O Director-Geral dos Serviços Jurídicos e de Tratados, Carlos Augusto Fernandes.
