@@ -1,0 +1,19 @@
+Portaria n.º 229/75
+de 4 de Abril
+O incremento das relações comerciais, à escala internacional, está na origem da intensificação constante da procura dos meios de transporte adequados à natureza e volume do tráfego nele envolvido.
+Neste contexto, a oferta de transportes combinados evolui necessariamente no sentido de constante adaptação às exigências de ordem qualitativa e quantitativa da procura de transporte multímodo decorrente das operações de comércio que se processam para além dos quadros nacionais.
+Em resultado dessas operações surgiu a necessidade de assegurar o transporte terminal dos reboques e semi-reboques quando, separados dos respectivos veículos tractores, entram em território nacional ou no mesmo se encontram estacionados, ao abrigo da importação temporária, para efeitos da movimentação de mercadorias contentorizadas.
+Todavia, a legislação em vigor aplicável aos transportes internos não prevê a utilização dos tractores de aluguer para além do transporte de reboques que com aqueles formem conjunto e cuja matrícula se encontra referenciada nas respectivas licenças.
+Por outro lado, verifica-se a insuficiência do equipamento disponível em condições de efectuar o transporte de contentores que exigem o emprego de reboques ou semi-reboques dotados de características especiais.
+Há, pois, que atender, desde já, às necessidades mais urgentes originadas na procura, obstando a que a oferta deste tipo de transporte se processe em condições irregulares.
+Por isso, enquanto se processa com urgência o estudo das condições adequadas à criação de um parque quantitativa e qualitativamente apetrechado para a satisfação de uma procura sempre crescente, torna-se indispensável a adopção de providências imediatas, tendentes a regularizar estes transportes e a definir o condicionalismo dentro do qual os mesmos deverão operar.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado dos Transportes e Comunicações, o seguinte:
+1 - Os veículos tractores de aluguer poderão, dentro das respectivas condições de licenciamento e desde que não seja excedida a tonelagem que estão autorizados a rebocar, atrelar reboques ou semi-reboques de matrícula estrangeira, importados temporariamente, nos seguintes casos:
+a) Nas operações de transporte previstas no artigo 65.º do Decreto n.º 45/72, de 5 de Fevereiro.
+b) A título provisório, mediante autorização da Direcção-Geral de Transportes Terrestres, quando os referidos reboques ou semi-reboques sejam utilizados em transporte interno com vista ao exercício da actividade da empresa locatária.
+2 - Os veículos tractores de aluguer poderão ainda, mediante autorização da Direcção-Geral de Transportes Terrestres, dentro das respectivas condições de licenciamento e não sendo excedida a tonelagem que estão autorizados a rebocar, atrelar reboques ou semi-reboques de matrícula nacional da propriedade da empresa locatária desde que:
+a) O transporte tenha por finalidade a movimentação de mercadorias da propriedade da empresa ou que constituam objecto da actividade da mesma ou lhe tenham sido entregues para reparação ou transformação no exercício da referida actividade;
+b) O aluguer dos referidos veículos tractores se fundamente em circunstâncias excepcionais, ligadas à momentânea indisponibilidade (nos casos de avaria ou revisão, por exemplo) dos tractores que a empresa locatária possui para a movimentação das mercadorias referidas na alínea anterior ou decorrentes da ausência de equipamento por parte dos industriais de transporte, impeditiva da oferta de serviços de aluguer dos referidos reboques ou semi-reboques.
+c) Não sejam ultrapassados a carga útil ou o raio de circulação atribuídos aos reboques ou semi-reboques.
+Secretaria de Estado dos Transportes e Comunicações, 18 de Março de 1975. - O Secretário de Estado dos Transportes e Comunicações, Manuel Branco Ferreira Lima.
