@@ -1,0 +1,247 @@
+Decreto-Lei n.º 278/87
+de 7 de Julho
+De acordo com a Lei n.º 33/77, de 28 de Maio, o Estado Português exerce soberania sobre uma extensão de mar territorial com a largura de 12 milhas e jurisdição sobre uma zona económica exclusiva de 200 milhas.
+Os deveres e direitos do Estado Português relativamente às áreas marítimas sob sua jurisdição, e sobre as quais exerce direitos soberanos, em especial no que se refere a recursos vivos, impõem, assim, a definição de um quadro legal apropriado de normas gerais que estabeleçam e repartam pelas diferentes entidades estatais as suas competências políticas e administrativas na matéria em causa e definam sistemas, estruturas e procedimentos apropriados.
+Por outro lado, a adesão de Portugal à Comunidade Económica Europeia significou a incorporação automática no direito interno das normas comunitárias (com precedência sobre as normas nacionais), em particular das medidas técnicas de gestão e conservação dos recursos da pesca, e alterou desde logo algumas normas constantes dos regulamentos nacionais.
+As alterações desde já introduzidas pela legislação comunitária e a necessidade de suster a séria degradação dos recursos da pesca que tem afectado o bom desenvolvimento das pescas nacionais tornam indispensável proceder a uma revisão profunda de toda a regulamentação nacional de pesca - incluindo aquelas normas que não foram por enquanto directamente afectadas pelos regulamentos comunitários - no sentido de as harmonizar e tornar coerentes com a legislação da Comunidade Económica Europeia e, mais do que isso, com o propósito de reunir as condições indispensáveis à melhoria e ao desenvolvimento das pescas portuguesas.
+Nestes termos:
+Ouvidos os órgãos de governo próprio das regiões autónomas:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+CAPÍTULO I
+Disposições gerais
+Artigo 1.º
+Objecto
+O presente decreto-lei tem por objecto a definição do quadro legal do exercício da pesca marítima e da cultura de espécies marinhas.
+Artigo 2.º
+Definições
+Para os efeitos deste diploma e dos seus regulamentos entende-se por:
+a) Espécies marinhas - todos os animais ou plantas que tenham na água salgada ou salobra o seu normal e mais frequente meio de vida;
+b) Pesca marítima, abreviadamente designada por pesca - a captura e apanha de espécies marinhas;
+c) Pesca comercial - a captura e apanha de espécies marinhas que se destinem a ser objecto de comércio, sob qualquer forma, quer no estado em que foram extraídas, quer após subsequente preparação, modificação ou transformação;
+d) Embarcações de pesca - as embarcações que são utilizadas na pesca, transformação e transporte de pescado e produtos dele derivados, com exclusão das embarcações que os transportem como carga geral;
+e) Culturas marinhas - actividades que têm um ou mais dos seguintes fins: reprodução, crescimento, engorda, manutenção e melhoramento de espécies marinhas;
+f) Estabelecimentos de culturas marinhas - áreas de água salgada ou salobra e seus fundos, demarcadas ou total ou parcialmente fechadas, e quaisquer artefactos, flutuantes ou submersos, e instalações em terra firme que tenham por fim a cultura de espécies marinhas.
+CAPÍTULO II
+Do exercício da pesca
+Artigo 3.º
+Limites legais ao exercício da pesca marítima
+1 - O exercício da pesca em águas sob soberania e jurisdição nacionais e por embarcações nacionais em águas não submetidas à soberania e jurisdição nacionais está sujeito aos regulamentos aplicáveis da Comunidade Económica Europeia e às disposições do presente diploma e seus regulamentos, bem como às dos acordos de que Portugal seja parte.
+2 - Sempre que os regulamentos da Comunidade Económica Europeia o permitam ou imponham ou quando a pesca é exercida em modalidades ou em águas não abrangidas no seu âmbito de aplicação, compete ao Governo, salvo disposição em contrário, estabelecer, por via de regulamentos adequados, condicionamentos ao exercício da pesca ou prever as condições e critérios para a sua aplicação, tendo em vista, nomeadamente, a conservação, gestão e exploração racional, fomento e valorização dos recursos, bem como a adequação da pesca aos níveis de produtividade dos recursos disponíveis.
+Artigo 4.º
+Condicionamentos ao exercício da pesca
+A regulamentação referida no n.º 2 do artigo anterior pode estabelecer, nomeadamente, os seguintes condicionamentos e prever as condições e critérios para a sua aplicação:
+a) Sujeição a autorização prévia da aquisição, construção e modificação de embarcações de pesca a registar ou registadas em portos nacionais;
+b) Sujeição das actividades das embarcações de pesca e da utilização de artes e outros instrumentos de pesca a regimes de autorização e licenciamento, bem como à fixação do número máximo de autorizações e licenças;
+c) Classificação e definição das áreas e condições de operação das embarcações de pesca, bem como dos respectivos requisitos;
+d) Interdição ou restrição do exercício da pesca em certas áreas, ou em certos períodos, ou de certas espécies, ou para embarcações com certas características, ou com certas artes e instrumentos;
+e) Fixação de condições de utilização das artes e instrumentos de pesca;
+f) Classificação e definição dos tipos e características das artes, tais como malhagem das redes, dimensões, materiais e modo de confecção;
+g) Limitação do volume de capturas de certas espécies pela fixação de máximos de captura autorizados e respectiva repartição;
+h) Fixação da percentagem de capturas acessórias de certas espécies, com certas artes de pesca;
+i) Fixação do tamanho ou peso mínimos das espécies capturadas que podem ser mantidas a bordo;
+j) Proibição de manter a bordo, transbordar, desembarcar, transportar, vender, armazenar, expor ou colocar à venda espécies marinhas cuja pesca não esteja autorizada ou cujos tamanhos ou pesos mínimos não se conformem com os legalmente estabelecidos.
+Artigo 5.º
+Restrições ao exercício da pesca por outros motivos
+O Governo pode estabelecer, a título permanente ou temporário, restrições ao exercício da pesca por motivos de saúde pública, de defesa do ambiente, de segurança e normal circulação da navegação, ou por outros motivos de interesse público.
+Artigo 6.º
+Exercício da pesca por embarcações estrangeiras
+1 - Com excepção do previsto no número seguinte e sem prejuízo do disposto no Tratado que institui a Comunidade Económica Europeia e nos regulamentos que o aplicam, assim como no Tratado de Adesão de Portugal à Comunidade Económica Europeia, é proibido o exercício da pesca marítima por embarcações estrangeiras em águas sob soberania e jurisdição nacionais.
+2 - Nas condições previstas no Tratado que institui a Comunidade Económica Europeia e nos regulamentos que o aplicam, bem como nos acordos internacionais celebrados pela Comunidade Económica Europeia e nos limites por eles estabelecidos, podem ser concedidas licenças de pesca a embarcações de Estados não membros da Comunidade Económica Europeia.
+Artigo 7.º
+Regime da pesca sem fins comerciais
+A pesca sem fins comerciais com ou sem auxílio de embarcações pode ser exceptuada de todos ou de parte dos condicionamentos previstos no artigo 4.º deste diploma e seus regulamentos, desde que dela não resultem prejuízos para a pesca comercial, bem como para a conservação e gestão dos recursos pesqueiros explorados.
+Artigo 8.º
+Competência para a concessão de autorizações
+1 - Sem prejuízo do disposto no artigo 34.º, as autorizações prévias referidas nas alíneas a) e b) do artigo 4.º são da competência do Ministro da Agricultura, Pescas e Alimentação.
+2 - Os pedidos para a concessão das autorizações previstas no número anterior deverão estar conformes às políticas da Comunidade Económica Europeia e nacional, nomeadamente em matérias relativas às estruturas produtivas e à conservação e gestão dos recursos pesqueiros.
+Artigo 9.º
+Afretamento de embarcações de pesca estrangeiras
+1 - Sem prejuízo do disposto no artigo 34.º, o afretamento de embarcações de pesca estrangeiras por pessoas singulares ou colectivas nacionais para o exercício da pesca está sujeito a autorização do Ministro da Agricultura, Pescas e Alimentação.
+2 - O afretamento referido no número anterior só pode ser autorizado quando vise:
+a) Substituir uma embarcação cuja construção ou modificação já esteja autorizada;
+b) Experimentar novos tipos de embarcações ou novas artes e técnicas de pesca ou explorar novas áreas de operação.
+3 - As espécies capturadas pelas embarcações afretadas assim como os produtos resultantes da transformação daquelas efectuada a bordo das referidas embarcações são considerados de origem nacional.
+4 - As embarcações afretadas ficam sujeitas às disposições legais aplicáveis às embarcações de pesca nacionais.
+Artigo 10.º
+Repartição de quotas, licenças de pesca e máximos de captura autorizados
+1 - Sempre que as actividades das embarcações de pesca nacionais estejam sujeitas a limitações do volume de captura resultantes da fixação de quotas, ou de máximos de captura autorizados, ou de número limitado de licenças disponíveis, o Ministro da Agricultura, Pescas e Alimentação, tendo em conta, nomeadamente, o número, características e actividades tradicionais das embarcações e localização dos recursos capturáveis, repartirá pelo conjunto das embarcações registadas nos portos de cada uma das parcelas do território nacional - continente, Região Autónoma da Madeira e Região Autónoma dos Açores:
+a) As quotas e licenças atribuídas a Portugal pela Comunidade Económica Europeia;
+b) As quotas e licenças atribuídas a Portugal, no quadro de acordos de pesca de que seja parte;
+c) Os máximos de captura de certas espécies, fixados nos termos da alínea g) do artigo 4.º
+2 - A atribuição das partes das quotas, dos máximos de captura autorizados e do número de licenças a repartir por embarcações ou grupos de embarcações registadas nos portos do continente é da competência do Ministro da Agricultura, Pescas e Alimentação, aplicando-se quanto às embarcações registadas nos portos das regiões autónomas o disposto no artigo 34.º
+CAPÍTULO III
+Das culturas marinhas
+Artigo 11.º
+Regime de autorização e licenciamento dos estabelecimentos de culturas marinhas
+1 - Sem prejuízo do disposto no artigo 3.º, a instalação e exploração de estabelecimentos de culturas marinhas, quer em terrenos e águas do domínio público marítimo quer em terrenos de propriedade privada dentro ou fora das áreas de jurisdição das autoridades marítimas, estão sujeitas a autorização e licenciamento, a conceder pelo Ministro da Agricultura, Pescas e Alimentação.
+2 - As condições gerais de instalação e exploração dos estabelecimentos referidos no número anterior, bem como os procedimentos relativos à sua autorização e licenciamento, serão objecto de regulamento a aprovar pelo Ministro da Agricultura, Pescas e Alimentação.
+Artigo 12.º
+Concessão e licenciamento de terrenos do domínio público para culturas marinhas
+1 - Sem prejuízo do disposto no artigo 34.º, a concessão e licenciamento do uso exclusivo de parcelas de terrenos do domínio público marítimo para fins de instalação e exploração dos estabelecimentos referidos no artigo anterior é da competência dos Ministros da Agricultura, Pescas e Alimentação e das Obras Públicas, Transportes e Comunicações.
+2 - As condições gerais da concessão e licenciamento do uso exclusivo de parcelas de terrenos do domínio público marítimo para fins de instalação e exploração de estabelecimentos de culturas marinhas, bem como os procedimentos administrativos para a sua obtenção, serão objecto de regulamento, a aprovar pelos Ministros da Agricultura, Pescas e Alimentação e das Obras Públicas, Transportes e Comunicações.
+CAPÍTULO IV
+Dos registos, informação e fiscalização de actividades
+Artigo 13.º
+Registos de actividade
+Sem prejuízo do disposto no artigo 34.º, para além dos registos da actividade de pesca previstos nos regulamentos da Comunidade Económica Europeia, o Ministro da Agricultura, Pescas e Alimentação poderá estabelecer, através de regulamentos adequados, outros registos obrigatórios das actividades da pesca e das culturas marinhas, para fins de informação e controle.
+Artigo 14.º
+Regime de informação recíproca entre o Governo e as regiões autónomas
+Tendo em vista a definição das políticas de pesca, bem como o cumprimento das obrigações do Estado emergentes dos actos comunitários no domínio da política comum das pescas, deverão ser observadas entre o Governo e as regiões autónomas as seguintes regras de informação recíproca:
+a) Os órgãos próprios das regiões autónomas darão conhecimento ao Ministério da Agricultura, Pescas e Alimentação dos actos relativos às matérias reguladas no presente diploma, bem como das descargas de pescado efectuadas em portos da região, nomeadamente do seu volume, valor e respectiva composição por espécies;
+b) O Governo comunicará aos órgãos próprios das regiões autónomas todas as informações de que disponha relativas às descargas de pescado efectuadas em portos do continente e estrangeiros, nomeadamente do seu volume, valor e composição por espécies, provenientes de capturas realizadas em águas abrangidas nas regiões.
+Artigo 15.º
+Fiscalização de actividades
+1 - Sem prejuízo do disposto no artigo 34.º, a fiscalização das actividades de captura, desembarque, cultura e comercialização das espécies marinhas compete aos órgãos e serviços do Ministério da Defesa Nacional, do Ministério da Agricultura, Pescas e Alimentação, do Ministério da Indústria e Comércio, do Ministério das Finanças, do Ministério do Plano e da Administração do Território, no âmbito das atribuições e competências que lhes estejam legalmente conferidas relativamente a inspecção, vigilância e polícia.
+2 - Os órgãos e serviços previstos no número anterior, quando, no exercício das suas funções de fiscalização, detectarem situações indicadoras da prática de qualquer tipo de contra-ordenação previsto no presente diploma e nos seus regulamentos, elaborarão o respectivo auto de notícia, que deverão remeter às entidades competentes referidas no artigo 27.º para a investigação e instrução dos respectivos processos, no caso de tal competência não lhes estar deferida.
+CAPÍTULO V
+Da responsabilidade contra-ordenacional
+SECÇÃO I
+Princípios gerais
+Artigo 16.º
+Contra-ordenações em matéria de pesca e culturas marinhas
+1 - Constituem contra-ordenações os comportamentos, como tal tipificados no presente diploma e nos seus regulamentos, que infrinjam as suas disposições, bem como as dos regulamentos da Comunidade Económica Europeia e dos acordos de pesca de que Portugal seja parte.
+2 - A negligência é sempre punível.
+3 - A tentativa é sempre punível, sendo os limites mínimo e máximo previstos no correspondente tipo legal de contra-ordenação reduzidos a metade.
+Artigo 17.º
+Legislação subsidiária
+Às contra-ordenações referidas no artigo anterior é aplicável, subsidiariamente, o regime geral das contra-ordenações constante do Decreto-Lei n.º 433/82, de 27 de Outubro, e, com as adaptações resultantes do disposto no presente diploma, o Decreto-Lei n.º 19/84, de 14 de Janeiro, sobre contra-ordenações marítimas, bem como o Decreto-Lei n.º 28/84, de 20 de Janeiro, relativo às infracções antieconómicas e contra a saúde pública.
+Artigo 18.º
+Responsabilidade por actuação em nome de outrem
+1 - Quem agir voluntariamente, como órgão, membro ou representante de uma pessoa colectiva, sociedade, ainda que irregularmente constituída, ou de mera associação de facto, ou ainda em representação legal ou voluntária de outrem, será punido mesmo quando o tipo legal de contra-ordenação exija:
+a) Determinados elementos pessoais e estes só se verifiquem na pessoa do representado;
+b) Que o agente pratique o facto no seu próprio interesse e o representante actue no interesse do representado.
+2 - O disposto no número anterior para os casos de representação vale ainda que seja ineficaz o acto jurídico fonte dos respectivos poderes.
+3 - As sociedades civis e comerciais e qualquer das outras entidades referidas no n.º 1 respondem solidariamente, nos termos da lei civil, pelo pagamento das coimas, indemnizações e outras prestações em que forem condenados os agentes das infracções previstas no presente diploma, nos termos dos números anteriores.
+Artigo 19.º
+Responsabilidade das pessoas colectivas e equiparadas
+1 - As pessoas colectivas, sociedades e meras associações de facto são responsáveis pelas infracções, em matéria de pesca e culturas marinhas, quando cometidas pelos seus órgãos ou representantes em seu nome e no interesse colectivo.
+2 - A responsabilidade é excluída quando o agente tiver actuado contra ordens ou instruções expressas de quem de direito.
+3 - A responsabilidade das entidades referidas no n.º 1 não exclui a responsabilidade individual dos respectivos agentes, sendo aplicável, com as necessárias adaptações, o n.º 3 do artigo anterior.
+Artigo 20.º
+Montante das coimas
+1 - Às contra-ordenações referidas no artigo 16.º são aplicáveis coimas entre 10000$00 e 5000000$00.
+2 - As coimas aplicáveis às pessoas colectivas e equiparadas nos termos do artigo anterior podem elevar-se até ao triplo do máximo previsto para a respectiva contra-ordenação, em caso de dolo, e até ao dobro, em caso de negligência.
+Artigo 21.º
+Destino do montante das coimas
+O montante das coimas aplicadas pelas contra-ordenações previstas neste diploma reverterá integralmente para o Estado.
+Artigo 22.º
+Sanções acessórias
+1 - Em função da gravidade da contra-ordenação, da culpa e da situação económica do agente, poderão ser aplicadas as sanções acessórias a seguir enumeradas:
+a) Perda das artes de pesca ou de outros instrumentos utilizados na prática da contra-ordenação;
+b) Perda dos produtos provenientes da pesca ou das culturas resultantes da actividade contra-ordenacional, ainda que aqueles tenham sido alienados ou, estando na posse de terceiros, estes conhecessem ou devessem razoavelmente conhecer as circunstâncias determinantes da possibilidade da perda;
+c) Interdição de exercer a profissão ou actividades relacionadas com a contra-ordenação;
+d) Privação do direito a subsídios ou outros benefícios outorgados ou a outorgar por entidades ou serviços públicos;
+e) Pagamento das despesas que tiverem sido feitas por motivo de desobediência ou resistência à acção de fiscalização, não eximindo o seu autor da responsabilidade criminal e civil por tal acto, nos termos da lei geral;
+f) Devolução dos espécimes de culturas apanhados, capturados, transportados ou transaccionados ao local de obtenção ou ao seu legítimo detentor.
+2 - As sanções referidas nas alíneas c) e d) do número anterior terão a duração mínima de dez dias e a máxima de um ano, contando-se a partir da decisão condenatória definitiva.
+Artigo 23.º
+Entidades competentes para aplicação das coimas e sanções acessórias
+A aplicação das coimas e sanções acessórias em matéria de pesca e culturas marinhas compete:
+a) Ao capitão do porto da capitania em cuja área ocorreu o facto ilícito, ou ao do porto de registo da embarcação ou do primeiro em que esta entrar, consoante o que tiver procedido à instrução do respectivo processo de contra-ordenação;
+b) Às entidades referidas no Decreto-Lei n.º 28/84, de 20 de Janeiro, quando o facto ilícito ocorrer fora da área de jurisdição de capitanias de porto, sem prejuízo do disposto no artigo 34.º
+SECÇÃO II
+Das contra-ordenações em especial
+Artigo 24.º
+Pesca exercida por embarcações estrangeiras
+Constitui contra-ordenação punível com coima entre 1000000$00 e 5000000$00 o exercício da pesca, por embarcações estrangeiras, em águas marítimas sob soberania e jurisdição nacionais:
+a) Por embarcações de Estados não membros da Comunidade Económica Europeia sem licenças de pesca ou em infracção aos termos e condições das licenças que lhes foram concedidas;
+b) Por embarcações de Estados membros da Comunidade Económica Europeia em infracção aos regulamentos comunitários, bem como às disposições do Tratado de Adesão à Comunidade que definam as regras de acesso às águas nacionais.
+Artigo 25.º
+Registo da actividade da pesca
+Constitui contra-ordenação punível com coima até 250000$00 a falta dos registos obrigatórios de actividade da pesca estabelecidos pela legislação comunitária ou pela legislação nacional, nomeadamente a falta de preenchimento ou o preenchimento viciado dos diários de pesca.
+Artigo 26.º
+Regime sancionatório especial das contra-ordenações
+Os regulamentos de execução do presente diploma definirão o regime sancionatório especial das infracções ao que neles for estabelecido e às disposições dos regulamentos da Comunidade Económica Europeia aplicáveis ao exercício da pesca marítima e das culturas marinhas.
+SECÇÃO III
+Do processo
+Artigo 27.º
+Entidades competentes para a investigação e instrução de processos de contra-ordenações
+1 - A investigação e instrução dos processos por contra-ordenações referidas no artigo 16.º são da responsabilidade das entidades competentes mencionadas no artigo 23.º para a aplicação das coimas e sanções acessórias.
+2 - Nos autos de notícia dos agentes dos órgãos, serviços e autoridades referidos no n.º 1 do artigo 15.º, por infracções que tenham presenciado, é dispensável a indicação de testemunhas, sempre que as circunstâncias do facto a tornem impossível, sem prejuízo de fazerem fé nos termos previstos na legislação processual penal.
+Artigo 28.º
+Medidas cautelares
+1 - Como medida cautelar pode ser ordenada a apreensão da embarcação, das artes de pesca, dos instrumentos e dos produtos provenientes da pesca ou das culturas marinhas que tenham servido para a prática de contra-ordenações ou dela tenham resultado.
+2 - A referida apreensão só pode ser ordenada quando:
+a) Ao tempo, os referidos bens estejam em poder do agente;
+b) Representem um perigo para a comunidade ou para a prática de um crime ou de outra contra-ordenação;
+c) Tendo sido alienados ou estejam na posse de terceiros, estes conhecessem ou devessem razoavelmente conhecer as circunstâncias determinantes da possibilidade da apreensão;
+d) Sejam necessárias à investigação ou à instrução;
+e) Se indiciar contra-ordenação susceptível de impor a perda a favor do Estado a título de sanção acessória.
+3 - Enquanto os bens se mantiverem apreendidos, é permitido ao seu proprietário beneficiá-los ou conservá-los sob vigilância da autoridade à ordem da qual estiverem apreendidos, não sendo, todavia, esta responsável pelos prejuízos que possam resultar da falta de conveniente beneficiação ou conservação.
+4 - São nulos os negócios jurídicos que tenham por objecto bens apreendidos.
+Artigo 29.º
+Venda antecipada dos bens apreendidos
+1 - Os objectos apreendidos nos termos do artigo anterior, logo que se tornem desnecessários para a investigação ou instrução, poderão ser vendidos por ordem da entidade competente para a mesma, observando-se o disposto nos artigos 884.º e seguintes do Código de Processo Civil, desde que haja, relativamente a eles:
+a) Risco de deterioração;
+b) Conveniência de utilização imediata para abastecimento do mercado;
+c) Requerimento do respectivo dono ou detentor para que estes sejam alienados.
+2 - Verificada alguma das circunstâncias referidas no número anterior em qualquer outro momento do processo, a ordem de venda caberá às entidades competentes para aplicação da coima ou ao tribunal.
+3 - Quando, nos termos do n.º 1, se proceda à venda de bens apreendidos, a entidade competente tomará as providências adequadas de modo a evitar que a venda ou o destino dado a esses bens sejam susceptíveis de originar novas infracções.
+4 - O produto da venda será depositado na Caixa Geral de Depósitos, à ordem da entidade que a determinou, a fim de ser entregue, por simples termo nos autos e sem quaisquer encargos, a quem a ele tenha direito, ou dar entrada nos cofres do Estado, se for decidida a perda a favor deste.
+5 - Serão inutilizados os bens apreendidos, sempre que não seja possível aproveitá-los sem violação do disposto neste diploma.
+6 - Quando razões de economia nacional o justifiquem e não haja prejuízo para a saúde do consumidor, poderá ser determinado que os bens apreendidos não sejam inutilizados nos termos do número anterior e sejam aproveitados para os fins e nas condições a estabelecer:
+a) Pelo Ministro da Agricultura, Pescas e Alimentação, quando os bens apreendidos forem embarcações, artes e instrumentos de pesca ou de culturas marinhas;
+b) Pelo membro do Governo que superintender na entidade que haja procedido à apreensão, nos restantes casos.
+Artigo 30.º
+Destino dos bens declarados perdidos a título de sanção acessória
+1 - Quando a decisão condenatória definitiva proferida em processo por contra-ordenação declarar a perda de bens a favor do Estado, poderá o Ministro da Agricultura, Pescas e Alimentação, por motivos de interesse público, determinar a sua afectação a certas entidades.
+2 - Sem prejuízo do disposto no número anterior, serão destruídos os bens declarados perdidos a título de sanção acessória que não estiverem em conformidade com os requisitos ou características legalmente estabelecidos.
+Artigo 31.º
+Recursos
+O recurso de impugnação das decisões das entidades competentes que apliquem medidas cautelares ou sanções será interposto para o tribunal competente.
+Artigo 32.º
+Comunicação das decisões
+1 - A autoridade que aplicar a decisão condenatória definitiva e os tribunais que julguem os recursos das decisões que aplicarem coimas deverão remeter à Direcção-Geral de Marinha, Direcção-Geral de Inspecção Económica e Direcção-Geral das Pescas, ou aos órgãos próprios das regiões autónomas com atribuições em matéria de pesca marítima e culturas marinhas, cópia das decisões finais proferidas nos processos instaurados pelas contra-ordenações.
+2 - A Direcção-Geral das Pescas, a Direcção-Geral de Marinha e a Direcção-Geral de Inspecção Económica organizarão, cada uma delas, o cadastro de cada agente económico, por embarcação ou estabelecimento de culturas marinhas, no qual serão lançadas todas as sanções que lhes forem aplicadas.
+3 - O tribunal competente pedirá oficiosamente o cadastro referido no número anterior antes da apreciação do recurso, se os autos ainda não o contiverem.
+CAPÍTULO VI
+Disposições finais
+Artigo 33.º
+Direito de visita
+No interior dos portos e em todas as águas sob soberania e jurisdição nacionais as entidades com poderes de fiscalização, referidas no artigo 15.º, podem visitar qualquer embarcação de pesca, a fim de assegurar o cumprimento da legislação de pesca em vigor.
+Artigo 34.º
+Aplicação nas regiões autónomas
+1 - As competências que neste diploma são atribuídas ao Governo e ao Ministro da Agricultura, Pescas e Alimentação consideram-se cometidas aos órgãos de governo próprio das regiões autónomas nos casos seguintes:
+a) As autorizações previstas na alínea a) do artigo 4.º, quando se trate de embarcações de pesca a registar ou registadas em portos das regiões;
+b) As autorizações previstas na alínea b) do artigo 4.º, quando se trate de autorização para o exercício da actividade por embarcações registadas em portos das regiões autónomas, bem como para as artes por aquelas utilizadas, e que se destinem, umas e outras, à captura de espécies que ocorram em águas abrangidas nas respectivas regiões;
+c) Autorizações para a pesca, sem auxílio de embarcações, de recursos que ocorram em águas abrangidas nas respectivas regiões;
+d) As autorizações previstas no artigo 9.º, quando os afretadores estejam sediados ou domiciliados nas regiões autónomas;
+e) As competências previstas no n.º 2 do artigo 10.º, relativamente às embarcações ou grupos de embarcações registadas em portos das regiões;
+f) As autorizações, licenciamentos e concessões previstos nos artigos 11.º e 12.º, bem como a respectiva regulamentação, quando os estabelecimentos ou os terrenos do domínio público marítimo para instalação e exploração de culturas marinhas se localizem nas regiões autónomas;
+g) A competência prevista no artigo 13.º, relativamente a agentes económicos ou estabelecimentos de culturas marinhas, domiciliados, sediados ou localizados nas regiões autónomas.
+2 - Nas regiões autónomas, as entidades competentes para o efeito do disposto no n.º 1 do artigo 15.º, alínea b) do artigo 23.º e artigo 27.º serão designadas por acto normativo dos respectivos órgãos de governo próprio.
+3 - Sempre que estejam em causa interesses pesqueiros específicos das regiões autónomas, o Ministro da Agricultura, Pescas e Alimentação, no exercício das competências que lhe são cometidas pelo presente diploma, consultará previamente os órgãos de governo próprio daquelas regiões.
+Artigo 35.º
+Revogação de legislação anterior
+1 - Com ressalva do disposto no n.º 2, são revogadas todas as disposições legais que contrariem o disposto no presente diploma, nomeadamente:
+Decreto de 31 de Dezembro de 1895;
+Decreto de 14 de Maio de 1903;
+Decreto n.º 3003, de 27 de Fevereiro de 1917;
+Decreto n.º 9063, de 11 de Agosto de 1923;
+Decreto n.º 19483, de 18 de Março de 1931;
+Decreto n.º 19634, de 21 de Abril de 1931;
+Decreto n.º 22216, de 17 de Fevereiro de 1933;
+Decreto n.º 26038, de 12 de Novembro de 1935;
+Decreto-Lei n.º 30148, de 16 de Dezembro de 1939;
+Artigos 21.º, 34.º, 35.º, 36.º, 37.º, 38.º, 39.º, 40.º, 41.º, 42.º, 47.º, com excepção do n.º 2, 48.º, n.º 2 do artigo 50.º, 52.º, 56.º, 57.º, 229.º e 230.º, todos do Regulamento Geral das Capitanias, aprovado pelo Decreto-Lei n.º 265/72, de 31 de Julho, apenas na parte em que tais dispositivos se referem às embarcações de pesca;
+Portaria n.º 9/73, de 6 de Janeiro;
+Portaria n.º 49/73, de 24 de Janeiro;
+Portaria n.º 51/73, de 25 de Janeiro;
+Portaria n.º 74/73, de 3 de Fevereiro;
+Decreto Regulamentar n.º 22/78, de 12 de Julho;
+Decreto Regulamentar n.º 558/80, de 2 de Setembro;
+Portaria n.º 734/80, de 26 de Setembro;
+Portaria n.º 998/81, de 20 de Novembro;
+Portaria n.º 591/82, de 16 de Julho;
+Decreto-Lei n.º 52/85, de 1 de Março.
+2 - Enquanto não forem publicados os regulamentos a que se refere o presente diploma, são mantidas, em relação às respectivas matérias, as disposições legais em vigor, desde que não contrariem as do presente diploma.
+3 - Quando as disposições legais remeterem para os preceitos legais revogados por este decreto-lei, entende-se que a remissão valerá para as correspondentes disposições deste diploma, salvo se a interpretação daquelas impuser solução diferente.
+Artigo 36.º
+Entrada em vigor
+O presente diploma entra em vigor 30 dias após a sua publicação.
+Visto e aprovado em Conselho de Ministros de 9 de Abril de 1987. - Aníbal António Cavaco Silva - Leonardo Eugénio Ramos Ribeiro de Almeida - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Mário Ferreira Bastos Raposo - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins - João Maria Leitão de Oliveira Martins.
+Promulgado em 4 de Junho de 1987.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 8 de Junho de 1987.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
