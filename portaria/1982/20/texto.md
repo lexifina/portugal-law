@@ -1,0 +1,5 @@
+Portaria n.º 20/82
+de 8 de Janeiro
+Tendo a Confraria de Nossa Senhora de Ao Pé da Cruz solicitado autorização para dar sepultura em campa rasa, na Capela da Senhora das Dores de Rio Frio, concelho de Bragança, aos restos mortais do juiz Manuel António Ferreira Deusdado, dado o grande amor que teve à sua terra natal e ao muito que desejava ser sepultado junto da imagem de Nossa Senhora de Ao Pé da Cruz:
+Manda o Governo da República Portuguesa, pelos Ministros da Administração Interna e da Justiça, ao abrigo das alíneas b) e c) do n.º 2 do artigo 251.º do Código do Registo Civil, obtidos os pareceres favoráveis da autoridade sanitária e da Câmara Municipal de Bragança, autorizar a sepultura em campa rasa, na Capela da Senhora das Dores de Rio Frio, concelho de Bragança, dos restos mortais do juiz Manuel António Ferreira Deusdado.
+Ministérios da Administração Interna e da Justiça, 18 de Setembro de 1981. - O Ministro da Administração Interna, José Ângelo Ferreira Correia. - O Ministro da Justiça, José Manuel Meneres Sampaio Pimentel.
