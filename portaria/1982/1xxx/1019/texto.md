@@ -1,0 +1,9 @@
+Portaria n.º 1019/82
+de 4 de Novembro
+O actual quadro de subinspectores do Gabinete de Gestão do Fundo de Desemprego é o que consta da Portaria n.º 297/81, de 27 de Março, diploma elaborado por força do disposto no artigo 20.º do Decreto-Lei n.º 191-C/79, de 25 de Junho. Este diploma, relativamente às aludidas categorias, reproduz o que constava do mapa anexo ao Decreto n.º 146/78, de 13 de Dezembro, o qual foi concebido mais em função dos efectivos realmente existentes e das normas de primeiro provimento então estabelecidas do que do estudo de uma organização equilibrada do número de lugares que devem integrar cada uma das categorias da carreira. É chegado o momento de rever o referido quadro por forma a, sem acréscimo de encargos financeiros e até com uma pequena redução, conferir-lhe maior equilíbrio e abrir aos funcionários interessados legítimas perspectivas de uma carreira mais favorável e estimulante.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros do Trabalho e da Reforma Administrativa, ao abrigo do disposto no artigo 90.º, n.º 3, do Decreto-Lei n.º 47/78, de 21 de Março, aplicável por força do disposto no artigo 1.º, alínea d), do Decreto n.º 146/78, de 13 de Dezembro, que o mapa aprovado pela Portaria n.º 297/81, acima mencionada, seja alterado de acordo com o mapa anexo à presente portaria.
+Ministérios das Finanças e do Plano, do Trabalho e da Reforma Administrativa, 22 de Outubro de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro do Trabalho, Luís Alberto Garcia Ferrero de Morales. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
+
+MAPA ANEXO
+(ver documento original)
