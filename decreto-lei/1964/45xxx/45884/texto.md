@@ -1,0 +1,13 @@
+Decreto-Lei n.º 45884
+Considerando que a Câmara Municipal de Valença representou ao Governo no sentido de lhe ser cedida uma parcela de terreno, com a área de 8899,75 m2, anexa ao antigo prédio militar n.º 3/4-G, sito naquela vila, com destino à construção de um edifício para quartel da secção e posto da Guarda Nacional Republicana;
+Considerando que, como este, outros pedidos têm sido deferidos no intuito de facilitar a realização de melhoramentos públicos de interesse geral e local;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. Fica a Direcção-Geral da Fazenda Pública autorizada a ceder, a título definitivo, à Câmara Municipal de Valença, uma parcela de terreno, com a área de 8899,75 m2, anexa ao antigo prédio militar n.º 3/4-G, sito naquela vila, a confrontar do norte com caminho municipal da Senhora da Cabeça, do sul e poente com herdeiros de Manuel Joaquim Lopes e do nascente com estrada municipal de Cristelo Covo, conforme planta anexa a este diploma e que dele faz parte integrante, o qual se destina à construção de um edifício para quartel da secção e posto da Guarda Nacional Republicana.
+§ 1.º Pela cessão a Câmara pagará ao Estado a compensação de 32250$00, a amortizar em três anuidades, acrescidas do juro de 4 por cento ao ano, sendo a primeira paga no momento da assinatura do auto.
+§ 2.º O imóvel cedido poderá reverter para o domínio e posse do Estado por simples despacho ministerial, sem direito a qualquer restituição ou indemnização, se não for aplicado ao fim em vista.
+§ 3.º A cessão efectivar-se-á por meio de auto a lavrar na Repartição de Finanças do concelho de Valença e é isenta de impostos.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 20 de Agosto de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+(ver documento original)
+Ministério das Finanças, 20 de Agosto de 1964. - O Ministro das Finanças, António Manuel Pinto Barbosa.
