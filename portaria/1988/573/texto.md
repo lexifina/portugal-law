@@ -1,0 +1,10 @@
+Portaria n.º 573/88
+de 22 de Agosto
+Considerando que a responsabilidade pela protecção civis a nível distrital é cometida aos governadores civis, com a faculdade de coadjuvação, em permanência, por delegados do Serviço Nacional de Protecção Civil (SNPC), conforme o preceituado no n.º 3 do artigo 8.º do Decreto-Lei n.º 510/80, de 25 de Outubro;
+Considerando que a necessidade da referida coadjuvação se vem fazendo sentir praticamente em todos os distritos, sem que o SNPC, por exiguidade do respectivo quadro de pessoal, disponha de capacidade de resposta correspondente, nos termos previstos no artigo 46.º do supracitado decreto-lei;
+Considerando que o recurso aos instrumentos de mobilidade de pessoal nos precisos termos previstos nos artigos 24.º e 25.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, embora tenha permitido obviar a situações de ruptura no desempenho de funções específicas de protecção civil no âmbito distrital, não deixa de apresentar sérios inconvenientes, resultantes da excessiva rotação de situações precárias com origem nas limitações temporais do destacamento e requisição:
+No uso da faculdade consignada no n.º 2 do artigo 32.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, com a redacção introduzida pelo artigo 2.º do Decreto-Lei n.º 160/86, de 26 de Junho:
+Manda o Governo, pelo Primeiro-Ministro e pelos Ministros das Finanças e da Administração Interna, que as situações de destacamento e requisição de funcionários ou agentes da administração central, regional e local como delegados distritais do SNPC não estejam sujeitas aos prazos fixados nos artigos 24.º e 25.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, com a redacção dada ao primeiro pelo Decreto-Lei n.º 160/86, de 26 de Junho.
+Presidência do Conselho de Ministros e Ministérios das Finanças e da Administração Interna.
+Assinada em 2 de Agosto de 1988.
+O Primeiro-Ministro, Aníbal António Cavaco Silva. - O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Administração Interna, José António da Silveira Godinho.
