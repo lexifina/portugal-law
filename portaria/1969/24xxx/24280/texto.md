@@ -1,0 +1,3 @@
+Portaria n.º 24280
+Manda o Governo da República Portuguesa, pelo Ministro das Comunicações, que o Centro Meteorológico do Serviço Meteorológico Nacional instalado no Aeroporto de Ponta Delgada em substituição do Centro Meteorológico de Santana, que é extinto, seja denominado «Centro Meteorológico de Ponta Delgada» e qualificado, nos termos do § único do artigo 30.º do Decreto-Lei n.º 35836, de 29 de Agosto de 1946, com a redacção dada pelo artigo 1.º do Decreto-Lei n.º 46099, de 28 de Dezembro de 1964, como centro auxiliar.
+Ministério das Comunicações, 8 de Setembro de 1969. - O Ministro das Comunicações, Fernando Alberto de Oliveira.
