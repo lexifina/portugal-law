@@ -1,0 +1,19 @@
+Portaria n.º 300/2000
+de 29 de Maio
+A criação de um centro hospitalar que integre o Hospital Condes de Castro Guimarães - Cascais e o Hospital Ortopédico do Dr. José de Almeida (Carcavelos) expressa a determinação em potenciar, através de uma gestão comum, as capacidades disponíveis nestas duas unidades hospitalares, cuja complementaridade assistencial, aos seus respectivos níveis técnicos, é praticamente absoluta, dada a ausência quase total de sobreposição de serviços ou áreas de prestação directa de cuidados clínicos.
+Assim, a criação de um centro hospitalar surgirá como uma resposta às várias insuficiências de rentabilização de recursos, constituindo-se como a possibilidade mais credível para a reorganização assistencial dos dois Hospitais.
+Considerando também a escassez de recursos humanos, em especial nas áreas de maior diferenciação técnica, a gestão integrada das duas unidades hospitalares pode obstar a algumas carências e proporcionar uma maior fluidez na organização dos períodos de trabalho.
+Também ao nível da organização administrativa e gestionária as vantagens que resultarão da criação do centro hospitalar são evidentes, pela simplificação dos mecanismos de articulação entre os dois Hospitais, pela maior capacidade de se tomarem decisões que confiram homogeneidade à gestão e pelo aproveitamento de algumas economias de escala, decorrentes da concentração de serviços e áreas administrativas, diminuindo-se, assim, algumas das vertentes dos custos de exploração.
+Torna-se pois necessário adoptar medidas que contribuam para uma gestão mais racional, eficiente e eficaz dos meios assistenciais, humanos, técnicos e financeiros dos dois Hospitais, razão por que se cria um centro hospitalar que os passa a integrar e a gerir.
+Foram observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.
+Assim:
+Ao abrigo do disposto do n.º 1 do artigo 3.º do Decreto-Lei n.º 284/99, de 26 de Julho:
+Manda o Governo, pela Ministra da Saúde, o seguinte:
+1.º É criado o Centro Hospitalar de Cascais, pessoa colectiva de direito público dotada de autonomia administrativa e financeira e património próprio, nos termos do artigo 1.º do Decreto-Lei n.º 284/99, de 26 de Julho, que integra o Hospital Condes de Castro Guimarães - Cascais e o Hospital Ortopédico do Dr. José de Almeida (Carcavelos).
+2.º São extintos o Hospital Condes de Castro Guimarães - Cascais e o Hospital Ortopédico do Dr. José de Almeida (Carcavelos), enquanto pessoas colectivas, sucedendo o Centro Hospitalar de Cascais na universalidade dos seus direitos e obrigações.
+3.º Sem prejuízo das correcções que se revelem necessárias e até à aprovação do respectivo orçamento, os duodécimos a atribuir ao Centro Hospitalar pelo Instituto de Gestão Informática e Financeira da Saúde, a título de subsídio de exploração, são de valor igual ao somatório do valor dos duodécimos dos Hospitais integrados.
+4.º O Centro Hospitalar de Cascais praticará, em relação aos subsistemas de saúde cujos beneficiários a eles recorram, bem como em relação a quaisquer outras entidades, públicas ou privadas, responsáveis pelo pagamento da assistência prestada, as tabelas de preços previstos na Portaria n.º 348-B/98, de 18 de Junho, até agora aplicáveis ao Hospital Ortopédico do Dr. José de Almeida.
+5.º Os quadros de pessoal dos Hospitais integrados mantêm-se transitoriamente, nos seus precisos termos actuais, até à aprovação do quadro único de pessoal do Centro Hospitalar de Cascais.
+6.º Mantêm a validade os concursos de pessoal, bem como os contratos administrativos de provimento ou a termo certo actualmente existentes nos Hospitais integrados.
+7.º A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+A Ministra da Saúde, Maria Manuela de Brito Arcanjo Marques da Costa, em 9 de Maio de 2000.
