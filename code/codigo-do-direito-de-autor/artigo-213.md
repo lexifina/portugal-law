@@ -1,5 +1,5 @@
 # Artigo 213.º
 
-### (Identificação ilegítima)
+### (Regra geral)
 
-O uso ilegítimo do nome literário ou artístico ou de qualquer outra forma de identificação do autor confere ao interessado o direito de pedir, além da cessação de tal uso, indemnização por perdas e danos.
+O direito de autor e os direitos deste derivados adquirem-se independentemente de registo, sem prejuízo do disposto no artigo seguinte.

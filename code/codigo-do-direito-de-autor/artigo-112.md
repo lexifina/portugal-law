@@ -1,5 +1,5 @@
 # Artigo 112.º
 
-### (Prova de autorização do autor)
+### (Representação não autorizada)
 
-Sempre que uma representação de obra não caída no domínio público dependa de licença ou autorização administrativa, será necessário, para a obter, a exibição perante a autoridade competente de documento comprovativo de que o autor consentiu na representação.
+A representação sem autorização ou que não se conforme com o seu conteúdo confere ao autor o direito de a fazer cessar imediatamente, sem prejuízo de responsabilidade civil ou criminal do empresário ou promotor do espectáculo.

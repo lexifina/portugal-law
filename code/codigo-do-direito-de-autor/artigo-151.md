@@ -1,5 +1,5 @@
 # Artigo 151.º
 
-### (Radiodifusão de obra fixada)
+### (Pressupostos técnicos)
 
-Se a obra literária ou artística foi objecto de fixação comercial com autorização do autor, é desnecessário o consentimento especial deste para comunicação ou radiodifusão sonora ou visual, mas subsistem todas as implicações do seu direito moral, bem como o seu direito a remuneração equitativa por cada comunicação ou radiodifusão.
+O proprietário de casa de espectáculos ou de edifício em que deva realizar-se a radiodifusão ou comunicação prevista no artigo 149.º, o empresário e todo aquele que concorra para a realização do espectáculo a transmitir são obrigados a permitir a instalação dos instrumentos necessários para a transmissão como as experiências ou ensaios técnicos para a boa execução desta.

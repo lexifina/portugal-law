@@ -1,7 +1,5 @@
 # Artigo 37.º
 
-### (Obra anónima e equiparada)
+### (Contagem do prazo de caducidade)
 
-1 - A duração da protecção de obra anónima ou licitamente divulgada sem identificação do autor é de 50 anos após a divulgação.
-
-2 - Se a utilização de nome, que não o próprio, não deixar dúvidas quanto à identidade do autor, ou se este a revelar dentro do prazo referido no número anterior, a duração da protecção será a dispensada à obra divulgada sob nome próprio.
+A caducidade prevista nos artigos anteriores só opera a partir do primeiro dia do ano seguinte àquele em que o prazo se tiver completado.

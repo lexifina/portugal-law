@@ -1,7 +1,7 @@
 # Artigo 161.º
 
-### (Identificação da obra)
+### (Estudos e projectos de arquitectura e urbanismo)
 
-1 - O contrato deverá conter indicações que permitam identificar a obra, tais como a sua descrição sumária, debuxo, desenho ou fotografia com a assinatura do autor.
+1 - Em cada exemplar dos estudos e projectos de arquitectura e urbanismo, junto ao estaleiro da construção da obra de arquitectura e nesta, depois de construída, é obrigatória a indicação do respectivo autor, por forma bem legível.
 
-2 - As reproduções não podem ser postas à venda sem que o autor tenha aprovado o exemplar submetido a seu exame.
+2 - A repetição da construção de obra de arquitectura, segundo o mesmo projecto, só pode fazer-se com o acordo do autor.

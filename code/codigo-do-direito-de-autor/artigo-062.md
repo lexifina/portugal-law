@@ -1,5 +1,5 @@
 # Artigo 62.º
 
-### (Divulgação de obra «ne varietur»)
+### (Direito de retirada)
 
-Quando o autor tiver revisto toda a sua obra, ou parte dela, e efectuado ou autorizado a respectiva divulgação ne varietur, não poderá a mesma ser reproduzida pelos seus sucessores ou por terceiros em qualquer das versões anteriores.
+O autor de obra divulgada ou publicada poderá retirá-la a todo o tempo da circulação e fazer cessar a respectiva utilização, sejam quais forem as modalidades desta, contanto que tenha razões morais atendíveis, mas deverá indemnizar os interessados pelos prejuízos que a retirada lhes causar.

@@ -1,5 +1,7 @@
 # Artigo 98.º
 
-### (Identificação do autor)
+### (Impressão)
 
-O editor deve mencionar em cada exemplar o nome ou pseudónimo do autor ou qualquer outra designação que o identifique.
+1 - A impressão não pode ser feita sem que o autor a autorize.
+
+2 - A restituição das provas de página e do projecto gráfico da capa desacompanhada de declaração em contrário significa autorização para impressão.

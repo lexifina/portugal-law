@@ -1,9 +1,9 @@
 # Artigo 15.º
 
-### (Exercício do direito pelo destinatário da obra)
+### (Limites à utilização)
 
-1 - Quando o direito de autor pertence ao criador intelectual, o destinatário tem o direito de utilizar a obra, mas apenas para os fins previstos no respectivo acordo ou que levaram à sua celebração.
+1 - Nos casos dos artigos 13.º e 14.º, quando o direito de autor pertença ao criador intelectual, a obra apenas pode ser utilizada para os fins previstos na respectiva convenção.
 
-2 - A extensão dos poderes do destinatário, nomeadamente no que respeita à atribuição a este de faculdades de modificação, resulta do que tiver sido expressa ou tacitamente convencionado.
+2 - A faculdade de introduzir modificações na obra depende do acordo expresso do seu criador e só pode exercer-se nos termos convencionados.
 
-3 - O criador intelectual não poderá fazer utilização da obra que prejudique a obtenção dos fins para que foi produzida.
+3 - O criador intelectual não pode fazer utilização da obra que prejudique a obtenção dos fins para que foi produzida.

@@ -1,7 +1,5 @@
 # Artigo 39.º
 
-### (Obra cinematográfica)
+### (Queda no domínio público)
 
-1 - O direito de autor sobre obra cinematográfica ou obtida por qualquer processo análogo ao da cinematografia caduca 50 anos após a divulgação da obra.
-
-2 - O direito caduca igualmente se, no prazo de 50 anos após a realização da obra, esta não tiver sido divulgada.
+Cai no domínio público a obra em relação à qual decorreram os prazos de caducidade do direito de autor estabelecidos nos artigos 31.º e seguintes deste Código.

@@ -1,5 +1,5 @@
 # Artigo 197.º
 
-### (Presunção de anuência)
+### (Penalidades)
 
-Quando, apesar da diligência do interessado, comprovada pelo Ministério da Cultura, não for possível entrar em contacto com o titular do direito ou este se não pronunciar num prazo razoável que para o efeito lhe for assinado, presume-se a anuência, mas o interessado só pode fazer a utilização pretendida se caucionar o pagamento da remuneração.
+Os crimes previstos nos artigos anteriores serão punidos com pena de prisão até três anos e multa de cinquenta a cento e cinquenta dias, de acordo com a gravidade da infracção, agravadas uma e outra para o dobro em caso de reincidência, se o facto constitutivo da infracção não tipificar crime punível com pena mais grave.

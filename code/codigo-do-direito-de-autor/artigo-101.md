@@ -1,11 +1,11 @@
 # Artigo 101.º
 
-### (Proibição de cessão dos direitos do editor)
+### (Morte ou incapacidade do autor)
 
-1 - O editor não pode, sem consentimento do autor, transferir para terceiros, a título gratuito ou oneroso, direitos seus emergentes do contrato de edição, salvo se a transferência resultar de trespasse do seu estabelecimento.
+1 - Se o autor morrer ou ficar impossibilitado de terminar a obra depois, de entregar parte apreciável desta, os sucessores do autor poderão resolver o contrato, indemnizando o editor por perdas e danos, mas, se o não fizerem no prazo de três meses, poderá o editor resolver o contrato ou dá-lo por cumprido quanto à parte entregue, contanto que pague ao sucessor ou representante a retribuição correspondente.
 
-2 - No caso de o trespasse causar ou vir a causar prejuízos morais ao outro contratante, terá este direito a rescindir o contrato no prazo de 6 meses a contar do conhecimento do mesmo trespasse, assistindo ao editor direito à indemnização por perdas e danos.
+2 - Se o autor tiver manifestado vontade de que a obra não seja publicada se não completa, o contrato será resolvido e não poderá a obra incompleta ser editada em caso algum, mas deverá o editor ser reembolsado dos pagamentos que tiver eventualmente efectuado a título de direito de autor.
 
-3 - Considera-se transmissão dos direitos emergentes de contrato de edição, nos termos deste artigo, ficando, portanto, dependente do consentimento do autor, a inclusão desses direitos na participação do editor no capital de qualquer sociedade comercial.
+3 - Uma obra incompleta só pode ser completada por outrem que não o autor com o consentimento escrito deste.
 
-4 - Não se considera como transmissão de direitos emergentes do contrato de edição a adjudicação destes a algum dos sócios da sociedade editora por efeito de liquidação judicial ou extrajudicial desta.
+4 - Sem embargo do consentimento previsto no número anterior, a publicação da obra completada só pode fazer-se com clara identificação da parte primitiva e do acrescento e indicação da autoria deste.

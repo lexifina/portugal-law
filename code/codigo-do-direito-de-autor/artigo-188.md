@@ -1,5 +1,5 @@
 # Artigo 188.º
 
-### (Utilizações ilícitas)
+### (Duração)
 
-São ilícitas as utilizações que desfigurem uma execução, que a desvirtuem nos seus propósitos ou que atinjam o artista na sua honra ou na sua reputação.
+A protecção da emissão de radiodifusão subsiste pelo período de vinte anos, contados do primeiro dia do ano subsequente àquele em que ocorreu o facto gerador da protecção.

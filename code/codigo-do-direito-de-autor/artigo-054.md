@@ -1,7 +1,11 @@
 # Artigo 54.º
 
-### (Penhora e arresto de obra inédita ou incompleta)
+### (Direito de sequência)
 
-1 - Quando incompletos, são isentos de penhora e arresto, salvo oferecimento ou consentimento do autor, manuscritos inéditos, esboços, desenhos, telas ou esculturas, tenham ou não assinatura.
+1 - O autor que tiver alienado obra de arte original que não seja de arquitectura nem de arte aplicada, manuscrito seu ou o direito de autor sobre obra sua tem direito a uma participação de 6% sobre o preço de cada transacção.
 
-2 - Se, porém, o autor tiver revelado por actos inequívocos o seu propósito de divulgar ou publicar os trabalhos referidos, pode o credor obter penhora ou arresto sobre o correspondente direito de autor.
+2 - Se duas ou mais transacções foram realizadas num período de tempo inferior a 2 meses ou em período mais alargado, mas de modo a presumir-se que houve intenção de frustrar o direito de participação do autor, o acréscimo de preço mencionado no número anterior será calculado por referência apenas à última transacção.
+
+3 - O direito referido no n.º 1 deste artigo é inalienável, irrenunciável e imprescritível.
+
+4 - Ao preço da transacção para efeitos de atribuição do direito de participação e de fixação do seu montante serão abatidas as despesas comprovadas relativas à publicidade, representação e outras semelhantes feitas na promoção e venda da obra e o correspondente aos índices da inflação.

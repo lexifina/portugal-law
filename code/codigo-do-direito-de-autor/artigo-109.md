@@ -1,9 +1,9 @@
 # Artigo 109.º
 
-### (Autorização)
+### (Forma, conteúdo e efeitos)
 
-1 - A utilização da obra na representação depende de autorização do autor, quer a representação se realize em lugar público, quer em lugar privado, com ou sem entradas pagas, com ou sem fim lucrativo.
+1 - Pelo contrato de representação o autor autoriza um empresário a promover a representação da obra, obrigando-se este a fazê-la representar nas condições acordadas.
 
-2 - Se a obra tiver sido divulgada por qualquer forma, e desde que se realize sem fim lucrativo e em privado, num meio familiar, a representação poderá fazer-se independentemente de autorização do autor, princípio que se aplica, aliás, a toda a comunicação.
+2 - O contrato de representação deve ser celebrado por escrito e, salvo convenção em contrário, não atribui ao empresário o exclusivo da comunicação directa da obra por esse meio.
 
-3 - A concessão do direito de representar presume-se onerosa, excepto quando feita a favor de amadores.
+3 - O contrato deve definir com precisão as condições e os limites em que a representação da obra é autorizada, designadamente quanto ao prazo, ao lugar, à retribuição do autor e às modalidades do respectivo pagamento.

@@ -1,7 +1,9 @@
 # Artigo 65.º
 
-### (Direitos morais no caso de penhora)
+### (País de origem de obra publicada)
 
-1 - Se o arrematante do direito de autor sobre obra penhorada e publicada promover a publicação desta, o direito de revisão das provas e correcção da obra e, em geral, os direitos morais não são afectados.
+1 - A obra publicada tem como país de origem o país da primeira publicação.
 
-2 - Se, na hipótese prevista no número anterior, o autor retiver as provas sem justificação por prazo superior a 60 dias, a impressão poderá prosseguir sem a sua revisão.
+2 - Se a obra tiver sido publicada simultaneamente em vários países que concedam duração diversa ao direito de autor, considera-se como país de origem, na falta de tratado ou acordo internacional aplicável, aquele que conceder menor duração de protecção.
+
+3 - Considera-se publicada simultaneamente em vários países a obra publicada em dois ou mais países dentro de 30 dias a contar da primeira publicação, incluindo esta.

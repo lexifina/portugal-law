@@ -1,5 +1,5 @@
 # Artigo 93.º
 
-### (Exigibilidade do pagamento)
+### (Actualização ortográfica)
 
-O preço da edição considera-se exigível logo após a conclusão da edição, nos prazos e condições que define o artigo 91.º, salvo se a forma de retribuição adoptada fizer depender o pagamento de circunstâncias ulteriores, nomeadamente da colocação total ou parcial dos exemplares produzidos.
+Salvo por opção ortográfica de carácter estético do autor, não se considera modificação a actualização ortográfica do texto em harmonia com as regras oficiais vigentes.

@@ -1,15 +1,7 @@
 # Artigo 77.º
 
-### (Requisitos)
+### (Comentários, anotações e polémicas)
 
-1 - A utilização livre a que se refere o número precedente deve ser acompanhada:
+1 - Não é permitida a reprodução de obra alheia sem autorização do autor sob pretexto de a comentar ou anotar, sendo, porém, lícito publicar em separata comentários ou anotações próprias com simples referências a capítulos, parágrafos ou páginas de obra alheia.
 
-a) Da indicação, sempre que possível, do nome do autor, do título da obra e demais circunstâncias que os identifiquem;
-
-b) No caso da alínea d) do artigo anterior, de uma remuneração equitativa a atribuir ao autor pela entidade que tiver procedido à reprodução;
-
-c) No caso da alínea g) do artigo anterior, de uma remuneração equitativa a atribuir ao autor.
-
-2 - As obras reproduzidas ou citadas, nos casos das alíneas a), f) e g) do artigo anterior, não se devem confundir com a obra de quem as utilize, nem a reprodução ou citação podem ser tão extensas que prejudiquem o interesse por aquelas obras.
-
-3 - Só o autor tem o direito de reunir em volume as obras a que se refere a alínea a) do artigo anterior.
+2 - O autor que reproduzir em livro ou opúsculo os seus artigos, cartas ou outros textos de polémica publicados em jornais ou revistas poderá reproduzir também os textos adversos, assistindo ao adversário ou adversários igual direito, mesmo após a publicação feita por aquele.

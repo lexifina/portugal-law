@@ -1,9 +1,7 @@
-## Capítulo V
-
-## Da duração
-
 # Artigo 35.º
 
-### (Regra geral)
+### (Obra cinematográfica)
 
-O direito de autor caduca, na falta de disposição especial, 50 anos após a morte do criador da obra, mesmo que se trate de obra divulgada postumamente.
+1 - O direito de autor sobre obra cinematográfica ou obtida por qualquer processo análogo ao da cinematografia caduca 50 anos após a divulgação da obra.
+
+2 - O direito caduca igualmente se, no prazo de 50 anos após a realização da obra, esta não tiver sido divulgada.

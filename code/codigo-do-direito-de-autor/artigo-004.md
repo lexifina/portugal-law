@@ -2,7 +2,7 @@
 
 ### (Título da obra)
 
-1 - A protecção da obra literária ou artística é extensiva ao título, independentemente de registo, desde que seja original e não possa confundir-se com o título de qualquer outra obra do mesmo género de outro autor anteriormente divulgada.
+1 - A protecção da obra é extensiva ao título, independentemente de registo, desde que seja original e não possa confundir-se com o título de qualquer outra obra do mesmo género de outro autor anteriormente divulgada ou publicada.
 
 2 - Consideram-se que não satisfazem estes requisitos:
 

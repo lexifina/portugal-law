@@ -1,5 +1,9 @@
 # Artigo 214.º
 
-### (Indemnização)
+### (Registo constitutivo)
 
-Para o cálculo da indemnização devida ao autor lesado, atender-se-á sempre à importância da receita resultante do espectáculo ou espectáculos ilicitamente realizados.
+Condiciona a efectividade da protecção legal o registo:
+
+a) Do título da obra não publicada nos termos do n.º 3 do artigo 4.º;
+
+b) Dos títulos dos jornais e outras publicações periódicas.

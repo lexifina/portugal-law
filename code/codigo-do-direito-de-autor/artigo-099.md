@@ -1,7 +1,7 @@
 # Artigo 99.º
 
-### (Impressão)
+### (Vendo de exemplares em saldo ou a peso)
 
-1 - A impressão não pode ser feita sem que o autor a autorize.
+1 - Se a obra não puder ser colocada pelo preço estabelecido dentro do prazo convencionado ou, na falta de convenção, de oito anos a contar da data da publicação, o editor terá a faculdade de vender em saldo ou a peso os exemplares existentes ou do os destruir.
 
-2 - A restituição das provas de página e do projecto gráfico da capa desacompanhada de declaração em contrário significa autorização para impressão.
+2 - O editor deve prevenir o autor para este exercer o direito de preferência na aquisição do remanescente da edição por preço fixado na base do que produziria a venda em saldo ou a peso.

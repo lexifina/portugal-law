@@ -1,5 +1,5 @@
 # Artigo 156.º
 
-### (Comunicação pública da obra radiodifundida)
+### (Regime aplicável)
 
-É livre, sem prejuízo da remuneração do autor, a comunicação pública da obra radiodifundida por altifalantes ou por qualquer instrumento transmissor de sinais, de sons ou de imagens, ainda quando feita por outro organismo que não o de origem.
+À radiodifusão, bem como à difusão obtida por qualquer processo que sirva para a comunicação de sinais, sons ou imagens, são aplicáveis, com as necessárias adaptações, as disposições relativas ao contrato de edição, representação e execução.

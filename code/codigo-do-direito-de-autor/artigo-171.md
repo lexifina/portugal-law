@@ -1,7 +1,5 @@
 # Artigo 171.º
 
-### (Reprodução de fotografia encomendada)
+### (Indicação do tradutor)
 
-1 - Salvo convenção em contrário, a fotografia de uma pessoa executada por encomenda pode ser publicada, reproduzida ou mandada reproduzir pela pessoa fotografada ou por seus herdeiros ou transmissários sem consentimento do fotógrafo seu autor.
-
-2 - Se o nome do fotógrafo figurar na fotografia original, deve também ser indicado nas reproduções.
+O nome do tradutor deverá sempre figurar nos exemplares da obra traduzida, nos anúncios do teatro, nas comunicações que acompanhem as emissões de rádio e de televisão, na ficha artística dos filmes e em qualquer material de promoção.
