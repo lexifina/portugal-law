@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que o chefe da delegação de Portugal junto da Organização de Cooperação e de Desenvolvimento Económicos depositou junto do director-geral da Agência da OCDE para a Energia Nuclear, em 29 de Setembro de 1977, o instrumento de ratificação, por parte de Portugal, da Convenção sobre Responsabilidade Civil no Domínio da Energia Nuclear, modificada pelo Protocolo Adicional de 28 de Janeiro de 1964, aprovado para ratificação pelo Decreto n.º 33/77, de 11 de Março.
+Até àquela data eram partes na referida Convenção os seguintes países: Turquia, Espanha, Reino Unido, França, Bélgica, Suécia, Grécia, Finlândia, Noruega, Dinamarca, Itália, República Federal da Alemanha.
+Direcção-Geral dos Negócios Económicos, 25 de Outubro de 1977. - O Director-Geral, Alexandre Eduardo Lencastre da Veiga.
