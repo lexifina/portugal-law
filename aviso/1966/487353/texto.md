@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que, segundo comunicação do Secretariado das Nações Unidas, a Itália depositou junto do mesmo Secretariado, em 18 de Fevereiro de 1966, o instrumento de adesão ao Acordo internacional do café, assinado em Nova Iorque em 28 de Setembro de 1962. Na nota que acompanhava o referido instrumento de adesão, o Governo Italiano declarava entrar na Organização Internacional do Café como membro importador segundo as definições do § 8.º do artigo 2.º do referido Acordo internacional.
+Direcção-Geral dos Negócios Económicos e Consulares, 5 de Abril de 1966. - O Director-Geral, José Calvet de Magalhães.
