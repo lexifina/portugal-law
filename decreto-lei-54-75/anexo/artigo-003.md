@@ -1,3 +1,3 @@
 # Artigo 3.º
 
-Se o registo for requerido fora de prazo, o emolumento respectivo será contado pelo dobro.
+Por cada fotocópia, certidão ou fotocópia acrescida da certificação de outro facto, assim como por cada título de registo emitido em substituição de exemplar deteriorado, destruído ou desaparecido ... 200$00

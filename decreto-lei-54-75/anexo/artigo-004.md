@@ -1,3 +1,3 @@
 # Artigo 4.º
 
-Por cada nota de registo ... 20$00
+Por informação de cada veículo dada por escrito ... 50$00
