@@ -1,0 +1,7 @@
+Despacho ministerial
+Considerando que alguns funcionários portugueses continuaram no exercício de funções em S. Tomé e Príncipe após a ascensão à independência deste território (12 de Julho de 1975) sem que a sua situação de pré-cooperação estivesse tutelada pelo Acordo de Cooperação Científica e Técnica, que só viria a ser assinado pelos Governos de Portugal e de S. Tomé e Príncipe em 3 de Dezembro de 1975;
+Tendo presente que de tal facto poderão resultar prejuízos aos ditos funcionários no que respeita à contagem do tempo de serviço que decorreu até 31 de Dezembro de 1975, bem como suscitar-se dúvidas sobre a aplicabilidade do n.º 3 do artigo 1.º do Decreto-Lei n.º 23/75, de 22 de Janeiro:
+Determino o seguinte:
+1.º Aos funcionários públicos nas condições acima citadas, e com referência ao período entre 12 de Julho e 3 de Dezembro de 1975, é contado em Portugal, para efeitos de antiguidade e promoção, o tempo de serviço prestado ao Estado de S. Tomé e Príncipe como se tivesse sido prestado no exercício do cargo que desempenhavam à data da independência de S. Tomé e Príncipe.
+2.º Os servidores referidos poderão ainda requerer o ingresso no quadro geral de adidos, desde que deixem de prestar serviço ao Estado de S. Tomé e Príncipe, mantenham a nacionalidade portuguesa e venham residir para Portugal.
+Ministério da Cooperação, 20 de Abril de 1976. - O Ministro da Cooperação, Vítor Manuel Trigueiros Crespo.
