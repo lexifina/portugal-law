@@ -4,7 +4,7 @@
 
 1 - A assembleia reúne por iniciativa da comissão de administração ou de um grupo de proprietários ou comproprietários detentores de 5% do número total de votos na assembleia, calculado nos termos do artigo 13.º
 
-2 - A assembleia é convocada por escrito, mediante aviso enviado pelo correio para a morada dos membros que nela podem ter assento, presumindo-se, na falta de outra indicação, que a morada é a constante da inscrição registral do respectivo direito.
+2 - A assembleia é convocada por escrito, mediante registo postal enviado para a morada dos membros que nela podem ter assento, presumindo-se, na falta de outra indicação, que a morada é a constante da inscrição registral do respectivo direito.
 
 3 - O aviso convocatório é obrigatoriamente afixado na sede da junta de freguesia e publicado num dos jornais de divulgação nacional.
 

@@ -13,3 +13,5 @@
 5 - O representante da câmara municipal deve, durante o funcionamento da administração conjunta, procurar fornecer os esclarecimentos necessários e úteis de acordo com o previsto nesta lei.
 
 6 - Devem estar presentes nas assembleias de proprietários ou comproprietários os membros da comissão de fiscalização, sempre que sejam apreciadas matérias incluídas no âmbito das suas competências.
+
+7 - Os interessados que, por transmissão entre vivos do seu direito, deixem de ter assento na assembleia devem, no prazo de 15 dias, comunicar por escrito esse facto à comissão de administração, indicando igualmente o nome e a morada do novo titular, sob pena de responderem pelos danos a que a sua omissão der causa.

@@ -16,6 +16,6 @@
 
 5 - A delimitação do perímetro das AUGI é feita com recurso a qualquer meio gráfico, cadastral ou registral que identifique com clareza a área delimitada, a qual corresponde à área que, no entendimento da câmara municipal, deve ser objecto de um único processo de reconversão urbanística, podendo integrar um ou mais prédios contíguos.
 
-6 - Até à convocação da assembleia constitutiva da administração conjunta podem ser propostas alterações à delimitação das AUGI, fundamentadas, designadamente, no melhor conhecimento da realidade local, nos ajustamentos de escalas e na melhor delimitação técnica.
+6 - Podem ser propostas alterações à delimitação e à modalidade de reconversão das AUGI, fundamentadas, designadamente, no melhor conhecimento da realidade local, nos ajustamentos de escalas e na melhor delimitação técnica.
 
 7 - As áreas de loteamento e construções ilegais não abrangidos pelos n.os 2 e 3 são objecto de estudo com vista à sua reafectação ao uso previsto em PMOT.

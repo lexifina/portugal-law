@@ -12,7 +12,7 @@
 
 5 - É obrigatória a publicação das deliberações produzidas, em forma de extracto, no prazo de 15 dias, mediante aviso a afixar na sede da junta de freguesia e por anúncio no jornal onde foi publicado o aviso convocatório da assembleia, quando na mesma não tenham estado presentes ou representadas todas as pessoas que nela podem ter assento.
 
-6 - A publicação da deliberação de que foi aprovado o projecto de acordo de divisão de coisa comum deve mencionar, sob pena de invalidade, o cartório notarial onde vai ter lugar o acto referido no n.º 4 do artigo 38.º
+6 - A publicação da deliberação de que foi aprovado o projecto de acordo de divisão de coisa comum deve mencionar, sob pena de invalidade, o cartório notarial onde vai ter lugar o acto referido no n.º 4 do artigo 38.º, podendo aquele ser o notário privativo da respectiva câmara municipal, mediante deliberação desta, a requerimento da comissão de administração.
 
 7 - As deliberações da assembleia podem ser judicialmente impugnadas por qualquer interessado que as não tenha aprovado, no prazo de 60 dias a contar da data da assembleia ou da publicação referida no n.º 5 do presente artigo, consoante aquele haja ou não estado presente na reunião.
 

@@ -15,3 +15,5 @@
 6 - Os membros da comissão são remunerados ou não, conforme deliberado em assembleia.
 
 7 - Aos membros da comissão de administração é aplicável, com as necessárias adaptações, o disposto nos artigos 72.º, 78.º e 79.º do Código das Sociedades Comerciais.
+
+8 - As comissões de administração eleitas nos termos da presente lei iniciam imediatamente a sua actividade, sem prejuízo da prestação de contas devida pela administração anterior.

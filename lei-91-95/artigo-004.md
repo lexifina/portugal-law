@@ -8,4 +8,4 @@ a) Como operação de loteamento da iniciativa dos proprietários ou compropriet
 
 b) Como operação de loteamento ou mediante plano de pormenor da iniciativa da respectiva câmara municipal.
 
-2 - Os loteamentos e planos de pormenor previstos no número anterior regem-se pelo disposto na presente lei e, subsidiariamente, pelas disposições do Decreto-Lei n.º 448/91, de 29 de Novembro, e do Decreto-Lei n.º 69/90, de 2 de Março.
+2 - Os loteamentos e planos de pormenor previstos no número anterior regem-se pelo disposto na presente lei e, subsidiariamente, pelas disposições do Decreto-Lei n.º 555/99, de 16 de Dezembro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 177/2001, de 4 de Junho, e pelas disposições do Decreto-Lei n.º 380/99, de 22 de Setembro.
