@@ -1,0 +1,3 @@
+Despacho
+Considerando que as épocas venatórias no arquipélago dos Açores não coincidem com as do continente, determina-se que podem as câmaras municipais daquelas ilhas passar licenças para o exercício da caça ao abrigo do regime previsto no Decreto n.º 47847, de 14 de Agosto de 1967, sem prejuízo da aplicação aos requerentes das disposições do novo diploma regulador da caça logo que o mesmo venha a ser publicado.
+Ministérios da Administração Interna e da Economia, 24 de Julho de 1974. - O Ministro da Administração Interna, Manuel da Costa Brás. - O Secretário de Estado da Agricultura, Alfredo Gonzalez Esteves Belo.
