@@ -1,0 +1,4 @@
+Aviso n.º 211/99
+Por ordem superior se torna público que a República Checa assinou, em 16 de Abril de 1999, em Estrasburgo, a Convenção Europeia sobre o Reconhecimento e a Execução das Decisões Relativas à Guarda de Menores e sobre o Restabelecimento da Guarda de Menores, aberta à assinatura no Luxemburgo em 20 de Maio de 1980.
+Portugal é Parte na mesma Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 136/82, de 21 de Dezembro, tendo depositado o seu instrumento de ratificação em 18 de Março de 1983, conforme aviso publicado no Diário da República, 1.ª série, n.º 91, de 20 de Abril de 1983.
+Direcção-Geral dos Assuntos Multilaterais, 4 de Novembro de 1999. - O Director de Serviços das Organizações Políticas Internacionais, Rui Filipe Monteiro Belo Macieira.
