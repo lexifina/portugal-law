@@ -1,0 +1,9 @@
+Aviso n.º 240/94
+Por ordem superior se torna público que Portugal depositou junto do Secretariado-Geral do Conselho da União Europeia, em 30 de Junho de 1994, o instrumento de ratificação da Convenção Relativa à Adesão do Reino de Espanha e da República Portuguesa à Convenção sobre a Lei Aplicável às Obrigações Contratuais, assinada no Funchal em 18 de Maio de 1992, e do Primeiro Protocolo Relativo à Interpretação pelo Tribunal de Justiça das Comunidades Europeias da Convenção sobre a Lei Aplicável às Obrigações Contratuais e Segundo Protocolo que atribui ao Tribunal de Justiça das Comunidades Europeias Determinadas Competências em Matéria de Interpretação da Convenção sobre a Lei Aplicável às Obrigações Contratuais, assinados em Bruxelas em 19 de Dezembro de 1988. A Convenção e os Protocolos foram aprovados pela Resolução da Assembleia da República n.º 3/94, publicada no Diário da República, 1.ª série, n.º 28, de 3 de Fevereiro de 1994, com a seguinte reserva:
+A República Portuguesa reserva-se o direito de não aplicar o n.º 1 do artigo 7.º da Convenção sobre a Lei Aplicável às Obrigações Contratuais, em conformidade com o disposto na alínea a) do n.º 1 do artigo 22.º da mesma Convenção.
+Em conformidade com o artigo 5.º, a Convenção entra em vigor em 1 de Setembro de 1994 para as relações entre Portugal e os Estados que já depositaram os instrumentos de ratificação desta Convenção.
+Por notas de 17 de Dezembro de 1993, 3 de Fevereiro de 1994 e 15 de Fevereiro de 1994, respectivamente, o Secretariado-Geral do Conselho da União Europeia notificou terem os seguintes Estados depositado os instrumentos de ratificação da mencionada Convenção:
+Países Baixos, em 11 de Fevereiro de 1993;
+Espanha, em 2 de Junho de 1993;
+Itália, em 15 de Dezembro de 1993.
+Direcção-Geral dos Assuntos Comunitários, 30 de Agosto de 1994. - O Director de Serviços dos Assuntos Jurídicos, Luís Fernandes.
