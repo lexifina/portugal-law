@@ -1,0 +1,3 @@
+Anúncio n.º 5/94
+Faz-se saber que no dia 29 de Setembro de 1994 foi instaurado no Supremo Tribunal Administrativo, por Artur Agostinho Marreiros Graça Fernandes, correndo termos pela 2.ª Secção, sob o n.º 18611, um processo de pedido de ilegalidade de normas, com base na alínea l) do artigo 26.º do Decreto-Lei n.º 129/84, de 17 de Abril, tendo como objecto a norma constante da Portaria n.º 351/94, de 3 de Junho, dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, podendo os eventuais interessados intervir no processo, nos termos e nos prazos fixados na lei.
+Lisboa, 26 de Outubro de 1994. - O Juiz Conselheiro Relator, Júlio António Ferreira Tormenta. - A Escriturária Judicial, Jacinta de Fátima Leite Teixeira Sousa dos Santos.
