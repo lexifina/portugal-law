@@ -1,0 +1,3 @@
+Despacho Normativo n.º 25/88
+Ao abrigo do disposto no n.º 1 do artigo 1.º do Decreto-Lei n.º 303/77, de 29 de Julho, em aditamento à tabela n.º 2 - Produtos fitofarmacêuticos, aprovada pelo Despacho Normativo n.º 346/80, publicada no Diário da República, 1.ª série, n.º 250, de 28 de Outubro de 1980, é autorizado o lançamento no mercado de um novo tipo de embalagem, com o conteúdo líquido de 500 g, para os produtos fitofarmacêuticos com base na substância activa mercaptodimetur, com o teor de 4% (p/p), formulado com isco.
+Ministérios da Agricultura, Pescas e Alimentação e do Comércio e Turismo, 28 de Março de 1988. - O Secretário de Estado da Agricultura, Álvaro dos Santos Amaro. - O Secretário de Estado do Comércio Interno, Jorge Manuel Mendes Antas.
