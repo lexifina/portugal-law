@@ -1,0 +1,3 @@
+Despacho
+Nos termos do artigo 1.º do Decreto-Lei n.º 43000, de 1 de Junho de 1960, mediante proposta do Ministério da Educação Nacional, são consideradas habilitações adequadas para efeito de provimento do lugar de encarregado dos serviços industriais do Hospital-Colónia de Rovisco Pais e de outros cargos do mesmo nível e índole análoga as dos cursos de serralheiro, electromecânico, montador electricista, carpinteiro civil e carpinteiro-marceneiro professados nas escolas industriais.
+Presidência do Conselho, 22 de Outubro de 1969. - Pelo Presidente do Conselho, o Ministro de Estado, Alfredo de Queirós Ribeiro Vaz Pinto.
