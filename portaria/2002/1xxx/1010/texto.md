@@ -1,0 +1,23 @@
+Portaria n.º 1010/2002
+de 9 de Agosto
+Através da Decisão n.º 91/315/CEE, publicada no Jornal Oficial, n.º L 171, de 29 de Junho de 1991, o Conselho da União Europeia adoptou um programa de opções específicas para fazer face ao afastamento e à insularidade dos Açores e da Madeira (POSEIMA), e o Regulamento (CEE) n.º 1600/92, do Conselho, de 15 de Junho, estabeleceu medidas específicas relativas a determinados produtos agrícolas a favor destes dois arquipélagos.
+As normas de execução desse regime foram adoptadas pela Comissão, através do Regulamento n.º 1696/92, de 30 de Junho, tendo, nesse quadro, a Portaria n.º 1231/92, de 31 de Dezembro, estabelecido as regras de gestão das estimativas de abastecimento em Portugal.
+Porém, o Regulamento (CE) n.º 1453/2001, do Conselho, de 28 de Junho, veio revogar o Regulamento (CEE) n.º 1600/92 e estabelecer novas medidas específicas relativas a determinados produtos agrícolas a favor dos Açores e da Madeira, e o Regulamento (CE) n.º 20/2002, da Comissão, de 28 de Dezembro de 2001, veio estabelecer as respectivas normas de execução.
+Os referidos regulamentos têm por objectivo favorecer uma emissão rápida dos certificados, bem como o rápido pagamento da ajuda, e ao mesmo tempo garantir o acompanhamento das operações pelas autoridades gestoras, em ordem a assegurar que as finalidades do regime são efectivamente atingidas.
+Torna-se, por isso, necessário estabelecer, na ordem jurídica interna, novas regras para a gestão e acompanhamento, em tempo real, deste regime específico de abastecimento.
+Assim, tendo em conta o disposto no artigo 27.º do Regulamento (CE) n.º 20/2002, da Comissão, de 28 de Dezembro de 2001:
+Manda o Governo, pelos Ministros de Estado e das Finanças e da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:
+1.º A presente portaria estabelece as regras complementares necessárias à gestão e acompanhamento do regime específico de abastecimento das Regiões Autónomas dos Açores e da Madeira, no âmbito do Regulamento (CE) n.º 1453/2001, do Conselho, de 28 de Junho, e do Regulamento (CE) n.º 20/2002, da Comissão, de 28 de Dezembro de 2001 (POSEIMA).
+2.º Serão estabelecidas pelos Governos próprios das Regiões Autónomas dos Açores e da Madeira as normas relativas ao registo de operadores e ao controlo de repercussão até ao utilizador final dos benefícios, previstos nos artigos 8.º e 9.º do Regulamento (CE) n.º 20/2002, da Comissão, de 28 de Dezembro de 2001.
+3.º - 1 - A gestão das quantidades das estimativas de abastecimento é da responsabilidade da Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC) em coordenação com as autoridades competentes das Regiões Autónomas dos Açores e da Madeira.
+2 - As necessidades de reforço das estimativas de abastecimento serão comunicadas pelos organismos competentes das Regiões Autónomas dos Açores e da Madeira ao Gabinete de Planeamento e Política Agro-Alimentar (GPPAA), nos termos e para os efeitos previstos no artigo 14.º do Regulamento (CE) n.º 20/2002, da Comissão, de 28 de Dezembro de 2001.
+4.º - 1 - Os pedidos de certificados de ajuda, de isenção e de importação devem ser apresentados junto da entidade competente da respectiva região autónoma.
+2 - A emissão dos certificados fica sujeita à confirmação pelo sistema informático da DGAIEC, através da atribuição automática de um número à comunicação, o qual deverá ser inscrito no certificado.
+5.º Os certificados de ajuda, de isenção e de importação serão apresentados às alfândegas das Regiões Autónomas dos Açores e da Madeira para cumprimento das respectivas formalidades aduaneiras e para realização de todos os controlos aduaneiros específicos destinados a assegurar o cumprimento do disposto no Regulamento (CE) n.º 20/2002, da Comissão, de 28 de Dezembro de 2001.
+6.º O relatório anual a que se reporta o artigo 23.º do Regulamento (CE) n.º 20/2002, da Comissão, de 28 de Dezembro de 2001, será elaborado pelos organismos competentes das Regiões Autónomas dos Açores e da Madeira para posterior envio à Comissão.
+7.º - 1 - Para efeitos do disposto no n.º 2 do artigo 26.º do Regulamento (CE) n.º 20/2002, da Comissão, o período durante o qual a emissão dos certificados ficará subordinada à constituição de uma garantia é fixado em 60 dias.
+2 - Nos casos de reincidência este período é fixado em 90 dias.
+8.º É revogada a Portaria n.º 1231/92, de 31 de Dezembro.
+9.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+Em 17 de Julho de 2002.
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto.
