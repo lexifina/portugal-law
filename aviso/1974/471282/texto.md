@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação do secretário-geral da Organização das Nações Unidas, os Governos da Grécia e da Tunísia depositaram, em 15 de Janeiro e 20 de Junho de 1974, respectivamente, os instrumentos de adesão à Convenção sobre facilidades aduaneiras a favor do turismo e ao seu Protocolo Adicional relativo à importação de documentos e de material de propaganda turística, concluídos em Nova Iorque em 4 de Junho de 1954.
+Direcção-Geral dos Negócios Económicos, 11 de Outubro de 1974. - O Adjunto do Director-Geral, Luís Alberto de Vasconcelos Góis Fernandes Figueira.
