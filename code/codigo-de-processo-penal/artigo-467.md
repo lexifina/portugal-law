@@ -1,0 +1,15 @@
+## Livro X
+
+## Das execuções
+
+## Título I
+
+## Disposições gerais
+
+# Artigo 467.º
+
+### (Decisões com força executiva)
+
+1 - As decisões penais condenatórias transitadas em julgado têm força executiva em todo o território português ou sob administração portuguesa e ainda em território estrangeiro, conforme os tratados, convenções e regras de direito internacional.
+
+2 - As decisões penais absolutórias são exequíveis logo que proferidas, sem prejuízo do disposto no artigo 214.º, n.º 3.

@@ -1,0 +1,13 @@
+# Artigo 242.º
+
+### (Denúncia obrigatória)
+
+1 - A denúncia é obrigatória, ainda que os agentes do crime não sejam conhecidos:
+
+a) Para as entidades policiais, quanto a todos os crimes de que tomarem conhecimento;
+
+b) Para os funcionários, na acepção do artigo 437.º do Código Penal, demais agentes do Estado e gestores públicos, quanto aos crimes de que tomarem conhecimento no exercício das suas funções e por causa delas.
+
+2 - Quando várias pessoas forem obrigadas à denúncia do mesmo crime, a sua apresentação por uma delas dispensa as restantes.
+
+3 - O disposto nos números anteriores não prejudica o regime dos crimes cujo procedimento depende de queixa ou de acusação particular.

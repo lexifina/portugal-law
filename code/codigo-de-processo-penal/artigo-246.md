@@ -1,0 +1,11 @@
+# Artigo 246.º
+
+### (Forma e conteúdo da denúncia)
+
+1 - A denúncia pode ser feita verbalmente ou por escrito e não está sujeita a formalidades especiais.
+
+2 - A denúncia verbal é reduzida a escrito e assinada pela entidade, que a receber e pelo denunciante, devidamente identificado. É correspondentemente aplicável o disposto no artigo 95.º, n.º 3.
+
+3 - A denúncia contém, na medida possível, a indicação dos elementos referidos nas alíneas do n.º 1 do artigo 243.º
+
+4 - O denunciante pode declarar, na denúncia, que deseja constituir-se assistente. Tratando-se de crime cujo procedimento depende de acusação particular, a declaração é obrigatória.

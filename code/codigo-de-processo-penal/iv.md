@@ -1,0 +1,3 @@
+# IV
+
+11. Pensa-se que, pela forma sumariamente descrita, o Código que em seguida se apresenta poderá constituir uma peça fundamental do diálogo, sempre em aberto e sempre renovado, entre a vertente liberal e a vertente social do Estado de direito democrático, entre a justiça e a eficiência na aplicação da lei penal, entre as exigências de segurança da comunidade e de respeito pelos direitos das pessoas. Se assim for, do Código de Processo Penal - a pedra essencial que faltava no edifício renovado da nossa legislação penal - poderá legitimamente esperar-se que cumpra a função decisiva que lhe cabe na tarefa ingente de controle e domínio da criminalidade.
