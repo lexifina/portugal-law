@@ -1,0 +1,13 @@
+Declaração de Rectificação n.º 3-D/99
+Para os devidos efeitos se declara que o Decreto-Lei n.º 343/98, publicado no Diário da República, 1.ª série, n.º 257, de 6 de Novembro de 1998, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Na secção I, no artigo 3.º, onde altera o artigo 390.º, onde se lê:
+«1 - ...
+2 - O contrato de sociedade [...] a pluralidade de administradores.»
+deve ler-se:
+«1 - ...
+2 - O contrato de sociedade [...] a pluralidade de administradores.
+3 - ...
+4 - ...
+5 - ...»
+Na secção II, no artigo 20.º, onde se lê «1 - A redonominação de valores mobiliários ou as» deve ler-se «1 - A redonominação de valores mobiliários, quotas, ou as».
+Secretaria-Geral da Presidência do Conselho de Ministros, 29 de Janeiro de 1999. - O Secretário-Geral, Alexandre Figueiredo.
