@@ -1,0 +1,3 @@
+Declaração de Rectificação n.º 1/2005
+Tendo sido publicado com inexactidão no Diário da República, 1.ª série-B, n.º 304, de 30 de Dezembro de 2004, o sumário relativo ao Aviso do Banco de Portugal n.º 6/2004, rectifica-se que onde se lê «Cauciona os compromissos irrevogáveis de pagamento ao Fundo de Garantia de Depósitos e modifica o artigo 13.º do aviso n.º 11/94, publicado» deve ler-se «Estabelece regras sobre o caucionamento dos compromissos irrevogáveis de pagamento ao Fundo de Garantia de Depósitos. Modifica o artigo 13.º do aviso n.º 11/94, publicado».
+Lisboa, 10 de Janeiro de 2005. - O Chefe do Gabinete, Paulo Amorim.
