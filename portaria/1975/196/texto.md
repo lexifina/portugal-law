@@ -1,0 +1,26 @@
+Portaria n.º 196/75
+de 21 de Março
+Pelo Decreto-Lei n.º 576/74, de 5 de Novembro, foram tomadas medidas consideradas prioritárias no tocante à organização dos Serviços de Administração Fiscal, designadamente a criação de uma Direcção dos Serviços de Pessoal e Organização.
+Com a criação daquela unidade orgânica pretendeu-se dotar a Direcção-Geral das Contribuições e Impostos com meios adequados ao desempenho das importantes funções relacionadas com a gestão integrada do pessoal, bem como com o aperfeiçoamento das estruturas e melhoria do funcionamento dos serviços.
+Dada a inexperiência da administração pública nacional no que se refere à orgânica e efectivos que correspondam ao eficaz funcionamento de serviços de pessoal e organização, é natural que o legislador tomasse providências tendo em vista a simplificação do processo legislativo em ordem à adaptação da estrutura e quadros de pessoal da nova Direcção dos Serviços às suas missões.
+Por isso, o já citado diploma atribui ao Secretário de Estado do Orçamento competência para, até à reestruturação dos serviços tributários, fixar ou alterar, por portaria, os quadros de pessoal e os serviços necessários à execução do mesmo.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Orçamento:
+1.º Fixar, nos termos do artigo 8.º do Decreto-Lei n.º 576/74, de 5 de Novembro, o quadro da Direcção dos Serviços de Pessoal e Organização da Direcção-Geral das Contribuições e Impostos, o qual resulta dos serviços que nela foram integrados por força do citado diploma, bem como da inclusão de lugares técnicos necessários à prossecução dos seus fins, conforme o mapa anexo à presente portaria.
+2.º As nomeações para os lugares constantes no quadro a que se refere o n.º 1.º que não correspondam a categorias previstas no Decreto n.º 45095, de 29 de Junho de 1963, ou no Decreto-Lei n.º 576/74, de 5 de Novembro, são feitas pelo Secretário de Estado do Orçamento, mediante proposta do director-geral, de acordo com os seguintes critérios:
+a) Para os lugares de técnico de 2.ª classe, indivíduos diplomados com cursos superiores adequados ao exercício das funções ou que possuam cursos especializados em domínios técnicos directamente relacionados com as actividades da Direcção dos Serviços.
+b) Para os lugares de técnico auxiliar de 2.ª classe, indivíduos diplomados com o curso complementar dos liceus ou que possuam habilitações equivalentes e, ainda, funcionários com a habilitação mínima do curso geral dos liceus ou equivalente e experiência comprovada nos domínios da gestão do pessoal ou da organização e métodos;
+c) Para o lugar de operador de reprografia de 3.ª classe, indivíduos com formação ou experiência comprovadas no domínio das técnicas de reprografia;
+d) Para os lugares de técnico de 1.ª classe, funcionários da categoria imediatamente inferior com provimento definitivo;
+e) Para os lugares de técnico auxiliar principal, técnicos auxiliares de 1.ª classe com boas informações de serviço e, ainda, secretários de finanças de 1.ª ou 2.ª classes ou outros funcionários dos Serviços de Administração Fiscal, de categoria equivalente, com formação ou experiência comprovadas nos domínios da gestão de pessoal ou da organização e métodos;
+f) Para os lugares de técnico auxiliar de 1.ª classe, técnicos auxiliares de 2.ª classe com provimento definitivo e, ainda, secretários de finanças de 2.ª ou 3.ª classes ou outros funcionários dos Serviços de Administração Fiscal, de categoria equivalente, com formação ou experiência comprovadas nos domínios da gestão do pessoal ou da organização e métodos;
+g) Para os lugares de operador de reprografia de 1.ª e 2.ª classes, funcionários de categoria imediatamente inferior com boas informações de serviços.
+3.º A forma de provimento dos lugares referidos nas alíneas a) e b) do número anterior será a prevista na alínea c) do artigo 54.º do Decreto n.º 45095, de 29 de Junho de 1963, excepto tratando-se de funcionários, os quais poderão ser nomeados em comissão, nos termos da lei.
+4.º O provimento dos lugares de operador de reprografia far-se-á nos termos previstos na alínea d) e no § 2.º do Decreto n.º 45095, de 29 de Junho de 1963, excepto tratando-se de funcionários, os quais poderão ser nomeados em comissão, nos termos da lei.
+5.º As primeiras nomeações para os lugares previstos no n.º 2 da presente portaria poderão efectuar-se para qualquer classe independentemente dos requisitos de provimento, excepto no que se refere às habilitatações ou experiência exigidas para os lugares de ingresso.
+6.º Na satisfação dos encargos com pessoal resultantes da execução desta portaria são utilizadas as disponibilidades das verbas orçamentais consignadas ao pagamento do pessoal dos quadros aprovados da Direcção-Geral das Contribuições e Impostos.
+Secretaria de Estado do Orçamento, 6 de Março de 1975. - O Secretário de Estado do Orçamento, António de Seixas da Costa Leal.
+
+QUADRO
+(ver documento original)
+O Secretário de Estado do Orçamento, António de Seixas da Costa Leal.
