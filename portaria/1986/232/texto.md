@@ -1,0 +1,33 @@
+Portaria n.º 232/86
+de 22 de Maio
+Pelo Decreto-Lei n.º 84/85, de 28 de Março, uma percentagem do produto líquido das explorações do Totobola e do Totoloto foi destinada ao apoio a empresas jornalísticas em termos e segundo critérios a estabelecer pela tutela do sector.
+A Portaria n.º 836/85, de 7 de Novembro, veio dispor os esquemas de apoio a promover, não resolvendo, por um lado, a necessidade de regulamentação para a exequibilidade dos apoios aos investimentos da imprensa regional e, por outro, a definição de um mecanismo que operacionalize uma forma expedita de distribuição das verbas pelos destinatários, em ordem a minorar os problemas decorrentes de demoras nas entregas, na maioria das vezes a empresas com dificuldades de tesouraria prementes.
+A diversidade e especificidade dos problemas que afectam as numerosas entidades que prosseguem a realização do direito fundamental à informação aconselha não ser desejável a criação de mecanismos muito sofisticados de apoio, sem embargo, no entanto de se contar com a experiência a colher no futuro para a introdução de correcções ou alterações que se mostrem adequadas.
+Assim:
+Nos termos do artigo 17.º, n.º 4, do Decreto-Lei n.º 84/85, de 28 de Março;
+Ouvidas as associações de imprensa diária e não diária:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado Adjunto do Ministro Adjunto e para os Assuntos Parlamentares, o seguinte:
+1.º As verbas de exploração do Totobola e do Totoloto destinadas ao apoio a empresas jornalísticas serão distribuídas nos termos seguintes:
+a) 62,5% para o reforço das dotações inscritas no Orçamento do Estado para subsídio de papel, repartidas proporcionalmente aos montantes aí fixados;
+b) 32,5% para subsídios não reembolsáveis a investimentos da imprensa regional em equipamento gráfico ou de gestão que visem a modernização e a introdução de novas tecnologias de informação;
+c) 5% para o apoio a acções ou iniciativas de formação profissional de jornalistas.
+2.º Para efeitos do disposto na alínea b) do número anterior considera-se de imprensa regional toda a publicação de expansão regional e carácter informativo que verse predominantemente temas sobre a região ou localidade em que se insere.
+3.º Os órgãos de imprensa regional que pretendam beneficiar dos subsídios para investimento deverão apresentar na Direcção-Geral da Comunicação Social projectos fundamentados em estudo económico até 31 de Janeiro de cada ano.
+4.º Os projectos de investimento serão classificados valorando-se prioritariamente de acordo com os seguintes critérios:
+a) Viabilidade económica e financeira do projecto e da entidade beneficiária;
+b) Menor coeficiente entre o montante do capital a investir e o número de publicações beneficiadas;
+c) Percentagem mais elevada de outras fontes de financiamento;
+d) Maior incorporação de materiais e tecnologia nacionais;
+e) Inexistência de qualquer outro financiamento do Estado.
+5.º Para efeitos do disposto na alínea b) do número anterior apenas se deverão considerar as publicações de periodicidade máxima mensal e com uma tiragem mínima de 500 exemplares por cada edição.
+6.º A Direcção-Geral da Comunicação Social apreciará os projectos, podendo solicitar às entidades candidatas as informações e elementos de análise que tenha por convenientes, submetendo ao membro do Governo responsável pela comunicação social, no prazo de 90 dias a contar da data prevista no n.º 3.º, a lista classificativa acompanhada dos fundamentos para a respectiva graduação.
+7.º Os subsídios serão concedidos, mediante despacho do membro do Governo responsável pela comunicação social, até ser esgotada a verba disponível.
+8.º Os eventuais saldos apurados após a concessão de subsídios reverterão para o reforço das verbas destinadas ao subsídio de papel para a imprensa de expansão regional correspondente ao 4.º trimestre.
+9.º A Santa Casa da Misericórdia de Lisboa - Departamento de Apostas Mútuas comunicará trimestralmente à Direcção-Geral da Comunicação Social o montante das verbas destinadas aos apoios previstos na presente portaria, a qual proporá ao membro do Governo responsável pela comunicação social a sua distribuição nos termos dos números anteriores.
+10.º A entrega das verbas aos destinatários será efectuada pela Santa Casa da Misericórdia de Lisboa - Departamento de Apostas Mútuas, com expressa indicação da sua proveniência e atribuição por conta da Direcção-Geral da Comunicação Social.
+11.º O cumprimento do disposto na presente portaria será objecto de fiscalização por parte da Direcção-Geral da Comunicação Social.
+12.º Para o ano em curso o prazo estabelecido no n.º 3.º decorrerá excepcionalmente até 15 de Setembro.
+13.º É revogada a Portaria n.º 836/85, de 7 de Novembro.
+Secretaria de Estado dos Assuntos Parlamentares.
+Assinada em 12 de Maio de 1986.
+O Secretário de Estado Adjunto do Ministro Adjunto e para os Assuntos Parlamentares, Luís Manuel Gonçalves Marques Mendes.
