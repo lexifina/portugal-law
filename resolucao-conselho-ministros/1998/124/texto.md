@@ -1,0 +1,9 @@
+Resolução do Conselho de Ministros n.º 124/98
+A realização do referendo sobre a despenalização da interrupção voluntária da gravidez evidenciou na sociedade portuguesa um amplo consenso sobre a necessidade de se dar cabal cumprimento aos princípios consignados na Lei n.º 3/84, de 24 de Março, bem como a necessidade de se concentrarem esforços para o acompanhamento eficaz de franjas da população mais vulneráveis.
+No sentido de dar cumprimento a esses princípios, decidiu o Governo identificar as acções já em curso, com o objectivo de as potenciar e desenvolver, numa perspectiva de articulação e cooperação intersectorial, bem como definir todas aquelas que permitam melhor alcançar os objectivos em causa.
+Para o efeito, foi criada uma comissão interministerial, composta por representantes dos Ministérios da Justiça, da Educação, da Saúde e do Trabalho e da Solidariedade e da Secretaria de Estado da Juventude, que apresentou no seu relatório um plano de acção integrado para a educação sexual e planeamento familiar.
+Assim, nos termos da alínea g) do artigo 199.º da Constituição, o Governo resolveu:
+1 - Aprovar o relatório da comissão interministerial e o plano de acção nele proposto.
+2 - Determinar que a primeira avaliação do plano de acção seja efectuada em Setembro de 1999, devendo a Alta Comissária para as Questões da Promoção da Igualdade e da Família, os Ministérios da Justiça, da Educação, da Saúde e do Trabalho e da Solidariedade e a Secretaria de Estado da Juventude indicar os representantes que integrarão a comissão de avaliação.
+3 - Determinar que, para a monitorização e acompanhamento das acções previstas, a comissão referida no n.º 2 promova reuniões com a periodicidade adequada.
+Presidência do Conselho de Ministros, 1 de Outubro de 1998. - Pelo Primeiro-Ministro, José Veiga Simão, Ministro da Defesa Nacional.
