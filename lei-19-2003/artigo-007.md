@@ -2,7 +2,7 @@
 
 ### Regime dos donativos singulares
 
-1 - Os donativos de natureza pecuniária feitos por pessoas singulares identificadas estão sujeitos ao limite anual de 25 vezes o valor do IAS por doador e são obrigatoriamente titulados por cheque ou transferência bancária.
+1 - Os donativos de natureza pecuniária feitos por pessoas singulares identificadas estão sujeitos ao limite anual de 25 salários mínimos mensais nacionais por doador e são obrigatoriamente titulados por cheque ou transferência bancária.
 
 2 - Os donativos de natureza pecuniária são obrigatoriamente depositados em contas bancárias exclusivamente destinadas a esse efeito e nas quais só podem ser efectuados depósitos que tenham esta origem.
 

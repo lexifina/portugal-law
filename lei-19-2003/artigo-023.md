@@ -6,9 +6,9 @@
 
 ### Apreciação pelo Tribunal Constitucional
 
-1 - O Tribunal Constitucional pronuncia-se, em sede de recurso, sobre as coimas aplicadas nos termos da presente lei.
+1 - As contas anuais dos partidos políticos e as contas das campanhas eleitorais são apreciadas pelo Tribunal Constitucional, que se pronuncia sobre a sua regularidade e legalidade.
 
-2 - Os acórdãos proferidos pelo Tribunal Constitucional, nos termos do número anterior, são publicados gratuitamente na 2.ª série do Diário da República e disponibilizados no sítio oficial do Tribunal Constitucional na Internet.
+2 - Os acórdãos proferidos pelo Tribunal Constitucional sobre as contas referidas no número anterior, bem como as respectivas contas, com as receitas e as despesas devidamente discriminadas, são publicados gratuitamente na 2.ª série do Diário da República e disponibilizados no sítio oficial do Tribunal Constitucional na Internet.
 
 3 - Para os efeitos previstos neste artigo, o Tribunal Constitucional pode requisitar ou destacar técnicos qualificados de quaisquer serviços públicos ou recorrer, mediante contrato, aos serviços de empresas de auditoria ou a revisores oficiais de contas para a realização de peritagens ou auditorias.
 

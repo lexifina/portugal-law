@@ -2,13 +2,13 @@
 
 ### Entidade das Contas e Financiamentos Políticos
 
-1 - A Entidade das Contas e Financiamentos Políticos é um órgão independente que funciona junto do Tribunal Constitucional e tem como funções a apreciação e fiscalização das contas dos partidos políticos e das campanhas eleitorais, bem como a aplicação das respetivas coimas.
+1 - A Entidade das Contas e Financiamentos Políticos é um órgão independente que funciona junto do Tribunal Constitucional e tem como funções coadjuvá-lo tecnicamente na apreciação e fiscalização das contas dos partidos políticos e das campanhas eleitorais.
 
-2 - A Entidade das Contas e Financiamentos Políticos exerce a sua competência relativamente aos partidos políticos e às campanhas eleitorais para a Assembleia da República, para o Parlamento Europeu, para as Assembleias Legislativas Regionais, para as autarquias locais e para Presidente da República.
+2 - No âmbito das funções referidas no número anterior, a Entidade das Contas e Financiamentos Políticos é responsável pela instrução dos processos que o Tribunal Constitucional aprecia, bem como pela fiscalização da correspondência entre os gastos declarados e as despesas efectivamente realizadas.
 
-3 - A Entidade das Contas e Financiamentos Políticos pode realizar, por sua iniciativa, inspeções e auditorias de qualquer tipo ou natureza às contas dos partidos políticos e das campanhas eleitorais.
+3 - A Entidade das Contas e Financiamentos Políticos exerce a sua competência relativamente aos partidos políticos e às campanhas eleitorais para a Assembleia da República, para o Parlamento Europeu, para as Assembleias Legislativas Regionais, para as autarquias locais e para Presidente da República.
 
-4 - As inspeções e auditorias realizadas nos termos do número anterior, bem como as auditorias obrigatórias às contas dos partidos políticos e às contas das campanhas eleitorais e demais atos inspetivos, são feitas em nome e por conta da Entidade das Contas e Financiamentos Políticos.
+4 - A Entidade das Contas e Financiamentos Políticos pode realizar a qualquer momento, por sua iniciativa ou a solicitação do Tribunal Constitucional, inspecções e auditorias de qualquer tipo ou natureza a determinados actos, procedimentos e aspectos da gestão financeira quer das contas dos partidos políticos quer das campanhas eleitorais.
 
 5 - Até ao dia de publicação do decreto que marca a data das eleições, deve a Entidade das Contas e Financiamentos Políticos, após consulta de mercado, publicar uma lista indicativa do valor dos principais meios de campanha, designadamente publicações, painéis publicitários e meios necessários à realização de comícios.
 
