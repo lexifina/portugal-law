@@ -1,0 +1,6 @@
+Portaria n.º 887/99
+de 11 de Outubro
+O quadro de pessoal da Administração Regional de Saúde de Lisboa e Vale do Tejo, aprovado pela Portaria n.º 772-B/96, de 31 de Dezembro, carece de ser alterado de modo a permitir regularizar a situação de dois profissionais cujos lugares não foram considerados na referida portaria.
+Assim, ao abrigo do disposto no n.º 2 do artigo 1.º do Decreto-Lei n.º 59/76, de 23 de Janeiro:
+Manda o Governo, pelos Ministros das Finanças, Adjunto e da Saúde, que ao quadro de pessoal da Administração Regional de Saúde de Lisboa e Vale do Tejo, aprovado pela Portaria n.º 772-B/96, de 31 de Dezembro, sejam acrescidos no Centro de Saúde de Benavente da Sub-Região de Saúde de Santarém, na parte respeitante ao grupo de pessoal auxiliar e a outro pessoal, um lugar de cozinheiro e um de capelão hospitalar, a extinguir quando vagarem.
+Pelo Ministro das Finanças, João Carlos da Costa Ferreira Silva, Secretário de Estado do Orçamento, em 15 de Setembro de 1999. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública e da Modernização Administrativa, em 14 de Maio de 1999. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina, em 1 de Julho de 1999.
