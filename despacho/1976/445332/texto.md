@@ -1,0 +1,18 @@
+Despacho
+Considerando que o quadro geral de adidos, criado pelo Decreto-Lei n.º 294/76, de 24 de Abril, teve em vista garantir emprego e a integração gradativa dos funcionários ligados aos ex-territórios ultramarinos na função pública portuguesa;
+Considerando que importa que os funcionários adidos ou que reúnam condições para vir a adquirir tal qualidade venham a ser sujeitos progressivamente ao regime do direito do trabalho da função pública em geral;
+Considerando por isso que se impõe definir desde já a transição das responsabilidades da Junta de Saúde do Ultramar para os órgãos que relativamente à função pública asseguram a competência que àquela está cometida;
+Considerando, finalmente, que importa assegurar, conforme previsto no Decreto-Lei n.º 294/76, a transição gradativa para o Serviço Central de Pessoal das responsabilidades cometidas aos organismos afectos ao ex-Ministério da Cooperação em matéria de gestão de excedentes de pessoal:
+Determina-se, ao abrigo do artigo 65.º do Decreto-Lei n.º 294/76:
+1 - A transição para a Administração Pública portuguesa de funcionários afectos à ex-administração ultramarina que tenham continuado a exercer funções nos novos Estados de expressão portuguesa ao abrigo de acordos de cooperação, pré-cooperação ou protocolos de cooperação, e que reúnam condições para ingresso no quadro geral de adidos, far-se-á, qualquer que seja a situação em vista, através de prévio ingresso naquele quadro.
+2 - Do ponto de vista de assistência e licenças por doença, os agentes já ingressados no quadro geral de adidos ficam sujeitos ao regime aplicável ao funcionalismo público em geral, sem prejuízo da manutenção do regime previsto no artigo 305.º do Estatuto do Funcionalismo Ultramarino relativamente àqueles que dele ainda beneficiem por força de decisões da Junta de Saúde do Ultramar e até ao termo dos prazos de incapacidade atribuídos por aquela Junta.
+3 - Termina impreterivelmente em 31 de Agosto a possibilidade de submissão à Junta de Saúde do Ultramar dos agentes provenientes da administração colonial que, não tendo ingressado no quadro geral de adidos, hajam requerido a sua apresentação à mesma para efeitos de aposentação.
+4 - Consideram-se válidas as deliberações da Junta de Saúde do Ultramar proferidas até àquela data.
+5 - Os agentes referidos na parte final do n.º 2 deverão requerer ao director do Serviço Central de Pessoal, até quinze dias antes do termo do prazo de assistência lhes haja sido concedida pela Junta de Saúde do Ultramar, a apresentação à junta médica do Ministério da Administração interna ou ao Instituto de Assistência Nacional aos Tuberculosos, consoante as situações, salvo os casos de acidente em serviço ocorridos anteriormente à data da publicação do Decreto-Lei n.º 294/76, que serão apreciados pela Junta de Saúde do Ultramar.
+6 - A partir de 31 de Agosto corrente, a Junta de Saúde do Ultramar destinar-se-á a apreciar os casos referentes a:
+a) Pessoal da Secretaria de Estado da Integração Administrativa;
+b) Pessoal dos territórios ainda sob a administração portuguesa;
+c) Agentes desligados do serviço para efeitos de aposentação e aposentados, nos termos do Decreto n.º 52/75, de 28 de Fevereiro, e anteriores disposições legais sobre o assunto;
+d) Agentes acidentados, referidos na parte final do n.º 5;
+e) Agentes que estejam na situação de licença ilimitada e que, nos termos do n.º 3 do artigo 21.º do Decreto-Lei n.º 294/76, requeiram o ingresso no quadro geral de adidos.
+Ministério da Administração Interna, 5 de Agosto de 1976. - O Secretário de Estado da Administração Pública, Mário José de Aguiar. - O Secretário de Estado da Integração Administrativa, João Cristóvão Moreira.
