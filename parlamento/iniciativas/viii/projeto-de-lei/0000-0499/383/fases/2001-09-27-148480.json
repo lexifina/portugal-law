@@ -1,0 +1,894 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "383",
+    "id": "5733",
+    "titulo": "Medidas de reestruturação fundiária na área de intervenção do empreendimento de fins múltiplos de Alqueva."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2001-09-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2036",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2001-09-27",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-09-27",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139219",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "157-163",
+                  "180-181"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-28",
+                "pubLeg": "VIII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/006/2001-09-28/157?pgs=157-163,180-181&org=PLC"
+              }
+            ],
+            "sumario": "MEDIDAS DE REESTRUTURAÇÃO FUNDIÁRIA NA ÁREA DE INTERVENÇÃO DO EMPREENDIMENTO DE FINS MÚLTIPLOS DE ALQUEVA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1839",
+                "nome": "José Alberto Fateixa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139220",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "161-161"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-28",
+                "pubLeg": "VIII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/006/2001-09-28/161?pgs=161&org=PLC"
+              }
+            ],
+            "sumario": "MEDIDAS DE REESTRUTURAÇÃO FUNDIÁRIA NA ÁREA DE INTERVENÇÃO DO EMPREENDIMENTO DE FINS MÚLTIPLOS DE ALQUEVA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139221",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "161-162"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-28",
+                "pubLeg": "VIII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/006/2001-09-28/161?pgs=161-162&org=PLC"
+              }
+            ],
+            "sumario": "MEDIDAS DE REESTRUTURAÇÃO FUNDIÁRIA NA ÁREA DE INTERVENÇÃO DO EMPREENDIMENTO DE FINS MÚLTIPLOS DE ALQUEVA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1547",
+                "nome": "Mafalda Troncho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139222",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "162-162"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-28",
+                "pubLeg": "VIII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/006/2001-09-28/162?pgs=162&org=PLC"
+              }
+            ],
+            "sumario": "MEDIDAS DE REESTRUTURAÇÃO FUNDIÁRIA NA ÁREA DE INTERVENÇÃO DO EMPREENDIMENTO DE FINS MÚLTIPLOS DE ALQUEVA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  AGRICULTURA, DO DESENVOLVIMENTO RURAL E DAS PESCAS",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Luís Capoulas Santos"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139230",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "163-169",
+                  "179-180"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-28",
+                "pubLeg": "VIII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/006/2001-09-28/163?pgs=163-169,179-180&org=PLC"
+              }
+            ],
+            "sumario": "MEDIDAS DE REESTRUTURAÇÃO FUNDIÁRIA NA ÁREA DE INTERVENÇÃO DO EMPREENDIMENTO DE FINS MÚLTIPLOS DE ALQUEVA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "208",
+                "nome": "Agostinho Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139304",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "166-166"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-28",
+                "pubLeg": "VIII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/006/2001-09-28/166?pgs=166&org=PLC"
+              }
+            ],
+            "sumario": "MEDIDAS DE REESTRUTURAÇÃO FUNDIÁRIA NA ÁREA DE INTERVENÇÃO DO EMPREENDIMENTO DE FINS MÚLTIPLOS DE ALQUEVA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1482",
+                "nome": "Gavino Paixão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139305",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "167-167"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-28",
+                "pubLeg": "VIII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/006/2001-09-28/167?pgs=167&org=PLC"
+              }
+            ],
+            "sumario": "MEDIDAS DE REESTRUTURAÇÃO FUNDIÁRIA NA ÁREA DE INTERVENÇÃO DO EMPREENDIMENTO DE FINS MÚLTIPLOS DE ALQUEVA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1485",
+                "nome": "Rodeia Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139306",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "167-167"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-28",
+                "pubLeg": "VIII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/006/2001-09-28/167?pgs=167&org=PLC"
+              }
+            ],
+            "sumario": "MEDIDAS DE REESTRUTURAÇÃO FUNDIÁRIA NA ÁREA DE INTERVENÇÃO DO EMPREENDIMENTO DE FINS MÚLTIPLOS DE ALQUEVA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1588",
+                "nome": "Fernando Penha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139307",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "168-168"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-28",
+                "pubLeg": "VIII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/006/2001-09-28/168?pgs=168&org=PLC"
+              }
+            ],
+            "sumario": "MEDIDAS DE REESTRUTURAÇÃO FUNDIÁRIA NA ÁREA DE INTERVENÇÃO DO EMPREENDIMENTO DE FINS MÚLTIPLOS DE ALQUEVA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "67",
+                "nome": "João Maçãs"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139308",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "169-172"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-28",
+                "pubLeg": "VIII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/006/2001-09-28/169?pgs=169-172&org=PLC"
+              }
+            ],
+            "sumario": "MEDIDAS DE REESTRUTURAÇÃO FUNDIÁRIA NA ÁREA DE INTERVENÇÃO DO EMPREENDIMENTO DE FINS MÚLTIPLOS DE ALQUEVA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139309",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "171-171"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-28",
+                "pubLeg": "VIII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/006/2001-09-28/171?pgs=171&org=PLC"
+              }
+            ],
+            "sumario": "MEDIDAS DE REESTRUTURAÇÃO FUNDIÁRIA NA ÁREA DE INTERVENÇÃO DO EMPREENDIMENTO DE FINS MÚLTIPLOS DE ALQUEVA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139310",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "172-172"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-28",
+                "pubLeg": "VIII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/006/2001-09-28/172?pgs=172&org=PLC"
+              }
+            ],
+            "sumario": "MEDIDAS DE REESTRUTURAÇÃO FUNDIÁRIA NA ÁREA DE INTERVENÇÃO DO EMPREENDIMENTO DE FINS MÚLTIPLOS DE ALQUEVA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1652",
+                "nome": "Fernando Rosas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139311",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "173-174"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-28",
+                "pubLeg": "VIII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/006/2001-09-28/173?pgs=173-174&org=PLC"
+              }
+            ],
+            "sumario": "MEDIDAS DE REESTRUTURAÇÃO FUNDIÁRIA NA ÁREA DE INTERVENÇÃO DO EMPREENDIMENTO DE FINS MÚLTIPLOS DE ALQUEVA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1482",
+                "nome": "Gavino Paixão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139312",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "174-175"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-28",
+                "pubLeg": "VIII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/006/2001-09-28/174?pgs=174-175&org=PLC"
+              }
+            ],
+            "sumario": "MEDIDAS DE REESTRUTURAÇÃO FUNDIÁRIA NA ÁREA DE INTERVENÇÃO DO EMPREENDIMENTO DE FINS MÚLTIPLOS DE ALQUEVA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1719",
+                "nome": "Rosado Fernandes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139313",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "175-177",
+                  "181-181"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-28",
+                "pubLeg": "VIII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/006/2001-09-28/175?pgs=175-177,181&org=PLC"
+              }
+            ],
+            "sumario": "MEDIDAS DE REESTRUTURAÇÃO FUNDIÁRIA NA ÁREA DE INTERVENÇÃO DO EMPREENDIMENTO DE FINS MÚLTIPLOS DE ALQUEVA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1243",
+                "nome": "Maria do Céu Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139314",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "177-178"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-28",
+                "pubLeg": "VIII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/006/2001-09-28/177?pgs=177-178&org=PLC"
+              }
+            ],
+            "sumario": "MEDIDAS DE REESTRUTURAÇÃO FUNDIÁRIA NA ÁREA DE INTERVENÇÃO DO EMPREENDIMENTO DE FINS MÚLTIPLOS DE ALQUEVA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "733",
+                "nome": "Miguel Ginestal"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139315",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "178-179"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-09-28",
+                "pubLeg": "VIII",
+                "pubNr": "6",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/006/2001-09-28/178?pgs=178-179&org=PLC"
+              }
+            ],
+            "sumario": "MEDIDAS DE REESTRUTURAÇÃO FUNDIÁRIA NA ÁREA DE INTERVENÇÃO DO EMPREENDIMENTO DE FINS MÚLTIPLOS DE ALQUEVA",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "148480",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2036",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-09-28",
+        "pubLeg": "VIII",
+        "pubNr": "6",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/006/2001-09-28?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
