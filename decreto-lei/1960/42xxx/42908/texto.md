@@ -1,0 +1,21 @@
+Decreto-Lei n.º 42908
+O último ajustamento dos efectivos da Polícia de Segurança Pública data de 1945. O aumento da população dos centros urbanos e o progresso da técnica policial levam a reorganizar aquela Polícia. Porém, enquanto não for possível publicar a referida reorganização, foi julgado conveniente criar uma unidade de polícia que permita acorrer ràpidamente aos locais deficientemente policiados.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º O quadro actual da Polícia de Segurança a Pública é aumentado do seguinte pessoal:
+1 comandante da companhia móvel de polícia (capitão).
+4 chefes de esquadra.
+13 primeiros-subchefes.
+17 segundos-subchefes.
+20 guardas de 1.ª classe.
+156 guardas de 2.ª classe.
+211
+§ único. As companhias móveis de polícia ficam sob a dependência do comandante-geral da Polícia de Segurança Pública e a sua localização é da competência do Ministro do Interior, ouvido o comandante-geral.
+Art. 2.º O comandante da companhia móvel de polícia terá vencimento igual ao de comandante de divisão e a mesma competência disciplinar.
+Art. 3.º Fica o comandante-geral da Polícia de Segurança Pública autorizado, dentro das disponibilidades orçamentais, a convocar pessoal dos vários comandos de polícia para efeitos de estágio na unidade de polícia criada por este diploma.
+Art. 4.º Fica o Ministro do Interior autorizado, por simples portaria, a criar, reforçar, reduzir ou extinguir secções, esquadras, postos e subpostos policiais e a fixar as respectivas dotações em pessoal, mediante proposta fundamentada do comandante-geral, desde que não envolva aumento dos quadros de pessoal aprovados por lei.
+Art. 5.º Os encargos resultantes da execução deste diploma serão satisfeitos no corrente ano económico pelas sobras que se verifiquem nas respectivas dotações orçamentais.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 8 de Abril de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
+
+Para ser presente à Assembleia Nacional.
