@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=y29rgme0Vy3fXju7aquh3YuRzRy%2bIMmFWoXc3HaQH9%2b3hp%2f4NQI7dfK%2bE%2fj%2bwtxxQ6OIv2RUQrkk31QjFnn4392OOJRpLes62QVYdElIA6eeU9BLojutIwr2WCmw08QwwXzj953C2wpAqZoFrgdfr1SbOftNh3FZjNZ0kUEgywRo%2froy%2bI9QlBZ0EsA8qjRVO3zHpPD1dh2%2bJp6Mo5VnOLxYuVKQ2QZ6bTR6eK1USKqfSYkG0vLRS7hbq2LU%2f1E2avGD5Xp6NYCr4ueICG245MQakc44fawS4ToLbRy2mxXaltzRiu9PLncV9ujV8dNM8N3R1i79wjYBUd17QYHLWK7brK72WXdd%2by9cuJttyMCeGrE9zu3lv1ZUXb%2fmK%2bZpwP0t7xMw5MDiC01UA2aV%2fA%3d%3d&fich=DiplomasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "e224efd114759e541502a003fe3e9ecf5de3a46ffe05ff92d37b8aa8e4ea5c7e",
+  "legislatura": "VIII",
+  "id": "3893",
+  "tipo": "Deliberação",
+  "numero": "1-PL",
+  "data_registo": "2000-02-18",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "2000",
+    "Id": "3893",
+    "Iniciativas": [
+      {
+        "DataFimleg": null,
+        "DataInicioleg": null,
+        "IniAnexos": null,
+        "IniAutorDeputados": null,
+        "IniAutorGruposParlamentares": null,
+        "IniAutorOutros": null,
+        "IniciativasEuropeias": null,
+        "IniciativasOrigem": null,
+        "IniciativasOriginadas": null,
+        "IniDescTipo": null,
+        "IniEpigrafe": null,
+        "IniEventos": null,
+        "IniId": "18623",
+        "IniLeg": null,
+        "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a63304d6d526b4d7a6b324c54513559544d744e44566a4f4331694d6a55794c544e684e6a426c5a6a5931596a6c684d69356b62324d3d&fich=742dd396-49a3-45c8-b252-3a60ef65b9a2.doc&Inline=true",
+        "IniNr": "6",
+        "IniObs": null,
+        "IniSel": null,
+        "IniTestaFicheiro": null,
+        "IniTextoSubst": null,
+        "IniTextoSubstCampo": null,
+        "IniTipo": "D",
+        "IniTitulo": null,
+        "Links": null,
+        "Peticoes": null,
+        "PropostasAlteracao": null
+      }
+    ],
+    "Legislatura": "VIII",
+    "LinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c305276593356745a57353062334e4259335270646d6c6b5957526c55474679624746745a573530595849764e7a68685a54466c5a4759745a545a6b5a433030596a55794c546778595463744d7a6334595441344e44566d4e574d774c6d527659773d3d&fich=78ae1edf-e6dd-4b52-81a7-378a0845f5c0.doc&Inline=true",
+    "Numero": "1",
+    "Numero2": "PL",
+    "Observacoes": null,
+    "OrcamContasGerencia": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "282027",
+        "obs": null,
+        "pag": [
+          "444-444"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-02-18",
+        "pubLeg": "VIII",
+        "pubNr": "21",
+        "pubSL": "1",
+        "pubTipo": "DAR II série A",
+        "pubTp": "A",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2a/08/01/021/2000-02-18/444?pgs=444&org=PLC"
+      }
+    ],
+    "Sessao": "1",
+    "Tipo": "Deliberação",
+    "Titulo": "Autorização da transcrição de depoimentos perante a Comissão Eventual de Inquéwrito Parlamentar para Apreciação de Actos dos Governos do PS e do PSD, Envolvendo o Estado e Grupos Económicoso",
+    "Tp": "B",
+    "Versao": "1"
+  }
+}
