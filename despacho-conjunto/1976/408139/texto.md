@@ -1,0 +1,7 @@
+Despacho conjunto
+Na sequência do despacho do Ministro da Agricultura e Pescas de 8 de Novembro de 1976, estabelecemos que:
+a) Os assuntos de administração relativos a crédito agrícola e à Junta de Hidráulica Agrícola que digam respeito à zona de intervenção delimitada pelo Decreto-Lei n.º 236-B/76 serão despachados pelo Secretário de Estado da Estruturação Agrária;
+b) Os assuntos de administração relativos a crédito agrícola e à Junta de Hidráulica Agrícola que não digam respeito à zona de intervenção delimitada pelo Decreto-Lei n.º 236-B/76 serão despachados pelo Secretário de Estado do Fomento Agrário;
+c) Os assuntos de carácter geral relativos a crédito agrícola e à Junta de Hidráulica Agrícola terão despacho conjunto, correndo o expediente quanto ao crédito agrícola de emergência e à Junta de Hidráulica Agrícola pela Secretaria de Estado da Estruturação Agrária e quanto ao restante crédito agrícola pela Secretaria de Estado do Fomento Agrário;
+d) Os assuntos de administração relativos às brigadas técnicas das regiões agrícolas serão despachados pelo Secretário de Estado do Fomento Agrário, excepto os dos serviços de apoio à Reforma Agrária, que serão despachados pelo Secretário de Estado da Estruturação Agrária.
+Ministério da Agricultura e Pescas, 23 de Novembro de 1976. - O Secretário de Estado da Estruturação Agrária, Carlos Alberto Martins Portas. - O Secretário de Estado do Fomento Agrário, António Carlos Ribeiro Campos.
