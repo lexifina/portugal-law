@@ -1,0 +1,13 @@
+Declaração
+Segundo comunicação do Ministério do Ultramar, Gabinete do Ministro, a Portaria n.º 24465, publicada no Diário do Governo, 1.ª série, n.º 289, de 12 de Dezembro findo, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No n.º 1.º, onde se lê:
+...
+3) «Indústrias extractivas e transformadoras»:
+a) «Indústrias extractivas» ... 1202000$00
+...
+deve ler-se:
+...
+3) «Indústrias extractivas e transformadoras»:
+a) «Indústrias extractivas» ... 1302000$00
+...
+Secretaria-Geral da Presidência do Conselho, 5 de Janeiro de 1970. - O Secretário-Geral, Diogo de Paiva Brandão.
