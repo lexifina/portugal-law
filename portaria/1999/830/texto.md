@@ -1,0 +1,12 @@
+Portaria n.º 830/99
+de 29 de Setembro
+Pela Portaria n.º 875/89, de 10 de Outubro, foi concessionada ao Clube de Caça da Venda a zona de caça associativa da Quinta da Venda e outras (processo n.º 139-DGF), situada nas freguesias da Ota e Abrigada, município de Alenquer, com uma área de 946,4280 ha, tendo, pela Portaria n.º 1384/95, de 22 de Novembro, sido renovada até 11 de Outubro de 2007.
+Posteriormente à publicação da portaria de renovação, verificou-se não ter sido obtido acordo prévio, necessário à renovação, entre a entidade concessionária da zona de caça e o proprietário de prédio rústico denominado «Quinta do Ajoujo», sito na freguesia da Ota, município de Alenquer, com uma área de 217,86 ha, inscrito na matriz predial rústica sob o n.º 001, das secções D, D1, D2 e D3.
+Dado que a falta de autorização do proprietário do mencionado prédio para a renovação da zona de caça da Quinta da Venda e outras constitui ofensa da garantia constitucional do direito de propriedade privada previsto no artigo 62.º, n.º 1, da Constituição da República Portuguesa, no sentido e com o alcance de jurisprudência já confirmada pelo Tribunal Constitucional, designadamente no Acórdão n.º 866/96, de 18 de Dezembro;
+Dado ainda que, na parte respeitante à integração na zona de caça do prédio rústico denominado «Quinta do Ajoujo», a Portaria n.º 1384/95, de 22 de Novembro, viola o disposto no artigo 21.º da Lei n.º 30/86, de 27 de Agosto, em conjugação com as disposições aplicáveis dos artigos 69.º, n.º 2, alínea b), e 70.º, n.º 1, por força do artigo 83.º, n.º 2, todos do Decreto-Lei n.º 251/92, de 12 de Novembro, e, bem assim, considerada a reclamação do legítimo proprietário e o preceituado no artigo 142.º do Decreto-Lei n.º 136/96, de 14 de Agosto:
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º É excluído da zona de caça associativa da Quinta da Venda e outras o prédio rústico denominado «Quinta do Ajoujo», sito na freguesia da Ota, município de Alenquer, inscrito na matriz predial rústica sob o n.º 001, das secções D, D1, D2 e D3, com uma área de 217,86 ha, ficando a mesma com a área de 728,5680 ha.
+2.º A planta anexa à presente portaria substitui a apensa à Portaria n.º 875/89, de 10 de Outubro.
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural, em 6 de Setembro de 1999.
+
+(ver planta no documento original)
