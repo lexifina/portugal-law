@@ -1,0 +1,13 @@
+Portaria n.º 754/89
+de 1 de Setembro
+Pelo Decreto-Lei n.º 117/89, de 14 de Abril, foi integrado no Instituto de Gestão e Alienação do Património Habitacional do Estado o património imobiliário do Gabinete da Área de Sines, sito no centro urbano de Santo André e na vila de Sines, bem como todos os direitos e obrigações de que aquele Gabinete era titular relativamente ao referido património.
+Nos termos do n.º 1 do artigo 6.º do citado diploma, constam os cargos de director regional e de adjunto do director regional, os quais foram equiparados para todos os efeitos legais a director de serviços e a chefe de divisão, respectivamente.
+A especificidade e complexidade das funções atribuídas àquela Direcção Regional, por um lado, e a necessidade de evitar qualquer ruptura no normal funcionamento da mesma, por outro, justificam que a nomeação daqueles dois cargos dirigentes recaia em técnicos com perfil adequado e que satisfaçam, simultaneamente, aquelas duas condições.
+Privilegiando, assim, a operacionalidade dos serviços em termos de garantir a eficiência e eficácia da citada Direcção Regional, o que passa pelo aproveitamento dos meios humanos existentes, entende-se justificado o recurso aos mecanismos excepcionais de alargamento das áreas de recrutamento do pessoal dirigente previstos no n.º 4 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho.
+Nesta conformidade, usando da faculdade prevista no n.º 4 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho:
+Manda o Governo, pelos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, o seguinte:
+1.º É excepcionalmente alargada, pela forma e para os cargos a seguir indicados, a área de recrutamento dos lugares de dirigentes previstos no n.º 1 do artigo 6.º do Decreto-Lei n.º 117/89, de 14 de Abril, e respeitantes à Direcção de Gestão Habitacional de Santo André, do Instituto de Gestão e Alienação do Património Habitacional do Estado:
+Os lugares de director regional e de adjunto do director regional da Direcção de Gestão Habitacional de Santo André serão providos por funcionários habilitados com licenciatura, que ocupem, numa das carreiras do grupo de pessoal técnico superior, lugar a que corresponda letra de vencimento não inferior à letra D.
+2.º O despacho de nomeação para provimento dos cargos referidos no número anterior será acompanhado, para publicação, do currículo dos nomeados.Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações.
+Assinada em 17 de Agosto de 1989.
+Pelo Ministro das Finanças, Fernando Manuel Barbosa Faria de Oliveira, Secretário de Estado Adjunto e das Finanças. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, José Manuel Alves Elias da Costa, Secretário de Estado da Construção e Habitação.
