@@ -1,0 +1,55 @@
+# Acórdão do Supremo Tribunal Administrativo de 1991-05-02, processo 013203
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 013203
+
+**Data do Acordão:** 05/02/1991
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** BRANDÃO DE PINHO
+
+**Descritores:** CAIXA GERAL DE DEPÓSITOS; COMPETÊNCIA DOS TRIBUNAIS FISCAIS; COMPETÊNCIA DOS TRIBUNAIS DE 1 INSTÂNCIA DAS CONTRIBUIÇÕES E IMPOSTOS; EXECUÇÃO FISCAL
+
+**Nº Convencional:** JSTA00033005
+
+**Nº do Documento:** SA219910502013203
+
+**Data de Entrada:** 01/09/1991
+
+**Recorrente:** CAIXA GERAL DE DEPOSITOS CREDITO E PREVIDENCIA
+
+**Recorrido 1:** COELHO , ALDA
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 91
+
+**Apêndice:** DR
+
+**Data do Apêndice:** 09/30/1993
+
+**1ª Pág. de Publicação do Acordão:** 505
+
+**Privacidade:** 01
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** SENT TT1INST.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR ADM GER - ADM PUBL INDIRECTA. DIR PROC TRIBUT CONT - EXEC FISCAL.
+
+**Área Temática 2:** DIR CONST.
+
+**Legislação Nacional:** DL 48953 DE 1969/04/05 ART2 ART3.; DL 48953 DE 1969/04/05 NA REDACÇÃO DO DL 693/70 DE 1970/12/31 ART61 N1.; D 694/70 DE 1970/12/31 ART159.; ETAF84 ART3 ART4 N1 F N2 ART22 ART62 N1 C.; CONST89 ART214 N3 ART215 N1 N2.; CPCI63 ART37 C ART41 ART175 ART187.
+
+**Jurisprudência Nacional:** AC STA PROC12471 DE 1990/05/16.; AC STA PROC12171 DE 1990/05/16.; AC STA PROC12569 DE 1990/05/30.; AC STA PROC12504 DE 1990/05/30.; AC STA PROC12481 DE 1990/05/23.; AC STA PROC12055 DE 1990/05/02.; AC STA PROC12057 DE 1990/04/24.; AC STA PROC12045 DE 1990/03/23.
+
+**Referência a Doutrina:** ARTUR MAURÍCIO E OUTROS CONTENCIOSO ADMINISTRATIVO 2ED PAG21.; ALBERTO XAVIER CONCEITO E NATUREZA DO ACTO TRIBUTÁRIO PAG593.; CARDOSO DA COSTA CURSO DE DIREITO FISCAL PAG225.; BRÁS TEIXEIRA PRINCÍPIOS DE DIREITO FISCAL PAG147.; SOARES MARTINEZ 5ED POLIS PAG291.; RODRIGUES PARDAL E OUTRO CÓDIGO DE PROCESSO DAS CONTRIBUIÇÕES E IMPOSTOS PAG37.; ALFREDO SOUSA E OUTRO CÓDIGO DE PROCESSO DAS CONTRIBUIÇÕES E IMPOSTOS PAG410.; Texto Integral
+
+## Sumário
+
+Os tribunais tributários de 1 instância são materialmente competentes para, em execução fiscal, cobrarem coercivamente créditos emergentes de mútuos hipotecários da Caixa Geral de Depósitos.
