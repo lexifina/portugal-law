@@ -10,7 +10,7 @@ b) Conferências, lições, alocuções e sermões;
 
 c) Obras dramáticas e dramático-musicais e a sua encenação;
 
-d) Obras coreográficas e pantominas, cuja expressão se fixa por escrito ou por qualquer outra forma;
+d) Obras coreográficas e pantomimas, cuja expressão se fixa por escrito ou por qualquer outra forma;
 
 e) Composições musicais, com ou sem palavras;
 

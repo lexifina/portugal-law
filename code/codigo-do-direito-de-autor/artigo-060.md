@@ -1,4 +1,4 @@
-## Capítulo VI
+## Capítulo VII
 
 ## Dos direitos morais
 

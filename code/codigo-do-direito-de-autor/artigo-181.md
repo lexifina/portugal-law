@@ -24,4 +24,4 @@
 
 9 - Retransmissão é a emissão simultânea por um organismo de radiodifusão de uma emissão de outro organismo de radiodifusão.
 
-10 - Salvo indicado em contrário, a referência isolada neste título a artista aplica-se a qualquer artista intérprete ou executante e o termo execução abrange a interpretação.
+10 - Salvo indicação em contrário, a referência isolada neste título a artista aplica-se a qualquer artista intérprete ou executante e o termo execução abrange a interpretação.

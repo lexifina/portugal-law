@@ -2,4 +2,4 @@
 
 ### (Efeito do recurso)
 
-Não tem efeito suspensivo o recurso que aplicar coima de montante inferior a 80000$00.
+Não tem efeito suspensivo o recurso da decisão que aplicar coima de montante inferior a 80000$00.

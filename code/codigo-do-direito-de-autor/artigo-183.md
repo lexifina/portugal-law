@@ -8,4 +8,4 @@ a) A radiodifusão ou a comunicação ao público, por qualquer meio, das execu�
 
 b) A fixação das suas execuções não fixadas;
 
-c) A reprodução de fixação não autorizada das suas execuções, ou para fim diverso do previsto na autorização, ou dos que visam as utilizações livres enumeradas no artigo 194.º, quando a fixação tiver sido feita ao abrigo das disposições desse artigo.
+c) A reprodução de fixação não autorizada das suas execuções, ou para fim diverso do previsto na autorização, ou dos que visam as utilizações livres enumeradas no artigo 195.º, quando a fixação tiver sido feita ao abrigo das disposições desse artigo.

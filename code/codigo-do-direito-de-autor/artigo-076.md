@@ -8,7 +8,7 @@
 
 São lícitas, sem o consentimento do autor, as seguintes utilizações de obra literária ou artística:
 
-a) A reprodução pelos meios de comunicação social, para fins de informação, de discursos, alocuções e conferências pronunciadas em público que não entrem nas categorias previstas no artigo 7.º, no todo, por extracto ou em forma de resumo;
+a) A reprodução pelos meios de comunicação social, para fins de informação, de discursos, alocuções e conferências pronunciadas em público que não entrem nas categorias previstas no artigo 7.º, por extracto ou em forma de resumo;
 
 b) A selecção regular de artigos da imprensa periódica, sob forma de revista de imprensa;
 
