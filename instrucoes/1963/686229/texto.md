@@ -1,0 +1,17 @@
+Instruções
+Instruções para execução, na época de Outubro, dos serviços relativos à prova de aptidão com destino aos cursos de Pintura e de Escultura das escolas superiores de belas-artes e instruções para a realização da prova de Desenho Artístico do exame de aptidão com destino ao curso de Arquitectura das mesmas escolas.
+Por determinação superior e em execução do disposto no artigo 7.º e na parte final do § 2.º do artigo 10.º do Decreto n.º 41363, de 14 de Novembro de 1957, deverão ser observadas, na época de Outubro de 1963, as instruções publicadas no Diário do Governo n.º 160, 1.ª série, de 9 de Julho de 1963, com as alterações seguintes:
+1) A admissão à prova de aptidão com destino aos cursos de Pintura e de Escultura será requerida de 27 de Setembro a 4 de Outubro.
+É, porém, permitida a admissão à prova, mediante o pagamento da propina suplementar de 50$00, aos candidatos que apresentem a respectiva documentação até ao dia 8 de Outubro.
+Do pagamento da aludida propina estão dispensados os candidatos que só por circunstância devidamente comprovada, imputável aos serviços do ensino liceal ou técnico profissional, se encontrarem inibidos de requerer o exame de aptidão dentro do prazo normal.
+2) Ao requerimento deverão os candidatos juntar, além dos documentos indicados no n.º III das instruções atrás referidas, a declaração, em papel selado, sob compromisso de honra, de que no ano corrente não foram admitidos a prestar provas idênticas ou qualquer exame de aptidão na metrópole ou no ultramar português.
+3) No dia 4 de Outubro, à tarde, as secretarias das escolas superiores de belas-artes comunicarão à Direcção-Geral do Ensino Superior e das Belas-Artes, por telefonema ou telegrama, confirmado no mesmo dia por ofício, o número de candidatos que requereram a admissão à prova.
+No dia 14 de Outubro as secretarias das escolas superiores de belas-artes organizarão em triplicado a pauta dos candidatos à prova de aptidão, por ordem alfabética.
+No dia 15 de Outubro, pelas 10 horas, um dos exemplares da pauta, com os horários da prova e a indicação das salas em que é prestada, será afixado em lugar patente aos candidatos. Outro exemplar será imediatamente entregue ao presidente do júri; o terceiro exemplar ficará em poder da secretaria.
+4) Os júris reunir-se-ão no dia 16 de Outubro, às horas fixadas pelos respectivos presidentes; estes comunicarão aos vogais as salas que lhes cabe fiscalizar.
+Os presidentes convocarão, além dos membros do júri, professores e assistentes da respectiva escola, sempre que a colaboração destes se tornar necessária, para se assegurar a eficiência do serviço de fiscalização.
+5) A Direcção-Geral do Ensino Superior e das Belas-Artes fará chegar os pontos, no dia 16 de Outubro, por um dos seus funcionários designado pelo director-geral, às escolas, dirigidos aos directores.
+6) A prova terá lugar nos dias 21, 22, 23 e 24 de Outubro, às 10 horas.
+Chamada especial de Dezembro
+Os candidatos ao ingresso nos cursos superiores que estejam ou tenham estado impedidos em serviço militar obrigatório poderão prestar provas de aptidão em Dezembro, desde que, no respeitante a esse serviço, satisfaçam as condições que lhes permitiriam, caso fossem alunos de cursos universitários, utilizar para os exames a chamada especial do referido mês.
+Direcção-Geral do Ensino Superior e das Belas-Artes, 12 de Setembro de 1963. - Pelo Director-Geral, Mário de Andrade.
