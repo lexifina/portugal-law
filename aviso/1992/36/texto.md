@@ -1,0 +1,5 @@
+Aviso n.º 36/92
+Por ordem superior se torna público que, por nota de 7 de Fevereiro de 1992, o Secretário-Geral das Nações Unidas, na sua qualidade de depositário, notificou que a Lituânia depositou, em 15 de Janeiro de 1992, o seu instrumento de adesão à Convenção de Viena sobre Relações Consulares, concluída em 24 de Abril de 1963.
+Nos termos do parágrafo 2.º do artigo 77.º, a Convenção entrou em vigor para a Lituânia no 30.º dia posterior ao referido depósito, isto é, em 14 de Fevereiro de 1992.
+Portugal é Parte na mesma Convenção, que foi aprovada para adesão pelo Decreto-Lei n.º 183/72, de 30 de Maio, tendo depositado o seu instrumento de adesão em 13 de Setembro de 1972, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 234, de 7 de Outubro de 1972. A Convenção vigora para Portugal desde 13 de Outubro de 1972.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 28 de Fevereiro de 1992. - O Chefe do Serviço Jurídico e de Tratados, António Salgado Manso Preto Mendes Cruz.
