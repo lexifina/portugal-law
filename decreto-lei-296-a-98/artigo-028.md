@@ -2,7 +2,7 @@
 
 ### Regulamento do concurso nacional
 
-Compete ao Ministro da Educação, ouvida a CNAES, aprovar, por portaria, o regulamento geral do concurso nacional, o qual contempla, nomeadamente:
+Compete ao Ministro da Ciência e do Ensino Superior, ouvida a CNAES e os órgãos de governo próprio das Regiões Autónomas, aprovar, por portaria, o Regulamento Geral do Concurso Nacional, o qual contempla, nomeadamente:
 
 a) Os contingentes em que as vagas se repartirão;
 
@@ -16,6 +16,8 @@ e) As regras de desempate no âmbito do processo de seriação a que se refere o
 
 f) As regras de colocação;
 
-g) As regras processuais necessárias;
+g) As regras de utilização das vagas sobrantes, designadamente através da abertura de uma ou mais fases complementares de candidatura;
 
-h) As regras de matrícula e inscrição.
+h) As regras processuais necessárias;
+
+i) As regras de matrícula e inscrição.
