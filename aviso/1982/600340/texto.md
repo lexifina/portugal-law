@@ -1,0 +1,6 @@
+Aviso
+Por ordem superior se torna público que em 13 de Outubro de 1981 o Governo do Luxemburgo depositou, junto do Ministério dos Negócios Estrangeiros dos Países Baixos, o instrumento de ratificação da Convenção sobre a Lei Aplicável às Obrigações Alimentares, concluída em Haia em 2 de Outubro de 1973, com as reservas seguintes:
+O Governo do Luxemburgo reserva-se o direito, de acordo com o artigo 14.º da Convenção, de não aplicar a Convenção às obrigações alimentares entre esposos divorciados, separados de pessoas e bens ou cujo casamento tenha sido declarado nulo ou anulado, desde que a decisão de divórcio, de separação, de nulidade ou de anulação tenha sido proferida à revelia num Estado onde a parte revel não tinha a sua residência habitual. Neste caso, serão aplicáveis os artigos 4.º a 6.º da Convenção.
+De acordo com o artigo 15.º, o Governo do Luxemburgo reserva-se o direito de aplicar a sua lei interna quando o credor e o devedor tiverem a nacionalidade desse Estado e o devedor aí residir habitualmente.
+Portugal já é parte dessa Convenção. Aquele instrumento diplomático entrou em vigor, com referência àquele país, em 1 de Janeiro de 1982.
+Secretaria-Geral do Ministério, 28 de Janeiro de 1982. - O Director-Geral dos Serviços Jurídicos e de Tratados, Carlos Augusto Fernandes.
