@@ -1,0 +1,41 @@
+# Acórdão do Supremo Tribunal de Justiça de 1985-02-28, processo 037680
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 037680
+
+**Nº Convencional:** JSTJ00002037
+
+**Relator:** VASCONCELOS CARVALHO
+
+**Descritores:** RECURSO; MATERIA DE FACTO; MATERIA DE DIREITO; JULGAMENTO COM JURI; REGIME CONCRETAMENTE MAIS FAVORAVEL
+
+**Nº do Documento:** SJ198502280376803
+
+**Data do Acordão:** 02/28/1985
+
+**Votação:** UNANIMIDADE
+
+**Referência de Publicação:** BMJ N344 ANO1985 PAG340
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REC PENAL.
+
+**Decisão:** NEGADO PROVIMENTO.
+
+**Área Temática:** DIR PROC PENAL - RECURSOS.
+
+## Sumário
+
+I - Nos processos julgados com intervenção do juri, pode recorrer-se tanto da deliberação do juri sobre materia de facto, como do acordão final condenatorio ou absolutorio.
+
+II - Tratando-se de dois recursos distintos - um restrito a materia de facto (artigo 518 do Codigo de Processo Penal), outro restrito a materia de direito (artigo 525), quando não tenha sido interposto recurso da deliberação do juri conjuntamente com o recurso do acordão final (ultima parte do artigo 525), o Supremo Tribunal de Justiça não pode anular a deliberação do juri, por reputar deficientes, obscuras, ou contraditorias as respostas aos quesitos, ou por considerar indispensavel a formulação de outros nos termos do artigo 712 n. 2 do Codigo de Processo Civil.
+
+III - Sendo o recurso de decisão final restrito a materia de direito, não podem, logicamente, no seu ambito, ser discutidas questões respeitantes a materia de facto.
+
+IV - Mas a circunstancia aludida na conclusão anterior, não significa que o Supremo Tribunal de Justiça esteja inibido de mandar ampliar a materia de facto, em ordem a constituir base suficiente para a decisão de direito, conforme ao artigo 729, n. 3, do Codigo de Processo Civil.
+
+V - Para a determinação da lei mais favoravel, o juiz deve verificar qual a pena que caberia ao agente do acto praticado, em face de cada um dos sistemas concorrentes e comparar os resultados concretos assim obtidos.
