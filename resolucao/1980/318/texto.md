@@ -1,0 +1,5 @@
+Resolução n.º 318/80
+Pela Resolução n.º 100/80, de 23 de Fevereiro, do Conselho de Ministros, a EPNC - Empresa Pública dos Jornais Notícias e Capital foi declarada em situação económica difícil, ao abrigo do disposto no Decreto-Lei n.º 353-H/77, de 29 de Agosto.
+Na mesma resolução do Conselho de Ministros foi também determinado, nomeadamente, que a referida Empresa Pública apresentasse, no prazo de cento e oitenta dias, a proposta técnica a que se refere o artigo 1.º do Decreto-Lei n.º 490/76, de 23 de Junho.
+Constatando a impossibilidade de cumprimento do prazo estabelecido, apesar dos esforços empreendidos nesse sentido, devido à complexidade dos estudos preparativos inerentes à fundamentação da proposta técnica, o Conselho de Ministros, reunido em 20 de Agosto de 1980, resolveu prorrogar por sessenta dias o prazo concedido à EPNC - Empresa Pública dos Jornais Notícias e Capital para apresentação da proposta técnica referida no artigo 1.º do Decreto-Lei n.º 490/76.
+Presidência do Conselho de Ministros, 20 de Agosto de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
