@@ -1,5 +1,3 @@
 # Artigo 1.º
 
-1 - O registo de veículos tem essencialmente por fim dar publicidade à situação jurídica dos veículos a motor e respectivos reboques, tendo em vista a segurança do comércio jurídico.
-
-2 - O registo de veículos é submetido a tratamento informático.
+O registo de automóveis tem essencialmente por fim individualizar os respectivos proprietários e, em geral, dar publicidade aos direitos inerentes aos veículos automóveis.
