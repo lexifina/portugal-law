@@ -1,6 +1,6 @@
 # Artigo 52.º
 
-### Prédios urbanos construídos, ampliados, melhorados ou adquiridos destinados à habitação
+### Prédios urbanos construídos, ampliados, melhorados ou adquiridos destinados a habitação
 
 1 - Ficam isentos, nos termos da tabela a que se refere o n.º 5, os prédios ou parte de prédios urbanos habitacionais construídos, ampliados, melhorados ou adquiridos destinados à habitação própria permanente e sejam efectivamente afectos a tal fim, no prazo de seis meses após a aquisição ou a conclusão da construção, da ampliação ou dos melhoramentos, salvo por motivo não imputável ao beneficiário, devendo o pedido de isenção ser apresentado pelos sujeitos passivos até ao termo dos 90 dias subsequentes àquele prazo.
 
