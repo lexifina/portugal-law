@@ -1,0 +1,6 @@
+Portaria n.º 723/79
+de 31 de Dezembro
+Tendo em consideração o disposto no n.º 2 do artigo 1.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, e o disposto no n.º 7 da Resolução n.º 354-B/79, de 18 de Dezembro;
+Considerando que o regime dos referidos diplomas é aplicável ao cargo de vogal da Comissão Instaladora do Instituto para a Cooperação Económica:
+Manda o Governo da República Portuguesa, pelos Ministros dos Negócios Estrangeiros e das Finanças e pelo Secretário de Estado da Administração Pública, ao abrigo do disposto no n.º 3 do artigo 1.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, que sejam equiparados a subdirector-geral, para o efeito de lhes ser aplicável o regime jurídico e condições de exercício das funções de direcção e chefia previstos naquele decreto-lei, os membros da Comissão Instaladora do Instituto para a Cooperação Económica que exerçam as suas funções em regime de tempo completo.
+Presidência do Conselho de Ministros e Ministérios dos Negócios Estrangeiros e das Finanças, 27 de Dezembro de 1979. - O Ministro dos Negócios Estrangeiros, João Carlos Lopes Cardoso de Freitas Cruz. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Secretário de Estado da Administração Pública, Gabriela Guedes Salgueiro.
