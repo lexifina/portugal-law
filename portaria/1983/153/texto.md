@@ -1,0 +1,182 @@
+Portaria n.º 153/83
+de 17 de Fevereiro
+Para uma actuação eficaz das forças de segurança torna-se absolutamente necessária a actualização das respectivas áreas de jurisdição.
+Na verdade, os actuais dispositivos da Guarda Nacional Republicana e da Polícia de Segurança Pública manifestam distorções e sobretudo lacunas cuja colmatação se torna necessário equacionar, face às alterações urbanísticas que o tempo tem vindo a revelar, sem a consequente adequação do dispositivo daquelas forças.
+Constitui directiva do Ministério da Administração Interna que a acção policial das grandes zonas metropolitanas seja da competência exclusiva da Polícia de Segurança Pública, sem prejuízo da localização nessas zonas de efectivos da Guarda Nacional Republicana cumprindo outras missões decorrentes da lei.
+Reconhece-se, pois, a necessidade de, relativamente à organização do dispositivo das forças de segurança, encontrar uma solução que defina as zonas de acção daquelas forças, de acordo com os critérios apontados, e as prioridades de instalação, desactivação ou alteração do dispositivo.
+O Ministro da Administração Interna definiu a prioridade que recaiu sobre as áreas da Grande Lisboa e do Grande Porto.
+Após estudo efectuado, foi obtido consenso imediato entre a Guarda Nacional Republicana e a Polícia de Segurança Pública quanto à área do Grande Porto, pelo que se torna possível avançar desde já com essa reestruturação.
+Assim:
+Manda o Governo da República Portuguesa, pelo Ministro da Administração Interna, em conformidade com o disposto no artigo 8.º do Decreto-Lei n.º 410/82, de 30 de Setembro, e no artigo 41.º do Decreto-Lei n.º 33905, de 2 de Setembro de 1944, o seguinte:
+1 - Zonas de acção. - A zona de acção do Grande Porto passará a ser da exclusiva responsabilidade da Polícia de Segurança Pública, que para tal passará a incluir as seguintes freguesias:
+a) Conselho do Porto: todas as freguesias já do antecedente a cargo da Polícia de Segurança Pública;
+b) Concelho de Matosinhos: Matosinhos e Leça da Palmeira, já policiadas pela Polícia de Segurança Pública, e Perafita, Santa Cruz do Bispo, Guifões, Custóias, Senhora da Hora, Leça do Bailio e São Mamede de Infesta, actualmente policiadas pela Guarda Nacional Republicana;
+c) Concelho da Maia: Moreira, Vermoim, Cucifães, Milheirós e Águas Santas, actualmente policiadas pela Guarda Nacional Republicana;
+d) Concelho de Valongo: Ermesinde, já policiada pela Polícia de Segurança Pública, e Alfena e Valongo, actualmente policiadas pela Guarda Nacional Republicana;
+e) Concelho de Gondomar: Gondomar e Valbom, já policiadas pela Polícia de Segurança Pública, e Rio Tinto, Fânzeres e São Pedro da Cova, actualmente policiadas pela Guarda Nacional Republicana;
+f) Concelho de Vila Nova de Gaia: Vila Nova de Gaia, Mafamude e São Pedro de Afurada, actualmente já policiadas pela Polícia de Segurança Pública, e Oliveira do Douro, Avintes, Vilar de Andorinho, Vilar do Paraíso, Valadares, Madalena e Canidelo, actualmente policiadas pela Guarda Nacional Republicana.
+2 - Dispositivo. - A entrada em execução do futuro dispositivo da zona de acção do Grande Porto, que implica a transferência de responsabilidade de áreas da Guarda Nacional Republicana para a Polícia de Segurança Pública, proceder-se-á em 2 fases (apêndice I):
+a) Concelho de Matosinhos:
+1.ª fase:
+Freguesias da Senhora da Hora São Mamede de Infesta e Leça do Bailio;
+2.ª fase:
+Freguesias de Perafita, Santa Cruz do Bispo, Guifões e Custóias;
+b) Concelho da Maia:
+1.ª fase:
+Freguesias da Maia, Vermoim, Águas Santas, Gueifães e Milheirós;
+c) Concelho de Valongo:
+1.ª fase:
+Freguesia de Valongo;
+2.ª fase:
+Freguesia de Alfena;
+d) Concelho de Gondomar:
+1.ª fase:
+Freguesias de Rio Tinto e Fânzeres;
+2.ª fase:
+Freguesia de São Pedro da Cova;
+e) Concelho de Vila Nova de Gaia:
+1.ª fase:
+Freguesias de Oliveira do Douro e Canidelo;
+2.ª fase:
+Freguesias de Avintes, Vilar de Andorinho, Paraíso, Madalena e Valadares.
+3 - Em resultado do reajustamento atrás referido, serão produzidas as seguintes alterações nas forças de segurança:
+a) Guarda Nacional Republicana. - São extintas as seguintes subunidades, a processar em 2 fases:
+1.ª fase:
+Concelho de Matosinhos: Senhora da Hora, São Mamede de Infesta e Leça do Bailio;
+Concelho de Gondomar: Rio Tinto;
+Concelho de Vila Nova de Gaia: Canidelo;
+2.ª fase:
+Concelho de Valongo: Ermesinde;
+Concelho de Vila Nova de Gaia: Valadares.
+Os efectivos das subunidades extintas serão absorvidos pelo Batalhão n.º 4 com destino ao seu recompletamento.
+b) Polícia de Segurança Pública. - São criadas as seguintes subunidades, a processar em 2 fases, e dotadas do quadro orgânico que a cada uma se indica:
+1.ª fase:
+Concelho do Porto:
+Secção do Aeroporto:
+Primeiros-comissários ... 1
+Segundos-comissários ... 1
+Chefes de esquadra ... 2
+Subchefes-ajudantes ... 1
+Subchefes ... 12
+Guardas ... 85
+Concelho de Matosinhos:
+Esquadra de São Mamede de Infesta (tipo A):
+Chefes de esquadra ... 1
+Subchefes-ajudantes ... 1
+Subchefes ... 8
+Guardas ... 55
+Esquadra da Senhora da Hora (tipo B):
+Subchefes-ajudantes ... 1
+Subchefes ... 5
+Guardas ... 30
+Esquadra de Leça do Bailio (tipo B):
+Subchefes-ajudantes ... 1
+Subchefes ... 5
+Guardas ... 30
+Esquadra de Leça da Palmeira (tipo A):
+Chefes de esquadra ... 1
+Subchefes-ajudantes ... 1
+Subchefes ... 8
+Guardas ... 55
+Concelho da Maia:
+Secção da Maia:
+Primeiros-comissários ... 1
+Segundos-comissários ... 1
+Chefes de esquadra ... 1
+Subchefes ... 4
+Guardas ... 30
+Esquadra da Maia (tipo A):
+Chefes de esquadra ... 1
+Subchefes-ajudantes ... 1
+Subchefes ... 8
+Guardas ... 55
+Esquadra de Águas Santas (tipo A):
+Chefes de esquadra ... 1
+Subchefes-ajudantes ... 1
+Subchefes ... 8
+Guardas ... 55
+Concelho de Valongo:
+Secção de Valongo:
+Primeiros-comissários ... 1
+Segundos-comissários ... 1
+Chefes de esquadra ... 1
+Subchefes ... 4
+Guardas ... 30
+Esquadra de Valongo (tipo A):
+Chefes de esquadra ... 1
+Subchefes-ajudantes ... 1
+Subchefes ... 8
+Guardas ... 55
+Esquadra de Ermesinde (tipo A):
+Chefes de esquadra ... 1
+Subchefes-ajudantes ... 1
+Subchefes ... 8
+Guardas ... 55
+Concelho de Gondomar:
+Esquadra de Rio Tinto (tipo A):
+Chefes de esquadra ... 1
+Subchefes-ajudantes ... 1
+Subchefes ... 8
+Guardas ... 55
+Esquadra de Fânzeres (tipo A):
+Chefes de esquadra ... 1
+Subchefes-ajudantes ... 1
+Subchefes ... 8
+Guardas ... 55
+Esquadra de Valbom (tipo B):
+Subchefes-ajudantes ... 1
+Subchefes ... 5
+Guardas ... 30
+Concelho de Vila Nova de Gaia:
+Esquadra de Canidelo (tipo A):
+Chefes de esquadra ... 1
+Subchefes-ajudantes ... 1
+Subchefes ... 8
+Guardas ... 55
+Esquadra de Oliveira do Douro (tipo A):
+Chefes de esquadra ... 1
+Subchefes-ajudantes ... 1
+Subchefes ... 8
+Guardas ... 55
+Esquadra da Afurada (tipo B):
+Subchefes-ajudantes ... 1
+Subchefes ... 5
+Guardas ... 30
+2.ª fase
+Concelho de Matosinhos:
+Esquadra de Parafita (tipo B):
+Subchefes-ajudantes ... 1
+Subchefes ... 5
+Guardas ... 30
+Esquadra de Custóias (tipo B):
+Subchefes-ajudantes ... 1
+Subchefes ... 5
+Guardas ... 30
+Concelho da Maia:
+Esquadra da Moreira (tipo B):
+Subchefes-ajudantes ... 1
+Subchefes ... 5
+Guardas ... 30
+Concelho de Valongo:
+Esquadra de Alfena (tipo B):
+Subchefes-ajudantes ... 1
+Subchefes ... 5
+Guardas ... 30
+Concelho de Gondomar:
+Esquadra de São Pedro da Cova (tipo B):
+Subchefes-ajudantes ... 1
+Subchefes ... 5
+Guardas ... 30
+Concelho de Vila Nova de Gaia:
+Esquadra de Avintes (tipo B):
+Subchefes-ajudantes ... 1
+Subchefes ... 5
+Guardas ... 30
+Esquadra de Valadares (tipo B):
+Subchefes-ajudantes ... 1
+Subchefes ... 5
+Guardas ... 30
+4 - A implementação do dispositivo e respectiva alteração das zonas de acção far-se-á à medida que a Guarda Nacional Republicana possa ceder as instalações que poderá abandonar, por extinção das suas subunidades, ou as autarquias locais forem dispondo de instalações condignas a atribuir à Polícia de Segurança Pública para novos departamentos agora criados, e ainda a existência de efectivos da Polícia de Segurança Pública disponíveis para o efeito.
+Ministério da Administração Interna, 25 de Janeiro de 1983. - O Ministro da Administração Interna, José Ângelo Ferreira Correia.
+
+(ver documento original)
