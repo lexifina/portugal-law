@@ -1,0 +1,506 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Projeto de Deliberação",
+    "numero": "52",
+    "id": "20290",
+    "titulo": "Sobre a situação dos deputados do Grupo Parlamentar da UNITA em Angola"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "1998-10-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3059",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "1998-10-08",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1998-10-08",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "DEBATE E VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56056",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "368-368"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-10-09",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/011/1998-10-09/368?pgs=368&org=PLC"
+              }
+            ],
+            "sumario": "SITUACAO DOS DEPUTADOS DO GRUPO PARLAMENTAR DA UNITA EM ANGOLA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1217",
+                "nome": "Nuno Abecasis"
+              }
+            ],
+            "faseDebate": "DEBATE E VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56057",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "368-368"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-10-09",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/011/1998-10-09/368?pgs=368&org=PLC"
+              }
+            ],
+            "sumario": "SITUACAO DOS DEPUTADOS DO GRUPO PARLAMENTAR DA UNITA EM ANGOLA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1217",
+                "nome": "Nuno Abecasis"
+              }
+            ],
+            "faseDebate": "DEBATE E VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56058",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "367-368"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-10-09",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/011/1998-10-09/367?pgs=367-368&org=PLC"
+              }
+            ],
+            "sumario": "SITUACAO DOS DEPUTADOS DO GRUPO PARLAMENTAR DA UNITA EM ANGOLA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "280",
+                "nome": "Carlos Encarnação"
+              }
+            ],
+            "faseDebate": "DEBATE E VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56059",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "367-367"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-10-09",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/011/1998-10-09/367?pgs=367&org=PLC"
+              }
+            ],
+            "sumario": "SITUACAO DOS DEPUTADOS DO GRUPO PARLAMENTAR DA UNITA EM ANGOLA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "161",
+                "nome": "Carlos Luís"
+              }
+            ],
+            "faseDebate": "DEBATE E VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56060",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "367-367"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-10-09",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/011/1998-10-09/367?pgs=367&org=PLC"
+              }
+            ],
+            "sumario": "SITUACAO DOS DEPUTADOS DO GRUPO PARLAMENTAR DA UNITA EM ANGOLA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1217",
+                "nome": "Nuno Abecasis"
+              }
+            ],
+            "faseDebate": "DEBATE E VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56061",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "366-366"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-10-09",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/011/1998-10-09/366?pgs=366&org=PLC"
+              }
+            ],
+            "sumario": "SITUACAO DOS DEPUTADOS DO GRUPO PARLAMENTAR DA UNITA EM ANGOLA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "815",
+                "nome": "José Calçada"
+              }
+            ],
+            "faseDebate": "DEBATE E VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56063",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "366-367"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-10-09",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/011/1998-10-09/366?pgs=366-367&org=PLC"
+              }
+            ],
+            "sumario": "SITUACAO DOS DEPUTADOS DO GRUPO PARLAMENTAR DA UNITA EM ANGOLA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "280",
+                "nome": "Carlos Encarnação"
+              }
+            ],
+            "faseDebate": "DEBATE E VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56065",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "365-366"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-10-09",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/011/1998-10-09/365?pgs=365-366&org=PLC"
+              }
+            ],
+            "sumario": "SITUACAO DOS DEPUTADOS DO GRUPO PARLAMENTAR DA UNITA EM ANGOLA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1217",
+                "nome": "Nuno Abecasis"
+              }
+            ],
+            "faseDebate": "DEBATE E VOTACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "56155",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "364-365",
+                  "368-368"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-10-09",
+                "pubLeg": "VII",
+                "pubNr": "11",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/011/1998-10-09/364?pgs=364-365,368&org=PLC"
+              }
+            ],
+            "sumario": "SITUACAO DOS DEPUTADOS DO GRUPO PARLAMENTAR DA UNITA EM ANGOLA",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "162222",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "3059",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1998-10-09",
+        "pubLeg": "VII",
+        "pubNr": "11",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/011/1998-10-09?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
