@@ -1,0 +1,7 @@
+Resolução n.º 170/79
+Ponderadas as vantagens de natureza económica da admissão de Portugal como membro do Banco Interamericano de Desenvolvimento, constituídas fundamentalmente pela possibilidade aberta às empresas portuguesas de concorrerem a projectos financiados por aquela organização;
+Tendo em conta que poderá permitir a penetração das exportações portuguesas em novos mercados, traduzindo-se na prática num significativo aumento do volume de exportações e constituindo um real estímulo ao desenvolvimento da indústria nacional de bens de equipamento e de construção de infra-estruturas, sobretudo nos sectores da metalomecânica pesada, engeneering geral e de construção;
+Não constituindo a subscrição de capital do Banco ou a contribuição para o Fundo de Operações Especiais dispêndio em moeda estrangeira, pois a sua liquidação será totalmente realizada em moeda nacional, e tratando-se de encargos anuais relativamente reduzidos, de acordo com um plano de pagamentos bastante dilatado, proposto por aquele organismo internacional:
+O Conselho de Ministros, reunido em 16 de Maio de 1979, resolveu:
+Dar o seu acordo de princípio à admissão de Portugal como membro extra-regional do Banco Interamericano de Desenvolvimento, com uma quota de 414 acções e uma contribuição de igual valor para o Fundo de Operações Especiais.
+Presidência do Conselho de Ministros, 16 de Maio de 1979. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.
