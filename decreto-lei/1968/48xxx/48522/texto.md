@@ -1,0 +1,10 @@
+Decreto-Lei n.º 48522
+Em terrenos do domínio público marítimo, junto à Praia Grande, em Sintra, sob jurisdição da Direcção-Geral dos Serviços Hidráulicos, construiu-se um conjunto hoteleiro que foi declarado de utilidade turística.
+Dele fazem parte um hotel, uma piscina e um restaurante, cujas construções foram licenciadas a título precário.
+A precariedade, porém, mostra-se agora incompatível com a grandeza do empreendimento, pelo que, em face da sua importância económica, se julga conveniente assegurar ao estabelecimento melhores condições de rentabilidade e amortização, garantindo-lhe a reserva de ocupação dos terrenos do domínio público marítimo por um certo prazo.
+Ouvida sobre o assunto, a Comissão do Domínio Público Marítimo foi de parecer de que os terrenos em causa podiam ser objecto de uma concessão por 25 anos para os fins referidos.
+Nesta conformidade, usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É autorizada a Direcção-Geral dos Serviços Hidráulicos a promover, pelo prazo de 25 anos, a concessão dos terrenos do domínio público marítimo ocupados pelo hotel, restaurante e piscina do conjunto hoteleiro sito na Praia Grande, freguesia de Colares, concelho de Sintra.
+Art. 2.º A concessão será outorgada por alvará da Direcção-Geral dos Serviços Hidráulicos, aprovado pelo Ministro das Obras Públicas.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 10 de Agosto de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
