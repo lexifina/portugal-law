@@ -1,0 +1,618 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gIjTIOBD8fzbBQNrdCzuBBmwczclk6SD5HYRiA%2fDz6LvtzEOZz0p16VuinZ4c9xnv1XSgJHpVu8L3TmsAZNDGnOMwZOl11DIWbTTxvH9TZlpguA1Dr0xHxKf%2bQeAZgBPJ2JGSuYu7x65iAUduW5D4zeNirkg7R2OQEqLYjPjV69GXh3r3XIihzhHxDGQdi7oVusUbcfcYXzy5bAfGFP4LX4pUxhc8G05JIdx13wuiGlQzDNPxWXGvFL9wH8tviClTchA%2bgzQmfiBzvQfSs%2fvcRcPk4nUvD76VhB1rTiLyNK7L6yAVcl1PlcZsq2sEsFqGpdxuyeZkEQ%2bcGfcnacT%2fg%3d%3d&fich=PeticoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "c26dac93ad93dfa2ae59e6cc67f4607f06aab6fd9463b02c8517cb31fb62b02c",
+  "legislatura": "IX",
+  "id": "11239",
+  "numero": "45",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2003-04-29",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2003-05-21",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2003-05-06",
+        "DataArquivo": "2003-05-21",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2003-05-27",
+        "DataReaberta": "2003-05-06",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2003-04-29",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a793944543030764e3056445179394562324e31625756756447397a5547563061574e68627938305a5759784d5451774d533078596a63354c5451774d6d49744f5756695a533032596a4d79595755344d6d4932596a67756347526d&fich=4ef11401-1b79-402b-9ebe-6b32ae82b6b8.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "108",
+        "Legislatura": "IX",
+        "Nome": "COMISSÃO DE EDUCAÇÃO, CIÊNCIA E CULTURA",
+        "NotasAdmissibilidade": null,
+        "Numero": "7",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2003-05-06",
+            "gp": "PSD",
+            "id": "1928",
+            "motivoCessacao": null,
+            "nome": "Isilda Pegado"
+          }
+        ],
+        "RelatorioFinal": [
+          "21828"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2003-05-30",
+    "Documentos": [
+      {
+        "DataDocumento": "2003-04-29",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a7939555a58683062305a70626d46735547563061574e765a584d764d54566a4d7a41774e4751744f544a694e4330304d57526d4c574930595751744d7a55775a5446684d47457a4d5441334c6e426b5a673d3d&fich=15c3004d-92b4-41df-b4ad-350e1a0a3107.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2003-05-31",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145801",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5358-5359",
+                  "5368-5368"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-31",
+                "pubLeg": "IX",
+                "pubNr": "128",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/128/2003-05-31/5358?pgs=5358-5359,5368&org=PLC"
+              }
+            ],
+            "Sumario": "Lei-quadro de apoio às colectividades de cultura, desporto e recreio",
+            "Teor": "Debatida em conjunto com os PJL nºs 99/IX, 100/IX, 253/IX, 297/IX e 298/IX"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-05-31",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145802",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5359-5360"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-31",
+                "pubLeg": "IX",
+                "pubNr": "128",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/128/2003-05-31/5359?pgs=5359-5360&org=PLC"
+              }
+            ],
+            "Sumario": "Lei-quadro de apoio às colectividades de cultura, desporto e recreio",
+            "Teor": "Debatida em conjunto com os PJL nºs 99/IX, 100/IX, 253/IX, 297/IX e 298/IX"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-05-31",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145803",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5360-5361"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-31",
+                "pubLeg": "IX",
+                "pubNr": "128",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/128/2003-05-31/5360?pgs=5360-5361&org=PLC"
+              }
+            ],
+            "Sumario": "Lei-quadro de apoio às colectividades de cultura, desporto e recreio",
+            "Teor": "Debatida em conjunto com os PJL nºs 99/IX, 100/IX, 253/IX, 297/IX e 298/IX. Responde aos deputados Joana Amaral Dias (BE) e António Filipe (PCP)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-05-31",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145804",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5361-5361"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-31",
+                "pubLeg": "IX",
+                "pubNr": "128",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/128/2003-05-31/5361?pgs=5361&org=PLC"
+              }
+            ],
+            "Sumario": "Lei-quadro de apoio às colectividades de cultura, desporto e recreio",
+            "Teor": "Debatida em conjunto com os PJL nºs 99/IX, 100/IX, 253/IX, 297/IX e 298/IX. Ao deputado Manuel Oliveira (PSD)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-05-31",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145805",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5362-5362"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-31",
+                "pubLeg": "IX",
+                "pubNr": "128",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/128/2003-05-31/5362?pgs=5362&org=PLC"
+              }
+            ],
+            "Sumario": "Lei-quadro de apoio às colectividades de cultura, desporto e recreio",
+            "Teor": "Debatida em conjunto com os PJL nºs 99/IX, 100/IX, 253/IX, 297/IX e 298/IX. Ao deputado Manuel Oliveira (PSD)"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-05-31",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145806",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5362-5363",
+                  "5366-5367"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-31",
+                "pubLeg": "IX",
+                "pubNr": "128",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/128/2003-05-31/5362?pgs=5362-5363,5366-5367&org=PLC"
+              }
+            ],
+            "Sumario": "Lei-quadro de apoio às colectividades de cultura, desporto e recreio",
+            "Teor": "Debatida em conjunto com os PJL nºs 99/IX, 100/IX, 253/IX, 297/IX e 298/IX"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-05-31",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145807",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5363-5363",
+                  "5366-5366"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-31",
+                "pubLeg": "IX",
+                "pubNr": "128",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/128/2003-05-31/5363?pgs=5363,5366&org=PLC"
+              }
+            ],
+            "Sumario": "Lei-quadro de apoio às colectividades de cultura, desporto e recreio",
+            "Teor": "Debatida em conjunto com os PJL nºs 99/IX, 100/IX, 253/IX, 297/IX e 298/IX"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-05-31",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145808",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5363-5364"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-31",
+                "pubLeg": "IX",
+                "pubNr": "128",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/128/2003-05-31/5363?pgs=5363-5364&org=PLC"
+              }
+            ],
+            "Sumario": "Lei-quadro de apoio às colectividades de cultura, desporto e recreio",
+            "Teor": "Debatida em conjunto com os PJL nºs 99/IX, 100/IX, 253/IX, 297/IX e 298/IX"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-05-31",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145809",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5364-5365"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-31",
+                "pubLeg": "IX",
+                "pubNr": "128",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/128/2003-05-31/5364?pgs=5364-5365&org=PLC"
+              }
+            ],
+            "Sumario": "Lei-quadro de apoio às colectividades de cultura, desporto e recreio",
+            "Teor": "Debatida em conjunto com os PJL nºs 99/IX, 100/IX, 253/IX, 297/IX e 298/IX"
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-05-31",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145810",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5367-5367"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-31",
+                "pubLeg": "IX",
+                "pubNr": "128",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/128/2003-05-31/5367?pgs=5367&org=PLC"
+              }
+            ],
+            "Sumario": "Lei-quadro de apoio às colectividades de cultura, desporto e recreio",
+            "Teor": "Debatida em conjunto com os PJL nºs 99/IX, 100/IX, 253/IX, 297/IX e 298/IX"
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11239",
+    "PetAssunto": "Solicitam a aprovação de um regime jurídico para o movimento associativo, bem como a instituição do dia 31 de Maio como Dia Nacional das Colectividades.",
+    "PetDataEntrada": "2003-04-29",
+    "PeticoesAssociadas": null,
+    "PetId": "11239",
+    "PetLeg": "IX",
+    "PetNr": "45",
+    "PetNrAssinaturas": "6107",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "142",
+        "obs": null,
+        "pag": [
+          "5358-5368"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-05-31",
+        "pubLeg": "IX",
+        "pubNr": "128",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/128/2003-05-31/5358?pgs=5358-5368&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "279890",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-05-24",
+        "pubLeg": "IX",
+        "pubNr": "44",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/01/044/2003-05-24?org=PLC"
+      }
+    ]
+  }
+}
