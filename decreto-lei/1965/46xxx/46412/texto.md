@@ -1,0 +1,8 @@
+Decreto-Lei n.º 46412
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º O artigo 3.º do Decreto-Lei n.º 40458, de 26 de Dezembro de 1955, passa a ter a seguinte redacção:
+Art. 3.º O conselheiro cultural será nomeado pelo Ministro dos Negócios Estrangeiros, com a concordância do Ministro da Educação Nacional, devendo a escolha recair em doutor ou licenciado que tenha dado provas da sua competência para o desempenho do cargo.
+Art. 2.º O § único do artigo 8.º do Decreto-Lei n.º 46030, de 13 de Novembro de 1964, passa a ter a seguinte redacção:
+§ único. O adjunto do conselheiro cultural será nomeado pelo Ministro dos Negócios Estrangeiros, com a concordância do Ministro da Educação Nacional, devendo a escolha recair em doutor ou licenciado com reconhecida competência para o desempenho do cargo. Ser-lhe-ão extensivas as disposições dos artigos 4.º e 5.º do Decreto-Lei n.º 40458, de 26 de Dezembro de 1955.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 29 de Junho de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
