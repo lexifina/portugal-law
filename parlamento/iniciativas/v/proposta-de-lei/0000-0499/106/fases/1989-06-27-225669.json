@@ -1,0 +1,582 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "106",
+    "id": "29213",
+    "titulo": "Autoriza o Governo a legislar em matéria de isenções fiscais a deficientes motores na importação de triciclos, cadeiras de rodas e automóveis ligeiros"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1989-06-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "4968",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1989-06-27",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1989-06-27",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS FISCAIS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Oliveira Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221053",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4767-4767",
+                  "4769-4769"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-28",
+                "pubLeg": "V",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/097/1989-06-28/4767?pgs=4767,4769&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria de isenções fiscais a deficientes motores na importação de triciclos, cadeiras de rodas e automóveis ligeiros",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221054",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4767-4768"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-28",
+                "pubLeg": "V",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/097/1989-06-28/4767?pgs=4767-4768&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria de isenções fiscais a deficientes motores na importação de triciclos, cadeiras de rodas e automóveis ligeiros",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221055",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4768-4768"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-28",
+                "pubLeg": "V",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/097/1989-06-28/4768?pgs=4768&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria de isenções fiscais a deficientes motores na importação de triciclos, cadeiras de rodas e automóveis ligeiros",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221056",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4768-4768"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-28",
+                "pubLeg": "V",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/097/1989-06-28/4768?pgs=4768&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria de isenções fiscais a deficientes motores na importação de triciclos, cadeiras de rodas e automóveis ligeiros",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221057",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4768-4769"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-28",
+                "pubLeg": "V",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/097/1989-06-28/4768?pgs=4768-4769&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria de isenções fiscais a deficientes motores na importação de triciclos, cadeiras de rodas e automóveis ligeiros",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221058",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4769-4770"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-28",
+                "pubLeg": "V",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/097/1989-06-28/4769?pgs=4769-4770&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria de isenções fiscais a deficientes motores na importação de triciclos, cadeiras de rodas e automóveis ligeiros",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221059",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4770-4771"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-28",
+                "pubLeg": "V",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/097/1989-06-28/4770?pgs=4770-4771&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria de isenções fiscais a deficientes motores na importação de triciclos, cadeiras de rodas e automóveis ligeiros",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221060",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4771-4771"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-28",
+                "pubLeg": "V",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/097/1989-06-28/4771?pgs=4771&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria de isenções fiscais a deficientes motores na importação de triciclos, cadeiras de rodas e automóveis ligeiros",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221061",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4771-4772"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-28",
+                "pubLeg": "V",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/097/1989-06-28/4771?pgs=4771-4772&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria de isenções fiscais a deficientes motores na importação de triciclos, cadeiras de rodas e automóveis ligeiros",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221062",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4772-4773",
+                  "4773-4773"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-28",
+                "pubLeg": "V",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/097/1989-06-28/4772?pgs=4772-4773,4773&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria de isenções fiscais a deficientes motores na importação de triciclos, cadeiras de rodas e automóveis ligeiros",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS FISCAIS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Oliveira Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221063",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4773-4773"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-28",
+                "pubLeg": "V",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/097/1989-06-28/4773?pgs=4773&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria de isenções fiscais a deficientes motores na importação de triciclos, cadeiras de rodas e automóveis ligeiros",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221064",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4773-4774"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-28",
+                "pubLeg": "V",
+                "pubNr": "97",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/097/1989-06-28/4773?pgs=4773-4774&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a legislar em matéria de isenções fiscais a deficientes motores na importação de triciclos, cadeiras de rodas e automóveis ligeiros",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "225669",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "4968",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1989-06-28",
+        "pubLeg": "V",
+        "pubNr": "97",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/097/1989-06-28?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
