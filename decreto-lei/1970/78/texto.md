@@ -1,0 +1,34 @@
+Decreto-Lei n.º 78/70
+A simplificação com que se processa o tráfego aéreo de passageiros e mercadorias mostrou que se poderia facilitar o correspondente tráfego marítimo. Este foi o objectivo da Convenção Que Visa Facilitar o Tráfego Marítimo Internacional de Passageiros e Mercadorias, de 1965.
+Verificou-se que algumas das simplificações recomendadas na Convenção são incompatíveis com os procedimentos estabelecidos para cumprimento de exigências da legislação em vigor, nomeadamente a que se refere a imposições marítimas. Parecendo conveniente facilitar o tráfego marítimo de modo a ser eventualmente possível a assinatura da Convenção Que Visa Facilitar o Tráfego Marítimo Internacional de Passageiros e Mercadorias, elaborou-se o presente diploma eliminando as normas que acarretam provas para além das que podem ser deduzidas da documentação acordada como máximo exigível na Convenção.
+Assim, eliminou-se o imposto de passagens, que desde a sua criação em 1921 pelo Decreto n.º 7822 tem sofrido múltiplas modificações, no sentido de se liberalizarem as isenções e cujo cálculo requer o conhecimento do custo das passagens, tendo-se compensado a quebra na receita com um pequeno aumento nos impostos de tonelagem e de comércio marítimo, que, fixados em 1934, se encontram de valor desactualizado. Simultâneamente, unificou-se a legislação, incorporando no presente diploma e no seu regulamento todas as disposições que se encontravam dispersas.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º As imposições marítimas gerais constituem encargo do navio e são as seguintes:
+a) Imposto de tonelagem, maior ou menor, conforme a tonelagem de arqueação bruta do navio;
+b) Imposto de comércio marítimo, dependente da carga descarregada e dos passageiros embarcados e desembarcados.
+Art. 2.º - 1. Os navios portugueses e estrangeiros terão em regra os mesmos encargos resultantes das imposições marítimas gerais.
+2. No que se refere ao imposto de comércio marítimo, a igualdade de encargos só terá lugar para os navios estrangeiros que tenham direito a bonificação de 25 por cento em virtude de acordos comerciais.
+3. Haverá taxas especiais para a navegação reservada à Bandeira Nacional.
+4. Os navios estrangeiros autorizados a efectuar tráfego reservado à Bandeira Nacional ficarão sujeitos aos mesmos encargos que os navios portugueses que efectuem tal tráfego.
+Art. 3.º - 1. O imposto de tonelagem e o imposto de comércio marítimo continuarão a ser cobrados pelas alfândegas.
+2. As receitas provenientes da cobrança das imposições marítimas gerais devem constituir sub-rubrica da rubrica «Receitas da marinha mercante».
+3. A escrituração deve ser feita separadamente por imposto de tonelagem, imposto de comércio marítimo (carga) e imposto de comércio marítimo (passageiros).
+Art. 4.º Na falta de pagamento dos impostos a que se referem este diploma e seu regulamento aplicam-se as disposições gerais em vigor sobre cobrança coerciva dos rendimentos do Estado.
+Art. 5.º Compete aos Ministros das Finanças e da Marinha publicar o regulamento deste decreto-lei e estabelecer as normas para a cobrança das imposições marítimas gerais.
+Art. 6.º São pelo presente decreto-lei revogados os diplomas seguintes:
+a) O Decreto-Lei n.º 24458, de 3 de Setembro de 1934;
+b) O Decreto n.º 24459, de 3 de Setembro de 1934;
+c) O Decreto n.º 31116, de 27 de Janeiro de 1941;
+d) O Decreto n.º 34008, de 6 de Outubro de 1944;
+e) O Decreto n.º 37342, de 19 de Março de 1949;
+f) O Decreto-Lei n.º 37348, de 24 de Março de 1949;
+g) O Decreto-Lei n.º 39663, de 20 de Maio de 1954;
+h) O Decreto-Lei n.º 40730, de 20 de Agosto de 1956;
+i) O Decreto n.º 42233, de 22 de Abril de 1959;
+j) O Decreto n.º 46631, de 6 de Novembro de 1965.
+Art. 7.º A execução do presente decreto-lei inicia-se decorridos que sejam trinta dias sobre a data da publicação no Diário do Governo do respectivo regulamento.
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Manuel Pereira Crespo.
+Promulgado em 18 de Fevereiro de 1970.
+Publique-se.
+Presidência da República, 3 de Março de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
