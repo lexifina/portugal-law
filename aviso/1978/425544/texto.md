@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que a Embaixada da República Popular da Hungria em Lisboa enviou a este Ministério uma nota verbal, datada de 8 de Março de 1977, informando que a Parte húngara dera cumprimento às formalidades constitucionais relativas à entrada em vigor do Acordo de Cooperação Científica e Técnica entre o Governo da República Portuguesa e o Governo da República Popular da Hungria, assinado em Budapeste em 31 de Março de 1977 e publicado no Diário da República, 1.ª série, n.º 196, de 25 de Agosto de 1977, em resposta a uma vota verbal deste Ministério que informava estarem cumpridas aquelas formalidades pela Parte portuguesa.
+Nesta conformidade e segundo o disposto no seu artigo 8.º, o Acordo em apreço entrou em vigor no dia 8 de Março de 1978.
+Direcção-Geral dos Negócios Económicos, 12 de Abril de 1978. - O Director-Geral-Adjunto, Paulo Ennes.
