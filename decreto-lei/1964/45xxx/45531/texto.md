@@ -1,0 +1,12 @@
+Decreto-Lei n.º 45531
+Pelo Decreto-Lei n.º 43547, de 20 de Março de 1961, foram fixadas dotações dos artigos de uniforme a fornecer aos soldados cadetes ou cadetes que prestem serviço no Exército, na Força Aérea ou na Armada, na frequência dos cursos especiais de oficiais milicianos e de oficiais da reserva naval e da reserva marítima.
+Convém adoptar disposição legal que permita manter actualizadas aquelas dotações, a fim de oportunamente poderem ser satisfeitas as necessidades apresentadas.
+Por outro lado, é conveniente manter-se identidade de critério, em relação aos três ramos das forças armadas, na fixação dos diferentes artigos das dotações.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. O artigo 2.º do Decreto-Lei n.º 43547, de 20 de Março de 1961, passa a ter a seguinte redacção:
+Art. 2.º Aos mancebos referidos no artigo anterior é fornecida uma dotação de artigos de uniforme, a qual será fixada anualmente em portaria do Ministro da Defesa Nacional para cada um dos ramos das forças armadas e mediante propostas apresentadas até 30 de Novembro pelos Ministérios do Exército e da Marinha e Secretaria de Estado da Aeronáutica.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 16 de Janeiro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Francisco António das Chagas.
+
+Para ser presente à Assembleia Nacional.
