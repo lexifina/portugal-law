@@ -1,0 +1,61 @@
+# Acórdão do Supremo Tribunal Administrativo de 1982-07-14, processo 002104
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 002104
+
+**Data do Acordão:** 07/14/1982
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** JOÃO DE MATOS
+
+**Descritores:** INFRACÇÃO AS LEIS DA SEGURANÇA SOCIAL; INFRACÇÃO FISCAL; AMNISTIA; FOLHA DE FERIAS
+
+**Nº Convencional:** JSTA00006249
+
+**Nº do Documento:** SA219820714002104
+
+**Data de Entrada:** 03/25/1982
+
+**Recorrente:** FAZENDA NACIONAL
+
+**Recorrido 1:** JOSE QUEIROS CAFE OLIMPICO
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 0
+
+**Página:** 0
+
+**Apêndice:** DR
+
+**Data do Apêndice:** 12/05/1985
+
+**1ª Pág. de Publicação do Acordão:** 598
+
+**Privacidade:** 01
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** AC T2INSTCI.
+
+**Decisão:** PROVIDO.
+
+**Indicações Eventuais:** JURISPRUDENCIA UNIFORME.
+
+**Área Temática 1:** DIR FISC - IMPOSTOS / RECEITA PARAFISCAL.
+
+**Área Temática 2:** DIR SEG SOC.
+
+**Legislação Nacional:** L 3/81 DE 1981/03/13 ART1 J.
+
+**Jurisprudência Nacional:** AC STA PROC1850 DE 1982/03/18.; Texto Integral
+
+## Sumário
+
+As infracções relativas a falta de entrega das folhas de ordenados ou salarios para efeito das contribuições para a Previdencia ou Segurança
+
+Social não foram amnistiadas pela Lei 3/81, de
+
+13-3.
