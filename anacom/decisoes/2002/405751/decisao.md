@@ -1,0 +1,7 @@
+# Extinção de procedimentos de aprovação de projectos de contratos de adesão
+
+Decisão de 2002-11-14 · publicado em 2002-11-14
+
+Por deliberação de 14 de Novembro de 2002, foram declarados extintos por deserção, ao abrigo do Artigo 111º do Código de Procedimento Administrativo, os procedimentos de aprovação de projectos de contratos de adesão para a prestação do serviço fixo de telefone e para a prestação de serviços de telecomunicações de uso público (Decreto-Lei nº 474/99, de 8 de Novembro, e Decreto-Lei nº 381-A/97, de 30 de Dezembro, respectivamente), por os processos correspondentes se encontrarem parados há mais de 6 meses por motivo imputável às empresas requerentes: Interoute - Comunicações Digitais, S.A. (serviço fixo de telefone), HLC - Telecomunicações e Multimédia, S.A. (serviço fixo de telefone), Vodafone Telecel, S.A. (serviço telefónico móvel), Eastécnica IV - Redes de Comunicações, S.A. (serviços fixo de telefone e de transmissão de dados e serviço de acesso à internet a clientes broad access), Novis Telecom, S.A. (serviços de internet, serviços de comunicações de voz Novis via acesso indirecto, serviços de comunicações de voz e/ou internet via acesso directo, serviço número grátis corporate e serviço número grátis empresas), Comunicações Aviron, Lda. (serviços de encaminhamento de chamadas ao menor custo) e Sonet, Lda. (serviço de acesso à internet).
+
+Fonte: https://www.anacom.pt/render.jsp?contentId=405751
