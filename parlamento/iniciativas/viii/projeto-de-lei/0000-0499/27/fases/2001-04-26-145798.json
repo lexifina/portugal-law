@@ -1,0 +1,1645 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "27",
+    "id": "6329",
+    "titulo": "Lei da liberdade religiosa"
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "2001-04-26",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1910",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "2001-04-26",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-04-26",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138076",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2968-2972"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2968?pgs=2968-2972&org=PLC"
+              }
+            ],
+            "sumario": "LEI DA LIBERDADE RELIGIOSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1349",
+                "nome": "António Reis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138078",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2968-2970"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2968?pgs=2968-2970&org=PLC"
+              }
+            ],
+            "sumario": "LEI DA LIBERDADE RELIGIOSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1627",
+                "nome": "Maria Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138079",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2968-2972"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2968?pgs=2968-2972&org=PLC"
+              }
+            ],
+            "sumario": "LEI DA LIBERDADE RELIGIOSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1482",
+                "nome": "Gavino Paixão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138080",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2968-2972"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2968?pgs=2968-2972&org=PLC"
+              }
+            ],
+            "sumario": "LEI DA LIBERDADE RELIGIOSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1474",
+                "nome": "Ricardo Castanheira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138081",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2968-2972"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2968?pgs=2968-2972&org=PLC"
+              }
+            ],
+            "sumario": "LEI DA LIBERDADE RELIGIOSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1701",
+                "nome": "Luísa Portugal"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138082",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2968-2972"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2968?pgs=2968-2972&org=PLC"
+              }
+            ],
+            "sumario": "LEI DA LIBERDADE RELIGIOSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1467",
+                "nome": "Medeiros Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138087",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2968-2972"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2968?pgs=2968-2972&org=PLC"
+              }
+            ],
+            "sumario": "LEI DA LIBERDADE RELIGIOSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "487",
+                "nome": "Fernando Jesus"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138088",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2968-2972"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2968?pgs=2968-2972&org=PLC"
+              }
+            ],
+            "sumario": "LEI DA LIBERDADE RELIGIOSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1369",
+                "nome": "Victor Moura"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138089",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2968-2972"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2968?pgs=2968-2972&org=PLC"
+              }
+            ],
+            "sumario": "LEI DA LIBERDADE RELIGIOSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1270",
+                "nome": "Jorge Strecht"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138090",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2968-2972"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2968?pgs=2968-2972&org=PLC"
+              }
+            ],
+            "sumario": "LEI DA LIBERDADE RELIGIOSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1672",
+                "nome": "Isabel Pires de Lima"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138091",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2968-2972"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2968?pgs=2968-2972&org=PLC"
+              }
+            ],
+            "sumario": "LEI DA LIBERDADE RELIGIOSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "161",
+                "nome": "Carlos Luís"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138092",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2968-2972"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2968?pgs=2968-2972&org=PLC"
+              }
+            ],
+            "sumario": "LEI DA LIBERDADE RELIGIOSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1703",
+                "nome": "João Sequeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138093",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2968-2972"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2968?pgs=2968-2972&org=PLC"
+              }
+            ],
+            "sumario": "LEI DA LIBERDADE RELIGIOSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "148",
+                "nome": "Marques Júnior"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138094",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2968-2970"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2968?pgs=2968-2970&org=PLC"
+              }
+            ],
+            "sumario": "LEI DA LIBERDADE RELIGIOSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138095",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2968-2970"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2968?pgs=2968-2970&org=PLC"
+              }
+            ],
+            "sumario": "LEI DA LIBERDADE RELIGIOSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "164",
+                "nome": "Eduardo Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138096",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2968-2972"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2968?pgs=2968-2972&org=PLC"
+              }
+            ],
+            "sumario": "LEI DA LIBERDADE RELIGIOSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1702",
+                "nome": "José Miguel Noras"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138097",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2968-2970"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2968?pgs=2968-2970&org=PLC"
+              }
+            ],
+            "sumario": "LEI DA LIBERDADE RELIGIOSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1600",
+                "nome": "Jamila Madeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138098",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2968-2970"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2968?pgs=2968-2970&org=PLC"
+              }
+            ],
+            "sumario": "LEI DA LIBERDADE RELIGIOSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1162",
+                "nome": "Gonçalo Almeida Velho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138099",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2968-2970"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2968?pgs=2968-2970&org=PLC"
+              }
+            ],
+            "sumario": "LEI DA LIBERDADE RELIGIOSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1368",
+                "nome": "Carlos Alberto Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138100",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2968-2970"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2968?pgs=2968-2970&org=PLC"
+              }
+            ],
+            "sumario": "LEI DA LIBERDADE RELIGIOSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1634",
+                "nome": "Carla Tavares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138101",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2968-2972"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2968?pgs=2968-2972&org=PLC"
+              }
+            ],
+            "sumario": "LEI DA LIBERDADE RELIGIOSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1590",
+                "nome": "Maria Teresa Coimbra"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138104",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2968-2972"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2968?pgs=2968-2972&org=PLC"
+              }
+            ],
+            "sumario": "LEI DA LIBERDADE RELIGIOSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "235",
+                "nome": "Manuel Alegre"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138105",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2870-2871"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2870?pgs=2870-2871&org=PLC"
+              }
+            ],
+            "sumario": "LEI DA LIBERDADE RELIGIOSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1674",
+                "nome": "José Barros Moura"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138106",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2871-2871"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2871?pgs=2871&org=PLC"
+              }
+            ],
+            "sumario": "LEI DA LIBERDADE RELIGIOSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1154",
+                "nome": "Helena Roseta"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138107",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2872-2872"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2872?pgs=2872&org=PLC"
+              }
+            ],
+            "sumario": "LEI DA LIBERDADE RELIGIOSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1131",
+                "nome": "Francisco Torres"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138108",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2872-2872"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2872?pgs=2872&org=PLC"
+              }
+            ],
+            "sumario": "LEI DA LIBERDADE RELIGIOSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "459",
+                "nome": "João Cravinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138109",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2872-2974"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2872?pgs=2872-2974&org=PLC"
+              }
+            ],
+            "sumario": "LEI DA LIBERDADE RELIGIOSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1736",
+                "nome": "Fernando Seara"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138110",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2874-2875"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2874?pgs=2874-2875&org=PLC"
+              }
+            ],
+            "sumario": "LEI DA LIBERDADE RELIGIOSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138111",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2975-2976"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2975?pgs=2975-2976&org=PLC"
+              }
+            ],
+            "sumario": "LEI DA LIBERDADE RELIGIOSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138112",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2976-2976"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2976?pgs=2976&org=PLC"
+              }
+            ],
+            "sumario": "LEI DA LIBERDADE RELIGIOSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1652",
+                "nome": "Fernando Rosas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138113",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2976-2977"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2976?pgs=2976-2977&org=PLC"
+              }
+            ],
+            "sumario": "LEI DA LIBERDADE RELIGIOSA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "18:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138114",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2976-2977"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-04-27",
+                "pubLeg": "VIII",
+                "pubNr": "75",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27/2976?pgs=2976-2977&org=PLC"
+              }
+            ],
+            "sumario": "LEI DA LIBERDADE RELIGIOSA",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "145798",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1910",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-04-27",
+        "pubLeg": "VIII",
+        "pubNr": "75",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/075/2001-04-27?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2001-04-26",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> CDS-PP</I><BR>Contra:<I>PCP</I>, <I> PEV</I>, <I> BE</I><BR>Abstenção:<I>24-PS</I>",
+        "id": "27915",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "75",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
