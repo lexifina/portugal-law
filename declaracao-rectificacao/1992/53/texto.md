@@ -1,0 +1,5 @@
+Declaração de rectificação n.º 53/92
+Segundo comunicação da Direcção dos Serviços Gerais do Orçamento, da Direcção-Geral da Contabilidade Pública (Ministério das Finanças), a Declaração n.º 23/92, publicada no Diário da República, n.º 58, de 10 de Março de 1992, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Na despesa, em «18 - Ministério do Ambiente e Recursos Naturais», no cap. 50, div. 41, subdiv. 03, onde se lê «INDC - Acções de investimento no domínio da defesa do consumidor» deve ler-se «INDC - Acções de investigação no domínio da defesa do consumidor».
+Na receita, no cap. 05, grupo 07, art. 01, onde se lê «Comunidades europeias: Compensação financeira - 16445 contos» deve ler-se «Comunidades europeias: Outras - 24795 contos» e no cap. 09, grupo 07, art. 01, onde se lê «Comunidades europeias: Outras - 104745 contos» deve ler-se «Comunidades europeias: Outras - 96395 contos».
+Secretaria-Geral da Presidência do Conselho de Ministros, 24 de Abril de 1992. - O Secretário-Geral, França Martins.
