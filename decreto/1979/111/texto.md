@@ -1,0 +1,25 @@
+Decreto n.º 111/79
+de 15 de Outubro
+Solicita a Companhia das Lezírias, E. P., a submissão ao regime florestal dos terrenos que são património dessa Companhia e se encontram descritos no presente decreto.
+Em conformidade com o plano de arborização, tratamento e exploração deste conjunto de prédios rústicos e pela observação da correspondente carta de solos e sua capacidade de uso foi reconhecido superiormente que a petição se encontra em condições de ser deferida, tendo em conta o disposto no artigo 42.º do Regulamento do Serviço da Polícia Florestal, aprovado pelo Decreto-Lei n.º 39931, de 24 de Novembro de 1954.
+Nestes termos:
+O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
+Artigo 1.º São submetidos ao regime florestal de simples polícia os terrenos da Companhia das Lezírias, E. P., situados na freguesia de Samora Correia, do concelho de Benavente, distrito de Santarém, e na freguesia e concelho de Vila Franca de Xira, distrito de Lisboa, com a superfície total de 23520,3310 ha, assim discriminada: 7344,4450 ha de montado de sobro; 1105,7940 ha de pinhal bravo; 80,3950 ha de pinhal manso; 957,2210 ha de eucaliptal; 475,6600 ha de olival; 1,5420 ha de pomares; 7598,6730 ha de pastagens estremes; 223,3010 ha de pastagens com sobreiros dispersos e em núcleos; 94,2160 ha de pastagens com oliveiras em bordadura; 3469,6950 ha de culturas de sequeiro e regadio; 305,7830 ha de cultura orizícola; 543,4870 ha de cultura arvense com sobreiros; 63,8240 ha de cultura arvense com oliveiras; 79,8450 ha de cultura arvense com árvores de fruto; 110,0990 ha de vinha estreme; 187,7270 ha de vinha com árvores dispersas; 10,2360 ha de hortas; 437,1000 ha de sapais; 104,1400 ha de incultos; 20,9870 ha de salinas, e 306,1610 ha de área social, como consta do respectivo processo, plano de arborização, tratamento e exploração e planta autêntica.
+Art. 2.º - 1 - Nos termos do artigo 42.º do Decreto-Lei n.º 39931, de 24 de Novembro de 1954, a Companhia das Lezírias, E. P., obriga-se ao cumprimento das seguintes condições:
+Dar execução ao proposto no respectivo plano de arborização, tratamento e exploração, nomeadamente quanto a:
+a) Proteger a regeneração natural do montado e promover as sementeiras necessárias de modo a assegurar a sua conservação e melhoramento, não devendo subordinar-se a exploração à pastorícia;
+b) Proceder às sementeiras e plantações, bem como aos desbastes necessários para levar os restantes povoamentos à densidade conveniente;
+c) Reflorestar as áreas destruídas pelo fogo e as que sofrerem corte raso e atingirem o termo de explorabilidade;
+d) Seguir os preceitos tecnicamente estabelecidos para a conservação, recuperação e melhoramento dos solos;
+e) Revestir convenientemente com espécies adequadas as vertentes das linhas de água e o regolfo da barragem da ribeira do Vale Cobrão, e onde os declives forem mais acentuados, moderando os cortes de mato e o pastoreio de modo evitar-se fenómenos de erosão;
+f) Manter revestidos, com espécies ripícolas, os valados e motas das valas de drenagem e de enxugo, sem comprometer os trabalhos de limpeza e conservação dos mesmos.
+2 - Dar cumprimento a todas as práticas culturais preconizadas pela Direcção-Geral de Ordenamento e Gestão Florestal.
+3 - Elaborar planos de ordenamento e de exploração para montado de sobro e pinhal, a serem vistos e aprovados pela Direcção-Geral de Ordenamento e Gestão Florestal.
+4 - Mandar colocar no perímetro da propriedade as tabuletas a que se refere o artigo 46.º, suas alíneas e parágrafos, do Regulamento do Serviço de Polícia Florestal.
+5 - Assumir o encargo de manter vinte e um guardas florestais auxiliares, doze dos quais montados (dispondo de montada privativa e permanente), e nove auto-transportados (distribuídos por três unidades auto).
+6 - Sujeitar-se à fiscalização do pessoal competente da Direcção-Geral de Ordenamento e Gestão Florestal.
+Art. 3.º A execução do presente decreto só terá lugar decorrido o prazo de trinta dias, a contar da data da afixação dos editais regulamentares nos lugares públicos do costume dos concelhos e freguesias da situação da propriedade.
+Carlos Alberto da Mota Pinto - Apolinário José Barbosa da Cruz Vaz Portugal.
+Promulgado em 31 de Julho de 1979.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
