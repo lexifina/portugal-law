@@ -1,7 +1,3 @@
-## Capítulo V
-
-## Instalações técnicas
-
 ## Secção I
 
 ## Instalações eléctricas
