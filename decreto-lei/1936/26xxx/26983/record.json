@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1936/09/20900/10731074.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1936-09-05",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "9d3397a7e8cc7dfe2ad8f8ef7a89a43b4484311920cace71acae72f3e0a75a87",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.6,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "8e2c78019fdd1603464a28b73fccf098c5be8b8f9676e4e6c4cf7de97c1fbb14",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 325
 }
