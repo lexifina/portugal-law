@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação do Secretário-Geral das Nações Unidas, foram depositados, em 15 de Julho de 1982, os instrumentos de ratificação, aceitação e aprovação da Convenção sobre Poluição Atmosférica Transfronteiras a Longa Distância, concluída em Genebra em 13 de Novembro de 1972, pelos Governos da Bélgica, República Federal da Alemanha, Irlanda, Itália, Luxemburgo, Reino Unido (ratificação), Holanda (aceitação) e CEE (aprovação).
+Direcção-Geral dos Negócios Económicos, 6 de Dezembro de 1982. - O Adjunto do Director-Geral, António Guilherme Lopes de Oliveira Cascais.
