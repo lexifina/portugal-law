@@ -1,11 +1,9 @@
 # Artigo 115.º
 
-### (Tribunal competente, processo e prazo)
+### (Tribunal competente e prazos)
 
-1 - O recurso é interposto no dia seguinte ao da afixação dos editais que tornem públicos os resultados dos apuramentos distrital e geral perante o Tribunal Constitucional.
+1. O recurso será interposto no prazo de vinte e quatro horas, a contar da afixação do edital a que se refere o artigo 102.º, perante o tribunal da relação do distrito judicial a que pertencer a assembleia ou secção de voto, ou vinte e quatro horas, a contar da afixação do edital a que se refere o artigo 109.º, perante o Supremo Tribunal de Justiça.
 
-2 - No caso de recursos relativos às regiões autónomas e ao território de Macau, a interposição e fundamentação dos mesmos perante o Tribunal Constitucional podem ser feitas por via telegráfica ou telex, sem prejuízo de posterior envio de todos os elementos de prova referidos no n.º 3 do artigo anterior.
+2. No prazo de quarenta e oito horas, o Tribunal em plenário decidirá definitivamente o recurso, comunicando imediatamente a decisão ao governador civil e à Comissão Nacional das Eleições.
 
-3 - O presidente do Tribunal Constitucional manda notificar imediatamente os mandatários dos candidatos definitivamente admitidos para que eles ou os candidatos respondam, querendo, no prazo de um dia.
-
-4 - Nos dois dias seguintes ao termo do prazo previsto no número anterior, o Tribunal Constitucional, em Plenário, decide o recurso, comunicando imediatamente a decisão à Comissão Nacional de Eleições.
+3. No caso de recursos provenientes dos Açores, a sua interposição perante o Tribunal da Relação de Lisboa poderá ser feita por via telegráfica, sem prejuízo do posterior envio de todos os elementos de prova referidos no n.º 3 do artigo 114.º

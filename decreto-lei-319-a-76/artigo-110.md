@@ -6,4 +6,4 @@
 
 2. Nos dois dias posteriores àqueles em que se concluir o apuramento geral o presidente enviará dois exemplares da acta à Comissão Nacional das Eleições pelo seguro do correio ou por próprio, que cobrará recibo de entrega.
 
-3. O terceiro exemplar da acta, bem como toda a documentação presente à assembleia de apuramento geral , será entregue ao presidente do Supremo Tribunal de Justiça, que o guardará sob a sua responsabilidade.
+3. O terceiro exemplar da acta, bem como toda a documentação presente à assembleia de apuramento distrital, será entregue ao presidente do Supremo Tribunal de Justiça, que o guardará sob a sua responsabilidade.

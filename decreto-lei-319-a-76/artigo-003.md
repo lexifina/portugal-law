@@ -2,12 +2,12 @@
 
 ### (Incapacidades eleitorais)
 
-1 - Não são eleitores do Presidente da República os cidadãos portugueses que tenham obtido estatuto de igualdade de direitos políticos em país de língua portuguesa, nos termos do n.º 3 do artigo 15.º da Constituição.
+Não são cidadãos eleitores:
 
-2 - Não são também cidadãos eleitores do Presidente da República:
+a) Os interditos por sentença com trânsito em julgado;
 
-a) (Revogada.)
+b) Os notoriamente reconhecidos como dementes, ainda que não estejam interditos por sentença, quando internados em estabelecimento psiquiátrico ou como tais declarados por uma junta de dois médicos;
 
-b) Os que notoriamente apresentem limitação ou alteração grave das funções mentais, ainda que não sujeitos a acompanhamento, quando internados em estabelecimento psiquiátrico ou como tais declarados por uma junta de dois médicos;
+c) Os definitivamente condenados a pena de prisão por crime doloso infamante, enquanto não hajam expiado a respectiva pena, e os que se encontrem judicialmente privados dos seus direitos políticos;
 
-c) Os que estejam privados de direitos políticos, por decisão judicial transitada em julgado.
+d) Os feridos por qualquer das incapacidades eleitorais activas previstas no Decreto-Lei n.º 621-B/74, de 15 de Novembro.

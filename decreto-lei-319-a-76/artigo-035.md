@@ -1,27 +1,11 @@
 # Artigo 35.º
 
-### Mesas das assembleias e secções de voto
+### (Mesas das assembleias de voto)
 
 1. Em cada assembleia de voto será constituída uma mesa para promover e dirigir as operações eleitorais.
 
 2. A mesa será composta por um presidente e respectivo suplente e três vogais, sendo um secretário e dois escrutinadores.
 
-3 - Não podem ser designados membros da mesa os eleitores que não saibam ler e escrever português e, salvo nos casos previstos no n.º 2 do artigo 38.º, deverão fazer parte da assembleia ou secção de voto para que foram nomeados.
+3. Os membros da mesa deverão saber ler e escrever português e, salvo nos casos previstos no n.º 2 do artigo 38.º, deverão fazer parte da assembleia ou secção de voto para que foram nomeados.
 
 4. Salvo motivo de força maior ou justa causa, é obrigatório o desempenho das funções de membro da mesa da assembleia de voto.
-
-5 - São causas justificativas de impedimento:
-
-a) Idade superior a 65 anos;
-
-b) Doença ou impossibilidade física comprovada pelo delegado de saúde municipal;
-
-c) Mudança de residência para a área de outro município, comprovada pela junta de freguesia da nova residência;
-
-d) Ausência no estrangeiro, devidamente comprovada;
-
-e) Exercício de actividade profissional de carácter inadiável, devidamente comprovada por superior hierárquico.
-
-6 - A invocação de causa justificativa é feita, sempre que o eleitor o possa fazer, até três dias antes da eleição, perante o presidente da câmara municipal.
-
-7 - No caso previsto no número anterior o presidente da câmara procede imediatamente à substituição, nomeando outro eleitor pertencente à assembleia de voto.

@@ -2,36 +2,20 @@
 
 ### (Direito de antena)
 
-1 - Os candidatos ou representantes por si designados têm direito de acesso, para propaganda eleitoral, às estações de rádio e de televisão, públicas e privadas.
+1. Os candidatos os representantes por si designados terão direito de acesso, para propaganda eleitoral, às estações de televisão e rádio, tanto públicas como privadas, e quanto a estas, desde que as mesmas tenham feito a declaração prevista no artigo 54.º
 
-2 - Durante o período da campanha eleitoral, as estações de rádio e de televisão reservam às candidaturas os seguintes tempos de antena:
+2. Durante o período da campanha eleitoral, as estações de rádio e televisão reservarão às candidaturas os seguintes tempos de emissão:
 
-a) A Radiotelevisão Portuguesa, S. A., em todos os seus canais, incluindo o internacional, e as estações privadas de televisão:
+a) De segunda-feira a sexta-feira - trinta minutos, no período entre as 20 e as 23 horas, imediatamente a seguir ao serviço informativo.
 
-De segunda-feira a sexta-feira - quinze minutos, entre as 19 e as 22 horas;
+Aos sábados - dez minutos, no período de emissão entre as 12 horas e 45 minutos e as 14 horas e 15 minutos, e quarenta minutos, no período entre as 20 e as 23 horas, estes últimos imediatamente a seguir ao serviço informativo.
 
-Aos sábados e domingos - trinta minutos, entre as 19 e as 22 horas;
+Aos domingos - dez minutos, no período de emissão entre as 12 horas e 45 minutos e as 14 horas e 15 minutos, e trinta minutos, das 20 horas às 20 horas e 30 minutos;
 
-b) A Radiodifusão Portuguesa, S. A., em onda média e frequência modulada, ligada a todos os emissores regionais e na emissão internacional:
+b) A Radiodifusão Portuguesa (onda média e de frequência modulada), ligada a todos os seus emissores regionais - noventa minutos diários, dos quais sessenta minutos entre as 18 e as 20 horas tendo cada candidato direito a dez minutos dentro do mesmo período de emissão;
 
-Sessenta minutos diários, dos quais vinte minutos entre as 7 e as 12 horas, vinte minutos entre as 12 e as 19 horas e vinte minutos entre as 19 e as 24 horas.
+c) Os emissores regionais da Radiodifusão Portuguesa - trinta minutos diários;
 
-c) As estações privadas de radiodifusão de âmbito nacional, em onda média e frequência modulada, ligadas a todos os emissores, quando tiverem mais de um:
+d) As estações privadas (onda média e de frequência modulada), ligadas a todos os seus emissores, quando os tiverem - noventa minutos diários, dos quais sessenta entre as 20 e as 24 horas.
 
-Sessenta minutos diários, dos quais vinte minutos entre as 7 e as 12 horas e quarenta minutos entre as 19 e as 24 horas;
-
-d) As estações privadas de radiodifusão de âmbito regional:
-
-Trinta minutos diários, divididos em dois blocos iguais, de quinze minutos seguidos, um entre as 7 e as 12 horas e outro entre as 19 e as 24 horas;
-
-e) As estações privadas de radiodifusão de âmbito local:
-
-Trinta minutos diários, divididos em dois blocos iguais, de quinze minutos seguidos, um entre as 7 e as 12 horas e outro entre as 19 e as 24 horas.
-
-3 - Os tempos de emissão referidos no número anterior são reduzidos a dois terços no decurso da campanha para o segundo sufrágio.
-
-4 - Até 10 dias antes da abertura da campanha, as estações referidas no n.º 2 devem indicar à Comissão Nacional de Eleições o horário previsto para as emissões, quer para o primeiro, quer para o segundo sufrágio.
-
-5 - As estações de rádio e televisão registam e arquivam, pelo prazo de um ano, o registo das emissões correspondentes ao exercício do direito de antena.
-
-6 - Para efeitos do disposto na alínea e) do n.º 2, entende-se por radiodifusão de âmbito local o conjunto de operadores radiofónicos com serviços de programas generalistas e temáticos informativos, de âmbito local.
+3. Até vinte e quatro horas antes da abertura da campanha, as estações devem indicar à Comissão Nacional das Eleições o horário previsto para as emissões.

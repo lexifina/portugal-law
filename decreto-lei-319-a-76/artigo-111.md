@@ -2,7 +2,7 @@
 
 ### (Mapa nacional da eleição)
 
-Nos 8 dias subsequentes à recepção das actas de apuramento geral a Comissão Nacional de Eleições elabora e faz publicar na 1.ª série do Diário da República um mapa oficial com o resultado das eleições, de que conste:
+Nos oito dias subsequentes à recepção das actas de apuramento geral a Comissão Nacional das Eleições elaborará e fará publicar na 1.ª série do Diário da República um mapa com os resultados das eleições, de que conste:
 
 a) Número dos eleitores inscritos;
 
@@ -12,4 +12,4 @@ c) Número de votos em branco e votos nulos;
 
 d) Número, com a respectiva percentagem, de votos atribuídos a cada candidato;
 
-e) Nome do candidato eleito ou nome dos dois candidatos concorrentes ao segundo sufrágio.
+e) Nome do candidato eleito.

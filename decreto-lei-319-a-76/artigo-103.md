@@ -6,4 +6,4 @@
 
 2. Nas vinte e quatro horas posteriores à conclusão do apuramento distrital o presidente enviará dois exemplares da acta à assembleia de apuramento geral pelo seguro do correio ou por próprio, que cobrará recibo de entrega.
 
-3 - O terceiro exemplar da acta, bem como toda a documentação presente à assembleia de apuramento distrital, permanece com o tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma, o qual o conservará e guardará sob a sua responsabilidade.
+3. O terceiro exemplar da acta, bem como toda a documentação presente à assembleia de apuramento distrital, será entregue ao governador civil, o qual o conservará e guardará sob a sua responsabilidade.

@@ -4,14 +4,10 @@
 
 # Artigo 114.º
 
-### (Recurso)
+### (Recurso contencioso)
 
-1 - As irregularidades ocorridas no decurso da votação e no apuramento parcial, distrital e geral podem ser apreciadas em recurso contencioso, desde que hajam sido objecto de reclamação ou protesto apresentados no acto em que se verificaram.
+1. As irregularidades ocorridas no decurso da votação e no apuramento parcial, distrital e geral podem ser apreciadas em recurso contencioso, desde que hajam sido objecto de reclamação ou protesto apresentados no acto em que se verificaram.
 
-2 - Da decisão sobre a reclamação ou protesto podem recorrer, além do apresentante da reclamação, protesto ou contraprotesto, os candidatos e os seus mandatários.
+2. Da decisão sobre a reclamação ou protesto podem recorrer, além do representante da reclamação, protesto ou contraprotesto, os candidatos e os seus mandatários.
 
-3 - A petição especificará o fundamento de facto e de direito do recurso e será acompanhada de todos os elementos de prova, incluindo fotocópia da acta da assembleia em que a irregularidade tiver ocorrido.
-
-4 - Cabe à assembleia de apuramento distrital apreciar os recursos interpostos pelas entidades referidas no n.º 2 quanto a irregularidades ocorridas no decurso da votação e no apuramento parcial.
-
-5 - Desta decisão cabe recurso contencioso nos termos do artigo seguinte.
+3. A petição especificará o fundamento de facto e de direito do recurso e será acompanhada de todos os elementos de prova, incluindo fotocópia da acta da assembleia em que a irregularidade tiver ocorrido.

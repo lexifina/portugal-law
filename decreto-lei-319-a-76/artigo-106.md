@@ -2,16 +2,16 @@
 
 ### (Assembleia de apuramento geral)
 
-1 - A assembleia de apuramento geral será composta por:
+1. A assembleia de apuramento geral será composta por:
 
-a) O presidente do Tribunal Constitucional, que presidirá com voto de qualidade;
+a) O presidente do Supremo Tribunal de Justiça, que será o presidente;
 
-b) Dois juízes do Tribunal Constitucional, designados por sorteio;
+b) Dois juristas, escolhidos pelo presidente;
 
-c) Três professores de Matemática, designados pelo Ministério da Educação e Cultura;
+c) Três professores de Matemática, designados pelo Ministério da Educação e Investigação Científica;
 
-d) O secretário do Tribunal Constitucional que secretariará sem voto.
+d) Um chefe de secretaria judicial, escolhido pelo presidente, que servirá de secretário, sem voto.
 
-2 - A assembleia deverá estar constituída até à antevéspera da eleição, dando-se imediato conhecimento público dos nomes dos cidadãos que a compõem através de edital a afixar à porta do Tribunal Constitucional.
+2. A assembleia deverá estar constituída até à antevéspera da eleição, dando-se imediato conhecimento público dos nomes dos cidadãos que a compõem, através de edital a afixar à porta do Supremo Tribunal de Justiça.
 
-3 - Os candidatos e os mandatários dos candidatos poderão assistir, sem direito de voto, mas com direito de reclamação, protesto ou contraprotesto, aos trabalhos da assembleia de apuramento geral.
+3. Os candidatos e os mandatários dos candidatos poderão assistir, sem direito de voto, mas com direito de reclamação, protesto ou contraprotesto, aos trabalhos da assembleia de apuramento distrital.
