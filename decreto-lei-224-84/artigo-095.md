@@ -14,7 +14,7 @@ d) Na de promessa de alienação ou de oneração de bens: o prazo da promessa, 
 
 e) Na de pacto ou disposição testamentária de preferência: o contrato ou o testamento a que respeita, a duração da preferência e as demais condições especificadas no título respeitantes às prestações das partes;
 
-f) Na de autorização de loteamento: as condições fixadas;
+f) Na de emissão de alvará de loteamento: o número, a data e as respectivas especificações; nos aditamentos ao alvará: o número, a data, a fase a que correspondem e respectivas especificações; nas alterações ao alvará: o número, a data e as novas especificações;
 
 g) Na de acção: o pedido; e na de decisão judicial: a parte dispositiva;
 

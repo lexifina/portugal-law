@@ -14,15 +14,17 @@ d) A convenção de indivisão da compropriedade, quando não deva ser inserida 
 
 e) A transmissão e o usufruto do direito de algum ou alguns dos titulares da inscrição de bens integrados em herança indivisa, bem como a penhora, arresto, arrolamento, apreensão e demais actos ou providências sobre esse direito;
 
-f) A transmissão de imóveis por efeito de transferência de património de um ente colectivo para outro;
+f) A cessão da posição contratual emergente da promessa de alienação ou de oneração de imóveis e do pacto de preferência;
 
-g) O trespasse do usufruto;
+g) A transmissão de imóveis por efeito de transferência de património de um ente colectivo para outro;
 
-h) A consignação judicial de rendimentos de imóveis objecto de inscrição de penhora;
+h) O trespasse do usufruto;
 
-i) A transmissão dos arrendamentos inscritos e os subarrendamentos;
+i) A consignação judicial de rendimentos de imóveis objecto de inscrição de penhora;
 
-j) A transmissão de concessões inscritas.
+j) A transmissão dos arrendamentos inscritos e os subarrendamentos;
+
+l) A transmissão de concessões inscritas.
 
 2 - São registados nos mesmos termos:
 
@@ -41,3 +43,5 @@ f) O cancelamento total ou parcial dos registos.
 3 - Podem ser feitos provisoriamente por dúvidas os averbamentos referidos no n.º 1 e provisoriamente por natureza os averbamentos de factos constantes do mesmo número que tenham de revestir esse carácter quando registados por inscrição.
 
 4 - A conversão em definitiva da inscrição de acção em que se julgue modificado ou extinto um facto registado, ou se declare nulo ou anulado um registo, determina o correspondente averbamento oficioso de alteração ou cancelamento.
+
+5 - A inscrição da aquisição por arrematação em hasta pública determina o averbamento oficioso de cancelamento dos registos que são judicialmente mandados cancelar.

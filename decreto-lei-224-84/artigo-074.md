@@ -1,5 +1,7 @@
 # Artigo 74.º
 
-### (Desistência)
+### (Desistências)
 
-É permitida a desistência de um registo e dos que dele dependam no caso de deficiência que motive recusa ou se for junto documento comprovativo da extinção do facto.
+1 - É sempre permitida a desistência de qualquer acto de registo depois de efectuada a apresentação e antes de iniciada a sua feitura.
+
+2 - A desistência será sempre requerida por escrito.
