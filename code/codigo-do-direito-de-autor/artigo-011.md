@@ -1,7 +1,3 @@
-## Secção II
-
-## Da atribuição do direito de autor
-
 # Artigo 11.º
 
 ### (Suportes da obra)
