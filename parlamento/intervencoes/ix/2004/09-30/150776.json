@@ -1,0 +1,78 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ikbb22EfidWyh5aL9J45Him8rhm3hBQttHxkrMbFeyYEwrlCCV9ZfcNHgV8WjSxu83VjOPt6VK7tfawrIfKZtTDmfI0Eg1Qj2%2fgR4zkB218vexxTlHm9ELnuOSX5QSKeM5RBZD467bhRAPU4hPcfbqahvryp3gb6e37C1v7CloSAMeYftDHuGXetsMTuqWKWDw8jw4LLkjhOMYrtuWUeiCrg7lyiTG%2fjnHAs%2fmcgrOZO8jIFWuyniqH%2f16iGaVZzEzfL%2b4SfA3O6drPBVYibztEF%2fs9tJC4xx3DcN5MsnQfVSXH3wVPofkvbJEOlvWHKvrzXi7OMn9qcwTKLuqkVUEIS1yusoxybTMXClPgsIs8%3d&fich=IntervencoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "ab3e3445119ef03a27cc4debeadf3049422a38e0d13b37a933bd5be6cbd2d916",
+  "legislatura": "IX",
+  "id": "150776",
+  "tipo": "Intervenção",
+  "orador": "Ângela Sabino (PCP)",
+  "data_registo": "2004-09-30",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "74897",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "74897",
+        "tipo": "VOT",
+        "titulo": "De Protesto - Voto de Protesto pela ausência de informação e pela opacidade relativas à política de saúde do Governo PSD-CDS-PP."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2004-09-30",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PCP",
+      "idCadastro": "2043",
+      "nome": "Ângela Sabino"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "150776",
+    "IdDebate": "21467",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "IX",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "150776",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "401-401"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-10-01",
+        "pubLeg": "IX",
+        "pubNr": "8",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/008/2004-10-01/401?pgs=401&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputada",
+    "Resumo": null,
+    "Sessao": "3",
+    "Sumario": "Voto de Protesto pela ausência de informação e pela opacidade relativas à política de saúde do Governo PSD-CDS-PP.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
