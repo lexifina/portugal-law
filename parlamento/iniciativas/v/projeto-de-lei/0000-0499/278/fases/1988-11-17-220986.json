@@ -1,0 +1,1078 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "278",
+    "id": "28802",
+    "titulo": "Incompatibilidades - alteração do Estatutos dos Deputados"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1988-11-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "4488",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1988-11-17",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28768",
+        "leg": "V",
+        "nr": "312",
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Moralização do exercício do mandato de deputado"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28801",
+        "leg": "V",
+        "nr": "277",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Incompatibilidades dos membros do Governo"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1988-11-17",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215774",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "356-357",
+                  "358-359"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-18",
+                "pubLeg": "V",
+                "pubNr": "14",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/014/1988-11-18/356?pgs=356-357,358-359&org=PLC"
+              }
+            ],
+            "sumario": "Incompatibilidades - alteração do Estatutos dos Deputados; Incompatibilidades dos membros do Governo; Moralização do exercício do mandato de deputado.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215777",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "357-357"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-18",
+                "pubLeg": "V",
+                "pubNr": "14",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/014/1988-11-18/357?pgs=357&org=PLC"
+              }
+            ],
+            "sumario": "Incompatibilidades - alteração do Estatutos dos Deputados; Incompatibilidades dos membros do Governo; Moralização do exercício do mandato de deputado.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215781",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "358-358"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-18",
+                "pubLeg": "V",
+                "pubNr": "14",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/014/1988-11-18/358?pgs=358&org=PLC"
+              }
+            ],
+            "sumario": "Incompatibilidades - alteração do Estatutos dos Deputados; Incompatibilidades dos membros do Governo; Moralização do exercício do mandato de deputado.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215783",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "358-358"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-18",
+                "pubLeg": "V",
+                "pubNr": "14",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/014/1988-11-18/358?pgs=358&org=PLC"
+              }
+            ],
+            "sumario": "Incompatibilidades - alteração do Estatutos dos Deputados; Incompatibilidades dos membros do Governo; Moralização do exercício do mandato de deputado.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215785",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "359-361",
+                  "363-365"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-18",
+                "pubLeg": "V",
+                "pubNr": "14",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/014/1988-11-18/359?pgs=359-361,363-365&org=PLC"
+              }
+            ],
+            "sumario": "Incompatibilidades - alteração do Estatutos dos Deputados; Incompatibilidades dos membros do Governo; Moralização do exercício do mandato de deputado.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215788",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "361-361"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-18",
+                "pubLeg": "V",
+                "pubNr": "14",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/014/1988-11-18/361?pgs=361&org=PLC"
+              }
+            ],
+            "sumario": "Incompatibilidades - alteração do Estatutos dos Deputados; Incompatibilidades dos membros do Governo; Moralização do exercício do mandato de deputado.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215791",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "361-361"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-18",
+                "pubLeg": "V",
+                "pubNr": "14",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/014/1988-11-18/361?pgs=361&org=PLC"
+              }
+            ],
+            "sumario": "Incompatibilidades - alteração do Estatutos dos Deputados; Incompatibilidades dos membros do Governo; Moralização do exercício do mandato de deputado.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215794",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "361-362"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-18",
+                "pubLeg": "V",
+                "pubNr": "14",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/014/1988-11-18/361?pgs=361-362&org=PLC"
+              }
+            ],
+            "sumario": "Incompatibilidades - alteração do Estatutos dos Deputados; Incompatibilidades dos membros do Governo; Moralização do exercício do mandato de deputado.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215795",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "362-363"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-18",
+                "pubLeg": "V",
+                "pubNr": "14",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/014/1988-11-18/362?pgs=362-363&org=PLC"
+              }
+            ],
+            "sumario": "Incompatibilidades - alteração do Estatutos dos Deputados; Incompatibilidades dos membros do Governo; Moralização do exercício do mandato de deputado.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215797",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "364-364"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-18",
+                "pubLeg": "V",
+                "pubNr": "14",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/014/1988-11-18/364?pgs=364&org=PLC"
+              }
+            ],
+            "sumario": "Incompatibilidades - alteração do Estatutos dos Deputados; Incompatibilidades dos membros do Governo; Moralização do exercício do mandato de deputado.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215798",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "365-367",
+                  "369-370"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-18",
+                "pubLeg": "V",
+                "pubNr": "14",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/014/1988-11-18/365?pgs=365-367,369-370&org=PLC"
+              }
+            ],
+            "sumario": "Incompatibilidades - alteração do Estatutos dos Deputados; Incompatibilidades dos membros do Governo; Moralização do exercício do mandato de deputado.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215802",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "367-367"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-18",
+                "pubLeg": "V",
+                "pubNr": "14",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/014/1988-11-18/367?pgs=367&org=PLC"
+              }
+            ],
+            "sumario": "Incompatibilidades - alteração do Estatutos dos Deputados; Incompatibilidades dos membros do Governo; Moralização do exercício do mandato de deputado.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215805",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "367-367"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-18",
+                "pubLeg": "V",
+                "pubNr": "14",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/014/1988-11-18/367?pgs=367&org=PLC"
+              }
+            ],
+            "sumario": "Incompatibilidades - alteração do Estatutos dos Deputados; Incompatibilidades dos membros do Governo; Moralização do exercício do mandato de deputado.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215808",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "367-368"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-18",
+                "pubLeg": "V",
+                "pubNr": "14",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/014/1988-11-18/367?pgs=367-368&org=PLC"
+              }
+            ],
+            "sumario": "Incompatibilidades - alteração do Estatutos dos Deputados; Incompatibilidades dos membros do Governo; Moralização do exercício do mandato de deputado.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215810",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "368-368"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-18",
+                "pubLeg": "V",
+                "pubNr": "14",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/014/1988-11-18/368?pgs=368&org=PLC"
+              }
+            ],
+            "sumario": "Incompatibilidades - alteração do Estatutos dos Deputados; Incompatibilidades dos membros do Governo; Moralização do exercício do mandato de deputado.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215812",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "368-369"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-18",
+                "pubLeg": "V",
+                "pubNr": "14",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/014/1988-11-18/368?pgs=368-369&org=PLC"
+              }
+            ],
+            "sumario": "Incompatibilidades - alteração do Estatutos dos Deputados; Incompatibilidades dos membros do Governo; Moralização do exercício do mandato de deputado.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215813",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "369-369"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-18",
+                "pubLeg": "V",
+                "pubNr": "14",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/014/1988-11-18/369?pgs=369&org=PLC"
+              }
+            ],
+            "sumario": "Incompatibilidades - alteração do Estatutos dos Deputados; Incompatibilidades dos membros do Governo; Moralização do exercício do mandato de deputado.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215816",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "370-371",
+                  "373-374"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-18",
+                "pubLeg": "V",
+                "pubNr": "14",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/014/1988-11-18/370?pgs=370-371,373-374&org=PLC"
+              }
+            ],
+            "sumario": "Incompatibilidades - alteração do Estatutos dos Deputados; Incompatibilidades dos membros do Governo; Moralização do exercício do mandato de deputado.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215828",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "371-372"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-18",
+                "pubLeg": "V",
+                "pubNr": "14",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/014/1988-11-18/371?pgs=371-372&org=PLC"
+              }
+            ],
+            "sumario": "Incompatibilidades - alteração do Estatutos dos Deputados; Incompatibilidades dos membros do Governo; Moralização do exercício do mandato de deputado.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215832",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "372-372"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-18",
+                "pubLeg": "V",
+                "pubNr": "14",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/014/1988-11-18/372?pgs=372&org=PLC"
+              }
+            ],
+            "sumario": "Incompatibilidades - alteração do Estatutos dos Deputados; Incompatibilidades dos membros do Governo; Moralização do exercício do mandato de deputado.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215834",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "372-372"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-18",
+                "pubLeg": "V",
+                "pubNr": "14",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/014/1988-11-18/372?pgs=372&org=PLC"
+              }
+            ],
+            "sumario": "Incompatibilidades - alteração do Estatutos dos Deputados; Incompatibilidades dos membros do Governo; Moralização do exercício do mandato de deputado.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215836",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "373-373"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-18",
+                "pubLeg": "V",
+                "pubNr": "14",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/014/1988-11-18/373?pgs=373&org=PLC"
+              }
+            ],
+            "sumario": "Incompatibilidades - alteração do Estatutos dos Deputados; Incompatibilidades dos membros do Governo; Moralização do exercício do mandato de deputado.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215839",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "374-375"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-11-18",
+                "pubLeg": "V",
+                "pubNr": "14",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/014/1988-11-18/374?pgs=374-375&org=PLC"
+              }
+            ],
+            "sumario": "Incompatibilidades - alteração do Estatutos dos Deputados; Incompatibilidades dos membros do Governo; Moralização do exercício do mandato de deputado.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "220986",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "332156",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-11-18",
+        "pubLeg": "V",
+        "pubNr": "14",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/014/1988-11-18?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
