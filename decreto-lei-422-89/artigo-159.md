@@ -1,6 +1,6 @@
 ## Capítulo XI
 
-## Disposições transitórias e finais
+## Das modalidades afins dos jogos de fortuna ou azar e outras formas de jogo
 
 # Artigo 159.º
 
