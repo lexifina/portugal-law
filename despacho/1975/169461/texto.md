@@ -1,0 +1,5 @@
+Despacho
+Nos termos do disposto nos artigos 3.º e 5.º do Decreto-Lei n.º 220/71, de 26 de Maio, determina-se o seguinte:
+1. Para a incorporação periódica de recrutas (determinação do perfil médico Sivage) e quando estiverem ausentes justificadamente ou forem insuficientes os médicos militares ou civis das unidades situadas nas várias regiões militares, podem ser contratados médicos civis das respectivas localidades em regime de chamada, devendo ser-lhes atribuída como honorários a importância de 300$00 por cada sessão de duas horas.
+2. Esta autorização é transitória e durará o tempo necessário para que as unidades possam passar a contar com médicos militares ou civis que nelas prestem serviço.
+Estado-Maior-General das Forças Armadas e Ministérios da Defesa Nacional e das Finanças, 2 de Maio de 1975. - O Chefe do Estado-Maior-General das Forças Armadas, Francisco da Costa Gomes. - O Chefe do Estado-Maior do Exército, Carlos Alberto Idães Soares Fabião. - O Ministro da Defesa Nacional, Silvano Ribeiro. - O Ministro das Finanças, José Joaquim Fragoso.
