@@ -1,0 +1,4 @@
+Portaria n.º 430/72
+de 4 de Agosto
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do § 1.º do artigo 4.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, reforçar, com a importância de 24000$00, a verba do capítulo II, artigo 13.º «Serviços próprios do Conselho Ultramarino - Diversos encargos - Abono de família», do orçamento da despesa do Conselho Ultramarino para o corrente ano económico, tomando como contrapartida igual importância a sair das disponibilidades da verba do capítulo II, artigo 12.º, n.º 1 «Serviços próprios do Conselho Ultramarino - Diversos encargos - Encargos de instalações - Rendas de casa», do mesmo orçamento.
+Ministério do Ultramar, 21 de Julho de 1972. - Pelo Ministro do Ultramar, Rui Martins dos Santos, Subsecretário de Estado do Fomento Ultramarino.
