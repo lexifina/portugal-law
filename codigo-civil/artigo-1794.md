@@ -1,6 +1,6 @@
 ## Secção II
 
-## Divórcio
+## Separação judicial de pessoas e bens
 
 # Artigo 1794.º
 
