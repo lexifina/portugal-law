@@ -1,0 +1,3 @@
+Despacho
+Nos termos do artigo 1.º do Decreto-Lei n.º 43000, de 1 de Junho de 1960, mediante proposta do Ministério da Educação Nacional, é limitada a aplicação do despacho de 13 de Fevereiro de 1969, publicado pela Presidência do Conselho no Diário do Governo, 1.ª série, n.º 47, de 25 do mesmo mês, ao provimento dos lugares de chefe de fiscalização de obras das câmaras municipais ou de chefe de fiscalização das câmaras municipais afectos ao serviço de obras.
+Presidência do Conselho, 19 de Novembro de 1969. - Pelo Presidente do Conselho, o Ministro de Estado, Alfredo de Queirós Ribeiro Vaz Pinto.
