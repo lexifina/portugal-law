@@ -1,0 +1,56 @@
+Lei n.º 59/91
+de 13 de Agosto
+Museu Nacional Ferroviário
+A Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 3, da Constituição, o seguinte:
+Artigo 1.º
+Criação
+1 - É criado o Museu Nacional Ferroviário.
+2 - O Museu Nacional Ferroviário funciona na dependência do departamento governamental com tutela sobre os Transportes e Comunicações.
+Artigo 2.º
+Sede e denominação
+O Museu tem a sua sede no Entroncamento e denomina-se Museu Nacional Ferroviário Engenheiro Armando Ginestal Machado.
+Artigo 3.º
+Atribuições
+1 - São atribuições do Museu:
+a) Promover a recolha de máquinas, equipamentos e instrumentos, bem como todos os materiais, incluindo os documentais relacionados com os transportes ferroviários desde a sua implantação no País;
+b) Proteger, estudar e divulgar todo o acervo recolhido.
+2 - É ainda atribuição do Museu Nacional Ferroviário dar a conhecer os bens culturais nele existentes, através de exposições permanentes e temporárias, visitas guiadas, colóquios, seminários, conferências, publicações e outras manifestações entendidas por convenientes.
+Artigo 4.º
+Património
+1 - Constituem património afecto ao Museu:
+a) Os edifícios, construções, maquinaria, material documental e todos os outros materiais que sejam adquiridos pelo Estado com essa afectação ou que sejam adquiridos pelo Museu através de verbas próprias;
+b) Os materiais de qualquer tipo que resultem da sua actividade;
+c) Os materiais de qualquer tipo que por herança, legado ou doação lhe sejam destinados com essa afectação.
+2 - O Museu pode aceitar em depósito materiais que interessem à prossecução das suas atribuições.
+Artigo 5.º
+Órgãos
+1 - São órgãos do Museu o director, o conselho geral e o conselho administrativo:
+a) O director é nomeado pelo departamento governamental referido no artigo 1.º, n.º 2, sob proposta do conselho geral;
+b) O conselho geral é constituído por um representante do departamento governamental referido no artigo 1.º, n.º 2, um representante da Câmara Municipal do Entroncamento, um representante da Secretaria de Estado da Cultura, um representante da Companhia de Caminhos de Ferro Portugueses (CP) e um representante das Associações de Defesa do Património;
+c) O conselho administrativo é constituído pelo director, por um representante do conselho geral e pelo secretário do Museu.
+2 - O director superintendente nos serviços do Museu, propõe e executa o plano de actividades, representa externamente o Museu e elabora o relatório de actividades.
+3 - O director assiste e participa nas reuniões do conselho geral, sem direito a voto.
+4 - O conselho geral aprecia e aprova anualmente o plano geral de actividades do Museu, fiscaliza a sua execução, apresenta propostas para o seu bom funcionamento, propõe a nomeação do director e aprecia e aprova o relatório anual de actividades.
+5 - O conselho administrativo gere as receitas e despesas do Museu.
+Artigo 6.º
+Receitas
+Constituem receitas do Museu as dotações do Orçamento do Estado, dotações da autarquia local (concelho do Entroncamento), o valor de heranças, legados ou doações a ele destinados, o produto da venda de publicações ou outros materiais produzidos pelo Museu e ainda as restantes que lhe são conferidas por lei ou por autorização do Governo.
+Artigo 7.º
+Comissão instaladora
+1 - No prazo de 30 dias após a publicação da presente lei, será constituída a comissão instaladora do Museu, com a seguinte composição:
+a) Um representante do departamento governamental referido no artigo 1.º, n.º 2;
+b) Um representante da Câmara Municipal do Entroncamento;
+c) Um representante da Secretaria de Estado da Cultura;
+d) Um representante da CP;
+e) Um representante das Associações de Defesa do Património.
+2 - No prazo de 60 dias após a sua entrada em funcionamento a comissão instaladora apresentará uma proposta de diploma regulamentar e proposta de nomeação do director.
+Artigo 8.º
+Disposição final
+O departamento governamental que tutela os transportes e comunicações tomará as providências necessárias à entrada em funcionamento dos órgãos do Museu no prazo de 60 dias contados a partir da apresentação das propostas da comissão instaladora.
+Aprovada em 20 de Junho de 1991.
+O Presidente da Assembleia da República, Vítor Pereira Crespo.
+Promulgada em 26 de Julho de 1991.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendada em 31 de Julho de 1991.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
