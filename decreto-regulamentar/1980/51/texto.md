@@ -1,0 +1,17 @@
+Decreto Regulamentar n.º 51/80
+de 26 de Setembro
+Verificando-se ser desnecessariamente pesado e inadequado o processo decorrente da execução de vistorias de recintos para divertimento público e elaboração dos respectivos autos pelos chefes de secretaria das câmaras municipais como delegados da Direcção dos Espectáculos;
+Convindo regular em termos simplificados o circuito desses autos, eliminando a morosidade que actualmente existe na contabilização das receitas pela Direcção dos Espectáculos e no pagamento das importâncias devidas pela realização de vistorias:
+Nestes termos:
+O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+Artigo 1.º Nas vistorias a efectuar nos termos dos artigos 8.º, n.º 2, do Decreto-Lei n.º 42663, de 20 de Novembro de 1959, e 12.º do Decreto-Lei n.º 42664, da mesma data, proceder-se-á da forma seguinte:
+1) O requerente depositará na tesouraria da câmara municipal a importância devida por lei para o pagamento da respectiva vistoria;
+2) O registo do depósito referido no número anterior far-se-á na rubrica «Consignação de receitas», cap. 16, de acordo com o n.º 1 do artigo 16.º do Decreto-Lei n.º 243/79, de 25 de Julho, e seu anexo II.
+3) Efectuada a vistoria e elaborado o respectivo auto, este será remetido, acompanhado do requerimento do interessado, à Direcção dos Espectáculos, fazendo-se, no ofício de remessa, menção da data em que foi efectuado o depósito referido no n.º 1 deste artigo;
+4) O pagamento aos peritos far-se-á nos dias 1 a 10 do mês seguinte à realização da vistoria, através da rubrica destinada ao pagamento a diversas entidades por consignação de receitas.
+Art. 2.º Ficam revogados, na parte correspondente ao disposto no artigo 1.º, os artigos 9.º e 10.º do Regulamento dos Espectáculos e Divertimentos Públicos, aprovado pelo Decreto-Lei n.º 42661, de 20 de Novembro de 1959.
+Art. 3.º O presente diploma entra em vigor logo após a sua publicação.
+Francisco Sá Carneiro - Eurico de Melo.
+Promulgado em 11 de Setembro de 1980.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
