@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação da Direcção-Geral da Contabilidade Pública, a declaração publicada no Diário da República, 1.ª série, n.º 23, de 28 de Janeiro de 1983, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+Onde se lê «15 - Ministério da Educação e das Universidades - cap. 15, div. 01 - Universidades de Coimbra - subdiv. 15 - Faculdade de Farmácia - C. F. 3.02.0 - C. E. 26.00 - Bens não duradouros - Consumos de secretaria - 395 contos» deve ler-se «15 - Ministério da Educação e das Universidades cap. 15, div. 01 - Universidade de Coimbra subdiv. 15 - Faculdade de Farmácia - C. F. 3.02.0 - C. E. 26.00 - alínea A) - Bens não duradouros - Consumos de secretaria - 395 contos».
+Secretaria-Geral da Presidência do Conselho de Ministros, 2 de Fevereiro de 1983. - O Secretário-Geral, França Martins.
