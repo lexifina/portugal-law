@@ -1,0 +1,5 @@
+Aviso n.º 132/2000
+Por ordem superior se torna público que, nos termos do artigo 42.º da Convenção sobre a Obtenção de Provas no Estrangeiro em Matéria Civil ou Comercial, concluída na Haia em 18 de Março de 1970, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a Embaixada de Espanha na Haia, por nota de 8 de Março de 1999, comunicado a designação pela Espanha da seguinte autoridade central, com efeitos a partir de 8 de Março de 1999:
+Secretaría General Técnica del Ministerio de Justicia, Calle San Bernardo, n.º 62, 28071 Madrid.
+Portugal é Parte na mesma Convenção, que foi aprovada, para ratificação, pelo Decreto n.º 764/74, de 30 de Dezembro, tendo depositado o seu instrumento de ratificação em 12 de Março de 1975, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 82, de 8 de Abril de 1975. A autoridade central em Portugal é a Direcção-Geral dos Serviços Judiciários, do Ministério da Justiça.
+Departamento de Assuntos Jurídicos, 6 de Junho de 2000. - A Directora, Maria Margarida Aleixo Antunes Rei.
