@@ -1,0 +1,254 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Proposta de Resolução",
+    "numero": "23",
+    "id": "5365",
+    "titulo": "Aprova, para adesão o tratado de Budapeste sobre o reconhecimento internacional do depósito de microorganismos para efeitos do procedimento em matéria de patentes, adoptado em Budapeste, em 28 de Abril de 1977, e alterado em 26 de Setembro de 1980."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "1997-02-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1296",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "1997-02-12",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1997-02-12",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "84",
+                "nome": "Reis Leite"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "49215",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1384-1384"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-02-13",
+                "pubLeg": "VII",
+                "pubNr": "38",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/038/1997-02-13/1384?pgs=1384&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ ADESAO O TRATADO DE BUDAPESTE SOBRE O RECONHECI-MENTO INTERNACIONAL DO DEPOSITO DE MICROORGANISMOS PARA OEFEITO DO PRODECIMENTO EM MATERIA DE PATENTES ADOPTADO EM BUDAPESTE EM 28 DE ABRIL DE 1977, E ALTERADO EM 26 DE SETEMBRO DE 1980.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1217",
+                "nome": "Nuno Abecasis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "49219",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1384-1384"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-02-13",
+                "pubLeg": "VII",
+                "pubNr": "38",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/038/1997-02-13/1384?pgs=1384&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ ADESAO O TRATADO DE BUDAPESTE SOBRE O RECONHECI-MENTO INTERNACIONAL DO DEPOSITO DE MICROORGANISMOS PARA OEFEITO DO PRODECIMENTO EM MATERIA DE PATENTES ADOPTADO EM BUDAPESTE EM 28 DE ABRIL DE 1977, E ALTERADO EM 26 DE SETEMBRO DE 1980.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1273",
+                "nome": "José Barradas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "49221",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1383-1384"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-02-13",
+                "pubLeg": "VII",
+                "pubNr": "38",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/038/1997-02-13/1383?pgs=1383-1384&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ ADESAO O TRATADO DE BUDAPESTE SOBRE O RECONHECI-MENTO INTERNACIONAL DO DEPOSITO DE MICROORGANISMOS PARA OEFEITO DO PRODECIMENTO EM MATERIA DE PATENTES ADOPTADO EM BUDAPESTE EM 28 DE ABRIL DE 1977, E ALTERADO EM 26 DE SETEMBRO DE 1980.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  NEGÓCIOS   ESTRANGEIROS  E  COOPERAÇÃO",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Lamego"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107920",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1383-1384"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-02-13",
+                "pubLeg": "VII",
+                "pubNr": "38",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/038/1997-02-13/1383?pgs=1383-1384&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ ADESAO O TRATADO DE BUDAPESTE SOBRE O RECONHECI-MENTO INTERNACIONAL DO DEPOSITO DE MICROORGANISMOS PARA OEFEITO DO PRODECIMENTO EM MATERIA DE PATENTES ADOPTADO EM BUDAPESTE EM 28 DE ABRIL DE 1977, E ALTERADO EM 26 DE SETEMBRO DE 1980.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "103095",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1296",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1997-02-13",
+        "pubLeg": "VII",
+        "pubNr": "38",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/038/1997-02-13?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
