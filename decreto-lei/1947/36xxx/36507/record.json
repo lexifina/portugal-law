@@ -17,9 +17,29 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1947/09/21600/08790887.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1947-09-17",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "af1600b0f722d40c2b9daf33970f2ea3310b5a9e63eb8cbb6118e3bdb688a357",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.4,
+    "pages": 9,
+    "columns": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      4,
+      4
+    ],
+    "pdf_sha256": "0542e459ed039ad41628ca1fede7528345e42f2fb0eeee9e1e21550451bf96e5",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 8172
 }
