@@ -1,0 +1,12 @@
+Decreto-Lei n.º 44225
+Reconhecendo-se a conveniência, enquanto não for possível reformar a sua orgânica, de adoptar no quadro permanente da Direcção-Geral de Transportes Terrestres as tendências generalizadas noutros serviços para regular nas condições de acesso aos lugares de chefia;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. O artigo 7.º do Decreto-Lei n.º 38247, de 9 de Maio de 1951, passa a ter a seguinte redacção:
+Art. 7.º Salvo casos especiais consignados no presente diploma, a admissão, o provimento definitivo e a promoção de funcionários dos quadros permanentes da Direcção-Geral de Transportes Terrestres far-se-ão de harmonia com a lei geral aplicável aos funcionários do Ministério das Comunicações.
+§ 1.º Os lugares de chefe de secção serão providos, por promoção, mediante concurso de provas práticas entre os primeiros-oficiais do quadro permanente com mais de três anos de bom e efectivo serviço.
+§ 2.º Quando o número de candidatos aprovados em concurso para lugares de chefe de secção não seja suficiente para o preenchimento das vagas existentes, ao concurso imediato poderão ser admitidos indivíduos habilitados com uma licenciatura em Direito ou em Ciências Económicas e Financeiras ou com os cursos superiores de Finanças ou de Economia, conforme for julgado mais adequado às conveniências do serviço, quer pertençam, quer não, aos serviços do Ministério.
+§ 3.º O lugar de tesoureiro será provido, mediante proposta do director-geral, em indivíduo de idade não inferior a 30 anos e do sexo masculino que reúna as condições reputadas necessárias.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 7 de Março de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
+
+Para ser presente à Assembleia Nacional.
