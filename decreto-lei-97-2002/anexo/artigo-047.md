@@ -4,8 +4,10 @@
 
 1 - O conselho tarifário compreende duas secções:
 
-a) A secção do setor elétrico, composta pelos representantes mencionados nas alíneas a) a k) e u) do n.º 1 e no n.º 2 do artigo anterior;
+a) A secção do sector eléctrico, composta pelos membros indicados nas alíneas a), b), c), g), i) e j) do n.º 1 e os mencionados no n.º 2, ambos do artigo anterior;
 
-b) A secção do setor do gás natural, composta pelos representantes mencionados nas alíneas a) a e) e l) a t) e u) do n.º 1 do artigo anterior.
+b) A secção do sector do gás natural, composta pelos membros referidos nas alíneas d), e), f, h), i) e j) do n.º 1 do artigo anterior.
 
-2 - O conselho tarifário pode reunir, em sessão plenária, para tratar de questões comuns às duas secções que o compõem.
+2 - Pode haver reuniões plenárias do conselho tarifário para tratar de questões comuns às duas secções.
+
+3 - O conselho tarifário e as suas secções são presididas pelo representante do Instituto do Consumidor.

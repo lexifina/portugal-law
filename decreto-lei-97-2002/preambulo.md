@@ -1,3 +1,7 @@
+Decreto-Lei n.º 97/2002
+
+de 12 de Abril
+
 A Directiva n.º 96/92/CE, do Parlamento Europeu e do Conselho, de 19 de Dezembro, e a Directiva n.º 98/30/CE, do Parlamento Europeu e do Conselho, de 22 de Junho, que estabeleceram, respectivamente, as regras comuns relativas aos mercados internos da electricidade e do gás natural - baseados na abertura progressiva à concorrência, sem prejuízo das obrigações de serviço público e no direito de acesso de produtores e de consumidores às redes de transporte e distribuição -, conferiram às autoridades reguladoras um papel de crucial importância na garantia das obrigações de serviço público e na implementação dos mecanismos tendentes a assegurar a igualdade de tratamento, a transparência e a não discriminação no acesso às redes e no relacionamento entre os diversos operadores, no respeito pelas regras da concorrência consagradas no Tratado da União Europeia.
 
 Na maior parte dos países, esses objectivos têm sido prosseguidos por meio da criação de entidades reguladoras sectoriais, destacadas da administração directa do Estado e dotadas de maior ou menor independência, tanto orgânica como funcional.

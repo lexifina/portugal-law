@@ -1,7 +1,5 @@
 # Artigo 22.º
 
-### Arbitragem
+### Inquéritos
 
-1 - Compete à ERSE fomentar a arbitragem para a resolução de litígios emergentes dos contratos entre as entidades intervenientes nos setores regulados e os consumidores, designadamente entre estes e os comercializadores no âmbito do fornecimento de energia, assegurando aos consumidores os meios para a sua realização.
-
-2 - A arbitragem referida no número anterior tem a natureza prevista no artigo 15.º da Lei n.º 23/96, de 23 de julho, e segue, subsidiariamente, os termos da lei da arbitragem voluntária previstos na Lei n.º 63/2011, de 14 de dezembro.
+A ERSE pode determinar, por sua iniciativa ou mediante solicitação do Ministro da Economia, a realização de sindicâncias, inquéritos ou auditorias às entidades concessionárias ou licenciadas, desde que os mesmos tenham por objecto matérias que se enquadrem no âmbito das suas competências.

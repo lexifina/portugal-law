@@ -19,5 +19,3 @@ b) O fiscal único;
 c) O conselho consultivo;
 
 d) O conselho tarifário.
-
-e) O conselho para os combustíveis.

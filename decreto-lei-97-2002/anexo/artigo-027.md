@@ -6,4 +6,4 @@
 
 ### Função
 
-O conselho de administração é o órgão colegial responsável pela definição, orientação, condução e acompanhamento das atividades da ERSE.
+O conselho de administração é o órgão colegial responsável pela definição e pelo acompanhamento da actividade reguladora da ERSE.

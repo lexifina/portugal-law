@@ -1,25 +1,15 @@
 # Artigo 29.º
 
-### Incompatibilidades e impedimentos
+### Impedimentos e incompatibilidades
 
-1 - Não pode ser designado para o conselho de administração quem seja ou tenha sido, nos últimos dois anos, membro dos órgãos sociais de administração ou gerência de sociedades comerciais ou demais pessoas coletivas intervenientes nos sectores regulados pela ERSE, quem exerça ou tenha exercido, no mesmo período, outras funções de direção nas mesmas entidades e ainda quem tenha realizado quaisquer estudos e trabalhos para as empresas dos sectores regulados, ainda que de forma independente, sobre os sectores regulados.
+1 - Não pode ser nomeado para o conselho de administração da ERSE quem seja ou tenha sido membro dos corpos gerentes das empresas dos sectores da electricidade ou do gás natural nos últimos dois anos ou seja ou tenha sido trabalhador ou colaborador permanente das mesmas com funções de direcção ou chefia no mesmo período de tempo.
 
-2 - Os membros do conselho de administração não podem, durante o seu mandato:
-
-a) Desempenhar quaisquer outras funções públicas ou privadas, ressalvadas as funções docentes ou de investigação, desde que não remuneradas, em regime de tempo parcial e mediante aprovação por deliberação do conselho de administração;
-
-b) Manter qualquer vínculo de natureza laboral, contrato de prestação de serviços ou qualquer relação contratual, direta ou indireta, tendo por objeto a prestação de uma atividade em benefício das entidades intervenientes nos sectores regulados pela ERSE, com entidades que tenham com aquelas uma relação de domínio ou de grupo, nos termos do artigo 21.º do Código dos Valores Mobiliários, ou ainda com entidades que também tenham com estas últimas relações de domínio ou de grupo, não podendo ainda deter quaisquer interesses de natureza económica ou financeira nas referidas empresas.
+2 - Os membros do conselho de administração não podem ter interesses de natureza financeira ou participações nas empresas reguladas dos sectores do gás natural e da electricidade.
 
 3 - Os membros do conselho de administração estão sujeitos às incompatibilidades e aos impedimentos dos titulares de altos cargos públicos.
 
-4 - Depois da cessação do seu mandato, os membros do conselho de administração ficam impedidos, durante um período de dois anos, de estabelecer qualquer vínculo de natureza laboral, contrato de prestação de serviços ou qualquer relação, direta ou indireta, tendo por objeto a prestação de uma atividade em benefício dos intervenientes nos setores regulados pela ERSE, com entidades que tenham com aqueles uma relação de domínio ou de grupo, nos termos do artigo 21.º do Código dos Valores Mobiliários, ou ainda com entidades que também tenham com estas últimas relações de domínio ou de grupo.
+4 - Os membros do conselho de administração exercem as suas funções em regime de exclusividade, excepto no que se refere ao exercício de funções docentes no ensino superior em tempo parcial.
 
-5 - Durante o período de impedimento previsto no número anterior, os referidos membros do conselho de administração têm o direito a receber uma compensação equivalente a metade do vencimento mensal à data de cessação de funções.
+5 - Após o termo das suas funções, os membros do conselho de administração ficam impedidos, pelo período de dois anos, de desempenhar qualquer função ou prestar qualquer serviço às empresas dos sectores regulados.
 
-6 - A compensação prevista no número anterior não é atribuída ou cessa nas seguintes situações:
-
-a) Se e enquanto o membro do conselho de administração desempenhar qualquer outra função ou atividade remunerada;
-
-b) Quando o membro do conselho de administração tenha direito a pensão de reforma ou de aposentação e opte por esta; ou
-
-c) Nos casos em que o mandato do membro do conselho de administração cesse por outro motivo que não o decurso do respetivo prazo.
+6 - Durante o período de impedimento estabelecido no número anterior, a ERSE continuará a abonar aos ex-membros do conselho de administração em dois terços da remuneração correspondente ao cargo, cessando esse abono a partir do momento em que estes sejam contratados ou nomeados para o desempenho, remunerado, de qualquer função ou serviço público ou privado.

@@ -1,23 +1,21 @@
-## Secção III
-
-## Competências de regulação e supervisão
-
 # Artigo 11.º
 
-### Poderes de regulação e de supervisão
+### Processamento de contra-ordenações e aplicação de coimas e sanções acessórias
 
-1 - A ERSE dispõe de poderes de regulação, competindo-lhe no seu exercício:
+1 - Compete à ERSE processar as contra-ordenações e aplicar as devidas coimas e sanções acessórias nas situações referidas:
 
-a) Estabelecer tarifas, no quadro dos regulamentos tarifários previstos na secção anterior, e velar pela sua aplicação;
+a) Nas alíneas e), f), l) e m) do n.º 1 do artigo 50.º do Decreto-Lei n.º 183/95, de 27 de Julho;
 
-b) Definir as regras de contabilidade analítica na ótica estrita da separação contabilística das atividades reguladas.
+b) Nas alíneas d), f), h), l) e m) do n.º 1 do artigo 50.º do Decreto-Lei n.º 184/95, de 27 de Julho;
 
-2 - A ERSE dispõe de poderes de supervisão, competindo-lhe no seu exercício:
+c) Nas alíneas a), b), c), e) e f) do n.º 1 do artigo 24.º, nos termos dos n.os 1, alínea b), e 2 do artigo 25.º do Decreto-Lei n.º 185/95, de 27 de Julho;
 
-a) Dar execução às leis e demais normas aplicáveis que regulam a organização e o funcionamento dos sectores abrangidos pela sua regulação, nas matérias que não estejam na esfera de competências de outras entidades, praticando atos vinculativos, apenas ficando sujeitos a impugnação nos termos gerais;
+d) Em qualquer outra disposição que preveja uma infracção punível com sanção administrativa e corresponda ao incumprimento das medidas determinadas pela ERSE.
 
-b) Emitir ordens, instruções e recomendações, no quadro da lei e dos regulamentos aplicáveis, bem como conceder autorizações e homologações;
+2 - Compete igualmente à ERSE propor à DGE a suspensão da licença sempre que do julgamento de um processo de contra-ordenação da sua competência entenda haver lugar para a aplicação dessa sanção.
 
-c) Assegurar a aplicação das leis e regulamentos e demais normas aplicáveis no âmbito das suas atribuições, designadamente dos regulamentos previstos na secção anterior;
+3 - Compete ainda à ERSE:
 
-d) Exigir das entidades cujas atividades estão abrangidas pela sua regulação toda a informação de que necessite para o exercício das suas atribuições e competências.
+a) Participar aos organismos competentes as infracções às normas de defesa da concorrência de que tome conhecimento no desempenho das suas funções;
+
+b) Participar às autoridades competentes outras infracções de que tome conhecimento no desempenho das suas funções.

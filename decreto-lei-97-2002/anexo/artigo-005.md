@@ -1,7 +1,5 @@
 # Artigo 5.º
 
-### Promoção e defesa da concorrência
+### Coadjuvação de outras autoridades
 
-1 - Compete à ERSE fomentar e garantir a observância das regras da concorrência nos sectores por si regulados, sem prejuízo das competências da Autoridade da Concorrência.
-
-2 - Incumbe à ERSE denunciar à Autoridade da Concorrência as práticas restritivas da concorrência de que tenha conhecimento e colaborar com aquela no correspondente procedimento sancionatório.
+A ERSE dispõe da cooperação das autoridades e serviços competentes em tudo o que for necessário ao desempenho das suas funções, designadamente da DGE e da Direcção-Geral do Comércio e da Concorrência.
