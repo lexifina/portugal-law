@@ -1,0 +1,36 @@
+Portaria n.º 24313
+Tendo a Companhia Portuguesa de Celulose, S. A. R. L., com instalações fabris em Cacia, concelho de Aveiro, instituído dois prémios, denominados «Prémio Engenheiro Vasco de Quevedo Pessanha» e «Prémio Engenheiro Eduardo Rodrigues de Carvalho», com o fim de galardoar os alunos da Escola Industrial e Comercial de Aveiro que obtenham melhor classificação nos cursos de serralheiro ou montador electricista e no curso geral de comércio:
+Manda o Governo da República Portuguesa, pelo Ministro da Educação Nacional, aprovar, nos termos do n.º 3 do artigo 459.º do Decreto n.º 37029, de 25 de Agosto de 1948, a instituição dos referidos Prémios, bem como os respectivos regulamentos, que baixam assinados pelo director-geral do Ensino Técnico Profissional.
+Ministério da Educação Nacional, 25 de Setembro de 1969. - Pelo Ministro da Educação Nacional, Justino Mendes de Almeida, Subsecretário de Estado da Administração Escolar.
+
+Regulamento do Prémio Engenheiro Vasco de Quevedo Pessanha
+Artigo 1.º O Prémio Engenheiro Vasco de Quevedo Pessanha destina-se a galardoar o aluno ou aluna com a melhor média final no curso geral de comércio.
+Art. 2.º O aluno a premiar será o de melhor média no último ano, desde que:
+a) Tenha média mínima de 14 valores;
+b) Tenha sido, nos dois últimos anos, aluno interno da Escola Industrial e Comercial de Aveiro em todas as disciplinas;
+c) Tenha obtido aprovação em todas as disciplinas do último ano em um único ano lectivo.
+Art. 3.º Se vier a ser alterada a actual orgânica do ensino técnico e houver dispensa de exames para os alunos do último ano, a média das classificações de frequência produzirá o mesmo efeito que a média dos exames, tendo até preferência sobre esta última em caso de igualdade.
+Art. 4.º Se ainda assim persistir a igualdade entre dois ou mais alunos, considerar-se-ão as seguintes condições de preferência:
+a) O que tiver maior uniformidade nas classificações das várias disciplinas;
+b) O que se tiver distinguido por assinaláveis atitudes morais ou sociais;
+c) O mais novo.
+Art. 5.º Concluídos os exames, o director da Escola Industrial e Comercial de Aveiro comunicará à Companhia Portuguesa de Celulose o nome e identificação do aluno em condições de ser premiado, após o que será enviado ao mesmo director o valor do Prémio, tudo a tempo de a respectiva entrega se fazer na própria Escola, em acto público que assinale o começo do ano lectivo seguinte ao daquele em que o aluno frequentou o último ano.
+Art. 6.º O Prémio será de 5000$00 para o ano lectivo corrente, devendo futuramente o seu valor ser estabelecido anualmente pelo conselho de administração da Companhia Portuguesa de Celulose.
+Art. 7.º Se em algum ano não houver aluno que possa ser premiado por não satisfazer às condições deste Regulamento, haverá dois prémios no ano seguinte para os dois melhores alunos, sem quebra dos princípios aqui estabelecidos.
+Direcção-Geral do Ensino Técnico Profissional, 25 de Setembro de 1969. - O Director-Geral, Carlos Proença.
+
+Regulamento do Prémio Engenheiro Eduardo Rodrigues de Carvalho
+Artigo 1.º O Prémio Engenheiro Eduardo Rodrigues de Carvalho destina-se a galardoar o aluno ou aluna com a melhor média final nos cursos industriais de serralheiro ou montador electricista.
+Art. 2.º O aluno a premiar será o de melhor média, no último ano, desde que:
+a) Tenha média mínima de 14 valores;
+b) Tenha sido, nos dois últimos anos, aluno interno da Escola Industrial e Comercial de Aveiro em todas as disciplinas;
+c) Tenha obtido aprovação em todas as disciplinas do último ano do curso em um único ano lectivo.
+Art. 3.º Se vier a ser alterada a actual orgânica do ensino técnico e houver dispensa de exames para os alunos do último ano, a média das classificações de frequência produzirá o mesmo efeito que a média dos exames, tendo até preferência sobre esta última, em caso de igualdade.
+Art. 4.º Se ainda assim persistir a igualdade entre dois ou mais alunos, considerar-se-ão as seguintes condições de preferência:
+a) O que tiver maior uniformidade nas classificações das várias disciplinas;
+b) O que se tiver distinguido por assinaláveis atitudes morais ou sociais;
+c) O mais novo.
+Art. 5.º Concluídos os exames, o director da Escola Industrial e Comercial de Aveiro comunicará à Companhia Portuguesa de Celulose o nome e identificação do aluno em condições de ser premiado, após o que será enviado ao mesmo director o valor do Prémio, tudo a tempo de a respectiva entrega se fazer na própria Escola, em acto público que assinale o começo do ano lectivo seguinte ao daquele em que o aluno frequentou o último ano.
+Art. 6.º O Prémio será de 5000$00 para o ano lectivo corrente, devendo futuramente o seu valor ser estabelecido anualmente pelo conselho de administração da Companhia Portuguesa de Celulose.
+Art. 7.º Se em algum ano não houver aluno que possa ser premiado por não satisfazer às condições deste Regulamento, haverá dois prémios no ano seguinte para os dois melhores alunos, sem quebra dos princípios aqui estabelecidos.
+Direcção-Geral do Ensino Técnico Profissional, 25 de Setembro de 1969. - O Director-Geral, Carlos Proença.
