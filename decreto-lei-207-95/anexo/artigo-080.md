@@ -24,12 +24,14 @@ d) As habilitações de herdeiros e os actos de alienação, repúdio e renúnci
 
 e) Os actos de constituição, dissolução e liquidação de sociedades comerciais, sociedades civis sob a forma comercial e sociedades civis das quais façam parte bens imóveis, bem como os actos de alteração dos respectivos contratos sociais;
 
-f) Os actos de constituição de associações e de fundações, bem como os respectivos estatutos e suas alterações;
+f) Os actos de constituição de sociedades anónimas europeias com sede em Portugal e os de alteração dos estatutos das mesmas sociedades, nos casos em que da alteração decorra a transferência da sua sede para Portugal;
 
-g) Os actos de constituição, de modificação e de distrate de hipotecas, a cessão destas ou do grau de prioridade do seu registo e a cessão ou penhor de créditos hipotecários;
+g) Os actos de constituição de associações e de fundações, bem como os respectivos estatutos e suas alterações;
 
-h) A divisão e a cessão de participações sociais em sociedades por quotas, bem como noutras sociedades titulares de direitos reais sobre coisas imóveis, com excepção das anónimas;
+h) Os actos de constituição, de modificação e de distrate de hipotecas, a cessão destas ou do grau de prioridade do seu registo e a cessão ou penhor de créditos hipotecários;
 
-i) O contrato-promessa de alienação ou oneração de coisas imóveis ou móveis sujeitas a registo e o pacto de preferência respeitante a bens da mesma espécie, quando as partes lhes queiram atribuir eficácia real;
+i) A divisão e a cessão de participações sociais em sociedades por quotas, bem como noutras sociedades titulares de direitos reais sobre coisas imóveis, com excepção das anónimas;
 
-j) As divisões de coisa comum e as partilhas de patrimónios hereditários, societários ou outros patrimónios comuns de que façam parte coisas imóveis.
+j) O contrato-promessa de alienação ou oneração de coisas imóveis ou móveis sujeitas a registo e o pacto de preferência respeitante a bens da mesma espécie, quando as partes lhes queiram atribuir eficácia real;
+
+l) As divisões de coisa comum e as partilhas de patrimónios hereditários, societários ou outros patrimónios comuns de que façam parte coisas imóveis.
