@@ -1,0 +1,39 @@
+# Informação-Parecer do Conselho Consultivo da Procuradoria-Geral da República n.º 179/1982, de 1983-04-26
+
+**Fonte:** https://www.ministeriopublico.pt/pareceres-pgr/7211
+
+**Número do Parecer:** 179/1982, de 26.04.1983
+
+**Data de Assinatura:** 26-04-1983
+
+**Tipo de Parecer:** Informação-Parecer
+
+**Iniciativa:** Governo
+
+**Entidade:** Ministério da Justiça
+
+**Relator:** VITOR DO CARMO
+
+## Descritores
+
+LIBERDADE DE EXPRESSÃO
+PUBLICIDADE COMERCIAL
+SAUDE PUBLICA
+TELEVISÃO POR CABO
+TELEVISÃO POR SATELITE
+PUBLICIDADE CLANDESTINA
+PROTECÇÃO DO CONSUMIDOR
+###
+
+## Legislação
+
+CONST76 ART109.
+CONST76 (LC 1/82) ART110 N1 N2.
+L 29/81 DE 1981/08/22 ART5 N1 ART9 ART10.
+DL 421/80 DE 1980/09/30 ART5 ART6 ART7 ART11 N2 ART22 ART23 ART33 ART34 ART35 ART36 ART38 ART39 ART40.
+DRGI 18/81/M DE 1981/09/30.
+
+## Referências Complementares
+
+DIR CONST * DIR FUND / DIR COM / DIR ECON * DIR CONC.*****
+REC RELATIVA AS MEDIDAS A TOMAR A NIVEL INTERNACIONAL PARA PROTEGER A LIBERDADE DE EXPRESSÃO ATRAVES DE UMA REGULAMENTAÇÃO DA PUBLICIDADE COMERCIAL REC 952(1982) AP CE
