@@ -1,0 +1,5 @@
+Declaração de rectificação n.º 142/94
+Segundo comunicação do Ministério da Agricultura, a Portaria n.º 640-D/94, publicada no Diário da República, 1.ª série, n.º 162 (2.º suplemento), de 15 de Julho de 1994, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No preâmbulo, onde se lê «Com este diploma pretende-se assim definir as regras gerais de funcionamento das zonas de caça nacionais da Contenda e da Quinta do Canal,» deve ler-se «Com este diploma pretende-se assim definir as regras gerais de funcionamento das zonas de caça nacionais administradas pelo Instituto Florestal,».
+No n.º 1, onde se lê «1 - Nas zonas de caça nacionais da Contenda e da Quinta do Canal (ZCN) o exercício» deve ler-se «1 - Nas zonas de caça nacionais administradas pelo Instituto Florestal o exercício».
+Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Agosto de 1994. - Pelo Secretário-Geral, a Directora dos Serviços de Documentação e Relações Públicas, Maria Guiomar Cruz.
