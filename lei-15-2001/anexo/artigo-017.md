@@ -18,4 +18,4 @@ f) A publicação da sentença condenatória é efectuada mediante inserção em
 
 g) A pena de dissolução de pessoa colectiva só é aplicável se esta tiver sido exclusiva ou predominantemente constituída para a prática de crimes tributários ou quando a prática reiterada de tais crimes mostre que a pessoa colectiva está a ser utilizada para esse efeito, quer pelos seus membros, quer por quem exerça a respectiva administração.
 
-2 - As penas previstas nas alíneas a) a f) do artigo anterior não podem ter duração superior a três anos contados do trânsito em julgado da decisão condenatória.
+2 - As penas previstas nas alíneas a), b), d), e) e f) e a inibição de obtenção de benefícios fiscais, franquias aduaneiras e benefícios concedidos pela administração da segurança social, prevista na alínea c), todas do artigo anterior, não podem ter duração superior a três anos, contados do trânsito em julgado da decisão condenatória.
