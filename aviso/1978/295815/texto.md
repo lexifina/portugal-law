@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, em 17 de Janeiro de 1978, o Governo da Irlanda depositou junto do secretário-geral das Nações Unidas o instrumento de objecção às reservas formuladas pelo Governo da República Popular da China, ao aderir à Convenção sobre Relações Diplomáticas em Viena em 18 de Abril de 1961, relativas à precedência do representante da Santa Sé (artigo 16) e à aceitação das categorias de núncios e internúncios (artigo 14), bem como aos privilégios do pessoal administrativo das missões diplomáticas (n.os 2, 3 e 4 do artigo 37).
+Secretaria-Geral do Ministério, 14 de Abril de 1978. - O Chefe dos Serviços Jurídicos e de Tratados, Mário Soares d'Oliveira Neves.
