@@ -1,6 +1,6 @@
 # Artigo 59.º
 
-### Liberdade de reunião
+### (Liberdade de reunião)
 
 A liberdade de reunião para fins eleitorais e no período da campanha eleitoral rege-se pelo disposto na lei geral sobre direito de reunião, com as seguintes especialidades:
 
@@ -17,3 +17,5 @@ e) A utilização dos lugares públicos a que se refere o artigo 9.º do Decreto
 f) A presença de agentes de autoridade em reuniões organizadas por qualquer partido político apenas pode ser solicitada pelo órgão competente do partido que as organizar, ficando esse órgão responsável pela manutenção da ordem quando não faça tal solicitação;
 
 g) O limite a que alude o artigo 11.º do Decreto-Lei n.º 406/74, de 29 de Agosto, é alargado até às 2 horas da madrugada durante a campanha eleitoral.
+
+h) O recurso previsto no n.º 1 do artigo 14.º do Decreto-Lei n.º 406/74, de 29 de Agosto, é interposto no prazo de quarenta e oito horas para o Tribunal Constitucional.

@@ -2,12 +2,20 @@
 
 ### Inelegibilidades gerais
 
-1 - São inelegíveis para a Assembleia da República:
+São inelegíveis para a Assembleia da República:
 
-a) Os magistrados judiciais ou do Ministério Público em efectividade de serviço;
+a) O Presidente da República;
 
-b) Os militares e os elementos das forças militarizadas pertencentes aos quadros permanentes, enquanto prestarem serviço activo;
+b) Os governadores civis e vice-governadores em exercício de funções;
 
-c) Os diplomatas de carreira em efectividade de serviço.
+c) Os magistrados judiciais ou do Ministério Público em efectividade de serviço;
 
-2 - São ainda inelegíveis os abrangidos pelo artigo 308.º da Constituição, nos termos e pelo período aí previstos.
+d) Os juízes em exercício de funções não abrangidos pela alínea anterior;
+
+e) Os militares e os elementos das forças militarizadas pertencentes aos quadros permanentes, enquanto prestarem serviço activo;
+
+f) Os diplomatas de carreira em efectividade de serviço;
+
+g) Aqueles que exerçam funções diplomáticas à data da apresentação das candidaturas, desde que não incluídos na alínea anterior;
+
+h) Os membros da Comissão Nacional de Eleições.

@@ -4,7 +4,7 @@
 
 1 - Os boletins de voto são de forma rectangular, com ao dimensões apropriadas para neles caber a indicação de todas as listas submetidas à votação em cada círculo e são impressos em papel branco, liso e não transparente.
 
-2 - Em cada boletim de voto são impressos, de harmonia com o modelo anexo a esta lei, as denominações, as siglas e os símbolos dos partidos e coligações proponentes de candidaturas, dispostos horizontalmente, uns abaixo dos outros, pela ordem resultante do sorteio efectuado nos termos do artigo 31.º, os quais devem reproduzir os constantes do registo do Supremo Tribunal de Justiça ou da anotação da Comissão Nacional de Eleições, conforme os casos, devendo os símbolos respeitar rigorosamente a composição, a configuração e as proporções dos registados ou anotados.
+2 - Em cada boletim de voto são impressos, de harmonia com o modelo anexo a esta lei, as denominações, as siglas e os símbolos dos partidos e coligações proponentes de candidaturas, dispostos horizontalmente, uns abaixo dos outros, pela ordem resultante do sorteio efectuado nos termos do artigo 31.º, os quais devem reproduzir os constantes do registo ou da anotação do Tribunal Constitucional, conforme os casos, devendo os símbolos respeitar rigorosamente a composição, a configuração e as proporções dos registados ou anotados.
 
 3 - Na linha correspondente a cada partido ou coligação figura um quadrado em branco, destinado a ser assinalado com a escolha do eleitor.
 

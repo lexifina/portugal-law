@@ -14,7 +14,7 @@ c) As deliberações tomadas pela mesa durante as operações;
 
 d) O número total de eleitores inscritos e o de votantes;
 
-e) Os números de inscrição no recenseamento dos eleitores que não votaram e dos que votaram por correspondência;
+e) O número de inscrição no recenseamento dos eleitores que votaram antecipadamente;
 
 f) O número e o nome dos eleitores cujo duplicado do recibo de voto por correspondência referido no n.º 11 do artigo 79.º tenha sido recebido sem que à mesa tenha chegado o correspondente boletim de voto, ou vice-versa;
 

@@ -1,47 +1,21 @@
 # Artigo 79.º-C
 
-### Modo de exercício do direito de voto antecipado em mobilidade em território nacional
+### Modo de exercício por doentes internados e por presos
 
-1 - Os eleitores referidos no artigo 79.º-A exercem o seu direito de sufrágio numa mesa de voto em mobilidade constituída para o efeito nos termos do artigo 40.º-B.
+1 - Qualquer eleitor que esteja nas condições previstas nas alíneas d) e e) do n.º 1 do artigo 79.º-A pode requerer ao presidente da câmara do município em que se encontre recenseado, até ao 20.º dia anterior ao da eleição, a documentação necessária ao exercício do direito de voto, enviando fotocópias autenticadas do seu bilhete de identidade e do seu cartão de eleitor e juntando documento comprovativo do impedimento invocado, passado pelo médico assistente e confirmado pela direcção do estabelecimento hospitalar, ou documento emitido pelo director do estabelecimento prisional, conforme os casos.
 
-2 - Os eleitores que pretendam votar antecipadamente em mobilidade devem manifestar essa intenção, por via postal ou por meio eletrónico disponibilizado para esse efeito pela administração eleitoral da Secretaria-Geral do Ministério da Administração Interna, entre o décimo quarto e o décimo dias anteriores ao da eleição.
+2 - O presidente da câmara envia, por correio registado com aviso de recepção, até ao 17.º dia anterior ao da eleição:
 
-3 - Da manifestação de intenção de votar antecipadamente deve constar a seguinte informação:
+a) Ao eleitor, a documentação necessária ao exercício do direito de voto, acompanhada dos documentos enviados pelo eleitor;
 
-a) Nome completo do eleitor;
+b) Ao presidente da câmara do município onde se encontrem eleitores nas condições definidas no n.º 1, a relação nominal dos referidos eleitores e a indicação dos estabelecimentos hospitalares ou prisionais abrangidos.
 
-b) Data de nascimento;
+3 - O presidente da câmara do município onde se situe o estabelecimento hospitalar ou prisional em que o eleitor se encontre internado notifica, até ao 16.º dia anterior ao da eleição, as listas concorrentes à eleição para cumprimento dos fins previstos no n.º 3 do artigo 79.º-A, dando conhecimento de quais os estabelecimentos onde se realiza o voto antecipado.
 
-c) Número de identificação civil;
+4 - A nomeação de delegados das listas deve ser transmitida ao presidente da câmara até ao 14.º dia anterior ao da eleição.
 
-d) Morada;
+5 - Entre o 10.º e o 13.º dias anteriores ao da eleição, o presidente da câmara municipal em cuja área se encontre situado o estabelecimento hospitalar ou prisional com eleitores nas condições do n.º 1, em dia e hora previamente anunciados ao respectivo director e aos delegados das listas, desloca-se ao mesmo estabelecimento, a fim de ser dado cumprimento, com as necessárias adaptações, ditadas pelos constrangimentos dos regimes hospitalares ou prisionais, ao disposto nos n.os 3, 4, 5, 6, 7, 8 e 9 do artigo anterior.
 
-e) Município onde pretende exercer o direito de voto antecipado em mobilidade;
+6 - O presidente da câmara pode excepcionalmente fazer-se substituir, para o efeito da diligência prevista no número anterior, por qualquer vereador do município devidamente credenciado.
 
-f) Contacto telefónico e, sempre que possível, endereço de correio eletrónico.
-
-4 - Caso seja detetada alguma desconformidade nos dados fornecidos, o eleitor será contactado pela administração eleitoral da Secretaria-Geral do Ministério da Administração Interna, no prazo de 24 horas, por meio eletrónico ou via postal, com vista ao seu esclarecimento.
-
-5 - A administração eleitoral da Secretaria-Geral do Ministério da Administração Interna comunica aos presidentes das câmaras municipais a relação nominal dos eleitores que optaram por essa modalidade de votação na sua área de circunscrição.
-
-6 - A administração eleitoral da Secretaria-Geral do Ministério da Administração Interna, através das forças de segurança, providencia pelo envio dos boletins de voto aos presidentes da câmara dos municípios indicados pelos eleitores nos termos do n.º 3.
-
-7 - Para exercer o direito de voto, o eleitor dirige-se à mesa de voto por si escolhida no sétimo dia anterior ao da eleição e identifica-se mediante apresentação do seu documento de identificação civil, indicando a sua freguesia de inscrição no recenseamento.
-
-8 - O presidente da mesa entrega ao eleitor o boletim de voto correspondente ao seu círculo eleitoral e dois sobrescritos, um de cor branca e outro de cor azul.
-
-9 - O sobrescrito de cor branca destina-se a receber o boletim de voto e o de cor azul a conter o sobrescrito anterior, devendo conter espaços destinados ao preenchimento do nome, número do documento de identificação civil, concelho, freguesia e posto de inscrição no recenseamento eleitoral.
-
-10 - O eleitor preenche o boletim em condições que garantam o segredo de voto, dobra-o em quatro, introduzindo-o no sobrescrito de cor branca, que fecha adequadamente.
-
-11 - Em seguida, o sobrescrito de cor branca é introduzido no sobrescrito de cor azul, que é então fechado, preenchido de forma legível e selado com uma vinheta de segurança, em modelo aprovado por despacho do Secretário-Geral do Ministério da Administração Interna.
-
-12 - O presidente da mesa entrega ao eleitor o duplicado da vinheta aposta no sobrescrito de cor azul, o qual serve de comprovativo do exercício do direito de voto.
-
-13 - Terminadas as operações de votação, a mesa elabora uma ata das operações efetuadas, dela reproduzindo tantos exemplares quantos necessários, destinada aos presidentes das assembleias de apuramento geral, remetendo-as para esse feito aos presidentes das câmaras municipais.
-
-14 - Da ata referida no número anterior consta, obrigatoriamente, o número de eleitores que aí exerceram o direito de voto antecipado, nela se mencionando expressamente o nome do eleitor, o número do documento de identificação civil e a freguesia onde se encontra recenseado, anexando a relação nominal dos eleitores inscritos para votar naquela mesa, bem como quaisquer ocorrências que dela devam constar nos termos gerais.
-
-15 - No dia seguinte ao do voto antecipado, as forças de segurança procedem à recolha do material eleitoral das mesas de voto em mobilidade, em todo o território nacional, para entrega aos presidentes das câmaras municipais, que providenciam pela sua remessa às juntas de freguesia onde os eleitores se encontram inscritos.
-
-16 - A junta de freguesia destinatária dos votos recebidos remete-os ao presidente da mesa da assembleia de voto até ao dia e hora previstos no artigo 41.º
+7 - A junta de freguesia destinatária dos votos recebidos remete-os ao presidente da mesa da assembleia de voto até à hora prevista no artigo 41.º
