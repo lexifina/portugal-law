@@ -1,0 +1,933 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "55",
+    "id": "19620",
+    "titulo": "Altera o n.º 22 do artigo 11.º e o artigo 33.º do Código da Sisa e do Imposto sobre as sucessões e doações, aprovado pelo Decreto-Lei n.º 41969, de 24 de Novembro de 1958."
+  },
+  "fase": "Votação final global",
+  "codigo_fase": "320",
+  "data_registo": "2003-05-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2558",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "320",
+    "Comissao": null,
+    "DataFase": "2003-05-08",
+    "EvtId": "18",
+    "Fase": "Votação final global",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2003-05-08",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145227",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4988-4988"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-09",
+                "pubLeg": "IX",
+                "pubNr": "118",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/118/2003-05-09/4988?pgs=4988&org=PLC"
+              }
+            ],
+            "sumario": "Altera o n.º 22 do artigo 11.º e o artigo 33.º do Código da Sisa e do Imposto sobre as sucessões e doações, aprovado pelo Decreto-Lei n.º 41969, de 24 de Novembro de 1958.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1987",
+                "nome": "Eduardo Cabrita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145228",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4988-4989"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-09",
+                "pubLeg": "IX",
+                "pubNr": "118",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/118/2003-05-09/4988?pgs=4988-4989&org=PLC"
+              }
+            ],
+            "sumario": "Altera o n.º 22 do artigo 11.º e o artigo 33.º do Código da Sisa e do Imposto sobre as sucessões e doações, aprovado pelo Decreto-Lei n.º 41969, de 24 de Novembro de 1958.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1537",
+                "nome": "Hugo Velosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145229",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4989-4989"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-09",
+                "pubLeg": "IX",
+                "pubNr": "118",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/118/2003-05-09/4989?pgs=4989&org=PLC"
+              }
+            ],
+            "sumario": "Altera o n.º 22 do artigo 11.º e o artigo 33.º do Código da Sisa e do Imposto sobre as sucessões e doações, aprovado pelo Decreto-Lei n.º 41969, de 24 de Novembro de 1958.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145230",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4989-4990"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-09",
+                "pubLeg": "IX",
+                "pubNr": "118",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/118/2003-05-09/4989?pgs=4989-4990&org=PLC"
+              }
+            ],
+            "sumario": "Altera o n.º 22 do artigo 11.º e o artigo 33.º do Código da Sisa e do Imposto sobre as sucessões e doações, aprovado pelo Decreto-Lei n.º 41969, de 24 de Novembro de 1958.",
+            "teor": null
+          }
+        ]
+      },
+      {
+        "dataReuniaoPlenaria": "2003-05-09",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1999",
+                "nome": "Jorge Nuno Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145301",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5039-5039"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-10",
+                "pubLeg": "IX",
+                "pubNr": "119",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/119/2003-05-10/5039?pgs=5039&org=PLC"
+              }
+            ],
+            "sumario": "Altera o n.º 22 do artigo 11.º e o artigo 33.º do Código da Sisa e do Imposto sobre as sucessões e doações, aprovado pelo Decreto-Lei n.º 41969, de 24 de Novembro de 1958.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1916",
+                "nome": "Daniel Rebelo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145302",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5039-5039"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-10",
+                "pubLeg": "IX",
+                "pubNr": "119",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/119/2003-05-10/5039?pgs=5039&org=PLC"
+              }
+            ],
+            "sumario": "Altera o n.º 22 do artigo 11.º e o artigo 33.º do Código da Sisa e do Imposto sobre as sucessões e doações, aprovado pelo Decreto-Lei n.º 41969, de 24 de Novembro de 1958.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2035",
+                "nome": "Fernando Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145303",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5039-5039"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-10",
+                "pubLeg": "IX",
+                "pubNr": "119",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/119/2003-05-10/5039?pgs=5039&org=PLC"
+              }
+            ],
+            "sumario": "Altera o n.º 22 do artigo 11.º e o artigo 33.º do Código da Sisa e do Imposto sobre as sucessões e doações, aprovado pelo Decreto-Lei n.º 41969, de 24 de Novembro de 1958.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1693",
+                "nome": "Ricardo Fonseca de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145304",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5039-5039"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-10",
+                "pubLeg": "IX",
+                "pubNr": "119",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/119/2003-05-10/5039?pgs=5039&org=PLC"
+              }
+            ],
+            "sumario": "Altera o n.º 22 do artigo 11.º e o artigo 33.º do Código da Sisa e do Imposto sobre as sucessões e doações, aprovado pelo Decreto-Lei n.º 41969, de 24 de Novembro de 1958.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1898",
+                "nome": "Miguel Coleta"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145305",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5039-5039"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-10",
+                "pubLeg": "IX",
+                "pubNr": "119",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/119/2003-05-10/5039?pgs=5039&org=PLC"
+              }
+            ],
+            "sumario": "Altera o n.º 22 do artigo 11.º e o artigo 33.º do Código da Sisa e do Imposto sobre as sucessões e doações, aprovado pelo Decreto-Lei n.º 41969, de 24 de Novembro de 1958.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1945",
+                "nome": "Carlos Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145306",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5039-5039"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-10",
+                "pubLeg": "IX",
+                "pubNr": "119",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/119/2003-05-10/5039?pgs=5039&org=PLC"
+              }
+            ],
+            "sumario": "Altera o n.º 22 do artigo 11.º e o artigo 33.º do Código da Sisa e do Imposto sobre as sucessões e doações, aprovado pelo Decreto-Lei n.º 41969, de 24 de Novembro de 1958.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1478",
+                "nome": "Gonçalo Capitão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145307",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5039-5039"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-10",
+                "pubLeg": "IX",
+                "pubNr": "119",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/119/2003-05-10/5039?pgs=5039&org=PLC"
+              }
+            ],
+            "sumario": "Altera o n.º 22 do artigo 11.º e o artigo 33.º do Código da Sisa e do Imposto sobre as sucessões e doações, aprovado pelo Decreto-Lei n.º 41969, de 24 de Novembro de 1958.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1559",
+                "nome": "Gonçalo Breda Marques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145308",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5039-5039"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-10",
+                "pubLeg": "IX",
+                "pubNr": "119",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/119/2003-05-10/5039?pgs=5039&org=PLC"
+              }
+            ],
+            "sumario": "Altera o n.º 22 do artigo 11.º e o artigo 33.º do Código da Sisa e do Imposto sobre as sucessões e doações, aprovado pelo Decreto-Lei n.º 41969, de 24 de Novembro de 1958.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1931",
+                "nome": "Rodrigo Ribeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145309",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5039-5039"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-10",
+                "pubLeg": "IX",
+                "pubNr": "119",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/119/2003-05-10/5039?pgs=5039&org=PLC"
+              }
+            ],
+            "sumario": "Altera o n.º 22 do artigo 11.º e o artigo 33.º do Código da Sisa e do Imposto sobre as sucessões e doações, aprovado pelo Decreto-Lei n.º 41969, de 24 de Novembro de 1958.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1686",
+                "nome": "Pedro Duarte"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145310",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5039-5039"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-10",
+                "pubLeg": "IX",
+                "pubNr": "119",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/119/2003-05-10/5039?pgs=5039&org=PLC"
+              }
+            ],
+            "sumario": "Altera o n.º 22 do artigo 11.º e o artigo 33.º do Código da Sisa e do Imposto sobre as sucessões e doações, aprovado pelo Decreto-Lei n.º 41969, de 24 de Novembro de 1958.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1874",
+                "nome": "Jorge Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145311",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5039-5039"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-10",
+                "pubLeg": "IX",
+                "pubNr": "119",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/119/2003-05-10/5039?pgs=5039&org=PLC"
+              }
+            ],
+            "sumario": "Altera o n.º 22 do artigo 11.º e o artigo 33.º do Código da Sisa e do Imposto sobre as sucessões e doações, aprovado pelo Decreto-Lei n.º 41969, de 24 de Novembro de 1958.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1840",
+                "nome": "Miguel Miranda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145312",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5039-5039"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-10",
+                "pubLeg": "IX",
+                "pubNr": "119",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/119/2003-05-10/5039?pgs=5039&org=PLC"
+              }
+            ],
+            "sumario": "Altera o n.º 22 do artigo 11.º e o artigo 33.º do Código da Sisa e do Imposto sobre as sucessões e doações, aprovado pelo Decreto-Lei n.º 41969, de 24 de Novembro de 1958.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1738",
+                "nome": "Pedro Alves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:05",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145314",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5039-5039"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-10",
+                "pubLeg": "IX",
+                "pubNr": "119",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/119/2003-05-10/5039?pgs=5039&org=PLC"
+              }
+            ],
+            "sumario": "Altera o n.º 22 do artigo 11.º e o artigo 33.º do Código da Sisa e do Imposto sobre as sucessões e doações, aprovado pelo Decreto-Lei n.º 41969, de 24 de Novembro de 1958.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "156349",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2558",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-05-09",
+        "pubLeg": "IX",
+        "pubNr": "118",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/118/2003-05-09?org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2559",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-05-10",
+        "pubLeg": "IX",
+        "pubNr": "119",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/119/2003-05-10?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2003-05-08",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30171",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "116",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
