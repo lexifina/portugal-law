@@ -1,0 +1,26 @@
+Portaria n.º 735/84
+de 20 de Setembro
+O transporte, por via marítima, de gás liquefeito e as respectivas operações de carga e descarga acarretam riscos acrescidos para a vida humana no mar e para o meio marinho, exigindo das tripulações, nomeadamente dos oficiais, uma responsabilidade e formação especiais.
+Não obstante Portugal não ter ainda ratificado a Convenção STW 78, tem-se por conveniente implementar, desde já, algumas das medidas nela preconizadas e reforçadas pela Resolução n.º 12 adoptada pela Conferência STW sobre a mesma matéria.
+Considerando, por consequência, a necessidade urgente de se criar um curso que ministre, neste domínio, a formação e a qualificação adequadas, estruturado na linha de orientação programada pela legislação internacional referida e complementando, sobre a matéria, a instrução obtida nas escolas da marinha de comércio, tendo ainda em conta a experiência adquirida a bordo pelos tripulantes;
+Nestes termos, ao abrigo do disposto no artigo 46.º do Decreto n.º 348/72, de 5 de Setembro, com a redacção dada pela Portaria n.º 749/75, de 16 de Dezembro, conjugado com o disposto nas alíneas a) e c) do artigo 3.º do Decreto Regulamentar n.º 50/83, de 18 de Junho:
+Manda o Governo da República Portuguesa, pelo Ministro do Mar, o seguinte:
+1.º É criado o curso de especialização em navios de gás liquefeito, no âmbito dos cursos de aperfeiçoamento previstos na alínea c) do n.º 1 do artigo 43.º do Decreto n.º 348/72, de 5 de Setembro, com a redacção dada pela Portaria n.º 749/75, de 16 de Dezembro.
+2.º O curso a que se refere o número anterior destina-se a comandantes, oficiais de convés e de máquinas, bem como a marítimos da mestrança e marinhagem envolvidos em operações de carga e descarga a bordo de navios de gás liquefeito, e visa habilitá-los com os conhecimentos específicos necessários ao exercício das respectivas funções e sua responsabilização a bordo daqueles navios.
+3.º Poderá também ser permitida a frequência do curso a funcionários da Administração Pública ou a indivíduos por esta credenciados que exerçam a bordo do mesmo tipo de navios funções de inspecção relacionadas com a segurança.
+4.º O curso será ministrado pela Escola Náutica Infante D. Henrique, que utilizará monitores devidamente habilitados ou com reconhecida competência para o efeito, mediante aprovação prévia da estrutura e programação do curso pelo director-geral do Pessoal do Mar e Estudos Náuticos.
+5.º Excepcionalmente poderão também ser reconhecidos cursos ministrados por outras entidades, observada a parte final do número anterior.
+6.º As inscrições serão feitas mediante requerimento dirigido ao director da Escola Náutica Infante D. Henrique, acompanhado de declaração comprovativa de que os candidatos exercem ou se destinam a exercer funções a bordo dos navios em causa.
+7.º A avaliação de conhecimentos será feita através de exame final e a classificação expressa em Apto e Não apto.
+8.º A Escola Náutica Infante D. Henrique emitirá um certificado de frequência e aproveitamento do curso.
+9.º Mediante a apresentação do certificado referido no número anterior será emitido pela Direcção-Geral do Pessoal do Mar e Estudos Náuticos o certificado de qualificação, cujo modelo é o constante do anexo I ao presente diploma.
+10.º A todos os indivíduos que tenham frequentado com aproveitamento, antes da publicação deste diploma, um curso de especialização em navios de gás liquefeito, cujos currículos e programas sejam considerados idênticos ou equivalentes aos estabelecidos neste diploma, ser-lhes-á emitido o certificado a que se refere o número anterior, desde que o requeiram à Direcção-Geral do Pessoal do Mar e Estudos Náuticos.
+11.º Aos inscritos marítimos portadores de um certificado congénere emitido por entidade oficial estrangeira poderá, mediante requerimento dirigido ao director-geral do Pessoal do Mar e Estudos Náuticos, ser passado o certificado a que se refere o n.º 9.º, com base em regime de equivalência.
+12.º Em matérias não contempladas no presente diploma o curso será objecto de regulamentação por despacho do director-geral do Pessoal do Mar e Estudos Náuticos.
+Ministério do Mar.
+Assinada em 22 de Agosto de 1984.
+Pelo Ministro do Mar, José de Almeida Serra, Secretário de Estado da Marinha Mercante.
+
+ANEXO I
+Modelo do certificado de qualificação a que se refere o n.º 9.º
+(ver documento original)
