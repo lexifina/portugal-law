@@ -1,0 +1,6 @@
+Aviso n.º 212/94
+Por ordem superior se torna público que o Secretariado Permanente da Conferência da Haia de Direito Internacional Privado comunicou haver a República das Honduras depositado, em 20 de Dezembro de 1993, junto do Ministério dos Negócios Estrangeiros do Reino dos Países Baixos, o seu instrumento de adesão à Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, concluída na Haia em 25 de Outubro de 1980.
+Nos termos do parágrafo terceiro do artigo 38.º, a referida Convenção entrou em vigor para a República das Honduras em 1 de Março de 1994.
+De harmonia com o disposto no parágrafo quarto do mesmo preceito, tal adesão apenas terá eficácia nas relações entre a República das Honduras e os Estados Contratantes que tiverem decarado aceitá-la.
+Portugal é Parte nesta Convenção, que foi aprovada para ratificação pelo Decreto do Governo n.º 33/83, de 11 de Maio (publicado no Diário da República, 1.ª série, n.º 108, da mesma data), tendo depositado o seu instrumento de ratificação em 29 de Setembro de 1983, conforme aviso publicado no Diário da República, 1.ª série, n.º 126, de 31 de Maio de 1984. A Convenção vigora para Portugal desde 1 de Dezembro de 1983.
+Departamento de Assuntos Jurídicos, 25 de Julho de 1994. - O Director, José Maria Teixeira Leite Martins.
