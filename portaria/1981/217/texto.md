@@ -1,0 +1,14 @@
+Portaria n.º 217/81
+de 26 de Fevereiro
+Considerando que, ao abrigo da Lei n.º 44/80, de 20 de Agosto, o Estado Português, na qualidade de mutuário, celebrou com o Banco Internacional de Reconstrução e Desenvolvimento (BIRD) um empréstimo, em várias moedas, até ao equivalente a 50 milhões de dólares, destinado a financiar um projecto florestal;
+Considerando que, nos termos do referido acordo, uma parte do projecto será executada pela Direcção-Geral do Fomento Florestal ao longo dos anos de 1981, 1982, 1983, 1984 e 1985;
+Tendo em vista as disposições do artigo 10.º do Decreto-Lei n.º 211/79, de 12 de Julho:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e da Agricultura e Pescas, o seguinte:
+1.º É autorizada a Direcção-Geral de Fomento Florestal a inscrever no seu orçamento os seguintes montantes, destinados ao PIDDAC e relativos à execução do projecto de florestação a executar no âmbito do acordo celebrado entre o Estado e o BIRD:
+1981 - 994702 contos;
+1982 - 752782 contos;
+1983 - 954552 contos;
+1984 - 1055224 contos;
+1985 - 1066485 contos.
+2.º As importâncias fixadas para os anos de 1982 a 1985, inclusive, serão acrescidas dos saldos que se apurarem nos anos anteriores.
+Ministérios das Finanças e do Plano e da Agricultura e Pescas, 9 de Fevereiro de 1981. - O Ministro das Finanças e do Plano, João António Morais Leitão. - O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha.
