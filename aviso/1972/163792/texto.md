@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que no dia 21 de Dezembro de 1972 o embaixador português junto das Comunidades Europeias procedeu à entrega ao Conselho das mesmas Comunidades do instrumento de ratificação do Acordo entre a República Portuguesa e a Comunidade Económica Europeia, assinado em Bruxelas em 22 de Julho de 1972 e aprovado por resolução da Assembleia Nacional de 14 de Dezembro de 1972, publicada no suplemento ao Diário do Governo, n.º 290, de 15 de Dezembro de 1972.
+Na mesma data, o Conselho das Comunidades notificou o Governo Português de que foram cumpridas pela Comunidade Económica Europeia as formalidades necessárias para a entrada em vigor do referido Acordo.
+Nestes termos, o Acordo entre a República Portuguesa e a Comunidade Económica Europeia entrará em vigor no dia 1 de Janeiro de 1973, nos termos do seu artigo 33.º
+Direcção-Geral dos Negócios Económicos, 26 de Dezembro de 1972. - O Adjunto do Director-Geral, Luiz Alberto de Vasconcelos Góis Fernandes Figueira.
