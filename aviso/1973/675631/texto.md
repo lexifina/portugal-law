@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação do Departamento Político Federal da Suíça, o Governo da Argélia notificou, em 5 de Janeiro de 1973, aquele Departamento de que o instrumento de ratificação depositado, em 22 de Junho de 1972, das Convenções Internacionais Relativas ao Transporte de Mercadorias por Caminho de Ferro (CIM) e de Passageiros e Bagagens (CIV), concluídas em Berna em 7 de Fevereiro de 1970, abrange igualmente o Protocolo Adicional às mesmas Convenções, assinado naquela data.
+Direcção-Geral dos Negócios Económicos, 23 de Março de 1973. - O Adjunto do Director-Geral, José Joaquim de Mena e Mendonça.
