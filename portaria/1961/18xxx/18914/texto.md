@@ -1,0 +1,3 @@
+Portaria n.º 18914
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, abrir um crédito especial de 40000$00 destinado a reforçar a verba do artigo 6.º, n.º 3) «Despesas com o material - Material de consumo corrente - Combustível, lubrificantes e sobresselentes», da tabela de despesa do orçamento privativo da Agência-Geral do Ultramar para o corrente ano, tomando como contrapartida igual importância do saldo dos anos económicos findos do mesmo orçamento.
+Ministério do Ultramar, 27 de Dezembro de 1961. - Pelo Ministro do Ultramar, João da Costa Freitas, Subsecretário de Estado da Administração Ultramarina.
