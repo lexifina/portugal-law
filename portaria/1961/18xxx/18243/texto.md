@@ -1,0 +1,4 @@
+Portaria n.º 18243
+Considerando que a criação de um estágio no fim da instrução técnica elementar dos segundos-grumetes destinados à classe dos radiotelegrafistas recomenda reduzir o tempo de embarque que constitui uma das condições especiais da promoção a primeiro-grumete da mesma classe:
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, que, ao abrigo do disposto no artigo 239.º do Regulamento do Corpo de Marinheiros da Armada, aprovado pelo Decreto n.º 30261, de 9 de Janeiro de 1940, seja reduzido de seis para quatro meses o tempo de embarque exigido para a promoção a primeiro-grumete radiotelegrafista, que figura no quadro a que se refere o artigo 120.º do mesmo regulamento, já rectificado pelo disposto no artigo 2.º do Decreto n.º 39574, de 24 de Março de 1954.
+Ministério da Marinha, 31 de Janeiro de 1961. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.
