@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação do Secretário-Geral das Nações Unidas, o Governo de Papua-Nova Guiné depositou, em 12 de Fevereiro de 1981, os instrumentos de adesão, com reservas, à Convenção Relativa à Lei do Selo em Matéria de Letras de Câmbio e Promissórias, concluída em Genebra em 7 de Junho de 1930, e à Convenção Relativa à Lei do Selo em Matéria de Cheques, concluída em Genebra em 19 de Março de 1931, e respectivos Protocolos, de que Portugal já é parte. Aquelas Convenções e respectivos Protocolos entraram em vigor, com referência a Papua-Nova Guiné, em 13 de Maio de 1981.
+Secretaria-Geral do Ministério, 29 de Maio de 1981. - O Director-Geral dos Serviços Jurídicos e de Tratados, Carlos Augusto Fernandes.
