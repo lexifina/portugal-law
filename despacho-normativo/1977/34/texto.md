@@ -1,0 +1,7 @@
+Despacho Normativo n.º 34/77
+Considerando que a Setenave - Estaleiros Navais de Setúbal, se encontra na fase inicial da sua exploração, que coincide com uma situação de crise internacional do sector;
+Considerando que a tomada de medidas imediatas, utilizando os indispensáveis mecanismos de contenção de custos, designadamente o previsto pelo Decreto-Lei n.º 864/76, de 23 de Dezembro, se revela indispensável com vista a minorar a pressão altamente deficitária, ao nível da exploração da empresa;
+Considerando que a situação existente é incompatível com a manutenção de ratios inadequados de cobertura financeira do imobilizado;
+Considerando que a consolidação do passivo (cobertura de prejuízos) terá de atingir valor ao redor de 800000 contos, dos quais 400000 deverão respeitar a consolidação de créditos a curto prazo e, com vista a obviar à excessiva rigidez dos activos bancários correspondentes, os restantes 400000 contos terão de resultar de reestruturação de créditos já a médio e longo prazos, o que obriga a reposição idêntica dos capitais permanentes:
+Determina-se a elevação do capital estatutário da Setenave de 1250 milhares de contos para 1650 milhares de contos, a utilizar prioritariamente nas liquidações de encargos financeiros em atraso.
+Ministérios das Finanças e da Indústria e Tecnologia, 31 de Dezembro de 1976. - O Secretário de Estado das Finanças, Maria Manuela Matos Morgado Santiago Baptista. - O Secretário de Estado da Indústria Pesada, Carlos Montês Melancia.
