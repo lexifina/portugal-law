@@ -1,0 +1,47 @@
+# Acórdão do Supremo Tribunal Administrativo de 2001-04-24, processo 039895
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 039895
+
+**Data do Acordão:** 04/24/2001
+
+**Tribunal:** 2 SUBSECÇÃO DO CA
+
+**Relator:** FERREIRA NETO
+
+**Descritores:** DELEGAÇÃO DE PODERES.; MENÇÃO DA DELEGAÇÃO.; FUNCIONÁRIO PÚBLICO.; INTERCOMUNICABILIDADE.; IDENTIDADE DE LETRA DE VENCIMENTO.; CONCURSO.; RECURSO HIERÁRQUICO.
+
+**Nº Convencional:** JSTA00056521
+
+**Nº do Documento:** SA120010424039895
+
+**Data de Entrada:** 03/12/1996
+
+**Recorrente:** CLEMENTE , ANABELA E OUTROS
+
+**Recorrido 1:** SE DOS ASSUNTOS FISCAIS
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** REC CONT.
+
+**Objecto:** DESP SE DOS ASSUNTOS FISCAIS DE 1996/01/15.; DESP SE DOS ASSUNTOS FISCAIS DE 1995/12/22.
+
+**Decisão:** PROVIDO.
+
+**Área Temática 1:** DIR ADM GER - FUNÇÃO PUBL.
+
+**Legislação Nacional:** DL 498/88 DE 1988/12/30 ART44.; DL 248/85 DE 1985/07/15 ART17 N1 ART18 N1.; DL 353-A/89 DE 1989/10/16.; CPA95 ART6 N2 ART72.
+
+## Sumário
+
+I - A falta da menção de delegação de poderes no acto, não acarreta a invalidade deste constituindo mera irregularidade.
+
+II - Nos termos dos art.s 17°, n.º 1, e 18° n.º 1 dos Decs.-Leis n.ºs 248/85, de 15/7, e 353-A/89, de 16/10, respectivamente, um funcionário - que reúna os demais requisitos legais - pode ser opositor a concurso para lugar de categorias de acesso de carreiras de um grupo de pessoal diferente, mas da mesma área funcional, quer para lugar a que corresponda a mesma letra - agora o mesmo escalão 1 de vencimento - quer para outro a que corresponda vencimento imediatamente superior, naqueles parâmetros.
+
+III - Um perito de fiscalização tributária de 2ª classe, a cujo escalão corresponde o índice de vencimento de 500, pode concorrer à categoria de técnico economista de 1ª classe do grupo de pessoal técnico superior da DGCI, cujo índice de vencimento no escalão 1 é de 550 (desde que, naturalmente, se verifiquem os demais requisitos da intercomunicabilidade vertical).
+
+IV - O artigo 44° do Dec. - Lei n.º 498/88, de 30/12, constitui norma especial relativa à contagem do prazo de recurso hierárquico no procedimento concursal, pelo que não foi revogado pela norma geral do art. 72° do Código do Procedimento.Administrativo.
+
+V - Por força do n.º 6 do art. 2° deste Código, na sua redacção originária, o mesmo é aplicável supletivamente aos procedimentos especiais.
