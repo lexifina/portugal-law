@@ -1,0 +1,9 @@
+Resolução do Conselho de Ministros n.º 28/84
+Concurso para a empreitada dos trabalhos marítimos do terminal de carvão do porto de Sines
+Os Ministros da Indústria e Energia e do Mar nomearam em 23 de Novembro de 1983 uma comissão especial, presidida por um inspector superior do Conselho Superior de Obrae Públicas, para apreciação das propostas do segundo concurso para a empreitada dos trabalhos marítimos do terminal de carvão do porto de Sines.
+De acordo com o relatório elaborado por aquela comissão em 21 de Março de 1984, designadamente quanto ao proposto por unanimidade no capítulo V «Conclusões», e tendo em conta a deliberação unânime do conselho de gestão do Gabinete da Área de Sines de 26 de Março de 1984, o Conselho de Ministros, reunido em 10 de Abril de 1984, resolveu:
+1 - Aprovar como proponente escolhido o consórcio concorrente n.º 4, constituído pela Sociedade de Empreitadas Somague, S. A. R. L., e pela Società Italiana per Condotte d'Acqua, S. p. A., chefiado pela primeira destas empresas, que, no ordenamento global das propostas, apresentou as que se situam em primeiro e segundo lugares (variante e base).
+2 - Considerar como preferida a proposta variante apresentada pelo proponente escolhido, tomando em consideração, para efeitos do artigo 91.º do Decreto-Lei n.º 48871, de 19 de Fevereiro de 1969, as observações feitas no n.º 3.3.4 do relatório da comissão de apreciação das propostas.
+3 - Excluir da empreitada principal a contratar inicialmente o porto de descarga provisória, uma vez que a solução de descarga de emergência a realizar pela Electricidade de Portugal (EDP), E. P., está em curso de implementação.
+4 - Por razões cautelares o contrato deverá permitir tomar uma opção, dentro de 60 dias, sobre a adjudicação daquela parte da obra pelo preço apresentado a concurso, através de um adicional ao contrato.
+Presidência do Conselho de Ministros. - O Primeiro-Ministro, Mário Soares.
