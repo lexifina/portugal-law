@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se faz público que Portugal depositou, em 22 de Outubro de 1987, o instrumento de ratificação do Protocolo de 1978 da Convenção Internacional para a Prevenção da Poluição por Navios, de 1973.
+À data do depósito do referido instrumento de ratificação eram partes no mencionado Protocolo os seguintes Estados: Baamas, Japão, Países Baixos, China, Líbano, Israel, Finlândia, São Vicente e Granadinas, URSS, Bélgica, Omã, República Federal da Alemanha, Checoslováquia, Espanha, República da Coreia, África do Sul, Bulgária, Hungria, Panamá, República Democrática do Povo da Coreia, Islândia, Tuvalu, Polónia, Egipto, Índia, Indonésia, Brunei, Costa do Marfim, Austrália, Suazilândia e Brasil.
+Direcção-Geral dos Negócios Político-Económicos, 11 de Julho de 1988. - O Director de Serviços dos Assuntos Multilaterais, Marcello de Zaffiri Duarte Mathias.
