@@ -1,0 +1,11 @@
+Despacho Normativo n.º 192/80
+O Despacho Normativo n.º 59/80, de 21 de Fevereiro, determinou o preço e as condições de venda do trigo, centeio, milho e sorgo.
+Torna-se necessário estabelecer os valores para a cevada forrageira ou vulgar e para a aveia, tendo por base a equivalência forrageira entre estes cereais e o milho como valor padrão.
+Ao abrigo do disposto nas alíneas b) e c) do n.º 2 do artigo 1.º do Decreto-Lei n.º 70/78, de 7 de Abril, e do n.º 3 do artigo 13.º do Decreto-Lei n.º 260/76, de 8 de Abril, com a redacção que lhe foi dada pelo artigo 1.º do Decreto-Lei n.º 25/79, de 19 de Fevereiro, determinam-se os preços e condições de venda no continente dos seguintes cereais:
+1.º Os preços de venda pela EPAC da cevada forrageira ou vulgar e da aveia serão os que resultam dos respectivos preços de intervenção determinados no Despacho Normativo n.º 124/80, de 12 de Abril, acrescidos das margens de comercialização legalmente fixadas para a EPAC.
+2.º O preço de venda pela EPAC da cevada forrageira ou vulgar, quando destinada à alimentação animal, será o que resulta da multiplicação do preço de venda do milho pelo factor 0,9347, que corresponde à equivalência forrageira daquele cereal em relação ao milho.
+3.º O preço de venda pela EPAC da aveia, quando destinada à alimentação animal, será o que resulta da multiplicação do preço de venda do milho pelo factor 0,7570, que corresponde à equivalência forrageira daquele cereal em relação ao milho.
+4.º Os diferenciais entre os preços fixados nos n.os 2.º e 3.º anteriores e os preços de intervenção, acrescidos da margem de comercialização fixada para a EPAC, serão suportados pelo Fundo de Abastecimento.
+5.º Os artigos 8.º, 10.º e 11.º das disposições gerais do Despacho Normativo n.º 59/80, de 21 de Fevereiro, são aplicáveis aos cereais abrangidos pelo presente despacho normativo.
+6.º Este despacho entra em vigor no dia imediato ao da sua publicação.
+Ministérios das Finanças e do Plano, da Agricultura e Pescas e do Comércio e Turismo, 12 de Maio de 1980. - O Secretário de Estado do Orçamento, António Jorge de Figueiredo Lopes. - O Secretário de Estado do Comércio e Indústrias Agrícolas, Francisco Manuel Durão Lino. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.
