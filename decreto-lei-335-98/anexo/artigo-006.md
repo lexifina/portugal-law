@@ -6,16 +6,14 @@
 
 ### Participação na assembleia geral
 
-1 - A assembleia geral é composta pelos acionistas com direito a voto.
+1 - A assembleia geral é composta pelos accionistas com direito a voto.
 
-2 - A cada 100 ações corresponde um voto, podendo os acionistas possuidores de um número inferior de ações agrupar-se de forma a, em conjunto e fazendo-se representar por um dos agrupados, reunirem as condições necessárias ao exercício do direito de voto.
+2 - A cada 100 acções corresponde um voto, podendo os accionistas possuidores de um número inferior de acções agrupar-se de forma a, em conjunto e fazendo-se representar por um dos agrupados, reunirem as condições necessárias ao exercício do direito de voto.
 
-3 - O Estado é representado na assembleia geral pela pessoa que for designada mediante despacho dos membros do Governo responsáveis pelas áreas das finanças e pelo setor de atividade.
+3 - O Estado é representado na assembleia geral pela pessoa que for designada em despacho conjunto do Ministro das Finanças e do ministro responsável pelo sector portuário.
 
-4 - Os acionistas que sejam pessoas coletivas indicam, por carta dirigida ao presidente da mesa, quem os representam na assembleia geral.
+4 - Os accionistas que sejam pessoas colectivas indicam, por carta dirigida ao presidente da mesa, quem os representará na assembleia geral.
 
-5 - Nenhum acionista se pode fazer representar por mais de uma pessoa na mesma sessão da assembleia geral.
+5 - Nenhum accionista se pode fazer representar por mais de uma pessoa na mesma sessão da assembleia geral.
 
-6 - Os membros do conselho de administração e do conselho fiscal devem estar presentes nas reuniões da assembleia geral e podem participar nos trabalhos, devendo o revisor oficial de contas ou sociedade de revisores oficiais de contas que tenham examinado as contas estar presentes na assembleia geral anual, mas não têm, nessa qualidade, direito a voto.
-
-7 - Não é permitido o voto por correspondência.
+6 - Os membros do conselho de administração e o fiscal único deverão estar presentes nas reuniões da assembleia geral e poderão participar nos seus trabalhos, mas não terão, nessa qualidade, direito a voto.

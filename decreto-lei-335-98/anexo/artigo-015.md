@@ -1,11 +1,9 @@
 ## Secção IV
 
-## Conselho fiscal
+## Fiscal único
 
 # Artigo 15.º
 
 ### Fiscalização
 
-1 - A fiscalização da sociedade compete a um conselho fiscal e a um revisor oficial de contas ou a uma sociedade de revisores oficiais de contas, que não seja membro daquele órgão, todos eleitos em assembleia geral por um período de três anos.
-
-2 - O conselho fiscal é composto por um presidente, dois vogais efetivos e um suplente.
+A fiscalização da actividade social e o exame das contas da sociedade serão exercidos por um fiscal único, que deverá ser revisor oficial de contas ou sociedade de revisores oficiais de contas, eleito em assembleia geral por um período de três anos.

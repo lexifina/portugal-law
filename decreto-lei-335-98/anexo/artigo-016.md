@@ -1,13 +1,13 @@
 # Artigo 16.º
 
-### Competência
+### Competência do fiscal único
 
-Para além das competências constantes da lei e dos presentes estatutos, compete, em especial, aos órgãos de fiscalização:
+Além das competências constantes de lei geral, cabe, em especial, ao fiscal único:
 
-a) Assistir às reuniões do conselho de administração, nos termos da lei ou sempre que o entenda conveniente;
+a) Examinar, sempre que o julgue conveniente e, pelo menos, uma vez por mês, a escrituração da sociedade;
 
-b) Emitir parecer sobre qualquer matéria que lhe seja apresentada pelo conselho de administração;
+b) Emitir parecer sobre o orçamento, o balanço, o inventário e as contas anuais;
 
-c) Emitir parecer sobre o orçamento, o balanço, o inventário e as contas anuais;
+c) Solicitar ao conselho de administração a apreciação de qualquer assunto que entenda dever ser ponderado;
 
-d) Colocar ao conselho de administração qualquer assunto que por ele deva ser ponderado.
+d) Pronunciar-se sobre qualquer matéria que lhe seja submetida pelo conselho de administração.

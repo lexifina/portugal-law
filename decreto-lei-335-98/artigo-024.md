@@ -1,6 +1,6 @@
 # Artigo 24.º
 
-1 - São aprovados os estatutos da APDL, S. A., constantes do anexo ao presente diploma e que dele fazem parte integrante.
+1 - São aprovados os Estatutos da APDL - Administração dos Portos do Douro e Leixões, S. A., constantes do anexo ao presente diploma, que dele fazem parte integrante.
 
 2 - A transformação operada pelo artigo 1.º bem como os Estatutos agora aprovados produzem efeitos relativamente a terceiros, independentemente de registo, que, no entanto, deve ser efectuado a requerimento, sem taxas ou emolumentos, nos 90 dias seguintes à data da entrada em vigor do presente diploma.
 
