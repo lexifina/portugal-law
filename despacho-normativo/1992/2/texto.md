@@ -1,0 +1,5 @@
+Despacho Normativo n.º 2/92
+A Decisão da Comissão n.º 91/541/CEE, de 15 de Outubro de 1991, vem alterar o artigo 2.º da Decisão da Comissão n.º 91/281/CEE, de 5 de Junho, relativa às importações de produtos da pesca e da aquicultura originários do Equador.
+De harmonia com o estipulado no artigo 1.º da Decisão n.º 91/541/CEE, que altera a redacção do artigo 2.º da Decisão n.º 91/281/CEE, determina-se o seguinte:
+Os Estados membros só autorizarão a reexpedição dos produtos referidos no artigo anterior para o território dos outros Estados membros após um controlo de cada lote importado que inclua, pelo menos, uma verificação da conformidade dos documentos e da identidade dos lotes. Este controlo será efectuado sem prejuízo de controlos complementares que podem ser efectuados pelas autoridades competentes do Estado membro de destino.
+Ministério do Comércio e Turismo, 13 de Dezembro de 1991. - Pelo Ministro do Comércio e Turismo, António José Fernandes de Sousa, Secretário de Estado Adjunto e do Comércio Externo.
