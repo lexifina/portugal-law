@@ -1,0 +1,10 @@
+Portaria n.º 515/81
+de 25 de Junho
+Considerando o disposto no n.º 4 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho;
+Considerando que o Instituto de Qualidade Alimentar, cuja lei orgânica foi aprovada pelo Decreto Regulamentar n.º 66/79, de 20 de Dezembro, é um organismo recente, criado pelo Decreto-Lei n.º 221/77, de 28 de Maio, cuja actividade se desenvolve nos domínios da regulamentação, promoção e controle de qualidade dos alimentos;
+Considerando que, em virtude das suas características específicas, não transitaram para o referido Instituto quaisquer órgãos ou serviços quando da reestruturação do Ministério da Agricultura e Pescas;
+Considerando ainda que, pelos motivos apontados, não existem nos quadros do Instituto técnicos superiores com as categorias previstas no n.º 2 do artigo 2.º do Decreto-Lei n.º 191-F/79 que tenham a formação e experiência adquiridas no âmbito das respectivas atribuições:
+Manda o Governo da República Portuguesa, pelos Ministros da Agricultura e Pesca e da Reforma Administrativa, o seguinte:
+1.º O primeiro provimento dos cargos de chefe da Divisão de Cereais, Leguminosas, Oleaginosas e Derivados, de chefe da Divisão de Aditivos, Auxiliares Tecnológicos, Contaminantes, Resíduos e Produtos Diversos, de chefe da Divisão de Planeamento, Coordenação e Estatística e de chefe da Divisão de Produtos Hortícolas, Frutícolas e Derivados, Condimentos, Estimulantes, Derivados e Sucedâneos recairá nos técnicos superiores licenciados em Agronomia e em Economia, com elevado nível técnico e comprovada experiência profissional, que vêm assegurando a chefia das referidas unidades orgânicas, considerando-se para o efeito alargada a área de recrutamento estabelecida no artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, nos termos previstos no seu n.º 4.
+2.º O despacho de nomeação deverá ser acompanhado, para publicação, do currículo dos nomeados.
+Ministérios da Agricultura e Pescas e da Reforma Administrativa, 5 de Junho de 1981. - O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha. - O Ministro da Reforma Administrativa, Eusébio Marques de Carvalho.
