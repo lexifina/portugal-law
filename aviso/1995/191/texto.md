@@ -1,0 +1,3 @@
+Aviso n.º 191/95
+Por ordem superior se faz público que, segundo comunicação da Organização Mundial da Propriedade Intelectual, a República de Cuba depositou, em 10 de Maio de 1995, uma notificação pela qual retira uma declaração devidamente especificada, feita anteriormente, em virtude do artigo 14.2, d) e f), do Acordo de Madrid sobre o Registo Internacional de Marcas de 14 de Abril de 1891, revisto em Estocolmo a 15 de Julho de 1967 e modificado a 28 de Setembro de 1979.
+Direcção-Geral dos Assuntos Multilaterais, 14 de Julho de 1995. - O Director de Serviços das Organizações Económicas Internacionais, João Luís Niza Pinheiro.
