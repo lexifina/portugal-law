@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=qUAFp27CBkIttcOxiLgk0FIFM%2benj3agWAdWp9f2uUE7DM89Hf79g0s6kJ1OpP%2b%2bV8tF1iVoXzUjf9MdNSMm4nwgUSw8wSK%2f8IWQGg3htMY3c5Ya6BFuH2nCggW0h1GujT%2bIUdPmA8SvTT3HpzcWjwY1Ytx02d%2b7d2kHzuJsMkIxOLhUMfluBDICsI431jugsRtyLdTkTs3iZNjh0bZeiTsuFJxPyR5N7XOGoIkmGpdUelnuD9Uv%2bK5tX%2fCtB3SYc9FZA1mlNR599B92fTx%2bndvsVfZla0grGGcMC1Ygbf5wdyt%2fcERRcbU8v%2fdkvPhkc3PKeJXfSzhOHsiR3Kxg%2fadV%2fCqpiI%2bSBylGrc6dYzg%3d&fich=IntervencoesVII_json.txt&Inline=true",
+  "ficheiro_sha256": "63246bfd185a5eb6b3d6f557ea72ee60968af9ce7c1a76c63b16943a173ed13f",
+  "legislatura": "VII",
+  "id": "55691",
+  "tipo": "Declaração de voto",
+  "orador": "António Reis (PS)",
+  "data_registo": "1999-01-21",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "253430",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "5196",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Altera o regime de exercício de direitos pelos militares (alteração do artigo 31°da Lei de Defesa Nacional)."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1999-01-21",
+    "Debate": "PJL 309-PCP",
+    "Deputados": {
+      "GP": "PS",
+      "idCadastro": "1349",
+      "nome": "António Reis"
+    },
+    "FaseDebate": "VOTACAO",
+    "FaseSessao": "POD",
+    "Id": "55691",
+    "IdDebate": "6248",
+    "Iniciativas": [
+      {
+        "fase": "Votação na generalidade",
+        "id": "5196",
+        "tipo": "Projeto de Lei"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "55691",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "1434-1434"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1999-01-22",
+        "pubLeg": "VII",
+        "pubNr": "38",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/04/038/1999-01-22/1434?pgs=1434&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": null,
+    "Sessao": "4",
+    "Sumario": "ALTERACAO DO REGIME DE EXERCICIO DE DIREITOS PELOS MILITARESART.31 DA LEI DE DEFESA NACIONAL E DAS FORCAS ARMADAS",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Declaração de voto"
+  }
+}
