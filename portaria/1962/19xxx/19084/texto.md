@@ -1,0 +1,4 @@
+Portaria n.º 19084
+Manda o Governo da República Portuguesa, pelos Ministro do Interior e Secretário de Estado da Agricultura, que a Câmara Municipal de Viseu seja incluída na relação n.º 2 anexa à Portaria n.º 9708, de 23 de Dezembro de 1940, ficando autorizada a cobrar a sobretaxa de 11,1 por cento sobre o valor das carnes dos animais abatidos para consumo público no matadouro camarário, calculada na base da estiva aprovada pela Portaria n.º 11466, de 22 de Agosto de 1946.
+Esta autorização é dada a título condicional, ficando a sua resolução definitiva dependente do resultado da conclusão dos trabalhos que a Comissão Reorganizadora da Indústria do Abate, criada pela Portaria n.º 18911, de 27 de Dezembro de 1961, vier a efectuar.
+Ministério do Interior e Secretaria de Estado da Agricultura, 20 de Março de 1962. - O Ministro do Interior, Alfredo Rodrigues dos Santos Júnior. - O Secretário de Estado da Agricultura, João Mota Pereira de Campos.
