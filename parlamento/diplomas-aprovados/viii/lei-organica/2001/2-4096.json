@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=y29rgme0Vy3fXju7aquh3YuRzRy%2bIMmFWoXc3HaQH9%2b3hp%2f4NQI7dfK%2bE%2fj%2bwtxxQ6OIv2RUQrkk31QjFnn4392OOJRpLes62QVYdElIA6eeU9BLojutIwr2WCmw08QwwXzj953C2wpAqZoFrgdfr1SbOftNh3FZjNZ0kUEgywRo%2froy%2bI9QlBZ0EsA8qjRVO3zHpPD1dh2%2bJp6Mo5VnOLxYuVKQ2QZ6bTR6eK1USKqfSYkG0vLRS7hbq2LU%2f1E2avGD5Xp6NYCr4ueICG245MQakc44fawS4ToLbRy2mxXaltzRiu9PLncV9ujV8dNM8N3R1i79wjYBUd17QYHLWK7brK72WXdd%2by9cuJttyMCeGrE9zu3lv1ZUXb%2fmK%2bZpwP0t7xMw5MDiC01UA2aV%2fA%3d%3d&fich=DiplomasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "e224efd114759e541502a003fe3e9ecf5de3a46ffe05ff92d37b8aa8e4ea5c7e",
+  "legislatura": "VIII",
+  "id": "4096",
+  "tipo": "Lei Orgânica",
+  "numero": "2",
+  "data_registo": "2001-08-25",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "2001",
+    "Id": "4096",
+    "Iniciativas": [
+      {
+        "DataFimleg": null,
+        "DataInicioleg": null,
+        "IniAnexos": null,
+        "IniAutorDeputados": null,
+        "IniAutorGruposParlamentares": null,
+        "IniAutorOutros": null,
+        "IniciativasEuropeias": null,
+        "IniciativasOrigem": null,
+        "IniciativasOriginadas": null,
+        "IniDescTipo": null,
+        "IniEpigrafe": null,
+        "IniEventos": null,
+        "IniId": "5734",
+        "IniLeg": null,
+        "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c324e694f4463784e57526a4c546b305a4751744e4449334e5331684e5445354c546b34595751355a4467794e3249785979356b62324d3d&fich=cb8715dc-94dd-4275-a519-98ad9d827b1c.doc&Inline=true",
+        "IniNr": "382",
+        "IniObs": null,
+        "IniSel": null,
+        "IniTestaFicheiro": null,
+        "IniTextoSubst": null,
+        "IniTextoSubstCampo": null,
+        "IniTipo": "J",
+        "IniTitulo": null,
+        "Links": null,
+        "Peticoes": null,
+        "PropostasAlteracao": null
+      }
+    ],
+    "Legislatura": "VIII",
+    "LinkTexto": "",
+    "Numero": "2",
+    "Numero2": null,
+    "Observacoes": null,
+    "OrcamContasGerencia": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "264288",
+        "obs": null,
+        "pag": [
+          "5447-5447"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-08-25",
+        "pubLeg": "VIII",
+        "pubNr": "197",
+        "pubSL": "2",
+        "pubTipo": "DR I série A",
+        "pubTp": "R",
+        "supl": null,
+        "URLDiario": "http://data.dre.pt/eli/diario/1a/197/2001/0/pt/html"
+      }
+    ],
+    "Sessao": "2",
+    "Tipo": "Lei Orgânica",
+    "Titulo": "Alarga a possibilidade de voto antecipado nas leis eleitorais para a Assembleia da República, o Presidente da República, as Assembleias Legislativas Regionais e as autarquias locais aos membros que integram comitivas oficiais de representantes de selecção nacional",
+    "Tp": "O",
+    "Versao": null
+  }
+}
