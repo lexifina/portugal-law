@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se faz público que, segundo comunicação do Secretário de Estado norte-americano, os embaixadores em Washington da República Federal dos Camarões, da República Central Africana, da República do Chade o da República do Daomé e o encarregado de negócios em Washington da República do Congo (Brazzaville) assinaram em 10 de Julho de 1963, em nome dos seus Governos, os Acordos que instituíram o Fundo Monetário Internacional e o Banco Internacional de Reconstrução e Desenvolvimento.
+Naquela mesma data os instrumentos de aceitação dos referidos Acordos foram depositados pela República Federal dos Camarões, pela República Central Africana, pela República do Chade, pela República do Congo (Brazzaville) e pela República do Daomé.
+Direcção-Geral dos Negócios Económicos e Consulares, 31 de Agosto de 1963. - O Director-Geral, Albano Pires Fernandes Nogueira.
