@@ -1,0 +1,7 @@
+Portaria n.º 1219/82
+de 28 de Dezembro
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelo Ministro da Agricultura, Comércio e Pescas, ao abrigo do disposto no artigo 40.º da Lei n.º 77/77, de 29 de Setembro, desanexar e transmitir o seu domínio a favor da Câmara Municipal de Ferreira do Alentejo, para fins de utilidade pública (urbanização de Santa Margarida do Sado), de 11,3850 ha do prédio rústico Quinta, artigo 3.º da secção D(índice 1) da freguesia de Figueira de Cavaleiros, do concelho de Ferreira do Alentejo, conforme planta anexa, o qual foi nacionalizado pelo Decreto-Lei n.º 407-A/75, de 30 de Julho.
+No acto da transmissão do terreno, a Câmara Municipal de Ferreira do Alentejo entregará nos cofres do Tesouro, como retribuição pela cessão, uma importância proporcional à indemnização provisória resultante da expropriação do prédio rústico Quinta, tendo em conta a parte expropriada e a parte que por esta portaria lhe é transmitida, importância que será oportunamente acrescida em proporção com o acréscimo que resultar da fixação da indemnização definitiva.
+Ministérios das Finanças e do Plano e da Agricultura, Comércio e Pescas, 24 de Novembro de 1982. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro. - O Ministro da Agricultura, Comércio e Pescas, Basílio Adolfo Mendonça Horta da Franca.
+
+(ver documento original)
