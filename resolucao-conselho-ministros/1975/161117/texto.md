@@ -1,0 +1,4 @@
+Resolução do Conselho de Ministros
+A determinação da efectiva situação da firma António Xavier de Lima não pode ser levada a cabo sem se proceder, preventiva e provisoriamente, ao congelamento dos seus bens, pois que, deixada nas suas mãos a disponibilidade deles, aquela situação estará em permanente estado de fluidez.
+Pelo exposto, ao abrigo do n.º 2 do artigo 2.º do Decreto-Lei n.º 660/74, de 25 de Novembro, o Conselho de Ministros adopta a medida adequada de congelamento do património dessa firma, dos bens pessoais de António Xavier de Lima e daqueles que possua em comunhão com sua mulher, Maria de Fátima Pires Ferreira Lima, ordenando que se façam as respectivas comunicações à Inspecção-Geral dos Registos e do Notariado e Inspecção-Geral de Crédito e Seguros e tomando as demais medidas que sejam necessárias.
+Presidência do Conselho de Ministros, 19 de Fevereiro de 1975. - O Primeiro-Ministro, Vasco dos Santos Gonçalves.
