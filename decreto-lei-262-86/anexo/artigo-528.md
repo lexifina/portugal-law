@@ -8,7 +8,7 @@
 
 3 - A sociedade que, estando a isso legalmente obrigada, não mantiver livro de registo de acções nos termos da legislação aplicável, ou não cumprir pontualmente as disposições legais sobre registo e depósito de acções, será punida com coima de 100000$00 a 10000000$00.
 
-4 - O accionista que, estando a isso legalmente obrigado, não cumprir as disposições legais sobre registo e depósito de acções será punido com coima de 5000$00 a 200000$00.
+4 - (Revogado).
 
 5 - Aquele que estiver legalmente obrigado às comunicações previstas nos artigos 447.º e 448.º deste Código e as não fizer nos prazos e formas da lei será punido com coima de 5000$00 a 200000$00, e, se for membro de órgão de administração ou de fiscalização, com coima de 10000$00 a 300000$00.
 

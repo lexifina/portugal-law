@@ -1,7 +1,3 @@
-## Subsecção III
-
-## Regime de registo e regime de depósito
-
 # Artigo 330.º
 
 ### (Primeiro registo)
