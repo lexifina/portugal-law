@@ -1,0 +1,75 @@
+# Acórdão do Tribunal da Relação de Lisboa de 1993-06-17, processo 0067601
+
+**Acórdãos TRL:** Acórdão do Tribunal da Relação de Lisboa
+
+**Processo:** 0067601
+
+**Nº Convencional:** JTRL00010736
+
+**Relator:** HUGO BARATA
+
+**Descritores:** ESPECIFICAÇÃO; QUESTIONÁRIO; ALTERAÇÃO; CASO JULGADO FORMAL; NULIDADES; ROL DE TESTEMUNHAS; FACTOS ADMITIDOS POR ACORDO; PRINCÍPIO DA AQUISIÇÃO PROCESSUAL; QUESITOS; RESPOSTAS AOS QUESITOS; ÓNUS DA PROVA; DESCONTO BANCÁRIO; ARTICULADOS; ÓNUS DE AFIRMAÇÃO
+
+**Nº do Documento:** RL199306170067601
+
+**Data do Acordão:** 06/17/1993
+
+**Votação:** MAIORIA COM 1 VOT VENC
+
+**Tribunal Recurso:** T CIV LISBOA 14J
+
+**Processo no Tribunal Recurso:** 1147890
+
+**Data:** 06/02/1992
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** APELAÇÃO.
+
+**Decisão:** REVOGADA A DECISÃO.
+
+**Indicações Eventuais:** A VARELA DIREITO DE FAMILIA 1982 PAG330. L XAVIER RDES XXIV PAG245.; CASTRO MENDES RT 83 PAG88.
+
+**Área Temática:** DIR CIV - TEORIA GERAL.; DIR PROC CIV. DIR ECON - DIR BANC.
+
+**Legislação Nacional:** CCIV66 ART249 ART342 N2 ART1691 N1 C.; CCOM888 ART13 N1.; CPC67 ART201 N1 ART712 N1.
+
+**Jurisprudência Nacional:** AC RP DE 1980/12/04 IN BMJ N302 PAG317.; AC RC DE 1979/04/03 IN BMJ N289 PAG439.; AC STJ DE 1981/02/03 IN BMJ N304 PAG345.; AC RP DE 1979/12/05 IN CJ 1979 TV PAG1499.; AC RP DE 1980/01/22 IN CJ 1980 TI PAG24.; AC RP DE 1980/07/24 IN CJ 1980 TIV PAG203.; AC STJ DE 1980/11/05 IN BMJ N301 PAG437.
+
+## Sumário
+
+I - Tudo concita no sentido de que se tratou de lapso (material ou intelectual) referenciar que o rol era apresentado pelo demandado varão.
+
+II - Vistos os autos, o único acto que para eles o demandado praticou foi o de receber, em pessoa, a citação para a acção; manteve-se totalmente passivo, inclusive silente.
+
+III - Representando o Exmo. causídico apenas a demandada, flui inesgotávelmente que o acto que, assim praticou, foi em torno da sua mandante, e só o podia ser em função dela, pois de ninguém mais curava nestes autos.
+
+IV - O despacho de condensação não é susceptível de estabelecer caso julgado (formal) impeditivo da sua posterior modificação (p. ex. R. P., 04/12/80, Bol. n. 302 pág.
+
+317; R. C., 03/04/79, Bol. n. 289 pág. 439; STJ, 03/02/81 BOL. n. 304 pág345; C. Mendes, R. T., n. 83 pág88).
+
+V - No intróito da petição inicial, no sector atinente
+
+à identificação dos demandados, o peticionante inscreveu que estes eram consorciados sob o regime da comunhão geral de bens, e adiante referiu que a demandada era responsável por se tratar de um acto (comercial) do demandado, cujo produto foi aplicado numa sua exploração agro-pecuária, traduzindo-se assim em proveito comum do casal (art. 1691, c, CC).
+
+VI - A lógica ou rigorismo das coisas levaria a que a afirmação do regime de bens devesse conter-se no articulado em si, e não no proémio do mesmo. Contudo, essa deslocação não pode levar à compreensão de que inexiste tal expensão de facto, tanto mais que aí o autor avançou exactamente: "Fernando... e mulher Maria..., casados sob regime de comunhão geral de bens, ele gerente comercial e ela funcionária publica...".
+
+VII - Não pode pretender-se que aí, nesse iniciado da petição, a eficácia é estiolada à simples identificação de quem é parte no litígio, pois qualquer desses referenciais ou especificações não pode estar em colisão com o mais que se diga no articulado próprio sensu e, por aí, que não haja necessidade de se repetir no dito próprio articulado o que já antes era constante.
+
+VIII - O espírito do Q. 1 - "o montante aludido na alínea
+
+A da especificação destinou-se a ser aplicado numa exploração agro-pecuária pertencente aos réus?" - é a aplicação do produto da operação bancária ajulgamentada e não a existência do dito empreendimento agro- -pecuniário.
+
+IX - Percepcionadas assim as coisas, colhe-se que o Sr.
+
+Juiz, ao formular o Q. 1 o entendeu como integrado no ónus da prova do autor, mas porque descurou de já estar provado o regime de bens segue-se que aí o ónus não é daquele, que sim da contestante (art. 342 n. 2 . CC; R. P. 05/12/79, CJ., 1979, V, pág1499; A. Varela, D. Familia, 1982, pág330; L. Xavier
+
+R. D. E. S., XXIV, pág245).
+
+X - Abreviando a revelação da razão de fundamentação da decisão, citam-se os arestos da R. P. de 22/01/80
+
+(CJ 1980, I, 24/06) e de 24/07/80 (CJ 1980, IV, 203/6), sobretudo o do STJ de 05/11/80 (Bol. n. 301, pág. 437/ 440), que este é um precedente judicial de um caso igual no que tange à decorrência jurídica de uma operação de desconto bancário assumida pelo marido comerciante - in casu o autor imputa ao demandado varão a qualidade de comerciante que, como se disse, não vem impugnada, e assenta na profissão de gerente comercial, cfr. art. 13 n. 1 CC - que não foi cumprida pontualmente e em cuja acção declarativa a sua consorte vem sustentar o que arrazoado está no presente processo.
+
+XI - Destes arestos resulta que o desconto bancário é um mútuo mercantil, pelo que ex vi Banco demandante se está perante um acto de comércio objectivo; mas também é um acto de comércio face ao demandado varão porque era comerciante.
