@@ -1,0 +1,8 @@
+Portaria n.º 263/2000
+de 13 de Maio
+Para a melhoria do acesso nos centros regionais de oncologia do Instituto Português de Oncologia de Francisco Gentil, foi aprovado um programa específico, com financiamento próprio proveniente de verbas da receita fiscal dos tabacos manufacturados consignada ao Ministério da Saúde, para cuja execução será atribuída a cada um dos centros regionais de oncologia onde serão praticados os actos incluídos no programa a verba destinada a suportar os custos acrescidos daí decorrentes.
+O Decreto-Lei n.º 285/99, de 26 de Julho, fixou as condições de atribuição de suplementos remuneratórios a funcionários e agentes cuja intervenção esteja directamente envolvida no âmbito de programas em que se insere o Programa de Promoção do Acesso nos Centros Regionais de Oncologia do Instituto Português de Oncologia de Francisco Gentil, dispondo no artigo 4.º que o suplemento que cabe a cada um dos profissionais é fixado por portaria conjunta do Ministro da Saúde e do membro do Governo responsável pela Administração Pública.
+Assim, ao abrigo do disposto no artigo 4.º do Decreto-Lei n.º 285/99, de 26 de Julho:
+Manda o Governo, pelos Ministros da Saúde e da Reforma do Estado e da Administração Pública, que o suplemento remuneratório que cabe a cada profissional, a atribuir pela verba global destinada à equipa, fixada no anexo à Portaria n.º 186/2000, de 31 de Março, seja estabelecido pelo órgão dirigente máximo do estabelecimento de saúde, mediante negociação com os referidos profissionais, tendo em conta a respectiva carreira e função.
+Em 24 de Fevereiro de 2000.
+A Ministra da Saúde, Maria Manuela de Brito Arcanjo Marques da Costa. - O Ministro da Reforma do Estado e da Administração Pública, Alberto de Sousa Martins.
