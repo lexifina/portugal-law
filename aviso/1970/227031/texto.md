@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação dirigida pela Embaixada da República Popular da Polónia em Londres à Embaixada de Portugal na mesma cidade, o Governo da República do Paraguai depositou, em 28 de Agosto de 1969, o seu instrumento de adesão à Convenção para a Unificação de Certas Normas Relativas ao Transporte Aéreo Internacional, assinada em Varsóvia a 12 de Outubro de 1929, e ao Protocolo de modificação da referida Convenção, assinado na Haia a 28 de Setembro de 1955.
+De harmonia com o artigo 38.º da Convenção e o artigo XXIII do Protocolo, os referidos actos internacionais entraram em vigor em relação ao Paraguai a partir de 26 de Novembro de 1969.
+Direcção-Geral dos Negócios Económicos, 7 de Janeiro de 1970. - O Adjunto do Director-Geral, Manuel Rodrigues de Almeida Coutinho.
