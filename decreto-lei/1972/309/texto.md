@@ -1,0 +1,13 @@
+Decreto-Lei n.º 309/72
+de 17 de Agosto
+Mostrando-se conveniente atribuir aos lugares de técnico da Direcção-Geral do Comércio e da Comissão de Coordenação Económica a categorização estabelecida para idênticos lugares de outros serviços do Estado;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º da artigo 109.º da Constituição, o Governo decreta a eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Nos quadros do pessoal permanente e contratado da Direcção-Geral do Comércio e da Comissão de Coordenação Económica os lugares de técnico de 2.ª e 3.ª classes passam a ter a designação, respectivamente, de técnico de 1.ª a 2.ª classes, com os vencimentos correspondentes às categorias F e H, a que se refere o n.º 1 do artigo 2.º do Decreto-Lei n.º 49410, de 24 de Novembro de 1969.Art.
+2.º O provimento de lugares de técnico dos quadros referidos no artigo anterior far-se-á entre diplomados com curso superior adequado ao exercício das respectivas funções.
+Art. 3.º O disposto no artigo 1.º é aplicável, independentemente de quaisquer formalidades, incluindo a visto do Tribunal de Contas, ao pessoal que, à data da vigência do presente diploma, pertença aos quadros a que se refere o mesmo preceito.
+Art. 4.º Os encargos resultantes da execução deste decreto-lei serão suportados no ano económico corrente pelas disponibilidades das dotações orçamentais dos serviços respectivos, até que se proceda às correcções no orçamento que se mostrem convenientes.
+Art. 5.º Este diploma entra em vigor a partir do dia 1 do mês seguinte ao da sua publicação no Diário do Governo.
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
+Promulgado em 10 de Agosto de 1972.
+Publique-se.
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
