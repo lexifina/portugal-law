@@ -1,0 +1,4 @@
+Portaria n.º 666/75
+de 13 de Novembro
+Manda o Governo da República Portuguesa, pelos Ministros da Administração Interna e da Justiça, autorizar, ao abrigo do disposto na alínea b) do n.º 2 do artigo 257.º do Código do Registo Civil, face ao parecer favorável das autoridades sanitárias e da Câmara Municipal de Valongo, o depósito no mausoléu erigido na Capela do Convento do Bom Pastor, em Ermesinde, concelho de Valongo, dos restos mortais de Maria Droste Zu Vischering ou Irmã Maria do Divino Coração Droste Zu Vischering, falecida em 8 de Junho de 1899 e sepultada no cemitério de Paranhos, da cidade do Porto.
+Ministérios da Administração Interna e da Justiça, 30 de Outubro de 1975. - O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa. - O Ministro da Justiça, João de Deus Pinheiro Farinha.
