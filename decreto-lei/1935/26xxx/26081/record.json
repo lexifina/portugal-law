@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1935/11/27100/17311731.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1935-11-22",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "0481ddf1376d05afe9515cd4647fa619eae11353959db83d198a9daf0ce41edd",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.1,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "35a00df5200cdbb51e29c4be99fbb9d4f261396b8354316e48dabffa99113115",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 450
 }
