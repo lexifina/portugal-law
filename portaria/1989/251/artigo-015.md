@@ -2,11 +2,11 @@
 
 ### Mestre costeiro pescador
 
-1 - O mestre costeiro pescador pode exercer as funções de mestre de embarcações de pesca até 250 tAB, desde que opere:
+1 - O mestre costeiro pescador pode exercer as funções de mestre de embarcações de pesca até 250 TAB, desde que opere:
 
 a) Para as embarcações registadas nos portos do continente:
 
-1) Na área limitada a norte pelo paralelo 48º N, a oeste pelo meridiano 14º W até ao paralelo 30º N e, a partir daí, meridiano 16º W, a sul pelo paralelo 25º N e a leste pela costa africana, linha que une Orão a Almeria, e costa europeia;
+1) Na área limitada a norte pelo paralelo 48º N., a oeste pelo meridiano 14º W. até ao paralelo 30º N. e, a partir daí, meridiano 16º W., a sul pelo paralelo 15º N. e a leste pela costa africana, linha que une Orão a Almeria e costa europeia;
 
 2) Nos bancos Gorringe (Gettysburg), Josephine, Ampére, Seine e Dácia;
 
