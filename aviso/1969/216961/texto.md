@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna pública que, conforme comunicação recebida do Secretariado-Geral das Nações Unidas, o Governo dos Países Baixos notificou, em 12 de Agosto de 1969, aquela organização de que a Convenção Relativa à Cobrança de Alimentos no Estrangeiro, concluída em Nova Iorque em 20 de Junho de 1956, se estendia às Antilhas Holandesas, ficando o Tribunal de Tutela (de Voogdijraad) de Curaçau encarregado de exercer naqueles territórios as funções de autoridade expedidora e de instituição intermediária.
+Secretaria-Geral do Ministério, 11 de Novembro de 1969. - O Secretário-Geral, José Luís Archer.
