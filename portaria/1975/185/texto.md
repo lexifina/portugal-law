@@ -1,0 +1,4 @@
+Portaria n.º 185/75
+de 17 de Março
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Indústria e Energia, nos termos do artigo 12.º do Regulamento de 23 de Março de 1869 e para efeitos do Decreto n.º 30295, de 22 de Fevereiro de 1940, designar a letra B para servir durante o período que decorre de 1 de Maio do corrente ano até 30 de Abril de 1976, no afilamento de todos os pesos, medidas e mais instrumentos de pesar ou medir, executado em todos os concelhos do País, à excepção de Lisboa, onde a mesma letra principiará a ser empregada em 1 de Março, data em que no dito concelho terá início a época de aferição, conforme o que está estabelecido no § único do artigo 1.º do citado Decreto n.º 30295, de 22 de Fevereiro de 1940.
+Secretaria de Estado da Indústria e Energia, 25 de Fevereiro de 1975. - O Secretário de Estado da Indústria e Energia, José de Melo Torres Campos.
