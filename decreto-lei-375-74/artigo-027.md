@@ -1,5 +1,5 @@
 # Artigo 27.º
 
-- 1. É proibido às empresas comerciais ou industriais e, bem assim, às empresas com escrita devidamente organizada que se dediquem a explorações agrícolas, silvícolas ou pecuárias efectuarem despesas confidenciais ou não documentadas.
+1 - As empresas comerciais ou industriais, e bem assim as empresas com escrita devidamente organizada que se dediquem a explorações agrícolas, silvícolas ou pecuárias, que efectuem despesas confidenciais ou não documentadas ficam sujeitas, para esse tipo de despesas, à taxa de contribuição industrial agravada em 20%.
 
-2 - A infracção ao disposto neste artigo será punida com multa igual à despesa total efectuada durante o exercício quando esse montante ultrapasse 0,5% da facturação total da empresa no mesmo período ou o máximo de 5000000$00, não podendo a multa ser inferior a 20000$00.
+2 - A realização das despesas a que se refere o número anterior que ultrapassem 2% da facturação total constitui infracção punida com multa de igual montante.
