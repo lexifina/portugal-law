@@ -2,4 +2,4 @@
 
 ### Pessoal a transferir
 
-(Apenas para os casos em que o serviço não se encontra já a cargo da EDP)
+O pessoal a transferir para a EDP é o que consta da lista anexa ao presente contrato de concessão

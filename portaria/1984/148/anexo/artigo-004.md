@@ -6,11 +6,11 @@
 
 2 - A EDP solicitará autorização à câmara para a realização de obras a efectuar na via pública, com uma antecedências de 30 dias, salvo as resultantes de ocorrência de avarias ou outros casos de força maior, que comunicará no mais curto espaço de tempo possível.
 
-3 - A EDP procederá à reposição do pavimento no prazo acordado com a câmara, caso a caso e de acordo com as instruções que a mesma fornecer.
+3 - A EDP procederá à reposição do pavimento no prazo acordado com a câmara caso a caso e de acordo com as instruções que a mesma fornecer.
 
-4 - Se a EDP proceder à reposição do pavimento no prazo acordado, a câmara poderá executar esses trabalhos, facturando os respectivos encargos à EDP.
+4 - Se a EDP não proceder à reposição do pavimento no prazo acordado, a câmara poderá executar esses trabalhos, facturando os respectivos encargos à EDP.
 
-5 - Quando a câmara, para executar trabalhos de nivelamento, reconstrução de traçados de ruas ou qualquer espécie de serviços de interesse público geral, tiver necessidade de que sejam deslocadas canalizações eléctricas, a EDP executará os trabalhos de deslocação sem direito a indemnização, devendo ser prevenida com a antecedência de 30 dias, sendo a reposição de pavimentos apenas de conta da câmara.
+5 - Quando a câmara, para executar trabalhos de nivelamento, reconstrução de traçados de ruas ou qualquer espécie de serviços de interesse público geral, tiver necessidade de que sejam deslocadas canalizações eléctricas, a EDP executará os trabalhos de deslocação sem direito a indemnização, devendo ser prevenida com a antecedência de 30 dias e sendo a reposição de pavimentos apenas de conta da câmara.
 
 6 - A EDP obriga-se a proceder à deslocação de apoios da rede de distribuição em baixa tensão quando o exijam obras ou trabalhos de interesse público geral, sem direito a indemnização. Os pedidos de trabalhos deste tipo devem ser formulados com a antecedência de 30 dias.
 

@@ -2,7 +2,7 @@
 
 ### Interrupção do fornecimento por razões de serviço
 
-1 - A EDP poderá proceder à interrupção do fornecimento de energia eléctrica no âmbito de programas de restrições de consumo ou esquemas de deslastragem de cargas oficialmente aprovados.
+1 - A EDP poderá proceder à interrupção do fornecimento de energia eléctrica no âmbito de programas de restrições de consumo ou esquemas de deslastragem de cargas, oficialmente aprovados
 
 2 - Por motivo de necessidade de fazer trabalhos de ligação, ampliação ou conservação das instalações, a EDP poderá interromper o fornecimento aos domingos, em número não superior a 18 por ano em relação a cada consumidor, durante o período diário compreendido entre as 5 e as 15 horas.
 
