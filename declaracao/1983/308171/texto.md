@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Ministério das Finanças e do Plano (Direcção-Geral da Contabilidade Pública), a declaração de transferências de verbas publicada no Diário da República, 1.ª série, n.º 277, de 30 de Novembro de 1982, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Onde se lê «Cap. 04, div. 18, Direcção-Geral de Informação - cap. 02, div. 01, C. E. 44.09, alínea A - Despesas resultantes do Decreto-Lei n.º 65/81, de 3 de Abril - Aguardando publicação de decreto regulamentar» deve ler-se «Cap. 04, div. 18, Direcção-Geral da Informação - cap. 02, div. 01, C. F. 1.01.0, C. E. 44.09, alínea A - Despesas resultantes do Decreto-Lei n.º 65/81, de 3 de Abril - Aguardando publicação de decreto regulamentar».
+Secretaria-Geral da Presidência do Conselho de Ministros, 14 de Dezembro de 1982. - O Secretário-Geral, França Martins.
