@@ -1,0 +1,4 @@
+Aviso n.º 105/2005
+Por ordem superior se torna público que, em 26 de Julho de 2004, o Reino da Dinamarca fez uma declaração de extensão da aplicação territorial à Gronelândia e às ilhas Faroé relativamente à Convenção sobre o Comércio Internacional das Espécies de Fauna e Flora Selvagens Ameaçadas de Extinção (CITES), assinada em Washington no dia 3 de Março de 1973.
+Portugal é Parte da mesma Convenção, aprovada para ratificação pelo Decreto n.º 50/80, publicado no Diário da República, 1.ª série-A, n.º 168, de 23 de Julho de 1980, tendo depositado o seu instrumento de ratificação em 11 de Dezembro de 1980 (Diário da República, 1.ª série, n.º 260, de 11 de Novembro de 1981), e tendo entrado em vigor em 11 de Março de 1981 (Diário da República, 1.ª série, n.º 157, de 10 de Julho de 2003).
+Direcção-Geral dos Assuntos Multilaterais, 2 de Março de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
