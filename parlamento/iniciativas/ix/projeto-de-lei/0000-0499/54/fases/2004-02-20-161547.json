@@ -1,0 +1,492 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "54",
+    "id": "19073",
+    "titulo": "Fundo de compensação salarial dos profissionais da pesca (Altera o Decreto-Lei n.º 311/99, de 10 de Agosto)."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2004-02-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2998",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2004-02-20",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Assembleia Legislativa da Região Autónoma da Madeira",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "18605",
+        "leg": "VIII",
+        "nr": "87",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "771",
+            "obs": null,
+            "pag": [
+              "3005-3011"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-02-21",
+            "pubLeg": "IX",
+            "pubNr": "54",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/054/2004-02-21/3005?pgs=3005-3011&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "P",
+        "titulo": "Alargamento do Fundo de Compensação Salarial dos Profissionais da Pesca (ALRM)"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2004-02-20",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "183",
+                "nome": "José Apolinário"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148511",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3005-3005"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-21",
+                "pubLeg": "IX",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/054/2004-02-21/3005?pgs=3005&org=PLC"
+              }
+            ],
+            "sumario": "Alargamento do fundo de compensação salarial dos profissionais da pesca (ALRM); Fundo de Compensação Salarial dos Profissionais da Pesca (Altera o Decreto-Lei n.º 311/99, de 10 de Agosto)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148512",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3005-3006"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-21",
+                "pubLeg": "IX",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/054/2004-02-21/3005?pgs=3005-3006&org=PLC"
+              }
+            ],
+            "sumario": "Alargamento do fundo de compensação salarial dos profissionais da pesca (ALRM); Fundo de Compensação Salarial dos Profissionais da Pesca (Altera o Decreto-Lei n.º 311/99, de 10 de Agosto)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1710",
+                "nome": "Herculano Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148513",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3006-3007"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-21",
+                "pubLeg": "IX",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/054/2004-02-21/3006?pgs=3006-3007&org=PLC"
+              }
+            ],
+            "sumario": "Alargamento do fundo de compensação salarial dos profissionais da pesca (ALRM); Fundo de Compensação Salarial dos Profissionais da Pesca (Altera o Decreto-Lei n.º 311/99, de 10 de Agosto)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1485",
+                "nome": "Rodeia Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148514",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3007-3008"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-21",
+                "pubLeg": "IX",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/054/2004-02-21/3007?pgs=3007-3008&org=PLC"
+              }
+            ],
+            "sumario": "Alargamento do fundo de compensação salarial dos profissionais da pesca (ALRM); Fundo de Compensação Salarial dos Profissionais da Pesca (Altera o Decreto-Lei n.º 311/99, de 10 de Agosto)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148515",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3008-3008"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-21",
+                "pubLeg": "IX",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/054/2004-02-21/3008?pgs=3008&org=PLC"
+              }
+            ],
+            "sumario": "Alargamento do fundo de compensação salarial dos profissionais da pesca (ALRM); Fundo de Compensação Salarial dos Profissionais da Pesca (Altera o Decreto-Lei n.º 311/99, de 10 de Agosto)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "183",
+                "nome": "José Apolinário"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148516",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3008-3009"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-21",
+                "pubLeg": "IX",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/054/2004-02-21/3008?pgs=3008-3009&org=PLC"
+              }
+            ],
+            "sumario": "Alargamento do fundo de compensação salarial dos profissionais da pesca (ALRM); Fundo de Compensação Salarial dos Profissionais da Pesca (Altera o Decreto-Lei n.º 311/99, de 10 de Agosto)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1537",
+                "nome": "Hugo Velosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148517",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3009-3011"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-21",
+                "pubLeg": "IX",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/054/2004-02-21/3009?pgs=3009-3011&org=PLC"
+              }
+            ],
+            "sumario": "Alargamento do fundo de compensação salarial dos profissionais da pesca(ALRM); Fundo de Compensação Salarial dos Profissionais da Pesca (Altera o Decreto-Lei n.º 311/99, de 10 de Agosto)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "183",
+                "nome": "José Apolinário"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148518",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3010-3010"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-02-21",
+                "pubLeg": "IX",
+                "pubNr": "54",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/054/2004-02-21/3010?pgs=3010&org=PLC"
+              }
+            ],
+            "sumario": "Alargamento do fundo de compensação salarial dos profissionais da pesca (ALRM); Fundo de Compensação Salarial dos Profissionais da Pesca (Altera o Decreto-Lei n.º 311/99, de 10 de Agosto)",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "161547",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "285719",
+        "obs": null,
+        "pag": [
+          "3005-3011"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-02-21",
+        "pubLeg": "IX",
+        "pubNr": "54",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/054/2004-02-21/3005?pgs=3005-3011&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
