@@ -1,0 +1,6 @@
+Portaria n.º 22/80
+de 9 de Janeiro
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e dos Transportes e Comunicações, nos termos do n.º 3 do artigo 37.º do Estatuto da Empresa Pública Correios e Telecomunicações de Portugal, anexo I ao Decreto-Lei n.º 49368, de 10 de Novembro de 1969, atendendo ao que por ela foi solicitado, autorizar a referida Empresa a contrair na Caixa Geral de Depósitos um empréstimo no montante de 500000 contos à taxa de 20,25%, alterável pela CGD dentro dos limites legais em vigor à data de alteração, amortizável em dezasseis semestralidades, vencendo-se a primeira seis meses após a data de celebração do contrato.
+A Empresa Pública Correios e Telecomunicações de Portugal inscreverá nos seus orçamentos anuais as verbas necessárias ao pagamento das amortizações e juros dos empréstimos.
+Se à data de celebração do contrato tiverem sido legalmente alteradas as taxas de juros para empréstimos a prazo idêntico ao constante desta portaria (oito anos), fica autorizada a empresa a celebrar o contrato estipulando a taxa de juro que nessa data vigorar.
+Ministérios das Finanças e dos Transportes e Comunicações, 28 de Dezembro de 1979. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro dos Transportes e Comunicações, Frederico Alberto Monteiro da Silva.
