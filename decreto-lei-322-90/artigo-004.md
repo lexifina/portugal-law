@@ -6,4 +6,4 @@
 
 2 - O subsídio por morte destina-se a compensar o acréscimo dos encargos decorrentes da morte do beneficiário, tendo em vista facilitar a reorganização da vida familiar.
 
-3 - (Revogado).
+3 - O subsídio por assistência de terceira pessoa tem por objectivo minimizar os encargos resultantes das situações de dependência do pensionista.

@@ -14,7 +14,7 @@
 
 ### Princípio geral
 
-1 - A pensão é devida a partir do início do mês seguinte ao do falecimento, no caso de ser requerida nos seis meses imediatos ao evento, e a partir do início do mês seguinte ao do requerimento, em caso contrário.
+1 - A pensão é devida a partir do início do mês seguinte ao do falecimento, no caso de ser requerida nos seis meses imediatos ao evento, e a partir do início do mês seguinte ao do requerimento, em caso contrário, e sem prejuízo do disposto no artigo 48.º
 
 2 - Tratando-se de nascituro, a pensão só é devida a partir do mês seguinte ao do nascimento.
 

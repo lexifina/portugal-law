@@ -4,10 +4,8 @@
 
 1 - As pensões de sobrevivência não podem ser de montante inferior ao valor que resulta da aplicação das respectivas percentagens de cálculo ao valor mínimo estabelecido por lei para as pensões de invalidez e de velhice.
 
-2 - O montante da pensão provisória de sobrevivência é o que resulta do cálculo efetuado nos termos gerais previstos no presente diploma, de acordo com os elementos disponíveis, sem prejuízo do disposto no número anterior.
+2 - O montante da pensão provisória de sobrevivência é igual ao valor mínimo da pensão considerada no número anterior.
 
 3 - Determinado o montante definitivo da pensão, se este for diferente do valor da pensão provisória entretanto atribuída, há lugar à respectiva regularização.
 
 4 - No caso de haver direito a pensões por morte do beneficiário, nos termos do regime jurídico de acidentes de trabalho e doenças profissionais, apenas será concedida a pensão de sobrevivência no montante que exceda o valor da pensão por risco profissional.
-
-5 - No caso de ex-cônjuge, cônjuge separado judicialmente de pessoas e bens e pessoa cujo casamento tenha sido declarado nulo ou anulado, o montante da pensão de sobrevivência não pode exceder o valor da pensão de alimentos que recebia do beneficiário à data do seu falecimento.
