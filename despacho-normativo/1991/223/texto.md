@@ -1,0 +1,5 @@
+Despacho Normativo n.º 223/91
+A Decisão da Comissão n.º 91/393/CEE, de 30 de Julho de 1991, vem alterar a anterior Decisão da Comissão n.º 91/146/CEE, de 19 de Março de 1991, relativa à proibição de importação de produtos do mar e de água doce originários ou provenientes do Peru.
+De harmonia com o estipulado no artigo 1.º da Decisão n.º 91/393/CEE, que altera a redacção do artigo 2.º da Decisão n.º 91/146/CEE, determina-se o seguinte:
+Aos lotes de trutas arco-íris (Salmo gairdneri) produzidas por Piscifactorias de los Andes, S. A., não se aplica a proibição determinada no n.º 1 do Despacho Normativo n.º 119/91, ficando a sua importação sujeita à emissão de licença, bem como ao certificado oficial emitido pelo Cerper e a uma declaração do Ministério da Saúde que certifique que, até à data da expedição, não tinha sido observado qualquer caso de cólera na província de Concepción.
+Ministério do Comércio e Turismo, 10 de Setembro de 1991. - Pelo Ministro do Comércio e Turismo, António Neto da Silva, Secretário de Estado do Comércio Externo.
