@@ -1,0 +1,16 @@
+Portaria n.º 683/86
+de 14 de Novembro
+O regime estabelecido na Portaria n.º 694/82, de 14 de Junho, embora justificado para certos casos de alienação de participações do sector público, revelou-se inadequado, pela excessiva rigidez das suas normas, em muitos outros casos.
+Na verdade, tanto o Estado como diversos entes públicos autónomos detêm um vasto número de participações minoritárias que ingressaram nos seus patrimónios por razões meramente acidentais (desde a devolução sucessória, por o Estado ser o último dos sucessores legítimos, até às nacionalizações verificadas) ou que têm um reduzido significado e valor patrimoniais (quer pela sua exígua dimensão quer por respeitarem a empresas em difícil situação económica ou financeira).
+Em qualquer dos casos não revestem aquelas participações algum interesse sob o ponto de vista da presença do Estado na economia, constituindo, pelo contrário, uma fonte de encargos nem sempre produtivos.
+Atentas estas circunstâncias, pretendeu o Governo, através da Portaria n.º 257/86, de 30 de Maio, estabelecer um regime especial que facilitasse a alienação e a aquisição das participações em referência, dispensando-as de qualquer intervenção ministerial e sujeitando-as apenas, como puro negócio de direito privado que é, às normas de direito comum. Ainda, por outro lado, para além da possibilidade de uma simples venda definitiva das participações, previram-se duas outras modalidades de transacção.
+Só que, por deficiência de expressão, não foi convenientemente traduzido o que seria o verdadeiro pensamento do legislador, restringindo-se, por via disso, o âmbito de aplicação a que o novo regime estaria destinado.
+Efectivamente, não só no preâmbulo foi utilizada uma linguagem que não permite distinguir com clareza qual o tipo de participações do sector público a que se destina o novo regime de alienação como o próprio articulado o restringe expressamente as participações minoritárias advindas ao património das empresas públicas e sociedades de capitais públicos devido às nacionalizações ou à sucessão legítima.
+Pelos inconvenientes que desta situação resultaram, convém proceder à necessária clarificação.
+Assim:
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças, ao abrigo do disposto no artigo 4.º do Decreto-Lei n.º 322/79, de 23 de Agosto, e nos termos dos artigos 34.º e 36.º da Lei n.º 80/77, de 26 de Outubro, com a redacção que lhes foi dada pelo Decreto-Lei n.º 343/80, de 2 de Setembro, ratificado com emendas pela Lei n.º 36/81 de 31 de Agosto, e tendo em atenção o disposto no n.º 2 do artigo 83.º da Constituição, o seguinte:
+1.º O regime instituído pela Portaria n.º 257/86, de 30 de Maio, aplica-se às empresas públicas e sociedades de capitais públicos titulares de participações minoritárias, qualquer que seja a proveniência destas.
+2.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+Ministério das Finanças.
+Assinada em 30 de Outubro de 1986.
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe.
