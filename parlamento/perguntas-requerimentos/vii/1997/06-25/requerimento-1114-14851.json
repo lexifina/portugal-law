@@ -1,0 +1,99 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=htpYpETdXfgHmO4bgl5XKGQk%2bkZ1UWePwKPL0a952OEb3q68QQJu%2fuE3NuR8L9cT16ct5X3RKqJkceDCyhfVGNPxhHXgbN1eGmi%2f%2fdU0g60yGc2cs%2bn1DMAEwQhj%2bKKB5yX47cODyxeVMUfaXI003Z9keT2kp2rW%2f7kxaUXxrVSf%2brEumAdcCbsQWmtnV66GATPJkIrBDauZqW%2fTWFG8va1dk%2bkmTLKSlM5McQDTmE0NcJE1JnQKMHMv4M0dnjHF6CV6z0vn0bWDxqqYFeDaU5FrwkU826iJw3qNEXisf524qng2dAL%2fTUTvJ5%2b5vdrQNfCO0dMi3U4dP2xTk2nscBJCzFAYe7g9Oj019EJl5HstUW53s7KuzZRGevOeN9LIKt96NeIqRpBfgUg0UQzT5g%3d%3d&fich=RequerimentosVII_json.txt&Inline=true",
+  "ficheiro_sha256": "c4242ebf0e6e244b5787c9940684dff06969f806e8cf9a27eebd15d714e35117",
+  "legislatura": "VII",
+  "id": "14851",
+  "tipo": "Requerimento",
+  "numero": "1114",
+  "data_registo": "1997-06-25",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "NAO INCLUSAO DAS TERMAS DE PEDRAS SALGADAS NA LISTA \"GOZE AS TERMAS NA DESPORTIVA\"",
+    "Autores": [
+      {
+        "GP": "PSD",
+        "idCadastro": "1519",
+        "nome": "Costa Pereira"
+      }
+    ],
+    "DataEnvio": "1997-06-28",
+    "Destinatarios": [
+      {
+        "dataEnvio": "1997-06-28",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Ministério da Economia",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": null,
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "1997-06-25",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d6c4e4d4c7a5a6c596d45335a5449344c5451314f444d744e445a6a4d4331684e54646a4c57466c597a686b4d4459315a575530596935775a47593d&fich=6eba7e28-4583-46c0-a57c-aec8d065ee4b.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "14851",
+    "Legislatura": "VII",
+    "Nr": "1114",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "24218",
+        "obs": "136-(7)",
+        "pag": [
+          "136-(7)-136-(7)"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "1997",
+        "pubLeg": "VII",
+        "pubNr": "28",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/07/02/028S1/1997-07-05/136-(7)?pgs=136-(7)&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": [
+      {
+        "dataResposta": null,
+        "docRemetida": null,
+        "entidade": "Ministério da Economia",
+        "ficheiro": "",
+        "ficheiroComTipo": null,
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "163074",
+            "obs": "150-(65)",
+            "pag": [
+              "150-(65)-150-(65)"
+            ],
+            "pagFinalDiarioSupl": "2º Supl.",
+            "pubdt": "1997",
+            "pubLeg": "VII",
+            "pubNr": "31",
+            "pubSL": "2",
+            "pubTipo": "DAR II série B",
+            "pubTp": "B",
+            "supl": "2º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/07/02/031S2/1997-09-05/150-(65)?pgs=150-(65)&org=PLC"
+          }
+        ]
+      }
+    ],
+    "Sessao": "2",
+    "Tipo": "Requerimento"
+  }
+}
