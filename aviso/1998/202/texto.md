@@ -1,0 +1,4 @@
+Aviso n.º 202/98
+Por ordem superior se faz público que, segundo comunicação do Ministério Federal dos Negócios Estrangeiros da Alemanha de 13 de Julho de 1998, o Governo do Usbequistão depositou, em 12 de Junho de 1998, o instrumento de adesão à Convenção sobre a Conservação das Espécies Migratórias Selvagens, concluído em 23 de Junho de 1979.
+O referido protocolo foi aprovado, para ratificação, por Portugal, nos termos do Decreto n.º 103/80, publicado no Diário da República, 1.ª série-A, n.º 236, de 11 de Outubro de 1980, tendo sido depositado o correspondente instrumento em 21 de Janeiro de 1981, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 162, de 16 de Julho de 1998. A Convenção entrou em vigor para Portugal em 1 de Novembro de 1996.
+Direcção-Geral dos Assuntos Multilaterais, 6 de Outubro de 1998. - O Director de Serviços das Organizações Económicas Internacionais, João Perestrello Cavaco.
