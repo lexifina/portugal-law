@@ -1,0 +1,5 @@
+Despacho Normativo n.º 254/82
+O Despacho Normativo n.º 218/82, de 12 de Outubro, aprova uma tabela para vigorar nos chamados «espectáculos de grande lotação», conforme se refere expressamente no seu n.º 1.
+Para o efeito do n.º 1 do citado despacho normativo não são considerados espectáculos de grande lotação todos aqueles em que não sejam cobrados bilhetes de entrada aos espectadores ou respeitantes a competições de âmbito não superior ao escalão distrital.
+Nos casos acima referidos serão gratuitos os serviços prestados pelos militares da Guarda Nacional Republicana e pelo pessoal da Polícia de Segurança Pública, cujos elementos afectos a tal serviço não poderão ultrapassar o número de 3, sendo aplicável a tabela constante do Despacho Normativo n.º 218/82, de 12 de Outubro, para as forças que forem expressamente requisitadas pelas entidades promotoras dos espectáculos para além daquele número.
+Ministérios da Qualidade de Vida e da Administração Interna, 5 de Novembro de 1982. - O Ministro de Estado e da Qualidade de Vida, Gonçalo Pereira Ribeiro Teles. - O Ministro da Administração Interna, José Ângelo Ferreira Correia.
