@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1937/05/10900/04610462.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1937-05-12",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "db5dcf2dad70fff70e79b268c82281124a3d5ad39cb0457d9a48233eeb9ec8dd",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.8,
+    "pages": 2,
+    "columns": [
+      3,
+      4
+    ],
+    "pdf_sha256": "356bf60801aae5ed58f0ac8892f0293c7b80804b834211a1b37830ddccdbfdef",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 1275
 }
