@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que o Governo Português procedeu em 19 de Dezembro de 1962 ao depósito junto do secretário-geral da Organização das Nações Unidas dos instrumentos de ratificação da Convenção sobre o mar territorial e a zona contígua, da Convenção sobre o alto mar, da Convenção sobre pesca, da Convenção dos recursos biológicos do alto mar, da Convenção sobre a plataforma continental e do Protocolo de assinatura relativo à regularização obrigatória das divergências, aprovadas na 1.ª Conferência de Direito do Mar, realizada em Genebra em 1958, e assinadas em 28 de Outubro do mesmo ano.
+Direcção-Geral dos Negócios Económicos e Consulares, 24 de Janeiro de 1963. - O Director-Geral, Albano Pires Fernandes Nogueira.
