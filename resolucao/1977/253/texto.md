@@ -1,0 +1,5 @@
+Resolução n.º 253/77
+Considerando que, encontrando-se ultimado o processo da cessação da intervenção do Estado na Eurofil - Indústrias de Petróleo, Plásticos e Filamentos, S. A. R. L., não se justifica a manutenção da requisição feita à Tabaqueira - Empresa Industrial de Tabacos, E. P., de Eugénio Gabriel Codina Natividade para membro da comissão administrativa daquela empresa:
+O Conselho de Ministros, reunido em 8 de Setembro de 1977, resolveu:
+Dar por findas, com efeitos a partir de 7 de Setembro de 1977, as funções de Eugénio Gabriel Codina Natividade como membro da comissão administrativa da Eurofil - Indústrias de petróleo, Plásticos e Filamentos, S. A. R. L., para a qual foi nomeado por resolução do Conselho de Ministros de 27 de Janeiro de 1977 e publicada no Diário da República, 2.ª série, n.º 34, de 10 de Fevereiro de 1977, e determinar o seu regresso à empresa a que se encontra requisitado.
+Presidência do Conselho de Ministros, 8 de Setembro de 1977. - O Primeiro-Ministro, Mário Soares.
