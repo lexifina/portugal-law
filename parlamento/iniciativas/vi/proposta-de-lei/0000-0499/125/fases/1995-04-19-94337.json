@@ -1,0 +1,593 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=6tRSrsS472KL0pihrbeU3Juv4E5ApzTlkuIJMDYc5d38v4XsZgYhKVB7Ayr7k6BD7ZNRnhu1uQv2nCwvvkoyXJgfHcd33Rt69gnnqGDLZ7jjDe9WHr1ZOrkFyZHrN%2bdvof6dUKIxE5Wasjk0TQFMyoX%2fKDcVSYqW4xooRfuNYiYxRnpgxINjnNAVq18dgakPF%2fXopgVWi9%2fPK8k2cZ5tRjc%2bd8zO7m6xWvdsbeUHkofo9FaMQ0PghWTFmLBF2ObMw8XQM9vXrZDGjYuCymHSoJrECXBxqIIzCmd0QdMQC5B6LWcA54XELbiVJgZxukznf%2fhdJzQ3jKe6Egx9h%2fh5EH5FtypL9lWrfzDQfsf80Is%3d&fich=IniciativasVI_json.txt&Inline=true",
+  "ficheiro_sha256": "cb79e0745a8347d94ab476dc88937917b337689f6631b8b987a47bad388a33b7",
+  "legislatura": "VI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "125",
+    "id": "3318",
+    "titulo": "Altera o regime do direito de antena nas eleições presidenciais e legislativas."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1995-04-19",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "110",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1995-04-19",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1995-04-19",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "123",
+                "nome": "Miguel Macedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40163",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2124-2124"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-04-20",
+                "pubLeg": "VI",
+                "pubNr": "64",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/064/1995-04-20/2124?pgs=2124&org=PLC"
+              }
+            ],
+            "sumario": "ELEICOES PRESIDENCIAIS E LEGISLATIVAS: DIREITO DE ANTENA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Indep",
+                "idCadastro": "220",
+                "nome": "Mário Tomé"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40164",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2121-2121"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-04-20",
+                "pubLeg": "VI",
+                "pubNr": "64",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/064/1995-04-20/2121?pgs=2121&org=PLC"
+              }
+            ],
+            "sumario": "ELEICOES PRESIDENCIAIS E LEGISLATIVAS: DIREITO DE ANTENA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "228",
+                "nome": "Manuel Queiró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40165",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2120-2121"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-04-20",
+                "pubLeg": "VI",
+                "pubNr": "64",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/064/1995-04-20/2120?pgs=2120-2121&org=PLC"
+              }
+            ],
+            "sumario": "ELEICOES PRESIDENCIAIS E LEGISLATIVAS: DIREITO DE ANTENA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40166",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2119-2120",
+                  "2122-2125"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-04-20",
+                "pubLeg": "VI",
+                "pubNr": "64",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/064/1995-04-20/2119?pgs=2119-2120,2122-2125&org=PLC"
+              }
+            ],
+            "sumario": "ELEICOES PRESIDENCIAIS E LEGISLATIVAS: DIREITO DE ANTENA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "123",
+                "nome": "Miguel Macedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40167",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2118-2119"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-04-20",
+                "pubLeg": "VI",
+                "pubNr": "64",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/064/1995-04-20/2118?pgs=2118-2119&org=PLC"
+              }
+            ],
+            "sumario": "ELEICOES PRESIDENCIAIS E LEGISLATIVAS: DIREITO DE ANTENA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40168",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2117-2118"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-04-20",
+                "pubLeg": "VI",
+                "pubNr": "64",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/064/1995-04-20/2117?pgs=2117-2118&org=PLC"
+              }
+            ],
+            "sumario": "ELEICOES PRESIDENCIAIS E LEGISLATIVAS: DIREITO DE ANTENA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "228",
+                "nome": "Manuel Queiró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40169",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2116-2116"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-04-20",
+                "pubLeg": "VI",
+                "pubNr": "64",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/064/1995-04-20/2116?pgs=2116&org=PLC"
+              }
+            ],
+            "sumario": "ELEICOES PRESIDENCIAIS E LEGISLATIVAS: DIREITO DE ANTENA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Indep",
+                "idCadastro": "568",
+                "nome": "Raúl Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40170",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2116-2116"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-04-20",
+                "pubLeg": "VI",
+                "pubNr": "64",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/064/1995-04-20/2116?pgs=2116&org=PLC"
+              }
+            ],
+            "sumario": "ELEICOES PRESIDENCIAIS E LEGISLATIVAS: DIREITO DE ANTENA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "462",
+                "nome": "Alberto Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40172",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2114-2114"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-04-20",
+                "pubLeg": "VI",
+                "pubNr": "64",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/064/1995-04-20/2114?pgs=2114&org=PLC"
+              }
+            ],
+            "sumario": "ELEICOES PRESIDENCIAIS E LEGISLATIVAS: DIREITO DE ANTENA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  ADJUNTO DO MINISTRO DA  ADM. INTERNA",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Carlos Encarnaçao"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107323",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2114-2117",
+                  "2121-2122"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-04-20",
+                "pubLeg": "VI",
+                "pubNr": "64",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/064/1995-04-20/2114?pgs=2114-2117,2121-2122&org=PLC"
+              }
+            ],
+            "sumario": "ELEICOES PRESIDENCIAIS E LEGISLATIVAS: DIREITO DE ANTENA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "SUBSECRETÁRIO DE ESTADO  ADJUNTO DO MINISTRO ADJUNTO",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Amandio Oliveira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107324",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2124-2124"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-04-20",
+                "pubLeg": "VI",
+                "pubNr": "64",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/064/1995-04-20/2124?pgs=2124&org=PLC"
+              }
+            ],
+            "sumario": "ELEICOES PRESIDENCIAIS E LEGISLATIVAS: DIREITO DE ANTENA",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "94337",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "110",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1995-04-20",
+        "pubLeg": "VI",
+        "pubNr": "64",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/064/1995-04-20?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
