@@ -1,0 +1,7 @@
+Decreto-Lei n.º 46246
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. Os terceiros-oficiais contratados ao abrigo do disposto no artigo 15.º do Decreto-Lei n.º 43624, de 27 de Abril de 1961, para o desempenho de funções provisórias da Direcção-Geral da Contabilidade Pública e os nomeados interinamente para a mesma categoria e que nessas situações ainda se encontrem a prestar serviço findo que seja o prazo de validade do seu concurso, serão nomeados para o exercício das mesmas funções em vacaturas que existam ou venham a existir no quadro da aludida Direcção-Geral, sem dependência de novo concurso.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 19 de Março de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocência Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Para ser presente à Assembleia Nacional.
