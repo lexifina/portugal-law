@@ -1,0 +1,600 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "47",
+    "id": "19586",
+    "titulo": "Cria um novo instrumento de gestão destinado a conferir aos Conselhos Superiores e ao Ministério da Justiça competência para adoptar medidas excepcionais destinadas a superar situações de carência do quadro de magistrados."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2003-04-03",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2509",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2003-04-03",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2003-04-03",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  ADJUNTO DO  MINISTRO DA  JUSTICA",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Joao Mota De Campos"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144787",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4535-4535",
+                  "4537-4537",
+                  "4544-4544"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-04",
+                "pubLeg": "IX",
+                "pubNr": "108",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/108/2003-04-04/4535?pgs=4535,4537,4544&org=PLC"
+              }
+            ],
+            "sumario": "Cria um novo instrumento de gestão destinado a conferir aos Conselhos Superiores e ao Ministério da Justiça competência para adoptar medidas excepcionais destinadas a superar situações de carência do quadro de magistrados.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "614",
+                "nome": "Celeste Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144789",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4535-4535"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-04",
+                "pubLeg": "IX",
+                "pubNr": "108",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/108/2003-04-04/4535?pgs=4535&org=PLC"
+              }
+            ],
+            "sumario": "Cria um novo instrumento de gestão destinado a conferir aos Conselhos Superiores e ao Ministério da Justiça competência para adoptar medidas excepcionais destinadas a superar situações de carência do quadro de magistrados.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1962",
+                "nome": "Adriana de Aguiar Branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144790",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4536-4536"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-04",
+                "pubLeg": "IX",
+                "pubNr": "108",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/108/2003-04-04/4536?pgs=4536&org=PLC"
+              }
+            ],
+            "sumario": "Cria um novo instrumento de gestão destinado a conferir aos Conselhos Superiores e ao Ministério da Justiça competência para adoptar medidas excepcionais destinadas a superar situações de carência do quadro de magistrados.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1987",
+                "nome": "Eduardo Cabrita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144791",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4536-4536"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-04",
+                "pubLeg": "IX",
+                "pubNr": "108",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/108/2003-04-04/4536?pgs=4536&org=PLC"
+              }
+            ],
+            "sumario": "Cria um novo instrumento de gestão destinado a conferir aos Conselhos Superiores e ao Ministério da Justiça competência para adoptar medidas excepcionais destinadas a superar situações de carência do quadro de magistrados.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144792",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4536-4537"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-04",
+                "pubLeg": "IX",
+                "pubNr": "108",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/108/2003-04-04/4536?pgs=4536-4537&org=PLC"
+              }
+            ],
+            "sumario": "Cria um novo instrumento de gestão destinado a conferir aos Conselhos Superiores e ao Ministério da Justiça competência para adoptar medidas excepcionais destinadas a superar situações de carência do quadro de magistrados.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1373",
+                "nome": "Osvaldo de Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144793",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4538-4540"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-04",
+                "pubLeg": "IX",
+                "pubNr": "108",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/108/2003-04-04/4538?pgs=4538-4540&org=PLC"
+              }
+            ],
+            "sumario": "Cria um novo instrumento de gestão destinado a conferir aos Conselhos Superiores e ao Ministério da Justiça competência para adoptar medidas excepcionais destinadas a superar situações de carência do quadro de magistrados.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144794",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4539-4539"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-04",
+                "pubLeg": "IX",
+                "pubNr": "108",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/108/2003-04-04/4539?pgs=4539&org=PLC"
+              }
+            ],
+            "sumario": "Cria um novo instrumento de gestão destinado a conferir aos Conselhos Superiores e ao Ministério da Justiça competência para adoptar medidas excepcionais destinadas a superar situações de carência do quadro de magistrados.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1245",
+                "nome": "António Montalvão Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144795",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4540-4541"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-04",
+                "pubLeg": "IX",
+                "pubNr": "108",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/108/2003-04-04/4540?pgs=4540-4541&org=PLC"
+              }
+            ],
+            "sumario": "Cria um novo instrumento de gestão destinado a conferir aos Conselhos Superiores e ao Ministério da Justiça competência para adoptar medidas excepcionais destinadas a superar situações de carência do quadro de magistrados.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144796",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4542-4542",
+                  "4544-4544"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-04",
+                "pubLeg": "IX",
+                "pubNr": "108",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/108/2003-04-04/4542?pgs=4542,4544&org=PLC"
+              }
+            ],
+            "sumario": "Cria um novo instrumento de gestão destinado a conferir aos Conselhos Superiores e ao Ministério da Justiça competência para adoptar medidas excepcionais destinadas a superar situações de carência do quadro de magistrados.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144797",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4542-4543"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-04",
+                "pubLeg": "IX",
+                "pubNr": "108",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/108/2003-04-04/4542?pgs=4542-4543&org=PLC"
+              }
+            ],
+            "sumario": "Cria um novo instrumento de gestão destinado a conferir aos Conselhos Superiores e ao Ministério da Justiça competência para adoptar medidas excepcionais destinadas a superar situações de carência do quadro de magistrados.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144798",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4543-4544"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-04",
+                "pubLeg": "IX",
+                "pubNr": "108",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/108/2003-04-04/4543?pgs=4543-4544&org=PLC"
+              }
+            ],
+            "sumario": "Cria um novo instrumento de gestão destinado a conferir aos Conselhos Superiores e ao Ministério da Justiça competência para adoptar medidas excepcionais destinadas a superar situações de carência do quadro de magistrados.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "155886",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2509",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-04-04",
+        "pubLeg": "IX",
+        "pubNr": "108",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/108/2003-04-04?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
