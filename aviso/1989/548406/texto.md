@@ -1,0 +1,8 @@
+Aviso
+Por ordem superior se torna público que o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou, por nota de 17 de Abril de 1989, nos termos do artigo 31.º, alínea c), da Convenção Relativa à Citação e à Notificação no Estrangeiro dos Actos Judiciais e Extrajudiciais em Matéria Civil ou Comercial, concluída na Haia a 15 de Novembro de 1965, que a 26 de Setembro de 1988 o Canadá depositou o instrumento de adesão à referida Convenção junto do Ministério dos Negócios Estrangeiros do Reino dos Países Baixos, nos termos do artigo 28.º, parágrafo 1.º
+Esta adesão tinha sido comunicada pelo Governo Holandês a 29 de Setembro de 1988 aos Estados que tinham ratificado a Convenção. Em virtude de nenhum destes Estados se ter oposto à adesão no prazo de seis meses, previsto pelo artigo 28.º, parágrafo 2.º, a adesão tornou-se definitiva a 10 de Abril de 1989.
+Nos termos do artigo 28.º, parágrafo 3.º, as disposições da Convenção entrarão em vigor para o Canadá a 1 de Maio de 1989.
+O texto oficial da Convenção em francês e a tradução oficial em português foram publicados no Decreto-Lei n.º 210/71, de 18 de Maio, que aprovou, para ratificação, aquela Convenção.
+Portugal é parte na Convenção em apreço, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 20, de 24 de Janeiro de 1974.
+Nos termos do artigo 21.º da Convenção, o Canadá fez as designações e declarações que constam do aviso publicado no Diário da República, 1.ª série, n.º 74, de 30 de Março de 1989.
+Secretaria-Geral do Ministério, 5 de Setembro de 1989. - O Chefe do Serviço Jurídico e de Tratados, Fernão Manuel Homem de Gouveia Favila Vieira.
