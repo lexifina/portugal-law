@@ -1,0 +1,10 @@
+Portaria n.º 150-A/76
+de 17 de Março
+Considerando a gravidade da situação existente nos serviços hospitalares e demais serviços de saúde, em consequência da greve dos enfermeiros;
+Considerando que o Conselho de Ministros, na sua reunião de 16 de Março de 1976, reconheceu a necessidade de obviar imediatamente ao prolongamento da grave situação actual, através da requisição civil do pessoal de enfermagem:
+Manda o Governo da República Portuguesa, pelos Ministros da Administração Interna, da Educação e Investigação Científica e dos Assuntos Sociais, que, nos termos do artigo 4.º do Decreto-Lei n.º 637/74, de 20 de Novembro:
+1. Seja feita a requisição civil do pessoal de enfermagem dependente da Direcção-Geral do Ensino Superior, da Direcção-Geral dos Hospitais, da Direcção-Geral de Saúde e da Direcção-Geral da Previdência, na zona sul do continente, a partir desta data, para prestar os serviços que vinha desempenhando anteriormente à greve iniciada em 12 de Março de 1976 e até que sejam estabelecidas as condições normais de trabalho.
+2. As autoridades hospitalares, as autoridades dos serviços de saúde e das caixas de previdência (Serviços Médico-Sociais) garantirão a prestação dos cuidados de enfermagem e a liberdade de trabalho dentro dos estabelecimentos sob a sua jurisdição, recorrendo para tanto, se necessário, à intervenção das forças de segurança.
+3. O Ministro dos Assuntos Sociais e o Secretário de Estado da Saúde determinarão a substituição por despacho das autoridades referidas no número anterior que não garantirem a prestação de cuidados de enfermagem e a liberdade de trabalho dentro dos edifícios sob sua jurisdição.
+4. Esta portaria entra imediatamente em vigor.
+Ministérios da Administração Interna, da Educação e Investigação Científica e dos Assuntos Sociais, 17 de Março de 1976. - Pelo Ministro da Administração Interna, Rui Alberto Barradas do Amaral. - O Ministro da Educação e Investigação Científica, Vítor Manuel Rodrigues Alves. - O Ministro dos Assuntos Sociais, Rui Manuel Parente Chancerelle de Machete.
