@@ -1,0 +1,10 @@
+Resolução da Assembleia da República n.º 60/2002
+Constituição de uma comissão parlamentar de inquérito aos actos do Governo e da administração do Metropolitano de Lisboa, E. P., relativamente às obras da nova linha sob o Terreiro do Paço, em Lisboa.
+A Assembleia da República, nos termos do n.º 4 do artigo 178.º da Constituição e da alínea b) do n.º 1 do artigo 2.º da Lei n.º 5/93, de 1 de Março, constitui:
+1 - Uma comissão eventual de inquérito parlamentar aos actos do Governo e do conselho de gerência do Metropolitano de Lisboa, E. P., no que respeita aos factos ocorridos posteriormente ao despacho do Ministro do Equipamento Social de 16 de Agosto de 2000, relativo às conclusões da comissão de inquérito ao acidente ocorrido em 9 de Junho de 2000, que conduziram ao estabelecimento de um acordo com o adjudicatário da empreitada de construção da estação do Terreiro do Paço, celebrado em 27 de Maio de 2001, bem como ao apuramento das condições de cumprimento ou razões de incumprimento do referido despacho.
+2 - O mandato da comissão incide sobre:
+a) O conteúdo e fundamentos do despacho do Ministro do Equipamento Social referido no número anterior e a execução que lhe foi dada em especial às determinações constantes do seu n.º 1;
+b) Determinar o quadro de imputação de prejuízos e responsabilidades pela sua cobertura, relativamente a todas as entidades envolvidas, decorrente do despacho do Ministro do Equipamento Social referido no número anterior;
+c) Determinar o quadro de imputação de prejuízos e responsabilidades pela sua cobertura, relativamente a todas as entidades envolvidas, decorrente do novo acordo celebrado com o adjudicatário em 27 de Maio de 2001;
+d) Levantamento e apreciação de todos os factos, estudos e deliberações do Metropolitano de Lisboa, E. P., e da respectiva tutela, que tenham servido de suporte e fundamento à celebração do acordo de 27 de Maio de 2001 referido no número anterior.
+Palácio de São Bento, 24 de Outubro de 2002. - O Presidente da Assembleia da República, João Bosco Mota Amaral.
