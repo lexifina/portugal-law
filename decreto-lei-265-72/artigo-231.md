@@ -1,11 +1,3 @@
-## Capítulo XII
-
-## Transgressões marítimas
-
-## Capítulo XIII
-
-## Disposições especiais sobre actividades de embarcações
-
 # Artigo 231.º
 
 ### Tráfego marítimo entre portos portugueses

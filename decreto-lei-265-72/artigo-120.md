@@ -4,9 +4,9 @@
 
 1. Sem prejuízo do preceituado no C. P. D. M. M., as embarcações têm direito ao uso da bandeira como indicação da sua nacionalidade, nas seguintes condições:
 
-a) Da bandeira portuguesa, se estiverem registados numa repartição marítima ou, sendo de recreio, nos termos estabelecidos em diploma especial;
+a) Da bandeira portuguesa, se estiverem registadas numa repartição marítima da metrópole ou das províncias ultramarinas ou, se forem de recreio, no organismo legalmente autorizado para esse fim;
 
-b) Da bandeira de Estado membro da União Europeia ou do espaço económico europeu ou de país terceiro, na medida em que tal direito lhes seja conferido pela ordem jurídica desse país, nomeadamente em virtude de registo, e desde que possuam documentação que o comprove, a qual devem apresentar às autoridades marítimas nacionais sempre que estas o exigirem.
+b) Da bandeira do respectivo país, se estiverem legalmente registadas em países estrangeiros ou, se forem de recreio, em clubes náuticos legalmente autorizados, possuindo os necessários papéis de bordo que o comprovem e que terão de apresentar às autoridades marítimas portuguesas quando lhes for exigido.
 
 2. Relativamente ao uso de bandeira indicativa da nacionalidade pelas embarcações deve ter-se em atenção o seguinte:
 

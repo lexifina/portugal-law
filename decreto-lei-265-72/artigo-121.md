@@ -6,7 +6,7 @@
 
 a) Título de propriedade;
 
-b) (Revogada.)
+b) Passaporte de embarcação;
 
 c) Rol de matrícula;
 
@@ -18,9 +18,9 @@ f) Certificado internacional das linhas de carga ou certificado das linhas de á
 
 g) Impresso para informação das condições em que foi feito o carregamento;
 
-h) (Revogada.)
+h) Certificado de inspecção dos meios de salvação;
 
-i) (Revogada.)
+i) Certificados e outros documentos do Regulamento do Serviço Radioeléctrico das Embarcações (R. S. R. E.);
 
 j) Certificados e outros documentos do R. I. M.;
 

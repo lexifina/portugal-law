@@ -8,7 +8,7 @@
 
 a) De tráfego local;
 
-b) De pesca, com excepção das de pesca do largo;
+b) De pesca, com excepção da longínqua;
 
 c) Rebocadores e embarcações auxiliares locais e costeiros;
 

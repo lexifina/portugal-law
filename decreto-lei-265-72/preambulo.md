@@ -1,7 +1,3 @@
-Decreto-Lei n.º 265/72
-
-de 31 de Julho
-
 1. O Regulamento Geral das Capitanias, aprovado por Decreto de 1 de Dezembro de 1892, mais que um simples regulamento daqueles organismos, tem constituído, desde a citada data, o diploma fundamental das actividades marítimas civis, designadamente no que respeita à intervenção do Ministério da Marinha nas mesmas actividades.
 
 2. Há pelo menos meio século que foi reconhecida a necessidade de actualizar aquele diploma. Muitas tentativas foram feitas nesse sentido, mas a desactualização das disposições legais em vigor, a dispersão da legislação relativa à matéria, a maneira diferente como aquelas disposições têm sido interpretadas em diversos locais e em diferentes ocasiões nunca permitiram que tal tarefa fosse cumprida com êxito.

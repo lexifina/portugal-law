@@ -10,7 +10,7 @@ a) De tráfego local;
 
 b) De pesca local e costeira;
 
-c) De pesca do largo, quando não se destinem a porto estrangeiro;
+c) De pesca do alto e longínqua, quando não se destinem a porto estrangeiro;
 
 d) Rebocadores e embarcações auxiliares locais e costeiros;
 

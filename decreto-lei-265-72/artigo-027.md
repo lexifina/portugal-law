@@ -8,7 +8,7 @@
 
 a) Para as registadas nos portos do continente - entre estes portos;
 
-b) Para as registadas nos portos da Região Autónoma dos Açores - entre quaisquer portos das respectivas ilhas;
+b) Para as registadas nos portos do arquipélago dos Açores - entre quaisquer portos do conjunto de ilhas que constituem o grupo ocidental ou o conjunto dos grupos central e oriental;
 
 c) Para as registadas nos portos do arquipélago da Madeira - entre as ilhas da Madeira, Porto Santo, Desertas e Selvagens.
 
