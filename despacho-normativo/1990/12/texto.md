@@ -1,0 +1,9 @@
+Despacho Normativo n.º 12/90
+Considerando que, nos termos do Decreto-Lei n.º 156/83, de 14 de Abril, a taxa a ser paga pelas seguradoras a favor do Instituto de Seguros de Portugal deve ser fixada anualmente pelo Ministro das Finanças;
+Atendendo a que igual procedimento está previsto para as entidades gestoras de fundos de pensões, conforme o artigo 1.º, n.º 2, do Decreto-Lei n.º 171/87, de 20 de Abril;
+Tendo em atenção a proposta apresentada pelo Instituto de Seguros de Portugal com base na sua previsão orçamental para 1990:
+Determino, nos termos do artigo 3.º do Decreto-Lei n.º 156/83, de 14 de Abril, e do artigo 1.º, n.º 2, do Decreto-Lei n.º 171/87, de 20 de Abril, o seguinte:
+1 - A taxa a favor do Instituto de Seguros de Portugal prevista no artigo 2.º do Decreto-Lei n.º 156/83, de 14 de Abril, é, para o ano de 1990, fixada em 0,25% sobre a receita processada relativamente aos seguros directos do ramo «Vida» e em 0,45% sobre a receita processada relativamente aos seguros directos dos restantes ramos.
+2 - A taxa a favor do Instituto de Seguros de Portugal a suportar pelas entidades gestoras de fundos de pensões, prevista no artigo 1.º do Decreto-Lei n.º 171/87, de 20 de Abril, é, para o ano de 1990, fixada em 0,1% sobre a totalidade das contribuições efectuadas pelos associados e pelos participantes para os correspondentes fundos de pensões.
+3 - O montante correspondente à aplicação das percentagens referidas nos n.os 1 e 2 supracitados deverá ser liquidado nos termos do n.º 4 do Despacho Normativo n.º 121/83, de 3 de Maio (taxa sobre os prémios de seguros), e do artigo 1.º, n.º 3, do Decreto-Lei n.º 171/87, de 20 de Abril (taxa sobre as contribuições para fundos de pensões).
+Secretaria de Estado do Tesouro, 17 de Janeiro de 1990. - O Secretário de Estado do Tesouro, Carlos Manuel Tavares da Silva.
