@@ -1,0 +1,2 @@
+Rectificação
+No sumário da Portaria n.º 682/73, publicada pelo Ministério do Ultramar, Gabinete do Plano do Zambeze, inserta no Diário do Governo, 1.ª série, n.º 236, de 9 de Outubro de 1973, onde se lê: «Apura o 2.º orçamento da receita e despesa do Gabinete do Plano do Zambeze para o ano de 1973», deve ler-se: «Aprova o 2.º orçamento da receita e despesa do Gabinete do Plano do Zambeze para o ano de 1973».
