@@ -1,0 +1,1326 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "180",
+    "id": "4757",
+    "titulo": "Estabelece o regime financeiro das autarquias locais."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1998-06-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "924",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1998-06-08",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "4867",
+        "leg": "VII",
+        "nr": "164",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "321",
+            "obs": null,
+            "pag": [
+              "2722-2748"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1998-06-09",
+            "pubLeg": "VII",
+            "pubNr": "79",
+            "pubSL": "3",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/079/1998-06-09/2722?pgs=2722-2748&org=PLC"
+          }
+        ],
+        "sel": "3",
+        "tipo": "P",
+        "titulo": "Altera o decreto-lei n° 116/84,de 6 de Abril, que revê o regime de organização e funcionamento dos serviços técnico-administrativos das autarquias locais."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1998-06-08",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "52128",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2747-2747"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-09",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/079/1998-06-09/2747?pgs=2747&org=PLC"
+              }
+            ],
+            "sumario": "AUTARQUIAS LOCAIS: REGIME FINANCEIRO E FUNCIONAMENTO DOS SERVICOS TECNICO-ADMINISTRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "1192",
+                "nome": "Carmen Francisco"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "52129",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2744-2744"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-09",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/079/1998-06-09/2744?pgs=2744&org=PLC"
+              }
+            ],
+            "sumario": "AUTARQUIAS LOCAIS: REGIME FINANCEIRO E FUNCIONAMENTO DOS SERVICOS TECNICO-ADMINISTRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1168",
+                "nome": "José Egípto"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "52131",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2742-2742"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-09",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/079/1998-06-09/2742?pgs=2742&org=PLC"
+              }
+            ],
+            "sumario": "AUTARQUIAS LOCAIS: REGIME FINANCEIRO E FUNCIONAMENTO DOS SERVICOS TECNICO-ADMINISTRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "121",
+                "nome": "Mário Albuquerque"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "52132",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2741-2742"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-09",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/079/1998-06-09/2741?pgs=2741-2742&org=PLC"
+              }
+            ],
+            "sumario": "AUTARQUIAS LOCAIS: REGIME FINANCEIRO E FUNCIONAMENTO DOS SERVICOS TECNICO-ADMINISTRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1287",
+                "nome": "Sílvio Rui Cervan"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "52133",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2739-2739"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-09",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/079/1998-06-09/2739?pgs=2739&org=PLC"
+              }
+            ],
+            "sumario": "AUTARQUIAS LOCAIS: REGIME FINANCEIRO E FUNCIONAMENTO DOS SERVICOS TECNICO-ADMINISTRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "52134",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2737-2741",
+                  "2747-2748"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-09",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/079/1998-06-09/2737?pgs=2737-2741,2747-2748&org=PLC"
+              }
+            ],
+            "sumario": "AUTARQUIAS LOCAIS: REGIME FINANCEIRO E FUNCIONAMENTO DOS SERVICOS TECNICO-ADMINISTRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "52135",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2737-2737"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-09",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/079/1998-06-09/2737?pgs=2737&org=PLC"
+              }
+            ],
+            "sumario": "AUTARQUIAS LOCAIS: REGIME FINANCEIRO E FUNCIONAMENTO DOS SERVICOS TECNICO-ADMINISTRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "52136",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2735-2737"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-09",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/079/1998-06-09/2735?pgs=2735-2737&org=PLC"
+              }
+            ],
+            "sumario": "AUTARQUIAS LOCAIS: REGIME FINANCEIRO E FUNCIONAMENTO DOS SERVICOS TECNICO-ADMINISTRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "52137",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2734-2734"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-09",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/079/1998-06-09/2734?pgs=2734&org=PLC"
+              }
+            ],
+            "sumario": "AUTARQUIAS LOCAIS: REGIME FINANCEIRO E FUNCIONAMENTO DOS SERVICOS TECNICO-ADMINISTRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "35",
+                "nome": "Carlos Coelho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "52138",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2734-2734"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-09",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/079/1998-06-09/2734?pgs=2734&org=PLC"
+              }
+            ],
+            "sumario": "AUTARQUIAS LOCAIS: REGIME FINANCEIRO E FUNCIONAMENTO DOS SERVICOS TECNICO-ADMINISTRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1159",
+                "nome": "Manuel Varges"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "52139",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2733-2733"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-09",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/079/1998-06-09/2733?pgs=2733&org=PLC"
+              }
+            ],
+            "sumario": "AUTARQUIAS LOCAIS: REGIME FINANCEIRO E FUNCIONAMENTO DOS SERVICOS TECNICO-ADMINISTRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1385",
+                "nome": "Gonçalo Ribeiro da Costa"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "52140",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2732-2734",
+                  "2743-2743"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-09",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/079/1998-06-09/2732?pgs=2732-2734,2743&org=PLC"
+              }
+            ],
+            "sumario": "AUTARQUIAS LOCAIS: REGIME FINANCEIRO E FUNCIONAMENTO DOS SERVICOS TECNICO-ADMINISTRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1269",
+                "nome": "Júlio Faria"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "52141",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2730-2731"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-09",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/079/1998-06-09/2730?pgs=2730-2731&org=PLC"
+              }
+            ],
+            "sumario": "AUTARQUIAS LOCAIS: REGIME FINANCEIRO E FUNCIONAMENTO DOS SERVICOS TECNICO-ADMINISTRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1401",
+                "nome": "Artur Torres Pereira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "52142",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2730-2730"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-09",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/079/1998-06-09/2730?pgs=2730&org=PLC"
+              }
+            ],
+            "sumario": "AUTARQUIAS LOCAIS: REGIME FINANCEIRO E FUNCIONAMENTO DOS SERVICOS TECNICO-ADMINISTRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "52143",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2729-2729"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-09",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/079/1998-06-09/2729?pgs=2729&org=PLC"
+              }
+            ],
+            "sumario": "AUTARQUIAS LOCAIS: REGIME FINANCEIRO E FUNCIONAMENTO DOS SERVICOS TECNICO-ADMINISTRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1401",
+                "nome": "Artur Torres Pereira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "52144",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2726-2729",
+                  "2731-2732",
+                  "2745-2748"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-09",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/079/1998-06-09/2726?pgs=2726-2729,2731-2732,2745-2748&org=PLC"
+              }
+            ],
+            "sumario": "AUTARQUIAS LOCAIS: REGIME FINANCEIRO E FUNCIONAMENTO DOS SERVICOS TECNICO-ADMINISTRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1087",
+                "nome": "Pedro Feist"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "52145",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2725-2725"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-09",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/079/1998-06-09/2725?pgs=2725&org=PLC"
+              }
+            ],
+            "sumario": "AUTARQUIAS LOCAIS: REGIME FINANCEIRO E FUNCIONAMENTO DOS SERVICOS TECNICO-ADMINISTRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "1192",
+                "nome": "Carmen Francisco"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "52146",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2725-2725"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-09",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/079/1998-06-09/2725?pgs=2725&org=PLC"
+              }
+            ],
+            "sumario": "AUTARQUIAS LOCAIS: REGIME FINANCEIRO E FUNCIONAMENTO DOS SERVICOS TECNICO-ADMINISTRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "52147",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2724-2734"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-09",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/079/1998-06-09/2724?pgs=2724-2734&org=PLC"
+              }
+            ],
+            "sumario": "AUTARQUIAS LOCAIS: REGIME FINANCEIRO E FUNCIONAMENTO DOS SERVICOS TECNICO-ADMINISTRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1385",
+                "nome": "Gonçalo Ribeiro da Costa"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "52148",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-09",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/079/1998-06-09?org=PLC"
+              }
+            ],
+            "sumario": "AUTARQUIAS LOCAIS: REGIME FINANCEIRO E FUNCIONAMENTO DOS SERVICOS TECNICO-ADMINISTRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "216",
+                "nome": "Luís Sá"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "52149",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2723-2724",
+                  "2739-2740"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-09",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/079/1998-06-09/2723?pgs=2723-2724,2739-2740&org=PLC"
+              }
+            ],
+            "sumario": "AUTARQUIAS LOCAIS: REGIME FINANCEIRO E FUNCIONAMENTO DOS SERVICOS TECNICO-ADMINISTRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1385",
+                "nome": "Gonçalo Ribeiro da Costa"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "52150",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2723-2725",
+                  "2734-2734"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-09",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/079/1998-06-09/2723?pgs=2723-2725,2734&org=PLC"
+              }
+            ],
+            "sumario": "AUTARQUIAS LOCAIS: REGIME FINANCEIRO E FUNCIONAMENTO DOS SERVICOS TECNICO-ADMINISTRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "52151",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2722-2723",
+                  "2726-2726",
+                  "2744-2746"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-09",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/079/1998-06-09/2722?pgs=2722-2723,2726,2744-2746&org=PLC"
+              }
+            ],
+            "sumario": "AUTARQUIAS LOCAIS: REGIME FINANCEIRO E FUNCIONAMENTO DOS SERVICOS TECNICO-ADMINISTRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DO EQUIPAMENTO,  DO  PLANEAMENTO E DA  ADMINISTRAÇÃO DO TERRITÓRIO",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Joao Cravinho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107453",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2722-2723",
+                  "2726-2726",
+                  "2744-2746"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-09",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/079/1998-06-09/2722?pgs=2722-2723,2726,2744-2746&org=PLC"
+              }
+            ],
+            "sumario": "AUTARQUIAS LOCAIS: REGIME FINANCEIRO E FUNCIONAMENTO DOS SERVICOS TECNICO-ADMINISTRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DO EQUIPAMENTO,  DO  PLANEAMENTO E DA  ADMINISTRAÇÃO DO TERRITÓRIO",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Joao Cravinho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107454",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2729-2729"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-09",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/079/1998-06-09/2729?pgs=2729&org=PLC"
+              }
+            ],
+            "sumario": "AUTARQUIAS LOCAIS: REGIME FINANCEIRO E FUNCIONAMENTO DOS SERVICOS TECNICO-ADMINISTRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DO EQUIPAMENTO,  DO  PLANEAMENTO E DA  ADMINISTRAÇÃO DO TERRITÓRIO",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Joao Cravinho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107456",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2747-2747"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1998-06-09",
+                "pubLeg": "VII",
+                "pubNr": "79",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/079/1998-06-09/2747?pgs=2747&org=PLC"
+              }
+            ],
+            "sumario": "AUTARQUIAS LOCAIS: REGIME FINANCEIRO E FUNCIONAMENTO DOS SERVICOS TECNICO-ADMINISTRATIVOS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "100712",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "108705",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1998-06-09",
+        "pubLeg": "VII",
+        "pubNr": "79",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/03/079/1998-06-09?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
