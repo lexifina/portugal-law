@@ -1,0 +1,3 @@
+Aviso n.º 253/93
+Por ordem superior se torna público que as ilhas Seychelles e o Uzebequistão depositaram junto do Secretário-Geral da Nações Unidas, a 30 de Julho e 27 de Agosto de 1993, respectivamente, o instrumento de aceitação das emendas aos artigos 24.º e 25.º da Constituição da Organização Mundial da Saúde, assinada em Nova Iorque a 22 de Julho de 1946, tal como foram adoptadas pela 39.ª Sessão da Assembleia Mundial da Saúde, em 12 de Maio de 1986.
+Direcção-Geral dos Negócios Político-Económicos, 17 de Novembro de 1993. - O Director de Serviços dos Assuntos Multilaterais, António Raul Freitas Monteiro Portugal.
