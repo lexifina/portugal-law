@@ -1,0 +1,7 @@
+Aviso n.º 88/98
+Por ordem superior se faz público que, segundo comunicação do Secretário-Geral da Organização da Aviação Civil Internacional de 3 de Março de 1998, Portugal depositou, em 3 de Março de 1998, a carta de ratificação do Protocolo Relativo a Uma Emenda ao Artigo 83.º-bis da Convenção sobre Aviação Civil Internacional, concluído em Montréal em 6 de Outubro de 1980.
+O Protocolo entrou em vigor na ordem internacional em 20 de Junho de 1997 e relativamente a Portugal em 3 de Março de 1998.
+O Protocolo foi aprovado, para ratificação, nos termos do Decreto n.º 49/97, de 3 de Setembro, publicado no Diário da República, 1.ª série-A, n.º 203, de 3 de Setembro de 1997.
+À data da vinculação de Portugal ao referido instrumento eram as seguintes as Partes no mesmo:
+(ver tabela no documento original)
+Direcção-Geral de Assuntos Multilaterais, 23 de Abril de 1998. - O Director de Serviços das Organizações Económicas Internacionais, João Perestrello Cavaco.
