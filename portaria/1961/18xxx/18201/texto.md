@@ -1,0 +1,9 @@
+Portaria n.º 18201
+De acordo com o disposto no artigo 14.º do Regulamento para a Concessão do Abono para Fardamento, aprovado pela Portaria n.º 17654, de 1 de Abril de 1960, das relações a que se refere o artigo 12.º da mesma portaria deveriam ser enviados dois exemplares às Oficinas Gerais de Fardamento e Calçado e outro aos Serviços Sociais das Forças Armadas.
+A experiência da aplicação deste sistema no ano transacto mostrou a vantagem não só de haver relações separadas para as modalidades de crédito nas Oficinas Gerais de Fardamento e Caixa Económica, mas também pôs em evidência os inconvenientes resultantes da falta de uma conferência prévia dos três exemplares por parte dos Serviços Sociais das Forças Armadas, a fim de evitar inobservâncias das disposições regulamentares.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, que os artigos da Portaria n.º 17654, de 1 de Abril de 1960, abaixo indicados passem a ter a seguinte redacção:
+Art. 12.º Os conselhos administrativos das unidades e estabelecimentos militares organizarão anualmente, em triplicado, referidas a 1 de Janeiro, relações nominais, separadamente, para as modalidades de crédito, nas Oficinas Gerais de Fardamento e Caixa Económica das Forças Armadas, conforme o modelo II anexo, dos oficiais e sargentos a quem tenham abonado os vencimentos referentes ao último dia do mês anterior e desejem beneficiar do abono para fardamento, na modalidade a que tiverem direito.
+...
+Art. 14.º As relações indicadas nos artigos 12.º e 13.º serão enviadas aos Serviços Sociais das Forças Armadas para conferência e subsequente remessa de dois exemplares às Oficinas Gerais de Fardamento e Calçado ou à Caixa Económica, conforme os casos.
+Presidência do Conselho, 12 de Janeiro de 1961. - O Ministro da Defesa Nacional, Júlio Carlos Alves Dias Botelho Moniz.
