@@ -1,0 +1,5 @@
+Declaração de Rectificação n.º 8-B/2002
+Para os devidos efeitos se declara que o Decreto-Lei n.º 313/2001, publicado no Diário da República, 1.ª série, n.º 284, de 10 de Dezembro de 2001, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 1.º, na alteração introduzida à subalínea iii) da alínea a) do n.º 1 do artigo 4.º do Decreto-Lei n.º 538/99, de 13 de Dezembro, onde se lê «em percentagem não superior a 20% em média anual;» deve ler-se «em percentagem não superior a 50% em média anual;».
+No mesmo artigo 1.º, na alteração introduzida à alínea c) do n.º 1 do artigo 5.º do Decreto-Lei n.º 538/99, de 13 de Dezembro, onde se lê «que exceda aquela que, nos termos do artigo 7.º, pode ser consumida internamente;» deve ler-se «que exceda aquela que, nos termos do artigo 7.º, seja consumida internamente;».
+Secretaria-Geral da Presidência do Conselho de Ministros, 28 de Fevereiro de 2002. - O Secretário-Geral, Alexandre Figueiredo.
