@@ -1,0 +1,4 @@
+Declaração
+De harmonia com as normas publicadas no Diário do Governo, 1.ª série, n.º 30, de 6 de Fevereiro de 1948, foi determinado, por despacho de 30 de Junho do Ministro das Finanças, que, para as transacções de comércio externo entre Portugal e a República de Cabo Verde, República da Guiné-Bissau, República Democrática de S. Tomé e Príncipe, República Popular de Angola, República Popular de Moçambique e Macau, passe a observar-se, quanto à moeda de emissão dos boletins de registo prévio e de liquidação das correspondentes transacções, o estipulado no n.º I das Directivas Monetárias constantes do mapa anexo à declaração de 14 de Junho de 1976, publicada no 2.º suplemento do Diário da República, 1.ª série, n.º 141, de 18 de Junho de 1976.
+Fica, assim, sem efeito, a alínea a) da citada declaração.
+Ministério das Finanças, 18 de Julho de 1977. - O Ministro das Finanças, Henrique Medina Carreira.
