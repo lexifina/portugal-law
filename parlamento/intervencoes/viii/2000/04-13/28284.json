@@ -1,0 +1,94 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2furkWvc0lKdq20ak2KlHOmirXJXFYm74sABWT32jiDLN0U8f%2fPEtMfn8RnKJ0uGruwmBNe3jwMO37t%2fiSCQ9aculmRkJeIKwr%2fOiOzMziHJAnUHHtOwdh287ngLEtCriB2WWEC7LYWi1fowW8ns7Xdb7ZeW1KZ%2fh4MoxhR77APfbIk6lGh2Xrj7umHYAgvxBKomL8r%2b7w%2bcVlag%2bST%2fprrlUOE0u%2b6qHwbnvIQKfKeygiUNrSNiI04zccBV4YEQPPfynibRRVQMmV0H0WPDuRcSm80sGGQgNyTsUcq3R2DGZQtkpt%2bs4PaWOTvEOy%2b0HxZFhxj0gLaLBKCcha3mTRy2bCNMZep%2b9wDXb88fyVXk%3d&fich=IntervencoesVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6a76c73abc08ffed4c44b15f3f36f3269364cf06e4b7f2d6259e2b14d6049817",
+  "legislatura": "VIII",
+  "id": "28284",
+  "tipo": "Intervenção",
+  "orador": null,
+  "data_registo": "2000-04-13",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "6190",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "6135",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Regula o processo de votação na eleição do Presidente da República dos cidadãos portugueses não residentes no território nacional"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "6136",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Regula o direito de voto dos emigrantes nas eleições presidênciais"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "6141",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Regula o voto dos cidadãos portugueses residentes no estrangeiro na eleição do Presidente da Republica e alarga as situações de voto antecipado alterando o Decreto-lei n°319-A/ 76 de 3 de Maio"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2000-04-13",
+    "Debate": "PJL n.º 152/VIII/1; PJL n.º 153/VIII/1; PPL n.º 19/VIII/1",
+    "Deputados": {
+      "GP": null,
+      "idCadastro": null,
+      "nome": null
+    },
+    "FaseDebate": "GENERALIDADE",
+    "FaseSessao": "POD",
+    "Id": "28284",
+    "IdDebate": "1751",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VIII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "28284",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "2183-2186",
+          "2188-2191",
+          "2207-2207"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-04-14",
+        "pubLeg": "VIII",
+        "pubNr": "54",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/054/2000-04-14/2183?pgs=2183-2186,2188-2191,2207&org=PLC"
+      }
+    ],
+    "Qualidade": null,
+    "Resumo": "DL319-A/76 RESPONDE A PEDIDOS DE ESCLARECIMENTO DOS DEPUTADOS TELMO CORREIA (CDS-PP), JOSE CESARIO (PSD), FERNANDO PESINHO (PEV), ANTONIO FILIPE (PCP), FRANCISCO LOUCA (BE) E MANUEL ALEGRE (PS)",
+    "Sessao": "1",
+    "Sumario": "REGULA A ELEICAO DO PRESIDENTE DA REPUBLICA POR CIDADAOS PORTUGUESES RESIDENTES NO ESTRANGEIRO, ALTERACAO DO DL.319-A/76DE 3 DE MAIO",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
