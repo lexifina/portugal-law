@@ -1,0 +1,4 @@
+Decreto n.º 47044
+Usando da faculdade que me confere o n.º 6.º do artigo 83.º da Constituição, hei por bem nomear membros vitalícios do Conselho de Estado os Drs. Clotário Luís Supico Ribeiro Pinto, João de Matos Antunes Varela e José Soares da Fonseca.
+Publique-se.
+Paços do Governo da República, 8 de Junho de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
