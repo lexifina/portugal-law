@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, em 10 de Junho de 1976, o Governo das Baamas depositou, junto do Secretário-Geral das Nações Unidas, o instrumento de adesão, por sucessão, à Convenção Internacional para a Repressão do Tráfico de Mulheres e Crianças, assinada em Genebra em 30 de Setembro de 1921, de que Portugal já é parte. Aquele instrumento diplomático entrou em vigor, com referência àquele país, em conformidade com os princípios da sucessão de Estados, quanto aos Tratados.
+Secretaria-Geral do Ministério, 7 de Novembro de 1977. - O Chefe dos Serviços Jurídicos e de Tratados, Mário d'Oliveira Neves.
