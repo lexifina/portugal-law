@@ -1,0 +1,17 @@
+Decreto-Lei n.º 48191
+O notável incremento do tráfego nos portos do Douro e Leixões e a crescente especialização dos serviços solicitados à respectiva Administração deram particular relevo ao desequilíbrio, desde há muito verificado, entre os encargos que oneram os seus utentes e a amplitude e melhoria dos serviços que ambos os portos prestam, decorrentes dos importantes investimentos ùltimamente realizados.
+Para se encontrar um justo equilíbrio, e na conformidade de uma tradição que se identifica com o progresso do segundo complexo portuário do País, considera-se preferível fazer incidir sobre as mercadorias que mais directamente beneficiam, pela redução dos fretes e pela rapidez e segurança nas operações, das amplas reformas já efectuadas e em curso o encargo de uma actualização que se tem por inadiável.
+A diversidade das taxas quanto a mercadorias descarregadas e carregadas encontra justificação na diferente utilidade e extensão dos serviços prestados a umas e a outras.
+Por outro lado, quer para respeitar uma terminologia mais perfeita, quer por ser essa a expressão real da imposição sobre as mercadorias movimentadas, aproveita-se a oportunidade para substituir a imprópria denominação de «imposto de cais» pela de «taxa de porto», que é, de resto, a adoptada no porto de Lisboa.
+Nestes termos, ouvido o Conselho de Ministros para os Assuntos Económicos;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º O imposto de cais criado nos portos do Douro e Leixões pelo Decreto n.º 12122, de 13 de Agosto de 1926, é substituído por uma «taxa de porto» de 1 por cento e 1 por mil sobre o valor, respectivamente, das mercadorias descarregadas e carregadas, submetidas a despacho na sede da Alfândega do Porto e suas dependências na área portuária do Douro e Leixões.
+§ único. O Ministro das Comunicações poderá, por simples despacho, bonificar ou isentar desta taxa as mercadorias em cabotagem, em trânsito, em baldeação e em regime de reexportação ou reimportação.
+Art. 2.º A «taxa de porto» será calculada a partir do valor das mercadorias aceite pela Alfândega e a sua cobrança efectuar-se-á por intermédio das estâncias aduaneiras competentes, constituindo receita ordinária da Administração dos referidos portos, nos termos e para os efeitos do Decreto-Lei n.º 36977, de 20 de Julho de 1948.
+Art. 3.º A «taxa de porto» poderá ser modificada por decreto simples, referendado pelos Ministros das Finanças, Economia e Comunicações, e passará a ser incluída no Regulamento de Tarifas dos Portos do Douro e Leixões.
+Art. 4.º São revogados o Decreto n.º 12122, de 13 de Agosto de 1926, e o Decreto-Lei n.º 38024, de 1 de Novembro de 1950.
+Art. 5.º O presente diploma entra em vigor em 1 de Janeiro de 1968.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 30 de Dezembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Para ser presente à Assembleia Nacional.
