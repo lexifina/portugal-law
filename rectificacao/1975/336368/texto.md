@@ -1,0 +1,2 @@
+Rectificação
+No sumário da primeira resolução do Conselho de Ministros inserta no Diário do Governo, 1.ª série, n.º 167, de 22 de Julho de 1975, deve ler-se: «Delega no Ministro do Trabalho e no Ministro responsável pelo sector da actividade em que a empresa se integre a competência para resolver as dúvidas resultantes da aplicação do n.º 1 do artigo 1.º do Decreto-Lei n.º 207-B/75», e não como foi publicado.
