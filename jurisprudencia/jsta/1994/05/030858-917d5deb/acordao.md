@@ -1,0 +1,53 @@
+# Acórdão do Supremo Tribunal Administrativo de 1994-05-12, processo 030858
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 030858
+
+**Data do Acordão:** 05/12/1994
+
+**Tribunal:** 1 SUBSECÇÃO DO CA
+
+**Relator:** CORREIA DE LIMA
+
+**Descritores:** ORDEM DE CONHECIMENTO DE VÍCIOS; ACTO ADMINISTRATIVO; ACTO JURIDICAMENTE INEXISTENTE; ÓRGÃO COLEGIAL; ACTO DE MEMBRO DE ÓRGÃO COLEGIAL; IMPUTAÇÃO ERRADA DE ACTO A ÓRGÃO COLEGIAL; INDEFERIMENTO TÁCITO; DEVER LEGAL DE DECIDIR; REGULAMENTO DE CONCURSO; LISTA DE GRADUAÇÃO; HOMOLOGAÇÃO; HOSPITAIS CIVIS DE LISBOA; PESSOA COLECTIVA DE DIREITO PÚBLICO; INSTITUTO PÚBLICO; ESTABELECIMENTO PÚBLICO; TUTELA ADMINISTRATIVA; RECURSO HIERÁRQUICO; RECURSO TUTELAR NECESSÁRIO; RECURSO DE REVISÃO
+
+**Nº Convencional:** JSTA00039860
+
+**Nº do Documento:** SA119940512030858
+
+**Data de Entrada:** 06/02/1992
+
+**Recorrente:** MENEZES , JOSE
+
+**Recorrido 1:** MINSAUD
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 94
+
+**Privacidade:** 1
+
+**Meio Processual:** REC CONT.
+
+**Objecto:** ACTO TÁCITO MINSAUD DE 1992/04/16.
+
+**Decisão:** PROVIDO.
+
+**Área Temática 1:** FUNÇÃO PUBLICA ESTAUTÁRIO. DIR ADM CONT - ACTO.
+
+**Legislação Nacional:** CONST82 ART202 D.; CPA91 ART2 ART133 ART137.; DRGU 3/88 DE 1988/01/22 ART1 N1 A ART3 N1 A ART5 N1.; DL 19/88 DE 1988/01/21 ART2 ART3.; RGU DOS CONCURSOS DE PROVIMENTO DOS LUGARES DE ASSISTENTE DA CARREIRAMÉDICA HOSPITALAR APROVADO PEL PORT 833/91 DE 1991/08/14 N34.; 1 N34.; 2.; DL 256-A/77 DE 1977/06/17 ART3 ART4.
+
+**Jurisprudência Nacional:** AC STAP DE 1980/07/10 IN AD N228 PAG1406.; AC STAP DE 1981/03/18 IN AD N240 PAG1482.; AC STAP DE 1985/05/14 IN AD N290 PAG218.; AC STA DE 1985/10/15 IN AD N294 PAG677.; AC STA DE 1988/06/28 IN AD N332/333 PAG1025.; AC STA DE 1987/07/09 IN AD N322 PAG1199.; AC STA DE 1986/01/16 IN AD N294 PAG697.
+
+**Referência a Doutrina:** SÉRVULO CORREIA NOÇÕES DE DIREITO ADMINISTRATIVO 1982 PAG293 PAG412 PAG425.; FREITAS DO AMARAL CURSO DE DIREITO ADMINISTRATIVO 1986 PAG324 PAG327 PAG692 PAG694 PAG709 PAG711.; FREITAS DO AMARAL CONCEITO E NATUREZA DO RECURSO HIERÁRQUICO PAG132 PAG140 PAG151 PAG299.; MARCELLO CAETANO MANUAL DE DIREITO ADMINISTRATIVO 10ED PAG516.
+
+## Sumário
+
+I - O conhecimento da inexistência jurídica precede o dos vícios que apenas produzem a anulabilidade do acto recorrido.
+
+II - São juridicamente inexistentes, quando anteriores ao Código de Procedimento Administrativo:
+
+- o acto praticado por um membro de um órgão colegial, mas em nome deste, ou de modo a aparentá-lo como da autoria desse órgão;
+
+- o acto que mantém aquele por indeferimento tácito de recurso tutelar dele interposto nos termos do n. 34 da Portaria n. 833/91, de 14.8.
