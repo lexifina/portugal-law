@@ -1,0 +1,42 @@
+# Acórdão do Tribunal Constitucional n.º 341/2004, de 2004-05-18
+
+**Acórdão:** 341/04
+
+**Processo:** 805/03
+
+**Formação:** 1ª Secção
+
+**Espécie:** Recurso
+
+**Data:** 18.05.2004
+
+**Relator:** Cons. Artur Maurício
+
+**Fonte:** https://www.tribunalconstitucional.pt/tc/acordaos/20040341.html
+
+## Texto integral
+
+ACÓRDÃO N.º 341/04
+Proc. n.º 805/03
+
+1ª Secção
+
+Relator: Conselheiro Artur Maurício
+
+Acordam na 1ª Secção do Tribunal Constitucional
+
+No presente recurso, interposto pelo Ministério Público, ao abrigo do artigo 70º n.º 1 alínea a) da LTC, da sentença de fls. 81 e segs., por nesta se ter recusado a aplicação do disposto no artigo 29º, alínea e) do Decreto-Lei n.º 40/95, de 15 de Fevereiro, com fundamento na violação do disposto nos artigos 168º n.º 1 alínea s) e 240º n.ºs 1 e 3 da Constituição, na versão da Lei n.º 1/92, de 25 de Novembro (a que correspondem, respectivamente, os artigos 165º n.º 1 alínea q) e 238º n.ºs 1 e 3, na versão actual), em que é recorrida A., decide-se, com os fundamentos do Acórdão n.º 288/04, disponível no site da Internet deste Tribunal (www.tribunalconstitucional.pt,) para que se remete, conceder provimento ao recurso, devendo a sentença recorrida ser reformulada de acordo com o presente juízo de constitucionalidade.
+
+Sem custas.
+
+Lisboa, 18 de Maio de 2004
+
+Artur Maurício
+
+Rui Manuel Moura Ramos
+
+Carlos Pamplona de Oliveira
+
+Maria Helena Brito
+
+Luís Nunes de Almeida
