@@ -1,0 +1,48 @@
+Decreto-Lei n.º 581/76
+de 22 de Julho
+Considerando a necessidade de clarificar e rever algumas das disposições do Decreto-Lei n.º 294/76, de 24 de Abril, que institucionalizou o quadro geral de adidos;
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. Os artigos 5.º, 17.º, 21.º, n.º1, 28.º, n.º 1, 30.º, 31.º e 46.º do Decreto-Lei n.º 294/76, de 24 de Abril, passam a ter a seguinte redacção:
+Art. 5.º - 1. ...
+2. Participarão nos trabalhos da Comissão representantes das organizações sindicais dos trabalhadores da função pública, um pela Administração Central, outro pela Administração Local e um dos próprios excedentes de pessoal.
+3. Os membros da Comissão serão designados:
+a) ...
+b) ...
+c) ...
+d) ...
+e) Pelas respectivas organizações representativas, no caso do n.º 2.
+4. Os membros da Comissão, logo que designados, consideram-se investidos nas respectivas funções, com dispensa de quaisquer formalidades.
+5. Os membros referidos nas alíneas h) e i) do n.º 1 cessarão funções logo que estejam extintas as comissões respectivas.
+6. Poderão ser convidadas a participar nos trabalhos da Comissão entidades públicas ou privadas de reconhecida competência ou interessadas na matéria a tratar.
+7. Nas votações, cada entidade representada na Comissão, nos termos do n.º 1, terá direito a um voto, independentemente do número de elementos participantes.
+8. A Comissão também poderá funcionar em sessões restritas sempre que a natureza dos assuntos a tratar o justifique.
+9. A Comissão poderá criar, no seu âmbito, grupos de trabalho quando a natureza dos problemas, pela sua complexidade e amplitude, o justifique.
+...
+Art. 17.º - 1. É criado na Secretaria de Estado da Administração o quadro geral de adidos, que abrangerá os seguintes excedentes de pessoal:
+a) Agentes vinculados ao Estado e corpos administrativos da administração ultramarina antes de 22 de Janeiro de 1975, contando nessa data um ano de serviço, pertençam ou não aos quadros, e que, mantendo a nacionalidade portuguesa, de acordo com a lei vigente, ao abrigo dos acordos de descolonização, pretendam ingressar no quadro geral de adidos e, ainda, os que à data da entrada em vigor do presente diploma tenham ingressado, ao abrigo do Decreto-Lei n.º 3/75, de 22 de Janeiro, no quadro de adidos do Ministério da Cooperação;
+b) Agentes cujos lugares forem extintos em consequência da reorganização, reconversão ou extinção de serviços e organismos de administração central, local e regional, institutos públicos, organismos de coordenação económica e outras pessoas colectivas de direito público, da administração central ou local;
+c) Agentes de organismos corporativos de constituição obrigatória extintos;
+d) Agentes reintegrados ao abrigo do Decreto-Lei n.º 173/74, de 26 de Abril, e, bem assim, os supranumerários a que se refere o n.º 2 do artigo 7.º do Decreto-Lei n.º 656/74, de 23 de Novembro, com a redacção dada pelo Decreto-Lei n.º 24/75, de 23 de Janeiro, quando os serviços ou organismos hajam sido extintos;
+e) Agentes transferidos nos termos do Decreto-Lei n.º 123/75, de 11 de Março, desde que tal transferência implique mudança de quadro e de organismo;
+f) Outros agentes que, ao abrigo de diplomas legais já publicados, tenham sido considerados excedentes de pessoal.
+2. ...
+3. A reorganização, reconversão ou extinção de serviços e organismos a que se refere a alínea b) do n.º 1 só darão origem à constituição de excedentes de pessoal quando os respectivos efectivos de pessoal não puderem ser absorvidos, na totalidade, pelos serviços e organismos a que derem origem ou para onde, eventualmente, transitem as respectivas atribuições, no todo ou em parte.
+4. Os diplomas referentes à reorganização, reconversão e extinção de serviços e organismos que derem origem à constituição de excedentes de pessoal deverão revestir obrigatoriamente a forma de diploma legal, cuja aprovação será precedida de audiência das organizações sindicais dos respectivos trabalhadores, se estas o desejarem, podendo também participar na elaboração das listas nominativas constitutivas de excedentes de pessoal.
+...
+Art. 21.º- 1. Os agentes referidos na alínea a) do n.º 1 do artigo 17.º deste diploma poderão requerer ao Secretário de Estado da Descolonização o ingresso no quadro geral de adidos:
+a) Nos prazos previstos na legislação aplicável, para os que, em virtude do acesso à independência resultante de acordos de descolonização celebrados, pretendam ingressar naquele quadro;
+b) A todo o tempo, para os que, continuando a prestar serviço nos territórios descolonizados, cessem ou interrompam os contratos celebrados ao abrigo dos acordos de cooperação e demais legislação em vigor, desde que a resolução ou termo do contrato seja seguido de fixação de residência em Portugal, e para os agentes que não reunissem condições para ingresso no quadro geral de adidos, nos termos do Decreto-Lei n.º 23/75, de 22 de Janeiro, e legislação complementar.
+...
+Art. 28.º - 1. Os agentes integrados no quadro geral de adidos ficam sujeitos ao regime de incompatibilidade do funcionalismo público.
+Art. 30.º - 1. ...
+2. ...
+3. A determinação do requisito a que se refere a alínea b) do n.º 1 será feita pelo Serviço Central de Pessoal e pelo serviço utilizador, sendo de considerar as qualificações fixadas na lei orgânica do respectivo serviço ou organismo ou, na sua ausência, na lei geral.
+Art. 31.º - 1. O adido poderá recusar a sua passagem à actividade por qualquer das formas previstas no artigo 29.º, desde que se verifiquem motivos ponderosos, devidamente justificados.
+2. O adido terá de fazer prova dos motivos de recusa no prazo de trinta dias a contar da sua convocatória.
+3. A recusa não fundamentada corresponde a abandono do lugar.
+...
+Art. 46.º À recusa do agente em ser integrado, nos termos desta subsecção, é aplicável o regime previsto no artigo 31.º
+Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - Vítor Manuel Trigueiros Crespo - Francisco Salgado Zenha.
+Promulgado em 10 de Julho de 1976.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
