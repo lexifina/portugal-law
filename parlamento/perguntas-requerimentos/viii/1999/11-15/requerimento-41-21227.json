@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=OfehzreU1EekBL7OXFnyzGmW8bzUJkDwDT7BSK7VUfLauZ5I%2f6vSw1dJJCXiVPxrlwNtg4zrKjgh67DgiM8B5FKf8N6o4ALNMnM6XcxO93rNB0scu3e8b%2bi1ZjYLgC3GyFhkWhw%2bIXevazca40mvw98RJxsco5JCegGgillMwlwn078EN3YG2ZZJVhZ59H%2fLW%2bs5mYqc4JXMwaXSW8sA0jwKn6uXi10AUm59cKhTprZUuHzvHEWandtkZpdSG61gn1XLqqd34GFDqZfcyLmX3ExGx49CBIyD8qQZJ5cRcV%2flVtgFM44vas8fwL4YHxhDFbwSHrZDfEziwK608l068Bc1XIKORTm7pOuZpv0CK8Wx1xbmFjVpqM7eBPtfukK%2b9sFdolrKVteHgWfoqM6qxjc5xiB0Zh3Rpl%2frrgejwZ4%3d&fich=RequerimentosVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "ee27fd579cbcd218d0bfb6c54648bdf855a16242176249fd32eb6a93230a2247",
+  "legislatura": "VIII",
+  "id": "21227",
+  "tipo": "Requerimento",
+  "numero": "41",
+  "data_registo": "1999-11-15",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "IMPEDIMENTO DE PRATICA DESPORTIVA EM CASO DE TRANSFERENCIA DE PRATICANTE AMADOR",
+    "Autores": [
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1584",
+        "nome": "José Ribeiro e Castro"
+      }
+    ],
+    "DataEnvio": "1999-11-18",
+    "Destinatarios": [
+      {
+        "dataEnvio": "1999-11-18",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "S.E.  DO  DESPORTO",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": null,
+            "docRemetida": null,
+            "entidade": "S.E.  DO  DESPORTO",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4654544338775a44466c4d324d305a433035596a466c4c5451774e5459744f4446694e5330784d6a466a59325134597a4933595449756347526d&fich=0d1e3c4d-9b1e-4056-81b5-121ccd8c27a2.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "1999-11-15",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4654544338315a4451344d324a6b4e7930334d6d59334c5451314e444174596a6b794d4330334d6d5a6a4d6d497a4d6d5a684e4759756347526d&fich=5d483bd7-72f7-4540-b920-72fc2b32fa4f.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "21227",
+    "Legislatura": "VIII",
+    "Nr": "41",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "38420",
+        "obs": "12-(17)",
+        "pag": [
+          "12-(17)-12-(17)"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "1999",
+        "pubLeg": "VIII",
+        "pubNr": "3",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/08/01/003S1/1999-11-13/12-(17)?pgs=12-(17)&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
