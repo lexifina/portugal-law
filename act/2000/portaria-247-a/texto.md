@@ -1,0 +1,143 @@
+Portaria n.º 247-A/2000
+de 8 de Maio
+A Lei n.º 140/99, de 28 de Agosto, estabeleceu o regime e a forma de criação das polícias municipais, prevendo que o sistema de recrutamento dos seus funcionários esteja estreitamente associado a um plano de formação básica com componentes de formação administrativa, cívica e profissional específica.
+Por seu turno, o Decreto-Lei n.º 39/2000, de 17 de Março, atribuiu ao Centro de Estudos e Formação Autárquica e à Polícia de Segurança Pública competências conjuntas nesta matéria, importando agora proceder à regulamentação dos vários cursos de formação profissional previstos naquele diploma, em harmonia com as regras nele estabelecidas sobre as carreiras de pessoal de polícia municipal.
+Em síntese, são criados três planos de estudos distintos, consoante se trate da formação para a carreira técnica superior de polícia municipal, para a carreira de polícia municipal ou, em particular, para a categoria de graduado-coordenador. Na formação para a carreira de polícia municipal, distinguem-se ainda os planos de estudos dos estagiários e dos fiscais municipais que tenham transitado para a nova carreira, atendendo-se à relevância da experiência profissional destes últimos.
+No caso dos candidatos à categoria de graduado-coordenador admitidos por via do recrutamento excepcional previsto no artigo 21.º do Decreto-Lei n.º 39/2000, de 17 de Março, determina-se que, para além da formação específica para esta categoria, seja também obrigatória, por maioria de razão, a frequência prévia do curso previsto para os fiscais municipais.
+Foram observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio, bem como foi ouvida a Associação Nacional de Municípios Portugueses.
+Assim, em cumprimento do artigo 18.º da Lei n.º 140/99, de 28 de Agosto:
+Manda o Governo, pelo Ministro da Administração Interna, o seguinte:
+1.º
+Criação
+São criados os cursos de formação para a carreira de técnico superior de polícia municipal e para a carreira de polícia municipal.
+2.º
+Formação inicial
+Os cursos previstos nos anexos I, II e III visam a formação inicial dos estagiários e funcionários dos serviços de polícia municipal, numa perspectiva interdisciplinar, orientada para a aquisição dos conhecimentos e para o desenvolvimento das capacidades requeridas no exercício das competências dos agentes nesta área específica das atribuições municipais.
+3.º
+Responsabilidade e direcção pedagógicas
+1 - A formação base comum para a carreira de polícia municipal comporta módulos de natureza administrativa, cívica e policial.
+2 - As disciplinas relacionadas com a formação cívica e administrativa competem, a nível nacional, ao Centro de Estudos e Formação Autárquica (CEFA) e são:
+a) No caso dos vários cursos de formação previstos para a carreira de polícia municipal, as referidas no ciclo de iniciação e na 1.ª fase do ciclo de especialização do anexo I, bem como as mencionadas no anexo II;
+b) No caso dos cursos de formação para a carreira de técnico superior de polícia municipal, as referidas na 1.ª fase do anexo III.
+3 - As disciplinas relacionadas com a formação policial competem, a nível nacional, à Polícia de Segurança Pública (PSP) e são:
+a) No caso dos vários cursos previstos para a carreira de polícia municipal, as referidas na 2.ª fase do ciclo de especialização do anexo I, bem como as referidas no anexo II;
+b) No caso dos cursos de formação para a carreira de técnico superior de polícia municipal, as referidas na 2.ª fase do anexo III.
+4 - Ambas as instituições têm, no exercício das actividades formativas aqui previstas e de harmonia com os respectivos estatutos orgânicos, a necessária autonomia para o exercício de uma efectiva responsabilidade e direcção pedagógicas relativamente aos módulos que lhes cabe assegurar.
+5 - Sem prejuízo do princípio referido no número anterior, o CEFA e a PSP desenvolverão as suas actividades de forma a assegurar a permanente complementaridade entre as várias vertentes da formação, diligenciando no sentido do cumprimento dos necessários mecanismos de articulação, em ordem a garantir o bom e regular funcionamento dos cursos.
+4.º
+Destinatários
+1 - Podem candidatar-se ao curso de formação profissional para a carreira técnica superior de polícia municipal os estagiários da administração autárquica admitidos nos termos previstos no artigo 10.º do Decreto-Lei n.º 39/2000, de 17 de Março.
+2 - As candidaturas aos vários cursos de formação para a carreira de polícia municipal organizam-se da seguinte forma:
+a) Os estagiários que pretendem ingressar nessa carreira, admitidos nos termos do artigo 12.º do diploma referido no n.º 1, que constituem o grupo A;
+b) Os funcionários já inseridos na administração autárquica que transitem para a carreira de polícia municipal, nos casos legalmente previstos nos artigos 13.º e 14.º do diploma referido no n.º 1, que constituem o grupo B;
+c) Os funcionários que vão ocupar a categoria de graduado-coordenador, nos casos previstos no artigo 11.º, n.º 1, alínea a), e no artigo 21.º do diploma referido no n.º 1, que constituem o grupo C.
+3 - Os funcionários que se candidatarem à categoria de graduado-coordenador ao abrigo do artigo 21.º do diploma referido no n.º 1 devem, antes de iniciar a formação prevista no anexo II, frequentar com aproveitamento o curso (ciclo de iniciação e especialização) previsto no anexo I.
+5.º
+Planos de estudos
+1 - Os planos de estudos dos cursos acima referidos são os constantes dos anexos à presente portaria, aplicando-se:
+a) Os que estão previstos nos anexos I e II aos destinatários da carreira de polícia municipal, respectivamente aos grupos A, B e C;
+b) O previsto no anexo III aos estagiários da carreira técnica superior de polícia municipal.
+2 - Além das disciplinas curriculares, os cursos podem compreender seminários, conferências, visitas de estudo e colóquios sobre temas de especial actualidade complementares da formação principal.
+3 - As fases de especialização ministradas pela PSP incluem, como actividade extracurricular, duas horas semanais para a prática de actividades físicas.
+4 - O CEFA e a PSP podem atribuir equivalências a disciplinas dos planos de estudos dos cursos em relação a disciplinas ministradas noutros cursos regulados por lei e por si próprios ministrados.
+6.º
+Admissão aos cursos
+1 - São admitidos aos cursos constantes dos anexos I, II e III os formandos cuja candidatura seja apresentada pela respectiva autarquia.
+2 - A inscrição nos cursos pode ficar sujeita a limitações quantitativas, fixadas, anualmente, por despacho conjunto dos membros do Governo referidos no n.º 3 do n.º 4.º da presente portaria, atendendo, nomeadamente, às capacidades e aos recursos disponíveis das instituições de formação.
+3 - A fixação das regras de prioridade e seriação das candidaturas no acesso anual à frequência dos cursos decorre dos critérios estabelecidos por despacho conjunto dos membros do Governo que tutelam o CEFA e a PSP, mediante proposta conjunta destas instituições.
+7.º
+Divulgação, candidaturas e inscrição
+Anualmente, o CEFA comunicará às autarquias, com a devida antecedência, o número de vagas e os prazos de inscrição a observar pelos municípios, com vista à inscrição dos seus candidatos, bem como todas as informações necessárias à correcta instrução dos processos de candidatura.
+8.º
+Avaliação de conhecimentos
+1 - A avaliação de conhecimentos é feita por disciplina, podendo ainda prever-se, no final de cada fase ou ciclo de formação, ou no final de cada curso, uma avaliação global.
+2 - Consideram-se aprovados os formandos que obtenham uma classificação igual ou superior a 10 valores, na escala de 0 a 20, na avaliação referida no número anterior, prevendo-se que os formandos não aprovados possam vir a sujeitar-se a nova avaliação em época especial de recurso.
+3 - Os fiscais municipais que não tenham obtido aproveitamento nos termos dos números anteriores não poderão ingressar na carreira de polícia municipal, sendo-lhes aplicável o disposto no artigo 16.º, n.º 2, do Decreto-Lei n.º 39/2000, de 17 de Março.
+4 - Os formandos integrados no grupo C oriundos da carreira de polícia municipal não poderão ser providos na categoria de coordenador enquanto não tiverem aproveitamento no curso constante do anexo III.
+9.º
+Regulamentos dos cursos
+Compete ao CEFA elaborar o regulamento geral do curso, bem como fixar os prazos de candidatura e inscrição nos cursos a realizar anualmente, cabendo ainda ao CEFA e à PSP elaborar as instruções e os regulamentos necessários ao bom e normal funcionamento dos cursos, na parte a cargo de cada uma daquelas instituições.
+10.º
+Diploma do curso
+A titularidade do diploma de qualquer dos cursos depende da aprovação na totalidade das disciplinas que integram o respectivo plano de estudos.
+11.º
+Regime de frequência
+1 - Os formandos já pertencentes à administração local consideram-se em regime de destacamento enquanto revelarem assiduidade e aproveitamento, sem qualquer prejuízo para a sua situação nos serviços de origem, os quais continuarão a assegurar-lhes as remunerações, abonos e regalias correspondentes à sua categoria.
+2 - O tempo de frequência do curso contará, para todos os efeitos legais, como se prestado na respectiva categoria, contando como faltas ao serviço as faltas dadas durante a formação.
+3 - A frequência às aulas é obrigatória, constituindo a assiduidade facto a ter em conta na avaliação, determinando as faltas dadas em número superior a 20% em qualquer disciplina a impossibilidade de apresentação a avaliação e à automática exclusão do curso.
+4 - O órgão executivo da autarquia local será informado sempre que se verifique falta de assiduidade do formando superior a 10% das aulas dadas em qualquer disciplina, bem como, no fim de cada ciclo, do seu aproveitamento global.
+5 - Os encargos decorrentes do funcionamento dos cursos de formação incumbem ao CEFA.
+6 - As despesas advenientes da deslocação, estada e alimentação dos formandos durante o período de formação ficam a cargo da autarquia proponente.
+12.º
+Formação contínua e treino de tiro
+1 - Os funcionários das polícias municipais frequentam, cada período de três anos, cursos de actualização nas matérias relacionadas com o exercício das suas funções com a duração mínima de trinta horas, podendo revestir a forma de unidades capitalizáveis.
+2 - Anualmente, cada câmara municipal acorda com o comando da PSP o calendário para a realização da tabela de tiro adequada ao treino dos funcionários da polícia municipal.
+13.º
+Dúvidas e lacunas
+As dúvidas e lacunas suscitadas na aplicação da presente portaria serão preenchidas por despacho conjunto dos membros do Governo referidos no n.º 3 do n.º 6.º da presente portaria.
+O Ministro da Administração Interna, Fernando Manuel dos Santos Gomes, em 5 de Maio de 2000.
+
+ANEXO I
+Ciclo de iniciação (grupo A)
+... Total (horas)
+1) Noções Gerais de Direito ... 32
+2) Organização do Estado e da Administração ... 24
+3) Deontologia Profissional e Estatuto dos Funcionário Autárquicos ... 32
+4) Técnicas de Comunicação Escrita e Oral ... 40
+5) Informática ... 32
+... 160
+Ciclo de especialização (grupos A e B)
+1.ª fase
+... Total (horas)
+1) Competências dos SPM, Sentido e Limites de Actuação ... 27
+2) Procedimento Administrativo e Defesa dos Administrados ... 27
+3) Noções de Direito e Direito Processual Penal I ... 18
+4) Relações com o Público e Resolução de Conflitos I ... 27
+5) Protecção Civil ... 18
+6) Defesa do Consumidor, Saúde Pública e Protecção do Património ... 27
+7) Ordenamento Territorial e Regulação Urbanística ... 27
+8) Contra-Ordenações ... 27
+... 198
+2.ª fase
+... Total (horas)
+1) Organização Policial ... 11
+2) Noções de Direito e Direito Processual Penal II ... 9
+3) Direitos, Liberdades e Garantias. Instituições do Estado de Direito ... 9
+4) Relações com o Público e Resolução de Conflitos II ... 15
+5) Código da Estrada e Ordenamento do Trânsito ... 56
+6) Transmissões ... 6
+7) Armamento e Tiro ... 15
+8) Técnicas de Defesa Pessoal ... 10
+... 131
+
+ANEXO II
+Módulo de coordenação (grupo C)
+... Total (horas)
+1) Técnicas de Comando e Chefia I ... 14
+2) Técnicas de Comando e Chefia II ... 14
+3) Novas Atribuições Municipais com Reflexo na Actividade da Polícia Municipal ... 28
+... 56
+
+ANEXO III
+Formação dos técnicos superiores
+1.ª fase
+... Total (horas)
+1) Administração Pública, Regional e Local ... 14
+2) Estruturas Municipais: Organização e Funcionamento ... 14
+3) Atribuições e Competências dos SPM ... 21
+4) Procedimento Administrativo e Defesa dos Administrados ... 21
+5) Relacionamento Interpessoal e Gestão de Conflitos ... 11
+6) Técnicas de Comando e Chefia I ... 11
+7) Legislação Urbanística e Ambiental ... 14
+8) Direito das Contra-Ordenações ... 14
+... 120
+2.ª fase
+... Total (horas)
+1) Organização Policial ... 10
+2) Noções de Direito e Direito Processual Penal ... 15
+3) Código da Estrada e Ordenamento do Trânsito ... 25
+4) Técnicas de Comando e Chefia II ... 10
+5) Gestão Operacional ... 15
+6) Problemas Sociais ... 10
+7) Armamento e Tiro ... 15
+... 100
