@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1921/04/06600/03870388.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1921-04-01",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "25ac78abcd387efe2d998a2a0239262b9e3880c01f7145a06b8357265f617ad6",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 96.1,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "63b72ed658fecf0071fd217e86779e49e51a52fa201d2b8d48010c9a9a326ef0",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 503
 }
