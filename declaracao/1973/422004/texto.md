@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Ministério das Finanças, Gabinete do Ministro, o despacho que fixa normas sobre a liquidação de operações de invisíveis correntes entre o continente ou ilhas adjacentes e o estrangeiro, publicado no Diário do Governo, 1.ª série, n.º 85, de 10 de Abril de 1973, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No preâmbulo, onde se lê: «... e pelo artigo 3.º do Decreto-Lei n.º 252/73, desta data, ... deve ler-se: «... e pelo artigo 3.º do Decreto-Lei n.º 158/73, desta data, ...», e na data do despacho, onde se lê: «... 2 de Abril de 1973», deve ler-se: «... 10 de Abril de 1973».
+Secretaria-Geral da Presidência do Conselho, 17 de Abril de 1973. - O Secretário-Geral, Diogo de Paiva Brandão.
