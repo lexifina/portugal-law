@@ -26,7 +26,7 @@ k) Contabilistas de 2.ª classe, de entre indivíduos habilitados com o curso ge
 
 l) Montadores de telecomunicações de 3.ª classe, de entre indivíduos habilitados com os cursos de radiomontador, incluindo o ministrado na Escola Militar de Electromecânica, ou geral de electricidade, quando completado com o curso complementar de radiotécnico, ou de entre mecânico electricista de 1.ª classe, com, pelo menos, três anos de bom e efectivo serviço;
 
-m) Terceiro-oficial, de entre indivíduos com o curso geral dos liceus ou habilitações equivalentes e escriturários-dactilógrafos e telefonistas com o ciclo preparatório, com, pelo menos, seis anos de bom e efectivo serviço na categoria;
+m) Terceiro-oficial, de entre indivíduos que possuam a habilitação do curso geral dos liceus ou equiparado e escriturários-dactilógrafos do respectivo quadro desde que tenham pelo menos três anos de bom e efectivo serviço nessa categoria;
 
 n) Mecânico electricista de 1.ª, de entre mecânicos electricistas de 2.ª, com, pelo menos, três anos de bom e efectivo serviço na categoria;
 
