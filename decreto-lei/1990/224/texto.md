@@ -1,0 +1,22 @@
+Decreto-Lei n.º 224/90
+de 10 de Julho
+O Decreto-Lei n.º 43/76, de 20 de Janeiro, consagra o direito dos deficientes das forças armadas (DFA) à revisão do grau de incapacidade, mas apenas no decurso dos 10 anos posteriores à data da fixação da pensão.
+A situação dos DFA é, em si mesma, especial, atendendo a que a sua deficiência ocorreu quando chamados a servir em situações de perigo ou perigosidade, o que os torna credores de uma especial atenção e reconhecimento por parte da Nação.
+Importa, por isso, e ainda pela especificidade das lesões por eles sofridas, as quais estão sujeitas a significativos agravamentos em consequência do envelhecimento, contemplar, para além do período de 10 anos, a possibilidade de os mesmos poderem requerer a revisão do grau de incapacidade sempre que se verifique agravamento da doença ou da lesão.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+Artigo único. O artigo 6.º do Decreto-Lei n.º 43/76, de 20 de Janeiro, passa a ter a seguinte redacção:
+Artigo 6.º
+[...]
+1 - ...
+2 - ...
+3 - Os DFA podem requerer a revisão do processo, após a data da fixação da pensão, dentro dos seguintes prazos:
+a) Uma vez em cada semestre, nos dois primeiros anos;
+b) Uma vez por ano, nos oito anos imediatamente seguintes, e uma vez em cada quatro anos, nos anos posteriores, quando a sua capacidade geral de ganho sofra agravamento por qualquer motivo que não seja dos referidos no n.º 3 do artigo 1.º, a fim de serem reclassificados quanto à nova percentagem de incapacidade.
+4 - ...
+Visto e aprovado em Conselho de Ministros de 17 de Maio de 1990. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza.
+Promulgado em 27 de Junho de 1990.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 29 de Junho de 1990.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
