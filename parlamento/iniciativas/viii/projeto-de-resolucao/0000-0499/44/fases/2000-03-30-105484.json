@@ -1,0 +1,1325 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "44",
+    "id": "6096",
+    "titulo": "Sobre o início do processo de revisão da Concordata entre a Santa Sé e o Estado Português."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2000-03-30",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1755",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2000-03-30",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "6329",
+        "leg": "VIII",
+        "nr": "27",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "94",
+            "obs": null,
+            "pag": [
+              "1964-1991"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-03-31",
+            "pubLeg": "VIII",
+            "pubNr": "48",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1964?pgs=1964-1991&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "94",
+            "obs": null,
+            "pag": [
+              "1964-1991"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-03-31",
+            "pubLeg": "VIII",
+            "pubNr": "48",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1964?pgs=1964-1991&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "94",
+            "obs": null,
+            "pag": [
+              "1964-1991"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-03-31",
+            "pubLeg": "VIII",
+            "pubNr": "48",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1964?pgs=1964-1991&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "94",
+            "obs": null,
+            "pag": [
+              "1964-1991"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-03-31",
+            "pubLeg": "VIII",
+            "pubNr": "48",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1964?pgs=1964-1991&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Lei da liberdade religiosa"
+      },
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "6283",
+        "leg": "VIII",
+        "nr": "66",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "94",
+            "obs": null,
+            "pag": [
+              "1964-1991"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-03-31",
+            "pubLeg": "VIII",
+            "pubNr": "48",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1964?pgs=1964-1991&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "94",
+            "obs": null,
+            "pag": [
+              "1964-1991"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-03-31",
+            "pubLeg": "VIII",
+            "pubNr": "48",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1964?pgs=1964-1991&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "94",
+            "obs": null,
+            "pag": [
+              "1964-1991"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-03-31",
+            "pubLeg": "VIII",
+            "pubNr": "48",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1964?pgs=1964-1991&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "94",
+            "obs": null,
+            "pag": [
+              "1964-1991"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-03-31",
+            "pubLeg": "VIII",
+            "pubNr": "48",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1964?pgs=1964-1991&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Lei da liberdade religiosa e da laicização do Estado"
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "6139",
+        "leg": "VIII",
+        "nr": "41",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "94",
+            "obs": null,
+            "pag": [
+              "1964-1991"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-03-31",
+            "pubLeg": "VIII",
+            "pubNr": "48",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1964?pgs=1964-1991&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "94",
+            "obs": null,
+            "pag": [
+              "1964-1991"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-03-31",
+            "pubLeg": "VIII",
+            "pubNr": "48",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1964?pgs=1964-1991&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "94",
+            "obs": null,
+            "pag": [
+              "1964-1991"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-03-31",
+            "pubLeg": "VIII",
+            "pubNr": "48",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1964?pgs=1964-1991&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "94",
+            "obs": null,
+            "pag": [
+              "1964-1991"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-03-31",
+            "pubLeg": "VIII",
+            "pubNr": "48",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1964?pgs=1964-1991&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Pronuncia-se pela abertura e realização do processo de revisão da Concordata de 7 de Maio de 1940."
+      },
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "6137",
+        "leg": "VIII",
+        "nr": "43",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "94",
+            "obs": null,
+            "pag": [
+              "1964-1991"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-03-31",
+            "pubLeg": "VIII",
+            "pubNr": "48",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1964?pgs=1964-1991&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "94",
+            "obs": null,
+            "pag": [
+              "1964-1991"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-03-31",
+            "pubLeg": "VIII",
+            "pubNr": "48",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1964?pgs=1964-1991&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "94",
+            "obs": null,
+            "pag": [
+              "1964-1991"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-03-31",
+            "pubLeg": "VIII",
+            "pubNr": "48",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1964?pgs=1964-1991&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "94",
+            "obs": null,
+            "pag": [
+              "1964-1991"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-03-31",
+            "pubLeg": "VIII",
+            "pubNr": "48",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1964?pgs=1964-1991&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "R",
+        "titulo": "Sobre o empenhamento do Estado Português na defesa e promoção do direito a liberdade religiosa."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-03-30",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28516",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1990-1991"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-31",
+                "pubLeg": "VIII",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1990?pgs=1990-1991&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE LIBERDADE RELIGIOSA E DA LAICIZACAO DO ESTADO; REVISAO DA CONCORDATA DE 07 MAIO 1940",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1166",
+                "nome": "Claudio Monteiro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28517",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1986-1988"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-31",
+                "pubLeg": "VIII",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1986?pgs=1986-1988&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE LIBERDADE RELIGIOSA E DA LAICIZACAO DO ESTADO; REVISAO DA CONCORDATA DE 07 MAIO 1940",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28518",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1984-1986"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-31",
+                "pubLeg": "VIII",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1984?pgs=1984-1986&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE LIBERDADE RELIGIOSA E DA LAICIZACAO DO ESTADO; REVISAO DA CONCORDATA DE 07 MAIO 1940",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28519",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1983-1984"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-31",
+                "pubLeg": "VIII",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1983?pgs=1983-1984&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE LIBERDADE RELIGIOSA E DA LAICIZACAO DO ESTADO; REVISAO DA CONCORDATA DE 07 MAIO 1940",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "128",
+                "nome": "Pedro Roseta"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28520",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1982-1982"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-31",
+                "pubLeg": "VIII",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1982?pgs=1982&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE LIBERDADE RELIGIOSA E DA LAICIZACAO DO ESTADO; REVISAO DA CONCORDATA DE 07 MAIO 1940",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "211",
+                "nome": "João Amaral"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28521",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1979-1983"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-31",
+                "pubLeg": "VIII",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1979?pgs=1979-1983&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE LIBERDADE RELIGIOSA E DA LAICIZACAO DO ESTADO; REVISAO DA CONCORDATA DE 07 MAIO 1940",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28522",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1976-1978"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-31",
+                "pubLeg": "VIII",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1976?pgs=1976-1978&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE LIBERDADE RELIGIOSA E DA LAICIZACAO DO ESTADO; REVISAO DA CONCORDATA DE 07 MAIO 1940",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "128",
+                "nome": "Pedro Roseta"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28523",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1972-1976",
+                  "1990-1991"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-31",
+                "pubLeg": "VIII",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1972?pgs=1972-1976,1990-1991&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE LIBERDADE RELIGIOSA E DA LAICIZACAO DO ESTADO; REVISAO DA CONCORDATA DE 07 MAIO 1940",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28524",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1972-1972"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-31",
+                "pubLeg": "VIII",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1972?pgs=1972&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE LIBERDADE RELIGIOSA E DA LAICIZACAO DO ESTADO; REVISAO DA CONCORDATA DE 07 MAIO 1940",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "235",
+                "nome": "Manuel Alegre"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28525",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1972-1972"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-31",
+                "pubLeg": "VIII",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1972?pgs=1972&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE LIBERDADE RELIGIOSA E DA LAICIZACAO DO ESTADO; REVISAO DA CONCORDATA DE 07 MAIO 1940",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28526",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1971-1972"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-31",
+                "pubLeg": "VIII",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1971?pgs=1971-1972&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE LIBERDADE RELIGIOSA E DA LAICIZACAO DO ESTADO; REVISAO DA CONCORDATA DE 07 MAIO 1940",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28527",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1971-1971"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-31",
+                "pubLeg": "VIII",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1971?pgs=1971&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE LIBERDADE RELIGIOSA E DA LAICIZACAO DO ESTADO; REVISAO DA CONCORDATA DE 07 MAIO 1940",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28528",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1898-1989",
+                  "1968-1968",
+                  "1971-1972"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-31",
+                "pubLeg": "VIII",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1898?pgs=1898-1989,1968,1971-1972&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE LIBERDADE RELIGIOSA E DA LAICIZACAO DO ESTADO; REVISAO DA CONCORDATA DE 07 MAIO 1940",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1625",
+                "nome": "Maria Celeste Cardona"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28529",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1968-1968"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-31",
+                "pubLeg": "VIII",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1968?pgs=1968&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE LIBERDADE RELIGIOSA E DA LAICIZACAO DO ESTADO; REVISAO DA CONCORDATA DE 07 MAIO 1940",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28530",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1967-1967"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-31",
+                "pubLeg": "VIII",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1967?pgs=1967&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE LIBERDADE RELIGIOSA E DA LAICIZACAO DO ESTADO; REVISAO DA CONCORDATA DE 07 MAIO 1940",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "185",
+                "nome": "José Vera Jardim"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28531",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1964-1968"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-31",
+                "pubLeg": "VIII",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1964?pgs=1964-1968&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE LIBERDADE RELIGIOSA E DA LAICIZACAO DO ESTADO; REVISAO DA CONCORDATA DE 07 MAIO 1940",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28532",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1964-1964"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-31",
+                "pubLeg": "VIII",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1964?pgs=1964&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE LIBERDADE RELIGIOSA E DA LAICIZACAO DO ESTADO; REVISAO DA CONCORDATA DE 07 MAIO 1940",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28533",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1964-1964"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-31",
+                "pubLeg": "VIII",
+                "pubNr": "48",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1964?pgs=1964&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE LIBERDADE RELIGIOSA E DA LAICIZACAO DO ESTADO; REVISAO DA CONCORDATA DE 07 MAIO 1940",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "105484",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "282900",
+        "obs": null,
+        "pag": [
+          "1964-1978",
+          "1979-1991"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-03-31",
+        "pubLeg": "VIII",
+        "pubNr": "48",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/048/2000-03-31/1964?pgs=1964-1978,1979-1991&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
