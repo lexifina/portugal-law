@@ -1,0 +1,4 @@
+Portaria n.º 319/72
+de 3 de Junho
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, abrir um crédito especial da importância de 200000$00, destinado a reforçar a verba do capítulo único, artigo 8.º, n.º 5) «Pagamento de serviços - Despesas de higiene, saúde e conforto - Consultas, exames e tratamentos especiais a fazer fora do Hospital por beneficiários da assistência quando ali internados e serviços clínicos e de hospitalização, nos termos do § 2.º do artigo 144.º, alínea a) do artigo 146.º do Decreto n.º 45664, de 15 de Abril de 1964, e artigo 18.º do Decreto n.º 48277, de 16 de Março de 1968», do orçamento da despesa do Hospital do Ultramar para o corrente ano económico, tomando como contrapartida o saldo do ano económico findo.
+Pelo Ministro do Ultramar, Leão Maria Tavares Rosado do Sacramento Monteiro, Subsecretário de Estado da Administração Ultramarina.
