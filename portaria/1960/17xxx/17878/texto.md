@@ -1,0 +1,3 @@
+Portaria n.º 17878
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, abrir um crédito especial de 108000$00, a inscrever em adicional à tabela de despesa do orçamento privativo em vigor da Agência-Geral do Ultramar, destinado ao pagamento da renda no corrente ano de um armazém de livros e diverso material daquele organismo, tomando como contrapartida o saldo de exercícios findos.
+Ministério do Ultramar, 4 de Agosto de 1960. - Pelo Ministro do Ultramar, Adriano José Alves Moreira, Subsecretário de Estado da Administração Ultramarina.
