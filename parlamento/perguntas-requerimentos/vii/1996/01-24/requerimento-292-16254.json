@@ -1,0 +1,104 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=htpYpETdXfgHmO4bgl5XKGQk%2bkZ1UWePwKPL0a952OEb3q68QQJu%2fuE3NuR8L9cT16ct5X3RKqJkceDCyhfVGNPxhHXgbN1eGmi%2f%2fdU0g60yGc2cs%2bn1DMAEwQhj%2bKKB5yX47cODyxeVMUfaXI003Z9keT2kp2rW%2f7kxaUXxrVSf%2brEumAdcCbsQWmtnV66GATPJkIrBDauZqW%2fTWFG8va1dk%2bkmTLKSlM5McQDTmE0NcJE1JnQKMHMv4M0dnjHF6CV6z0vn0bWDxqqYFeDaU5FrwkU826iJw3qNEXisf524qng2dAL%2fTUTvJ5%2b5vdrQNfCO0dMi3U4dP2xTk2nscBJCzFAYe7g9Oj019EJl5HstUW53s7KuzZRGevOeN9LIKt96NeIqRpBfgUg0UQzT5g%3d%3d&fich=RequerimentosVII_json.txt&Inline=true",
+  "ficheiro_sha256": "c4242ebf0e6e244b5787c9940684dff06969f806e8cf9a27eebd15d714e35117",
+  "legislatura": "VII",
+  "id": "16254",
+  "tipo": "Requerimento",
+  "numero": "292",
+  "data_registo": "1996-01-24",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "ACONTECIMENTOS OCORRIDOS NO SERVICO DE PEDIATRIA DO INSTITUTO PORTUGUES DE ONCOLOGIA",
+    "Autores": [
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1084",
+        "nome": "Maria José Nogueira Pinto"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1286",
+        "nome": "Silva Carvalho"
+      }
+    ],
+    "DataEnvio": "1996-01-27",
+    "Destinatarios": [
+      {
+        "dataEnvio": "1996-01-27",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Ministério da Saúde",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": null,
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "1996-01-24",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d564e4d4c7a526d4e6a426d4f4463344c546c694e3245744e44457a4d5330344d4446684c544e6b4d475a684f544d355a5445794e4335775a47593d&fich=4f60f878-9b7a-4131-801a-3d0fa939e124.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "16254",
+    "Legislatura": "VII",
+    "Nr": "292",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "26850",
+        "obs": "52-(13)",
+        "pag": [
+          "52-(13)-52-(13)"
+        ],
+        "pagFinalDiarioSupl": "2º Supl.",
+        "pubdt": "1996",
+        "pubLeg": "VII",
+        "pubNr": "12",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "2º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/07/01/012S2/1996-01-27/52-(13)?pgs=52-(13)&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": [
+      {
+        "dataResposta": null,
+        "docRemetida": null,
+        "entidade": "Ministério da Saúde",
+        "ficheiro": "",
+        "ficheiroComTipo": null,
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "164307",
+            "obs": "64-(87)",
+            "pag": [
+              "64-(87)-64-(87)"
+            ],
+            "pagFinalDiarioSupl": "2º Supl.",
+            "pubdt": "1996",
+            "pubLeg": "VII",
+            "pubNr": "15",
+            "pubSL": "1",
+            "pubTipo": "DAR II série B",
+            "pubTp": "B",
+            "supl": "2º Supl.",
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/07/01/015S2/1996-03-05/64-(87)?pgs=64-(87)&org=PLC"
+          }
+        ]
+      }
+    ],
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
