@@ -1,0 +1,13 @@
+Portaria n.º 235/75
+de 7 de Abril
+1. Tem a Secretaria de Estado da Agricultura conhecimento, através dos seus diferentes serviços e principalmente em consequência das reclamações dos povos, de acções de florestação em solos de aptidão agrícola, sobretudo em regiões de grande propriedade.
+2. O País tem necessidade de intensificar a produção de alimentos, como tarefa prioritária no sector agrícola, e, assim, não se pode deixar de verberar tais acções, que constituem uma prática comodista da defesa de interesses individuais através do uso indevido da propriedade privada da terra, em detrimento dos interesses gerais do País.
+3. Encontra-se em fase de estudo um conjunto de medidas legais que visam regulamentar e organizar as acções de florestação e de exploração florestal, mas, em face de situações de desrespeito pelo espírito que tem vindo a presidir às iniciativas desta Secretaria de Estado, reflectido já em vários diplomas legais, nomeadamente no Decreto-Lei n.º 653/74, de 22 de Novembro, torna-se necessária a adopção de medidas imediatas.
+4. Assim:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, o seguinte:
+a) Ficam proibidas as arborizações em todos os terrenos que estejam cartografados pelo Serviço de Reconhecimento e de Ordenamento Agrário (SROA) nas classes de capacidade de uso A, B e C e em todos aqueles que, não estando cartografados, sejam considerados de aptidão agrícola pelos serviços desta Secretaria de Estado, seja qual for a sua área;
+b) Em todos os terrenos que estejam cartografados pelo SROA nas classes de capacidade de uso D e E e em todos aqueles que, não estando cartografados, sejam considerados de aptidão florestal pelos serviços desta Secretaria de Estado as arborizações só poderão efectuar-se depois de autorizadas pela Direcção-Geral dos Serviços Florestais e Aquícolas, salvo quando a florestação for orientada pelo Fundo de Fomento Florestal, quando o prédio a arborizar tenha 20 ha ou mais ou elas ocupem, em mais do que um prédio, uma área contínua igual ou superior a 20 ha;
+c) Para os efeitos da autorização referida na alínea anterior, devem os proprietários, rendeiros ou societários, conforme os casos:
+I) Juntar uma planta dos prédios, em escala não superior a 1:25000, ao pedido de autorização, do qual deve constar, além da localização, a indicação da espécie ou espécies a utilizar e o respectivo modo de instalação;
+II) Consultar qualquer dos serviços técnicos desta Secretaria de Estado sobre a aptidão dos solos, quando estes não estejam cartografados pelo SROA.
+Ministério da Economia, 24 de Março de 1975. - O Secretário de Estado da Agricultura, Alfredo Gonzalez Esteves Belo.
