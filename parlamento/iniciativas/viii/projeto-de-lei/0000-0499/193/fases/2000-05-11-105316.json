@@ -1,0 +1,574 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "193",
+    "id": "6061",
+    "titulo": "Iniciativa legislativa de cidadania"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2000-05-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1725",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2000-05-11",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "6266",
+        "leg": "VIII",
+        "nr": "75",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "425",
+            "obs": null,
+            "pag": [
+              "2547-2554"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-05-12",
+            "pubLeg": "VIII",
+            "pubNr": "64",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/064/2000-05-12/2547?pgs=2547-2554&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "425",
+            "obs": null,
+            "pag": [
+              "2547-2554"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-05-12",
+            "pubLeg": "VIII",
+            "pubNr": "64",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/064/2000-05-12/2547?pgs=2547-2554&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "425",
+            "obs": null,
+            "pag": [
+              "2547-2554"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-05-12",
+            "pubLeg": "VIII",
+            "pubNr": "64",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/064/2000-05-12/2547?pgs=2547-2554&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Iniciativa da lei por grupos de cidadãos eleitores"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "6220",
+        "leg": "VIII",
+        "nr": "95",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "425",
+            "obs": null,
+            "pag": [
+              "2547-2554"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-05-12",
+            "pubLeg": "VIII",
+            "pubNr": "64",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/064/2000-05-12/2547?pgs=2547-2554&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "425",
+            "obs": null,
+            "pag": [
+              "2547-2554"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-05-12",
+            "pubLeg": "VIII",
+            "pubNr": "64",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/064/2000-05-12/2547?pgs=2547-2554&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "425",
+            "obs": null,
+            "pag": [
+              "2547-2554"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-05-12",
+            "pubLeg": "VIII",
+            "pubNr": "64",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/064/2000-05-12/2547?pgs=2547-2554&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Iniciativa legislativa popular"
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "6062",
+        "leg": "VIII",
+        "nr": "192",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "425",
+            "obs": null,
+            "pag": [
+              "2547-2554"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-05-12",
+            "pubLeg": "VIII",
+            "pubNr": "64",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/064/2000-05-12/2547?pgs=2547-2554&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "425",
+            "obs": null,
+            "pag": [
+              "2547-2554"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-05-12",
+            "pubLeg": "VIII",
+            "pubNr": "64",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/064/2000-05-12/2547?pgs=2547-2554&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "425",
+            "obs": null,
+            "pag": [
+              "2547-2554"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-05-12",
+            "pubLeg": "VIII",
+            "pubNr": "64",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/064/2000-05-12/2547?pgs=2547-2554&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Regula e garante o exercício do direito de iniciativa legislativa popular"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-05-11",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27924",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2554-2554"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-12",
+                "pubLeg": "VIII",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/064/2000-05-12/2554?pgs=2554&org=PLC"
+              }
+            ],
+            "sumario": "INICIATIVA LEGISLATIVA POPULAR",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27925",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2553-2554"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-12",
+                "pubLeg": "VIII",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/064/2000-05-12/2553?pgs=2553-2554&org=PLC"
+              }
+            ],
+            "sumario": "INICIATIVA LEGISLATIVA POPULAR",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27926",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2552-2553"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-12",
+                "pubLeg": "VIII",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/064/2000-05-12/2552?pgs=2552-2553&org=PLC"
+              }
+            ],
+            "sumario": "INICIATIVA LEGISLATIVA POPULAR",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1680",
+                "nome": "Helena Ribeiro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27927",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2550-2552"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-12",
+                "pubLeg": "VIII",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/064/2000-05-12/2550?pgs=2550-2552&org=PLC"
+              }
+            ],
+            "sumario": "INICIATIVA LEGISLATIVA POPULAR",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27928",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2548-2550"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-12",
+                "pubLeg": "VIII",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/064/2000-05-12/2548?pgs=2548-2550&org=PLC"
+              }
+            ],
+            "sumario": "INICIATIVA LEGISLATIVA POPULAR",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27929",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2547-2548"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-12",
+                "pubLeg": "VIII",
+                "pubNr": "64",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/064/2000-05-12/2547?pgs=2547-2548&org=PLC"
+              }
+            ],
+            "sumario": "INICIATIVA LEGISLATIVA POPULAR",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "105316",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "111171",
+        "obs": null,
+        "pag": [
+          "2552-2554"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-05-12",
+        "pubLeg": "VIII",
+        "pubNr": "64",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/064/2000-05-12/2552?pgs=2552-2554&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
