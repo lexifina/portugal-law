@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação da Embaixada da Suíça, o Governo da República Socialista Federal da Jugoslávia depositou, em Berna, a 18 de Março de 1965, os instrumentos de adesão do seu país à Convenção de Paris para a protecção da propriedade industrial, Acordo revisto em Londres, em 2 de Junho de 1934, e Acordo de Madrid relativo ao registo internacional das marcas de fábrica e de comércio, texto também revisto em Londres na mesma data.
+Direcção-Geral dos Negócios Económicos e Consulares, 31 de Dezembro de 1965. - O Director-Geral, José Calvet de Magalhães.
