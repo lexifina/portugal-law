@@ -1,0 +1,9 @@
+Portaria n.º 19309
+1. Com intuito de procurar uma solução que atendesse a todos os interesses em jogo na comercialização da grainha de alfarroba, ou seja, da lavoura, do comércio e da indústria, foi publicada, em 11 de Julho de 1957, a Portaria n.º 16344, que reservou, para industrialização no País, 50 por cento da grainha que se pretendesse exportar, desde que a indústria se dispusesse a comprá-la ao preço mensalmente fixado pela comissão constituída, nos termos da mesma portaria, pelo delegado do Governo no Grémio dos Exportadores de Frutos e Produtos Hortícolas do Algarve e por representantes das actividades acima referidas.
+A experiência demonstrou ser extraordinàriamente difícil fixar aqueles preços com o acordo das actividades interessadas, do que resultava permanente mal-estar e relativa ineficiência da solução adoptada.
+2. Em face desta situação expuseram repetidas vezes as actividades interessadas no sentido de se proceder a uma revisão do regime estabelecido.
+Com esse objectivo foi constituído um grupo de trabalho com representação das Corporações da Lavoura, Comércio e Indústria, que concluíu pelo regresso ao livre abastecimento de grainha pela indústria, pela concessão do regime de draubaque às sementes importadas para ulterior exportação de produtos derivados e, consequentemente, pela revogação da Portaria n.º 16344, que regulava a comercialização da alfarroba.
+3. Tendo o Decreto n.º 44355, de 17 de Maio último, autorizado a importação, sob regime de draubaque, nos termos em que foi solicitada, impõe-se revogar a Portaria n.º 16344.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio, que fique revogada a Portaria n.º 16344, de 11 de Julho de 1957.
+Secretaria de Estado do Comércio, 31 de Julho de 1962. - O Secretário de Estado do Comércio, Samuel Rodrigues Sanches.
