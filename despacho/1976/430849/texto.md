@@ -1,0 +1,5 @@
+Despacho
+Considerando que a aplicação do Decreto-Lei n.º 45/76, de 20 de Janeiro, designadamente no que se refere à determinação do quantitativo do subsídio vitalício, tem suscitado dúvidas cuja resolução está em curso;
+Considerando que deste modo não é ainda possível proceder ao pagamento do referido subsídio:
+Determina-se que, até publicação das orientações sobre a matéria, os trabalhadores a que se refere o artigo 1.º do Decreto-Lei n.º 45/76, de 20 de Janeiro, continuem a ser abonados dos respectivos vencimentos nos termos do artigo 4.º, devendo àqueles relativamente aos quais, entretanto, se tenham tomado medidas diferentes ser abonadas as diferenças entre os subsídios pagos e as remunerações que vinham percebendo quando no desempenho dos respectivos cargos.
+Ministérios da Administração Interna e das Finanças, 15 de Junho de 1976. - O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa. - Pelo Ministro das Finanças, José Dias dos Santos Pais, Subsecretário de Estado adjunto do Ministro das Finanças.
