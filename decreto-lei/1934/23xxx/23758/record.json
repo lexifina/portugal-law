@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1934/04/08400/04530454.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1934-04-11",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "8db7c0d36e3e6d46ef3ab4413f6e070ea2acdf5066ca48387edaac43611cb16e",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.1,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "a516b194b2212b20bd9e7d69b490e9f5694483774cb95e9d57dfdaf91c335ed5",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 270
 }
