@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, em conformidade com o n.º 1 do artigo XVI do Acordo entre o Governo de Portugal e o Governo dos Estados Unidos da América Respeitante a Pescarias ao Largo das Costas dos Estados Unidos da América, assinado em Washington em 16 de Outubro de 1980, publicado no suplemento ao Diário da República, 1.ª série, n.º 43, de 20 de Fevereiro de 1981 (Decreto n.º 31-A/81), o referido Acordo entrou efectivamente em vigor no dia 4 de Março de 1981, data em que foram preenchidas as formalidades constitucionais referentes à aprovação do mesmo por parte dos Governos de ambos os países signatários.
+Direcção-Geral dos Negócios Económicos, 3 de Abril de 1981. - O Director-Geral-Adjunto, Francisco Moita.
