@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se faz público que, segundo comunicação da Organização Mundial da Propriedade Intelectual, o Governo da República dos Estados Unidos do México fez o depósito, em 8 de Março de 1984, de uma notificação através da qual renova a declaração feita em 20 de Maio de 1976, nos termos da qual aquele Governo invoca o benefício das faculdades previstas pelos artigos II e III do anexo da Convenção de Berna para a Protecção das Obras Literárias e Artísticas de 9 de Setembro de 1886, revista em Paris em 24 de Julho de 1971.
+Conforme o artigo I, 2), a), do referido anexo, a renovação da declaração feita pela República dos Estados Unidos do México é válida por um período de 10 anos, a contar de 10 de Outubro de 1984, isto é, até Outubro de 1994.
+Direcção-Geral dos Negócios Económicos, 17 de Abril de 1984. - O Subdirector-Geral, Roberto Nuno de Oliveira e Silva Pereira de Sousa.
