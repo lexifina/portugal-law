@@ -1,0 +1,5 @@
+Aviso n.º 287/95
+Por ordem superior se torna público que, por nota de 1 de Setembro de 1995 e nos termos do artigo 25.º da Convenção Relativa à Competência das Autoridades e à Lei Aplicável em Matéria de Protecção de Menores, concluída na Haia, em 5 de Outubro de 1961, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter Portugal, por nota datada de 12 de Julho de 1995 e recebida em 10 de Agosto de 1995, informado que a sua autoridade designada é doravante a seguinte:
+Instituto de Reinserção Social, Avenida do Almirante Reis, 101, 7.º, 1197 Lisboa Codex, Portugal, UE (telefone: 3524709, fax: 3521582).
+A Convenção foi aprovada para ratificação pelo Decreto-Lei n.º 48494, de 22 de Julho de 1968, tendo Portugal depositado o seu instrumento de ratificação em 6 de Julho de 1968, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 20, de 24 de Janeiro de 1969.
+Departamento de Assuntos Jurídicos, 14 de Setembro de 1995. - O Director, José Maria Teixeira Leite Martins.
