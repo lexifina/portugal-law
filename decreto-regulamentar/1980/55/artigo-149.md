@@ -14,6 +14,6 @@ b) Possuírem o curso geral dos liceus ou equivalente;
 
 c) Escreverem correcta e correntemente à máquina.
 
-3 - Os assalariados e praticantes que apenas possuírem o 1.º ciclo podem ser admitidos se, além dos requisitos exigidos nas alíneas a) e c) do número anterior, tiverem pelo menos seis anos de prática com bom aproveitamento, devidamente comprovada.
+3 - Os assalariados e praticantes que à data da publicação do Decreto-Lei n.º 519-F2/79, de 29 de Dezembro, possuíssem, além dos requisitos exigidos nas alíneas a) e c) do número anterior, 3 anos de prática de serviços com bom aproveitamento, devidamente comprovados, e o ciclo preparatório ou 6 anos de prática nas referidas condições e a escolaridade obrigatória, segundo a idade do interessado, são integrados na carreira de escriturário, com dispensa de concurso.
 
 4 - Os funcionários que ocupam lugares suprimidos pelos novos quadros permanecerão ao serviço nas actuais categorias enquanto não forem providos em outros lugares.
