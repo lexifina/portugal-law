@@ -1,0 +1,3 @@
+Declaração
+Declara-se, para os devidos efeitos, que entre o original, arquivado nesta Secretaria-Geral, e o texto do Decreto-Lei n.º 42883, publicado, pelos Ministérios das Finanças e da Saúde e Assistência no Diário do Governo n.º 68, 1.ª série, de 23 de Março do corrente ano, existe a seguinte divergência, que assim se rectifica: Na parte final do artigo único, onde se lê: «... aprovado pelo Decreto-Lei n.º 42969, de 24 de Novembro de 1958», deve ler-se: «... aprovado pelo Decreto-Lei n.º 41969, de 24 de Novembro de 1958».
+Secretaria-Geral da Presidência do Conselho, 4 de Abril de 1960. - O Secretário-Geral, Diogo de Castelbranco de Paiva de Faria Leite Brandão.
