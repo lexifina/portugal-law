@@ -1,0 +1,6 @@
+Resolução n.º 70/78
+Com base nos elementos de informação apresentados pelo Ministério da Habitação e Obras Públicas, o Conselho de Ministros, reunido em 26 de Abril de 1978, resolveu:
+1 - Conceder o aval do Estado a uma operação de crédito intercalar até ao montante de 1500000000$00, nas condições indicadas no n.º 1 da Resolução do Conselho de Ministros n.º 230/77, de 31 de Agosto.
+2 - Incumbir o Ministério da Habitação e Obras Públicas de fornecer os elementos de informação necessários às instituições de crédito intervenientes na operação intercalar para apresentação, por parte destas, ao Ministério das Finanças e do Plano de relatórios trimestrais sobre a evolução da situação financeira da empresa em relação com o nível de realização dos trabalhos programados e sobre a execução dos seus planos de actividade e financeiros.
+3 - Fixar o prazo limite de 30 de Junho de 1978 para a revisão do contrato de concessão para a reformulação do programa de execução do plano de auto-estradas previsto, com indicação do faseamento da abertura ao tráfego dos diversos troços e previsão das correspondentes receitas.
+Presidência do Conselho de Ministros, 26 de Abril de 1978. - O Primeiro-Ministro, Mário Soares.
