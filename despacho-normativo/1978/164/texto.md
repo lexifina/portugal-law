@@ -1,0 +1,3 @@
+Despacho Normativo n.º 164/78
+De harmonia com o disposto no n.º 3 do artigo 11.º do Decreto-Lei n.º 8/74, de 14 de Janeiro, e no n.º 1 e sua alínea b) do artigo 6.º do Decreto-Lei n.º 106/78, de 24 de Maio, fixam-se em 5000$00 e 2000$00, respectivamente, as gratificações do presidente e dos restantes membros da comissão directiva da Bolsa de Valores de Lisboa.
+Ministérios das Finanças e do Plano e da Reforma Administrativa, 18 de Julho de 1978. - Pelo Ministro das Finanças e do Plano, Herlânder dos Santos Estrela, Secretário de Estado do Tesouro. - O Ministro da Reforma Administrativa, Rui Eduardo Ferreira Rodrigues Pena.
