@@ -1,0 +1,5 @@
+Portaria n.º 405/80
+de 14 de Julho
+Manda o Governo da República Portuguesa, pelo Ministro da Indústria e Energia, nos termos do n.º 2 do artigo 4.º do Estatuto de Normalização Portuguesa (Decreto-Lei n.º 38801, de 25 de Junho de 1952, modificado pelo Decreto-Lei n.º 48454, de 25 de Junho de 1968), com a nova redacção que lhe foi dada pelo Decreto-Lei n.º 117/75, de 8 de Março, aprovar como norma definitiva o estudo E-2146, com as alterações propostas no respectivo parecer do Conselho de Normalização e com o número e título seguintes:
+NP-1655 - Produtos petrolíferos. Determinação do teor de gomas de combustíveis líquidos. Método de evaporação por jacto.
+Ministério da Indústria e Energia, 30 de Junho de 1980. - O Ministro da Indústria e Energia, Álvaro Roque de Pinho Bissaia Barreto.
