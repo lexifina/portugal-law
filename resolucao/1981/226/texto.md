@@ -1,0 +1,16 @@
+Resolução n.º 226/81
+Considerando que no triénio 1977-1979 e relativamente ao decénio 1966-1975 se cultivaram anualmente, em média, menos 238000 ha de cereais praganosos de sequeiro de Outono/Inverno e se produziram menos 446000 t de cereais;
+Considerando que as potencialidades máximas para a produção de cereais de Outono/Inverno em solos de capacidade de uso agrícola apontam para os seguintes números:
+Área de cultivo - 1200000 ha;
+Produções - 1920000 t,
+O que significa que, relativamente ao que se passou no triénio 1977-1979, ficaram por cultivar 486000 há e por produzir 1450000 t;
+Considerando que as acções de fomento da produção de cereais, para além de um novo regime de preços de garantia já aprovado, devem visar o aumento da área de cultivo nos solos adequados (essencialmente classes de capacidade de uso A, B e C) e o uso generalizado de rotações e de práticas tecnológicas de eficiência já comprovada em várias regiões do País;
+Considerando que estas práticas tecnológicas estão referenciadas em normas de acordo com a capacidade de uso dos solos e o restante determinismo ecológico e são indispensáveis para se conseguir obter as produções unitárias consideradas potenciais;
+Considerando que as acções de fomento com vista ao aumento das produções unitárias devem assentar no uso adequado das normas e estimular os agricultores para a sua aplicação:
+O Conselho de Ministros, reunido em 22 de Outubro de 1981, decide lançar um programa nacional para aumento da produção de cereais, que incluirá as seguintes acções:
+1 - Instituição do Prémio Norma Tecnológica, no valor de 1000$00 por hectare de cultura de cereais (trigo, cevada, aveia, triticales e centeio), para todos os agricultores que adoptem as normas tecnológicas recomendadas pelos serviços regionais do MACP, sempre que sejam aplicadas a folhas de cultura de dimensões mínima e máxima também determinadas por aqueles serviços.
+Para a instituição do Prémio Norma Tecnológica - que no corrente ano agrícola apenas se aplicará à cultura do trigo - será atribuída, na campanha de 1981-1982, uma verba de 100000 contos, na previsão de que 100000 ha adoptem as referidas normas.
+Para a obtenção deste prémio, os agricultores deverão fazer a sua inscrição nos serviços regionais do MACP, ou nos locais por eles designados, até 30 de Novembro de 1981. Ao fazer a inscrição, o agricultor assume o compromisso de aceitação das normas tecnológicas e de fazer o seguro de colheitas, no qual beneficiará do bónus de 25%.
+2 - Instituição do Prémio Aumento de Área, de valor a determinar, para os aumentos de áreas de cultivo de cereais (trigo, cevada, aveia, triticales e centeio) que se verificarem a partir do ano agrícola de 1982-1983 em relação ao ano anterior, desde que enquadradas em rotações recomendadas pelos serviços regionais do MACP e nos solos adequados.
+Para este efeito, os agricultores interessados deverão inscrever-se até 30 de Abril de 1982, apresentando a planta de ocupação cultural da sua exploração nesse ano e a previsão para o ano seguinte. Esta acção iniciar-se-á a partir das sementeiras outonais de 1982.
+Presidência do Conselho de Ministros, 22 de Outubro de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
