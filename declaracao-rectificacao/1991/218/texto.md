@@ -1,0 +1,6 @@
+Declaração de rectificação n.º 218/91
+Segundo comunicação do Gabinete do Ministro da República da Região Autónoma dos Açores, a Resolução da Assembleia Legislativa Regional n.º 7/91/A, publicada no Diário da República, n.º 191, de 21 de Agosto de 1991, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 27.º, no quinto parágrafo, onde se lê «Para efeitos» deve ler-se «6 - Para efeitos».
+No artigo 93.º, n.º 2, onde se lê «2 - O período de tempo a atribuir para efeitos do disposto na alínea c) do número anterior não pode exceder uma hora, podendo, uma só vez, cada período legislativo ser prorrogado por mais uma hora, desde que tal seja requerido por qualquer grupo ou representação parlamentar» deve ler-se «2 - O período de tempo a atribuir para efeitos do disposto na alínea c) do número anterior não pode exceder uma hora e meia, podendo ser prorrogado por mais uma hora, em cada reunião, desde que tal seja requerido por qualquer grupo ou representação parlamentar».
+No artigo 111.º, no segundo parágrafo, onde se lê «Durante a discussão» deve ler-se «3 - Durante a discussão».
+Secretaria-Geral da Presidência do Conselho de Ministros, 20 de Setembro de 1991. - O Secretário-Geral, França Martins.
