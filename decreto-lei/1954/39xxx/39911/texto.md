@@ -1,0 +1,60 @@
+Decreto-Lei n.º 39911
+Tornando-se necessário simplificar o sistema de passagem das licenças de trânsito de solípedes e viaturas não automóveis, ao mesmo tempo que se reconhece como conveniente reunir num só diploma todas as disposições que vigoram sobre o respectivo imposto;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º O trânsito de solípedes e viaturas não automóveis nas estradas a cargo do Estado é sujeito ao pagamento de um imposto denominado «Imposto de trânsito», em harmonia com a tabela anexa a este decreto-lei.
+Art. 2.º São isentos de imposto de trânsito:
+a) Os animais e veículos pertencentes aos serviços do Estado, dos corpos administrativos, das pessoas colectivas de utilidade pública administrativa, da assistência pública e de incêndios;
+b) Os triciclos pertencentes a pessoas mutiladas ou aleijadas, quando utilizados exclusivamente no transporte dos seus proprietários, impossibilitados de se deslocarem pelos seus próprios meios.
+§ único. Os veículos pertencentes às entidades mencionadas na alínea a) deste artigo deverão ter aposta a indicação dos serviços a que pertencem.
+Art. 3.º A cada agricultor - proprietário ou rendeiro - é permitido ter um carro de tracção animal, o qual poderá transitar nas estradas a cargo do Estado com isenção deste imposto, desde que esse carro se empregue exclusivamente nos serviços agrícolas do seu possuidor.
+§ único. Igual isenção é concedida para os animais de carga ou sela que, até ao número de dois, cada agricultor possua e exclusivamente empregue nos seus serviços agrícolas.
+Art. 4.º Para os efeitos do artigo anterior e seu § único são considerados serviços agrícolas:
+a) A condução de sementes, plantas e adubos para a agricultura;
+b) A condução de ferramentas, máquinas e utensílios de lavoura;
+c) A condução de materiais necessários para a cultura e para as obras de irrigação, reparação e defesa das propriedades, bem como para a construção de edificações necessárias à exploração das mesmas;
+d) O transporte de quaisquer produtos agrícolas, inclusive vinho, lenhas, matos, madeiras, gados, criação e lacticínios, tanto para os celeiros, adegas e arrecadações próprias, como para os locais de venda, casas dos compradores, estações de caminho de ferro e portos de embarque;
+e) O transporte dos produtos agrícolas representativos das rendas feito pelos rendeiros ou parceiros cultivadores para as casas, celeiros, arrecadações dos senhorios ou parceiros proprietários, e ainda das propriedades para os mercados, fábricas de moagem, estações de caminhos de ferro e portos de embarque;
+f) O transporte, de ou para as propriedades, mercados e feiras, do proprietário, criados, serviçais ou trabalhadores assalariados por ele.
+Art. 5.º O imposto de trânsito será pago adiantadamente, por semestre ou por ano, por meio de cartões do modelo i anexo a este decreto-lei, das taxas de 10$00, 15$00, 20$00, 25$00, 30$00, 40$00, 50$00, 60$00, 75$00 e 100$00, fornecidos às tesourarias da Fazenda Pública pela forma como se procede para com os valores selados.
+§ 1.º Estes cartões serão adquiridos nas tesourarias da Fazenda Pública, mediante o pagamento do respectivo imposto e do custo do impresso, fixado por despacho do Ministro das Finanças, e apresentados na secção de finanças do concelho ou bairro da residência ou sede do possuidor dos veículos ou dos solípedes para os quais se pretende a licença, a fim de serem preenchidos e registados no livro modelo iii anexo a este diploma.
+§ 2.º Tratando-se de veículos afectos ao serviço de propriedades agrícolas ou de actividades comerciais ou industriais situadas em concelho ou bairro diferente do da residência ou sede do seu possuidor, os cartões serão apresentados para preenchimento e registo na secção de finanças da área da localização das propriedades ou actividades.
+Art. 6.º A validade das licenças anuais termina sempre em 31 de Dezembro do ano a que dizem respeito; a das licenças semestrais findará em 30 de Junho ou naquela data, conforme respeitarem ao 1.º ou ao 2.º semestre.
+Art. 7.º Sobre o imposto de trânsito não incidirá qualquer adicional, quer para o Estado, quer para os corpos administrativos, nem se cobrará imposto do selo.
+Art. 8.º Para os fins previstos no artigo 3.º será utilizado um cartão, conforme o modelo ii anexo, exclusivo da Imprensa Nacional, com a designação de «Título de isenção de imposto de trânsito».
+§ único. A aquisição do título é feita nas tesourarias da Fazenda Pública, mediante o pagamento do seu custo, fixado por despacho do Ministro das Finanças.
+Art. 9.º O título de isenção deve ser requerido em papel selado, sem necessidade de reconhecimento da assinatura, e passado em presença da inscrição do requerente na matriz predial rústica; quando desta não conste o nome do rendeiro ou o prédio não esteja averbado em nome do seu possuidor, o título será passado em face da informação da fiscalização dos impostos, desde que esta afirme que o interessado é realmente explorador do prédio ou prédios indicados na petição.
+Art. 10.º O título referido nos artigos anteriores só é válido no ano em que for passado, salvo se nos anos seguintes o interessado o apresentar durante o mês de Janeiro na secção de finanças respectiva para revalidação, que será averbada no verso do mesmo título.
+§ único. Quando os espaços destinados ao averbamento da revalidação estiverem totalmente preenchidos, ou quando, pelo seu uso, os títulos se mostrem insusceptíveis de utilização, passar-se-á novo título, mediante a simples entrega do anterior, que a secção de finanças inutilizará.
+No livro registo modelo iv a que se refere o artigo 12.º averbar-se-á esta substituição, competindo ao novo título o mesmo número de ordem do substituído.
+Art. 11.º Sempre que se verifique o extravio da licença de trânsito ou do título de isenção, ficará o seu titular obrigado ao pagamento do imposto em relação ao período que estiver por decorrer até ao fim do ano, se pretender utilizar-se nesse lapso de tempo do veículo ou do solípede a que respeita o documento extraviado.
+§ único. O extravio do título não impede o requerimento para passagem de outro no ano imediato, com esse fundamento, devendo a secção de finanças averbar o facto no respectivo registo modelo iv e tomar as providências necessárias à apreensão do título extraviado se for apresentado para revalidação.
+Art. 12.º Para o registo da passagem das licenças de trânsito existirá nas secções de finanças o modelo iii e para efeito do registo dos títulos de isenção e sua revalidação utilizar-se-á o modelo iv.
+§ 1.º Estes impressos são exclusivos da Imprensa Nacional e serão fornecidos aos serviços por conta do Estado em livros a autenticar nas direcções de finanças com as assinaturas dos respectivos termos de abertura e encerramento.
+§ 2.º Por cada título requisitado extrair-se-á um verbete conforme o modelo v, constituindo o seu conjunto o índice alfabético dos nomes dos respectivos possuidores.
+Art. 13.º As licenças de trânsito e os respectivos títulos de isenção são válidos para toda a metrópole.
+Art. 14.º O condutor do solípede ou veículo transitando por estradas a cargo do Estado será sempre portador da licença de trânsito ou do título de isenção em vigor para o semestre em que se verificar a utilização do solípede ou veículo, sob pena de multa correspondente ao dobro da taxa anual do imposto de trânsito, a aplicar ao condutor, por cujo pagamento é solidàriamente responsável o proprietário do solípede ou veículo quando não seja ele o próprio condutor.
+§ único. Exceptuam-se os solípedes ou veículos isentos de imposto nos termos do artigo 2.º
+Art. 15.º Quando se verifique que qualquer dos veículos ou dos solípedes para que tenha sido passado o título de isenção é utilizado em serviço diverso daquele a que se referem as alíneas do artigo 4.º será cassado o respectivo título e autuado o proprietário para o efeito de pagamento do imposto respectivo e aplicação da multa do sêxtuplo da correspondente taxa anual.
+§ único. Só depois de pago o imposto e a multa poderá o proprietário obter novo título de isenção, se o solicitar, nos termos do artigo 9.º
+Art. 16.º A utilização do título de isenção ou da licença de trânsito relativos a veículos ou a solípedes que não pertençam ao seu titular ou diferentes daqueles a que o título ou licença respeitem será punida com a multa do décuplo da taxa anual do imposto correspondente ao indicador utilizado.
+Art. 17.º As multas previstas nos artigos anteriores serão distribuídas de harmonia com as disposições legais em vigor para as transgressões fiscais em que superintende a Direcção-Geral das Contribuições e Impostos.
+§ único. Exceptuam-se do disposto neste artigo as multas correspondentes às transgressões verificadas pela Polícia de Viação e Trânsito, que reverterão integralmente para o Estado.
+Art. 18.º À viciação, falsificação ou qualquer outro acto semelhante que tenha por fim a utilização de cartões não originários da Casa da Moeda ou de licença cuja validade tenha cessado serão aplicadas as penas previstas nos artigos 4.º e 5.º do Decreto-Lei n.º 29 480, de 10 de Março de 1939.
+Art. 19.º A fiscalização do imposto de trânsito compete especialmente à Polícia de Viação e Trânsito, à Guarda Nacional Republicana, ao pessoal da Direcção-Geral das Contribuições e Impostos e ao pessoal privativo dos serviços das estradas, podendo qualquer funcionário público ou administrativo participar também aos chefes das secções de finanças as transgressões que verificar.
+§ único. No mês de Janeiro de cada ano haverá tolerância na fiscalização.
+Art. 20.º Como compensação pelo adicional de 30 por cento que vinha sendo cobrado nos termos do artigo 706.º do Código Administrativo, abonar-se-á semestralmente às câmaras municipais a importância equivalente a 20 por cento sobre o total do imposto das licenças concedidas e registadas no concelho conforme o registo modelo iii.
+§ único. Para efeitos desse abono serão as respectivas folhas de despesa processadas nas direcções de finanças e remetidas à competente repartição da Direcção-Geral da Contabilidade Pública até ao último dia do mês seguinte ao do fim do semestre a que o abono diz respeito.
+Art. 21.º O imposto de trânsito uma vez pago nunca será restituído, ainda que o cartão não venha a ser preenchido.
+Art. 22.º Na guia de pagamento do imposto de trânsito e respectiva multa, quando haja lugar a execução fiscal, indicar-se-á separadamente a importância do imposto, convertendo-a o tesoureiro da Fazenda Pública na venda do cartão a que se refere o artigo 5.º, que será entregue na secção de finanças para preenchimento e registo.
+Art. 23.º Ficam expressamente revogados o Decreto-Lei n.º 24 326, de 9 de Agosto de 1934, o artigo 705.º do Código Administrativo na parte que se refere ao adicional que as câmaras municipais podiam lançar sobre o imposto de trânsito, o adicional de 30 por cento fixado no artigo 706.º do mesmo código, os artigos 3.º e 4.º do Decreto-Lei n.º 31 173, de 14 de Março de 1941, e o Decreto-Lei n.º 37 367, de 7 de Abril de 1949.
+Art. 24.º Este decreto-lei entra em vigor em 1 de Janeiro de 1955.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 19 de Novembro de 1954. - FRANCISCO HIGINO CRAVEIRO LOPES - António de Oliveira Salazar - João Pinto da Costa Leite - Fernando dos Santos Costa - Joaquim Trigo de Negreiros - João de Matos Antunes Varela - Artur Águedo de Oliveira - Américo Deus Rodrigues Thomaz - Paulo Arsénio Viríssimo Cunha - Eduardo de Arantes e Oliveira - Manuel Maria Sarmento Rodrigues - Fernando Andrade Pires de Lima - Ulisses Cruz de Aguiar Cortês - Manuel Gomes de Araújo - José Soares da Fonseca.
+
+Tabela do imposto de trânsito a que se refere o artigo 1.º do presente decreto-lei
+
+(ver documento original)
+Ministério das Finanças, 19 de Novembro de 1954. - O Ministro das Finanças, Artur Águedo de Oliveira.
+
+(ver documento original)
+Ministério das Finanças, 19 de Novembro de 1954. - O Ministro das Finanças, Artur Águedo de Oliveira.
