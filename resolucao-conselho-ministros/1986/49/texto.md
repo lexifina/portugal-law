@@ -1,0 +1,10 @@
+Resolução do Conselho de Ministros n.º 49/86
+Pela Resolução do Conselho de Ministros n.º 47/84, de 16 de Outubro, foi a LlSNAVE - Estaleiros Navais de Lisboa, S. A. R. L., declarada em situação económica difícil e estabelecidas acções e medidas de reestruturação da empresa, no sentido da sua viabilização, fixando-se um prazo destinado à comprovação da viabilidade económica e determinando-se um limite para a não exigibilidade das dívidas ao sector público.
+A Resolução do Conselho de Ministros n.º 40/85, de 13 de Agosto, veio prorrogar o prazo e o limite referidos, por ter sido reconhecido que circunstâncias várias, nomeadamente as dificuldades de financiamento dos custos de reestruturação, atrasaram a execução das medidas indispensáveis à viabilização da empresa.
+A complexidade de tal processo leva a que o mesmo se venha desenrolando por tempo superior ao então previsto, pelo que, através do Despacho conjunto A-132/85-IX (Diário da República, 2.ª série, n.º 265 de 18 de Novembro de 1985), a empresa é mantida em situação económica difícil até 30 de Junho de 1986.
+Atendendo ainda a que continuam por implementar algumas das acções previstas na Resolução do Conselho de Ministros n.º 47/84, atrás citada:
+O Conselho de Ministros, reunido em 5 de Junho de 1986, resolveu:
+a) Que seja prorrogado até 31 de Outubro de 1986 o prazo previsto no n.º 6.1 daquela resolução, de comprovação, por parte da LISNAVE, da sua viabilidade económica, traduzida no equilíbrio da sua exploração, tendo subjacentes os parâmetros definidos na mesma resolução;
+b) Que seja prorrogado até 31 de Outubro de 1986 o prazo previsto no n.º 6.3 da citada resolução, de não exigência do pagamento da dívida ao sector público, reportada a 31 de Dezembro de 1985, incluindo os respectivos encargos;
+c) Que seja mantida até 31 de Outubro de 1986 a declaração de situação económica difícil da LISNAVE, ao abrigo do Decreto-Lei n.º 353-H/77, de 29 de Agosto, para os efeitos previstos na Resolução do Conselho de Ministros n.º 47/84.
+Presidência do Conselho de Ministros. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
