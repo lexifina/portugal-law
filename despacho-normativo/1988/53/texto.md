@@ -1,0 +1,24 @@
+Despacho Normativo n.º 53/88
+A experiência obtida pela aplicação do Regulamento de Assistência Financeira à Produção Cinematográfica, a conceder pelo Instituto Português de Cinema (IPC), recomenda a introdução de aperfeiçoamentos e inovações nos campos da escolha de primeiras obras, assistência automática e elaboração de argumentos. As alterações agora introduzidas permitirão atingir melhor os actuais objectivos: assegurar a regularidade da produção de longas metragens de ficção, preparar a plena integração na Comunidade Europeia, incentivar o desenvolvimento de co-produções internacionais, fomentar o recurso a fundos exteriores ao IPC e acelerar o entrosamento entre a produção cinematográfica e a televisão em termos vantajosos para ambas as actividades e para o País.
+Nos termos do artigo 3.º do Decreto-Lei n.º 22/84, de 14 de Janeiro, são introduzidas as seguintes alterações ao Regulamento de Assistência Financeira à Produção Cinematográfica, anexo ao Despacho Normativo n.º 14/87, da Secretaria de Estado da Cultura, publicado no Diário da República, 1.ª série, de 13 de Fevereiro de 1987:
+Artigo 34.º
+Primeiras obras
+...
+3 - ...
+...
+e) A escolha do júri é feita por unanimidade;
+f) Não havendo unanimidade, o júri, deliberando por maioria, pode propor a atribuição de assistência financeira, nos termos das alíneas seguintes, a candidatos em número igual ou inferior ao que previamente foi anunciado pelo IPC;
+g) Cada um dos candidatos escolhidos nos termos da alínea anterior elaborará um projecto de filme de ficção cujo orçamento não requeira a prestação de assistência financeira de montante superior a um terço do subsídio máximo atribuível. Dentro deste limite, o montante da assistência a prestar será definido, em cada caso, tendo em conta a metragem, o formato e as restantes características técnico-económicas do projecto;
+h) O projecto, apresentado no prazo de três meses por um produtor, será instruído com o guião, o plano de trabalho, a listagem de cenários e localizações, a data de rodagem, a composição das equipas técnica e artística, o orçamento pormenorizado e o calendário de financiamento.
+Artigo 40.º
+Requerentes
+1 - ...
+a) O produtor que apresente projecto de um realizador cujo último filme tenha obtido, após a estreia comercial, receitas de bilheteira e outras que não sejam inferiores a 15% do subsídio máximo atribuível pelo IPC no ano de rodagem ou a igual percentagem do respectivo custo de produção, excepto se este realizador tiver entretanto concluído outro filme assistido financeiramente ao abrigo do presente Regulamento.
+Artigo 50.º
+Assistência financeira à elaboração de argumentos cinematográficos
+1 - O IPC poderá introduzir, por um período experimental de três anos, a assistência financeira à elaboração de argumentos cinematográficos, sob a forma de subsídio.
+2 - O montante da assistência a conceder a cada candidato, que não poderá exceder um sexto do subsídio máximo atribuível, variará em função do curriculum vitae dos autores do argumento.
+3 - Esta modalidade de assistência financeira pode ser atribuída, conjuntamente, a realizadores e argumentistas ou só a argumentistas.
+4 - A atribuição de assistência financeira é precedida de um concurso de sinopses, apreciadas por um júri nomeado pelo membro do Governo responsável pela área da cultura, sob proposta do IPC.
+5 - Os argumentos produzidos ao abrigo do presente artigo podem fazer parte dos projectos apresentados ao benefício das diferentes modalidades de assistência financeira previstas no presente Regulamento.
+Presidência do Conselho de Ministros, 30 de Junho de 1988. - A Secretária de Estado da Cultura, Maria Teresa Pinto Basto Gouveia.
