@@ -4,13 +4,7 @@
 
 1. Aos DFA com percentagem de incapacidade igual ou superior a 60% é concedida a extensão de regalias, em razão da sua maior necessidade, referida nos números seguintes.
 
-2. Isenção de taxa e emolumentos na aquisição de automóvel utilitário:
-
-a) Aos DFA com percentagem de incapacidade igual ou superior a 60% é conferido o direito à isenção total de taxas, direitos e emolumentos na aquisição de automóvel ligeiro de passageiros para uso próprio, de modelo utilitário;
-
-b) A isenção de que trata a alínea anterior não pode ser fruída por cada DFA beneficiário deste direito para mais do que um veículo em cada cinco anos, exceptuando-se os casos de acidente involuntário com danos irrecuperáveis, roubo ou outro motivo extraordinário que conduza à eliminação da viatura em circunstâncias justificadas, a comprovar pela autoridade militar competente;
-
-c) No caso de venda do automóvel assim adquirido antes de completado o período de cinco anos, o DFA beneficiário terá de repor ao Estado o montante da taxa e dos emolumentos proporcional ao período que faltar para o termo daquele prazo.
+2. (Revogado.)
 
 3. Adaptação de automóvel do DFA:
 
