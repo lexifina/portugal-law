@@ -1,0 +1,6 @@
+Despacho Normativo n.º 712/94
+Considerando que os serviços de informática do Centro Nacional de Pensões dispõem de um equipamento de grande porte do tipo mainframe que assegura a gestão do banco de dados dos beneficiários da segurança social e serve de suporte à atribuição dos benefícios diferidos, bem como ao processamento mensal das pensões;
+Ouvidos, ao abrigo do n.º 2 do artigo 4.º do Decreto-Lei n.º 23/91, de 11 de Janeiro, o Instituto de Informática do Ministério das Finanças, a Direcção-Geral da Administração Pública e a Direcção-Geral de Apoio Técnico à Gestão sobre o reconhecimento dos serviços de informática do Centro Nacional de Pensões como serviço de informática de grande dimensão e tendo os seus pareceres sido favoráveis àquele reconhecimento, em virtude de tal equipamento reunir as características referidas na alínea a) do n.º 1 do artigo 4.º do indicado diploma legal:
+Determina-se o seguinte:
+Nos termos do n.º 2 do Decreto-Lei n.º 23/91, de 11 de Janeiro, é atribuída aos serviços de informática do Centro Nacional de Pensões a designação de serviço de informática de grande dimensão.
+Ministérios das Finanças e do Emprego e da Segurança Social, 26 de Agosto de 1994. - O Secretário de Estado do Orçamento, Norberto Emílio Sequeira da Rosa. - O Secretário de Estado da Segurança Social, José Frederico de Lemos Salter Cid.
