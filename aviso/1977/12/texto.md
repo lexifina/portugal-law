@@ -1,0 +1,6 @@
+Aviso n.º 12
+O Banco de Portugal, sob a orientação superior do Ministro das Finanças, em conformidade com a competência que, como Banco Central, lhe foi atribuída pelos artigos 16.º e 26.º da sua Lei Orgânica, em regulamentação do previsto no artigo 28.º, alínea b), dessa mesma lei, determina o seguinte:
+1.º Nas operações de crédito para saneamento financeiro de empresas em dificuldades, mas consideradas economicamente viáveis, as instituições de crédito não poderão, durante o primeiro ano, cobrar juros superiores às taxas indicadas no n.º 1.º, 1, do aviso n.º 9, de 26 de Agosto de 1977, deduzidas de uma percentagem a estabelecer pelo Banco de Portugal por meio de circular, variável de 9% até 4%, de acordo com o grau de viabilidade atribuído a cada empresa.
+2.º O Banco de Portugal atribuirá às instituições de crédito intervenientes subsídios correspondentes às deduções processadas nos termos do artigo anterior, mediante a apresentação de documentos comprovativos das operações.
+3.º O disposto nesta determinação do Banco de Portugal aplica-se a partir de 29 de Agosto de 1977 e vigorará até ao final do corrente ano.
+Ministério das Finanças, 26 de Agosto de 1977. - O Ministro das Finanças, Henrique Medina Carreira.
