@@ -1,0 +1,4 @@
+Resolução n.º 23/78
+O Conselho de Ministros, reunido em 15 de Fevereiro de 1978, resolveu:
+Deferir o pedido de extradição do cidadão da República Democrática de S. Tomé e Príncipe Carlos António Batista de Sousa, pronunciado provisoriamente pelo Tribunal Judicial daquela República como autor de um crime de peculato previsto e punível pelas disposições combinadas dos artigos 313.º, 437.º e 421.º, n.º 5.º, todos do Código Penal Português, em vigor no Estado requerente, e tendo em atenção o preceituado no n.º 2 do artigo 24.º do Decreto-Lei n.º 437/75, de 16 de Agosto, e no n.º 1 do artigo 15.º do Acordo Judiciário entre Portugal e S. Tomé e Príncipe, aprovado para ratificação pelo Decreto-Lei n.º 550-M/76, de 12 de Julho.
+Presidência do Conselho de Ministros, 15 de Fevereiro de 1978. - O Primeiro-Ministro, Mário Soares.
