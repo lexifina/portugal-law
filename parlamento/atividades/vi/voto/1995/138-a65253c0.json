@@ -1,0 +1,109 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=t47I50EdweAH1wR9E5zPK4uWcg6LRi23JJwtDMQi4%2ba20eZdUqOsFNHubbkcy6rwOoOx5UMMvCZzcIfNTyac8kyG7aDmQTldf%2faEHnZ%2f3nbeyckw62ufvl1iwdS4cjXF5YdBt%2bxZeP8AvQFSp1LgRtjMftOZst7dpzaeL4fGb0IhmgNsYBYRmAhSIoxoAYYK5FfbpB2LiyITFNHqkid8crLEz1DZACwtWLudU5Sd4ksngzq2noppehg6WE1jcmg5RvAGVjyirUoVA44N%2fcgj0fpmzIV%2b3feg%2bLhjLOSieGMQ64FF4YpNQWONz1hhuHUxNfMp3yEH6RydWJQogHSDoZnsr0m4SuX153atdq2gwg5iA%2fDpdpuKl52Wvh2sdh5q&fich=AtividadesVI_json.txt&Inline=true",
+  "ficheiro_sha256": "183699218ace7045e2441a52f2318f6b782a40a1263d8f2db574f2d855753dd7",
+  "legislatura": "VI",
+  "tipo": "Voto",
+  "numero": "138",
+  "data_registo": "1995-03-16",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Solidariedade para com os estudantes angolanos que se manifestaram frente à Embaixada do seu país em protesto pelo atraso no pagamento das suas bolsas.",
+    "AutoresGP": [
+      "Mário Tomé (Indep)"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": "1995-03-16",
+    "DataAnuncio": null,
+    "DataEntrada": "1995-03-16",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "VI",
+    "Numero": "138",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "287239",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1995-03-18",
+        "pubLeg": "VI",
+        "pubNr": "23",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/06/04/023/1995-03-18?org=PLC"
+      }
+    ],
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "4278",
+        "obs": null,
+        "pag": [
+          "1779-1780"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1995-03-17",
+        "pubLeg": "VI",
+        "pubNr": "53",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/053/1995-03-17/1779?pgs=1779-1780&org=PLC"
+      }
+    ],
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "4",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": "Deputados",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "1995-03-16",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PEV</I>, <I> Mário Tomé (Indep)</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>PS</I>, <I> PCP</I>, <I> CDS-PP</I>",
+        "id": "31902",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "287240",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1995-03-17",
+            "pubLeg": "VI",
+            "pubNr": "53",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/053/1995-03-17?org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "53",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
