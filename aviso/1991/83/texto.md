@@ -1,0 +1,3 @@
+Aviso n.º 83/91
+Por ordem superior se torna público que a União das Repúblicas Socialistas Soviéticas aderiu em 21 de Fevereiro de 1991 à Convenção Cultural Europeia, aberta para assinatura, em Paris, a 19 de Dezembro de 1954. À data de 22 de Fevereiro haviam ratificado esta Convenção os seguintes Estados: Alemanha, Áustria, Bélgica, Checoslováquia, Chipre, Dinamarca, Espanha, Finlândia, França, Grécia, Hungria, Irlanda, Islândia, Itália, Jugoslávia, Listenstaina, Luxemburgo, Malta, Noruega, Países Baixos, Polónia, Portugal, Reino Unido, Santa Sé, São Marino, Suécia, Suíça, Turquia e URSS.
+Direcção-Geral dos Negócios Político-Económicos, 30 de Abril de 1991. - O Director de Serviços das Relações Culturais Bilaterais, José Manuel Santos Braga.
