@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que o Ministério dos Negócios Estrangeiros enviou à Embaixada da República Democrática Alemã em Lisboa uma nota verbal, datada de 2 de Julho de 1986, informando que a parte portuguesa deu já cumprimento às formalidades constitucionais relativas à elaboração e entrada em vigor do Acordo entre o Governo de República Portuguesa e o Governo da República Democrática Alemã sobre Transportes Internacionais de Pessoas e de Mercadorias por Estrada, assinado em Lisboa em 3 de Abril de 1985 e publicado no Diário da República, 1.ª série, n.º 136, de 17 de Junho de 1986.
+O Ministério dos Negócios Estrangeiros da República Democrática Alemã enviara ao Ministério dos Negócios Estrangeiros da República Portuguesa uma nota verbal, datada de 21 de Maio de 1985, informando estarem cumpridas as mesmas formalidades pela parte alemã.
+Nesta conformidade, e segundo o disposto no seu artigo 20.º, o Acordo em apreço entra em vigor em 2 de Agosto de 1986.
+Direcção-Geral dos Negócios Político-Económicos, 8 de Julho de 1986. - O Director-Geral, João Uva de Matos Proença.
