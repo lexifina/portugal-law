@@ -1,0 +1,5 @@
+Aviso n.º 110/98
+Por ordem superior se torna público que a Mauritânia depositou, em 9 de Fevereiro de 1998, o instrumento de adesão à Convenção sobre Prevenção e Punição de Crimes contra Pessoas Internacionalmente Protegidas, Incluindo Agentes Diplomáticos, adoptada pela Assembleia Geral das Nações Unidas em 14 de Dezembro de 1973.
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 20/94, publicada no Diário da República, 1.ª série-A, n.º 104, de 5 de Maio de 1994, tendo ratificado a Convenção pelo Decreto do Presidente da República n.º 22/94, de 5 de Maio, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 104, de 5 de Maio de 1994.
+Nos termos do n.º 2 do seu artigo 17.º, a Convenção entrou em vigor para a Mauritânia no 30.º dia após a data do depósito do respectivo instrumento, ou seja, a 11 de Março de 1998.
+Direcção-Geral dos Assuntos Multilaterais, 8 de Maio de 1998. - O Director de Serviços das Organizações Políticas Internacionais, João José Gomes Caetano da Silva.
