@@ -1,0 +1,5 @@
+Portaria n.º 17517
+Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, substituir o § único do artigo 5.º do Regulamento dos Inválidos Militares, aprovado e posto em execução pela Portaria n.º 10251, de 3 de Novembro de 1942, pelos dois parágrafos seguintes:
+§ 1.º Aos interessados em relação aos quais se prove terem prestado ao País serviços extraordinários, especialmente em campanha, recompensados com condecorações ou louvores, poderá ser autorizada, por despacho ministerial, a residência fora do Asilo e a concessão de um subsídio mensal em dinheiro, quando, por falta de alojamento, motivo de saúde, razões de família ou outras atendíeis, não seja possível ou conveniente o seu internamento.
+§ 2.º O subsídio mensal em dinheiro referido no parágrafo anterior não poderá exceder a importância estabelecida para alimentação de cada inválido, em idêntico período, e será paga pelo Asilo por conta da verba destinada à alimentação dos internados.
+Presidência do Conselho, 4 de Janeiro de 1960. - O Ministro da Defesa Nacional, Júlio Carlos Alves Dias Botelho Moniz.
