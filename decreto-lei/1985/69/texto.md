@@ -1,0 +1,31 @@
+Decreto-Lei n.º 69/85
+de 18 de Março
+O artigo 91.º do Regime Jurídico do Contrato Individual de Trabalho, aprovado pelo Decreto-Lei n.º 49408, de 24 de Novembro de 1969, fazendo depender a possibilidade do pagamento da retribuição por meio de cheque, vale postal ou depósito bancário do consentimento do trabalhador, tem-se revelado desajustado à realidade dos nossos dias. Isto fundamentalmente em consequência do aumento do valor nominal dos salários verificado na última década.
+Tal facto, impondo a movimentação e transferência de importâncias progressivamente mais avultadas, torna cada vez menos praticável a tradicional forma de pagamento em dinheiro, constituindo, além disso, um verdadeiro convite ao crime organizado.
+Estas circunstâncias, aliadas à generalização do uso de títulos de crédito e ao recurso à moeda escritural como formas privilegiadas de pagamento, aconselham a modificação da disciplina vigente.
+Cumpre, no entanto, salientar que a ampliação das formas de pagamento admitidas, visando acautelar interesses de ordem pública e maleabilizar a gestão das empresas, se por um lado não constitui o empregador na obrigação de abandonar a tradicional forma de pagamento da retribuição em dinheiro, por outro não limita o conteúdo do direito do trabalhador à sua percepção.
+O projecto que esteve na base do presente diploma foi submetido à apreciação pública através da separata n.º 8 do Boletim do Trabalho e Emprego, de 29 de Agosto de 1980, tendo sido amplamente reconhecidas as razões justificativas da alteração legislativa proposta.
+Entre as críticas que lhe foram dirigidas destacam-se algumas de natureza formal, em grande medida acolhidas no presente diploma, e outras de natureza substancial, que se prendem com alegadas limitações dos direitos dos trabalhadores à percepção pontual da retribuição, no local e sob a forma devida.
+Contudo, da conjugação do artigo 91.º do Regime Jurídico do Contrato Individual de Trabalho, na sua nova redacção, com as restantes disposições que constituem o capítulo em que o preceito se integra constata-se que tal limitação ou violação se não verifica, pois o risco inerente à utilização do sistema bancário ou o recurso a títulos de crédito no pagamento da retribuição é suportado pelo empregador, que, mesmo actuando com a diligência devida, responde pelos prejuízos ocasionados ao trabalhador pelos atrasos verificados no pagamento dessa retribuição.
+Nos termos constitucionais foram ouvidas as Regiões Autónomas dos Açores e da Madeira.
+Assim:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º
+(Forma de cumprimento)
+O artigo 91.º do Regime Jurídico do Contrato Individual de Trabalho, aprovado pelo Decreto-Lei n.º 49408, de 24 de Novembro de 1969, passa a ter a seguinte redacção:
+Art. 91.º - 1 - ...
+2 - ...
+3 - ...
+4 - A entidade patronal pode efectuar o pagamento por meio de cheque bancário, vale postal ou depósito à ordem do trabalhador, observadas que sejam as seguintes condições:
+a) O montante da retribuição, em dinheiro, deve estar à disposição do trabalhador na data do vencimento ou no dia útil imediatamente anterior;
+b) As despesas comprovadamente efectuadas com a conversão dos títulos de crédito em dinheiro ou com o levantamento, por uma só vez, da retribuição são suportadas pela entidade patronal;
+c) O documento referido no artigo 94.º deve ser entregue ao trabalhador até à data do vencimento da retribuição.
+Artigo 2.º
+(Mora)
+A entidade patronal fica constituída em mora se o trabalhador, por facto que lhe não seja imputável, não puder dispor do montante da retribuição, em dinheiro, na data do vencimento.
+Visto e aprovado em Conselho de Ministros de 17 de Janeiro de 1985. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes - Amândio Anes de Azevedo - João Rosado Correia.
+Promulgado em 25 de Fevereiro de 1985.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 27 de Fevereiro de 1985.
+O Primeiro-Ministro, Mário Soares.
