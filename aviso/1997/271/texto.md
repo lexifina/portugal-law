@@ -1,0 +1,4 @@
+Aviso n.º 271/97
+Por ordem superior se torna público que, por nota de 11 de Fevereiro de 1997, o Ministério dos Negócios Estrangeiros da Federação Russa comunicou ter o Governo da República Islâmica do Irão depositado, em 24 de Fevereiro de 1997, o seu instrumento de adesão à Convenção para a Prevenção da Poluição Marinha Causada por Operações de Imersão de Detritos e Outros Produtos, concluída em Londres em 29 de Dezembro de 1972.
+Esta Convenção foi aprovada, para ratificação, por Portugal nos termos do Decreto n.º 2/78, de 7 de Janeiro, tendo sido depositado o correspondente instrumento em 14 de Abril de 1978, conforme aviso publicado no Diário da República, 1.ª série, n.º 27, de 1 de Fevereiro de 1979.
+Direcção-Geral dos Assuntos Multilaterais, 24 de Setembro de 1997. - O Director de Serviços das Organizações Económicas Internacionais, João Perestrello Cavaco.
