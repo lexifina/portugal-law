@@ -1,0 +1,7 @@
+Despacho Normativo n.º 2/81
+Em conformidade com a proposta da comissão permanente criada nos termos do n.º 2 do artigo 12.º do Decreto-Lei n.º 107/77, de 24 de Março, inserta na sua acta de 8 de Junho de 1978, o Chefe do Estado-Maior-General das Forças Armadas e o Ministro dos Assuntos Sociais determinam o seguinte:
+1 - A comissão nomeada nos termos do n.º 7.º da Portaria n.º 330/77, de 3 de Junho, deverá acordar com urgência com o Departamento de Recursos Humanos da Saúde o quantitativo e a distribuição dos médicos em treino civis e militares pelos serviços hospitalares dos hospitais civis e militares onde as diferentes fases de internato devem ser realizadas, tendo em conta as necessidades nacionais e militares em cada especialidade e a capacidade formativa dos serviços.
+2 - a) O número de médicos civis em treino a realizar o internato nos serviços idóneos dos hospitais militares não deverá, em princípio, ultrapassar 10% da capacidade formativa de cada serviço;
+b) O número de médicos militares em treino a realizar o internato nos serviços idóneos dos hospitais civis não deverá, em princípio, ultrapassar 10% da capacidade formativa de cada serviço;
+c) Ressalvam-se, em qualquer dos casos, por necessidades específicas de cada parte, as situações a solucionar em acordo pontual.
+Estado-Maior-General das Forças Armadas e Ministério dos Assuntos Sociais, 4 de Dezembro de 1980. - O Chefe do Estado-Maior-General das Forças Armadas Interino, José Lemos Ferreira, general. - O Ministro dos Assuntos Sociais, João António Morais Leitão.
