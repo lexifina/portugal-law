@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1926/03/04600/01870187.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1926-03-05",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "50c798b7a3ddf15ae56ed3c58fc492610b0c1aa6b5ef136e660a567771651b28",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.6,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "55ed34af5b69f70c1f45f5dcfca955fa724123e5ff48096cc7630bc48d81bd60",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 87
 }
