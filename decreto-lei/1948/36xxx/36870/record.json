@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1948/05/11200/04150416.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1948-05-15",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "536ff3d8a4132da5811b7fcb7fe9e3f400f9e5c453921219e912039f59695d6c",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.4,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "58d3d3875dd732c102b9e7242f57fd30a32b60c6137b3832e6c354412b5f5c11",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 348
 }
