@@ -1,0 +1,35 @@
+# Acórdão do Tribunal Central Administrativo Sul de 1998-05-28, processo 01234/98
+
+**Acórdãos TCAS:** Acórdão do Tribunal Central Administrativo Sul
+
+**Processo:** 01234/98
+
+**Secção:** Secção do Contencioso Administrativo - Tribunal Central Administrativo
+
+**Data do Acordão:** 05/28/1998
+
+**Relator:** António Ferreira Xavier Forte
+
+**Descritores:** DIREITO À INFORMAÇÃO PROCEDIMENTAL; TRAMITAÇÃO E PRAZOS
+
+**Aditamento:** 1
+
+## Sumário
+
+1)- 0 direito a informação não procedimental , regulado pela Lei nº 65/93 e pelo artigo 65
+
+do CPA, destina-se a permitir aos cidadãos servir-se dos registos e arquivos administrativos, a fim de
+
+prepararem e documentarem a defesa dos seus interesses, independentemente de processos
+
+administrativos, em que sejam directamente interessados.
+
+2)- No direito à informação não procedimental, tendo sido indeferida a consulta de documento, por
+
+uma Câmara Municipal, desse indeferimento cabe recurso para a CADA .
+
+3)- Interposta reclamação para a CADA, suspende-se o decurso do prazo para interposição do recurso contencioso, numa intimação para consulta de documentos, nos termos dos artigos 15, 16 e 17 da Lei nº 65/93, até que a CADA notifique o reclamante do seu parecer.
+
+4)- É tempestivo o recurso contencioso interposto pelo requerente de um pedido de intimação para
+
+passagem de documento, quando o mesmo apenas foi notificado do parecer da CADA, em 18-2-98, e o recurso foi interposto , em 4-3-98, nos termos dos artigos 16, nº3, e 17, da Lei nº 65/93, e do artigo 52, nº 2 da LPTA.
