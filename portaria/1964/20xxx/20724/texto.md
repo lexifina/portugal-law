@@ -1,0 +1,5 @@
+Portaria n.º 20724
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar com a importância de 10000$00 a verba do capítulo 10.º, artigo 2648.º, n.º 2), alínea a), 1.º «Encargos gerais - Subsídios e pensões - Outras despesas que não constituem remuneração a dinheiro - Subsídios para funerais a oficiais e praças na situação de reforma - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral em vigor na província de Moçambique, tomando como contrapartida igual quantia a sair das disponibilidades existentes no capítulo 4.º, artigo 612.º, n.º 1), alínea a) «Administração geral e fiscalização - Segurança pública - Corpo de Polícia de Segurança Pública - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da mesma tabela de despesa.
+Ministério do Ultramar, 12 de Agosto de 1964. - Pelo Ministro do Ultramar, Joaquim Moreira da Silva Cunha, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Moçambique. - J. da Silva Cunha.
