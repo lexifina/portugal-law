@@ -1,0 +1,7 @@
+Resolução n.º 68/77
+Por acordo entre a Secretaria de Estado do Trabalho e Previdência de então e o Fundo de Fomento da Habitação foi estabelecido que, durante o ano de 1973, seria posta à disposição daquele Fundo, pelas instituições de previdência, a verba global de 355300 contos, destinada a financiar empreendimentos diversos, em especial no domínio da habi ação social. A título de adiantamento desta verba foram unicamente depositados, em 30 de Outubro de 1973, pela Caixa Nacional de Pensões, à ordem do FFH, 100000 contos, sem que tenham, no entanto, sido ainda fixados o respectivo juro nem as condições de amortização.
+Entretanto, os condicionalismos financeiros da Previdência não permitiram novas operações com o FFH, tornando-se, para além disso, conveniente o imediato reembolso daquela importância. Por seu lado, o FFH não dispõe no seu orçamento de verba para efectuar desde já a amortização de tal empréstimo.
+O Conselho de Ministros, reunido em 1 de Março de 1977, resolveu:
+Fixar em 6% a taxa de juro anual do empréstimo de 100000 contos contraído pelo Fundo de Fomento da Habitação junto da Caixa Nacional de Pensões em 30 de Outubro de 1973 e destinado ao financiamento de empreendimentos daquele Fundo.
+Determinar a abertura, pelo Ministério das Finanças, de um crédito especial de 100000 contos a favor do FFH, destinando-se esta verba ao reembolso integral à Caixa Nacional de Pensões do capital do empréstimo referido no parágrafo anterior.
+Presidência do Conselho de Ministros, 1 de Março de 1977. - O Primeiro-Ministro, Mário Soares.
