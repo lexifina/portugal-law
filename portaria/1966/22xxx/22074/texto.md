@@ -1,0 +1,4 @@
+Portaria n.º 22074
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e das Comunicações, que, nos termos do disposto no § 1.º do artigo 2.º do Decreto-Lei n.º 39083, de 17 de Janeiro de 1953, seja desafectada do domínio público do Estado uma parcela de terreno situada em Lisboa, Cabo Ruivo, freguesia dos Olivais, na área de jurisdição da Administração-Geral do Porto de Lisboa, e assim discriminada:
+Parcela de terreno, com a área de 10186 m2, confrontando do norte e nascente com a Administração-Geral do Porto de Lisboa, a sul e poente com a Companhia de Moagem Lisbonense e Administração-Geral do Porto de Lisboa.
+Ministérios das Finanças e das Comunicações, 21 de Junho de 1966. - O Ministro das Finanças, Ulisses Cruz de Aguiar Cortês. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.
