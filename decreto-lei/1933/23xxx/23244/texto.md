@@ -1,0 +1,21 @@
+> Texto obtido por OCR da digitalização oficial do Diário do Governo (https://files.diariodarepublica.pt/1s/1933/11/26700/20352035.pdf); pode conter erros de leitura.
+
+Deoretoa-lel n.º 23:244
+
+O artigo 1.º do decreto com fôrça de lei n.º 20:4938, de 10 de Novembro de 1931, autorizou a Companhia dos Caminhos de Ferro Portugueses a reformar os seus estatutos de harmonia com as bases nêle insertas, que correspondiam a um projecto de acôrdo a celebrar entre a Companhia e os seus obrigacionistas.
+
+Reformados os estatutos em conformidade com as bases referidas, .o Govêrno deu a sua aprovação dofinitiva a «essa reforma pelo artigo 1.º do decreto com fôrça de lei n.º 20:692, de 31 de Dezembro do mesmo ano. Desta maneira o legislador não só reconheceu a possibilidade Jurídica e a necessidade económica de ser revisto e modificado o .convénio. celebrado em 1894 entre a Companhia e os seus credores, senão também permitia que o processo .de revisão começasse pela aprovação, por parte do Govêrno, do -projecto de novo acôrdo com os obrigacionistas.
+
+Nos termos do decreto de 9 de Novembro de 1893, lei que regula em geral a falência e concordata das companhias de caminhos de ferro, o projecto de convenção com -os credores e a sua.aprovação pelo Govêrno só aparecem depois da sentença declaratória da cessação de pagamentos e da sua publicação na folha oficial. O artigo 1.º do decreto n.º 20:493, aprovando o projecto de acôrdo constante das bases que insere, quis manifestamente que o processo de revisão do convénio celebrado em 1894 entre a Companhia e os seus credores começasse pela aprovação, por parte do Govêrno, do projecto da nova convenção é portanto teve o claro pensamento de dispensar a sentença declaratória da cessação de pagamentos.
+
+Sem revogarem o decreto de 9 de Novembro de 1893 que estabelece o regime geral e comum da falência e concordata das companhias ferroviárias, .os decretos n.º* 20:493 e 20:692 tiveram em vista determinar que, em relação ao caso particular de que se tratava, do citado decreto de 1893 se aplicassem tinicamente os artigos 6.º e 7.º Julgou o legislador desnecessária a aplicação dos artigos 4.º e 5.º, isto é, a sentença declaratória da cessação de pagamentos; e a razão disso encontra-se no relatório do deereto n.º 20:493, quando se alude à reclamação do pagamento em ouro do serviço das obrigações e se reconhece que, por trabalhar numa moeda depreciada e por não ter conseguido actualizar as suas tarifas paralelamente a essa depreciação, não era possível à Companhia satisfazer em valor-ouro os sous encargos.
+
+. Mas já se entendeu que para ser juridicamente correcto o processo de modificação do convénio de 1894 era indispensável que o projecto de acôórdo com os obrigacionistas tivesse sido precedido de uma sentença declaratório da cessação de pagamentos. Como esta doutrina não corresponde ao espírito nem do artigo 1.º do decreto n.º 20:493, nem dos artigos 1.º e 2.º do decreto n.º 20:692, e, convém definir êste ponto:
+
+Usando da faculdade conferida pela 2.º parte do n.º 2.º do artigo 108.º da Constituição, o Govarno decrota e eu promulgo, para valer como lei, o seguinte:
+
+: Artigo único. São interpretados o artigo 1.º do decroto n.º 20:493, de 10 de Novembro de 1981, e os artigos 1.º e 2.º do decreto n.º 20:692, de 31 de Dezembro do mesmo ano, no sentido de que à modificação do convánio celebrado em 1894 entre a Companhia dos Cnminhos de Ferro Portugneses e os seus credores, modificação autorizada pelos mesmos decretos, são aplicáveis do decreto de 9 de Novembro de 1893 ànicamento os artigos 6.º o 7.º com as modificações estabelecidas no artigo 2.º do decreto n.º 20:692, não sendo por isso necessária a sentença declaratória da cessação de pagamentos exigida pelos artigos 4.º e 5.º do citado decreto de 1893; quo entretanto continua om vigor como regime geral da fa. lência e concordata das companhias de caminhos de ferro.
+
+Publique-se e cumpra-se como nêle se contém.
+
+Paços do Govêrno da República, 22 de Novembro do 1933.— ANTÓNIO ÓscaR DE FRAGOSO CARMONA Ántónto de Oliveira Salazar — Antonino Raúl da Mata Gomes Pereira— Manuel Rodrigues Júnior— Luiz Al berto de Oliveira — Anibal de Mesquita Guimardis — José Caeiro da Mata — Duarte Pacheco — Armindo Rodrt. ques Monteiro — Alexandre Alberto de Sousa Pinto. . Sebastião Garcia Ramires — Leovigitdo Queimado Franco de Sousa.
