@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1936/05/11700/05490550.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1936-05-20",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "e8b7b17fbe1a46ba4a55936b594013a009557c3a1caf2554e4a8eea9d8e5df86",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.4,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "99f44af8c18a0a118207411e2f47447bfe2584467668b68b97591fb59389eb81",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 184
 }
