@@ -1,0 +1,803 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gIjTIOBD8fzbBQNrdCzuBBmwczclk6SD5HYRiA%2fDz6LvtzEOZz0p16VuinZ4c9xnv1XSgJHpVu8L3TmsAZNDGnOMwZOl11DIWbTTxvH9TZlpguA1Dr0xHxKf%2bQeAZgBPJ2JGSuYu7x65iAUduW5D4zeNirkg7R2OQEqLYjPjV69GXh3r3XIihzhHxDGQdi7oVusUbcfcYXzy5bAfGFP4LX4pUxhc8G05JIdx13wuiGlQzDNPxWXGvFL9wH8tviClTchA%2bgzQmfiBzvQfSs%2fvcRcPk4nUvD76VhB1rTiLyNK7L6yAVcl1PlcZsq2sEsFqGpdxuyeZkEQ%2bcGfcnacT%2fg%3d%3d&fich=PeticoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "c26dac93ad93dfa2ae59e6cc67f4607f06aab6fd9463b02c8517cb31fb62b02c",
+  "legislatura": "IX",
+  "id": "11251",
+  "numero": "53",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2003-06-06",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2004-06-22",
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": null,
+                "idPag": "783478",
+                "obs": null,
+                "pag": [
+                  "180-181"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-07-03",
+                "pubLeg": "IX",
+                "pubNr": "35",
+                "pubSL": "2",
+                "pubTipo": "DAR II série B",
+                "pubTp": "B",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/02/035/2004-07-03/180?pgs=180-181&org=PLC"
+              }
+            ],
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2003-10-21",
+        "DataArquivo": "2004-06-22",
+        "DataBaixaComissao": "2003-10-21",
+        "DataEnvioPAR": "2004-06-23",
+        "DataReaberta": "2003-10-21",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2003-06-06",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a793944543030764d6b4646554555765247396a6457316c626e52766331426c64476c6a595738765a44566b596a41795a6a49744f4459784d793030596a67794c546c695a6a63745a6d4e6c596a45344f57517a5a4755784c6e426b5a673d3d&fich=d5db02f2-8613-4b82-9bf7-fceb189d3de1.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "103",
+        "Legislatura": "IX",
+        "Nome": "COMISSÃO DE ASSUNTOS EUROPEUS E POLÍTICA EXTERNA",
+        "NotasAdmissibilidade": null,
+        "Numero": "2",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2003-10-21",
+            "gp": "CDS-PP",
+            "id": "1310",
+            "motivoCessacao": null,
+            "nome": "Henrique Campos Cunha"
+          }
+        ],
+        "RelatorioFinal": [
+          "22338"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2004-06-25",
+    "Documentos": [
+      {
+        "DataDocumento": "2003-06-06",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a7939555a58683062305a70626d46735547563061574e765a584d765a44457a4d6a45795a445174595451794f5330304e6a6b794c546735596d457459574e6b4d5759314f5445794f574a6a4c6e426b5a673d3d&fich=d13212d4-a429-4692-89ba-acd1f59129bc.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2004-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150171",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5470-5470"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-06-26",
+                "pubLeg": "IX",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/101/2004-06-26/5470?pgs=5470&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITA QUE SEJAM DESENVOLVIDAS AS INICIATIVAS POLÍTICAS E PARLAMENTARES TENDENTES A DAR IMEDIATO INÍCIO AO PROCESSO DE INDEMNIZAÇÃO DOS ESPOLIADOS DO ULTRAMAR;. PRETENDEM QUE SEJA REVOGADO O ART° 40° DA LEI N° 80/77 E SUBSTITUIDO POR OUTRO NO QUAL SE RECONHEÇA O DIREITO DOS EX-RESIDENTES NO ULTRAMAR UMA JUSTA INDEMNIZAÇAO QUE SEJA RECOMENDADA GOVERNO SOLUÇAO; Pede justiça, na qualidade de uma das vítimas da descolonização, pela violência contra elas exercida e pela espoliação dos seus bens, sendo único responsável o Estado Português.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150172",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5471-5472"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-06-26",
+                "pubLeg": "IX",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/101/2004-06-26/5471?pgs=5471-5472&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITA QUE SEJAM DESENVOLVIDAS AS INICIATIVAS POLÍTICAS E PARLAMENTARES TENDENTES A DAR IMEDIATO INÍCIO AO PROCESSO DE INDEMNIZAÇÃO DOS ESPOLIADOS DO ULTRAMAR;. PRETENDEM QUE SEJA REVOGADO O ART° 40° DA LEI N° 80/77 E SUBSTITUIDO POR OUTRO NO QUAL SE RECONHEÇA O DIREITO DOS EX-RESIDENTES NO ULTRAMAR UMA JUSTA INDEMNIZAÇAO QUE SEJA RECOMENDADA GOVERNO SOLUÇAO; Pede justiça, na qualidade de uma das vítimas da descolonização, pela violência contra elas exercida e pela espoliação dos seus bens, sendo único responsável o Estado Português.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150173",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5473-5473",
+                  "5478-5479"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-06-26",
+                "pubLeg": "IX",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/101/2004-06-26/5473?pgs=5473,5478-5479&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITA QUE SEJAM DESENVOLVIDAS AS INICIATIVAS POLÍTICAS E PARLAMENTARES TENDENTES A DAR IMEDIATO INÍCIO AO PROCESSO DE INDEMNIZAÇÃO DOS ESPOLIADOS DO ULTRAMAR;. PRETENDEM QUE SEJA REVOGADO O ART° 40° DA LEI N° 80/77 E SUBSTITUIDO POR OUTRO NO QUAL SE RECONHEÇA O DIREITO DOS EX-RESIDENTES NO ULTRAMAR UMA JUSTA INDEMNIZAÇAO QUE SEJA RECOMENDADA GOVERNO SOLUÇAO; Pede justiça, na qualidade de uma das vítimas da descolonização, pela violência contra elas exercida e pela espoliação dos seus bens, sendo único responsável o Estado Português.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150174",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5473-5474"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-06-26",
+                "pubLeg": "IX",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/101/2004-06-26/5473?pgs=5473-5474&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITA QUE SEJAM DESENVOLVIDAS AS INICIATIVAS POLÍTICAS E PARLAMENTARES TENDENTES A DAR IMEDIATO INÍCIO AO PROCESSO DE INDEMNIZAÇÃO DOS ESPOLIADOS DO ULTRAMAR;. PRETENDEM QUE SEJA REVOGADO O ART° 40° DA LEI N° 80/77 E SUBSTITUIDO POR OUTRO NO QUAL SE RECONHEÇA O DIREITO DOS EX-RESIDENTES NO ULTRAMAR UMA JUSTA INDEMNIZAÇAO QUE SEJA RECOMENDADA GOVERNO SOLUÇAO; Pede justiça, na qualidade de uma das vítimas da descolonização, pela violência contra elas exercida e pela espoliação dos seus bens, sendo único responsável o Estado Português.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150175",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5474-5477"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-06-26",
+                "pubLeg": "IX",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/101/2004-06-26/5474?pgs=5474-5477&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITA QUE SEJAM DESENVOLVIDAS AS INICIATIVAS POLÍTICAS E PARLAMENTARES TENDENTES A DAR IMEDIATO INÍCIO AO PROCESSO DE INDEMNIZAÇÃO DOS ESPOLIADOS DO ULTRAMAR;. PRETENDEM QUE SEJA REVOGADO O ART° 40° DA LEI N° 80/77 E SUBSTITUIDO POR OUTRO NO QUAL SE RECONHEÇA O DIREITO DOS EX-RESIDENTES NO ULTRAMAR UMA JUSTA INDEMNIZAÇAO QUE SEJA RECOMENDADA GOVERNO SOLUÇAO; Pede justiça, na qualidade de uma das vítimas da descolonização, pela violência contra elas exercida e pela espoliação dos seus bens, sendo único responsável o Estado Português.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Luis Marques Mendes"
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150176",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5477-5478"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-06-26",
+                "pubLeg": "IX",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/101/2004-06-26/5477?pgs=5477-5478&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITA QUE SEJAM DESENVOLVIDAS AS INICIATIVAS POLÍTICAS E PARLAMENTARES TENDENTES A DAR IMEDIATO INÍCIO AO PROCESSO DE INDEMNIZAÇÃO DOS ESPOLIADOS DO ULTRAMAR;. PRETENDEM QUE SEJA REVOGADO O ART° 40° DA LEI N° 80/77 E SUBSTITUIDO POR OUTRO NO QUAL SE RECONHEÇA O DIREITO DOS EX-RESIDENTES NO ULTRAMAR UMA JUSTA INDEMNIZAÇAO QUE SEJA RECOMENDADA GOVERNO SOLUÇAO; Pede justiça, na qualidade de uma das vítimas da descolonização, pela violência contra elas exercida e pela espoliação dos seus bens, sendo único responsável o Estado Português.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Luis Marques Mendes"
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150177",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5479-5479",
+                  "5482-5482"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-06-26",
+                "pubLeg": "IX",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/101/2004-06-26/5479?pgs=5479,5482&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITA QUE SEJAM DESENVOLVIDAS AS INICIATIVAS POLÍTICAS E PARLAMENTARES TENDENTES A DAR IMEDIATO INÍCIO AO PROCESSO DE INDEMNIZAÇÃO DOS ESPOLIADOS DO ULTRAMAR;. PRETENDEM QUE SEJA REVOGADO O ART° 40° DA LEI N° 80/77 E SUBSTITUIDO POR OUTRO NO QUAL SE RECONHEÇA O DIREITO DOS EX-RESIDENTES NO ULTRAMAR UMA JUSTA INDEMNIZAÇAO QUE SEJA RECOMENDADA GOVERNO SOLUÇAO; Pede justiça, na qualidade de uma das vítimas da descolonização, pela violência contra elas exercida e pela espoliação dos seus bens, sendo único responsável o Estado Português.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150178",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5479-5479"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-06-26",
+                "pubLeg": "IX",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/101/2004-06-26/5479?pgs=5479&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITA QUE SEJAM DESENVOLVIDAS AS INICIATIVAS POLÍTICAS E PARLAMENTARES TENDENTES A DAR IMEDIATO INÍCIO AO PROCESSO DE INDEMNIZAÇÃO DOS ESPOLIADOS DO ULTRAMAR;. PRETENDEM QUE SEJA REVOGADO O ART° 40° DA LEI N° 80/77 E SUBSTITUIDO POR OUTRO NO QUAL SE RECONHEÇA O DIREITO DOS EX-RESIDENTES NO ULTRAMAR UMA JUSTA INDEMNIZAÇAO QUE SEJA RECOMENDADA GOVERNO SOLUÇAO; Pede justiça, na qualidade de uma das vítimas da descolonização, pela violência contra elas exercida e pela espoliação dos seus bens, sendo único responsável o Estado Português.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150179",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5479-5479"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-06-26",
+                "pubLeg": "IX",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/101/2004-06-26/5479?pgs=5479&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITA QUE SEJAM DESENVOLVIDAS AS INICIATIVAS POLÍTICAS E PARLAMENTARES TENDENTES A DAR IMEDIATO INÍCIO AO PROCESSO DE INDEMNIZAÇÃO DOS ESPOLIADOS DO ULTRAMAR;. PRETENDEM QUE SEJA REVOGADO O ART° 40° DA LEI N° 80/77 E SUBSTITUIDO POR OUTRO NO QUAL SE RECONHEÇA O DIREITO DOS EX-RESIDENTES NO ULTRAMAR UMA JUSTA INDEMNIZAÇAO QUE SEJA RECOMENDADA GOVERNO SOLUÇAO; Pede justiça, na qualidade de uma das vítimas da descolonização, pela violência contra elas exercida e pela espoliação dos seus bens, sendo único responsável o Estado Português.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150180",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5480-5480"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-06-26",
+                "pubLeg": "IX",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/101/2004-06-26/5480?pgs=5480&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITA QUE SEJAM DESENVOLVIDAS AS INICIATIVAS POLÍTICAS E PARLAMENTARES TENDENTES A DAR IMEDIATO INÍCIO AO PROCESSO DE INDEMNIZAÇÃO DOS ESPOLIADOS DO ULTRAMAR;. PRETENDEM QUE SEJA REVOGADO O ART° 40° DA LEI N° 80/77 E SUBSTITUIDO POR OUTRO NO QUAL SE RECONHEÇA O DIREITO DOS EX-RESIDENTES NO ULTRAMAR UMA JUSTA INDEMNIZAÇAO QUE SEJA RECOMENDADA GOVERNO SOLUÇAO; Pede justiça, na qualidade de uma das vítimas da descolonização, pela violência contra elas exercida e pela espoliação dos seus bens, sendo único responsável o Estado Português.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150181",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5480-5480"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-06-26",
+                "pubLeg": "IX",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/101/2004-06-26/5480?pgs=5480&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITA QUE SEJAM DESENVOLVIDAS AS INICIATIVAS POLÍTICAS E PARLAMENTARES TENDENTES A DAR IMEDIATO INÍCIO AO PROCESSO DE INDEMNIZAÇÃO DOS ESPOLIADOS DO ULTRAMAR;. PRETENDEM QUE SEJA REVOGADO O ART° 40° DA LEI N° 80/77 E SUBSTITUIDO POR OUTRO NO QUAL SE RECONHEÇA O DIREITO DOS EX-RESIDENTES NO ULTRAMAR UMA JUSTA INDEMNIZAÇAO QUE SEJA RECOMENDADA GOVERNO SOLUÇAO; Pede justiça, na qualidade de uma das vítimas da descolonização, pela violência contra elas exercida e pela espoliação dos seus bens, sendo único responsável o Estado Português.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150182",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5480-5481"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-06-26",
+                "pubLeg": "IX",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/101/2004-06-26/5480?pgs=5480-5481&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITA QUE SEJAM DESENVOLVIDAS AS INICIATIVAS POLÍTICAS E PARLAMENTARES TENDENTES A DAR IMEDIATO INÍCIO AO PROCESSO DE INDEMNIZAÇÃO DOS ESPOLIADOS DO ULTRAMAR;. PRETENDEM QUE SEJA REVOGADO O ART° 40° DA LEI N° 80/77 E SUBSTITUIDO POR OUTRO NO QUAL SE RECONHEÇA O DIREITO DOS EX-RESIDENTES NO ULTRAMAR UMA JUSTA INDEMNIZAÇAO QUE SEJA RECOMENDADA GOVERNO SOLUÇAO; Pede justiça, na qualidade de uma das vítimas da descolonização, pela violência contra elas exercida e pela espoliação dos seus bens, sendo único responsável o Estado Português.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150183",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5482-5483"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-06-26",
+                "pubLeg": "IX",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/101/2004-06-26/5482?pgs=5482-5483&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITA QUE SEJAM DESENVOLVIDAS AS INICIATIVAS POLÍTICAS E PARLAMENTARES TENDENTES A DAR IMEDIATO INÍCIO AO PROCESSO DE INDEMNIZAÇÃO DOS ESPOLIADOS DO ULTRAMAR;. PRETENDEM QUE SEJA REVOGADO O ART° 40° DA LEI N° 80/77 E SUBSTITUIDO POR OUTRO NO QUAL SE RECONHEÇA O DIREITO DOS EX-RESIDENTES NO ULTRAMAR UMA JUSTA INDEMNIZAÇAO QUE SEJA RECOMENDADA GOVERNO SOLUÇAO; Pede justiça, na qualidade de uma das vítimas da descolonização, pela violência contra elas exercida e pela espoliação dos seus bens, sendo único responsável o Estado Português.",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-06-26",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "150184",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5483-5483"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-06-26",
+                "pubLeg": "IX",
+                "pubNr": "101",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/101/2004-06-26/5483?pgs=5483&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITA QUE SEJAM DESENVOLVIDAS AS INICIATIVAS POLÍTICAS E PARLAMENTARES TENDENTES A DAR IMEDIATO INÍCIO AO PROCESSO DE INDEMNIZAÇÃO DOS ESPOLIADOS DO ULTRAMAR;. PRETENDEM QUE SEJA REVOGADO O ART° 40° DA LEI N° 80/77 E SUBSTITUIDO POR OUTRO NO QUAL SE RECONHEÇA O DIREITO DOS EX-RESIDENTES NO ULTRAMAR UMA JUSTA INDEMNIZAÇAO QUE SEJA RECOMENDADA GOVERNO SOLUÇAO; Pede justiça, na qualidade de uma das vítimas da descolonização, pela violência contra elas exercida e pela espoliação dos seus bens, sendo único responsável o Estado Português.",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11251",
+    "PetAssunto": "Pede justiça, na qualidade de uma das vítimas da descolonização, pela violência contra elas exercida e pela espoliação dos seus bens, sendo único responsável o Estado Português.",
+    "PetDataEntrada": "2003-06-06",
+    "PeticoesAssociadas": null,
+    "PetId": "11251",
+    "PetLeg": "IX",
+    "PetNr": "53",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "801",
+        "obs": null,
+        "pag": [
+          "5470-5483"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-06-26",
+        "pubLeg": "IX",
+        "pubNr": "101",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/101/2004-06-26/5470?pgs=5470-5483&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": null
+  }
+}
