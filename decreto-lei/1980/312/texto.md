@@ -1,0 +1,51 @@
+Decreto-Lei n.º 312/80
+de 19 de Agosto
+1. O regime jurídico instituído nos artigos 156.º e 157.º do Código Administrativo carece de adequada actualização, tendo em conta a realidade existente no que respeita à tipologia dos vários corpos de bombeiros.
+2. Verifica-se, por outro lado, a conveniência de introduzir inovação no sentido de facultar às câmaras municipais os meios legais apropriados à adopção, para alguns dos actuais corpos municipais de bombeiros cujas condições de inserção a nível local e de funcionamento assim o justifiquem, de uma nova estrutura orgânica e operacional próxima dos batalhões de bombeiros sapadores, com a designação de companhias de bombeiros sapadores.
+Nestes termos:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+ARTIGO 1.º
+(Corpos de bombeiros)
+1 - Nos municípios podem existir os seguintes corpos de bombeiros:
+a) Corpos de bombeiros sapadores;
+b) Corpos de bombeiros voluntários;
+c) Corpos mistos de bombeiros.
+2 - Os corpos de bombeiros voluntários são criados e mantidos nos termos da legislação aplicável para associações humanitárias de bombeiros voluntários.
+3 - São corpos mistos de bombeiros os corpos de bombeiros instituídos no âmbito do município e dotados de estrutura constituída por elementos profissionais e elementos em regime de voluntariado.
+ARTIGO 2.º
+(Corpos de bombeiros sapadores)
+Os corpos de bombeiros sapadores referidos na alínea a) do n.º 1 do artigo anterior designam-se «batalhões de bombeiros sapadores», quando o pessoal efectivo do respectivo quadro orgânico seja igual ou superior a duzentos elementos, e «companhias de bombeiros sapadores», quando igual ou superior a cinquenta e inferior a duzentos elementos.
+ARTIGO 3.º
+(Condições para a instituição de corpos de bombeiros sapadores)
+1 - Os batalhões de bombeiros sapadores só podem ser instituídos nos municípios com sede em cidade com mais de 200000 habitantes e com prévio acordo dos Ministros da Administração Interna e da Defesa Nacional, precedendo parecer favorável do Serviço Nacional de Bombeiros.
+2 - As companhias de bombeiros sapadores só podem ser instituídas nos municípios que disponham de corpos de bombeiros em que, pelo menos, cinquenta elementos do respectivo quadro orgânico sejam totalmente profissionalizados a tempo inteiro há mais de um ano, e com o prévio acordo dos Ministros da Administração Interna e da Defesa Nacional, precedendo parecer favorável do Serviço Nacional de Bombeiros.
+ARTIGO 4.º
+(Estrutura dos corpos de bombeiros sapadores)
+1 - Os batalhões de bombeiros sapadores compreendem comando, secção técnica, companhia de instrução, companhias operacionais e serviços logísticos.
+2 - As companhias de bombeiros sapadores compreendem comando, secção técnica e de instrução, pelotões operacionais e serviços logísticos.
+ARTIGO 5.º
+(Comando)
+1 - Os corpos de bombeiros sapadores são comandados por oficiais do exército com estatuto igual ao dos oficiais em serviço nas restantes forças militarizadas, auferindo os ordenados e as gratificações correspondentes aos seus postos que por lei lhes sejam atribuídos.
+2 - O comando de cada batalhão de bombeiros sapadores fica a cargo de oficial superior da arma de engenharia, no activo, coadjuvado por um 2.º comandante e um adjunto técnico, que devem ser oficiais superiores ou capitães, de preferência também da arma de engenharia ou de transmissões.
+3 - O comando de cada companhia de bombeiros sapadores deve ser assegurado por um capitão de qualquer quadro, arma ou serviço das forças armadas, preferindo os oficiais da arma de engenharia.
+ARTIGO 6.º
+(Disciplina)
+1 - O pessoal dos corpos de bombeiros sapadores é militarizado e rege-se por regulamentos elaborados segundo as normas de disciplina militar aprovadas pelas câmaras municipais respectivas.
+2 - Para orientação das câmaras municipais interessadas, publicará o Ministério da Administração Interna modelo de regulamento tipo, vigorando como tal, enquanto aquela publicação não ocorrer, o regulamento aplicado actualmente aos batalhões de bombeiros sapadores.
+ARTIGO 7.º
+(Corpos municipais de bombeiros)
+1 - Sem prejuízo do disposto no presente diploma, mantêm-se em vigor as normas de constituição e funcionamento dos corpos municipais de bombeiros.
+2 - Os corpos municipais de bombeiros devem ser instituídos e mantidos nos municípios onde não existam associações ou outras organizações de bombeiros, ou estas só por si não preencham em toda a área da autarquia as funções a que se destinam.
+ARTIGO 8.º
+(Norma revogatória)
+São revogados os artigos 156.º e 157.º do Código Administrativo.
+ARTIGO 9.º
+(Esclarecimento de dúvidas)
+As dúvidas, lacunas e casos omissos no presente decreto-lei são resolvidos por despacho do Ministro da Administração Interna, ouvido o Serviço Nacional de Bombeiros.
+ARTIGO 10.º
+(Entrada em vigor)
+O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 23 de Julho de 1980. - Francisco Sá Carneiro.
+Promulgado em 4 de Agosto de 1980.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
