@@ -1,0 +1,5 @@
+# Artigo 9.º
+
+1 - Nos 30 dias seguintes à alienação das acções será convocada a assembleia geral de accionistas para se reunir no prazo mínimo permitido por lei, a fim de serem eleitos os membros dos órgãos sociais.
+
+2 - Nos 90 dias seguintes à conclusão da reprivatização prevista no presente diploma, cada sociedade deverá proceder às necessárias adaptações estatutárias.
