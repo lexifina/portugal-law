@@ -1,0 +1,9 @@
+Portaria n.º 57/98
+de 6 de Fevereiro
+A Portaria n.º 129/96, de 23 de Abril, definiu os incentivos especiais à formação profissional, ao emprego e ao desenvolvimento de programas ocupacionais, bem como as medidas especiais de protecção social aplicáveis aos trabalhadores que se encontrem em situação de desemprego involuntário provenientes de empresas dos sectores têxtil e do vestuário situadas nos concelhos de Fafe, Guimarães, Santo Tirso e Vila Nova de Famalicão. O seu período de vigência foi sucessivamente prorrogado pelas Portarias n.os 78/97, de 1 de Fevereiro, e 792/97, de 29 de Agosto, cessando, nos termos desta última, em 31 de Dezembro de 1997.
+Considerando que tem prosseguido a reflexão a respeito dos desajustamentos que caracterizam a realidade económico-social envolvida, tendo em vista a obtenção de elementos conclusivos de análise dessa realidade e a rigorosa definição dos parâmetros de uma intervenção mais eficaz;
+Tendo em conta a entrada em vigor do Decreto-Lei n.º 133-B/97, de 30 de Maio, que definiu a protecção na eventualidade de encargos familiares do regime geral de segurança social, cuja filosofia subjacente tornou desajustada a majoração prevista para o abono de família no capítulo IV da Portaria n.º 129/96, de 23 de Abril:
+Manda o Governo, pelo Ministro do Trabalho e da Solidariedade, nos termos do artigo 8.º do Decreto-Lei n.º 291/91, de 10 de Agosto, que o disposto na Portaria n.º 129/96, de 23 de Abril, se mantenha em vigor até 30 de Junho de 1998, com excepção da medida especial respeitante ao abono de família, prestação actualmente integrada no subsídio familiar a crianças e jovens, prevista no artigo 3.º e regulada no capítulo IV daquela portaria.
+Ministério do Trabalho e da Solidariedade.
+Assinada em 30 de Dezembro de 1997.
+Pelo Ministro do Trabalho e da Solidariedade, Fernando Lopes Ribeiro Mendes, Secretário de Estado da Segurança Social e das Relações Laborais.
