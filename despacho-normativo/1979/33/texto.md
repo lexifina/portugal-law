@@ -1,0 +1,6 @@
+Despacho Normativo n.º 33/79
+Embora os estatutos que serviram de base à transformação da Companhia das Lezírias em empresa pública não abordem o aspecto do capital estatutário, nem sequer indiquem o respectivo montante inicial;
+Considerando que foram presentes aos Ministérios das Finanças e do Plano e da Agricultura e Pescas, em 7 de Novembro de 1978, pela respectiva comissão de apreciação, as propostas de acordo de reequilibro económico e financeiro e de protocolo financeiro, em que se fundamenta a dotação de 40000 contos, a título de capital estatutário, a receber do Estado no último mês de 1978 ou no primeiro mês de 1979;
+Atendendo a que, pela Resolução de Conselho de Ministros n.º 102/78, de 26 de Julho, foi atribuída a verba de 400000 contos para fazer face a dotações de capital integradas na negociação de acordos de saneamento económico e financeiro das empresas sob tutele do Ministério da Agricultura e Pescas:
+Determina-se que deste verba seja entregue a importância de 40000 contos à Companhia das Lezírias, E. P.
+Ministérios das Finanças e do Plano e da Agricultura e Pescas, 30 de Dezembro de 1978. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal.
