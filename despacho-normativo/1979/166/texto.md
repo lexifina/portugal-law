@@ -1,0 +1,6 @@
+Despacho Normativo n.º 166/79
+Considerando que, por despacho do Subsecretário de Estado da Programação Industrial de 23 de Junho de 1975, foi autorizada a ex-Sacor/Cidla, hoje Petrogal, a constituir em Espanha uma empresa subsidiária, Petrogal Española, S. A., cuja formalização teve lugar em 26 de Fevereiro de 1979;
+Considerando que, nos termos do artigo 9.º do Decreto-Lei n.º 285/77, de 13 de Julho, a referida participação da Petrogal deverá ser transferida, no prazo de seis meses, para o Instituto das Participações do Estado, salvo se, por despacho conjunto dos Ministros das Finanças e do Plano e da Indústria e Tecnologia, for determinado que se mantenha na Petrogal;
+Ouvido o Instituto das Participações do Estado, que se pronunciou favoravelmente, e nos termos do n.º 3 do artigo 9.º do Decreto-Lei n.º 285/77, de 13 de Julho, determina-se que:
+Sejam mantidas a cargo da Petrogal a titularidade e gestão da participação financeira por ela detida no capital social da Petrogal Española, S. A.
+Ministérios das Finanças e do Plano e da Indústria e Tecnologia, 29 de Junho de 1979. - Pelo Ministro das Finanças e do Plano, António de Almeida, Secretário de Estado do Tesouro. - Pelo Ministro da Indústria e Tecnologia, Hugo Fernando de Jesus, Secretário de Estado da Energia e Indústrias de Base.
