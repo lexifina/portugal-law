@@ -1,0 +1,8 @@
+Decreto-Lei n.º 44391
+Tendo surgido dúvidas acerca da interpretação a dar à aplicação do artigo 13.º e seus parágrafos do Estatuto do Funcionalismo Ultramarino aos funcionários do Ministério do Ultramar, de harmonia com o disposto no artigo 103.º do Decreto-Lei n.º 41169, de 29 de Junho de 1957, pela nova redacção que lhe foi dada pelo artigo 2.º do Decreto-Lei n.º 43174, de 21 de Setembro de 1960, e convindo esclarecer qual o âmbito em que deve ser considerada a aplicação de tal disposição;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. A aplicação ao Ministério do Ultramar do § 2.º do artigo 13.º do Estatuto do Funcionalismo Ultramarino, por virtude do disposto no artigo 2.º do Decreto-Lei n.º 43174, de 21 de Setembro de 1960, deverá ser entendida como abrangendo os funcionários que à data da publicação do referido decreto-lei já pertenciam aos quadros do mesmo Ministério.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 8 de Junho de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
+
+Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - A. Moreira.
