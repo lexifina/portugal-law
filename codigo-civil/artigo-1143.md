@@ -2,4 +2,4 @@
 
 ### (Forma)
 
-O contrato de mútuo de valor superior a vinte mil escudos só é válido se for celebrado por escritura pública, e o de valor superior a dez mil escudos se o for por documento assinado pelo mutuário.
+O contrato de mútuo de valor superior a 200000$00 só é válido se for celebrado por escritura pública, e o de valor superior a 50000$00 se o for por documento assinado pelo mutuário.
