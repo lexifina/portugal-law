@@ -1,0 +1,23 @@
+Decreto-Lei n.º 31/90
+de 24 de Janeiro
+Considerando que, por via do Decreto-Lei n.º 105/77, de 22 de Março, e de acordo com o artigo 2.º do Decreto n.º 67/77, de 6 de Maio, o qual criou a Empresa Nacional de Urânio, E. P., foram transmitidos para o domínio desta Empresa todos os bens, móveis e imóveis, concessões, direitos e obrigações a eles inerentes e que, na Junta de Energia Nuclear, estivessem afectos à exploração mineira de urânio;
+Verificando-se ainda que aquele primeiro diploma constitui título bastante para todos os efeitos legais, incluindo os de registo;
+Tendo de considerar-se que a Junta de Energia Nuclear integrava legalmente, no âmbito das suas competências, o direito de superintender na concessão, transmissão e exploração de jazigos portugueses de minérios radioactivos e que, por essa razão e em relação ao urânio, adquiriu direitos de exploração cuja tramitação processual, conducente ao seu exercício, não ficou definida no Decreto-Lei n.º 105/77;
+Tornando-se, por isso, conveniente uma definição ajustada do regime a que ficaram sujeitos aqueles bens, direitos e concessões, que foram transferidos da Junta de Energia Nuclear para a Empresa Nacional de Urânio, E. P., em ordem à sua harmonização com a legislação mineira nacional:
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º Constitui direito da Empresa Nacional de Urânio, E. P., a exploração dos jazigos ou ocorrências de urânio descobertos pela Junta de Energia Nuclear e que constam do cadastro entregue na Direcção-Geral de Geologia e Minas.
+Art. 2.º - 1 - A Empresa Nacional de Urânio, E. P., fica obrigada, relativamente aos jazigos e ocorrências referidos no artigo anterior, cuja exploração seja economicamente relevante, a iniciar os trabalhos de lavra de acordo com o plano ou planos de exploração que serão função da evolução do mercado nacional e internacional de urânio.
+2 - Os planos referidos no número anterior ficarão sujeitos a aprovação pela Direcção-Geral de Geologia e Minas.
+Art. 3.º - 1 - O início dos trabalhos de lavra fica dependente da conclusão do processo a que se refere o artigo 31.º do Decreto n.º 18713, de 1 de Agosto de 1930.
+2 - De acordo com o que fica estabelecido no presente diploma, a demarcação dos jazigos será feita com base em proposta a apresentar pela Empresa Nacional de Urânio, E. P.
+3 - A proposta mencionada no número anterior será elaborada tendo em atenção o valor económico dos jazigos e ocorrências a integrar na mesma.
+Art. 4.º A exploração dos jazigos e ocorrências a que se refere o presente diploma fica sujeita a fiscalização da Direcção-Geral de Geologia e Minas.
+Art. 5.º - 1 - Sem prejuízo dos direitos adquiridos pela Empresa Nacional de Urânio, E. P., em virtude da transferência operada pelo Decreto-Lei n.º 105/77, de 22 de Março, os direitos sobre os jazigos ou ocorrências, a que se refere o presente diploma, que não tiverem sido objecto de demarcação até à publicação de nova legislação sobre recursos geológicos regular-se-ão pelo regime que nela vier a ser consagrado.
+2 - De acordo com o disposto no número anterior, aos recursos já demarcados à data da publicação de nova legislação sobre recursos geológicos será aplicável o regime transitório que nela vier a ser definido para os direitos constituídos.
+Art. 6.º Exceptuados os casos específicos abrangidos na transferência determinada pelo Decrto-Lei n.º 105/77, de 22 de Março, é aplicável à exploração de jazigos ou ocorrências de urânio a demais legislação mineira em vigor.
+Visto e aprovado em Conselho de Ministros de 21 de Dezembro de 1989. - Aníbal António Cavaco Silva - Rui Carlos Alvarez Carp - Luís Fernandes Mira Amaral.
+Promulgado em 13 de Janeiro de 1990.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 15 de Janeiro de 1990.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
