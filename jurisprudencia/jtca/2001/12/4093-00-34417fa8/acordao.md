@@ -1,0 +1,33 @@
+# Acórdão do Tribunal Central Administrativo Sul de 2001-12-29, processo 4093/00
+
+**Acórdãos TCAS:** Acórdão do Tribunal Central Administrativo Sul
+
+**Processo:** 4093/00
+
+**Secção:** Contencioso Administrativo
+
+**Data do Acordão:** 12/29/2001
+
+**Relator:** Ana Paula Portela
+
+**Descritores:** CONCURSO PÚBLICO
+
+**Aditamento:** 1
+
+## Sumário
+
+1_ O âmbito do recurso é constituído pelas conclusões das alegações, pelo que apenas são de considerar os vícios alegados na petição de recurso e mantidos nas referidas conclusões, sob pena de se considerarem abandonados e não serem de atender.( art. 676º nº1 e 690º nº2, ambos do CPC, ex vi art. 102º da LPTA).
+
+2_ Autonomizar os item " Experiência Profissional " e " Qualificação Profissional " referidos em conjunto no aviso de abertura de concurso como " experiência e qualificações profissionais " está dentro dos poderes do júri de adequação da grelha de avaliação à categoria a prover.
+
+3_ É descaracterizado o vício que torna inalterada a posição do recorrente no acto de ordenação relativa dos candidatos.
+
+4_Do nº 1 do art. 22 da lei sindical ( DL 215-B/75, DE 30/4) e do nº 6 do art. 55º DA CRP resulta a proibição de discriminação para o sindicalista e o direito a que não lhe sejam aplicados critérios diferentes na avaliação da sua aptidão profissional dos que foram aplicados para os restantes candidatos, mas não que, em concurso público, lhe sejam aplicados critérios menos exigentes para avaliar a sua aptidão profissional só porque exerceu actividade política, e nomeadamente que o exercido de funções sindicais releva como exercício efectivo de funções para efeitos de experiência profissional.
+
+5_ O facto de resultar do nº1 do art. 11º DO DL 9/94, DE 13/1, que a formação profissional pode revestir certos tipos não significa que o júri não possa, no âmbito da sua discricionaridade técnica que detém, relevar no âmbito do item " Formação Profissional " os elementos do citado preceito que entenda susceptíveis de traduzirem uma qualificação técnica ou científica dos candidatos.
+
+6_ O júri actua no âmbito de um poder vinculado, não obstante detentor de uma discricionaridade técnica, com observação dos critérios de avaliação e apreciação contidos na lei, pelo que não tem autonomia o conhecimento do vício de violação dos princípios da justiça material.
+
+7_ O júri não tem de fundamentar a razão de considerar certos serviços como ligados à Segurança Social ao estabelecer a grelha de avaliação, pois não é exigida a fundamentação dos fundamentos, mas tão só do acto decisório.
+
+Se tais serviços estão ou não ligados à S.S. há-de resultar da lei ( e eventual violação de algum preceito legal) ou da adopção de um critério manifestamente inadequado ou erro patente.
