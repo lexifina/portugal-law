@@ -1,0 +1,5 @@
+Portaria n.º 23452
+Tornando-se necessário definir qual a entidade competente para inspeccionar e aprovar veículos e contentores para os efeitos prescritos na Convenção Aduaneira Relativa ao Transporte Internacional de Mercadorias a Coberto de Cadernetas TIR (Convenção TIR), aprovada para adesão pelo Decreto-Lei n.º 46887, de 2 de Março de 1966:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e das Comunicações, o seguinte:
+A Direcção-Geral de Transportes Terrestres, através das direcções de viação, procederá às inspecções de veículos e contentores e passará os respectivos certificados de aprovação, para os efeitos e nos termos do artigo 3.º e dos Anexos 3, 4, 5, 6, 7 e 8 da Convenção Aduaneira Relativa ao Transporte Internacional de Mercadorias a Coberto de Cadernetas TIR (Convenção TIR), aprovada para adesão pelo Decreto-Lei n.º 46887, de 2 de Março de 1966.
+Ministérios das Finanças e das Comunicações, 28 de Junho de 1968. - O Ministro das Finanças, Ulisses Cruz de Aguiar Cortês. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.
