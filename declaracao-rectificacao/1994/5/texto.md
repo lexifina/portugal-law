@@ -1,0 +1,4 @@
+Declaração de rectificação n.º 5/94
+Segundo comunicação do Ministério do Emprego e da Segurança Social, a Portaria n.º 1054/93, publicada no Diário da República, 1.ª série, n.º 247, de 21 de Outubro de 1993, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No mapa anexo, no grupo de pessoal técnico-profissional (nível 4), na coluna «Categoria» da carreira técnica-adjunta de biblioteca e documentação, onde se lê «Técnico-adjunto especialista, de 1.ª classe, especialista, principal, de 1.ª classe ou de 2.ª classe» deve ler-se «Técnico-adjunto especialista de 1.ª classe, especialista, principal, de 1.ª classe ou de 2.ª classe».
+Secretaria-Geral da Presidência do Conselho de Ministros, 17 de Janeiro de 1994. - O Secretário-Geral, França Martins.
