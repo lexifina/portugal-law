@@ -1,0 +1,23 @@
+Portaria n.º 808/89
+de 12 de Setembro
+A requerimento da COFAC - Cooperativa de Formação e Animação Cultural, C. R. L., com sede em Lisboa;
+Ao abrigo e nos termos dos artigos 17.º, n.º 3, 18.º, n.º 1, 19.º, 21.º, n.º 1, 25.º e 53.º do Decreto-Lei n.º 271/89, de 19 de Agosto:
+Manda o Governo, pelo Ministro da Educação, o seguinte:
+1.º É reconhecido o Instituto Superior de Matemática e Gestão - ISMAG, de que é titular a COFAC - Cooperativa de Formação e Animação Cultural, C. R. L., a funcionar em instalações em Lisboa.
+2.º É autorizado o início do funcionamento, no Instituto Superior de Matemática e Gestão - ISMAG, dos seguintes cursos, de acordo com os planos de estudos publicados em anexo à presente portaria:
+Curso superior de Gestão Agrícola;
+Curso superior de Gestão de Recursos Humanos.
+3.º Aos cursos referidos no número anterior são reconhecidos os efeitos correspondentes aos da titularidade do grau de bacharelato do ensino público.
+4.º As habilitações mínimas que permitem o ingresso em cada um dos cursos atrás referidos são as exigidas para os mesmos ou similares cursos do ensino público, sem prejuízo de outros requisitos que sejam estabelecidos no regulamento interno do Instituto Superior de Matemática e Gestão.
+5.º Será fixado, para cada ano lectivo, por portaria do Ministro da Educação, o número máximo de alunos a admitir à matrícula e frequência, para cada curso, de acordo com critérios legalmente estabelecidos.
+6.º O reconhecimento e autorização estabelecidos na presente portaria não prejudicam, sob pena de revogação, a obrigação do cumprimento de eventuais adaptações ou correcções que sejam determinadas pela Direcção-Geral do Ensino Superior, quer em aplicação de parecer das comissões de especialistas que se pronunciaram sobre o processo de criação e funcionamento do Instituto e dos cursos, quer de futuras informações dos serviços de inspecção daquele departamento, de acordo com a legislação vigente.
+Ministério da Educação.
+Aprovada em 9 de Agosto de 1989.
+O Ministro da Educação, Roberto Artur da Luz Carneiro.
+
+ANEXO
+Instituto Superior de Matemática e Gestão
+Curso Superior de Gestão Agricola
+(ver documento original)
+Curso Superior de Gestão de Recursos Humanos
+(ver documento original)
