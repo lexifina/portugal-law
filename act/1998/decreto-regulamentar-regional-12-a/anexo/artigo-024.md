@@ -16,6 +16,6 @@ e) Apresentar sugestões quanto à política a seguir com o pessoal, com acçõe
 
 f) Propor medidas tendentes ao aumento da qualidade e produtividade do trabalho e assegurar o respectivo controlo e execução;
 
-g) Verificar a assiduidade do pessoal, dando dela conta aos respectivos superiores hierárquicos e à Secção de Vencimentos;
+g) Verificar a assiduidade do pessoal, dando dela conta aos respectivos superiores hierárquicos e à Secção de Contabilidade e Vencimentos;
 
 h) Executar as demais tarefas que lhe forem superiormente cometidas.

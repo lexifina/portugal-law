@@ -10,7 +10,7 @@ b) Proceder ao serviço de arquivo geral da SRHE;
 
 c) Dirigir e superintender o pessoal auxiliar dependente do SDCF;
 
-d) Assegurar o registo, classificação, expediente, arquivo e controlo da documentação do Gabinete do Secretário Regional e dos órgãos dele dependentes;
+d) Assegurar o registo, classificação, expediente, arquivo e controlo da documentação do Gabinete do Secretário Regional e dos órgãos e serviços dele dependentes;
 
 e) Dar apoio administrativo aos diversos sectores, designadamente em matéria de dactilografia e reprografia;
 
@@ -24,4 +24,4 @@ i) Praticar e assegurar tudo o mais que se torne necessário ao apetrechamento d
 
 j) Executar as demais tarefas que lhe forem superiormente cometidas.
 
-2 - A RSA é dirigida por um chefe de repartição, a quem cabe dirigir e coordenar as actividades da RSA e a ligação funcional dos serviços administrativos das delegações de ilha.
+2 - A RSA é dirigida por um chefe de repartição, a quem cabe dirigir e coordenar as actividades da RSA e a ligação funcional aos serviços administrativos das delegações de ilha.

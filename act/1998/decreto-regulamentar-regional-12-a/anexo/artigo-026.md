@@ -26,7 +26,7 @@ e) Promover, em especial por meio de cursos, conferências, congressos e outras 
 
 f) Proceder ao estudo e observação do comportamento de obras com vista a informar acerca das suas condições de segurança e durabilidade;
 
-g) Assegurar o contacto estreito com as empresas ligadas à construção civil e produção de materiais, propondo medidas de apoio, de fomento na aplicação de materiais regionais e equipamento e de aumento da produtividade, nomeadamente através da normalização, modulação e racionalização de elementos construtivos;
+g) Assegurar o contacto estreito com as empresas ligadas à construção civil e produção de materiais, propondo medidas de apoio, de fomento na aplicação de materiais regionais e equipamento adequado e de aumento da produtividade, nomeadamente através da normalização, modulação e racionalização de elementos construtivos;
 
 h) Colaborar com as entidades oficiais competentes na concessão de homologações de materiais e de elementos e processos de construção na Região e contribuir para o controlo de qualidade da produção;
 

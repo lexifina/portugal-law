@@ -6,7 +6,7 @@
 
 ### Definição e competências
 
-1 - A DRH é o órgão de estudo, coordenação, fiscalização e execução das acções de habitação de acordo com os objectivos do Governo Regional e em íntima colaboração com as autarquias locais, instituições de utilidade pública e entidades particulares ou cooperativas, na perspectiva da criação de condições de melhor habitabilidade para as populações.
+1 - A DRH é o serviço de estudo, coordenação, fiscalização e execução das acções de habitação de acordo com os objectivos do Governo Regional e em íntima colaboração com as autarquias locais, instituições de utilidade pública e entidades particulares ou cooperativas, na perspectiva da criação de condições de melhor habitabilidade para as populações.
 
 2 - Compete à DRH, designadamente:
 

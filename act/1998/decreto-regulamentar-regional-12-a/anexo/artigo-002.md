@@ -20,4 +20,4 @@ g) Realizar ou promover a realização das acções que, por lei ou regulamenta�
 
 h) Definir, em cooperação com as autarquias locais e dentro dos limites da respectiva competência, os fluxos de tráfego e seu escoamento, bem como zonas de estacionamento e parques de camionagem;
 
-i) Promover formas de cooperação e coordenação de acções com instituições e entidades regionais, nacionais e estrangeiras, no âmbito das suas áreas de actuação.
+i) Promover formas de cooperação e coordenação de acções com instituições e entidades locais, regionais, nacionais e estrangeiras, no âmbito das suas áreas de actuação.
