@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação da 8.ª Delegação da Direcção-Geral da Contabilidade Pública junto do Ministério da Agricultura, Pescas e Alimentação, a declaração de transferência de verbas publicada no Diário da República, 1.ª série, n.º 86, de 13 de Abril de 1989, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Onde se lê «Cap. 01, div. 05, subdiv. 02, C. E. 44.00, alínea x)», «Cap. 02, div. 01, C. E. 01.42, alínea A - (r)» e «Cap. 02, div. 01, C. E. 04.00 - (r)» deve ler-se «Cap. 01, div. 05, subdiv. 02, C. E. 44.09, alínea x)», «Cap. 02, div. 01, C. E. 01.42, alínea A - (k)» e «Cap. 02, div. 01, C. E. 04.00 - (k)».
+Secretaria-Geral da Presidência do Conselho de Ministros, 3 de Maio de 1989. - O Secretário-Geral, França Martins.
