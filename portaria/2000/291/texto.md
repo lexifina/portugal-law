@@ -1,0 +1,14 @@
+Portaria n.º 291/2000
+de 25 de Maio
+O Decreto-Lei n.º 142/99, de 30 de Abril, que aprovou a criação do Fundo de Acidentes de Trabalho e que entrou em vigor em 1 de Janeiro de 2000, por força do Decreto-Lei n.º 382-A/99, de 22 de Setembro, prevê no n.º 2 do artigo 15.º que o Fundo de Garantia e Actualização de Pensões, criado pela base XLV da Lei n.º 2127, de 3 de Agosto de 1965, será extinto, transitando as respectivas responsabilidades e saldos para o Fundo de Acidentes de Trabalho, nos termos e condições a definir por portaria dos Ministros das Finanças e do Trabalho e da Solidariedade.
+Por sua vez, o n.º 2 do artigo 97.º do Decreto-Lei n.º 248/99, de 2 de Julho, estabelece que os pensionistas do Fundo de Garantia e Actualização de Pensões transitam para o novo fundo autónomo que assumirá o saldo à data existente.
+Assim, nos termos do n.º 2 do artigo 15.º do Decreto-Lei n.º 142/99, de 30 de Abril:
+Manda o Governo, pelos Ministros das Finanças e do Trabalho e da Solidariedade, o seguinte:
+1.º O Fundo de Garantia e Actualização de Pensões considera-se extinto a partir de 15 de Junho de 2000, continuando a assegurar, até esta data, o pagamento das pensões por incapacidade permanente ou morte em caso de acidente de trabalho da responsabilidade de entidades insolventes ou equiparadas.
+2.º Os processos do Fundo de Garantia e Actualização de Pensões referentes a pensões em pagamento ou relativos a responsabilidades já definidas pelos tribunais do trabalho devem ser transferidos para o Fundo de Acidentes de Trabalho até 15 de Maio de 2000.
+3.º As responsabilidades do Fundo de Garantia e Actualização de Pensões, que transitam para o Fundo de Acidentes de Trabalho, correspondentes a acidentes de trabalho ocorridos até 31 de Dezembro de 1999, ficam limitadas às obrigações legais e regulamentares do anterior fundo.
+4.º O valor correspondente às pensões e outras prestações por incapacidade permanente ou morte, em caso de acidente de trabalho da responsabilidade de entidades insolventes ou equiparadas, pagas pelo Fundo de Garantia e Actualização de Pensões no período entre 1 de Janeiro de 2000 e a data da sua extinção, será reembolsado ao orçamento da segurança social pelo Fundo de Acidentes de Trabalho até 31 de Dezembro de 2000.
+5.º O Fundo de Acidentes de Trabalho reembolsará ainda o orçamento da segurança social do saldo acumulado até 31 de Dezembro de 1999 correspondente às pensões e outras prestações por incapacidade permanente ou morte, em caso de acidente de trabalho, da responsabilidade de entidades insolventes ou equiparadas, pagas pelo Fundo de Garantia e Actualização de Pensões.
+6.º A transferência, do valor necessário à cobertura do saldo previsto no número anterior far-se-á, anualmente, em três parcelas de idêntico valor, a partir do ano de 2001.
+Em 12 de Maio de 2000.
+O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - O Ministro do Trabalho e da Solidariedade, Eduardo Luís Barreto Ferro Rodrigues.
