@@ -1,0 +1,12 @@
+Portaria n.º 470/2004
+de 4 de Maio
+Considerando a importância sócio-económica e turística que os recursos aquícolas do rio Cávado têm na região;
+Atendendo ao elevado número de praticantes de pesca desportiva existentes na região e à intensa procura do rio Cávado, particularmente para a realização de provas de competição, constituindo-se esta actividade como uma importante via de desenvolvimento local e regional;
+Considerando que a fauna aquícola daquele curso de água não será afectada significativamente, dado que os exemplares capturados serão mantidos vivos em mangas de rede para posteriormente serem restituídos à água em boas condições de sobrevivência;
+Atendendo ainda que importa fomentar a pesca sem morte, como forma de garantir uma utilização sustentada deste recurso, face à crescente procura por parte da população de actividades de recreio e lazer ao ar livre, em particular da pesca:
+Manda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, ao abrigo da base XXXIII da Lei n.º 2097, de 6 de Junho de 1959, da alínea a) do artigo 31.º e do artigo 84.º do Decreto n.º 44623, de 10 de Outubro de 1962, o seguinte:
+1.º No troço do rio Cávado, desde o limite montante da praia fluvial de Vila do Prado, a montante, até ao açude de Ruães, a jusante, freguesias de Vila de Prado e Cabanelas, concelho de Vila Verde, é suprimido o período de defeso a que se refere a alínea f) do artigo 29.º do Decreto n.º 44623, de 10 de Outubro de 1962.
+2.º No troço do rio Cávado referido no número anterior, de 15 de Março a 31 de Maio, é obrigatória a devolução à água, em boas condições de sobrevivência, de todos os exemplares capturados das espécies a que se refere a alínea f) do artigo 29.º do Decreto n.º 44623, de 10 de Outubro de 1962, sendo, no entanto, permitida a sua retenção na manga.
+3.º Durante as provas de pesca desportiva de competição, é sempre obrigatório o uso de manga, podendo, no entanto, ser retidos na manga exemplares de espécies aquícolas de quaisquer dimensões.
+4.º Fora das provas de pesca desportiva de competição não podem ser retidos na manga, em quaisquer circunstâncias, exemplares de espécies aquícolas com dimensões inferiores aos tamanhos mínimos de captura constantes do artigo 30.º do Decreto n.º 44623, de 10 de Outubro de 1962, com a redacção dada pelo Decreto n.º 312/70, de 6 de Julho.
+Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, João Manuel Alves Soares, Secretário de Estado das Florestas, em 16 de Abril de 2004.
