@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1935/12/30401/19891990.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1935-12-31",
-  "in_force_basis": "publication day in the Diário da República (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário da República",
+  "text_status": "ocr",
   "source_sha256": "f79a7119b822f56b549ecbcca3ee400777fab3b62247ee467cc0370fb8ce20d7",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.1,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "6e676d408a827b8cdfa219537a3afa973137a738c585f643958d647e955abcc7",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 1203
 }
