@@ -1,0 +1,3 @@
+Despacho Normativo n.º 88/86
+Considerando que se mostra indispensável a manutenção dos lugares do quadro privativo do Governo Civil do Distrito de Lisboa vagos por aposentação dos seus titulares, pedida ao abrigo da Lei n.º 9/86, de 30 de Abril, e do Decreto-Lei n.º 118-A/86, de 27 de Maio, determina-se, nos termos do n.º 2 do artigo 13.º do mencionado Decreto-Lei n.º 118-A/86, a não extinção dos referidos lugares.
+Ministérios das Finanças e da Administração Interna, 11 de Setembro de 1986. - O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Administração Interna, Eurico Silva Teixeira de Melo.
