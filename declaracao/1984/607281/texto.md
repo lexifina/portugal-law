@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação da 1.ª Delegação da Direcção-Geral da Contabilidade Pública junto da Presidência do Conselho de Ministros, a declaração de transferências de verbas publicada no Diário da República, 1.ª série, n.º 76 (suplemento), de 30 de Março de de 1984, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+Onde se lê «Cap. 01 - Gabinete do Ministro; div. 01 - Gabinete; subdiv. 04 - Delegação Regional do Sul; funcional 7.01.0; económica - código 01.00 - Remunerações certas e permanentes; 01.02 - Pessoal em qualquer outra situação» deve ler-se «Cap. 01 - Gabinete do Ministro; div. 01 - Gabinete; subdiv. 04 - Delegação Regional do Sul; funcional 7.01.0; económica - código 01.00 - Remunerações certas e permanentes; 01.20 - Pessoal em qualquer outra situação».
+Secretaria-Geral da Presidência do Conselho de Ministros, 8 de Maio de 1984. - O Secretário-Geral, França Martins.
