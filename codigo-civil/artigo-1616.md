@@ -8,4 +8,4 @@ a) Dos contraentes, ou de um deles e do procurador do outro;
 
 b) Do funcionário do registo civil;
 
-c) De duas testemunhas.
+c) De duas testemunhas, sempre que exigida na lei do registo civil.

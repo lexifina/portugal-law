@@ -16,4 +16,4 @@ a) Contraído com algum impedimento dirimente;
 
 b) Celebrado, por parte de um ou de ambos os nubentes, com falta de vontade ou com a vontade viciada por erro ou coacção;
 
-c) Celebrado sem a presença das testemunhas exigidas por lei.
+c) Celebrado sem a presença das testemunhas, quando exigida por lei.
