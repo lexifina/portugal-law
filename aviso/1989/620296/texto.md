@@ -1,0 +1,8 @@
+Aviso
+Por ordem superior se torna público que o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou, por nota de 28 de Março de 1989, nos termos do artigo 45.º da Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, concluída na Haia a 25 de Outubro de 1980, ter o Reino da Suécia depositado, a 22 de Março de 1989, nos termos do artigo 37.º, parágrafo 2.º, o seu instrumento de ratificação da dita Convenção, com a seguinte reserva:
+Nos termos do disposto no artigo 42.º e conforme o previsto nos artigos 42.º e 26.º, a Suécia declara que apenas se vincula a suportar o pagamento das despesas referidas no artigo 26.º, parágrafo 2.º, relativas à participação de um advogado ou consultor jurídico, ou a custas judiciais, na medida em que aquelas despesas possam estar abrangidas pelo sistema sueco de assistência judiciária.
+A Suécia designou, como Autoridade Central prevista no artigo 6.º da Convenção, o Ministério dos Negócios Estrangeiros.
+Nos termos do seu artigo 43.º, a Convenção entrará em vigor para a Suécia a 1 de Junho de 1989.
+Portugal é Parte na Convenção em apreço, cujo texto foi aprovado pelo Decreto do Governo n.º 33/83, de 11 de Maio, tendo depositado o seu instrumento de ratificação em 29 de Setembro de 1983, conforme aviso publicado no Diário da República, 1.ª série, n.º 254, de 4 de Novembro de 1983.
+São também Partes na Convenção a Austrália, a Áustria, o Canadá, a Espanha, os Estados Unidos da América, a França, a Hungria, o Luxemburgo, a Noruega, o Reino Unido da Grã-Bretanha e da Irlanda do Norte e a Suíça.
+Secretaria-Geral do Ministério, 17 de Maio de 1989. - O Chefe do Serviço Jurídico e de Tratados, Fernão Manuel Homem de Gouveia Favila Vieira.
