@@ -1,0 +1,4 @@
+Aviso n.º 72/91
+Por ordem superior se torna público que o Governo de Malta depositou junto da Secretária-Geral do Conselho da Europa, em 26 de Março de 1991, o instrumento de ratificação do Protocolo Adicional à Convenção Europeia Relativa à Equivalência de Diploma Dando Acesso aos Estabelecimentos Universitários (STE n.º 49), aberto à assinatura em 3 de Junho de 1964.
+À data de 3 de Abril de 1991 era signatária deste Protocolo a Turquia e haviam-no ratificado os seguintes Estados: Alemanha, Áustria, Bélgica, Checoslováquia, Dinamarca, França, Itália, Jugoslávia, Luxemburgo, Malta, Noruega, Nova Zelândia, Países Baixos, Portugal, Reino Unido e Suécia.
+Direcção-Geral dos Negócios Político-Económicos, de Maio de 1991. - O Director de Serviços das Relações Culturais Bilaterais, José Manuel Santos Braga.
