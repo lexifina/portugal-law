@@ -1,0 +1,39 @@
+Declaração
+Segundo comunicação do Ministério do Plano e Coordenação Económica, o Despacho Normativo n.º 155/77, publicado no Diário da República, 1.ª série, n.º 160, de 13 de Julho de 1977, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Onde se lê:
+«3. Sem prejuízo [...] dadas instruções (cf. Despacho n.º 44/77), há que ...»;
+deve ler-se:
+«3. Sem prejuízo [...] dadas instruções (cf. Despacho Normativo n.º 119/77), há que ...»
+Onde se lê:
+Programa n.º 1 ...:
+...
+A responsabilidade pela elaboração deste programa competirá ao GT n.º 1 criado pelo Despacho n.º 44/77, cuja composição se manterá ...;
+deve ler-se:
+Programa n.º 1 ...:
+...
+A responsabilidade pela elaboração deste programa competirá ao GT n.º 1 criado pelo Despacho Normativo n.º 12/77, cuja composição se manterá ...
+Onde se lê:
+Programa n.º 2 ...:
+...
+A responsabilidade pela elaboração deste programa competirá ao GT n.º 2, criado pelo Despacho n.º 44/77, cuja ...;
+deve ler-se:
+Programa n.º 2 ...:
+...
+A responsabilidade pela elaboração deste programa competirá ao GT n.º 2, criado pelo Despacho Normativo n.º 12/77, cuja ...
+Onde se lê:
+Programa n.º 3 ...:
+...
+A responsabilidade pela elaboração deste programa é confiada ao GT n.º 3, criado pelo Despacho n.º 44/77, cuja ...;
+deve ler-se:
+Programa n.º 3 ...:
+...
+A responsabilidade pela elaboração deste programa é confiada ao GT n.º 3, criado pelo Despacho Normativo n.º 12/77, cuja ...
+Onde se lê:
+Programa n.º 4 ...:
+...
+A responsabilidade deste programa caberá ao GT n.º 4, criado pelo Despacho n.º 44/77, cuja ...;
+deve ler-se:
+Programa n.º 4 ...:
+...
+A responsabilidade deste programa caberá ao GT n.º 4, criado pelo Despacho Normativo n.º 12/77, cuja ...
+Secretaria-Geral da Presidência do Conselho de Ministros, 8 de Agosto de 1977. - Pelo Secretário-Geral, o Director dos Serviços Administrativos, José Serra.
