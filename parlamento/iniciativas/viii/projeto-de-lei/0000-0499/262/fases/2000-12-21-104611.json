@@ -1,0 +1,683 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "262",
+    "id": "5952",
+    "titulo": "Institui um relatório anual sobre a igualdade de oportunidades entre homens e mulheres"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2000-12-21",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1586",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2000-12-21",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "6166",
+        "leg": "VIII",
+        "nr": "135",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "601",
+            "obs": null,
+            "pag": [
+              "1312-1323"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-12-22",
+            "pubLeg": "VIII",
+            "pubNr": "33",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/033/2000-12-22/1312?pgs=1312-1323&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Assegura a representação das associações de mulheres em organismos públicos com vista a promoção da igualdade."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-12-21",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1762",
+                "nome": "Margarida  Botelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135671",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1312-1313",
+                  "1322-1323"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-22",
+                "pubLeg": "VIII",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/033/2000-12-22/1312?pgs=1312-1313,1322-1323&org=PLC"
+              }
+            ],
+            "sumario": "ASSEGURA A REPRESENTACAO DAS ASSOCIACOES DE MULHERES EM ORGANISMOS PUBLICOS COM VISTA A PROMOCAO DA IGUALDADE; INSTITUI UM RELATORIO ANUAL SOBRE A IGUALDADE DE OPORTUNIDADES ENTRE HOMENS E MULHERES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1612",
+                "nome": "Ana Manso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135672",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1313-1315"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-22",
+                "pubLeg": "VIII",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/033/2000-12-22/1313?pgs=1313-1315&org=PLC"
+              }
+            ],
+            "sumario": "ASSEGURA A REPRESENTACAO DAS ASSOCIACOES DE MULHERES EM ORGANISMOS PUBLICOS COM VISTA A PROMOCAO DA IGUALDADE; INSTITUI UM RELATORIO ANUAL SOBRE A IGUALDADE DE OPORTUNIDADES ENTRE HOMENS E MULHERES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "614",
+                "nome": "Celeste Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135673",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1314-1314"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-22",
+                "pubLeg": "VIII",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/033/2000-12-22/1314?pgs=1314&org=PLC"
+              }
+            ],
+            "sumario": "ASSEGURA A REPRESENTACAO DAS ASSOCIACOES DE MULHERES EM ORGANISMOS PUBLICOS COM VISTA A PROMOCAO DA IGUALDADE; INSTITUI UM RELATORIO ANUAL SOBRE A IGUALDADE DE OPORTUNIDADES ENTRE HOMENS E MULHERES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135674",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1315-1317"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-22",
+                "pubLeg": "VIII",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/033/2000-12-22/1315?pgs=1315-1317&org=PLC"
+              }
+            ],
+            "sumario": "ASSEGURA A REPRESENTACAO DAS ASSOCIACOES DE MULHERES EM ORGANISMOS PUBLICOS COM VISTA A PROMOCAO DA IGUALDADE; INSTITUI UM RELATORIO ANUAL SOBRE A IGUALDADE DE OPORTUNIDADES ENTRE HOMENS E MULHERES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1762",
+                "nome": "Margarida  Botelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135675",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1316-1316"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-22",
+                "pubLeg": "VIII",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/033/2000-12-22/1316?pgs=1316&org=PLC"
+              }
+            ],
+            "sumario": "ASSEGURA A REPRESENTACAO DAS ASSOCIACOES DE MULHERES EM ORGANISMOS PUBLICOS COM VISTA A PROMOCAO DA IGUALDADE; INSTITUI UM RELATORIO ANUAL SOBRE A IGUALDADE DE OPORTUNIDADES ENTRE HOMENS E MULHERES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "204",
+                "nome": "Rosa Maria Albernaz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135676",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1317-1318"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-22",
+                "pubLeg": "VIII",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/033/2000-12-22/1317?pgs=1317-1318&org=PLC"
+              }
+            ],
+            "sumario": "ASSEGURA A REPRESENTACAO DAS ASSOCIACOES DE MULHERES EM ORGANISMOS PUBLICOS COM VISTA A PROMOCAO DA IGUALDADE; INSTITUI UM RELATORIO ANUAL SOBRE A IGUALDADE DE OPORTUNIDADES ENTRE HOMENS E MULHERES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1612",
+                "nome": "Ana Manso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135677",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1318-1318"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-22",
+                "pubLeg": "VIII",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/033/2000-12-22/1318?pgs=1318&org=PLC"
+              }
+            ],
+            "sumario": "ASSEGURA A REPRESENTACAO DAS ASSOCIACOES DE MULHERES EM ORGANISMOS PUBLICOS COM VISTA A PROMOCAO DA IGUALDADE; INSTITUI UM RELATORIO ANUAL SOBRE A IGUALDADE DE OPORTUNIDADES ENTRE HOMENS E MULHERES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135678",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1318-1319"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-22",
+                "pubLeg": "VIII",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/033/2000-12-22/1318?pgs=1318-1319&org=PLC"
+              }
+            ],
+            "sumario": "ASSEGURA A REPRESENTACAO DAS ASSOCIACOES DE MULHERES EM ORGANISMOS PUBLICOS COM VISTA A PROMOCAO DA IGUALDADE; INSTITUI UM RELATORIO ANUAL SOBRE A IGUALDADE DE OPORTUNIDADES ENTRE HOMENS E MULHERES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1653",
+                "nome": "Helena Neves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135679",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1319-1321"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-22",
+                "pubLeg": "VIII",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/033/2000-12-22/1319?pgs=1319-1321&org=PLC"
+              }
+            ],
+            "sumario": "ASSEGURA A REPRESENTACAO DAS ASSOCIACOES DE MULHERES EM ORGANISMOS PUBLICOS COM VISTA A PROMOCAO DA IGUALDADE; INSTITUI UM RELATORIO ANUAL SOBRE A IGUALDADE DE OPORTUNIDADES ENTRE HOMENS E MULHERES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1047",
+                "nome": "Nuno Teixeira de Melo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135680",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1320-1320"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-22",
+                "pubLeg": "VIII",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/033/2000-12-22/1320?pgs=1320&org=PLC"
+              }
+            ],
+            "sumario": "ASSEGURA A REPRESENTACAO DAS ASSOCIACOES DE MULHERES EM ORGANISMOS PUBLICOS COM VISTA A PROMOCAO DA IGUALDADE; INSTITUI UM RELATORIO ANUAL SOBRE A IGUALDADE DE OPORTUNIDADES ENTRE HOMENS E MULHERES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA   PRESIDÊNCIA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Guilherme D'Oliveira Martins"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135681",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1321-1322"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-22",
+                "pubLeg": "VIII",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/033/2000-12-22/1321?pgs=1321-1322&org=PLC"
+              }
+            ],
+            "sumario": "ASSEGURA A REPRESENTACAO DAS ASSOCIACOES DE MULHERES EM ORGANISMOS PUBLICOS COM VISTA A PROMOCAO DA IGUALDADE; INSTITUI UM RELATORIO ANUAL SOBRE A IGUALDADE DE OPORTUNIDADES ENTRE HOMENS E MULHERES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135682",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1323-1323"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-12-22",
+                "pubLeg": "VIII",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/033/2000-12-22/1323?pgs=1323&org=PLC"
+              }
+            ],
+            "sumario": "ASSEGURA A REPRESENTACAO DAS ASSOCIACOES DE MULHERES EM ORGANISMOS PUBLICOS COM VISTA A PROMOCAO DA IGUALDADE; INSTITUI UM RELATORIO ANUAL SOBRE A IGUALDADE DE OPORTUNIDADES ENTRE HOMENS E MULHERES",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "104611",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "110794",
+        "obs": null,
+        "pag": [
+          "1312--1323"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-12-22",
+        "pubLeg": "VIII",
+        "pubNr": "33",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/033/2000-12-22/1312?pgs=1312--1323&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
