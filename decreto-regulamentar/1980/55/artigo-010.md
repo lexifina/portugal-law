@@ -1,3 +1,7 @@
+## Secção II
+
+## Postos do registo civil
+
 ## Secção III
 
 ## Cartórios notariais
