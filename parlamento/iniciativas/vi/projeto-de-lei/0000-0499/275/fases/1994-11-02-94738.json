@@ -1,0 +1,456 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=6tRSrsS472KL0pihrbeU3Juv4E5ApzTlkuIJMDYc5d38v4XsZgYhKVB7Ayr7k6BD7ZNRnhu1uQv2nCwvvkoyXJgfHcd33Rt69gnnqGDLZ7jjDe9WHr1ZOrkFyZHrN%2bdvof6dUKIxE5Wasjk0TQFMyoX%2fKDcVSYqW4xooRfuNYiYxRnpgxINjnNAVq18dgakPF%2fXopgVWi9%2fPK8k2cZ5tRjc%2bd8zO7m6xWvdsbeUHkofo9FaMQ0PghWTFmLBF2ObMw8XQM9vXrZDGjYuCymHSoJrECXBxqIIzCmd0QdMQC5B6LWcA54XELbiVJgZxukznf%2fhdJzQ3jKe6Egx9h%2fh5EH5FtypL9lWrfzDQfsf80Is%3d&fich=IniciativasVI_json.txt&Inline=true",
+  "ficheiro_sha256": "cb79e0745a8347d94ab476dc88937917b337689f6631b8b987a47bad388a33b7",
+  "legislatura": "VI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "275",
+    "id": "3881",
+    "titulo": "Estabelece garantias de fiscalização dos bancos de dados das forcas policiais."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1994-11-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "181",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1994-11-02",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1994-11-02",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "50",
+                "nome": "Fernando Condesso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41853",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "215-217"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-03",
+                "pubLeg": "VI",
+                "pubNr": "7",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/007/1994-11-03/215?pgs=215-217&org=PLC"
+              }
+            ],
+            "sumario": "DADOS PESSOAIS:GARANTIAS DE FISCALIZACAO DOS BANCOS DE DADOSDAS FORCAS POLICIAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41854",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "213-216"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-03",
+                "pubLeg": "VI",
+                "pubNr": "7",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/007/1994-11-03/213?pgs=213-216&org=PLC"
+              }
+            ],
+            "sumario": "DADOS PESSOAIS:GARANTIAS DE FISCALIZACAO DOS BANCOS DE DADOSDAS FORCAS POLICIAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41855",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "212-215"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-03",
+                "pubLeg": "VI",
+                "pubNr": "7",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/007/1994-11-03/212?pgs=212-215&org=PLC"
+              }
+            ],
+            "sumario": "DADOS PESSOAIS:GARANTIAS DE FISCALIZACAO DOS BANCOS DE DADOSDAS FORCAS POLICIAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41856",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "212-212"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-03",
+                "pubLeg": "VI",
+                "pubNr": "7",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/007/1994-11-03/212?pgs=212&org=PLC"
+              }
+            ],
+            "sumario": "DADOS PESSOAIS:GARANTIAS DE FISCALIZACAO DOS BANCOS DE DADOSDAS FORCAS POLICIAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "228",
+                "nome": "Manuel Queiró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41857",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "211-211"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-03",
+                "pubLeg": "VI",
+                "pubNr": "7",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/007/1994-11-03/211?pgs=211&org=PLC"
+              }
+            ],
+            "sumario": "DADOS PESSOAIS:GARANTIAS DE FISCALIZACAO DOS BANCOS DE DADOSDAS FORCAS POLICIAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41858",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "210-211"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-03",
+                "pubLeg": "VI",
+                "pubNr": "7",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/007/1994-11-03/210?pgs=210-211&org=PLC"
+              }
+            ],
+            "sumario": "DADOS PESSOAIS:GARANTIAS DE FISCALIZACAO DOS BANCOS DE DADOSDAS FORCAS POLICIAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41859",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "209-212"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-03",
+                "pubLeg": "VI",
+                "pubNr": "7",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/007/1994-11-03/209?pgs=209-212&org=PLC"
+              }
+            ],
+            "sumario": "DADOS PESSOAIS:GARANTIAS DE FISCALIZACAO DOS BANCOS DE DADOSDAS FORCAS POLICIAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "50",
+                "nome": "Fernando Condesso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41860",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "209-212"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-03",
+                "pubLeg": "VI",
+                "pubNr": "7",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/007/1994-11-03/209?pgs=209-212&org=PLC"
+              }
+            ],
+            "sumario": "DADOS PESSOAIS:GARANTIAS DE FISCALIZACAO DOS BANCOS DE DADOSDAS FORCAS POLICIAIS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "94738",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "181",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1994-11-03",
+        "pubLeg": "VI",
+        "pubNr": "7",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/007/1994-11-03?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
