@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo informação do Ministro dos Negócios Estrangeiros dos Países Baixos, os países que, além de Portugal, fazem parte da Convenção Relativa a Marinheiros Refugiados, assinada na Haia em 11 de Novembro de 1957, são os seguintes: República Federal da Alemanha, Austrália, Bélgica, Canadá, Dinamarca, França, Irlanda, Itália, Jugoslávia, Marrocos, Ilha Maurícia, Mónaco, Noruega, Países Baixos, Reino Unido da Grã-Bretanha, Irlanda do Norte, Suécia e Suíça.
+Secretaria-Geral do Ministério, 18 de Março de 1974. - O Secretário-Geral, José Calvet de Magalhães.
