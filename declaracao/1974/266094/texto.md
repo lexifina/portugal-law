@@ -1,0 +1,13 @@
+Declaração
+Segundo comunicação do Ministério da Saúde, Gabinete do Ministro, a Portaria n.º 169/74, publicada no Diário do Governo, 1.ª série, n.º 51, de 1 de Março, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No quadro de pessoal não dirigente, onde se lê:
+...
+Serviços gerais
+...
+6 - Empregado diferenciado - T.
+deve ler-se:
+...
+Serviços gerais
+...
+16 - Empregado diferenciado - T.
+Secretaria-Geral da Presidência do Conselho, 23 de Abril de 1974. - O Secretário-Geral, Diogo de Paiva Brandão.
