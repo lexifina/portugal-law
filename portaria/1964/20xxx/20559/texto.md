@@ -1,0 +1,3 @@
+Portaria n.º 20559
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do § 1.º do artigo 4.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, reforçar com a quantia de 190240$00 a verba do capítulo II, artigo 18.º «Diversos encargos - Missões de estudo», do orçamento privativo do Instituto de Medicina Tropical para o corrente ano económico, tomando como contrapartida as disponibilidades existentes na verba do mesmo capítulo, artigo 20.º «Diversos encargos - Missão Permanente de Estudo e Combate das Endemias em Timor», do referido orçamento.
+Ministério do Ultramar, 6 de Maio de 1964. - Pelo Ministro do Ultramar, Joaquim Moreira da Silva Cunha, Subsecretário de Estado da Administração Ultramarina.
