@@ -1,0 +1,18 @@
+Decreto-Lei n.º 48455
+Considerando a necessidade de simplificar e esclarecer algumas normas do Estatuto e Regulamento da Polícia de Segurança Pública, uniformizando-as, quanto possível, com as que regem outras forças de segurança;
+Considerando indispensável rever, no aspecto disciplinar, a situação do pessoal na situação de licença ilimitada ou em desempenho de actividades fora da Corporação;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Os artigos 81.º e seu § único e 86.º do Decreto-Lei n.º 39497, de 31 de Dezembro de 1953, passam a ter a seguinte redacção:
+Art. 81.º Os oficiais do Exército requisitados para a Polícia de Segurança Pública consideram-se investidos nos seus cargos desde a data da apresentação no Comando-Geral, depois de visada pelo Tribunal de Contas a portaria de colocação e da respectiva publicação no Diário do Governo, sendo dispensados do diploma de funções públicas.
+§ único. Após a apresentação, os oficiais deverão fazer, em regra, um estágio de, pelo menos, duas semanas, em comando diverso daquele a que são destinados e onde se apresentarão logo em seguida.
+...
+Art. 86.º O pessoal na situação de licença ilimitada só poderá requerer o regresso à efectividade de serviço um ano após a sua concessão e só será readmitido, em qualquer comando onde haja vaga, se for julgado apto pela Junta de Saúde da Polícia de Segurança Pública, tiver boas informações de comportamento moral e civil e os respectivos certificados dos registos disciplinar, criminal e policial não revelarem inconvenientes na readmissão.
+§ único. O pessoal na situação de licença ilimitada continuará vinculado ao regulamento disciplinar da Polícia de Segurança Pública, na parte aplicável, quando pratique acções contrárias à moral pública e ao brio e decoro pessoal e da Corporação.
+Art. 2.º Ao artigo 90.º do mesmo Decreto-Lei n.º 39497, com a nova redacção dada pelo Decreto-Lei n.º 48329, de 10 de Abril do corrente ano, é aditado o seguinte § único:
+Art. 90.º ...
+§ único. Os débitos ao Fundo de Fardamento de agentes expulsos, demitidos, desertores ou falecidos são suportados pelas sobras que existirem na dotação orçamental consignada a subsídio para fardamento, depois de esgotados os meios normais de recuperação desses débitos.
+Art. 3.º O compromisso de honra prestado nas escolas de alistados da Polícia de Segurança Pública dispensará, para todos os efeitos, a declaração de honra prescrita no Decreto-Lei n.º 27003, de 14 de Setembro de 1936.
+Art. 4.º É extensivo às restantes entidades referidas no artigo 106.º do Decreto-Lei n.º 39497, de 31 de Dezembro de 1953, o encargo que incumbe às câmaras municipais, nos termos do artigo 109.º do mesmo diploma.
+Art. 5.º Consideram-se alterados de acordo com os artigos anteriores as correspondentes disposições do regulamento aprovado pelo Decreto n.º 39550, de 26 de Fevereiro de 1954.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 26 de Junho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
