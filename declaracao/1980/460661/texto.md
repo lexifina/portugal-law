@@ -1,0 +1,4 @@
+Declaração
+Para os devidos efeitos se declara que a Resolução n.º 265/80, de 24 de Julho, publicada no Diário da República, 1.ª série, n.º 169, de 24 de Julho de 1980, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No n.º 7, onde se lê: «Nomear presidente e vogais do conselho de gestão do Crédito Predial Português, respectivamente, os Drs. António Carlos Feio Palmeiro Ribeiro, António Carlos Magalhães Tato e Jorge Daniel Sousa Aguiar», deve ler-se: «Nomear presidente e vogais do conselho de gestão do Crédito Predial Português, respectivamente, os Drs. António Carlos Feio Palmeira Ribeiro, António Carlos Magalhães Fernandes Tato e Jorge Daniel Sousa Aguiar».
+Secretaria-Geral da Presidência do Conselho de Ministros, 3 de Setembro de 1980. - Pelo Secretário-Geral, o Director dos Serviços Administrativos, José de Oliveira Serra.
