@@ -1,0 +1,609 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Projeto de Revisão Constitucional",
+    "numero": "6",
+    "id": "34800",
+    "titulo": "Projecto de Revisão Constitucional n.º 6/V"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "1989-06-01",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "12785",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "1989-06-01",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Revisão Constitucional",
+        "id": "34793",
+        "leg": "V",
+        "nr": "1",
+        "sel": "1",
+        "tipo": "C",
+        "titulo": "Projecto de Revisão Constitucional n.º 1/V"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Revisão Constitucional",
+        "id": "34794",
+        "leg": "V",
+        "nr": "2",
+        "sel": "1",
+        "tipo": "C",
+        "titulo": "Projecto de Revisão Constitucional n.º 2/V"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Revisão Constitucional",
+        "id": "34795",
+        "leg": "V",
+        "nr": "3",
+        "sel": "1",
+        "tipo": "C",
+        "titulo": "Projecto de Revisão Constitucional n.º 3/V"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Revisão Constitucional",
+        "id": "34796",
+        "leg": "V",
+        "nr": "4",
+        "sel": "1",
+        "tipo": "C",
+        "titulo": "Projecto de Revisão Constitucional n.º 4/V"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Revisão Constitucional",
+        "id": "34799",
+        "leg": "V",
+        "nr": "5",
+        "sel": "1",
+        "tipo": "C",
+        "titulo": "Projecto de Revisão Constitucional n.º 5/V"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Revisão Constitucional",
+        "id": "34801",
+        "leg": "V",
+        "nr": "7",
+        "sel": "1",
+        "tipo": "C",
+        "titulo": "Projecto de Revisão Constitucional n.º 7/V"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Revisão Constitucional",
+        "id": "34802",
+        "leg": "V",
+        "nr": "8",
+        "sel": "1",
+        "tipo": "C",
+        "titulo": "Projecto de Revisão Constitucional n.º 8/V"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Revisão Constitucional",
+        "id": "34803",
+        "leg": "V",
+        "nr": "9",
+        "sel": "1",
+        "tipo": "C",
+        "titulo": "Projecto de Revisão Constitucional n.º 9/V"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Revisão Constitucional",
+        "id": "34804",
+        "leg": "V",
+        "nr": "10",
+        "sel": "1",
+        "tipo": "C",
+        "titulo": "Projecto de Revisão Constitucional n.º 10/V"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1989-06-01",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220239",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4510-4510"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-02",
+                "pubLeg": "V",
+                "pubNr": "91",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/091/1989-06-02/4510?pgs=4510&org=PLC"
+              }
+            ],
+            "sumario": "Projecto de Revisão Constitucional n.º 1/V; Projecto de Revisão Constitucional n.º 2/V; Projecto de Revisão Constitucional n.º 3/V; Projecto de Revisão Constitucional n.º 4/V; Projecto de Revisão Constitucional n.º 5/V; Projecto de Revisão Constitucional n.º 6/V; Projecto de Revisão Constitucional n.º 7/V; Projecto de Revisão Constitucional n.º 8/V; Projecto de Revisão Constitucional n.º 9/V; Projecto de Revisão Constitucional n.º 10/V",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220240",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4510-4512"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-02",
+                "pubLeg": "V",
+                "pubNr": "91",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/091/1989-06-02/4510?pgs=4510-4512&org=PLC"
+              }
+            ],
+            "sumario": "Projecto de Revisão Constitucional n.º 1/V; Projecto de Revisão Constitucional n.º 2/V; Projecto de Revisão Constitucional n.º 3/V; Projecto de Revisão Constitucional n.º 4/V; Projecto de Revisão Constitucional n.º 5/V; Projecto de Revisão Constitucional n.º 6/V; Projecto de Revisão Constitucional n.º 7/V; Projecto de Revisão Constitucional n.º 8/V; Projecto de Revisão Constitucional n.º 9/V; Projecto de Revisão Constitucional n.º 10/V",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220241",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4512-4513"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-02",
+                "pubLeg": "V",
+                "pubNr": "91",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/091/1989-06-02/4512?pgs=4512-4513&org=PLC"
+              }
+            ],
+            "sumario": "Projecto de Revisão Constitucional n.º 1/V; Projecto de Revisão Constitucional n.º 2/V; Projecto de Revisão Constitucional n.º 3/V; Projecto de Revisão Constitucional n.º 4/V; Projecto de Revisão Constitucional n.º 5/V; Projecto de Revisão Constitucional n.º 6/V; Projecto de Revisão Constitucional n.º 7/V; Projecto de Revisão Constitucional n.º 8/V; Projecto de Revisão Constitucional n.º 9/V; Projecto de Revisão Constitucional n.º 10/V",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220242",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4513-4514"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-02",
+                "pubLeg": "V",
+                "pubNr": "91",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/091/1989-06-02/4513?pgs=4513-4514&org=PLC"
+              }
+            ],
+            "sumario": "Projecto de Revisão Constitucional n.º 1/V; Projecto de Revisão Constitucional n.º 2/V; Projecto de Revisão Constitucional n.º 3/V; Projecto de Revisão Constitucional n.º 4/V; Projecto de Revisão Constitucional n.º 5/V; Projecto de Revisão Constitucional n.º 6/V; Projecto de Revisão Constitucional n.º 7/V; Projecto de Revisão Constitucional n.º 8/V; Projecto de Revisão Constitucional n.º 9/V; Projecto de Revisão Constitucional n.º 10/V",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220243",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4514-4515"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-02",
+                "pubLeg": "V",
+                "pubNr": "91",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/091/1989-06-02/4514?pgs=4514-4515&org=PLC"
+              }
+            ],
+            "sumario": "Projecto de Revisão Constitucional n.º 1/V; Projecto de Revisão Constitucional n.º 2/V; Projecto de Revisão Constitucional n.º 3/V; Projecto de Revisão Constitucional n.º 4/V; Projecto de Revisão Constitucional n.º 5/V; Projecto de Revisão Constitucional n.º 6/V; Projecto de Revisão Constitucional n.º 7/V; Projecto de Revisão Constitucional n.º 8/V; Projecto de Revisão Constitucional n.º 9/V; Projecto de Revisão Constitucional n.º 10/V",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220244",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4515-4517"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-02",
+                "pubLeg": "V",
+                "pubNr": "91",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/091/1989-06-02/4515?pgs=4515-4517&org=PLC"
+              }
+            ],
+            "sumario": "Projecto de Revisão Constitucional n.º 1/V; Projecto de Revisão Constitucional n.º 2/V; Projecto de Revisão Constitucional n.º 3/V; Projecto de Revisão Constitucional n.º 4/V; Projecto de Revisão Constitucional n.º 5/V; Projecto de Revisão Constitucional n.º 6/V; Projecto de Revisão Constitucional n.º 7/V; Projecto de Revisão Constitucional n.º 8/V; Projecto de Revisão Constitucional n.º 9/V; Projecto de Revisão Constitucional n.º 10/V",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220245",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4518-4519"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-02",
+                "pubLeg": "V",
+                "pubNr": "91",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/091/1989-06-02/4518?pgs=4518-4519&org=PLC"
+              }
+            ],
+            "sumario": "Projecto de Revisão Constitucional n.º 1/V; Projecto de Revisão Constitucional n.º 2/V; Projecto de Revisão Constitucional n.º 3/V; Projecto de Revisão Constitucional n.º 4/V; Projecto de Revisão Constitucional n.º 5/V; Projecto de Revisão Constitucional n.º 6/V; Projecto de Revisão Constitucional n.º 7/V; Projecto de Revisão Constitucional n.º 8/V; Projecto de Revisão Constitucional n.º 9/V; Projecto de Revisão Constitucional n.º 10/V",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220246",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4519-4523"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-02",
+                "pubLeg": "V",
+                "pubNr": "91",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/091/1989-06-02/4519?pgs=4519-4523&org=PLC"
+              }
+            ],
+            "sumario": "Projecto de Revisão Constitucional n.º 1/V; Projecto de Revisão Constitucional n.º 2/V; Projecto de Revisão Constitucional n.º 3/V; Projecto de Revisão Constitucional n.º 4/V; Projecto de Revisão Constitucional n.º 5/V; Projecto de Revisão Constitucional n.º 6/V; Projecto de Revisão Constitucional n.º 7/V; Projecto de Revisão Constitucional n.º 8/V; Projecto de Revisão Constitucional n.º 9/V; Projecto de Revisão Constitucional n.º 10/V",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220247",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4523-4527"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-02",
+                "pubLeg": "V",
+                "pubNr": "91",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/091/1989-06-02/4523?pgs=4523-4527&org=PLC"
+              }
+            ],
+            "sumario": "Projecto de Revisão Constitucional n.º 1/V; Projecto de Revisão Constitucional n.º 2/V; Projecto de Revisão Constitucional n.º 3/V; Projecto de Revisão Constitucional n.º 4/V; Projecto de Revisão Constitucional n.º 5/V; Projecto de Revisão Constitucional n.º 6/V; Projecto de Revisão Constitucional n.º 7/V; Projecto de Revisão Constitucional n.º 8/V; Projecto de Revisão Constitucional n.º 9/V; Projecto de Revisão Constitucional n.º 10/V",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220248",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4527-4530"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-02",
+                "pubLeg": "V",
+                "pubNr": "91",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/091/1989-06-02/4527?pgs=4527-4530&org=PLC"
+              }
+            ],
+            "sumario": "Projecto de Revisão Constitucional n.º 1/V; Projecto de Revisão Constitucional n.º 2/V; Projecto de Revisão Constitucional n.º 3/V; Projecto de Revisão Constitucional n.º 4/V; Projecto de Revisão Constitucional n.º 5/V; Projecto de Revisão Constitucional n.º 6/V; Projecto de Revisão Constitucional n.º 7/V; Projecto de Revisão Constitucional n.º 8/V; Projecto de Revisão Constitucional n.º 9/V; Projecto de Revisão Constitucional n.º 10/V",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220249",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4530-4530"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-02",
+                "pubLeg": "V",
+                "pubNr": "91",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/091/1989-06-02/4530?pgs=4530&org=PLC"
+              }
+            ],
+            "sumario": "Projecto de Revisão Constitucional n.º 1/V; Projecto de Revisão Constitucional n.º 2/V; Projecto de Revisão Constitucional n.º 3/V; Projecto de Revisão Constitucional n.º 4/V; Projecto de Revisão Constitucional n.º 5/V; Projecto de Revisão Constitucional n.º 6/V; Projecto de Revisão Constitucional n.º 7/V; Projecto de Revisão Constitucional n.º 8/V; Projecto de Revisão Constitucional n.º 9/V; Projecto de Revisão Constitucional n.º 10/V",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "335055",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": null,
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
