@@ -1,0 +1,11 @@
+Resolução do Conselho de Ministros n.º 26/84
+Por resolução do Conselho de Ministros de 20 de Maio de 1975, publicada no Diário da República, 1.ª série, n.º 126, de 2 de Junho de 1975, foi intervencionada pelo Estado a empresa Supermercados Boa Ajuda Modelar, Lda., tendo a intervenção sido sucessivamente prorrogada.
+Já anteriormente à intervenção do Estado na empresa, e de acordo com elementos contabilísticos corrigidos, a sua estrutura financeira apresentava-se desequilibrada, evidenciando uma situação líquida passiva, tendo-se, posteriormente, esta situação vindo a agravar drasticamente.
+Por outro lado, acentuou-se a ligação logística e financeira à empresa NUTRIPOL - Sociedade Portuguesa de Supermercados, S. A. R. L., encontrando-se presentemente na sua total dependência.
+No sentido de procurar uma solução para a empresa, foram desenvolvidas diligências junto dos seus sócios, considerando-se, contudo, inviáveis as suas pretensões.
+Ouvida a comissão de trabalhadores, nos termos do artigo 24.º, n.º 2, da Lei n.º 46/79, de 12 de Setembro, a proposta de viabilização por ela apresentada revelou-se desajustada da realidade e, consequentemente, inexequível.
+Considerando, finalmente, as conclusões do relatório elaborado pela comissão interministerial nomeada nos termos do artigo 9.º, n.º 2, do Decreto-Lei n.º 907/76, de 31 de Dezembro, que realçam a reduzida dimensão da empresa, a sua pequena relevância no sector em que se insere e a inexistência de condições de viabilização da Supermercados Boa Ajuda Modelar, Lda., com recurso aos mecanismos normais de saneamento, o Conselho de Ministros, reunido em 5 de Abril de 1984, resolveu:
+1 - Ao abrigo do disposto na alínea e) do artigo 24.º do Decreto-Lei n.º 422/76, de 29 de Maio, determinar a desintervenção do Estado e a apresentação da Supermercados Boa Ajuda Modelar, Lda., a tribunal, para convocação de credores, nos termos da lei do processo.
+2 - A comissão administrativa mantém-se em funções até à nomeação do administrador de falência.
+3 - Os credores do sector público devem reclamar judicialmente os seus créditos sobre a Supermercados Boa Ajuda Modelar, Lda.
+Presidência do Conselho de Ministros. - O Primeiro-Ministro, Mário Soares.
