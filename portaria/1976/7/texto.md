@@ -1,0 +1,4 @@
+Portaria n.º 7/76
+de 6 de Janeiro
+Manda o Governo da República Portuguesa, pelo Ministro da Indústria e Tecnologia, ouvido o Conselho de Normalização, aprovar, com as alterações propostas nos respectivos pareceres, a revisão das normas NP-330 - Aço laminado a quente. Fio laminado redondo. Dimensões; NP-331 - Aço laminado a quente. Varão. Dimensões; NP-332 - Aço laminado a quente. Varão para betão. Dimensões; NP-333 - Aço laminado a quente. Vergalhão. Dimensões; NP-334 - Aço laminado a quente. Barra. Dimensões, e NP-335 - Aço laminado a quente. Cantoneira de abas iguais. Dimensões e características referidas aos eixos, feita nos termos do artigo 9.º do Estatuto de Normalização (Decreto-Lei n.º 38801, de 25 de Junho de 1952).
+Ministério da Indústria e Tecnologia, 25 de Novembro de 1975. - O Ministro da Indústria e Tecnologia, Luís Cordes da Ponte Marques do Carmo.
