@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1934/10/24900/19091909.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1934-10-23",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "9bfd486ee54b0bb404be0f5d65d368bc4d188b111f284ae2119d6f9ab78d7bab",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.7,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "f1e695e7e98730c875c6e835dd396f86f37a173b210746937ac026712dca24ac",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 157
 }
