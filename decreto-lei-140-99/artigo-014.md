@@ -2,7 +2,7 @@
 
 ### Medidas para a colheita, captura e abate
 
-1 - Sempre que necessário, são fixadas, através de portaria conjunta dos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente, as medidas adequadas para que a colheita, captura e abate no meio natural de espécimes das espécies da flora e da fauna selvagens referidas no anexo B-V, bem como a sua exploração, sejam compatíveis com a sua manutenção num estado de conservação favorável.
+1 - Sempre que necessário, são fixadas as medidas adequadas para que a colheita, captura e abate no meio natural, bem como a exploração, de espécimes das espécies da flora e da fauna selvagens constantes nos anexos B-V e D sejam compatíveis com a sua manutenção num estado de conservação favorável.
 
 2 - As medidas referidas no n.º 1 podem compreender, nomeadamente:
 
@@ -21,3 +21,5 @@ f) A regulamentação da compra, venda, colocação no mercado, detenção ou tr
 g) A criação de espécimes de espécies animais em cativeiro, bem como a propagação artificial de espécies vegetais, em condições estritamente controladas, com vista à redução da sua colheita no meio natural;
 
 h) A avaliação do efeito das medidas adoptadas.
+
+3 - O Governo, por decreto-lei ou, quando aplicável, por portaria conjunta dos Ministros da Agricultura, Pescas e Florestas e do Ambiente e do Ordenamento do Território, fixa as medidas previstas nos n.os 1 e 2.

@@ -1,29 +1,25 @@
 # Artigo 8.º
 
-### Actos e actividades sujeitos a parecer
+### Ordenamento do território
 
-1 - Nos casos previstos no n.º 8 do artigo anterior, ficam sujeitos a parecer do ICN ou da direcção regional de ambiente territorialmente competente os seguintes actos e actividades:
+1 - Os instrumentos de gestão territorial aplicáveis nas ZEC e nas ZPE devem garantir a conservação dos habitats e das populações das espécies em função dos quais as referidas zonas foram classificadas.
 
-a) A realização de obras de construção civil fora dos perímetros urbanos, com excepção das obras de reconstrução, ampliação demolição e conservação;
+2 - Quando a totalidade ou parte das ZEC e ZPE se localizem dentro dos limites de áreas protegidas, classificadas nos termos da lei, o objectivo previsto no número anterior é assegurado através de planos especiais de ordenamento das áreas protegidas.
 
-b) A alteração do uso actual do solo que abranja áreas contínuas superiores a 5 ha;
+3 - Na primeira revisão ou alteração dos instrumentos de gestão territorial aplicáveis deve:
 
-c) As alterações à morfologia do solo, com excepção das decorrentes das normais actividades agrícolas e florestais;
+a) Avaliar-se a execução dos objectivos previstos no n.º 1, especificando-se no respectivo relatório o fundamento das previsões, restrições e determinações aprovadas, por referência a tais objectivos;
 
-d) A alteração do uso actual dos terrenos das zonas húmidas ou marinhas, bem como as alterações à sua configuração e topografia;
+b) Adaptar-se o instrumento de gestão territorial às medidas de conservação definidas através dos mecanismos previstos no n.º 1 do artigo 7.º e no artigo 7.º-B ou previstas no plano sectorial.
 
-e) A deposição de sucatas e de resíduos sólidos e líquidos;
+4 - A execução da Rede Natura 2000 é objecto de um plano sectorial, elaborado nos termos do Decreto-Lei n.º 380/99, de 22 de Setembro, e da Resolução do Conselho de Ministros n.º 66/2001, de 6 de Junho, tendo em conta o desenvolvimento económico e social das áreas abrangidas e estabelecendo orientações para:
 
-f) A abertura de novas vias de comunicação, bem como o alargamento das já existentes;
+a) A gestão territorial nos sítios da lista nacional de sítios, nos sítios de importância comunitária, nas ZEC e nas ZPE;
 
-g) A instalação de novas linhas aéreas de transporte de energia e de comunicações à superfície do solo fora dos perímetros urbanos;
+b) As medidas referentes à conservação das espécies da fauna, flora e habitats.
 
-h) A prática de actividades desportivas motorizadas;
+5 - O plano sectorial deve ser revisto sempre que se verifique alteração dos limites das áreas de sua incidência, tendo em vista a execução de medidas de gestão para as novas áreas.
 
-i) A prática de alpinismo, de escalada e de montanhismo;
+6 - As formas de adaptação dos planos especiais e dos planos municipais de ordenamento do território existentes são definidas no plano sectorial previsto no n.º 4, nos termos do n.º 1 do artigo 25.º do Decreto-Lei n.º 380/99, de 22 de Setembro.
 
-j) A reintrodução de espécies indígenas da fauna e da flora selvagens.
-
-2 - O parecer referido no número anterior deve ser emitido no prazo de 45 dias úteis, contados da data da sua solicitação.
-
-3 - A ausência de parecer no prazo previsto no número anterior equivale à emissão de parecer favorável.
+7 - A adaptação dos planos especiais e dos planos municipais de ordenamento do território existentes, em conformidade com o disposto no número anterior, deve ocorrer no prazo de seis anos após a aprovação do plano sectorial.

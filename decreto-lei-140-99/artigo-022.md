@@ -2,12 +2,26 @@
 
 ### Contra-ordenações
 
-1 - Constitui contra-ordenação a violação do disposto no n.º 1 do artigo 8.º, no artigo 9.º, nos n.os 1, 2 e 3 do artigo 11.º, nas alíneas a) e b) do n.º 1 do artigo 12.º, nas alíneas a) e b) do artigo 13.º, nos n.os 1, 3 e 4 do artigo 15.º, no n.º 2 do artigo 16.º e no n.º 1 do artigo 18.º
+1 - Constitui contra-ordenação, punível com coima de (euro) 250 a (euro) 3740, aplicável a pessoas singulares, e de (euro) 3990 a (euro) 44890, no caso de pessoas colectivas:
 
-2 - As contra-ordenações previstas no número anterior são punidas com coimas de:
+a) A violação do disposto no n.º 2 do artigo 9.º;
 
-a) 7500$00 a 750000$00, no caso de pessoas singulares;
+b) A violação do disposto no n.º 1 do artigo 10.º
 
-b) 800000$00 a 8000000$00, no caso de pessoas colectivas.
+2 - Constitui contra-ordenação, punível com coima de (euro) 125 a (euro) 3740, aplicável a pessoas singulares, e de (euro) 3990 a (euro) 44890, no caso de pessoas colectivas:
 
-3 - A tentativa e a negligência são puníveis.
+a) A violação do disposto nos n.os 1, 2 e 3 do artigo 11.º;
+
+b) A violação do disposto no n.º 1 do artigo 12.º;
+
+c) A violação do disposto no artigo 13.º;
+
+d) A violação do disposto nos n.os 1, 3 e 4 do artigo 15.º;
+
+e) A violação do disposto no n.º 2 do artigo 18.º;
+
+f) A violação do disposto nos n.os 1 e 2 do artigo 19.º
+
+3 - A negligência é punível, sendo neste caso reduzidos a metade os montantes máximos das coimas.
+
+4 - A tentativa é igualmente punível, sendo o valor da coima especialmente atenuado.

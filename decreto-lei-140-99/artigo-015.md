@@ -2,9 +2,9 @@
 
 ### Colecções
 
-1 - É proibido coleccionar espécimes, vivos ou mortos, das espécies referidas nos artigos 11.º e 12.º, incluindo as partes ou produtos delas derivados, bem como ninhos e ovos.
+1 - É proibido coleccionar espécimes, vivos ou mortos, das espécies previstas nos artigos 11.º e 12.º, incluindo partes ou produtos delas derivados, bem como ninhos e ovos, com excepção das espécies constantes no anexo D quando esses actos sejam permitidos pela legislação que regula o exercício da caça.
 
-2 - Exceptuam-se do disposto no número anterior as colecções para fins de investigação ou de ensino.
+2 - A proibição prevista no número anterior não se aplica a colecções para fins de investigação ou de ensino, bem como a espécimes comprovadamente de cativeiro.
 
 3 - Para efeitos do disposto no n.º 2, os interessados devem comprovar junto do ICN a finalidade das respectivas colecções de acordo com os procedimentos previstos no artigo 20.º, com as necessárias adaptações.
 
