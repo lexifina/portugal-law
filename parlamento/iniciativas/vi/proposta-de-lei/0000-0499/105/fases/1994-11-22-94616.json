@@ -1,0 +1,780 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=6tRSrsS472KL0pihrbeU3Juv4E5ApzTlkuIJMDYc5d38v4XsZgYhKVB7Ayr7k6BD7ZNRnhu1uQv2nCwvvkoyXJgfHcd33Rt69gnnqGDLZ7jjDe9WHr1ZOrkFyZHrN%2bdvof6dUKIxE5Wasjk0TQFMyoX%2fKDcVSYqW4xooRfuNYiYxRnpgxINjnNAVq18dgakPF%2fXopgVWi9%2fPK8k2cZ5tRjc%2bd8zO7m6xWvdsbeUHkofo9FaMQ0PghWTFmLBF2ObMw8XQM9vXrZDGjYuCymHSoJrECXBxqIIzCmd0QdMQC5B6LWcA54XELbiVJgZxukznf%2fhdJzQ3jKe6Egx9h%2fh5EH5FtypL9lWrfzDQfsf80Is%3d&fich=IniciativasVI_json.txt&Inline=true",
+  "ficheiro_sha256": "cb79e0745a8347d94ab476dc88937917b337689f6631b8b987a47bad388a33b7",
+  "legislatura": "VI",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "105",
+    "id": "3499",
+    "titulo": "Altera a lei nº 30/84, de 5 de Setembro (Lei-quadro do Sistema de Informações da República Portuguesa)."
+  },
+  "fase": "Discussão especialidade decreto em Plenário",
+  "codigo_fase": "470",
+  "data_registo": "1994-11-22",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "164",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "470",
+    "Comissao": null,
+    "DataFase": "1994-11-22",
+    "EvtId": "21",
+    "Fase": "Discussão especialidade decreto em Plenário",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1994-11-22",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Indep",
+                "idCadastro": "220",
+                "nome": "Mário Tomé"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41305",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "544-548"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-23",
+                "pubLeg": "VI",
+                "pubNr": "15",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/015/1994-11-23/544?pgs=544-548&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA LEI 30/84 DE 5 DE SETEMBRO (LEI-QUADRO DO SISTEMA DE INFORMACOES DA REPUBLICA PORTUGUESA)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "211",
+                "nome": "João Amaral"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41307",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "543-548"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-23",
+                "pubLeg": "VI",
+                "pubNr": "15",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/015/1994-11-23/543?pgs=543-548&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA LEI 30/84 DE 5 DE SETEMBRO (LEI-QUADRO DO SISTEMA DE INFORMACOES DA REPUBLICA PORTUGUESA)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "211",
+                "nome": "João Amaral"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41313",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "540-541"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-23",
+                "pubLeg": "VI",
+                "pubNr": "15",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/015/1994-11-23/540?pgs=540-541&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA LEI 30/84 DE 5 DE SETEMBRO (LEI-QUADRO DO SISTEMA DE INFORMACOES DA REPUBLICA PORTUGUESA)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41315",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "539-540"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-23",
+                "pubLeg": "VI",
+                "pubNr": "15",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/015/1994-11-23/539?pgs=539-540&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA LEI 30/84 DE 5 DE SETEMBRO (LEI-QUADRO DO SISTEMA DE INFORMACOES DA REPUBLICA PORTUGUESA)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "79",
+                "nome": "Ângelo Correia"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41316",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "538-539"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-23",
+                "pubLeg": "VI",
+                "pubNr": "15",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/015/1994-11-23/538?pgs=538-539&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA LEI 30/84 DE 5 DE SETEMBRO (LEI-QUADRO DO SISTEMA DE INFORMACOES DA REPUBLICA PORTUGUESA)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41317",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "536-538",
+                  "540-540"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-23",
+                "pubLeg": "VI",
+                "pubNr": "15",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/015/1994-11-23/536?pgs=536-538,540&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA LEI 30/84 DE 5 DE SETEMBRO (LEI-QUADRO DO SISTEMA DE INFORMACOES DA REPUBLICA PORTUGUESA)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41318",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "535-536"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-23",
+                "pubLeg": "VI",
+                "pubNr": "15",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/015/1994-11-23/535?pgs=535-536&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA LEI 30/84 DE 5 DE SETEMBRO (LEI-QUADRO DO SISTEMA DE INFORMACOES DA REPUBLICA PORTUGUESA)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41319",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "534-535"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-23",
+                "pubLeg": "VI",
+                "pubNr": "15",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/015/1994-11-23/534?pgs=534-535&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA LEI 30/84 DE 5 DE SETEMBRO (LEI-QUADRO DO SISTEMA DE INFORMACOES DA REPUBLICA PORTUGUESA)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "223",
+                "nome": "Adriano Moreira"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41320",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "533-534"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-23",
+                "pubLeg": "VI",
+                "pubNr": "15",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/015/1994-11-23/533?pgs=533-534&org=PLC"
+              }
+            ],
+            "sumario": "LEI-QUADRO DO SISTEMA DE INFORMACOES DA REPUBLICA PORTUGUESA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41321",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "532-533"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-23",
+                "pubLeg": "VI",
+                "pubNr": "15",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/015/1994-11-23/532?pgs=532-533&org=PLC"
+              }
+            ],
+            "sumario": "LEI-QUADRO DO SISTEMA DE INFORMACOES DA REPUBLICA PORTUGUESA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41323",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "531-532"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-23",
+                "pubLeg": "VI",
+                "pubNr": "15",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/015/1994-11-23/531?pgs=531-532&org=PLC"
+              }
+            ],
+            "sumario": "LEI-QUADRO DO SISTEMA DE INFORMACOES DA REPUBLICA PORTUGUESA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "397",
+                "nome": "Correia de Jesus"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41324",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "530-531"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-23",
+                "pubLeg": "VI",
+                "pubNr": "15",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/015/1994-11-23/530?pgs=530-531&org=PLC"
+              }
+            ],
+            "sumario": "LEI-QUADRO DO SISTEMA DE INFORMACOES DA REPUBLICA PORTUGUESA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "211",
+                "nome": "João Amaral"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41325",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "529-530"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-23",
+                "pubLeg": "VI",
+                "pubNr": "15",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/015/1994-11-23/529?pgs=529-530&org=PLC"
+              }
+            ],
+            "sumario": "LEI-QUADRO DO SISTEMA DE INFORMACOES DA REPUBLICA PORTUGUESA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "41514",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "527-529"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-23",
+                "pubLeg": "VI",
+                "pubNr": "15",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/015/1994-11-23/527?pgs=527-529&org=PLC"
+              }
+            ],
+            "sumario": "LEI-QUADRO DO SISTEMA DE INFORMACOES DA REPUBLICA PORTUGUESA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "134401",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "541-543",
+                  "544-544",
+                  "545-545",
+                  "546-546",
+                  "547-547"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-11-23",
+                "pubLeg": "VI",
+                "pubNr": "15",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/015/1994-11-23/541?pgs=541-543,544,545,546,547&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA LEI 30/84 DE 5 DE SETEMBRO (LEI-QUADRO DO SISTEMA DE INFORMACOES DA REPUBLICA PORTUGUESA)",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": "Relativo ao Decreto nº 178/VI.",
+    "OevId": "94616",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "164",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1994-11-23",
+        "pubLeg": "VI",
+        "pubNr": "15",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/015/1994-11-23?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
