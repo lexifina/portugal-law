@@ -1,0 +1,4 @@
+Rectificação
+Tendo sido publicado com inexactidão no Diário do Governo, 1.ª série, n.º 67, de 20 de Março, pelo Ministério da Comunicação Social, o Decreto-Lei n.º 145/75, determino que se façam as seguintes rectificações:
+No artigo 2.º, n.º 2, onde se lê: «A Direcção dos Serviços de Informação e Imprensa do Ministério dos Negócios Estrangeiros mantém a competência definida pelo artigo 8.º do Decreto n.º 47278, de 31 de Dezembro de 1966», deve ler-se: «Os Serviços de Informação e Imprensa do Ministério dos Negócios Estrangeiros mantêm a competência definida pelo artigo 8.º do Regulamento do Ministério dos Negócios Estrangeiros, aprovado pelo Decreto n.º 47478, de 31 de Dezembro de 1966.»
+Presidência do Conselho de Ministros, 21 de Abril de 1975. - O Primeiro-Ministro, Vasco dos Santos Gonçalves.
