@@ -2,7 +2,7 @@
 
 ### Competência
 
-1 - Ao conselho de administração compete, em geral, o exercício de todos os direitos e o cumprimento de todos os deveres previstos na lei comercial para os conselhos de administração das sociedades anónimas, sem prejuízo dos poderes da tutela.
+1 - Ao conselho de administração compete, em geral, o exercício de todos os poderes necessários para assegurar a gestão e o desenvolvimento da empresa e a administração dos bens afectos à actividade da NAV, E. P., sem prejuízo dos poderes da tutela.
 
 2 - Compete em especial ao conselho de administração:
 
@@ -10,9 +10,9 @@ a) Elaborar e propor os objectivos, estratégias e políticas de gestão da empr
 
 b) Elaborar os planos de actividades e os planos de investimentos e financeiros anuais e plurianuais e os orçamentos anuais, submetendo-os à aprovação do Ministro das Finanças e do ministro da tutela;
 
-c) Elaborar e remeter ao órgão de fiscalização, até 15 de Outubro de cada ano, os projectos de planos de actividades e de orçamento anual de exploração da empresa, a enviar, juntamente com o parecer do referido órgão, até 30 de Novembro, ao Ministro das Finanças e ao ministro da tutela para aprovação;
+c) Elaborar e remeter ao órgão de fiscalização, até 15 de Setembro de cada ano, o orçamento anual de exploração da empresa, a enviar, juntamente com o parecer do referido órgão, até 31 de Outubro, ao Ministro das Finanças e ao ministro da tutela para aprovação;
 
-d) Apresentar à Inspecção-Geral de Finanças os documentos de prestação de contas anuais elaborados com referência a 31 de Dezembro do ano anterior, acompanhados do parecer do órgão de fiscalização, nos prazos previstos na lei comercial para a disponibilização pelas sociedades anónimas das contas aos accionistas;
+d) Apresentar ao Ministro das Finanças e ao ministro da tutela, até 31 de Março de cada ano, os documentos de prestação de contas anuais, acompanhados do parecer da comissão de fiscalização, com referência a 31 de Dezembro do ano anterior;
 
 e) Gerir a actividade da empresa e praticar as operações relativas à prossecução do seu objecto;
 

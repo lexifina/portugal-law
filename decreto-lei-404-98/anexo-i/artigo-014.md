@@ -22,12 +22,14 @@ IV) As taxas aeronáuticas que forem devidas pela prestação do serviço públi
 
 V) A política geral de preços e taxas proposta pelo conselho de administração, a praticar na exploração das actividades não incluídas no número anterior;
 
-VI) A contratação de empréstimos em moeda com curso legal em Portugal, por prazo superior a 10 anos, ou em moeda estrangeira, bem como a emissão de obrigações, estabelecendo as respectivas condições gerais;
+VI) A contratação de empréstimos em moeda nacional, por prazo superior a 10 anos, ou em moeda estrangeira, bem como a emissão de obrigações, estabelecendo as respectivas condições gerais;
 
-VII) Os princípios a que deve obedecer a reavaliação do activo e os respectivos coeficientes, bem como os critérios de reintegração e amortização dos bens;
+VII) A aquisição ou alienação de partes do capital de outras sociedades por valores superiores a 5% do capital próprio;
 
-VIII) As dotações para capital e outras verbas a conceder pelo Orçamento do Estado e fundos autónomos;
+VIII) Os princípios a que deve obedecer a reavaliação do activo e os respectivos coeficientes, bem como os critérios de reintegração e amortização dos bens;
 
-IX) Os contratos-programa e os contratos de gestão;
+IX) As dotações para capital e outras verbas a conceder pelo Orçamento do Estado e fundos autónomos;
 
-X) Os demais actos que, nos termos da legislação aplicável, necessitem de autorização tutelar.
+X) Os contratos-programa e os contratos de gestão;
+
+XI) Os demais actos que, nos termos da legislação aplicável, necessitem de autorização tutelar.
