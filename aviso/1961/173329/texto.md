@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que a Embaixada de Portugal em Londres informou ter sido comunicado pelo Ministério dos Negócios Estrangeiros do Reino Unido da Grã-Bretanha e Irlanda do Norte que o Governo Britânico notificou o Secretariado do Conselho Internacional do Açúcar, para conhecimento dos países participantes, que as disposições do Acordo deixaram de se tornar extensivas à Serra Leoa a partir do dia 27 de Abril passado, data que foi concedida a independência àquele território.
+Direcção-Geral dos Negócios Económicos e Consulares, 28 de Julho de 1961. - O Director-Geral adjunto, Armando Ramos de Paula Coelho.
