@@ -1,0 +1,14 @@
+Despacho Normativo n.º 285/93
+Considerando que a necessidade de alcançar um acentuado reforço da importância do mercado de capitais no financiamento da economia nacional é um imperativo essencial, quer por aquele se assumir como um factor central na canalização dos recursos existentes, quer pela sua contribuição relevante para a promoção do desenvolvimento económico, através da disponibilização às empresas dos meios financeiros adequados à sua actividade e necessidades de investimento;
+Considerando que com a aprovação em Julho de 1991 da Lei Quadro para o Mercado de Capitais, que institucionaliza o Segundo Mercado, especialmente vocacionado para as PME, resultaram para as empresas portuguesas com maior potencial de desenvolvimento novas oportunidades para solucionar os seus estrangulamentos financeiros e a melhoria das condições de financiamento, em termos de diversificação, acessibilidade, oportunidade e custo, tanto no que refere a capitais próprios como alheios.
+Pretende-se, neste contexto, através de uma adequada articulação entre o IAPMEI e as entidades intervenientes no mercado de capitais facilitar a aproximação a este das PME estrategicamente posicionadas nos segmentos de maior vigor do nosso tecido industrial e que pretendam fazer admitir à cotação ao Segundo Mercado das Bolsas de Valores acções e obrigações por si emitidas.
+Assim, ao abrigo do disposto na alínea c) do artigo 202.º da Constituição, determina-se o seguinte:
+1 - As PME que pretendam fazer admitir à cotação do Segundo Mercado das Bolsas de Valores títulos por si emitidos podem beneficiar dos apoios a conceder pelo IAPMEI criados por este despacho.
+2 - Os apoios a conceder incidirão:
+a) Nos encargos com trabalhos de auditoria, avaliação estratégica e qualificação de riscos;
+b) Nos encargos de natureza processual;
+c) Nos custos com acções de formação técnica e de melhoria dos sistemas de informação das empresas.
+3 - Os apoios a conceder consistem numa comparticipação financeira que pode atingir 70% dos custos comprovadamente suportados pela empresa, nas fases referenciadas no número anterior, tendo por limite 6000 contos.
+4 - Podem ainda ser apoiadas outras acções que concorram para o reforço da notoriedade, credibilidade e liquidez dos títulos das PME cotadas no Segundo Mercado.
+5 - O IAPMEI em articulação com as entidades intervenientes no mercado de capitais, nomeadamente as Bolsas de Valores, operadores financeiros e investidores institucionais, no prazo máximo de 30 dias, a contar da publicação deste despacho, regulamentará os apoios por este criados e apresentará uma proposta com vista à criação de mecanismos que estimulem a aquisição de títulos emitidos por PME, de forma a promover uma eficiente canalização da poupança para o sector produtivo e a reforçar a modernização das empresas industriais.
+Ministério da Indústria e Energia, 29 de Julho de 1993. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
