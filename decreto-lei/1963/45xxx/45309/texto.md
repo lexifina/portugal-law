@@ -1,0 +1,7 @@
+Decreto-Lei n.º 45309
+Considerando não ser viável a importação de cevada ao abrigo do acordo celebrado com o Governo dos Estados Unidos da América nos termos do artigo 1.º do Decreto-Lei n.º 44029, de 15 de Novembro de 1961, em consequência de imprevista alteração das condições do mercado, e tendo em vista o integral aproveitamento da importância abrangida pelo citado acordo, foi ajustado entre os dois Governos signatários que se substituísse aquela importação pela de trigo.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
+Artigo único. A importância de 13200000 dólares dos Estados Unidos da América, incluindo fretes, referida no artigo 1.º do Decreto-Lei n.º 44029, de 15 de Novembro de 1961, poderá ser totalmente aplicada na importação de trigo ou farinha de trigo, com o peso aproximado de 190000 t.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 15 de Outubro de 1963. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez - Armando Ramos de Paula Coelho.
