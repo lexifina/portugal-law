@@ -1,0 +1,3 @@
+Resolução n.º 109/81
+O Conselho de Ministros, reunido em 14 de Maio de 1981, resolveu, nos termos do artigo 2.º do tratado entre a República Federal da Alemanha e a República de Portugal relativo à extradição e à assistência judiciária em matéria penal, autorizar o prosseguimento do processo de extradição relativo a Lothar Martin Schrõter, acusado da prática de vários crimes de furto de automóveis, dano, receptação, falsificação, uso de falsos documentos e falsas declarações às autoridades, puníveis com penas de cinco a dez anos de prisão maior.
+Presidência do Conselho de Ministros, 14 de Maio de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
