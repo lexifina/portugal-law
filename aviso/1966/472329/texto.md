@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que, segundo comunicação da Organização das Nações Unidas, o Governo da Jamaica notificou o secretário-geral daquela Organização, em 16 de Abril de 1964, de que se considerava vinculado pela ratificação pelo Reino Unido da Grã-Bretanha e Irlanda do Norte da Convenção sobre pesca e a conservação dos recursos biológicos do alto mar, concluída em Genebra em 29 de Abril de 1958 e que se havia tornado efectiva para o território da Jamaica antes da sua independência.
+Direcção-Geral dos Negócios Económicos e Consulares, 15 de Junho de 1966. - O Director-Geral, José Calvet de Magalhães.
