@@ -1,5 +1,5 @@
 # Artigo 71.º
 
-1 - O Cofre dos Conservadores, Notários e Funcionários de Justiça assume a responsabilidade solidária que caiba ao Estado pelos danos que os funcionários dos serviços do registo e do notariado causem a terceiros no exercício das suas funções.
+1 - O Cofre dos Conservadores, Notários e Funcionários de Justiça assume a responsabilidade solidária que caiba ao Estado pelos danos que os trabalhadores dos serviços dos registos e do notariado causem a terceiros no exercício das suas funções, sem prejuízo do direito de regresso contra esses trabalhadores, que será exercido por representação do Ministério Público.
 
-2 - O direito de regresso contra os funcionários directamente responsáveis é exercido pelo Cofre, representado, para o efeito, pelo Ministério Público.
+2 - A responsabilidade dos trabalhadores dos serviços dos registos e do notariado pode ser transferida para entidades seguradoras.
