@@ -1,0 +1,5 @@
+Portaria n.º 845/80
+de 22 de Outubro
+Nos termos do disposto nos n.os 2 e 3 do artigo 1.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, e no n.º 6 da Resolução n.º 354-B/79, de 14 de Dezembro, da Presidência do Conselho de Ministros, confirmada pela Resolução n.º 40/80, de 5 de Fevereiro:
+Manda o Governo da República Portuguesa, pelos Ministros da Justiça e das Finanças e do Plano e pelo Secretário de Estado da Reforma Administrativa, que sejam equiparados a director de serviços, para todos os efeitos legais, os cargos de adjunto do director-geral dos Serviços Judiciários, de adjunto do director-geral dos Registos e do Notariado e de adjunto do director-geral dos Serviços Tutelares de Menores.
+Presidência do Conselho de Ministros e Ministérios da Justiça e das Finanças e do Plano, 10 de Outubro de 1980. - O Ministro da Justiça, Mário Ferreira Bastos Raposo. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.
