@@ -1,0 +1,5 @@
+Declaração
+Para os devidos efeitos se declara que o Decreto-Lei n.º 126/89, publicado no Diário da República, 1.ª série, n.º 88, de 15 de Abril de 1989, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No preâmbulo, onde se lê «A União de Bancos Portugueses, S. A., transformada em sociedade anónima de capitais exclusivamente públicos, passa a sociedade anónima de capitais públicos pelo Decreto-Lei n.º 351/86, de 20 de Outubro, passa, através do presente» deve ler-se «A União de Bancos Portugueses, S. A., transformada em sociedade de capitais exclusivamente públicos, pelo Decreto-Lei n.º 351/86, de 20 de Outubro, passa, através do presente».
+Na alínea a) do n.º 2 do artigo 3.º, onde se lê «a) [...] Decretos-Leis n.os 470/74, de 10 de Setembro, e» deve ler-se «a) [...] Decretos-Leis n.os 450/74, de 13 de Setembro, e».
+Secretaria-Geral da Presidência do Conselho de Ministros, 12 de Junho de 1989. - O Secretário-Geral, França Martins.
