@@ -1,0 +1,10 @@
+Portaria n.º 750/80
+de 29 de Setembro
+Considerando que o exercício das funções de director de serviços de acção educativa da Direcção-Geral da Educação de Adultos exige conhecimentos aprofundados e específicos e experiência prolongada no que respeite a orientação e apoio pedagógico no domínio da educação não formal de adultos, designadamente no respeitante a formulação de objectivos e métodos, concepção de material didáctico-pedagógico, formação de monitores, avaliação pedagógica e certificação de estudos;
+Considerando que actualmente não são professadas nas Universidades portuguesas cursos que confiram o grau de licenciatura em Ciências da Educação e proporcionem a formação adequada nas áreas referidas;
+Considerando que, face aos requisitos exigidos, não há possibilidade de preencher aquele cargo, uma vez que não existe habilitação curricular a nível de licenciatura que permita a especialização que o cargo exige;
+Nos termos do n.º 4 do artigo 2.º do Decreto-Lei n.º 191-F/79:
+Manda o Governo da República Portuguesa, pelo Ministro da Educação e Ciência e pelo Secretário de Estado da Reforma Administrativa, o seguinte:
+1.º O lugar de director de serviços de acção educativa da Direcção-Geral da Educação de Adultos será ainda preenchido de entre funcionários do quadro técnico ou de inspecção do Ministério da Educação e Ciência que possuam, no domínio da educação não formal de adultos, particularmente em relação à alfabetização e educação de base, comprovada experiência profissional, adquirida, designadamente, pelo serviço prestado na Direcção-Geral da Educação de Adultos ou na extinta Direcção-Geral da Educação Permanente.
+2.º Sempre que o provimento do cargo de director de serviços de acção educativa da Direcção-Geral da Educação de Adultos seja efectuado nos termos do disposto do número anterior, é dispensado o requisito das habilitações exigidas pelo n.º 1 do artigo 2.º do Decreto-Lei n.º 191-F/79.
+Presidência do Conselho de Ministros e Ministério da Educação e Ciência, 18 de Setembro de 1980. - O Ministro da Educação e Ciência, Vítor Pereira Crespo. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.
