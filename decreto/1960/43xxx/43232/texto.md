@@ -1,0 +1,9 @@
+Decreto n.º 43232
+A execução dos trabalhos de arborização definidos na Lei n.º 2069 está a intensificar-se, não tendo os viveiros dos serviços florestais capacidade de produção que permita ocorrer às necessidades do II Plano de Fomento no que respeita à arborização dos perímetros florestais a cargo do Estado e dos terrenos particulares.
+Para que a Direcção-Geral dos Serviços Florestais e Aquícolas possa continuar a intensificar a arborização de terrenos particulares há necessidade de se proceder ao arrendamento, por um período de dez anos, de duas parcelas de terreno, de 2 ha e 5 ha, situados nas freguesias de Santa Clara-a-Velha e de S. Salvador, do concelho de Odemira, pertencentes a Manuel Garcia Reis Moreira e a José Jacinto da Luz Brito Pais, respectivamente.
+Nestas condições, tendo em vista o disposto no artigo 22.º e seu § 1.º do Decreto-Lei n.º 41375, de 19 de Novembro de 1957;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º É autorizada a Direcção-Geral dos Serviços Florestais e Aquícolas a celebrar contratos com Manuel Garcia Reis Moreira e José Jacinto da Luz Brito Pais para o arrendamento, por dez anos, de duas parcelas de terreno, de 2 ha e 5 ha, de propriedades sitas nas freguesias de Santa Clara-a-Velha e de S. Salvador, concelho de Odemira.
+Art. 2.º A despesa em cada ano económico com os citados arrendamentos não poderá exceder 9750$00 e constituirá encargo da dotação descrita na despesa extraordinária do orçamento do Ministério da Economia, II Plano de Fomento, na verba consignada ao repovoamento de terrenos particulares e descrita no corrente ano sob o capítulo 23.º, artigo 333.º, n.º 2), alínea b).
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 14 de Outubro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Luís Quartin Graça.
