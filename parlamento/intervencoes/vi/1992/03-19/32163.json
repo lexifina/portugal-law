@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=rKtwshDyv1NBeu65K82ef9j6oFE3w%2fgAbqyUhooMpoSyQQ0pTyzibfD50gH%2baGhs1TrcG1r0l2bU1A0KAmFXPBoWqi6NY9nsxTw%2fxAs2r347ke8O86pD8UW0Vo24i8zPmfcPKM5y3XEB99eQAf1Ojm%2bemILgruHhJl9u7yVaplGsWPI0o%2bZUTUUBCanSa5007dUY7uakZ2EgL138SciEtNOWsIyqy66pG5Eu5crXojP8szj276fRrDhZdP6MEXFhdUelamzN3e1Rpwl8sPVmxdyANoDqpCtvpC0PXNmoyGF02wzb13ACPnwjTtn%2bPiN%2b1oG5E%2bkfl50yDwrf9Q4ck3XnT7zfIqh68Ee0O7Ap66U%3d&fich=IntervencoesVI_json.txt&Inline=true",
+  "ficheiro_sha256": "09dcb463dee20c5105fb36bc1a4e2274ee28613bb7bd19e9b953a0ed8eb5faf8",
+  "legislatura": "VI",
+  "id": "32163",
+  "tipo": "Intervenção",
+  "orador": "Fernando de Sousa (PS)",
+  "data_registo": "1992-03-19",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "3301",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "20191",
+        "tipo": "INI",
+        "titulo": "Projeto de Deliberação - Elaboração de uma História do Parlamento Português desde 1820 até hoje e criação de uma Comissão Eventual com o objectivo de estudar as respectivas condições"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "20203",
+        "tipo": "INI",
+        "titulo": "Projeto de Deliberação - Elaboração de uma História do Parlamento Português desde 1820 até hoje e criação de uma Comissão Eventual com o objectivo de estudar as respectivas condições"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1992-03-19",
+    "Debate": "PJD n.º 21/VI/1; PJD n.º 9/VI/1",
+    "Deputados": {
+      "GP": "PS",
+      "idCadastro": "168",
+      "nome": "Fernando de Sousa"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "32163",
+    "IdDebate": "5459",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VI",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "32163",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "1283-1284"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1992-03-20",
+        "pubLeg": "VI",
+        "pubNr": "42",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/01/042/1992-03-20/1283?pgs=1283-1284&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "REFERE AS RAZOES QUE LEVARAM O PS A APRESENTAR ESTE PJR ",
+    "Sessao": "1",
+    "Sumario": "AR: HISTORIA DO PARLAMENTO PORTUGUES.CRIACAO DE UMA COMISSAOEVENTUAL",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
