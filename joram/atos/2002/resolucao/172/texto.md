@@ -1,0 +1,18 @@
+# Resolução n.º 172/2002
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 24/2002, de 2002-02-28
+
+**Sumário:** Autoriza o Conselho de Administração do Centro Hospitalar do Funchal a proceder à aquisição de diversos bens.
+
+## Texto
+
+Resolução n.º 172/2002
+Considerando que a natureza dos serviços prestados pelas Unidades de Saúde se revestem de carácter essencial e permanente, para o bem-estar da população da RAM;
+Considerando que a prestação daqueles serviços, nem sempre é temporalmente compatível com as tramitações subjacentes à aquisição de bens e serviços por parte das instituições públicas;
+Considerando que se aguardam os ulteriores trâmites dos ajustamentos orçamentais entretanto desencadeados.
+O Conselho do Governo reunido em plenário em 21 de Fevereiro de 2002, resolveu autorizar o Conselho de Administração do Centro Hospitalar do Funchal a proceder à aquisição dos bens a que se referem os processos de aquisição n.os 2BAD20020001, 2BAD20020003, 2DAD20020047,
+CCP20020003,NCP2002A025, 2PR20020039, 1AD20020386,
+1AD20020051, 1AD20020050, 1AD20020047, bem como ao processamento da respectiva despesa.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Alberto João Cardoso Gonçalves Jardim.
