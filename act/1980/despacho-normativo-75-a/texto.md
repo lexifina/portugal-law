@@ -1,0 +1,3 @@
+Despacho Normativo n.º 75-A/80
+Nos termos e para os efeitos do artigo 5.º do Decreto-Lei n.º 3/80, de 7 de Fevereiro, confirmo ao abrigo deste diploma as minhas delegações de poderes constantes dos Despachos n.os 18/80, 26/80, 39/80, 54/80 e 56/80, publicados no Diário da República, n.os 18, 26, 33 e 42, de 22 e 31 de Janeiro e de 8 e 20 de Fevereiro de 1980, respectivamente, e autorizo a subdelegação das mesmas competências, nos termos da lei geral.
+Presidência do Conselho de Ministros, 28 de Fevereiro de 1980. - O Vice-Primeiro-Ministro e Ministro dos Negócios Estrangeiros, Diogo Pinto de Freitas do Amaral.
