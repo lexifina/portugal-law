@@ -1,0 +1,6 @@
+Portaria n.º 99/81
+de 22 de Janeiro
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e da Agricultura e Pescas, o seguinte:
+Ao abrigo do disposto no artigo 40.º da Lei n.º 77/77, de 29 de Setembro, desanexar e transmitir o seu domínio a favor da Junta de Freguesia de Pinheiro Grande, do concelho da Chamusca, com destino ao alargamento do seu cemitério, para fins de utilidade pública, a totalidade do prédio rústico Chã dos Cardos, inscrito na Conservatória do Registo Predial sob o artigo 150 da secção NN da freguesia de Pinheiro Grande, concelho da Chamusca, com 3620 m2. Este prédio resultou da divisão do prédio n.º 96 da mesma secção, o qual foi suprimido e havia sido expropriado pela Portaria n.º 32/76, de 26 de Janeiro.
+A Junta de Freguesia de Pinheiro Grande entregará oportunamente nos cofres do Tesouro uma importância proporcional à indemnização definitiva a pagar pelo Estado, pela expropriação do prédio Chã dos Cardos, tendo em conta a parte expropriada e a parte que por esta portaria lhe é transmitida.
+Ministérios das Finanças e do Plano e da Agricultura e Pescas, 31 de Outubro de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva - O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha.
