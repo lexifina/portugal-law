@@ -1,0 +1,23 @@
+Decreto Regulamentar n.º 18/89
+de 6 de Julho
+Considerando a necessidade de clarificar as dúvidas surgidas com a interpretação de algumas normas do artigo 36.º do Regulamento das Ordens Honoríficas Portuguesas, aprovado pelo Decreto Regulamentar n.º 71-A/86, de 15 de Dezembro, após as alterações introduzidas pelo Decreto Regulamentar n.º 12/88, de 10 de Março:
+Ao abrigo do disposto no artigo 6.º do Decreto-Lei n.º 414-A/86, de 15 de Dezembro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º O artigo 36.º do Regulamento das Ordens Honoríficas Portuguesas, aprovado pelo Decreto Regulamentar n.º 71-A/86, de 15 de Dezembro, passa a ter a seguinte redacção:
+Art. 36.º - 1 - ...
+a) ...
+b) ...
+c) ...
+I) ...
+II) Três louvores individuais conferidos por general ou vice-almirante no exercício de funções de comando, direcção ou inspecção superior de tropas ou direcção de estabelecimentos superiores de ensino militar, ou por brigadeiro ou contra-almirante quando no exercício efectivo das funções acima referidas ou nos comandos naval e aéreo e da zona militar dos Açores e da Madeira.
+2 - ...
+3 - As propostas para a concessão de qualquer grau devem ser baseadas em louvores concedidos em posto não inferior ao correspondente a esse grau.
+4 - Os louvores que fundamentarem a concessão de um grau não podem ter servido, nem servir, para a concessão de qualquer medalha ou de base a concessão de novo grau.
+5 - ...
+Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Presidência do Conselho de Ministros, 24 de Abril de 1989.
+Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - José António da Silveira Godinho.
+Promulgado em 21 de Junho de 1989.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 23 de Junho de 1989.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
