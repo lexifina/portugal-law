@@ -1,0 +1,15 @@
+# Resolução n.º 1667/2003
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 149/2003, de 2003-12-31
+
+**Sumário:** Aprova a minuta da escritura de expropriação amigável da parcela de terreno n.º 33, necessária à obra de “ CONSTRUÇÃO DASAÍDALESTE DO FUNCHAL”.
+
+## Texto
+
+Resolução n.º 1667/2003
+O Conselho do Governo reunido em plenário em 30 de Dezembro de 2003, resolveu o seguinte:
+a) Aprovar a minuta da escritura de expropriação amigável da parcela de terreno número trinta e três, necessária à obra de “CONSTRUÇÃO DA SAÍDA LESTE DO FUNCHAL”, em que são expropriados Emanuel da Silva Gaspar e consorte;
+b) Delegar os poderes de representação da Região Autónoma da Madeira, na assinatura da escritura, no Secretário Regional do Equipamento Social e Transportes.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Alberto João Cardoso Gonçalves Jardim.
