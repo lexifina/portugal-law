@@ -1,0 +1,5 @@
+Aviso n.º 139/2004
+Por ordem superior se torna público que, em 7 de Novembro de 2003, a Lituânia depositou o seu instrumento de adesão ao Protocolo à Convenção de 1979 sobre Poluição Atmosférica Transfronteiras a Longa Distância Relativo ao Financiamento a Longo Prazo do Programa Comum de Vigilância Contínua e de Avaliação do Transporte a Longa Distância dos Poluentes Atmosféricos na Europa, concluído em Genebra em 28 de Setembro de 1984.
+Portugal é Parte do mesmo Protocolo, aprovado para adesão pelo Decreto do Governo n.º 5/88, de 9 de Abril, publicado no Diário da República, 1.ª série, n.º 83, de 9 de Abril de 1988, e depositou o seu instrumento de confirmação e adesão em 18 de Janeiro de 1989, conforme aviso publicado no Diário da República, 1.ª série, n.º 89, de 17 de Abril de 1989.
+O Protocolo entrou em vigor para a Lituânia em 5 de Fevereiro de 2004.
+Direcção-Geral dos Assuntos Multilaterais, 6 de Julho de 2004. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
