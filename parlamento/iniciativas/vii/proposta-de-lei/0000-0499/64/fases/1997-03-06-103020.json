@@ -1,0 +1,1097 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "64",
+    "id": "5319",
+    "titulo": "Regula o disposto no artigo 82° do Código do Direito de Autor e dos direitos conexos"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1997-03-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1278",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1997-03-06",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "Governo",
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "5367",
+        "leg": "VII",
+        "nr": "57",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "224",
+            "obs": null,
+            "pag": [
+              "1716-1732"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1997-03-07",
+            "pubLeg": "VII",
+            "pubNr": "48",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/048/1997-03-07/1716?pgs=1716-1732&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "P",
+        "titulo": "Autoriza o Governo a legislar em matéria de direitos de autor e direitos conexos"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1997-03-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "49013",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1731-1732"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-03-07",
+                "pubLeg": "VII",
+                "pubNr": "48",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/048/1997-03-07/1731?pgs=1731-1732&org=PLC"
+              }
+            ],
+            "sumario": "DIREITOS DE AUTOR E DIREITOS CONEXOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "815",
+                "nome": "José Calçada"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "49014",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1730-1731"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-03-07",
+                "pubLeg": "VII",
+                "pubNr": "48",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/048/1997-03-07/1730?pgs=1730-1731&org=PLC"
+              }
+            ],
+            "sumario": "DIREITOS DE AUTOR E DIREITOS CONEXOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "581",
+                "nome": "Ferreira Ramos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "49015",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1729-1730"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-03-07",
+                "pubLeg": "VII",
+                "pubNr": "48",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/048/1997-03-07/1729?pgs=1729-1730&org=PLC"
+              }
+            ],
+            "sumario": "DIREITOS DE AUTOR E DIREITOS CONEXOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1434",
+                "nome": "Manuel Frexes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "49016",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1729-1729"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-03-07",
+                "pubLeg": "VII",
+                "pubNr": "48",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/048/1997-03-07/1729?pgs=1729&org=PLC"
+              }
+            ],
+            "sumario": "DIREITOS DE AUTOR E DIREITOS CONEXOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "494",
+                "nome": "José Niza"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "49017",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1727-1729"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-03-07",
+                "pubLeg": "VII",
+                "pubNr": "48",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/048/1997-03-07/1727?pgs=1727-1729&org=PLC"
+              }
+            ],
+            "sumario": "DIREITOS DE AUTOR E DIREITOS CONEXOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "167",
+                "nome": "Fernando Pereira Marques"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "49018",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1726-1727"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-03-07",
+                "pubLeg": "VII",
+                "pubNr": "48",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/048/1997-03-07/1726?pgs=1726-1727&org=PLC"
+              }
+            ],
+            "sumario": "DIREITOS DE AUTOR E DIREITOS CONEXOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "123",
+                "nome": "Miguel Macedo"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "49019",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1724-1726"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-03-07",
+                "pubLeg": "VII",
+                "pubNr": "48",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/048/1997-03-07/1724?pgs=1724-1726&org=PLC"
+              }
+            ],
+            "sumario": "DIREITOS DE AUTOR E DIREITOS CONEXOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1434",
+                "nome": "Manuel Frexes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "49020",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1723-1723"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-03-07",
+                "pubLeg": "VII",
+                "pubNr": "48",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/048/1997-03-07/1723?pgs=1723&org=PLC"
+              }
+            ],
+            "sumario": "DIREITOS DE AUTOR E DIREITOS CONEXOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "167",
+                "nome": "Fernando Pereira Marques"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "49021",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1723-1723"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-03-07",
+                "pubLeg": "VII",
+                "pubNr": "48",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/048/1997-03-07/1723?pgs=1723&org=PLC"
+              }
+            ],
+            "sumario": "DIREITOS DE AUTOR E DIREITOS CONEXOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1434",
+                "nome": "Manuel Frexes"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "49022",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1722-1723"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-03-07",
+                "pubLeg": "VII",
+                "pubNr": "48",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/048/1997-03-07/1722?pgs=1722-1723&org=PLC"
+              }
+            ],
+            "sumario": "DIREITOS DE AUTOR E DIREITOS CONEXOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "167",
+                "nome": "Fernando Pereira Marques"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "49023",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1722-1722"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-03-07",
+                "pubLeg": "VII",
+                "pubNr": "48",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/048/1997-03-07/1722?pgs=1722&org=PLC"
+              }
+            ],
+            "sumario": "DIREITOS DE AUTOR E DIREITOS CONEXOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "49025",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1721-1722"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-03-07",
+                "pubLeg": "VII",
+                "pubNr": "48",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/048/1997-03-07/1721?pgs=1721-1722&org=PLC"
+              }
+            ],
+            "sumario": "DIREITOS DE AUTOR E DIREITOS CONEXOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "49026",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1720-1721"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-03-07",
+                "pubLeg": "VII",
+                "pubNr": "48",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/048/1997-03-07/1720?pgs=1720-1721&org=PLC"
+              }
+            ],
+            "sumario": "DIREITOS DE AUTOR E DIREITOS CONEXOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "49029",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1720-1721"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-03-07",
+                "pubLeg": "VII",
+                "pubNr": "48",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/048/1997-03-07/1720?pgs=1720-1721&org=PLC"
+              }
+            ],
+            "sumario": "DIREITOS DE AUTOR E DIREITOS CONEXOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "152",
+                "nome": "António Braga"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "49047",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1719-1719"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-03-07",
+                "pubLeg": "VII",
+                "pubNr": "48",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/048/1997-03-07/1719?pgs=1719&org=PLC"
+              }
+            ],
+            "sumario": "DIREITOS DE AUTOR E DIREITOS CONEXOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "49048",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1719-1719"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-03-07",
+                "pubLeg": "VII",
+                "pubNr": "48",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/048/1997-03-07/1719?pgs=1719&org=PLC"
+              }
+            ],
+            "sumario": "DIREITOS DE AUTOR E DIREITOS CONEXOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "35",
+                "nome": "Carlos Coelho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "49051",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1719-1719"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-03-07",
+                "pubLeg": "VII",
+                "pubNr": "48",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/048/1997-03-07/1719?pgs=1719&org=PLC"
+              }
+            ],
+            "sumario": "DIREITOS DE AUTOR E DIREITOS CONEXOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "49056",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1716-1718"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-03-07",
+                "pubLeg": "VII",
+                "pubNr": "48",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/048/1997-03-07/1716?pgs=1716-1718&org=PLC"
+              }
+            ],
+            "sumario": "DIREITOS DE AUTOR E DIREITOS CONEXOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  CULTURA",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Manuel Carrilho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107691",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1716-1718"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-03-07",
+                "pubLeg": "VII",
+                "pubNr": "48",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/048/1997-03-07/1716?pgs=1716-1718&org=PLC"
+              }
+            ],
+            "sumario": "DIREITOS DE AUTOR E DIREITOS CONEXOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  CULTURA",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Manuel Carrilho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107692",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1731-1732"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-03-07",
+                "pubLeg": "VII",
+                "pubNr": "48",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/048/1997-03-07/1731?pgs=1731-1732&org=PLC"
+              }
+            ],
+            "sumario": "DIREITOS DE AUTOR E DIREITOS CONEXOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "António Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107693",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1722-1722"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-03-07",
+                "pubLeg": "VII",
+                "pubNr": "48",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/048/1997-03-07/1722?pgs=1722&org=PLC"
+              }
+            ],
+            "sumario": "DIREITOS DE AUTOR E DIREITOS CONEXOS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "103020",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "109928",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1997-03-07",
+        "pubLeg": "VII",
+        "pubNr": "48",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/048/1997-03-07?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
