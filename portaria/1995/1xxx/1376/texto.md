@@ -1,0 +1,72 @@
+Portaria n.º 1376/95
+de 22 de Novembro
+O quadro de pessoal do Hospital de Santa Maria encontra-se desajustado face às necessidades concretas, pelo que importa agora dotar o Hospital com os meios que lhe permitam o recrutamento do pessoal qualitativa e quantitativamente adequado, a fim de dar resposta a essas necessidades.
+Assim:
+Ao abrigo do disposto no n.º 2 do artigo 1.º do Decreto-Lei n.º 59/76, de 23 de Janeiro, conjugado com o artigo 10.º do Decreto n.º 48358, de 27 de Abril de 1968, com a redacção que lhe foi dada pelo Decreto Regulamentar n.º 52/84, de 6 de Agosto:
+Manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:
+1.º O quadro de pessoal do Hospital de Santa Maria, aprovado pela Portaria n.º 661/80, de 16 de Setembro, e alterado pelas Portarias n.os 192/83, de 2 de Março, 807-X3/83, de 30 de Julho, 963/84, de 24 de Dezembro, 515/85, de 29 de Julho, 556/87, de 6 de Julho, 150/88, de 10 de Março, 592/88, de 27 de Agosto, 785/88, de 9 de Dezembro, 796/88, de 10 de Dezembro, 218/89, de 16 de Março, 483/90, de 29 de Junho, 881/90, de 21 de Setembro, 923/90, de 1 de Outubro, 422/92, de 22 de Maio, 1170/92, de 21 de Dezembro, 402/93, de 15 de Abril, 473/93, de 5 de Maio, e 978/93, de 6 de Outubro, e pelo Despacho Normativo n.º 477/94, de 12 de Julho, é substituído pelo quadro anexo à presente portaria, de que faz parte integrante.
+2.º Os lugares de director de serviços, de chefe de divisão, de chefe de repartição e de chefe de secção, constantes no anexo referido no número anterior, correspondem às unidades orgânicas de natureza técnica e administrativa departamentalizadas de acordo com o indicado no anexo I à presente portaria.
+3.º O conteúdo funcional correspondente às carreiras do grupo de pessoal técnico-profissional é o constante do anexo II à presente portaria.
+Ministérios das Finanças e da Saúde.
+Assinada em 27 de Setembro de 1995.
+Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.
+
+Quadro de pessoal do Hospital de Santa Maria
+(ver documento original)
+
+ANEXO I
+Unidades orgânicas de natureza técnica
+Direcção de Serviços Farmacêuticos:
+Divisão de Aquisições de Produtos Farmacêuticos;
+Divisão de Distribuição de Produtos Farmacêuticos.
+Direcção de Serviços de Instalações e Equipamento:
+Divisão de Instalações e Infra-Estruturas;
+Divisão de Equipamento.
+Direcção de Serviços de Informática e Estatística.
+Direcção de Serviços de Gestão de Recursos Humanos.
+Direcção de Serviços de Gestão Financeira.
+Divisão de Apoio Jurídico e Contencioso.
+Divisão de Vigilância e Segurança.
+Unidades orgânicas de natureza administrativa
+Repartição de Pessoal:
+Secção de Informação, Expediente e Arquivo;
+Secção de Gestão de Pessoal;
+Secção de Vencimentos e Controlo de Assiduidade.
+Repartição de Serviços Financeiros:
+Secção de Despesa;
+Secção de Receita;
+Secção de Contabilidade Analítica.
+Repartição de Aprovisionamento:
+Secção de Aquisições;
+Secção de Gestão de Stocks;
+Secção de Património.
+Repartição de Estatística Hospitalar e Registo de Doentes:
+Secção de Estatística Hospitalar e Registo de Doentes;
+Secção de Registo de Doentes (Internamento).
+Repartição do Serviço de Doentes/Ambulatório:
+Secção do Serviço de Urgência;
+Secção de Consultas Externas.
+Repartição de Apoio Administrativo:
+Secção de Secretaria-Geral;
+Secção de Informação e Relações Públicas.
+
+ANEXO II
+Fiscal técnico de obras
+Conteúdo funcional: estudo, fiscalização e acompanhamento da execução de pequenos trabalhos de reparação e manutenção das instalações e equipamento do Hospital; coordenação e orientação do pessoal operário.
+Operador de meios audiovisuais
+Conteúdo funcional: actuação nas áreas de cinema, vídeo, fotografia e som, colaborando na realização de filmes de apresentação da instituição aos seus utilizadores sobre o seu funcionamento e circuitos da mesma, vídeos de educação para a saúde em áreas de intervenção mais prementes e avaliadas de acordo com as necessidades da zona de influência do Hospital.
+Apoio na elaboração de slides e fotografias para trabalhos científicos; realização de operações de transmissão de imagem e som de intervenções cirúrgicas no bloco operatório para a sala de conferências; apoio na realização de sessões científicas, sessões clínicas, seminários, congressos e sessões culturais e apoio à formação na instituição.
+Electromecânica
+Conteúdo funcional: funções de natureza executiva de aplicação de técnicas no domínio da manutenção e reparação dos motores a combustível e eléctricos que compõem os equipamentos de elevação, de ar condicionado e de câmaras sde frio, consubstanciadas na desmontagem, montagem, limpeza e afinação.
+Fiscalização e controlo das acções de manutenção desenvolvidas por empresas que prestam serviços ao Hospital.
+Electromedicina
+Conteúdo funcional: funções de natureza executiva de aplicação de técnicas no domínio da manutenção e reparação dos equipamentos médicos, eléctricos e electrónicos, consubstanciadas na desmontagem, montagem, limpeza e afinação.
+Fiscalização e controlo das acções de manutenção desenvolvidas por empresas que prestam serviços ao Hospital.
+Relações públicas
+Conteúdo funcional: organização, preparação e realização de programas de colheita de sangue; elaboração e actualização de listas e de ficheiros de dadores; recrutamento e atendimento de dadores; sensibilização dos utentes e seus familiares para a necessidade da dádiva benévola de sangue; implementação de campanhas de promoção da dádiva de sangue.
+Secretária de serviços de saúde
+Conteúdo funcional: organização do processo clínico do doente; secretariado dos serviços clínicos e da direcção do serviço; tradução e reconversão da correspondência e apoio à biblioteca.
+Secretária-recepcionista
+Conteúdo funcional: funções de natureza executiva de apoio ao órgão de direcção e apoio técnico, enquadradas em instruções gerais e procedimentos definidos, relativos às áreas de atendimento, encaminhamento, informação, expediente, arquivo e dactilografia.
+Atendimento de doentes, organização e actualização de ficheiros; requisição de material destinado aos serviços; ligação com os restantes serviços administrativos e técnicos do Hospital.
+Tratamento dos registos diários de entrada, transferência e alta de doentes; requisição e marcação de exames clínicos e outros actos médicos; arquivo dos mesmos nos respectivos processos clínicos.
