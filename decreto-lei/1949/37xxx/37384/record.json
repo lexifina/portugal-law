@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1949/04/08600/02890289.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1949-04-25",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "be959de9371c8179a29ccc71d5cc59b7f3998546079bb5e2201f587b73b79f3f",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.8,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "b284e747e1f1dfa58a60390be7affdda171c4c4be52177f7ddfcabcb584f1f1b",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 572
 }
