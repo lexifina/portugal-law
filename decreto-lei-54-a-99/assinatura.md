@@ -636,23 +636,19 @@ h) Princípio da não compensação - os elementos das rubricas do activo e do p
 
 3.3 - Regras previsionais
 
-3.3 - Regras previsionais:
+A elaboração do orçamento das autarquias locais deve obedecer às seguintes regras previsionais:
 
-3.3.1 - A elaboração do orçamento das autarquias locais deve obedecer às seguintes regras previsionais:
+a) As importâncias relativas aos impostos, taxas e tarifas a inscrever no orçamento não podem ser superiores à média aritmética simples das cobranças efectuadas nos últimos 24 meses que precedem o mês da sua elaboração;
 
-a) As importâncias relativas aos impostos, taxas e tarifas a inscrever no orçamento não podem ser superiores a metade das cobranças efectuadas nos últimos 24 meses que precedem o mês da sua elaboração, excepto no que respeita a receitas novas ou a actualizações dos impostos, bem como dos regulamentos das taxas e tarifas que já tenham sido objecto de deliberação, devendo-se, então, juntar ao orçamento os estudos ou análises técnicas elaborados para determinação dos seus montantes;
+b) As importâncias relativas às transferências correntes e de capital só podem ser consideradas no orçamento em conformidade com a efectiva atribuição pela entidade competente;
 
-b) As importâncias relativas às transferências correntes e de capital só podem ser consideradas no orçamento desde que estejam em conformidade com a efectiva atribuição ou aprovação pela entidade competente, excepto quando se trate de receitas provenientes de fundos comunitários, em que os montantes das correspondentes dotações de despesa, resultantes de uma previsão de valor superior ao da receita de fundo comunitário aprovado, não podem ser utilizadas como contrapartida de alterações orçamentais para outras dotações;
-
-c) Sem prejuízo do disposto na alínea anterior, até à publicação do Orçamento do Estado para o ano a que respeita o orçamento autárquico as importâncias relativas às transferências financeiras, a título de participação das autarquias locais nos impostos do Estado, a considerar neste último orçamento, não podem ultrapassar as constantes do Orçamento do Estado em vigor, actualizadas com base na taxa de inflação prevista;
+c) Sem prejuízo do disposto na alínea anterior, as importâncias relativas às transferências financeiras, a título de repartição dos recursos públicos do Orçamento do Estado, a considerar no orçamento aprovado, devem ser as constantes do Orçamento do Estado em vigor até à publicação do Orçamento do Estado para o ano a que ele respeita;
 
 d) As importâncias relativas aos empréstimos só podem ser consideradas no orçamento depois da sua contratação, independentemente da eficácia do respectivo contrato;
 
-e) As importâncias previstas para despesas com pessoal devem considerar apenas o pessoal que ocupe lugares de quadro, requisitado e em comissão de serviço, tendo em conta o índice salarial que o funcionário atinge no ano a que o orçamento respeita, por efeitos da progressão de escalão na mesma categoria, e aquele pessoal com contratos a termo certo ou cujos contratos ou abertura de concurso para ingresso ou acesso estejam devidamente aprovados no momento da elaboração do orçamento;
+e) As importâncias previstas para despesas com pessoal devem ter em conta apenas o pessoal que ocupe lugares de quadro, requisitado e em comissão de serviço ou contratos a termo certo, bem como aquele cujos contratos ou abertura de concurso para ingresso ou acesso estejam devidamente aprovados no momento da elaboração do orçamento;
 
-f) No orçamento inicial, as importâncias a considerar nas rubricas 'Remunerações de pessoal' devem corresponder à da tabela de vencimentos em vigor, sendo actualizada com base na taxa de inflação prevista, se ainda não tiver sido publicada a tabela correspondente ao ano a que o orçamento respeita.
-
-3.3.2 - A taxa de inflação a considerar para efeitos das actualizações previstas nas alíneas c) e f) do n.º 3.3.1 é a constante do Orçamento do Estado em vigor, podendo ser utilizada a que se encontra na proposta de lei do Orçamento do Estado para o ano a que respeita o orçamento autárquico, se esta for conhecida.
+f) No orçamento inicial, as importâncias a considerar nas rubricas «Remunerações de pessoal» devem corresponder à da tabela de vencimentos em vigor.
 
 4 - Critérios de valorimetria
 
