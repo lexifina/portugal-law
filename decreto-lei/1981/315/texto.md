@@ -1,0 +1,16 @@
+Decreto-Lei n.º 315/81
+de 20 de Novembro
+Considerando que o conceito de «pessoa amparada» assenta fundamentalmente na impossibilidade permanente de angariação de meios de subsistência em função da idade ou razão de saúde da pessoa amparada.
+O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
+Artigo único. A alínea d) do n.º 1 e o n.º 2 do artigo 2.º do Regulamento de Amparos promulgado pelo Decreto-Lei n.º 412/78, de 20 de Dezembro, passam a ter a seguinte redacção:
+Artigo 2.º - 1 - ...
+a) ...
+b) ...
+c) ...
+d) Os irmãos e sobrinhos com menos de 16 anos, ou com idade igual ou superior, desde que incapacitados;
+e) ...
+2 - As pessoas referidas nas alíneas a), b) e e) apenas podem ser consideradas amparadas desde que, tendo menos de 60 anos de idade, comprovem incapacidade física permanente para angariar meios de subsistência, o mesmo sendo exigido às referidas na alínea d), desde que tenham 16 anos de idade ou superior.
+Visto e aprovado em Conselho da Revolução em 28 de Outubro de 1981.
+Promulgado em 11 de Novembro de 1981.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
