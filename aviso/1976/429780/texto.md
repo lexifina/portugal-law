@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação do Secretariado das Nações Unidas, os Governos da Papuásia-Nova Guiné e da Jamaica depositaram, em 6 e 11 de Maio de 1976, respectivamente, os instrumentos de aceitação da Convenção Instituidora da Organização Marítima Consultiva Intergovernamental, concluída em Genebra em 6 de Março de 1948, tendo-se tornado membros daquele organismo internacional nas datas do depósito dos respectivos instrumentos de aceitação.
+Direcção-Geral dos Negócios Económicos, 19 de Julho de 1976. - O Adjunto do Director-Geral, Alexandre Eduardo Lencastre da Veiga.
