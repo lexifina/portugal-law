@@ -1,0 +1,4 @@
+Declaração
+Declara-se que se verifica a seguinte inexactidão no Decreto-Lei n.º 503-F/76, de 30 de Junho, publicado no 5.º suplemento ao Diário da República, 1.ª série, n.º 151, de 30 de Junho de 1976, a qual assim se rectifica:
+No artigo 18.º, n.º 1, onde se lê: «O Conselho da Revolução, através dos seus Serviços de Apoio, requisitará o pessoal necessário para assegurar os serviços da secretaria e contratará ou requisitará o pessoal dos serviços de apoio.», deve ler-se: «O Conselho da Revolução, através dos seus Serviços de Apoio, requisitará, ou admitirá em comissão de serviço, o pessoal necessário para assegurar os serviços da secretaria e contratará, requisitará ou admitirá em comissão de serviço o pessoal dos serviços de apoio.»
+Conselho da Revolução, 30 de Julho de 1976. - O Secretário Permanente, Nuno Alexandre Lousada, coronel de infantaria.
