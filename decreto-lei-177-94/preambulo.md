@@ -1,0 +1,19 @@
+# Decreto-Lei n.º 177/94 de 27 de Junho
+
+O Plano de Desenvolvimento Regional (PDR) prevê, como uma das suas intervenções operacionais, a modernização do tecido económico, no âmbito da qual se inserem as acções de desenvolvimento industrial, visando dinamizar o crescimento sustentado da competitividade das empresas do sector, reforçar a sua capacidade de resposta às rápidas mutações tecnológicas e de mercado e promover a modernização, a diversificação e a internacionalização da estrutura industrial nacional, consolidando e reforçando, dessa forma, os resultados já induzidos pelo Programa Específico para o Desenvolvimento da Indústria Portuguesa (PEDIP) (1988-1992).
+
+O recém-aprovado Quadro Comunitário de Apoio (QCA), com vigência para os anos de 1994 a 1999, contempla, por seu turno, neste contexto, um novo programa de apoio à indústria, estruturado em três eixos ou áreas de actuação, no âmbito do qual se desenha a estratégia específica para o apoio à indústria nacional. Tal estratégia compõe-se de medidas tipificadas através das quais serão canalizados os incentivos à actividade industrial, susceptíveis de viabilizar o alcance das metas preconizadas pelo PDR para este sector da actividade económica. Prevê-se ainda no Programa um quarto eixo, destinado exclusivamente à assistência técnica à gestão, fiscalização e controlo do Programa.
+
+Pretende-se, pois, com este programa de incentivos apoiar de forma selectiva a actuação das empresas nacionais, estimulando aquelas que demonstrem ser possuidoras de estratégias empresariais capazes de garantir um desenvolvimento sustentado e privilegiando, por outro lado, a formação de clusters, bem como a criação da dimensão empresarial adequada à crescente competitividade internacional, nomeadamente quando visada através de actos de cooperação e concentração.
+
+Em simultâneo, constitui objectivo fundamental deste novo programa de incentivos a criação de um ambiente estimulante da eficiência empresarial, para o que nele se propõe uma especial ênfase para as acções tendentes à promoção da valorização dos recursos humanos, ao acesso atempado à informação à racionalização dos recursos energéticos, bem como à inovação e à utilização pelas empresas de tecnologias desenvolvidas nas instituições do Sistema Científico e Tecnológico Nacional.
+
+Neste sentido, é também prestada especial atenção ao reforço da envolvente empresarial, através da consolidação das infra-estruturas tecnológicas, associativas e educacionais já criadas no âmbito do PEDIP, bem como aos serviços de apoio à indústria, enquanto factores determinantes do processo de modernização preconizado. Com idêntico objectivo se procuram incentivar as acções essencialmente inspiradas em iniciativas de tipo supletivo por parte da Administração, com carácter específico tanto ao nível sectorial como ao nível estratégico, tendentes à colmatação de falhas de mercado.
+
+No âmbito dos mecanismos financeiros do novo programa procura-se diversificar as tipologias dos apoios a conceder, dando por findo o carácter exclusivo dos subsídios a fundo perdido e criando instrumentos de engenharia financeira capazes de antecipar a convergência comunitária no tocante às condições de financiamento, especialmente no que diz respeito às pequenas e médias empresas (PME).
+
+Com a criação deste novo programa de apoio, ponto fulcral da concretização da política industrial no horizonte próximo e, simultaneamente, reforço da estratégia global já encetada pelo PEDIP (1988-1992), espera-se vir a proporcionar aos agentes económicos as condições necessárias a uma ainda mais consciente e responsável tomada de decisões de investimento por forma autónoma, sempre enquadráveis, ainda assim, nas grandes linhas de actuação do Governo para o sector industrial.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
