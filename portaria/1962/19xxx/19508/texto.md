@@ -1,0 +1,5 @@
+Portaria n.º 19508
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, que, nos termos do § 1.º do artigo 22.º do Decreto-Lei n.º 39749, de 9 de Agosto de 1954, com a nova redacção que lhe foi dada pelo Decreto-Lei n.º 43582, de 4 de Abril de 1961, sejam criados os postos de fronteira da Polícia Internacional e de Defesa do Estado nas localidades de Baucau e Balibó, na província ultramarina de Timor, ambos dependentes da subdelegação daquele organismo com sede em Díli, cabendo ao governador da província, mediante proposta da mesma Polícia, a faculdade de promover a fixação e distribuição do pessoal efectivo e eventual, em conformidade com o mapa anexo ao citado Decreto-Lei n.º 43582 e nos termos do § 4.º do artigo 46.º do Decreto-Lei n.º 39749, com a nova redacção do já citado diploma, consoante as necessidades do serviço.
+Ministério do Ultramar, 17 de Novembro de 1962. - O Ministro do Ultramar, Adriano José Alves Moreira.
+
+Para ser publicada no Boletim Oficial de Timor. - A. Moreira.
