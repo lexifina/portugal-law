@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que o secretário executivo da Comissão Económica para a Europa das Nações Unidas foi notificado, em 8 de Agosto de 1974, da aceitação, por parte do Governo Português, das Resoluções 31 e 33 adoptadas pelo grupo de peritos dos problemas aduaneiros relativos a transportes, respectivamente em 11 de Dezembro de 1970 e 27 de Outubro de 1972, cujos textos foram tornados públicos sob a forma de aviso, inserido no Diário do Governo, 1.ª série, n.º 39, de 15 de Fevereiro de 1974.
+Direcção-Geral dos Negócios Económicos, 31 de Dezembro de 1974. - O Adjunto do Director-Geral, Alexandre Eduardo Lencastre da Veiga.
