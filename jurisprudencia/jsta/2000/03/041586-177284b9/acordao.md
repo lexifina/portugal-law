@@ -1,0 +1,43 @@
+# Acórdão do Supremo Tribunal Administrativo de 2000-03-21, processo 041586
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 041586
+
+**Data do Acordão:** 03/21/2000
+
+**Tribunal:** PLENO DA SECÇÃO DO CA
+
+**Relator:** FERREIRA NETO
+
+**Descritores:** DIREITOS FUNDAMENTAIS DO CIDADÃO.; PRINCÍPIO DA IGUALDADE.; NULIDADE.; ANULABILIDADE.; PRAZO DE RECURSO CONTENCIOSO.; REJEIÇÃO DO RECURSO CONTENCIOSO.; APLICAÇÃO DA LEI NO TEMPO.
+
+**Nº Convencional:** JSTA00053611
+
+**Nº do Documento:** SAP20000321041586
+
+**Data de Entrada:** 03/17/1999
+
+**Recorrente:** TERRIMINAS-SOC INDUSTRIAL DE CARVÕES LDA
+
+**Recorrido 1:** MINFIN - MINECON
+
+**Votação:** UNANIMIDADE
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** AC 1 SUBSECÇÃO DO CA.
+
+**Decisão:** PROVIDO.; REJEIÇÃO REC CONT.
+
+**Área Temática 1:** DIR ADM CONT - ACTO.
+
+**Legislação Nacional:** CONST82 ART13.; CPA91 ART133 N2 D ART135.; CADM40 ART363 ART364.; L 100/84 DE 1984/03/29 ART88 ART89.; RSTA57 ART51 ART57 PAR4.; LPTA85 ART28.
+
+**Jurisprudência Nacional:** AC STAPLENO PROC32986 DE 1994/12/15.; AC STAPLENO PROC23811 DE 1990/10/23.; AC STA PROC23811 DE 1988/04/14.; AC STA PROC32986 DE 1994/12/15.
+
+**Referência a Doutrina:** ANTÓNIO FRANCISCO DE SOUSA CÓDIGO DE PROCEDIMENTO ADMINISTRATIVO ANOTADO PAG419.; VIEIRA DE ANDRADE ESTUDOS SOBRE A CONSTITUIÇÃO PAG87.; ESTEVES DE OLIVEIRA DIREITO ADMINISTRATIVO 1980 V1 PAG547.; FREITAS DO AMARAL LIÇÕES DE DIREITO ADMINISTRATIVO 1985 V3 PAG310.; MARCELLO CAETANO MANUAL DE DIREITO ADMINISTRATIVO 8ED V1 PAG473.
+
+## Sumário
+
+A violação do princípio da igualdade, em si mesma, seja anterior ou posterior ao CPA, não representa uma ofensa de direitos fundamentais, não gerando, por isso, nulidade.
