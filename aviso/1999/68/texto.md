@@ -1,0 +1,5 @@
+Aviso n.º 68/99
+Por ordem superior se torna público que, por nota de 25 de Fevereiro de 1999 e nos termos do artigo 45.º da Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, concluída na Haia em 25 de Outubro de 1980, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a Bélgica, nos termos do artigo 37.º, parágrafo 2.º, depositado o seu instrumento de ratificação da mencionada Convenção.
+A Convenção entrará em vigor para a Bélgica a 1 de Maio de 1999, nos termos do artigo 43.º, parágrafo 2.º, subparágrafo 1.º
+Portugal é Parte na mesma Convenção, que foi aprovada, para ratificação, pelo Decreto do Governo n.º 33/83, de 11 de Agosto, tendo depositado o seu instrumento de ratificação em 29 de Setembro de 1983, conforme aviso publicado no Diário da República, 1.ª série, n.º 126, de 31 de Março de 1984. A autoridade central em Portugal é o Instituto de Reinserção Social, conforme o Aviso n.º 302/95, de 18 de Outubro.
+Departamento de Assuntos Jurídicos, 28 de Abril de 1999. - O Director, José Maria Teixeira Leite Martins.
