@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1951/03/05400/02090210.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1951-03-17",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "5aeb66e893a86f1cf820306e22c6086abcf3f9743a9372c09f8f77633f7444ea",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.1,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "e0f376f7759986b03b322985a88136b285f15624b68b483eb9b5fb7607431ae5",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 212
 }
