@@ -1,0 +1,1113 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Proposta de Resolução",
+    "numero": "39",
+    "id": "5242",
+    "titulo": "Aprova para ratificação o Acordo Euro-mediterrânico que cria uma associação entre as comunidades europeias e os seus estados-membros por um lado e o Reino de Marrocos por outro."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "1997-04-04",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1256",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "1997-04-04",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1997-04-04",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48672",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2030-2030"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-04-05",
+                "pubLeg": "VII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/058/1997-04-05/2030?pgs=2030&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. O ACORDO EURO-MEDETIRRANICO QUE CRIAUMA ASSOCIACAO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS POR UM LADO.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "32",
+                "nome": "Carlos Duarte"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48673",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2030-2030"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-04-05",
+                "pubLeg": "VII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/058/1997-04-05/2030?pgs=2030&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. O ACORDO EURO-MEDETIRRANICO QUE CRIAUMA ASSOCIACAO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS POR UM LADO.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "78",
+                "nome": "Pacheco Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48675",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2029-2029"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-04-05",
+                "pubLeg": "VII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/058/1997-04-05/2029?pgs=2029&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. O ACORDO EURO-MEDETIRRANICO QUE CRIAUMA ASSOCIACAO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS POR UM LADO.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48677",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2028-2028"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-04-05",
+                "pubLeg": "VII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/058/1997-04-05/2028?pgs=2028&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. O ACORDO EURO-MEDETIRRANICO QUE CRIAUMA ASSOCIACAO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS POR UM LADO.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1217",
+                "nome": "Nuno Abecasis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48678",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2028-2028"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-04-05",
+                "pubLeg": "VII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/058/1997-04-05/2028?pgs=2028&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. O ACORDO EURO-MEDETIRRANICO QUE CRIAUMA ASSOCIACAO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS POR UM LADO.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1086",
+                "nome": "Jorge Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48679",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2027-2027"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-04-05",
+                "pubLeg": "VII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/058/1997-04-05/2027?pgs=2027&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. O ACORDO EURO-MEDETIRRANICO QUE CRIAUMA ASSOCIACAO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS POR UM LADO.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1131",
+                "nome": "Francisco Torres"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48680",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2026-2027",
+                  "2028-2028"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-04-05",
+                "pubLeg": "VII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/058/1997-04-05/2026?pgs=2026-2027,2028&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. O ACORDO EURO-MEDETIRRANICO QUE CRIAUMA ASSOCIACAO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS POR UM LADO.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "161",
+                "nome": "Carlos Luís"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48681",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2026-2026"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-04-05",
+                "pubLeg": "VII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/058/1997-04-05/2026?pgs=2026&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. O ACORDO EURO-MEDETIRRANICO QUE CRIAUMA ASSOCIACAO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS POR UM LADO.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "438",
+                "nome": "Carlos Zorrinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48682",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2025-2025"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-04-05",
+                "pubLeg": "VII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/058/1997-04-05/2025?pgs=2025&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. O ACORDO EURO-MEDETIRRANICO QUE CRIAUMA ASSOCIACAO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS POR UM LADO.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "15",
+                "nome": "António Barradas Leitão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48683",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2025-2025"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-04-05",
+                "pubLeg": "VII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/058/1997-04-05/2025?pgs=2025&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. O ACORDO EURO-MEDETIRRANICO QUE CRIAUMA ASSOCIACAO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS POR UM LADO.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "15",
+                "nome": "António Barradas Leitão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48685",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2022-2024",
+                  "2025-2026"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-04-05",
+                "pubLeg": "VII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/058/1997-04-05/2022?pgs=2022-2024,2025-2026&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. O ACORDO EURO-MEDETIRRANICO QUE CRIAUMA ASSOCIACAO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS POR UM LADO.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48686",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2021-2022"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-04-05",
+                "pubLeg": "VII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/058/1997-04-05/2021?pgs=2021-2022&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. O ACORDO EURO-MEDETIRRANICO QUE CRIAUMA ASSOCIACAO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS POR UM LADO.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "581",
+                "nome": "Ferreira Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48687",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2020-2021"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-04-05",
+                "pubLeg": "VII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/058/1997-04-05/2020?pgs=2020-2021&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. O ACORDO EURO-MEDETIRRANICO QUE CRIAUMA ASSOCIACAO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS POR UM LADO.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "54",
+                "nome": "Antunes da Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48688",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2020-2020"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-04-05",
+                "pubLeg": "VII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/058/1997-04-05/2020?pgs=2020&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. O ACORDO EURO-MEDETIRRANICO QUE CRIAUMA ASSOCIACAO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS POR UM LADO.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "32",
+                "nome": "Carlos Duarte"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48690",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2018-2019"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-04-05",
+                "pubLeg": "VII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/058/1997-04-05/2018?pgs=2018-2019&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. O ACORDO EURO-MEDETIRRANICO QUE CRIAUMA ASSOCIACAO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS POR UM LADO.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48691",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2017-2018"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-04-05",
+                "pubLeg": "VII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/058/1997-04-05/2017?pgs=2017-2018&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. O ACORDO EURO-MEDETIRRANICO QUE CRIAUMA ASSOCIACAO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS POR UM LADO.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "78",
+                "nome": "Pacheco Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "48693",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2016-2017"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-04-05",
+                "pubLeg": "VII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/058/1997-04-05/2016?pgs=2016-2017&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. O ACORDO EURO-MEDETIRRANICO QUE CRIAUMA ASSOCIACAO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS POR UM LADO.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS   EUROPEUS",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Seixas Da Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107953",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-04-05",
+                "pubLeg": "VII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/058/1997-04-05?org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. O ACORDO EURO-MEDETIRRANICO QUE CRIAUMA ASSOCIACAO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS POR UM LADO.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "António Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107954",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2029-2030"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-04-05",
+                "pubLeg": "VII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/058/1997-04-05/2029?pgs=2029-2030&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. O ACORDO EURO-MEDETIRRANICO QUE CRIAUMA ASSOCIACAO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS POR UM LADO.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS   EUROPEUS",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Seixas Da Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107955",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2028-2029",
+                  "2031-2031"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-04-05",
+                "pubLeg": "VII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/058/1997-04-05/2028?pgs=2028-2029,2031&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. O ACORDO EURO-MEDETIRRANICO QUE CRIAUMA ASSOCIACAO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS POR UM LADO.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "António Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107956",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2020-2020"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-04-05",
+                "pubLeg": "VII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/058/1997-04-05/2020?pgs=2020&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. O ACORDO EURO-MEDETIRRANICO QUE CRIAUMA ASSOCIACAO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS POR UM LADO.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS   EUROPEUS",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Seixas Da Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107957",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2024-2025"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-04-05",
+                "pubLeg": "VII",
+                "pubNr": "58",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/058/1997-04-05/2024?pgs=2024-2025&org=PLC"
+              }
+            ],
+            "sumario": "APROVA P/ RATIF. O ACORDO EURO-MEDETIRRANICO QUE CRIAUMA ASSOCIACAO ENTRE AS COMUNIDADES EUROPEIAS E OS SEUS ESTADOS MEMBROS POR UM LADO.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "102925",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1256",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1997-04-05",
+        "pubLeg": "VII",
+        "pubNr": "58",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/058/1997-04-05?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
