@@ -1,0 +1,9 @@
+Decreto-Lei n.º 48419
+Considerando a necessidade de assegurar a eficiência do ensino da disciplina de Geografia no Instituto de Odivelas;
+Tendo em atenção que o volume de serviço existente justifica a criação de mais um lugar de professora efectiva do 4.º grupo;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Em alteração ao mapa I anexo ao Decreto-Lei n.º 42134, de 3 de Fevereiro de 1959, alterado pelo artigo 1.º do Decreto-Lei n.º 45989, de 23 de Outubro de 1964, o número de professoras efectivas de ensino liceal e técnico, que por aqueles dois diplomas foi fixado em 32, passa a ser de 33.
+Art. 2.º É fixado em 5 o número de professoras auxiliares ou agregadas de serviço eventual ou em comissão, a que se referem o artigo 1.º do Decreto n.º 39919, de 22 de Novembro de 1954, e artigo 2.º do Decreto-Lei n.º 45989, de 23 de Outubro de 1964.
+Art. 3.º O acréscimo de despesa resultante da publicação do presente decreto-lei é suportado no ano em curso pelas disponibilidades das verbas do pessoal dos quadros aprovados por lei consignadas no orçamento do Ministério do Exército ao Instituto de Odivelas.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 4 de Junho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
