@@ -1,0 +1,99 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=htpYpETdXfgHmO4bgl5XKGQk%2bkZ1UWePwKPL0a952OEb3q68QQJu%2fuE3NuR8L9cT16ct5X3RKqJkceDCyhfVGNPxhHXgbN1eGmi%2f%2fdU0g60yGc2cs%2bn1DMAEwQhj%2bKKB5yX47cODyxeVMUfaXI003Z9keT2kp2rW%2f7kxaUXxrVSf%2brEumAdcCbsQWmtnV66GATPJkIrBDauZqW%2fTWFG8va1dk%2bkmTLKSlM5McQDTmE0NcJE1JnQKMHMv4M0dnjHF6CV6z0vn0bWDxqqYFeDaU5FrwkU826iJw3qNEXisf524qng2dAL%2fTUTvJ5%2b5vdrQNfCO0dMi3U4dP2xTk2nscBJCzFAYe7g9Oj019EJl5HstUW53s7KuzZRGevOeN9LIKt96NeIqRpBfgUg0UQzT5g%3d%3d&fich=RequerimentosVII_json.txt&Inline=true",
+  "ficheiro_sha256": "c4242ebf0e6e244b5787c9940684dff06969f806e8cf9a27eebd15d714e35117",
+  "legislatura": "VII",
+  "id": "17474",
+  "tipo": "Requerimento",
+  "numero": "567",
+  "data_registo": "1996-03-15",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "REFORMADOS DA MOMPOR E EQUIMETAL",
+    "Autores": [
+      {
+        "GP": "PCP",
+        "idCadastro": "1485",
+        "nome": "Rodeia Machado"
+      }
+    ],
+    "DataEnvio": "1996-03-18",
+    "Destinatarios": [
+      {
+        "dataEnvio": "1996-03-18",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Ministério da Economia",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": null,
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "1996-03-15",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4d5a5763765247396a6457316c626e52766331426c636d6431626e526863314a6c6358566c636d6c745a57353062334d764d564e4d4c7a51355a6a4e6a4e6a557a4c575530595463744e44686d4f4331694d546c6a4c545531595445314d545a6b5a6a417a4e5335775a47593d&fich=49f3c653-e4a7-48f8-b19c-55a1516df035.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "17474",
+    "Legislatura": "VII",
+    "Nr": "567",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "30359",
+        "obs": "68-(20)",
+        "pag": [
+          "68-(20)-68-(20)"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "1996",
+        "pubLeg": "VII",
+        "pubNr": "16",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/07/01/016S1/1996-03-23/68-(20)?pgs=68-(20)&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": [
+      {
+        "dataResposta": null,
+        "docRemetida": null,
+        "entidade": "Secretaria de Estado da Industria e Energia",
+        "ficheiro": "",
+        "ficheiroComTipo": null,
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "165420",
+            "obs": "171",
+            "pag": [
+              "171-171"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1996",
+            "pubLeg": "VII",
+            "pubNr": "33",
+            "pubSL": "1",
+            "pubTipo": "DAR II série B",
+            "pubTp": "B",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/07/01/033/1996-08-03/171?pgs=171&org=PLC"
+          }
+        ]
+      }
+    ],
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
