@@ -1,0 +1,4 @@
+Despacho Normativo n.º 211-G/79
+Sem dispensa do rigoroso cumprimento das normas que regulam a adjudicação de empreitadas e fornecimentos de obras públicas:
+Nos termos do artigo 1.º, n.º 1, do Decreto-Lei n.º 736/76, de 16 de Outubro, delego no Ministro da Habitação e Obras Públicas, engenheiro Mário Adriano de Moura e Castro Brandão Fernandes de Azevedo, competência para autorizar a realização de despesas até ao montante de 95000 contos, com ou sem dispensa de concurso público, em adjudicações relativas a estradas, edifícios públicos e para habitação, construções escolares, construções hospitalares, obras hidráulicas e de saneamento básico, incluídas no plano aprovado pelo Governo e pela Assembleia da República, mantendo-se o montante para a realização de despesas de outra natureza conferido aos actuais Ministros.
+Presidência do Conselho de Ministros, 2 de Agosto de 1979. - O Primeiro-Ministro, Maria de Lourdes Ruivo da Silva Matos Pintasilgo.
