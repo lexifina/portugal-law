@@ -1,0 +1,15 @@
+Portaria n.º 460/86
+de 23 de Agosto
+Considerando que a Portaria n.º 63-C/86, de 1 de Março, foi publicada com algumas incorrecções, que urge corrigir;
+Ouvidos os Governos das Regiões Autónomas dos Açores e da Madeira:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio, ao abrigo do n.º 3 do artigo 6.º do Decreto-Lei n.º 514/85, de 31 de Dezembro, o seguinte:
+1.º Os n.os 1.º e 5.º da Portaria n.º 63-C/86, de 1 de Março, passam a ter a seguinte redacção:
+1.º - 1 - O direito nivelador referido no n.º 3 do artigo 6.º do Decreto-Lei n.º 514/85, aplicável aos produtos provenientes da Comunidade Económica Europeia, na sua composição em 31 de Dezembro de 1985, e de Espanha, é fixado trimestralmente, podendo este período ser reduzido em função da variação dos preços limiares dos cereais.
+2 - Os trimestres referidos no n.º 1 têm início em 1 de Novembro, 1 de Fevereiro, 1 de Maio e 1 de Agosto.
+5.º Os direitos niveladores são calculados, de acordo com as regras estabelecidas na presente portaria, pela Junta Nacional dos Produtos Pecuários, em colaboração com a Direcção-Geral de Concorrência e Preços, e publicados trimestralmente, sob a forma de aviso, na 2.ª série do Diário da República, pelo menos, cinco dias úteis antes do início do período a que se reportam.
+2.º É suprimido o primeiro n.º 2.º da Portaria n.º 63-C/86, de 1 de Março.
+3.º É suprimida a expressão «/dúzia» constante da coluna 3 da alínea b) da identificação pautal 04.05 do anexo I à Portaria n.º 63-C/86, de 1 de Março.
+4.º Esta portaria entra imediatamente em vigor.
+Ministérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
+Assinada em 7 de Agosto de 1986.
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - Pelo Ministro da Agricultura, Pescas e Alimentação, António Amaro de Matos, Secretário de Estado da Alimentação. - Pelo Ministro da Indústria e Comércio, Jorge Manuel Águas da Ponte Silva Marques, Secretário de Estado do Comércio Interno.
