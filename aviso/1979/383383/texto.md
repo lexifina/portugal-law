@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que em 12 de Fevereiro de 1979 o Governo de Singapura depositou junto do Secretário-Geral das Nações Unidas o instrumento de adesão por sucessão à Convenção Internacional para a Repressão do Fabrico de Moeda Falsa e Protocolo, concluídos em Genebra em 20 de Abril de 1929, de que Portugal já é parte. Aquele instrumento diplomático entrou em vigor, com referência àquele país, em conformidade com os princípios sobre a sucessão dos Estados em matéria de tratados.
+Secretaria-Geral do Ministério, 17 de Maio de 1979. - O Chefe dos Serviços Jurídicos e de Tratados, Mário d'Oliveira Neves.
