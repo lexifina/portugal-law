@@ -6,6 +6,6 @@
 
 3. As promoções de sota-patrão de costa de 2.ª classe, de maquinista de 3.ª classe e de electricista de 3.ª classe a, respectivamente, sota-patrão de costa de 1.ª classe, maquinista de 2.ª classe e electricista de 2.ª classe realizam-se por diuturnidade, após quatro anos de serviço efectivo naquelas categorias.
 
-4 - As promoções de sota-patrão de costa de 1.ª classe, de maquinista de 2.ª classe e de electricista de 2.ª classe às categorias imediatamente superiores efectuam-se por antiguidade e escolha com doseamento sequencial de ambas as modalidades de promoção e de acordo com a proporção a fixar por despacho do Chefe do Estado-Maior da Armada, sob proposta do director do Serviço do Pessoal.
+4. As promoções de sota-patrão de costa de 1.ª classe, de maquinista de 2.ª classe e de electricista de 2.ª classe a, respectivamente, patrão de costa, maquinista de 1.ª classe e electricista de 1.ª classe realizam-se por concurso.
 
 5. As promoções de patrão de costa, de maquinista de 1.ª classe e de electricista de 1.ª classe a, respectivamente, cabo da ponte, maquinista-chefe e electricista-chefe realizam-se por concurso entre os indivíduos com, pelo menos, dois anos de serviço efectivo naquelas categorias.
