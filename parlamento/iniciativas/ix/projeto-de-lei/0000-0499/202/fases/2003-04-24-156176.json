@@ -1,0 +1,697 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "202",
+    "id": "19430",
+    "titulo": "Lei dos Partidos Políticos"
+  },
+  "fase": "Votação na especialidade",
+  "codigo_fase": "310",
+  "data_registo": "2003-04-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2540",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "310",
+    "Comissao": null,
+    "DataFase": "2003-04-24",
+    "EvtId": "34",
+    "Fase": "Votação na especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2003-04-24",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "22:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145346",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4782-4782",
+                  "4784-4787"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-26",
+                "pubLeg": "IX",
+                "pubNr": "113",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/113/2003-04-26/4782?pgs=4782,4784-4787&org=PLC"
+              }
+            ],
+            "sumario": "Lei dos partidos políticos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "179",
+                "nome": "Jorge Lacão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "22:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145347",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4783-4783"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-26",
+                "pubLeg": "IX",
+                "pubNr": "113",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/113/2003-04-26/4783?pgs=4783&org=PLC"
+              }
+            ],
+            "sumario": "Lei dos partidos políticos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "22:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145348",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4783-4783"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-26",
+                "pubLeg": "IX",
+                "pubNr": "113",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/113/2003-04-26/4783?pgs=4783&org=PLC"
+              }
+            ],
+            "sumario": "Lei dos partidos políticos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "22:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145349",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4784-4784"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-26",
+                "pubLeg": "IX",
+                "pubNr": "113",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/113/2003-04-26/4784?pgs=4784&org=PLC"
+              }
+            ],
+            "sumario": "Lei dos partidos políticos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "22:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145350",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4784-4784"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-26",
+                "pubLeg": "IX",
+                "pubNr": "113",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/113/2003-04-26/4784?pgs=4784&org=PLC"
+              }
+            ],
+            "sumario": "Lei dos partidos políticos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "22:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145351",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4784-4784"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-26",
+                "pubLeg": "IX",
+                "pubNr": "113",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/113/2003-04-26/4784?pgs=4784&org=PLC"
+              }
+            ],
+            "sumario": "Lei dos partidos políticos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "22:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145352",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4786-4786"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-26",
+                "pubLeg": "IX",
+                "pubNr": "113",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/113/2003-04-26/4786?pgs=4786&org=PLC"
+              }
+            ],
+            "sumario": "Lei dos partidos políticos",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": "Texto de substituição, apresentado pela Comissão  Eventual para a Reforma do Sistema Político",
+    "OevId": "156176",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2540",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-04-26",
+        "pubLeg": "IX",
+        "pubNr": "113",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/113/2003-04-26?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação dos artigos 1.ª a 12.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30029",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do artigo 13.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> PEV</I><BR>Contra:<I>BE</I>",
+        "id": "30030",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do artigo 14.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30031",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do n.º 1 do artigo 15.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I><BR>Contra:<I>PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30032",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do n.º 2 do artigo 15.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30033",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do  artigo 16.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30034",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do artigo 29.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I><BR>Contra:<I>PCP</I><BR>Abstenção:<I>BE</I>, <I> PEV</I>",
+        "id": "30047",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do artigo 34.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I><BR>Contra:<I>PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30048",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação dos restantes artigos do Capítulo IV (Artigo 25.º, n.ºs 1 e 3 do artigo 26.º, artigos 27.º, 28.º, 30.º, 31.º, 32.º, 33.º e 35.º)",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> BE</I><BR>Contra:<I>PCP</I>, <I> PEV</I>",
+        "id": "30049",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do artigo 36.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30050",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do n.º 1 do artigo 40.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I><BR>Contra:<I>BE</I><BR>Abstenção:<I>PEV</I>",
+        "id": "30051",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação dos restantes artigos (Artigos 37.º, 38.º, 39.º, n.º 2 do artigo 40.º e artigo 41.º)",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30052",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do n.º 1 do artigo 22.º - Aprovado com a maioria de dois terços - votos a favor: 161; contra: 12",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I><BR>Contra:<I>PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30041",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do n.º 2 do artigo 22.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30042",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do n.º 3 do artigo 22.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> BE</I><BR>Abstenção:<I>PCP</I>, <I> PEV</I>",
+        "id": "30043",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do  artigo 23.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30044",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do  artigo 24.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30045",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do n.º 2 do artigo 26.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I><BR>Contra:<I>PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30046",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do artigo 17.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30035",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação das alíneas a), b), d), e), e f) do n.º 1 , o corpo do nº 1 e nº 2 do artigo 18.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30036",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação da alínea c) do n.º 1 do artigo 18.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS-PP</I><BR>Contra:<I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30037",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do o artigo 19.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I><BR>Abstenção:<I>PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30038",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do artigo 20.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30039",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do artigo 21.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30040",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
