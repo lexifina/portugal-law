@@ -1,0 +1,20 @@
+Portaria n.º 901/84
+de 10 de Dezembro
+Considerando a necessidade de ajustar os valores das quotas para os aderentes do Centro de Normalização fixadas há 3 anos:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Indústria, nos termos do artigo 2.º do Decreto-Lei n.º 48454, de 25 de Junho de 1968, o seguinte:
+1.º As quotas para os aderentes do Centro de Normalização para o triénio de 1985-1987 são fixadas nos seguintes valores:
+Aderentes individuais:
+Classe A - 4000$00;
+Classe B - 10500$00;
+Classe C - 23500$00.
+Aderentes colectivos:
+Classe A - 6000$00;
+Classe B - 12000$00;
+Classe C - 25000$00.
+2.º Todos os aderentes terão direito a receber gratuitamente:
+a) O Boletim da Direcção-Geral da Qualidade e o Catálogo das Normas Portuguesas;
+b) As normas portuguesas e inquéritos correspondentes a 10, 30 ou mais de 30 grupos de classificação do Catálogo das Normas Portuguesas, consoante tenham optado pelas classes A, B ou C acima indicadas.
+3.º Os aderentes terão ainda direito à prestação de serviços como o envio automático e selectivo de normas estrangeiras, regionais e internacionais e de normas DIN traduzidas para português, a tradução de documentos normativos e o serviço de pergunta-resposta, na medida em que tais serviços estiverem disponíveis, e com desconto de 10%, 15% e 20%, respectivamente, para as classes A, B e C.
+Secretaria de Estado da Indústria.
+Assinada em 15 de Novembro de 1984.
+O Secretário de Estado da Indústria, João Nuno Boulain de Carvalho Carreira.
