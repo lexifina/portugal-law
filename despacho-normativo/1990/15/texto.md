@@ -1,0 +1,16 @@
+Despacho Normativo n.º 15/90
+É frequente as empresas públicas utilizarem ao seu serviço trabalhadores de outras empresas do sector público, em regime de requisição, comissão de serviço ou outras formas de designação pelo Estado para o exercício de funções no sector público empresarial.
+Nestas situações, o n.º 3 do artigo 1.º do Decreto-Lei n.º 729/74, de 20 de Dezembro, na redacção dada pelo Decreto-Lei n.º 16/76, de 14 de Janeiro, determina que as contribuições normais para as instituições de segurança social devem ser pagas pelos trabalhadores e pela empresa para onde os mesmos foram transferidos, cabendo a esta a quota-parte a cargo da entidade patronal do lugar de origem respectivo.
+Acontece, no entanto, que com a publicação do Decreto-Lei n.º 396/86, de 25 de Novembro, que criou os fundos de pensões, e do Decreto-Lei n.º 225/89, de 6 de Julho, que instituiu os regimes profissionais complementares de segurança social, as empresas que aderiram a essas modalidades de protecção social complementar têm globalmente encargos sociais mais elevados.
+Deste modo, as entidades utilizadoras de trabalhadores naquelas situações têm assumido a sua quota-parte de encargos sociais inferiores aos legalmente exigíveis às entidades empregadoras de origem que aderirem ao regime de fundos de pensões ou instituírem um regime profissional complementar.
+O Decreto-Lei n.º 729/74, na redacção dada pelo Decreto-Lei n.º 16/76, é anterior à criação destas modalidades, carecendo-se, desta feita, de esclarecer e fixar naquele sentido a aplicação do princípio contido no n.º 3 do seu artigo 1.º
+Por outro lado, atendendo às Directivas n.os 77/187/CEE e 80/987/CEE, que prevêem a obrigação de os Estados membros garantirem a manutenção dos direitos dos trabalhadores, adquiridos ou em vias de aquisição, resultantes de regimes complementares de segurança social, profissionais ou interprofissionais, também por esta via importa definir, de forma clara, as obrigações que em matéria de quotizações sociais incumbem às entidades que passem a beneficiar da actividade dos trabalhadores, por forma a salvaguardar os legítimos interesses destas.
+Nestes termos, determina-se:
+1 - Nos casos de requisições, comissões de serviço ou outras situações de trabalhadores designados pelo Estado para o exercício de funções em empresas públicas ou equiparadas cabe a estas entidades suportar, enquanto durarem aquelas situações, a quota-parte das quotizações para os fundos de pensões ou os regimes profissionais complementares de segurança social, da responsabibilidade das entidades empregadoras de origem, referentes àqueles trabalhadores.
+2 - O pagamento das contribuições previstas no número anterior será feito às entidades empregadoras de origem.
+3 - Para os efeitos do número anterior, são equiparadas a empresas públicas:
+a) As sociedades de capitais públicos;
+b) As sociedades de economia mista controlada;
+c) Os institutos públicos ou serviços públicos personalizados.
+4 - Fica revogado o Despacho Normativo n.º 28/89, de 27 de Março, publicado no Diário da República, 1.ª série, n.º 71, de 27 de Março de 1989.
+Ministérios das Finanças e do Emprego e da Segurança Social, 30 de Janeiro de 1990. - O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
