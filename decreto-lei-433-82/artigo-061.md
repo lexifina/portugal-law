@@ -2,6 +2,4 @@
 
 ### (Tribunal competente)
 
-1 - É competente para conhecer do recurso o juiz de direito da comarca em cuja área tem a sua sede a autoridade que aplicou a coima.
-
-2 - O juiz decide singularmente.
+É competente para conhecer do recurso o tribunal em cuja área territorial se tiver praticado a infracção.

@@ -2,4 +2,4 @@
 
 ### (Direito aplicável)
 
-Salvo disposição em contrário deste diploma, a audiência em 1.ª instância obedecerá às normas do Código de Processo Penal relativas ao processo de transgressões, não havendo, todavia, lugar à redução da prova a escrito.
+Salvo disposição em contrário, a audiência em 1.ª instância obedece às normas relativas ao processamento das transgressões e contravenções, não havendo lugar à redução da prova a escrito.

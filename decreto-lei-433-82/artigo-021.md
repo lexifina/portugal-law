@@ -2,24 +2,20 @@
 
 ### (Sanções acessórias)
 
-1 - Nos casos em que a lei o determine poderá decidir-se como sanção acessória de uma contra-ordenação a apreensão de objectos.
+1 - A lei pode, simultaneamente com a coima, determinar as seguintes sanções acessórias:
 
-2 - A apreensão só será permitida quando:
+a) Apreensão de objectos;
 
-a) Ao tempo da decisão os objectos pertençam ao agente;
+b) Interdição de exercer uma profissão ou uma actividade;
 
-b) Representem um perigo para a comunidade ou para a prática de um crime ou de outra contra-ordenação;
+c) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;
 
-c) Tendo sido alienados ou onerados a terceiro, este conhecesse, ou devesse razoavelmente conhecer, as circunstâncias determinantes da possibilidade da sua apreensão.
+d) Privação do direito de participar em feiras, mercados, competições desportivas, ou de entrada em recintos ou áreas de acesso reservado;
 
-3 - A lei poderá também, simultaneamente com a coima, determinar, entre outras, as seguintes sanções acessórias:
+e) Privação do direito de participação em arrematações e concursos promovidos por entidades ou serviços públicos, de obras públicas, de fornecimento de bens e serviços, ou concessão de serviços, licenças ou alvarás;
 
-a) Interdição de exercer uma profissão ou uma actividade;
+f) Encerramento do estabelecimento ou cancelamento de serviços, licenças e alvarás.
 
-b) Privação do direito a subsídio outorgado por entidades ou serviços públicos;
+2 - As sanções referidas nas alíneas b) e seguintes do número anterior terão a duração máxima de dois anos, contados a partir da decisão condenatória definitiva, se o contrário não resultar de lei.
 
-c) Privação do direito de participar em feiras ou mercados.
-
-4 - As sanções referidas no número anterior terão a duração máxima de 2 anos, contados a partir da decisão condenatória definitiva.
-
-5 - A lei poderá ainda determinar os casos em que deva dar-se publicidade à punição por contra-ordenação.
+3 - A lei pode ainda determinar os casos em que deva dar-se publicidade à punição por contra-ordenação.

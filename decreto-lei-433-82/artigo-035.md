@@ -2,7 +2,7 @@
 
 ### (Competência territorial)
 
-1 - É territorialmente competente a autoridade administrativa concelhia em cuja circunscrição:
+1 - É territorialmente competente a autoridade administrativa em cuja área de actuação:
 
 a) A infracção foi praticada ou descoberta;
 

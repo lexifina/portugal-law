@@ -1,3 +1,7 @@
+## I Parte
+
+## Da contra-ordenação e da coima em geral
+
 ## Capítulo I
 
 ## Âmbito de vigência

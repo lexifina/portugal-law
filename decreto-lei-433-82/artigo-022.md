@@ -2,8 +2,16 @@
 
 ### (Princípio da subsidiariedade da apreensão)
 
-1 - Não haverá lugar à apreensão fora dos casos previstos na alínea b) do n.º 2 do artigo anterior quando ela seja manifestamente desproporcionada à gravidade da contra-ordenação e da culpa do agente ou do terceiro.
+1 - A apreensão só é permitida quando:
 
-2 - A apreensão será suspensa sempre que as suas finalidades possam ser devidamente prosseguidas através de medidas menos gravosas para as pessoas atingidas.
+a) Ao tempo da decisão os objectos pertençam ao agente;
 
-3 - Quando for possível, a apreensão será limitada a parte dos objectos.
+b) Representem um perigo para a comunidade ou favoreçam prática de um crime ou de outra contra-ordenação;
+
+c) Tendo sido alienados ou onerados a terceiro, este conhecesse, ou devesse razoavelmente conhecer, as circunstâncias determinantes da possibilidade da sua apreensão.
+
+2 - Não há lugar à apreensão, excepto nos casos previstos na alínea b) do número anterior, quando ela seja manifestamente desproporcionada à gravidade da contra-ordenação e da culpa do agente ou do terceiro.
+
+3 - A apreensão será suspensa sempre que as suas finalidades possam ser devidamente prosseguidas através de medidas menos gravosas para as pessoas atingidas.
+
+4 - Quando for possível, a apreensão será limitada a parte dos objectos.
