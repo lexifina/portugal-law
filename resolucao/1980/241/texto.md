@@ -1,0 +1,12 @@
+Resolução n.º 241/80
+Pelas Resoluções n.os 353/79, de 16 de Novembro, 31/80 e 55/80, de 29 de Janeiro, o Conselho de Ministros resolveu promover, através da Junta Nacional do Vinho, da Federação dos Vinicultores do Dão e da Comissão de Viticultura da Região dos Vinhos Verdes, intervenções de compra de vinhos nas áreas abrangidas por aqueles organismos, a fim de retirar da produção os excedentes e desse modo evitar o aviltamento dos preços do mercado e consequentes prejuízos para os produtores.
+Para a consecução de tal medida foram criadas três linhas de crédito nos valores de 3 milhões de contos, 250000 e 350000 contos, respectivamente, à taxa bonificada de 12%.
+Considerando que na área da JNV e FVD se verificam pedidos da produção para entrega de quantidades de vinhos não inscritos em tempo oportuno e que na área da CVRVV as quantidades inscritas ultrapassaram significativamente o valor inicialmente estimado;
+Considerando o facto de se aproximar a nova campanha de produção, que apresenta boas perspectivas, embora se estimem quantidades inferiores às de 1979;
+Considerando que o Governo pretende garantir o apoio à viticultura nacional, da qual fazem parte muitos milhares de pequenos e médios agricultores, para os quais a produção do vinho constitui parcela significativa dos seus rendimentos;
+Considerando que os montantes das linhas de crédito já criadas são insuficientes para garantir o pagamento das entregas que a produção pretende efectuar, as quais serão naturalmente condicionadas pela capacidade de recepção daqueles organismos;
+Considerando-se necessário criar as condições para a retirada da produção dos excedentes que ainda existam:
+O Conselho de Ministros, reunido em 26 de Junho de 1980, resolveu:
+a) Aumentar para 4400000, 350000 e 650000 contos as linhas de créditos bonificados à taxa de 12%, criadas pelas Resoluções n.os 353/79, de 16 de Novembro, e 31/80 e 55/80, de 29 de Janeiro, a serem utilizadas, respectivamente, pela Junta Nacional do Vinho, pela Federação dos Vinicultores do Dão e pela Comissão de Viticultura da Região dos Vinhos Verdes;
+b) Determinar que os aumentos agora concedidos, de 1400000, 100000 e 300000 contos, sejam utilizados pelos organismos referidos na alínea a), em condições a definir mediante despacho conjunto dos Ministros das Finanças e do Plano e do Comércio e Turismo.
+Presidência do Conselho de Ministros, 26 de Junho de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
