@@ -1,0 +1,12 @@
+Portaria n.º 492/78
+de 29 de Agosto
+Na sequência da orientação determinada pelo Decreto-Lei n.º 358/76, de 14 de Maio, encontra-se em curso a revisão do estatuto do IAPMEI. Importa, porém, sem prejuízo das alterações de fundo a efectuar oportunamente, introduzir imediatamente as modificações aconselháveis no quadro do pessoal, de modo a harmonizá-lo com o conjunto resultante da reestruturação do Ministério da Indústria e Tecnologia, do qual o IAPMEI é um serviço dependente, sob a forma de tutela.
+Assim:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano, da Reforma Administrativa e da Indústria e Tecnologia, o seguinte:
+1 - O quadro do pessoal do Instituto de Apoio às Pequenas e Médias Empresas Industriais (IAPMEI), aprovado pelo Decreto n.º 624/76, de 28 de Julho, é aumentado dos lugares constantes do quadro anexo à presente portaria.
+2 - Nos termos do n.º 2 do artigo 25.º do Decreto-Lei n.º 51/75, de 7 de Fevereiro, aplicam-se ao pessoal do IAPMEI, em tudo o que não se encontrar especialmente previsto na legislação própria, as normas legais aplicáveis aos funcionários do Ministério da Indústria e Tecnologia, nomeadamente as contidas no Decreto-Lei n.º 548/77, de 31 de Dezembro.
+3 - O recrutamento do pessoal previsto no quadro anexo deverá ser feito nos termos gerais em vigor para a função pública e, preferentemente, de entre funcionários do Ministério da Indústria e Tecnologia.
+Ministérios das Finanças e do Plano, da Reforma Administrativa e da Indústria e Tecnologia, 18 de Julho de 1978. - O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio. - O Ministro da Reforma Administrativa, Rui Eduardo Ferreira Rodrigues Pena. - O Ministro da Indústria e Tecnologia, Carlos Montês Melancia.
+
+(ver documento original)
+O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio. - O Ministro da Reforma Administrativa, Rui Eduardo Ferreira Rodrigues Pena. - O Ministro da Indústria e Tecnologia, Carlos Montês Melancia.
