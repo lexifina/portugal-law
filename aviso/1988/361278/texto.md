@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que o Uganda depositou, junto do Secretário-Geral das Nações Unidas, a 15 de Abril de 1988, os instrumentos de adesão à Convenção sobre Substâncias Psicotrópicas, concluída em Viena a 21 de Fevereiro de 1971, à Convenção Única sobre Estupefacientes, concluída em Nova Iorque a 30 de Março de 1961, e ao Protocolo que emenda a Convenção Única sobre Estupefacientes, concluído em Genebra a 25 de Março de 1972.
+Direcção-Geral dos Negócios Político-Económicos, 13 de Dezembro de 1988. - O Director de Serviços dos Assuntos Multilaterais, José Tadeu da Costa Sousa Soares.
