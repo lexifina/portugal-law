@@ -1,0 +1,4 @@
+Despacho Normativo n.º 123/77
+Por despacho conjunto dos Ministros do Trabalho e dos Assuntos Sociais, dado em 12 de Janeiro e publicado no Diário da República, 1.ª série, de 24 de Fevereiro de 1976, foi cometida à Secretaria-Geral do Ministério dos Assuntos Sociais a tarefa de dar continuidade à elaboração e publicação do Atlas Sócio-Económico.
+Considerando, no entanto, que as actividades respeitantes ao Atlas Sócio-Económico se enquadram principalmente no âmbito da competência do Ministério do Plano e Coordenação Económica, determina-se a sua transferência para a Secretaria de Estado do Planeamento.
+Ministérios do Plano e Coordenação Económica e dos Assuntos Sociais, 3 de Maio de 1977. - O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - O Ministro dos Assuntos Sociais, Armando Bacelar.
