@@ -1,0 +1,4 @@
+Aviso n.º 164/2000
+Por ordem superior se torna público que a Itália ratificou, em 1 de Outubro de 1997, com entrada em vigor a 1 de Novembro de 1998, o Protocolo n.º 11 à Convenção para a Protecção dos Direitos do Homem e das Liberdades Fundamentais Relativo à Reestruturação do Mecanismo de Controlo Estabelecido pela Convenção, aberto à assinatura em Estrasburgo a 11 de Maio de 1994.
+Portugal é parte do mesmo Protocolo, aprovado, para ratificação, pela Resolução da Assembleia da República n.º 21/97 e ratificado pelo Decreto do Presidente da República n.º 20/97, de 3 de Maio, conforme publicado no Diário da República, 1.ª série, n.º 102, de 3 de Maio de 1997.
+Direcção-Geral dos Assuntos Multilaterais, 12 de Julho de 2000. - O Director de Serviços das Organizações Políticas Internacionais, Rui Filipe Monteiro Belo Macieira.
