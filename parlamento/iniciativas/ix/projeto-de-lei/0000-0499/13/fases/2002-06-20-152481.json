@@ -1,0 +1,2380 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "13",
+    "id": "18987",
+    "titulo": "Medidas para a educação sexual nas escolas"
+  },
+  "fase": "Votação na generalidade",
+  "codigo_fase": "250",
+  "data_registo": "2002-06-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2186",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "250",
+    "Comissao": null,
+    "DataFase": "2002-06-20",
+    "EvtId": "13",
+    "Fase": "Votação na generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2002-06-20",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141185",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1686",
+                "nome": "Pedro Duarte"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141186",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1238",
+                "nome": "Sérgio Vieira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141187",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1896",
+                "nome": "Massano Cardoso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141188",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1478",
+                "nome": "Gonçalo Capitão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141189",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1897",
+                "nome": "Teresa Morais"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141190",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1962",
+                "nome": "Adriana de Aguiar Branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141191",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1999",
+                "nome": "Jorge Nuno Sá"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141192",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1693",
+                "nome": "Ricardo Fonseca de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141193",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1931",
+                "nome": "Rodrigo Ribeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141194",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "114",
+                "nome": "Maria Leonor Beleza"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141195",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1898",
+                "nome": "Miguel Coleta"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141196",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1991",
+                "nome": "Clara Carneiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141197",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1875",
+                "nome": "Goreti Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141198",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1723",
+                "nome": "Carlos Antunes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141199",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141200",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1245",
+                "nome": "António Montalvão Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141201",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1961",
+                "nome": "Aurora Vieira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141202",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1612",
+                "nome": "Ana Manso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141203",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1607",
+                "nome": "Patinha Antão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141204",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1731",
+                "nome": "António Nazaré Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141205",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1706",
+                "nome": "João Moura"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141206",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1930",
+                "nome": "Vítor Reis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141207",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1496",
+                "nome": "Isménia Franco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141208",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1982",
+                "nome": "Ribeiro dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141209",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1906",
+                "nome": "João Gago Horta"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141210",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1981",
+                "nome": "José Manuel Cordeiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141211",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1910",
+                "nome": "Gustavo Duarte"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141212",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1958",
+                "nome": "Pinho Cardão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141213",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1886",
+                "nome": "Maria Elisa Domingues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141214",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1915",
+                "nome": "Graça Proença de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141215",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1559",
+                "nome": "Gonçalo Breda Marques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141216",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1586",
+                "nome": "Machado Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141217",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "117",
+                "nome": "Maria Manuela Aguiar"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141218",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1738",
+                "nome": "Pedro Alves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141219",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1945",
+                "nome": "Carlos Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141220",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1916",
+                "nome": "Daniel Rebelo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141221",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1713",
+                "nome": "Bruno Vitorino"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141222",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1933",
+                "nome": "Alexandre Simões"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141223",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1899",
+                "nome": "José Manuel Alves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141224",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1993",
+                "nome": "Pedro do Ó Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141225",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1959",
+                "nome": "Diogo Luz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141226",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1928",
+                "nome": "Isilda Pegado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141227",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1588",
+                "nome": "Fernando Penha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141228",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1857",
+                "nome": "Jorge Tadeu Morgado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141229",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1847",
+                "nome": "Victor Cruz"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141230",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1715",
+                "nome": "Bruno Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "141231",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-886"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-06-21",
+                "pubLeg": "IX",
+                "pubNr": "22",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21/885?pgs=885-886&org=PLC"
+              }
+            ],
+            "sumario": "Medidas para a educação sexual nas escolas",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "152481",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2186",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2002-06-21",
+        "pubLeg": "IX",
+        "pubNr": "22",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/022/2002-06-21?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2002-06-20",
+        "descricao": null,
+        "detalhe": "A Favor: <I>BE</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>PS</I>, <I> PCP</I>, <I> PEV</I>",
+        "id": "28992",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "22",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
