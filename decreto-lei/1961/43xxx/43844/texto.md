@@ -1,0 +1,6 @@
+Decreto-Lei n.º 43844
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. Os encargos da Comissão Técnica de Cooperação Económica Externa que, por força do Decreto-Lei n.º 43748, de 22 de Junho de 1961, transitaram para a Presidência do Conselho, continuam, no corrente ano económico, a ser satisfeitos de conta da dotação inscrita no orçamento do Ministério da Economia no capítulo 11.º, artigo 225.º, n.º 1).
+§ único. As despesas autorizadas depois da entrada em vigor do referido decreto-lei consideram-se abrangidas pelo disposto no corpo deste artigo.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 7 de Agosto de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
