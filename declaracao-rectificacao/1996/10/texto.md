@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 10/96
+Para os devidos efeitos se declara que a Resolução do Conselho de Ministros n.º 73/96, publicada no Diário da República, 1.ª série, n.º 118, de 21 de Maio de 1996, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No caderno de encargos, artigo 10.º, n.º 1, alínea g), onde se lê: «g) No caso de instituições de crédito ou de empresas de seguros inseridas em grupos com actimontante de fundos próprios em 31 de Dezembro de 1995,» deve ler-se «g) No caso de instituições de crédito ou de empresas de seguros inseridas em grupos com actividade bancária, documento demonstrativo do montante de fundos próprios em 31 de Dezembro de 1995,».
+Secretaria-Geral da Presidência do Conselho de Ministros, 27 de Maio de 1996. - O Secretário-Geral, França Martins.
