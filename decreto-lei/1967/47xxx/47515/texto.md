@@ -1,0 +1,10 @@
+Decreto-Lei n.º 47515
+Atendendo às conveniências dos serviços no que respeita ao recrutamento de subinspectores dos quadros da Direcção-Geral do Trabalho e Corporações e da Direcção-Geral da Previdência e Habitações Económicas, dentro da orientação que vem sendo seguida para o provimento de lugares para que é exigido idêntico nível de habilitações;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer come lei, o seguinte:
+Artigo único. Os lugares de subinspector dos quadros da Direcção-Geral do Trabalho e Corporações e da Direcção-Geral da Previdência e Habitações Económicas serão providos, mediante concurso de provas públicas, de entre indivíduos diplomados com um curso superior adequado ou por adjuntos e agentes que possuam, pelo menos, um ano de bom e efectivo serviço e sejam diplomados pelo Instituto de Estudos Sociais (curso de Política Social).
+§ 1.º Os adjuntos ou agentes que satisfaçam as condições referidas só podem ser providos nos lugares de subinspector do quadro da inspecção a que pertençam.
+§ 2.º Sempre que for julgado conveniente, pode, no provimento destes lugares, o concurso de provas públicas ser substituído por concurso documental, desde que os candidatos tenham obtido nos respectivos cursos classificação igual ou superior a 14 valores.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 27 de Janeiro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Para ser presente à Assembleia Nacional.
