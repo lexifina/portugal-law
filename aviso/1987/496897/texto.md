@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público ter o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificado, nos termos do artigo 31, alínea e), da Convenção Relativa à Citação e à Notificação no Estrangeiro de Actos Judiciais e Extrajudiciais em Matéria Civil ou Comercial, assinada na Haia a 15 de Novembro de 1965, que o Governo de Antígua e Barbuda, por nota recebida a 17 de Agosto de 1987 no Ministério dos Negócios Estrangeiros do Reino dos Países Baixos, notificou ter designado como autoridade prevista no artigo 21 da mesma Convenção The Registrar of the High Court of Antigua and Barbuda, St. John's, Antigua.
+Portugal é Parte na Convenção em apreço.
+Secretaria-Geral do Ministério, 26 de Outubro de 1987. - O Director do Serviço Jurídico e de Tratados, Fernão Manuel Homem de Gouveia Favila Vieira.
