@@ -1,0 +1,5 @@
+Despacho Normativo n.º 239/80
+Tendo-se suscitado dúvidas quanto à execução do disposto no Decreto-Lei n.º 285/77, de 13 de Julho, ao abrigo do disposto no artigo 10.º desse diploma, determina-se o seguinte:
+1 - O registo das participações sociais em sociedades por quotas que foram transferidas para o património do IPE em virtude do disposto no artigo 2.º do Decreto-Lei n.º 285/77, de 13 de Julho, será feito por inscrição a favor do IPE, face a requerimento assinado pelo IPE e pelo anterior titular, e apresentado na conservatória do registo comercial competente.
+2 - O registo das participações referidas no número anterior que hajam sido transferidas do património do IPE para o de outras entidades do sector público, ao abrigo do artigo 8.º do citado Decreto-Lei n.º 285/77, de 13 de Julho, será feito por inscrição a favor do novo titular, face a requerimento assinado pelo IPE e pelo novo titular, e apresentado na conservatória do registo comercial competente, sendo este requerimento instruído com o respectivo despacho de reordenamento.
+Ministério das Finanças e do Plano, 25 de Julho de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva.
