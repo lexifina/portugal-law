@@ -1,0 +1,3 @@
+Declaração
+Para o efeito do n.º 2 do artigo 24.º do Decreto-Lei n.º 41204, de 24 de Julho de 1957, se declara que, por despachos de SS. Exas. o Ministro da Economia e o Secretário de Estado do Comércio, respectivamente de 17 de Junho próximo passado e 9 de Novembro findo, foram fixados em 1$80/kg, líquido, o preço de garantia para a compra da aveia pela Federação Nacional dos Produtores de Trigo e em 1$90/kg o respectivo preço de venda, o qual se entende para cereal nos celeiros do referido organismo em sacaria do comprador.
+Comissão de Coordenação Económica, 4 de Dezembro de 1968. - O Presidente, Henrique de Carvalho Costa.
