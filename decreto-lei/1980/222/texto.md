@@ -1,0 +1,22 @@
+Decreto-Lei n.º 222/80
+de 12 de Julho
+O Dr. António Anastácio Gonçalves legou ao Estado a moradia da Avenida de 5 de Outubro, 8, em Lisboa, e o seu recheio, com a finalidade de preservar o edifício e de nele funcionar um museu. Era sua vontade, expressa em testamento, que esta unidade museológica ficasse «regularmente patente à visita do público para seu recreio e instrução». De facto, não só o rico espólio cultural do seu recheio mas também a privilegiada localização da moradia justificam a concretização da vontade do doador.
+Para tanto se cria, através do presente diploma, a Casa-Museu Anastácio Gonçalves, que é dotada dos meios necessários à correcta transmissão da mensagem cultural que este legado encerra, na perspectiva de uma museologia actual.
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º - 1 - É criada, na dependência do Instituto Português do Património Cultural, a Casa-Museu Dr. Anastácio Gonçalves, com os bens e valores legados, para esse efeito, pelo Dr. Anastácio Gonçalves.
+2 - A Casa-Museu Dr. Anastácio Gonçalves fica instalada na moradia situada na Avenida de 5 de Outubro, 8, em Lisboa.
+3 - É expressamente proibido à Casa-Museu Dr. Anastácio Gonçalves alienar, trocar ou ceder, mesmo que seja a título provisório ou precário, as colecções de arte que lhe forem afectas no acto da sua criação.
+Art. 2.º A Casa-Museu Dr. Anastácio Gonçalves destina-se à guarda, conservação, estudo e exposição das colecções legadas ao Estado pelo Dr. Anastácio Gonçalves, assim como ao desenvolvimento de actividades que permitam a mais ampla divulgação do seu conteúdo cultural.
+Art. 3.º Os valores em dinheiro e em acções legados pelo Dr. Anastácio Gonçalves e pelo mesmo destinados a ajudar à manutenção e possível melhoria da Casa-Museu constituirão o Fundo Dr. Anastácio Gonçalves.
+Art. 4.º - 1 - A gestão financeira do Fundo Dr. Anastácio Gonçalves será assegurada por um conselho administrativo.
+2 - O conselho administrativo é constituído por um representante da Direcção-Geral da Contabilidade Pública, pelo presidente do Instituto Português do Património Cultural e pelo director da Casa-Museu.
+Art. 5.º O quadro do pessoal da Casa-Museu é o constante do mapa anexo a este diploma.
+Art. 6.º O director da Casa-Museu será provido nos termos do Decreto-Lei n.º 191-F/79, de 26 de Junho.
+Art. 7.º Os lugares do quadro, à excepção do referido no artigo anterior, serão providos nos termos do Decreto-Lei n.º 45/80, de 20 de Março.
+Art. 8.º As dúvidas que se suscitarem na execução do presente diploma serão esclarecidas por despacho conjunto do Ministro das Finanças e do Plano e dos membros do Governo responsáveis pela cultura e pela função pública, consoante a natureza das matérias.
+Visto e aprovado em Conselho de Ministros de 30 de Maio de 1980. - Diogo Pinto de Freitas do Amaral.
+Promulgado em 2 de Julho de 1980.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+(ver documento original)
