@@ -1,0 +1,3 @@
+Resolução n.º 54/82
+O Conselho de Ministros, reunido em 11 de Março de 1982, resolveu, nos termos dos artigos 1.º e 3.º, n.º 4, da Convenção Luso-Espanhola de. Extradição de 25 de Junho de 1867, autorizar o prosseguimento do processo de extradição relativo ao súbdito espanhol Marcelino José Zembrana Escobar, condenado na pena de 6 anos e 1 dia de prisão maior pela prática de um crime de furto qualificado, e que se encontra detido à ordem do 4.º Juízo de Instrução Criminal de Lisboa.
+Presidência do Conselho de Ministros, 11 de Março de 1982. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
