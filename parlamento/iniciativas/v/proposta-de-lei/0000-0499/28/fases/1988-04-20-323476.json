@@ -1,0 +1,1975 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "28",
+    "id": "28373",
+    "titulo": "Organização judiciária na Região Autónoma da Madeira."
+  },
+  "fase": "Parecer recurso admissibilidade comissão",
+  "codigo_fase": "90",
+  "data_registo": "1988-04-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "11832",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "90",
+    "Comissao": null,
+    "DataFase": "1988-04-20",
+    "EvtId": "5",
+    "Fase": "Parecer recurso admissibilidade comissão",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1988-04-20",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205009",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2988-2988",
+                  "2992-2992",
+                  "3006-3007",
+                  "3008-3008",
+                  "3009-3009"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/2988?pgs=2988,2992,3006-3007,3008,3009&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205010",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2988-2988",
+                  "2992-2992",
+                  "3007-3007"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/2988?pgs=2988,2992,3007&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205011",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2988-2988"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/2988?pgs=2988&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205012",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2988-2988"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/2988?pgs=2988&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205013",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2988-2988"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/2988?pgs=2988&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205014",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2988-2989"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/2988?pgs=2988-2989&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205015",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2989-2989"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/2989?pgs=2989&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205016",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2989-2989",
+                  "3003-3003",
+                  "3006-3006",
+                  "3008-3008"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/2989?pgs=2989,3003,3006,3008&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205017",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2989-2989"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/2989?pgs=2989&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205019",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2990-2990"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/2990?pgs=2990&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205020",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2990-2990"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/2990?pgs=2990&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205021",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2990-2991"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/2990?pgs=2990-2991&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205022",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2991-2991",
+                  "3003-3003",
+                  "3008-3008"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/2991?pgs=2991,3003,3008&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205023",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2991-2991",
+                  "3003-3003"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/2991?pgs=2991,3003&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205027",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2991-2992",
+                  "2993-2994",
+                  "3006-3006"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/2991?pgs=2991-2992,2993-2994,3006&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205028",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2992-2993"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/2992?pgs=2992-2993&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205029",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2993-2993"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/2993?pgs=2993&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205030",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2994-2995",
+                  "2996-2996",
+                  "3006-3006"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/2994?pgs=2994-2995,2996,3006&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205032",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2995-2995"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/2995?pgs=2995&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205033",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2995-2995"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/2995?pgs=2995&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205036",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2996-2996"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/2996?pgs=2996&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205038",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2996-2997"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/2996?pgs=2996-2997&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205041",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2997-2997"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/2997?pgs=2997&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205042",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2997-2999",
+                  "2999-2999",
+                  "3004-3004",
+                  "3008-3008"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/2997?pgs=2997-2999,2999,3004,3008&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205045",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2999-2999"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/2999?pgs=2999&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205047",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3000-3000"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/3000?pgs=3000&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205048",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3000-3001"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/3000?pgs=3000-3001&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205050",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3001-3001"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/3001?pgs=3001&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205051",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3001-3002"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/3001?pgs=3001-3002&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205052",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3002-3002"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/3002?pgs=3002&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205053",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3002-3003"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/3002?pgs=3002-3003&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205054",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3003-3003"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/3003?pgs=3003&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205055",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3004-3004"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/3004?pgs=3004&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205056",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3004-3004"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/3004?pgs=3004&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205057",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3004-3004"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/3004?pgs=3004&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205058",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3005-3005"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/3005?pgs=3005&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205059",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3005-3005"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/3005?pgs=3005&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205060",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3006-3006",
+                  "3006-3006"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/3006?pgs=3006,3006&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205062",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3007-3007"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/3007?pgs=3007&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205063",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21?org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205064",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3007-3007"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/3007?pgs=3007&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205065",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3007-3008",
+                  "3009-3009"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/3007?pgs=3007-3008,3009&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205067",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3008-3008"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/3008?pgs=3008&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "18:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "206444",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3009-3009"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-21",
+                "pubLeg": "V",
+                "pubNr": "76",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21/3009?pgs=3009&org=PLC"
+              }
+            ],
+            "sumario": "Organização judiciária na Região Autónoma da Madeira.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "323476",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "11832",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-04-21",
+        "pubLeg": "V",
+        "pubNr": "76",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/076/1988-04-21?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
