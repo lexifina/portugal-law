@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, de harmonia com uma comunicação do Departamento de Estado do Governo Norte-Americano, o Governo de Cuba depositou, em 28 de Novembro de 1975, os instrumentos de adesão à Convenção Internacional das Pescarias do Noroeste Atlântico, concluída em Washington em 8 de Fevereiro de 1949, e aos Protocolos de 1956, 1963, 1969 e 1970, relativos à Convenção referida. Essa Convenção e Protocolos respectivos entram em vigor em relação a Cuba na data do depósito dos instrumentos de adesão.
+Direcção-Geral dos Negócios Económicos, 31 de Julho de 1976. - O Adjunto do Director-Geral, Alexandre Eduardo Lencastre da Veiga.
