@@ -15,3 +15,5 @@ c) Municípios com mais de 10000 e menos de 40000 eleitores - 45%;
 d) Restantes municípios - 40%.
 
 3 - As remunerações e subsídios extraordinários dos vereadores em regime de permanência correspondem a 80% do montante do valor base da remuneração a que tenham direito os presidentes dos respectivos órgãos.
+
+4 - Os eleitos locais em regime de permanência nas câmaras municipais têm direito às despesas de representação correspondentes a 30% das respectivas remunerações no caso do presidente e 20% para os vereadores, as quais serão pagas 12 vezes por ano.

@@ -4,7 +4,7 @@
 
 1 - Os eleitos locais têm direito, nos termos definidos nas alíneas seguintes:
 
-a) A uma remuneração ou compensação mensal;
+a) A uma remuneração ou compensação mensal e a despesas de representação;
 
 b) A dois subsídios extraordinários anuais;
 
