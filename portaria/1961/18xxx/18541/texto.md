@@ -1,0 +1,7 @@
+Portaria n.º 18541
+Do estudo minucioso feito sobre as necessidades efectivas para suportar as despesas decorrentes da ampliação do Porto Novo, a satisfazer pela dotação consignada a «Comunicações e transportes - Porto Grande de S. Vicente e Porto Novo» no programa de execução do ano corrente do II Plano de Fomento da província de Cabo Verde, concluiu-se que se torna indispensável e urgente reforçar a respectiva dotação.
+Por isso, e tendo em vista a autorização dada pelo Conselho Económico:
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 2.º do Decreto n.º 35770, de 29 de Julho de 1946, que o Governo de Cabo Verde reforce com a quantia de 1300000$00 a verba do capítulo 12.º, artigo 247.º, III), n.º 2), alínea a) «Plano de Fomento - Programa de execução da 2.ª fase, 1961 (Lei n.º 2094, de 25 de Novembro de 1958) - Comunicações e transportes - Portos - Porto Grande de S. Vicente e Porto Novo», da tabela de despesa extraordinária do orçamento geral em vigor, por transferência de igual importância a sair da verba do artigo 247.º, III), n.º 2), alínea b) «Comunicações e transportes - Portos - Outros portos», da mesma tabela de despesa.
+Ministério do Ultramar, 17 de Junho de 1961. - Pelo Ministro do Ultramar, Manuel Rafael Amaro da Costa, Subsecretário de Estado do Fomento Ultramarino.
+
+Para ser publicada no Boletim Oficial de Cabo Verde. - A. da Costa.
