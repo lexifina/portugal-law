@@ -1,0 +1,11 @@
+Portaria n.º 777-A/76
+de 30 de Dezembro
+Por força do disposto no Decreto-Lei n.º 47/75, de 1 de Fevereiro, a Comissão para a Política Social Relativa à Mulher, criada pelo Decreto n.º 482/73, de 27 de Setembro, passou a designar-se Comissão da Condição Feminina, sendo então esta dotada de autonomia administrativa e submetida ao regime de instalação, previsto nos artigos 79.º e seguintes do Decreto-Lei n.º 413/71, de 27 de Setembro.
+Ao abrigo do artigo 85.º deste último diploma, logo por portaria de 28 de Fevereiro de 1975, publicada no Diário do Governo, 2.ª série, n.º 66, de 19 de Março desse ano, foi constituída uma comissão instaladora da Comissão da Condição Feminina, formada por dois membros, um dos quais, por não ter chegado a assumir as respectivas funções, veio a ser substituído, a título interino, por despacho de 21 de Abril do mesmo ano, publicado no Diário do Governo, 2.ª série, n.º 117, de 21 de Maio.
+Mostra-se, pois, necessário pôr termo a uma situação caracterizada por uma certa indefinição, procedendo-se à constituição da comissão instaladora, a qual, segundo o regime legal, ficará encarregada da gerência, reforma e instalação dos serviços da Comissão da Condição Feminina, até que esta seja institucionalizada e estruturada em diploma orgânico próprio, cuja publicação, como se espera, não tardará.
+Assim, nos termos do artigo 85.º do Decreto-Lei n.º 413/71, de 27 de Setembro, aplicável por força do disposto no artigo 2.º do Decreto-Lei n.º 47/75, de 1 de Fevereiro, referido no Decreto n.º 482/73, de 27 de Setembro:
+Manda o Governo da República Portuguesa, pelo Ministro de Estado:
+1 - A comissão instaladora da Comissão da Condição Feminina será constituída por um presidente e dois vogais, nomeados por despacho do Ministro de Estado.
+2 - Os membros da comissão instaladora, no caso de serem funcionários públicos, exercerão as suas funções em regime de comissão de serviço, sendo as respectivas remunerações fixadas nos despachos de nomeação, com o acordo do Ministro das Finanças, nos casos em que essa fixação deva ter lugar.
+3 - A comissão instaladora considerar-se-á extinta na data da posse dos órgãos directivos que vierem a ser estabelecidos no diploma orgânico da Comissão da Condição Feminina.
+Presidência do Conselho de Ministros, 28 de Dezembro de 1976. - O Ministro de Estado, Henrique Teixeira Queirós de Barros.
