@@ -1,0 +1,4 @@
+Aviso n.º 203/98
+Por ordem superior se faz público que, segundo comunicação do Secretário-Geral das Nações Unidas de 18 de Agosto de 1998, o Governo de Saint Kitts and Nevis depositou, em 8 de Julho de 1998, o instrumento de ratificação à Emenda ao Protocolo de Montreal sobre Substâncias Que Esgotam a Camada de Ozono, adoptada na segunda reunião das Partes, em Londres, a 29 de Junho de 1990.
+A referida Emenda foi aprovada, para ratificação, por Portugal, nos termos do Decreto n.º 39/92, publicado no Diário da República, 1.ª série-A, n.º 191, de 20 de Agosto de 1992, tendo sido depositado o correspondente instrumento em 17 de Outubro de 1988, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 94, de 22 de Abril de 1993. A Emenda entrou em vigor para Portugal em 22 de Fevereiro de 1993.
+Direcção-Geral dos Assuntos Multilaterais, 6 de Outubro de 1998. - O Director de Serviços das Organizações Económicas Internacionais, João Perestrello Cavaco.
