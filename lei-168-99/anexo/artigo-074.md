@@ -12,4 +12,6 @@
 
 3 - O pedido de expropriação total, nos termos do n.º 2 do artigo 3.º não prejudica a reversão da totalidade do prédio.
 
-4 - O pedido de reversão considera-se tacitamente indeferido se o interessado não for notificado de decisão expressa no prazo de 90 dias a contar da entrada do respectivo requerimento.
+4 - Se não for notificado de decisão favorável no prazo de 90 dias a contar da data do requerimento, o interessado pode fazer valer o direito de reversão no prazo de um ano, mediante acção administrativa comum a propor no tribunal administrativo de círculo da situação do prédio ou da sua maior extensão.
+
+5 - Na acção prevista no número anterior, é cumulado o pedido de adjudicação, instruído com os documentos mencionados no artigo 77.º, que o tribunal aprecia, seguindo os trâmites dos artigos 78.º e 79.º, no caso de reconhecer o direito de reversão.
