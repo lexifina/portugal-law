@@ -1,0 +1,24 @@
+Decreto-Lei n.º 347/89
+de 12 de Outubro
+O direito de mera ordenação social tem sido, nos últimos anos, um dos meios mais adequados e eficazes no combate a determinadas condutas ilícitas que se desenvolvem no contexto das actividades económicas.
+Ao Instituto de Qualidade Alimentar, para além das atribuições que lhe estão legalmente cometidas em matéria de promoção e controlo da qualidade dos géneros alimentícios e alimentos para animais, foi também cometida a especial função de apreciar determinadas contra-ordenações na área alimentar, previstas no Decreto-Lei n.º 28/84, de 20 de Janeiro, e aplicar as correspondentes coimas.
+Concomitantemente, à Direcção-Geral de Inspecção Económica foi cometida, pelo referido diploma, a investigação e a instrução dos processos pelas contra-ordenações aí tipificadas.
+Ora, se é certo que estas atribuições exigiram aos organismos envolvidos responsabilidades e custos acrescidos, levando, inclusive, a mobilizar recursos que estavam habitualmente afectos a outro tipo de actividades, não deixa de se constatar que os meios postos à disposição dessas entidades têm sido, manifestamente, insuficientes, face à natureza e ao crescente volume de trabalho desenvolvido e aos objectivos que estão subjacentes à aplicação do direito de mera ordenação social a que acresce o novo contexto em que se desenvolve esta aplicação, no âmbito do processo de adesão de Portugal às Comunidades Europeias.
+Na verdade, para se conseguir uma eficiente prevenção e investigação das infracções contra a genuinidade, qualidade e composição dos géneros alimentícios e alimentos para animais é necessária, a par de acções normais de inspecção, colheita de amostras e execução de análises laboratoriais, a realização de estudos laboratoriais destinados ao desenvolvimento de novos métodos de análise, com vista a uma mais eficaz e rápida descoberta das infracções.
+O exercício desta actividade exige, pois, pessoal técnico totalmente qualificado e disponibilidade de meios laboratoriais cada vez mais sofisticados, de custos elevados e crescentes, requerendo, naturalmente, a afectação de consideráveis recursos financeiros.
+Todavia, quer o Instituto de Qualidade Alimentar quer a Direcção-Geral de Inspecção Económica não têm retirado qualquer contrapartida financeira do montante das coimas aplicadas, ao contrário do que acontece em relação às restantes entidades com competência para a sua aplicação, às quais é destinada, usualmente, a totalidade ou parte do produto das mesmas.
+Tal situação deve-se ao facto de o Decreto-Lei n.º 28/84, de 20 de Janeiro, que tipifica as contra-ordenações da competência das entidades antes referidas, apenas prever que ao Instituto de Reinserção Social sejam destinados 20% do montante das coimas aplicadas pelas contra-ordenações aí previstas, nada dispondo quanto às entidades que intervêm na instrução e decisão dos processos.
+Assim, e com vista a melhorar os objectivos prosseguidos pela aplicação do direito de mera ordenação social, entende-se que uma parte do produto das coimas até aqui arrecadado pelos cofres do Estado deve ser afectada aos organismos a quem está cometida a investigação, instrução e decisão nos processos de contra-ordenações acima referidos, de modo a permitir que as importâncias assim obtidas sejam utilizadas para fazer face aos custos inerentes à prevenção e investigação desses ilícitos e a cobrir despesas com os respectivos processos.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+Artigo único. O artigo 78.º do Decreto-Lei n.º 28/84, de 20 de Janeiro, passa a ter a seguinte redacção:
+Artigo 78.º
+Destino do produto das coimas e sanções acessórias
+1 - Do produto das coimas e sanções acessórias aplicadas pelas contra-ordenações previstas neste diploma são afectados 20% ao Instituto de Reinserção Social, 30% ao Estado e o remanescente, quando não esteja especialmente destinado por lei a outras entidades, será afectado, em partes iguais, ao Instituto de Qualidade Alimentar e à Direcção-Geral de Inspecção Económica.
+2 - As receitas obtidas, nos termos do número anterior, pelo Instituto de Qualidade Alimentar e pela Direcção-Geral de Inspecção Económica serão aplicadas como suporte orçamental das acções de prevenção e investigação das infracções tipificadas como contra-ordenações neste diploma, bem como destinadas a cobrir os custos inerentes à introdução dos respectivos processos.
+Visto e aprovado em Conselho de Ministros de 31 de Agosto de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - Álvaro Roque de Pinho Bissaia Barreto - Jorge Manuel Mendes Antas.
+Promulgado em 26 de Setembro de 1989.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 1 de Outubro de 1989.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
