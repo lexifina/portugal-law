@@ -1,0 +1,57 @@
+# Acórdão do Supremo Tribunal Administrativo de 1987-10-08, processo 017540
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 017540
+
+**Data do Acordão:** 10/08/1987
+
+**Tribunal:** 1 SUBSECÇÃO DO CA
+
+**Relator:** PEREIRA DA SILVA
+
+**Descritores:** PROFESSOR DO ENSINO PRIMARIO; QUADRO GERAL DO ENSINO PRIMARIO; CONCURSO DE PROVIMENTO; ORDENAÇÃO DOS CANDIDATOS; EXONERAÇÃO; PROFESSOR DO ENSINO PARTICULAR; TEMPO DE SERVIÇO; PREFERENCIA; INTERPRETAÇÃO DO ACTO ADMINISTRATIVO; RECURSO HIERARQUICO NECESSARIO; RECURSO CONTENCIOSO; TEMPESTIVIDADE DO RECURSO; CONHECIMENTO DE FUNDO; REVOGAÇÃO DO ACTO ADMINISTRATIVO; FUNDAMENTAÇÃO INSUFICIENTE; PODER VINCULADO; PRINCIPIO DO APROVEITAMENTO DO ACTO ADMINISTRATIVO
+
+**Nº Convencional:** JSTA00025558
+
+**Nº do Documento:** SA119871008017540
+
+**Data de Entrada:** 05/24/1982
+
+**Recorrente:** NUNES , MARIA
+
+**Recorrido 1:** SE DA ADMINISTRAÇÃO ESCOLAR
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 87
+
+**Privacidade:** 01
+
+**Meio Processual:** REC CONT.
+
+**Objecto:** DESP SE DA ADMINISTRAÇÃO ESCOLAR DE 1982/01/18.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR ADM GER - FUNÇÃO PUBL ESTATUTARIO. DIR ADM CONT - ACTO.
+
+**Legislação Nacional:** LOSTA56 ART18 N2.; DL 263/77 DE 1977/06/23 ART1 ART10 A.; DL 583/80 DE 1980/12/31 ART1 N1 ART7 N1 A B ART8.; DL 553/80 DE 1980/11/21 ART45 N1 ART46 ART70 N2.
+
+**Jurisprudência Nacional:** AC STAP DE 1979/11/14 IN AD N218 PAG235.
+
+**Referência a Doutrina:** MARCELLO CAETANO MANUAL DE DIREITO ADMINISTRATIVO 10ED TI PAG480.; AFONSO QUEIRO IN RDES ANOIII PAG137.; Texto Integral
+
+## Sumário
+
+I - Não se encontra abrangida pelo escalão a) do n. 1 do art. 7 do Dec.-Lei n. 583/80, de 31 de Dezembro, a professora que tendo sido exonerada do quadro geral em 20-10-54, passou ao serviço docente do ensino particular, porque não pode considerar-se que se manteve, em exercicio de funções e sem interrupção no ambito do MEC.
+
+II - Não enferma de violação da lei pelas invocadas violações da alinea a) do n. 1 do art. 7 do Dec.-Lei n. 583/80, art. 46, 70 e 71 do D.L. n. 553/80 e art.
+
+18 n. 2 da LOSTA, o despacho do Secretario de Estado da Administração Escolar que negou provimento ao recurso hierarquico interposto do despacho do Director-Geral do Pessoal do MEC que descolocou a recorrente de uma escola ao abrigo da alinea a) do n. 1 do art. 7 do Dec-Lei n. 583/80, onde erradamente havia sido colocada em concurso quando se encontrava na situação referida em I.
+
+III - Tendo o despacho contenciosamente impugnado negado provimento ao recurso hierarquico tambem com fundamento na extemporaneidade deste recurso, e irrelevante a arguição do vicio de violação do paragrafo 3 do art. 52 do Reg. STA visto que aquele despacho sempre conheceu do merito do recurso hierarquico tempestivo.
+
+IV - A validade dos actos praticados no exercicio de poderes vinculados tem de ser feita em função dos pressupostos fixados na lei e independentemente, portanto, da respectiva fundamentação.
+
+V - Por isso, o despacho contenciosamente impugnado, praticado no exercicio de um poder vinculado, sempre teria que ser mantido ainda que se encontrasse fundamentado, isto com base no principio do aproveitamento dos actos administrativos.
