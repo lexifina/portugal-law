@@ -1,0 +1,13 @@
+Portaria n.º 226/78
+de 22 de Abril
+Tornando-se necessário corrigir a designação de secções dos centros de gestão financeira:
+Manda o Conselho da Revolução, pelo Chefe do Estado-Maior do Exército, ao abrigo do disposto no artigo 5.º do Decreto-Lei n.º 524/77, de 21 de Dezembro, o seguinte:
+O n.º 6 da Portaria n.º 101/78, de 21 de Fevereiro, passa a ter a seguinte redacção:
+6 - Os centros de gestão financeira compreendem:
+a) ...
+b) ...
+c) Secção de Gestão Económico-Orçamental;
+d) Secção de Gestão Financeira e Contabilidade;
+e) ...
+f) ...
+Estado-Maior do Exército, 28 de Março de 1978. - O Chefe do Estado-Maior do Exército, Vasco Joaquim Rocha Vieira, general.
