@@ -1,0 +1,6 @@
+Declaração
+Declara-se, para os devidos efeitos, que entre o original, arquivado nesta Secretaria-Geral, e o texto do Regulamento do Imposto para a Defesa e Valorização do Ultramar, aprovado pelo Decreto n.º 46386, publicado pelo Ministério das Finanças, Direcção-Geral das Contribuições e Impostos, no Diário do Governo n.º 132, 1.ª série, de 14 de Junho findo, existem as seguintes divergências, que assim se rectificam:
+No artigo 4.º, na alínea a) do § 2.º, onde se lê: «O lucro bruto legal da empresa ...», deve ler-se: «O lucro bruto global da empresa ...».
+No § 3.º, onde se lê: «... e o original, bem como os documentos anexos, será directa e imediatamente remetido pela repartição de finanças à 2.ª Repartição da Direcção-Geral das Contribuições e Impostos, acompanhado da nota ...», deve ler-se: «... e o original, bem como os documentos anexos, serão directa e imediatamente remetidos pela repartição de finanças à 2.ª Repartição da Direcção-Geral das Contribuições e Impostos, acompanhados da nota ...».
+No artigo 7.º, onde se lê: «Um delegado das Corporações da Indústria ou Comércio, ...», deve ler-se: «Um delegado das Corporações da Indústria ou do Comércio, ...».
+Secretaria-Geral da Presidência do Conselho, 7 de Julho de 1965. - O Secretário-Geral, Diogo de Castelbranco de Paiva de Faria Leite Brandão.
