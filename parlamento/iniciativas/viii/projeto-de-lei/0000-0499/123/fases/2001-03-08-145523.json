@@ -1,0 +1,688 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "123",
+    "id": "6178",
+    "titulo": "Institui o Programa Nacional de Prevenção e Combate ao Branqueamento de Capitais e cria a respectiva comissão nacional."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2001-03-08",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1878",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2001-03-08",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "6177",
+        "leg": "VIII",
+        "nr": "124",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "488",
+            "obs": null,
+            "pag": [
+              "2274-2293"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-03-09",
+            "pubLeg": "VIII",
+            "pubNr": "57",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/057/2001-03-09/2274?pgs=2274-2293&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Aperfeiçoa as disposições legais destinadas a prevenir e punir o branqueamento de capitais provenientes de actividades criminosas."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-03-08",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136975",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2274-2276",
+                  "2290-2291"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-09",
+                "pubLeg": "VIII",
+                "pubNr": "57",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/057/2001-03-09/2274?pgs=2274-2276,2290-2291&org=PLC"
+              }
+            ],
+            "sumario": "Institui o Programa Nacional de Prevenção e Combate ao Branqueamento de Capitais e cria a respectiva comissão nacional; aperfeiçoa as disposições legais destinadas a prevenir e punir o branqueamento de capitais provenientes de actividades criminosas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1625",
+                "nome": "Maria Celeste Cardona"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136986",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2275-2276"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-09",
+                "pubLeg": "VIII",
+                "pubNr": "57",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/057/2001-03-09/2275?pgs=2275-2276&org=PLC"
+              }
+            ],
+            "sumario": "Institui o Programa Nacional de Prevenção e Combate ao Branqueamento de Capitais e cria a respectiva comissão nacional; aperfeiçoa as disposições legais destinadas a prevenir e punir o branqueamento de capitais provenientes de actividades criminosas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  JUSTIÇA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "António Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136995",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2276-2280",
+                  "2291-2293"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-09",
+                "pubLeg": "VIII",
+                "pubNr": "57",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/057/2001-03-09/2276?pgs=2276-2280,2291-2293&org=PLC"
+              }
+            ],
+            "sumario": "Institui o Programa Nacional de Prevenção e Combate ao Branqueamento de Capitais e cria a respectiva comissão nacional; aperfeiçoa as disposições legais destinadas a prevenir e punir o branqueamento de capitais provenientes de actividades criminosas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1607",
+                "nome": "Patinha Antão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136996",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2278-2278"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-09",
+                "pubLeg": "VIII",
+                "pubNr": "57",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/057/2001-03-09/2278?pgs=2278&org=PLC"
+              }
+            ],
+            "sumario": "Institui o Programa Nacional de Prevenção e Combate ao Branqueamento de Capitais e cria a respectiva comissão nacional; aperfeiçoa as disposições legais destinadas a prevenir e punir o branqueamento de capitais provenientes de actividades criminosas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "136997",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2279-2279",
+                  "2281-2282",
+                  "2284-2284",
+                  "2286-2287"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-09",
+                "pubLeg": "VIII",
+                "pubNr": "57",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/057/2001-03-09/2279?pgs=2279,2281-2282,2284,2286-2287&org=PLC"
+              }
+            ],
+            "sumario": "Institui o Programa Nacional de Prevenção e Combate ao Branqueamento de Capitais e cria a respectiva comissão nacional; aperfeiçoa as disposições legais destinadas a prevenir e punir o branqueamento de capitais provenientes de actividades criminosas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1740",
+                "nome": "Basílio Horta"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137010",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2280-2282"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-09",
+                "pubLeg": "VIII",
+                "pubNr": "57",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/057/2001-03-09/2280?pgs=2280-2282&org=PLC"
+              }
+            ],
+            "sumario": "Institui o Programa Nacional de Prevenção e Combate ao Branqueamento de Capitais e cria a respectiva comissão nacional; aperfeiçoa as disposições legais destinadas a prevenir e punir o branqueamento de capitais provenientes de actividades criminosas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1436",
+                "nome": "Joaquim Sarmento"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137011",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2282-2284"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-09",
+                "pubLeg": "VIII",
+                "pubNr": "57",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/057/2001-03-09/2282?pgs=2282-2284&org=PLC"
+              }
+            ],
+            "sumario": "Institui o Programa Nacional de Prevenção e Combate ao Branqueamento de Capitais e cria a respectiva comissão nacional; aperfeiçoa as disposições legais destinadas a prevenir e punir o branqueamento de capitais provenientes de actividades criminosas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1607",
+                "nome": "Patinha Antão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137015",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2284-2286",
+                  "2289-2290"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-09",
+                "pubLeg": "VIII",
+                "pubNr": "57",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/057/2001-03-09/2284?pgs=2284-2286,2289-2290&org=PLC"
+              }
+            ],
+            "sumario": "Institui o Programa Nacional de Prevenção e Combate ao Branqueamento de Capitais e cria a respectiva comissão nacional; aperfeiçoa as disposições legais destinadas a prevenir e punir o branqueamento de capitais provenientes de actividades criminosas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137016",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2287-2288"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-09",
+                "pubLeg": "VIII",
+                "pubNr": "57",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/057/2001-03-09/2287?pgs=2287-2288&org=PLC"
+              }
+            ],
+            "sumario": "Institui o Programa Nacional de Prevenção e Combate ao Branqueamento de Capitais e cria a respectiva comissão nacional; aperfeiçoa as disposições legais destinadas a prevenir e punir o branqueamento de capitais provenientes de actividades criminosas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1653",
+                "nome": "Helena Neves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137017",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2288-2288"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-09",
+                "pubLeg": "VIII",
+                "pubNr": "57",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/057/2001-03-09/2288?pgs=2288&org=PLC"
+              }
+            ],
+            "sumario": "Institui o Programa Nacional de Prevenção e Combate ao Branqueamento de Capitais e cria a respectiva comissão nacional; aperfeiçoa as disposições legais destinadas a prevenir e punir o branqueamento de capitais provenientes de actividades criminosas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1630",
+                "nome": "Menezes Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137018",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2288-2289"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-09",
+                "pubLeg": "VIII",
+                "pubNr": "57",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/057/2001-03-09/2288?pgs=2288-2289&org=PLC"
+              }
+            ],
+            "sumario": "Institui o Programa Nacional de Prevenção e Combate ao Branqueamento de Capitais e cria a respectiva comissão nacional; aperfeiçoa as disposições legais destinadas a prevenir e punir o branqueamento de capitais provenientes de actividades criminosas",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "18:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137019",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2293-2293"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-09",
+                "pubLeg": "VIII",
+                "pubNr": "57",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/057/2001-03-09/2293?pgs=2293&org=PLC"
+              }
+            ],
+            "sumario": "Institui o Programa Nacional de Prevenção e Combate ao Branqueamento de Capitais e cria a respectiva comissão nacional; aperfeiçoa as disposições legais destinadas a prevenir e punir o branqueamento de capitais provenientes de actividades criminosas",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "145523",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "172970",
+        "obs": null,
+        "pag": [
+          "2274--2293"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-03-09",
+        "pubLeg": "VIII",
+        "pubNr": "57",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/057/2001-03-09/2274?pgs=2274--2293&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
