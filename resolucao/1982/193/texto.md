@@ -1,0 +1,5 @@
+Resolução n.º 193/82
+Considerando a necessidade de possibilitar a transferência para a MAAL - Mármores do Algarve, Lda., dos débitos avalizados à ex-CAETA, prevista na Resolução do Conselho de Ministros n.º 267/80, de 30 de Julho, o Conselho de Ministros para os Assuntos Económicos, reunido em 28 de Setembro de 1982, resolveu:
+a) Autorizar a prestação do aval do Estado aos juros em dívida à data da formalização desta garantia, que deverá ter lugar no prazo de 60 dias, a contar da publicação da presente resolução, relativamente aos débitos a avalizar à MAAL - Mármores do Algarve, Lda., nos termos da Resolução do Conselho de Ministros n.º 267/80, de 30 de Julho.
+b) Conceder o aval do Estado aos juros vincendos até 31 de Dezembro de 1982 ou até à celebração do contrato de viabilização, se ocorrer antes, relativos aos débitos avalizados pelo Estado à ex-CAETA e a transferir, nos termos da Resolução do Conselho de Ministros n.º 267/80, de 30 de Julho.
+Presidência do Conselho de Ministros, 28 de Setembro de 1982. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.
