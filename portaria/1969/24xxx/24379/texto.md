@@ -1,0 +1,17 @@
+Portaria n.º 24379
+Manda o Governo da República Portuguesa, pelo Ministro da Educação Nacional, que seja aprovado o Regulamento do Prémio Escolar D. Maria Beatriz Pacheco Malheiro Martins, que baixa assinado pelo director-geral do Ensino Primário.
+Ministério da Educação Nacional, 18 de Outubro de 1969. - Pelo Ministro da Educação Nacional, Justino Mendes de Almeida, Subsecretário de Estado da Administração Escolar.
+
+Regulamento do Prémio Escolar D. Maria Beatriz Pacheco Malheiro Marfins
+Artigo 1.º - 1. É criado, por iniciativa do Sr. Armando da Purificação Caldeira Martins, em memória de sua esposa, o Prémio Escolar D. Maria Beatriz Pacheco Malheiro Martins como estímulo aos alunos das escolas do ensino primário oficial do núcleo de Cruzeiro, freguesia de Antas, concelho de Vila Nova de Famalicão, ao qual pertence o lugar da Portela.
+2. Se o lugar da Portela vier a fazer parte de outro núcleo escolar, o Prémio em causa passará a ser atribuído aos alunos das escolas desse núcleo.
+Art. 2.º O fundo de manutenção do referido Prémio é constituído pela importância de 30000$00, oferecida para esse fim, convertida em certificado de renda perpétua da Junta do Crédito Público, assentado à Direcção do Distirto Escolar de Braga.
+Art. 3.º - 1. O rendimento do referido fundo será anualmente distribuído em partes iguais por quatro alunos (dois de cada sexo) das escolas referidas no artigo 1.º que tenham concluído com aprovação o exame do ciclo elementar (4.ª classe) do ensino primário e mais se tenham distinguido na prestação das provas desse exame.
+2. Se se verificar igualdade de mérito entre vários alunos na prestação das provas, far-se-á a escolha em atenção ao currículo escolar anterior.
+Art. 4.º - 1. Os nomes dos alunos a premiar serão comunicados pelos respectivos professores, após a realização dos exames da 4.ª classe, ao delegado escolar, que, por sua vez, os transmitirá à Direcção do Distrito Escolar.
+2. No caso de surgirem dificuldades na escolha dos candidatos, será o assunto resolvido pelo director escolar.
+Art. 5.º A distribuição dos prémios far-se-á anualmente no mês de Outubro, logo após o início do ano lectivo, e de preferência num domingo, em sessão solene a realizar num dos edifícios escolares da localidade, presidida pelo director do Distrito Escolar de Braga ou por um seu representante. Devem estar presentes os professores e alunos e pôr-se-á em relevo o significado do Prémio.
+Art. 6.º Os alunos que não comparecerem no dia designado para a distribuição dos prémios, nem os reclamarem no decorrer desse ano escolar, perderão o direito aos mesmos em benefício das caixas escolares.
+Art. 7.º Deverá ficar arquivado, pelo período de cinco anos, na Direcção Escolar, em relação à atribuição dos prémios de cada ano, um breve relatório das circunstâncias de que a mesma se tiver revestido.
+Art. 8.º Este Regulamento substitui o que foi publicado no Diário do Governo, 1.ª série, n.º 136, de 11 de Junho de 1969, aprovado pela Portaria n.º 24118.
+Direcção-Geral do Ensino Primário, 18 de Outubro de 1969. - Pelo Director-Geral, o Inspector Superior, Joaquim José Gomes Belo.
