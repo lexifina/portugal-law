@@ -1,0 +1,19 @@
+Decreto-Lei n.º 323/82
+de 13 de Agosto
+Verifica-se com muita frequência que, nos títulos de garantias prestadas por instituições de crédito ou outras entidades domiciliadas no estrangeiro a favor de instituições de crédito nacionais, não são transcritos os boletins de autorização das correspondentes operações de capitais, emitidos pelas autoridades portuguesas, sucedendo também que nem sempre a aceitação de tais garantias é precedida de autorização do Banco de Portugal.
+Considera-se que tal se deve não a um deliberado propósito de incumprimento das disposições legais aplicáveis, mas a exigências da prática bancária que, nomeadamente, tornam inviável aquela transcrição nos documentos elaborados por entidades estrangeiras.
+Assim, e porque no fundo o que se pretende é acautelar os riscos de operações com o estrangeiro e assegurar o seu controle pelo Banco de Portugal, tem este admitido apreciar as mencionadas operações a posteriori, sempre que a situação assim o exige, no pressuposto de que é este o comportamento correcto, por a lei ter querido defender, e não lesar, o interesse nacional.
+Sucede, porém, que, chamados a decidir sobre questões surgidas entre instituições portuguesas credoras e seus garantes bancários estrangeiros, os nossos tribunais se têm pronunciado no sentido de que a nulidade das garantias, por falta dos mencionados requisitos, é insanável por posterior autorização do Banco de Portugal. E, com esta base, várias instituições estrangeiras têm-se recusado a honrar os compromissos que assumiram.
+Urge, portanto, obviar a este estado de coisas, adequando os textos legislativos ao pensamento do legislador. E, porque este não mudou, importa conferir às modificações introduzidas um efeito retroactivo, de modo que fiquem abrangidas as situações actualmente existentes.
+Nestes termos:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º Ao artigo 25.º do Decreto-Lei n.º 183/70, de 28 de Abril, é aditado um n.º 3, com a seguinte redacção:
+3 - O disposto nos números anteriores não se aplica à constituição e execução de garantias bancárias prestadas por instituições de crédito ou outras entidades domiciliadas no estrangeiro a favor de instituições de crédito domiciliadas em Portugal.
+Art. 2.º A prestação de garantias bancárias por instituições de crédito domiciliadas em Portugal e respeitantes a obrigações em que figuram, como sujeito activo ou passivo, residentes ou domiciliados no estrangeiro dependerá de autorização especial e prévia do Banco de Portugal.
+Art. 3.º O Banco de Portugal poderá, para a concessão da autorização prevista no artigo anterior, exigir do interessado, se for caso disso, que obtenha previamente o boletim de autorização de exportação ou importação de capitais, referentes ao cumprimento da obrigação a que a garantia bancária respeitar.
+Art. 4.º Tratando-se da aceitação de garantias prestadas por instituições de crédito ou outras entidades domiciliadas no estrangeiro a favor de instituições de crédito domiciliadas em Portugal, a autorização do Banco de Portugal poderá, se este o considerar necessário à defesa da economia nacional, ser dada posteriormente, desde que seja antes da respectiva execução.
+Art. 5.º As normas constantes do presente diploma aplicam-se também às garantias que, à data da sua entrada em vigor, tenham sido prestadas por instituições de crédito ou outras entidades domiciliadas no estrangeiro a favor de instituições de crédito domiciliadas em Portugal, sem que àquelas seja lícito invocar a falta das autorizações exigidas pela lei portuguesa ou da respectiva transcrição para se eximirem ao cumprimento de obrigações que tiverem assumido.
+Visto e aprovado em Conselho de Ministros de 29 de Junho de 1982. - Diogo Pinto de Freitas do Amaral.
+Promulgado em 29 de Julho de 1982.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
