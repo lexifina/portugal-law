@@ -1,0 +1,6 @@
+Resolução n.º 358/79
+O Conselho de Ministros, através da Resolução n.º 144/79, de 18 de Abril, publicada no Diário da República, 1.ª série, n.º 109, de 12 de Maio de 1979, autorizou a Empresa Nacional de Urânio, E. P., acompanhada pelo Ministério da indústria através dos seus órgãos tecnicamente competentes para o efeito, a desenvolver as necessárias acções com vista a apresentar ao Governo propostas concretas quanto à efectivação de operações de comercialização do concentrado de urânio, existente em armazém - seja o que é pertença do Estado, seja o produzido pela empresa -, nas modalidades de venda/compra a termo e ou de empréstimo.
+A situação real do mercado de urânio e as negociações entretanto efectuadas pela Empresa evidenciaram a conveniência de ser alargado o âmbito das modalidades de comercialização.
+Nesta conformidade, o Conselho de Ministros, reunido em 30 de Novembro de 1979, resolveu, nas mesmas condições da Resolução n.º 144/79:
+Alargar o âmbito das modalidades de comercialização à venda de concentrado/compra a termo de urânio enriquecido e ou à simples venda de concentrado - neste último caso até ao limite de 150 t no período de 1979-1980 - com vista à apresentação ao Governo de propostas concretas.
+Presidência do Conselho de Ministros, 30 de Novembro de 1979. - O Primeiro-Ministro, Maria de Lourdes Ruivo da Silva Matos Pintasilgo.
