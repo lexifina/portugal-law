@@ -1,0 +1,12 @@
+Portaria n.º 208/2005
+de 24 de Fevereiro
+O Decreto-Lei n.º 234/2003, de 27 de Setembro, veio determinar a aplicação, com as necessárias adaptações, dos regimes jurídicos constantes do Decreto-Lei n.º 270/2002, de 2 de Dezembro, da Lei n.º 14/2000, de 8 de Agosto, com a redacção que lhe foi dada pelo Decreto-Lei n.º 271/2002, de 2 de Dezembro, e da Portaria n.º 1501/2002, de 12 de Dezembro, aos subsistemas de saúde geridos por serviços e organismos do Estado que comparticipam no preço dos medicamentos dos seus beneficiários, como é nomeadamente o caso da Assistência na Doença aos Militares da Armada (ADMA), da Assistência na Doença aos Militares do Exército (ADME) e da Assistência na Doença aos Militares da Força Aérea (ADMFA).
+Nos termos do artigo 2.º do mesmo diploma, a adesão dos subsistemas ao regime jurídico consagrado nos diplomas referidos no artigo 1.º faz-se mediante portaria conjunta dos Ministros da Saúde e da tutela, nela se fixando, tendo em conta o grau de adaptação do subsistema, a data a partir da qual esta adesão entra em vigor.
+Importa, por isso, proceder à concretização dessa adesão por parte da ADMA, da ADME e da ADMFA, reunidas que estão as condições consideradas necessárias para o efeito.
+Assim:
+Ao abrigo do disposto no artigo 2.º do Decreto-Lei n.º 234/2003, de 27 de Setembro, manda o Governo, pelos Ministros de Estado, da Defesa Nacional e dos Assuntos do Mar e da Saúde, o seguinte:
+1.º A comparticipação pelo Estado no preço dos medicamentos prescritos e dispensados aos beneficiários da ADMA, da ADME e da ADMFA fica sujeita aos regimes jurídicos constantes do Decreto-Lei n.º 270/2002, de 2 de Dezembro, da Lei n.º 14/2000, de 8 de Agosto, com a redacção que lhe foi dada pelo Decreto-Lei n.º 271/2002, de 2 de Dezembro, e da Portaria n.º 1501/2002, de 12 de Dezembro.
+2.º A ADMA, a ADME e a ADMFA poderão celebrar com as administrações regionais de saúde competentes os protocolos adequados com vista a facultar as bases de dados informatizados, bem como a prestação, por aquelas, de serviços, nomeadamente de conferência de facturas e receituário.
+3.º A presente portaria entra em vigor no dia 1 do 2.º mês após a sua publicação.
+Em 3 de Fevereiro de 2005.
+Pelo Ministro de Estado, da Defesa Nacional e dos Assuntos do Mar, Jorge Manuel Ferraz de Freitas Neto, Secretário de Estado da Defesa e Antigos Combatentes. - O Ministro da Saúde, Luís Filipe da Conceição Pereira.
