@@ -1,0 +1,7 @@
+Despacho Normativo n.º 644/94
+Considerando que, com a entrada em vigor do Decreto Regulamentar n.º 36/93, de 21 de Outubro, cessou automaticamente, em 26 de Outubro de 1993, a comissão de serviço em que a técnica superior do quadro de pessoal do Centro Nacional de Pensões Maria José Martins Mendes Caldeira Fradique vinha exercendo o cargo de director de serviços do extinto Centro Regional de Segurança Social de Lisboa e que a mesma reúne os requisitos necessários para provimento na categoria de técnico superior principal da carreira técnica superior;
+Considerando o disposto na primitiva redacção do n.º 2 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, mantida transitoriamente em vigor pelo artigo 3.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, e o disposto nos n.os 6 e 8 do mesmo artigo 18.º, na redacção dada pelo artigo 1.º do citado Decreto-Lei n.º 34/93, de 13 de Fevereiro:
+Determina-se o seguinte:
+1 - É criado no quadro de pessoal do Centro Nacional de Pensões, aprovado pelo Decreto Regulamentar n.º 17/92, de 22 de Julho, um lugar de técnico superior principal da carreira técnica superior, a extinguir quando vagar.
+2 - A criação do lugar referido no número anterior produz efeitos a 26 de Outubro de 1993.
+Ministérios das Finanças e do Emprego e da Segurança Social, 27 de Julho de 1994. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - Pelo Ministro do Emprego e da Segurança Social, José Frederico de Lemos Salter Cid, Secretário de Estado da Segurança Social.
