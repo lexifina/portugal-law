@@ -1,0 +1,3 @@
+Resolução n.º 25/82
+O Conselho de Ministros para os Assuntos Económicos, reunido em 12 de Janeiro de 1982, resolveu exonerar, por conveniência de serviço, o capitão-de-mar-e-guerra Manuel João Duarte Cristiano Casquinho e Fernando Bastos Lopes dos cargos de presidente e vogal da comissão de gestão da CPP - Companhia Portuguesa de Pesca, para os quais haviam sido nomeados por resoluções do Conselho de Ministros de 20 de Junho e 11 de Julho de 1979, publicadas no Diário da República, 2.ª série, de 5 e 30 de Julho de 1979, respectivamente.
+Presidência do Conselho de Ministros, 12 de Janeiro de 1982. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.
