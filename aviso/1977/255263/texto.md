@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que na data de 29 de Março de 1977 a Convenção da Haia Relativa à Citação e à Notificação no Estrangeiro dos Actos Judiciais e Extrajudiciais em Matéria Civil e Comercial, de 15 de Novembro de 1965, de que Portugal é parte, tinha sido ratificada ou a ela tinham aderido os seguintes países: Bélgica, Dinamarca, Egipto, Estados Unidos, Finlândia, França, Israel, Japão, Luxemburgo, Noruega, Países Baixos, Portugal, Reino Unido, Suécia, Turquia, Barbados, Botswana e Malawi.
+Secretaria-Geral do Ministério, 19 de Julho de 1977. - O Chefe dos Serviços Jurídicos e de Tratados, Mário d'Oliveira Neves.
