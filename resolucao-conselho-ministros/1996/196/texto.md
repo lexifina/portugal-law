@@ -1,0 +1,8 @@
+Resolução do Conselho de Ministros n.º 196/96
+Cabo Verde sofreu no ano uma situação de seca, considerada pelos especialistas a pior dos últimos 50 anos. A produção agrícola, em consequência, registou um decréscimo superior a 90%. Cabo Verde enfrenta pois, por razões naturais, de natureza conjuntural, e não por problemas estruturais e de desenvolvimento, uma situação de grande penúria alimentar, que se prolongará ao longo do próximo ano.
+O Presidente da República de Cabo Verde lançou na Cimeira Alimentar da FAO, que se realizou recentemente em Roma, um veemente apelo à comunidade internacional para o reforço da ajuda alimentar à Nação Cabo-Verdiana, em face desta situação excepcional de penúria alimentar.
+Este apelo foi retomado pelo Ministro da Agricultura de Cabo Verde aquando da reunião de Ministros da Agricultura da CPLP realizada nos dias 22 e 23 de Novembro em Lisboa. O Ministro da Cabo Verde fez um apelo à boa vontade de Portugal, chamando a atenção para a situação calamitosa que poderá ser vivida em Cabo Verde caso não consiga garantir a tempo um abastecimento mínimo de géneros alimentares.
+Assim, nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:
+1 - Concretizar rapidamente uma medida urgente e excepcional de ajuda alimentar à República de Cabo Verde com um auxílio humanitário de emergência, através da entrega gratuita de alimentos no valor máximo de 250000 contos.
+2 - Cometer aos Ministros dos Negócios Estrangeiros e da Agricultura, do Desenvolvimento Rural e das Pescas a realização das tarefas necessárias à concretização daquela medida de ajuda alimentar de emergência.
+Presidência do Conselho de Ministros, 5 de Dezembro de 1996. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
