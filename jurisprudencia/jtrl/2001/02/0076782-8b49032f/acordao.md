@@ -1,0 +1,35 @@
+# Acórdão do Tribunal da Relação de Lisboa de 2001-02-08, processo 0076782
+
+**Acórdãos TRL:** Acórdão do Tribunal da Relação de Lisboa
+
+**Processo:** 0076782
+
+**Nº Convencional:** JTRL00038376
+
+**Relator:** SILVA PEREIRA
+
+**Descritores:** RECURSO; PODERES DA RELAÇÃO; AMPLIAÇÃO DA MATÉRIA DE FACTO
+
+**Nº do Documento:** RL200102080076782
+
+**Data do Acordão:** 02/08/2001
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** APELAÇÃO.
+
+**Decisão:** CONFIRMADA A DECISÃO.
+
+**Área Temática:** DIR PROC CIV.
+
+**Legislação Nacional:** CPC95 ART264 ART511 N1 ART650 N2 F ART652 N1 N3 N5 ART653 N2 N3 N4 ART712 N4.
+
+## Sumário
+
+A inexistência de decisão sobre a matéria de facto devido ao acordo das partes na audiência de discussão e julgamento sobre todos os pontos de facto que, por serem controvertidos, figuravam na base instrutória, não constitui omissão que configure qualquer nulidade ou irregularidade, nem pode constituir deficiência, obscuridade ou contradição da decisão, não dando lugar à aplicação do comando do art. 712º, nº 4, do CPC.
+
+Não tendo os RR. reclamado de qualquer deficiência, excesso ou obscuridade aquando da elaboração da base instrutória e ignorando-se em absoluto quais os factos instrumentais que resultaram da instrução e discussão da causa, que os apelantes nem sequer mencionam no corpo ou nas conclusões da alegação de recurso, não há razões para a ampliação da dita base instrutória ao abrigo das disposições conjugadas dos arts. 650º, nº 2, al. f) e 264º do CPC.
