@@ -1,0 +1,10 @@
+Portaria n.º 803/85
+de 26 de Outubro
+A implantação do Instituto de Apoio às Pequenas e Médias Empresas Industriais em todo o País, que se tem desenvolvido progressivamente, e a consequente delegação de competências a que se procedeu, aconselhou que fossem oportunamente definidas zonas de assistência técnica nas regiões do Norte, Centro e Sul, cuja coordenação foi cometida aos 3 vice-presidentes, ficando as actividades dos serviços técnicos e dos restantes serviços centrais de âmbito nacional dependentes da coordenação e orientação directa do presidente deste Instituto.
+Esta estrutura tem-se demonstrado eficaz, apontando-se, porém, o inconveniente de grande assoberbamento de trabalho do presidente em face do grande número desses serviços e da inexistência de dirigente que o possa coadjuvar e substituir nas suas faltas e impedimentos, tendo em conta especialmente o envolvimento do trabalho em maior número de programas de desenvolvimento e de modernização industrial, o que exige um maior esforço de coordenação e de relações com outras entidades.
+Assim, sem prejuízo da reformulação profunda dos estatutos do organismo a curto prazo, impõe-se a criação imediata de um lugar de vice-presidente que permita sanar os inconvenientes apontados.
+Nestes termos, com fundamento no n.º 2 do artigo 1.º do Decreto-Lei n.º 59/76, de 23 de Janeiro:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e da Indústria e Energia e pelo Secretário de Estado da Administração Pública, que seja criado no quadro de pessoal de Instituto de Apoio às Pequenas e Médias Empresas Industriais, constante do anexo XIV à Portaria n.º 284/80, de 24 de Maio, um lugar de vice-presidente, equiparado a subdirector-geral.
+Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e da Indústria e Energia.
+Assinada em 31 de Julho de 1985.
+Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Indústria e Energia, José Veiga Simão. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.
