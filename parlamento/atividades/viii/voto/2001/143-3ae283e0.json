@@ -1,0 +1,111 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=LP%2fOgLAb3t4%2bGsG2vqX38GzdKA0DsSOilz180%2baZrRHZbY2ZyjrhRJITfX%2f4JvzgIpYxynAuyDZqMs8hBcPPLT%2fI0q9u8MMiyWQHHJvfCxNxSYCyQCZa40379RbPXfS1eObgAvEwTa%2bLQFrjrIgtPxLl4YFMtDX6YgdOKI5eCnF%2bvxROsBiOQNd%2f%2bD7ZIA%2bPGOe%2byHBwSrj1amb6CA2lEGYGPzi6UwVYHBUB3ZAc2uqbWu0ItL2pRH70zsePHehNUl0kpVVKX9T6oWptJ7t056YzKhyLpkozoiDsRfecnVYhM5gBA5%2b6Zc7azwXnL0spXks4%2fhn8QJf%2bR3o9jtjaq%2ferHflgP5UGDQaRhEKnWsk%3d&fich=AtividadesVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "db7d2bf51a136afdf341f5db08865a5c3c40ce05fa143c82aa44b6d3c0df960e",
+  "legislatura": "VIII",
+  "tipo": "Voto",
+  "numero": "143",
+  "data_registo": "2001-04-04",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Voto de saudação a todos quantos participaram na Revolta da Madeira, em 4 de Abril de l931",
+    "AutoresGP": [
+      "PS"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": "2001-04-04",
+    "DataAnuncio": null,
+    "DataEntrada": "2001-04-04",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "VIII",
+    "Numero": "143",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "262051",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-04-07",
+        "pubLeg": "VIII",
+        "pubNr": "24",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/08/02/024/2001-04-07?org=PLC"
+      }
+    ],
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "19453",
+        "obs": null,
+        "pag": [
+          "2669-2670"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-04-05",
+        "pubLeg": "VIII",
+        "pubNr": "68",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/068/2001-04-05/2669?pgs=2669-2670&org=PLC"
+      }
+    ],
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "2",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": "Grupos Parlamentares",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2001-04-04",
+        "descricao": null,
+        "detalhe": null,
+        "id": "28102",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "262775",
+            "obs": null,
+            "pag": [
+              "2672-2672"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-04-05",
+            "pubLeg": "VIII",
+            "pubNr": "68",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/068/2001-04-05/2672?pgs=2672&org=PLC"
+          }
+        ],
+        "resultado": "Aprovado",
+        "reuniao": "68",
+        "tipoReuniao": null,
+        "unanime": "unanime"
+      }
+    ]
+  }
+}
