@@ -1,0 +1,5 @@
+Aviso n.º 70/94
+Por ordem superior se torna público que o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos emitiu uma notificação, em conformidade com o artigo 42 da Convenção Relativa à Obtenção de Provas no Estrangeiro em Matéria Civil ou Comercial, concluída na Haia em 18 de Março de 1970, nos termos da qual a Embaixada do Reino Unido da Grã-Bretanha e da Irlanda do Norte informou que a adesão da Austrália se estende ao Bailiado de Guernesey, Bailiado de Jersey, ilha de Man, Anguilla, ilhas dos Caimões, ilhas Falkland, Gibraltar, Hong-Kong e Geórgia do Sul e às ilhas Sandwich do Sul.
+Relativamente a Portugal, a mencionada Convenção foi ratificada pelo Decreto n.º 764/74, de 30 de Dezembro, conforme Diário da República, 1.ª série, n.º 302, 2.º suplemento, de 30 de Dezembro de 1974.
+Entrou em vigor para Portugal a 11 de Maio de 1975.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 2 de Fevereiro de 1994. - O Secretário-Geral-Adjunto, Afonso de Castro de Sá Pereira e Vasconcelos.
