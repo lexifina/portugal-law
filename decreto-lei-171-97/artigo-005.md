@@ -1,0 +1,5 @@
+# Artigo 5.º
+
+1 - A gravura do anverso da moeda de 1000$00 apresenta, na metade superior do campo, o escudo das armas nacionais de recorte brigantino com dois golfinhos heráldicos como tenentes, na metade inferior do campo, dividido por linhas onduladas, uma representação do esqualo Odontaspis nasutus, Bragança, tendo por baixo duas espécies de tunídios, cuja migração foi estudada desde 1896, num fundo de silhuetas espelhadas de peixes vários, na orla superior, a legenda «República Portuguesa», na parte inferior do campo, a era «1997» e, na orla inferior, o valor facial «1000 Esc.».
+
+2 - A gravura do reverso apresenta, na metade superior do campo, os bustos confrontados do príncipe Alberto I do Mónaco e do rei D. Carlos I de Portugal, identificados por cartelas inferiores com os seus nomes, na metade inferior do campo, uma representação do iate real português, ladeado superiormente pela inscrição «Yacht Amélia», na orla superior, a legenda «Centenário das Expedições Oceanográficas», e, na orla inferior, as datas «1896-1897», intervalada pelo logótipo a EXPO 98.
