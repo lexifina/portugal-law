@@ -1,0 +1,12 @@
+Portaria n.º 673-A/80
+de 17 de Setembro
+Dando execução à Resolução do Conselho de Ministros que reconheceu a necessidade de se proceder à requisição civil do pessoal da CP - Caminhos de Ferro Portugueses, E. P., e de harmonia com o disposto no artigo 4.º, n.º 2, do Decreto-Lei n.º 637/74, de 20 de Novembro:
+Manda o Governo da República Portuguesa, pelos Ministros dos Transportes e Comunicações e do Trabalho, o seguinte:
+1.º São requisitados, nos termos e ao abrigo dos n.os 1, 2, alínea g), e 4 do artigo 8.º da Lei n.º 65/77 e do artigo 3.º, n.º 1, alínea c), do Decreto-Lei n.º 637/74, os trabalhadores da CP - Caminhos de Ferro Portugueses, E. P., associados no Sindicato Nacional dos Maquinistas dos Caminhos de Ferro Portugueses e outros que venham a aderir à greve por si decretada.
+2.º É dever dos requisitados desempenhar as funções que lhes estão habitualmente cometidas no âmbito da estrutura, quadros e estatutos de trabalho da empresa.
+3.º Os trabalhadores requisitados ficam sujeitos ao Estatuto Disciplinar dos Funcionários e Agentes da Administração Central, Regional e Local, sendo-lhes em tudo o mais aplicável o regime constante do estatuto laboral actualmente em vigor, salvo, quanto a este, o que respeita à transferência de trabalhadores por razões de serviço.
+4.º A requisição durará pelo prazo de quinze dias, prorrogável automaticamente por períodos iguais sucessivos, sem necessidade de qualquer outra formalidade, até que lhe seja posto termo por formalismo adequado.
+5.º A execução da presente requisição será assegurada pelo Ministro dos Transportes e Comunicações, o qual é investido em todos os poderes e competências para aplicar, por despacho, o regime definido nesta portaria e adoptar medidas adequadas ao seu cumprimento.
+6.º A competência para a prática de actos de gestão decorrentes da requisição cabe ao conselho de gerência da empresa Caminhos de Ferro Portugueses, E. P., o qual fica directamente responsável perante o Ministro dos Transportes e Comunicações.
+7.º Cumprido o artigo 8.º do Decreto-Lei n.º 637/74, esta portaria de requisição produzirá efeitos independentemente da data de distribuição do Diário da República em que for publicada.
+Ministérios do Trabalho e dos Transportes e Comunicações, 18 de Setembro de 1980. - O Ministro do Trabalho, Eusébio Marques de Carvalho. - Pelo Ministro dos Transportes e Comunicações, José Miguel Nunes Anacoreta Correia, Secretário de Estado dos Transportes.
