@@ -1,0 +1,108 @@
+Portaria n.º 65/97
+de 28 de Janeiro
+Considerando que o Decreto-Lei n.º 180/95, de 26 de Julho, que define e regula os métodos de protecção das culturas, nomeadamente a luta química aconselhada, protecção e produção integradas das culturas, visa estabelecer um regime jurídico de base relativo aos métodos de protecção da produção agrícola, promovendo a utilização de práticas agrícolas adequadas à salvaguarda do meio ambiente;
+Considerando que importa agora estabelecer as normas técnicas que regulam a aplicação prática daqueles métodos de protecção das culturas:
+Manda o Governo, pelos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente, ao abrigo do disposto no artigo 10.º do Decreto-Lei n.º 180/95, de 26 de Julho, na redacção que lhe foi dada pelo Decreto-Lei n.º 110/96, de 2 de Agosto, aprovar o Regulamento dos Métodos de Protecção das Culturas, em especial a luta química aconselhada, a protecção e a produção integradas, anexo a este diploma e que dele faz parte integrante.
+Ministérios da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente.
+Assinada em 17 de Dezembro de 1996.
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Manuel Maria Cardoso Leal, Secretário de Estado da Produção Agro-Alimentar. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.
+
+ANEXO I
+Regulamento dos Métodos de Protecção das Culturas
+Artigo 1.º
+Protecção integrada das culturas
+Em protecção integrada só devem ser utilizados produtos fitofarmacêuticos que satisfaçam determinadas condições sobre os seus efeitos secundários, nomeadamente a classificação toxicológica relativamente ao homem, toxicidade sobre os principais grupos de auxiliares, persistência, mobilidade no solo e qualidade dos produtos alimentares.
+Artigo 2.º
+Produção integrada das culturas
+1 - Num sistema de produção integrada, os agricultores obrigam-se a articular a protecção integrada com a aplicação correcta de outras fitotecnias, em especial de fertilizações, regas e podas.
+2 - A fertilização deve ser orientada para a nutrição adequada das culturas, corrigindo eventuais carências e evitando excessos minerais por forma a proporcionar produções de elevada qualidade e a preservação da qualidade do ambiente, devendo ter em conta, nomeadamente:
+a) A satisfação das necessidades nutritivas das culturas para níveis de produção realisticamente previsíveis em função do potencial genético da cultura, da qualidade do solo e da possibilidade de assegurar a correcta execução das restantes operações culturais;
+b) A capacidade do solo para disponibilizar à cultura os diversos nutrientes de que ela necessita;
+c) As características do solo e as condições meteorológicas prevalecentes, as quais influirão na escolha dos tipos de fertilizantes, das épocas e técnicas da sua aplicação, por forma a obter a sua melhor eficácia e a reduzir os riscos de perdas em prejuízo do ambiente.
+Artigo 3.º
+Plano de fertilização
+1 - Com base no disposto do n.º 2 do artigo anterior, deverá estabelecer-se para a exploração agrícola um plano de fertilização por parcela e cultura no caso das culturas perenes, ou por rotação no caso das culturas anuais.
+2 - No plano a que se refere o número anterior serão definidos de forma objectiva os tipos, as quantidades, as épocas e as técnicas de aplicação dos fertilizantes, devendo ser revisto periodicamente em função da análise de solo e, sempre que necessário e conveniente, da análise da planta.
+Artigo 4.º
+Fertilizantes
+1 - Os fertilizantes a aplicar devem obedecer às normas oficiais em vigor ou cuja venda esteja legalmente autorizada, devendo, em especial, ser isentos ou possuir teores muito baixos de metais pesados ou de outras substâncias tóxicas para o ambiente, e só deverão usar-se fertilizantes com micronutrientes quando a sua necessidade for tecnicamente reconhecida.
+2 - Numa exploração de produção integrada deverão registar-se no caderno de campo as quantidades, bem como as datas de aplicação dos fertilizantes usados.
+Artigo 5.º
+Técnicas culturais
+1 - Para a prática da produção integrada é recomendada a aplicação de técnicas culturais que estabeleçam um adequado equilíbrio entre a localização da cultura, a variedade a cultivar e o sistema cultural de modo que seja possível obter-se o máximo de produtividade.
+2 - O material destinado à plantação deve ser certificado de acordo com as normas oficiais em vigor, garantindo nomeadamente a sua homogeneidade e estado sanitário.
+3 - A densidade de plantação deve ser adequada às características edafo-climáticas da região.
+4 - As árvores devem ser podadas de modo a obter um desenvolvimento uniforme e equilibrado, assegurando uma boa utilização do espaço, que permita produções regulares, maximizando a utilização da radiação e simplificação das operações culturais.
+Artigo 6.º
+Cadernos de campo e publicações
+1 - A Direcção-Geral de Protecção das Culturas elaborará e fará publicar o caderno de campo a que se referem as alíneas c) do n.º 1 do artigo 3.º e b) do n.º 1 do artigo 7.º do Decreto-Lei n.º 180/95, de 26 de Julho, em documento intitulado «Cadernos de campo a utilizar em luta química aconselhada, protecção e produção integradas».
+2 - Os produtos fitofarmacêuticos a utilizar para a prática da luta química aconselhada serão objecto de publicação no documento «Guia dos produtos fitofarmacêuticos», elaborado pela Direcção-Geral de Protecção das Culturas.
+3 - No exercício da protecção e produção integradas das culturas, os níveis económicos de ataque aos quais se refere o n.º 2 do artigo 4.º do Decreto-Lei n.º 180/95, de 26 de Julho, serão objecto de publicação no documento «Níveis económicos de ataque a referenciar em protecção integrada das culturas», elaborado pela Direcção-Geral de Protecção das Culturas, que deverá ser revisto anualmente ou sempre que os conhecimentos o exijam.
+4 - As listas dos produtos fitofarmacêuticos aconselhados em protecção e produção integradas serão objecto de publicação no documento «Listas dos produtos fitofarmacêuticos aconselhados em protecção integrada das culturas», elaborado pela Direcção-Geral de Protecção das Culturas, que deverá ser revisto anualmente ou sempre que os conhecimentos o exijam.
+5 - O plano de fertilização a que se refere o n.º 3 do artigo 8.º do Decreto-Lei n.º 180/95, de 26 de Julho, mencionado no artigo 3.º do presente Regulamento, deverá respeitar as normas e princípios expressos no documento «A fertilização no âmbito da produção integrada das culturas», elaborado pelo Instituto Nacional de Investigação Agrária (INIA), através do Laboratório Químico Rebelo da Silva.
+6 - O plano de condução, podas, mondas e regas referido no n.º 3 do artigo 8.º do Decreto-Lei n.º 180/95, de 26 de Julho, é objecto de publicação no documento «Plano de condução, podas, mondas e regas aconselhado em produção integrada das culturas», elaborado pelo INIA, através da Estação Nacional de Fruticultura Vieira Natividade.
+7 - Os documentos «Lista dos produtos fitofarmacêuticos aconselhados em protecção integrada das culturas» e «A fertilização no âmbito da produção integrada das culturas» referidos nos n.os 4 e 5 do presente Regulamento deverão ser objecto de parecer prévio do Ministério do Ambiente, através do Instituto da Água.
+Artigo 7.º
+Reconhecimento das organizações de produtores de protecção e produção integradas
+1 - De acordo com o estabelecido no artigo 6.º do Decreto-Lei n.º 180/95, de 26 de Julho, na redacção que lhe foi dada pelo Decreto-Lei n.º 110/96, de 2 de Agosto, o pedido de reconhecimento das organizações de produtores de protecção e produção integradas deve ser feito através de requerimento dirigido ao director-geral de Protecção das Culturas, acompanhado dos seguintes documentos:
+a) Estatutos;
+b) Acta de criação de secção autónoma, se for o caso;
+c) Acta de eleição dos corpos gerentes;
+d) Acta de eleição ou nomeação de responsável pela secção autónoma, se for o caso;
+e) Programa de protecção e ou produção integradas com parecer prévio favorável da direcção regional de agricultura da região ou regiões onde a organização pretende exercer a sua actividade;
+f) Minuta de contrato tipo de assistência técnica a celebrar com os agricultores associados;
+g) Currículo dos técnicos contratados, em tempo inteiro, para prestação de assistência técnica no âmbito da protecção e ou produção integradas;
+h) Relação dos agricultores a que a associação presta assistência técnica, com discriminação individual de:
+i) Habilitações literárias;
+ii) Cursos de formação na área em exercício;
+iii) Caracterização da exploração;
+iv) Culturas e áreas ocupadas em protecção ou produção integradas.
+2 - Para efeitos da aprovação do programa de protecção e ou produção integradas a que se refere a alínea b) do n.º 2 do artigo 6.º do Decreto-Lei n.º 180/95, de 26 de Julho, os requisitos mínimos a apresentar são os referidos no anexo II da presente portaria, que dela faz parte integrante.
+Artigo 8.º
+Obrigações das organizações de produtores de protecção e produção integradas
+Para além das referidas no artigo 7.º do Decreto-Lei n.º 180/95, de 26 de Julho, são ainda obrigações das organizações de produtores:
+a) Contratar o número de técnicos necessários, o qual deve estar relacionado com a área de protecção ou produção integradas inscrita, devendo essa relação respeitar o que se encontra estipulado no quadro do anexo III do presente Regulamento e que dele faz parte integrante;
+b) Prestar aos seus associados assistência técnica ao longo do ciclo produtivo, nos termos contratualmente estabelecidos;
+c) Controlar a actividade dos seus associados, uma vez por ano e duas semanas antes da data prevista para a colheita.
+Artigo 9.º
+Obrigações dos agricultores
+1 - O agricultor membro deve comprometer-se, sob forma escrita, a seguir e pôr em prática os princípios e as normas da protecção ou produção integrada quanto às parcelas rigorosamente identificadas.
+2 - O agricultor membro deve frequentar uma acção de formação de protecção e ou produção integradas no 1.º ano de adesão, conforme previsto no n.º 1 do artigo 7.º do Decreto-Lei n.º 180/95, de 26 de Julho.
+3 - No caso da produção integrada, o agricultor deverá solicitar a análise do solo e ou a análise foliar, tendo em conta o disposto no n.º 2 do artigo 3.º do presente Regulamento.
+Artigo 10.º
+Inspecções de controlo
+1 - O controlo do exercício da luta química aconselhada, protecção e produção integradas será realizado por um inspector oficial que, possuindo licenciatura ou bacharelato, pertença aos serviços oficiais responsáveis pela protecção das culturas.
+2 - O controlo deverá ser efectuado com a presença do agricultor e de um técnico da organização de produtores de protecção integrada ou produção integrada de que o agricultor seja associado.
+3 - O controlo oficial não deverá exceder, em regra, 10% das parcelas inscritas em luta química aconselhada, protecção e produção integradas.
+Artigo 11.º
+Prerrogativas do inspector
+1 - Ao inspector, no desempenho das suas funções, deve ser facultado:
+a) O acesso ao caderno de campo;
+b) O acesso aos resultados das análises químicas efectuadas ao solo e à água;
+c) O acesso à colheita de amostras de terra, folhas, frutos ou outros órgãos vegetativos para análise de resíduos;
+d) O acesso aos comprovativos dos produtos fitofarmacêuticos e fertilizantes adquiridos.
+2 - O inspector deve ainda preencher um formulário onde sejam consideradas as anotações constantes dos documentos referidos no número anterior, que será atestado por todos os intervenientes nas inspecções de controlo.
+Artigo 12.º
+Suspensão do reconhecimento
+A violação do disposto na presente portaria, desde que comprovada a sua intencionalidade, implica a suspensão do reconhecimento atribuído de acordo com o disposto no artigo 6.º do Decreto-Lei n.º 180/95, de 26 de Julho, na redacção que lhe foi dada pelo Decreto-Lei n.º 110/96, de 2 de Agosto.
+Artigo 13.º
+Regime legal
+Os produtos produzidos segundo a prática da protecção ou produção integradas devem obedecer às disposições legais vigentes relativas a produtos agro-alimentares.
+
+ANEXO II
+1 - No programa de protecção integrada referido no n.º 2 do artigo 7.º deverão constar os seguintes requisitos:
+1.1 - Caracterização da cultura:
+1.2 - Protecção fitossanitária:
+1.2.1 - Protecção integrada:
+Estratégia de luta para cada inimigo da cultura:
+i) Em relação a pragas;
+ii) Em relação a doenças;
+iii) Em relação a infestantes.
+2 - Um programa de produção integrada, para além dos requisitos referidos no n.º 1, deve apresentar os seguintes elementos:
+2.1 - Em relação às operações culturais:
+Estratégia de fertilização, condução, monda, podas e regas;
+2.2 - Em relação à colheita, conservação e qualidade dos frutos.
+
+ANEXO III
+A relação entre o número de técnicos a contratar, em tempo inteiro, pela organização de produtores em protecção ou produção integradas e a área referida no artigo 8.º deve obedecer ao seguinte critério:
+(ver documento original)
