@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 17-J/97
+Para os devidos efeitos se declara que o n.º 13 da Resolução do Conselho de Ministros n.º 176/97, publicada no Diário da República, 1.ª série, n.º 244, de 21 de Outubro de 1997, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com várias inexactidões, pelo que passa a ter a seguinte redacção:
+«13 - Todos os encargos orçamentais decorrentes do previsto na presente resolução serão suportados pelo Gabinete do Secretário de Estado da Administração Pública, integrando a Secretaria-Geral da Presidência do Conselho de Ministros, no seu património, a propriedade de todos os bens adquiridos pela estrutura de projecto ora criada, para posterior transferência para a futura estrutura orgânica do organismo nacional que integra os serviços de atendimento ao cidadão.»
+Secretaria-Geral da Presidência do Conselho de Ministros, 31 de Outubro de 1997. - O Secretário-Geral, Alexandre Figueiredo.
