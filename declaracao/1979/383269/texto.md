@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Ministério dos Negócios Estrangeiros, a Portaria n.º 16-A/79, publicada no Diário da República, 1.ª série, n.º 9, suplemento, de 11 de Janeiro, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+Na coluna dos postos de recenseamento respeitante aos Estados Unidos, onde se lê: «Filadélfia, dependente da Comissão Recenseadora de Newark. Waterbury, dependente da Comissão Recenseadora de Nova Iorque.», deve ler-se: «Filadélfia, dependente da Comissão Recenseadora de Newark. Los Angeles, dependente da Comissão Recenseadora de S. Francisco. Waterbury, dependente da Comissão Recenseadora de Nova Iorque.»
+Secretaria-Geral da Presidência do Conselho de Ministros, 12 de Março de 1979. - O Secretário-Geral, Alfredo Barroso.
