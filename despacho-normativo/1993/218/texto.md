@@ -1,0 +1,5 @@
+Despacho Normativo n.º 218/93
+Considerando o disposto no artigo 3.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, e nos n.os 6, 7 e 8 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção que lhe foi conferida pelo artigo 1.º daquele diploma;
+Considerando que a licenciada Maria Isabel Ponte Duarte Mestre Barreiros, técnica superior principal, a exercer em comissão de serviço o cargo de directora de serviços no Instituto de Gestão Financeira da Segurança Social, requereu, ao abrigo das disposições supracitadas, a criação de um lugar de assessor principal:
+Determina-se que seja criado no quadro de pessoal do Instituto de Gestão Financeira da Segurança Social, constante do mapa anexo à Portaria n.º 168/88, de 19 de Março, um lugar de assessor principal, a extinguir quando vagar.
+Ministérios das Finanças e do Emprego e da Segurança Social, 28 de Junho de 1993. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro do Emprego e da Segurança Social, José Luís Campos Vieira de Castro, Secretário de Estado da Segurança Social.
