@@ -1,0 +1,3 @@
+Despacho
+Não se tendo alterado a situação relativamente à lei orgânica do Instituto Nacional de Investigação Agrária, que justificou a publicação do despacho de 18 de Março de 1975, prorrogado até 31 de Dezembro do mesmo ano, determina-se que até 31 de Março de 1976 se mantenha o mesmo regime administrativo que permite a realização das despesas em conta das dotações que vierem a ser destinadas àquele organismo no Orçamento Geral do Estado para o citado ano económico.
+Ministérios das Finanças e da Agricultura e Pescas, 30 de Dezembro de 1975. - O Ministro das Finanças, Francisco Salgado Zenha - O Ministro da Agricultura e Pescas, António Poppe Lopes Cardoso.
