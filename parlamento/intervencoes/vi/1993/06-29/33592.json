@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=rKtwshDyv1NBeu65K82ef9j6oFE3w%2fgAbqyUhooMpoSyQQ0pTyzibfD50gH%2baGhs1TrcG1r0l2bU1A0KAmFXPBoWqi6NY9nsxTw%2fxAs2r347ke8O86pD8UW0Vo24i8zPmfcPKM5y3XEB99eQAf1Ojm%2bemILgruHhJl9u7yVaplGsWPI0o%2bZUTUUBCanSa5007dUY7uakZ2EgL138SciEtNOWsIyqy66pG5Eu5crXojP8szj276fRrDhZdP6MEXFhdUelamzN3e1Rpwl8sPVmxdyANoDqpCtvpC0PXNmoyGF02wzb13ACPnwjTtn%2bPiN%2b1oG5E%2bkfl50yDwrf9Q4ck3XnT7zfIqh68Ee0O7Ap66U%3d&fich=IntervencoesVI_json.txt&Inline=true",
+  "ficheiro_sha256": "09dcb463dee20c5105fb36bc1a4e2274ee28613bb7bd19e9b953a0ed8eb5faf8",
+  "legislatura": "VI",
+  "id": "33592",
+  "tipo": "Declaração de voto",
+  "orador": "José Magalhães (PS)",
+  "data_registo": "1993-06-29",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "3770",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "4040",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Lei do segredo de Estado"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "4052",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Segredo de Estado"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1993-06-29",
+    "Debate": "PJL n.º 181/VI/1; PJL n.º 190/VI/1",
+    "Deputados": {
+      "GP": "PS",
+      "idCadastro": "189",
+      "nome": "José Magalhães"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "33592",
+    "IdDebate": "366",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VI",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "33592",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "2918-2918"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1993-06-30",
+        "pubLeg": "VI",
+        "pubNr": "89",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/089/1993-06-30/2918?pgs=2918&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "SUBSCREVE UMA DECLARACAO DE VOTO, ENVIADA A MESA PARA PUBLICACAO, RELATIVA A VOTACAO DOS PJL 181 E 190. ",
+    "Sessao": "2",
+    "Sumario": "LEI DO SEGREDO DE ESTADO",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Declaração de voto"
+  }
+}
