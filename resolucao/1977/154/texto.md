@@ -1,0 +1,11 @@
+Resolução n.º 154/77
+Considerando que o tráfego de cereais no porto de Lisboa se está a processar em condições deficientes devido à falta de cais acostáveis com altura de água suficiente para os navios normalmente utilizados e à ausência de uma rede rodo-ferroviária adequada à circulação dos transportes terrestres;
+Considerando que existe falta de capacidade para a descarga e armazenamento dos cereais a movimentar, situação que tenderá para o agravamento em função dos quantitativos previstos, exigindo a construção de silos para a manutenção de mais 150000 t;
+Considerando ter ficado demonstrado, em estudos já realizados, que o local da Palença reúne condições favoráveis para o estabelecimento de novas instalações para o tráfego de cereais, com reflexos imediatos no abastecimento da área do estuário do Tejo, das Regiões Autónomas e, eventualmente, de Leixões, as quais poderão vir a ser utilizadas como entreposto de cereais para outros países;
+Considerando ainda os custos actuais da inexistência da solução proposta que excedam os 1000 contos por dia ou os 400000 contos por ano:
+O Conselho de Ministros para os Assuntos Económicos, reunido em 5 de Maio de 1977, resolveu:
+1 - Que a Administração-Geral do Porto de Lisboa e o Instituto dos Cereais promovam de imediato as acções necessárias à construção de obras marítimas e terrestres, bem como à aquisição de equipamento para a criação de um terminal portuário e silos para cereais e oleaginosas na margem sul do Tejo, no local da Palença.
+2 - Que o Instituto dos Cereais efectue a ampliação das instalações de armazenamento do Poço do Bispo, que passarão a ser utilizadas em regime de exploração conjunta com as instalações a construir em Palença, bem como a substituição do equipamento para descarga de cereais ali existentes.
+3 - Que no local da Palença e na zona do Poço do Bispo se proceda às expropriações e demolições necessárias e, nesta última, também ao alinhamento da Avenida do Infante D. Henrique, com vista a possibilitar condições de circulação para o tráfego de cereais, decorrente do aumento de capacidade dos novos silos.
+4 - Que estes projectos sejam incluídos na Revisão dos Piap e Pisee 77.
+Presidência do Conselho de Ministros, 5 de Maio de 1977. - O Primeiro-Ministro, Mário Soares.
