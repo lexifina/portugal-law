@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=rKtwshDyv1NBeu65K82ef9j6oFE3w%2fgAbqyUhooMpoSyQQ0pTyzibfD50gH%2baGhs1TrcG1r0l2bU1A0KAmFXPBoWqi6NY9nsxTw%2fxAs2r347ke8O86pD8UW0Vo24i8zPmfcPKM5y3XEB99eQAf1Ojm%2bemILgruHhJl9u7yVaplGsWPI0o%2bZUTUUBCanSa5007dUY7uakZ2EgL138SciEtNOWsIyqy66pG5Eu5crXojP8szj276fRrDhZdP6MEXFhdUelamzN3e1Rpwl8sPVmxdyANoDqpCtvpC0PXNmoyGF02wzb13ACPnwjTtn%2bPiN%2b1oG5E%2bkfl50yDwrf9Q4ck3XnT7zfIqh68Ee0O7Ap66U%3d&fich=IntervencoesVI_json.txt&Inline=true",
+  "ficheiro_sha256": "09dcb463dee20c5105fb36bc1a4e2274ee28613bb7bd19e9b953a0ed8eb5faf8",
+  "legislatura": "VI",
+  "id": "34201",
+  "tipo": "Pedido de esclarecimento",
+  "orador": "José Lamego (PS)",
+  "data_registo": "1993-06-30",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "95818",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "3774",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Autoriza o Governo a alterar o regime legal do direito de asilo e o estatuto de refugiado"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1993-06-30",
+    "Debate": "PPL 68",
+    "Deputados": {
+      "GP": "PS",
+      "idCadastro": "181",
+      "nome": "José Lamego"
+    },
+    "FaseDebate": "GENERALIDADE",
+    "FaseSessao": "POD",
+    "Id": "34201",
+    "IdDebate": "354",
+    "Iniciativas": [
+      {
+        "fase": "Discussão generalidade",
+        "id": "3774",
+        "tipo": "Proposta de Lei"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VI",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "34201",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "2932-2933"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1993-07-01",
+        "pubLeg": "VI",
+        "pubNr": "90",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/090/1993-07-01/2932?pgs=2932-2933&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "PEDE ESCLARECIMENTOS AO MINISTRO DA ADMINISTRACASO INTERNA (DIAS LOUREIRO). ",
+    "Sessao": "2",
+    "Sumario": "AUTORIZA O GOVERNO A ALTERAR O REGIME LEGAL DO DIREITO DEASILO E O ESTATUTO DO REFUGIADO",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Pedido de esclarecimento"
+  }
+}
