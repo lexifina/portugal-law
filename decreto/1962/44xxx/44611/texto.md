@@ -1,0 +1,13 @@
+Decreto n.º 44611
+A comissão de reapetrechamento em material das escolas superiores e secundárias, criada pelo Decreto-Lei n.º 41114, de 16 de Maio de 1957, tem exercido uma acção profícua e investiu já mais de 60000 contos em material escolar.
+Na preparação do orçamento para o corrente ano, em virtude do condicionalismo a que se submeteram as despesas extraordinárias não integradas no II Plano de Fomento ou na defesa nacional, só foi possível dotar a comissão com 5000 contos.
+Há, todavia, planos aprovados, incluindo material pedagógico básico à preparação de pessoal especializado - radiotécnicos - de que o País muito necessita e outro ainda essencial, sem o qual não é possível garantir a eficiência do ensino.
+O Governo, apesar das dificuldades que rodeiam a execução do orçamento em vigor, não desejou dilatar por mais tempo as aquisições atrás referidas.
+Assim:
+Com fundamento no artigo 2.º do Decreto-Lei n.º 24914, de 10 de Janeiro de 1935, mediante proposta aprovada pelo Ministro das Finanças, nos termos do mencionado artigo 2.º do Decreto-Lei n.º 24914;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º É aberto no Ministério das Finanças um crédito especial de 5000000$00, devendo a mesma importância ser adicionada ao artigo 939.º «Para continuação do reapetrechamento em material didáctico e laboratorial das escolas técnicas, institutos, liceus e Universidades», do capítulo 12.º, do orçamento do Ministério da Educação Nacional respeitante ao corrente ano económico.
+Art. 2.º Para compensação do crédito designado no artigo anterior é adicionada igual quantia à verba descrita no capítulo 9.º, artigo 272.º «Amoedação», do vigente orçamento das receitas do Estado.
+Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o § único do artigo 36.º do Decreto n.º 18381, de 24 de Maio de 1930.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 3 de Outubro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
