@@ -1,0 +1,9 @@
+Portaria n.º 1003/2003
+de 17 de Setembro
+No próximo dia 22 de Setembro é assinalado mais um dia sem carros como forma de apelar para a recuperação da qualidade ambiental nas grandes cidades da União Europeia em torno do tema da acessibilidade, a fim de se criarem cidades mais agradáveis que forneçam uma mobilidade para todos, tendo em conta as necessidades específicas, através de soluções sustentáveis que salvaguardem a saúde e o bem-estar das populações.
+Esta iniciativa integra um conjunto de acções que visam consciencializar o público para a necessidade de adopção de comportamentos mais adequados a uma mobilidade urbana melhorada e ambientalmente sustentável, pois actualmente cerca de 40% das emissões de CO(índice 2) do sector dos transportes são produzidas pelo uso do carro particular nas cidades.
+De entre as diversas acções tendentes a uma mudança de atitude que potencie a utilização de modos de transporte alternativos ao veículo particular, de forma a encorajar o desenvolvimento de comportamentos de mobilidade urbana compatíveis com a qualidade do ar, está a indispensável promoção dos transportes públicos, e a sua utilização numa lógica de intermodalidade.
+Assim:
+Ao abrigo do disposto na parte final da alínea a) do n.º 2 do artigo 10.º do Decreto-Lei n.º 8/93, de 11 de Janeiro, manda o Governo, pelos Ministros de Estado e das Finanças e das Obras Públicas, Transportes e Habitação, que no próximo dia 22 de Setembro as empresas de transportes públicos Metropolitano de Lisboa, E. P., e Companhia Carris de Ferro de Lisboa, S. A., não cobrem títulos de transportes aos seus utilizadores.
+Em 10 de Setembro de 2003.
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro das Obras Públicas, Transportes e Habitação, António Pedro de Nobre Carmona Rodrigues.
