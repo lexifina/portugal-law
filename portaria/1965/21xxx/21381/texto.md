@@ -1,0 +1,4 @@
+Portaria n.º 21381
+Tendo-se verificado em anos anteriores prejuízos causados nas culturas e tendo presentes os pedidos dos Grémios da Lavoura dos concelhos de Azambuja, Benavente, Salvaterra de Magos e Vila Franca de Xira, apoiados pela Comissão Venatória Regional do Sul, considerando o estipulado no n.º 5.º do artigo 9.º do Decreto n.º 23461, de 17 de Janeiro de 1934:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, que no presente ano seja apenas permitida a caça às codornizes e outras espécies não indígenas nos terrenos a que se refere o n.º 1.º do § 6.º do artigo 10.º do Decreto n.º 23461, de 17 de Janeiro de 1934, a partir de 15 de Agosto, inclusive.
+Secretaria de Estado da Agricultura, 9 de Julho de 1965. - O Secretário de Estado da Agricultura, Domingos Rosado Vitória Pires.
