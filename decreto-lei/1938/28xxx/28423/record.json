@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1938/01/01400/00680069.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1938-01-18",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "34fa55583b06c95eed18d73113e1cf54572e4e8166dcef30c224b03dec1559da",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.3,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "8e9d4d52ff6e8ce7764de231e55a103a00bbaaebd74b40f9511271c64a3a879b",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 432
 }
