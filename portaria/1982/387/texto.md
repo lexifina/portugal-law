@@ -1,0 +1,6 @@
+Portaria n.º 387/82
+de 17 de Abril
+Considerando a necessidade de adequar o quadro de pessoal do Instituto para a Cooperação Económica ao disposto no Decreto-Lei n.º 465/80, de 14 de Outubro:
+Ao abrigo do n.º 2 do artigo 10.º do mesmo diploma legal:
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros dos Negócios Estrangeiros e da Reforma Administrativa, que o quadro de pessoal do Instituto para a Cooperação Económica, constante do mapa anexo ao Decreto-Lei n.º 487/79, de 18 de Dezembro, seja alterado, passando o lugar de tesoureiro de 1.ª classe nele existente a tesoureiro principal, de 1.ª classe ou de 2.ª classe, de harmonia com as disposições constantes do artigo 4.º do Decreto-Lei n.º 465/80, de 14 de Outubro.
+Ministérios das Finanças e do Plano, dos Negócios Estrangeiros e da Reforma Administrativa, 7 de Abril de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, Alberto Heleno do Nascimento Regueira, Secretário de Estado do Planeamento. - Pelo Ministro dos Negócios Estrangeiros, Leonardo Charles Zaffiri Duarte Mathias, Secretário de Estado dos Negócios Estrangeiros. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
