@@ -1,0 +1,11 @@
+Portaria n.º 17962
+Manda o Governo da República Portuguesa, pelo Ministro das Corporações e Previdência Social, que sejam aprovados, ao abrigo do artigo 1.º do Decreto-Lei n.º 42955, de 27 de Abril de 1960, as armas, o estandarte, a bandeira e o selo da Corporação dos Espectáculos, que têm a seguinte descrição:
+1) Armas. - De azul, uma chapa de prata carregada com uma máscara de vermelho e acompanhada em chefe de duas máscaras de ouro. Elmo de prata, tauxiado de ouro e forrado de azul, colocado a três quartos. Virol e paquifes de ouro e azul. Coronel alegórico de quatro máscaras aparentes. Timbre: duas asas carregadas dos esmaltes e figuras do brasão. Tudo disposto conforme à figura n.º 1 anexa a este diploma.
+2) Estandarte. - Dentro de quadrado de prata, as armas da Corporação nos seus esmaltes próprios; bordadura ornamental, de inspiração simbólica, de ouro, prata e azul. Cordões, borlas, franjas e passadeiras apresentados nos mesmos esmaltes e dispostos alternadamente segundo as regras da armaria. A haste, dourada, terá como remate o timbre das armas. Os acessórios da haste serão também dourados. Tudo conforme à figura n.º 2 anexa a este diploma.
+3) Bandeira de hastear. - Na forma e proporções da figura. n.º 3 anexa a este diploma, é do esmalte do campo do estandarte com as armas da Corporação na posição indicada na mesma figura. A bandeira é de filele com o número de panos proporcional à altura onde terá de ficar arvorada e à altura do mastro respectivo.
+4) Selo. - Dentro de listel circular, as armas da Corporação sem indicação dos esmaltes e com o nome do organismo inscrito no listel, tudo ordenado conforme à figura n.º 4 anexa a este diploma.
+Ministério das Corporações e Previdência Social, 23 de Setembro de 1960. - O Ministro das Corporações e Previdência Social, Henrique Veiga de Macedo.
+
+Da Figura n.º 1 à Figura n.º 4
+(ver documento original)
+Ministério das Corporações e Previdência Social, 23 do Setembro de 1960. - O Ministro das Corporações e Previdência Social, Henrique Veiga de Macedo.
