@@ -1,0 +1,13 @@
+Despacho
+Requisitos específicos para a fabricação de resinosos
+Nos termos do n.º 2 do artigo 10.º do Decreto-Lei n.º 533/74, de 10 de Outubro, determino:
+1 - Este despacho aplica-se à fabricação de resinosos, ou seja à obtenção de produtos resultantes da destilação de gema de pinheiro, actividade industrial que se inclui no desdobramento 3511.3.5 da revisão I da Classificação das Actividades Económicas (CAE).
+2 - As sociedades que instalem, reabram ou mudem de local estabelecimentos industriais produtores de resinosos, bem como as que modifiquem, por ampliação, o respectivo equipamento produtivo, devem possuir um capital social realizado igual, pelo menos, a 30% do investimento fixo global, mas não inferior a 10000 contos.
+3 - Os estabelecimentos resultantes dos actos referidos no número anterior devem possuir uma capacidade horária média de laboração de gema não inferior a 5 t.
+4 - Os estabelecimentos produtores de resinosos resultantes de novas instalações ou da reabertura de unidades existentes, bem como os que se transfiram ou modifiquem, por ampliação, o seu equipamento produtivo, devem utilizar uma tecnologia actualizada que se caracterize essencialmente por:
+a) Eficaz depuração ou terebintinagem;
+b) Destilação feita por arrastamento de vapor, em contínuo ou descontínuo, ou por aquecimento no vácuo.
+5 - Estes estabelecimentos industriais devem estar convenientemente apetrechados em meios técnicos e humanos que permitam efectuar o contrôle do processo tecnológico e da qualidade da matéria-prima, bem como verificar a conformidade das características dos produtos com as Normas Portuguesas aplicáveis ou outras que as substituam, podendo, no entanto, parte daquele apetrechamento ser dispensado se, para a realização dos correspondentes ensaios, os referidos estabelecimentos dispuserem de contrato firmado com laboratório de competência reconhecida pela Direcção-Geral dos Serviços Industriais.
+6 - A direcção técnica das fábricas produtoras de resinosos deve incluir, pelo menos, um técnico habilitado, no mínimo, com um curso médio adequado.
+7 - As sociedades que instalem novas unidades, as que reabram estabelecimentos existentes, bem como as que ampliem ou transfiram os mesmos, devem garantir o cumprimento dos requisitos técnicos, económicos e financeiros, constantes deste despacho, dentro do prazo fixado para a instalação, prestando nos termos do artigo 32.º do Decreto-Lei n.º 533/74, de 10 de Outubro, uma caução de 400 contos.
+Secretaria de Estado da Indústria e Energia, 11 de Janeiro de 1975. - O Secretário de Estado da Indústria e Energia, José de Melo Torres Campos.
