@@ -1,0 +1,409 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "35",
+    "id": "28258",
+    "titulo": "Autoriza o Governo a rever o regime jurídico da cessação do contrato individual de trabalho"
+  },
+  "fase": "Votação do recurso da decisão do PAR",
+  "codigo_fase": "160",
+  "data_registo": "1988-04-14",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "11830",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "160",
+    "Comissao": null,
+    "DataFase": "1988-04-14",
+    "EvtId": "42",
+    "Fase": "Votação do recurso da decisão do PAR",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1988-04-14",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "00:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205320",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2799-2799",
+                  "2800-2800"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-15",
+                "pubLeg": "V",
+                "pubNr": "73",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/073/1988-04-15/2799?pgs=2799,2800&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a rever o regime jurídico da cessação do contrato individual de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "00:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205321",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2800-2800"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-15",
+                "pubLeg": "V",
+                "pubNr": "73",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/073/1988-04-15/2800?pgs=2800&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a rever o regime jurídico da cessação do contrato individual de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "00:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205322",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2799-2800"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-15",
+                "pubLeg": "V",
+                "pubNr": "73",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/073/1988-04-15/2799?pgs=2799-2800&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a rever o regime jurídico da cessação do contrato individual de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "00:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205323",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2800-2800"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-15",
+                "pubLeg": "V",
+                "pubNr": "73",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/073/1988-04-15/2800?pgs=2800&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a rever o regime jurídico da cessação do contrato individual de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "00:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205324",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2800-2801"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-15",
+                "pubLeg": "V",
+                "pubNr": "73",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/073/1988-04-15/2800?pgs=2800-2801&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a rever o regime jurídico da cessação do contrato individual de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "00:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205325",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2801-2801"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-15",
+                "pubLeg": "V",
+                "pubNr": "73",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/073/1988-04-15/2801?pgs=2801&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a rever o regime jurídico da cessação do contrato individual de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "00:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205326",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2801-2802"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-15",
+                "pubLeg": "V",
+                "pubNr": "73",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/073/1988-04-15/2801?pgs=2801-2802&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a rever o regime jurídico da cessação do contrato individual de trabalho.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "00:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "205327",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2802-2802"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-04-15",
+                "pubLeg": "V",
+                "pubNr": "73",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/073/1988-04-15/2802?pgs=2802&org=PLC"
+              }
+            ],
+            "sumario": "Autoriza o Governo a rever o regime jurídico da cessação do contrato individual de trabalho.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "323470",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "11830",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-04-15",
+        "pubLeg": "V",
+        "pubNr": "73",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/073/1988-04-15?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
