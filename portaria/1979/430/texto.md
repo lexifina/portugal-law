@@ -1,0 +1,22 @@
+Portaria n.º 430/79
+de 16 de Agosto
+Manda o Governo da República Portuguesa, pelos Primeiro-Ministro e Ministro das Finanças e do Plano, nos termos do artigo 1.º do Decreto-Lei n.º 3/79, de 11 de Janeiro, considerar as seguintes equiparações:
+Gabinete Coordenador do Combate à Droga:
+Coordenador (B) - director-geral.
+Centro de Investigação e Contrôle da Droga:
+Director (C) - subdirector-geral.
+Subdirectores (D) e director do Gabinete de Documentação e Formação Profissional (D) - directores de serviço.
+Centro de Estudos da Profilaxia da Droga:
+Director (presidente da direcção nacional) (C) - subdirector-geral.
+Directores (vogais da direcção nacional) (C) e directores regionais (D) - directores de serviço.
+Presidência do Conselho de Ministros e Ministério das Finanças e do Plano, 30 de Julho de 1979. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.
+
+Anexo à Portaria n.º 430/79
+Descrição do conteúdo funcional de cargos de chefia dos organismos de combate à droga.
+1 - O coordenador dirige os serviços do Gabinete Coordenador do Combate à Droga, define os objectivos globais a atingir pelo Centro de Investigação e Contrôle da Droga e pelo Centro de Estudos da Profilaxia da Droga, promove a cooperação com os departamentos oficiais ou entidades privadas e prepara e estuda dados estatísticos de âmbito nacional - artigos 1.º e 2.º do Decreto-Lei n.º 790/76, de 5 de Novembro.
+2.1 - O director do Centro de Investigação e Contrôle da Droga superintende nos seus serviços, preside ao conselho administrativo e executa o plano elaborado pelo Grupo de Planeamento - artigos 3.º, 4.º e 35.º do Decreto-Lei n.º 791/76, de 5 de Novembro.
+2.2 - Os subdirectores do Centro de Investigação e Contrôle da Droga coadjuvam o director na execução do plano elaborado pelo Grupo de Planeamento e na sua orientação geral, substituem o director nas suas ausências ou impedimentos e dirigem as Divisões de Investigação, de Informação e Contrôle e de Fiscalização e Pesquisa - artigos 3.º, 4.º e 33.º do Decreto-Lei n.º 791/76, de 5 de Novembro.
+2.3 - Ao director do Gabinete de Documentação e Formação Profissional cabe a supervisão das respectivas actividades, que incluem a organização da formação/especialização profissional do pessoal do Centro e de outros organismos que combatem as actividades ilícitas relacionadas com a droga, a reunião e divulgação da informação respeitante a métodos elaborado pelo Grupo de Planeamento, quer na orientação e manutenção de um museu com objectivos didácticos, para além de coadjuvar o director, quer na execução do plano elaborado pelo Grupo de Planeamento, quer na orientação geral do Centro - artigos 3.º, 4.º, 10.º e 34.º do Decreto-Lei n.º 791/76, de 5 de Novembro.
+3.1 - O director (presidente da direcção nacional) preside à direcção nacional; define e elabora, em colaboração com os vogais da direcção nacional, os programas a executar pelas direcções regionais, orientando-as tecnicamente, organizando planos de acção e coordenando o funcionamento daquelas direcções, funções estas que lhe podem ser delegadas pela direcção nacional; faz parte do conselho administrativo - artigos 5.º e 6.º do Decreto-Lei n.º 792/76, de 5 de Novembro (redacção dada pelo Decreto Regulamentar n.º 2/78, de 19 de Janeiro).
+3.2 - O director (vogal da direcção nacional) define e elabora, em colaboração com o presidente e o outro vogal da direcção, os programas a executar pelas direcções regionais, orientando-as tecnicamente, organizando planos de acção e coordenando o funcionamento daquelas direcções, funções estas que lhe podem ser delegadas pela direcção nacional; dirige e superintende no Gabinete de Estudos, Informação e Documentação (só o vogal encarregado do Gabinete de Estudos); faz parte do conselho administrativo e dirige e superintende nos serviços administrativos (só o vogal encarregado dos assuntos administrativos) - artigos 5.º, 6.º, 7.º e 8.º do Decreto-Lei n.º 792/76, de 5 de Novembro (redacção dada pelo Decreto Regulamentar n.º 2/78, de 19 de Janeiro).
+3.3 - O director regional dirige o centro regional; executa, coadjuvado pelos chefes dos departamentos, os programas de prevenção e tratamento aprovados pela direcção nacional; exerce as atribuições e poderes que lhe forem delegados pela direcção nacional e pelo conselho administrativo - artigo 10.º do Decreto-Lei n.º 792/76, de 5 de Novembro.
