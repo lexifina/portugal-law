@@ -2,4 +2,4 @@
 
 ### Obrigações - Imposto sobre as sucessões e doações por avença
 
-Ficam isentas de imposto sobre as sucessões e doações por avença as obrigações emitidas durante os anos de 1993 a 1995, inclusive.
+Ficam isentas de imposto sobre as sucessões e doações por avença as obrigações emitidas durante o ano de 1996.
