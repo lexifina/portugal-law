@@ -1,0 +1,8 @@
+Portaria n.º 874/80
+de 24 de Outubro
+Considerando que os cargos de directores de serviços do quadro de pessoal dos serviços centrais da Direcção-Geral do Tesouro, criados pelo Decreto Regulamentar n.º 28/78, de 9 de Agosto, e que presentemente se encontram vagos, não são susceptíveis de serem providos em conformidade com o disposto pela alínea a) do n.º 2 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, por não existirem naquela Direcção-Geral os funcionários mencionados na referida alínea a);
+Considerando a especificidade e a especialização das funções legalmente cometidas à Direcção-Geral do Tesouro e, bem assim, a necessidade de prover, de forma adequada, as vagas existentes de director de serviço:
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano e pelo Secretário de Estado da Reforma Administrativa, ao abrigo do disposto pelo n.º 4 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, o seguinte:
+1.º A área de recrutamento do cargo de director de serviços dos serviços centrais da Direcção-Geral do Tesouro, criado pelo Decreto Regulamentar n.º 28/78, de 9 de Agosto, é alargada a técnicos superiores principais e de 1.ª classe.
+2.º O recrutamento do cargo referido no número anterior poderá também ser feito de entre licenciados estranhos à função pública, devendo, neste caso, o despacho de nomeação ser acompanhado, para publicação, do curriculum do nomeado.
+Presidência do Conselho de Ministros e Ministério das Finanças e do Plano, 16 de Outubro de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo
