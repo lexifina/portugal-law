@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se faz público que, conforme comunicação do secretário-geral da Organização da Aviação Civil Internacional ao representante do Governo Português no Conselho daquela Organização, o Acordo multilateral relativo aos direitos comerciais dos serviços aéreos não regulares europeus, concluído em Paris em 30 de Abril de 1956 e de que Portugal depositou o instrumento de ratificação em 17 de Outubro de 1958, foi ratificada pela Bélgica, tendo o instrumento de ratificação sido depositado em 22 de Abril de 1960, e que a Inglaterra depositou o seu instrumento de adesão em 11 de Janeiro de 1960.
+Em relação à Bélgica, o Acordo entrará em vigor em 22 de Julho de 1960, e em relação à Inglaterra entrou em vigor em 11 de Abril de 1960.
+Direcção-Geral dos Negócios Económicos e Consulares, 19 de Julho de 1960. - O Director-Geral Adjunto, Albano Nogueira.
