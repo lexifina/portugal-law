@@ -6,4 +6,4 @@
 
 ### (Natureza e fins)
 
-Para poderem ser registadas como instituições particulares de solidariedade social, as fundações devem ser instituídas com o propósito definido no artigo 1.º e com os fins principais enquadráveis no elenco do artigo 1.º-A.
+Fundações de solidariedade social são as instituídas nos termos do presente diploma e que prossigam alguns dos objectivos enumerados no artigo 1.º

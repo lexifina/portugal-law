@@ -2,12 +2,10 @@
 
 ### (Realização de obras, alienação e arrendamento de imóveis)
 
-1 - A empreitada de obras de construção ou grande reparação pertencentes às instituições, devem observar o estabelecido no Código dos Contratos Públicos, com exceção das obras realizadas por administração direta até ao montante máximo de 25 mil euros.
+1 - A empreitada de obras de construção ou grande reparação, bem como a alienação e o arrendamento de imóveis pertencentes às instituições, deverá ser feita em concurso ou hasta pública, conforme for mais conveniente.
 
-2 - O disposto no número anterior não se aplica às instituições que não recebam apoios financeiros públicos.
+2 - Podem ser efectuadas vendas ou arrendamentos por negociação directa, quando seja previsível que daí decorram vantagens para a instituição ou por motivo de urgência, fundamentado em acta.
 
-3 - Podem ser efectuadas vendas ou arrendamentos por negociação directa, quando seja previsível que daí decorram vantagens para a instituição ou por motivo de urgência, fundamentado em acta.
+3 - Em qualquer caso, os preços e rendas aceites não podem ser inferiores aos que vigorarem no mercado normal de imóveis e arrendamentos, de harmonia com os valores estabelecidos em peritagem oficial.
 
-4 - Em qualquer caso, os preços e rendas aceites não podem ser inferiores aos que vigorarem no mercado normal de imóveis e arrendamentos, de harmonia com os valores estabelecidos em peritagem oficial.
-
-5 - Exceptuam-se do preceituado nos números anteriores os arrendamentos para habitação, que seguem o regime geral sobre arrendamentos.
+4 - Exceptuam-se do preceituado nos números anteriores os arrendamentos para habitação, que seguem o regime geral sobre arrendamentos.

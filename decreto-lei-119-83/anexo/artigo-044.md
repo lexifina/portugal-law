@@ -6,4 +6,4 @@
 
 ### (Regime concordatário)
 
-A aplicação das disposições do presente Estatuto às instituições da Igreja Católica é feita com respeito pelas disposições da Concordata celebrada entre a Santa Sé e a República Portuguesa em 18 de maio de 2004.
+A aplicação das disposições do presente Estatuto às instituições da igreja católica é feita com respeito pelas disposições da Concordata celebrada entre a Santa Sé e a República Portuguesa em 7 de Maio de 1940.

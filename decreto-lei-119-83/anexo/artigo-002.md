@@ -6,7 +6,7 @@
 
 a) Associações de solidariedade social;
 
-b) Cooperativas de solidariedade social, credenciadas nos termos do artigo 9.º do Decreto-Lei n.º 7/98, de 15 de janeiro;
+b) Associações de voluntários de acção social;
 
 c) Associações de socorros mútuos;
 
@@ -18,6 +18,6 @@ e) Irmandades da misericórdia.
 
 a) Uniões;
 
-b) [Revogada];
+b) Federações;
 
-c) Associações mutualistas ou de socorros mútuos;
+c) Confederações.

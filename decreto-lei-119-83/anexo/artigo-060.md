@@ -2,14 +2,8 @@
 
 ### (Convocação da assembleia geral)
 
-1 - A assembleia geral é convocada com, pelo menos, 15 dias de antecedência, pelo presidente da mesa ou pelo seu substituto.
+1 - A assembleia geral deve ser convocada com, pelo menos, 15 dias de antecedência, pelo presidente da mesa ou seu substituto, nos termos do artigo anterior e nas circunstâncias fixadas nos estatutos.
 
-2 - A convocatória é afixada na sede da associação e remetida, pessoalmente, a cada associado através de correio eletrónico ou por meio de aviso postal.
+2 - A convocatória é feita pessoalmente, por meio de aviso postal expedido para cada associado ou através de anúncio publicado nos 2 jornais de maior circulação da área onde se situe a sede da associação e deverá ser afixada na sede e noutros locais de acesso público, dela constando obrigatoriamente o dia, a hora, o local e a ordem de trabalhos.
 
-3 - Independentemente da convocatória nos termos do número anterior, é ainda dada publicidade à realização das assembleias gerais nas edições da associação, no sítio institucional e em aviso afixado em locais de acesso ao público nas instalações e estabelecimentos da associação.
-
-4 - ...
-
-5 - Desde que contemplada nos estatutos, a convocatória e anúncio da assembleia geral pode ser efetuada e publicitada também por outros meios e noutros locais.
-
-6 - Os documentos referentes aos diversos pontos da ordem de trabalhos devem estar disponíveis para consulta na sede e no sítio institucional da associação, logo que a convocatória seja expedida para os associados.
+3 - A convocatória da assembleia geral extraordinária, nos termos do artigo anterior, deve ser feita no prazo de 15 dias após o pedido ou requerimento, devendo a reunião realizar-se no prazo máximo de 30 dias, a contar da data da recepção do pedido ou requerimento.

@@ -2,10 +2,10 @@
 
 ### (União de instituições)
 
-As uniões são agrupamentos de instituições:
+Podem constituir-se em uniões:
 
-a) Que revistam forma idêntica;
+a) As instituições que revistam forma idêntica;
 
-b) Que atuem na mesma área geográfica;
+b) As instituições que actuem na mesma área geográfica, designadamente o distrito;
 
-c) Cujo regime específico de constituição o justifique.
+c) As instituições cujo regime específico de constituição o justifique.

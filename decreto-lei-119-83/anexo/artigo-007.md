@@ -2,6 +2,6 @@
 
 ### (Registo)
 
-1 - O registo das instituições particulares de solidariedade social é obrigatório e deve ser efetuado nos termos regulamentados pelas respetivas portarias.
+1 - Poderão os ministérios da tutela organizar um registo das instituições particulares de solidariedade social do respectivo âmbito.
 
-2 - [Revogado].
+2 - O registo será criado e regulamentado por portaria do respectivo ministro.

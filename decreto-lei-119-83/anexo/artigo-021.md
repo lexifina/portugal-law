@@ -1,17 +1,11 @@
 # Artigo 21.º
 
-### Elegibilidade
+### (Incapacidades e impedimentos)
 
-1 - São elegíveis para os órgãos sociais das instituições os associados que, cumulativamente:
+1 - Não podem ser reeleitos ou novamente designados os membros de corpos gerentes que, mediante processo judicial, tenham sido declarados responsáveis por irregularidades cometidas no exercício dessas funções ou removidos dos cargos que desempenhavam.
 
-a) Estejam no pleno gozo dos seus direitos associativos;
+2 - Esta incapacidade verifica-se quanto à reeleição ou nova designação para corpos gerentes da mesma ou outra instituição particular de solidariedade social.
 
-b) Sejam maiores;
+3 - Os membros dos corpos gerentes não poderão votar em assuntos que directamente lhes digam respeito, ou nos quais sejam interessados os respectivos cônjuges, ascendentes, descendentes e equiparados.
 
-c) Tenham, pelo menos, um ano de vida associativa, salvo se os estatutos exigirem maior prazo.
-
-2 - A inobservância do disposto no número anterior determina a nulidade da eleição do candidato em causa.
-
-3 - [Revogado].
-
-4 - [Revogado].
+4 - Os membros dos corpos gerentes não podem contratar directa ou indirectamente com a instituição, salvo se do contrato resultar manifesto benefício para a instituição.

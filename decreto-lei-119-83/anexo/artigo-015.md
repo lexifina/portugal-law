@@ -1,7 +1,7 @@
 # Artigo 15.º
 
-### Composição dos órgãos
+### (Composição dos corpos gerentes)
 
-1 - Os órgãos de administração e de fiscalização não podem ser constituídos maioritariamente por trabalhadores da instituição.
+1 - Os corpos gerentes serão, em princípio, constituídos por associados da própria instituição, pelos fundadores ou pessoas por eles designadas.
 
-2 - Não podem exercer o cargo de presidente do órgão de fiscalização trabalhadores da instituição.
+2 - Aos membros dos corpos gerentes não é permitido o desempenho simultâneo de mais de um cargo na mesma instituição.

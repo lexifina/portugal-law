@@ -2,7 +2,7 @@
 
 ### (Aceitação de heranças, legados e doações)
 
-1 - [Revogado];
+1 - As instituições só podem aceitar heranças a benefício de inventário.
 
 2 - As instituições não são obrigadas a cumprir encargos que excedam as forças de heranças, legados ou doações por elas aceites, quer por absorverem o seu valor, quer por envolverem prestações periódicas superiores ao rendimento dos bens recebidos.
 

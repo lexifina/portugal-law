@@ -1,6 +1,6 @@
 ## Secção II
 
-## Da criação, da organização interna e da extinção das instituições
+## Da criação, de organização interna e da extinção das instituições
 
 ## Subsecção I
 
@@ -10,4 +10,4 @@
 
 ### (Criação das instituições)
 
-As instituições, suas uniões, federações ou confederações constituem-se e adquirem personalidade jurídica nos termos do presente Estatuto.
+As instituições, suas uniões, federações ou confederações constituem-se e adquirem personalidade jurídica nos termos do presente diploma.

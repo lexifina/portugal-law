@@ -1,10 +1,10 @@
 # Artigo 20.º
 
-### Responsabilidade dos titulares dos órgãos
+### (Responsabilidade dos corpos gerentes)
 
-1 - As responsabilidades dos titulares dos órgãos ao abrigo do presente Estatuto são as definidas nos artigos 164.º e 165.º do Código Civil, sem prejuízo das definidas nos respetivos estatutos das instituições.
+1 - Os membros dos corpos gerentes são responsáveis civil e criminalmente pelas faltas ou irregularidades cometidas no exercício do mandato.
 
-2 - Além dos motivos previstos na lei geral, os titulares dos órgãos ficam exonerados de responsabilidade se:
+2 - Além dos motivos previstos na lei geral, os membros dos corpos gerentes ficam exonerados de responsabilidade se:
 
 a) Não tiverem tomado parte na respectiva resolução e a reprovarem com declaração na acta da sessão imediata em que se encontrem presentes;
 

@@ -1,5 +1,5 @@
 # Subsecção II
 
-### Dos órgãos das instituições
+### Dos corpos gerentes
 
 Corpos gerentes e suas funções

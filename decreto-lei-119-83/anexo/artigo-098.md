@@ -1,7 +1,3 @@
-## Capítulo V
-
-## Disposições finais e transitórias
-
 # Artigo 98.º
 
 ### (Legislação revogada)
