@@ -1,0 +1,7 @@
+Portaria n.º 18137
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, conjugado com a alínea e) do seu artigo 14.º, com a nova redacção que lhe foi dada pelo artigo 4.º do Decreto n.º 40712, de 1 de Agosto de 1956, e o artigo 5.º deste último diploma, abrir em Moçambique os seguintes créditos especiais, a inscrever em adicional à tabela da despesa extraordinária do orçamento geral para 1960:
+1.º Um de 3847976$50, destinado ao pagamento da aquisição da draga Adolfo Loureiro, tomando como contrapartida o excesso de cobrança sobre a previsão da verba do capítulo 4.º, artigo 63.º «Taxas - Rendimentos de diversos serviços - Receitas eventuais e não especificadas», do orçamento da receita ordinária para o referido ano
+2.º Um de 287308$80, destinado ao pagamento da construção e transporte de duas lanchas para o serviço das dragas Matola e Buzi, tomando como contrapartida o excesso de cobrança sobre a previsão da receita da verba do capítulo 1.º, artigo 3.º, alínea a) «Impostos directos gerais - Imposto profissional (1.º grupo)», do orçamento da receita ordinária para o ano de 1960.
+Ministério do Ultramar, 20 de Dezembro de 1960. - Pelo Ministro do Ultramar, Adriano José Alves Moreira, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Moçambique. - A. Moreira.
