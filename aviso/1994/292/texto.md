@@ -1,0 +1,5 @@
+Aviso n.º 292/94
+Por ordem superior se torna público que o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos, depositário do Estatuto da Conferência da Haia de Direito Internacional Privado, de 31 de Outubro de 1951, informou haver concluído, face ao resultado da consulta feita em 2 de Dezembro de 1993, que a maioria dos Estados membros aceitou a admissão da ex-República Jugoslava da Macedónia como membro da Conferência, em 1 de Dezembro de 1993, com efeitos retroactivos a 20 de Setembro de 1993.
+A Grécia, nos termos da carta de 30 de Novembro de 1993 do respectivo embaixador na Haia, opôs-se a tal admissão, por não reconhecer a ex-República Jugoslava da Macedónia.
+Portugal é membro do Estatuto da Conferência da Haia de Direito Internacional Privado, que foi aprovado pelo Decreto-Lei n.º 41378, de 19 de Novembro de 1957, publicado no Diário do Governo, 1.ª série, n.º 262, de 19 de Novembro de 1957.
+Departamento de Assuntos Jurídicos, 12 de Outubro de 1994. - O Director, José Maria Teixeira Leite Martins.
