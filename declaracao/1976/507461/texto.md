@@ -1,0 +1,3 @@
+Declaração
+Declara-se, para os devidos efeitos e ao abrigo do artigo 5.º do Decreto-Lei n.º 602/75, de 29 de Outubro, que, em virtude de as condições político-militares de Angola não terem permitido receber daquele Estado a documentação necessária ao cumprimento do prazo estabelecido no n.º 1 do artigo 4.º do mesmo decreto-lei, o Secretário de Estado da Cooperação, por despacho de 19 de Fevereiro corrente, considerou justificada a prorrogação por noventa dias do prazo referido na citada disposição do artigo 4.º daquele diploma.
+Comissão de Transferência do Gabinete do Plano do Cunene, 24 de Fevereiro de 1976. - O Presidente, Carlos Quintela Góis.
