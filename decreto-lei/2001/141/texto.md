@@ -1,0 +1,37 @@
+Decreto-Lei n.º 141/2001
+de 24 de Abril
+No âmbito do processo negocial para 2001 o Governo assumiu o compromisso de proceder à fixação do princípio das dotações globais no que toca às carreiras de regime geral, de regime especial e com designações específicas. Este compromisso inclui também a globalização das dotações das categorias da carreira técnica superior.
+Com o presente diploma pretende-se dar corpo à fixação do aludido princípio.
+Mantêm-se válidos os concursos pendentes, com as adaptações decorrentes da globalização da dotação, uma vez que os lugares passam a ser previstos na carreira e não por categoria.
+Nos termos da lei foram ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação Nacional de Municípios Portugueses (ANMP) e a Associação Nacional de Freguesias (ANAFRE).
+Foram observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+Artigo 1.º
+Objecto
+O presente diploma fixa o regime de dotação global dos quadros de pessoal, para as carreiras de regime geral, de regime especial e com designações específicas.
+Artigo 2.º
+Âmbito de aplicação
+1 - O presente diploma aplica-se aos serviços e organismos da administração central, regional e local, bem como aos institutos públicos que revistam a natureza de serviços personalizados e de fundos públicos.
+2 - O disposto no presente diploma não se aplica às categorias de coordenação e chefia integradas em carreiras, nem às dotações globais já existentes.
+Artigo 3.º
+Alteração dos quadros de pessoal
+1 - Os quadros de pessoal dos serviços e organismos abrangidos por este diploma consideram-se automaticamente alterados, no que se refere às carreiras referidas no artigo 1.º, nos seguintes termos:
+a) As dotações das categorias de assessor principal, assessor, técnico superior principal, de 1.ª e de 2.ª classes da carreira técnica superior são convertidas em dotação global;
+b) As dotações das categorias das restantes carreiras são convertidas em dotação global.
+2 - As dotações globais resultantes do disposto no número anterior correspondem à soma dos lugares das categorias abrangidas.
+Artigo 4.º
+Concursos
+O disposto no presente diploma não prejudica os concursos que se encontrem pendentes à data da sua entrada em vigor.
+Artigo 5.º
+Revogações
+São revogados os n.os 4 a 6 do artigo 14.º do Decreto-Lei n.º 248/85, de 15 de Julho, e a alínea a) do n.º 1 e o n.º 2 do artigo 29.º do Decreto-Lei n.º 404-A/98, de 18 de Dezembro.
+Artigo 6.º
+Entrada em vigor
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 22 de Fevereiro de 2001. - António Manuel de Oliveira Guterres - Júlio de Lemos de Castro Caldas - Joaquim Augusto Nunes Pina Moura - Alberto de Sousa Martins.
+Promulgado em 4 de Abril de 2001.
+Publique-se.
+O Presidente da República, JORGE SAMPAIO.
+Referendado em 12 de Abril de 2001.
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.
