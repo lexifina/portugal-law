@@ -1,0 +1,3 @@
+# Artigo 111.º
+
+As chaminés de cozinha ou de aparelhos de aquecimento e as condutas de fumo serão construídas com materiais incombustíveis e ficarão afastadas, pelo menos, 0m,20 de qualquer peça de madeira ou de outro material combustível. As condutas de fumo, quando agrupadas, deverão ficar separadas umas das outras por panos de material incombustível, de espessura conveniente e sem quaisquer aberturas. As embocaduras das chaminés e as condutas de fumo terão superfícies interiores lisas e desempenadas. Os registos das condutas de fumo, quando previstos, não deverão poder interceptar por completo a secção de evacuação.

@@ -1,0 +1,3 @@
+# Artigo 132.º
+
+Os materiais de que forem construídos os elementos das edificações deverão ser sempre de boa qualidade e de natureza adequada às condições da sua utilização. Todos os elementos activos das edificações e respectivas fundações deverão ser estabelecidos de forma que possam suportar, com toda a segurança e sem deformações inconvenientes, as máximas solicitações a que sejam submetidos. As tensões limites correspondentes à solicitação mais desfavorável em ponto algum deverão ultrapassar valores deduzidos dos limites de resistência dos materiais constituintes, por aplicação de coeficientes de segurança convenientemente fixados.

@@ -1,0 +1,5 @@
+# Artigo 118.º
+
+As paredes das cavalariças, vacarias, currais e instalações semelhantes serão revestidas interiormente, até à altura mínima de 1m,50 acima do pavimento, de material resistente, impermeável e com superfície lisa que permita fàcilmente frequentes lavagens. Os tectos e as paredes acima desta altura serão rebocados e pintados ou, pelo menos, caiados, desde que a caiação seja mantida em condições de eficácia. O revestimento do solo será sempre estabelecido de forma a impedir a infiltração ou a estagnação dos líquidos e a assegurar a sua pronta drenagem para a caleira de escoamento, ligada por intermédio de um sifão à tubagem de evacuação dos esgotos do prédio.
+
+§ único. Quando, nas zonas rurais, haja em vista o ulterior aproveitamento dos líquidos acima referidos, o seu escoamento poderá fazer-se para depósitos distantes das habitações, solidamente construídos e perfeitamente estanques, cuja exploração só será permitida em condições de rigorosa garantia da salubridade pública e quando não haja dano para os moradores dos prédios vizinhoB.

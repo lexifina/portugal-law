@@ -1,0 +1,3 @@
+# Artigo 73.º
+
+As janelas dos compartimentos das habitações deverão ser sempre dispostas de forma que o seu afastamento de qualquer muro ou fachada fronteiros, medido perpendicularmente ao plano da janela e atendendo ao disposto no artigo 75.º, não seja inferior a metade da altura desse muro ou fachada acima do nível do pavimento do compartimento, com o mínimo de 3 metros. Além disso não deverá haver a um e outro lado do eixo vertical da janela qualquer obstáculo à iluminação a distância inferior a 2 metros, devendo garantir-se, em toda esta largura, o afastamento mínimo de 3 metros acima fixado.
