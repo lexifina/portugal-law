@@ -1,0 +1,13 @@
+Declaração
+Declara-se, para os devidos efeitos, que entre o original arquivado nesta Secretaria-Geral e o texto do Decreto n.º 47869, publicado pelo Ministério das Finanças, Direcção-Geral da Contabilidade Pública, no Diário do Governo n.º 202, 1.ª série, de 30 de Agosto último, existe a seguinte divergência, que assim se rectifica:
+No artigo 3.º, onde se lê:
+Ministério da Educação Nacional
+...
+Capítulo 3.º, artigo 197.º, n.º 1) ... 200000$00
+...
+deve ler-se:
+Ministério da Educação Nacional
+...
+Capítulo 3.º, artigo 205.º, n.º 1) ... 200000$00
+...
+Secretaria-Geral da Presidência do Conselho, 2 de Outubro de 1967. - O Secretário-Geral, Diogo de Castelbranco de Paiva de Faria Leite Brandão.
