@@ -1,0 +1,3 @@
+Despacho Normativo n.º 9/80
+Ao abrigo do disposto do n.º 1 do artigo 1.º do Decreto-Lei n.º 303/77, de 29 de Julho, e em aditamento à tabela n.º 1, «Produtos fitofarmacêuticos», para efeitos de aplicação do regime de comercialização estabelecido por aquele diploma, é autorizada a substituição da embalagem com a capacidade de 50 kg por outra de 65 kg em produtos fitofarmacêuticos com base em tetraclorvinfos, cujo tipo de formulação é em pó molhável, com o teor de 75% de substância activa.
+Secretarias de Estado do Fomento Agrário e do Comércio Interno, 20 de Dezembro de 1979. - O Ministro da Agricultura e Pescas, Joaquim da Silva Lourenço. - O Secretário de Estado do Comércio Interno, Manuel Duarte Pereira.
