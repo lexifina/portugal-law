@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Gabinete de S. Ex.ª o Ministro das Obras Públicas, a Portaria n.º 17666, publicada no Diário do Governo n.º 84, 1.ª série, de 11 de Abril findo, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a inexactidão seguinte, que assim se rectifica:
+No n.º 3.º, alínea f), onde se lê: «Um representante de cada uma das Direcções-Gerais dos Serviços Industriais, dos Serviços Florestais e Aquícolas, de Minas e Serviços Geológicos, ...», deve ler-se: «Um representante de cada uma das Direcções-Gerais dos Serviços Industriais, dos Serviços Florestais e Aquícolas, dos Serviços Agrícolas, de Minas e Serviços Geológicos, ...».
+Secretaria-Geral da Presidência do Conselho, 9 de Maio de 1960. - O Secretário-Geral, Diogo de Castelbranco de Paiva de Faria Leite Brandão.
