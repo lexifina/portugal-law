@@ -1,0 +1,14 @@
+Decreto-Lei n.º 503-E/76
+de 30 de Junho
+O Decreto-Lei n.º 333-B/76, de 10 de Maio, autorizou a emissão de um empréstimo interno, amortizável, denominado «Obrigações do Tesouro, 6%, ouro - 1976».
+Este empréstimo está estreitamente ligado com o que na mesma data foi emitido sob a designação de «Obrigações do Tesouro, 10% - 1976».
+Como, por diploma nesta data publicado, foi determinado fixar em 15 de Agosto próximo o encerramento da subscrição cujo termo estava marcado para 30 de Junho corrente, torna-se necessário conceder idêntica regalia a este empréstimo, que, como é do conhecimento geral, tem o seu valor expresso em ouro.
+Nestes termos:
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Para a subscrição pública do empréstimo cuja emissão foi autorizada pelo Decreto-Lei n.º 333-B/76, de 10 de Maio, é concedido um novo prazo, que decorrerá de 1 de Julho a 15 de Agosto de 1976, considerando-se este prazo dividido em três períodos, para efeito do valor dos primeiros juros.
+Art. 2.º As obrigações subscritas no período a decorrer de 1 a 15 de Julho conferem aos tomadores direito ao juro parcial do semestre que termina em 14 de Novembro de 1976, no valor de 11$20, as subscritas de 16 a 31 de Julho conferem direito ao juro parcial do mesmo semestre, no valor de 10$00, e as subscritas de 1 a 15 de Agosto conferem direito ao juro parcial do mesmo semestre, no valor de 8$70.
+Art. 3.º Este decreto-lei entra em vigor na data da sua publicação.
+Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha.
+Promulgado em 30 de Junho de 1976.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES
