@@ -1,0 +1,5 @@
+Resolução n.º 182/80
+Considerando que, não se encontrando ainda em vigor o Orçamento Geral do Estado para 1980, há que dotar a Anop - Agência Noticiosa Portuguesa, E. P., com os meios financeiros necessários para ultrapassar a situação de rotura iminente de tesouraria, com a consequente paralisação dos serviços por aquela prestados;
+Considerando, por outro lado, que, na aplicação do regime orçamental vigente, até à efectiva publicação, no Diário da República, do Orçamento Geral do Estado para 1980, a atribuição de subsídios de exploração a empresas públicas está dependente de aprovação em resolução do Conselho de Ministros:
+O Conselho de Ministros, reunido em 22 de Maio de 1980, resolveu atribuir à Anop - Agência Noticiosa Portuguesa, E. P., a título de subsídio não reembolsável, a verba de 5835 contos, correspondente ao duodécimo de Maio do corrente ano, calculado com base no subsídio à exploração concedido àquela empresa pública em 1979, sobre o qual não incidirão quaisquer descontos.
+Presidência do Conselho de Ministros, 22 de Maio de 1980. - O Vice-Primeiro-Ministro, Diogo Pinto de Freitas do Amaral.
