@@ -1,0 +1,6 @@
+Resolução do Conselho de Ministros n.º 3/87
+O Programa de Financiamento a Arrendatários Rurais - PAR, criado pela Resolução do Conselho de Ministros n.º 159/80, de 15 de Abril, insere-se no âmbito da política agrícola do Governo em domínios reputados de particular relevância, tais como o acesso à terra de rendeiros, apoio à reestruturação fundiária nas zonas de minifúndio e preservação da unidade das explorações existentes.
+Em execução, o Programa foi já objecto de ajustamentos tendentes a conferir-lhe maior operacionalidade e dinamismo.
+Nesta conformidade, considera-se conveniente dar nova redacção ao n.º 3 da Resolução do Conselho de Ministros n.º 55/84, de 28 de Dezembro, que fica revogado pela presente versão.
+Assim, o Conselho de Ministros, reunido em 18 de Dezembro de 1986, resolveu estabelecer que o rendeiro, emparcelante ou herdeiro directo, ainda que tenha idade superior a 60 anos, poderá beneficiar do Programa de Financiamento a Arrendatários Rurais - PAR, quando haja um seu descendente em linha recta, ou o respectivo cônjuge, em condições de assegurar a continuidade da exploração e desde que tal seja reconhecido pelo Ministério da Agricultura.
+Presidência do Conselho de Ministros. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
