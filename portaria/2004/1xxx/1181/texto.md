@@ -1,0 +1,9 @@
+Portaria n.º 1181/2004
+de 14 de Setembro
+Nos termos do disposto no n.º 2 do artigo 3.º do Decreto-Lei n.º 421/99, de 21 de Outubro, diploma que aprovou o Estatuto de Pessoal das Administrações Portuárias (EPAP), as tabelas salariais e quaisquer outras disposições de natureza remuneratória são aprovadas por portaria do Ministro das Obras Públicas, Transportes e Comunicações, podendo produzir efeitos retroactivos nos termos nela fixados.
+Nos termos do n.º 2 do artigo 3.º do Decreto-Lei n.º 421/99, de 21 de Outubro, e ouvidos os sindicatos representativos do sector:
+Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações, o seguinte:
+1.º Os montantes da tabela de remunerações base e diuturnidades dos trabalhadores das administrações portuárias, aprovada pelo n.º 1.º da Portaria n.º 193/90, de 17 de Março, com os aditamentos previstos no n.º 1.º da Portaria n.º 863/91, de 20 de Agosto, no n.º 2.º da Portaria n.º 239/96, de 4 de Julho, e no n.º 2 do n.º 81.º da Portaria n.º 1098/99, de 21 de Dezembro, resultantes da última actualização prevista no n.º 1.º da Portaria n.º 897/2003, de 26 de Agosto, são actualizados em 1,5%, com arredondamento à décima do euro imediatamente superior.
+2.º Os montantes da tabela de remunerações base e diuturnidades dos titulares dos cargos de direcção e chefia aprovada pelo n.º 1.º da Portaria n.º 194/90, de 17 de Março, e resultantes da actualização prevista no n.º 2.º da Portaria n.º 897/2003, de 26 de Agosto, são actualizados em 1,5%, com arredondamento à décima do euro imediatamente superior.
+3.º A actualização salarial prevista nos n.os 1.º e 2.º da presente portaria produz efeitos a partir de 1 de Janeiro de 2004.
+O Ministro das Obras Públicas, Transportes e Comunicações, António Luís Guerra Nunes Mexia, em 26 de Agosto de 2004.
