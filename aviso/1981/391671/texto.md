@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação do Departamento de Estado dos Estados Unidos da América, o Governo da República da Uganda designou o Ministério da Energia, Correios e Telecomunicações como signatário do Acordo Operativo Relativo à Organização Internacional das Telecomunicações por Satélite (INTELSAT), aberto à assinatura, em Washington, em 20 de Agosto de 1971, em substituição do Ministério dos Transportes, Comunicações e Obras, que havia assinado o referido Acordo em 9 de Junho de 1977.
+Direcção-Geral dos Negócios Económicos, 26 de Janeiro de 1981. - O Adjunto do Director-Geral, Carlos Alberto Soares Simões Coelho.
