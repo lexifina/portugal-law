@@ -1,0 +1,28 @@
+Portaria n.º 820/94
+de 16 de Setembro
+Considerando que a Assembleia Municipal de Almodôvar aprovou, em 28 de Fevereiro de 1994, o Plano de Pormenor da Entrada Norte de Santa Clara-a-Nova, em Almodôvar;
+Considerando que foi realizado o inquérito público, nos termos previstos no artigo 14.º do Decreto-Lei n.º 69/90, de 2 de Março;
+Considerando os pareceres favoráveis emitidos pela Comissão de Coordenação da Região do Alentejo, Direcção Regional de Agricultura do Alentejo e Direcção-Geral do Ordenamento do Território;
+Considerando que se verificou a conformidade formal do Plano de Pormenor com as disposições legais e regulamentares em vigor, a sua articulação com os demais planos municipais eficazes e com outros planos, programas e projectos de interesse para outro município ou supramunicipal, nos termos previstos no n.º 2 do artigo 16.º do Decreto-Lei n.º 69/90, de 2 de Março;
+Ao abrigo do n.º 4 do artigo 3.º do Decreto-Lei n.º 69/90, de 2 de Março, com as alterações introduzidas pelo Decreto-Lei n.º 211/92, de 8 de Outubro, e da delegação de competências conferida pelo Despacho n.º 52/93, de 10 de Setembro, do Ministro do Planeamento e da Administração do Território, publicado no Diário da República, 2.ª série, n.º 226, de 25 de Setembro de 1993:
+Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordenamento do Território, que seja ratificado o Plano de Pormenor da Entrada Norte de Santa Clara-a-Nova, em Almodôvar, cujo Regulamento e planta de síntese se publicam em anexo à presente portaria e que dela fazem parte integrante.
+Ministério do Planeamento e da Administração do Território.
+Assinada em 20 de Julho de 1994.
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
+
+Revisão ao Regulamento do Plano de Pormenor da Entrada Norte de Santa Clara-a-Nova
+Artigo 1.º As disposições contidas neste Regulamento abrangem toda a área do Plano de Pormenor que se constitui numa faixa de cerca de 70 m ao longo da estrada municipal, à entrada norte do aglomerado de Santa Clara-a-Nova, conforme assinalado nas peças desenhadas.
+Art. 2.º O parcelamento proposto obedecerá à subdivisão indicada nas peças desenhadas dentro da aproximação que o trabalho de campo permitir, sem prejuízo da concepção urbanística global e das cláusulas deste Regulamento.
+Arti. 3.º As regulamentações referentes a índices e tipo de ocupação, percentagem da área permitida para anexos encontram-se definidas em quadro anexo.
+Art. 4.º Os logradouros, sobretudo na zona anterior, devem ser tratados como jardim e serem tanto quanto possível arborizados.
+Art. 5.º - 1 - As construções deverão destinar-se a habitação unifamiliar (um foco por lote), nas quais poderão ser instaladas algumas unidades comerciais no rés-do-chão de edifícios de uso habitacional, até ao máximo de 20% do total dos lotes.
+2 - A área destinada a comércio não deverá ultrapassar 50% da área bruta permitida para cada lote.
+Art. 6.º O número de pisos é o definido nas peças desenhadas, devendo haver predominância do piso térreo sobre o piso superior.
+Art. 7.º Serão permitidos anexos destinados a garagem cuja área estará de acordo com a percentagem fixada.
+Art. 8.º Sem prejuízo do disposto nos artigos 6.º e 7.º, será permitida nos lotes indicados no quadro anexo a construção de uma parte de cave aproveitando os desníveis do terreno, incluindo-se neste caso a percentagem destinada a anexos, nas construções.
+Art. 9.º A cor base das fachadas deverá ser o branco, sendo admitidos emolduramentos de cor nos vãos e socos, mas não a utilização de mais de uma cor nas paredes das fachadas.
+Art. 10.º A cobertura deverá ser em telha cerâmica vermelha com beirado, podendo ser utilizadas soluções mistas com terraços integrados no telhado.
+Art. 11.º A área definida para zona verde não deverá ser utilizada para fins não compatíveis com os seus objectivos.
+Art. 12.º Em tudo o mais omisso neste Regulamento serão observados regulamentos e normas em vigor.
+Plano de Pormenor da Entrada Norte de Santa Clara-a-Nova
+(ver documento original)
