@@ -1,0 +1,29 @@
+Decreto-Lei n.º 37/83
+de 25 de Janeiro
+O Decreto-Lei n.º 553/80, de 21 de Novembro, que promulgou o Estatuto do Ensino Particular e Cooperativo, entre as formas de apoio do Estado aos estabelecimentos de ensino particular e cooperativo, prevê a criação de linhas de crédito bonificado.
+No artigo 10.º daquele diploma comete-se ao Governo, através do Ministro de Estado e das Finanças e do Plano, a tarefa de tomar as providências necessárias para o estabelecimento de linhas de crédito bonificado destinado à aquisição, construção e equipamento dos estabelecimentos de ensino abrangidos pelo mesmo diploma.
+Neste sentido, torna-se necessário providenciar a cobertura dos encargos com a bonificação dos juros a cargo do Estado referentes a esta linha de crédito.
+Assim:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º Para efeitos do artigo 10.º do Decreto-Lei n.º 553/80, de 21 de Novembro, é criada uma linha de crédito bonificado, no montante máximo de 1500000 contos, nos termos do presente diploma.
+Art. 2.º Os estabelecimentos de ensino particular e cooperativo autorizados pelo Ministério da Educação podem beneficiar do crédito a conceder nos termos deste decreto-lei.
+Art. 3.º O crédito referido no artigo anterior destina-se a facultar recursos para financiamento de aquisição, construção, incluindo ampliação de instalações, e equipamento de estabelecimentos de ensino abrangidos pelo Decreto-Lei n.º 553/80.
+Art. 4.º Com vista à formalização das operações de crédito, competirá ao Ministério da Educação, através da Direcção-Geral do Ensino Particular e Cooperativo, instruir os projectos que lhe venham a ser apresentados pelos respectivos beneficiários e encaminhá-los para a instituição de crédito previamente indicada por estes.
+Art. 5.º - 1 - O capital a mutuar não poderá exceder 70% do valor dos edifícios, das ampliações ou do equipamento.
+2 - O valor de aquisição, construção ou ampliação dos edifícios é determinado por avaliação da instituição financiadora.
+Art. 6.º O prazo máximo dos empréstimos será de 15 anos, quando se destinem a aquisição, construção ou ampliação de edifícios, e de 7 anos, quando se destinem à aquisição de equipamento.
+Art. 7.º Será da exclusiva competência da instituição de crédito, depois de obtido parecer favorável da Direcção-Geral do Ensino Particular e Cooperativo, a apreciação dos projectos a financiar, para cuja aprovação poderá exigir quaisquer formas de garantia admitidas em direito.
+Art. 8.º As operações de crédito serão objecto de contrato, onde se discriminem as respectivas aplicações, e dele constará cláusula impondo a perda da bonificação, em caso de desvio das aplicações previstas, bem como o plano de reembolso, incluindo períodos de utilização e de diferimento, quando sejam estabelecidos.
+Art. 9.º - 1 - Pelos financiamentos previstos no presente decreto-lei será cobrada aos mutuários, pelas instituições de crédito, uma taxa de juro bonificada igual à taxa de desconto do Banco de Portugal.
+2 - A taxa referida no n.º 1 deste artigo não poderá, contudo, ser inferior a 12%.
+3 - A taxa bonificada, nos termos dos números anteriores, é aplicável desde o início da operação.
+Art. 10.º O controle de aplicação dos fundos mutuados é da competência e responsabilidade da instituição de crédito mutuante.
+Art. 11.º - 1 - A instituição financiadora, depois de configurar as operações segundo as linhas de crédito vigentes, deverá constituir processo a enviar à Direcção-Geral do Tesouro, com vista a facultar-lhe os dados que permitam a dotação do montante do diferencial da taxa de juro a suportar pelo Orçamento Geral do Estado.
+2 - Para a formalização da cobrança do diferencial referido no número anterior, a instituição financiadora, após o recebimento dos respectivos juros, enviará à Direcção-Geral do Tesouro um quadro, em duplicado, contendo os elementos adequados à identificação do mutuário e da operação.
+Art. 12.º - 1 - Para fazer face aos encargos a suportar pelo Estado, derivados do diferencial entre a taxa de juro bonificada directamente cobrada pelas instituições mutuantes em operações enquadradas nas linhas de crédito a que se refere o artigo 10.º do Decreto-Lei n.º 553/80 e as taxas de juro fixadas pelo Banco de Portugal para operações activas do mesmo prazo, fica a Direcção-Geral do Tesouro autorizada a inscrever no seu orçamento as dotações necessárias.
+2 - Para o Orçamento Geral do Estado de 1982 fixa-se desde já a verba de 16500 contos.
+Art. 13.º Para efeitos de enquadramento nos benefícios previstos no presente decreto-lei, deverão os estabelecimentos de ensino particular e cooperativo interessados apresentar à Direcção-Geral do Ensino Particular e Cooperativo os respectivos projectos de aquisição, construção ou equipamento, no prazo máximo de 2 anos a contar da data de publicação do presente diploma.
+Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 1982. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - João José Fraústo da Silva.
+Promulgado em 14 de Janeiro de 1983.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
