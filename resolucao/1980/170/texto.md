@@ -1,0 +1,4 @@
+Resolução n.º 170/80
+Nos termos da alínea a) do artigo 146.º e do n.º 4 do artigo 277.º da Constituição, o Conselho da Revolução, precedendo parecer da Comissão Constitucional, pronuncia-se, para os efeitos dos n.os 1 e 3 do artigo 278.º da Constituição, pela inconstitucionalidade do decreto registado na Presidência do Conselho de Ministros sob o n.º 137-G/80, em 15 de Abril, que aprova o Estatuto da Radiodifusão Portuguesa, E. P., a ele anexo, em virtude de os artigos 15.º, n.º 1, 20.º, 24.º e 30.º - por um lado -, 17.º, n.º 1, na parte em que prevê a destituição dos membros dos órgãos administrativos a todo o tempo, por conveniência do serviço - por outro -, e 23.º, alíneas c) e d) - por outro, ainda -, do referido Estatuto violarem, respectivamente, o disposto nos artigos 167.º, alínea c), 39.º, n.º 1, e 231.º, n.º 2, todos da Constituição.
+Aprovada em Conselho da Revolução em 13 de Maio de 1980.
+O Presidente do Conselho da Revolução, António Ramalho Eanes.
