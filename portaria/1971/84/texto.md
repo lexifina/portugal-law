@@ -1,0 +1,6 @@
+Portaria n.º 84/71
+de 12 de Fevereiro
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar, com a importância de 21000$00, a verba do capítulo 4.º, artigo 248.º, n.º 15 «Administração geral e fiscalização - Serviços de Educação - Encargos administrativos - Encargos com viagens e subsídios dos presidentes dos júris de fiscalização e outras despesas a que e referem os Decretos n.os 39291, de 24 de Julho de 1953, 39622, de 26 de Abril de 1954, 39791, de 27 de Agosto de 1954 e 40290, de 10 de Agosto de 1955», da tabela de despesa ordinária do orçamento geral da província de Angola para o ano económico e 1970, tomando como contrapartida igual importância a sair das disponibilidades da verba do capítulo 10.º, artigo 1460.º, n.º 2, alínea a) «Encargos gerais - Deslocações do pessoal - Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na metrópole», da mesma tabela de despesa.
+Pelo Ministro do Ultramar, Leão Maria Tavares Rosado do Sacramento Monteiro, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Angola. - Sacramento Monteiro.
