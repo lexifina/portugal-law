@@ -1,0 +1,25 @@
+Decreto-Lei n.º 354/82
+de 4 de Setembro
+A modalidade desportiva de hóquei em patins, praticado em Portugal desde 1922, é um dos desportos pelo qual os Portugueses têm mostrado grande entusiasmo e em cuja prática bastantes atletas se têm distinguido, tendo mesmo as selecções nacionais, a partir de 1947, atingido posição de grande notoriedade ao saírem vencedoras em largas dezenas de provas internacionais, nomeadamente nos campeonatos do mundo e nas taças das nações.
+Estas circunstâncias, ligadas aos factos de, neste ano de 1982, passarem 60 anos sobre o início da prática da modalidade em Portugal, de se ter realizado em território nacional o XXV Campeonato Mundial de Hóquei em Patins e de a equipa portuguesa se haver consagrado campeã mundial, justificariam, só por si, que se assinalasse aquela importante realização desportiva com uma emissão de moedas correntes comemorativas, o que já era, de há tempo, intenção do Governo, agora concretizada.
+Assim, e com o acordo do Banco de Portugal, nos termos do artigo 12.º, n.º 2, da sua Lei Orgânica, aprovada pelo Decreto-Lei n.º 644/75, de 15 de Novembro:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º - 1 - É criada uma colecção de moedas comemorativas do XXV Campeonato Mundial de Hóquei em Patins, constituída por 4 moedas metálicas de valores faciais de 1$00, 2$50, 5$00 e 25$00.
+2 - As moedas dos respectivos valores faciais serão cunhadas segundo as características técnicas definidas nos Decretos-Leis n.os 545/80, de 17 de Novembro, para as moedas de 1$00, 45120, de 12 de Julho de 1963, para as moedas de 2$50 e 5$00, e 847/76, de 15 de Dezembro, 534/77, de 30 de Dezembro, e 519-R/79, de 28 de Dezembro, para a moeda de 25$00, que se resumem:
+Moeda de 1$00 - liga latão-níquel: 79% de cobre, 20% de zinco e 1% de níquel; diâmetro: 18 mm; peso: 3 g; tolerância no título e no peso: (mais ou menos)1,5%; bordo não serrilhado;
+Moeda de 2$50 - liga cuproníquel: 75% de cobre e 25% de níquel; diâmetro: 20 mm; peso: 3,5 g; tolerância no título e no peso: (mais ou menos)1,5%; bordo serrilhado;
+Moeda de 5$00 - liga cuproníquel: 75% de cobre e 25% de níquel; diâmetro: 24,5 mm; peso: 7 g; tolerância no título e no peso: (mais ou menos)1,5%: bordo serrilhado;
+Moeda de 25$00 - liga cuproníquel: 75% de cobre e 25% de níquel; diâmetro: 28,5 mm; peso: 11 g; tolerância no título: (mais ou menos)1,5%; e no peso; (mais ou menos)2%; bordo serrilhado.
+Art. 2.º - 1 - Os desenhos dos anversos apresentam no centro do campo o escudo das armas nacionais, orlado na parte superior pela legenda «República Portuguesa» e na parte inferior pela inscrição do respectivo valor facial em algarismos: 1$00, 2$50, 5$00 e 25$00.
+2 - Os reversos ostentam a legenda circular comum, na orla inferior «Mundial Hóquei» e na parte superior a inscrição abreviada da era «82» em linha.
+No campo, os motivos representados são:
+Na moeda de 1$00 - jogador em posição de arranque;
+Na moeda de 2$50 - jogador em posição de passe;
+Na moeda de 5$00 - jogador em posição de remate;
+Na moeda de 25$00 - guarda-redes em posição de defesa.
+Art. 3.º É autorizada a Imprensa Nacional-Casa da Moeda, E. P., a cunhar, até ao limite de 8000000, a moeda agora criada, no limite de 2000000 por cada um dos valores faciais fixados.
+Art. 4.º Estas moedas, embora comemorativas, têm curso legal, mas ninguém pode ser obrigado a receber, em qualquer pagamento, mais de 500$00 em moedas de 1$00, 2$50 e 5$00 ou mais de 2000$00 em moedas de 25$00.
+Visto e aprovado em Conselho de Ministros de 27 de Julho de 1982. - Francisco José Pereira Pinto Balsemão.
+Promulgado em 26 de Agosto de 1982.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
