@@ -1,0 +1,22 @@
+Decreto-Lei n.º 118/81
+de 18 de Maio
+Tendo em consideração as directrizes programáticas da Constituição, procuram os Decretos-Leis n.os 191-A/79 e 191-D/79, ambos de 25 de Junho, ajustar o regime de aposentação e o Estatuto Disciplinar dos Funcionários e Agentes da Administração Central, Regional e Local aos novos princípios de justiça social que enformam o texto constitucional e às condições em que passou a desenvolver-se o exercício da actividade dos destinatários dos diplomas legais referidos.
+Por razões de equidade, e na sequência de outras medidas já tomadas no sentido de harmonizar as situações dos funcionários e agentes regidos por estatutos diferentes, considera-se conveniente tornar extensivas aos funcionários e agentes dos antigos territórios ultramarinos portugueses determinadas disposições dos citados Decretos-Leis n.os 191-A/79 e 191-D/79.
+Considerando, também, que a prorrogação, concedida pelo artigo 2.º do Decreto-Lei n.º 23/80, de 29 de Fevereiro, do prazo fixado pelo artigo 6.º do Decreto-Lei n.º 362/78, de 28 de Novembro, para requerer as pensões de aposentação a que se refere este último diploma se encontra já esgotada, reduzindo assim o alcance de algumas das medidas consagradas no presente decreto-lei, procede-se a nova prorrogação até 30 de Setembro.
+Assim:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º O n.º 2 do artigo 1.º do Decreto-Lei n.º 362/78, de 28 de Novembro, passa a ter a seguinte redacção:
+Artigo 1.º - 1 - ...
+2 - É extensivo aos funcionários e agentes referidos no número anterior o disposto nos artigos 32.º, 37.º, n.os 1, 2, alíneas b) e c), 3 e 4, 38.º, 40.º, n.os 2 e 3, 53.º, n.os 1 e 2, 56.º e 76.º do Decreto-Lei n.º 498/72, de 9 de Dezembro, com a nova redacção dada pelo Decreto-Lei n.º 191-A/79, de 25 de Junho.
+Art. 2.º As pensões de aposentação, a que se refere o Decreto-Lei n.º 362/78, de 28 de Novembro, podem ser requeridas até 30 de Setembro de 1981.
+Art. 3.º - 1 - As pensões requeridas ao abrigo deste decreto-lei vencem-se a partir do dia 1 do mês seguinte ao da recepção do requerimento no serviço competente.
+2 - As pensões começam, porém, a vencer-se a partir do dia 1 do mês seguinte à data da entrada em vigor deste diploma quando se trate de requerimentos que, até esta última data, tenham dado entrada no referido serviço.
+Art. 4.º - 1 - É tornado extensivo aos funcionários e agentes da administração pública das ex-províncias ultramarinas o disposto no artigo 4.º, n.º 1, do Decreto-Lei n.º 191-A/79, de 25 de Junho.
+2 - O disposto no número anterior produz efeitos a partir da data da entrada em vigor do presente diploma, desde que a aposentação seja requerida no prazo de seis meses contados da mesma data.
+Art. 5.º Aos funcionários e agentes referidos no n.º 1 do artigo anterior é aplicável o disposto no artigo 5.º do Decreto-Lei n.º 191-A/79, de 25 de Junho, com a ressalva de que a revisão das pensões produzirá efeitos, exclusivamente, a partir da data da entrada em vigor do presente diploma.
+Art. 6.º É igualmente aplicável aos funcionários e agentes referidos nos artigos anteriores o disposto nos artigos 13.º, n.os 10 e 11, 15.º, n.º 2, e 86.º do estatuto disciplinar aprovado pelo Decreto-Lei n.º 191-D/79, de 25 de Junho.
+Art. 7.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho dos Ministros das Finanças e do Plano e da Reforma Administrativa.
+Visto e aprovado em Conselho de Ministros de 23 de Abril de 1981. - Francisco José Pereira Pinto Balsemão.
+Promulgado em 6 de Maio de 1981.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
