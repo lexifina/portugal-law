@@ -1,0 +1,10 @@
+Decreto-Lei n.º 44338
+Pelo Decreto-Lei n.º 42950, de 27 de Abril de 1960, foram aumentadas as pensões de aposentação pagas pela Caixa Geral de Aposentações.
+A Administração-Geral do Porto de Lisboa e a Administração dos Portos do Douro e Leixões pagam certas pensões e subsídios vitalícios em tudo semelhantes às pensões de aposentação. Justo é, pois, que se faça beneficiar aqueles abonos das melhorias concedidas pelo mencionado decreto-lei.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º As disposições do Decreto-Lei n.º 42950, de 27 de Abril de 1960, são aplicáveis aos subsídios vitalícios pagos pela Administração-Geral do Porto de Lisboa e pela Administração dos Portos do Douro e Leixões, respectivamente nos termos do artigo 115.º do Decreto-Lei n.º 36976 e do artigo 83.º do Decreto-Lei n.º 36977, ambos de 20 de Julho de 1948, e ainda às pensões a estrangeiros aposentados satisfeitas pela Administração-Geral do Porto de Lisboa ao abrigo do Decreto n.º 18707, de 29 de Julho de 1930.
+Art. 2.º Os encargos resultantes do disposto no artigo antecedente serão custeados pelas correspondentes verbas inscritas nos respectivos orçamentos privativos dos organismos interessados, se necessário convenientemente reforçadas.
+Art. 3.º Os efeitos das disposições deste diploma são reportados a 1 de Janeiro do corrente ano económico.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 10 de Maio de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
