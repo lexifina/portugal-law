@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1952/03/06700/04500450.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1952-03-24",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "8fe48f9105e0ef2071450c3d8179a4840b8111d6937a21962be02e318189078f",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.5,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "f5a51ea2ba850eb27c93a1084b7fc26fbfc016efa2cea249301f52cc98e98db4",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 229
 }
