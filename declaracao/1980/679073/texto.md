@@ -1,0 +1,7 @@
+Declaração
+Segundo comunicação da Assembleia Regional dos Açores, o Decreto-Regional n.º 29/79/A, publicado no Diário da República, 1.ª série, n.º 296, de 26 de Dezembro de 1979, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 9.º, onde se lê: «... indústria incluída no artigo 5.º deste diploma.», deve ler-se: «... indústria incluída no artigo 6.º deste diploma.»
+No artigo 12.º, onde se lê: «..., o interessado formulará para comprovação da observância dos requisitos técnicos, económicos e financeiros apresentado em duplicado, sendo selado o original, o qual será acompanhado por todos os elementos para a aludida verificação.», deve ler-se: «..., o interessado formulará o pedido para comprovação da observância dos requisitos técnicos, económicos e financeiros em requerimento, apresentado em duplicado, sendo selado o original, o qual será acompanhado por todos os elementos para a aludida verificação.»
+No artigo 20.º, onde se lê: «Os produtos que foram fabricados ...», deve ler-se: «Os produtos que forem fabricados ...»
+No modelo de análise de instalação industrial, onde se lê: «Região Autónoma dos Açores - Assembleia Regional - Secretaria Regional do Comércio e Indústria - Secretaria-Geral - Direcção Regional», deve ler-se: «Região Autónoma dos Açores - Secretaria Regional do Comércio e Indústria - Direcção Regional da Indústria».
+Secretaria-Geral da Presidência do Conselho de Ministros, 22 de Fevereiro de 1980. - Pelo Secretário-Geral, Joaquim Brandão.
