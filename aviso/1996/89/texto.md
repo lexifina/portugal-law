@@ -1,0 +1,3 @@
+Aviso n.º 89/96
+Por ordem superior se torna público que a Rússia aderiu, em 28 de Fevereiro de 1996, ao Acordo Geral sobre os Privilégios e Imunidades e respectivo Protocolo Adicional, abertos à assinatura, respectivamente, em 2 de Setembro de 1949 e 6 de Novembro de 1952, e assinou, na mesma data, os Segundo, Quarto e Quinto Protocolos Adicionais ao referido Acordo, abertos à assinatura, respectivamente, em 15 de Dezembro de 1956, 16 de Dezembro de 1961 e 18 de Junho de 1990.
+Direcção de Serviços das Organizações Políticas Internacionais, 2 de Abril de 1996. - O Director de Serviços, João José Gomes Caetano da Silva.
