@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que no dia 14 de Junho de 1971 os Governos de Portugal e da Finlândia trocaram os respectivos instrumentos de ratificação relativamente à Convenção entre Portugal e a Finlândia para Evitar a Dupla Tributação, assinada em Helsínquia em 27 de Abril de 1970, cujos textos em português e inglês foram publicados no Diário do Governo, 1.ª série, n.º 246, sob o Decreto-Lei n.º 494/70, de 23 de Outubro. A referida Convenção, nos termos do n.º 2 do seu artigo 29.º, entrou em vigor em 14 de Julho de 1971.
+Direcção-Geral dos Negócios Económicos, 6 de Agosto de 1980. - O Director-Geral-Adjunto, Francisco Moita.
