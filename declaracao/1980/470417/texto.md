@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Ministério dos Transportes e Comunicações, a Portaria n.º 311-J/80, publicada no Diário da República, 1.ª série, n.º 125 (2.º suplemento), de 30 de Maio de 1980, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No quadro do pessoal e vencimentos da Junta Autónoma do Porto de Aveiro, grupo de pessoal auxiliar e operário, onde se lê: «Carpinteiro naval: Encarregado - K», deve ler-se: «Carpinteiro naval: Encarregado - J»; onde se lê: «Carpinteiro: Encarregado - K», deve ler-se: «Carpinteiro: Encarregado - J»; onde se lê: «Pedreiro: Encarregado - K», deve ler-se: «Pedreiro: Encarregado - J», e onde se lê: «Serralheiro mecânico: Encarregado - K», deve ler-se: «Serralheiro mecânico: Encarregado - J».
+Secretaria-Geral da Presidência do Conselho de Ministros, 28 de Julho de 1980. - O Secretário-Geral, França Martins.
