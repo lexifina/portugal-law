@@ -8,4 +8,4 @@ Quando não ocorra nenhum dos casos previstos no artigo anterior e se mostrar fe
 
 § 3.º Se o recorrente requerer na petição a suspensão da executoriedade do acto recorrido, o auditor resolverá no despacho de recebimento, que em tal caso será proferido mesmo em férias, se é de conceder ao recurso o efeito suspensivo.
 
-§ 4.º Verificando-se a hipótese prevista no § 2.º do artigo 836.º, o auditor ordenará que na citação se dê conhecimento à autoridade ou órgão recorrido de que deve, com a contestação, juntar o documento recusado, sob pena de multa até 10.000$00 aplicável no próprio processo aos responsáveis pela desobediência.
+§ 4.º Verificando-se a hipótese prevista no § 2.º do artigo 836.º, o auditor ordenará que na citação se dê conhecimento à autoridade ou órgão recorrido de que deve, com a contestação, juntar o documento recusado, sob pena de multa até (euro) 49,88 aplicável no próprio processo aos responsáveis pela desobediência.
