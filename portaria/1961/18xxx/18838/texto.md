@@ -1,0 +1,5 @@
+Portaria n.º 18838
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar com 10000$00 a verba do capítulo 10.º, artigo 240.º, n.º 2), alínea c) «Encargos gerais - Diversas despesas - Passagens a estudantes nos termos dos Decretos n.os 39297, de 29 de Julho de 1953, e 39362, de 16 de Setembro de 1953 - Passagens de regresso», da tabela de despesa ordinária do orçamento geral de Cabo Verde para o corrente ano, tomando como contrapartida as disponibilidades existentes na verba do capítulo 7.º, artigo 206.º, n.º 1), alínea a) «Serviços de agricultura e veterinária - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da referida tabela de despesa.
+Ministério do Ultramar, 24 de Novembro de 1961. - Pelo Ministro do Ultramar, João da Costa Freitas, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Cabo Verde. - J. Costa Freitas.
