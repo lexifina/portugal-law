@@ -1,0 +1,4 @@
+Despacho Normativo n.º 152/83
+1 - Ao abrigo do disposto no artigo 23.º do Decreto-Lei n.º 211/79, de 12 de Julho, delego no Chefe do Estado-Maior da Força Aérea, general José Lemos Ferreira, as competências que me são conferidas pelo artigo 20.º, n.º 1, alínea f), e n.º 2, alínea f), pelo artigo 21.º, alínea e), e pelo artigo 22.º do citado diploma legal para a autorização das despesas aí referidas.
+2 - Igualmente autorizo a subdelegação das referidas competências no Vice-Chefe do Estado-Maior da Força Aérea, no comandante operacional da Força Aérea, no comandante logístico-administrativo da Força Aérea, no comandante aéreo dos Açores e no comandante do Corpo de Tropas Pára-Quedistas.
+Ministério da Defesa Nacional, 9 de Junho de 1983. - O Ministro da Defesa Nacional, Carlos Alberto da Mota Pinto.
