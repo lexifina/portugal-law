@@ -1,0 +1,3 @@
+Despacho Normativo n.º 209/77
+Para os efeitos previstos no n.º 1 da Resolução do Conselho de Ministros 274/77, de 17 de Agosto de 1977, publicada no Diário da República, 1.ª série, n.º 248, de 26 de Outubro de 1977, que estabelece critérios de fixação das remunerações dos gestores de empresas públicas e equiparadas, o valor padrão a que se refere a alínea a) do mesmo número é fixado no vencimento máximo nacional.
+Ministérios do Plano e Coordenação Económica e das Finanças, 26 de Outubro de 1977. - O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira.
