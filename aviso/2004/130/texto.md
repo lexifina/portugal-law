@@ -1,0 +1,12 @@
+Aviso n.º 130/2004
+Por ordem superior se torna público que, por nota de 14 de Julho de 2003, o Secretariado Permanente da Conferência da Haia de Direito Internacional Privado notificou ter a Lituânia depositado, em 5 de Junho de 2002, o seu instrumento de adesão à Convenção Relativa ao Reconhecimento e à Execução de Decisões em Matéria de Obrigações Alimentares, concluída na Haia em 2 de Outubro de 1973, com as seguintes reservas:
+«1 - The Republic of Lithuania reserves the right not to recognize or enforce a decision or settlement insofar as it relates to a period of time after the maintenance creditor attains the age of twenty-one years or marries, except when the creditor is or was the spouse of the maintenance debtor (subparagraph 1 of article 26 of the Convention).
+2 - The Republic of Lithuania reserves the right not to recognize or enforce a decision or a settlement in respect of maintenance obligations between persons related collaterally [subparagraph 2 (a) of article 26 of the Convention].
+3 - The Republic of Lithuania reserves the right not to recognize or enforce a decision or settlement in respect of maintenance obligations between persons related by affinity [subparagraph 2 (b) of article 26 of the Convention].»
+Tradução
+«1 - A República da Lituânia reserva-se o direito de não reconhecer nem declarar executórias as decisões ou transacções referentes ao período posterior ao casamento ou ao 21.º aniversário do credor de alimentos, salvo se o credor for cônjuge ou ex-cônjuge do devedor de alimentos (artigo 26.º, n.º 1, da Convenção).
+2 - A República da Lituânia reserva-se o direito de não reconhecer nem declarar executórias as decisões ou transacções referentes às obrigações alimentares entre pessoas com parentesco colateral [artigo 26.º, n.º 2, alínea a), da Convenção].
+3 - A República da Lituânia reserva-se o direito de não reconhecer nem declarar executórias as decisões ou transacções referentes às obrigações alimentares entre pessoas com parentesco por afinidade [artigo 26.º, n.º 2, alínea b), da Convenção].»
+De acordo com os artigos 31.º e 35.º, n.º 2, da Convenção, esta entrou em vigor para a Lituânia em 1 de Outubro de 2003.
+Portugal é Parte na mesma Convenção, a qual foi aprovada pelo Decreto n.º 338/75, de 2 de Julho, tendo depositado o seu instrumento de ratificação em 4 de Dezembro de 1975, estando esta em vigor para Portugal desde 1 de Agosto de 1976.
+Departamento de Assuntos Jurídicos, 31 de Dezembro de 2003. - O Director, Luís Serradas Tavares.
