@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Ministério das Finanças e do Plano, a declaração de rectificação ao Aviso n.º 2/78, publicada no Diário da República, 1.ª série, n.º 125, de 1 de Junho de 1978, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No n.º 5.º, 1, onde se lê: «... pelas disposições dos Avisos n.os B/78, C/78, de 6 de Maio, ...», deve ler-se: «... pelas disposições dos Avisos n.os B/78, C/78 e D/78, de 6 de Maio, ...», e onde se lê: «... pelas disposições dos Avisos n.os 53/78, 4/78 e 5/78, de 6 de Maio, ...», deve ler-se: «... pelas disposições dos Avisos n.os 3/78, 4/78 e 5/78, de 6 de Maio, ...».
+Secretaria-Geral da Presidência do Conselho de Ministros, 9 de Junho de 1978. - Pelo Secretário-Geral, Joaquim Brandão.
