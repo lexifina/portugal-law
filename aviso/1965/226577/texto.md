@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que, segundo comunicação da Embaixada da Bélgica em Lisboa ao Ministério dos Negócios Estrangeiros, o Governo da República Unida do Tanganhica e Zanzibar depositou junto do Governo Belga o instrumento de adesão do seu país à Convenção relativa à criação de um Conselho de Cooperação Aduaneira, concluída em Bruxelas em 15 de Dezembro de 1950, a qual produzirá efeitos em relação àquele país a partir da data do mesmo depósito, isto é, 17 de Novembro de 1964.
+Direcção-Geral dos Negócios Económicos e Consulares, 23 de Dezembro de 1964. - O Director-Geral, José Calvet de Magalhães.
