@@ -1,0 +1,16 @@
+Decreto-Lei n.º 43017
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. A redacção do artigo 2.º do Decreto-Lei n.º 41654, de 28 de Maio de 1958, é substituída, para todos os efeitos, pela seguinte:
+Art. 2.º As pensões de reforma devidas aos militares são sempre proporcionais ao número de anos de serviço prestado e calculadas pela seguinte fórmula:
+P = V x (n/40)
+em que V representa o vencimento anual correspondente ao posto no activo, líquido do correspondente à quota, e n o número de anos de serviço, ao qual não pode ser atribuído valor superior a 40.
+§ 1.º As pensões de reforma do pessoal navegante da aeronáutica militar serão proporcionais ao tempo de voo, adicionando-se às pensões calculadas nos termos anteriores 60 por cento da gratificação de serviço aéreo para 1500 horas, tudo resultante da aplicação da seguinte fórmula:
+P = V x (n/40) + (6/15000)g x n'
+em que g e n' representam, respectivamente, a gratificação anual de serviço aéreo e o número de horas de voo efectuado, ao qual não pode ser atribuído valor superior a 1500.
+§ 2.º As pensões de reforma do pessoal militar que, por mudança de quadro, deixou de ter direito ao abono da gratificação de serviço aéreo, e que transita para a situação de reforma como pessoal não navegante, serão igualmente proporcionais ao tempo de voo que então efectuaram, aplicando-se a fórmula de cálculo semelhante à indicada no § 1.º.
+O valor de g será igual à gratificação anual de serviço aéreo que tal pessoal percebia quando deixou de ser considerado pessoal navegante.
+§ 3.º Desde que o militar comprove que a média dos vencimentos percebidos durante os últimos dez anos que precederam a passagem à reserva ou à reforma, sobre os quais incidiu o desconto para a Caixa Geral de Aposentações, é superior ao vencimento anual correspondente ao posto do activo, o valor a atribuir a V será essa média, sem exceder, em caso algum, o limite previsto no artigo 19.º do Decreto-Lei n.º 26115, de 23 de Novembro de 1935, na escala geral dos vencimentos, sendo o máximo o correspondente à letra A da mesma escala.
+§ 4.º São exceptuados da média dos últimos dez anos os abonos mencionados no § 3.º do artigo 3.º do Decreto-Lei n.º 39843 e no artigo 2.º do Decreto-Lei n.º 41387.
+§ 5.º Se a pensão for de calcular com base na média dos abonos nos últimos dez anos, a gratificação de serviço aéreo intervirá para a formação da mesma média, não sendo, porém, feita a adição referida no § 1.º
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 9 de Junho de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
