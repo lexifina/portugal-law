@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação da 11.ª Delegação da Direcção-Geral da Contabilidade Pública junto do Ministério da Educação e Cultura, a declaração de transferências de verbas publicada no Diário da República, 1.ª série, n.º 87, de 14 de Abril de 1987, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Onde se lê «Cap. 01, div. 08, subdiv. 02, C. F. 3.01.0, C. E. 71.09 - Apoio ao 12.º ano de escolaridade (-489)» deve ler-se «Cap. 01, div. 08, subdiv. 02, C. F. 3.01.0, C. E. 71.09, al. A - Apoio ao 12.º ano de escolaridade (-489)» e onde se lê «Cap. 50, div. 84, subdiv. 09 - Direcção-Geral dos Equipamentos Educativos - Instalações para o ensino secundário» deve ler-se «Cap. 50, div. 84, subdiv. 09 - Instalações para o ensino secundário - Direcção-Geral dos Equipamentos Educativos».
+Secretaria-Geral da Presidência do Conselho de Ministros, 29 de Abril de 1987. - O Secretário-Geral, França Martins.
