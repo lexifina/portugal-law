@@ -1,0 +1,19 @@
+Decreto-Lei n.º 59/81
+de 1 de Abril
+Considerando que a não prorrogação de facilidades fiscais concedidas pelo Decreto-Lei n.º 272/80, de 9 de Agosto, poderá redundar em graves prejuízos para o sector automóvel e para os particulares compradores dos veículos, bem como em maiores encargos para o próprio Estado, sempre que, na prática, os prazos então estabelecidos se tenham mostrado relativamente curtos;
+Considerando vantajoso permitir a garantia do imposto sobre a venda de veículos automóveis através de fiança bancária, de modo que todos os particulares compradores de veículos em circulação irregular até à entrada em vigor do Decreto-Lei n.º 301/80, de 16 de Agosto, possam registar em seu nome a propriedade dos mesmos:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º - 1 - As pessoas obrigadas por lei ao pagamento do imposto sobre a venda de veículos automóveis desembaraçados aduaneiramente até à entrada em vigor do Decreto-Lei n.º 301/80, de 16 de Agosto, e que tenham pago o imposto fora do prazo legalmente estabelecido para o fazer ficam sujeitas à multa correspondente a 12% do imposto, em singelo, desde que regularizem a sua situação mediante o pagamento daquela multa, perante as alfândegas, no prazo de trinta dias a contar da data da entrada em vigor deste diploma.
+2 - No caso de o imposto sobre a venda de veículos automóveis atrás referidos não ter sido pago, as pessoas obrigadas por lei ao cumprimento dessa obrigação ficam sujeitas à multa correspondente a 20% do imposto, em singelo, desde que regularizem a sua situação, perante as alfândegas, mediante o pagamento do imposto, acrescido da importância daquela multa, no prazo prescrito no número anterior.
+Art. 2.º - 1 - As pessoas referidas no n.º 2 do artigo anterior poderão optar pelo pagamento do imposto devido em prestações mensais, num máximo de trinta e seis, ficando sujeitas a uma multa correspondente a 25% do imposto, a qual deverá ser paga integralmente simultaneamente com a primeira prestação, equivalente a 25% do imposto, no prazo de trinta dias a contar da data da entrada em vigor deste diploma, prestando garantia por fiança bancária para o restante em dívida, a satisfazer em prestações de montante igual.
+2 - O benefício referido no número anterior deve ser requerido aos directores das alfândegas, nas sedes ou delegações urbanas, ou aos respectivos chefes, nas delegações extra-urbanas, consoante os casos.
+Art. 3.º - 1 - Existindo pendente processo de execução, as pessoas obrigadas ao pagamento do imposto sobre a venda de veículos automóveis poderão regularizar a sua situação mediante o pagamento nas condições estabelecidas nos artigos anteriores.
+2 - O benefício referido no número anterior deve ser requerido ao juiz do processo.
+Art. 4.º - 1 - Qualquer dos benefícios estabelecidos nos artigos anteriores caduca sempre que o pagamento de qualquer das prestações não seja efectuado no prazo do vencimento.
+2 - Caducado o respectivo benefício nos termos do número anterior, passa a exigir-se o triplo do imposto devido, sendo a esse montante deduzida a importância que haja sido paga.
+Art. 5.º As pessoas obrigadas por lei ao pagamento do imposto sobre a venda de veículos automóveis que estejam cumprindo essa obrigação em prestações, nos termos do artigo 3.º do Decreto-Lei n.º 272/80, de 9 de Agosto, poderão prestar fiança bancária, perante as alfândegas, em relação ao imposto ainda em dívida, para efeitos do registo de propriedade nas conservatórias do registo automóvel.
+Art. 6.º As dúvidas surgidas na interpretação e aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
+Visto e aprovado em Conselho de Ministros de 10 de Março de 1980. - Francisco José Pereira Pinto Balsemão.
+Promulgado em 23 de Março de 1981.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
