@@ -1,0 +1,8 @@
+Aviso n.º 97/94
+Por ordem superior se torna público que o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos, depositário da Convenção Relativa ao Processo Civil, concluída na Haia, em 1 de Março de 1954, transmitiu uma notificação, datada de 29 de Julho de 1993, segundo a qual a Convenção acima mencionada continua em vigor entre os Estados contratantes e a Eslováquia e a Croácia.
+A Croácia fez a seguinte declaração: «Em conformidade com os artigos 1 e 9 da Convenção, o pedido feito pelo Cônsul do Estado requerente é submetido ao Ministério da Justiça e Administração da República da Croácia.»
+Em conformidade com o artigo 31, alínea 1.ª, e com o artigo 27, alínea 2, da Convenção acima mencionada, a República da Letónia depositou, a 15 de Dezembro de 1992, junto do Ministério dos Negócios Estrangeiros do Reino dos Países Baixos, o seu instrumento de adesão à Convenção.
+A adesão foi comunicada pelo Governo neerlandês a 15 de Janeiro de 1993 aos Estados que ratificaram a Convenção. Uma vez que nenhum destes Estados se opôs no prazo de seis meses previsto pelo artigo 31, alínea 1.ª, a adesão tornou-se definitiva a 15 de Julho de 1993.
+Sendo aplicado por analogia o prazo de 60 dias previsto pelo artigo 28, alínea 2, as disposições da Convenção entraram em vigor para a Letónia a 12 de Setembro de 1993.
+Relativamente a Portugal, a Convenção foi aprovada para ratificação pelo Decreto-Lei n.º 47097, de 14 de Julho de 1966.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 16 de Fevereiro de 1994. - O Secretário-Geral-Adjunto, Afonso de Castro de Sá Pereira e Vasconcelos.
