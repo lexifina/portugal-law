@@ -1,0 +1,15 @@
+Despacho
+Nos últimos dias os meios de comunicação social têm-se referido, com certa insistência, mas nem sempre com total conhecimento do assunto, ao chamado problema do acesso dos estudantes do 4.º ano médico aos hospitais centrais, nomeadamente aos Hospitais Civis de Lisboa.
+Como é sabido, o problema insere-se no condicionalismo geral em que se debatem neste momento alguns sectores do ensino universitário, agravado pelo facto de, tratando-se de unidades hospitalares, estas não poderem sobrepor quaisquer outras considerações à sua missão primordial, que é a da assistência aos doentes.
+Por outro lado, a atribuição do ensino médico pré e pós-graduado às mesmas unidades acarreta imediatamente a questão de assegurar o mínimo de condições pedagógicas e científicas para o desempenho, pelo menos, em termos razoáveis, deste seu novo papel.
+Está neste momento em fase de aprovação o diploma legal que irá institucionalizar a unificação das carreiras assistencial, docente e de investigação, com correspondentes obrigações para todo o pessoal que delas participe.
+Não desconhecem as Secretarias de Estado as dificuldades e as carências que afectam actualmente os Hospitais Civis de Lisboa, as quais se têm vindo a acumular no decurso dos últimos decénios e que não podem, evidentemente, deixar de repercutir-se na qualidade da assistência e ensino médicos.
+O estado actual é o espelho do meio século de obscurantismo, que submeteu os verdadeiros interesses dos estudantes e das classes mais desfavorecidas ao egoísmo e rapacidade no exercício capitalista da profissão médica.
+Por outro lado, também as Secretarias de Estado compreendem os argumentos que os médicos dos Hospitais Civis têm apresentado e os motivos da sua inquietação. Não é função dos médicos resolver os problemas do ensino, mas também não ajudariam o País se nos momentos difíceis recusassem pôr ao serviço da Universidade e do Governo as suas qualificações e experiência profissionais. Há-de reconhecer-se que o que se lhes pede só pode ser feito com sacrifício da sua missão e sobrecarga de trabalho quotidiano.
+Nestes termos, reexaminando todo o processo que nos últimos dias vem sendo desenvolvido, e ouvidas as partes interessadas, os Secretários de Estado do Ensino Superior e Investigação Científica e da Saúde mantêm o seu seguinte despacho, que deverá ser imediatamente executado:
+Despacho
+Em face da capacidade assistencial e pedagógica do Hospital de Santa Maria e dos Hospitais Civis de Lisboa, é feita a seguinte distribuição dos alunos do 4.º ano médico pelas duas instituições:
+Hospitais Civis de Lisboa - 400 alunos;
+Hospital de Santa Maria - 600 alunos.
+Os restantes 150 alunos serão afectados ao Hospital Militar Principal e Instituto Português de Oncologia.
+Secretarias de Estado do Ensino Superior e Investigação Científica e da Saúde, 24 de Janeiro de 1975. - O Secretário de Estado do Ensino Superior e Investigação Científica, António José Avelãs Nunes. - O Secretário de Estado da Saúde, Carlos Octávio Torres Cruz e Oliveira.
