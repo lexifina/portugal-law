@@ -10,7 +10,7 @@ b) Despesas de exploração - as especificamente imputáveis a cada um dos concu
 
 3 - A distribuição dos resultados de exploração do totobola é feita de acordo com as seguintes normas:
 
-a) Federação Portuguesa de Futebol e clubes de futebol das 1.ª, 2.ª e 3.ª Divisões Nacionais - 50%;
+a) Para promoção e desenvolvimento do futebol, nos termos fixados no presente diploma - 50%;
 
 b) Santa Casa da Misericórdia de Lisboa - 21,5%;
 
