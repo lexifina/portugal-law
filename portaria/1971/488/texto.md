@@ -1,0 +1,6 @@
+Portaria n.º 488/71
+de 6 de Setembro
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar com a importância de 2000000$00 a verba do capítulo 10.º, artigo 2896.º, n.º 40), alínea a) «Encargos gerais - Diversas despesas - Despesas com assistência médica, tratamento e internamento de casos de tuberculose, cancro, alienação mental e lepra em hospitais, manicómios, casas de saúde e sanatórios de funcionários civis do activo, aposentados e operários do Estado e de pobres das províncias ultramarinas - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral em vigor da província de Moçambique, tomando como contrapartida igual importância a sair das disponibilidades da verba do capítulo 10.º, artigo 2896.º, n.º 28) «Encargos gerais - Diversas despesas - Para pagamento aos municípios da compensação referida no artigo 63.º do Regulamento do Código da Estrada, aprovado pela Portaria n.º 13469, de 6 de Novembro de 1959», da mesma tabela de despesa.
+Pelo Ministro do Ultramar, Leão Maria Tavares Rosado do Sacramento Monteiro, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Moçambique. - Leão do Sacramento Monteiro.
