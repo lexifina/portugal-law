@@ -1,0 +1,10 @@
+Portaria n.º 17787
+1. Manda o Governo da República Portuguesa, pelo Ministro das Corporações e Previdência Social, aprovar o modelo anexo a esta portaria do cartão de identidade destinado aos funcionários do Ministério das Corporações e Previdência Social não pertencentes aos serviços de inspecção.
+2. Os cartões dos funcionários pertencentes a serviços de inspecção continuarão a ser do modelo igual ao aprovado pela Portaria n.º 14413, de 1 de Junho do 1953, mas indicarão concretamente os serviços de inspecção a que se referem (Inspecção do Trabalho, Inspecção dos Organismos Corporativos e Inspecção de Previdência Social).
+Apenas os delegados e subdelegados do Instituto Nacional do Trabalho e Previdência e os directores-gerais poderão ter cartões com a indicação genérica de Serviços de Inspecção.
+3. A 1.ª Secção da Secretaria-Geral do Ministério organizará o registo em livro especial dos cartões emitidos, com fotografia e mais elementos de identificação convenientes.
+4. Os cartões só terão validade quando assinados pelo secretário-geral do Ministério e autenticados com o respectivo selo branco.
+Os cartões dos directores-gerais e dos delegados e subdelegados do Instituto Nacional do Trabalho e Previdência Social serão assinados pelo Ministro.
+Ministério das Corporações e Previdência Social, 2 de Julho de 1960. - O Ministro das Corporações e Previdência Social, Henrique Veiga de Macedo.
+
+(ver documento original)
