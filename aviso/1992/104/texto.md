@@ -1,0 +1,4 @@
+Aviso n.º 104/92
+Por ordem superior se torna público que o Benim depositou junto do Secretário-Geral das Nações Unidas, em 12 de Março de 1992, o instrumento de adesão aos Pactos Internacionais Relativos aos Direitos Civis e Políticos e aos Direitos Sociais, Económicos e Culturais e ao Protocolo Facultativo Referente ao Pacto Internacional Relativo aos Direitos Civis e Políticos, adoptados pela Assembleia Geral das Nações Unidas em 16 de Dezembro de 1966.
+De acordo com o parágrafo 2 dos artigos 27.º, 49.º e 9.º, respectivamente, os referidos Pactos Internacionais e o Protocolo entraram em vigor para o Benim em 12 de Junho de 1992.
+Direcção-Geral dos Negócios Político-Económicos, 3 de Julho de 1992. - O Director de Serviços dos Assuntos Multilaterais, António Nunes de Carvalho Santana Carlos.
