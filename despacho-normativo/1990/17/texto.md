@@ -1,0 +1,5 @@
+Despacho Normativo n.º 17/90
+Em cumprimento do disposto no artigo 2.º do Decreto-Lei n.º 533/76, de 8 de Julho, foi publicado o Despacho Normativo n.º 78/82, de 20 de Maio.
+Por lapso, na parte dispositiva daquele despacho normativo, não foi feita qualquer menção à situação dos tenentes da Polícia de Segurança Pública, que, naturalmente, por razões de justiça, não poderiam ter tratamento diferente daquele que foi dado aos tenentes da Guarda Nacional Republicana e da Guarda Fiscal.
+Nestes termos, torna-se extensivo aos tenentes da Polícia de Segurança Pública o disposto no Despacho Normativo n.º 78/82, de 20 de Maio, bem como nos despachos posteriores que actualizaram os quantitativos das diuturnidades, com efeitos retroactivos às datas em que os mesmos entraram em vigor.
+Ministérios das Finanças e da Administração Interna, 15 de Fevereiro de 1990. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - O Ministro da Administração Interna, Manuel Pereira.
