@@ -1,0 +1,5 @@
+Despacho Normativo n.º 349/79
+Considerando as dúvidas suscitadas na execução do artigo 3.º do Decreto-Lei n.º 498-F/74, de 30 de Setembro, no caso do falecimento dos interessados durante a pendência dos respectivos processos de reabilitação, tendo-lhes sucedido os cônjuges sobrevivos ou herdeiros hábeis nos termos prescritos no n.º 3 do artigo 1.º do mesmo diploma:
+Determino, ao abrigo do disposto no artigo 5.º do citado Decreto-Lei n.º 498-F/74, de 30 de Setembro, o seguinte:
+No caso de, na pendência de um processo de reabilitação, falecer o interessado, e tendo-lhe sucedido o seu cônjuge ou herdeiro hábil na mesma pretensão e através de requerimento próprio, os efeitos mencionados no artigo 3.º daquele diploma verificar-se-ão a partir da data da entrada do requerimento do militar reabilitado, e não da data dos requerimentos que tivessem sido apresentados depois da sua morte pelo cônjuge ou herdeiros.
+Estado-Maior-General das Forças Armadas, 23 de Outubro de 1979. - O Chefe do Estado-Maior-General das Forças Armadas, António Ramalho Eanes.
