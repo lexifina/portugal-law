@@ -26,7 +26,7 @@ A elevada qualificação dos técnicos que hão-de levar a cabo as orientações
 
 Naturalmente que a adesão de Portugal à CEE implica a adopção de um conjunto de regras e procedimentos que terão de ser introduzidos no sistema de acordo com a prática comunitária.
 
-2 - São, desde já, nomeados por urgente conveniência de serviço, nos termos do n.º 2 do artigo 3.º do Decreto-Lei n.º 146-C/80, de 22 de Maio, os seguintes elementos:
+2 - São, desde já, nomeados, por urgente conveniência de serviço, nos termos do n.º 2 do artigo 3.º do Decreto-Lei n.º 146-C/80, de 22 de Maio, os seguintes elementos:
 
 Doutor Manuel José Vilares, que presidirá;
 
