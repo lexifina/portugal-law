@@ -1,5 +1,5 @@
 # Artigo 505.º
 
-### (Assistência e vigilância)
+### Revogação da liberdade para prova
 
-O tribunal pode encarregar os serviços de reinserção social de acompanharem o tratamento de internados ou de exercerem a vigilância dos libertados a título de ensaio ou de experiência.
+À revogação da liberdade para prova é correspondentemente aplicável o disposto no artigo 495.º, devendo ser ouvido obrigatoriamente o defensor.

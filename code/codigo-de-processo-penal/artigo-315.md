@@ -2,7 +2,7 @@
 
 ### (Contestação e rol de testemunhas)
 
-1 - O arguido, em sete dias a contar da notificação do despacho que designa dia para a audiência, apresenta, querendo, a contestação, acompanhada do rol de testemunhas.
+1 - O arguido, em 20 dias a contar da notificação do despacho que designa dia para a audiência, apresenta, querendo, a contestação, acompanhada do rol de testemunhas.
 
 2 - A contestação não está sujeita a formalidades especiais.
 

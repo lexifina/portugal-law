@@ -1,13 +1,9 @@
 # Artigo 476.º
 
-### (Momento de libertação)
+### Contumácia
 
-1 - A libertação tem lugar durante a manhã do último dia do cumprimento da pena.
+Ao condenado que dolosamente se tiver eximido, total ou parcialmente, à execução de uma pena de prisão ou de uma medida de internamento é correspondentemente aplicável o disposto nos artigos 335.º, 336.º e 337.º, com as modificações seguintes:
 
-2 - Se o último dia do cumprimento da pena for sábado, domingo ou feriado, a libertação pode ter lugar no dia útil imediatamente anterior, se a duração da pena o justificar e a tal se não opuserem razões de assistência.
+a) Os editais e anúncios contêm, em lugar da indicação do crime e das disposições legais que o punem, a indicação da sentença condenatória e da pena ou medida de segurança a executar;
 
-3 - Quando as razões referidas no número anterior o permitirem e o feriado nacional for o dia 25 de Dezembro, a libertação pode ter lugar durante a manhã do dia 23.
-
-4 - O momento da libertação pode ser antecipado de dois dias, quando razões prementes de reinserção social o justificarem.
-
-5 - O disposto nos números anteriores não é aplicável à prisão por dias livres; o disposto nos n.os 2, 3 e 4 não é aplicável à prisão em regime de semidetenção nem à cumprida em alternativa da multa, quando não tenha duração superior a quinze dias.
+b) O despacho de declaração da contumácia e o decretamento do arresto são da competência do tribunal referido no artigo 470.º ou do Tribunal de Execução das Penas.

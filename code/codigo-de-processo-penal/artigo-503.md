@@ -1,7 +1,7 @@
 # Artigo 503.º
 
-### (Revisão obrigatória)
+### Processo individual
 
-1 - Até 2 meses antes da data calculada para a revisão obrigatória da situação do internado, o tribunal ordena a perícia psiquiátrica do condenado, a realizar, sempre que possível, no próprio estabelecimento em que se encontrar internado, devendo o respectivo relatório ser-lhe apresentado dentro de 30 dias.
+1 - Na instituição onde o internamento se efectuar é organizado um processo individual, no qual se registam ou juntam as comunicações recebidas do tribunal e os elementos a este fornecidos, bem como os relatórios de avaliação periódica dos efeitos do tratamento sobre a perigosidade do internado.
 
-2 - A revisão obrigatória da situação do internado tem lugar com audição do Ministério Público, do defensor e do internado, só podendo a presença deste ser dispensada se o seu estado de saúde tornar a audição inútil ou inviável.
+2 - Anualmente e sempre que as condições o justificarem, ou o tribunal de execução das penas o solicitar, o director da instituição remete para o processo organizado naquele tribunal o relatório de avaliação periódica.

@@ -1,9 +1,13 @@
 # Artigo 483.º
 
-### (Renovação da instância)
+### Anomalia psíquica posterior
 
-1 - Quando a liberdade condicional for revogada e a prisão houver ainda de prosseguir por mais de um ano, são remetidos novos relatórios e parecer, nos termos do artigo 481.º, alíneas a) e b), até dois meses antes de decorrido aquele período.
+1 - Se durante a execução da pena sobrevier ao condenado uma anomalia psíquica, com os efeitos previstos nos artigos 105.º, n.º 1, e 106.º, n.º 1, do Código Penal, o tribunal de execução das penas ordena:
 
-2 - Sendo relativamente indeterminada a pena de prisão, é sempre obrigatória a renovação de instância prevista no número anterior, até dois meses antes do período máximo da pena.
+a) Perícia psiquiátrica ou sobre a personalidade do condenado, devendo o respectivo relatório ser-lhe apresentado dentro de 30 dias;
 
-3 - A sentença que negar ou revogar a liberdade condicional é notificada ao recluso e são remetidas cópias ao director do estabelecimento e aos serviços de reinserção social.
+b) Relatório dos serviços de reinserção contendo análise do enquadramento familiar e profissional do condenado;
+
+c) Oficiosamente ou a requerimento do Ministério Público, do condenado ou do defensor, as diligências que se afigurem com interesse para a decisão.
+
+2 - A decisão é precedida de audição do Ministério Público, do defensor e do condenado, só podendo a presença deste ser dispensada se o seu estado de saúde tornar a audição inútil ou inviável.
