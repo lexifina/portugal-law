@@ -1,0 +1,4 @@
+Declaração
+Para os devidos efeitos se declara que o Decreto-Lei n.º 312/89, publicado no Diário da República, 1.ª série, n.º 218, de 21 de Setembro de 1989, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 3.º, n.º 1, alínea c), onde se lê «a levar a efeito no final do estágio de ingresso previsto na Portaria n.º 538-F/87, de 30 de Junho» deve ler-se «a levar a efeito no final do estágio de ingresso previsto no Despacho Normativo n.º 72/89, de 2 de Agosto», e no n.º 2, onde se lê «nos termos da Portaria n.º 538-F/87, de 30 de Junho» deve ler-se «nos termos do Despacho Normativo n.º 72/89, de 2 de Agosto».
+Secretaria-Geral da Presidência do Conselho de Ministros, 25 de Outubro de 1989. - O Secretário-Geral, França Martins.
