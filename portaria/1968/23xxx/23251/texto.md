@@ -1,0 +1,7 @@
+Portaria n.º 23251
+Considerando o que foi proposto pelo Governo-Geral da província de Moçambique no sentido de ser reforçada a verba do Plano Intercalar de Fomento para o ano de 1967, própria para custeamento dos encargos com a expropriação dos terrenos destinados à construção do edifício para o Instituto Industrial de Lourenço Marques;
+Tendo em vista a autorização do Conselho de Ministros para os Assuntos Económicos, concedida em sessão de 31 de Janeiro do corrente ano:
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos dos artigos 11.º, alínea h), 13.º e 16.º do Decreto n.º 35770, de 29 de Julho de 1946, conjugados com o disposto no artigo 5.º do Decreto n.º 40712, de 1 de Agosto de 1956, que o Governo-Geral de Moçambique abra um crédito especial de 1400000$00, tomando como contrapartida igual importância a sair do saldo de 1966 do empréstimo da metrópole autorizado pelo Decreto-Lei n.º 46750, de 16 de Dezembro de 1965, destinado a reforçar a verba do capítulo 12.º, artigo 2591.º, n.º 9), alínea a) «Plano Intercalar de Fomento - Promoção Social - Educação», da tabela de despesa extraordinária do orçamento geral da província para o ano económico de 1967.
+Ministério do Ultramar, 29 de Fevereiro de 1968. - Pelo Ministro do Ultramar, Rui Manuel de Medeiros d'Espiney Patrício, Subsecretário de Estado do Fomento Ultramarino.
+
+Para ser publicada no Boletim Oficial de Moçambique. - Rui Patrício.
