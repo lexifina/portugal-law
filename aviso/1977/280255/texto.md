@@ -1,0 +1,60 @@
+Aviso
+Por ordem superior se torna público que o representante permanente de Portugal junto das Nações Unidas, em Nova Iorque, depositou, junto do Secretário-Geral daquela organização internacional, em 25 de Agosto de 1977, o instrumento de ratificação, por parte de Portugal, do Acordo Internacional do Café, 1976, aprovado para ratificação pelo Decreto n.º 29/77, de 9 de Março.
+Até àquela data eram partes no Acordo Internacional do Café, 1976, os seguintes países:
+Alemanha (República Federal da);
+Austrália;
+Áustria;
+Benim;
+Bolívia;
+Brasil;
+Burundi;
+Canadá;
+Chipre;
+Colômbia;
+Congo;
+Costa Rica;
+Costa do Marfim;
+Dinamarca;
+Dominicana (República);
+El Salvador;
+Equador;
+Espanha;
+Estados Unidos da América;
+Etiópia;
+França;
+Gabão;
+Gana;
+Guatemala;
+Guiné;
+Haiti;
+Honduras;
+Hungria;
+Império Centro-Africano;
+Índia;
+Indonésia;
+Israel;
+Jamaica;
+Japão;
+Jugoslávia;
+Madagáscar;
+México;
+Nicarágua;
+Nigéria;
+Noruega;
+Nova Zelândia;
+Panamá;
+Papua-Nova Guiné;
+Paraguai;
+Peru;
+Quénia;
+Reino Unido da Grã-Bretanha e da Irlanda do Norte;
+Ruanda;
+Serra Leoa;
+Suécia;
+Suíça;
+Tanzânia;
+Togo;
+Trindade e Tabago;
+Uganda;
+Zaire.
+Direcção-Geral dos Negócios Económicos, 28 de Novembro de 1977. - O Director-Geral, Alexandre Eduardo Lencastre da Veiga.
