@@ -1,0 +1,10 @@
+Declaração
+Para os devidos efeitos se declara que o Decreto-Lei n.º 317/89, publicado no Diário da República, 1.ª série, n.º 219, de 22 de Setembro de 1989, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 9.º, n.º 1, alínea b), onde se lê «Aprovar os orçamentos ordinários e suplementares» deve ler-se «Aprovar os projectos de orçamentos ordinários e suplementares».
+No artigo 10.º, n.º 1, alínea c), onde se lê «Arquear as embarcações mercantes e de recreio, com excepção das embarcações de pesca, e emitir os certificados internacionais respectivos» deve ler-se «Arquear as embarcações mercantes e de recreio e emitir os certificados respectivos».
+No artigo 10.º, n.º 1, alínea d), onde se lê «Fixar as lotações de passageiros das embarcações mercantes, com excepção das embarcações de pesca» deve ler-se «Fixar as lotações de passageiros das embarcações mercantes».
+No artigo 10.º, n.º 3, alínea a), onde se lê «emitir os certificados referidos nas alíneas c) e f) do n.º 1» deve ler-se «emitir os certificados referidos nas alíneas c), f) e h) do n.º 1».
+No artigo 27.º, n.º 2, onde se lê «O recrutamento e acesso para as diversas categorias da carreira de arqueador far-se-á nos termos do disposto no n.º 1 do artigo 2.º do Decreto-Lei n.º 248/85, de 15 de Julho» deve ler-se «O recrutamento e acesso para as diversas categorias da carreira de arqueador far-se-á nos termos do disposto no n.º 1 do artigo 20.º do Decreto-Lei n.º 248/85, de 15 de Julho».
+No artigo 30.º, n.º 2, onde se lê «Cessam na data da entrada em vigor do presente diploma as comissões de serviços» deve ler-se «Cessam na data da entrada em vigor do presente diploma as comissões de serviço».
+No artigo 33.º, n.º 4, onde se lê «Até à data da entrada em funcionamento da DGNTM compete à ENIDH processar todas as requisições de fundos» deve ler-se «Até à data da entrada em vigor do decreto regulamentar a que se refere o n.º 2, compete à ENIDH processar todas as requisições de fundos».
+Secretaria-Geral da Presidência do Conselho de Ministros, 29 de Novembro de 1989. - O Secretário-Geral, França Martins.
