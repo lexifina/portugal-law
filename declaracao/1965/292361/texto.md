@@ -1,0 +1,3 @@
+Declaração
+Para o efeito do disposto no n.º 2.º do artigo 24.º do Decreto-Lei n.º 41204, de 24 de Julho de 1957, se declara que, ao abrigo do preceituado no n.º 22.º da Portaria n.º 19966, de 24 de Julho de 1963, S. Ex.ª o Secretário de Estado do Comércio, em seu despacho de 31 de Julho findo, determinou que fosse prorrogada até 30 de Setembro próximo a data fixada na declaração de 3 de Junho de 1965, publicada no Diário do Governo n.º 129, 1.ª série, de 9 do mesmo mês, no que respeita aos preços de leite a praticar em Lisboa e nos centros de consumo abrangidos na área definida para esta cidade.
+Comissão de Coordenação Económica, 10 de Agosto de 1965. - O Presidente, Henrique de Carvalho Costa.
