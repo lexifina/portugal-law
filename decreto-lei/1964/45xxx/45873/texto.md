@@ -1,0 +1,12 @@
+Decreto-Lei n.º 45873
+A Câmara Municipal do concelho de Ponte de Sor representou ao Governo no sentido de lhe ser cedida uma parcela de terreno do Estado para construção de um edifício escolar do actual plano, junto da barragem de Montargil, daquele concelho.
+Considerando que idênticos pedidos têm sido atendidos e ainda o interesse público da criação de uma escola naquele local;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
+Artigo único. É autorizada a Direcção-Geral da Fazenda Pública a ceder, a título definitivo e gratuito, à Câmara Municipal do concelho de Ponte de Sor uma parcela de terreno, com a área de 1200 m2, sita junto da barragem de Montargil, daquele concelho, conforme planta anexa a este diploma e que dele faz parte integrante, com destino à implantação de uma escola segundo o actual plano de construções para o ensino primário.
+§ 1.º O imóvel cedido poderá reverter para o domínio e posse do Estado, por simples despacho ministerial, sem direito a qualquer restituição ou indemnização, se não for aplicado ao fim em vista.
+§ 2.º A cessão efectivar-se-á por meio de auto a lavrar na Repartição de Finanças de Ponte de Sor e é isenta de impostos.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 17 de Agosto de 1964, - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+(ver documento original)
+Ministério das Finanças, 17 de Agosto de 1964. - O Ministro das Finanças, António Manuel Pinto Barbosa.
