@@ -1,0 +1,11 @@
+Declaração
+De harmonia com o disposto no n.º 1 do artigo 6.º do Decreto-Lei n.º 54/72, de 15 de Fevereiro, se publica que foram autorizadas as seguintes transferências de verbas e alterações de rubricas, nos termos do n.º 2 do artigo 3.º e nos do artigo 4.º do mesmo diploma:
+(ver documento original)
+Alterações de rubricas
+Na separata 1 (a) (b):
+A observação (30) passa a ter a seguinte redacção:
+O subsídio será autorizado em função do número mensal de internados, acrescido da quantia mencionada na alínea b) da cláusula 8.ª do acordo celebrado com a Província Portuguesa da Sociedade Salesiana.
+Na separata 2 (a) (b):
+À dotação do capítulo 6.º, artigo 214.º, n.º 1, alínea 1, é adicionada a quantia de 47040$00, sob a seguinte rubrica:
+Abono a enfermeiros, nos termos do disposto no artigo 65.º do Decreto-Lei n.º 523/72, de 19 de Dezembro.
+4.ª Delegação da Direcção-Geral da Contabilidade Pública, 23 de Abril de 1974. - O Director, Darwin de Vasconcelos.
