@@ -1,0 +1,13 @@
+Portaria n.º 945/99
+de 27 de Outubro
+Pela Portaria n.º 547/92, de 23 de Junho, rectificada pela Portaria n.º 839/98, de 1 de Outubro, foi concessionada à Sociedade Agrícola da Quinta dos Anjos e Quinta do Poço, Lda., até 31 de Maio de 1999, a zona de caça turística da Herdade de Jungens e outras (processo n.º 557-DGF), situada na freguesia de Santa Susana, município de Alcácer do Sal, com uma área de 671,0750 ha, e na freguesia de São Cristóvão, município de Montemor-o-Novo, com uma área de 1332,5750 ha, perfazendo uma área total de 2003,65 ha.
+Entretanto, a entidade concessionária veio requerer a sua renovação.
+Cumpridos os preceitos legais, com fundamento no disposto nos artigos 83.º e 143.º do Decreto-Lei n.º 136/96, de 14 de Agosto, e ouvidos o Concelho Cinegético Municipal de Montemor-o-Novo e o Conselho Nacional da Caça e da Conservação da Fauna:
+Manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º Pela presente portaria é renovada, até 31 de Dezembro de 2005, a concessão da zona de caça turística da Herdade de Jungens e outras (processo n.º 557-DGF), com uma área total de 2003,65 ha, abrangendo um prédio rústico situado na freguesia de Santa Susana, município de Alcácer do Sal, com uma área de 671,0750 ha, e seis prédios rústicos situados na freguesia de São Cristóvão, município de Montemor-o-Novo, com uma área de 1332,5750 ha.
+2.º Por despacho do Secretário de Estado do Turismo de 14 de Junho de 1999, foi a presente renovação considerada de relevante interesse, nos termos da alínea b) do n.º 2 do artigo 66.º e do artigo 71.º do Decreto-Lei n.º 136/96, de 14 de Agosto, condicionada à apresentação do projecto de arquitectura do pavilhão de caça, no prazo de 2 meses a contar da data de publicação da presente portaria, à execução e conclusão das obras do pavilhão de caça, no prazo de 12 meses contados a partir da data da notificação de aprovação do projecto, bem como à verificação da adequação das obras ao referido projecto e ainda à legalização do alojamento que eventualmente venha a ser disponibilizado nas instalações da zona de caça turística, numa das figuras previstas nos Decretos-Leis n.os 167/97 e 169/97, ambos de 4 de Julho.
+3.º Mantêm-se integralmente os direitos e obrigações decorrentes da lei e constantes da Portaria n.º 547/92, de 23 de Junho.
+4.º É revogada a Portaria n.º 444/99, de 18 de Junho.
+5.º A presente portaria produz efeitos a partir do dia 1 de Junho de 1999.
+Em 20 de Setembro de 1999.
+Pelo Ministro da Economia, Vítor José Cabrita Neto, Secretário de Estado do Turismo. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural.
