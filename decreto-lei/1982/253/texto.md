@@ -1,0 +1,20 @@
+Decreto-Lei n.º 253/82
+de 29 de Junho
+O Decreto-Lei n.º 162/81, de 12 de Junho, estabelece disposições relativas à admissão à cotação nas Bolsas de Valores de Lisboa e do Porto das acções de sociedades com participação maioritária do Estado ou do sector público empresarial no respectivo capital social.
+Já o artigo 40.º do Decreto-Lei n.º 8/74, de 14 de Janeiro, prevê que a admissão à cotação de acções poderá ser requerida por portadores de títulos a cotar que detenham parcela não inferior a 10% dos mesmos, desde que os interessados depositem à ordem da comissão directiva da Bolsa, conjuntamente com o requerimento, os títulos que lhes conferem legitimidade para esse efeito.
+Por outro lado, o artigo 37.º do Decreto-Lei n.º 8/74, de 14 de Janeiro, determina os requisitos a que devem obedecer as sociedades nacionais para a admissão à cotação de acções em Bolsa.
+A fim de melhor esclarecer a aplicação e o alcance do Decreto-Lei n.º 162/81, nomeadamente do seu artigo 2.º:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º - 1 - As entidades do sector público que, separada ou conjuntamente, detêm participações maioritárias em sociedades privadas, constituídas sob a forma de sociedades anónimas de responsabilidade limitada, devem solicitar a admissão à cotação nas Bolsas de Valores de Lisboa e do Porto das acções representativas da totalidade do capital social daquelas sociedades.
+2 - No caso de as referidas participações estarem distribuídas por diversas entidades, compete à detentora da maior participação a apresentação do pedido de admissão à cotação das acções.
+Art. 2.º - 1 - A admissão à cotação das acções a que se refere o artigo 1.º deverá ser solicitada de harmonia com as condições definidas no Decreto-Lei n.º 8/74, de 14 de Janeiro.
+2 - Para efeitos do número anterior, a admissão à cotação de acções pode ser ordenada pelo Ministro de Estado e das Finanças e do Plano, independentemente do montante do capital social e dos critérios a que fica sujeita a apreciação dos requisitos estabelecidos no artigo 37.º do Decreto-Lei n.º 8/74, quando isso convenha ao interesse público.
+Art. 3.º A entidade do sector público mencionada no artigo 1.º deverá dar cumprimento às normas constantes do presente diploma legal no prazo de 90 dias, a contar da data da sua entrada em vigor.
+Art. 4.º Os processos por infracção ao artigo 1.º obedecerão ao disposto nos artigos 96.º e 97.º do Decreto-Lei n.º 42641, de 12 de Novembro de 1959, e legislação complementar, fixando-se a multa entre 1000$00 e 50000$00.
+Art. 5.º Em tudo o mais que não seja especialmente previsto neste diploma aplicar-se-á o disposto no Decreto-Lei n.º 8/74.
+Art. 6.º As dúvidas que se suscitarem na aplicação do presente decreto-lei serão resolvidas por despacho do Ministro de Estado e das Finanças e do Plano.
+Art. 7.º É revogado o Decreto-Lei n.º 162/81, de 12 de Junho.
+Visto e aprovado em Conselho de Ministros de 18 de Maio de 1982. - Francisco José Pereira Pinto Balsemão.
+Promulgado em 17 de Junho de 1982.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
