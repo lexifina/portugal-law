@@ -1,0 +1,8 @@
+Decreto n.º 47764
+Considerando que os modernos meios auxiliares de navegação dos navios permitem manter a rota em ocasiões de nevoeiro ou de visibilidade reduzida;
+Convindo, por isso, actualizar as disposições do Regulamento Geral dos Serviços de Pilotagem das Barras e Portos do Continente e das Ilhas Adjacentes, aprovado pelo Decreto n.º 41668, de 7 de Junho de 1958, na parte respeitante às entradas e saídas das embarcações nos portos do continente e ilhas adjacentes;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo único. É aditado ao artigo 87.º do Regulamento Geral dos Serviços de Pilotagem das Barras e Portos do Continente e das Ilhas Adjacentes, aprovado pelo Decreto n.º 41668, de 7 de Junho de 1958, o seguinte § único:
+§ único. São exceptuados os casos em que os navios disponham de equipamentos auxiliares para navegação com visibilidade reduzida, tais como radar ou outros que venham a ser fabricados e reconhecidos para o efeito, desde que os comandantes dos navios que assim o pretendam declarem e garantam a sua eficiência e os pilotos considerem satisfatórias as indicações fornecidas pelos equipamentos. Neste caso, a navegação com visibilidade reduzida far-se-á atendendo às recomendações relativas ao uso das informações de radar como ajuda para evitar os abalroamentos no mar publicadas em anexo ao Regulamento para Evitar Abalroamentos no Mar.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 24 de Junho de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Fernando Quintanilha Mendonça Dias.
