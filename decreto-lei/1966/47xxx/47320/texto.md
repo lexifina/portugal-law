@@ -1,0 +1,9 @@
+Decreto-Lei n.º 47320
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. Os artigos 14.º e 15.º do Decreto-Lei n.º 46909, de 19 de Março de 1966, passam a ter a seguinte redacção:
+Art. 14.º Os Serviços de Planeamento são chefiados por um director com a categoria de inspector superior, que coadjuvará o director-geral no exercício das suas funções e o substituirá nas suas faltas e impedimentos. O Gabinete de Estudos e os Serviços de Integração Económica Nacional são chefiados por directores de serviços, que coadjuvarão igualmente o director-geral e, no caso de impedimento simultâneo deste e do director do planeamento, os substituirão pela ordem que for superiormente determinada.
+Art. 15.º As divisões da Direcção de Serviços de Planeamento são dirigidas por chefes de divisão, aos quais incumbe coadjuvar o respectivo director no exercício das suas funções e substituí-lo, nos casos de falta ou impedimento, pela ordem que for determinada pelo director-geral.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 21 de Novembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Para ser publicado no Boletim Oficial de todas a províncias ultramarinas. - J. da Silva Cunha.
