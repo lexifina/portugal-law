@@ -1,0 +1,5 @@
+Aviso n.º 65/99
+Por ordem superior se torna público que, por nota de 12 de Abril de 1999 e nos termos do artigo 31.º, alínea e), da Convenção Relativa à Citação e à Notificação no Estrangeiro dos Actos Judiciais e Extrajudiciais em Matéria Civil ou Comercial, concluída na Haia, em 15 de Novembro de 1965, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a Alemanha comunicado a designação para o Land da Baviera da seguinte autoridade central, a partir de 22 de Janeiro de 1999:
+Präsident des Oberlandesgerichts München, Prielmayerstraße 5, 80097 München.
+Portugal é Parte na mesma Convenção, que foi aprovada, para ratificação, pelo Decreto-Lei n.º 210/71, de 18 de Maio, tendo depositado o seu instrumento de ratificação em 27 de Dezembro de 1973, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 20, de 24 de Janeiro de 1974. A autoridade central em Portugal foi designada conforme aviso publicado no Diário do Governo, 1.ª série, n.º 10, de 13 de Janeiro de 1975.
+Departamento de Assuntos Jurídicos, 12 de Maio de 1999. - O Director, José Maria Teixeira Leite Martins.
