@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1933/12/28600/21532154.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1933-12-15",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "b41bf65a559a014394d4290c2c916ad19d3a1f34cd6d3f56cbc2ee2e53abb6b4",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.2,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "4c2ffc0a6a846d7b2eb84ec319d85073a70bc9f32fa766743e27d963dbc53248",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 1082
 }
