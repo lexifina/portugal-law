@@ -1,0 +1,5 @@
+Resolução n.º 167/78
+O Conselho de Ministros, reunido em 11 de Outubro de 1978, resolveu:
+1 - Que as medidas tomadas na Resolução n.º 132/78, de 19 de Julho, publicada no Diário da República, 1.ª série, de 11 de Agosto último, para a empresa Sínia - Sociedade Geral de Investimento para o Comércio e Indústria, S. A. R. L., são extensivas a todas as empresas designadas por grupo Sínia (Sínia - Sociedade Geral de Investimentos para o Comércio e Indústria, S. A. R. L.; Premil - Empreendimentos Prediais, Lda.; Centro de Empreendimentos Comerciais, Lda., e Mobitur - Empreendimentos Imobiliários e Turísticos, Lda.).
+2 - Exonerar, a seu pedido, o licenciado Manuel Ângelo Gonçalves Pereira de Agrela, nomeado pela mesma resolução do Conselho de Ministros, em representação dos accionistas e sócios das quatro empresas do grupo, como membro da comissão administrativa, e nomear, em sua substituição, o licenciado João Serrão de Moura.
+Presidência do Conselho de Ministros, 11 de Outubro de 1978. - O Primeiro-Ministro, Alfredo Jorge Nobre da Costa.
