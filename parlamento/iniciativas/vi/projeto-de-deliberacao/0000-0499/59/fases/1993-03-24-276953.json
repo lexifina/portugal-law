@@ -1,0 +1,1369 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=6tRSrsS472KL0pihrbeU3Juv4E5ApzTlkuIJMDYc5d38v4XsZgYhKVB7Ayr7k6BD7ZNRnhu1uQv2nCwvvkoyXJgfHcd33Rt69gnnqGDLZ7jjDe9WHr1ZOrkFyZHrN%2bdvof6dUKIxE5Wasjk0TQFMyoX%2fKDcVSYqW4xooRfuNYiYxRnpgxINjnNAVq18dgakPF%2fXopgVWi9%2fPK8k2cZ5tRjc%2bd8zO7m6xWvdsbeUHkofo9FaMQ0PghWTFmLBF2ObMw8XQM9vXrZDGjYuCymHSoJrECXBxqIIzCmd0QdMQC5B6LWcA54XELbiVJgZxukznf%2fhdJzQ3jKe6Egx9h%2fh5EH5FtypL9lWrfzDQfsf80Is%3d&fich=IniciativasVI_json.txt&Inline=true",
+  "ficheiro_sha256": "cb79e0745a8347d94ab476dc88937917b337689f6631b8b987a47bad388a33b7",
+  "legislatura": "VI",
+  "iniciativa": {
+    "tipo": "Projeto de Deliberação",
+    "numero": "59",
+    "id": "20305",
+    "titulo": "Realização de um debate parlamentar proposto pelo Governo sobre política agrícola  e integração comunitária"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "1993-03-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "8162",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "1993-03-24",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1993-03-24",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "150",
+                "nome": "António Campos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35131",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1848-1848"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-03-25",
+                "pubLeg": "VI",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/052/1993-03-25/1848?pgs=1848&org=PLC"
+              }
+            ],
+            "sumario": "POLITICA AGRICOLA E A INTEGRACAO EUROPEIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "226",
+                "nome": "Nogueira de Brito"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35133",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1847-1848"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-03-25",
+                "pubLeg": "VI",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/052/1993-03-25/1847?pgs=1847-1848&org=PLC"
+              }
+            ],
+            "sumario": "POLITICA AGRICOLA E A INTEGRACAO EUROPEIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "197",
+                "nome": "Capoulas Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35135",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1847-1847"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-03-25",
+                "pubLeg": "VI",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/052/1993-03-25/1847?pgs=1847&org=PLC"
+              }
+            ],
+            "sumario": "POLITICA AGRICOLA E A INTEGRACAO EUROPEIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "197",
+                "nome": "Capoulas Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35139",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1845-1846"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-03-25",
+                "pubLeg": "VI",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/052/1993-03-25/1845?pgs=1845-1846&org=PLC"
+              }
+            ],
+            "sumario": "POLITICA AGRICOLA E A INTEGRACAO EUROPEIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "150",
+                "nome": "António Campos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35140",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1844-1845"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-03-25",
+                "pubLeg": "VI",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/052/1993-03-25/1844?pgs=1844-1845&org=PLC"
+              }
+            ],
+            "sumario": "POLITICA AGRICOLA E A INTEGRACAO EUROPEIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "102",
+                "nome": "Casimiro de Almeida"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35141",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1842-1845"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-03-25",
+                "pubLeg": "VI",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/052/1993-03-25/1842?pgs=1842-1845&org=PLC"
+              }
+            ],
+            "sumario": "POLITICA AGRICOLA E A INTEGRACAO EUROPEIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "226",
+                "nome": "Nogueira de Brito"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35142",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1840-1842"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-03-25",
+                "pubLeg": "VI",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/052/1993-03-25/1840?pgs=1840-1842&org=PLC"
+              }
+            ],
+            "sumario": "POLITICA AGRICOLA E A INTEGRACAO EUROPEIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35143",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1837-1839"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-03-25",
+                "pubLeg": "VI",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/052/1993-03-25/1837?pgs=1837-1839&org=PLC"
+              }
+            ],
+            "sumario": "POLITICA AGRICOLA E A INTEGRACAO EUROPEIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "32",
+                "nome": "Carlos Duarte"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35144",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1836-1837"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-03-25",
+                "pubLeg": "VI",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/052/1993-03-25/1836?pgs=1836-1837&org=PLC"
+              }
+            ],
+            "sumario": "POLITICA AGRICOLA E A INTEGRACAO EUROPEIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "150",
+                "nome": "António Campos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35145",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1835-1837"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-03-25",
+                "pubLeg": "VI",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/052/1993-03-25/1835?pgs=1835-1837&org=PLC"
+              }
+            ],
+            "sumario": "POLITICA AGRICOLA E A INTEGRACAO EUROPEIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "54",
+                "nome": "Antunes da Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35146",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1832-1834"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-03-25",
+                "pubLeg": "VI",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/052/1993-03-25/1832?pgs=1832-1834&org=PLC"
+              }
+            ],
+            "sumario": "POLITICA AGRICOLA E A INTEGRACAO EUROPEIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "230",
+                "nome": "André Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35147",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1831-1831"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-03-25",
+                "pubLeg": "VI",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/052/1993-03-25/1831?pgs=1831&org=PLC"
+              }
+            ],
+            "sumario": "POLITICA AGRICOLA E A INTEGRACAO EUROPEIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Indep",
+                "idCadastro": "212",
+                "nome": "João Corregedor da Fonseca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35148",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1831-1831"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-03-25",
+                "pubLeg": "VI",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/052/1993-03-25/1831?pgs=1831&org=PLC"
+              }
+            ],
+            "sumario": "POLITICA AGRICOLA E A INTEGRACAO EUROPEIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "613",
+                "nome": "António Lobo Xavier"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35149",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1830-1831"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-03-25",
+                "pubLeg": "VI",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/052/1993-03-25/1830?pgs=1830-1831&org=PLC"
+              }
+            ],
+            "sumario": "POLITICA AGRICOLA E A INTEGRACAO EUROPEIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "443",
+                "nome": "Joaquim da Silva Pinto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35150",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1830-1830"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-03-25",
+                "pubLeg": "VI",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/052/1993-03-25/1830?pgs=1830&org=PLC"
+              }
+            ],
+            "sumario": "POLITICA AGRICOLA E A INTEGRACAO EUROPEIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "546",
+                "nome": "António Murteira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35151",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1828-1829"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-03-25",
+                "pubLeg": "VI",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/052/1993-03-25/1828?pgs=1828-1829&org=PLC"
+              }
+            ],
+            "sumario": "POLITICA AGRICOLA E A INTEGRACAO EUROPEIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Indep",
+                "idCadastro": "220",
+                "nome": "Mário Tomé"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35152",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1828-1828"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-03-25",
+                "pubLeg": "VI",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/052/1993-03-25/1828?pgs=1828&org=PLC"
+              }
+            ],
+            "sumario": "POLITICA AGRICOLA E A INTEGRACAO EUROPEIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "149",
+                "nome": "António Martinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35153",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1828-1828"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-03-25",
+                "pubLeg": "VI",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/052/1993-03-25/1828?pgs=1828&org=PLC"
+              }
+            ],
+            "sumario": "POLITICA AGRICOLA E A INTEGRACAO EUROPEIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35154",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1826-1827"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-03-25",
+                "pubLeg": "VI",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/052/1993-03-25/1826?pgs=1826-1827&org=PLC"
+              }
+            ],
+            "sumario": "POLITICA AGRICOLA E A INTEGRACAO EUROPEIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "150",
+                "nome": "António Campos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35155",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1825-1826"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-03-25",
+                "pubLeg": "VI",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/052/1993-03-25/1825?pgs=1825-1826&org=PLC"
+              }
+            ],
+            "sumario": "POLITICA AGRICOLA E A INTEGRACAO EUROPEIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "144",
+                "nome": "Alberto Avelino"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35156",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1825-1825"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-03-25",
+                "pubLeg": "VI",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/052/1993-03-25/1825?pgs=1825&org=PLC"
+              }
+            ],
+            "sumario": "POLITICA AGRICOLA E A INTEGRACAO EUROPEIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "613",
+                "nome": "António Lobo Xavier"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35158",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1824-1825"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-03-25",
+                "pubLeg": "VI",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/052/1993-03-25/1824?pgs=1824-1825&org=PLC"
+              }
+            ],
+            "sumario": "POLITICA AGRICOLA E A INTEGRACAO EUROPEIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35159",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1824-1824"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-03-25",
+                "pubLeg": "VI",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/052/1993-03-25/1824?pgs=1824&org=PLC"
+              }
+            ],
+            "sumario": "POLITICA AGRICOLA E A INTEGRACAO EUROPEIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA   AGRICULTURA",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Arlindo Cunha"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "35160",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1821-1824",
+                  "1827-1827",
+                  "1829-1830",
+                  "1832-1832"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-03-25",
+                "pubLeg": "VI",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/052/1993-03-25/1821?pgs=1821-1824,1827,1829-1830,1832&org=PLC"
+              }
+            ],
+            "sumario": "POLITICA AGRICOLA E A INTEGRACAO EUROPEIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA   AGRICULTURA",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Arlindo Cunha"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107133",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1821-1824",
+                  "1827-1827",
+                  "1829-1830",
+                  "1832-1832"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-03-25",
+                "pubLeg": "VI",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/052/1993-03-25/1821?pgs=1821-1824,1827,1829-1830,1832&org=PLC"
+              }
+            ],
+            "sumario": "POLITICA AGRICOLA E A INTEGRACAO EUROPEIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "134423",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1825-1825"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-03-25",
+                "pubLeg": "VI",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/052/1993-03-25/1825?pgs=1825&org=PLC"
+              }
+            ],
+            "sumario": "POLITICA AGRICOLA E A INTEGRACAO EUROPEIA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "134424",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1848-1848"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1993-03-25",
+                "pubLeg": "VI",
+                "pubNr": "52",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/052/1993-03-25/1848?pgs=1848&org=PLC"
+              }
+            ],
+            "sumario": "POLITICA AGRICOLA E A INTEGRACAO EUROPEIA",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "276953",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "8162",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1993-03-25",
+        "pubLeg": "VI",
+        "pubNr": "52",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/052/1993-03-25?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
