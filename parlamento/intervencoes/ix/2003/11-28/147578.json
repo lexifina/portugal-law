@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ikbb22EfidWyh5aL9J45Him8rhm3hBQttHxkrMbFeyYEwrlCCV9ZfcNHgV8WjSxu83VjOPt6VK7tfawrIfKZtTDmfI0Eg1Qj2%2fgR4zkB218vexxTlHm9ELnuOSX5QSKeM5RBZD467bhRAPU4hPcfbqahvryp3gb6e37C1v7CloSAMeYftDHuGXetsMTuqWKWDw8jw4LLkjhOMYrtuWUeiCrg7lyiTG%2fjnHAs%2fmcgrOZO8jIFWuyniqH%2f16iGaVZzEzfL%2b4SfA3O6drPBVYibztEF%2fs9tJC4xx3DcN5MsnQfVSXH3wVPofkvbJEOlvWHKvrzXi7OMn9qcwTKLuqkVUEIS1yusoxybTMXClPgsIs8%3d&fich=IntervencoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "ab3e3445119ef03a27cc4debeadf3049422a38e0d13b37a933bd5be6cbd2d916",
+  "legislatura": "IX",
+  "id": "147578",
+  "tipo": "Pedido de esclarecimento",
+  "orador": "Pedro Silva Pereira (PS)",
+  "data_registo": "2003-11-28",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "160145",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "19743",
+        "tipo": "INI",
+        "titulo": "Apreciação Parlamentar - Decreto-Lei n.º 104/2003, de 23 de Maio (Extingue as Comissões de Coordenação Regionais e as Direcções Regionais de Ambiente e do Ordenamento do Território e cria as Comissões de Coordenação e Desenvolvimento Regional no âmbito do Ministério das Cidades, Ordenamento do Território e Ambiente)."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2003-11-28",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PS",
+      "idCadastro": "2011",
+      "nome": "Pedro Silva Pereira"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "147578",
+    "IdDebate": "2889",
+    "Iniciativas": [
+      {
+        "fase": "Apreciação de Decreto-Lei",
+        "id": "19743",
+        "tipo": "Apreciação Parlamentar"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "IX",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "147578",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "1523-1524"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-11-29",
+        "pubLeg": "IX",
+        "pubNr": "26",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/026/2003-11-29/1523?pgs=1523-1524&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "Ao Secretário de Estado da Administração Local (Miguel Relvas)",
+    "Sessao": "2",
+    "Sumario": "Extingue as comissões de coordenação regionais e as direcções regionais de ambiente e do ordenamento do território e cria as comissões de coordenação e desenvolvimento regional no âmbito do Ministério das Cidades, Ordenamento do Território e Ambiente (DL 104/2003, de 23 de Maio)",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Pedido de esclarecimento"
+  }
+}
