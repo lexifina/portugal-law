@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1936/03/07500/03630364.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1936-03-31",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "b008d67ecef727d0136b61356cde9a226c8e344b7f8c45530aca6d4d3c5b0cc1",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.7,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "61a4b3aead38b32860f1ca45d888ed7755db8365f16b20a5ee7e35ca1f5ddbcf",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 244
 }
