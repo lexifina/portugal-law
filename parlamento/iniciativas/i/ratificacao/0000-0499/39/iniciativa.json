@@ -1,0 +1,186 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=0%2fmnAEPdw%2bZ%2fvnXoecx2JQgGmGyJ%2b1AHu2mrzNS8ADAE18uCrc9Styx5d%2fX4IPGRcIcBKHPoySAeeVEJTG%2fnXeyO38ve46GpqLc0X3T%2bbPkcpeyEUoY%2blGLBlRWpTBx0UKWpHL%2b0cQ3AeGM5xR9S3GS29tBWW0QJzrNi%2fGO%2fKW1iOFIemaNauO5hwfRc17lE2F5iEtOcOG0Yq9A3ovXI4mo3WLcbepRRJNyYDPZR66gnSeUHQcoaTAQgjfGEJ08UqPzICqi2gLkxT9d5L4XljdxcmBX73F4%2fTpvPHkZhHVHbKFkt8d5BmDH2Tatkzy4NCcLWt0LW2TTG7%2f0lHIS6lQGnfRoQfH9YJAX%2bB7yLJsLyqhRKBQy%2bB1O%2bmEOrB58p&fich=IniciativasIA_json.txt&Inline=true",
+  "ficheiro_sha256": "39a9f34ccb817f089e97a6d8deacb124b71a67b0f61b5914b722e78111f34ce7",
+  "legislatura": "I",
+  "tipo": "Ratificação",
+  "numero": "39",
+  "id": "32374",
+  "fases": 9,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "1978-10-19",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "1980-01-02",
+    "DataInicioleg": "1978-10-17",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PPD",
+        "idCadastro": "4788",
+        "nome": "Magalhães Mota"
+      },
+      {
+        "GP": "PPD",
+        "idCadastro": "3478",
+        "nome": "Francisco Sá Carneiro"
+      },
+      {
+        "GP": "PPD",
+        "idCadastro": "258",
+        "nome": "António Marques Mendes"
+      },
+      {
+        "GP": "PPD",
+        "idCadastro": "3479",
+        "nome": "José Meneres Pimentel"
+      },
+      {
+        "GP": "PPD",
+        "idCadastro": "3482",
+        "nome": "Nandim de Carvalho"
+      },
+      {
+        "GP": "PPD",
+        "idCadastro": "4821",
+        "nome": "Vilhena de Carvalho"
+      },
+      {
+        "GP": "PPD",
+        "idCadastro": "3643",
+        "nome": "Armando Correia"
+      },
+      {
+        "GP": "PPD",
+        "idCadastro": "2942",
+        "nome": "Arnaldo Brito Lhamas"
+      },
+      {
+        "GP": "PPD",
+        "idCadastro": "3288",
+        "nome": "Bento Gonçalves"
+      },
+      {
+        "GP": "PPD",
+        "idCadastro": "3823",
+        "nome": "José Monteiro Andrade"
+      },
+      {
+        "GP": "PPD",
+        "idCadastro": "3766",
+        "nome": "Eduardo Vieira"
+      },
+      {
+        "GP": "PPD",
+        "idCadastro": "3682",
+        "nome": "António Moreira da Silva"
+      },
+      {
+        "GP": "PPD",
+        "idCadastro": "3730",
+        "nome": "Anatólio Vasconcelos"
+      },
+      {
+        "GP": "PPD",
+        "idCadastro": "3831",
+        "nome": "Júlio Alves Silva"
+      },
+      {
+        "GP": "PPD",
+        "idCadastro": "3734",
+        "nome": "António Augusto Gonçalves"
+      },
+      {
+        "GP": "PPD",
+        "idCadastro": "3709",
+        "nome": "Manuel Fontoura"
+      },
+      {
+        "GP": "PPD",
+        "idCadastro": "3756",
+        "nome": "Carlos Coelho Sousa"
+      },
+      {
+        "GP": "PPD",
+        "idCadastro": "3026",
+        "nome": "Lacerda de Queiroz"
+      },
+      {
+        "GP": "PPD",
+        "idCadastro": "85",
+        "nome": "José Júlio Ribeiro"
+      },
+      {
+        "GP": "PPD",
+        "idCadastro": "3258",
+        "nome": "Nicolau de Freitas"
+      },
+      {
+        "GP": "PPD",
+        "idCadastro": "3742",
+        "nome": "António Júlio Aguiar"
+      },
+      {
+        "GP": "PPD",
+        "idCadastro": "3796",
+        "nome": "João Santos Rocha"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PPD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Ratificação",
+    "IniEpigrafe": null,
+    "IniId": "32374",
+    "IniLeg": "I",
+    "IniLinkTexto": "",
+    "IniNr": "39",
+    "IniObs": null,
+    "IniSel": "3",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "F",
+    "IniTitulo": "Ratificação do Decreto-Lei nº 269/78, de 1 de Setembro (estabelece a Lei Orgânica dos Tribunais Judiciais).",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": [
+      {
+        "autor": "Deputados",
+        "id": "32375",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "347022",
+            "obs": null,
+            "pag": [
+              "84-86"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1978-11-10",
+            "pubLeg": "I",
+            "pubNr": "8",
+            "pubSL": "3",
+            "pubTipo": "DAR II série",
+            "pubTp": "K",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2/01/03/008/1978-11-10/84?pgs=84-86&org=PLC"
+          }
+        ],
+        "tipo": "Proposta de Alteração"
+      }
+    ]
+  }
+}
