@@ -28,12 +28,8 @@ f) Os actos de constituição de associações e de fundações, bem como os res
 
 g) Os actos de constituição, de modificação e de distrate de hipotecas, a cessão destas ou do grau de prioridade do seu registo e a cessão ou penhor de créditos hipotecários;
 
-h) A divisão, a cessão e o penhor de participações sociais em sociedades por quotas, bem como noutras sociedades das quais façam parte coisas imóveis, com excepção das anónimas;
+h) A divisão e a cessão de participações sociais em sociedades por quotas, bem como noutras sociedades titulares de direitos reais sobre coisas imóveis, com excepção das anónimas;
 
 i) O contrato-promessa de alienação ou oneração de coisas imóveis ou móveis sujeitas a registo e o pacto de preferência respeitante a bens da mesma espécie, quando as partes lhes queiram atribuir eficácia real;
 
 j) As divisões de coisa comum e as partilhas de patrimónios hereditários, societários ou outros patrimónios comuns de que façam parte coisas imóveis.
-
-l) (Revogada).
-
-m) (Revogada).
