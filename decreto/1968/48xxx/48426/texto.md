@@ -1,0 +1,14 @@
+Decreto n.º 48426
+O Conservatório Regional de Braga, com sede em Braga, está autorizado, por alvará do Ministério da Educação Nacional, a ministrar o ensino de disciplinas dos cursos gerais da secção de música do Conservatório Nacional.
+Por despacho ministerial de 12 de Junho de 1963, proferido ao abrigo do Decreto-Lei n.º 40825, de 25 de Outubro de 1956, foram os alunos deste Conservatório Regional autorizados a realizar no mesmo estabelecimento, perante júris constituídos por professores do Conservatório Nacional, os exames das aludidas disciplinas.
+Pretende agora o Conservatório Regional de Braga que lhe seja permitido assegurar também o ensino dos cursos superiores de Piano, Violino, Violoncelo, Canto e Composição.
+Por um lado, a seriedade e a eficiência do trabalho deste Conservatório Regional, comprovadas pelos relatórios dos júris de exames ali realizados e dos inspectores que o têm visitado, e, por outro lado, o número de alunos que nele desejam completar a sua educação musical aconselham se atenda o pedido.
+Nestes termos:
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º É autorizado o Conservatório Regional de Braga a ministrar o ensino dos cursos superiores de Piano, Violino, Violoncelo, Canto e Composição da secção de música do Conservatório Nacional, sem encargos para o Estado, segundo os planos, regime de estudos e mais condições em vigor para os mesmos cursos do Conservatório.
+§ único. Este ensino só pode ser entregue a quem estiver habilitado com o respectivo curso superior do Conservatório Nacional e possuir o competente diploma para o ensino particular.
+Art. 2.º Os alunos dos cursos referidos no artigo anterior poderão realizar na sede deste Conservatório Regional os seus exames.
+§ único. São aplicáveis a estes exames as disposições dos artigos 2.º, 3.º e 4.º do Decreto-Lei n.º 40825, de 25 de Outubro de 1956.
+Art. 3.º Os alunos que concluírem os cursos superiores no Conservatório Regional de Braga poderão apresentar-se nas mesmas condições dos diplomados pelo Conservatório Nacional aos concursos para prémios atribuídos por este estabelecimento.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 8 de Junho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Inocêncio Galvão Teles.
