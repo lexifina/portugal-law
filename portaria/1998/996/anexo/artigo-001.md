@@ -1,0 +1,7 @@
+# Artigo 1.º
+
+1 - Por cada descrição - 1200$00.
+
+2 - Por cada averbamento à descrição de algum facto que aumente o valor anteriormente nela mencionado, bem como pelo de actualização do valor patrimonial quando superior ao valor constante da descrição, são devidos os emolumentos previstos nos n.os 1 e 2 do artigo seguinte, calculados sobre a diferença entre o antigo e o novo, reduzidos a metade.
+
+3 - Para efeitos do cálculo previsto no número anterior, considera-se inexistente o valor de qualquer edifício demolido.
