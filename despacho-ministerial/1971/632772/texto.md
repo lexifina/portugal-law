@@ -1,0 +1,10 @@
+Despacho ministerial
+Em conformidade com o § 2.º do artigo 25.º do Decreto-Lei n.º 44698, de 17 de Novembro de 1962, e tendo em consideração o estatuído no Decreto-Lei n.º 183/70, de 28 de Abril, a secção 6.ª do despacho ministerial de 21 de Fevereiro de 1963, que estabelece os princípios reguladores das operações cambiais realizadas nas províncias ultramarinas, passa a ter a seguinte redacção:
+SECÇÃO 6.ª
+Garantias
+1. A prestação de garantias bancárias respeitantes a obrigações em que figurem, como sujeito activo ou passivo, residentes ou domiciliados no estrangeiro dependerá de autorização especial e prévia das inspecções provinciais de crédito e seguros ou do comércio bancário. Para a concessão da autorização, poderão aquelas inspecções exigir do interessado, se for caso disso, que obtenha prèviamente o boletim de autorização de exportação ou importação de capitais, referente ao cumprimento da obrigação a que a garantia bancária respeitar.
+2. A aceitação, por parte de instituições de crédito autorizadas a exercer o comércio de câmbios, de quaisquer garantias prestadas por residentes ou domiciliados no estrangeiro, e de garantias prestadas por residentes ou domiciliados nas províncias ultramarinas, estas últimas quando respeitantes a obrigações em que figurem como sujeito activo ou passivo residentes ou domiciliados no estrangeiro, dependerá, igualmente, de autorização especial e prévia da inspecção provincial de crédito e seguros ou do comércio bancário da respectiva província. Para a concessão da autorização poderá a inspecção exigir do interessado, se for caso disso, que obtenha prèviamente o boletim de autorização de exportação ou importação de capitais, referente ao cumprimento da obrigação a que a garantia respeitar.
+3. A prorrogação da garantia, decorrente ou não de prorrogação da obrigação principal, é considerada como prestação de nova garantia.
+Ministério do Ultramar, 8 de Setembro de 1971. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas, excepto Macau. - J. da Silva Cunha.
