@@ -1,0 +1,6 @@
+Declaração de rectificação n.º 148/91
+Para os devidos efeitos se declara que a Resolução do Conselho de Ministros n.º 17-A/91, publicada no Diário da República, 1.ª série, n.º 122 (suplemento), de 28 de Maio de 1991, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 22.º, n.º 1, do caderno de encargos, onde se lê «seguro-caução ou garantia bancária nos termos do anexo IV» deve ler-se «seguro-caução ou garantia bancária nos termos do anexo III».
+No anexo I do caderno de encargos, onde se lê «Mais informo que nos termos do disposto no n.º 4 do artigo 2.º do Decreto-Lei n.º ..., de ... de ...» deve ler-se «Mais informo que nos termos do disposto no n.º 4 do artigo 2.º do Decreto-Lei n.º 182/91, de 14 de Maio».
+No anexo III do caderno de encargos, onde se lê «a favor do Estado Português, uma garantia bancária no valor de 10000000$00» deve ler-se «a favor do Estado Português, uma garantia bancária no valor de 5400000000$00» e onde se lê «anexo à Resolução do Conselho de Ministros n.º .../91, de ... de ...» deve ler-se «anexo à Resolução do Conselho de Ministros n.º 17-A/91, de 28 de Maio».
+Secretaria-Geral da Presidência do Conselho de Ministros, 24 de Junho de 1991. - O Secretário-Geral, França Martins.
