@@ -1,0 +1,6 @@
+Aviso
+Por ordem superior se torna público que, por nota de 17 de Julho de 1990 e nos termos do parágrafo 2.º do artigo 12.º da Convenção Relativa à Emissão de Certidões Multilingues de Actos do Registo Civil, assinada em Viena a 8 de Setembro de 1976, o Departamento Federal dos Negócios Estrangeiros da Suíça notificou que, por nota recebida a 20 de Junho de 1990, a Embaixada da República Socialista Federativa da Jugoslávia em Berna comunicou ter o Conselho Executivo Federal deste país ratificado a mencionada Convenção.
+Nos termos do artigo 13.º, parágrafo 2.º, da Convenção, a ratificação produz efeitos a partir do 30.º dia seguinte à data da recepção da comunicação, ou seja, a 20 de Julho de 1990.
+Portugal é Parte na mesma Convenção, a qual foi aprovada pelo Decreto do Governo n.º 34/83, de 12 de Maio, tendo Portugal comunicado estarem cumpridas as formalidades constitucionais em 30 de Junho de 1983, conforme avisos publicados no Diário da República, 1.ª série, n.os 169 e 174, de 25 e 30 de Julho de 1983, respectivamente.
+A Convenção entrou em vigor para Portugal em 30 de Julho de 1983.
+Secretaria-Geral do Ministério, 18 de Setembro de 1990. - O Chefe do Serviço Jurídico e de Tratados, António Salgado Manso Preto Mendes Cruz.
