@@ -1,0 +1,26 @@
+Decreto-Lei n.º 386/74
+de 26 de Agosto
+Considerando haver vantagem em centralizar na Direcção do Serviço de Transportes todos os serviços relacionados com o transporte de pessoal e de material do Exército para as ilhas adjacentes e regiões e comandos territoriais independentes do ultramar;
+Usando da faculdade conferida pelo n.º 1 do artigo 1.º da Lei n.º 4/74, de 1 de Julho, o Conselho dos Chefes dos Estados-Maiores das Forças Armadas decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. O artigo 2.º do Decreto-Lei n.º 42943, de 25 de Abril de 1960, passa a ter a seguinte redacção:
+Art. 2.º ...
+a) ...
+b) ...
+c) ...
+d) Informar e dar seguimento aos requerimentos do pessoal nomeado para o ultramar, solicitando os abonos legais a que tenha direito para a família;
+e) Fornecer requisições de transporte, nos termos da regulamentação em vigor, para os militares e suas famílias regressados à metrópole;
+f) Promover a vacinação do pessoal apresentado com destino ao ultramar e providenciar o fornecimento às unidades organizadas para o mesmo fim das doses de vacinas que lhes sejam necessárias;
+g) Promover a recepção e evacuação dos detidos, doentes ou deficientes que regressem do ultramar ou ilhas adjacentes;
+h) Proceder à distribuição dos artigos de uniforme e equipamento ao pessoal apresentado destinado ao ultramar e, no regresso, efectuar os respectivos espólios de harmonia com a regulamentação vigente;
+i) Prestar ao pessoal apresentado a necessária assistência moral e religiosa e proporcionar-lhe, quando em trânsito, em especial às praças naturais do ultramar, visitas culturais ou recreativas, excursões e assistência a espectáculos públicos de carácter educativo;
+j) Orientar devidamente o pessoal apresentado e nomeado para serviço no ultramar, por forma a esclarecê-lo, tão completamente quanto possível, sobre o meio ambiente da província a que se destina;
+l) Facultar aos militares em trânsito e suas famílias os possíveis meios de transporte para si e suas bagagens dentro de Lisboa e prestar-lhes todos os esclarecimentos inerentes à sua nova situação militar na altura dos embarques e desembarques;
+m) Estabelecer contacto com os comandos militares ultramarinos, quando tal for solicitado e as circunstâncias o justifiquem, por forma a possibilitar o restabelecimento de ligações entre os militares ali em serviço e suas famílias residentes na metrópole, procurando satisfazer, por seu turno, os pedidos de informações que com idêntico objectivo lhe sejam dirigidos pelos mesmos comandos;
+n) Intervir na entrega às respectivas famílias dos espólios dos militares falecidos no ultramar ou ilhas adjacentes;
+o) Diligenciar pela regularização da situação militar dos mancebos naturais do ultramar e residentes na metrópole, estabelecendo a necessária ligação com os comandos militares ultramarinos.
+§ 1.º ...
+§ 2.º ...
+Visto e aprovado em Conselho dos Chefes dos Estados-Maiores das Forças Armadas. - Francisco da Costa Gomes - Jaime Silvério Marques.
+Promulgado em 6 de Agosto de 1974.
+Publique-se.
+O Presidente da República, ANTÓNIO DE SPÍNOLA.
