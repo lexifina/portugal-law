@@ -1,0 +1,6 @@
+Despacho Normativo n.º 454/93
+Considerando que os técnicos superiores de informática principais do quadro de pessoal do Instituto de Informática Adriano Fernandes Costa, José Alves Ferreira, Maria de Fátima Figueiredo Barreto de Lara e Angelina Viegas Baptista Valente de Oliveira exercem, em comissão de serviço, cargos dirigentes no mesmo Instituto, estão abrangidos pelas disposições constantes do n.º 1 do artigo 23.º do Decreto-Lei n.º 23/91, de 11 de Janeiro, reúnem os requisitos necessários para acesso à categoria de assessor informático principal e requereram a criação dos respectivos lugares;
+Considerando o disposto no artigo 3.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, e nos n.os 6, 7 e 8 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção que lhe foi dada pelo artigo 1.º daquele diploma:
+Determina-se o seguinte:
+São criados no quadro de pessoal do Instituto de Informática, aprovado pelo Decreto Regulamentar n.º 71-G/79, de 29 de Dezembro, e alterado pelas Portarias n.os 753/87, de 2 de Setembro, 851/89, de 29 de Setembro, 864/91, de 21 de Agosto, e 337/93, de 22 de Março, quatro lugares de assessor informático principal, a extinguir quando vagarem.
+Ministério das Finanças, 19 de Novembro de 1993. - A Secretária de Estado Adjunta e do Orçamento, Maria Manuela Dias Ferreira Leite.
