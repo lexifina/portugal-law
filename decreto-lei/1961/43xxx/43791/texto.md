@@ -1,0 +1,10 @@
+Decreto-Lei n.º 43791
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º A cerveja importada do estrangeiro fica sujeita ao mesmo imposto de consumo estabelecido para a cerveja fabricada no território do continente e ilhas adjacentes, nos termos dos artigos 1.º do Decreto n.º 17258, de 22 de Agosto de 1929, e 4.º do Decreto-Lei n.º 43763, de 30 de Junho de 1961, com aplicação do n.º 1.º do artigo 5.º do Decreto n.º 43425, de 23 de Dezembro de 1960.
+§ único. O imposto de consumo a que se refere este artigo será cobrado pelas alfândegas no acto de liquidação dos respectivos despachos ou das vendas em hasta pública.
+Art. 2.º Para efeitos da incidência do imposto sobre o consumo de cerveja, os concentrados deste produto serão calculados na proporção de dez para um em relação a iguais unidades de cerveja vulgar.
+Art. 3.º Estão sujeitas ao imposto sobre o consumo de refrigerantes as águas gasosas ou gasificadas, com exclusão das águas mineromedicinais.
+Art. 4.º São isentos do imposto sobre o consumo de refrigerantes os produtos a que se refere o artigo 5.º do Decreto-Lei n.º 43763, de 30 de Junho de 1961, de tipo popular, compreendidos na denominação corrente de gasosas ou de qualidade inferior a estas.
+Art. 5.º Este diploma entra imediatamente em vigor.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 14 de Julho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
