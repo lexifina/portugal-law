@@ -1,0 +1,7 @@
+Resolução do Conselho de Ministros n.º 25/92
+Pela Resolução do Conselho de Ministros n.º 1/92, de 9 de Janeiro, foram adjudicadas aos três consórcios nela mencionados, nos termos do artigo 30.º do Decreto-Lei n.º 32/91, de 16 de Janeiro, as concessões da exploração, em regime de serviço público, das Redes de Distribuição Regional de Gás Natural do Norte, Centro e Sul, bem como a construção das respectivas infra-estruturas, tendo sido fixado o prazo de 180 dias para a celebração dos contratos de concessão com sociedades a constituir nos termos do artigo 31.º do citado diploma.
+Solicitaram os três consórcios uma prorrogação do referido prazo, pois que o mesmo se revela, agora, manifestamente insuficiente para a concretização de contratos e acordos, que são pressupostos indispensáveis à assinatura dos contratos de concessão.
+A complexidade de tais diligências justifica o reconhecimento e atendibilidade dos motivos invocados e do pedido efectuado, sendo que a prorrogação que ora se concede não influencia o desenvolvimento das acções em curso para a realização do projecto de introdução em Portugal do gás natural.
+Assim:
+Nos termos das alíneas d) e g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu prorrogar até 31 de Dezembro de 1992, ao abrigo do disposto no n.º 2 do artigo 30.º do Decreto-Lei n.º 32/91, de 16 de Janeiro, o prazo referido no n.º 4 da Resolução do Conselho de Ministros n.º 1/92, de 9 de Janeiro.
+Presidência do Conselho de Ministros, 9 de Julho de 1992. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
