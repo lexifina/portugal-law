@@ -1,0 +1,9 @@
+Despacho Normativo n.º 43/85
+O Despacho Normativo n.º 90/84, de 24 de Abril, veio fixar, ao abrigo do artigo 29.º do Decreto-Lei n.º 51/75, de 7 de Fevereiro, os requisitos que as empresas devem preencher para que possam beneficiar do apoio previsto para as pequenas e médias empresas.
+De entre esses requisitos destaca-se o do valor de vendas anual, segundo o qual uma empresa para poder ser classificada como pequena ou média não poderá ultrapassar os 400000 contos ou os 500000 contos, sendo que, neste último caso, o excedente ao montante de 400000 contos deverá ser proveniente de produtos exportados directamente ou através de agrupamentos complementares de empresas ou consórcios em que se integrem.
+Tendo decorrido um ano sobre a fixação daqueles montantes justifica-se, face à depreciação dos valores monetários, proceder à sua actualização, adoptando-se, na oportunidade, um critério de referência que permitirá, automaticamente, proceder em cada ano aos ajustamentos daqueles valores sem dependência da sua fixação administrativa.
+Nestes termos, ao abrigo do artigo 29.º do Decreto-Lei n.º 51/75, de 7 de Fevereiro, determino:
+1 - Os montantes previstos respectivamente nos n.os 1.2 e 4.8 do Despacho Normativo n.º 90/84, de 24 de Abril, são anualmente revistos com base numa taxa de actualização que será igual à taxa de inflação calculada a partir do «Índice de preços no consumidor», sem habitação, publicado pelo INE, e referida aos 12 meses anteriores ao mês da actualização daqueles montantes.
+1.1 - A taxa de inflação será obtida através do quociente entre os índices de preços relativos ao último e ao primeiro dos 12 meses atrás referidos.
+2 - Os montantes que resultarem da aplicação da taxa de actualização referida no número anterior serão arredondados, por excesso, por forma que sejam expressos em valores múltiplos de 25000 contos.
+Ministério da Indústria e Energia, 2 de Maio de 1985. - O Ministro da Indústria e Energia, José Veiga Simão.
