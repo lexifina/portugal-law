@@ -1,0 +1,5 @@
+Aviso n.º 121/2004
+Por ordem superior se torna público que o Governo da República Portuguesa depositou, em 10 de Maio de 2004, junto do Secretário-Geral das Nações Unidas, o seu instrumento de ratificação relativo à Convenção das Nações Unidas contra a Criminalidade Organizada Transnacional, Protocolo Adicional Relativo à Prevenção, à Repressão e à Punição do Tráfico de Pessoas, em Especial de Mulheres e Crianças, e Protocolo Adicional contra o Tráfico Ilícito de Migrantes por Via Terrestre, Marítima e Aérea, adoptados pela Assembleia Geral das Nações Unidas em 15 de Novembro de 2000.
+A Convenção e os referidos Protocolos foram aprovados, para ratificação, pela Resolução da Assembleia da República n.º 32/2004, de 12 de Fevereiro, publicada no Diário da República, 1.ª série-A, n.º 79, de 2 de Abril de 2004.
+A referida Convenção e os Protocolos Adicionais entrarão em vigor para Portugal em 9 de Junho de 2004.
+Direcção-Geral dos Assuntos Multilaterais, 31 de Maio de 2004. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício.
