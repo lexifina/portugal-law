@@ -1,0 +1,16 @@
+Decreto-Lei n.º 25/75
+de 24 de Janeiro
+Sendo desaconselhável a existência de regimes diversos de remuneração do pessoal civil ocupado nas indústrias da Armada;
+Entendendo-se conveniente a uniformidade nos diferentes estabelecimentos fabris dependentes dos departamentos militares;
+Considerando os aperfeiçoamentos registados no estatuto de empresas públicas dos estabelecimentos fabris do Exército e da Aeronáutica dentro da evolução das estruturas da indústria militar e em que devem abranger-se as que têm estado sempre integradas na Armada;
+Usando da faculdade conferida pelo n.º 1 do artigo 1.º da Lei Constitucional n.º 4/74, de 1 de Julho, o Conselho dos Chefes dos Estados-Maiores das Forças Armadas decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º - 1. São estabelecimentos fabris da Armada: o Arsenal do Alfeite, a Fábrica Nacional de Cordoaria e as Oficinas Gerais de Armas e Electrónica.2. Enquanto não estiverem estruturadas as Oficinas Gerais de Armas e Electrónica, integram aquelas oficinas gerais as actuais oficinas da Direcção do Serviço de Armas Navais e da Direcção do Serviço de Electricidade e Comunicações.
+3. Os estabelecimentos referidos em 1 manterão, transitoriamente, as suas actuais orgânicas administrativas e financeiras.
+Art. 2.º - 1. Os quadros do pessoal do Arsenal do Alfeite continuam sendo os fixados no Decreto n.º 533/71, de 3 de Dezembro.
+2. A Fábrica Nacional de Cordoaria e as Oficinas Gerais de Armas e Electrónica passarão a dispor de quadros privativos de pessoal civil permanente, correspondente às actividades que lhes estão cometidas, a fixar por portaria do Chefe do Estado-Maior da Armada, e para onde transitarão, sem qualquer prejuízo de direitos adquiridos, os actuais servidores da respectiva lotação pertencentes ao quadro do pessoal civil do Ministério da Marinha, cujos lugares ficam abatidos neste quadro.
+Art. 3.º As remunerações e condições de trabalho do pessoal civil e as gratificações do pessoal militar dos estabelecimentos fabris da Armada passam a ser fixadas em despacho conjunto do Conselho dos Chefes dos Estados-Maiores das Forças Armadas e dos Ministros das Finanças e do Trabalho.
+Art. 4.º As disposições do presente diploma entram em vigor em 1 de Janeiro de 1975.
+Visto e aprovado em Conselho dos Chefes dos Estados-Maiores dos Forças Armadas. - Francisco da Costa Gomes - José Baptista Pinheiro de Azevedo - Carlos Alberto Idães Soares Fabião - Narciso Mendes Dias.
+Promulgado em 17 de Janeiro de 1975.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
