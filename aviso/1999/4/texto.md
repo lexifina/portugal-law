@@ -1,0 +1,4 @@
+Aviso n.º 4/99
+Por ordem superior se torna público que a Roménia depositou, em 19 de Maio de 1998, os instrumentos de ratificação do Protocolo à Convenção Europeia Relativa à Equivalência de Diplomas Dando Acesso a Estabelecimentos Universitários, aberta para assinatura, em Estrasburgo, em 3 de Junho de 1964.
+Portugal é Parte neste Protocolo, que foi aprovado para ratificação pelo Decreto de Governo n.º 98/81, publicado no Diário da República, 1.ª série, n.º 171, de 28 de Setembro de 1981, tendo depositado o seu instrumento de ratificação em 3 de Novembro de 1981, conforme aviso publicado no Diário da República, 1.ª série, n.º 278, de 3 de Dezembro de 1981.
+Direcção-Geral dos Assuntos Multilaterais, 4 de Dezembro de 1998. - O Director de Serviços das Organizações Políticas Internacionais, João José Gomes Caetano da Silva.
