@@ -1,7 +1,7 @@
 # Artigo 19.º
 
-### Destino da receita emolumentar
+### Regras de distribuição de emolumentos
 
-1 - [Revogado].
+1 - Os emolumentos previstos nos n.os 3.1 e 3.2 do artigo anterior pertencem à conservatória onde foi prestada a declaração.
 
-2 - Em cada procedimento de aquisição da nacionalidade em que a Agência para a Integração, Migrações e Asilo, I. P. (AIMA, I. P.), preste informações, dos emolumentos cobrados pertencem à AIMA, I. P., (euro) 20.
+2 - O emolumento previsto no n.º 6.7 do artigo anterior pertence, em partes iguais, à conservatória instrutora e à conservatória dos registos centrais.

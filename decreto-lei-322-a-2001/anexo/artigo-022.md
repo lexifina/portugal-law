@@ -20,11 +20,11 @@
 
 2.4.1 - Alterações com aumento ou redução de capital - (euro) 225;
 
-2.5 - Fusão, cisão ou transformação:
+2.5 - Fusão ou cisão:
 
-2.5.1 - Pelo depósito do projeto de fusão, cisão ou transformação - (euro) 120;
+2.5.1 - Pelo depósito do projeto de fusão ou cisão - (euro) 120;
 
-2.5.2 - Pela inscrição da fusão, da cisão ou da transformação - (euro) 225;
+2.5.2 - Pela inscrição da fusão ou da cisão - (euro) 200;
 
 2.6 - Dissolução - (euro) 200;
 
@@ -38,13 +38,13 @@
 
 2.11 - Abrangendo a inscrição mais de um facto, é devido o emolumento mais elevado de entre os previstos para os diversos factos a registar, acrescido de 50% do emolumento correspondente a cada um dos restantes factos.
 
-2.12 - [Revogado]
+2.12 - Transformação - (euro) 225.
 
 3 - Registo efectuado por simples depósito, com excepção do registo de prestação de contas (euro) 100.
 
 4 - Averbamento a inscrição - (euro) 80;
 
-4.1 - Pelo registo da cessação de funções de membros de órgãos sociais, de representantes, de liquidatários, de administradores de insolvência, revisor oficial de contas, bem como de cessação de funções de administrador judicial e de administrador judicial provisório da insolvência - (euro) 100;
+4.1 - Pelo registo da cessação de funções de membros de órgãos sociais, de liquidatários, de administradores de insolvência, revisor oficial de contas, bem como de cessação de funções de administrador judicial e de administrador judicial provisório da insolvência - (euro) 100;
 
 4.2 - (Revogado.)
 
@@ -116,23 +116,13 @@ Pela decisão do procedimento, incluindo o registo - (euro) 300.
 
 13.9 - O emolumento devido pelas certidões e fotocópias, quando cobrado no acto do pedido, é restituído no caso da recusa da sua emissão.
 
-13.10 - Pela disponibilização da informação não certificada no Portal Europeu da Justiça Eletrónica, através do sistema de interconexão dos registos comerciais:
-
-13.10.1 - Relativa a informação contida na matrícula - (euro) 5
-
-13.10.2 - Relativa ao pacto social atualizado - (euro) 8
-
-13.10.3 - Relativa às contas anuais - (euro) 5
-
-13.10.4 - Relativa a quaisquer outros factos registados ou documentos arquivados - (euro) 10.
-
 14 - Nomeação de auditores e de revisores oficiais de contas, por cada nomeação ... 120
 
 15 - (Revogado pelo Decreto-Lei n.º 116/2008, de 4 de Julho.)
 
 16 - Procedimentos de destituição e de nomeação de liquidatários, requeridos ao abrigo dos n.os 3 e 4 do artigo 151.º do Código das Sociedades Comerciais - (euro) 150.
 
-17 - Pela emissão dos certificados previstos nos artigos 36.º-A, 74.º-A, 74.º-B ou 74.º-C do Código do Registo Comercial - (euro) 250.
+17 - Pela emissão dos certificados previstos no artigo 36.º-A ou no artigo 74.º-A do Código do Registo Comercial - (euro) 250.
 
 18 - Procedimento de notificação a que se refere o artigo 36.º-B do Código do Registo Comercial - (euro) 150.
 
@@ -140,14 +130,14 @@ Pela decisão do procedimento, incluindo o registo - (euro) 300.
 
 20 - Pela oposição da sociedade ao registo por depósito a promover pela conservatória, nos termos do artigo 29.º-A do Código do Registo Comercial - (euro) 150.
 
-21 - Pelo suprimento oficioso de deficiências que ocorra no âmbito do artigo 52.º, n.os 2, 3 ou 5 do Código do Registo Comercial - 30 (euro).
+21 - Pelo suprimento oficioso de deficiências que ocorra no âmbito do artigo 52.º, n.os 2, 3, 5 ou 6, do Código do Registo Comercial - (euro) 30.
 
 22 - Os emolumentos pessoais eventualmente devidos pela prática de actos previstos neste artigo são pagos pelo Instituto dos Registos e do Notariado, I. P. (IRN, I. P.).
 
-23 - [Revogado].
+23 - Constitui receita do IRN, I. P., o montante de (euro) 75 por inscrição e (euro) 25 por averbamento ou depósito, a deduzir por cada acto aos emolumentos previstos neste artigo.
 
-24 -[Revogado].
+24 - O facto de a taxa das publicações obrigatórias se encontrar incluída no valor dos emolumentos previstos neste artigo não prejudica o seu tratamento autónomo, designadamente no que respeita ao facto de constituírem receita do IRN, I. P.
 
 25 -(Revogado.)
 
-26 - [Revogado].
+26 - As taxas previstas no n.º 13 constituem receita do IRN, I. P.

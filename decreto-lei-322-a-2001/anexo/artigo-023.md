@@ -6,112 +6,62 @@
 
 ### Emolumentos do Registo Nacional de Pessoas Colectivas
 
-... Em euros
-
-1 - (Revogado.)
+1 - Reserva de firma ou denominação ... 31
 
 2 - Certificados de admissibilidade de firma ou denominação:
 
-2.1 - Pelo pedido de emissão do certificado - (euro) 75;
+2.1 - Emissão, renovação e segunda via do certificado ... 56
 
-2.2 - Pela urgência na emissão de certificado de admissibilidade de firma ou denominação é devido o
+2.2 - Pela urgência na emissão, renovação e segunda via do certificado são acrescidos em 50% os respectivos emolumentos.
 
-valor do emolumento correspondente ao acto;
+3 - Inscrição no ficheiro central de pessoas colectivas ... 20
 
-2.3 - Invalidação da emissão do certificado - (euro) 15;
+4 - Registo de comunicação de nome comercial ... 56
 
-2.4 - A desistência do pedido de emissão do certificado não dá lugar à restituição dos emolumentos
+5 - Emissão de cartão de identificação e actualização, substituição ou segunda via do mesmo ... 14
 
-cobrados.
+6 - Emissão de certidão ou cópia de registo informático ... 10
 
-2.5 - O indeferimento do pedido de emissão do certificado não dá lugar à restituição dos emolumentos
+7 - Acesso à base de dados:
 
-cobrados.
+7.1 - Consulta em linha ao ficheiro central de pessoas colectivas (FCPC), para cópias totais ou parciais do mesmo ficheiro ou para informação estatística sobre pessoas colectivas:
 
-2.6 - No caso previsto no número anterior o emolumento pago pode ser transferido, uma única vez,
+7.1.1 - Consulta em linha:
 
-para o novo pedido do mesmo requerente a apresentar no prazo máximo de 10 dias úteis.
+7.1.1.1 - Pela consulta em linha à base de dados do FCPC - assinatura mensal de (euro) 600, que inclui até 100 acessos úteis;
 
-2.7 - Pela comunicação de nome comercial - (euro) 60.
+7.1.1.2 - Por cada acesso útil efectuado no mês:
 
-3 - Inscrição no ficheiro central de pessoas coletivas:
+A partir de 101 até 200 ... 4
 
-3.1 - De entidades sujeitas a registo comercial - (euro) 20;
+A partir de 201 ... 2
 
-3.2 - De entidades não sujeitas a registo comercial, bem como de identificação, para efeitos fiscais, de
+7.1.1.3 - A assinatura mensal deve ser feita pelo período mínimo de um ano;
 
-pessoas coletivas estrangeiras que não exerçam habitualmente atividade em Portugal, sua alteração ou
+7.1.1.4 - São considerados acessos úteis, para efeitos deste número, os que correspondem aos inputs ou outputs à finalidade para que foi autorizada a consulta.
 
-cancelamento - (euro) 50.
+7.2 - Cópias do FCPC:
 
-4 - (Revogado pelo Decreto-Lei n.º 247-B/2008, de 30 de Dezembro.)
+7.2.1 - Por cada cópia total do ficheiro ... 10000
 
-5 - (Revogado pelo Decreto-Lei n.º 247-B/2008, de 30 de Dezembro.)
+7.2.2 - Por cada actualização mensal dos movimentos ... 600
 
-6 - Registo de pessoas coletivas religiosas e de pessoas jurídicas canónicas:
+7.2.3 - Por cada cópia parcial em suporte magnético:
 
-6.1 - Inscrição - (euro) 60;
+7.2.3.1 - Até 1000 registos ... 1000
 
-6.2 - Averbamento de cancelamento - (euro) 40;
+7.2.3.2 - Por cada adicional de 1000 registos ou fracção ... 500
 
-6.3 - Outros averbamentos à inscrição - (euro) 25;
+7.3 - Por cada cópia parcial em suporte de papel (conteúdo integral ou parcial do registo):
 
-6.4 - Pela desistência do pedido de inscrição - (euro) 60;
+7.3.1 - Até 1000 registos ... 1500
 
-6.5 - Pela urgência na realização do registo é devido o valor do emolumento correspondente ao ato.
+7.3.2 - Por cada adicional de 1000 registos ou fracção ... 750
 
-6.6 - Aos emolumentos previstos nos números anteriores acresce o emolumento previsto no n.º 3.1, quando se mostre devido.
+7.4 - Informação estatística, por cada informação estatística disponível no Registo Nacional de Pessoas Colectivas:
 
-7 - Certidões e cópias de registo informático e de documentos:
+7.4.1 - A nível nacional ... 500
 
-7.1 - Requisição e emissão de certidão ou cópia de registo informático e de documentos - (euro) 10.
+7.4.2 - A nível concelhio ... 150
 
-7.2 - Emissão de certidão ou cópia de registo informático e de documentos quando requeridas por pessoas colectivas religiosas - (euro) 5.
-
-7.3 - (Revogado.)
-
-7.4 - (Revogado.)
-
-7.5 - Informação dada por escrito relativamente a registos e documentos ... 5,50
-
-8 - Acesso às bases de dados:
-
-8.1 - Acesso eletrónico, cópias totais ou parciais e informação para fins de investigação estatística da base de dados do ficheiro central de pessoas coletivas (FCPC), do registo de pessoas coletivas religiosas (RPCR) e do registo de pessoas jurídicas canónicas (RPJC).
-
-8.1.1 - Consulta em linha:
-
-8.1.1.1 - Pela consulta em linha à base de dados do FCPC - assinatura mensal de (euro) 600, que inclui até 100 acessos úteis;
-
-8.1.1.2 - (Revogado.)
-
-8.1.1.3 - (Revogado.)
-
-8.1.1.4 - (Revogado.)
-
-8.2 - Cópias do FCPC e da base de dados do RPCR:
-
-8.2.1 - Por cada cópia total do ficheiro ... 10000
-
-8.2.2 - Por cada actualização mensal dos movimentos ... 600
-
-8.2.3 - Cópia parcial em suporte eletrónico da base de dados do FCPC, do RPCR ou do RPJC:
-
-8.2.3.1 - Até 1000 registos ... 1000
-
-8.2.3.2 - (Revogado.)
-
-8.3 - Por cada cópia parcial em suporte de papel (conteúdo integral ou parcial do registo):
-
-8.3.1 - Até 1000 registos ... 1500
-
-8.3.2 - Por cada adicional de 1000 registos ou fracção ... 750
-
-8.4 - Por cada informação estatística disponível do FCPC, do RPCR ou do RPJC:
-
-8.4.1 - A nível nacional ... 500
-
-8.4.2 - A nível concelhio ... 150
-
-9 -(Revogado.)
-
-10 -(Revogado.)
+8 - Actos gratuitos - é gratuita a emissão de novo certificado de admissibilidade de firma ou denominação para rectificação de erro imputável aos serviços.
