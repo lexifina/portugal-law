@@ -1,0 +1,79 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jICRzj3KB1Bmg3m8DVSHnpi8rXpapb3j4jMO5BtN2LbfPF3esMoTH6fDrsMuFJ9lPAZvTPAWxS9PFAt7bzMiuI04fWuRpEaIxl4mcW%2fcx1acNCntIvb5NLRRHaPebnKKry6IchvGghYnV5lkvxQk495hFB7swBEB4rvnhCoTOeXflL%2foNK7o0b4dy592StEdZmQVtVkruElsfWncCV%2b%2bpavK9g3VZy%2bP4cmQ40z%2f0a69tQcMqoIjKHap%2bFpAkJMgbKcIQykqLjBLupnXrNjLuRZ30Ox0rp%2fdoXYbf5r3SXm4%2fEbMutFiFUX0sUvjGKIZ7ZqNfVf38E4D2PhkYxEZx9pZ7GwemaRdvkVkJ4JulFaJGzWdDjdFCx4KRpH%2bqN7s&fich=IntervencoesV_json.txt&Inline=true",
+  "ficheiro_sha256": "e07157b1d50033e077d4f054f931a3450edfcc0fcd53456e529928b3d3af1eae",
+  "legislatura": "V",
+  "id": "207021",
+  "tipo": "Intervenção",
+  "orador": "Leonor Beleza (MIN.   DA  SAÚDE)",
+  "data_registo": "1987-11-27",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "105008",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "105008",
+        "tipo": "DEB",
+        "titulo": "Sessão de Perguntas ao Governo - Problema das Urgências"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1987-11-27",
+    "Debate": "(artigos 240 e 241.º do Regimento pré-2007) Em que medida o funcionamento da unidade hospitalar de S. Francisco Xavier contribui para aliviar os serviços de urgência na área metropolitana de Lisboa?",
+    "Deputados": {
+      "GP": null,
+      "idCadastro": null,
+      "nome": null
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "207021",
+    "IdDebate": "5777",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "V",
+    "MembrosGoverno": {
+      "cargo": "MIN.   DA  SAÚDE",
+      "governo": "XI GOVERNO CONSTITUCIONAL",
+      "nome": "Leonor Beleza"
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "207021",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "631-631",
+          "631-632"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1987-11-28",
+        "pubLeg": "V",
+        "pubNr": "27",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/027/1987-11-28/631?pgs=631,631-632&org=PLC"
+      }
+    ],
+    "Qualidade": null,
+    "Resumo": "Responde ao Pedido de Esclarecimento do Deputado Nogueira de Brito (CDS)",
+    "Sessao": "1",
+    "Sumario": "Em que medida o funcionamento da unidade hospitalar de S. Francisco Xavier contribui para aliviar os serviços de urgência na área metropolitana de Lisboa?",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
