@@ -1,0 +1,5 @@
+# Artigo 4.º
+
+### Regulamentação
+
+As normas técnicas de execução do presente diploma são objecto de portaria do Ministro do Emprego e da Segurança Social.
