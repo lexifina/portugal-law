@@ -1,0 +1,6 @@
+Declaração
+Segundo comunicação do Ministério da Agricultura, Comércio e Pescas, a Portaria n.º 974/82, publicada no Diário da República, 1.ª série, n.º 240, de 16 de Outubro de 1982, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 5.,º n.º 3, alínea b), onde se lê «Declaração de responsabilidade passada por mento, área de intervenção, efectivos previstos no artigo 3.º» deve ler-se «Declaração de responsabilidade passada pelo médico veterinário com as condições previstas no artigo 3.º».
+No artigo 7.º, n.º 7, onde se lê «Utilizar os serviços do centro de dados da Direcção-Geral da Pecuária logo que recebam instruções para o efeito;» deve ler-se «Utilizar os serviços do centro de processamento de dados da Direcção-Geral da Pecuária logo que recebam instruções para o efeito;».
+No artigo 16.º, n.º 1, alínea i), onde se lê «Comunicar as ocorrências anormais no domínio da reprodução verificada no exercício das suas funções;» deve ler-se «Comunicar as ocorrências anormais no domínio da reprodução verificadas no exercício das suas funções;».
+Secretaria-Geral da Presidência do Conselho de Ministros, 15 de Novembro de 1982. - O Secretário-Geral, França Martins.
