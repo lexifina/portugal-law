@@ -1,0 +1,14 @@
+Portaria n.º 162/73
+de 5 de Março
+Com base no disposto no artigo 6.º do regulamento da Lei n.º 2097, aprovado pelo Decreto n.º 44623, de 10 de Outubro de 1962:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, conceder à União Desportiva de Santarém o exclusivo da pesca desportiva num troço do rio Alviela, nas condições a seguir indicadas:
+1.ª A concessão de pesca em águas correntes abrange um troço do rio numa extensão de 5000 m, compreendido entre a linha de caminho de ferro, a montante, e a ponte do Borrado (ponte dos Infantes), a jusante, na freguesia de Vale de Figueira, concelho de Santarém, ocupando uma área de 7,2000 ha;
+2.ª O prazo de validade da concessão é de dez anos, a contar da data da publicação do presente diploma, devendo a concessionária, no caso de pretender a sua prorrogação, requerê-la com a antecedência de seis meses, relativamente ao termo daquele prazo;
+3.ª A taxa devida anualmente pela utilização da zona concessionada é de 50$00 por hectare, num total de 360$00, e deverá ser liquidada no mês de Janeiro de cada ano;
+4.ª A importância referida no número anterior, que constitui receita do Fundo Especial da Caça e Pesca, será depositada na Caixa Geral de Depósitos, Crédito e Previdência, por meio de guia, cuja cópia, em duplicado e com a indicação de ter sido paga, será remetida ao Serviço de Inspecção da Caça e Pesca, da Direcção-Geral dos Serviços Florestais e Aquícolas, através dos serviços regionais respectivos;
+5.ª O pagamento da taxa referente ao corrente ano far-se-á da mesma forma, mas no acto da entrega do alvará, e será devida por inteiro;
+6.ª A concessionária não poderá excluir ou modificar qualquer das cláusulas que propõe, nos termos da alínea a) do § 4.º do artigo 6.º do Decreto n.º 44623, para vigorar como regulamento da concessão, nem introduzir novas disposições sem prévia concordância e necessária homologação da Direcção-Geral dos Serviços Florestais e Aquícolas;
+7.ª A concessionária fica obrigada a proceder a repovoamentos piscícolas, sempre que necessário, com espécies mais aconselháveis, de forma a garantir as possibilidades anuais em 1000 kg;
+8.ª A concessionária fica obrigada a acatar as disposições que a Direcção-Geral dos Serviços Florestais e Aquícolas achar convenientes aconselhar para benefício da zona abrangida pela concessão, designadamente quanto ao revestimento florestal e arborização das margens e à demarcação das zonas de abrigo e desova para protecção da reprodução e criação das espécies piscícolas existentes;
+9.ª Para efeitos de policiamento da concessão, a União Desportiva de Santarém assumirá o encargo de manter permanentemente na zona concessionada, pelo menos, um guarda florestal auxiliar.
+Ministério da Economia, 19 de Fevereiro de 1973. - O Secretário de Estado da Agricultura, José Eduardo Mendes Ferrão.
