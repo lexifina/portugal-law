@@ -1,0 +1,17 @@
+Portaria n.º 111/90
+de 12 de Fevereiro
+Tendo em consideração a proposta apresentada pelo Instituto Piaget - Cooperativa para o Desenvolvimento da Criança, C. R. L., requerendo o início de funcionamento e reconhecimento do curso superior de Animadores Socioculturais, a funcionar na Escola Superior de Educação Jean Piaget, em Almada, e na Escola Superior de Educação Jean Piaget, em Arcozelo, criadas pelo Decreto-Lei n.º 468/88, de 16 de Dezembro;
+Analisados os respectivos processos, nos termos legalmente previstos:
+Ao abrigo e nos termos do n.º 1 do artigo 25.º e do n.º 1 do artigo 26.º do Decreto-Lei n.º 271/89, de 19 de Agosto:
+Manda o Governo, pelo Ministro da Educação, o seguinte:
+1.º É autorizado o início de leccionação na Escola Superior de Educação Jean Piaget, em Almada, e na Escola Superior de Educação Jean Piaget, em Arcozelo, a partir do ano lectivo de 1989-1990, do curso superior de Animadores Socioculturais, com o plano de estudos constante do anexo à presente portaria.
+2.º Aos diplomas emitidos pela conclusão do curso referido no número anterior são reconhecidos os efeitos correspondentes aos da titularidade do grau de bacharelato do ensino superior público.
+3.º As habilitações mínimas que permitem o ingresso no curso atrás referido são as exigidas para o mesmo curso ou similar do ensino superior público, sem prejuízo de outros requisitos estabelecidos no regulamento interno de cada uma das escolas atrás mencionadas.
+4.º A autorização e o reconhecimento conferidos na presente portaria não prejudicam, sob pena de revogação, a obrigação do cumprimento de eventuais adaptações ou correcções que sejam determinadas pela Direcção-Geral do Ensino Superior, quer em aplicação de parecer da comissão de especialistas que se pronunciou sobre os processos de criação e reconhecimento dos cursos, quer de futuras informações dos serviços de inspecção daquele departamento, de acordo com a legislação vigente.
+Ministério da Educação.
+Assinada em 15 de Janeiro de 1990.
+Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
+
+ANEXO
+Curso superior de Animadores Socioculturais
+(ver documento original)
