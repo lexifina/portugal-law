@@ -1,0 +1,4 @@
+Declaração
+Para os devidos efeitos se publica que, por despacho de 29 de Maio findo de S. Ex.ª o Ministro das Finanças, proferido ao abrigo do disposto no artigo 4.º do Decreto-Lei n.º 39530, de 6 de Fevereiro de 1954, o quadro do pessoal da Comissão para a Instalação e Estudo dos Serviços Mecanográficos sofreu a seguinte alteração:
+Redução de uma unidade com a categoria de segundo-oficial e aumento de outra unidade com a categoria de primeiro-oficial, a partir da data em que seja publicada no Diário do Governo a portaria de promoção à classe imediata do segundo-oficial do quadro da Direcção-Geral das Contribuições e Impostos que ali presta actualmente serviço.
+Ministério das Finanças, 3 de Junho de 1961. - Servindo de Secretário-Geral do Ministério, o Director-Geral das Contribuições e Impostos, Vítor António Duarte Faveiro.
