@@ -1,0 +1,3 @@
+Portaria n.º 20780
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Saúde e Assistência, que, nos termos do artigo 1.º do Decreto-Lei n.º 42261, de 13 de Maio de 1959, seja estabelecida a gratificação diária de 20$00 para o ajudante técnico do Centro de Diagnóstico e Profilaxia do Funchal que, nos termos daquele decreto-lei, conduza o veículo quando em serviço de brigada móvel.
+Ministérios das Finanças e da Saúde e Assistência, 31 de Agosto de 1964. - Pelo Ministro das Finanças, Manuel Tarujo de Almeida, Subsecretário de Estado do Orçamento. - O Ministro da Saúde e Assistência, Francisco Pereira Neto de Carvalho.
