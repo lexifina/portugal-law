@@ -1,0 +1,19 @@
+Decreto-Lei n.º 49296
+Com o objectivo de obter recursos para o financiamento de empreendimentos incluídos nos Planos de Fomento de Angola e de Moçambique, encara-se para breve a emissão, naquelas províncias, de promissórias de fomento ultramarino, títulos cujas condições de lançamento e circulação ficaram reguladas pelo Decreto-Lei n.º 46380, de 11 de Junho de 1965.
+Atendendo, porém, a que desde a data da publicação daquele decreto-lei até ao presente se observou acentuado desenvolvimento das instituições de crédito locais, muito especialmente no que se refere aos bancos comerciais, julgou-se oportuno proceder, desde já, à revisão de algumas disposições legais pertinentes à regular execução das operações sobre promissórias de fomento ultramarino.
+Assim, o condicionalismo actual quanto à subscrição e possibilidade de circulação de tais títulos, se era justificável naquela época, parece menos aconselhável que continue agora a manter-se.
+Neste contexto, entendeu-se que, por um lado, seria conveniente evidenciar o carácter facultativo da subscrição das referidas promissórias e que, por outro, deveria rodear-se a sua eventual mobilização de mais perfeitas condições de automatismo.
+Embora o esquema que passará a vigorar não alcance ainda um grau de completa harmonização com o que se encontra definido para a metrópole, tal propósito considerar-se-á entretanto atingido, uma vez formalizados os indispensáveis contratos com os bancos emissores das províncias ultramarinas.
+Nestes termos:
+Ouvido o Conselho Nacional de Crédito;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. Os artigos 7.º e 8.º e o n.º 1 do artigo 9.º do Decreto-Lei n.º 46380, de 11 de Junho de 1965, passam a ter a seguinte redacção:
+Art. 7.º As instituições de crédito mencionadas na alínea c) do corpo do artigo 3.º do Decreto-Lei n.º 45296 poderão subscrever, sem qualquer limite, promissórias de fomento ultramarino emitidas nas províncias onde exercerem a sua actividade, mas só lhes será permitido incluir, nas respectivas disponibilidades de caixa, o quantitativo correspondente à percentagem que for fixada de harmonia com o disposto no artigo 7.º, alínea a), do Decreto-Lei n.º 48369, de 6 de Maio de 1968.
+Art. 8.º Por contrato entre o Estado, representado pelo Ministro do Ultramar, e os bancos emissores das províncias ultramarinas, serão fixados os quantitativos das promissórias a subscrever directamente pelas referidas instituições de crédito, bem como estabelecidas as condições em que as mesmas se obrigarão a adquirir, aos bancos comerciais das respectivas províncias, as promissórias que, para o efeito, por estes lhes vierem a ser oferecidas.
+Art. 9.º - 1. Enquanto os bancos emissores ultramarinos não assumirem, por contrato com o Estado. as obrigações previstas na parte final do artigo anterior, os governos das províncias emitentes das promissórias, quando solicitados pelos bancos comerciais detentores dos referidos títulos, deverão promover a sua transferência para outras entidades ou, se necessário, proceder ao reembolso antecipado das mesmas.
+Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Concella de Abreu.
+Promulgado em 1 de Outubro de 1969.
+Publique-se.
+Presidência da República, 10 de Outubro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
