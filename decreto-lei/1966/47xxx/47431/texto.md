@@ -1,0 +1,10 @@
+Decreto-Lei n.º 47431
+A Sodipel - Sociedade Distribuidora de Papel, S. A. R. L., solicitou à Administração-Geral do Porto de Lisboa concessão de um terreno para nele instalar um armazém destinado à movimentação de mercadorias do seu comércio, importadas ou destinadas à exportação.
+Convindo providenciar para que aquela administração portuária possibilite a realização em tais termos do referido empreendimento;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É autorizada a Administração-Geral do Porto de Lisboa a outorgar, pelo prazo de vinte anos, à Sodipel - Sociedade Distribuidora de Papel, S. A. R. L., a concessão de uma parcela de terreno, com a área de 2993 m2, situada na margem direita do rio Tejo, na zona do Poço do Bispo, na área da sua jurisdição, a fim de nela ser instalado um armazém destinado à movimentação de mercadorias, importadas ou destinadas à exportação, do comércio ou indústria da concessionária ou pertencentes à sua associada Companhia Portuguesa de Celulose, S. A. R. L.
+Art. 2.º A concessão será outorgada mediante alvará da Administração-Geral do Porto de Lisboa, aprovado pelo Ministro das Comunicações e sem dependência de qualquer outra formalidade.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 29 de Dezembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Para ser presente à Assembleia Nacional.
