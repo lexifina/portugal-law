@@ -2,7 +2,7 @@
 
 ### Normas aplicáveis
 
-São aplicáveis às relações entre a SMD e os utentes da Zona Franca:
+São aplicáveis às relações entre a SDM e os utentes da Zona Franca:
 
 a) Este Regulamento e o contrato de concessão referido no artigo 1.º deste Regulamento;
 
