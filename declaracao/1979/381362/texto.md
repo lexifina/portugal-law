@@ -1,0 +1,6 @@
+Declaração
+Segundo comunicação do Governo Regional da Região Autónoma da Madeira, o Decreto Regulamentar Regional n.º 14/79/M, publicado no Diário da República, 1.ª série, n.º 145, de 26 de Junho, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No quarto parágrafo do preâmbulo, onde se lê: «Cumpre, agora, proceder à regulamentação do citado decreto regional, de acordo com o preceituado no seu artigo 33.º, ...», deve ler-se: «Cumpre, agora, proceder à regulamentação do citado decreto regional, de acordo com o preceituado no seu artigo 3.º, ...»
+No artigo 1.º, n.º 1, onde se lê: «... reuniões em que participarão as juntas de freguesia e os delegados escolares de zonas do respectivo concelho, ...», deve ler-se: «... reuniões em que participarão as juntas de freguesia e os delegados escolares de zona do respectivo concelho, ...»
+No artigo 8.º, n.º 2, onde se lê: «... o número de membros das juntas de freguesia mencionado no artigo anterior.», deve ler-se: «... o número de membros das juntas de freguesia mencionado no n.º 1 deste artigo.»
+Secretaria-Geral da Presidência do Conselho de Ministros, 11 de Julho de 1979. - O Secretário-Geral, Alfredo Barroso.
