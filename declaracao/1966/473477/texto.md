@@ -1,0 +1,3 @@
+Declaração
+Em aditamento à declaração relativa às margens comerciais máximas para os vários tipos de sabão, publicada no Diário do Governo n.º 138, 1.ª série, de 16 de Agosto de 1965, se declara que foi autorizado, por despacho de S. Ex.ª o Secretário de Estado do Comércio, de 18 de Maio do corrente ano, que os comerciantes por grosso e a retalho possam considerar, na formação dos seus preços de revenda, as despesas de transporte público permitidas pela Inspecção-Geral das Actividades Económicas.
+Comissão de Coordenação Económica, 25 de Maio de 1966. - O Presidente, Henrique de Carvalho Costa.
