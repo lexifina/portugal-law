@@ -1,0 +1,90 @@
+Portaria n.º 805/83
+de 30 de Julho
+As comparticipações dos utentes das unidades prestadoras dos cuidados de saúde, no que se refere ao preço dos medicamentos prescritos no receituário em uso nas administrações regionais de cuidados de saúde, pretendem introduzir uma moderação no acesso àqueles cuidados, tendo em atenção não só os prejuízos que determinam para a saúde o seu consumo incontrolado como também a necessidade de sensibilização aos custos, cada vez mais elevados, dos mesmos.
+Estas comparticipações, contudo, não podem ser praticadas de forma generalizada e indiscriminada, sem que se prevejam situações de excepção que justificam tratamento diverso.
+Enquadram-se nestas situações os medicamentos cujo consumo não pode ser moderado por serem de aplicação exclusiva e indispensável em situações clínicas específicas.
+Seguindo de perto as recomendações da Organização Mundial de Saúde, o acesso a estes medicamentos passará a ser integralmente gratuito.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Ministro da Saúde, ao abrigo da alínea h) do artigo 14.º da Lei n.º 56/79, de 15 de Setembro, o seguinte:
+1.º Os medicamentos incluídos na lista anexa à presente portaria e que são de aplicação exclusiva e indispensável em situações clínicas específicas passam a ser gratuitos quando prescritos nas unidades prestadoras de cuidados de saúde.
+2.º Para efeitos do estabelecido no número anterior, não haverá lugar a qualquer comparticipação, fixa ou variável, por parte dos utentes.
+3.º A prescrição dos medicamentos referidos no n.º 1.º será feita em impresso modelo n.º 3 (cor de impressão rosa), em uso nas unidades prestadoras de cuidados de saúde.
+4.º Os citostáticos, à semelhança do regime aplicável aos tuberculostáticos e antilepróticos, só beneficiarão da gratuitidade estabelecida quando fornecidos pelas unidades prestadoras de cuidados de saúde e sob sua prescrição e controle.
+5.º A comissão para elaboração das listas complementares do Formulário Nacional de Medicamentos proporá que sejam acrescentados ou retirados fármacos à lista anexa sempre que a evolução técnica assim o aconselhar.
+6.º O regime estabelecido na presente portaria entra em vigor em 1 de Agosto de 1983.
+Ministério da Saúde.
+Assinada em 14 de Julho de 1983.
+O Ministro da Saúde, António Manuel Maldonado Gonelha.
+
+Lista anexa à Portaria n.º 805/83
+1 - Antiepilépticos:
+Carbamazepina.
+Clonazepam.
+Etoxuximida.
+Fenitoina.
+Primidona.
+Trimetadiona.
+Valproato (dipropilocetato).
+2 - Antiparkinsónicos:
+Amantadina.
+Biperideno.
+Cicrimina.
+Levodopa e benserazida.
+Levodopa e carbidopa.
+Tri-hexifenidilo.
+3 - Antiasmáticos:
+Aminofilina.
+Fenoterol.
+Orciprenalina.
+Salbutamol.
+3.1 - Inaladores:
+Beclometosona.
+Orciprenalina.
+Terbutalina.
+Cromoglicato.
+Salbutamol.
+Fenoterol.
+4 - Antidiabéticos:
+Orais:
+Carbutamida.
+Clorpropamida.
+Fenformina.
+Glibenclamida.
+Glibornurida.
+Glicidamida.
+Glidazida.
+Glimidina sódica.
+Glipentida.
+Glipizide.
+Gliquidona.
+Mettormina.
+Tolbutamida.
+Injectáveis:
+Insulina simples neutra.
+Insulina zinco «todas as formas».
+5 - Citostáticos imunosupressores e outros medicamentos utilizados em oncologia:
+Azatiopriva.
+Bleomicina.
+Busolfam.
+Ciclofosfamida.
+Citarabina.
+Cloronibucil.
+Daunorubicina.
+Dietilestilbestrol.
+Doxorubicina.
+Drostanolona.
+Fluorouracilo.
+Meltalan.
+Metotexato.
+Mercaptopurina.
+Procarbaniza.
+Tamoxifeno.
+Tioguanina.
+Tio-tepta.
+Trofosfamida.
+Vinbrastina.
+Vincristina.
+Vindesina.
+6 - Medicamentos específicos para a hemodiálise:
+Azatioprina.
+Resina permutadora de potássio.
