@@ -18,7 +18,7 @@ e) À identificação e regime matrimonial de bens dos intervenientes nos actos,
 
 f) Aos simples erros de cálculo ou de escrita revelados pelo contexto do acto.
 
-3 - Os interessados devem comprovar que foi paga a diferença de sisa, se esta for devida e, tratando-se de rectificação que envolva aumento de valor do acto, é feita nova conta, para pagamento dos emolumentos e do selo correspondentes ao acréscimo verificado.
+3 - Os interessados devem comprovar que foi paga a diferença do imposto municipal de sisa, se este for devido e, tratando-se de rectificaçãoque envolva aumento de valor do acto, é feita nova conta, para pagamento dos emolumentos e do selo correspondentes ao acréscimo verificado.
 
 4 - Os averbamentos a que se refere o n.º 2, tratando-se de actos exarados em livros transferidos para o Arquivo Nacional e para as bibliotecas do Estado e arquivos distritais, podem ser exarados em certidão de teor da escritura arquivada, a pedido dos interessados.
 

@@ -8,6 +8,6 @@
 
 3 - O selo dos livros a que se refere o número anterior deve ser discriminado na conta dos encargos que são cobrados das partes e, nos outros livros sujeitos a imposto do selo, deve ser liquidado e pago pelo cartório, antes da legalização.
 
-4 - O selo relativo às laudas total ou parcialmente ocupadas pela escrita dos actos e inutilizadas por motivo não imputável às partes é da responsabilidade do cartório, devendo ser anotado a margem e registado no livro de registo de emolumentos e selo.
+4 - O selo relativo às laudas total ou parcialmente ocupadas pela escrita dos actos e inutilizadas por motivo não imputável às partes é da responsabilidade do cartório, devendo ser anotado à margem e registado no livro de registo de emolumentos e selo.
 
 5 - Não é devido selo pelas laudas que contiverem os termos de abertura e de encerramento, se as linhas restantes não forem utilizadas para a escrita de qualquer acto.

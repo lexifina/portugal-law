@@ -12,7 +12,7 @@
 
 a) A menção do nome completo do cônjuge e do respectivo regime matrimonial de bens, se a pessoa a quem o acto respeitar for casada;
 
-b) A advertência de que o registo deve ser requerido no prazo de três meses, se respeitar a actos sujeitos a registo comercial obrigatório que não tenha sido promovido e dinamizado pelo notário no uso de competência atribuída por lei;
+b) A advertência de que o registo deve ser requerido no prazo de três meses, se respeitar a actos sujeitos a registo comercial obrigatório que não tenham sido promovidos e dinamizados pelo notário no uso de competência atribuída por lei;
 
 c) A advertência ao representante legal que intervém no acto, se algum dos beneficiários for incapaz ou equiparado, de que deve requerer o respectivo registo no prazo de três meses;
 
