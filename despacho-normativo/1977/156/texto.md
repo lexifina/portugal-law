@@ -1,0 +1,4 @@
+Despacho Normativo n.º 156/77
+O disposto na alínea c) do n.º 4 do despacho de 3 de Novembro último sobre o financiamento do PISEE 77 tem-se revelado de difícil concretização e tem constituído um estrangulamento indesejável no processo de financiamento dos investimentos do sector empresarial do Estado. No sentido de obviar àquela dificuldade, dispensar-se-á a cláusula constante da alínea c) relativamente aos projectos de investimento superior a 250000 contos.
+A dispensa desta formalidade em nada prejudica a necessidade de avaliação dos projectos, tão-somente permitirá que o grupo de financiamento proceda de imediato à proposta de distribuição pelos bancos dos projectos naquelas condições.
+Ministérios do Plano e Coordenação Económica e das Finanças, 28 de Junho de 1977. - Pelo Ministro do Plano e Coordenação Económica, Maria Manuela da Silva, Secretário de Estado do Planeamento. - O Ministro das Finanças, Henrique Medina Carreira.
