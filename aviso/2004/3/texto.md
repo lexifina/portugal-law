@@ -1,0 +1,5 @@
+Aviso n.º 3/2004
+Por ordem superior se torna público que, em 19 de Março e em 19 de Novembro de 2003, foram emitidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros português e pela Embaixada do Reino da Suécia, em que se comunica ter sido aprovada a Convenção entre a República Portuguesa e o Reino da Suécia para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, assinada em Helsinborg em 29 de Agosto de 2002, e terem sido cumpridas as respectivas formalidades constitucionais internas.
+Por parte de Portugal, a Convenção foi ratificada pelo Decreto do Presidente da República n.º 18/2003 e aprovada pela Resolução da Assembleia da República n.º 20/2003, publicada no Diário da República, 1.ª série-A, n.º 59, de 11 de Março de 2003.
+Nos termos do artigo 29.º da Convenção, esta entra em vigor em 24 de Dezembro de 2003.
+Direcção-Geral das Relações Bilaterais, 27 de Novembro de 2003. - Pelo Director dos Serviços da Europa, (Assinatura ilegível.)
