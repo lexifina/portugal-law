@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Ministério das Finanças e do Plano, o Decreto n.º 106/78, publicado no Diário da República, 1.ª série, n.º 229, de 4 de Outubro, e cujo original se encontra arquivado nesta Secretaria-Geral, saíu com a seguinte inexactidão, que assim se rectifica:
+No artigo 1.º, onde se lê: «02 - Defesa Nacional - Estado-Maior-General das Forças Armadas, capítulo 03, divisão 02, classificação funcional 2.01.0, classificação económica 01.42, alínea b), Pessoal de limpeza - tempo parcial», deve ler-se: «02 - Defesa Nacional - Estado-Maior-General das Forças Armadas, capítulo 03, divisão 02, classificação funcional 2.01.0, classificação económica 01.42, alínea a), Pessoal de limpeza - tempo parcial».
+Secretaria-Geral da Presidência do Conselho de Ministros, 20 de Outubro de 1978. - O Secretário-Geral, Alfredo Barroso.
