@@ -1,0 +1,8 @@
+Decreto-Lei n.º 43004
+Considerando que a Câmara Municipal de Lisboa necessita de dispor, para a realização das obras de urbanização projectadas, do terreno, com a área de 2170 m2, situado entre a Estrada de Benfica e a Quinta das Laranjeiras, em Lisboa, cedido pelo Estado, a título precário, em 2 de Abril de 1958;
+Considerando que o Estado já recebeu a compensação correspondente ao valor deste terreno;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É transformada em cessão a título definitivo à Câmara Municipal de Lisboa a cessão a título precário, efectuada por auto lavrado na Direcção-Geral da Fazenda Pública em 2 de Abril de 1958 do terreno do Estado, com a área de 2170 m2, que constitui uma serventia de ligação entre a Estrada de Benfica e a propriedade do Estado denominada «Quinta das Laranjeiras», em Lisboa.
+Art. 2.º Esta cessão fica isenta de impostos e aquele título é documento bastante para efectuar os respectivos registos.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 3 de Junho de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
