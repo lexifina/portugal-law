@@ -1,0 +1,3 @@
+Aviso
+Por acórdão da 1.ª Secção do Contencioso Administrativo do Supremo Tribunal Administrativo de 7 de Julho corrente, foi decidido declarar a ilegalidade, com força obrigatória geral, dos preceitos contidos nas alíneas c), d), e), f) e g) do n.º 1 do artigo 14.º dos estatutos anexos à Portaria n.º 34/83, de 12 de Janeiro, emanada da Presidência do Conselho e assinada pelo Secretário de Estado do Turismo e publicada no Diário da República, 1.ª série, de 12 de Janeiro de 1983, no recurso n.º 24404, em que foi recorrente o procurador-geral-adjunto naquela Secção.
+Lisboa, 27 de Julho de 1987. - O Secretário, Zeferino Cardoso da Silva.
