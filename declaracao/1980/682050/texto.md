@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Ministério do Comércio e Turismo, o Decreto-Lei n.º 58/80, publicado no Diário da República, 1.ª série, n.º 72, de 26 de Março de 1980, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 4.º, alínea f), onde se lê: «Veículos automóveis: componentes referidos no n.º 3.º da Portaria n.º 74/77, de 12 de Fevereiro, na redacção dada pela Portaria n.º 142/77, de 19 de Março;», deve ler-se: «Veículos automóveis: componentes referidos no n.º 3.º da alínea a) da Portaria n.º 74/77, de 12 de Fevereiro, na redacção dada pela Portaria n.º 142/77, de 19 de Março;».
+Secretaria-Geral da Presidência do Conselho de Ministros, 31 de Março de 1980. - O Secretário-Geral, José António Bagulho França Martins.
