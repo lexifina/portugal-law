@@ -1,0 +1,6 @@
+Despacho Normativo n.º 290/81
+Considerando que a indústria nacional de tabacos, através dos respectivos agentes económicos, encetou uma fase de penetração de mercados externos a cujos acessos e salvaguarda se não pode, de modo algum, ser indiferente;
+Considerando que da consolidação de tal processo poderá resultar contributo apreciável para a redução das dificuldades de liquidez que apresenta a nossa balança de pagamentos;
+Considerando que à Administração compete suprimir os obstáculos de natureza institucional que impeçam a concretização de objectivos desta natureza:
+Ao abrigo do disposto no artigo 53.º do Decreto-Lei n.º 149-A/78, de 19 de Junho, sanciono o entendimento segundo o qual, para efeitos do artigo 29.º, n.º 1, do decreto-lei citado, a expressão «tabaco manufacturado» abrange o tabaco que já foi objecto de qualquer transformação industrial no território nacional.
+Secretaria de Estado do Orçamento, 25 de Setembro de 1981. - O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias.
