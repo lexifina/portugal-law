@@ -1,0 +1,939 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Ratificação",
+    "numero": "139",
+    "id": "27115",
+    "titulo": "Decreto-lei nº 246/90, de 27 de Julho, que altera o Regime Jurídico das Casas do Povo, no sentido de garantir a sua autonomia institucional. Revoga diversas normas dos Decretos-leis nºs 4/81 e 185/85, respectivamente de 11 de Janeiro e 29 de Maio"
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "1991-03-01",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3781",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "1991-03-01",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": [
+      {
+        "dataEntrada": null,
+        "descTipo": "Ratificação",
+        "id": "27119",
+        "leg": "V",
+        "nr": "142",
+        "sel": "4",
+        "tipo": "F",
+        "titulo": "Decreto-lei nº 245/90, de 27 de Julho, que estabelece o regime jurídico dos serviços locais de segurança social"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1991-03-01",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159278",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1583-1586"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-02",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/049/1991-03-02/1583?pgs=1583-1586&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 246/90, de 27 de Julho, que altera o Regime Jurídico das Casas do Povo, no sentido de garantir a sua autonomia institucional (Revoga diversas normas dos Decretos-leis nºs 4/81 e 185/85, respectivamente de 11 de Janeiro e 29 de Maio); Decreto-lei nº 245/90, de 27 de Julho, que estabelece o regime jurídico dos serviços locais de segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159279",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1585-1585"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-02",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/049/1991-03-02/1585?pgs=1585&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 246/90, de 27 de Julho, que altera o Regime Jurídico das Casas do Povo, no sentido de garantir a sua autonomia institucional (Revoga diversas normas dos Decretos-leis nºs 4/81 e 185/85, respectivamente de 11 de Janeiro e 29 de Maio); Decreto-lei nº 245/90, de 27 de Julho, que estabelece o regime jurídico dos serviços locais de segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159280",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1586-1586"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-02",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/049/1991-03-02/1586?pgs=1586&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 246/90, de 27 de Julho, que altera o Regime Jurídico das Casas do Povo, no sentido de garantir a sua autonomia institucional (Revoga diversas normas dos Decretos-leis nºs 4/81 e 185/85, respectivamente de 11 de Janeiro e 29 de Maio); Decreto-lei nº 245/90, de 27 de Julho, que estabelece o regime jurídico dos serviços locais de segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  SEGURANÇA  SOCIAL",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Vieira De Castro"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159281",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1586-1586",
+                  "1588-1590"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-02",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/049/1991-03-02/1586?pgs=1586,1588-1590&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 246/90, de 27 de Julho, que altera o Regime Jurídico das Casas do Povo, no sentido de garantir a sua autonomia institucional (Revoga diversas normas dos Decretos-leis nºs 4/81 e 185/85, respectivamente de 11 de Janeiro e 29 de Maio); Decreto-lei nº 245/90, de 27 de Julho, que estabelece o regime jurídico dos serviços locais de segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159282",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1587-1587"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-02",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/049/1991-03-02/1587?pgs=1587&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 246/90, de 27 de Julho, que altera o Regime Jurídico das Casas do Povo, no sentido de garantir a sua autonomia institucional (Revoga diversas normas dos Decretos-leis nºs 4/81 e 185/85, respectivamente de 11 de Janeiro e 29 de Maio); Decreto-lei nº 245/90, de 27 de Julho, que estabelece o regime jurídico dos serviços locais de segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159283",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1587-1587"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-02",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/049/1991-03-02/1587?pgs=1587&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 246/90, de 27 de Julho, que altera o Regime Jurídico das Casas do Povo, no sentido de garantir a sua autonomia institucional (Revoga diversas normas dos Decretos-leis nºs 4/81 e 185/85, respectivamente de 11 de Janeiro e 29 de Maio); Decreto-lei nº 245/90, de 27 de Julho, que estabelece o regime jurídico dos serviços locais de segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159284",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1587-1588"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-02",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/049/1991-03-02/1587?pgs=1587-1588&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 246/90, de 27 de Julho, que altera o Regime Jurídico das Casas do Povo, no sentido de garantir a sua autonomia institucional (Revoga diversas normas dos Decretos-leis nºs 4/81 e 185/85, respectivamente de 11 de Janeiro e 29 de Maio); Decreto-lei nº 245/90, de 27 de Julho, que estabelece o regime jurídico dos serviços locais de segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159285",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1588-1588"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-02",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/049/1991-03-02/1588?pgs=1588&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 246/90, de 27 de Julho, que altera o Regime Jurídico das Casas do Povo, no sentido de garantir a sua autonomia institucional (Revoga diversas normas dos Decretos-leis nºs 4/81 e 185/85, respectivamente de 11 de Janeiro e 29 de Maio); Decreto-lei nº 245/90, de 27 de Julho, que estabelece o regime jurídico dos serviços locais de segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159286",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1589-1589"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-02",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/049/1991-03-02/1589?pgs=1589&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 246/90, de 27 de Julho, que altera o Regime Jurídico das Casas do Povo, no sentido de garantir a sua autonomia institucional (Revoga diversas normas dos Decretos-leis nºs 4/81 e 185/85, respectivamente de 11 de Janeiro e 29 de Maio); Decreto-lei nº 245/90, de 27 de Julho, que estabelece o regime jurídico dos serviços locais de segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159287",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1590-1590"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-02",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/049/1991-03-02/1590?pgs=1590&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 246/90, de 27 de Julho, que altera o Regime Jurídico das Casas do Povo, no sentido de garantir a sua autonomia institucional (Revoga diversas normas dos Decretos-leis nºs 4/81 e 185/85, respectivamente de 11 de Janeiro e 29 de Maio); Decreto-lei nº 245/90, de 27 de Julho, que estabelece o regime jurídico dos serviços locais de segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159288",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1590-1591",
+                  "1598-1599"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-02",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/049/1991-03-02/1590?pgs=1590-1591,1598-1599&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 246/90, de 27 de Julho, que altera o Regime Jurídico das Casas do Povo, no sentido de garantir a sua autonomia institucional (Revoga diversas normas dos Decretos-leis nºs 4/81 e 185/85, respectivamente de 11 de Janeiro e 29 de Maio); Decreto-lei nº 245/90, de 27 de Julho, que estabelece o regime jurídico dos serviços locais de segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159289",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1592-1592"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-02",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/049/1991-03-02/1592?pgs=1592&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 246/90, de 27 de Julho, que altera o Regime Jurídico das Casas do Povo, no sentido de garantir a sua autonomia institucional (Revoga diversas normas dos Decretos-leis nºs 4/81 e 185/85, respectivamente de 11 de Janeiro e 29 de Maio); Decreto-lei nº 245/90, de 27 de Julho, que estabelece o regime jurídico dos serviços locais de segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159290",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1592-1595"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-02",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/049/1991-03-02/1592?pgs=1592-1595&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 246/90, de 27 de Julho, que altera o Regime Jurídico das Casas do Povo, no sentido de garantir a sua autonomia institucional (Revoga diversas normas dos Decretos-leis nºs 4/81 e 185/85, respectivamente de 11 de Janeiro e 29 de Maio); Decreto-lei nº 245/90, de 27 de Julho, que estabelece o regime jurídico dos serviços locais de segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  SEGURANÇA  SOCIAL",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Vieira De Castro"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159291",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1593-1594"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-02",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/049/1991-03-02/1593?pgs=1593-1594&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 246/90, de 27 de Julho, que altera o Regime Jurídico das Casas do Povo, no sentido de garantir a sua autonomia institucional (Revoga diversas normas dos Decretos-leis nºs 4/81 e 185/85, respectivamente de 11 de Janeiro e 29 de Maio); Decreto-lei nº 245/90, de 27 de Julho, que estabelece o regime jurídico dos serviços locais de segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159292",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1595-1596",
+                  "1599-1599"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-02",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/049/1991-03-02/1595?pgs=1595-1596,1599&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 246/90, de 27 de Julho, que altera o Regime Jurídico das Casas do Povo, no sentido de garantir a sua autonomia institucional (Revoga diversas normas dos Decretos-leis nºs 4/81 e 185/85, respectivamente de 11 de Janeiro e 29 de Maio); Decreto-lei nº 245/90, de 27 de Julho, que estabelece o regime jurídico dos serviços locais de segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  SEGURANÇA  SOCIAL",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Vieira De Castro"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159293",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1594-1594",
+                  "1596-1597"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-02",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/049/1991-03-02/1594?pgs=1594,1596-1597&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 246/90, de 27 de Julho, que altera o Regime Jurídico das Casas do Povo, no sentido de garantir a sua autonomia institucional (Revoga diversas normas dos Decretos-leis nºs 4/81 e 185/85, respectivamente de 11 de Janeiro e 29 de Maio); Decreto-lei nº 245/90, de 27 de Julho, que estabelece o regime jurídico dos serviços locais de segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159294",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1596-1597"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-02",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/049/1991-03-02/1596?pgs=1596-1597&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 246/90, de 27 de Julho, que altera o Regime Jurídico das Casas do Povo, no sentido de garantir a sua autonomia institucional (Revoga diversas normas dos Decretos-leis nºs 4/81 e 185/85, respectivamente de 11 de Janeiro e 29 de Maio); Decreto-lei nº 245/90, de 27 de Julho, que estabelece o regime jurídico dos serviços locais de segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159295",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1597-1597"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-02",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/049/1991-03-02/1597?pgs=1597&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 246/90, de 27 de Julho, que altera o Regime Jurídico das Casas do Povo, no sentido de garantir a sua autonomia institucional (Revoga diversas normas dos Decretos-leis nºs 4/81 e 185/85, respectivamente de 11 de Janeiro e 29 de Maio); Decreto-lei nº 245/90, de 27 de Julho, que estabelece o regime jurídico dos serviços locais de segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  SEGURANÇA  SOCIAL",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Vieira De Castro"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159296",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1597-1598"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-02",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/049/1991-03-02/1597?pgs=1597-1598&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 246/90, de 27 de Julho, que altera o Regime Jurídico das Casas do Povo, no sentido de garantir a sua autonomia institucional (Revoga diversas normas dos Decretos-leis nºs 4/81 e 185/85, respectivamente de 11 de Janeiro e 29 de Maio); Decreto-lei nº 245/90, de 27 de Julho, que estabelece o regime jurídico dos serviços locais de segurança social",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "13:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159297",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1598-1598"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-03-02",
+                "pubLeg": "V",
+                "pubNr": "49",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/049/1991-03-02/1598?pgs=1598&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 246/90, de 27 de Julho, que altera o Regime Jurídico das Casas do Povo, no sentido de garantir a sua autonomia institucional (Revoga diversas normas dos Decretos-leis nºs 4/81 e 185/85, respectivamente de 11 de Janeiro e 29 de Maio); Decreto-lei nº 245/90, de 27 de Julho, que estabelece o regime jurídico dos serviços locais de segurança social",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "208565",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "337257",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1991-03-02",
+        "pubLeg": "V",
+        "pubNr": "49",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/049/1991-03-02?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
