@@ -1,0 +1,9 @@
+Resolução do Conselho de Ministros
+Às sociedades Real Companhia Velha e Real Vinícola, que têm estado sob a intervenção do Estado desde Setembro de 1975, embora com a gestão assegurada por comissões administrativas, não foi ainda determinada a solução definitiva a concretizar nem a sua nova estrutura.
+Na impossibilidade de serem executadas as medidas de saneamento económico, financeiro e patrimonial que se impõem, em conformidade com os estudos efectuados, e os pareceres da banca, e de departamentos oficiais, antes da cessação da intervenção estatal a que estão subordinadas, e de acordo com o estatuído nos artigos 20.º e 21.º do Decreto-Lei n.º 422/76, de 29 de Maio, com a redacção dada pelo Decreto-Lei n.º 543/76, de 10 de Julho, o Conselho de Ministros, reunido em 2 de Setembro de 1976, resolveu:
+a) Determinar que se proceda ao saneamento económico-financeiro das sociedades Real Companhia Velha e Real Vinícola, operando-se a sua fusão e ulterior transformação numa empresa de economia mista;
+b) Determinar que se proceda ao aumento de capital da futura empresa, podendo a sua maioria vir a pertencer, numa fase imediatamente posterior, a entidades privadas, nomeadamente aos trabalhadores, produtores e agricultores da Região Demarcada do Douro, e público em geral;
+c) Prorrogar o mandato da actual comissão administrativa por um prazo de cento e oitenta dias;
+d) Permitir que a ela possam ser agregados elementos técnicos, até a um máximo de três, a fim de promoverem o estudo e o processamento das matérias contempladas nas alíneas a) e b);
+e) Determinar que a nomeação e a definição da competência específica dos elementos referidos na alínea anterior sejam operadas através de despacho do Ministro do Comércio e Turismo.
+Presidência do Conselho de Ministros, 2 de Setembro de 1976. - O Primeiro-Ministro, Mário Soares.
