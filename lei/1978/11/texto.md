@@ -1,0 +1,18 @@
+Lei n.º 11/78
+de 20 de Março
+Benefícios fiscais a deficientes militares e civis
+A Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 2, da Constituição, o seguinte:
+ARTIGO 1.º
+Aos deficientes das forças armadas não compreendidos no artigo 1.º do Decreto-Lei n.º 43/76, de 20 de Janeiro, e aos deficientes civis, uns e outros com grau de incapacidade igual ou superior a 60%, é concedida a total isenção de direitos aduaneiros, taxas, imposto sobre venda de veículos, sobretaxa e emolumentos gerais na importação de triciclos, cadeiras de rodas, com ou sem motor, ou automóveis ligeiros de passageiros, para uso próprio, de modelo utilitário, com cilindrada não superior a 1600 cm3.
+ARTIGO 2.º
+1 - A isenção referida no artigo anterior não pode ser fruída por cada beneficiário relativamente a mais do que um veículo em cada cinco anos, salvo no caso de acidente involuntário com danos irrecuperáveis, de roubo ou de outro motivo extraordinário que conduza à eliminação da viatura em circunstâncias justificadas, devidamente comprovadas pela autoridade competente.
+2 - No caso de o automóvel importado ao abrigo do disposto no artigo 1.º ser vendido antes de completados cinco anos, o adquirente terá de pagar ao Estado a parte dos direitos e demais encargos referidos no artigo 1.º proporcional ao tempo que faltar para o termo daquele período.
+ARTIGO 3.º
+O grau de incapacidade dos deficientes militares será atestado pelos serviços médicos competentes, e o dos civis, pela Direcção-Geral de Saúde, que promoverá a necessária inspecção especial.
+ARTIGO 4.º
+As dúvidas que se suscitarem na aplicação desta lei serão resolvidas por despacho conjunto, se for caso disso, dos Ministros das Finanças, dos Assuntos Sociais e da Defesa Nacional.
+Aprovada em 30 de Novembro de 1977.
+O Presidente da Assembleia da República, Vasco da Gama Fernandes.
+Promulgada em 20 de Fevereiro de 1978.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.
