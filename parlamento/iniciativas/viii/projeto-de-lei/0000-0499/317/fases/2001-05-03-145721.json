@@ -1,0 +1,177 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "317",
+    "id": "5865",
+    "titulo": "Altera o regime jurídico do contrato de trabalho a termo combatendo a precariedade no emprego."
+  },
+  "fase": "Votação na generalidade",
+  "codigo_fase": "250",
+  "data_registo": "2001-05-03",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1903",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "250",
+    "Comissao": null,
+    "DataFase": "2001-05-03",
+    "EvtId": "13",
+    "Fase": "Votação na generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-05-03",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "833",
+                "nome": "Vicente Merendas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "15:15",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138433",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3074-3074",
+                  "3096-3097"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-05-04",
+                "pubLeg": "VIII",
+                "pubNr": "78",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/078/2001-05-04/3074?pgs=3074,3096-3097&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O REGIME JURIDICO DO CONTRATO DE TRABALHO A TERMO, COMBATENDO A PRECARIEDADE NO EMPREGO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "15:15",
+            "horaTermo": "20:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138434",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3074-3074",
+                  "3097-3097"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-05-04",
+                "pubLeg": "VIII",
+                "pubNr": "78",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/078/2001-05-04/3074?pgs=3074,3097&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA O REGIME JURIDICO DO CONTRATO DE TRABALHO A TERMO, COMBATENDO A PRECARIEDADE NO EMPREGO",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "145721",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1903",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-05-04",
+        "pubLeg": "VIII",
+        "pubNr": "78",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/078/2001-05-04?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2001-05-03",
+        "descricao": "(Texto de substituição)",
+        "detalhe": "A Favor: <I>PS</I>, <I> PSD</I>, <I> CDS-PP</I><BR>Abstenção:<I>PCP</I>, <I> PEV</I>, <I> BE</I>",
+        "id": "27902",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "78",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
