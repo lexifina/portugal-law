@@ -1,0 +1,14 @@
+Lei n.º 7/74
+de 27 de Julho
+Tendo o Movimento das Forças Armadas, através da Junta de Salvação Nacional e dos seus representantes no Conselho de Estado, considerado conveniente esclarecer o alcance do n.º 8 do capítulo B do Programa do Movimento das Forças Armadas Portuguesas, cujo texto faz parte integrante da Lei n.º 3/74, de 14 de Maio;
+Visto o disposto no n.º 1, 1.º, do artigo 13.º da Lei n.º 3/74, de 14 de Maio, o Conselho de Estado decreta e eu promulgo, para valer como lei constitucional, o seguinte:
+ARTIGO 1.º
+O princípio de que a solução das guerras no ultramar é política e não militar, consagrado no n.º 8, alínea a), do capítulo B do Programa do Movimento das Forças Armadas, implica, de acordo com a Carta das Nações Unidas, o reconhecimento por Portugal do direito dos povos à autodeterminação.
+ARTIGO 2.º
+O reconhecimento do direito à autodeterminação, com todas as suas consequências, inclui a aceitação da independência dos territórios ultramarinos e a derrogação da parte correspondente do artigo 1.º da Constituição Política de 1933.
+ARTIGO 3.º
+Compete ao Presidente da República, ouvidos a Junta de Salvação Nacional, o Conselho de Estado e o Governo Provisório, concluir os acordos relativos ao exercício do direito reconhecido nos artigos antecedentes.
+Visto e aprovado em Conselho de Estado.
+Promulgado em 26 de Julho de 1974.
+Publique-se.
+O Presidente da República, ANTÓNIO DE SPÍNOLA.
