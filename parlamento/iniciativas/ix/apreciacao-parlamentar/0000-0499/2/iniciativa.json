@@ -1,0 +1,108 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "tipo": "Apreciação Parlamentar",
+  "numero": "2",
+  "id": "19128",
+  "fases": 6,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2002-06-21",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2003-09-14",
+    "DataInicioleg": "2002-04-05",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PS",
+        "idCadastro": "1403",
+        "nome": "Ana Benavente"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1278",
+        "nome": "Augusto Santos Silva"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "170",
+        "nome": "Guilherme D'oliveira Martins"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1890",
+        "nome": "Cristina Granada"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "728",
+        "nome": "Rosalina Martins"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1672",
+        "nome": "Isabel Pires de Lima"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1666",
+        "nome": "Luiz Fagundes Duarte"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2256",
+        "nome": "Fernando Cabral"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "614",
+        "nome": "Celeste Correia"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1028",
+        "nome": "Sónia Fertuzinhos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1627",
+        "nome": "Maria Santos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2010",
+        "nome": "Ascenso Simões"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Apreciação Parlamentar",
+    "IniEpigrafe": null,
+    "IniId": "19128",
+    "IniLeg": "IX",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a79394562324e31625756756447397a5357357059326c6864476c32595338774e444d7a5a446b304f5331694e5455314c5451334e6d49744f474d78595330334f5749774d7a4d314f446869595751755a47396a&fich=0433d949-b555-476b-8c1a-79b033588bad.doc&Inline=true",
+    "IniNr": "2",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "A",
+    "IniTitulo": "Decreto-Lei n.º 156/2002, de 20 de Junho, que \"suspende a produção de efeitos da revisão curricular do ensino secundário, aprovada pelo decreto-Lei n.º 7/2001, de 18 de Janeiro\"",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
