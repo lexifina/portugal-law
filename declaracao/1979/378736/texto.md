@@ -1,0 +1,6 @@
+Declaração
+Segundo comunicação da Secretaria de Estado da Administração Pública, o Decreto-Lei n.º 191-F/79, publicado no Diário da República, 1.ª série, n.º 145 (suplemento), de 26 de Junho, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 5.º, n.º 1, alínea d), onde se lê: «... em regime de substituição, ...», deve ler-se: «... em regime de substituição ...», e no n.º 2, onde se lê: «... devendo as respectivas funções asseguradas ...», deve ler-se: «... devendo as respectivas funções ser asseguradas ...»
+No artigo 11.º, n.º 1, onde se lê: «... exercidos em regime de substituição enquanto durar a vacatura ...», deve ler-se: «... exercidos em regime de substituição, enquanto durar a vacatura ...»
+No artigo 12.º, n.º 2, onde se lê: «... funções até à data da entrada em vigor do presente diploma ...», deve ler-se: «... funções, até à data da entrada em vigor do presente diploma, ...», e no n.º 7, alínea b), onde se lê: «Após o tempo do período ...», deve ler-se: «Após o termo do período ...»
+Secretaria-Geral da Presidência do Conselho de Ministros, 19 de Julho de 1979. - O Secretário-Geral, Alfredo Barroso.
