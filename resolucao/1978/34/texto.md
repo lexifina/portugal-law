@@ -1,0 +1,6 @@
+Resolução n.º 34/78
+Em execução do compromisso programático de contribuir para proporcionar às comissões parlamentares, aos grupos parlamentares e, na medida do possível, aos Srs. Deputados instalações condignas e condições de operacionalidade, o Conselho de Ministros, reunido em 22 de Fevereiro de 1978, resolveu:
+Encarregar o Ministro Adjunto do Primeiro-Ministro e o Ministro da Habitação e Obras Públicas de, em colaboração com a Assembleia da República:
+a) Procederem ao estudo do total aproveitamento das instalações do Palácio de S. Bento devolutas ou susceptíveis de desocupação, promovendo de imediato os trabalhos de reparação, pintura, decoração e, em geral, ao arranjo dos gabinetes a utilizar pela Assembleia da República e respectivos membros, dentro de uma preocupação de economia, sem prejuízo das necessárias dignidade e funcionalidade;
+b) Procederem ao estudo, nos seus vários aspectos, incluindo o financeiro, das obras de adaptação do Palácio de S. Bento susceptíveis de conduzir à ampliação da sua capacidade de alojamento em condições funcionais que se mostrem necessárias e convenientes.
+Presidência do Conselho de Ministros, 22 de Fevereiro de 1978. - O Primeiro-Ministro, Mário Soares.
