@@ -1,0 +1,818 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "222",
+    "id": "19519",
+    "titulo": "Financiamento dos Partidos Políticos e das Campanhas Eleitorais."
+  },
+  "fase": "Votação na especialidade",
+  "codigo_fase": "310",
+  "data_registo": "2003-04-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2544",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "310",
+    "Comissao": null,
+    "DataFase": "2003-04-24",
+    "EvtId": "34",
+    "Fase": "Votação na especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2003-04-24",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "155",
+                "nome": "António José Seguro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "22:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145354",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4787-4788",
+                  "4793-4794"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-26",
+                "pubLeg": "IX",
+                "pubNr": "113",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/113/2003-04-26/4787?pgs=4787-4788,4793-4794&org=PLC"
+              }
+            ],
+            "sumario": "Financiamento dos partidos políticos e das campanhas eleitorais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "22:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145355",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4788-4792"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-26",
+                "pubLeg": "IX",
+                "pubNr": "113",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/113/2003-04-26/4788?pgs=4788-4792&org=PLC"
+              }
+            ],
+            "sumario": "Financiamento dos partidos políticos e das campanhas eleitorais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "22:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145356",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4789-4793"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-26",
+                "pubLeg": "IX",
+                "pubNr": "113",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/113/2003-04-26/4789?pgs=4789-4793&org=PLC"
+              }
+            ],
+            "sumario": "Financiamento dos partidos políticos e das campanhas eleitorais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "155",
+                "nome": "António José Seguro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "22:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145357",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4790-4791"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-26",
+                "pubLeg": "IX",
+                "pubNr": "113",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/113/2003-04-26/4790?pgs=4790-4791&org=PLC"
+              }
+            ],
+            "sumario": "Financiamento dos partidos políticos e das campanhas eleitorais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "22:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145358",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4790-4791"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-26",
+                "pubLeg": "IX",
+                "pubNr": "113",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/113/2003-04-26/4790?pgs=4790-4791&org=PLC"
+              }
+            ],
+            "sumario": "Financiamento dos partidos políticos e das campanhas eleitorais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "22:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145359",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4792-4792"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-26",
+                "pubLeg": "IX",
+                "pubNr": "113",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/113/2003-04-26/4792?pgs=4792&org=PLC"
+              }
+            ],
+            "sumario": "Financiamento dos partidos políticos e das campanhas eleitorais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "22:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145360",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4793-4793"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-26",
+                "pubLeg": "IX",
+                "pubNr": "113",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/113/2003-04-26/4793?pgs=4793&org=PLC"
+              }
+            ],
+            "sumario": "Financiamento dos partidos políticos e das campanhas eleitorais",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1953",
+                "nome": "Diogo Feio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "22:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145361",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4793-4794"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-04-26",
+                "pubLeg": "IX",
+                "pubNr": "113",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/113/2003-04-26/4793?pgs=4793-4794&org=PLC"
+              }
+            ],
+            "sumario": "Financiamento dos partidos políticos e das campanhas eleitorais",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": "Texto de substituição",
+    "OevId": "156184",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2544",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-04-26",
+        "pubLeg": "IX",
+        "pubNr": "113",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/113/2003-04-26?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do artigo 1.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30058",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do artigo 2.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30059",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do n.º 1 do artigo 3.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30060",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do artigo 28.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS-PP</I><BR>Contra:<I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30086",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação dos artigos 29.º a 33.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30087",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do artigo 34.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS-PP</I><BR>Contra:<I>PS</I><BR>Abstenção:<I>PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30088",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação dos n.ºs 2 e 3 do artigo 18.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> PEV</I><BR>Abstenção:<I>BE</I>",
+        "id": "30079",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação dos n.ºs 4 e 5 do artigo 18.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I><BR>Contra:<I>PCP</I>, <I> BE</I>, <I> PEV</I>, <I> Jorge Lacão (PS)</I>, <I> Ascenso Simões (PS)</I>",
+        "id": "30080",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do artigo 19.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30081",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação das alíneas a), b), c) e d) do n.º 1 e das alíneas a), b), c), d) e e) do n.º 2 do artigo 20.º da proposta de substituição apresentada pelo PCP",
+        "detalhe": "A Favor: <I>PCP</I>, <I> BE</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>",
+        "id": "30083",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do artigo 20.º do texto de substituição apresentado pela Comissão",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I><BR>Contra:<I>PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30084",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação dos artigos 21.º a 27.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30085",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação da alínea d) do n.º 1 do artigo 16.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I><BR>Abstenção:<I>PS</I>",
+        "id": "30073",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação das alíneas a), b) e c) do n.º 1 e n.ºs 2 e 3 do artigo 16.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30074",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação dos n.ºs 1, 2,  3, 6 e 7 do artigo 17.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30075",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do n.º 4 do artigo 17.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS-PP</I><BR>Contra:<I>PCP</I>, <I> BE</I>, <I> PEV</I><BR>Abstenção:<I>PS</I>",
+        "id": "30076",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do n.º 5 do artigo 17.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I><BR>Contra:<I>PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30077",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do n.º 1 do artigo 18.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> BE</I><BR>Abstenção:<I>PCP</I>, <I> PEV</I>",
+        "id": "30078",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação dos n.ºs 3, 4 e 5 do artigo 5.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30067",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do artigo 6.º do texto de substituição apresentado pela comissão",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS-PP</I><BR>Contra:<I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30068",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação da Proposta de Aditamento de um novo número ao artigo 6.º, apresentada pelo PCP",
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "30069",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do n.º 1 do artigo 7.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS-PP</I>, <I> PCP</I><BR>Contra:<I>PS</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30070",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação dos n.ºs 2, 3 e 4 do artigo 7.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30071",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação dos artigos 8.º a 15.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30072",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do n.º 2 do artigo 3.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> BE</I><BR>Contra:<I>PCP</I>, <I> PEV</I>",
+        "id": "30061",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do n.º 3 do artigo 3.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I><BR>Contra:<I>PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30062",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": null
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do n.º 4 do artigo 3.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30063",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do artigo 4.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30064",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do n.º 1 do artigo 5.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> CDS-PP</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30065",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": "unanime"
+      },
+      {
+        "ausencias": null,
+        "data": "2003-04-24",
+        "descricao": "Votação do n.º 2 do artigo 5.º",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS-PP</I><BR>Contra:<I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I>",
+        "id": "30066",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "111",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
