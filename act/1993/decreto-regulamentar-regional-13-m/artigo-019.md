@@ -45,3 +45,5 @@ q) Propor a criação de centros de divulgação, acolhimento e informação e n
 r) Colaborar com outras entidades oficiais ou privadas na organização de acções de divulgação ambiental;
 
 s) Promover o desporto ao ar livre e o contacto com a natureza.
+
+3 - Junto da DOPEA funciona um serviço de apoio administrativo, chefiado por um chefe de departamento, ao qual compete coordenar todos os assuntos de natureza técnico-administrativa no âmbito da Divisão

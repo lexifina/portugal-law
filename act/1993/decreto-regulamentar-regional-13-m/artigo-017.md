@@ -1,14 +1,14 @@
 ## Secção IV
 
-## Repartição de Serviços Administrativos
+## Departamento de serviços administrativos
 
 # Artigo 17.º
 
 ### Natureza e competências
 
-1 - A RSA é o serviço de apoio administrativo ao PNM.
+1 - O DSA é o serviço de apoio administrativo ao PNM.
 
-2 - Compete, designadamente, à RSA:
+2 - Compete, designadamente, ao DSA:
 
 a) Assegurar o registo, encaminhamento e arquivo do expediente;
 
@@ -24,7 +24,7 @@ f) Organizar os processos relativos à gestão do pessoal do PNM;
 
 g) Assegurar o normal funcionamento do PNM em tudo o que não seja da competência específica dos demais órgãos e serviços do PNM.
 
-3 - A RSA integra as seguintes secções:
+3 - O DSA integra as seguintes secções:
 
 a) Secção de Pessoal, Expediente e Arquivo;
 

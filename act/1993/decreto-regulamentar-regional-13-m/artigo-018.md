@@ -33,3 +33,5 @@ j) Fornecer à DOPEA os dados necessários à divulgação da fauna e flora ind�
 l) Executar os projectos de infra-estruturas elaborados pela DOPEA;
 
 m) Executar obras de recuperação, reparação ou beneficiação com vista à salvaguarda do património incluído nas áreas classificadas, nomeadamente monumentos ou edifícios de interesse público.
+
+3 - Junto da DCN funciona um serviço de apoio administrativo, chefiado por um chefe de departamento, ao qual compete coordenar todos os assuntos de natureza técnico-administrativa no âmbito da Divisão.
