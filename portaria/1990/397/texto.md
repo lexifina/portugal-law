@@ -1,0 +1,15 @@
+Portaria n.º 397/90
+de 26 de Maio
+O Decreto-Lei n.º 104/89, de 6 de Abril, e a Portaria n.º 251/89, da mesma data, ao definirem as funções e os requisitos de acesso às diversas categorias, reconhecem como condição básica para a progressão na carreira da pesca a capacidade profissional resultante de adequada formação profissional, aliada à experiência de anos de trabalho no mar a bordo de embarcações de pesca.
+Torna-se, assim, necessário estabelecer um período de transição entre o regime anterior e aquele que foi estabelecido pelo actual quadro legal, permitindo-se continuar o exercício da pesca por marítimos com comprovada experiência prática.
+Assim, nos termos do artigo 23.º do Decreto-Lei n.º 104/89, de 6 de Abril, manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:
+1.º - 1 - Os inscritos marítimos que à data da entrada em vigor da Portaria n.º 251/89, de 6 de Abril, se encontrassem matriculados como arrais de pesca local ao abrigo do § 2.º do artigo 64.º do Regulamento de Inscrição Marítima, Matrícula e Lotações de Embarcações da Marinha Mercante e da Pesca, aprovado pelo Decreto n.º 46969, de 15 de Outubro de 1964, poderão, durante o período transitório de três anos a contar da data de entrada em vigor da presente portaria, continuar a exercer o governo de embarcações de pesca local, desde que a autoridade marítima confirme a capacidade para tanto.
+2 - O disposto no número anterior aplica-se às embarcações actualmente registadas na pesca costeira que estejam nas condições referidas no artigo 84.º do Decreto Regulamentar n.º 43/87, de 17 de Julho.
+2.º O prazo fixado no n.º 2 do artigo 17.º do regulamento anexo à Portaria n.º 251/89, de 6 de Abril, é alargado para três anos, a partir da data da entrada em vigor do presente diploma.
+3.º A título transitório, e durante três anos, qualquer inscrito marítimo que à data da entrada em vigor da Portaria n.º 251/89, de 6 de Abril, tenha sido considerado apto em provas práticas de condução de motores com potência inferior ou igual a 150 kW, instalados em embarcações de pesca local ou costeira até 35 TAB, bem como aqueles que também o foram posteriormente, pode exercer nestas embarcações as funções inerentes à categoria de motorista, não sendo, contudo, permitida a redução do número de efectivos da lotação de segurança estabelecida, sem prejuízo de poder acumular as funções com as de governo da embarcação.
+4.º As provas práticas referidas no número anterior são efectuadas na capitania do porto da área onde a embarcação exerce a sua actividade, incidindo sobre o funcionamento e manobra do motor a conduzir.
+5.º A aptidão demonstrada concede apenas o direito à atribuição de um certificado para condução do motor que serviu de base à prova prática realizada, não conferindo direito a mudança de categoria.
+6.º A presente portaria entra em vigor na data da sua publicação no Diário da República.
+Ministério da Agricultura, Pescas e Alimentação.
+Assinada em 11 de Maio de 1990.
+Pelo Ministro da Agricultura, Pescas e Alimentação, Jorge Manuel de Oliveira Godinho, Secretário de Estado das Pescas.
