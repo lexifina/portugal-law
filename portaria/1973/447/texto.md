@@ -1,0 +1,12 @@
+Portaria n.º 447/73
+de 30 de Junho
+Tornando-se necessário actualizar o modelo de impresso aprovado pela Portaria n.º 16134, de 15 de Janeiro de 1957, em consequência de alterações introduzidas nos abonos respeitantes a despesas de deslocação;
+Ouvida a Comissão de Estudo para a Uniformização de Impressos do Ministério das Finanças:
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças, nos termos do Decreto n.º 37769, de 28 de Fevereiro de 1950:
+1.º Aprovar o novo boletim itinerário, modelo C. P. D 10.5 (n.º 683 do catálogo - Diversos da Imprensa Nacional-Casa da Moeda), anexo à presente portaria, destinado a acompanhar as respectivas folhas de liquidação, substituindo o modelo aprovado pela Portaria n.º 16134, de 15 de Janeiro de 1957.
+2.º Estabelecer o uso obrigatório do referido modelo em todos os serviços do Estado, permitindo-se, no entanto, que continue a ser utilizado o actual impresso C. P. Mod. D-2 até se esgotarem as actuais existências.
+3.º Considerar o citado impresso como exclusivo da Imprensa Nacional-Casa da Moeda, devendo a sua tiragem fazer-se no formato A4 (210 mm x 297 mm).
+Ministério das Finanças, 4 de Junho de 1973. - O Secretário de Estado do Orçamento, Augusto Victor Coelho.
+
+(ver documento original)
+O Secretário de Estado do Orçamento, Augusto Victor Coelho.
