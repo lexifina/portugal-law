@@ -1,7 +1,3 @@
-## Secção II
-
-## Requisitos dos instrumentos notariais
-
 ## Subsecção I
 
 # Artigo 47.º
