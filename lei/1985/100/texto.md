@@ -1,0 +1,36 @@
+Lei n.º 100/85
+de 4 de Outubro
+Criação da freguesia de São Miguel de Alcainça no concelho de Mafra
+A Assembleia da República decreta, nos termos da alínea j) do artigo 167.º e do n.º 2 do artigo 169.º da Constituição, o seguinte:
+ARTIGO 1.º
+É criada no concelho de Mafra a freguesia de São Miguel de Alcainça.
+ARTIGO 2.º
+Os limites da nova freguesia, conforme representação cartográfica anexa, são:
+A norte, os limites da freguesia de Mafra e a Tapada Nacional de Mafra;
+A poente, a ribeira de Sunibel até à ribeira de Arrifana, fazendo ali um recanto com um santuário histórico que fica integrado na freguesia de Igreja Nova, seguindo pela mesma ribeira até à Azenha de Azeitão. Deste povoado a delimitação da freguesia segue, em caminho de pé posto, em direcção à estrada nacional n.º 375, atravessando esta ao quilómetro 1,660, seguindo pela estrema entre as propriedades com os artigos de cadastro 189 e 238, continuando a mesma entre as propriedades que têm os seguintes artigos: a norte da estrema, 190, 164, 163, 221, 52, 53, 30, 31, 23, 25, 16, 21 e 216 e, a sul da estrema, 193, 191, 235, 164, 228, 223, 51, 50, 201, 43, 39, 35 e 33, atravessando a via férrea ao quilómetro 35,510 em direcção e seguindo pelo antigo caminho do Funchal até à estrema entre as propriedades com os artigos, a norte da estrema, 163 e, a sul, 162 e 225. Da estrema desta última propriedade segue a delimitação da freguesia sempre pelo limite da freguesia de Santo Estêvão das Galés em direcção ao limite que confina com a freguesia da Malveira, seguindo o ribeiro da Carrasqueira até à povoação dos Moinhos, continuando pelo caminho público nas traseiras do Pousal até à propriedade com os artigos, a poente, 149 e, a nascente, 151, e seguindo pelas estremas das propriedades com os artigos, a poente, 134 e 105 e, a nascente, 152, 180 e 95.
+ARTIGO 3.º
+1 - A comissão instaladora da nova freguesia será constituída nos termos e no prazo previstos no artigo 10.º da Lei n.º 11/82, de 2 de Junho.
+2 - Para os efeitos da disposição referida no número anterior, a Assembleia Municipal de Mafra nomeará uma comissão instaladora constituída por:
+a) 1 representante da Câmara Municipal de Mafra;
+b) 1 representante da Assembleia Municipal de Mafra;
+c) 1 representante da Assembleia de Freguesia de Igreja Nova;
+d) 1 representante da junta de Freguesia de Igreja Nova;
+e) 1 representante da junta de Freguesia da Malveira;
+f) 1 representante da Assembleia de Freguesia da Malveira;
+g) 7 cidadãos eleitores designados de acordo com o n.º 3 do artigo 10.º da Lei n.º 11/82.
+ARTIGO 4.º
+1 - A comissão instaladora exercerá funções até à tomada de posse dos órgãos autárquicos da nova freguesia.
+2 - O artigo 10.º, n.º 6, da Lei n.º 11/82 não se aplica à criação da presente freguesia.
+ARTIGO 5.º
+As eleições para a assembleia da nova freguesia realizar-se-ão na data das primeiras eleições autárquicas gerais posteriores à entrada em vigor da presente lei.
+ARTIGO 6.º
+A presente lei entra em vigor 5 dias após a sua publicação.
+Aprovada em 11 de Julho de 1985.
+O Presidente da Assembleia da República, Fernando Monteiro do Amaral.
+Promulgada em 2 de Setembro de 1985.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendada em 4 de Setembro de 1985.
+O Primeiro-Ministro, Mário Soares.
+
+(ver documento original)
