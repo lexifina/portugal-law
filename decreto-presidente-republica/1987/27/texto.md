@@ -1,0 +1,9 @@
+Decreto do Presidente da República n.º 27/87
+de 17 de Agosto
+O Presidente da República decreta, nos termos da alínea h) do artigo 136.º da Constituição, o seguinte:
+São nomeados, sob proposta do Primeiro-Ministro, o engenheiro Eurico Silva Teixeira de Melo, Vice-Primeiro-Ministro; o Dr. Joaquim Fernando Nogueira, Ministro da Presidência; o engenheiro Eurico Silva Teixeira de Melo, Ministro da Defesa Nacional; o Dr. António d'Orey Capucho, Ministro dos Assuntos Parlamentares; o Dr. Miguel José Ribeiro Cadilhe, Ministro das Finanças; o Prof. Doutor Luís Francisco Valente de Oliveira, Ministro do Planeamento e da Administração do Território; o Dr. José António da Silveira Godinho, Ministro da Administração Interna; o Dr. Joaquim Fernando Nogueira, Ministro da Justiça; o Prof. Doutor João de Deus Rogado Salvador Pinheiro, Ministro dos Negócios Estrangeiros; o engenheiro Álvaro Roque de Pinho Bissaia Barreto, Ministro da Agricultura, Pescas e Alimentação; o engenheiro Luís Fernando Mira Amaral, Ministro da Indústria e Energia; o engenheiro Roberto Artur da Luz Carneiro, Ministro da Educação; o engenheiro João Maria Leitão de Oliveira Martins, Ministro das Obras Públicas, Transportes e Comunicações; a Dr.ª Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares, Ministra da Saúde; o Dr. José Albino da Silva Peneda, Ministro do Emprego e da Segurança Social; o engenheiro Joaquim Martins Ferreira do Amaral, Ministro do Comércio e Turismo; o engenheiro António Fernando Couto dos Santos, Ministro Adjunto e da Juventude, e o Dr. Luís Manuel Gonçalves Marques Mendes, Secretário de Estado da Presidência do Conselho de Ministros.
+Assinado em 17 de Agosto de 1987.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 17 de Agosto de 1987.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
