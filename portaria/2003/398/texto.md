@@ -1,0 +1,28 @@
+Portaria n.º 398/2003
+de 19 de Maio
+A Lei n.º 147/99, de 1 de Setembro, designada lei de protecção de crianças e jovens em perigo, regula a criação, a competência e o funcionamento das comissões de protecção de crianças e jovens em todos os concelhos do País, determinando que a respectiva instalação seja declarada por portaria conjunta dos Ministros da Justiça e da Segurança Social e do Trabalho.
+Acções de informação e articulação entre todas as entidades públicas e particulares intervenientes foram já desenvolvidas no concelho de Ansião, com vista à instalação da respectiva comissão de protecção, dando assim cumprimento ao preceituado na lei de protecção.
+Assim, ao abrigo do n.º 3 do artigo 12.º da lei de protecção, manda o Governo, pelos Ministros da Justiça e da Segurança Social e do Trabalho, o seguinte:
+1.º É criada a Comissão de Protecção de Crianças e Jovens do Concelho de Ansião, que fica instalada em edifício da Câmara Municipal.
+2.º A Comissão, a funcionar na modalidade alargada, é constituída, nos termos do artigo 17.º da Lei n.º 147/99, de 1 de Setembro, pelos seguintes elementos:
+a) Um representante do município;
+b) Um representante do Instituto de Solidariedade e Segurança Social;
+c) Um representante dos serviços locais do Ministério da Educação;
+d) Um médico, em representação dos serviços de saúde;
+e) Um representante das instituições particulares de solidariedade social ou de organizações não governamentais que desenvolvam actividades de carácter não institucional destinadas a crianças e jovens;
+f) Um representante das instituições particulares de solidariedade social ou de organizações não governamentais que desenvolvam actividades em regime de colocação institucional de crianças e jovens;
+g) Um representante das associações de pais;
+h) Um representante das associações ou organizações privadas que desenvolvam actividades desportivas, culturais ou recreativas destinadas a crianças e jovens;
+i) Um representante das associações de jovens ou dos serviços de juventude;
+j) Um ou dois representantes das forças de segurança, PSP e GNR;
+l) Quatro pessoas designadas pela assembleia municipal ou pela assembleia de freguesia;
+m) Os técnicos que venham a ser cooptados pela Comissão.
+3.º O presidente da Comissão de Protecção é eleito pela comissão alargada, de entre todos os seus membros, na primeira reunião plenária, por um período de dois anos, renovável por duas vezes. As funções de secretário são desempenhadas por um membro da Comissão, designado pelo presidente.
+4.º A Comissão, a funcionar em modalidade restrita, é composta, nos termos do artigo 20.º da lei de protecção, sempre por um número ímpar, nunca inferior a cinco, de entre os membros que integram a comissão alargada, designados para o efeito em reunião plenária após a instalação, sendo membros por inerência o presidente da Comissão de Protecção, os representantes do município e do Instituto de Solidariedade e Segurança Social.
+5.º Os membros da comissão restrita exercem funções em regime de tempo parcial ou de tempo completo, nos termos do n.º 3 do artigo 22.º da lei de protecção, durante o período de um ano, tempo findo o qual é obrigatoriamente reavaliado.
+6.º Nos 30 dias seguintes à publicação da presente portaria, as entidades que integram a Comissão de Protecção indicam os seus membros nominalmente, bem como o presidente e o secretário da Comissão de Protecção, ao presidente da Comissão Nacional de Protecção das Crianças e Jovens em Risco.
+7.º O apoio logístico necessário ao funcionamento da Comissão de Protecção é assegurado pelo município nos termos previstos no artigo 14.º da lei de protecção, podendo vir a ser celebrados protocolos de cooperação com os serviços do Estado representados na Comissão Nacional de Protecção das Crianças e Jovens em Risco para efeitos do suporte com os encargos financeiros resultantes deste apoio.
+8.º O fundo de maneio, previsto pelo artigo 14.º da lei de protecção, é assegurado transitoriamente pelo Instituto de Solidariedade e Segurança Social, tendo como conteúdo, montante e forma de gestão o previsto no Decreto-Lei n.º 332-B/2000, de 30 de Dezembro, sendo o procedimento para a sua determinação e disponibilização regulado no Despacho Normativo n.º 29/2001, de 30 de Junho.
+9.º O disposto na presente portaria produz efeitos a partir de 25 de Setembro de 2002, data do início de funções da Comissão de Protecção de Crianças e Jovens.
+Em 16 de Abril de 2003.
+A Ministra da Justiça, Maria Celeste Ferreira Lopes Cardona. - O Ministro da Segurança Social e do Trabalho, António José de Castro Bagão Félix.
