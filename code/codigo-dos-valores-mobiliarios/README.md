@@ -6,13 +6,13 @@ Decreto-Lei n.º 486/99 · Aprova o novo Código dos Valores Mobiliários
 
 <https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-34575175>
 
-Em vigor desde 1999-12-11; 59 dias com versões no DR (o último em 2026-09-01). Os artigos do próprio Decreto-Lei n.º 486/99 estão em [`decreto-lei-486-99/`](decreto-lei-486-99/).
+Em vigor desde 2000-03-01; 56 dias com versões no DR (o último em 2026-09-01). Os artigos do próprio Decreto-Lei n.º 486/99 estão em [`decreto-lei-486-99/`](decreto-lei-486-99/).
 
-In force since 1999-12-11; 59 days with versions in the Diário da República (the last on 2026-09-01). The articles of Decreto-Lei n.º 486/99 itself are in [`decreto-lei-486-99/`](decreto-lei-486-99/).
+In force since 2000-03-01; 56 days with versions in the Diário da República (the last on 2026-09-01). The articles of Decreto-Lei n.º 486/99 itself are in [`decreto-lei-486-99/`](decreto-lei-486-99/).
 
 | Disposição | Ficheiro | Alterações | Última alteração |
 | --- | --- | ---: | --- |
-| Artigo 1.º | [artigo-001.md](artigo-001.md) | 3 | 2023-05-29 |
+| Artigo 1.º | [artigo-001.md](artigo-001.md) | 2 | 2023-05-29 |
 | Artigo 2.º | [artigo-002.md](artigo-002.md) | 6 | 2023-05-29 |
 | Artigo 3.º | [artigo-003.md](artigo-003.md) | 2 | 2018-08-01 |
 | Artigo 4.º | [artigo-004.md](artigo-004.md) | 0 |  |
@@ -94,7 +94,7 @@ In force since 1999-12-11; 59 days with versions in the Diário da República (t
 | Artigo 33.º | [artigo-033.md](artigo-033.md) | 4 | 2018-08-01 |
 | Artigo 34.º | [artigo-034.md](artigo-034.md) | 0 |  |
 | Artigo 35.º | [artigo-035.md](artigo-035.md) | 6 | 2022-01-01 |
-| Artigo 36.º | [artigo-036.md](artigo-036.md) | 3 | 2022-01-01 |
+| Artigo 36.º | [artigo-036.md](artigo-036.md) | 2 | 2022-01-01 |
 | Artigo 39.º | [artigo-039.md](artigo-039.md) | 0 |  |
 | Artigo 40.º | [artigo-040.md](artigo-040.md) | 0 |  |
 | Artigo 41.º | [artigo-041.md](artigo-041.md) | 0 |  |
@@ -115,7 +115,7 @@ In force since 1999-12-11; 59 days with versions in the Diário da República (t
 | Artigo 58.º | [artigo-058.md](artigo-058.md) | 0 |  |
 | Artigo 59.º | [artigo-059.md](artigo-059.md) | 0 |  |
 | Artigo 60.º | [artigo-060.md](artigo-060.md) | 2 | 2022-01-01 |
-| Artigo 61.º | [artigo-061.md](artigo-061.md) | 1 | 2000-03-01 |
+| Artigo 61.º | [artigo-061.md](artigo-061.md) | 0 |  |
 | Artigo 62.º | [artigo-062.md](artigo-062.md) | 1 | 2018-08-01 |
 | Artigo 63.º | [artigo-063.md](artigo-063.md) | 2 | 2023-05-29 |
 | Artigo 64.º | [artigo-064.md](artigo-064.md) | 0 |  |
@@ -156,7 +156,7 @@ In force since 1999-12-11; 59 days with versions in the Diário da República (t
 | Artigo 98.º | [artigo-098.md](artigo-098.md) | 0 |  |
 | Artigo 99.º | [artigo-099.md](artigo-099.md) | 2 | 2018-08-01 |
 | Artigo 100.º | [artigo-100.md](artigo-100.md) | 0 |  |
-| Artigo 102.º | [artigo-102.md](artigo-102.md) | 2 | 2017-05-04 |
+| Artigo 102.º | [artigo-102.md](artigo-102.md) | 1 | 2017-05-04 |
 | Artigo 103.º | [artigo-103.md](artigo-103.md) | 0 |  |
 | Artigo 104.º | [artigo-104.md](artigo-104.md) | 1 | 2017-05-04 |
 | Artigo 105.º | [artigo-105.md](artigo-105.md) | 0 |  |
@@ -226,7 +226,7 @@ In force since 1999-12-11; 59 days with versions in the Diário da República (t
 | Artigo 178.º | [artigo-178.md](artigo-178.md) | 2 | 2022-01-01 |
 | Artigo 179.º | [artigo-179.md](artigo-179.md) | 2 | 2022-01-01 |
 | Artigo 180.º | [artigo-180.md](artigo-180.md) | 3 | 2022-01-01 |
-| Artigo 181.º | [artigo-181.md](artigo-181.md) | 3 | 2022-01-01 |
+| Artigo 181.º | [artigo-181.md](artigo-181.md) | 2 | 2022-01-01 |
 | Artigo 182.º | [artigo-182.md](artigo-182.md) | 2 | 2022-01-01 |
 | Artigo 182.º-A | [artigo-182-a.md](artigo-182-a.md) | 3 | 2022-01-01 |
 | Artigo 183.º | [artigo-183.md](artigo-183.md) | 0 |  |
@@ -254,7 +254,7 @@ In force since 1999-12-11; 59 days with versions in the Diário da República (t
 | Artigo 201.º-A | [artigo-201-a.md](artigo-201-a.md) | 3 | 2026-09-01 |
 | Artigo 201.º-B | [artigo-201-b.md](artigo-201-b.md) | 2 | 2022-01-01 |
 | Artigo 201.º-C | [artigo-201-c.md](artigo-201-c.md) | 2 | 2022-01-01 |
-| Artigo 202.º | [artigo-202.md](artigo-202.md) | 4 | 2022-01-01 |
+| Artigo 202.º | [artigo-202.md](artigo-202.md) | 3 | 2022-01-01 |
 | Artigo 203.º | [artigo-203.md](artigo-203.md) | 4 | 2018-08-01 |
 | Artigo 204.º | [artigo-204.md](artigo-204.md) | 3 | 2022-01-01 |
 | Artigo 205.º | [artigo-205.md](artigo-205.md) | 3 | 2018-08-01 |
@@ -268,40 +268,40 @@ In force since 1999-12-11; 59 days with versions in the Diário da República (t
 | Artigo 210.º | [artigo-210.md](artigo-210.md) | 3 | 2018-08-01 |
 | Artigo 211.º | [artigo-211.md](artigo-211.md) | 5 | 2026-09-01 |
 | Artigo 212.º | [artigo-212.md](artigo-212.md) | 4 | 2018-08-01 |
-| Artigo 213.º | [artigo-213.md](artigo-213.md) | 5 | 2022-01-01 |
+| Artigo 213.º | [artigo-213.md](artigo-213.md) | 4 | 2022-01-01 |
 | Artigo 213.º-A | [artigo-213-a.md](artigo-213-a.md) | 3 | 2026-09-01 |
 | Artigo 214.º | [artigo-214.md](artigo-214.md) | 6 | 2022-01-01 |
 | Artigo 215.º | [artigo-215.md](artigo-215.md) | 4 | 2026-09-01 |
 | Artigo 215.º-A | [artigo-215-a.md](artigo-215-a.md) | 2 | 2022-01-01 |
 | Artigo 216.º | [artigo-216.md](artigo-216.md) | 4 | 2022-02-01 |
-| Artigo 217.º | [artigo-217.md](artigo-217.md) | 4 | 2013-02-07 |
+| Artigo 217.º | [artigo-217.md](artigo-217.md) | 3 | 2013-02-07 |
 | Artigo 218.º | [artigo-218.md](artigo-218.md) | 2 | 2007-11-01 |
 | Artigo 219.º | [artigo-219.md](artigo-219.md) | 2 | 2007-11-01 |
-| Artigo 220.º | [artigo-220.md](artigo-220.md) | 3 | 2007-11-01 |
+| Artigo 220.º | [artigo-220.md](artigo-220.md) | 2 | 2007-11-01 |
 | Artigo 221.º | [artigo-221.md](artigo-221.md) | 2 | 2007-11-01 |
 | Artigo 222.º | [artigo-222.md](artigo-222.md) | 3 | 2007-11-01 |
 | Artigo 222.º-A | [artigo-222-a.md](artigo-222-a.md) | 4 | 2026-09-01 |
 | Artigo 223.º | [artigo-223.md](artigo-223.md) | 2 | 2007-11-01 |
 | Artigo 223.º-A | [artigo-223-a.md](artigo-223-a.md) | 1 | 2018-08-01 |
-| Artigo 224.º | [artigo-224.md](artigo-224.md) | 5 | 2022-01-01 |
+| Artigo 224.º | [artigo-224.md](artigo-224.md) | 4 | 2022-01-01 |
 | Artigo 225.º | [artigo-225.md](artigo-225.md) | 4 | 2022-01-01 |
 | Artigo 226.º | [artigo-226.md](artigo-226.md) | 1 | 2007-11-01 |
-| Artigo 227.º | [artigo-227.md](artigo-227.md) | 8 | 2022-01-01 |
+| Artigo 227.º | [artigo-227.md](artigo-227.md) | 7 | 2022-01-01 |
 | Artigo 229.º | [artigo-229.md](artigo-229.md) | 5 | 2026-09-01 |
 | Artigo 231.º | [artigo-231.md](artigo-231.md) | 2 | 2007-11-01 |
 | Artigo 232.º | [artigo-232.md](artigo-232.md) | 2 | 2010-05-24 |
-| Artigo 233.º | [artigo-233.md](artigo-233.md) | 5 | 2022-01-01 |
+| Artigo 233.º | [artigo-233.md](artigo-233.md) | 4 | 2022-01-01 |
 | Artigo 234.º | [artigo-234.md](artigo-234.md) | 2 | 2007-11-01 |
 | Artigo 235.º | [artigo-235.md](artigo-235.md) | 1 | 2004-03-25 |
 | Artigo 237.º | [artigo-237.md](artigo-237.md) | 3 | 2022-01-01 |
-| Artigo 238.º | [artigo-238.md](artigo-238.md) | 5 | 2026-09-01 |
+| Artigo 238.º | [artigo-238.md](artigo-238.md) | 4 | 2026-09-01 |
 | Artigo 239.º | [artigo-239.md](artigo-239.md) | 2 | 2007-11-01 |
 | Artigo 240.º | [artigo-240.md](artigo-240.md) | 2 | 2007-11-01 |
 | Artigo 241.º | [artigo-241.md](artigo-241.md) | 2 | 2007-11-01 |
 | Artigo 242.º | [artigo-242.md](artigo-242.md) | 2 | 2007-11-01 |
-| Artigo 244.º | [artigo-244.md](artigo-244.md) | 7 | 2022-01-01 |
+| Artigo 244.º | [artigo-244.md](artigo-244.md) | 6 | 2022-01-01 |
 | Artigo 244.º-A | [artigo-244-a.md](artigo-244-a.md) | 2 | 2016-04-06 |
-| Artigo 245.º | [artigo-245.md](artigo-245.md) | 5 | 2016-06-04 |
+| Artigo 245.º | [artigo-245.md](artigo-245.md) | 4 | 2016-06-04 |
 | Artigo 245.º-A | [artigo-245-a.md](artigo-245-a.md) | 3 | 2017-08-02 |
 | Artigo 245.º-C | [artigo-245-c.md](artigo-245-c.md) | 1 | 2020-08-26 |
 | Artigo 246.º | [artigo-246.md](artigo-246.md) | 3 | 2016-06-04 |
@@ -328,7 +328,7 @@ In force since 1999-12-11; 59 days with versions in the Diário da República (t
 | Artigo 251.º-F | [artigo-251-f.md](artigo-251-f.md) | 1 | 2022-01-01 |
 | Artigo 251.º-G | [artigo-251-g.md](artigo-251-g.md) | 1 | 2022-01-01 |
 | Artigo 251.º-H | [artigo-251-h.md](artigo-251-h.md) | 1 | 2022-01-01 |
-| Artigo 252.º | [artigo-252.md](artigo-252.md) | 6 | 2022-01-01 |
+| Artigo 252.º | [artigo-252.md](artigo-252.md) | 5 | 2022-01-01 |
 | Artigo 257.º-A | [artigo-257-a.md](artigo-257-a.md) | 2 | 2022-01-01 |
 | Artigo 257.º-B | [artigo-257-b.md](artigo-257-b.md) | 2 | 2022-01-01 |
 | Artigo 257.º-C | [artigo-257-c.md](artigo-257-c.md) | 2 | 2022-01-01 |
@@ -337,35 +337,35 @@ In force since 1999-12-11; 59 days with versions in the Diário da República (t
 | Artigo 257.º-F | [artigo-257-f.md](artigo-257-f.md) | 3 | 2026-09-01 |
 | Artigo 257.º-G | [artigo-257-g.md](artigo-257-g.md) | 4 | 2026-09-01 |
 | Artigo 257.º-H | [artigo-257-h.md](artigo-257-h.md) | 2 | 2022-01-01 |
-| Artigo 258.º | [artigo-258.md](artigo-258.md) | 5 | 2022-01-01 |
+| Artigo 258.º | [artigo-258.md](artigo-258.md) | 4 | 2022-01-01 |
 | Artigo 259.º | [artigo-259.md](artigo-259.md) | 2 | 2014-04-17 |
 | Artigo 260.º | [artigo-260.md](artigo-260.md) | 2 | 2014-04-17 |
 | Artigo 265.º | [artigo-265.md](artigo-265.md) | 4 | 2022-01-01 |
-| Artigo 266.º | [artigo-266.md](artigo-266.md) | 2 | 2007-11-01 |
+| Artigo 266.º | [artigo-266.md](artigo-266.md) | 1 | 2007-11-01 |
 | Artigo 267.º | [artigo-267.md](artigo-267.md) | 3 | 2022-12-10 |
 | Artigo 268.º | [artigo-268.md](artigo-268.md) | 3 | 2014-04-17 |
 | Artigo 269.º | [artigo-269.md](artigo-269.md) | 2 | 2022-01-01 |
 | Artigo 270.º | [artigo-270.md](artigo-270.md) | 0 |  |
 | Artigo 271.º | [artigo-271.md](artigo-271.md) | 2 | 2013-02-07 |
 | Artigo 272.º | [artigo-272.md](artigo-272.md) | 3 | 2026-09-01 |
-| Artigo 273.º | [artigo-273.md](artigo-273.md) | 4 | 2018-08-01 |
-| Artigo 274.º | [artigo-274.md](artigo-274.md) | 4 | 2018-08-01 |
-| Artigo 275.º | [artigo-275.md](artigo-275.md) | 1 | 2000-03-01 |
+| Artigo 273.º | [artigo-273.md](artigo-273.md) | 3 | 2018-08-01 |
+| Artigo 274.º | [artigo-274.md](artigo-274.md) | 3 | 2018-08-01 |
+| Artigo 275.º | [artigo-275.md](artigo-275.md) | 0 |  |
 | Artigo 276.º | [artigo-276.md](artigo-276.md) | 1 | 2007-11-01 |
 | Artigo 277.º | [artigo-277.md](artigo-277.md) | 0 |  |
-| Artigo 278.º | [artigo-278.md](artigo-278.md) | 4 | 2018-08-01 |
+| Artigo 278.º | [artigo-278.md](artigo-278.md) | 3 | 2018-08-01 |
 | Artigo 279.º | [artigo-279.md](artigo-279.md) | 3 | 2018-08-01 |
 | Artigo 280.º | [artigo-280.md](artigo-280.md) | 3 | 2014-04-17 |
 | Artigo 281.º | [artigo-281.md](artigo-281.md) | 4 | 2018-08-01 |
 | Artigo 282.º | [artigo-282.md](artigo-282.md) | 0 |  |
-| Artigo 283.º | [artigo-283.md](artigo-283.md) | 4 | 2011-07-04 |
+| Artigo 283.º | [artigo-283.md](artigo-283.md) | 3 | 2011-07-04 |
 | Artigo 284.º | [artigo-284.md](artigo-284.md) | 2 | 2014-04-17 |
 | Artigo 285.º | [artigo-285.md](artigo-285.md) | 1 | 2022-01-01 |
 | Artigo 286.º | [artigo-286.md](artigo-286.md) | 1 | 2013-02-07 |
-| Artigo 287.º | [artigo-287.md](artigo-287.md) | 5 | 2018-08-01 |
+| Artigo 287.º | [artigo-287.md](artigo-287.md) | 4 | 2018-08-01 |
 | Artigo 288.º | [artigo-288.md](artigo-288.md) | 0 |  |
 | Artigo 288.º-A | [artigo-288-a.md](artigo-288-a.md) | 2 | 2022-01-01 |
-| Artigo 289.º | [artigo-289.md](artigo-289.md) | 10 | 2026-09-01 |
+| Artigo 289.º | [artigo-289.md](artigo-289.md) | 9 | 2026-09-01 |
 | Artigo 290.º | [artigo-290.md](artigo-290.md) | 2 | 2018-08-01 |
 | Artigo 291.º | [artigo-291.md](artigo-291.md) | 3 | 2022-01-01 |
 | Artigo 292.º | [artigo-292.md](artigo-292.md) | 2 | 2022-01-01 |
@@ -431,7 +431,7 @@ In force since 1999-12-11; 59 days with versions in the Diário da República (t
 | Artigo 314.º-D | [artigo-314-d.md](artigo-314-d.md) | 3 | 2022-01-01 |
 | Artigo 315.º | [artigo-315.md](artigo-315.md) | 3 | 2022-01-01 |
 | Artigo 316.º | [artigo-316.md](artigo-316.md) | 3 | 2022-01-01 |
-| Artigo 317.º | [artigo-317.md](artigo-317.md) | 4 | 2018-08-01 |
+| Artigo 317.º | [artigo-317.md](artigo-317.md) | 3 | 2018-08-01 |
 | Artigo 317.º-A | [artigo-317-a.md](artigo-317-a.md) | 2 | 2018-08-01 |
 | Artigo 317.º-B | [artigo-317-b.md](artigo-317-b.md) | 2 | 2018-08-01 |
 | Artigo 317.º-C | [artigo-317-c.md](artigo-317-c.md) | 2 | 2018-08-01 |
@@ -441,7 +441,7 @@ In force since 1999-12-11; 59 days with versions in the Diário da República (t
 | Artigo 317.º-G | [artigo-317-g.md](artigo-317-g.md) | 2 | 2022-01-01 |
 | Artigo 317.º-H | [artigo-317-h.md](artigo-317-h.md) | 2 | 2022-01-01 |
 | Artigo 317.º-I | [artigo-317-i.md](artigo-317-i.md) | 1 | 2018-08-01 |
-| Artigo 318.º | [artigo-318.md](artigo-318.md) | 2 | 2007-11-01 |
+| Artigo 318.º | [artigo-318.md](artigo-318.md) | 1 | 2007-11-01 |
 | Artigo 319.º | [artigo-319.md](artigo-319.md) | 2 | 2007-11-01 |
 | Artigo 320.º | [artigo-320.md](artigo-320.md) | 1 | 2007-11-01 |
 | Artigo 321.º | [artigo-321.md](artigo-321.md) | 4 | 2022-01-01 |
@@ -457,15 +457,15 @@ In force since 1999-12-11; 59 days with versions in the Diário da República (t
 | Artigo 329.º | [artigo-329.md](artigo-329.md) | 2 | 2018-08-01 |
 | Artigo 330.º | [artigo-330.md](artigo-330.md) | 4 | 2026-09-01 |
 | Artigo 334.º | [artigo-334.md](artigo-334.md) | 2 | 2018-08-01 |
-| Artigo 335.º | [artigo-335.md](artigo-335.md) | 2 | 2007-11-01 |
+| Artigo 335.º | [artigo-335.md](artigo-335.md) | 1 | 2007-11-01 |
 | Artigo 336.º | [artigo-336.md](artigo-336.md) | 1 | 2007-11-01 |
 | Artigo 337.º | [artigo-337.md](artigo-337.md) | 2 | 2022-01-01 |
 | Artigo 338.º | [artigo-338.md](artigo-338.md) | 0 |  |
-| Artigo 339.º | [artigo-339.md](artigo-339.md) | 1 | 2000-03-01 |
+| Artigo 339.º | [artigo-339.md](artigo-339.md) | 0 |  |
 | Artigo 340.º | [artigo-340.md](artigo-340.md) | 0 |  |
 | Artigo 341.º | [artigo-341.md](artigo-341.md) | 0 |  |
 | Artigo 343.º | [artigo-343.md](artigo-343.md) | 1 | 2007-11-01 |
-| Artigo 345.º | [artigo-345.md](artigo-345.md) | 2 | 2007-11-01 |
+| Artigo 345.º | [artigo-345.md](artigo-345.md) | 1 | 2007-11-01 |
 | Artigo 346.º | [artigo-346.md](artigo-346.md) | 2 | 2018-08-01 |
 | Artigo 347.º | [artigo-347.md](artigo-347.md) | 1 | 2007-11-01 |
 | Artigo 348.º | [artigo-348.md](artigo-348.md) | 2 | 2007-11-01 |
@@ -584,8 +584,8 @@ In force since 1999-12-11; 59 days with versions in the Diário da República (t
 | Artigo 9.º | [decreto-lei-486-99/artigo-009.md](decreto-lei-486-99/artigo-009.md) | 0 |  |
 | Artigo 10.º | [decreto-lei-486-99/artigo-010.md](decreto-lei-486-99/artigo-010.md) | 0 |  |
 | Artigo 11.º | [decreto-lei-486-99/artigo-011.md](decreto-lei-486-99/artigo-011.md) | 0 |  |
-| Artigo 12.º | [decreto-lei-486-99/artigo-012.md](decreto-lei-486-99/artigo-012.md) | 1 | 2000-01-01 |
+| Artigo 12.º | [decreto-lei-486-99/artigo-012.md](decreto-lei-486-99/artigo-012.md) | 1 | 2000-03-01 |
 | Artigo 13.º | [decreto-lei-486-99/artigo-013.md](decreto-lei-486-99/artigo-013.md) | 0 |  |
 | Artigo 14.º | [decreto-lei-486-99/artigo-014.md](decreto-lei-486-99/artigo-014.md) | 0 |  |
 | Artigo 15.º | [decreto-lei-486-99/artigo-015.md](decreto-lei-486-99/artigo-015.md) | 0 |  |
-| Assinatura | [decreto-lei-486-99/assinatura.md](decreto-lei-486-99/assinatura.md) | 1 | 2000-01-01 |
+| Assinatura | [decreto-lei-486-99/assinatura.md](decreto-lei-486-99/assinatura.md) | 0 |  |
