@@ -1,0 +1,15 @@
+Decreto-Lei n.º 162/89
+de 13 de Maio
+O artigo 34.º da Lei n.º 108/88, de 24 de Setembro - Lei da Autonomia das Universidades -, apenas revogou expressamente, na sua alínea b), os artigos 60.º e 61.º do Decreto-Lei n.º 781-A/76, de 28 de Outubro, diploma que define os órgãos de governo dos estabelecimentos de ensino superior universitário. Criou-se, assim, alguma dúvida quanto à vigência do Decreto-Lei n.º 781-A/76 na parte não expressamente revogada, agravada ainda com o confronto entre a aludida alínea b) do artigo 34.º da Lei n.º 108/88 e o corpo do mesmo artigo.
+Por outro lado, o artigo 5.º da Lei da Autonomia das Universidades remete para os estatutos a definição das «normas fundamentais da sua organização interna, nos planos científico, pedagógico, financeiro e administrativo, bem como o regime das autonomias das respectivas unidades orgânicas», sendo que, por esta via, e face à dúvida existente quanto à não revogação da quase totalidade do Decreto-Lei n.º 781-A/76, se poderão suscitar graves perplexidades no momento da entrada em vigor dos estatutos de cada universidade.
+Nestes termos, e atendendo a que a não revogação do Decreto-Lei n.º 781-A/76 obedeceu, naturalmente, à necessidade de prevenir o vazio que existiria no período decorrente entre a entrada em vigor da Lei n.º 108/88 e o início da vigência dos estatutos de cada instituição universitária, importa agora estabelecer o regime de derrogação daquele decreto-lei em relação a cada universidade.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+Artigo único. - 1 - Com a entrada em vigor dos estatutos de cada universidade, o regime de organização, gestão e governo da instituição passa a ser o aí definido.
+2 - A partir do momento a que se refere o número anterior deixa de ser aplicável à universidade em causa o Decreto-Lei n.º 781-A/76, de 28 de Outubro, na parte regulada por disposições dos estatutos aprovados.
+Visto e aprovado em Conselho de Ministros de 27 de Abril de 1989. - Aníbal António Cavaco Silva - Roberto Artur da Luz Carneiro.
+Promulgado em 2 de Maio de 1989.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 5 de Maio de 1989.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
