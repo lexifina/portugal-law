@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que Portugal efectuou junto do Ministério dos Negócios Estrangeiros dos Países Baixos, em 12 de Março de 1975, o depósito do seu instrumento de ratificação da Convenção sobre a Obtenção de Provas no Estrangeiro em Matéria Civil ou Comercial, concluída na Haia em 18 de Março de 1970.
+Em conformidade com o parágrafo 2.º do artigo 38.º da Convenção, esta entrará em vigor para Portugal no dia 11 de Maio de 1975 e encontra-se já em vigor para os seguintes países, que também a ratificaram: Dinamarca, Noruega, Estados Unidos da América e França (encontra-se em vigor para os três primeiros desde 7 de Outubro de 1972 e para o último desde 6 de Outubro de 1974).
+Secretaria-Geral do Ministério, 24 de Março de 1975. - O Chefe dos Serviços Jurídicos e de Tratados, Mário d'Oliveira Neves.
