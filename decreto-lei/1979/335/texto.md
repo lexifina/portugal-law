@@ -1,0 +1,15 @@
+Decreto-Lei n.º 335/79
+de 24 de Agosto
+Pelo Decreto-Lei n.º 386/78, de 6 de Dezembro, foram criadas, embora a título precário, condições para o lançamento, no ano escolar de 1978/1979, de alguns jardins-de-infância oficiais.
+A Portaria n.º 786/78, elaborada com base no disposto no artigo 1.º do citado decreto-lei, veio, no seu mapa anexo, indicar quais os jardins-de-infância que entravam em funcionamento no referido ano escolar de 1978/1979.
+Importa dotar os mencionados estabelecimentos de educação pré-escolar de pessoal auxiliar e estabelecer as regras para a sua selecção e recrutamento.
+Nestes termos:
+O Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º O quadro único estabelecido pelo Decreto-Lei n.º 291/75, de 14 de Junho, passa a compreender o pessoal auxiliar dos estabelecimentos oficiais de educação pré-escolar.
+Art. 2.º As dotações de pessoal auxiliar para os estabelecimentos referidos no artigo anterior e as regras para a sua fixação serão estabelecidas por despacho conjunto dos Ministros da Educação e Investigação Científica e das Finanças e do Plano e do membro que tiver a seu cargo a Administração Pública.
+Art. 3.º O recrutamento de pessoal para os estabelecimentos de ensino a que se refere o artigo 1.º far-se-á segundo as normas em vigor para a selecção de pessoal auxiliar dos estabelecimentos dos ensinos básico e secundário.
+Art. 4.º Os encargos resultantes da execução do presente diploma serão suportados, no corrente ano económico, pelas disponibilidades das verbas destinadas ao pagamento de remunerações certas ao pessoal dos quadros aprovados por lei no ensino primário.
+Visto e aprovado em Conselho de Ministros de 11 de Julho de 1979. - Carlos Alberto da Mota Pinto - Luís Francisco Valente de Oliveira - António Jorge de Figueiredo Lopes - João Pinto Ribeiro.
+Promulgado em 8 de Agosto de 1979.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
