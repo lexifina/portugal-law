@@ -1,0 +1,3 @@
+Portaria n.º 20684
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do § 1.º do artigo 4.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, reforçar com a quantia de 2798$50 a verba do artigo 12.º «Diversos encargos - Despesas de deslocação, subsídio de viagem e de marcha», do orçamento privativo do Instituto de Medicina Tropical para o corrente ano económico, tomando como contrapartida as disponibilidades existentes no artigo 26.º «Diversos encargos - Assistência técnica a países africanos», do referido orçamento.
+Ministério do Ultramar, 14 de Julho de 1964. - Pelo Ministro do Ultramar, Joaquim Moreira da Silva Cunha, Subsecretário de Estado da Administração Ultramarina.
