@@ -20,18 +20,28 @@ f) Provedor de Justiça;
 
 g) Ministro da República para as regiões autónomas;
 
-h) Governador do território de Macau;
+h) Governador e secretário-adjunto do Governo de Macau;
 
 i) Membro dos órgãos de governo próprio das regiões autónomas;
 
-j) Presidente ou vice-presidente do Conselho Nacional do Plano;
+j) Alto-comissário contra a Corrupção;
 
-l) Governador ou vice-governador civil;
+l) Procurador-geral da República;
 
-m) Embaixador;
+m) Presidente do Tribunal de Contas;
 
-n) Presidente de câmara municipal;
+n) Presidente e vice-presidente do Conselho Nacional do Plano;
 
-o) Vereador a tempo inteiro de câmara municipal;
+o) Governador ou vice-governador civil;
 
-p) Gestor público ou dirigente de instituto público autónomo.
+p) Membro do Conselho de Comunicação Social;
+
+q) Embaixador;
+
+r) Presidente de câmara municipal;
+
+s) Vereador a tempo inteiro de câmara municipal;
+
+t) Gestor público ou dirigente de instituto público autónomo.
+
+3 - A subvenção mensal vitalícia é ainda suspensa sempre que o respectivo titular assuma cargo público, nomeadamente o do gestor público, não incluído no número anterior, pelo qual aufira remuneração mensal não inferior ao vencimento do cargo a que se refere o n.º 1 do artigo 25.º
