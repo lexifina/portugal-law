@@ -1,0 +1,426 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "tipo": "Projeto de Resolução",
+  "numero": "14",
+  "id": "27937",
+  "fases": 9,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "1988-05-20",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "1988-10-14",
+    "DataInicioleg": "1987-08-13",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "39",
+        "nome": "Dinah Alhandra"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1649",
+        "nome": "José Luís Ramos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "63",
+        "nome": "João Salgado"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "66",
+        "nome": "João  Matos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "37",
+        "nome": "Cecília  Catarino"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "47",
+        "nome": "Fernando Pereira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3056",
+        "nome": "Mary Correia e Lança"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "117",
+        "nome": "Maria Manuela Aguiar"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2997",
+        "nome": "João Belém"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2975",
+        "nome": "Evaristo Oliveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "111",
+        "nome": "Conceição Castro Pereira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "320",
+        "nome": "António Sousa Lara"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1650",
+        "nome": "Armando Militão"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "125",
+        "nome": "Nuno Delerue"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "313",
+        "nome": "Mário Montalvão Machado"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2976",
+        "nome": "Fernando Conceição"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2947",
+        "nome": "Carla Diogo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3019",
+        "nome": "José Manuel Casqueiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4",
+        "nome": "Adérito Campos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "108",
+        "nome": "Manuel Moreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2932",
+        "nome": "António de Carvalho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1582",
+        "nome": "António Ribeiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2911",
+        "nome": "Abílio Guedes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "130",
+        "nome": "Rui Salvada"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2965",
+        "nome": "Cristóvão  Norte"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3027",
+        "nome": "Lalanda Ribeiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "127",
+        "nome": "Pedro Holstein Campilho"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "229",
+        "nome": "Narana Coissoró"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "22",
+        "nome": "António Bacelar"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3039",
+        "nome": "Manuel Freixo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "34",
+        "nome": "Carlos Oliveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "23",
+        "nome": "Aristides Teixeira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3000",
+        "nome": "João Montenegro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "57",
+        "nome": "Hilário Marques"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "238",
+        "nome": "Carvalho Martins"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3016",
+        "nome": "José Francisco Amaral"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3041",
+        "nome": "Manuel Sá Fernandes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2981",
+        "nome": "Fernando Rocha"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "65",
+        "nome": "João Granja da Fonseca"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "138",
+        "nome": "Virgilio Carneiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "6",
+        "nome": "Cerqueira de Oliveira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "137",
+        "nome": "Vasco Miguel"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2967",
+        "nome": "Daniel Bastos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "56",
+        "nome": "Guido Rodrigues"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "73",
+        "nome": "Fernandes Marques"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "133",
+        "nome": "Rui Gomes da Silva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "18",
+        "nome": "António Maria Pereira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "250",
+        "nome": "Luís Neves Rodrigues"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "16",
+        "nome": "Motta Veiga"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "77",
+        "nome": "José Cesário"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "99",
+        "nome": "Luís Pais de Sousa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "384",
+        "nome": "Vieira de Castro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3079",
+        "nome": "Vargas Bulcão"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7",
+        "nome": "Alberto Araújo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "20",
+        "nome": "Paulo Pereira Coelho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3013",
+        "nome": "José Coito Pita"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "75",
+        "nome": "Jorge Roque Cunha"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3078",
+        "nome": "Valdemar Alves"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3048",
+        "nome": "Maria Antónia Melo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2936",
+        "nome": "António Matos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "67",
+        "nome": "João Maçãs"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3077",
+        "nome": "Silva Torres"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "79",
+        "nome": "Ângelo Correia"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3",
+        "nome": "Adão Silva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "237",
+        "nome": "Cardoso Ferreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2926",
+        "nome": "António Barbosa de Azevedo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "43",
+        "nome": "Eduardo da Silva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "115",
+        "nome": "Maria Luísa Ferreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "74",
+        "nome": "Vilela de Araújo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3046",
+        "nome": "Margarida Borges de Carvalho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3061",
+        "nome": "Natalina Pintão"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "27",
+        "nome": "Belarmino Correia"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "123",
+        "nome": "Miguel Macedo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "40",
+        "nome": "Duarte Lima"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "273",
+        "nome": "Carlos Pinto"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      },
+      {
+        "GP": "CDS"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "27937",
+    "IniLeg": "V",
+    "IniLinkTexto": "",
+    "IniNr": "14",
+    "IniObs": "Relatório final e declarações de voto apresentadas pelo PS, PCP e pelo deputado independente João Corregedor da Fonseca: DAR II S B n.º 31, de 191-05-25; \nApreciação do Relatório da Comissão: DAR I S 93, de 1991-06-18",
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Constituição de uma comissão eventual de inquérito para continuar e averiguar, por forma  cabal, as causas e circunstâncias em que ocorreu a tragédia que vitimou, em 4 de Dezembro de 1980, o Sr. Primeiro Ministro Dr. Francisco Sá Carneiro, o Sr. Ministro da Defesa Nacional Engº Adelino Amaro da Costa e seus acompanhantes (Camarate)",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
