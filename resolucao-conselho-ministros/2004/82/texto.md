@@ -1,0 +1,9 @@
+Resolução do Conselho de Ministros n.º 82/2004
+A Resolução do Conselho de Ministros n.º 24/2004, de 3 de Março, aprovou a minuta do contrato de investimento e respectivos anexos a celebrar entre o Estado Português, representado pela Agência Portuguesa para o Investimento, E. P. E., a NEOTREV - Indústria de Plásticos, S. A., e a SELENIS - Indústria de Polímeros, S. A., para a realização do projecto de investimento que tem por objecto a expansão de uma unidade industrial desta última em Portalegre.
+Antes da assinatura do referido contrato verificou-se, porém, ter ocorrido a fusão por incorporação da NEOTREV na SELENIS, daí resultando a extinção da sociedade que se vincularia contratualmente na qualidade de sócia da promotora.
+Deve ser pois a actual sócia da SELENIS, a Control Pet, S. G. P. S., S. A., a obrigar-se neste contrato em substituição da NEOTREV, o que implica algumas alterações no clausulado das minutas dos contratos já aprovadas.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Revogar o n.º 1 da Resolução do Conselho de Ministros n.º 24/2004, de 3 de Março.
+2 - Aprovar a minuta do contrato de investimento e respectivos anexos, a celebrar entre o Estado Português, representado pela Agência Portuguesa para o Investimento, E. P. E. (API), a Control Pet, S. G. P. S., S. A., com sede na Quinta de Portos, Lama, Santo Tirso, e a SELENIS - Indústria de Polímeros, S. A., com sede na Quinta de São Vicente, Estrada Nacional n.º 246, Portalegre, para a realização do projecto de investimento que tem por objecto a expansão de uma unidade industrial desta última em Portalegre, ficando o original do contrato arquivado na API.
+Presidência do Conselho de Ministros, 3 de Junho de 2004. - O Primeiro-Ministro, José Manuel Durão Barroso.
