@@ -4,8 +4,8 @@
 
 1 - A apresentação de candidaturas cabe aos órgãos competentes dos partidos políticos.
 
-2 - A apresentação faz-se até ao 41.º dia anterior à data prevista para as eleições perante o juiz presidente da comarca com sede na capital do distrito ou região autónoma que constitua o círculo eleitoral.
+2 - A apresentação faz-se entre os setenta e os cinquenta e cinco dias anteriores à data prevista para as eleições, perante o juiz do círculo judicial com sede na capital do circulo eleitoral.
 
-3 - O presidente do tribunal de comarca pode delegar em magistrado de secção da instância central da comarca a competência referida no número anterior, caso em que a este caberá conduzir até ao seu termo o processo de apresentação de candidaturas, no âmbito do mesmo tribunal.
+3 - Nos círculos eleitorais com sede em Lisboa e Porto a apresentação faz-se perante o juiz do 1.º Juízo Cível.
 
-4 - (Revogado.)
+4 - Nos círculos das Regiões Autónomas dos Açores e da Madeira a apresentação faz-se perante o juiz do círculo judicial com sede na respectiva capital.

@@ -1,19 +1,15 @@
 # Artigo 50.º
 
-### Poderes dos delegados
+### Poderes dos delegados das listas
 
 1 - Os delegados das listas têm os seguintes poderes:
 
-a) Ocupar os lugares mais próximos da mesa, de modo a poder fiscalizar todas as operações de votação;
+a) Ocupar os lugares mais próximos da mesa, por forma que possam fiscalizar plenamente todas as operações eleitorais;
 
-b) Consultar a todo o momento as cópias dos cadernos de recenseamento eleitoral utilizadas pela mesa da assembleia de voto;
+b) Ser ouvidos em todas as questões que se suscitarem durante o funcionamento da assembleia de voto, quer durante a votação, quer durante o apuramento;
 
-c) Ser ouvidos e esclarecidos acerca de todas as questões suscitadas durante o funcionamento da assembleia de voto, quer na fase de votação, quer na fase de apuramento;
+c) Assinar a acta, rubricar, selar e lacrar todos os documentos respeitantes às operações eleitorais;
 
-d) Apresentar, oralmente ou por escrito, reclamações, protestos ou contraprotestos relativos às operações de voto;
+d) Obter todas as certidões que requererem sobre as operações de votação e apuramento.
 
-e) Assinar a acta e rubricar, selar e lacrar todos os documentos respeitantes às operações de voto;
-
-f) Obter certidões das operações de votação e apuramento.
-
-2 - Os delegados das listas não podem ser designados para substituir membros da mesa faltosos.
+2 - Os delegados das listas não podem ser detidos durante o funcionamento da assembleia de voto, a não ser em flagrante delito de crime punível com pena maior.

@@ -1,21 +1,17 @@
 # Artigo 95.º
 
-### Boletins de voto e matrizes em braille
+### Boletins de voto
 
 1 - Os boletins de voto são de forma rectangular, com ao dimensões apropriadas para neles caber a indicação de todas as listas submetidas à votação em cada círculo e são impressos em papel branco, liso e não transparente.
 
-2 - Em cada boletim de voto são impressos, de harmonia com o modelo anexo a esta lei, as denominações, as siglas e os símbolos dos partidos e coligações proponentes de candidaturas, dispostos horizontalmente, uns abaixo dos outros, pela ordem resultante do sorteio efectuado nos termos do artigo 31.º, os quais devem reproduzir os constantes do registo ou da anotação do Tribunal Constitucional, conforme os casos, devendo os símbolos respeitar rigorosamente a composição, a configuração e as proporções dos registados ou anotados.
+2 - Em cada boletim de voto são impressos, de harmonia com o modelo anexo a esta lei, as denominações, as siglas e os símbolos dos partidos e coligações proponentes de candidaturas, dispostos horizontalmente, uns abaixo dos outros, pela ordem resultante do sorteio efectuado nos termos do artigo 31.º, os quais devem reproduzir os constantes do registo do Supremo Tribunal de Justiça ou da anotação da Comissão Nacional de Eleições, conforme os casos, devendo os símbolos respeitar rigorosamente a composição, a configuração e as proporções dos registados ou anotados.
 
 3 - Na linha correspondente a cada partido ou coligação figura um quadrado em branco, destinado a ser assinalado com a escolha do eleitor.
 
-4 - São elaboradas matrizes em braille dos boletins de voto, em tudo idênticas a estes e com os espaços correspondentes aos quadrados das listas concorrentes.
+4 - A impressão dos boletins de voto é encargo do Estado, através do Ministério da Administração Interna, competindo a sua execução à Imprensa Nacional-Casa da Moeda.
 
-5 - A impressão dos boletins de voto e a elaboração das matrizes em braille constitui encargo do Estado, através da administração eleitoral da Secretaria-Geral do Ministério da Administração Interna, competindo a execução dos primeiros à Imprensa Nacional-Casa da Moeda, S. A.
+5 - O governador civil ou, nas regiões autónomas, o Ministro da República remete a cada presidente de câmara municipal ou de comissão administrativa municipal, ou, nos municípios onde existirem bairros administrativos, ao administrador de bairro, os boletins de voto para que este cumpra o preceituado no n.º 2 do artigo 52.º
 
-6 - A administração eleitoral da Secretaria-Geral do Ministério da Administração Interna ou, nas regiões autónomas, o Representante da República remete a cada presidente da câmara municipal os boletins de voto e as matrizes em braille para que este cumpra o preceituado no n.º 2 do artigo 52.º
+6 - Os boletins de voto, em número igual ao dos eleitores inscritos na assembleia ou secção de voto mais 20%, são remetidos em sobrescrito fechado e lacrado.
 
-7 - Os boletins de voto, em número igual ao dos eleitores inscritos na assembleia ou secção de voto mais 20 %, bem como as respetivas matrizes em braille em número não inferior a duas por cada assembleia ou secção de voto, são remetidos em sobrescrito fechado e lacrado.
-
-8 - O presidente da câmara municipal e os presidentes das assembleias ou secções de voto prestam contas ao juiz presidente do tribunal da comarca com sede na capital do distrito ou região autónoma dos boletins de voto e das matrizes em braille que receberam, devendo os presidentes das assembleias ou secções de voto devolver-lhe, no dia seguinte ao da eleição, os boletins não utilizados e os boletins deteriorados ou inutilizados pelos eleitores, bem como as matrizes em braille.
-
-9 - Tratando-se de assembleias de voto que reúnam fora do território nacional, as competências atribuídas ao presidente da câmara municipal no número anterior são deferidas ao presidente da comissão recenseadora.
+7 - O presidente da câmara municipal ou da comissão administrativa municipal ou, nos municípios onde existirem bairros administrativos, o administrador de bairro e os presidentes das assembleias ou secções de voto prestam contas ao governador civil ou, nas regiões autónomas, ao Ministro da República dos boletins de voto que tiverem recebido, devendo os presidentes das assembleias ou secções de voto devolver-lhe no dia seguinte ao das eleições os boletins não utilizados e os boletins deteriorados ou inutilizados pelos eleitores.

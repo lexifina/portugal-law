@@ -11,5 +11,3 @@
 4 - Se até uma hora após a hora marcada para a abertura da assembleia for impossível constituir a mesa por não estarem presentes os membros indispensáveis ao seu funcionamento, o presidente da junta de freguesia designa, mediante acordo unânime dos delegados de lista presentes, substitutos dos membros ausentes, de entre cidadãos eleitores de reconhecida idoneidade inscritos nessa assembleia ou secção, considerando sem efeito a partir deste momento a designação dos anteriores membros da mesa que não tenham comparecido.
 
 5 - Os membros das mesas de assembleias eleitorais são dispensados do dever de comparência ao respectivo emprego ou serviço no dia das eleições e no dia seguinte, sem prejuízo de todos os seus direitos e regalias, incluindo o direito à retribuição, devendo para o efeito fazer prova bastante dessa qualidade.
-
-6 - No estrangeiro, idêntico direito é atribuído aos membros da mesa que exerçam funções em entidades ou serviços oficiais nacionais.

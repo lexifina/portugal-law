@@ -2,10 +2,8 @@
 
 ### Distribuição dos tempos reservados
 
-1 - Os tempos de emissão reservados pela Radiotelevisão Portuguesa, S. A., pelas estações privadas de televisão, pela Radiodifusão Portuguesa, S. A., ligada a todos os seus emissores, e pelas estações privadas de radiodifusão de âmbito nacional são atribuídos, de modo proporcional, aos partidos políticos e coligações que hajam apresentado um mínimo de 25% do número total de candidatos e concorrido em igual percentagem do número total de círculos.
+1 - Os tempos de emissão reservados pela Radiotelevisão Portuguesa, pela Radiodifusão Portuguesa ligada a todos os seus emissores e pelas estações de rádio privadas cujas emissões abranjam todo ou a maior parte do continente são atribuídos aos partidos políticos e coligações que hajam apresentado o mínimo de cinquenta candidatos e concorrido no mínimo de cinco círculos e são repartidos em proporção do número de candidatos apresentados.
 
-2 - Os tempos de emissão reservados pelos emissores internacional e regionais da Radiodifusão Portuguesa, S. A., e pelas estações privadas de âmbito regional e local são repartidos em igualdade entre os partidos políticos e as coligações que tiverem apresentado candidatos no círculo ou num dos círculos eleitorais cobertos, no todo ou na sua maior parte, pelas respetivas emissões.
+2 - Os tempos de emissão reservados pelos emissores regionais da Radiodifusão Portuguesa e pelas estações privadas de âmbito regional ou local são repartidos em igualdade entre os partidos políticos e as coligações que tiverem apresentado candidatos no círculo ou num dos círculos eleitorais cobertos no todo ou na sua maior parte pelas respectivas emissões.
 
-3 - A Comissão Nacional de Eleições, até três dias antes da abertura da campanha eleitoral, organiza, relativamente às emissões a que se refere o n.º 2 do artigo anterior, de acordo com os critérios referidos nos números anteriores, tantas séries de emissões quantos os partidos políticos e as coligações com direito a elas, procedendo-se a sorteio entre os que estiverem colocados em posição idêntica.
-
-4 - Para os sorteios previstos no presente artigo são convocados os representantes das candidaturas.
+3 - A Comissão Nacional de Eleições, até três dias antes da abertura da campanha eleitoral, organiza, de acordo com os critérios referidos nos números anteriores, tantas séries de emissões quantos os partidos políticos e as coligações com direito a elas, procedendo-se a sorteio entre os que estiverem colocados em posição idêntica.

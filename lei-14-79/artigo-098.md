@@ -1,6 +1,6 @@
 # Artigo 98.º
 
-### Voto branco ou nulo
+### Voto em branco ou nulo
 
 1 - Considera-se voto em branco o do boletim de voto que não tenha sido objecto de qualquer tipo de marca.
 
@@ -14,4 +14,4 @@ c) No qual tenha sido feito qualquer corte, desenho ou rasura ou quando tenha si
 
 3 - Não se considera voto nulo o do boletim de voto no qual a cruz, embora não perfeitamente desenhada ou excedendo os limites do quadrado, assinale inequivocamente a vontade do eleitor.
 
-4 - Considera-se ainda nulo o voto antecipado e o voto postal quando o boletim de voto não chega ao seu destino nas condições previstas nos artigos 79.º-B, 79.º-C, 79.º-D, 79.º-E e 79.º-G ou seja recebido em sobrescrito que não esteja devidamente fechado.
+4 - Considera-se ainda como voto em branco o voto por correspondência quando o boletim de voto não chega ao seu destino nas condições previstas no artigo 79.º ou seja recebido em envelopes que não estejam devidamente fechados.
