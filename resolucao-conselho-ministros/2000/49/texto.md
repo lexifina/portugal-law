@@ -1,0 +1,13 @@
+Resolução do Conselho de Ministros n.º 49/2000
+As Indústrias Jomar - Madeiras e Derivados, S. A., pretendem desenvolver um projecto que visa a melhoria das características tecnológicas de um produto já existente - o painel de partículas de madeira, genericamente denominado «aglomerado cru» - e a produção de um novo produto - Combi.
+Este produto tem como objectivo explorar a combinação óptima das características de ambos os tipos de painéis, proporcionando um produto com novas ou mais adequadas aplicações, permitindo a sua penetração em determinados segmentos de mercado.
+A aposta num novo produto insere-se na postura estratégica de antecipação da empresa, a qual tem vindo a investir no desenvolvimento de novas aplicações onde possa explorar as suas competências tecnológicas.
+O posicionamento estratégico da empresa é de antecipação face às necessidades do mercado.
+O custo total do investimento é de 8,049 milhões de contos, encontrando-se nesta fase realizado em cerca de 90%. Espera-se atingir o ano cruzeiro em 2002.
+Serão criados 110 postos de trabalho directos, estando previsto um projecto associado a este destinado à recolha de resíduos de madeiras e que originará mais emprego.
+Face ao acima exposto, considera-se que este projecto reúne as condições necessárias à admissão ao regime contratual de investimento e à concessão de incentivos financeiros e benefícios fiscais previsto no Decreto-Lei n.º 409/99, de 15 de Outubro.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Aprovar as minutas do contrato de investimento e respectivos anexos a celebrar entre o Estado Português, representado pelo IAPMEI - Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento, e a sociedade anónima Indústrias Jomar - Madeiras e Derivados, S. A., com sede na Estrada Nacional n.º 107, Freixieiro, Perafita, em Matosinhos, com o capital social de 9500000000$00, para a realização de um projecto de inovação, modernização e expansão industrial.
+2 - Atento o disposto no n.º 1 do artigo 49.º-A do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de Julho, na redacção que lhe foi dada pela Lei n.º 87-B/98, de 31 de Dezembro, e por força do artigo 8.º do Decreto-Lei n.º 409/99, de 15 de Outubro, sob proposta do Ministro das Finanças, conceder os benefícios fiscais em sede de imposto sobre o rendimento de pessoas colectivas, contribuição autárquica e imposto do selo que constam do contrato de concessão de benefícios fiscais, cuja minuta, rubricada pelo Ministro das Finanças, ficará arquivada no IAPMEI.
+Presidência do Conselho de Ministros, 1 de Junho de 2000. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
