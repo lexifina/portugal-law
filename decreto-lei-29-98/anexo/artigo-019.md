@@ -8,10 +8,4 @@
 
 3 - A taxa de justiça inicial já paga será restituída, na parte em que exceder a sua responsabilidade, a quem a depositou.
 
-4 - O disposto nos números anteriores não se aplica ao procedimento de verificação e graduação de créditos em processo de execução fiscal, com exceção da restituição da taxa de justiça a quem a depositou, que poderá ocorrer numa das seguintes situações:
-
-a) Pagamento de taxa de justiça sem apresentação da reclamação de créditos respetiva;
-
-b) Pagamento em valor superior ao fixado na tabela a que se refere o n.º 4 do artigo 9.º, caso em que se restituirá apenas a diferença de valores.
-
-5 - (Eliminado.)
+4 - (Eliminado.)

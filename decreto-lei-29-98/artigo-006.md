@@ -6,14 +6,16 @@ Os reembolsos das despesas com papel e cadernetas prediais ficam a cargo dos int
 
 1) Papel dactilografado, manuscrito ou fotocopiado numa ou nas duas faces:
 
-a) Matrizes prediais, por cada prédio - 1/150 de UC;
+a) Matrizes prediais, por cada prédio - 1/200 de UC;
 
-b) De outras certidões ou certificados, por cada lauda - 1/150 de UC;
+b) De outras certidões ou certificados, por cada lauda - 1/200 de UC;
 
 2) Cadernetas prediais:
 
-a) Urbanas, cada uma - 1/100 de UC;
+a) Urbanas, cada uma - 1/150 de UC;
 
 b) Cadastrais:
 
-(ver documento original)
+(ver tabela no documento original)
+
+Os valores referidos são arredondados para a dezena de escudos imediatamente superior.

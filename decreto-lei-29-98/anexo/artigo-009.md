@@ -15,5 +15,3 @@
 2 - A taxa de justiça mínima constante da tabela a que se refere o número anterior não pode ser inferior a metade de 1 UC.
 
 3 - No processo de execução fiscal, a taxa de justiça não pode exceder o montante da quantia exequenda.
-
-4 - No caso de haver lugar a procedimento de verificação e graduação de créditos em processo de execução fiscal, é devida taxa de justiça inicial, nos termos da tabela anexa a este diploma, a qual é devida pelo credor ou credores reclamantes.
