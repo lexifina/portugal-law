@@ -1,0 +1,10 @@
+Portaria n.º 524/86
+de 15 de Setembro
+1 - Nos termos do n.º 6 da alínea b) do n.º 5.º da Portaria n.º 277/84, de 7 de Maio, com a redacção introduzida pela Portaria n.º 888/85, de 22 de Novembro, competiria à comissão liquidatária da Companhia Portuguesa de Pescas, S. A. R. L. (em liquidação), submeter o relatório e contas dos exercícios de 1982, 1983 e 1984 (até à extinção da empresa), bem como o inventário de todos os bens e direitos da empresa, à aprovação dos Secretários de Estado do Tesouro e das Pescas, até 3 de Março de 1986.
+2 - Nos termos da alínea a) do n.º 9.º da mesma portaria, a referida comissão liquidatária deveria ainda proceder, até 3 de Maio de 1986, à apreciação das reclamações e impugnações de créditos sobre a empresa que lhes foram apresentadas no processo de liquidação, assim como à publicação do mapa daqueles referidos créditos.
+3 - Porém, a situação contabilística da empresa, a necessidade de introduzir correcções em numerosas contas, após as necessárias conciliações, nomeadamente bancárias e de terceiros, e o grande volume e complexidade de créditos reclamados e a dificuldade da sua rigorosa graduação não permitiram, conforme fundamenta a comissão liquidatária, que aqueles prazos se possam cumprir.
+Assim, ao abrigo do artigo 7.º do Decreto-Lei n.º 139/84, de 7 de Maio:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Agricultura, Pescas e Alimentação, que os prazos previstos na Portaria n.º 277/84, de 7 de Maio, com a redacção da Portaria n.º 888/85, de 22 de Novembro, designadamente n.º 6 da alínea b) do n.º 5.º e na alínea a) do n.º 9.º, sejam alterados para 3 de Setembro de 1986 e 3 de Julho de 1987, respectivamente.
+Ministérios das Finanças e da Agricultura, Pescas e Alimentação.
+Assinada em 11 de Julho de 1986.
+Pelo Ministro das Finanças, Manuel Carlos Carvalho Fernandes, Secretário de Estado do Tesouro. - Pelo Ministro da Agricultura, Pescas e Alimentação, Jorge Manuel de Oliveira Godinho, Secretário de Estado das Pescas.
