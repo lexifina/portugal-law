@@ -1,0 +1,3 @@
+Aviso n.º 183/92
+Por ordem superior se torna público que a Bulgária depositou, junto da Secretária-Geral do Conselho da Europa, a 7 de Setembro de 1992, o instrumento de ratificação da Convenção de Salvaguarda dos Direitos do Homem e das Liberdades Fundamentais, aberta à assinatura dos Estados membros em Roma a 4 de Novembro de 1950, bem como do seu Protocolo Adicional, aberto à assinatura dos Estados membros em Paris a 20 de Março de 1952.
+Direcção-Geral dos Negócios Político-Económicos, 28 de Outubro de 1992. - O Director de Serviços dos Assuntos Multilaterais, António Nunes de Carvalho Santana Carlos.
