@@ -1,0 +1,13 @@
+Despacho Normativo n.º 142/83
+Considerando que a Comissão Nacional da UNESCO, constituída no âmbito do Ministério dos Negócios Estrangeiros pelo Decreto-Lei n.º 218/79, de 17 de Julho, tem o seu quadro de pessoal manifestamente desajustado em função das atribuições que lhe estão cometidas, o que condiciona a capacidade de resposta no apoio e desenvolvimento em Portugal dos programas e realizações da UNESCO;
+Considerando a necessidade de dotar minimamente este organismo com o pessoal julgado indispensável nas áreas específicas de tradutor-correspondente-intérprete, letra J, técnico auxiliar principal de biblioteca, arquivo e documentação, letra J, técnico auxiliar de 1.ª classe de biblioteca, arquivo e documentação, letra L, operador de reprografia de 3.ª classe, letra S;
+Considerando que o recurso ao recrutamento daquele pessoal no âmbito da função pública não tem resultado, dada a exaustão do quadro geral de adidos e a falta de candidatos vinculados à função pública;
+Considerando ainda que o recrutamento em apreço tem em vista a realização de contratos além do quadro, por forma a suprir as necessidades de serviço até ao reajustamento do respectivo quadro de pessoal:
+Determina-se, ao abrigo do disposto nas alíneas c) do n.º 2 e b) do n.º 3 do artigo 2.º do Decreto-Lei n.º 166/82, de 10 de Maio, o seguinte:
+1 - É descongelada a admissão, em regime de contrato além do quadro, na Comissão Nacional da UNESCO, até 31 de Dezembro de 1983, do seguinte pessoal:
+1 tradutor-correspondente-intérprete - letra J;
+1 técnico auxiliar principal de biblioteca, arquivo e documentação - letra J;
+2 técnicos auxiliares de 1.ª classe de biblioteca, arquivo e documentação - letra L;
+1 operador de reprografia de 3.ª classe - letra S.
+2 - Considera-se genérica e antecipadamente concedida a autorização do Ministro de Estado e das Finanças e do Plano e do Ministro da Reforma Administrativa prevista no n.º 1 do artigo 5.º do Decreto-Lei n.º 166/82, de 10 de Maio, relativamente às propostas de admissão do pessoal a que se refere o número anterior.
+Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano, dos Negócios Estrangeiros e da Reforma Administrativa, 18 de Fevereiro de 1983. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro dos Negócios Estrangeiros, Vasco Luís Caldeira Coelho Futscher Pereira. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
