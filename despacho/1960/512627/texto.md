@@ -1,0 +1,3 @@
+Despacho
+Mediante proposta do Ministro da Educação Nacional, o Conselho de Ministros resolve, nos termos do artigo 2.º do Decreto-Lei n.º 43000, de 1 de Junho de 1960, declarar como suficiente, em paralelo com o curso geral dos liceus, para efeitos de provimento do lugar de fotógrafo-desenhador da Faculdade de Medicina da Universidade de Lisboa, a habilitação dos cursos técnicos de formação de índole artística, entre eles o de bordadora-rendeira, regulado pelo Decreto n.º 20420, de 21 de Outubro de 1931.
+Presidência do Conselho, 6 de Dezembro de 1960. - Pelo Presidente do Conselho, o Ministro da Presidência, Pedro Theotónio Pereira.
