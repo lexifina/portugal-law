@@ -6,4 +6,6 @@
 
 2. A cada delegado e respectivo suplente será antecipadamente entregue uma credencial, a ser preenchida pelo próprio, devendo ser apresentada para assinatura e autenticação à autoridade referida no número anterior aquando da indicação nesse número exigida.
 
-3. Não é lícito aos candidatos impugnar a eleição nas secções de voto com base em falta de qualquer delegado.
+3. Até ao décimo dia anterior ao dia da eleição os candidatos ou mandatários das diferentes candidaturas poderão ainda apresentar ou completar a indicação de delegados, mas a designação referida no n.º 1 do artigo 38.º preferirá à de delegado, se recair na mesma pessoa.
+
+4. Não é lícito aos candidatos impugnar a eleição nas secções de voto com base em falta de qualquer delegado.
