@@ -1,0 +1,16 @@
+Portaria n.º 260/72
+de 10 Maio
+Considerando que ao Instituto de Acção Social Escolar compete a concessão de auxílios económicos a alunos carecidos de recursos;
+Considerando que convém uniformizar as condições a que deve subordinar-se a concessão de tais auxílios no ensino oficial secundário e do ciclo preparatório;
+Considerando que as condições estabelecidas há mais de dez anos pelo Decreto n.º 43363 para o ensino liceal estão já de tal modo desactualizadas que parte dos benefícios não são atribuídos por não haver candidatos por elas abrangidos;
+De harmonia com o disposto no artigo 4.º do Decreto-Lei n.º 608/71, de 30 de Dezembro:
+Manda o Governo da República Portuguesa, pelo Ministro da Educação Nacional, o seguinte:
+1.º - 1. O Instituto de Acção Social Escolar concede bolsas de estudo, isenções e reduções de propinas, subsídios ou outras formas de auxílio económico a alunos do ensino oficial secundário e do ciclo preparatório que careçam de recursos para prosseguimento dos seus estudos, nos termos dos números seguintes.
+2. Podem beneficiar da aplicação do artigo anterior os alunos cujos pais aufiram rendimento mensal líquido que, somado com o dos filhos menores, deduzida quantia de 5000$00, seja igual ou inferior ao produto do número de filhos menores por 1000$00.
+3. Se a residência dos pais se situar em localidade que, pela distância e falta de transportes relativamente à respectiva escola, não permita a regular frequência desta, considerar-se-á no produto mencionado no número anterior a quantia de 1500$00 por cada filho menor que, por aquele motivo, tenha de residir fora de casa dos pais.
+2.º A percentagem de isenções de propinas a conceder em cada nível de ensino nos termos da respectiva legislação é elevada, no ensino liceal e no ensino técnico profissional, para, respectivamente, 30 e 40 por cento dos alunos matriculados.
+3.º Nas escolas do magistério primário oficiais gozarão de isenção de propinas todos os alunos que preencham as condições definidas no n.º 1.º do presente diploma.
+4.º A isenção de propinas em qualquer grau ou ramo do ensino oficial compreende as propinas de matrícula, inscrição, frequência ou exame, indemnização por trabalhos práticos, de laboratório ou de campo, taxas e emolumentos de secretaria.
+5.º A atribuição pelo Instituto de Acção Social Escolar de uma bolsa de estudo ou subsídio regular implica a isenção de propinas do respectivo beneficiário, em qualquer grau de ensino oficial, para além dos números ou percentagens de isenções de propinas estabelecidas na lei.
+6.º O pagamento de qualquer dos encargos compreendidos no n.º 4.º ficará suspenso sempre que o aluno prove ter requerido ao Instituto de Acção Social Escolar alguma bolsa de estudo, subsídio regular ou isenção de propinas, até resolução final do seu pedido.
+O Ministro da Educação Nacional, José Veiga Simão.
