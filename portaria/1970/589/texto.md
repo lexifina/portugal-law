@@ -1,0 +1,6 @@
+Portaria n.º 589/70
+de 23 de Novembro
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, abrir na tabela de despesa do orçamento privativo do Centro de Documentação Técnico-Económica para o ano em curso, os seguintes créditos especiais:
+1.º Um, da importância de 2000$00, destinado a reforçar a verba do capítulo único, artigo 5.º, n.º 2) «Despesas com o material - Despesas de conservação e aproveitamento do material - De móveis», tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo único, artigo 8.º, n.º 2) «Pagamento de serviços - Despesas de comunicações - Telefones», da referida tabela de despesa.
+2.º Um, da importância de 2658$00, destinado a reforçar a verba do capítulo único, artigo 7.º, n.º 1) «Pagamento de serviços - Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e limpeza», tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo único, artigo 11.º «Diversos encargos - Abono de família», da referida tabela de despesa.
+Pelo Ministro do Ultramar, Leão Maria Tavares Rosado do Sacramento Monteiro, Subsecretário de Estado da Administração Ultramarina.
