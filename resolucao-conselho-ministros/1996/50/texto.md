@@ -1,0 +1,11 @@
+Resolução do Conselho de Ministros n.º 50/96
+O relatório sobre a execução do Quadro Comunitário de Apoio (QCA) em 1994 e 1995 aponta para a necessidade de melhorar a eficácia do sistema de informação do QCA, como instrumento de gestão e sobretudo, como meio de garantir a transparência das decisões tomadas pelas estruturas de gestão do QCA e de melhorar o acesso à informação por parte dos beneficiários, no respeito pelo princípio da Administração aberta, sem prejuízo das garantias sobre a utilização de dados pessoais informatizados, consagradas na lei.
+Assim:
+Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:
+1 - Encarregar os Ministros do Equipamento, do Planeamento e da Administração do Território, da Agricultura, do Desenvolvimento Rural e das Pescas e para a Qualificação e o Emprego de, por despacho conjunto, definir as modalidades de funcionamento do sistema de informação do QCA e a aprovação da regulamentação prevista no artigo 44.º da Lei n.º 10/91, de 29 de Abril.
+2 - Determinar o desenvolvimento integrado do sistema de informação do QCA, designadamente através da constituição de uma base de dados integrada, com os seguintes objectivos:
+a) Assegurar a uniformização no tratamento de dados e a integração das diversas bases de dados existentes com informação sobre a execução do QCA, de acordo com as necessidades de gestão controlada do QCA, e garantindo a compatibilidade com as necessidades diferenciadas da informação;
+b) Garantir, nos termos da lei, o acesso dos beneficiários aos dados pessoais sobre eles contidos no sistema integrado de informação do QCA;
+c) Melhorar o acesso dos potenciais beneficiários às informações pertinentes sobre candidaturas aos programas e intervenções operacionais incluídas no QCA.
+3 - Determinar que o desenvolvimento do sistema de informação seja assegurado pela Direcção-Geral do Desenvolvimento Regional, que coordena, e pela Comissão de Coordenação do Fundo Social Europeu, com a colaboração das estruturas de apoio técnico das unidades de gestão das intervenções operacionais abrangidas pelo QCA.
+Presidência do Conselho de Ministros, 4 de Abril de 1996. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
