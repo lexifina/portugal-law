@@ -1,0 +1,10 @@
+Despacho ministerial
+Não tendo ainda sido aprovados os regulamentos ou estatutos previstos na alínea e) do artigo 11.º do Decreto-Lei n.º 42072, de 31 de Dezembro de 1958, alterada pelo Decreto-Lei n.º 43610, de 21 de Abril de 1961, que fixem o condicionalismo a satisfazer pelos órfãos de militares que desejem ser inscritos como beneficiários dos Serviços Sociais das Forças Armadas, autorizo, a título provisório, a inscrição dos seguintes descendentes em 1.º grau, legítimos ou perfilhados, de militares falecidos:
+1. - a) Filhas solteiras ou viúvas que não possuam meios de subsistência e se encontrem impossibilitadas de os angariar;
+b) Filhas divorciadas ou judicialmente separadas de pessoas e bens que não possuam outros meios de subsistência nem possibilidade de os angariar;
+c) Filhos, até perfazerem a idade de 23 anos ou quando de idade superior, que não possuam meios de subsistência e se encontrem permanentemente incapazes de os angariar por forma devidamente comprovada, não podendo legalmente exigir de outrem aqueles meios.
+2. Estes beneficiários não pagarão qualquer quota e só poderão beneficiar de auxílios e comparticipações que não envolvam compromisso de duração superior a um ano.
+3. Consideram-se como satisfazendo ao condicionalismo fixado relativamente a meios de subsistência aqueles descendentes no 1.º grau, legítimos ou perfilhados, de militares falecidos, cujos proventos, adicionados aos dos familiares porventura a seu cargo, se traduzam num rendimento por capita igual ou inferior a 1500$00 mensais.
+4. São considerados a cargo das filhas solteiras ou viúvas e dos filhos de idade superior a 23 anos, quando chefes de família, além do cônjuge destes últimos, os parentes ou afins na linha recta que não possuam meios de subsistência e se encontrem impossibilitados de os angariar pelo trabalho.
+5. Ficam revogados os despachos ministeriais de 18 de Abril de 1962 e 8 de Agosto de 1962.
+Presidência do Conselho, 7 de Maio de 1970. - O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo.
