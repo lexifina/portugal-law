@@ -1,0 +1,6 @@
+Decreto-Lei n.º 47061
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. É aumentada para 75000$00 anuais a verba para despesas de residência do consultor eclesiástico junto da Embaixada de Portugal no Vaticano.
+§ único. A diferença resultante do aumento da verba de residência a que se refere este artigo será inscrita no orçamento de 1967 e a que haja de ser paga no corrente ano económico será satisfeita por força das disponibilidades existentes na dotação do capítulo 3.º, artigo 22.º, n.º 2), do orçamento em vigor do Ministério dos Negócios Estrangeiros.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 28 de Junho de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
