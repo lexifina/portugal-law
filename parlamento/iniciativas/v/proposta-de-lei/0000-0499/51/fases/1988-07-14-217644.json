@@ -1,0 +1,848 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "51",
+    "id": "28401",
+    "titulo": "Concede ao Governo autorização para legislar em matéria de regime e estrutura da carreira diplomática"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1988-07-14",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "4216",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1988-07-14",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1988-07-14",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DOS  NEGÓCIOS ESTRANGEIROS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Joao De Deus Pinheiro"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214213",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4689-4690",
+                  "4691-4691"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-15",
+                "pubLeg": "V",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15/4689?pgs=4689-4690,4691&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização para legislar em matéria de regime e estrutura da carreira diplomática.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214214",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4690-4690"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-15",
+                "pubLeg": "V",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15/4690?pgs=4690&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização para legislar em matéria de regime e estrutura da carreira diplomática.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214215",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4690-4691"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-15",
+                "pubLeg": "V",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15/4690?pgs=4690-4691&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização para legislar em matéria de regime e estrutura da carreira diplomática.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214216",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4691-4691"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-15",
+                "pubLeg": "V",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15/4691?pgs=4691&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização para legislar em matéria de regime e estrutura da carreira diplomática.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214217",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4691-4692"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-15",
+                "pubLeg": "V",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15/4691?pgs=4691-4692&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização para legislar em matéria de regime e estrutura da carreira diplomática.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214218",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4692-4692"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-15",
+                "pubLeg": "V",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15/4692?pgs=4692&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização para legislar em matéria de regime e estrutura da carreira diplomática.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214219",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4692-4693"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-15",
+                "pubLeg": "V",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15/4692?pgs=4692-4693&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização para legislar em matéria de regime e estrutura da carreira diplomática.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214220",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4693-4695",
+                  "4695-4695"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-15",
+                "pubLeg": "V",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15/4693?pgs=4693-4695,4695&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização para legislar em matéria de regime e estrutura da carreira diplomática.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214221",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4695-4695"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-15",
+                "pubLeg": "V",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15/4695?pgs=4695&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização para legislar em matéria de regime e estrutura da carreira diplomática.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214222",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4695-4696",
+                  "4699-4699",
+                  "4700-4700"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-15",
+                "pubLeg": "V",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15/4695?pgs=4695-4696,4699,4700&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização para legislar em matéria de regime e estrutura da carreira diplomática.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214223",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4696-4697",
+                  "4701-4701"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-15",
+                "pubLeg": "V",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15/4696?pgs=4696-4697,4701&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização para legislar em matéria de regime e estrutura da carreira diplomática.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DOS  NEGÓCIOS ESTRANGEIROS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Joao De Deus Pinheiro"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214224",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4697-4698",
+                  "4699-4699"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-15",
+                "pubLeg": "V",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15/4697?pgs=4697-4698,4699&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização para legislar em matéria de regime e estrutura da carreira diplomática.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214225",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4698-4698"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-15",
+                "pubLeg": "V",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15/4698?pgs=4698&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização para legislar em matéria de regime e estrutura da carreira diplomática.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214226",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4699-4699",
+                  "4700-4700"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-15",
+                "pubLeg": "V",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15/4699?pgs=4699,4700&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização para legislar em matéria de regime e estrutura da carreira diplomática.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DOS  NEGÓCIOS ESTRANGEIROS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Joao De Deus Pinheiro"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214227",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4699-4699",
+                  "4700-4701"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-15",
+                "pubLeg": "V",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15/4699?pgs=4699,4700-4701&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização para legislar em matéria de regime e estrutura da carreira diplomática.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214228",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4700-4700",
+                  "4701-4701"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-15",
+                "pubLeg": "V",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15/4700?pgs=4700,4701&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização para legislar em matéria de regime e estrutura da carreira diplomática.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214229",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4700-4700",
+                  "4701-4701"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-15",
+                "pubLeg": "V",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15/4700?pgs=4700,4701&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização para legislar em matéria de regime e estrutura da carreira diplomática.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214230",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4701-4701"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-15",
+                "pubLeg": "V",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15/4701?pgs=4701&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização para legislar em matéria de regime e estrutura da carreira diplomática.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "217644",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "4216",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-07-15",
+        "pubLeg": "V",
+        "pubNr": "116",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
