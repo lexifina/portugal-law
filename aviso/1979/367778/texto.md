@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que os Governos das Honduras, da Espanha e da Roménia, em 14 de Março de 1979, em 10 de Junho de 1979 e em 27 de Julho de 1979, respectivamente, depositaram, os dois primeiros junto do Governo dos Estados Unidos e o último junto do da União das Repúblicas Socialistas Soviéticas, os instrumentos de ratificação da Convenção sobre a Proibição do Desenvolvimento, da Produção e do Armazenamento de Armas Bacteriológicas (Biológicas) ou Tóxicas e sobre a Sua Destruição, aberta para assinatura a 10 de Abril de 1972.
+Direcção-Geral dos Negócios Políticos, 25 de Setembro de 1979. - O Director-Geral-Adjunto dos Negócios Políticos, António Leal da Costa Lobo.
