@@ -1,0 +1,6 @@
+Resolução n.º 310/77
+Considerando que na sequência de negociações havidas sob a égide do Ministério da Indústria e Tecnologia se estabeleceu um acordo de princípio entre a Metalúrgica Duarte Ferreira e a empresa francesa Établissements Braud, S. A., tendente a regularizar as obrigações decorrentes de um contrato de cedência de tecnologia entre ambas as empresas firmado em Agosto de 1976;
+Considerando que, nos termos do citado acordo, a Braud providenciará no arranjo de um financiamento a prestar pelo Banque Française du Commerce Extérieur mediante a abertura de um crédito à Metalúrgica Duarte Ferreira até ao montante de 19,5 milhões de francos franceses:
+O Conselho de Ministros, reunido em 16 de Novembro de 1977, resolveu:
+Conceder o aval do Estado, no valor aproximado de 185500000$00, a prestar a uma ou mais unidades do sistema bancário nacionalizado, para que seja emitida garantia a favor do Banque Française du Commerce Extérieur, cobrindo o financiamento deste à Metalúrgica Duarte Ferreira, correspondente ao fornecimento de 225 CKD de ceifeiras-debulhadoras até ao montante de 19,5 milhões de francos franceses, mediante a apresentação dos documentos justificativos pela empresa e parecer favorável do Ministério da tutela.
+Presidência do Conselho de Ministros, 16 de Novembro de 1977. - O Primeiro-Ministro, Mário Soares.
