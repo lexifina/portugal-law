@@ -1,0 +1,12 @@
+Decreto n.º 43137
+Considerando que, não obstante diversas disposições tendentes a estimular o ingresso na carreira do magistério, continua a fazer sentir-se a falta de pessoal docente do sexo masculino nos ensinos secundários;
+Considerando, por outro lado, que as Universidades não podem admitir entre os seus professores todos aqueles que conquistam a láurea académica do doutoramento, à qual só têm aceso os alunos mais classificados e trabalhadores das respectivas Faculdades;
+Considerando, consequentemente, que é de interesse para a Nação aproveitar no ensino os mais distintos graduados universitários;
+Considerando que as provas de doutoramento, quando valorizadas por prática de ensino da cultura portuguesa em Universidades estrangeiras, como é o caso dos leitores portugueses fora do País, podem suprir os requisitos de natureza pedagógica exigidos pela legislação que ao presente rege a formação profissional dos professores;
+Considerando que aquela falta de pessoal docente se manifesta especialmente no ensino técnico profissional;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º Os candidatos a professores efectivos que tenham sido classificados com, pelo menos, 16 valores nas suas licenciaturas ou nos cursos superiores das escolas superiores de Belas-Artes são dispensados da parte especial do exame de admissão ao estágio a que se refere o n.º 3 do artigo 237.º do Decreto n.º 37029, de 25 de Agosto de 1948.
+Art. 2.º Os leitores e antigos leitores de Português enviados pelo Instituto de Alta Cultura a Universidades estrangeiras com, pelo menos, quatro anos de exercício e possuidores do grau de doutor por uma Universidade portuguesa são dispensados do estágio pedagógico referido no capítulo XV do Estatuto do Ensino Técnico Profissional, podendo requerer Exame de Estado do grupo para o qual é habilitação básica a licenciatura que possuem, nas mesmas condições fixadas para os estagiários aprovados no 2.º ano do estágio.
+Art. 3.º A classificação final destes candidatos será determinada pelo júri tomando como base a média das classificações de cada prova prestada e atendendo também às classificações obtidas no doutoramento e ainda ao curriculum vitae.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 29 de Agosto de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Francisco de Paula Leite Pinto.
