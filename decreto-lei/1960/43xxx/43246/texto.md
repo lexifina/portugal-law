@@ -1,0 +1,8 @@
+Decreto-Lei n.º 43246
+Dado que da aplicação do Decreto-Lei n.º 42827, de 3 de Fevereiro de 1960, no que respeita às novas habilitações exigidas para admissão à Escola Náutica, resultou que o número de candidatos é manifestamente insuficiente para a satisfação das necessidades em oficiais da marinha mercante, e convindo por isso tomar desde já as providências adequadas;
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. É aditado ao Decreto-Lei n.º 42827, de 3 de Fevereiro de 1960, o seguinte:
+Art. 20.º Em caso de reconhecida urgência poderá o Ministro da Marinha, sob proposta da Escola Náutica, mandar proceder a uma segunda chamada de admissão para candidatos que, não tendo as habilitações fixadas no artigo 6.º, tenham, todavia, habilitações não inferiores às que vigoraram até à publicação deste decreto-lei.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 18 de Outubro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
