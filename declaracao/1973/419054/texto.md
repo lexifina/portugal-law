@@ -1,0 +1,13 @@
+Declaração
+Declara-se, para os devidos efeitos, que entre o original, arquivado nesta Secretaria-Geral, e o texto do Decreto n.º 332/73, publicado no Diário do Governo 1.ª série, n.º 154, de 3 de Julho, existem as seguintes divergências, que assim se rectificam:
+No preâmbulo, onde se lê:
+...
+d) ... pelo Decreto n.º 324/72, de 14 de Setembro.
+deve ler-se:
+...
+d) ... pelo Decreto n.º 354/72, de 14 de Setembro.
+e no artigo 30.º onde se lê:
+... os correspondente encargos ...
+deve ler-se:
+... os correspondentes encargos ...
+Secretaria-Geral da Presidência do Conselho, 20 de Julho de 1973. - O Secretário-Geral, Diogo de Paiva Brandão.
