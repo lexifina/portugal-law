@@ -1,0 +1,3 @@
+Despacho Normativo n.º 292/79
+Ao abrigo do disposto do n.º 1 do artigo 1.º do Decreto-Lei n.º 303/77, de 29 de Julho, e em aditamento à tabela n.º 1 «Produtos fitofarmacêuticos», para efeitos de aplicação do regime de comercialização estabelecido por aquele diploma, é autorizada a substituição da embalagem com a capacidade de 4,5 kg por outra de 10 kg, em produtos fitofarmacêuticos, com base em aldicarbe, cujo tipo de formulação é em grânulos, com o teor de 10% de substância activa.
+Secretarias de Estado do Fomento Agrário e do Comércio Interno, 31 de Julho de 1979. - Pelo Secretário de Estado do Fomento Agrário, João Ribeiro Goulão, Secretário de Estado da Estruturação Agrária. - O Secretário de Estado do Comércio Interno, Manuel Duarte Pereira.
