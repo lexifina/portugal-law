@@ -1,0 +1,14 @@
+Aviso
+Competindo-lhe, nos termos do artigo 15.º dos Estatutos do Fundo de Garantia de Riscos Cambiais - Decretos-Leis n.os 75-D/77 e 418/77, respectivamente de 28 de Fevereiro e 3 de Outubro -, fixar os prémios, comissões e sobretaxas que constituirão receitas deste Fundo;
+E face, por outro lado, ao papel de apoio contra os riscos de câmbio que os referidos Estatutos cometem ao mesmo Fundo e à situação da balança de pagamentos:
+O Banco de Portugal, sob orientação do Ministro de Estado e das Finanças e do Plano, no uso da competência que lhe é atribuda igualmente pelos artigos 16.º e 28.º, alínea b), da sua Lei Orgânica, determina o seguinte:
+1.º - 1:
+a) O prémio por garantia de risco de câmbio nas operações de importação de capitais ou equiparadas será, no mínimo, de 0,5% ao ano sobre o contravalor em escudos da moeda estrangeira, objecto da fixação de câmbio;
+b) Além do prémio referido na alínea anterior, estrangeira objecto da fixação de câmbio; relativos a operações de importação constituirá ainda receita do dito Fundo a diferença entre a taxa máxima de juro vigente à data na legislação nacional para operações de crédito de igual duração e a taxa de juro efectiva cobrada na respectiva operação de crédito pelo credor estrangeiro, a que se deduzirá 0,5% sempre que o remanescente assegure, pelo menos, a margem de prémio da alínea a);
+c) Sempre que nas sobreditas operações se verifique a intervenção de uma instituição de crédito que opere em território nacional como negociadora, garante ou avalista de um crédito externo, poderá ser ainda subtraída à diferença apurada nos termos da alínea imediatamente anterior a taxa correspondente à comissão relativa ao tipo de intervenção da instituição de crédito.
+2 - Nas operações de fixação de câmbio a operações de financiamento das exportações, o prémio a cobrar será de 0,1% anual sobre o contravalor da parcela de capital garantida.
+2.º Em casos excepcionais poderá o Banco de Portugal propor ao Ministro de Estado e das Finanças e do Plano condições diferentes das fixadas nas alíneas a), b) e c) do n.º 1 do n.º 1.º deste diploma, bem como a dedução no diferencial de taxas já mencionado de outros encargos.
+3.º O disposto no presente aviso poderá aplicar-se a operações de fixação de câmbio à data pendentes no Fundo de Garantia de Riscos Cambiais, desde que assim acordado por uma e outra parte.
+4.º O Banco de Portugal, enquanto seu gestor, emitirá as instruções necessárias à conveniente execução das precedentes determinações.
+5.º São revogados os avisos n.os 13 e sem número, do Banco de Portugal, publicados no Diário da República, 1.ª série, de 29 de Agosto de 1977 e 12 de Janeiro de 1978, respectivamente.
+Ministério das Finanças e do Plano, 25 de Fevereiro de 1983. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.
