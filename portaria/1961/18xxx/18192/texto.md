@@ -1,0 +1,3 @@
+Portaria n.º 18192
+Manda o Governo da República Portuguesa, pelos Ministro do Interior e Secretário de Estado da Agricultura, que a Câmara Municipal de Arcos de Valdevez seja incluída na relação n.º 2 anexa à Portaria n.º 9708, de 23 de Dezembro de 1940, ficando autorizada a cobrar, durante quinze anos, a sobretaxa de 4,6 por cento sobre o valor das carnes dos animais abatidos para consumo público no matadouro camarário, calculada na base da estiva aprovada pela Portaria n.º 11466, de 22 de Agosto de 1946.
+Ministérios do Interior e da Economia, 7 de Janeiro de 1961. - O Ministro do Interior, Arnaldo Schulz - O Secretário de Estado da Agricultura, Luís Quartin Graça
