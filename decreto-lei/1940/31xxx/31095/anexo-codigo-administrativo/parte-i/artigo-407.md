@@ -30,4 +30,6 @@ Compete ao governador civil:
 
 14.º Conceder licenças aos presidentes das câmaras municipais do distrito.
 
+15.º Exercer os poderes da competência originária do Ministro da Administração Interna que nele forem delegados.
+
 § único. Compete aos governadores civis convocar a reunião constitutiva do conselho do distrito e da junta distrital.
