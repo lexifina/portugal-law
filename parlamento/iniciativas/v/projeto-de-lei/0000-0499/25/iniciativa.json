@@ -1,0 +1,126 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "tipo": "Projeto de Lei",
+  "numero": "25",
+  "id": "29058",
+  "fases": 19,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "1987-10-15",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "1988-10-14",
+    "DataInicioleg": "1987-08-13",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "48",
+        "nome": "Correia Afonso"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "79",
+        "nome": "Ângelo Correia"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3042",
+        "nome": "Manuel Soares Costa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2976",
+        "nome": "Fernando Conceição"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "81",
+        "nome": "Silva Marques"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "63",
+        "nome": "João Salgado"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "117",
+        "nome": "Maria Manuela Aguiar"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "73",
+        "nome": "Fernandes Marques"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2969",
+        "nome": "Domingos e Sousa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "39",
+        "nome": "Dinah Alhandra"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Grupos Parlamentares",
+      "sigla": "G"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "29058",
+    "IniLeg": "V",
+    "IniLinkTexto": "",
+    "IniNr": "25",
+    "IniObs": null,
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Condiciona a afixação de publicidade ou de propaganda bem como a realização de inscrições ou pinturas murais",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": [
+      {
+        "autor": "PEV",
+        "id": "29066",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "330916",
+            "obs": null,
+            "pag": [
+              "497-498"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1987-11-21",
+            "pubLeg": "V",
+            "pubNr": "25",
+            "pubSL": "1",
+            "pubTipo": "DAR II série",
+            "pubTp": "K",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2/05/01/025/1987-11-21/497?pgs=497-498&org=PLC"
+          }
+        ],
+        "tipo": "Proposta de Alteração"
+      }
+    ]
+  }
+}
