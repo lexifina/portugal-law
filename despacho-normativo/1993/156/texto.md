@@ -1,0 +1,7 @@
+Despacho Normativo n.º 156/93
+No contexto da reforma da política agrícola comum, foram introduzidas alterações no sistema de prémios para a manutenção de vacas em aleitamento, importando agora fixar os critérios nacionais relativos à constituição da reserva nacional, bem como às devoluções de direitos para esta reserva, decorrentes de transmissões de direitos ao prémio sem a transferência simultânea da exploração.
+Assim, para efeitos do disposto nos Regulamentos (CEE) n.º 805/68, do Conselho, de 27 de Junho, com a nova redacção dada pelo Regulamento (CEE) n.º 2066/92, do Conselho, de 30 de Junho, e (CEE) n.º 3886/92, da Comissão, de 23 de Setembro, determino o seguinte:
+1 - A reserva nacional, a que se refere o artigo 4.º-F do citado Regulamento (CEE) n.º 805/68, é fixada em 1% do quantitativo global de animais a que foi concedido, em 1992, o prémio à vaca aleitante.
+2 - As devoluções para a reserva nacional, a realizar nas transferências de direitos ao prémio sem a transferência da exploração, são fixadas em 5% dos direitos ao prémio transferidos.
+3 - Quando da aplicação a cada produtor das percentagens referidas nos números anteriores resultar um número fraccionário de animais, o produtor poderá beneficiar dos direitos ao prémio correspondentes à parte decimal, caso cumpra os requisitos de candidatura aplicáveis ao número inteiro imediatamente superior.
+Ministério da Agricultura, 16 de Junho de 1993. - Pelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar.
