@@ -12,4 +12,6 @@ c) Quando, durante o período legal da concepção, tenha existido comunhão dur
 
 d) Quando o pretenso pai tenha seduzido a mãe, no período legal da concepção, se esta era virgem e menor no momento em que foi seduzida, ou se o consentimento dela foi obtido por meio de promessa de casamento, abuso de confiança ou abuso de autoridade.
 
+e) Quando se prove que o pretenso pai teve relações sexuais com a mãe durante o período legal de concepção.
+
 2. A presunção considera-se ilidida quando existam dúvidas sérias sobre a paternidade do investigado.
