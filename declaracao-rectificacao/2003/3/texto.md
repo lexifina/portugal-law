@@ -1,0 +1,3 @@
+Declaração de Rectificação n.º 3/2003
+Por ter sido publicado com inexactidão no Diário da República, 1.ª série-A, n.º 69, de 22 de Março de 2003, o Decreto do Presidente da República n.º 20/2003, de 22 de Março, rectifica-se que onde se lê «É exonerada, sob proposta do Governo, a ministra plenipotenciária de 1.ª classe Ana Maria Rosa Martins Gomes do cargo de embaixador de Portugal em Jacarta» deve ler-se «É exonerada, sob proposta do Governo, a ministra plenipotenciária de 1.ª classe Ana Maria Rosa Martins Gomes do cargo de embaixadora de Portugal em Jacarta».
+Secretaria-Geral da Presidência da República, em 26 de Março de 2003. - O Secretário-Geral, José Vicente de Bragança.
