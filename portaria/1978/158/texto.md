@@ -1,0 +1,4 @@
+Portaria n.º 158/78
+de 20 de Março
+Manda o Governo da República Portuguesa, pelo Ministro da Justiça, que, nos termos do n.º 3 do artigo 71.º do Decreto n.º 314/70, de 8 de Julho, seja aumentado com um lugar de segundo-ajudante e um lugar de escriturário-dactilógrafo de 1.ª classe o quadro do pessoal auxiliar da 1.ª Conservatória do Registo Predial do Porto.
+Ministério da Justiça, 2 de Março de 1978. - O Ministro da Justiça, José Dias dos Santos Pais.
