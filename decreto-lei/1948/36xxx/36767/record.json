@@ -17,9 +17,24 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1948/02/04600/01490152.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1948-02-26",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "758d3cbd04b066838be964a1296e51de4fbf74f5914836d85d3dcafdf076b639",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.2,
+    "pages": 4,
+    "columns": [
+      3,
+      3,
+      3,
+      4
+    ],
+    "pdf_sha256": "4d00cfc5b845364226b35ebeb12b0a356cae5a17cb770bfe2d150070e3adfab6",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 2853
 }
