@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=rKtwshDyv1NBeu65K82ef9j6oFE3w%2fgAbqyUhooMpoSyQQ0pTyzibfD50gH%2baGhs1TrcG1r0l2bU1A0KAmFXPBoWqi6NY9nsxTw%2fxAs2r347ke8O86pD8UW0Vo24i8zPmfcPKM5y3XEB99eQAf1Ojm%2bemILgruHhJl9u7yVaplGsWPI0o%2bZUTUUBCanSa5007dUY7uakZ2EgL138SciEtNOWsIyqy66pG5Eu5crXojP8szj276fRrDhZdP6MEXFhdUelamzN3e1Rpwl8sPVmxdyANoDqpCtvpC0PXNmoyGF02wzb13ACPnwjTtn%2bPiN%2b1oG5E%2bkfl50yDwrf9Q4ck3XnT7zfIqh68Ee0O7Ap66U%3d&fich=IntervencoesVI_json.txt&Inline=true",
+  "ficheiro_sha256": "09dcb463dee20c5105fb36bc1a4e2274ee28613bb7bd19e9b953a0ed8eb5faf8",
+  "legislatura": "VI",
+  "id": "34360",
+  "tipo": "Defesa da honra",
+  "orador": "João Proença (PS)",
+  "data_registo": "1993-06-09",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "96085",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "3895",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Melhoria das condições de trabalho na administração pública."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1993-06-09",
+    "Debate": "PJL 264-PS",
+    "Deputados": {
+      "GP": "PS",
+      "idCadastro": "174",
+      "nome": "João Proença"
+    },
+    "FaseDebate": "GENERALIDADE",
+    "FaseSessao": "POD",
+    "Id": "34360",
+    "IdDebate": "390",
+    "Iniciativas": [
+      {
+        "fase": "Discussão generalidade",
+        "id": "3895",
+        "tipo": "Projeto de Lei"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VI",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "34360",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "2621-2621"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1993-06-11",
+        "pubLeg": "VI",
+        "pubNr": "82",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/082/1993-06-11/2621?pgs=2621&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "USA A FIGURA REGIMENTAL DE DEFESA DE HONRA, POR DECLARACOES DO DEPUTADO NOGUEIRA DE BRITO (CDS). ",
+    "Sessao": "2",
+    "Sumario": "MELHORIA DAS CONDICOES DE TRABALHO NA ADMINISTRACAO PUBLICA",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Defesa da honra"
+  }
+}
