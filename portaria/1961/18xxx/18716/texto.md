@@ -1,0 +1,5 @@
+Portaria n.º 18716
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, abrir um crédito especial de 75066$40 destinado a reforçar a verba do capítulo 7.º, artigo 1113.º, n.º 1) «Centro de Informação e Turismo de Angola - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da tabela de despesa ordinária do orçamento geral de Angola para o corrente ano, a fim de dotar o lugar de director do referido Centro criado pelo Diploma Legislativo Ministerial n.º 40, de 19 de Maio último, tomando como contrapartida as disponibilidades existentes na verba do capítulo 5.º, artigo 802.º, n.º 1) «Serviços das alfândegas - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da mesma tabela de despesa.
+Ministério do Ultramar, 7 de Setembro de 1961. - Pelo Ministro do Ultramar, João da Costa Freitas, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Angola. - Costa Freitas.
