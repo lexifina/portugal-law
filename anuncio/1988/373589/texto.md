@@ -1,0 +1,4 @@
+Anúncio
+Faz-se saber que no dia 22 de Outubro de 1987 foi instaurado na 1.ª Secção do Supremo Tribunal Administrativo, por Seber Portuguesa, Farmacêutica, S. A., correndo termos pela 1.ª secção de processos, sob o n.º 25488, um processo de pedido de declaração de ilegalidade, com base no segundo dos pressupostos previstos na alínea i) do n.º 1 do artigo 26.º do Estatuto dos Tribunais Administrativos e Fiscais, das normas contidas na Portaria n.º 964/85, de 31 de Dezembro, dos Ministros das Finanças, da Indústria e Comércio e da Saúde, publicada no suplemento ao Diário da República, 1.ª série, n.º 301, daquela data, relativa à venda de produtos farmacêuticos, e que os eventuais interessados podem intervir no processo, nos termos e nos prazos fixados na lei.
+O Escrivão-Adjunto, Victor Manuel da Silva Oliveira.
+Lisboa, 15 de Abril de 1988. - O Juiz Conselheiro Relator, Inácio Alfredo da Fonseca Fernandes.
