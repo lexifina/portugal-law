@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1920/08/15300/09660966.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1920-08-10",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "35c4f8d6e8e680cfd270b2b05dbbfe41b23e312d1f71455fbb2c5e0ae33a7d92",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.5,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "77b4ead9cd1884dd7714ad86b1d7ad3741495d97eb4b4c8ee6ae82d652521966",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 270
 }
