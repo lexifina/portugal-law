@@ -1,0 +1,81 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ktYqpeS%2ft%2bZbliS4sHhftatFgOONJZv%2b0jwNSKIew1t0xo7wpSD4Wuod7wOpHm6JnVumY%2fcLg1QEJ6QuXOoI0mCZg8Now%2fNFrlqr4xaPyukQAb7VOIDJycUu8LgcqeBWkrLalvQbJNVVjYrmyeKurhYgJ88b%2bTAHUhqae0PG2tWw6wd9S%2fB1oSkkszdy9OWFhN3wUjxq5HmVweG9RQH09rl4k2N5tPgs%2fzprZm2tzFHnHSctshbR2DfX7RwTBfcB1zHFUq7rfF1ywAQTHCnkTEnmy8XmgIMFNpTZggbLiolv7UH6aQ9wXzrJpNDVBZQItckByiVODO72lKf0LysofiwVHTL6an5RgmBfpD1TjRRanKSw%2fu9%2bMNyeFb2ozzbOeEiwgdJpFNYQkXLYkgJujw%3d%3d&fich=RequerimentosIX_json.txt&Inline=true",
+  "ficheiro_sha256": "234acc6bf0a22a14e4ad1370daea559258a1b7960a20d3feebcabf91a9366690",
+  "legislatura": "IX",
+  "id": "32527",
+  "tipo": "Requerimento",
+  "numero": "20",
+  "data_registo": "2004-09-15",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Escoamento da produção de tomate",
+    "Autores": [
+      {
+        "GP": "PCP",
+        "idCadastro": "1485",
+        "nome": "Rodeia Machado"
+      }
+    ],
+    "DataEnvio": "2004-09-20",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2004-09-20",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DA   AGRICULTURA,  PESCAS  E  FLORESTAS",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": null,
+        "retirado": null
+      },
+      {
+        "dataEnvio": "2004-09-20",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DE ESTADO, DAS ACTIVIDADES ECONÓMICAS E DO TRABALHO",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": null,
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2004-09-15",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e52766379387a553077764e6a426c4d6d59304e7a45744d6a41774f4330304f5442684c546b794d4451745a5456695a6d5979597a426c5a6a526c4c6e426b5a673d3d&fich=60e2f471-2008-490a-9204-e5bff2c0ef4e.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "32527",
+    "Legislatura": "IX",
+    "Nr": "20",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "297382",
+        "obs": null,
+        "pag": [
+          "42-43"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2004",
+        "pubLeg": "IX",
+        "pubNr": "6",
+        "pubSL": "3",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/03/006S1/2004-10-23/42?pgs=42-43&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "3",
+    "Tipo": "Requerimento"
+  }
+}
