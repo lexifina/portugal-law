@@ -1,0 +1,12 @@
+Decreto-Lei n.º 44762
+Ao aproximar-se o termo do prazo concedido às fábricas açorianas de destilação de álcool, pelo Decreto-Lei n.º 43404, de 16 de Dezembro de 1960, para o fabrico de açúcar e seus derivados, justificar-se-ia a definição do regime permanente da sua actividade futura.
+Mas a publicação recente do Decreto-Lei n.º 44507, de 14 de Agosto de 1962, que condiciona as limitações quantitativas à circulação de mercadorias de origem nacional no espaço português, veio criar doutrina a que deverá subordinar-se o regime futuro da indústria açoriana de açúcar.
+Nestes termos, dada a urgência de estabelecer as condições em que decorrerão as próximas campanhas, para não perturbar a marcha desta actividade, de importante relevo na economia do arquipélago;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É prorrogado por mais dois anos o prazo concedido às fábricas açorianas de destilação de álcool, pelo Decreto-Lei n.º 43404, de 16 de Dezembro de 1960, para a exploração, nas condições legais actualmente em vigor, do fabrico de açúcar e seus derivados.
+Art. 2.º O regime que condicionará a produção e o comércio de açúcar nas ilhas dos Açores será, a partir da data-limite referida no artigo anterior, o que decorrer do estudo e das providências que vierem a ser adoptadas nos termos do artigo 5.º e seu § 2.º do Decreto-Lei n.º 44507, de 14 de Agosto de 1962.
+Art. 3.º A instalação de novas fábricas de açúcar nas ilhas dos Açores e a transferência, remodelação ou ampliação das existentes apenas carecem das autorizações a conceder por força das disposições do Decreto-Lei n.º 39634, de 5 de Maio de 1954.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 4 de Dezembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
+
+Para ser presente à Assembleia Nacional.
