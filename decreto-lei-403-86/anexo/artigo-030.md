@@ -2,6 +2,6 @@
 
 ### Representação
 
-1 - O registo pode ser pedido por mandatário com procuração bastante ou por quem tenha poderes de representação para intervir no respectivo título ou ainda por advogado ou solicitador.
+1 - O registo pode ser pedido por mandatário com procuração bastante, por quem tenha poderes de representação para intervir no respectivo título ou ainda por advogado ou solicitador, cujos poderes de representação se presumem.
 
-2 - A interposição de recurso ou de reclamação hierárquica pode ser subscrita por procurador bastante, havendo-se como tal o mandatário com poderes forenses gerais.
+2 - A reclamação e o recurso, hierárquico ou contencioso, exigem procuração expressa, salvo se subscritos por mandatário com poderes forenses gerais.
