@@ -1,0 +1,20 @@
+Portaria n.º 477/72
+de 18 de Agosto
+O regime de quotas de rateio no que se refere às fábricas de massas alimentícias tem vindo a ser aplicado desde 20 de Agosto de 1964, de acordo com o estabelecido pela Portaria n.º 20741, daquela data, a qual, por sua vez, se reporta à Portaria n.º 19203, de 26 de Maio de 1962.
+Este último diploma, prevendo a recondução das actividades a um regime de concorrência, procedeu à revisão do condicionamento da distribuição da matéria-prima às fábricas de massas alimentícias, estabelecido por despacho de 29 de Janeiro de l942.
+Entretanto, o Regulamento do Fabrico de Massas Alimentícias, aprovado pelo Decreto n.º 45588, de 3 de Março de 1964, admitia que se mantivesse o regime de quotas de rateio apenas enquanto o interesse público o exigisse.
+Ora o Decreto-Lei n.º 491/70, de 22 de Outubro, tomou posição relativamente ao regime de quotas de rateio na indústria de moagem de espoadas de trigo, prevendo a sua revisão, o que foi feito pela Portaria n.º 142/72, de 15 de Março, que estabeleceu um regime de eliminação gradual das quotas de rateio naquela indústria.
+Na mesma linha de orientação se procede, pela presente portaria, revisão do regime de quotas de rateio na indústria de massas alimentícias, procedendo-se, como em relação às moagens de farinhas espoadas de trigo, à eliminação gradual das quotas de modo a poupar, quanto possível, às empresas as perturbações que poderiam resultar da eliminação brusca do sistema.
+Com esta medida se pretende estimular a competitividade entre as empresas, levando-as a um esforço permanente de redução de custos e de adaptação às preferências do consumidor, oferecendo-lhe produtos de elevada qualidade e a preços convenientes.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelos Secretários de Estado do Comércio e da Indústria, nos termos do artigo 18.º do Decreto-Lei n.º 32189, de 11 de Agosto de 1942, e do artigo 18.º do Decreto n.º 45588, de 3 de Março de 1964:
+1.º Cada fábrica de massas alimentícias poderá beneficiar, na campanha cerealífera de 1972-1973, de uma atribuição suplementar de 15 por cento da respectiva quota de rateio, além do acréscimo de que já beneficiava nos termos do n.º 5.º da Portaria n.º 19203, de 26 de Maio de 1962.
+2.º Em cada uma das companhias seguintes, o suplemento de 15 por cento considerado no número anterior será acrescido de igual percentagem da quota de rateio.
+3.º A partir da campanha cerealífera de 1978-1979, inclusive, termina o regime de quotas de rateio atribuídas às fábricas de massas alimentícias.
+4.º No caso de fusão de fábricas, as quotas de rateio serão iguais à soma das quotas dos estabelecimentos que foram objecto da fusão.
+5.º O Instituto Nacional do Pão fixará, até 30 de Junho de cada ano, o contingente global de matéria-prima destinada às fábricas de massas alimentícias, para abastecimento do continente entre 1 de Agosto e 31 de Julho seguinte, tendo em atenção o consumo dos anos anteriores, o qual poderá ser revisto no decurso do ano cerealífero, de acordo com a evolução dos consumos.
+6.º O Instituto Nacional do Pão calculará, de acordo com o disposto nesta portaria, a repartição do contingente global pelas diferentes fábricas, para utilização em regime de duodécimos.
+7.º Não fica sujeito ao limite máximo fixado nos n.os 1.º e 2.º desta portaria a atribuição do contingente suplementar de matéria-prima que se destine à produção de massas alimentícias para abastecimento dos mercados externo e ultramarino.
+8.º O Instituto Nacional do Pão emitirá as instruções necessárias para execução do disposto nesta portaria.
+9.º Ficam revogadas as portarias n.os 19203 e 20741, respectivamente de 26 de Maio de 1962 e de 20 de Agosto de 1964.
+Secretarias de Estado do Comércio e da Indústria, 7 de Agosto de 1972. - O Secretário de Estado do Comércio, Valentim Xavier Pintado. - O Secretário de Estado da Indústria, Rogério da Conceição Serafim Martins.
