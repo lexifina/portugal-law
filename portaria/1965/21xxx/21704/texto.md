@@ -1,0 +1,7 @@
+Portaria n.º 21704
+Tornando-se necessário estabelecer as normas relativas à execução do Decreto-Lei n.º 44995, de 24 de Abril de 1963, de acordo com o artigo 2.º do mesmo diploma:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Aeronáutica, que se observe o seguinte:
+1.º Os militares que se encontrem nas condições referidas no artigo 1.º do Decreto-Lei n.º 44995, de 24 de Abril de 1963, deverão declarar nos autos de averiguações, lavrados por motivo dos acidentes sofridos, se desejam ou não continuar no serviço activo.
+2.º A Direcção do Serviço de Pessoal, em função do grau de invalidez atribuído pela Junta de Saúde da Aeronáutica, em deliberação homologada pelo Secretário de Estado da Aeronáutica, de acordo com o artigo 5.º do Decreto-Lei n.º 44995, propõe, para cada caso, ao chefe do Estado-Maior da Força Aérea, por intermédio da 1.ª Repartição do Estado-Maior da Força Aérea, as funções a atribuir ao pessoal nas referidas circunstâncias.
+3.º Os militares abrangidos pela legislação mencionada no n.º 1.º da presente portaria que não tenham quaisquer condições especiais de promoção a satisfazer podem ser promovidos ao posto imediato independentemente da resolução do processo de averiguações respectivo, desde que, pelo mesmo processo, se possa concluir que os interessados satisfazem a todas as condições do mencionado artigo 1.º, mediante parecer favorável da Direcção do Serviço de Saúde.
+Presidência do Conselho, 6 de Dezembro de 1965. - O Secretário de Estado da Aeronáutica, Francisco António das Chagas.
