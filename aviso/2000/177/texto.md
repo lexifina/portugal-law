@@ -1,0 +1,5 @@
+Aviso n.º 177/2000
+Por ordem superior se torna público que, em 30 de Novembro de 1999 e em 12 de Julho de 2000, foram emitidas notas, respectivamente pela Embaixada do Reino dos Países Baixos em Lisboa e pelo Ministério dos Negócios Estrangeiros português, em que se comunica terem sido cumpridas as formalidades requeridas pelos ordenamentos jurídicos de ambos os países para a aprovação da Convenção entre a República Portuguesa e o Reino dos Países Baixos para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento e o Capital, assinada no Porto em 20 de Setembro de 1999.
+Por parte de Portugal, a Convenção foi aprovada pela Resolução da Assembleia da República n.º 62/2000 e ratificada pelo Decreto do Presidente da República n.º 32/2000, publicados no Diário da República, 1.ª série-A, n.º 159, de 12 de Julho de 2000.
+Nos termos do artigo 33.º da Convenção, esta entra em vigor em 11 de Agosto de 2000.
+Direcção-Geral das Relações Bilaterais, 18 de Julho de 2000. - O Director-Geral, José Caetano de Campos de Andrada da Costa Pereira.
