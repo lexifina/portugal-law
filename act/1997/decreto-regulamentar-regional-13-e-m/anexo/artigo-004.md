@@ -1,7 +1,3 @@
-## Capítulo II
-
-## Órgãos e serviços
-
 ## Secção I
 
 ## Conselho administrativo
