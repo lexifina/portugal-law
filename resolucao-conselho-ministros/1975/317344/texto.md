@@ -1,0 +1,10 @@
+Resolução do Conselho de Ministros
+Tendo sido verificada uma grave situação na firma I. N. A. L. I. - Indústria Nacional Alimentar, S. A. R. L., traduzida na sua efectiva imobilização, foi em 13 de Fevereiro e nos termos do n.º 1 do artigo 2.º do Decreto-Lei n.º 660/74 mandado realizar um inquérito que deveria aproveitar a análise já anteriormente feita à firma por elementos do Gabinete do Sr. General Pinho Freire, da Junta de Salvação Nacional.
+A conclusão do inquérito é a de que se torna necessária uma intervenção decidida e urgente do Estado na gestão da empresa, única forma de assegurar a campanha agrícola e industrial deste ano e de garantir os postos de trabalho em que se baseia a vida de muitas centenas de famílias, numa zona em que os problemas do emprego assumem particular acuidade.
+Nestas condições, de acordo com o inquérito realizado e com as recomendações aprovadas em reunião de 26 de Fevereiro, com a presença de representantes da Junta de Salvação Nacional, da Secretaria de Estado da Indústria e Energia, das Secretarias de Estado do Comércio Externo e Turismo, da Agricultura e do Emprego e ainda da Caixa Geral de Depósitos, o Conselho de Ministros, reunido em 4 de Março de 1975, resolveu que, nos termos do n.º 1 do artigo 3.º do Decreto-Lei n.º 660/74, sejam suspensos os actuais administradores da empresa e nomeada uma comissão administrativa constituída por:
+Engenheiro José Teles da Silva Ribeiro, chefe do Gabinete de Indústrias Alimentares do Instituto de Reorganização Agrária, que presidirá;
+Um técnico a designar pelo Ministério das Finanças;
+Alferes António Paula Sá e Cunha.
+É ainda autorizada a concessão de um financiamento de 5000 contos pela Caixa Geral de Depósitos, com aval do Estado, que permita realizar o arranque da produção. Devido às características especiais da produção agrícola, esta medida é da maior urgência.
+A Comissão Administrativa deverá apresentar, no prazo de dois meses, um relatório sobre a situação da firma, com a proposta das medidas necessárias ao seu saneamento técnico e financeiro.
+Presidência do Conselho de Ministros, 4 de Março de 1975. - O Primeiro-Ministro, Vasco dos Santos Gonçalves.
