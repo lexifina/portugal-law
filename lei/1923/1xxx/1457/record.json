@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1923/08/16900/08490849.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1923-08-08",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "7efeed60b985a617386fe8573633f054158113e43a3298e46787a5cb53412cd2",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.6,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "a44e338f24973411c1641febadd0de3d140c840d1fa5a129112481a150e80fd8",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 114
 }
