@@ -1,0 +1,3 @@
+Despacho
+Nos termos do artigo 1.º do Decreto-Lei n.º 43000, de 1 de Junho de 1960, o Conselho de Ministros resolve, mediante proposta do Ministério da Educação Nacional, declarar o curso de montador electricista, regulado pelo Decreto n.º 37029, de 25 de Agosto de 1948, ou outro que lhe corresponda na organização do ensino técnico profissional, como habilitação adequada para efeito de provimento nos lugares de aferidor de contadores e de encarregado de exploração dos serviços municipalizados de água, electricidade e saneamento.
+Presidência do Conselho, 12 de Agosto de 1965. - Pelo Presidente do Conselho, o Ministro de Estado, António Jorge Martins da Mota Veiga.
