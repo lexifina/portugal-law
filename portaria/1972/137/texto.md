@@ -1,0 +1,4 @@
+Portaria n.º 137/72
+de 14 de Março
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Indústria, nos termos do artigo 12.º do Regulamento de 23 de Março de 1869 e para efeitos do Decreto n.º 30295, de 22 de Fevereiro de 1940, designar a letra S para servir durante o período que decorre de 1 de Maio do corrente ano a 30 de Abril de 1973 no afilamento de todos os pesos, medidas e mais instrumentos de pesar ou medir, executado em todos os concelhos do País, à excepção do de Lisboa, onde a mesma letra principiará a ser empregada em 1 de Março, data em que no dito concelho terá início a época de aferição, conforme o que está estabelecido no § único do artigo 1.º do citado Decreto n.º 30295, de 22 de Fevereiro de 1940.
+O Secretário de Estado da Indústria, Rogério da Conceição Serafim Martins.
