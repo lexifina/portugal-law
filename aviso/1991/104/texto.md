@@ -1,0 +1,9 @@
+Aviso n.º 104/91
+Por ordem superior se torna público que, por nota de 23 de Abril de 1991, na sua qualidade de depositário, o Secretário-Geral das Nações Unidas comunicou que o Governo da Alemanha fez a seguinte notificação, nos termos do artigo 2.º da Convenção sobre a Cobrança de Alimentos no Estrangeiro, feita em Nova Iorque em 20 de Junho de 1956:
+A República Federal da Alemanha declara que a Convenção sobre a Cobrança de Alimentos no Estrangeiro, de 20 de Junho de 1956, se mantém plenamente válida na República Federal da Alemanha, na sequência do estabelecimento da unidade alemã, a 3 de Outubro de 1990. Com efeitos a partir de 3 de Outubro de 1990, os direitos e obrigações decorrentes da Convenção referem-se a todo o território da Alemanha unida. No que respeita ao parágrafo 3.º do artigo 2.º da referida Convenção, fica declarado, a título de esclarecimento, que a instituição intermediária designada, a saber:
+Bundesverwaltungsamt, Aussenstelle Bad Homburg, Postfach 1254, D-6380 BAD Homburg,
+é a instituição intermediária para todo o território da Alemanha unida.
+As autoridades expedidoras para os cinco Länder da República Federal da Alemanha serão comunicadas logo que tenham sido designadas segundo o direito interno da República Federal da Alemanha.
+Portugal é parte na mesma Convenção, a qual foi aprovada, para adesão, pelo Decreto-Lei n.º 45942, de 28 de Setembro de 1964, tendo depositado o seu instrumento de adesão em 25 de Janeiro de 1965, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 34, de 10 de Fevereiro de 1965.
+A instituição intermediária designada por Portugal é a Direcção-Geral dos Serviços Judiciários, do Ministério da Justiça, conforme aviso publicado no Diário da República, 1.ª série, n.º 16, de 19 de Janeiro de 1985.
+Secretaria-Geral do Ministério, 4 de Junho de 1991. - O Chefe do Serviço Jurídico e de Tratados, António Salgado Manso Preto Mendes Cruz.
