@@ -1,0 +1,5740 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "48",
+    "id": "5868",
+    "titulo": "Orçamento do Estado para 2001"
+  },
+  "fase": "Discussão especialidade",
+  "codigo_fase": "300",
+  "data_registo": "2000-11-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1605",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "300",
+    "Comissao": null,
+    "DataFase": "2000-11-27",
+    "EvtId": "17",
+    "Fase": "Discussão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-11-29",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "211",
+                "nome": "João Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57772",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "932-932"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-30",
+                "pubLeg": "VIII",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/025/2000-11-30/932?pgs=932&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57773",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "932-932",
+                  "954-955"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-30",
+                "pubLeg": "VIII",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/025/2000-11-30/932?pgs=932,954-955&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "192",
+                "nome": "José Penedos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57774",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "932-933"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-30",
+                "pubLeg": "VIII",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/025/2000-11-30/932?pgs=932-933&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57775",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "933-933",
+                  "941-941"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-30",
+                "pubLeg": "VIII",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/025/2000-11-30/933?pgs=933,941&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57776",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "933-933",
+                  "954-954"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-30",
+                "pubLeg": "VIII",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/025/2000-11-30/933?pgs=933,954&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  ADJUNTO DO MINISTRO DA  DEFESA NACIONAL",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Manuel Silva Mourato"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57777",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "933-934"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-30",
+                "pubLeg": "VIII",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/025/2000-11-30/933?pgs=933-934&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "132",
+                "nome": "Rui Rio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57778",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "934-934",
+                  "950-952"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-30",
+                "pubLeg": "VIII",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/025/2000-11-30/934?pgs=934,950-952&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57779",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "934-937",
+                  "942-942",
+                  "953-954"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-30",
+                "pubLeg": "VIII",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/025/2000-11-30/934?pgs=934-937,942,953-954&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57780",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "935-935",
+                  "938-938"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-30",
+                "pubLeg": "VIII",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/025/2000-11-30/935?pgs=935,938&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1537",
+                "nome": "Hugo Velosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57781",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-30",
+                "pubLeg": "VIII",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/025/2000-11-30?org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "390",
+                "nome": "Mota Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57782",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "936-936"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-30",
+                "pubLeg": "VIII",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/025/2000-11-30/936?pgs=936&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57783",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-30",
+                "pubLeg": "VIII",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/025/2000-11-30?org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS PARLAMENTARES",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "José Magalhães"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57784",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "937-937"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-30",
+                "pubLeg": "VIII",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/025/2000-11-30/937?pgs=937&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57785",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "938-940",
+                  "944-945"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-30",
+                "pubLeg": "VIII",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/025/2000-11-30/938?pgs=938-940,944-945&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "744",
+                "nome": "Gil França"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57786",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "938-939"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-30",
+                "pubLeg": "VIII",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/025/2000-11-30/938?pgs=938-939&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1439",
+                "nome": "João Sobral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57787",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "941-941"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-30",
+                "pubLeg": "VIII",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/025/2000-11-30/941?pgs=941&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57788",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "941-941"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-30",
+                "pubLeg": "VIII",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/025/2000-11-30/941?pgs=941&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "428",
+                "nome": "Fernando Serrasqueiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57789",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "941-941"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-30",
+                "pubLeg": "VIII",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/025/2000-11-30/941?pgs=941&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57790",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "942-942"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-30",
+                "pubLeg": "VIII",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/025/2000-11-30/942?pgs=942&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1352",
+                "nome": "Paulo Portas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57791",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "943-944"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-30",
+                "pubLeg": "VIII",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/025/2000-11-30/943?pgs=943-944&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA   ADMINISTRAÇÃO  INTERNA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Nuno Severiano Teixeira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57792",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "943-943"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-30",
+                "pubLeg": "VIII",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/025/2000-11-30/943?pgs=943&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57793",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "943-944"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-30",
+                "pubLeg": "VIII",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/025/2000-11-30/943?pgs=943-944&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57794",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "950-950"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-30",
+                "pubLeg": "VIII",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/025/2000-11-30/950?pgs=950&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  ADJUNTO E DO ORÇAMENTO",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Fernando Pacheco"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57795",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "951-952"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-30",
+                "pubLeg": "VIII",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/025/2000-11-30/951?pgs=951-952&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57796",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "952-952"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-30",
+                "pubLeg": "VIII",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/025/2000-11-30/952?pgs=952&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "314",
+                "nome": "António Capucho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57797",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "952-952"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-30",
+                "pubLeg": "VIII",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/025/2000-11-30/952?pgs=952&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1625",
+                "nome": "Maria Celeste Cardona"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57798",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "955-956"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-30",
+                "pubLeg": "VIII",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/025/2000-11-30/955?pgs=955-956&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "383",
+                "nome": "Durão Barroso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57799",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "959-960"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-30",
+                "pubLeg": "VIII",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/025/2000-11-30/959?pgs=959-960&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1262",
+                "nome": "Francisco de Assis"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57800",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "960-963"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-30",
+                "pubLeg": "VIII",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/025/2000-11-30/960?pgs=960-963&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANCAS",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Pina Moura"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57801",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "963-965"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-30",
+                "pubLeg": "VIII",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/025/2000-11-30/963?pgs=963-965&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:15",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "57802",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "966-966"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-30",
+                "pubLeg": "VIII",
+                "pubNr": "25",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/025/2000-11-30/966?pgs=966&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2001",
+            "teor": null
+          }
+        ]
+      },
+      {
+        "dataReuniaoPlenaria": "2000-11-27",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "314",
+                "nome": "António Capucho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135526",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "808-808"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/808?pgs=808&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1176",
+                "nome": "Casimiro Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135527",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "808-808",
+                  "820-821",
+                  "823-823",
+                  "826-828"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/808?pgs=808,820-821,823,826-828&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135528",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "809-809"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/809?pgs=809&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135684",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "809-811"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/809?pgs=809-811&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "132",
+                "nome": "Rui Rio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135685",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "810-810"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/810?pgs=810&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  ADJUNTO E DO ORÇAMENTO",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Fernando Pacheco"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135686",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "810-812"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/810?pgs=810-812&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135687",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "813-813",
+                  "838-838"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/813?pgs=813,838&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135688",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "813-813"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/813?pgs=813&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1485",
+                "nome": "Rodeia Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135691",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "813-814"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/813?pgs=813-814&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1537",
+                "nome": "Hugo Velosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135692",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "814-814"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/814?pgs=814&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1352",
+                "nome": "Paulo Portas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135693",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "814-815",
+                  "831-832"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/814?pgs=814-815,831-832&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1660",
+                "nome": "Mota Torres"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135694",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "815-815",
+                  "818-818"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/815?pgs=815,818&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "280",
+                "nome": "Carlos Encarnação"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135695",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "816-816"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/816?pgs=816&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "211",
+                "nome": "João Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135696",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "816-816"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/816?pgs=816&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "148",
+                "nome": "Marques Júnior"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135820",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "816-817"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/816?pgs=816-817&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135821",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "817-817"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/817?pgs=817&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1352",
+                "nome": "Paulo Portas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135822",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "817-818",
+                  "831-832",
+                  "835-836",
+                  "838-838"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/817?pgs=817-818,831-832,835-836,838&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135823",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "821-821"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/821?pgs=821&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1351",
+                "nome": "Manuel Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135824",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "821-822",
+                  "827-827"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/821?pgs=821-822,827&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135825",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "823-824",
+                  "830-830"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/823?pgs=823-824,830&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135826",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "826-826",
+                  "840-840"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/826?pgs=826,840&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "121",
+                "nome": "Mário Albuquerque"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135827",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "826-826"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/826?pgs=826&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1290",
+                "nome": "Álvaro Castello-branco"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135828",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "826-826"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/826?pgs=826&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135829",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "827-827"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/827?pgs=827&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135830",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "827-827"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/827?pgs=827&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135831",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "828-828",
+                  "839-839"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/828?pgs=828,839&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135832",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "828-828",
+                  "830-831",
+                  "833-833",
+                  "837-837"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/828?pgs=828,830-831,833,837&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1158",
+                "nome": "Barbosa de Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135833",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "832-832"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/832?pgs=832&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1625",
+                "nome": "Maria Celeste Cardona"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135834",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "832-833"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/832?pgs=832-833&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1168",
+                "nome": "José Egípto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135835",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "823-823"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/823?pgs=823&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DO TRABALHO E DA SOLIDARIEDADE",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Ferro Rodrigues"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135836",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "833-837",
+                  "839-839"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/833?pgs=833-837,839&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "459",
+                "nome": "João Cravinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135837",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "837-838"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/837?pgs=837-838&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1439",
+                "nome": "João Sobral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135838",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "840-840"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/840?pgs=840&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135839",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "840-840"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/840?pgs=840&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1632",
+                "nome": "Vítor Peixoto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "18:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135840",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "842-842"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-28",
+                "pubLeg": "VIII",
+                "pubNr": "23",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28/842?pgs=842&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001.",
+            "teor": null
+          }
+        ]
+      },
+      {
+        "dataReuniaoPlenaria": "2000-11-28",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135477",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "847-847",
+                  "879-879",
+                  "922-922"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/847?pgs=847,879,922&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135478",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "848-848",
+                  "863-863",
+                  "902-904",
+                  "909-909",
+                  "912-912",
+                  "922-922"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/848?pgs=848,863,902-904,909,912,922&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1158",
+                "nome": "Barbosa de Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135479",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "848-848"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/848?pgs=848&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135480",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "848-849",
+                  "851-852",
+                  "879-879",
+                  "911-911"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/848?pgs=848-849,851-852,879,911&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1485",
+                "nome": "Rodeia Machado"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135481",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "849-849"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/849?pgs=849&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA REFORMA  DO ESTADO E DA ADMINISTRAÇÃO PÚBLICA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Alberto Martins"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135482",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "849-850"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/849?pgs=849-850&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1709",
+                "nome": "António Pires de Lima"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135483",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "851-851"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/851?pgs=851&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1102",
+                "nome": "Pedro Mota Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135484",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "851-851",
+                  "912-912"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/851?pgs=851,912&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135485",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "852-852",
+                  "884-885",
+                  "899-900",
+                  "903-903"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/852?pgs=852,884-885,899-900,903&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135486",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "852-853",
+                  "892-893",
+                  "921-922"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/852?pgs=852-853,892-893,921-922&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1625",
+                "nome": "Maria Celeste Cardona"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135487",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "853-853",
+                  "892-892",
+                  "898-899"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/853?pgs=853,892,898-899&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANCAS",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Pina Moura"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135488",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "854-855",
+                  "859-862"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/854?pgs=854-855,859-862&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1625",
+                "nome": "Maria Celeste Cardona"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135489",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "855-855",
+                  "860-860",
+                  "884-884",
+                  "891-892",
+                  "896-896"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/855?pgs=855,860,884,891-892,896&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1352",
+                "nome": "Paulo Portas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135490",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "856-856"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/856?pgs=856&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "428",
+                "nome": "Fernando Serrasqueiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135491",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "856-857",
+                  "876-876",
+                  "908-908",
+                  "925-925"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/856?pgs=856-857,876,908,925&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1709",
+                "nome": "António Pires de Lima"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135492",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "856-857"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/856?pgs=856-857&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135493",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "857-858"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/857?pgs=857-858&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "148",
+                "nome": "Marques Júnior"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135494",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "858-858"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/858?pgs=858&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1131",
+                "nome": "Francisco Torres"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135495",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "858-858",
+                  "898-898",
+                  "900-900"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/858?pgs=858,898,900&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135496",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "861-861"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/861?pgs=861&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1023",
+                "nome": "Maria do Rosário Carneiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135497",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "862-862"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/862?pgs=862&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135498",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "865-872",
+                  "897-897",
+                  "926-926"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/865?pgs=865-872,897,926&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1600",
+                "nome": "Jamila Madeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135499",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "862-863"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/862?pgs=862-863&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS FISCAIS",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Ricardo Sa Fernandes"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135500",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "863-864",
+                  "879-880",
+                  "883-884",
+                  "889-892",
+                  "895-896",
+                  "903-905",
+                  "911-911",
+                  "913-913"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/863?pgs=863-864,879-880,883-884,889-892,895-896,903-905,911,913&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135501",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "866-868",
+                  "877-877"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/866?pgs=866-868,877&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135502",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "866-866",
+                  "869-870",
+                  "926-926"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/866?pgs=866,869-870,926&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1625",
+                "nome": "Maria Celeste Cardona"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135503",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "870-872"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/870?pgs=870-872&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "192",
+                "nome": "José Penedos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135504",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "877-877"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/877?pgs=877&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135505",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "877-877"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/877?pgs=877&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1166",
+                "nome": "Claudio Monteiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135506",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "880-880"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/880?pgs=880&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "132",
+                "nome": "Rui Rio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135507",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "883-883",
+                  "886-886",
+                  "896-896",
+                  "899-899",
+                  "901-901",
+                  "912-912",
+                  "919-920"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/883?pgs=883,886,896,899,901,912,919-920&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "132",
+                "nome": "Rui Rio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135508",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "883-883",
+                  "889-889",
+                  "894-898"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/883?pgs=883,889,894-898&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1701",
+                "nome": "Luísa Portugal"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135509",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135510",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "891-891"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/891?pgs=891&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1176",
+                "nome": "Casimiro Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135511",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "893-893",
+                  "920-920"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/893?pgs=893,920&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135512",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "896-896"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/896?pgs=896&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  ECONOMIA, DA INOVAÇÃO E DO DESENVOLVIMENTO",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Mario Cristina De Sousa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135513",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "898-899"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/898?pgs=898-899&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1167",
+                "nome": "Natalina Tavares de Moura"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135514",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "900-900"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/900?pgs=900&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135515",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "901-901",
+                  "911-913",
+                  "922-922"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/901?pgs=901,911-913,922&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135516",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29?org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1630",
+                "nome": "Menezes Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135517",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "910-910",
+                  "927-927"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/910?pgs=910,927&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "459",
+                "nome": "João Cravinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135518",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "918-918"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/918?pgs=918&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  TESOURO  E FINANÇAS",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Manuel Baganha"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135519",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "920-920"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/920?pgs=920&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1630",
+                "nome": "Menezes Rodrigues"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135520",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "920-920"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/920?pgs=920&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  ADJUNTO E DO ORÇAMENTO",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Fernando Pacheco"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135521",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "921-925"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/921?pgs=921-925&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1537",
+                "nome": "Hugo Velosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135522",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "923-923",
+                  "925-925"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/923?pgs=923,925&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1660",
+                "nome": "Mota Torres"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135523",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "923-923",
+                  "925-925"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/923?pgs=923,925&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135524",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "924-925"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/924?pgs=924-925&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1352",
+                "nome": "Paulo Portas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "135525",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "926-926"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-11-29",
+                "pubLeg": "VIII",
+                "pubNr": "24",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29/926?pgs=926&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 2001",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "104705",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1605",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-11-30",
+        "pubLeg": "VIII",
+        "pubNr": "25",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/025/2000-11-30?org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1606",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-11-28",
+        "pubLeg": "VIII",
+        "pubNr": "23",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/023/2000-11-28?org=PLC"
+      },
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1607",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-11-29",
+        "pubLeg": "VIII",
+        "pubNr": "24",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/024/2000-11-29?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
