@@ -1,0 +1,3 @@
+Despacho ministerial
+Nos termos do artigo 83.º do Regulamento Disciplinar do Pessoal da Polícia de Segurança Pública, aprovado pelo Decreto n.º 40118, de 6 de Abril de 1955, por proposta do Comando-Geral da Polícia de Segurança Pública, determino que, para os efeitos dos artigos 39.º e 40.º do mesmo regulamento, as penas de prisão disciplinar agravada aplicadas aos agentes da mesma Polícia prestando serviço nas companhias móveis destacadas no ultramar, nos termos do Regulamento de Disciplina Militar, sejam equivalentes ao dobro das penas de prisão disciplinar, como dispõe o artigo 200.º deste regulamento.
+Ministério do Interior, 4 de Julho de 1962. - O Ministro do Interior, Alfredo Rodrigues dos Santos Júnior.
