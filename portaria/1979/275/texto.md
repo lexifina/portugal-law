@@ -1,0 +1,4 @@
+Portaria n.º 275/79
+de 11 de Junho
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e do Comércio e Turismo, sob proposta da Companhia de Seguro de Créditos e mediante parecer favorável da Comissão de Créditos e Garantias de Créditos, nos termos do n.º 1 do artigo 8.º do Decreto-Lei n.º 318/76, de 30 de Abril, autorizar a referida Companhia a adoptar no seguro de crédito externo as condições gerais da Apólice Individual - Riscos Comerciais - Exportação de Serviços - ICS, em conformidade com os documentos que ficam arquivados na Inspecção de Seguros e no Instituto Nacional de Seguros.
+Ministérios das Finanças e do Plano e do Comércio e Turismo, 25 de Maio de 1979. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado das Finanças. - O Ministro do Comércio e Turismo, Abel Pinto Repolho Correia.
