@@ -1,0 +1,5 @@
+Portaria n.º 924/82
+de 1 de Outubro
+Tendo em atenção o disposto na alínea b) do n.º 3 do artigo 12.º, conjugado com o n.º 5 do mesmo artigo, e no artigo 14.º do Decreto-Lei n.º 191-F/79, de 26 de Junho:
+Manda o Governo da República Portuguesa pelos Ministros de Estado e da Qualidade de Vida e das Finanças e do Plano e pelo Ministro da Reforma Administrativa, criar, no quadro da Direcção-Geral dos Desportos, da Secretaria de Estado dos Desportos, a que se refere o mapa I anexo ao Decreto-Lei n.º 553/77, de 31 de Dezembro, conjugado com os artigos 1.º e 3.º do Decreto-Lei n.º 71/81, de 7 de Abril, 1 lugar de assessor, letra C, o qual será extinto quando vagar.
+Ministérios da Qualidade de Vida, das Finanças e do Plano e da Reforma Administrativa, 15 de Setembro de 1982. - O Ministro de Estado e da Qualidade de Vida, Gonçalo Pereira Ribeiro Teles. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
