@@ -2,7 +2,7 @@
 
 ### (Mora do locatário)
 
-1. Constituindo-se o locatário em mora, o locador tem o direito de exigir, além das rendas ou alugueres em atraso, uma indemnização igual ao dobro do que for devido, salvo se o contrato for resolvido com base na falta de pagamento.
+1. Constituindo-se o locatário em mora, o locador tem o direito de exigir, além das rendas ou alugueres em atraso, uma indemnização igual a 50% do que for devido, salvo se o contrato for resolvido com base na falta de pagamento.
 
 2. Cessa o direito à indemnização ou à resolução do contrato, se o locatário fizer cessar a mora no prazo de oito dias a contar do seu começo.
 

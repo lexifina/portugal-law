@@ -2,7 +2,7 @@
 
 ### (Transmissão por morte do arrendatário)
 
-1. O arrendamento não caduca por morte do primitivo arrendatário ou daquele a quem tiver sido cedida a sua posição contratual, se lhe sobreviver cônjuge não separado judicialmente de pessoas e bens ou de facto, ou deixar parentes ou afins na linha recta que com ele vivessem, pelo menos, há um ano; mas os sucessores podem renunciar à transmissão, comunicando a renúncia ao senhorio no prazo de trinta dias.
+1. O arrendamento não caduca por morte do arrendatário, ou daquele a quem tiver sido cedida a sua posição contratual, se lhe sobreviver cônjuge não separado judicialmente de pessoas e bens ou de facto, ou deixar parentes ou afins na linha recta que com ele vivessem, pelo menos, há um ano; mas os sucessores podem renunciar à transmissão, comunicando a renúncia ao senhorio no prazo de trinta dias.
 
 2. A transmissão da posição do inquilino, estabelecida no número anterior, defere-se pela ordem seguinte:
 
