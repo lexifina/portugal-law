@@ -1,0 +1,15 @@
+Decreto Regulamentar n.º 6/80
+de 26 de Março
+Por decreto publicado no Diário do Governo, 3.ª série, n.º 164, de 14 de Julho de 1954, foi outorgada à então Hidro-Eléctrica do Douro, S. A. R. L. - actualmente integrada na Electricidade de Portugal - EDP, E. P., pelo Decreto-Lei n.º 502/76, de 30 de Junho -, a concessão do aproveitamento hidroeléctrico do rio Douro.
+Dado que naquela época o escalão de Crestuma não estava ainda previsto, não foram considerados no perímetro hidráulico da concessão do rio Douro as freguesias correspondentes à implantação daquele empreendimento, presentemente em curso.
+Por outro lado, relativamente ao escalão do Pocinho, cuja realização se encontra igualmente em curso, faltou a inclusão da freguesia de Freixo de Espada à Cinta.
+Estando cumpridas as formalidades regulamentares necessárias à realização dos referidos escalões hidroeléctricos, torna-se indispensável incluir no perímetro hidráulico da concessão inicial as freguesias directamente relacionadas com as obras presentemente em realização, com vista à legalização da situação criada.
+Relativamente ao escalão de Crestuma foi publicado no Diário da República, 3.ª série, n.º 29, de 4 de Fevereiro de 1980, um decreto incluindo um conjunto de freguesias no perímetro hidráulico da concessão em questão.
+Tendo-se verificado posteriormente que aquele conjunto não estava completo, aproveita-se a promulgação do presente diploma para se considerar a totalidade das freguesias que realmente interessam à realização dos aproveitamentos hidroeléctricos de Crestuma e Pocinho.
+Nestas condições, impondo-se e rectificação dos referidos decretos e caderno de encargos da concessão em causa, de modo que seja ampliado o perímetro hidráulico da concessão:
+O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+Artigo único. São incluídas as freguesias de Fornos, Pedorido, Raiva, Santa Maria de Sardoura e S. Martinho de Sardoura, do concelho de Castelo de Paiva, de Espadanedo, Santiago de Piães, Souselo e Tarouquela, do concelho de Cinfães, de Canedo, do concelho da Feira, de Freixo de Espada à Cinta, do concelho de Freixo de Espada à Cinta, de Covelo, Foz do Sousa, Lomba, Medas e Melres, do concelho de Gondomar, de Alpendurada e Matos, Magrelos, Sande, S. Lourenço do Douro, Torrão e Várzea do Douro, do concelho de Marco de Canavezes, de Boelhe, Canelas, Eja, Rio de Moinhos e Sebolido, do concelho de Penafiel, e de Crestuma e Lever, do concelho de Vila Nova de Gaia, no perímetro hidráulico da concessão do aproveitamento hidroeléctrico do rio Douro, outorgada à ex-Hidro-Eléctrica do Douro, S. A. R. L., actualmente integrada na Electricidade de Portugal - EDP, E. P., conforme decreto publicado no Diário do Governo, 3.ª série, n.º 164, de 14 de Julho de 1954, considerando-se alterados em conformidade o artigo único desse diploma e o artigo 1.º do caderno de encargos da mesma concessão.
+Francisco Sá Carneiro - Mário Ferreira Bastos Raposo - Aníbal António Cavaco Silva - Álvaro Roque de Pinho Bissaia Barreto - João Lopes Porto.
+Promulgado em 20 de Março de 1980.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
