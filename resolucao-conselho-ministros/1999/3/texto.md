@@ -1,0 +1,43 @@
+Resolução do Conselho de Ministros n.º 3/99
+A implementação da estratégia definida para a saúde, consubstanciando uma profunda reforma do sector e do Ministério, exige um conjunto articulado de acções de formação que acompanhem e suportem a concretização das opções estratégicas e abarquem os principais grupos profissionais nelas envolvidos. É sabido que qualquer reforma de um sistema passa pelo desenvolvimento de competências ajustadas a novos e mais qualificantes desempenhos e de uma cultura organizacional assente nos valores que lhe estão subjacentes.
+Por outro lado, é consciência adquirida que a capacidade de implementação de práticas ajustadas aos objectivos visados pela reforma depende fortemente dos dirigentes, aos diversos níveis, sendo hoje consensual que o exercício de funções de gestão carece, como quaisquer outras funções, de formação inicial e de formação continuada.
+Neste contexto, parece fundamental, como suporte à estratégia definida para a saúde, garantir um programa bem consolidado de formação para gestão, que compreenda um tronco comum, que desenvolva alinhamentos estratégicos, valores e referenciais de gestão partilhados, e desenvolvimentos específicos, de acordo com os principais cargos de direcção em que assenta o funcionamento do Ministério. Este programa deverá ainda ter em conta os parceiros sociais do sistema de saúde, bem como o carácter evolutivo do sector, prevendo a alimentação das dinâmicas e competências desenvolvidas.
+A reforma da saúde tem desencadeado diferentes propostas de formação, visando diferentes áreas e destinatários, que carecem de ser articuladas, de modo a dar coerência à formação e a rentabilizar os investimentos envolvidos, sem perca de iniciativa dos diferentes actores.
+A dinamização das medidas de reforma comporta muitos intervenientes, com papel na concretização da formação de suporte à componente estratégica sob responsabilidade de cada um.
+Torna-se assim urgente desenvolver um funcionamento em rede, capaz de consubstanciar e concretizar um plano de formação de suporte à reforma da saúde, que conte com contributos específicos e com iniciativas globais, de que é um exemplo a formação de dirigentes.
+Este trabalho deverá permitir a clarificação e consolidação de um autêntico sistema formativo para a saúde, que atente na necessidade de se garantir a formação contínua dos seus profissionais e o desenvolvimento das suas organizações e do sector em geral.
+As necessidades e objectivos delineados não deverão fazer apelo a grandes estruturas, mas ao reforço do trabalho em articulação, contando não apenas com os recursos internos do Ministério mas com os diferentes parceiros sociais, bem como à aquisição de serviços no exterior.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, conjuntamente com o disposto nos artigos 10.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, e 23.º do Decreto-Lei n.º 323/89, de 26 de Setembro, o Conselho de Ministros resolve:
+1 - É criada, na dependência da Ministra da Saúde e no âmbito da «administração de missão», uma equipa de missão com a finalidade de garantir a formação necessária à concretização da estratégia definida para a saúde e contribuir para o desenvolvimento e consolidação de um sistema de formação no sector.
+2 - À estrutura de missão é atribuída a designação de Gabinete para o Desenvolvimento do Sistema de Formação da Saúde (GDF).
+3 - O mandato do Gabinete tem a duração de três anos, extinguindo-se após o decurso deste período ou a criação de outra solução organizativa.
+4 - De acordo com a missão do Gabinete, são suas atribuições:
+a) Garantir uma visão e uma resposta integrada às necessidades de desenvolvimento profissional e organizacional decorrentes da estratégia do sector, em colaboração com as diferentes entidades com intervenção no sistema de saúde, rentabilizando investimentos e viabilizando ganhos de eficácia;
+b) Promover a concepção e implementação de um sistema de formação em gestão para a saúde, que garanta a formação inicial e continuada dos seus dirigentes;
+c) Levar a cabo acções que, pelo seu carácter estratégico e ou inovador, mereçam ser concretizadas a nível central;
+d) Incentivar o desenvolvimento de novas formas de aquisição de conhecimentos e capacidades, nomeadamente através de redes de informação de comunicação e de partilha de experiências, de centros de recursos e de consultoria.
+5 - Deste modo, compete a este Gabinete:
+a) Promover a concepção do plano de formação de suporte à estratégia definida para a saúde, com particular prioridade para o programa de formação de dirigentes, em articulação, nomeadamente, com os organismos centrais do Ministério competentes na matéria e as administrações regionais de saúde;
+b) Garantir, com meios internos ao Ministério e aquisição de serviços externos, em particular através de colaborações com as universidades e outros estabelecimentos de ensino, as acções conducentes à execução do plano de formação;
+c) Acompanhar e controlar a execução do plano de formação e prestar e divulgar periodicamente informação sobre o assunto;
+d) Avaliar, de forma sistemática, a formação realizada no âmbito do plano, designadamente a que é estruturante e de média e longa duração;
+e) Promover estudos e propor medidas que visem a redefinição da arquitectura do sistema de formação permanente da saúde, em articulação com o Ministério do Trabalho e da Solidariedade, e da formação inserida no sistema de ensino, em conjugação com o Ministério da Educação;
+f) Promover estudos e propor iniciativas conducentes a melhorias na rede de formação permanente e na qualidade das acções por ela realizadas;
+g) Assegurar o ajustamento dos planos de acção das diversas entidades do sistema formativo sectorial às reais necessidades dos sectores público e privado;
+h) Solicitar opiniões e pareceres aos serviços competentes, sempre que necessário;
+i) Elaborar projectos de textos legislativos necessários à implementação das propostas que mereçam aprovação da tutela;
+j) Promover, preparar e realizar acções de informação e de sensibilização de todos os intervenientes no processo formativo dos profissionais da saúde;
+k) Promover o arrendamento dos imóveis necessários à instalação da equipa de missão e a execução de benfeitorias em imóveis do património do Ministério da Saúde alocados ao Gabinete, quando se justifique;
+l) Promover a aquisição ou aluguer dos bens móveis necessários;
+m) Colaborar com o Gabinete de Gestão do Subprograma Saúde no sentido de se conseguirem os financiamentos comunitários necessários ao plano de formação de suporte à estratégia da saúde e demais acções a desenvolver neste domínio.
+6 - Incumbe aos serviços a quem a equipa de missão solicitar apoio o dever de colaboração.
+7 - O Gabinete é gerido por um director, coadjuvado por três adjuntos, nomeados por despacho da Ministra da Saúde e disporá do pessoal que nele venha a exercer funções nos termos do n.º 10 da presente resolução.
+8 - No desempenho das suas funções, o director é equiparado para todos os efeitos legais a director-geral e os adjuntos a subdirector-geral.
+9 - O director do Gabinete poderá propor, nos termos da lei, a realização e correspondente adjudicação de estudos e aquisição de bens e serviços que se mostrem indispensáveis ao cumprimento da missão.
+10 - Para a execução do disposto no n.º 7 podem ser nomeados, em regime de comissão de serviço, requisição ou destacamento, funcionários da administração central, regional ou local e técnicos de empresas públicas ou privadas, podendo ainda, nos termos do Decreto-Lei n.º 41/84, de 3 de Fevereiro, quando as circunstâncias o aconselharem, haver recurso a contratos de prestação de serviço e a contratos individuais de trabalho, a termo certo, os quais caducarão com a extinção da estrutura de missão.
+11 - Considerando o reduzido número de elementos do Gabinete e a exigência de experiência e elevado desempenho decorrentes da complexidade e intensidade de relações requeridas pelo trabalho, os assessores auferirão o vencimento correspondente a 70% da remuneração do director do Gabinete.
+12 - O apoio logístico ao funcionamento da estrutura de missão é assegurado pelo Instituto de Gestão Informática e Financeira (IGIF), do Ministério da Saúde.
+13 - Todos os encargos orçamentais decorrentes do previsto na presente resolução serão suportados pelo IGIF, integrando no seu património a propriedade de todos os bens adquiridos por esta estrutura de missão.
+14 - A presente resolução produz efeitos a partir de 1 de Outubro de 1998.
+Visto e aprovado em Conselho de Ministros de 8 de Janeiro de 1999. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
