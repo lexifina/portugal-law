@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1916/06/11500/05790579.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1916-06-09",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "4838f32690eea1987404e0323cac69f9bab399bb08997cf0ece454df0e6c5d1d",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.0,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "ff195b9489133e60616baae67062289a1769937333220bdb595508711ef6d57c",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 192
 }
