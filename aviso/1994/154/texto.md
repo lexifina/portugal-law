@@ -1,0 +1,3 @@
+Aviso n.º 154/94
+Por ordem superior se torna público que El Salvador e Tuvalu depositaram junto do Secretário-Geral das Nações Unidas, a 13 e 27 de Janeiro de 1994, respectivamente, o instrumento de aceitação das Emendas aos artigos 24.º e 25.º da Constituição da Organização Mundial da Saúde, assinada em Nova Iorque, a 22 de Julho de 1946, tal como foram adoptadas pela 39.ª Sessão da Assembleia Mundial da Saúde em 12 de Maio de 1986.
+Direcção-Geral dos Assuntos Multilaterais, 31 de Maio de 1994. - A Directora de Serviços das Organizações Políticas Internacionais, Ana Maria da Silva Marques Martinho.
