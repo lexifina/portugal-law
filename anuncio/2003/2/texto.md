@@ -1,0 +1,6 @@
+Anúncio n.º 2/2003
+Pedido de declaração de ilegalidade de normas n.º 07116/03, da 1.ª Subsecção do Contencioso Administrativo do Tribunal Central Administrativo.
+Recorrente: URBILISBOA - Habitação e Construção, C. R. L., e outros.
+Recorrido: Ministro das Cidades, Ordenamento do Território e Ambiente e outra.
+Faz-se saber que nos autos acima identificados são citados os recorridos particulares para contestarem, querendo, no prazo de 30 dias, finda a dilação de 30 dias, contada a partir da data de publicação deste anúncio, e que a falta de contestação não importa a confissão dos factos articulados pelo recorrente e que consiste no pedido de declaração de ilegalidade do Plano de Pormenor 3 - zona sul, Avenida do Marechal Gomes da Costa, elaborado pela Parque EXPO 98, S. A., com sede na Avenida do Marechal Gomes da Costa, 37, 1800 Lisboa, e aprovado pela Portaria n.º 1130-B/99, de 31 de Dezembro, do Ministério do Ambiente e do Ordenamento do Território, publicado no Diário da República, 1.ª série-B, n.º 303, de 31 de Dezembro de 1999, 4.º suplemento, conforme consta da petição inicial, cujo duplicado se encontra neste Tribunal à disposição dos citandos.
+Lisboa, 5 de Junho de 2003. - O Juiz Desembargador, Fonseca da Paz. - O Oficial de Justiça, Ana Cristina Roque.
