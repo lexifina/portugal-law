@@ -17,9 +17,23 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1948/05/12400/04710473.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1948-05-29",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "5b52314fe7f1aebef8d266eb0463a85be09a0b76e700d17020bc898f5d779448",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.8,
+    "pages": 3,
+    "columns": [
+      3,
+      3,
+      3
+    ],
+    "pdf_sha256": "f888e5350f65fd645d64d73a40161346b63c912b17aa5b3a546aa91953fc4c43",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 2410
 }
