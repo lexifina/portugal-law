@@ -1,0 +1,25 @@
+Declaração
+Para os devidos efeitos se declara que a Lei n.º 4/82, de 15 de Abril, inserta no Diário da República, 1.ª série, n.º 87, de 15 de Abril de 1982, sobre taxas de câmbio consular, saiu sem inclusão da promulgação e da referenda, pelo que é novamente publicada.
+Assembleia da República, 15 de Abril de 1982. - O Secretário-Geral da Assembleia da República, Octávio de Carvalho Cruz.
+
+Lei n.º 4/82
+de 15 de Abril
+Taxas de câmbio consular
+A Assembleia da República decreta, nos termos da alínea d) do artigo 164.º e do n.º 2 do artigo 169.º da Constituição, o seguinte:
+ARTIGO 1.º
+O artigo 23.º da tabela de emolumentos consulares, aprovada pelo Decreto-Lei n.º 46641, de 13 de Novembro de 1965, passa a ter a seguinte redacção:
+Art. 23.º - 1 - A conversão dos escudos na moeda do país em que forem cobradas as taxas dos emolumentos consulares estabelecidas nas secções desta tabela será efectuada, segundo os câmbios fixados para este fim, pelo Ministério dos Negócios Estrangeiros, de acordo com o disposto nos números seguintes.
+2 - As taxas de conversão de escudos nas moedas dos países em que são cobrados emolumentos consulares - taxas de câmbio consular - serão iguais aos câmbios de compra das divisas cotadas pelo Banco de Portugal.
+3 - Quando alguma divisa não for cotada pelo Banco de Portugal, a taxa de câmbio consular será calculada por meio de câmbio cruzado (cross-rate), preferentemente em função do dólar dos EUA ou da libra esterlina.
+4 - O montante em moeda estrangeira resultante da conversão, segundo os números anteriores, será arredondado, quando necessário, em ordem a facilitar a cobrança.
+5 - As taxas de câmbio consular serão obrigatoriamente revistas no início de cada ano e, além disso, sempre que o desvio entre uma taxa de câmbio consular em vigor e o câmbio no último dia de cada mês, determinado nos termos dos n.os 2 e 3, for igual ou superior a 6%.
+6 - As taxas revistas em obediência ao número anterior entrarão em vigor até ao fim do mês seguinte ao da data da cotação que lhes servir de base.
+ARTIGO 2.º
+Todas as taxas de câmbio consular em vigor serão actualizadas com base nos câmbios do último dia do mês seguinte ao da promulgação da presente lei e as novas taxas serão postas em vigor até ao fim do segundo mês seguinte.
+ARTIGO 3.º
+Independentemente de as novas taxas de câmbio serem comunicadas aos postos consulares pelo Ministério dos Negócios Estrangeiros pelos meios habituais, a fim de serem postas em vigor, aquele Ministério dar-lhes-á publicidade em aviso no Diário da República.
+Aprovada em 28 de Janeiro de 1982.
+O Presidente da Assembleia da República, Francisco Manuel Lopes Vieira de Oliveira Dias.
+Promulgada em 15 de Fevereiro de 1982.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
