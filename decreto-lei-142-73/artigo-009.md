@@ -8,4 +8,4 @@ a) O tempo relativo ao período anterior à inscrição no Montepio, incluindo o
 
 b) As percentagens de aumento de tempo de serviço relativas a período posterior à inscrição no Montepio que forem consideradas para efeitos de aposentação ou reforma.
 
-2. O tempo a que se refere a alínea a) do número precedente não será contado se o contribuinte não houver requerido a retroacção prevista no artigo anterior.
+2. (Revogado).

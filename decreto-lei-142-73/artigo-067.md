@@ -1,5 +1,5 @@
 # Artigo 67.º
 
-### (Contribuintes na situação de licença ilimitada ou de inactividade)
+### (Subsídio de casamento)
 
-Aos contribuintes do Montepio que à data da entrada em vigor do presente Estatuto se encontrem na situação de licença ilimitada, inactividade ou situação equiparada e posteriormente regressem à efectividade serão aplicáveis as disposições dos artigos 61.º e 62.º
+Os herdeiros hábeis referidos no artigo 64.º têm direito a atribuição de um subsídio de casamento nos mesmos termos em que é concedido aos pensionistas abrangidos pelo artigo 48.º
