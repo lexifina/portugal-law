@@ -1,0 +1,3 @@
+Portaria n.º 18114
+Manda o Governo da República Portuguesa, pelo Ministro da Justiça, que, nos termos do § único do artigo 82.º da Lei n.º 2049, de 6 de Agosto de 1951, sejam aumentados com um terceiro-ajudante e um escriturário de 2.ª classe, cada um, os quadros do pessoal auxiliar das Conservatórias do Registo Predial de Cascais e Sintra e que seja fixado com um terceiro-ajudante, um escriturário de 1.ª classe e um escriturário de 2.ª classe o quadro do pessoal auxiliar de cada uma das Conservatórias do Registo Predial de Oeiras e de Loures.
+Ministério da Justiça, 12 de Dezembro de 1960. - O Ministro da Justiça, João de Matos Antunes Varela.
