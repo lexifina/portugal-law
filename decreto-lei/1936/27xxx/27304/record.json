@@ -17,9 +17,29 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1936/12/28700/16031611.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1936-12-08",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "587dec5af261ae6ff9f1dd1806ea7b97ff2e40e994868b53e148628df410f458",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.1,
+    "pages": 9,
+    "columns": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "pdf_sha256": "18f28fae9522b9953ca98b6793bb3789a95ed71295658c95ca7991cd59c203ab",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 7970
 }
