@@ -1,0 +1,16 @@
+Despacho
+1. Dada a situação precária das instalações da maioria dos serviços públicos, a sua dispersão e a notória falta de uma política governamental sobre esta matéria, foi decidido, por acordo entre os Ministérios da Administração Interna, das Finanças e do Equipamento Social, criar uma comissão com representantes seus e do Estado-Maior-General das Forças Armadas, que estudará e proporá, no prazo máximo de trinta dias, e após contrato com todos os Ministérios e o Estado-Maior-General das Forças Armadas, as medidas necessárias para se dar início imediato à resolução dos referidos problemas.
+2. As medidas em causa abrangerão, nomeadamente:
+a) Elaboração de listagem dos edifícios disponíveis susceptíveis de serem consignados ao fim em vista, seja qual for o tipo de património a que pertençam, desde que do Estado;
+b) Elaboração de listagem das necessidades de instalação dos diversos serviços;
+c) Indicação sobre a recuperação, para habitação, das instalações ocupadas por serviços do Estado e que por eles possam vir a ser abandonadas em resultado de transferência para os edifícios a que alude a alínea a);
+d) Indicação sobre a distribuição dos edifícios constantes da listagem a que se refere a alínea a) segundo as necessidades apuradas de acordo com a alínea b).
+3. A comissão poderá integrar nas suas atribuições todas as incumbências específicas que já se encontrem fixadas a outras comissões ou grupos de trabalho com finalidade idêntica, incumbências específicas essas de que é exemplo a definição do programa de utilização e distribuição do conjunto dos imóveis situados em Lisboa, na Avenida de 24 de Julho, 130 a 142-C, propriedade da Companhia Industrial de Portugal e Colónias, tarefa esta já cometida a grupo de trabalho constituído nos termos do artigo 3.º do Decreto n.º 394/75, de 22 de Julho.
+Em razão do que se refere, a comissão acompanhará, integrando-os ou não no seu estudo, os estudos específicos cometidos a grupos de trabalho já formados, grupos de trabalho esses que, por tal motivo, actuarão sob sua orientação.
+4. Desde já fica estabelecido que, numa segunda fase, o trabalho decorrente das medidas sugeridas pela comissão e aprovadas pelo Governo será concentrado na Direcção-Geral dos Edifícios e Monumentos Nacionais no que concerne ao estudo e execução de obras exigidas pelos edifícios inventariados e distribuídos.
+5. A comissão será presidida pelo representante do Ministério do Equipamento Social e terá a seguinte composição:
+Pelo Estado-Maior-General das Forças Armadas - director das Infra-Estruturas do Estado-Maior-General da Forças Armadas;
+Pelo Ministério da Administração Interna - director-geral da Organização Administrativa;
+Pelo Ministério das Finanças - director-geral da Fazenda Pública;
+Pelo Ministério do Equipamento Social - director-geral dos Edifícios e Monumentos Nacionais.
+Estado-Maior-General das Forças Armadas e Ministérios da Administração Interna, das Finanças e do Equipamento Social, 31 de Outubro de 1975. - O Chefe do Estado-Maior-General das Forças Armadas, Francisco da Costa Gomes. - O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa. - O Ministro das Finanças, Francisco Salgado Zenha. - O Ministro do Equipamento Social, Álvaro Augusto Veiga de Oliveira.
