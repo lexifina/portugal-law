@@ -1,0 +1,673 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "63",
+    "id": "29232",
+    "titulo": "Revoga o Decreto-Lei 308-A/75 de 24 de Junho, relativo à conservação de nacionalidade portuguesa por cidadãos domiciliados nos novos países africanos de expressão portuguesa"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1988-07-14",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "5074",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1988-07-14",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1988-07-14",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  ADJUNTO DO MINISTRO DA  ADMINISTRAÇÃO INTERNA",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "José De Oliveira Lobo"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214231",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4702-4702",
+                  "4703-4703"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-15",
+                "pubLeg": "V",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15/4702?pgs=4702,4703&org=PLC"
+              }
+            ],
+            "sumario": "Revoga o Decreto-Lei 308-A/75 de 24 de Junho, relativo à conservação de nacionalidade portuguesa por cidadãos domiciliados nos novos países africanos de expressão portuguesa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214232",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4703-4703"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-15",
+                "pubLeg": "V",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15/4703?pgs=4703&org=PLC"
+              }
+            ],
+            "sumario": "Revoga o Decreto-Lei 308-A/75 de 24 de Junho, relativo à conservação de nacionalidade portuguesa por cidadãos domiciliados nos novos países africanos de expressão portuguesa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214233",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4703-4704"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-15",
+                "pubLeg": "V",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15/4703?pgs=4703-4704&org=PLC"
+              }
+            ],
+            "sumario": "Revoga o Decreto-Lei 308-A/75 de 24 de Junho, relativo à conservação de nacionalidade portuguesa por cidadãos domiciliados nos novos países africanos de expressão portuguesa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214234",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4704-4705"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-15",
+                "pubLeg": "V",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15/4704?pgs=4704-4705&org=PLC"
+              }
+            ],
+            "sumario": "Revoga o Decreto-Lei 308-A/75 de 24 de Junho, relativo à conservação de nacionalidade portuguesa por cidadãos domiciliados nos novos países africanos de expressão portuguesa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214235",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4705-4708",
+                  "4709-4710"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-15",
+                "pubLeg": "V",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15/4705?pgs=4705-4708,4709-4710&org=PLC"
+              }
+            ],
+            "sumario": "Revoga o Decreto-Lei 308-A/75 de 24 de Junho, relativo à conservação de nacionalidade portuguesa por cidadãos domiciliados nos novos países africanos de expressão portuguesa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214236",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4708-4709",
+                  "4710-4710"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-15",
+                "pubLeg": "V",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15/4708?pgs=4708-4709,4710&org=PLC"
+              }
+            ],
+            "sumario": "Revoga o Decreto-Lei 308-A/75 de 24 de Junho, relativo à conservação de nacionalidade portuguesa por cidadãos domiciliados nos novos países africanos de expressão portuguesa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214237",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4709-4709"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-15",
+                "pubLeg": "V",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15/4709?pgs=4709&org=PLC"
+              }
+            ],
+            "sumario": "Revoga o Decreto-Lei 308-A/75 de 24 de Junho, relativo à conservação de nacionalidade portuguesa por cidadãos domiciliados nos novos países africanos de expressão portuguesa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  ADJUNTO DO MINISTRO DA  ADMINISTRAÇÃO INTERNA",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "José De Oliveira Lobo"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214238",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4710-4711",
+                  "4713-4714"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-15",
+                "pubLeg": "V",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15/4710?pgs=4710-4711,4713-4714&org=PLC"
+              }
+            ],
+            "sumario": "Revoga o Decreto-Lei 308-A/75 de 24 de Junho, relativo à conservação de nacionalidade portuguesa por cidadãos domiciliados nos novos países africanos de expressão portuguesa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214239",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4711-4711"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-15",
+                "pubLeg": "V",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15/4711?pgs=4711&org=PLC"
+              }
+            ],
+            "sumario": "Revoga o Decreto-Lei 308-A/75 de 24 de Junho, relativo à conservação de nacionalidade portuguesa por cidadãos domiciliados nos novos países africanos de expressão portuguesa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214240",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4711-4712",
+                  "4712-4712",
+                  "4714-4714"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-15",
+                "pubLeg": "V",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15/4711?pgs=4711-4712,4712,4714&org=PLC"
+              }
+            ],
+            "sumario": "Revoga o Decreto-Lei 308-A/75 de 24 de Junho, relativo à conservação de nacionalidade portuguesa por cidadãos domiciliados nos novos países africanos de expressão portuguesa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214241",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4712-4713"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-15",
+                "pubLeg": "V",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15/4712?pgs=4712-4713&org=PLC"
+              }
+            ],
+            "sumario": "Revoga o Decreto-Lei 308-A/75 de 24 de Junho, relativo à conservação de nacionalidade portuguesa por cidadãos domiciliados nos novos países africanos de expressão portuguesa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214242",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4713-4713"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-15",
+                "pubLeg": "V",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15/4713?pgs=4713&org=PLC"
+              }
+            ],
+            "sumario": "Revoga o Decreto-Lei 308-A/75 de 24 de Junho, relativo à conservação de nacionalidade portuguesa por cidadãos domiciliados nos novos países africanos de expressão portuguesa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214243",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4714-4715",
+                  "4715-4715"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-15",
+                "pubLeg": "V",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15/4714?pgs=4714-4715,4715&org=PLC"
+              }
+            ],
+            "sumario": "Revoga o Decreto-Lei 308-A/75 de 24 de Junho, relativo à conservação de nacionalidade portuguesa por cidadãos domiciliados nos novos países africanos de expressão portuguesa.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:20",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  ADJUNTO DO MINISTRO DA  ADMINISTRAÇÃO INTERNA",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "José De Oliveira Lobo"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214244",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4715-4715"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-15",
+                "pubLeg": "V",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15/4715?pgs=4715&org=PLC"
+              }
+            ],
+            "sumario": "Revoga o Decreto-Lei 308-A/75 de 24 de Junho, relativo à conservação de nacionalidade portuguesa por cidadãos domiciliados nos novos países africanos de expressão portuguesa.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "226538",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "5074",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-07-15",
+        "pubLeg": "V",
+        "pubNr": "116",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/116/1988-07-15?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
