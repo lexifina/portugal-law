@@ -1,0 +1,5 @@
+# Artigo 9.º
+
+1. A instalação e utilização, nas zonas de libertação primárias, de qualquer aparelhagem eléctrica susceptível de prejudicar o funcionamento das instalações do respectivo centro, bem como a introdução de alterações na aparelhagem eléctrica já existente, carecem sempre de prévia autorização da instância oficial competente.
+
+2. Independentemente do disposto no número anterior, os proprietários de qualquer aparelhagem eléctrica que cause perturbações electromagnéticas prejudiciais ao centro considerado ficam obrigados a suspender imediatamente o funcionamento dessa aparelhagem após aviso da entidade exploradora do mesmo centro. Este aviso deverá ser simultaneamente transmitido à instância oficial a quem compete, nos termos do Decreto n.º 35447, de 8 de Janeiro de 1946, a fiscalização das interferências radioeléctricas, acompanhado de documento onde se justifiquem os motivos determinantes daquela suspensão e se solicitem as providências tendentes a eliminar as perturbações verificadas.
