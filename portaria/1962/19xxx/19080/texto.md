@@ -1,0 +1,5 @@
+Portaria n.º 19080
+As comissões venatórias concelhias abaixo indicadas não estão em condições legais de efectuar despesas, em virtude de não terem submetido à aprovação, em tempo competente, os seus orçamentos, ou por estes não terem merecido a aprovação do respectivo governo civil.
+Para que nestes concelhos não deixe de ser exercida a necessária acção de defesa e fomento da caça:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, que, nos termos do artigo 2.º do Decreto n.º 30335, de 29 de Março de 1940, e para os fins do § único do mesmo artigo, seja autorizada a transferência para a Comissão Venatória Regional do Norte das quantias depositadas nos termos do mesmo decreto e de todas as que se destinam ao fundo especial das comissões venatórias dos concelhos de Alfândega da Fé, Arouca, Bragança, Freixo de Espada à Cinta, Marco de Canaveses, Melgaço, Mesão Frio, Miranda do Douro, Penafiel, Vila Verde, Vimioso e Vinhais.
+Secretaria de Estado da Agricultura, 16 de Março de 1962. - O Secretário de Estado da Agricultura, João Mota Pereira de Campos.
