@@ -1,0 +1,3 @@
+Despacho Normativo n.º 4/79
+Delego no Vice-Primeiro-Ministro para os Assuntos Económicos e Integração Europeia e Ministro das Finanças e do Plano, Prof. Doutor Manuel Jacinto Nunes, com possibilidade de este subdelegar, no todo ou em parte, no Secretário de Estado do Planeamento, Prof. Doutor Rui José da Conceição Nunes, a competência que me é atribuída, relativamente ao Conselho Nacional de Estatística, no n.º 1 do artigo 4.º do Decreto-Lei n.º 427/73, de 25 de Agosto, na redacção que lhe foi dada pelo Decreto-Lei n.º 96/77, de 17 de Março, e no artigo 4.º do Decreto n.º 428/73, de 25 de Agosto.
+Presidência do Conselho de Ministros, 26 de Dezembro de 1978. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.
