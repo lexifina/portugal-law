@@ -1,0 +1,7 @@
+Portaria n.º 516/77
+de 12 de Agosto
+Mostrando-se de todo o interesse a participação de um representante do Ministério do Plano e Coordenação Económica nos trabalhos do Conselho Nacional do Comércio Externo:
+Manda o Governo da República Portuguesa, pelos Ministros do Plano e Coordenação Económica, das Finanças, dos Negócios Estrangeiros, da Indústria e Tecnologia, do Comércio e Turismo e dos Transportes e Comunicações, o seguinte:
+1.º Ministério do Plano e Coordenação Económica passará a participar nos trabalhos do Conselho Nacional do Comércio Externo através de um seu representante.
+2.º O representante do MPCE ao Conselho Nacional do Comércio Externo será designado pelo Secretário de Estado do Planeamento no prazo de trinta dias, contados a partir da publicação da presente portaria.
+Ministérios do Plano e Coordenação Económica, das Finanças, dos Negócios Estrangeiros, da Indústria e Tecnologia, do Comércio e Turismo e dos Transportes e Comunicações, 29 de Julho de 1977. - O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro dos Negócios Estrangeiros, José Manuel de Medeiros Ferreira. - O Ministro da Indústria e Tecnologia, Alfredo Jorge Nobre da Costa. - O Ministro do Comércio e Turismo, Carlos Alberto da Mota Pinto. - O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar.
