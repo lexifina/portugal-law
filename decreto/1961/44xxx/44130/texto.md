@@ -1,0 +1,8 @@
+Decreto n.º 44130
+Com fundamento no artigo 2.º do Decreto-Lei n.º 24914, de 10 de Janeiro de 1935, mediante proposta aprovada pelo Ministro das Finanças, nos termos do mesmo artigo;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º É aberto no Ministério das Finanças, a favor do das Comunicações, um crédito especial no montante de 16000000$00, destinado a reforçar a verba inscrita no artigo 40.º, capítulo 3.º, do orçamento respeitante ao corrente ano económico do segundo dos mencionados Ministérios.
+Art. 2.º Para compensação do crédito aludido no artigo precedente é anulada igual quantia nas disponibilidades da dotação do capítulo 3.º, artigo 39.º, também do actual orçamento do Ministério das Comunicações.
+Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas como preceitua o § único do artigo 36.º do Decreto n.º 18381, de 24 de Maio de 1930.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 29 de Dezembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
