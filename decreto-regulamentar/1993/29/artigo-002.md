@@ -10,11 +10,11 @@ b) Direcção de Serviços de Estudos e Projectos;
 
 c) Direcção de Serviços de Inventário e Divulgação;
 
-d) Direcção de Serviços de Administração e Recursos Humanos;
+d) Direcção de Serviços de Administração e dos Recursos Humanos;
 
-e) Gabinete de Salvaguarda e Revitalização do Património;
+e) Gabinete para a Salvaguarda e Revitalização do Património;
 
-f) Gabinete para a Qualidade de Construção;
+f) Gabinete para a Qualidade da Construção;
 
 g) Gabinete Jurídico;
 

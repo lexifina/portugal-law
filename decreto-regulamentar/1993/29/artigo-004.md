@@ -38,7 +38,7 @@ c) A Secção Administrativa.
 
 3 - À Divisão de Estudos e Pesquisa cabe exercer as competências previstas nas alíneas a) a e) do n.º 1.
 
-4 - À Divisão de Projectos cabe exercer as competências constantes das alíneas f) a l) do n.º 1.
+4 - À Divisão de Projectos cabe exercer as competências constantes das alíneas f) a m) do n.º 1.
 
 5 - À Secção Administrativa cabe:
 

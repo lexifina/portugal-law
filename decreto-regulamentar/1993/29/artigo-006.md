@@ -1,8 +1,8 @@
 # Artigo 6.º
 
-### Direcção de Serviços de Administração e Recursos Humanos
+### Direcção de Serviços de Administração e dos Recursos Humanos
 
-1 - Cabe à Direcção de Serviços de Administração e Recursos Humanos:
+1 - Cabe à Direcção de Serviços de Administração e dos Recursos Humanos:
 
 a) Apoiar e desenvolver as acções de enquadramento técnico e social do pessoal da DGEMN, visando garantir, pela melhoria dos processos e condições de trabalho, a sua realização profissional e a modernização dos serviços;
 

@@ -16,7 +16,7 @@ e) Proceder ao levantamento e manter actualizado o registo quer dos equipamentos
 
 f) Propor planos anuais ou plurianuais de utilização das tecnologias de informação na DGEMN;
 
-g) Definir a configuração lógica mais adequada à correcta exploração de todos os recursos, tendo em conta situações reais de exploração;
+g) Definir a configuração lógica mais adequada à correcta exploração de todos os recursos, tendo em conta as situações reais de exploração;
 
 h) Propor regras técnicas de utilização dos recursos existentes, definindo técnicas e procedimentos a que devem obedecer as operações, quer em situações de normalidade quer de excepção;
 
