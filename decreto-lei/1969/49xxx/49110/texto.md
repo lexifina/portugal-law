@@ -1,0 +1,9 @@
+Decreto-Lei n.º 49110
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. É alterada, pela forma seguinte, a redacção da nota ao artigo 70.20.05 da pauta de importação:
+70.20.05 ...
+Nota. - As fibras contínuas ou fios, quando importados por empresas de cordoaria ou de tecelagem que exclusivamente os apliquem na fabricação de fios, cordas e cabos ou na de tecidos, gazes, fitas e entrançados tubulares, ficam sujeitos na sua importação às taxas de 1$60 e $80, por quilograma, respectivamente, nas pautas máxima e mínima, mediante parecer favorável prestado pela Inspecção-Geral dos Produtos Agrícolas e Industriais, do qual se mostre que os mesmos não são fabricados econòmicamente no País. As fibras ou fios que forem desviados da exclusiva aplicação a que se refere esta nota consideram-se descaminhados aos direitos do presente artigo. As empresas devem registar em livro próprio as quantidades importadas e o emprego que for dado às fibras ou fios, facultando ao exame da fiscalização aduaneira todos os elementos que se tornem necessários para averiguar o seu destino.
+Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
+Promulgado em 30 de Junho de 1969.
+Publique-se.
+Presidência da República, 9 de Julho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
