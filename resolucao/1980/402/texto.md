@@ -1,0 +1,7 @@
+Resolução n.º 402/80
+Pela Resolução n.º 157/79, de 9 de Maio, publicada no Diário da República, 1.ª série, n.º 115, de 19 de Maio de 1979, cessou a intervenção do Estado nas empresas Planal - Sociedade de Planeamento e Desenvolvimento do Algarve, S. A. R. L., e Sociedade do Golfe da Quinta do Lago, S. A. R. L.
+O n.º 8 da citada resolução estabeleceu que, até à data da celebração do contrato de viabilização ou até 28 de Fevereiro de 1980, caso tal contrato não tivesse, entretanto, sido celebrado, não seria exigido das empresas o pagamento de determinadas dívidas.
+Este prazo foi prorrogado até 31 de Outubro de 1980 pela Resolução n.º 238/80, publicada no Diário da República, 1.ª série, n.º 154, de 7 de Julho de 1980, no pressuposto de que seria possível, até àquela data, concluir todo o processo relativo ao respectivo contrato de viabilização.
+Constata-se, contudo, que tal não se verificou.
+Nestes termos, e considerando a necessidade de manter as condições indispensáveis à sobrevivência das mesmas, o Conselho de Ministros, reunido em 25 de Novembro de 1980, resolveu prorrogar até à data da celebração do contrato de viabilização das empresas ou até 30 de Abril de 1981, se, entretanto, esse contrato não for celebrado, o prazo previsto no n.º 8 da Resolução do Conselho de Ministros, n.º 157/79, com efeitos a partir de 31 de Outubro de 1980 e sem prejuízo da regularização das dívidas à Previdência.
+Presidência do Conselho de Ministros, 25 de Novembro de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
