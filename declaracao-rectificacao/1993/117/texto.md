@@ -1,0 +1,11 @@
+Declaração de rectificação n.º 117/93
+Segundo comunicação do Ministério do Emprego e da Segurança Social, a Portaria n.º 414/93, publicada no Diário da República, 1.ª série, n.º 91, de 19 de Abril de 1993, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No mapa I, na coluna «Categoria», onde se lê «Auxiliar técnico administrativo» deve ler-se «Auxiliar técnico administrativo principal».
+Nas notas ao mapa I, na nota (d), onde se lê «3 oficiais administrativos principais do serviço local de Olhão e Lagos» deve ler-se «3 oficiais administrativos principais dos serviços locais: 2 de Olhão e 1 de Lagos.».
+Na nota (e), onde se lê «14 primeiros-oficiais, sendo 7 dos serviços locais de Albufeira, Alcoutim, Loulé, Monchique, Silves e Tavira e 7 da sede.» deve ler-se «14 primeiros-oficiais, sendo 7 dos serviços locais: 1 de Albufeira, 2 de Alcoutim, 1 de Loulé, 1 de Monchique, 1 de Silves, 1 de Tavira e 7 da sede.».
+Na nota (f), onde se lê «17 segundos-oficiais, sendo 8 dos serviços locais de Lagoa, Lagos, Loulé, São Brás de Alportel, Silves e Vila Real de Santo António e 9 da sede.» deve ler-se «17 segundos-oficiais, sendo 8 dos serviços locais: 1 de Lagoa, 1 de Lagos, 1 de Loulé, 1 de São Brás de Alportel, 2 de Silves, 2 de Vila Real de Santo António e 9 da sede.».
+Na nota (h), onde se lê «6 auxiliares técnicos administrativos principais dos serviços locais de Lagos, Olhão e Portimão.» deve ler-se «6 auxiliares técnicos administrativos principais dos serviços locais: 1 de Lagos, 1 de Olhão e 4 de Portimão.».
+Na nota (o), onde se lê «6 serventes dos serviços locais de Lagos, Olhão, Silves, Vila do Bispo e Vila Real de Santo António e 4 vagos.» deve ler-se «6 serventes dos serviços locais: 1 de Lagos, 1 de Olhão, 1 de Silves, 1 de Vila do Bispo e 2 de Vila Real de Santo António e 4 vagos.».
+No mapa II, na coluna «Categoria», onde se lê «Técnico superior de 2.ª classe, 'número de lugares' -» deve ler-se «Técnico superior de 2.ª classe, 'número de lugares' - 6».
+Na mesma coluna, onde se lê «auxiliar técnico administrativo» deve ler-se «Auxiliar técnico administrativo principal».
+Secretaria-Geral da Presidência do Conselho de Ministros, 29 de Junho de 1993. - O Secretário-Geral, França Martins.
