@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que, segundo uma comunicação da Embaixada da Polónia em Londres, dirigida à Embaixada de Portugal na mesma cidade, foram depositados, respectivamente em 13 de Julho, 10 de Agosto e 18 de Setembro de 1967, os instrumentos de adesão da Coreia, de ratificação do Japão e de adesão da África do Sul respeitantes ao Protocolo, assinado na Haia em 28 de Setembro de 1955, modificando a Convenção sobre a Unificação de Certas Normas Relativas ao Transporte Aéreo Internacional, assinada em Varsóvia em 12 de Outubro de 1929.
+De harmonia com o disposto nos artigos XXII e XXIII, a Convenção, tal como modificada, entrou em vigor, em relação à Coreia, ao Japão e à África do Sul, respectivamente em 11 de Outubro, 8 de Novembro e 17 de Dezembro de 1967.
+Direcção-Geral dos Negócios Económicos, 31 de Janeiro de 1968. - O Director-Geral, José Calvet de Magalhães.
