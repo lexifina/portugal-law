@@ -1,0 +1,12 @@
+Portaria n.º 1033-BO/2004
+de 10 de Agosto
+Pela Portaria n.º 946/2001, de 31 de Julho, foi concessionada ao Clube de Caçadores das Solteiras a zona de caça associativa do Carrasqueiro (processo n.º 2591-DGF), situada no município de Loulé, com a área de 1465,10 ha.
+Verificou-se posteriormente que o prazo de validade da zona de caça constante na portaria acima referida é inferior ao prazo de vigência dos acordos dados pelas entidades titulares e gestoras dos prédios que fazem parte da zona de caça.
+Considerando que, nos termos do n.º 3 do artigo 32.º do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 338/2001, de 26 de Dezembro, os acordos dados pelos respectivos titulares e gestores dos terrenos são válidos por prazo correspondente ao da concessão pretendida;
+Considerando ainda que por incluir áreas classificadas o Instituto da Conservação da Natureza entende ser adequada a introdução de um mecanismo que garanta a salvaguarda de novos valores naturais que venham a ser detectados:
+Manda o Governo, pelos Ministros da Agricultura, Desenvolvimento Rural e Pescas e das Cidades, Ordenamento do Território e Ambiente, o seguinte:
+1.º O n.º 2.º da Portaria n.º 946/2001, de 31 de Julho, passa a ter a seguinte redacção:
+«Pela presente portaria é concessionada, pelo período de 12 anos, renováveis automaticamente por dois períodos iguais, ao Clube de Caçadores das Solteiras, com o número de pessoa colectiva 504820354 e sede no sítio das Solteiras, Conceição, Tavira, a zona de caça associativa do Carrasqueiro (processo n.º 2591-DGF).»
+2.º É aditado à Portaria n.º 946/2001, de 31 de Julho, um n.º 2.º-A, com a seguinte redacção:
+«A concessão de terrenos incluídos em áreas classificadas poderá terminar, sem direito a indemnização, por criação de zonas de interdição à caça (ao abrigo do artigo 115.º do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 338/2001, de 26 de Dezembro), ou ser sujeita a condicionantes adicionais sempre que sejam introduzidas alterações de condicionantes por planos especiais de ordenamento do território ou obtidos dados científicos que comprovem a incompatibilidade com a actividade cinegética, até um máximo de 10% da área total da zona de caça.»
+Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, João Manuel Alves Soares, Secretário de Estado das Florestas, em 28 de Maio de 2004. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Arlindo Marques da Cunha, em 30 de Junho de 2004.
