@@ -1,0 +1,52 @@
+Portaria n.º 633/73
+de 22 de Setembro
+Considerando o que foi proposto pelo Governo-Geral do Estado de Angola no sentido de serem reforçadas várias dotações do progama de investimentos do III Plano de Fomento para o corrente ano;
+Tendo em vista a delegação conferida pelo Conselho de Ministros para os Assuntos Económicos em 20 de Janeiro de 1970:
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos dos artigos 11.º, alínea h), e 13.º do Decreto 35770, de 29 de Julho de 1946, conjugados com o artigo 5.º do Decreto n.º 40712, de 1 de Agosto de 1956, que o Governo-Geral do Estado de Angola tome as seguintes medidas:
+1.º Abra um crédito especial de 404610815$30 para reforço das verbas que se indicam da tabela de despesa extraordinária do orçamento geral daquele Estado para o ano económico de 1973:
+Capítulo 12.º, artigo 1555.º «III Plano de Fomento - Programa de execução para 1973»:
+1) Agricultura, silvicultura e pecuária:
+a) Fomento dos recursos agro-silvo-pastoris ... 3115000$00
+b) Esquemas de regadio e povoamento ... 27511000$00
+d) Apoio ao desenvolvimento regional ... 197424775$30
+2) Pesca:
+a) Pescas ... 925000$00
+3) Indústrias extractivas e transformadoras:
+a) Indústrias extractivas ... 873000$00
+4) Melhoramentos rurais:
+b) Obras em pequenas povoações ... 2200000$00
+5) Energia:
+a) Estudos, produção, transporte e distribuição ... 24358300$00
+6) Circuitos de distribuição:
+a) Comercialização e armazenagem ... 790000$00
+7) Transportes, comunicações e meteorologia:
+a) Transportes rodoviários ... 5578000$00
+c) Portos e navegação ... 43378000$00
+d) Transportes aéreos e aeroportos ... 170000$00
+e) Telecomunicações ... 40000000$00
+f) Meteorologia ... 550000$00
+8) Turismo ... 245000$00
+9) Educação e investigação:
+a) Educação ... 20019400$00
+b) Investigação não ligada ao ensino ... 9648440$00
+11) Saúde:
+a) Saúde ... 25350900$00
+b) Assistência ... 2474000$00
+... 404610815$30
+2.º Utilize para contrapartida do crédito referido no número anterior os seguintes recursos:
+a) De saldos do programa de financiamento do III Plano de Fomento para o ano económico de 1972:
+Administração Central:
+Empréstimo da metrópole autorizado pelo Decreto-Lei n.º 48291, de 26 de Março de 19683053842$60 Administração provincial:
+Lucros de amoedação ... 500000$00
+Imposto das sobrevalorizações ... 500000$00
+Instituições de crédito e empresas seguradoras:
+Promissórias de fomento ultramarino ... 35969089$50
+Empréstimo do Instituto de Crédito de Angola, autorizado pelo Decreto n.º 144/72, de 3 de Maio ... 117979932$60
+Empréstimo do Banco de Angola, autorizado pelo Decreto n.º 209/72, de 22 de Junho ... 8115533$30
+Particulares e empresas:
+Obrigações de fomento ... 168492417$30
+b) De parte do empréstimo do Instituto de Crédito de Angola, autorizado pelo Decreto n.º 145/73, de 4 de Abril ... 70000000$00
+... 404610815$30
+Ministério do Ultramar, 7 de Setembro de 1973. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada no Boletim Oficial do Estado de Angola. - J. da Silva Cunha.
