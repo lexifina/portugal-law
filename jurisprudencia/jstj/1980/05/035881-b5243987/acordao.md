@@ -1,0 +1,45 @@
+# Acórdão do Supremo Tribunal de Justiça de 1980-05-14, processo 035881
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 035881
+
+**Nº Convencional:** JSTJ00002938
+
+**Relator:** ARELO MANSO
+
+**Descritores:** ROUBO; FURTO; AGRAVANTES; ATENUANTES; SUSPENSÃO DA EXECUÇÃO DA PENA; MEDIDA DA PENA
+
+**Nº do Documento:** SJ198005140358813
+
+**Data do Acordão:** 05/14/1980
+
+**Votação:** UNANIMIDADE
+
+**Referência de Publicação:** BMJ N297 ANO1980 PAG122
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REC PENAL.
+
+**Decisão:** NEGADO PROVIMENTO.
+
+**Área Temática:** DIR CRIM - TEORIA GERAL / CRIM C/PATRIMONIO.
+
+## Sumário
+
+I - Se um reu praticar, como autor material, dois crimes: um de roubo, previsto e punido pelos artigos 432 e 435, n. 2, e outro de furto, previsto e punido pelo artigo 421, n. 2, todos do Codigo Penal; se a sua responsabilidade for agravada pelas seguintes circunstancias: quanto ao crime de roubo, as 7 (pacto),
+
+11 (espera) e 18 (estrada) e, relativamente ao furto, pela mencionada 7, 10 (duas pessoas), 16 (entrada em casa do ofendido) e 22 (cometido em ocasião de desgraça particular da vitima, que tinha ido assistir ao funeral de uma filha) do artigo 34 do Codigo Penal; se a sua responsabilidade for so atenuada pelas circunstancias do bom comportamento anterior (1) e confissão de alguns factos com arrependimento (23) do artigo 39 do Codigo Penal; se, quanto ao crime de roubo, os pais do reu, bem como os de um co-reu, entregaram 5000 escudos ao ofendido respectivo, considerando que: o numero e valor das circunstancias agravantes e elevado quanto aos dois crimes; as atenuantes são poucas e pouco valiosas; não obstante este quadro, se usou da faculdade extraordinaria do artigo 94, n. 2, do Codigo Penal, quanto ao crime de roubo e condenou-se o reu, em cumulo juridico, na pena de 13 meses de prisão, não e de suspender a execução desta pena.
+
+II - Quando um reu invocar atenuantes que não foram objecto de qualquer quesito e, portanto, não foram tomadas em consideração, a não formulação dos quesitos a este respeito deriva do facto da falta de prova da sua existencia.
+
+III - A 22 circunstancia agravante do artigo 34 do Codigo Penal revela mais perversidade e e indice de insensibilidade moral.
+
+IV - O bom comportamento, quando for pouca a idade do reu e não for superior ao do comum das pessoas da sua condição, e de reduzido valor.
+
+V - Nos crimes patrimoniais a natureza reparavel do dano causado e-lhe inerente, pelo que não tem valor atenuativo.
+
+VI - A confissão e mais ou menos relevante conforme houver ou não arrependimento, pelo que não pode ser considerada como constituindo uma atenuante autonoma. A confissão com arrependimento são so uma atenuante.
