@@ -1,0 +1,402 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "59",
+    "id": "5749",
+    "titulo": "Autoriza o Governo a legislar no sentido de alterar o estatuto da associação pública denominada Ordem dos Farmacêuticos"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2001-03-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1904",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2001-03-23",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-03-23",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  SAÚDE",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Miguel Boquinhas"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137234",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2520-2520",
+                  "2523-2523"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "64",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/064/2001-03-24/2520?pgs=2520,2523&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A LEGISLAR NO SENTIDO DE ALTERAR O ESTATUTO DA ASSOCIACAO PUBLICA DENOMINADA ORDEM DOS FARMACEUTICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1826",
+                "nome": "Joaquim Ponte"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137295",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2520-2521"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "64",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/064/2001-03-24/2520?pgs=2520-2521&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A LEGISLAR NO SENTIDO DE ALTERAR O ESTATUTO DA ASSOCIACAO PUBLICA DENOMINADA ORDEM DOS FARMACEUTICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1102",
+                "nome": "Pedro Mota Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137296",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2521-2521"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "64",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/064/2001-03-24/2521?pgs=2521&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A LEGISLAR NO SENTIDO DE ALTERAR O ESTATUTO DA ASSOCIACAO PUBLICA DENOMINADA ORDEM DOS FARMACEUTICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137297",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2521-2522"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "64",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/064/2001-03-24/2521?pgs=2521-2522&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A LEGISLAR NO SENTIDO DE ALTERAR O ESTATUTO DA ASSOCIACAO PUBLICA DENOMINADA ORDEM DOS FARMACEUTICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137298",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2522-2522"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "64",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/064/2001-03-24/2522?pgs=2522&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A LEGISLAR NO SENTIDO DE ALTERAR O ESTATUTO DA ASSOCIACAO PUBLICA DENOMINADA ORDEM DOS FARMACEUTICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1703",
+                "nome": "João Sequeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137299",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2522-2523"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "64",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/064/2001-03-24/2522?pgs=2522-2523&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A LEGISLAR NO SENTIDO DE ALTERAR O ESTATUTO DA ASSOCIACAO PUBLICA DENOMINADA ORDEM DOS FARMACEUTICOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137300",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2523-2523"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-24",
+                "pubLeg": "VIII",
+                "pubNr": "64",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/064/2001-03-24/2523?pgs=2523&org=PLC"
+              }
+            ],
+            "sumario": "AUTORIZA O GOVERNO A LEGISLAR NO SENTIDO DE ALTERAR O ESTATUTO DA ASSOCIACAO PUBLICA DENOMINADA ORDEM DOS FARMACEUTICOS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "145750",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1904",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-03-24",
+        "pubLeg": "VIII",
+        "pubNr": "64",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/064/2001-03-24?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
