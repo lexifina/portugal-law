@@ -17,22 +17,9 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1913/07/17200/27672768.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1913-07-25",
-  "in_force_basis": "publication day in the Diário do Governo",
-  "text_status": "ocr",
+  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
+  "text_status": "metadata-only",
+  "text_note": "the DR page holds no text for this act (PDF only); an OCR text was published on 2026-11-17 and withdrawn: a private person's appointment from another document of the page was read into the act",
   "source_sha256": "da5681cda8359d5ca4cbb2817bffc038089abe613ce61eb74ed8200d8a26334b",
-  "source_sha256_of": "the PDF (or page) URL",
-  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
-  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
-  "ocr": {
-    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
-    "agreement_pct": 97.9,
-    "pages": 2,
-    "columns": [
-      3,
-      4
-    ],
-    "pdf_sha256": "becb2fad83b9805319d851f32b82db10cc31151c431aa9a2c7be1239953a0e03",
-    "read_on": "2026-11-17"
-  },
-  "word_count": 946
+  "source_sha256_of": "the PDF (or page) URL"
 }
