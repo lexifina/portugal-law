@@ -1,0 +1,397 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gIjTIOBD8fzbBQNrdCzuBBmwczclk6SD5HYRiA%2fDz6LvtzEOZz0p16VuinZ4c9xnv1XSgJHpVu8L3TmsAZNDGnOMwZOl11DIWbTTxvH9TZlpguA1Dr0xHxKf%2bQeAZgBPJ2JGSuYu7x65iAUduW5D4zeNirkg7R2OQEqLYjPjV69GXh3r3XIihzhHxDGQdi7oVusUbcfcYXzy5bAfGFP4LX4pUxhc8G05JIdx13wuiGlQzDNPxWXGvFL9wH8tviClTchA%2bgzQmfiBzvQfSs%2fvcRcPk4nUvD76VhB1rTiLyNK7L6yAVcl1PlcZsq2sEsFqGpdxuyeZkEQ%2bcGfcnacT%2fg%3d%3d&fich=PeticoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "c26dac93ad93dfa2ae59e6cc67f4607f06aab6fd9463b02c8517cb31fb62b02c",
+  "legislatura": "IX",
+  "id": "11222",
+  "numero": "29",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2003-02-06",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2003-11-14",
+            "dataResposta": "2004-05-18",
+            "entidades": [
+              "Ministério do Trabalho e da Segurança Social"
+            ],
+            "nrOficio": "3536/COM",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2004-06-30",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2003-04-09",
+        "DataArquivo": "2004-07-15",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2004-09-22",
+        "DataReaberta": "2003-04-09",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2003-02-06",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a793944543030764f4652425579394562324e31625756756447397a5547563061574e68627938344e5467345a54517a4d7930304e4455304c5451315a475574596a4d7a4e533079595455304d7a51355a54566a4e3249756347526d&fich=8588e433-4454-45de-b335-2a54349e5c7b.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "109",
+        "Legislatura": "IX",
+        "Nome": "COMISSÃO DE TRABALHO E DOS ASSUNTOS SOCIAIS",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2003-05-06",
+            "gp": "PSD",
+            "id": "2016",
+            "motivoCessacao": null,
+            "nome": "Carlos Andrade Miranda"
+          }
+        ],
+        "RelatorioFinal": [
+          "21825"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2004-10-13",
+    "Documentos": [
+      {
+        "DataDocumento": "2003-02-06",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a7939555a58683062305a70626d46735547563061574e765a584d764d44417759546b354d4451744d5755304e793030596a63784c5467354f475974595445335a6a6b335a5456694f54677a4c6e426b5a673d3d&fich=000a9904-1e47-4b71-898f-a17f97e5b983.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2004-10-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151129",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "581-582"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-14",
+                "pubLeg": "IX",
+                "pubNr": "11",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/011/2004-10-14/581?pgs=581-582&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada por Sobreiro 19 - Associação de Solidariedade com as Vítimas das Falências, solicitando que a Assembleia da República adopte medidas no sentido de fazer cumprir a Lei do Fundo de Garantia Social e proceda à alteração da Lei das Falências",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-10-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151130",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "582-582"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-14",
+                "pubLeg": "IX",
+                "pubNr": "11",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/011/2004-10-14/582?pgs=582&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada por Sobreiro 19 - Associação de Solidariedade com as Vítimas das Falências, solicitando que a Assembleia da República adopte medidas no sentido de fazer cumprir a Lei do Fundo de Garantia Social e proceda à alteração da Lei das Falências",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-10-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151131",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "582-583"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-14",
+                "pubLeg": "IX",
+                "pubNr": "11",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/011/2004-10-14/582?pgs=582-583&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada por Sobreiro 19 - Associação de Solidariedade com as Vítimas das Falências, solicitando que a Assembleia da República adopte medidas no sentido de fazer cumprir a Lei do Fundo de Garantia Social e proceda à alteração da Lei das Falências",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-10-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151132",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "583-584"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-14",
+                "pubLeg": "IX",
+                "pubNr": "11",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/011/2004-10-14/583?pgs=583-584&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada por Sobreiro 19 - Associação de Solidariedade com as Vítimas das Falências, solicitando que a Assembleia da República adopte medidas no sentido de fazer cumprir a Lei do Fundo de Garantia Social e proceda à alteração da Lei das Falências",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-10-14",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "151133",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "584-585"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-10-14",
+                "pubLeg": "IX",
+                "pubNr": "11",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/011/2004-10-14/584?pgs=584-585&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada por Sobreiro 19 - Associação de Solidariedade com as Vítimas das Falências, solicitando que a Assembleia da República adopte medidas no sentido de fazer cumprir a Lei do Fundo de Garantia Social e proceda à alteração da Lei das Falências",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11222",
+    "PetAssunto": "Solicitam o cumprimento da Lei do Fundo de Garantia Social e a alteração da Lei das Falências.",
+    "PetDataEntrada": "2003-02-06",
+    "PeticoesAssociadas": null,
+    "PetId": "11222",
+    "PetLeg": "IX",
+    "PetNr": "29",
+    "PetNrAssinaturas": "6322",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "179",
+        "obs": null,
+        "pag": [
+          "581-582"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-10-14",
+        "pubLeg": "IX",
+        "pubNr": "11",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/03/011/2004-10-14/581?pgs=581-582&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "282508",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-04-12",
+        "pubLeg": "IX",
+        "pubNr": "39",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/01/039/2003-04-12?org=PLC"
+      }
+    ]
+  }
+}
