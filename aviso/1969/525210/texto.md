@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que a Embaixada de Portugal na Haia, em 31 de Janeiro de 1969, informou o Ministério dos Negócios Estrangeiros dos Países Baixos que a Convenção Relativa à Competência das Autoridades e à Lei Aplicável em Matéria de Protecção de Menores, concluída na Haia em 5 de Outubro de 1961, aprovada para ratificação pelo Decreto-Lei n.º 48494, de 22 de Julho de 1968, é extensiva a todos os territórios portugueses ultramarinos, em relação aos quais entrará em vigor no dia 1 de Abril de 1969, em conformidade com o seu artigo 22.º, alínea 3.
+Secretaria-Geral do Ministério, 22 de Fevereiro de 1969. - O Secretário-Geral, José Luís Archer.
