@@ -1,0 +1,46 @@
+Portaria n.º 862/84
+de 16 de Novembro
+Vem-se generalizando a convicção de que urge modificar radicalmente o curso de Medicina, substituindo o seu carácter essencialmente teórico, informativo e tendencialmente enciclopédico por um processo verdadeiramente educativo que proporcione a formação geral - nos seus aspectos científicos, técnicos, sociais e deontológicos, bem como intelectuais, afectivos e comportamentais -, que constitui o fundamento indispensável à ulterior aquisição de efectiva competência profissional a alcançar após a licenciatura, nomeadamente pela via das carreiras médicas. Este ponto de vista foi expressamente perfilhado pelo II Congresso Nacional de Educação Médica, promovido pela Faculdade de Ciências Médicas da Universidade Nova de Lisboa e realizado em Dezembro de 1983, ao adoptar as bases gerais de uma reforma do curso de Medicina aprovadas em Julho do mesmo ano pelo conselho científico da Faculdade de Medicina da Universidade do Porto, sob proposta do conselho pedagógico da mesma.
+Embora convencido também desta premente necessidade, o Ministério da Educação não tem querido adoptar qualquer iniciativa nesse sentido, na expectativa de que as escolas de medicina, no uso da ampla autonomia pedagógica que lhes vem sendo reconhecida, lhe apresentem propostas concretas em ordem a objectivo de tão alto interesse nacional.
+Acaba de ser recebida no Ministério da Educação uma proposta do conselho científico da Faculdade de Ciências Médicas da Universidade Nova de Lisboa referente a uma reestruturação do plano de estudos do 5.º ano curricular do curso de licenciatura em Medicina professado naquela escola, a qual assenta nos seguintes princípios fundamentais:
+a) Racionalização do tempo de escolaridade, reduzindo o número de disciplinas a funcionar em cada um dos 3 períodos pedagógicos em que é dividido o ano lectivo, o que permitirá dedicação mais intensiva dos alunos a cada uma das disciplinas (sistemas de «blocos»);
+b) Integração dos alunos no labor quotidiano dos serviços;
+c) Realização do exame final de cada disciplina no termo do respectivo bloco.
+Por uma questão de operacionalidade das deslocações dos estudantes, o conselho científico da Faculdade de Ciências Médicas da Universidade Nova de Lisboa entende ser conveniente permutar a disciplina de Ginecologia do 5.º ano curricular com a de Doenças Infecciosas e Parasitárias do 6.º ano curricular.
+O Ministério da Educação considera esta proposta altamente válida, pelo que advoga a sua efectivação a título experimental, na convicção de que a análise crítica dos resultados obtidos permitirá aperfeiçoar a prática por ela estabelecida e até alargá-la a outros anos curriculares em 1985-1986.
+Nestes termos:
+Considerando o Decreto n.º 122/81, de 14 de Outubro, e as Portarias n.os 1036/81, de 5 de Dezembro, 794/83, de 29 de Julho, e 1065/83, de 27 de Dezembro;
+Sob proposta do conselho científico da Faculdade de Ciências Médicas da Universidade Nova de Lisboa;
+Ao abrigo do disposto no capítulo III do Decreto-Lei n.º 316/83, de 2 de Julho:
+Manda o Governo da República Portuguesa, pelo Ministro da Educação, aprovar o seguinte:
+1 º
+(Âmbito)
+A presente portaria aplica-se exclusivamente aos alunos inscritos no ano lectivo de 1984-1985 no 5.º ano curricular do curso de licenciatura em Medicina ministrado pela Faculdade de Ciências Médicas da Universidade Nova de Lisboa e tem carácter experimental.
+2.º
+(Plano de estudos)
+1 - Para os alunos a que se refere o n.º 1.º o plano de estudos do 5.º ano do curso de licenciatura em Medicina será o fixado no anexo a esta portaria.
+2 - As disciplinas que integram o plano de estudos são agrupadas em blocos e têm a carga horário como se indica no referido anexo.
+3 - A disciplina de Ginecologia do plano de estudos do 5.º ano do curso de licenciatura em Medicina da Faculdade de Ciências Médicas da Universidade Nova de Lisboa, aprovado pela Portaria n.º 1065/83, de 27 de Dezembro, transita, para estes alunos, para o 6.º ano do mesmo curso.
+3.º
+(Regime de frequência)
+Os alunos serão distribuídos por turmas, que frequentarão os blocos de disciplinas em regime rotativo.
+4.º
+(Aplicação)
+Cabe aos órgãos próprios da Faculdade de Ciências Médicas da Universidade Nova de Lisboa fixar:
+a) A dimensão das turmas e os critérios de distribuição dos alunos pelas mesmas;
+b) O calendário de ministração de cada bloco;
+c) O plano de rotação das turmas por blocos.
+5.º
+(Regime de avaliação de conhecimentos)
+1 - O regime de avaliação de conhecimentos será fixado, nos termos da alínea a) do n.º 13.º da Portaria n.º 886/83, de 22 de Setembro, pelos órgãos próprios da Faculdade.
+2 - Sempre que o regime de avaliação de conhecimentos inclua a prestação de exames finais, a estes aplicar-se-á o regime fixado na Portaria n.º 886/83, com as adaptações necessárias, nomeadamente as referentes a calendário, as quais serão propostas pelo órgão da Faculdade competente para a fixação do regime de avaliação de conhecimentos e homologadas por despacho do reitor da Universidade Nova de Lisboa.
+Ministério da Educação.
+Assinada em 16 de Outubro de 1984.
+Pelo Ministro da Educação, Joaquim Germano Pinto Machado Correia da Silva, Secretário de Estado do Ensino Superior.
+
+ANEXO
+Universidade Nova de Lisboa
+Faculdade de Ciências Médicas
+Curso de licenciatura em Medicina
+5.º ano - 1984-1985 - Plano experimental
+(ver documento original)
