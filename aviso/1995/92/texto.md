@@ -1,0 +1,6 @@
+Aviso n.º 92/95
+Por ordem superior se torna público que, por nota de 23 de Fevereiro de 1995 e nos termos do artigo 45.º da Convenção sobre os Aspectos Civis do rapto Internacional de Crianças, concluída na Haia, em 25 de Outubro de 1980, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a Itália, nos termos do segundo parágrafo do artigo 37.º, depositado o seu instrumento de ratificação em 22 de Fevereiro de 1995.
+A Convenção entrará em vigor para a Itália em 1 de Maio de 1995 nos termos do n.º 1 do segundo páragrafo do artigo 43.º
+Nos termos do primeiro parágrafo do artigo 6.º, a Itália designou o Ministério Italiano da Justiça, Gabinete Central para a Justiça de Menores, como Autoridade Central.
+Portugal é parte na mesma Convenção, que foi aprovada para ratificação pelo Decreto do Governo n.º 33/83, de 11 de Maio, tendo depositado o seu instrumento de ratificação em 29 de Setembro de 1983, conforme aviso publicado no Diário da República, 1.ª série, n.º 126, de 31 de Março de 1984. A Autoridade Central em Portugal é a Direcção-Geral dos Serviços Tutelares de Menores, do Ministério da Justiça, conforme aviso publicado no Diário da República, 1.ª série, n.º 165, de 20 de Julho de 1985.
+Departamento de Assuntos Jurídicos, 21 de Março de 1995. - O Director, José Maria Teixeira Leite Martins.
