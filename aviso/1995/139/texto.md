@@ -1,0 +1,4 @@
+Aviso n.º 139/95
+Por ordem superior se torna público que se encontra concluído por ambas as Partes o processo de aprovação do Acordo de Cooperação para a Redução da Procura, Combate à Produção e Repressão do Tráfico Ilícito de Drogas e Substâncias Psicotrópicas entre o Governo da República Portuguesa e o Governo da República Federativa do Brasil, assinado em 7 de Maio de 1991, publicado no Diário da República, 1.ª série-A, n.º 18, de 22 de Janeiro de 1992.
+Nesta conformidade, e segundo a interpretação do disposto no parágrafo 1.º do artigo VIII, foi acordado, por troca de notas entre a Embaixada de Portugal em Brasília e o Ministério das Relações Exteriores da República Federativa do Brasil, que o Acordo em apreço entra em vigor em 17 de Junho de 1995.
+Direcção-Geral das Relações Bilaterais, 25 de Maio de 1995. - O Director de Serviços da América do Sul e Central, Luís Filipe de Castro Mendes.
