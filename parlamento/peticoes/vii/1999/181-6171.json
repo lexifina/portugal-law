@@ -1,0 +1,513 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=tKfXsA%2fENKNnp0LKqSGHXsjkrRl7S077Q3%2bDShtNlJSfDEIxb29heS60fekSU9Mh%2bOaOxN93u5lJXhXrF20O3GwJrwgX%2b0YU%2bhQwCIVqWOtg4qLdCOsovw17HpQ%2b61GwzRT0xyKc0H%2fa9DQdlP4PkB2kdgun9cM%2f%2fx7V2KVgyAwbUtpLdjftXVCgqJHGFNGYlFDP1m8Jzr0rp%2bkkIm21JfRb4lD2mU2lj506V%2fnSNSb2tR3%2bEDlK3FCGtu7ykpvS5%2bJJC%2frUbEM2mltYb1VfVOgZIDgJPPhSuZN2zIxPp9%2f2OdtvhAO8Vt2qGCJv%2bMWDKcdwAI%2fMSsLsMJfNmLa7xtfsjI6y%2ft3q%2btijdCCXBQfnO9%2b8PHRu402cRBtkKANn&fich=PeticoesVII_json.txt&Inline=true",
+  "ficheiro_sha256": "6041edea08a28f8315a7bbbffd2127aaa9493aac12482c88a108bc6b12f7d746",
+  "legislatura": "VII",
+  "id": "6171",
+  "numero": "181",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "1999-07-23",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2002-07-10",
+            "dataResposta": "2002-08-21",
+            "entidades": [
+              "Câmara Municipal de Lisboa"
+            ],
+            "nrOficio": "459/COM",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2002-12-11",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2002-12-11",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2003-01-22",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "105",
+        "Legislatura": "IX",
+        "Nome": "COMISSÃO DE PODER LOCAL, ORDENAMENTO DO TERRITÓRIO E AMBIENTE",
+        "NotasAdmissibilidade": null,
+        "Numero": "4",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2002-05-15",
+            "gp": "PS",
+            "id": "682",
+            "motivoCessacao": null,
+            "nome": "José Miguel Medeiros"
+          }
+        ],
+        "RelatorioFinal": [
+          "21547"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2002-12-11",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": null,
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "12",
+        "Legislatura": "VIII",
+        "Nome": "COMISSAO DE ADMINISTRAÇAO E ORDENAMENTO DO TERRITORIO, P. LOCAL E AMBIENTE",
+        "NotasAdmissibilidade": null,
+        "Numero": "4",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "1999-12-07",
+        "DataArquivo": "2002-12-11",
+        "DataBaixaComissao": "1999-12-07",
+        "DataEnvioPAR": null,
+        "DataReaberta": "1999-12-07",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "11",
+        "Legislatura": "VII",
+        "Nome": "COMISSAO ADMINIST. DO TERRITORIO, P. LOCAL, EQ. SOC E AMBIENTE",
+        "NotasAdmissibilidade": null,
+        "Numero": "4",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "1999-12-07",
+            "gp": "PCP",
+            "id": "1184",
+            "motivoCessacao": null,
+            "nome": "Joaquim Matias"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2004-05-05",
+    "Documentos": null,
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2004-05-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149620",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4619-4619"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-05-06",
+                "pubLeg": "IX",
+                "pubNr": "84",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/084/2004-05-06/4619?pgs=4619&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Associação de Moradores e Amigos da Freguesia de S. Francisco Xavier, solicitando que a Assembleia da República adopte medidas relativamente à instalação de um parque de diversões no perímetro do Parque Florestal de Monsanto",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-05-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149621",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4620-4620"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-05-06",
+                "pubLeg": "IX",
+                "pubNr": "84",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/084/2004-05-06/4620?pgs=4620&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Associação de Moradores e Amigos da Freguesia de S. Francisco Xavier, solicitando que a Assembleia da República adopte medidas relativamente à instalação de um parque de diversões no perímetro do Parque Florestal de Monsanto",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-05-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149622",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4620-4623"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-05-06",
+                "pubLeg": "IX",
+                "pubNr": "84",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/084/2004-05-06/4620?pgs=4620-4623&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Associação de Moradores e Amigos da Freguesia de S. Francisco Xavier, solicitando que a Assembleia da República adopte medidas relativamente à instalação de um parque de diversões no perímetro do Parque Florestal de Monsanto",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-05-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149623",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4621-4621"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-05-06",
+                "pubLeg": "IX",
+                "pubNr": "84",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/084/2004-05-06/4621?pgs=4621&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Associação de Moradores e Amigos da Freguesia de S. Francisco Xavier, solicitando que a Assembleia da República adopte medidas relativamente à instalação de um parque de diversões no perímetro do Parque Florestal de Monsanto",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-05-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149624",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4622-4622"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-05-06",
+                "pubLeg": "IX",
+                "pubNr": "84",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/084/2004-05-06/4622?pgs=4622&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Associação de Moradores e Amigos da Freguesia de S. Francisco Xavier, solicitando que a Assembleia da República adopte medidas relativamente à instalação de um parque de diversões no perímetro do Parque Florestal de Monsanto",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-05-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "149625",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4623-4624"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-05-06",
+                "pubLeg": "IX",
+                "pubNr": "84",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/084/2004-05-06/4623?pgs=4623-4624&org=PLC"
+              }
+            ],
+            "Sumario": "Apresentada pela Associação de Moradores e Amigos da Freguesia de S. Francisco Xavier, solicitando que a Assembleia da República adopte medidas relativamente à instalação de um parque de diversões no perímetro do Parque Florestal de Monsanto",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "6171",
+    "PetAssunto": "Solicitam que a Assembleia da República adopte medidas de protecção e defesa ecológica / ambiental relativamente à instalação de um parque de diversões no perímetro do Parque Florestal de Monsanto.",
+    "PetDataEntrada": "1999-07-23",
+    "PeticoesAssociadas": null,
+    "PetId": "6171",
+    "PetLeg": "VII",
+    "PetNr": "181",
+    "PetNrAssinaturas": "4440",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "168",
+        "obs": null,
+        "pag": [
+          "4619-4624"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-05-06",
+        "pubLeg": "IX",
+        "pubNr": "84",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/084/2004-05-06/4619?pgs=4619-4624&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "121534",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1999-12-18",
+        "pubLeg": "VIII",
+        "pubNr": "8",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/08/01/008/1999-12-18?org=PLC"
+      }
+    ]
+  }
+}
