@@ -1,0 +1,642 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "102",
+    "id": "18745",
+    "titulo": "Estabelece o regime sancionatório aplicável a situações de incumprimento das sanções impostas por regulamentos comunitários e estabelece procedimentos cautelares de extensão do ambito material do diploma."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2001-10-18",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2059",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2001-10-18",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-10-18",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA   PRESIDÊNCIA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Guilherme D'Oliveira Martins"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139604",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "489-491"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-19",
+                "pubLeg": "VIII",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/014/2001-10-19/489?pgs=489-491&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime sancionatório aplicável a situações de incumprimento das sanções impostas por regulamentos comunitários e estabelece procedimentos cautelares de extensão do ambito material do diploma.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139605",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "489-490",
+                  "495-495"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-19",
+                "pubLeg": "VIII",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/014/2001-10-19/489?pgs=489-490,495&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime sancionatório aplicável a situações de incumprimento das sanções impostas por regulamentos comunitários e estabelece procedimentos cautelares de extensão do ambito material do diploma.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "185",
+                "nome": "José Vera Jardim"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139606",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "490-491",
+                  "496-496"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-19",
+                "pubLeg": "VIII",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/014/2001-10-19/490?pgs=490-491,496&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime sancionatório aplicável a situações de incumprimento das sanções impostas por regulamentos comunitários e estabelece procedimentos cautelares de extensão do ambito material do diploma.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1652",
+                "nome": "Fernando Rosas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139607",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "491-491"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-19",
+                "pubLeg": "VIII",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/014/2001-10-19/491?pgs=491&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime sancionatório aplicável a situações de incumprimento das sanções impostas por regulamentos comunitários e estabelece procedimentos cautelares de extensão do ambito material do diploma.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139608",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "491-493"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-19",
+                "pubLeg": "VIII",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/014/2001-10-19/491?pgs=491-493&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime sancionatório aplicável a situações de incumprimento das sanções impostas por regulamentos comunitários e estabelece procedimentos cautelares de extensão do ambito material do diploma.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA   PRESIDÊNCIA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Guilherme D'Oliveira Martins"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139609",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "492-492"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-19",
+                "pubLeg": "VIII",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/014/2001-10-19/492?pgs=492&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime sancionatório aplicável a situações de incumprimento das sanções impostas por regulamentos comunitários e estabelece procedimentos cautelares de extensão do ambito material do diploma.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1687",
+                "nome": "Jorge Neto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139610",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "493-494"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-19",
+                "pubLeg": "VIII",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/014/2001-10-19/493?pgs=493-494&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime sancionatório aplicável a situações de incumprimento das sanções impostas por regulamentos comunitários e estabelece procedimentos cautelares de extensão do ambito material do diploma.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139611",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "494-497"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-19",
+                "pubLeg": "VIII",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/014/2001-10-19/494?pgs=494-497&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime sancionatório aplicável a situações de incumprimento das sanções impostas por regulamentos comunitários e estabelece procedimentos cautelares de extensão do ambito material do diploma.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1652",
+                "nome": "Fernando Rosas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139612",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "497-497"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-19",
+                "pubLeg": "VIII",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/014/2001-10-19/497?pgs=497&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime sancionatório aplicável a situações de incumprimento das sanções impostas por regulamentos comunitários e estabelece procedimentos cautelares de extensão do ambito material do diploma.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "185",
+                "nome": "José Vera Jardim"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139613",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "497-499"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-19",
+                "pubLeg": "VIII",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/014/2001-10-19/497?pgs=497-499&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime sancionatório aplicável a situações de incumprimento das sanções impostas por regulamentos comunitários e estabelece procedimentos cautelares de extensão do ambito material do diploma.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139614",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "499-499"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-19",
+                "pubLeg": "VIII",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/014/2001-10-19/499?pgs=499&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime sancionatório aplicável a situações de incumprimento das sanções impostas por regulamentos comunitários e estabelece procedimentos cautelares de extensão do ambito material do diploma.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "143",
+                "nome": "Alberto Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "139615",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "499-500"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-10-19",
+                "pubLeg": "VIII",
+                "pubNr": "14",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/014/2001-10-19/499?pgs=499-500&org=PLC"
+              }
+            ],
+            "sumario": "Estabelece o regime sancionatório aplicável a situações de incumprimento das sanções impostas por regulamentos comunitários e estabelece procedimentos cautelares de extensão do ambito material do diploma.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "149556",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2059",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-10-19",
+        "pubLeg": "VIII",
+        "pubNr": "14",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/03/014/2001-10-19?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
