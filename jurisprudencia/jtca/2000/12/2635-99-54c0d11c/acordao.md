@@ -1,0 +1,49 @@
+# Acórdão do Tribunal Central Administrativo Sul de 2000-12-19, processo 2635/99
+
+**Acórdãos TCAS:** Acórdão do Tribunal Central Administrativo Sul
+
+**Processo:** 2635/99
+
+**Secção:** Secção do Contencioso Tributário - Tribunal Central Administrativo
+
+**Data do Acordão:** 12/19/2000
+
+**Relator:** Ascensão Lopes
+
+**Descritores:** OPOSIÇÃO; DISCUSSÃO DA LEGALIDADE EM CONCRETO; INDEFERIMENTO LIMINAR
+
+**Aditamento:** 1
+
+## Sumário
+
+1) A nossa lei, em sede de oposição, apenas permite a discussão em concreto da ilegalidade
+
+da divida exequenda, em casos muito restritos.
+
+2) O caso dos autos revela que a JAE apenas tem o direito a ser paga pelo enriquecimento sem causa
+
+obtido pela oponente ( e na exacta medida do enriquecimento efectivo e indevido), devido ao facto de
+
+um grupo de trabalhadores, sob o seu mando, ter extraído, por engano, cortiça a 18 sobreiros pertença
+
+daquela JAE, mas no processo não se encontram as certidões de divida pelo que não é possível saber se,
+
+no caso concreto, foram ou não emitidas, em bom rigor, ao abrigo de normas de direito público (que
+
+visem produzir efeitos numa situação individual e concreta).3) Daí, que podendo ser defensável que não
+
+estamos perante um acto administrativo, tal como vem definido no artº 120º do CPA , e dai, resultando,
+
+consequentemente, a impossibilidade de a oponente ir junto dos Tribunais Administrativos de.Circulo
+
+discutir o montante da indemnização pelo enriquecimento sem causa, poderá restar à oponente, para
+
+sua defesa, a possibilidade de fazer uso da última parte do disposto na al.g) do artº 286º do CPT , aliás,
+
+introduzida pelo legislador visando prevenir tais situações.
+
+4)Assim, a decisão de 1a Instância não se poderá manter por, prematuramente, ter rejeitado a oposição,
+
+sem a devida instrução do processo, e com base no pressuposto de que antes teve a oponente
+
+oportunidade de impugnar ou recorrer, o qual pode vir a mostrar-se não verificado.
