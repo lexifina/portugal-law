@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação da 3.ª Delegação da Direcção-Geral da Contabilidade Pública junto do Ministério da Administração Interna, a declaração de transferências de verbas publicada no Diário da República, 1.ª série, n.º 4 (2.º suplemento), de 6 de Janeiro de 1986, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+Onde se lê «Cap. 02 - Secretaria-Geral - Div. 01 - Serviços próprios - Class. económica - Código 29.00 - Aquisição de serviços - Locação de bens - 60 contos» deve ler-se «Cap. 02 - Secretaria-Geral - Div. 01 - Serviços próprios - Classificação económica - Código 29.00 - Aquisição de serviços - Locação de bens - 600 contos».
+Secretaria-Geral da Presidência do Conselho de Ministros, 18 de Julho de 1986. - O Secretário-Geral, França Martins.
