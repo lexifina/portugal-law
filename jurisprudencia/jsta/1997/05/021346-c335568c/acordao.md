@@ -1,0 +1,49 @@
+# Acórdão do Supremo Tribunal Administrativo de 1997-05-14, processo 021346
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 021346
+
+**Data do Acordão:** 05/14/1997
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** BRANDÃO DE PINHO
+
+**Descritores:** IRC; DERRAMA; CUSTO FISCAL; LEI INTERPRETATIVA
+
+**Nº Convencional:** JSTA00051116
+
+**Nº do Documento:** SA219970514021346
+
+**Data de Entrada:** 12/18/1996
+
+**Recorrente:** PROQUICHEME-PRODUTOS QUIMICOS INDUSTRIAIS LDA
+
+**Recorrido 1:** FAZENDA PUBLICA
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 97
+
+**Privacidade:** 01
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** SENT TT1INST LISBOA PER SALTUM.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR FISC - IRC.
+
+**Legislação Nacional:** CIRC88 ART41 N1 A.; L 1/87 DE 1987/01/06 NA REDACÇÃO DO DL 470-B/88 DE 1988/12/19 ART5.; CCIV66 ART11.; EBFISC89 ART1 ART9.; L 10-B/96 DE 1996/05/23.; CONST97 ART2 ART17 ART18 ART106.
+
+**Jurisprudência Nacional:** AC STA PROC14380 DE 1992/09/23.; AC STA PROC20773 DE 1996/12/04.; AC STA PROC20772 DE 1997/03/05.; AC STA PROC21488 DE 1997/04/16.
+
+**Referência a Doutrina:** VITOR FAVEIRO NOÇÕES FUNDAMENTAIS DE DIREITO FISCAL V2 PÁG613.; CARDOSO DA COSTA CURSO DE DIREITO FISCAL PÁG206.; TEIXEIRA RIBEIRO E OUTROS TEORIA GERAL DOS BENEFÍCIOS FISCAIS PÁG273.; TEIXEIRA RIBEIRO E OUTROS IN FISCO N45 PÁG34.; BAPTISTA MACHADO INTRODUÇÃO AO DIREITO E AO DISCURSO LEGITIMADOR PÁG247.; BAPTISTA MACHADO SOBRE A APLICAÇÃO NO TEMPO DO NOVO CÓDIGO CIVIL PÁG287.; PIRES DE LIMA E OUTRO CÓDIGO CIVIL ANOTADO 4ED PÁG62.; FRANCESCO FERRARA INTERPRETAÇÃO E APLICAÇÃO DAS LEIS PÁG131.; Texto Integral
+
+## Sumário
+
+A derrama, como imposto acessório que é do
+
+IRC, não é de considerar custo fiscal, nos termos e para os efeitos do art. 41 n. 1 al. a) do CIRC - exercício de 1993.
