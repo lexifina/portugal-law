@@ -2,26 +2,32 @@
 
 ### (Vencimentos e remunerações)
 
-1 - Os vencimentos correspondentes à prestação de serviço em tempo integral são os constantes da tabela anexa ao presente diploma.
+1 - O vencimento base dos professores catedráticos em regime de dedicação exclusiva é igual ao vencimento base de juiz conselheiro do Supremo Tribunal de Justiça.
 
-2 - Os subsídios previstos nos n.os 1 e 2 do artigo 70.º são expressos em percentagem do valor da letra de vencimento correspondente à categoria em que se tenha provimento, nos termos seguintes:
+2 - O vencimento base das restantes categorias docentes do ensino universitário é calculado relativamente ao vencimento base dos professores catedráticos nas seguintes percentagens:
 
-a) Professor catedrático - 60%;
+Percentagem
 
-b) Professor associado com agregação - 60%;
+Professor associado com agregação ... 90
 
-c) Professor associado sem agregação - 50%;
+Professor associado sem agregação ... 86
 
-d) Professor auxiliar com agregação - 60%;
+Professor auxiliar com agregação ... 86
 
-e) Professor auxiliar sem agregação - 50%;
+Professor auxiliar sem agregação ... 82
 
-f) Assistente - 35%;
+Assistente ... 64
 
-g) Assistente estagiário - 30%.
+Leitor ... 60
 
-3 - O pessoal docente em regime de tempo parcial aufere uma remuneração compreendida entre 20% e 60% do vencimento fixado para a categoria de que são convidados, em correspondência com os limites estabelecidos no artigo 69.º
+Assistente estagiário ... 55
 
-4 - Os professores visitantes, desde que prestem serviço em regime de tempo integral, auferem uma remuneração mensal igual à categoria docente a que hajam sido contratualmente equiparados, tendo ainda direito ao abono das passagens entre o país de origem e a localidade onde se situa a escola a que se destinam, ao pagamento da viagem de regresso, findo o contrato, e a um subsídio de deslocação de montante a fixar por despacho conjunto dos Ministros das Finanças e da Educação e do Secretário de Estado da Administração Pública.
+3 - Para além das diuturnidades em vigor na função pública, os docentes universitários de carreira têm direito a diuturnidades especiais, correspondentes a uma percentagem do respectivo vencimento ilíquido e, para todos os efeitos, incorporadas sucessivamente no vencimento a partir da data em que perfaçam três, sete, onze e quinze anos de efectivo serviço após a posse como professores auxiliares.
 
-5 - Os monitores perceberão uma gratificação de montante igual a 40% do vencimento dos assistentes estagiários.
+4 - A percentagem a que se refere o número anterior é constante e determinada de forma que o seu efeito cumulativo na 4.ª diuturnidade especial de um professor catedrático em regime de dedicação exclusiva produza um complemento de vencimento idêntico à participação emolumentar fixada para os juízes conselheiros do Supremo Tribunal de Justiça.
+
+5 - O pessoal docente em regime de tempo parcial aufere uma remuneração compreendida entre 20% e 60% do vencimento fixado para o regime de tempo integral correspondente à categoria para que é convidado, de acordo com os limites estabelecidos no artigo 69.º
+
+6 - Os professores visitantes auferem uma remuneração mensal igual à da categoria docente a que hajam sido contratualmente equiparados, tendo ainda direito ao abono de um subsídio de deslocação de montante a fixar por despacho conjunto dos Ministros das Finanças e da Educação e Cultura.
+
+7 - Os monitores perceberão uma gratificação mensal de montante igual a 40% do vencimento dos assistentes estagiários em regime de tempo integral.
