@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1937/08/18500/08120812.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1937-08-10",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "bbaa91953ec037cf70b61f9e7e68cd01f2e7ffd1888e14b46c2a0da7db8e64e9",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 94.2,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "476f05bc3f196d3151d4eb37dbd6848c73f0b035aa8c3094847c7bc44c892c80",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 208
 }
