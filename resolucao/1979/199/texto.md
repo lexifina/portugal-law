@@ -1,0 +1,4 @@
+Resolução n.º 199/79
+Nos termos da alínea a) do artigo 146.º e do n.º 4 do artigo 277.º da Constituição, o Conselho da Revolução, precedendo parecer da Comissão Constitucional, pronuncia-se, para os efeitos dos n.os 1 e 2 do artigo 278.º, pela inconstitucionalidade do Decreto da Assembleia da República n.º 208-I/79, de 24 de Maio, sobre a alteração, por ratificação, do Decreto-Lei n.º 38/79, de 5 de Março, por a exigência de que a cessação da intervenção seja efectuada por decreto-lei infringir o disposto na Constituição e os princípios nela consignados, nomeadamente o n.º 1 do artigo 114.º, em conexão com os artigos 185.º n.º 1, 165.º, alíneas a) e c), e 202.º, alíneas c) e g).
+Aprovada em Conselho da Revolução em 29 de Junho de 1979.
+O Presidente do Conselho da Revolução, António Ramalho Eanes.
