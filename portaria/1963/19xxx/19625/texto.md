@@ -1,0 +1,20 @@
+Portaria n.º 19625
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
+1.º Nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar com a quantia de 20000$00 a verba do capítulo 10.º, artigo 249.º, n.º 2), alínea a) «Encargos gerais - Deslocações do pessoal - Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral de Macau para o ano económico de 1962, tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo 7.º, artigo 175.º, n.º 1) «Serviços de fomento - Serviços de economia e estatística geral - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da referida tabela de despesa.
+2.º Nos termos do § único do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, conjugado com o artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, e com a alínea e) do artigo 3.º do mesmo diploma, com a nova redacção dada pelo artigo 4.º do Decreto n.º 40712, de 1 de Agosto de 1956, abrir os seguintes créditos especiais:
+a) Um da quantia de 500000$00, destinado a reforçar a verba do capítulo 10.º, artigo 2499.º, n.º 4), alínea b), 1.ª «Encargos gerais - Deslocações de pessoal - Passagens de ou para o exterior - Por quaisquer outros motivos - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral de Moçambique para o ano económico de 1962, tomando como contrapartida igual importância a sair do excesso de cobrança sobre a previsão da receita da verba do capítulo 2.º, artigo 18.º «Impostos indirectos - Adicional sobre estampilhas para selagem do tabaco», do orçamento da receita ordinária para o mesmo ano económico;
+b) Um da quantia de 206000$00, destinado a reforçar com as importâncias que se indicam as seguintes verbas da tabela de despesa ordinária do orçamento geral de Cabo Verde para o ano económico de 1962:
+CAPÍTULO 10.º
+Encargos gerais
+Artigo 258.º «Deslocações de pessoal»:
+N.º 2) «Ajudas de custo e subsídios inerentes às deslocações fora da província»:
+a) «A pagar na metrópole» ... 106000$00
+N.º 4) «Passagens de ou para o exterior»:
+b) «Por quaisquer outros motivos»:
+A pagar na metrópole ... 100000$00
+... 206000$00
+tomando como contrapartida igual importância a sair do excesso de cobrança sobre a previsão da receita da verba do capítulo 5.º, artigo 42.º «Domínio privado, empresas e indústrias do Estado, participação de lucros - Domínio privado do Estado - Taxas de trânsito de telegramas transmitidos pelos cabos submarinos que amarram em Cabo Verde», do orçamento da receita ordinária para o referido ano económico.
+3.º Nos termos do artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, conjugado com a alínea e) do artigo 3.º do mesmo diploma, com a nova redacção dada pelo artigo 4.º do Decreto n.º 40712, de 1 de Agosto de 1956, abrir um crédito especial de 30000$00, destinado a reforçar a verba do capítulo 7.º, artigo 213.º, n.º 1) «Serviços de fomento - Repartição Provincial dos Serviços de Obras Públicas, Agrimensura e Cadastro - Despesas com o material - Despesas de conservação e aproveitamento - De imóveis», da tabela de despesa ordinária do orçamento geral de Cabo Verde para o ano económico de 1962, tomando como contrapartida igual importância a sair do excesso de cobrança sobre a previsão da receita da verba do capítulo 5.º, artigo 42.º «Domínio privado, empresas e indústrias do Estado, participação de lucros - Domínio privado do Estado - Taxas de trânsito de telegramas transmitidos pelos cabos submarinos que amarram em Cabo Verde», do orçamento de receita ordinária para o mesmo ano económico.
+Ministério do Ultramar, 8 de Janeiro de 1963. - Pelo Ministro do Ultramar, Joaquim Moreira da Silva Cunha, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Cabo Verde, Moçambique e Macau. - Silva Cunha.
