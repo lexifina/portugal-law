@@ -1,0 +1,43 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=EeydxMxWDACnKIdafO1gLuckTcPUKEzq1%2bHH3DxRj1tc2AQfc7RGac%2b4XdUghgos4hwJbWU%2fEsqic91pJfSy558GPhXV9oA5uyvzrB1qFVhCGEknXlWuTT8uRAklugoPfYrUiIlzLHhtSLkmSiI4%2bdYzFtfLATYK8agC7LMNmzinpm7uNNpbroIMRf9ffPjD%2fHACkBGVzah3bssnNnwPFdEjeiiy%2bEyzrNHvpOuJpm4ezAfTJczAjgs4mgA8L35izjUTV1PadybFpEpUVN%2b8NcOO6c8ymJZXTt07TVuJC87qb6GzDk6zmf29WVzsGKDDbWRGOt9g%2brwMTLOTxaLPAw%3d%3d&fich=IniciativasIB_json.txt&Inline=true",
+  "ficheiro_sha256": "8ce94fbc287b7e9dc94a4b6d2a0a9325847ce701b2894595086453b04b7c2e75",
+  "legislatura": "I",
+  "tipo": "Projeto de Resolução",
+  "numero": "7",
+  "id": "33167",
+  "fases": 5,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "1980-03-11",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "1980-11-12",
+    "DataInicioleg": "1980-01-03",
+    "IniAnexos": null,
+    "IniAutorDeputados": null,
+    "IniAutorGruposParlamentares": null,
+    "IniAutorOutros": {
+      "iniAutorComissao": "COMISSÃO DE CONDIÇÃO FEMININA",
+      "nome": "Comissões",
+      "sigla": "C"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "33167",
+    "IniLeg": "I",
+    "IniLinkTexto": "",
+    "IniNr": "7",
+    "IniObs": "Os Projectos de Resolução da Iª Legislatura, tal como este, que \"recomendavam\" algo ao governo, nunca originaram uma resolução publicada quer em DAR quer em DR porque a eficácia jurídica era nula, pois a AR não era competente para realizar essas \"recomendações\" - segundo parecer jurídico do Auditor Jurídico da AR constante do processo deste Projecto de Resolução.",
+    "IniSel": "4",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Recomendação ao Governo para promover com urgência a assinatura para ratificação da Convenção Sobre a Eliminação de Todas as Formas de Discriminação Contra as Mulheres aprovada em plenário da 35ª Sessão da Assembleia Geral das Nações Unidas e aberta à ratificação de todos os países membros",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
