@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 4-M/2000
+Segundo comunicação do Ministério da Educação, o Despacho Normativo n.º 3-A/2000, publicado no Diário da República, 1.ª série, n.º 14 (suplemento), de 18 de Janeiro de 2000, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No n.º 5, onde se lê «É revogado o Despacho Normativo n.º 7/97, de 7 de Fevereiro, com a redacção dada pelo Despacho Normativo n.º 15/97, de 31 de Março.» deve ler-se «É revogado o Despacho Normativo n.º 7/97, de 7 de Fevereiro, com a redacção dada pelo Despacho Normativo n.º 15/97, de 31 de Março, sem prejuízo do disposto no n.º 1 do presente despacho.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 31 de Janeiro de 2000. - O Secretário-Geral, Alexandre Figueiredo.
