@@ -1,0 +1,5 @@
+Portaria n.º 22964
+Verificando-se que o Decreto n.º 44471, de 23 de Julho de 1962, e legislação complementar não estabelecem normas quanto à antiguidade a atribuir aos instruendos, oficiais dos quadros não permanentes, que, não tendo aproveitamento no curso e tirocínio de pára-quedismo, são transferidos posteriormente para o Exército, de harmonia com o disposto no artigo 4.º daquele decreto:
+Manda o Governo da República Portuguesa, pelo Ministro do Exército e Secretário de Estado da Aeronáutica, que se observe o seguinte:
+Os oficiais dos quadros não permanentes, instruendos do curso e tirocínio de pára-quedismo, que, por falta de aproveitamento, são transferidos para o Exército, são intercalados nos cursos de oficiais milicianos que frequentaram no Exército e passam a contar a antiguidade dos seus postos de acordo com as normas em vigor para o pessoal dos quadros de complemento do Exército.
+Presidência do Conselho e Ministério do Exército, 16 de Outubro de 1967. - O Ministro do Exército, Joaquim da Luz Cunha. - O Secretário de Estado da Aeronáutica, Fernando Alberto de Oliveira.
