@@ -1,0 +1,5 @@
+Despacho Normativo n.º 27/77
+Considerando que o IPE tem por atribuições, entre outras, promover a reestruturação financeira das empresas sob a sua supervisão, com vista a um adequado dimensionamento financeiro das mesmas e a uma equilibrada proporção entre capitais próprios e alheios;
+Considerando que, em especial da cessação da intervenção do Estado em empresas privadas, a que se refere o Decreto-Lei n.º 907/76, de 31 de Dezembro, vão resultar em alguns casos tomadas de capital das mesmas pelo Estado:
+É atribuída ao IPE a quantia de 1064683 contos para lhe proporcionar os meios financeiros indispensáveis à realização das participações do Estado no capital de empresas, designadamente desde que tal se mostre imprescindível, no âmbito das propostas de saneamento económico-financeiro aprovadas nos termos do Decreto-Lei n.º 543/76, de 10 de Julho.
+Ministérios do Plano e Coordenação Económica e das Finanças, 31 de Dezembro de 1976. - O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - Pelo Ministro das Finanças, Maria Manuela Matos Morgado Santiago Baptista, Secretário de Estado das Finanças.
