@@ -1,0 +1,19 @@
+Decreto-Lei n.º 200/79
+de 30 de Junho
+A EPPI - Empresa Pública de Parques Industriais está autorizada a concretizar, no período de 1979 a 1985, um programa de instalação de seis parques industriais - Parque Industrial de Braga, Parque Industrial de Guimarães, Parque Industrial da Covilhã, Parque Industrial de Évora, Parque Industrial de Beja e Parque Industrial do Distrito de Faro -, visando objectivos promocionais de desenvolvimento industrial e regional.
+Em linhas gerais, estes seis parques industriais concretizar-se-ão, no seu conjunto, na urbanização industrial de 190 ha, construção de 430000 m2 de pavilhões industriais e outras instalações industriais para arrendamento e na preparação de 250000 m2 para cedência, na modalidade de constituição de direitos de superfície. Nestes parques industriais poderão instalar-se cerca de trezentas fábricas, que originarão directamente cerca de dezasseis mil novos postos de trabalho. O investimento que se prevê ser realizado pela EPPI com as infra-estruturas e construções industriais, no período de 1979 a 1982, inclusive, é da ordem de 1418500 contos, a preços constantes, e de 2671000 contos, a preços correntes previsíveis.
+Dada a dimensão do programa e a sua natureza, há que assegurar os meios financeiros para a concretização de tão importante projecto de desenvolvimento.
+Deverão ser obtidos recursos por meio de empréstimos a longo prazo, de acordo com as negociações em curso entre a EPPI e entidades financeiras nacionais e estrangeiras - nomeadamente o Banco Internacional de Reconstrução e Desenvolvimento, o Kreditanstalt für Wiederaufbau, a Caixa Geral de Depósitos e o Fundo EFTA - até um total correspondente a 55% do valor dos investimentos que se prevê serem realizados de 1979 a 1982, inclusive.
+Importa agora que o Estado concretize, por meio de instrumento legal apropriado, a forma, o montante e o calendário por que se procederá à elevação do capital estatutário da EPPI, em conformidade com os dispêndios resultantes da execução do programa de investimentos.
+Nestes termos:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º - 1 - Serão inscritas nos sucessivos Orçamentos Gerais do Estado, para os anos de 1979 a 1982, verbas correspondentes a 40% do custo dos investimentos da Empresa Pública de Parques Industriais (EPPI), constantes de programas anualmente aprovados pelos Ministérios da Tutela e das Finanças e do Plano.
+2 - As verbas referidas no número anterior destinam-se à realização do aumento do capital estatutário da EPPI, autorizado nos termos do artigo 17.º do Decreto-Lei n.º 260/76, de 8 de Abril, e serão deduzidas ao montante anualmente atribuído ao Ministério da Indústria e Tecnologia, a título de dotação para capital estatutário.
+Art. 2.º - 1 - Os montantes previstos no artigo anterior serão postos à disposição da Empresa, em cada ano, até 31 de Março e 31 de Outubro.
+2 - A parcela correspondente ao ano de 1979 será entregue em duas prestações até 30 de Junho e 31 de Outubro.
+Art. 3.º - 1 - Fica o Secretário de Estado do Tesouro autorizado a conceder à EPPI, para realização do referido programa de instalação de parques industriais, três empréstimos, durante os anos de 1980, 1981 e 1982, no montante equivalente a 5% do custo dos investimentos da EPPI, constantes de programa anualmente aprovado pelos Ministérios da Tutela e das Finanças e do Plano.
+2 - Os empréstimos referidos no número anterior serão concedidos por um prazo de quinze anos, verificando-se o início do reembolso a partir de 1 de Janeiro de 1986, sendo as demais condições fixadas por despacho do Secretário de Estado do Tesouro.
+Visto e aprovado em Conselho de Ministros de 16 de Maio de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Álvaro Roque de Pinho Bissaia Barreto.
+Promulgado em 18 de Junho de 1979.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
