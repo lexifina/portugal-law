@@ -1,0 +1,453 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Inquérito Parlamentar",
+    "numero": "23",
+    "id": "32919",
+    "titulo": "Constituição de uma comissão eventual de inquérito destinada a averiguar as condições de legalidade e regularidade financeira e técnica de todo o processamento que envolve o Centro Cultural de Belém."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "1991-06-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "5263",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "1991-06-06",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1991-06-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "160509",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2928-2933",
+                  "2938-2938"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-06-07",
+                "pubLeg": "V",
+                "pubNr": "89",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/089/1991-06-07/2928?pgs=2928-2933,2938&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão eventual de inquérito destinada a averiguar as condições de legalidade e regularidade financeira e técnica de todo o processamento que envolve o Centro Cultural de Belém.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "160510",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2930-2930"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-06-07",
+                "pubLeg": "V",
+                "pubNr": "89",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/089/1991-06-07/2930?pgs=2930&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão eventual de inquérito destinada a averiguar as condições de legalidade e regularidade financeira e técnica de todo o processamento que envolve o Centro Cultural de Belém.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "160511",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2930-2930"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-06-07",
+                "pubLeg": "V",
+                "pubNr": "89",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/089/1991-06-07/2930?pgs=2930&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão eventual de inquérito destinada a averiguar as condições de legalidade e regularidade financeira e técnica de todo o processamento que envolve o Centro Cultural de Belém.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "160512",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2930-2931"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-06-07",
+                "pubLeg": "V",
+                "pubNr": "89",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/089/1991-06-07/2930?pgs=2930-2931&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão eventual de inquérito destinada a averiguar as condições de legalidade e regularidade financeira e técnica de todo o processamento que envolve o Centro Cultural de Belém.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "160513",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2932-2933",
+                  "2935-2935"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-06-07",
+                "pubLeg": "V",
+                "pubNr": "89",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/089/1991-06-07/2932?pgs=2932-2933,2935&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão eventual de inquérito destinada a averiguar as condições de legalidade e regularidade financeira e técnica de todo o processamento que envolve o Centro Cultural de Belém.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "160514",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2933-2934"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-06-07",
+                "pubLeg": "V",
+                "pubNr": "89",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/089/1991-06-07/2933?pgs=2933-2934&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão eventual de inquérito destinada a averiguar as condições de legalidade e regularidade financeira e técnica de todo o processamento que envolve o Centro Cultural de Belém.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "160515",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2935-2936"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-06-07",
+                "pubLeg": "V",
+                "pubNr": "89",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/089/1991-06-07/2935?pgs=2935-2936&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão eventual de inquérito destinada a averiguar as condições de legalidade e regularidade financeira e técnica de todo o processamento que envolve o Centro Cultural de Belém.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "160516",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2936-2938"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-06-07",
+                "pubLeg": "V",
+                "pubNr": "89",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/089/1991-06-07/2936?pgs=2936-2938&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão eventual de inquérito destinada a averiguar as condições de legalidade e regularidade financeira e técnica de todo o processamento que envolve o Centro Cultural de Belém.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "20:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "160517",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2937-2937"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-06-07",
+                "pubLeg": "V",
+                "pubNr": "89",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/089/1991-06-07/2937?pgs=2937&org=PLC"
+              }
+            ],
+            "sumario": "Constituição de uma comissão eventual de inquérito destinada a averiguar as condições de legalidade e regularidade financeira e técnica de todo o processamento que envolve o Centro Cultural de Belém.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "242309",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "5263",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1991-06-07",
+        "pubLeg": "V",
+        "pubNr": "89",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/089/1991-06-07?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
