@@ -1,0 +1,45 @@
+# Acórdão do Supremo Tribunal de Justiça de 2001-11-13, processo 01A3307
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 01A3307
+
+**Nº Convencional:** JSTJ00042565
+
+**Relator:** AZEVEDO RAMOS
+
+**Descritores:** RESPONSABILIDADE CIVIL POR ACIDENTE DE VIAÇÃO; INCAPACIDADE PERMANENTE PARCIAL; DANOS PATRIMONIAIS; DANOS FUTUROS; PERDA DE VEÍCULO
+
+**Nº do Documento:** SJ200111130033076
+
+**Data do Acordão:** 11/13/2001
+
+**Votação:** UNANIMIDADE
+
+**Tribunal Recurso:** T REL PORTO
+
+**Processo no Tribunal Recurso:** 38/00
+
+**Data:** 03/13/2001
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REVISTA.
+
+**Decisão:** CONCEDIDA PARCIALMENTE A REVISTA.
+
+**Área Temática:** DIR CIV - DIR RESP CIV.
+
+**Legislação Nacional:** CCIV66 ARTIGO 566 N3.
+
+## Sumário
+
+I- O lesado não tem de alegar e provar a perda de rendimentos laborais para o tribunal atribuir indemnização por ter sofrido incapacidade permanente parcial mas apenas essa incapacidade permanente parcial, sendo certo que o valor do respectivo dano patrimonial tem de ser apreciado com recurso à equidade (artº. 566, nº. 1 do C.Civil).
+
+II- Se à data do acidente, o autor era um jovem saudável, com 18 anos de idade, estudante do 1º. ano de engenharia mecânica, com a expectativa de entrar no mercado de trabalho por volta dos 23 anos de idade, com possibilidade de poder auferir um vencimento de cerca de 160.000$00 mensais e que, por via das lesões sofridas, ficou com uma incapacidade parcial permanente para o trabalho de 10%, resultante da extracção do baço, considerando a idade de 65 anos, como fim da vida activa, a natural progressão na carreira e o constante aumento do nível dos salários, é justo fixar a indemnização em 6.000.000$00, a título de danos patrimoniais futuros.
+
+III- Tendo o autor, em consequência do acidente, perdido o 1º. ano do curso de engenharia mecânica, sofreu, por tal, um prejuízo em termos de progressão académica e consequente atraso no ingresso no mercado de trabalho que consubstancia num dano patrimonial futuro, merecedor de uma indemnização específica, atendendo à previsível quebra de ganho profissional de um engenheiro, em início de carreira, durante o período de um ano, é adequado fixar, com recurso à equidade, o montante indemnizatório de 1.500.000$00.
+
+IV- São cumuláveis a indemnização pela perda da viatura e pela privação do seu uso.
