@@ -1,0 +1,6 @@
+Portaria n.º 19755
+As comissões venatórias concelhias abaixo indicadas não estão em condições legais de efectuar despesas, em virtude de não terem submetido a aprovação, em devido tempo, os seus orçamentos ou por estes não terem merecido a aprovação do respectivo governo civil.
+Para que nestes concelhos não deixe de ser exercida a necessária acção de fomento e defesa da caça:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, que, nos termos do artigo 2.º do Decreto n.º 30335, de 29 de Março de 1940, e para os fins do § único do mesmo artigo, sejam autorizadas as transferências, para a Comissão Venatória Regional do Norte, das quantias depositadas nos termos do mesmo decreto e de todas as que se destinam ao fundo especial das comissões venatórias dos concelhos de Arouca, Bragança, Fafe, Freixo de Espada à Cinta, Lamego, Mesão Frio, Miranda do Douro, Ponte de Lima, Vimioso e Vinhais.
+A Comissão Venatória Regional do Norte só poderá aplicar as quantias referidas depois da aprovação do orçamento, que deverá ser elaborado de acordo com as disposições legais.
+Secretaria de Estado da Agricultura, 11 de Março de 1963. - O Secretário de Estado da Agricultura, Luís Le Cocq de Albuquerque de Azevedo Coutinho.
