@@ -1,0 +1,7 @@
+Despacho
+1. Ao abrigo do disposto no n.º 1 do artigo 2.º do Decreto-Lei n.º 362/75, de 10 de Julho, são nomeados para integrarem o núcleo permanente criado pela mesma disposição legal:
+Manuel Marques de Almeida, director da 1.ª Delegação da Direcção-Geral da Contabilidade Pública, em representação do Ministério das Finanças;
+Manuel Moutinho de Pádua, chefe de divisão da Direcção-Geral da Função Pública, e Duarte Nuno Vasconcelos, director de serviços da Direcção-Geral de Organização Administrativa, em representação do Ministério da Administração Interna.
+2. A este núcleo permanente fica cometida a atribuição de coordenar o parecer conjunto dos Ministérios da Administração Interna e das Finanças sobre projectos de diplomas legais que contenham matéria relativa a atribuições, organização, competência e regime de pessoal dos Ministérios, dos respectivos serviços ou dos estabelecimentos ou organismos deles dependentes.
+3. Para efeitos do determinado nos números anteriores, os projectos de diplomas deverão ser remetidos directamente à Secretaria de Estado da Administração Pública e ao Ministério das Finanças, devendo o núcleo permanente assegurar a emissão de parecer no prazo máximo de quinze dias.
+Ministérios da Administração Interna e das Finanças, 9 de Janeiro de 1976. - O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa. - O Ministro das Finanças, Francisco Salgado Zenha.
