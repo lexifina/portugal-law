@@ -1,0 +1,73 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=EeydxMxWDACnKIdafO1gLuckTcPUKEzq1%2bHH3DxRj1tc2AQfc7RGac%2b4XdUghgos4hwJbWU%2fEsqic91pJfSy558GPhXV9oA5uyvzrB1qFVhCGEknXlWuTT8uRAklugoPfYrUiIlzLHhtSLkmSiI4%2bdYzFtfLATYK8agC7LMNmzinpm7uNNpbroIMRf9ffPjD%2fHACkBGVzah3bssnNnwPFdEjeiiy%2bEyzrNHvpOuJpm4ezAfTJczAjgs4mgA8L35izjUTV1PadybFpEpUVN%2b8NcOO6c8ymJZXTt07TVuJC87qb6GzDk6zmf29WVzsGKDDbWRGOt9g%2brwMTLOTxaLPAw%3d%3d&fich=IniciativasIB_json.txt&Inline=true",
+  "ficheiro_sha256": "8ce94fbc287b7e9dc94a4b6d2a0a9325847ce701b2894595086453b04b7c2e75",
+  "legislatura": "I",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "8",
+    "id": "33168",
+    "titulo": "Sobre a edição e divulgação de uma separata do Diário da Assembleia da República contendo as actas do debate na generalidade e na especialidade das propostas de lei do Plano e do OGE para 1980 na parte respeitante à Lei 1/79"
+  },
+  "fase": "Votação global",
+  "codigo_fase": "330",
+  "data_registo": "1980-05-30",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "330",
+    "Comissao": null,
+    "DataFase": "1980-05-30",
+    "EvtId": "56",
+    "Fase": "Votação global",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "244088",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "358117",
+        "obs": null,
+        "pag": [
+          "2661-2664"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1980-05-31",
+        "pubLeg": "I",
+        "pubNr": "60",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/01/04/060/1980-05-31/2661?pgs=2661-2664&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "1980-05-30",
+        "descricao": null,
+        "detalhe": "A Favor: <I>MDP/CDE</I>, <I> PS</I>, <I> PCP</I><BR>Contra:<I>PPM</I>, <I> PPD</I>, <I> CDS</I>",
+        "id": "48949",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "60",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
