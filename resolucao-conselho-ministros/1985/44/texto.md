@@ -1,0 +1,12 @@
+Resolução do Conselho de Ministros n.º 44/85
+Na sequência de deliberação anterior do Conselho de Ministros de 28 de Agosto de 1984, têm vindo a ser desenvolvidos esforços no sentido de viabilizar a construção de 3 novas fragatas de luta anti-submarina com vista a reforçar e renovar o potencial de defesa da Marinha de Guerra, quer a nível nacional, quer no âmbito da participação portuguesa nos objectivos de defesa comum da Aliança Atlântica.
+Da conjugação dos esforços entre Portugal e países da Aliança, nomeadamente da significativa contribuição dos Estados Unidos da América e da República Federal da Alemanha, resultou a possibilidade de elaborar um plano para a construção das referidas fragatas, cuja configuração técnica, a partir dos requisitos nacionais, mereceu também a aprovação das entidades NATO (SACLANT).
+Subsistem ainda, todavia, alguns aspectos técnicos relativamente aos quais se torna imprescindível obter acordo final.
+Não obstante, estão desde já preenchidas as condições que permitem tomar decisões que possibilitem o desenvolvimento e a rápida concretização do processo.
+Nestas circunstâncias, o Conselho de Ministros, reunido em 2 de Outubro de 1985, resolveu:
+1 - Adjudicar ao Consortium MEKO, se as condicionantes referidas no n.º 4 forem preenchidas, a construção de 3 fragatas MEKO 200.
+2 - Atribuir ao projecto a importância de 390 milhões de marcos como contribuição directa do Estado Português a pagar ao Consortium, durante o prazo de 5 anos, a contar da data da assinatura do contrato, e de acordo com o esquema de pagamento a acordar.
+3 - Atribuir à Marinha a responsabilidade pela gestão técnica do contrato e pela satisfação das obrigações financeiras contratuais, neste caso de acordo com esquema a definir pelo Ministro das Finanças e do Plano.
+4 - A execução desta resolução fica dependente da obtenção da garantia de fornecimento do sistema de comando e controle, com a consequente e integral cobertura financeira do projecto, e da elaboração do adequado sistema de contrapartidas a prestar pelo Consortium, no montante de, pelo menos, 90% da contribuição directa do Estado Português e no prazo de desembolso desta. O programa das contrapartidas deverá ser previamente aprovado pelos Ministros de Defesa Nacional, das Finanças e do Plano, da Indústria e Energia e do Comércio e Turismo.
+5 - Em consequência, autorizar o Ministro da Defesa Nacional, em representação do Estado Português, a concluir as negociações e a outorgar o respectivo contrato.
+Presidência do Conselho de Ministros. - O Primeiro-Ministro, Mário Soares.
