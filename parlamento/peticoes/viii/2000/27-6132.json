@@ -1,0 +1,856 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=WEUMi7%2fBtIIg%2fkHBDyZ%2fsil3BmWuButejMvPGkqNVyUfIJXddc1IDB3t8GXfBL3zSPQF%2bIyDi3AcWLUm0oL6crfUIOoirULFjyvRAul6J%2by6a6FDtpJuVrK3Y3rP8bCLGdxev%2bdUqQgc%2bXEDQI%2f8OLEsCv3IziG5WQHDSzFAl7qQApdhGho5obQdwDn6iwyWAFYt%2fzWn72d9GQ0G7zTxyKwsQjpKzhAqqYI6%2fCsSwtcK7MkwpbhLc%2bPOBViftzfwo0QY4%2b1hHCAUUDtd7wn2zRmIMG1aKMpZb8PUmWVGX9mCVPzhBcSom0%2boac5wXwR%2fcfo1uKTMHtBvk9eTSDfjfyy5P2leMqegA1xVPD5%2bIs%2bMWrsB8j6dH%2fUqNW7MrBr8&fich=PeticoesVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "c7a8b036f2bb9420007f23598577186345f4c787fefe68382e6a1aac6e3b6ea3",
+  "legislatura": "VIII",
+  "id": "6132",
+  "numero": "27",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2000-04-14",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2004-01-08",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2004-01-08",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2004-02-11",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "109",
+        "Legislatura": "IX",
+        "Nome": "COMISSÃO DE TRABALHO E DOS ASSUNTOS SOCIAIS",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2002-05-22",
+            "gp": "PSD",
+            "id": "1898",
+            "motivoCessacao": null,
+            "nome": "Miguel Coleta"
+          }
+        ],
+        "RelatorioFinal": [
+          "21575"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2000-06-07",
+        "DataArquivo": "2004-01-08",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": null,
+        "DataReaberta": "2000-06-07",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2000-04-14",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c304e5054533834553151765247396a6457316c626e52766331426c64476c6a595738764d6d5a694d4467344d3249744e7a4a694e7930304e4749304c546c6a4e6a41744d4463314d6d52694e54677a4d5749324c6e426b5a673d3d&fich=2fb0883b-72b7-44b4-9c60-0752db5831b6.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "24",
+        "Legislatura": "VIII",
+        "Nome": "COMISSAO DE SAUDE E TOXICODEPENDENCIA",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2000-06-28",
+            "gp": "PSD",
+            "id": "299",
+            "motivoCessacao": null,
+            "nome": "Carlos Martins"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2004-03-05",
+    "Documentos": [
+      {
+        "DataDocumento": "2000-04-14",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938774f546c6c4d545a6b595330354f575a694c545179595759744f5451344f5330304f4759784d5451345a474d7a5a4745756347526d&fich=099e16da-99fb-42af-9489-48f1148dc3da.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2004-03-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148746",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3357-3358"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-06",
+                "pubLeg": "IX",
+                "pubNr": "60",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/060/2004-03-06/3357?pgs=3357-3358&org=PLC"
+              }
+            ],
+            "Sumario": "Revogação da Lei nº 4/99, de 27 de Janeiro; Revisão do actual Estatuto dos Militares das Forças Armadas (EMFAR); Falta de pessoal médico e de enfermagem e degradação das instalações do Centro de Saúde de Santiago do Cacém",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-03-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148747",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3358-3358"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-06",
+                "pubLeg": "IX",
+                "pubNr": "60",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/060/2004-03-06/3358?pgs=3358&org=PLC"
+              }
+            ],
+            "Sumario": "Revogação da Lei nº 4/99, de 27 de Janeiro; Revisão do actual Estatuto dos Militares das Forças Armadas (EMFAR); Falta de pessoal médico e de enfermagem e degradação das instalações do Centro de Saúde de Santiago do Cacém",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-03-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148748",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3358-3359"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-06",
+                "pubLeg": "IX",
+                "pubNr": "60",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/060/2004-03-06/3358?pgs=3358-3359&org=PLC"
+              }
+            ],
+            "Sumario": "Revogação da Lei nº 4/99, de 27 de Janeiro; Revisão do actual Estatuto dos Militares das Forças Armadas (EMFAR); Falta de pessoal médico e de enfermagem e degradação das instalações do Centro de Saúde de Santiago do Cacém",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-03-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148749",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3359-3359"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-06",
+                "pubLeg": "IX",
+                "pubNr": "60",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/060/2004-03-06/3359?pgs=3359&org=PLC"
+              }
+            ],
+            "Sumario": "Revogação da Lei nº 4/99, de 27 de Janeiro; Revisão do actual Estatuto dos Militares das Forças Armadas (EMFAR); Falta de pessoal médico e de enfermagem e degradação das instalações do Centro de Saúde de Santiago do Cacém",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-03-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148750",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3359-3360"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-06",
+                "pubLeg": "IX",
+                "pubNr": "60",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/060/2004-03-06/3359?pgs=3359-3360&org=PLC"
+              }
+            ],
+            "Sumario": "Revogação da Lei nº 4/99, de 27 de Janeiro; Revisão do actual Estatuto dos Militares das Forças Armadas (EMFAR); Falta de pessoal médico e de enfermagem e degradação das instalações do Centro de Saúde de Santiago do Cacém",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-03-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148751",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3360-3360"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-06",
+                "pubLeg": "IX",
+                "pubNr": "60",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/060/2004-03-06/3360?pgs=3360&org=PLC"
+              }
+            ],
+            "Sumario": "Revogação da Lei nº 4/99, de 27 de Janeiro; Revisão do actual Estatuto dos Militares das Forças Armadas (EMFAR); Falta de pessoal médico e de enfermagem e degradação das instalações do Centro de Saúde de Santiago do Cacém",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-03-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148752",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3360-3361"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-06",
+                "pubLeg": "IX",
+                "pubNr": "60",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/060/2004-03-06/3360?pgs=3360-3361&org=PLC"
+              }
+            ],
+            "Sumario": "Revogação da Lei nº 4/99, de 27 de Janeiro; Revisão do actual Estatuto dos Militares das Forças Armadas (EMFAR); Falta de pessoal médico e de enfermagem e degradação das instalações do Centro de Saúde de Santiago do Cacém",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-03-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148753",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3361-3361",
+                  "3366-3367"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-06",
+                "pubLeg": "IX",
+                "pubNr": "60",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/060/2004-03-06/3361?pgs=3361,3366-3367&org=PLC"
+              }
+            ],
+            "Sumario": "Revogação da Lei nº 4/99, de 27 de Janeiro; Revisão do actual Estatuto dos Militares das Forças Armadas (EMFAR); Falta de pessoal médico e de enfermagem e degradação das instalações do Centro de Saúde de Santiago do Cacém",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-03-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148754",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3361-3362"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-06",
+                "pubLeg": "IX",
+                "pubNr": "60",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/060/2004-03-06/3361?pgs=3361-3362&org=PLC"
+              }
+            ],
+            "Sumario": "Revogação da Lei nº 4/99, de 27 de Janeiro; Revisão do actual Estatuto dos Militares das Forças Armadas (EMFAR); Falta de pessoal médico e de enfermagem e degradação das instalações do Centro de Saúde de Santiago do Cacém",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-03-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148755",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3362-3363"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-06",
+                "pubLeg": "IX",
+                "pubNr": "60",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/060/2004-03-06/3362?pgs=3362-3363&org=PLC"
+              }
+            ],
+            "Sumario": "Revogação da Lei nº 4/99, de 27 de Janeiro; Revisão do actual Estatuto dos Militares das Forças Armadas (EMFAR); Falta de pessoal médico e de enfermagem e degradação das instalações do Centro de Saúde de Santiago do Cacém",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-03-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148756",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3363-3364",
+                  "3366-3366"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-06",
+                "pubLeg": "IX",
+                "pubNr": "60",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/060/2004-03-06/3363?pgs=3363-3364,3366&org=PLC"
+              }
+            ],
+            "Sumario": "Revogação da Lei nº 4/99, de 27 de Janeiro; Revisão do actual Estatuto dos Militares das Forças Armadas (EMFAR); Falta de pessoal médico e de enfermagem e degradação das instalações do Centro de Saúde de Santiago do Cacém",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-03-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148757",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3364-3364"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-06",
+                "pubLeg": "IX",
+                "pubNr": "60",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/060/2004-03-06/3364?pgs=3364&org=PLC"
+              }
+            ],
+            "Sumario": "Revogação da Lei nº 4/99, de 27 de Janeiro; Revisão do actual Estatuto dos Militares das Forças Armadas (EMFAR); Falta de pessoal médico e de enfermagem e degradação das instalações do Centro de Saúde de Santiago do Cacém",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-03-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148758",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3364-3365"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-06",
+                "pubLeg": "IX",
+                "pubNr": "60",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/060/2004-03-06/3364?pgs=3364-3365&org=PLC"
+              }
+            ],
+            "Sumario": "Revogação da Lei nº 4/99, de 27 de Janeiro; Revisão do actual Estatuto dos Militares das Forças Armadas (EMFAR); Falta de pessoal médico e de enfermagem e degradação das instalações do Centro de Saúde de Santiago do Cacém",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2004-03-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "148759",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3365-3365"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2004-03-06",
+                "pubLeg": "IX",
+                "pubNr": "60",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/060/2004-03-06/3365?pgs=3365&org=PLC"
+              }
+            ],
+            "Sumario": "Revogação da Lei nº 4/99, de 27 de Janeiro; Revisão do actual Estatuto dos Militares das Forças Armadas (EMFAR); Falta de pessoal médico e de enfermagem e degradação das instalações do Centro de Saúde de Santiago do Cacém",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "6132",
+    "PetAssunto": "Solicitam a revogação imediata da Lei nº 4/99, de 27 de Janeiro.",
+    "PetDataEntrada": "2000-04-14",
+    "PeticoesAssociadas": null,
+    "PetId": "6132",
+    "PetLeg": "VIII",
+    "PetNr": "27",
+    "PetNrAssinaturas": "4680",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "SAÚDE",
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "777",
+        "obs": null,
+        "pag": [
+          "3357-3367"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-03-06",
+        "pubLeg": "IX",
+        "pubNr": "60",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/060/2004-03-06/3357?pgs=3357-3367&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "267514",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-06-17",
+        "pubLeg": "VIII",
+        "pubNr": "28",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/08/01/028/2000-06-17?org=PLC"
+      }
+    ]
+  }
+}
