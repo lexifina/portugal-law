@@ -1,0 +1,471 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "51",
+    "id": "5415",
+    "titulo": "Aprova a lei de bases do Tribunal de Contas"
+  },
+  "fase": "Votação requerimento avocação plenário",
+  "codigo_fase": "290",
+  "data_registo": "1997-06-26",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1153",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "290",
+    "Comissao": null,
+    "DataFase": "1997-06-26",
+    "EvtId": "16",
+    "Fase": "Votação requerimento avocação plenário",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1997-06-26",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL - AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46735",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3053-3053"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-06-27",
+                "pubLeg": "VII",
+                "pubNr": "86",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/086/1997-06-27/3053?pgs=3053&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE BASES DO TRIBUNAL DE CONTAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1086",
+                "nome": "Jorge Ferreira"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL - AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46736",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3052-3053"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-06-27",
+                "pubLeg": "VII",
+                "pubNr": "86",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/086/1997-06-27/3052?pgs=3052-3053&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE BASES DO TRIBUNAL DE CONTAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL - AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46737",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3051-3052"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-06-27",
+                "pubLeg": "VII",
+                "pubNr": "86",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/086/1997-06-27/3051?pgs=3051-3052&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE BASES DO TRIBUNAL DE CONTAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL - AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46738",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3051-3051"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-06-27",
+                "pubLeg": "VII",
+                "pubNr": "86",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/086/1997-06-27/3051?pgs=3051&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE BASES DO TRIBUNAL DE CONTAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL - AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46739",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3050-3051"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-06-27",
+                "pubLeg": "VII",
+                "pubNr": "86",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/086/1997-06-27/3050?pgs=3050-3051&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE BASES DO TRIBUNAL DE CONTAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL - AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46740",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3049-3049"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-06-27",
+                "pubLeg": "VII",
+                "pubNr": "86",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/086/1997-06-27/3049?pgs=3049&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE BASES DO TRIBUNAL DE CONTAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL - AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46741",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3049-3050"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-06-27",
+                "pubLeg": "VII",
+                "pubNr": "86",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/086/1997-06-27/3049?pgs=3049-3050&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE BASES DO TRIBUNAL DE CONTAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "370",
+                "nome": "Luís Marques Mendes"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL - AVOCACAO",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "46742",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3048-3049"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1997-06-27",
+                "pubLeg": "VII",
+                "pubNr": "86",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/086/1997-06-27/3048?pgs=3048-3049&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE BASES DO TRIBUNAL DE CONTAS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "101878",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1153",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1997-06-27",
+        "pubLeg": "VII",
+        "pubNr": "86",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/086/1997-06-27?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": [
+      "PSD"
+    ],
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "1997-06-26",
+        "descricao": "avocados os artº 38º, 46º nº2, 48º e 114º do texto final e rejeitadas propostas de alteração",
+        "detalhe": "A Favor: <I>PSD</I>, <I> CDS-PP</I><BR>Contra:<I>PS</I><BR>Abstenção:<I>PCP</I>, <I> PEV</I>",
+        "id": "31219",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "86",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
