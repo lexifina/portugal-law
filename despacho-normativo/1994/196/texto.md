@@ -1,0 +1,6 @@
+Despacho Normativo n.º 196/94
+Considerando que a licenciada Maria Teresa Santos Alcântara Morgado Costa exerce, em comissão de serviço, o cargo de chefe de divisão do quadro de pessoal do Centro Nacional de Pensões e reúne os requisitos legais necessários ao provimento na categoria de assessor principal;
+Considerando o disposto na primitiva redacção da alínea a) do n.º 2 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, mantida transitoriamente em vigor pelo Decreto-Lei n.º 34/93, de 13 de Fevereiro, e o disposto nos n.os 6, 7 e 8 do referido artigo 18.º, na redacção que lhe foi conferida pelo citado Decreto-Lei n.º 34/93, de 13 de Fevereiro:
+Determina-se o seguinte:
+É criado no quadro de pessoal do Centro Nacional de Pensões, aprovado pelo Decreto Regulamentar n.º 17/92, de 22 de Julho, um lugar de assessor de informática principal, da carreira técnica superior de informática, a extinguir quando vagar.
+Ministérios das Finanças e do Emprego e da Segurança Social, 3 de Março de 1994. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - Pelo Ministro do Emprego e da Segurança Social, Fernando Mário Ferreira de Almeida, Secretário de Estado da Segurança Social.
