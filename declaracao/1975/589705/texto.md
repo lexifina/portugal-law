@@ -1,0 +1,3 @@
+Declaração
+Para os devidos efeitos se declara que, por despacho do Secretário de Estado da Segurança Social de 23 de Janeiro de 1975, foi determinado que os trabalhadores ao serviço de organismos ou entidades oficiais não subscritores da Caixa Geral de Aposentações, em virtude dos condicionalismos estabelecidos nos artigos 1.º e 2.º do Decreto-Lei n.º 656/74, de 23 de Novembro, podem ser inscritos no regime geral das caixas sindicais de previdência, comportando-se, quanto aos mesmos, os respectivos organismos ou entidades empregadoras como qualquer outra entidade patronal no que respeita ao pagamento de contribuições para a Previdência.
+Direcção-Geral da Previdência, 10 de Abril de 1975. - Pelo Director-Geral, Rafael de Oliveira Borralho.
