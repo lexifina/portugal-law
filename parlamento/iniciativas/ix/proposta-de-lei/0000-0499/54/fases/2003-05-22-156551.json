@@ -1,0 +1,451 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "54",
+    "id": "19631",
+    "titulo": "Transpõe para a Ordem Jurídica Nacional a Directiva 2001/40/CE do Conselho, de 28 de Maio de 2001, relativa ao reconhecimento mútuo de decisões de afastamento de nacionais de países terceiros."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2003-05-22",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2569",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2003-05-22",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2003-05-22",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  ADMINISTRACAO INTERNA",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Nuno Miranda Magalhaes"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145444",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5216-5219",
+                  "5227-5228"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-23",
+                "pubLeg": "IX",
+                "pubNr": "124",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/124/2003-05-23/5216?pgs=5216-5219,5227-5228&org=PLC"
+              }
+            ],
+            "sumario": "Transpõe para a Ordem Jurídica Nacional a Directiva 2001/40/CE do Conselho, de 28 de Maio de 2001, relativa ao reconhecimento mútuo de decisões de afastamento de nacionais de países terceiros.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145445",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5217-5218"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-23",
+                "pubLeg": "IX",
+                "pubNr": "124",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/124/2003-05-23/5217?pgs=5217-5218&org=PLC"
+              }
+            ],
+            "sumario": "Transpõe para a Ordem Jurídica Nacional a Directiva 2001/40/CE do Conselho, de 28 de Maio de 2001, relativa ao reconhecimento mútuo de decisões de afastamento de nacionais de países terceiros.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145446",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5218-5219"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-23",
+                "pubLeg": "IX",
+                "pubNr": "124",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/124/2003-05-23/5218?pgs=5218-5219&org=PLC"
+              }
+            ],
+            "sumario": "Transpõe para a Ordem Jurídica Nacional a Directiva 2001/40/CE do Conselho, de 28 de Maio de 2001, relativa ao reconhecimento mútuo de decisões de afastamento de nacionais de países terceiros.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "321",
+                "nome": "Francisco José Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145447",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5219-5220"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-23",
+                "pubLeg": "IX",
+                "pubNr": "124",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/124/2003-05-23/5219?pgs=5219-5220&org=PLC"
+              }
+            ],
+            "sumario": "Transpõe para a Ordem Jurídica Nacional a Directiva 2001/40/CE do Conselho, de 28 de Maio de 2001, relativa ao reconhecimento mútuo de decisões de afastamento de nacionais de países terceiros.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "614",
+                "nome": "Celeste Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145448",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5224-5224"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-23",
+                "pubLeg": "IX",
+                "pubNr": "124",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/124/2003-05-23/5224?pgs=5224&org=PLC"
+              }
+            ],
+            "sumario": "Transpõe para a Ordem Jurídica Nacional a Directiva 2001/40/CE do Conselho, de 28 de Maio de 2001, relativa ao reconhecimento mútuo de decisões de afastamento de nacionais de países terceiros.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145449",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5224-5226"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-23",
+                "pubLeg": "IX",
+                "pubNr": "124",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/124/2003-05-23/5224?pgs=5224-5226&org=PLC"
+              }
+            ],
+            "sumario": "Transpõe para a Ordem Jurídica Nacional a Directiva 2001/40/CE do Conselho, de 28 de Maio de 2001, relativa ao reconhecimento mútuo de decisões de afastamento de nacionais de países terceiros.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145450",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5226-5227"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-23",
+                "pubLeg": "IX",
+                "pubNr": "124",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/124/2003-05-23/5226?pgs=5226-5227&org=PLC"
+              }
+            ],
+            "sumario": "Transpõe para a Ordem Jurídica Nacional a Directiva 2001/40/CE do Conselho, de 28 de Maio de 2001, relativa ao reconhecimento mútuo de decisões de afastamento de nacionais de países terceiros.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:05",
+            "horaTermo": "18:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145451",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5227-5227"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-23",
+                "pubLeg": "IX",
+                "pubNr": "124",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/124/2003-05-23/5227?pgs=5227&org=PLC"
+              }
+            ],
+            "sumario": "Transpõe para a Ordem Jurídica Nacional a Directiva 2001/40/CE do Conselho, de 28 de Maio de 2001, relativa ao reconhecimento mútuo de decisões de afastamento de nacionais de países terceiros.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "156551",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2569",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-05-23",
+        "pubLeg": "IX",
+        "pubNr": "124",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/124/2003-05-23?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
