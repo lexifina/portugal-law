@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jICRzj3KB1Bmg3m8DVSHnpi8rXpapb3j4jMO5BtN2LbfPF3esMoTH6fDrsMuFJ9lPAZvTPAWxS9PFAt7bzMiuI04fWuRpEaIxl4mcW%2fcx1acNCntIvb5NLRRHaPebnKKry6IchvGghYnV5lkvxQk495hFB7swBEB4rvnhCoTOeXflL%2foNK7o0b4dy592StEdZmQVtVkruElsfWncCV%2b%2bpavK9g3VZy%2bP4cmQ40z%2f0a69tQcMqoIjKHap%2bFpAkJMgbKcIQykqLjBLupnXrNjLuRZ30Ox0rp%2fdoXYbf5r3SXm4%2fEbMutFiFUX0sUvjGKIZ7ZqNfVf38E4D2PhkYxEZx9pZ7GwemaRdvkVkJ4JulFaJGzWdDjdFCx4KRpH%2bqN7s&fich=IntervencoesV_json.txt&Inline=true",
+  "ficheiro_sha256": "e07157b1d50033e077d4f054f931a3450edfcc0fcd53456e529928b3d3af1eae",
+  "legislatura": "V",
+  "id": "207461",
+  "tipo": "Pedido de esclarecimento",
+  "orador": "Carlos Coelho (PSD)",
+  "data_registo": "1987-12-15",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "78975",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "29210",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Grandes Opções do Plano para 1988"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "29283",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Orçamento do Estado para 1988"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1987-12-15",
+    "Debate": "PPL n.º 14/V/1; PPL n.º 15/V/1",
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "35",
+      "nome": "Carlos Coelho"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "207461",
+    "IdDebate": "4971",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "V",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "207461",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "782-782"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1987-12-16",
+        "pubLeg": "V",
+        "pubNr": "31",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/031/1987-12-16/782?pgs=782&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "Ao Deputado José Apolinário (PS)",
+    "Sessao": "1",
+    "Sumario": "Grandes Opções do Plano para 1988; Orçamento do Estado para 1988",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Pedido de esclarecimento"
+  }
+}
