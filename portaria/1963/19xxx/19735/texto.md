@@ -1,0 +1,5 @@
+Portaria n.º 19735
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, conjugado com a alínea e) do artigo 14.º do mesmo diploma, com a redacção dada pelo artigo 4.º do Decreto n.º 40712, de 1 de Agosto de 1956, abrir em Moçambique um crédito especial de 727000$00, a inscrever em adicional à tabela de despesa extraordinária do orçamento geral da província para o ano económico de 1962, destinado à satisfação dos encargos resultantes da aquisição de milho para distribuição às populações necessitadas do distrito de Lourenço Marques, por virtude dos maus anos agrícolas, tomando como contrapartida o excesso de cobrança sobre a previsão da receita do capítulo 1.º, artigo 6.º «Receita ordinária - Impostos directos gerais - Imposto de rendimento», do orçamento de receita ordinária para o mesmo ano económico.
+Ministério do Ultramar, 28 de Fevereiro de 1963. - Pelo Ministro do Ultramar, Joaquim Moreira da Silva Cunha, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Moçambique. - Silva Cunha.
