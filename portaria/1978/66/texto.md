@@ -1,0 +1,4 @@
+Portaria n.º 66/78
+1 de Fevereiro
+Manda o Governo da República Portuguesa, pelo Ministro da Indústria e Tecnologia, ouvido o Conselho de Normalização, anular, pelas razões indicadas nos respectivos pareceres, as normas definitivas NP-929 (1973) «Aparelhos termodomésticos a gás para a preparação dos alimentos. Características de funcionamento»; NP-930 (1973) «Aparelhos termodomésticos a gás para a preparação dos alimentos. Ensaios»; NP-996 (1973) «Aparelhos termodomésticos a gás para aquecimento instantâneo de água. Características de funcionamento», e NP-997 (1973) «Aparelhos termodomésticos a gás para aquecimento instantâneo de água. Ensaios», nos termos do artigo 10.º do Estatuto de Normalização (Decreto-Lei n.º 38801, de 25 de Junho de 1952).
+Ministério da Indústria e Tecnologia, 5 de Janeiro de 1978. - Pelo Ministro da Indústria e Tecnologia, Fernando Santos Martins, Secretário de Estado da Indústria Ligeira.
