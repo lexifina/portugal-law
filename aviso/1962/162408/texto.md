@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, conforme comunicação do Departamento de Estado dos Estados Unidos da América à Embaixada de Portugal em Washington, as Repúblicas do Alto Volta e Malgaxe, o Tanganhica e a República do Congo (Brazzaville) aderiram à Convenção sobre aviação civil internacional, assinada em Chicago em 7 de Dezembro de 1944, respectivamente em 20 de Abril, 14, 23 e 26 de Maio de 1962, tendo a Convenção entrado em vigor nas datas seguintes: 21 de Março de 1962 (Alto Volta), 14 de Maio de 1962 (Malgaxe), 23 de Maio de 1962 (Tanganhica) e 26 de Maio de 1962 (Congo).
+Direcção-Geral dos Negócios Económicos e Consulares, 11 de Julho de 1962. - O Director-Geral, Albano Pires Fernandes Nogueira.
