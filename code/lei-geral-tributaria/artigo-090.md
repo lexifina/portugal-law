@@ -22,4 +22,8 @@ f) Os custos presumidos em função das condições concretas do exercício da a
 
 g) A matéria tributável do ano ou anos mais próximos que se encontre determinada pela administração tributária.
 
+h) O valor de mercado dos bens ou serviços tributados;
+
+i) Uma relação congruente e justificada entre os factos apurados e a situação concreta do contribuinte.
+
 2 - No caso de a matéria tributável se afastar significativamente para menos, sem razão justificada, dos indicadores objectivos de actividade de base técnico-científica, a sua determinação efectua-se de acordo com esses indicadores.

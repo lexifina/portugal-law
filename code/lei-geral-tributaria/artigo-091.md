@@ -4,9 +4,9 @@
 
 # Artigo 91.º
 
-### Pedido de revisão da matéria colectável
+### Pedido de revisão da matéria tributável
 
-1 - O sujeito passivo pode, salvo em caso de aplicação de regime simplificado de tributação, solicitar a revisão da matéria tributável fixada por métodos indirectos em requerimento fundamentado dirigido ao órgão da administração tributária da área do seu domicílio fiscal, a apresentar no prazo de 30 dias contados a partir da data da notificação da decisão e contendo a indicação do perito que o representa.
+1 - O sujeito passivo pode, salvo nos casos de aplicação do regime simplificado de tributação em que não sejam efectuadas correcções com base noutro método indirecto, solicitar a revisão da matéria tributável fixada por métodos indirectos em requerimento fundamentado dirigido ao órgão da administração tributária da área do seu domicílio fiscal, a apresentar no prazo de 30 dias contados a partir da data da notificação da decisão e contendo a indicação do perito que o representa.
 
 2 - O pedido referido no número anterior tem efeito suspensivo da liquidação do tributo.
 
