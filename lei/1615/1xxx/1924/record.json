@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1924/07/14900/09390939.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1924-07-05",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "8c912921430933ef2b4a5d9ec61626cbd2aee3df33563252de12fb42c65b5f37",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 95.9,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "3959d67eee115380e05cf6bcf2c22b14552e2d8db0924756d7f52fadb8bb381f",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 158
 }
