@@ -1,0 +1,99 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ikbb22EfidWyh5aL9J45Him8rhm3hBQttHxkrMbFeyYEwrlCCV9ZfcNHgV8WjSxu83VjOPt6VK7tfawrIfKZtTDmfI0Eg1Qj2%2fgR4zkB218vexxTlHm9ELnuOSX5QSKeM5RBZD467bhRAPU4hPcfbqahvryp3gb6e37C1v7CloSAMeYftDHuGXetsMTuqWKWDw8jw4LLkjhOMYrtuWUeiCrg7lyiTG%2fjnHAs%2fmcgrOZO8jIFWuyniqH%2f16iGaVZzEzfL%2b4SfA3O6drPBVYibztEF%2fs9tJC4xx3DcN5MsnQfVSXH3wVPofkvbJEOlvWHKvrzXi7OMn9qcwTKLuqkVUEIS1yusoxybTMXClPgsIs8%3d&fich=IntervencoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "ab3e3445119ef03a27cc4debeadf3049422a38e0d13b37a933bd5be6cbd2d916",
+  "legislatura": "IX",
+  "id": "145260",
+  "tipo": "Intervenção",
+  "orador": "Telmo Correia (CDS-PP)",
+  "data_registo": "2003-04-24",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "73236",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "19430",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Lei dos Partidos Políticos"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "19519",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Financiamento dos Partidos Políticos e das Campanhas Eleitorais."
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "19522",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Financiamento dos Partidos Políticos e das Campanhas Eleitorais."
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "19602",
+        "tipo": "INI",
+        "titulo": "Projeto de Lei - Altera a Lei de Financiamento dos Partidos Políticos e das Campanhas Eleitorais."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2003-04-24",
+    "Debate": "PJL n.º 202/IX/1; PJL n.º 222/IX/1; PJL n.º 225/IX/1; PJL n.º 266/IX/1",
+    "Deputados": {
+      "GP": "CDS-PP",
+      "idCadastro": "1655",
+      "nome": "Telmo Correia"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "145260",
+    "IdDebate": "2541",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "IX",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "145260",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "4777-4778"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-04-26",
+        "pubLeg": "IX",
+        "pubNr": "113",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/113/2003-04-26/4777?pgs=4777-4778&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": null,
+    "Sessao": "1",
+    "Sumario": "Lei dos partidos políticos",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
