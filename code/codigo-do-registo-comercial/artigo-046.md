@@ -6,4 +6,4 @@ A apresentação deve ser rejeitada:
 
 a) Quando o pedido não for formulado no impresso próprio;
 
-b) Quando for entregue fora do período legal ou desacompanhada do emolumento de apresentação.
+b) Quando for entregue fora do período legal ou desacompanhado do emolumento de apresentação.

@@ -10,4 +10,4 @@
 
 4 - A conversão em definitivo do registo referido no número anterior é feita oficiosamente em face da escritura respectiva.
 
-5 - O registo provisório do contrato de sociedade anónima com apelo à subscrição pública de acções é lavrado em face do projecto completo do contrato, com reconhecimento das assinaturas de todos os inteessados, de documento comprovativo da liberação das acções por eles subscritas e, quando necessário, da autorização para a subscrição pública ou emissão de acções.
+5 - O registo provisório do contrato de sociedade anónima com apelo à subscrição pública de acções é lavrado em face do projecto completo do contrato, com reconhecimento das assinaturas de todos os interessados, de documento comprovativo da liberação das acções por eles subscritas e, quando necessário, da autorização para a subscrição pública ou emissão de acções.
