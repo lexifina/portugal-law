@@ -1,0 +1,4 @@
+Declaração
+Para os devidos efeitos se declara que a declaração de rectificação à Resolução do Conselho de Ministros n.º 11/86, publicada no 2.º suplemento ao Diário da República, 1.ª série, n.º 49, de 28 de Fevereiro de 1986, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+Onde se lê «Determina que, de acordo [...] assegure a coordenação nacional da preparação de projectos e programas [...] e Fundo Social Europeu. Incumbo o Ministro das Finanças» deve ler-se «Determino que, de acordo [...] assegure a coordenação nacional da preparação e selecção de projectos e programas [...] e Fundo Social Europeu. Incumbe o Ministro das Finanças».
+Secretaria-Geral da Presidência do Conselho de Ministros, 2 de Abril de 1986. - O Secretário-Geral, França Martins.
