@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se faz público que Portugal depositou, em 9 de Agosto de 1988, o instrumento de confirmação e ratificação do Acordo Relativo a Transportes Internacionais de Produtos Alimentares Perecíveis e aos Equipamentos Especializados a Utilizar Nestes Transportes (ATP) e anexos 1, 2 e 3, concluído em Genebra em 1 de Setembro de 1970.
+À data da entrega do referido instrumento de ratificação eram Partes Contratantes do Acordo os seguintes Estados: Áustria, Bélgica, Bulgária, Checoslováquia, Dinamarca, Finlândia, França, República Democrática Alemã, República Federal da Alemanha, Itália, Luxemburgo, Marrocos, Países Baixos, Noruega, Polónia, Espanha, Suécia, União das Repúblicas Socialistas Soviéticas, Reino Unido, Estados Unidos da América e Jugoslávia.
+A Hungria e a Irlanda, tendo depositado recentemente os respectivos instrumentos de adesão, serão Partes Contratantes, respectivamente, em 4 de Dezembro de 1988 e 21 de Março de 1989.
+Direcção-Geral dos Negócios Político-Económicos, 6 de Setembro de 1988. - O Director de Serviços dos Assuntos Multilaterais, Marcello de Zaffiri Duarte Mathias.
