@@ -1,0 +1,754 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "420",
+    "id": "28637",
+    "titulo": "Cria o Conselho Nacional de Ética para as Ciências da Vida"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1989-10-31",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "17983",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1989-10-31",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1989-10-31",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267133",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "254-255"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-02",
+                "pubLeg": "V",
+                "pubNr": "8",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/008/1989-11-02/254?pgs=254-255&org=PLC"
+              }
+            ],
+            "sumario": "Cria o Conselho Nacional de Ética para as Ciências da Vida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267135",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "255-256"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-02",
+                "pubLeg": "V",
+                "pubNr": "8",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/008/1989-11-02/255?pgs=255-256&org=PLC"
+              }
+            ],
+            "sumario": "Cria o Conselho Nacional de Ética para as Ciências da Vida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267138",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "256-257"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-02",
+                "pubLeg": "V",
+                "pubNr": "8",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/008/1989-11-02/256?pgs=256-257&org=PLC"
+              }
+            ],
+            "sumario": "Cria o Conselho Nacional de Ética para as Ciências da Vida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267140",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "257-257"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-02",
+                "pubLeg": "V",
+                "pubNr": "8",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/008/1989-11-02/257?pgs=257&org=PLC"
+              }
+            ],
+            "sumario": "Cria o Conselho Nacional de Ética para as Ciências da Vida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267141",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "257-258"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-02",
+                "pubLeg": "V",
+                "pubNr": "8",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/008/1989-11-02/257?pgs=257-258&org=PLC"
+              }
+            ],
+            "sumario": "Cria o Conselho Nacional de Ética para as Ciências da Vida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267144",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "258-259"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-02",
+                "pubLeg": "V",
+                "pubNr": "8",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/008/1989-11-02/258?pgs=258-259&org=PLC"
+              }
+            ],
+            "sumario": "Cria o Conselho Nacional de Ética para as Ciências da Vida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267145",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "259-259"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-02",
+                "pubLeg": "V",
+                "pubNr": "8",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/008/1989-11-02/259?pgs=259&org=PLC"
+              }
+            ],
+            "sumario": "Cria o Conselho Nacional de Ética para as Ciências da Vida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267147",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "259-260"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-02",
+                "pubLeg": "V",
+                "pubNr": "8",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/008/1989-11-02/259?pgs=259-260&org=PLC"
+              }
+            ],
+            "sumario": "Cria o Conselho Nacional de Ética para as Ciências da Vida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267151",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "260-263"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-02",
+                "pubLeg": "V",
+                "pubNr": "8",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/008/1989-11-02/260?pgs=260-263&org=PLC"
+              }
+            ],
+            "sumario": "Cria o Conselho Nacional de Ética para as Ciências da Vida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267153",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "263-263"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-02",
+                "pubLeg": "V",
+                "pubNr": "8",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/008/1989-11-02/263?pgs=263&org=PLC"
+              }
+            ],
+            "sumario": "Cria o Conselho Nacional de Ética para as Ciências da Vida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267155",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "263-264"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-02",
+                "pubLeg": "V",
+                "pubNr": "8",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/008/1989-11-02/263?pgs=263-264&org=PLC"
+              }
+            ],
+            "sumario": "Cria o Conselho Nacional de Ética para as Ciências da Vida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267159",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "264-265"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-02",
+                "pubLeg": "V",
+                "pubNr": "8",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/008/1989-11-02/264?pgs=264-265&org=PLC"
+              }
+            ],
+            "sumario": "Cria o Conselho Nacional de Ética para as Ciências da Vida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267161",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "265-265"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-02",
+                "pubLeg": "V",
+                "pubNr": "8",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/008/1989-11-02/265?pgs=265&org=PLC"
+              }
+            ],
+            "sumario": "Cria o Conselho Nacional de Ética para as Ciências da Vida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267165",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "265-265"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-02",
+                "pubLeg": "V",
+                "pubNr": "8",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/008/1989-11-02/265?pgs=265&org=PLC"
+              }
+            ],
+            "sumario": "Cria o Conselho Nacional de Ética para as Ciências da Vida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267166",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "265-267"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-02",
+                "pubLeg": "V",
+                "pubNr": "8",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/008/1989-11-02/265?pgs=265-267&org=PLC"
+              }
+            ],
+            "sumario": "Cria o Conselho Nacional de Ética para as Ciências da Vida",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267168",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "267-268"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-02",
+                "pubLeg": "V",
+                "pubNr": "8",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/008/1989-11-02/267?pgs=267-268&org=PLC"
+              }
+            ],
+            "sumario": "Cria o Conselho Nacional de Ética para as Ciências da Vida",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "219533",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "17035",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "254-268"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1989-11-02",
+        "pubLeg": "V",
+        "pubNr": "8",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/008/1989-11-02/254?pgs=254-268&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
