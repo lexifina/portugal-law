@@ -1,0 +1,41 @@
+# Acórdão do Supremo Tribunal de Justiça de 1987-02-25, processo 074804
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 074804
+
+**Nº Convencional:** JSTJ00000356
+
+**Relator:** LIMA CLUNY
+
+**Descritores:** INVESTIGAÇÃO DE PATERNIDADE; CADUCIDADE DA ACÇÃO; POSSE DE ESTADO; CAUSA DE PEDIR; CONHECIMENTO OFICIOSO; PODERES DE COGNIÇÃO; PODERES DO SUPREMO TRIBUNAL DE JUSTIÇA; RECURSO; PRESUNÇÃO; ABSOLVIÇÃO DA INSTANCIA
+
+**Nº do Documento:** SJ198702250748042
+
+**Data do Acordão:** 02/25/1987
+
+**Votação:** UNANIMIDADE
+
+**Referência de Publicação:** BMJ N364 ANO1987 PAG873
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** AGRAVO.
+
+**Decisão:** NEGADO PROVIMENTO.
+
+**Área Temática:** DIR PROC CIV. DIR CIV - DIR FAM.
+
+## Sumário
+
+I - Tendo as Instancias decidido no sentido da inaplicabilidade, ao caso concreto, do preceito do n. 5 do artigo 510 do Codigo de Processo Civil (introduzido pelo Decreto-Lei n. 242/85, de 9 de Julho) e não tendo tal questão sido aflorada no recurso para o Supremo Tribunal de Justiça, mostra-se ela fora do ambito de tal recurso, deixando de poder ser apreciada pelo Supremo.
+
+II - O direito de propor acção de investigação de paternidade, nos termos dos artigos 1817 n. 4 e 1873 do Codigo Civil, so não tera caducado se puder ser tida por verificada a hipotese de o "tratamento" integrante do conjunto de elementos exigidos quanto a posse de estado não ter cessado antes do inicio do decurso do ano anterior a data da proposição da acção.
+
+III - Não tendo o autor alegado, para alem dos factos capazes de integrarem o conceito de "reputação" pelo pai e pelo publico, factos capazes de traduzirem o seu tratamento como filho do investigado, não pode beneficiar do prazo alongado do n. 4 do artigo 1817 do Codigo Civil que parte do "tratamento" como pressuposto de aplicabilidade.
+
+IV - O que conduz necessariamente a procedencia da excepção de caducidade do conhecimento oficioso do Tribunal, em qualquer altura.
+
+V - Nas acções de investigação de paternidade a causa de pedir e o facto da filiação biologica, sendo a "posse de estado" simples presunção de tal realidade, pelo que a falta apontada não se traduz em falta ou deficiencia da causa de pedir, com reflexo na mera absolvição da instancia.
