@@ -1,0 +1,5 @@
+Aviso n.º 2/2004
+Por ordem superior se torna público que o Governo da República Portuguesa depositou, em 25 de Fevereiro de 2002, junto da Secretaria-Geral da UPAEP o seu instrumento de adesão à Constituição da União Postal das Américas, Espanha e Portugal, modificada pelos Protocolos Adicionais de Lima, 1976, de Manágua, 1981, de Havana, 1985, e de Buenos Aires, 1990, bem como o Quinto Protocolo Adicional à Constituição da União Postal das Américas, Espanha e Portugal, adoptado pelo Congresso de Montevideu de 1993.
+Os referidos actos da UPAEP foram aprovados, para adesão, pela Resolução da Assembleia da República n.º 59/2001, publicada no Diário da República, 1.ª série-A, n.º 228, de 1 de Outubro de 2001.
+Nos termos do artigo 21.º da Constituição da UPAEP, os actos atrás referidos entraram em vigor relativamente a Portugal em 25 de Fevereiro de 2002.
+Direcção-Geral dos Assuntos Multilaterais, 26 de Novembro de 2003. - A Directora de Serviços das Organizações Económicas Internacionais, Graça Gonçalves Pereira.
