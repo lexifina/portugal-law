@@ -1,0 +1,41 @@
+# Informação-Parecer do Conselho Consultivo da Procuradoria-Geral da República n.º 154/1983, de 1983-07-28
+
+**Fonte:** https://www.ministeriopublico.pt/pareceres-pgr/7400
+
+**Número do Parecer:** 154/1983, de 28.07.1983
+
+**Data de Assinatura:** 28-07-1983
+
+**Tipo de Parecer:** Informação-Parecer
+
+**Iniciativa:** Governo
+
+**Entidade:** Ministério da Justiça
+
+**Relator:** CUNHA RODRIGUES
+
+## Descritores
+
+COBRANÇA DE ALIMENTOS
+ALIMENTOS
+DIRECÇÃO GERAL DOS SERVIÇOS JUDICIARIOS
+CONVENÇÃO INTERNACIONAL
+ESTRANGEIRO
+DIVORCIO
+SEPARAÇÃO JUDICIAL DE PESSOAS E BENS
+
+## Legislação
+
+DL 45942 DE 1964/09/28.
+DL 48495 DE 1968/07/22.
+DL 246/71 DE 1971/06/03.
+DL 338/75 DE 1975/07/02.
+DL 229/75 DE 1975/07/02.
+CP82 ART197 ART200.
+
+## Referências Complementares
+
+DIR INT PUB * TRATADOS / DIR CIV * DIR FAM.*****
+CONV SOBRE PRESTAÇÃO DE ALIMENTOS A MENORES CHAIA HAIA 1956/10/24 CONV SOBRE RECONHECIMENTO E EXECUÇÃO DECISÕES EM MATERIA OBRIGAÇÕES ALIMENTARES CHAIA HAIA 1956/10/24
+CONV SOBRE COBRANÇA DE ALIMENTOS NO ESTRANGEIRO ONU NOVA IORQUE 1956/06/20*****
+RES 1982/21 DO ECOSOC ONU
