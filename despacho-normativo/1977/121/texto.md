@@ -1,0 +1,10 @@
+Despacho Normativo n.º 121/77
+1. O despacho de 6 de Janeiro de 1977 autorizou a Caixa Geral de Depósitos a conceder os seguintes financiamentos:
+a) Ao Instituto de Reorganização Agrária, no valor de 390592 contos, para permitir o pagamento de letras comerciais em circulação aceites pelo Instituto e sacadas pelos fornecedores de máquinas agrícolas utilizadas nas colheitas de 1976;
+b) A diversas cooperativas de comercialização e transformação, no valor de 153844 contos, como forma de liquidação da posição credora do Instituto de Reorganização Agrária, em resultado dos adiantamentos efectuados pelo Instituto às mesmas cooperativas.
+2. As condições dos referidos empréstimos, no que respeita a prazo e forma de reembolso, bem como as taxas de juro aplicáveis ficavam definidas no mesmo despacho.
+3. A alteração das taxas de juro das operações activas praticadas pelas instituições de crédito entretanto verificada impõe que se promova a actualização das taxas previstas para os financiamentos descritos e justifica que se defina um mecanismo que possibilite a correcção automática caso novas alterações venham a processar-se no decurso da vida dos empréstimos.
+Assim, determina-se:
+1. É autorizada a Caixa Geral de Depósitos a actualizar as taxas de juro aplicadas nas operações de financiamento referidas neste despacho na medida da alteração verificada na taxa de desconto praticada pelo Banco de Portugal, conforme aviso n.º 1 do Banco de Portugal, de 28 de Fevereiro de 1977.
+2. É ainda autorizada a Caixa Geral de Depósitos a actualizar, sucessivamente, as mesmas taxas em função de quaisquer modificações da taxa de desconto do Banco de Portugal que venham a verificar-se até ao reembolso dos referidos financiamentos.
+Ministérios do Plano e Coordenação Económica, das Finanças e da Agricultura e Pescas, 11 de Maio de 1977. - O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro da Agricultura e Pescas, António Miguel Morais Barreto.
