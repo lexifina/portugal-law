@@ -1,0 +1,4 @@
+Portaria n.º 293/74
+de 24 de Abril
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, que, nos termos do disposto no artigo 164.º, n.º 2, alínea d), do Decreto n.º 47847, de 14 de Agosto de 1967, seja extinta a coutada de caça na propriedade denominada «Palmeirinha de Cadouços», com uma área de cerca de 30 ha, e que fazia parte da concessão n.º 1061, referente às propriedades denominadas «Vale Dioguinho» e «Palmeirinha de Cadouços», todas sitas na freguesia de S. Domingos da Serra, concelho de Santiago do Cacém, por o concessionário não ter apresentado os documentos necessários à actualização do respectivo processo, depois de para isso devidamente notificado.
+Secretaria de Estado da Agricultura, 10 de Abril de 1974. - O Secretário de Estado da Agricultura, José Eduardo Mendes Ferrão.
