@@ -2,7 +2,7 @@
 
 ### Montantes e limites das ajudas
 
-1 - A ajuda a conceder no âmbito desta secção é de 208 ECU/mês.
+1 - A ajuda a conceder no âmbito desta secção é de 251,2 ECU/mês.
 
 2 - O pagamento da ajuda efectuar-se-á durante um período máximo de 10 anos, até ao limite da idade normal de reforma do beneficiário.
 

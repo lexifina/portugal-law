@@ -2,13 +2,13 @@
 
 ### Montantes e limites das ajudas
 
-1 - A ajuda a conceder no âmbito desta secção é calculada tendo em conta uma indemnização base anual de 2200 ECU ou, no caso previsto no artigo 6.º, de 3600 ECU, acrescida de um prémio complementar de 240 ECU/ano por hectare de regadio, vinha ou pomar e de 60 ECU/ano por hectare de sequeiro.
+1 - A ajuda a conceder no âmbito desta secção é calculada tendo em conta uma indemnização base anual de 2656,5 ECU; ou, no caso previsto no artigo 6.º, de 4347 ECU, acrescida de um prémio complementar de 289,8 ECU/ano por hectare de regadio, vinha ou pomar e de 72,5 ECU/ano por hectare de sequeiro.
 
-2 - A ajuda calculada nos termos do número anterior é paga em prestações mensais, até ao limite de 460 ECU/mês ou de 575 ECU/mês, no caso da ajuda prevista no artigo 6.º
+2 - A ajuda calculada nos termos do número anterior é paga em prestações mensais, até ao limite de 555,5 ECU/mês ou de 694,3 ECU/mês, no caso da ajuda prevista no artigo 6.º
 
 3 - Para efeito dos números anteriores, a idade do beneficiário à data da cessação bem como a idade em que o mesmo reúne as condições para se reformar no âmbito do regime de segurança social constituem factores de ponderação a considerar no cálculo da ajuda, a qual decresce respectivamente 2, 5 e 3 pontos percentuais por ano.
 
-4 - No caso de a exploração se situar num perímetro de emparcelamento, ao valor da primeira prestação mensal referida no n.º 2 é adicionado um prémio de 450 ECU, acrescido de 250 ECU por hectare dentro do perímetro, até ao limite de 1700 ECU.
+4 - No caso de a exploração se situar num perímetro de emparcelamento, ao valor da primeira prestação mensal referida no n.º 2 é adicionado um prémio de 543,4 ECU, acrescido de 301,9 ECU por hectare dentro do perímetro, até ao limite de 2052,8 ECU.
 
 5 - O pagamento da ajuda efectuar-se-á durante um período de 15 anos, decrescendo 10 pontos percentuais por ano nos últimos 5 anos.
 
