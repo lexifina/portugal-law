@@ -1,0 +1,25 @@
+Portaria n.º 571/2001
+de 6 de Junho
+Ao abrigo do disposto no artigo 5.º do Decreto-Lei n.º 62/2001, de 19 de Fevereiro, manda o Governo, pelos Ministros da Economia e do Ambiente e do Ordenamento do Território, o seguinte:
+1.º A presente portaria define as regras a que fica sujeito o licenciamento da entidade gestora do sistema integrado de pilhas e acumuladores usados prevista no n.º 2 do artigo 5.º do Decreto-Lei n.º 62/2001, de 19 de Fevereiro, adiante designada por entidade gestora.
+2.º A entidade gestora carece de licença, a conceder por decisão do Ministro do Ambiente e do Ordenamento do Território.
+3.º O requerimento de licenciamento é apresentado ao Instituto dos Resíduos, a quem compete coordenar e instruir o processo, remetendo-o para decisão final.
+4.º O processo referido no número anterior deverá ser instruído no prazo de 60 dias.
+5.º A concessão da licença depende das capacidades técnicas e financeiras da entidade gestora para as operações em causa, bem como da apreciação do caderno de encargos com que a mesma deve instruir o requerimento referido no n.º 3.º, e que inclui obrigatoriamente as referências constantes do anexo a este diploma, que dele faz parte integrante.
+6.º Os resultados contabilísticos da entidade gestora serão obrigatoriamente reinvestidos ou utilizados na sua actividade ou actividades conexas, de acordo com o disposto na alínea e) do anexo, podendo ser constituídos em provisões ou reservas para operações futuras, mas sendo expressamente vedada a distribuição de resultados, dividendos ou lucros pelos accionistas, sócios ou associados.
+7.º A presente portaria entra em vigor no dia imediato ao da sua publicação.
+Em 20 de Fevereiro de 2001.
+O Ministro da Economia, Mário Cristina de Sousa. - O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa.
+
+ANEXO
+Caderno de encargos
+O caderno de encargos inclui as seguintes referências:
+a) Identificação e características técnicas das pilhas e dos acumuladores usados abrangidos;
+b) Previsão das quantidades de pilhas e acumuladores usados a retomar anualmente;
+c) Bases da contribuição financeira exigida aos produtores e importadores, designadamente a fórmula de cálculo da taxa respectiva, tendo em conta as quantidades previstas, o volume e o peso, bem como a natureza dos materiais presentes nas mesmas. Esta contribuição deverá reflectir especialmente os teores em mercúrio, cádmio e chumbo das pilhas e acumuladores, bem como deverá fazer face aos custos da sua recolha selectiva e do seu tratamento, de acordo com o artigo 1.º do Decreto-Lei n.º 62/2001, de 19 de Fevereiro;
+d) Condições de articulação da actividade da entidade gestora com os municípios ou outros operadores, nomeadamente o modo de retoma das pilhas e dos acumuladores usados recolhidos por estes e as bases das contrapartidas que lhes são devidas pelo custo associado às operações de recolha selectiva;
+e) Do orçamento a gerir pela entidade, e para além da verba destinada a suportar os custos com a recolha selectiva e com o tratamento adequado das pilhas e acumuladores, deverá ser estipulada uma verba destinada ao financiamento de:
+a') Campanhas de sensibilização dos consumidores sobre os perigos de uma eliminação incontrolada destes resíduos, a marcação das pilhas e acumuladores, os aparelhos com pilhas e acumuladores incorporados a título permanente e o modo de retirar essas pilhas e acumuladores;
+b') Estudos de viabilidade técnico-económica de novos processos de reciclagem e de valorização a implantar ao nível nacional;
+c') Estudos que promovam a investigação sobre a redução do teor em metais pesados e substâncias perigosas e sobre a sua substituição por outras menos poluentes, com vista à promoção da colocação no mercado de pilhas e acumuladores contendo menores quantidades de substâncias perigosas e ou substâncias poluentes;
+f) Circuito económico concebido para a valorização ou eliminação, evidenciando os termos da relação entre a entidade e os operadores económicos envolvidos.
