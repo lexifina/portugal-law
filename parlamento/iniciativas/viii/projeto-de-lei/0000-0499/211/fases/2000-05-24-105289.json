@@ -1,0 +1,543 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "211",
+    "id": "6035",
+    "titulo": "Lei de Enquadramento do Orçamento do Estado"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2000-05-24",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1719",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2000-05-24",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD, PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "6063",
+        "leg": "VIII",
+        "nr": "191",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "427",
+            "obs": null,
+            "pag": [
+              "2713-2730"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-05-25",
+            "pubLeg": "VIII",
+            "pubNr": "69",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/069/2000-05-25/2713?pgs=2713-2730&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Lei de Enquadramento do Orçamento do Estado"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-05-24",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "132",
+                "nome": "Rui Rio"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27711",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2729-2730"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-25",
+                "pubLeg": "VIII",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/069/2000-05-25/2729?pgs=2729-2730&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE ENQUADRAMENTO DO ORCAMENTO DE ESTADO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27712",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2725-2730"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-25",
+                "pubLeg": "VIII",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/069/2000-05-25/2725?pgs=2725-2730&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE ENQUADRAMENTO DO ORCAMENTO DE ESTADO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27713",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2724-2725"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-25",
+                "pubLeg": "VIII",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/069/2000-05-25/2724?pgs=2724-2725&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE ENQUADRAMENTO DO ORCAMENTO DE ESTADO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27714",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2722-2724"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-25",
+                "pubLeg": "VIII",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/069/2000-05-25/2722?pgs=2722-2724&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE ENQUADRAMENTO DO ORCAMENTO DE ESTADO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27715",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2721-2722"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-25",
+                "pubLeg": "VIII",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/069/2000-05-25/2721?pgs=2721-2722&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE ENQUADRAMENTO DO ORCAMENTO DE ESTADO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1625",
+                "nome": "Maria Celeste Cardona"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27716",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2717-2722"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-25",
+                "pubLeg": "VIII",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/069/2000-05-25/2717?pgs=2717-2722&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE ENQUADRAMENTO DO ORCAMENTO DE ESTADO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "192",
+                "nome": "José Penedos"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27717",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2715-2716",
+                  "2720-2720",
+                  "2724-2724"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-25",
+                "pubLeg": "VIII",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/069/2000-05-25/2715?pgs=2715-2716,2720,2724&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE ENQUADRAMENTO DO ORCAMENTO DE ESTADO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1625",
+                "nome": "Maria Celeste Cardona"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27718",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2715-2728"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-25",
+                "pubLeg": "VIII",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/069/2000-05-25/2715?pgs=2715-2728&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE ENQUADRAMENTO DO ORCAMENTO DE ESTADO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "132",
+                "nome": "Rui Rio"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "17:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27740",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2713-2717"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-25",
+                "pubLeg": "VIII",
+                "pubNr": "69",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/069/2000-05-25/2713?pgs=2713-2717&org=PLC"
+              }
+            ],
+            "sumario": "LEI DE ENQUADRAMENTO DO ORCAMENTO DE ESTADO",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "105289",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "111153",
+        "obs": null,
+        "pag": [
+          "2713-2730"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-05-25",
+        "pubLeg": "VIII",
+        "pubNr": "69",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/069/2000-05-25/2713?pgs=2713-2730&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
