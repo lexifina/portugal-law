@@ -17,9 +17,23 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1936/08/19000/09640966.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1936-08-14",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "cc0166d10f67bf96638ba5227080087bcc5bb727614018c5b8a3f9597f12615b",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.8,
+    "pages": 3,
+    "columns": [
+      3,
+      3,
+      3
+    ],
+    "pdf_sha256": "e7979f04c985be30b9c87956abcc0827719040bb72f3901b6f04cf94025e0ac8",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 1547
 }
