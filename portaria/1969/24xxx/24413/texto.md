@@ -1,0 +1,10 @@
+Portaria n.º 24413
+Havendo conveniência, para mais eficiente acção a desenvolver na profilaxia e tratamento das doenças de natureza tuberculosa, de agrupar estabelecimentos e serviços pertencentes ao Instituto de Assistência Nacional aos Tuberculosos em centros antituberculosos, nos termos do artigo único do Decreto-Lei n.º 47608, de 25 de Março de 1967:
+Manda o Governo da República Portuguesa, pelo Ministro da Saúde e Assistência, o seguinte:
+1. Criar o Centro Antituberculoso do Funchal, com sede na cidade do Funchal, que é constituído pelo agrupamento dos serviços dispensariais, preventório, sanatório e centro de diagnóstico e profilaxia do arquipélago da Madeira.
+2. Criar o Centro Antituberculoso da Zona Sul, com sede na cidade de Lisboa, constituído pelo agrupamento dos serviços dispensariais, sanatoriais, preventório e centro de diagnóstico e profilaxia que se situam na zona sul, exceptuados os que compõem o Centro Antituberculoso do Funchal.
+3. Criar o Centro Antituberculoso da Zona Centro, com sede na cidade de Coimbra, constituído pelo agrupamento dos serviços dispensariais, sanatoriais, preventórios e centro de diagnóstico e profilaxia que se situam na zona centro.
+4. Criar o Centro Antituberculoso da Zona Norte, com sede na cidade do Porto, constituído pelo agrupamento dos serviços dispensariais, sanatoriais e centro de diagnóstico e profilaxia que se situam na zona norte.
+5. Criar o Centro Antituberculoso de Estudos, com sede na cidade de Lisboa, constituído por serviços de bacteriologia, bioquímica e bioestatística da tuberculose e o projecto-piloto de trabalho de massa, destinado ao aperfeiçoamento da luta antituberculosa.
+6. Os centros criados por esta portaria são serviços oficiais do Ministério da Saúde e Assistência, entrando cada um deles no regime previsto nos artigos 7.º e seguintes do Decreto-Lei n.º 31913, de 12 de Março de 1942, a partir da data de posse da respectiva comissão instaladora.
+Ministério da Saúde e Assistência, 13 de Novembro de 1969. - O Ministro da Saúde e Assistência, Lopo de Carvalho Cancella de Abreu.
