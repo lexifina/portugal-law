@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação da Embaixada da Bélgica, o Governo da República da África do Sul depositou, em 6 de Agosto de 1970, junto do Ministério dos Negócios Estrangeiros e do Comércio Exterior da Bélgica, o seu instrumento de adesão à Convenção sobre a Nomenclatura para a Classificação das Mercadorias nas Pautas Aduaneiras e anexo e ao Protocolo de Rectificação da mesma Convenção e anexo, concluídos em Bruxelas, respectivamente, em 15 de Dezembro de 1950 e 1 de Julho de 1955.
+De acordo com o disposto no artigo 5.º, c), do Protocolo de Rectificação, os referidos actos entrarão em vigor em relação à África do Sul em 6 de Novembro de 1970.
+Direcção-Geral dos Negócios Económicos, 13 de Outubro de 1970. - O Adjunto do Director-Geral, Manuel Rodrigues de Almeida Coutinho.
