@@ -1,0 +1,33 @@
+Portaria n.º 895/90
+de 25 de Setembro
+Sob proposta das comissões instaladoras do Instituto Politécnico de Santarém e da Escola Superior de Tecnologia de Tomar;
+Ao abrigo do disposto no capítulo III do Decreto-Lei n.º 316/83, de 2 de Julho:
+Manda o Governo, pelo Ministro da Educação, o seguinte:
+1.º
+Alterações
+1 - O n.º 1 do n.º 3.º da Portaria n.º 593/87, de 9 de Julho, que criou e regulamentou o curso de bacharelato em Tecnologia e Artes Gráficas da Escola Superior de Tecnologia de Tomar, do Instituto Politécnico de Santarém, passa a ter a seguinte redacção:
+3.º
+Estágios
+1 - Durante ou no final do 4.º e 6.º semestres curriculares, a Escola Superior de Tecnologia de Tomar organizará estágios com a duração máxima de 60 dias.
+2 - Os quadros n.os 1 a 6 do anexo I da Portaria n.º 593/87, de 9 de Julho, passam a ter a redacção constante dos quadros anexos à presente portaria.
+2.º
+Aditamento
+É aditado um n.º 2.º-A à Portaria n.º 593/87, com a seguinte redacção:
+2.º-A
+Disciplinas de opção
+1 - O número mínimo de alunos necessário ao funcionamento de cada disciplina que integra o plano de estudos como disciplina de opção é de 10.
+2 - Exceptuam-se do disposto no n.º 1 os casos que o docente assegure a docência da disciplina para além do número máximo de horas a que é obrigado por lei.
+3 - O regime do presente número aplica-se igualmente aos conjuntos de disciplinas inscritos em alternativa no plano de estudos, sem prejuízo de ser assegurado sempre o funcionamento de um deles.
+3.º
+Regime de transição
+As regras do regime de transição a adoptar para os alunos que hajam estado inscritos nos anteriores planos de estudos serão fixadas pela comissão instaladora do Instituto, sob proposta da comissão instaladora da Escola, ouvido o conselho científico.
+4.º
+Aplicação
+O disposto na presente portaria aplica-se a partir do ano lectivo de 1990-1991.
+Ministério da Educação.
+Assinada em 27 de Agosto de 1990.
+Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
+
+ANEXO I
+DO QUADRO I AO QUADRO VI
+(ver documento original)
