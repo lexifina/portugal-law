@@ -1,0 +1,9 @@
+Despacho Normativo n.º 222/82
+Considerando que os estatutos do pessoal de investigação criminal, dos funcionários de justiça e das carreiras específicas dos registos e notariado restringem a admissão no respectivo quadro a quem seja portador de estágio próprio;
+Considerando que alguns daqueles estatutos condicionam o acesso na carreira à realização, com aproveitamento, de cursos e concursos de promoção;
+Considerando que se torna impossível adaptar, desde já, os regulamentos próprios das carreiras referidas ao regime geral estabelecido no Decreto-Lei n.º 171/82, o que ocasiona a falta de funcionamento daqueles 3 importantes sectores;
+Considerando que, relativamente às secretarias judiciais e à Polícia Judiciária, se encontram para publicação ou promulgação diplomas que regulam especificamente as respectivas carreiras;
+Considerando que o bloqueamento actual terá de ser superado por forma expedita, estabelecendo um regime transitório;
+Considerando que, de outra forma, se torna impraticável a gestão dos respectivos quadros:
+Ao abrigo do disposto no artigo 27.º do Decreto-Lei n.º 171/82, de 10 de Maio, determino que, durante o prazo de 6 meses ou enquanto não entrarem em vigor os novos estatutos das secretarias judiciais (diploma nesta data já promulgado), da Polícia Judiciária (também já aprovado em Conselho de Ministros) e das carreiras dos registos e notariado, aquele diploma legal de 10 de Maio próximo passado não será aplicado a todas estas carreiras. Depois da reformulação, serão aplicados às referidas carreiras, como diplomas posteriores que o virão a ser, esses novos regimes.
+Ministério da Reforma Administrativa, 13 de Setembro de 1982. - O Ministro da Reforma Administrativa, José Manuel Meneres Sampaio Pimentel.
