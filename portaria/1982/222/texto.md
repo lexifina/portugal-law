@@ -1,0 +1,5 @@
+Portaria n.º 222/82
+de 19 de Fevereiro
+Ao abrigo do disposto nos artigos 12.º e 14.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, e no n.º 11 do Despacho Normativo n.º 176-A/79, de 20 de Julho:
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros da Habitação, Obras Públicas e Transportes e da Reforma Administrativa, criar no quadro de pessoal do Gabinete de Estudos e Planeamento, a que se refere o artigo 20.º do Decreto-Lei n.º 406/80, de 26 de Setembro, 1 lugar de assessor, letra C, a extinguir quando vagar.
+Ministérios das Finanças e do Plano, da Habitação, Obras Públicas e Transportes e da Reforma Administrativa, 29 de Janeiro de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Habitação, Obras Públicas e Transportes, José Carlos Pinto Soromenho Viana Baptista. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
