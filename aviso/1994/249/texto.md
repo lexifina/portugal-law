@@ -1,0 +1,6 @@
+Aviso n.º 249/94
+Por ordem superior se torna público que o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos, por notificação de 25 de Março de 1994, informou que os Estados Unidos da América e o Reino dos Países Baixos declararam aceitar, respectivamente em 18 de Março de 1994 e 23 de Março de 1994, a adesão das Honduras e do Panamá à Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, concluída na Haia em 25 de Outubro de 1980.
+Em conformidade com o artigo 38, alínea 5, a Convenção entrou em vigor entre, por um lado, as Honduras e o Panamá e, por outro lado, os Estados Unidos da América e o Reino dos Países Baixos em 1 de Junho de 1994.
+Relativamente a Portugal, a Convenção foi aprovada para ratificação pelo Decreto do Governo n.º 33/83, conforme Diário da República, 1.ª série, n.º 108, de 11 de Agosto de 1983. O depósito do instrumento de ratificação foi feito em 29 de Setembro de 1983, segundo o Diário da República, 1.ª série, n.º 126, de 31 de Maio de 1984.
+Em conformidade com o Diário da República, 1.ª série, n.º 165, de 20 de Julho de 1985, a Direcção-Geral dos Serviços Judiciários é a Autoridade Central portuguesa.
+Departamento de Assuntos Jurídicos, 12 de Setembro de 1994. - O Director, José Maria Teixeira Leite Martins.
