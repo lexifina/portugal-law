@@ -1,0 +1,18 @@
+Despacho Normativo n.º 62-A/85
+Prosseguindo uma política de dinamização dos mercados monetário e financeiro, propõe-se o Governo criar, em breve, bilhetes do Tesouro com novas características, que se espera venham a constituir elemento motivador do interesse não só de investidores institucionais mas também do público em geral.
+Contudo, enquanto o instrumento financeiro antes referido não for lançado no mercado, entendeu o Governo, para ocorrer a eventuais necessidades de tesouraria, ao abrigo do Decreto-Lei n.º 361/80, de 9 de Setembro, proceder a emissões de bilhetes do Tesouro, que serão inteiramente tomadas pelo Banco de Portugal.
+Tendo em vista alcançar um maior grau de optimização na gestão da dívida pública, os bilhetes do Tesouro destas emissões poderão ser objecto de compra ao Banco de Portugal pelo Estado antes da data do seu vencimento.
+Assim:
+Ao abrigo do artigo 2.º do Decreto-Lei n.º 361/80, de 9 de Setembro, determina-se:
+1 - O limite máximo para 1985 de emissão de títulos de dívida flutuante, bem como o montante máximo de títulos que em cada momento pode estar em circulação, ao abrigo do Decreto-Lei n.º 361/80, de 9 de Setembro, são fixados em 250 milhões de contos e 80 milhões de contos, respectivamente.
+2 - Não haverá emissões de montante inferior a 1 milhão de contos nem títulos de montante inferior a 10000 contos.
+3 - Os bilhetes de Tesouro poderão ser emitidos a 30, 60 e 90 dias, sem prejuízo de, sempre que o último dia do prazo ocorra em sábado, domingo ou feriado, se considerar aquele prazo terminado no dia útil imediatamente anterior.
+4 - Tem acesso às emissões de bilhetes do Tesouro o Banco de Portugal.
+5 - O Estado procederá à emissão de bilhetes do Tesouro sempre que as suas necessidades de tesouraria o exijam, ouvido o Banco de Portugal.
+6 - Em cada emissão de bilhetes do Tesouro o Estado, através do Ministro das Finanças e do Plano, e o Banco de Portugal acordarão a taxa de juro a vigorar para a respectiva emissão por cada espécie de bilhetes a emitir no período de vigência.
+7 - Os bilhetes do Tesouro serão tomados a desconto.
+8 - O reembolso ao Banco de Portugal dos bilhetes do Tesouro será efectuado pelo valor nominal, no termo do seu prazo de validade, competindo à Direcção-Geral do Tesouro a emissão, na mesma data, a favor daquele Banco de um recibo de operações de tesouraria pela importância total do reembolso.
+9 - A Direcção-Geral do Tesouro fica desde já autorizada a emitir as necessárias ordens insertas de operações de tesouraria, para efeitos deste despacho, sob as rubricas que considerar convenientes, dando deste facto conhecimento à Direcção-Geral da Contabilidade Pública.
+10 - O Estado poderá, sempre que as circunstâncias o aconselhem, proceder à compra de bilhetes do Tesouro que se encontrem em carteira no Banco de Portugal. A importância a pagar pelo Estado será calculada nas mesmas condições estabelecidas para a compra dos títulos pelo Banco de Portugal.
+11 - É revogado o Despacho Normativo n.º 308/80, de 11 de Setembro, publicado no Diário da República, 1.ª série, n.º 219, de 22 de Setembro de 1980.
+Ministério das Finanças e do Plano, 11 de Julho de 1985. - O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes.
