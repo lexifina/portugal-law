@@ -1,0 +1,58 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "99",
+    "id": "18698",
+    "titulo": "Altera o Decreto-Lei n.º 468/71, de 5 de Novembro, relativo ao Regime Jurídico dos terrenos do domínio público hídrico."
+  },
+  "fase": "Acordão TC (nº/ano - Publicação DR)",
+  "codigo_fase": "430",
+  "data_registo": "2003-03-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": null,
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "430",
+    "Comissao": null,
+    "DataFase": "2003-03-11",
+    "EvtId": "48",
+    "Fase": "Acordão TC (nº/ano - Publicação DR)",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": null,
+    "Links": null,
+    "ObsFase": "Acórdão nº 131/2003 - O T.C. pronunciou-se pela inconstitucionalidade das normas constantes do nº 8 do artº 3º e do nº 1 do artº 36º, na redacção que lhe é dada pelo artigo 1.º do Decreto n.º 30/IX",
+    "OevId": "156067",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "276756",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-04-04",
+        "pubLeg": "IX",
+        "pubNr": "80",
+        "pubSL": "1",
+        "pubTipo": "DR I série A",
+        "pubTp": "R",
+        "supl": null,
+        "URLDiario": "http://data.dre.pt/eli/diario/1a/80/2003/0/pt/html"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
