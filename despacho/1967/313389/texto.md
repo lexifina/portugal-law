@@ -1,0 +1,3 @@
+Despacho
+Nos termos do artigo 2.º do Decreto-Lei n.º 43000, de 1 de Junho de 1960, o Conselho de Ministros resolve, mediante proposta do Ministério da Educação Nacional, declarar a habilitação do curso de comércio, regulado pelo Decreto n.º 20420, de 20 de Outubro de 1931, como suficiente, em paralelo com o curso geral dos liceus, para efeito de provimento nos lugares de terceiro-oficial dos serviços de contabilidade e administração das forças terrestres ultramarinas a que seja aplicável o disposto no § 1.º do artigo 9.º do Decreto-Lei n.º 41577, de 2 de Abril de 1958.
+Presidência do Conselho, 11 de Julho de 1967. - Pelo Presidente do Conselho, o Ministro de Estado adjunto do Presidente do Conselho, António Jorge Martins da Mota Veiga.
