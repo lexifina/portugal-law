@@ -1,0 +1,3 @@
+Despacho
+Nos termos do artigo 2.º do Decreto-Lei n.º 43000, de 1 de Junho de 1960, o Conselho de Ministros resolve, mediante proposta do Ministério da Educação Nacional, declarar como suficiente, em paralelo com o curso geral dos liceus, para efeito de provimento no lugar de desenhador da Caixa Geral de Depósitos, Crédito e Previdência a habilitação de um curso industrial completo que compreenda, até ao último ano, a disciplina de Desenho.
+Presidência do Conselho, 21 de Fevereiro de 1963. - Pelo Presidente do Conselho, o Ministro de Estado adjunto, José Gonçalo da Cunha Sottomayor Correia de Oliveira.
