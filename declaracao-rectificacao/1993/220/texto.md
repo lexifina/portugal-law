@@ -1,0 +1,5 @@
+Declaração de rectificação n.º 220/93
+Para os devidos efeitos se declara que o Decreto Regulamentar Regional n.º 28/93/M, publicado no Diário da República, n.º 207, de 3 de Setembro de 1993, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 8.º, n.º 3, onde se lê «A competência para efectuar alterações em execução do disposto nos n.os 1 e 2 do artigo 8.º do Decreto Legislativo Regional n.º 4/93/M, de 26 de Abril» deve ler-se «A competência para efectuar alterações, em execução do disposto nos n.os 1 e 2 do artigo 13.º do Decreto Legislativo Regional n.º 4/93/M, de 26 de Abril».
+No artigo 13.º, onde se lê «A assunção de encargos com a aquisição de bens de capital e todas as despesas financeiras» deve ler-se «A assunção de encargos com a aquisição de bens de capital e todas as despesas financiadas».
+Secretaria-Geral da Presidência do Conselho de Ministros, 25 de Outubro de 1993. - O Secretário-Geral, França Martins.
