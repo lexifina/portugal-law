@@ -1,0 +1,3 @@
+Aviso
+O Banco de Portugal, sob a orientação do Ministro de Estado e das Finanças e do Plano, no uso da competência que lhe é atribuída pelo artigo 26.º da sua lei orgânica e em regulamentação do previsto na alínea b) do artigo 7.º do Decreto-Lei n.º 117/83, de 25 de Fevereiro, determina que o montante global da dívida resultante da emissão de obrigações de caixa não poderá ultrapassar, em cada momento, 5 vezes o montante dos capitais próprios realizados da entidade emitente.
+Ministério das Finanças e do Plano, 31 de Maio de 1983. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.
