@@ -1,11 +1,9 @@
 # Artigo 7.º
 
-### (Desconto da quota)
+### Desconto da quota
 
-1. Todos os serviços que processem remunerações sujeitas a quota procederão ao desconto desta nas folhas ou recibos de pagamento e preencherão, em duplicado, relação discriminativa dos descontos feitos, em impresso de modelo aprovado oficialmente.
+1 - Todos os serviços que processem remunerações sujeitas a quota procederão ao desconto desta nas folhas ou notas de abonos e descontos e preencherão relação discriminativa dos descontos efectuados, em suporte digital.
 
-2. As relações dos descontos serão agrupadas pela ordem alfabética dos distritos e acompanhadas de modelo oficialmente aprovado, devidamente preenchido.
+2 - As relações de descontos serão remetidas à competente delegação da Direcção-Geral do Orçamento, que, até ao dia 15 do mês seguinte àquele a que digam respeito, as enviará à CGA, em suporte digital ou através de correio electrónico, comunicando à Direcção-Geral do Tesouro o total dos descontos nelas incluídos.
 
-3. As folhas e as relações dos descontos serão remetidas em conjunto à competente repartição da Direcção-Geral da Contabilidade Pública, que, até ao fim do mês seguinte àquele a que as relações digam respeito, enviará à Caixa os respectivos originais, comunicando à Direcção-Geral da Fazenda Pública o total dos descontos nelas incluídos.
-
-4. A Direcção-Geral da Fazenda Pública promoverá, durante o mês imediato, a entrega à Caixa da importância total dos descontos a que se refere este artigo.
+3 - A Direcção-Geral do Tesouro promoverá a entrega à CGA da importância total dos descontos referidos nos números anteriores, até ao dia 15 do mês seguinte àquele a que digam respeito.
