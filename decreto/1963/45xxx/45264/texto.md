@@ -1,0 +1,13 @@
+Decreto n.º 45264
+Considerando que foi adjudicada a Mário Ávila Gomes a execução da obra de melhoramento do cais do porto das Lajes do Pico;
+Considerando que os trabalhos da referida empreitada abrangem os anos de 1963, 1964 e 1965;
+Tendo em vista o disposto no artigo 22.º do Decreto-Lei n.º 41375, de 19 de Novembro de 1957;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, o seguinte:
+Artigo 1.º É autorizada a Direcção-Geral dos Serviços Hidráulicos a celebrar contrato com Mário Ávila Gomes para execução da empreitada de melhoramento do cais do porto das Lajes do Pico, pela importância de 536860$00, que poderá elevar-se a 550000$00 no caso de haver que realizar trabalhos a mais relativamente aos previstos nas medições do projecto, de haver que introduzir quaisquer alterações ao projecto, superiormente aprovadas, ou que pagar diferenciais relativos à garantia de preço do cimento.
+Art. 2.º Seja qual for o valor dos trabalhos a realizar, a Direcção-Geral dos Serviços Hidráulicos não poderá ser obrigada a despender com pagamentos relativos aos trabalhos executados, por virtude do contrato, mais do que as importâncias abaixo indicadas:
+1963 - 100000$00.
+1964 - 225000$00.
+1965 - 225000$00.
+§ único. À importância a despender em cada ano acresce o saldo do ano anterior.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 23 de Setembro de 1963. - ANTÓNIO DE OLIVEIRA SALAZAR - António Manuel Pinto Barbosa - Eduardo de Arantes e Oliveira.
