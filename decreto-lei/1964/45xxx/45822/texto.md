@@ -1,0 +1,12 @@
+Decreto-Lei n.º 45822
+A Junta Central das Casas dos Pescadores representou ao Governo no sentido de lhe ser cedido o prédio do Estado na Póvoa de Varzim onde funcionou o liceu daquela vila para ali instalar um centro de assistência social, visto ficar contíguo a um bairro de casas para pescadores.
+Considerando que o fim de beneficência para a classe piscatória a que pretende destinar aquele prédio justifica que o pedido seja deferido;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
+Artigo único. É autorizada a Direcção-Geral da Fazenda Pública a ceder, a título definitivo, à Junta Central das Casas dos Pescadores, mediante o pagamento da importância de 100000$00, o prédio do Estado na Póvoa de Varzim onde funcionou o liceu daquela vila, com a área de 3390 m2, a confrontar do norte com Manuel dos Santos Losa Gomes, do sul com caminho público, do nascente com a Rua do Almirante Reis e do poente com bairro de casas para pescadores, conforme a planta anexa a este diploma e que dele faz parte integrante, para nele ser levada a efeito uma nova construção destinada a centro de assistência social aos pescadores daquela vila.
+§ 1.º O prédio cedido poderá reverter para o domínio e posse do Estado, por simples despacho ministerial, se lhe for dada aplicação diferente ou se a obra a que se destina não estiver concluída na prazo de três anos, a contar da data da publicação deste diploma, sem que isso implique a restituição da importância paga pela concessionária.
+§ 2.º A cessão efectivar-se-á por meio de auto a celebrar na Repartição de Finanças do concelho da Póvoa de Varzim e é isenta de impostos.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 18 de Julho de 1964. - ANTÓNIO DE OLIVEIRA SALAZAR - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+(ver documento original)
+Ministério das Finanças, 18 de Julho de 1964. - O Ministro das Finanças, António Manuel Pinto Barbosa.
