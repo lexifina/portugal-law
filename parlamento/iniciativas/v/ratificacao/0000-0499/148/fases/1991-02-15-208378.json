@@ -1,0 +1,365 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Ratificação",
+    "numero": "148",
+    "id": "27114",
+    "titulo": "Decreto-lei nº 327/90, de 22 de Outubro, que \"regula a ocupação do solo objecto de um incêndio florestal\""
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "1991-02-15",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "3764",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "1991-02-15",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1991-02-15",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159123",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1410-1411"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-16",
+                "pubLeg": "V",
+                "pubNr": "43",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/043/1991-02-16/1410?pgs=1410-1411&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 327/90, de 22 de Outubro, que \"regula a ocupação do solo objecto de um incêndio florestal\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA   ADMINISTRAÇÃO LOCAL  E ORD. TERRITÓRIO",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Nunes Liberato"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159122",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1411-1413"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-16",
+                "pubLeg": "V",
+                "pubNr": "43",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/043/1991-02-16/1411?pgs=1411-1413&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 327/90, de 22 de Outubro, que \"regula a ocupação do solo objecto de um incêndio florestal\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159124",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1411-1412"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-16",
+                "pubLeg": "V",
+                "pubNr": "43",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/043/1991-02-16/1411?pgs=1411-1412&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 327/90, de 22 de Outubro, que \"regula a ocupação do solo objecto de um incêndio florestal\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159125",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1412-1412"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-16",
+                "pubLeg": "V",
+                "pubNr": "43",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/043/1991-02-16/1412?pgs=1412&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 327/90, de 22 de Outubro, que \"regula a ocupação do solo objecto de um incêndio florestal\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159126",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1412-1412"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-16",
+                "pubLeg": "V",
+                "pubNr": "43",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/043/1991-02-16/1412?pgs=1412&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 327/90, de 22 de Outubro, que \"regula a ocupação do solo objecto de um incêndio florestal\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159127",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1413-1414"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-16",
+                "pubLeg": "V",
+                "pubNr": "43",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/043/1991-02-16/1413?pgs=1413-1414&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 327/90, de 22 de Outubro, que \"regula a ocupação do solo objecto de um incêndio florestal\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159128",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1414-1414"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-16",
+                "pubLeg": "V",
+                "pubNr": "43",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/043/1991-02-16/1414?pgs=1414&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 327/90, de 22 de Outubro, que \"regula a ocupação do solo objecto de um incêndio florestal\"",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "208378",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "3764",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1991-02-16",
+        "pubLeg": "V",
+        "pubNr": "43",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/043/1991-02-16?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
