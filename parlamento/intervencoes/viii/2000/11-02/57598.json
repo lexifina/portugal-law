@@ -1,0 +1,99 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=%2furkWvc0lKdq20ak2KlHOmirXJXFYm74sABWT32jiDLN0U8f%2fPEtMfn8RnKJ0uGruwmBNe3jwMO37t%2fiSCQ9aculmRkJeIKwr%2fOiOzMziHJAnUHHtOwdh287ngLEtCriB2WWEC7LYWi1fowW8ns7Xdb7ZeW1KZ%2fh4MoxhR77APfbIk6lGh2Xrj7umHYAgvxBKomL8r%2b7w%2bcVlag%2bST%2fprrlUOE0u%2b6qHwbnvIQKfKeygiUNrSNiI04zccBV4YEQPPfynibRRVQMmV0H0WPDuRcSm80sGGQgNyTsUcq3R2DGZQtkpt%2bs4PaWOTvEOy%2b0HxZFhxj0gLaLBKCcha3mTRy2bCNMZep%2b9wDXb88fyVXk%3d&fich=IntervencoesVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "6a76c73abc08ffed4c44b15f3f36f3269364cf06e4b7f2d6259e2b14d6049817",
+  "legislatura": "VIII",
+  "id": "57598",
+  "tipo": "Intervenção",
+  "orador": "Bernardino Soares (PCP)",
+  "data_registo": "2000-11-02",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "6",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "12896",
+        "tipo": "VOT",
+        "titulo": "Voto de Saudação ou Homenagem - Voto de saudação à representação portuguesa nos Jogos Paralímpicos de Sidney 2000 e aos bons resultados alcançados"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "70650",
+        "tipo": "VOT",
+        "titulo": "Voto de Saudação ou Homenagem - Voto de saudação aos atletas, treinadores e dirigentes portugueses que representaram Portugal nos Jogos Paralímpicos de Sidney"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "70651",
+        "tipo": "VOT",
+        "titulo": "Voto de Saudação ou Homenagem - Voto de saudação aos atletas, técnicos e dirigentes que integraram a comitiva de Portugal nos Jogos Paralímpicos de Sidney"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "70652",
+        "tipo": "VOT",
+        "titulo": "De Congratulação - Voto de Congratulação pela prestação portuguesa nos Jogos Paralímpicos de Sidney"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2000-11-02",
+    "Debate": "VOTO 96/VIII/2; VOTO 97/VIII/2; VOTO 98/VIII/2; VOTO 99/VIII/2",
+    "Deputados": {
+      "GP": "PCP",
+      "idCadastro": "1058",
+      "nome": "Bernardino Soares"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "PAOD",
+    "Id": "57598",
+    "IdDebate": "6395",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VIII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "57598",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "643-643"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-11-03",
+        "pubLeg": "VIII",
+        "pubNr": "18",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/018/2000-11-03/643?pgs=643&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "JOGOS PARALIMPICOS DE SIDNEY; SIDNEY",
+    "Sessao": "2",
+    "Sumario": "Pela prestação dos atletas portugueses nos Jogos Paralimpicos de Sidney 2000; Pela prestação portuguesa nos Jogos Paralímpicos de Sidney; Aos atletas, técnicos e dirigentes que integraram a comitiva de Portugal nos Jogos Paralímpicos de Sidney; Aos atletas, treinadores e dirigentes portugueses que representaram Portugal nos Jogos Paralímpicos de Sidney",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
