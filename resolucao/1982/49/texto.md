@@ -1,0 +1,3 @@
+Resolução n.º 49/82
+Considerando a necessidade de a BRISA - Auto-Estradas de Portugal, S. A. R. L., obter financiamentos externos para fazer face ao pagamento das responsabilidades decorrentes da sua actividade concessionária, o Conselho de Ministros para os Assuntos Económicos, reunido em 16 de Março de 1982, resolveu autorizar a prestação do aval do Estado, até ao valor de US $ 80000000,00, relativamente a empréstimos externos a contratar pela BRISA - Auto-Estradas de Portugal, S. A. R. L., sendo as condições dos financiamentos a avalizar aprovadas pelo Ministro de Estado e das Finanças e do Plano.
+Presidência do Conselho de Ministros, 16 de Março de 1982. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.
