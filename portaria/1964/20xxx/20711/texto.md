@@ -1,0 +1,4 @@
+Portaria n.º 20711
+Mostrando-se necessário regular a forma de substituição do presidente do conselho administrativo do Fundo de Abastecimento:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Economia, ao abrigo do § 2.º do artigo único do Decreto-Lei n.º 45546, de 25 de Janeiro do corrente ano, que o presidente do conselho administrativo do Fundo de Abastecimento seja substituído nas suas licenças, faltas e impedimentos pelo vogal do mesmo conselho nomeado por livre escolha do Ministro da Economia, nos termos do § 1.º do artigo 1.º do Decreto-Lei n.º 39035, com a redacção dada pelo Decreto-Lei n.º 45151.
+Ministérios das Finanças e da Economia, 3 de Agosto de 1964. - O Ministro das Finanças, António Manuel Pinto Barbosa. - O Ministro da Economia, Luís Maria Teixeira Pinto.
