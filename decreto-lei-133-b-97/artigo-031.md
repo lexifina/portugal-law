@@ -4,13 +4,15 @@
 
 1 - O montante do subsídio familiar a crianças e jovens é determinado em função do nível de rendimentos do agregado familiar de que o titular do direito à prestação é dependente, do número de titulares com direito à mesma e da respectiva idade.
 
-2 - Para efeito da determinação do montante do subsídio familiar a crianças e jovens são estabelecidos os seguintes escalões de rendimentos, indexados ao valor da remuneração mínima mensal garantida à generalidade dos trabalhadores, em vigor à data a que se reportam os rendimentos apurados:
+2 - Para efeitos de determinação do montante do subsídio familiar a crianças e jovens, são estabelecidos os seguintes escalões de rendimentos, indexados ao valor da remuneração mínima mensal garantida à generalidade dos trabalhadores, em vigor à data a que se reportam os rendimentos apurados:
 
 1.º escalão - rendimentos iguais ou inferiores a 1,5;
 
-2.º escalão - rendimentos superiores a 1,5 e iguais ou inferiores a 8;
+2.º escalão - rendimentos superiores a 1,5 e iguais ou inferiores a 4;
 
-3.º escalão - rendimentos superiores a 8.
+3.º escalão - rendimentos superiores a 4 e iguais ou inferiores a 8;
+
+4.º escalão - rendimentos superiores a 8.
 
 3 - A indexação referida no número anterior reporta-se ao valor anual da remuneração mínima, o que integra os montantes dos subsídios de férias e de Natal.
 
