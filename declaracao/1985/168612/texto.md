@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Ministério da Agricultura, a Portaria n.º 547/85, publicada no Diário da República, 1.ª série, n.º 179, de 6 de Agosto de 1985, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No n.º 3, alínea b), onde se lê «até 31 de Agosto de cada ano;» deve ler-se «até 1 de Agosto de cada ano;», na alínea c), onde se lê «as vasilhas onde se encontram, que deverão ser devidamente seladas;» deve ler-se «as vasilhas onde se encontram e que deverão ser devidamente seladas;» e na alínea f), onde se lê «de 'vinho leve' ou 'baixo grau', e com aprovação prévia dos respectivos pa-» deve ler-se «de 'vinho leve' ou de 'baixo grau', e com aprovação prévia dos respectivos padrões;».
+Secretaria-Geral da Presidência do Conselho de Ministros, 5 de Setembro de 1985. - Pelo Secretário-Geral, José Serra.
