@@ -1,0 +1,6 @@
+Declaração de Rectificação n.º 17-D/99
+Segundo comunicação do Ministério do Equipamento, do Planeamento e da Administração do Território, a Portaria n.º 907/99, publicada no Diário da República, 1.ª série, n.º 239, de 13 de Outubro de 1999, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No n.º 1.º, alínea l), onde se lê «Um representante da AEOPS - Associação de Empresas de Construção de Obras Públicas;» deve ler-se «Um representante da AECOPS - Associação de Empresas de Construção de Obras Públicas;».
+No n.º 2.º, onde se lê «Da 1.ª secção da CCEOPP fazem parte as entidades referidas no número anterior, com excepção das previstas nas alíneas g), h) e i).» deve ler-se «Da 1.ª secção da CCEOPP fazem parte as entidades referidas no número anterior, com excepção das previstas nas alíneas g), h), i) e j).».
+No n.º 3.º, onde se lê «Da 2.ª secção fazem parte as entidades referidas no número anterior, com excepção das previstas nas alíneas g), h), i), l), m) e n) do n.º 1.º» deve ler-se «Da 2.ª secção fazem parte as entidades referidas nas alíneas g), h), i), j), l), m) e n) do n.º 1.º».
+Secretaria-Geral da Presidência do Conselho de Ministros, 25 de Outubro de 1999. - O Secretário-Geral, Alexandre Figueiredo.
