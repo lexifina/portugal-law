@@ -1,0 +1,7 @@
+Resolução da Assembleia da República n.º 30/2001
+Eleição de dois membros para a Comissão para a Igualdade e contra a Discriminação Racial
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição e da alínea b) do artigo 6.º da Lei n.º 134/99, de 28 de Agosto, eleger para fazerem parte da Comissão para a Igualdade e contra a Discriminação Racial as seguintes cidadãs:
+Jovita de Fátima Romano Ladeira;
+Yolanda Rosa Fortes.
+Aprovada em 22 de Março de 2001.
+O Presidente da Assembleia da República, António de Almeida Santos.
