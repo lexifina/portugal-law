@@ -1,0 +1,6 @@
+Declaração de rectificação n.º 140/94
+Segundo comunicação da 1.ª Delegação da Direcção-Geral da Contabilidade Pública (Encargos Gerais da Nação), a Declaração n.º 92/94, publicada no Diário da República, n.º 182, de 8 de Agosto de 1994, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No sumário, onde se lê: «De terem sido [...] para o ano de 1993, no» deve ler-se «De terem sido [...] para o ano de 1994, no».
+No preâmbulo, onde se lê «Nos termos [...] no ano de 1993, autorizadas [...] com o n.º 4 do artigo 12.º do Decreto-Lei n.º 83/93, de 18 de Março,» deve ler-se «Nos termos [...] no ano de 1994, autorizadas [...] com o n.º 5 do artigo 13.º do Decreto-Lei n.º 77/94, de 9 de Março,».
+No final, onde se lê «1.ª Delegação da Direcção-Geral da Contabilidade Pública, 1 de Julho de 1994. - O Director, João Gertrudes Rosado.» deve ler-se «1.ª Delegação da Direcção-Geral da Contabilidade Pública, 1 de Julho de 1994. - O Director, João Gertrudes Robalo.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Agosto de 1994. - Pelo Secretário-Geral, a Directora dos Serviços de Documentação e Relações Públicas, Maria Guiomar Cruz.
