@@ -1,6 +1,6 @@
 ## Secção II
 
-## Certidões e fotocópias
+## Comunicação e acesso aos dados
 
 # Artigo 109.º-A
 

@@ -10,7 +10,7 @@ b) Os factos jurídicos que determinem a constituição ou a modificação da pr
 
 c) Os factos jurídicos confirmativos de convenções anuláveis ou resolúveis que tenham por objecto os direitos mencionados na alínea a);
 
-d) A emissão do alvará de loteamento, seus aditamentos e alterações;
+d) A autorização de loteamento, seus aditamentos e alterações;
 
 e) A mera posse;
 
@@ -28,7 +28,7 @@ l) A locação financeira e as suas transmissões;
 
 m) O arrendamento por mais de 6 anos e as suas transmissões ou sublocações, exceptuado o arrendamento rural;
 
-n) A penhora, o arresto, a apreensão em processo de falência ou insolvência e o arrolamento, bem como quaisquer outros actos ou providências que afectem a livre disposição de bens;
+n) A penhora, o arresto, a apreensão em processo de falência e o arrolamento, bem como quaisquer outros actos ou providências que afectem a livre disposição de bens;
 
 o) O penhor, a penhora, o arresto e o arrolamento de créditos garantidos por hipoteca ou consignação de rendimentos e quaisquer outros actos ou providências que incidam sobre os mesmos créditos;
 
