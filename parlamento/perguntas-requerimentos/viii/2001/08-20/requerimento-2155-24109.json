@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=OfehzreU1EekBL7OXFnyzGmW8bzUJkDwDT7BSK7VUfLauZ5I%2f6vSw1dJJCXiVPxrlwNtg4zrKjgh67DgiM8B5FKf8N6o4ALNMnM6XcxO93rNB0scu3e8b%2bi1ZjYLgC3GyFhkWhw%2bIXevazca40mvw98RJxsco5JCegGgillMwlwn078EN3YG2ZZJVhZ59H%2fLW%2bs5mYqc4JXMwaXSW8sA0jwKn6uXi10AUm59cKhTprZUuHzvHEWandtkZpdSG61gn1XLqqd34GFDqZfcyLmX3ExGx49CBIyD8qQZJ5cRcV%2flVtgFM44vas8fwL4YHxhDFbwSHrZDfEziwK608l068Bc1XIKORTm7pOuZpv0CK8Wx1xbmFjVpqM7eBPtfukK%2b9sFdolrKVteHgWfoqM6qxjc5xiB0Zh3Rpl%2frrgejwZ4%3d&fich=RequerimentosVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "ee27fd579cbcd218d0bfb6c54648bdf855a16242176249fd32eb6a93230a2247",
+  "legislatura": "VIII",
+  "id": "24109",
+  "tipo": "Requerimento",
+  "numero": "2155",
+  "data_registo": "2001-08-20",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "URBANIZAÇÃO DAS TORRES DA BELA VISTA, EM LOURES",
+    "Autores": [
+      {
+        "GP": "PSD",
+        "idCadastro": "26",
+        "nome": "Arménio Santos"
+      }
+    ],
+    "DataEnvio": "2001-08-22",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2001-08-22",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "S.E.  DA  HABITAÇÃO",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2001-09-14",
+            "docRemetida": null,
+            "entidade": "MIN. DO EQUIPAMENTO SOCIAL",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4a54544339694d54566a5a444d784e69307a4f44557a4c54526b4d574d74595759304e53316a4d574d304d4455335954646c4d5749756347526d&fich=b15cd316-3853-4d1c-af45-c1c4057a7e1b.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2001-08-20",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4a545443396d4e6d59355a474935596930315a4755354c5451324d446b744f474e685a53316a59546b314d7a5a6b5a544d335a6a6b756347526d&fich=f6f9db9b-5de9-4609-8cae-ca9536de37f9.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "24109",
+    "Legislatura": "VIII",
+    "Nr": "2155",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "266654",
+        "obs": "220-(27)",
+        "pag": [
+          "220-(27)-220-(27)"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2001",
+        "pubLeg": "VIII",
+        "pubNr": "38",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/08/02/038S1/2001-09-14/220-(27)?pgs=220-(27)&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Requerimento"
+  }
+}
