@@ -1,0 +1,55 @@
+Portaria n.º 228/82
+de 20 de Fevereiro
+Conforme determina a alínea c) do artigo 17.º do Decreto n.º 146/78, de 13 de Dezembro, os lugares de monitor de formação profissional de 2.ª classe do quadro do Fundo de Desenvolvimento da Mão-de-Obra são providos pelos monitores de formação profissional estagiários que tenham concluído com aproveitamento o estágio de formação. Torna-se, portanto, necessário estabelecer, nos termos do artigo 31.º do citado diploma, os planos e programas das matérias a ministrar no referido estágio, cujo carácter probatório e duração anual estão, aliás, já determinados no n.º 2 do artigo 30.º do mesmo diploma.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelos Ministros do Trabalho e da Reforma Administrativa, o seguinte:
+1.º O estágio de formação a frequentar pelos monitores de formação profissional estagiários, com vista ao seu ingresso na carreira técnica específica de monitor de formação profissional, do quadro do Fundo de Desenvolvimento da Mão-de-Obra, consta de 3 etapas formativas, com os objectivos e duração seguintes:
+1 - Curso de formação pedagógica:
+1.1 - Objectivos:
+I - De ordem institucional:
+a) Sensibilização à relação pedagógica;
+b) Domínio dos métodos pedagógicos utilizados nas diversas acções de formação;
+c) Conhecimento dos processos de elaboração da documentação pedagógica e da sua utilização;
+d) Organização material e intelectual da formação profissional;
+e) Conhecimento dos processo de avaliação;
+f) Iniciação no desenvolvimento do ensino, abrangendo a transmissão de conhecimentos práticos e teóricos.
+II - De ordem individual:
+a) Enriquecimento das estruturas mentais, no sentido da adaptabilidade às situações pedagógicas;
+b) Desenvolvimento das faculdades de expressão;
+c) Alargamento de conhecimentos no âmbito da cultura geral;
+d) Sensibilização à premente evolução técnico-pedagógica.
+1.2 - Duração: 20 semanas.
+2 - Período de formação prática na área da função:
+2.1 - Objectivos:
+a) Conhecimento da organização pedagógica, material e administração dos vários tipos de locais e serviços de formação profissional;
+b) Contacto com os indivíduos em formação;
+c) Aplicação prática e aprofundamento dos conhecimentos adquiridos no curso de formação pedagógica, mediante o acompanhamento e regência do ensino nos locais de formação;
+d) Observação e análise auto-escópica das sessões simuladas;
+e) Ampliação de conhecimentos no campo profissional, através de frequência de cursos ou seminários e visitas a empresas.
+2.2 - Duração: 24 semanas.
+3 - Período de avaliação global do estágio:
+3.1 - Objectivos:
+a) Balanço das experiências vividas durante o estágio;
+b) Despiste de soluções visando o aperfeiçoamento de aspectos de ordem institucional e ou individual;
+c) Síntese dos resultados finais do estágio.
+3.2 - Duração: 4 semanas.
+2.º O curso de formação pedagógica desenvolve-se pelas fases de formação de base, iniciação prática num centro de formação e reflexão psicopedagógica, com a duração de 12, 2 e 6 semanas, respectivamente.
+3.º A organização do estágio e a metodologia utilizada devem consagrar as seguintes regras e processos:
+1 - De carácter organizacional:
+a) A 1.ª semana do curso de formação pedagógica é reservada ao acolhimento dos participantes e à preparação de uma visita de observação a um centro de formação, a qual deverá ocupar a semana seguinte;
+b) Na 12.ª semana de curso terá lugar o enquadramento dos formadores que vão acompanhar os estagiários, durante a fase de iniciação prática, num centro de formação, devendo igualmente proceder-se neste período a um primeiro balanço das aptidões de ensino dos estagiários;
+c) Da 12.ª à 24.ª semana do período de formação prática, os estagiários devem ser colocados em locais de formação adequados, conforme a formação de que se vão encarregar, no caso de obterem aproveitamento, seja a de adultos, de jovens ou de reabilitação profissional.
+2 - De carácter metodológico:
+a) Discussão e pesquisa de soluções em grupo;
+b) Prática na análise profissional;
+c) Treino mental;
+d) Lógica de ordenação dos conhecimentos a transmitir;
+e) Animação de sessões simuladas, centrada sobre temas livres e técnico-profissionais;
+f) Valorização de formas de expressão oral, escrita e gráfica.
+4.º O programa de estágio, nas suas sucessivas etapas formativas, é o que consta do anexo a esta portaria.
+5.º Sem prejuízo do que dispõe sobre a matéria, neste diploma, o desenvolvimento e extensão dos conteúdos programáticos e, bem assim, os lugares de realização dos diversos momentos do estágio deverão ser o mais adequados à prossecução dos objectivos estabelecidos.
+6.º No final do estágio de formação será entregue a cada estagiário um certificado de aptidão pedagógica, comprovativo do aproveitamento obtido.
+Ministérios do Trabalho e da Reforma Administrativa, 21 de Janeiro de 1982. - O Ministro do Trabalho, António José de Barros Queirós Martins. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
+
+Anexo a que se refere o n.º 4.º
+(ver documento original)
