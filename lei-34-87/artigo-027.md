@@ -6,4 +6,4 @@
 
 2 - A violação de segredo prevista no n.º 1 será punida mesmo quando praticada depois de o titular de cargo político ter deixado de exercer as suas funções.
 
-3 - (Revogado.)
+3 - O procedimento criminal depende de queixa da entidade que superintenda, ainda que a título de tutela, no órgão de que o infractor seja titular, ou do ofendido, salvo se esse for o Estado.

@@ -6,14 +6,14 @@ Implica de direito a respectiva demissão, com as consequências constitucionais
 
 a) Membro do Governo da República;
 
-b) Representante da República nas regiões autónomas;
+b) Ministro da República junto de região autónoma;
 
 c) Presidente de governo regional;
 
 d) Membro de governo regional;
 
-e) (Revogada);
+e) Governador de Macau;
 
-f) (Revogada);
+f) Secretário-adjunto do Governo de Macau;
 
-g) (Revogada).
+g) Governador civil.

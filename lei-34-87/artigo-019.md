@@ -1,11 +1,9 @@
 # Artigo 19.º
 
-### Agravação
+### Dispensa ou atenuação da pena
 
-1 - Se a vantagem referida nos artigos 16.º a 18.º for de valor elevado, o agente é punido com a pena aplicável ao crime respectivo agravada em um quarto nos seus limites mínimo e máximo.
+1 - Se o agente, nos casos previstos nos artigos 16.º e 17.º, voluntariamente repudiar o oferecimento ou a promessa que aceitara, ou restituir a vantagem, ou, tratando-se de coisa fungível, o seu valor, antes da prática do facto, é dispensado da pena.
 
-2 - Se a vantagem referida nos artigos 16.º a 18.º for de valor consideravelmente elevado, o agente é punido com a pena aplicável ao crime respectivo agravada em um terço nos seus limites mínimo e máximo.
+2 - A dispensa de pena prevista no número anterior aproveitará ao agente da corrupção activa se o mesmo, voluntariamente, antes da prática do facto, retirar a promessa feita ou solicitar a restituição da vantagem dada.
 
-3 - Para efeitos do disposto nos números anteriores, é correspondentemente aplicável o disposto nas alíneas a) e b) do artigo 202.º do Código Penal.
-
-4 - Sem prejuízo do disposto no artigo 11.º do Código Penal, quando o agente actue nos termos do artigo 12.º deste Código é punido com a pena aplicável ao crime respectivo agravada em um terço nos seus limites mínimo e máximo.
+3 - A pena é especialmente atenuada se o agente, nos casos previstos nos artigos 16.º, 17.º e 18.º, auxiliar concretamente na recolha das provas decisivas para a identificação ou a captura de outros responsáveis.

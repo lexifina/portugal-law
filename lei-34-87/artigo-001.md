@@ -6,4 +6,4 @@
 
 ### Âmbito da presente lei
 
-A presente lei determina os crimes de responsabilidade que titulares de cargos políticos cometam no exercício das suas funções, bem como as sanções que lhes são aplicáveis e os respetivos efeitos.
+A presente lei determina os crimes de responsabilidade que titulares de cargos políticos cometam no exercício das suas funções, bem como as sanções que lhes são aplicáveis e os respectivos efeitos.

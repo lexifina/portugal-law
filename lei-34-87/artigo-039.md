@@ -2,6 +2,4 @@
 
 ### Regras especiais aplicáveis a membro de governo regional
 
-1 - Nenhum membro do Governo Regional pode ser detido ou preso sem autorização da Assembleia Legislativa, salvo por crime doloso a que corresponda pena de prisão cujo limite máximo seja superior a 3 anos e em flagrante delito.
-
-2 - Movido procedimento criminal contra algum membro do Governo Regional, e acusado este definitivamente, a Assembleia Legislativa decide se o membro do Governo Regional deve ou não ser suspenso para efeitos de seguimento do processo, sendo obrigatória a decisão de suspensão quando se trate de crime do tipo referido no número anterior.
+Movido procedimento judicial contra membro de governo regional pela prática de qualquer crime, e indiciado este por despacho de pronúncia ou equivalente, o processo só seguirá os seus termos no caso de ao facto corresponder pena maior, se o membro do governo for suspenso do exercício das suas funções.
