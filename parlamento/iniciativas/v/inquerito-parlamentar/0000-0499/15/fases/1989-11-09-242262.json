@@ -1,0 +1,337 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Inquérito Parlamentar",
+    "numero": "15",
+    "id": "32910",
+    "titulo": "À actuação das autarquias do Seixal e de Loures na concessão de favores ao PCP numa operação de compra de imóveis e na cedencia de bens, serviços e instalação a esse partido na realização da Festa do Avante."
+  },
+  "fase": "Votação Deliberação",
+  "codigo_fase": "335",
+  "data_registo": "1989-11-09",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "17906",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "335",
+    "Comissao": null,
+    "DataFase": "1989-11-09",
+    "EvtId": "73",
+    "Fase": "Votação Deliberação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1989-11-09",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "A",
+            "horaInicio": "15:25",
+            "horaTermo": "20:12",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "266473",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "693-693"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-29",
+                "pubLeg": "V",
+                "pubNr": "20",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/020/1989-11-29/693?pgs=693&org=PLC"
+              }
+            ],
+            "sumario": "À atuação das autarquias do Seixal e de Loures na concessão de favores ao PCP numa operação de compra de imóveis e na cedência de bens, serviços e instalação a esse partido na realização da Festa do Avante",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:12",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "266725",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "384-385"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-29",
+                "pubLeg": "V",
+                "pubNr": "20",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/020/1989-11-29/384?pgs=384-385&org=PLC"
+              }
+            ],
+            "sumario": "À atuação das autarquias do Seixal e de Loures na concessão de favores ao PCP numa operação de compra de imóveis e na cedência de bens, serviços e instalação a esse partido na realização da Festa do Avante.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:12",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "266726",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "385-385"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-29",
+                "pubLeg": "V",
+                "pubNr": "20",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/020/1989-11-29/385?pgs=385&org=PLC"
+              }
+            ],
+            "sumario": "À atuação das autarquias do Seixal e de Loures na concessão de favores ao PCP numa operação de compra de imóveis e na cedência de bens, serviços e instalação a esse partido na realização da Festa do Avante.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:12",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "266727",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "385-385"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-29",
+                "pubLeg": "V",
+                "pubNr": "20",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/020/1989-11-29/385?pgs=385&org=PLC"
+              }
+            ],
+            "sumario": "À atuação das autarquias do Seixal e de Loures na concessão de favores ao PCP numa operação de compra de imóveis e na cedência de bens, serviços e instalação a esse partido na realização da Festa do Avante.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:12",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267306",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "379-379"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-29",
+                "pubLeg": "V",
+                "pubNr": "20",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/020/1989-11-29/379?pgs=379&org=PLC"
+              }
+            ],
+            "sumario": "À atuação das autarquias do Seixal e de Loures na concessão de favores ao PCP numa operação de compra de imóveis e na cedência de bens, serviços e instalação a esse partido na realização da Festa do Avante",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:12",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "267307",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "379-380"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-29",
+                "pubLeg": "V",
+                "pubNr": "20",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/020/1989-11-29/379?pgs=379-380&org=PLC"
+              }
+            ],
+            "sumario": "À atuação das autarquias do Seixal e de Loures na concessão de favores ao PCP numa operação de compra de imóveis e na cedência de bens, serviços e instalação a esse partido na realização da Festa do Avante",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "242262",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "17008",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "693-693"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1989-11-29",
+        "pubLeg": "V",
+        "pubNr": "20",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/020/1989-11-29/693?pgs=693&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "1989-11-09",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PSD</I>, <I> PS</I>, <I> PRD</I>, <I> CDS</I><BR>Contra:<I>PCP</I>, <I> PEV</I>, <I> João Corregedor Da Fonseca (Indep)</I>, <I> Natália Correia (PRD)</I>, <I> Jorge Liz (Indep)</I>",
+        "id": "48366",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "12",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
