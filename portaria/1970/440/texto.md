@@ -1,0 +1,3 @@
+Portaria n.º 440/70
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças, nos termos do disposto no § único do artigo 4.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, que seja alargado para dois anos, contados da data da importação, o prazo de exportação dos artefactos produzidos a partir de arco de ferro macio ou de aço importado, quer na vigência da Portaria n.º 20896, de 10 de Novembro de 1964, quer já no domínio da Portaria n.º 193/70, de 17 de Abril pretérito, que revogou aquela.
+Ministério das Finanças, 3 de Setembro de 1970. - Pelo Ministro das Finanças, Augusto Victor Coelho, Secretário de Estado do Orçamento.
