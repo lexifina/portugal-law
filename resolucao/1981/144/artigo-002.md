@@ -2,16 +2,14 @@
 
 A Comissão será constituída por:
 
-a) Um representante do Ministro dos Assuntos Sociais, que presidirá;
+a) 1 presidente e 1 presidente-substituto, nomeados pelo Ministro do Trabalho e Segurança Social;
 
-b) Um representante do Ministério da Administração Interna;
+b) 1 representante do Ministério da Administração Interna;
 
-c) Um representante do Ministério dos Negócios Estrangeiros;
+c) 1 representante do Ministério dos Negócios Estrangeiros;
 
-d) Um representante do Ministério da Educação e Ciência;
+d) 1 representante do Ministério da justiça;
 
-e) Um representante do Ministério do Trabalho;
+e) 1 representante do Ministério da Educação;
 
-f) Um representante do Ministério dos Assuntos Sociais designado pela Direcção-Geral de Segurança Social;
-
-g) Um representante do Ministério da Habitação e Obras Públicas.
+f) 1 representante do Ministério do Equipamento Social.
