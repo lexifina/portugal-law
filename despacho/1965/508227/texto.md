@@ -1,0 +1,6 @@
+Despacho
+Nos termos do artigo 2.º do Decreto-Lei n.º 43000, de 1 de Julho de 1960, o Conselho de Ministros resolve, mediante proposta do Ministério da Educação Nacional, declarar como habilitação suficiente, em paralelo com o curso geral dos liceus, a dos cursos do ensino técnico profissional que, para cada caso, a seguir vão indicados:
+1.º Os cursos de montador-electricista, de electricista, de electromecânico e de montador radiotécnico, para efeito de provimento nos lugares de preparador do Instituto Superior Técnico em laboratórios de electricidade, devendo, para os laboratórios de «correntes fortes», gozar de preferência os três primeiros, e, para os de «correntes fracas», ser dada preferência ao último;
+2.º Os cursos de serralheiro, de electromecânico e de mecânico de precisão, para efeito de provimento nos mesmos lugares em laboratórios de órgãos de máquinas, tecnologia mecânica, hidráulica, mecânica, aerodinâmica, máquinas motrizes e mecânica dos solos;
+3.º O curso de auxiliar de laboratório químico, para efeito de provimento nos citados lugares de preparador do Instituto Superior Técnico em laboratórios de química e de minas.
+Presidência do Conselho, 13 de Dezembro de 1965. - Pelo Presidente do Conselho, o Ministro de Estado Adjunto, António Jorge Martins da Mota Veiga.
