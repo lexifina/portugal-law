@@ -1,0 +1,5 @@
+Aviso n.º 128/91
+Por ordem superior se torna público que, por nota de 22 de Maio de 1991 e nos termos do artigo XVI, n.º 2, alínea b), da Convenção Relativa à Lei Uniforme Sobre a Forma de Um Testamento Internacional, concluída em Washington em 26 de Outubro de 1973, o Secretário de Estado norte-americano notificou ter a Itália depositado, em 16 de Maio de 1991, o seu instrumento de adesão à mencionada Convenção.
+A Convenção entrará em vigor para a Itália em 16 de Novembro de 1991, nos termos do artigo XI, n.º 2.
+Portugal é Parte da mesma Convenção, a qual foi aprovada para ratificação pelo Decreto n.º 252/75, de 23 de Maio, tendo depositado o seu instrumento de ratificação conforme aviso publicado no Diário da República, n.º 219, de 21 de Setembro de 1977. A Convenção entrou em vigor para Portugal em 9 de Fevereiro de 1978.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 30 de Julho de 1991. - O Chefe do Serviço Jurídico e de Tratados, António Salgado Manso Preto Mendes Cruz.
