@@ -1,0 +1,14 @@
+Aviso n.º 90/2000
+Por ordem superior se torna público que, por nota de 30 de Novembro de 1999 e nos termos do artigo 25.º da Convenção Relativa à Competência das Autoridades e à Lei Aplicável em Matéria de Protecção de Menores, concluída na Haia, em 5 de Outubro de 1961, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter aquele Ministério recebido uma carta, datada de 29 de Setembro de 1999, do embaixador de Portugal na Haia e uma carta, datada de 30 de Setembro de 1999, do embaixador da República Popular da China na Haia, relativas a Macau, informando do seguinte:
+(Carta do embaixador de Portugal.)
+«In accordance with the Joint Declaration of the Government of the Portuguese Republic and the Government of the People's Republic of China on the question of Macau, signed in Beijing on 13 April 1987, the Government of the Portuguese Republic will remain internationally responsible for Macau until 19 December 1999, the People's Republic of China resuming from that date the exercise of sovereignty over Macau, with effect from 20 December 1999.
+From 20 December 1999 the Portuguese Republic will cease to be responsible for the international rights and obligations arising from the application of the Convention in Macau.»
+Tradução:
+Nos termos da declaração conjunta do Governo da República Portuguesa e do Governo da República Popular da China sobre a questão de Macau, assinada em Pequim aos 13 de Abril de 1987, o Governo da República Portuguesa continuará responsável por Macau até 19 de Dezembro de 1999, reassumindo a República Popular da China desde essa data o exercício da soberania sobre Macau, com efeitos a partir de 20 de Dezembro de 1999.
+A partir de 20 de Dezembro de 1999, a República Portuguesa cessará as suas responsabilidades pelos direitos e obrigações internacionais decorrentes da aplicação da Convenção em Macau.
+(Carta do embaixador da República Popular da China.)
+Tradução:
+A Convenção Relativa à Competência das Autoridades e à Lei Aplicável em Matéria de Protecção de Menores, concluída na Haia, em 5 de Outubro de 1961, que se aplica presentemente a Macau, continuará a aplicar-se à Região Administrativa Especial de Macau, com efeitos a partir de 20 de Dezembro de 1999.
+Dentro desse âmbito, o Governo da República Popular da China assumirá a responsabilidade pelos direitos e obrigações internacionais que incumbem às Partes na Convenção.
+Portugal é Parte na mesma Convenção, que foi aprovada, para ratificação, pelo Decreto-Lei n.º 48494, de 22 de Julho de 1968, tendo depositado o seu instrumento de ratificação em 6 de Dezembro de 1968, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 20, de 24 de Janeiro de 1969.
+Departamento de Assuntos Jurídicos, 7 de Janeiro de 2000. - O Director, José Maria Teixeira Leite Martins.
