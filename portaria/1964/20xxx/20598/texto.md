@@ -1,0 +1,3 @@
+Portaria n.º 20598
+Manda o Governo de República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, abrir um crédito especial de 35000$00, destinado a reforçar a verba do capítulo único, artigo 4.º, n.º 1, alínea a) «Despesas com o material - Aquisições de utilização permanente - Aquisição de móveis - Mobiliário», da tabela de despesa do orçamento privativo em vigor da Agência-Geral do Ultramar, tomando como contrapartida o saldo do ano económico findo.
+Ministério do Ultramar, 25 de Maio de 1964. - Pelo Ministro do Ultramar, Joaquim Moreira da Silva Cunha, Subsecretário de Estado da Administração Ultramarina.
