@@ -1,0 +1,3 @@
+Despacho Normativo n.º 48/80
+Nos termos do n.º 1 do artigo 1.º do Decreto-Lei n.º 736/76, de 16 de Outubro, delego, cumulativamente, nos Ministros dos Negócios Estrangeiros, Prof. Doutor Diogo Freitas do Amaral, das Finanças e do Plano, Prof. Doutor Aníbal António Cavaco Silva, e do Comércio e Turismo, Dr. Basílio Adolfo Mendonça Horta da Franca, a competência para autorizar o aumento do número de automóveis para os chefes de missões diplomáticas que podem ser importados com isenção de direitos.
+Presidência do Conselho de Ministros, 1 de Fevereiro de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
