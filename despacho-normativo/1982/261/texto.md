@@ -1,0 +1,7 @@
+Despacho Normativo n.º 261/82
+Atendendo a que a conjugação do artigo 5.º com o artigo 10.º do Decreto-Lei n.º 410/82, de 30 de Setembro, poderá dar lugar a dúvidas de interpretação quanto à manutenção das funções de comando a desempenhar por comissários principais que se encontravam previstas no Decreto-Lei n.º 49190, de 14 de Agosto de 1969, no Decreto-Lei n.º 662/70, de 31 de Dezembro, e no Decreto-Lei n.º 105/79, de 2 de Maio;
+Atendendo a que o Decreto-Lei n.º 410/82, de 30 de Setembro, é, nas partes referentes tanto a guardas como a subchefes, omisso na diferenciação das categorias de guardas de 1.ª classe e guardas, recriadas pelo Decreto-Lei n.º 236/82, de 19 de Junho, bem como das de 1.º e 2.º subchefes, estatutariamente existente:
+Determino, ao abrigo do disposto no artigo 9.º do Decreto-Lei n.º 410/82, de 30 de Setembro, que:
+1 - As funções de comando expressas no artigo 5.º do Decreto-Lei n.º 410/82, de 30 de Setembro, são complementares das previstas para a mesma categoria na legislação já existente do antecedente.
+2 - Em todo o Decreto-Lei n.º 410/82, de 30 de Setembro, onde se faz referência a «guardas» deve entender-se por «guardas de 1.ª classe e guardas», bem como no que respeita a «subchefes» que deve entender-se como «1.º e 2.º subchefes».
+Ministério da Administração Interna, 8 de Novembro de 1982. - O Ministro da Administração Interna, José Ângelo Ferreira Correia.
