@@ -1,0 +1,12 @@
+Portaria n.º 1222/97
+de 12 de Dezembro
+A relevância da prestação de informação trimestral por sociedades com acções cotadas no mercado de cotações oficiais é sentida, de algum modo, não só pela generalidade dos investidores como também pelos demais intervenientes no mercado. Com efeito, as análises e estudos orientadores das respectivas decisões e actividades não se fundam exclusivamente na apreciação sobre o goodwill da empresa, assumindo particular influência a apreciação da informação de carácter económico e financeiro divulgada pelas sociedades. De resto, algumas entidades emitentes, reconhecendo a mencionada relevância, têm já procedido, por iniciativa própria, à divulgação intercalar de informação económica e financeira por forma a garantir a constante actualidade da mesma. Entendeu-se, face ao grau de desenvolvimento do mercado nacional e, especialmente, aos objectivos tidos em vista para o mesmo, designadamente os que se encontram relacionados com a qualidade da informação, ser este o momento adequado para impor a obrigação de prestação de informação intercalar e regulamentá-la, de acordo com o sentido geral da evolução registada nos mercados desenvolvidos de valores mobiliários.
+Foi ouvida a Comissão do Mercado de Valores Mobiliários.
+Assim, ao abrigo do disposto no n.º 2 do artigo 343.º do Código do Mercado de Valores Mobiliários, aprovado pelo Decreto-Lei n.º 142-A/91, de 10 de Abril, na redacção que lhe foi dada pelo artigo 1.º do Decreto-Lei n.º 178/97, de 24 de Julho:
+Manda o Governo, pelo Ministro das Finanças, o seguinte:
+1.º As sociedades com acções cotadas no mercado de cotações oficiais devem elaborar e publicar, no prazo de 30 dias contados do termo do trimestre a que se reporte, informação referente à sua actividade, resultados e situação económica e financeira, reportada ao fim do 1.º, 3.º e, se for o caso, 5.º trimestre de cada exercício contabilístico.
+2.º A informação trimestral referida no número anterior deve ser publicada nos boletins de cotações das bolsas de valores em que as acções se encontrem cotadas ou em jornal de grande circulação no País, observando-se o disposto no n.º 3 do artigo 339.º do Código do Mercado de Valores Mobiliários.
+3.º A Comissão do Mercado de Valores Mobiliários definirá, por regulamento, os elementos que integram a informação a elaborar e publicar nos termos da presente portaria.
+Ministério das Finanças.
+Assinada em 12 de Novembro de 1997.
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.
