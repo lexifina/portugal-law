@@ -1,0 +1,43 @@
+Decreto n.º 31/2001
+de 11 de Setembro
+Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo aprova as Emendas à Convenção sobre a Organização Marítima Internacional, concluídas em Londres em 4 de Novembro de 1993, cuja cópia autenticada em língua inglesa e respectiva tradução em língua portuguesa seguem em anexo.
+Visto e aprovado em Conselho de Ministros de 9 de Agosto de 2001. - Jaime José Matos da Gama - Jaime José Matos da Gama - José António Fonseca Vieira da Silva.
+Assinado em 23 de Agosto de 2001.
+Publique-se.
+O Presidente da República, JORGE SAMPAIO.
+Referendado em 30 de Agosto de 2001.
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+ANNEX
+AMENDMENTS TO THE CONVENTION ON THE INTERNATIONAL MARITIME ORGANIZATION
+PARTE VI
+The Council
+Article 16
+(The text is replaced by the following:)
+«The Council shall be composed of fourty members elected by the Assembly.»
+Article 17
+(The text is replaced by the following:)
+«In electing the members of the Council, the Assembly shall observe the following criteria:
+a) Ten shall be States with the largest interest in providing international shipping services;
+b) Ten shall be other States with the largest interest in international seaborne trade;
+c) Twenty shall be States not elected under a) or b) above which have special interests in maritime transport or navigation, and whose election to the Council will ensure the representation of all major geographic areas of the world.»
+Article 19
+[The text of paragraph b) is replaced by:]
+«b) Twenty-six members of the Council shall constitute a quorum.»
+
+ANEXO
+EMENDAS À CONVENÇÃO SOBRE A ORGANIZAÇÃO MARÍTIMA INTERNACIONAL
+PARTE VI
+O Conselho
+Artigo 16.º
+(O texto é substituído pelo seguinte:)
+«O Conselho será composto por 40 membros eleitos pela Assembleia.»
+Artigo 17.º
+(O texto é substituído pelo seguinte:)
+«Ao eleger os membros do Conselho, a Assembleia observará os seguintes critérios:
+a) 10 devem ser Estados com os maiores interesses no fornecimento de serviços internacionais de navegação marítima;
+b) 10 devem ser outros Estados com os maiores interesses no comércio internacional marítimo;
+c) 20 devem ser Estados não eleitos, nos termos das alíneas a) ou b) acima referidas, que tenham interesses especiais no transporte marítimo ou na navegação e cuja eleição para o Conselho garanta a representação de todas as grandes áreas geográficas do mundo.»
+Artigo 19.º
+[O texto da alínea b) é substituído pelo seguinte:]
+«b) 26 membros do Conselho constituirão quórum.»
