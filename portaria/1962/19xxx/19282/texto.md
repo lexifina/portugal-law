@@ -1,0 +1,5 @@
+Portaria n.º 19282
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar com a quantia de 5400$00 a verba do capítulo 10.º, artigo 221.º, n.º 4), alínea a) «Encargos gerais - Despesas de comunicações fora da província - Transporte de material, fretes e seguros, despachos e outras despesas conexas - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral em vigor na província de Timor, tomando como contrapartida os disponibilidades existentes na verba do capítulo 9.º, artigo 202.º, n.º 1), alínea a) «Serviços de marinha - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da mesma tabela de despesa.
+Ministério do Ultramar, 17 de Julho de 1962. - Pelo Ministro do Ultramar, Carlos João da Silva Moreira Rato, Subsecretário de Estado do Fomento Ultramarino.
+
+Para ser publicada no Boletim Oficial de Timor. - Moreira Rato.
