@@ -1,15 +1,13 @@
 # Artigo 19.º
 
-### (Direcção de Serviços de Organização e Recursos Humanos - Estrutura e atribuições)
+### Direcção de Serviços de Gestão de Recursos Humanos - Estrutura e atribuições
 
-1 - A Direcção de Serviços de Organização e Recursos Humanos é um serviço que tem por objectivos fundamentais estudar, propor e desenvolver as medidas conducentes à modernização da organização administrativa e à racionalização da gestão, formação e aperfeiçoamento profissional do pessoal.
+1 - A Direcção de Serviços de Gestão de Recursos Humanos é um serviço que tem por objectivos estudar, propor e acompanhar tecnicamente as medidas tendentes à racionalização da gestão de pessoal, bem como implementar a formação e o desenvolvimento profissional.
 
-2 - Integram a Direcção de Serviços de Organização e Recursos Humanos:
+2 - Integram a Direcção de Serviços de Gestão de Recursos Humanos:
 
-a) A Divisão de Organização;
+a) A Divisão de Regimes de Pessoal;
 
-b) A Divisão de Gestão de Recursos Humanos;
+b) A Divisão de Formação.
 
-c) A Divisão de Formação.
-
-3 - Mediante proposta do director-geral, serão definidas por despacho ministerial as ligações funcionais entre as Direcções de Serviços de Organização e Recursos Humanos e de Administração, no que se refere aos assuntos relacionados com o regime de pessoal.
+3 - A Direcção de Serviços de Gestão de Recursos Humanos cooperará estreitamente com a Direcção de Serviços de Administração, nomeadamente no exercício por esta das administrações de pessoal, financeira e dos equipamentos, de forma a obter-se uma integração das três componentes da gestão geral dos serviços.
