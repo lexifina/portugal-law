@@ -10,13 +10,13 @@
 
 a) A reconciliação dos cônjuges separados;
 
-b) A separação e divórcio por mútuo consentimento, excepto nos casos em que os cônjuges não apresentam algum dos acordos a que se refere o n.º 1 do artigo 1775.º do Código Civil, em que algum dos acordos apresentados não é homologado ou nos casos resultantes de acordo obtido no âmbito de processo de separação ou divórcio sem consentimento do outro cônjuge;
+b) A separação e divórcio por mútuo consentimento, excepto nos casos resultantes de acordo obtido no âmbito de processo de separação ou divórcio litigiosos;
 
-c) Revogada;
+c) A declaração de dispensa de prazo internupcial.
 
-2 - Os processos previstos nas alíneas a) e b) do número anterior podem ser instaurados em qualquer conservatória do registo civil.
+2 - É competente para os processos previstos nas alíneas a) e b) do número anterior a conservatória de registo civil da residência de qualquer dos cônjuges ou outra por ambos escolhida e expressamente designada.
 
-3 - Revogado.
+3 - A declaração de dispensa de prazo internupcial é efectuada pela conservatória de registo civil competente para a organização do processo preliminar de publicações para o casamento da requerente.
 
 4 - No âmbito das competências previstas no n.º 1 do presente artigo, os interessados apresentam o pedido mediante a entrega de requerimento na conservatória, fundamentando de facto e de direito, indicando as provas e juntando a prova documental.
 

@@ -14,11 +14,11 @@ c) Tribunal de 1.ª instância competente em razão da matéria no âmbito da ci
 
 3 - São citados para, no prazo de 15 dias, apresentar oposição, indicar as provas e juntar a prova documental:
 
-a) Nos casos previstos na alínea a) do n.º 1 do artigo anterior, o representante do menor ou do maior acompanhado, quando o tenha, ou o procurador ou curador do ausente, o seu cônjuge ou parente mais próximo e o próprio maior acompanhado que possa agir; havendo mais de um parente no mesmo grau, é citado o que for considerado mais idóneo;
+a) Nos casos previstos na alínea a) do n.º 1 do artigo anterior, o representante do incapaz ou o procurador ou curador do ausente, o seu cônjuge ou parente mais próximo e o próprio incapaz, se for inabilitado; havendo mais de um parente no mesmo grau, é citado o que for considerado mais idóneo;
 
-b) Nas situações previstas na alínea b) do n.º 1 do artigo anterior, o parente sucessível mais próximo do visado ou, havendo vários parentes no mesmo grau, o que for considerado mais idóneo.
+b) Nas situações previstas na alínea b) do n.º 1 do artigo anterior, o parente sucessível mais próximo do incapaz ou, havendo vários parentes no mesmo grau, o que for considerado mais idóneo.
 
-4 - Nos casos de suprimento do consentimento em que a causa de pedir seja o acompanhamento ou a ausência da pessoa e ainda não esteja decretado o acompanhamento ou verificada judicialmente a ausência, aplica-se o disposto na alínea a) do número anterior, com as necessárias adaptações.
+4 - Nos casos de suprimento do consentimento em que a causa de pedir seja a incapacidade ou a ausência da pessoa e ainda não esteja decretada a interdição ou inabilitação ou verificada judicialmente a ausência, aplica-se o disposto na alínea a) do número anterior, com as necessárias adaptações.
 
 5 - O Ministério Público decide depois de produzidas as provas que admitir, de concluídas outras diligências necessárias e de ouvido o conselho de família, quando o seu parecer for obrigatório.
 
