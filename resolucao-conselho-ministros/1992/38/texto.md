@@ -1,0 +1,17 @@
+Resolução do Conselho de Ministros n.º 38/92
+A Comissão de Empresas-Administração (CEA), reorganizada através da Resolução do Conselho de Ministros n.º 9/92, de 22 de Fevereiro, de acordo com as recomendações feitas pela anterior Comissão no momento de avaliação da sua actividade, apresentou ao Governo o plano de actividades, em execução do estabelecido na alínea d) do n.º 7 da mencionada resolução.
+O plano de actividades apresentado baliza as acções a desenvolver no período de 1992-1993 e resulta da sistematização de todas as contribuições recebidas, quer por parte das organizações empresariais, quer por parte dos directores-gerais membros da CEA.
+As matérias concretizadas no plano de actividades enquadram-se nos seguintes temas:
+Informação sobre as normas e procedimentos existentes no âmbito da Administração Pública com repercussão nas actividades empresariais;
+Simplificação legislativa de procedimentos, conjugando a revisão e clarificação das leis com a promoção de iniciativas dirigidas à sua sistematização e codificação;
+Manutenção de um diálogo construtivo entre empresas e administração, acolhendo propostas e sugestões que ao longo do mandato da Comissão venham a surgir e encorajando a colaboração em novas áreas, por forma a prevenir o aumento da carga burocrática;
+Dinamização de acções de modernização administrativa;
+Acções de divulgação das actividades de modernização administrativa conduzidas no âmbito da CEA e do Serviço de Modernização Administrativa, bem como a revitalização de formas de auscultação dos agentes económicos.
+O plano de actividades apresenta-se assim como uma estrutura de projectos bastante diferenciada do Plano Interministerial de Desburocratização, aprovado em 1988, que se ocupou predominantemente de questões sectoriais concretas, hoje já ultrapassadas, evidenciando-se, assim, o reflexo dos progressos alcançados, os quais permitem que as sugestões se orientem para áreas de informação, simplificação, diálogo e dinamização de medidas de modernização administrativa de pendor mais qualitativo e de aperfeiçoamento global da relação empresas-administração.
+Também a actual composição da CEA, presidida pela Secretária de Estado para a Modernização Administrativa e integrando, como membros por parte da Administração, os directores-gerais dos departamentos com maior relacionamento com os agentes económicos, torna desnecessária, para efeitos de operacionalização das acções do plano de actividades, a criação de estruturas próprias, acentuando-se assim de uma forma muita precisa a acção descentralizada e contida dos meios, a prosseguir pelas áreas de modernização.
+Assim:
+Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:
+1 - Aprovar o plano de actividades apresentado pela Comissão de Empresas-Administração, em cumprimento do disposto na alínea d) do n.º 7 da Resolução do Conselho de Ministros n.º 9/92, de 22 de Fevereiro.
+2 - O referido plano de actividades será dinamizado pela Comissão de Empresas-Administração nos anos de 1992-1993, devendo ser apresentado ao Primeiro-Ministro, no final do período, o respectivo relatório de execução.
+3 - Os serviços da Administração Pública prestarão todo o apoio solicitado pelos membros da Comissão de Empresas-Administração responsáveis pela dinamização das acções constantes do plano de actividades, aprovado pela presente resolução.
+Presidência do Conselho de Ministros, 22 de Outubro de 1992. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
