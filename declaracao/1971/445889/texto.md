@@ -1,0 +1,13 @@
+Declaração
+Segundo comunicação do Ministério dos Negócios Estrangeiros, Direcção-Geral dos Serviços Centrais, a Portaria n.º 101/71, publicada no Diário do Governo, 1.ª série. n.º 41, de 18 de Fevereiro, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+Onde se lê:
+...
+20) À Embaixada de Portugal em Zomba ...
+... Libras
+Dactilógrafo ... 70-00-00
+deve ler-se:
+...
+20) À Embaixada de Portugal em Zomba ...
+... Libras
+Empregada ... 70-00-00
+Secretaria-Geral da Presidência do Conselho, 15 de Março de 1971. - O Secretário-Geral, Diogo de Paiva Brandão.
