@@ -1,0 +1,32 @@
+Decreto-Lei n.º 104/85
+de 10 de Abril
+Pelo Decreto-Lei n.º 256/80, de 30 de Julho, foi criada a Comissão Permanente da Produção, Transformação e Comércio do Tomate, mecanismo institucional de coordenação onde estão representados os departamentos que interferem no sector do tomate e os interesses mais significativos a ele ligados.
+Posteriormente, este diploma foi alterado pelo Decreto-Lei n.º 212/81, de 13 de Julho, em virtude de se julgar necessário adaptar a estrutura e funcionamento da referida Comissão à nova estrutura assumida pelo governo de então.
+Entretanto, a orgânica do Governo veio a sofrer novas e importantes alterações que justificam e apontam de novo para a conveniência de adaptar a estrutura e funcionamento da mesma Comissão.
+Assim:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo único. Os artigos 1.º, 2.º e 5.º do Decreto-Lei n.º 256/80, de 30 de Julho, com a redacção que lhe foi dada pelo Decreto-Lei n.º 212/81, de 13 de Julho, passam a ter a seguinte redacção:
+Artigo 1.º É criada, na dependência directa do Ministério da Agricultura, a Comissão Permanente da Produção, Transformação e Comércio do Tomate, adiante designada por Comissão.
+Art. 2.º - 1 - A Comissão é composta pelos elementos a seguir indicados:
+1 pela Secretaria de Estado do Comércio e Indústria Agrícolas, que exercerá as funções de presidente;
+1 pela Secretaria de Estado do Comércio Externo, que exercerá as funções de vice-presidente;
+1 pela Secretaria de Estado do Orçamento;
+1 pela Secretaria de Estado do Tesouro;
+1 pela Secretaria de Estado da Produção Agrícola;
+1 pela Comissão de Integração Europeia;
+1 pelo Banco de Portugal;
+1 pelo Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas;
+1 pelo Instituto de Apoio à Transformação e Comercialização dos Produtos Agrários e Alimentares;
+1 por cada associação de produtores de tomate da área de dominância da cultura, no máximo de 3;
+1 por cada associação de industriais de tomate, no máximo de 3.
+2 - ...
+3 - ...
+4 - ...
+5 - ...
+Art. 5.º O regime de funcionamento da Comissão encontra-se definido no regulamento aprovado pela Portaria n.º 668/81, de 5 de Agosto, do Ministro do Comércio e Turismo, o qual se manterá em vigor com as alterações necessárias a introduzir por portaria do Ministro da Agricultura.
+Visto e aprovado em Conselho de Ministros de 14 de Março de 1985. - Rui Manuel Parente Chancerelle de Machete - Alípio Barrosa Pereira Dias - Álvaro Roque de Pinho Bissaia Barreto - José Veiga Simão - Joaquim Martins Ferreira do Amaral.
+Promulgado em 26 de Março de 1985.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 29 de Março de 1985.
+O Primeiro-Ministro, Mário Soares.
