@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1917/07/12600/05970598.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1917-07-31",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "1961f0655eefcdcc081e096b4538df67ac80559a491ad5b8a31a4a0823268f08",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each page read whole (Tesseract page layout)",
+    "agreement_pct": 99.3,
+    "pages": 2,
+    "columns": [
+      3,
+      4
+    ],
+    "pdf_sha256": "540f50e07dd2e5366cc94a2b9ff21b57ce60f004c7e45ff658e69ec27bd86865",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 648
 }
