@@ -1,0 +1,12 @@
+Resolução do Conselho de Ministros n.º 77/2002
+O Observatório do Comércio vem desempenhando um papel essencial no conhecimento da realidade do sector do comércio, enquanto promotor de estudos e análises versando uma multiplicidade de domínios da actividade comercial.
+Assim, a continuação do mesmo - independentemente de uma reflexão sobre as opções a tomar quanto à forma institucional e sobre a estratégia a adoptar futuramente - é uma reivindicação assumida por todos os parceiros com assento no Observatório, devendo o Governo assegurar que, em resultado do fim do período de prorrogação estabelecido na Resolução do Conselho de Ministros n.º 28/2000, de 17 de Maio, não sejam suspensos os seus trabalhos e a respectiva estrutura organizacional dissolvida.
+Neste sentido e tendo como preocupação salvaguardar o trabalho já produzido e permitir que o próximo Governo resultante das eleições de 17 de Março possa efectuar as escolhas e orientações que considerar então mais adequadas, entende-se que a duração do Observatório deve ser prorrogada por um período de seis meses.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Prorrogar, pelo período de seis meses, a duração do Observatório do Comércio, mantendo, em todos os aspectos, a estrutura organizacional e o modelo de financiamento, que continuará a ser assegurado:
+a) Pelas comparticipações, incentivos, dotações, transferências e subsídios provenientes de medidas de parceria e iniciativas públicas a implementar com base em dotações comunitárias e nacionais a constituir para o efeito, os quais serão disponibilizados pelo Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento;
+b) Por quaisquer outras receitas resultantes da prossecução das atribuições que lhe sejam conferidas por lei, contrato ou outro título.
+2 - Permanecem válidos e eficazes, inclusive na relação com terceiros, todos os actos, contratos e protocolos que o Observatório do Comércio, ou qualquer dos seus membros, em seu nome, tenha concretizado ou dado início.
+3 - Os cargos de presidente do conselho coordenador e de director da Unidade Técnica de Observação Permanente continuam a ser exercidos pelas personalidades anteriormente nomeadas ao abrigo da Resolução do Conselho de Ministros n.º 54/98, de 23 de Abril, e pelo mesmo período referido no n.º 1 da presente resolução.
+Presidência do Conselho de Ministros, 21 de Fevereiro de 2002. - O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.
