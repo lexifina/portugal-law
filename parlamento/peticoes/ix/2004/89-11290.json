@@ -1,0 +1,507 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gIjTIOBD8fzbBQNrdCzuBBmwczclk6SD5HYRiA%2fDz6LvtzEOZz0p16VuinZ4c9xnv1XSgJHpVu8L3TmsAZNDGnOMwZOl11DIWbTTxvH9TZlpguA1Dr0xHxKf%2bQeAZgBPJ2JGSuYu7x65iAUduW5D4zeNirkg7R2OQEqLYjPjV69GXh3r3XIihzhHxDGQdi7oVusUbcfcYXzy5bAfGFP4LX4pUxhc8G05JIdx13wuiGlQzDNPxWXGvFL9wH8tviClTchA%2bgzQmfiBzvQfSs%2fvcRcPk4nUvD76VhB1rTiLyNK7L6yAVcl1PlcZsq2sEsFqGpdxuyeZkEQ%2bcGfcnacT%2fg%3d%3d&fich=PeticoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "c26dac93ad93dfa2ae59e6cc67f4607f06aab6fd9463b02c8517cb31fb62b02c",
+  "legislatura": "IX",
+  "id": "11290",
+  "numero": "89",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2004-06-15",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsOutros.TituloDocumento",
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": null,
+            "dataResposta": null,
+            "entidades": [
+              null
+            ],
+            "nrOficio": null,
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2006-10-25",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2006-11-28",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2006-11-30",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "248",
+        "Legislatura": "X",
+        "Nome": "Comissão de Assuntos Económicos, Inovação e Desenvolvimento Regional (pré RAR)",
+        "NotasAdmissibilidade": null,
+        "Numero": "6",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2005-06-21",
+            "gp": "PSD",
+            "id": "1856",
+            "motivoCessacao": null,
+            "nome": "José Manuel Ribeiro"
+          }
+        ],
+        "RelatorioFinal": [
+          "21960"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitada da IX Legislatura."
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2004-09-28",
+        "DataArquivo": "2005-04-13",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": null,
+        "DataReaberta": "2004-09-28",
+        "DocumentosPeticao": {
+          "DocsOutros": [
+            {
+              "DataDocumento": "2004-06-15",
+              "TipoDocumento": "Relatório Intercalar",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a793944543030764d54424252464a514c305276593356745a57353062334e515a585270593246764c325979596a55344d6d55334c544177597a63744e446c684d6930354e6d4d354c5749354e44557a5a5467344f4751334e7935775a47593d&fich=f2b582e7-00c7-49a2-96c9-b9453e888d77.pdf&Inline=true"
+            }
+          ],
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2004-06-15",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a793944543030764d54424252464a514c305276593356745a57353062334e515a585270593246764c7a51784f574a6a5a6a41354c54517a4d3259744e44646d5a5330344f5449324c574d78597a426a4d6a51344f44426d5a4335775a47593d&fich=419bcf09-433f-47fe-8926-c1c0c24880fd.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "111",
+        "Legislatura": "IX",
+        "Nome": "COMISSÃO DE AGRICULTURA, DESENVOLVIMENTO RURAL E PESCAS",
+        "NotasAdmissibilidade": null,
+        "Numero": "10",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2004-09-28",
+            "gp": "CDS-PP",
+            "id": "1710",
+            "motivoCessacao": null,
+            "nome": "Herculano Gonçalves"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": "Transitou para: Comissão de Assuntos Económicos, Inovação e Desenvolvimento Regional (pré RAR) da X Legislatura."
+      }
+    ],
+    "DataDebate": "2007-01-05",
+    "Documentos": [
+      {
+        "DataDocumento": "2004-06-15",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a7939555a58683062305a70626d46735547563061574e765a584d76595751334f44597a4e4459745a6a49325a4330304f4745794c57497a4d4751744f5455324d4749305a5445794e5746684c6e426b5a673d3d&fich=ad786346-f26d-48a2-b30d-9560b4e125aa.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2007-01-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "163566",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6-6"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-01-06",
+                "pubLeg": "X",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/033/2007-01-06/6?pgs=6&org=PLC"
+              }
+            ],
+            "Sumario": "A AMA, Amigos do Mondego e Afluentes, pela Confraria da Lampreia de Penacova e pelos restaurantes de Penacova, solicita à Assembleia da República que adopte medidas no sentido da defesa do rio Mondego e da sua fauna e vegetação, apelando também para a construção de uma escada de peixe no açude-ponte, em Coimbra",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2007-01-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "163567",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "6-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-01-06",
+                "pubLeg": "X",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/033/2007-01-06/6?pgs=6-7&org=PLC"
+              }
+            ],
+            "Sumario": "A AMA, Amigos do Mondego e Afluentes, pela Confraria da Lampreia de Penacova e pelos restaurantes de Penacova, solicita à Assembleia da República que adopte medidas no sentido da defesa do rio Mondego e da sua fauna e vegetação, apelando também para a construção de uma escada de peixe no açude-ponte, em Coimbra",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2007-01-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "163568",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "7-7"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-01-06",
+                "pubLeg": "X",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/033/2007-01-06/7?pgs=7&org=PLC"
+              }
+            ],
+            "Sumario": "A AMA, Amigos do Mondego e Afluentes, pela Confraria da Lampreia de Penacova e pelos restaurantes de Penacova, solicita à Assembleia da República que adopte medidas no sentido da defesa do rio Mondego e da sua fauna e vegetação, apelando também para a construção de uma escada de peixe no açude-ponte, em Coimbra",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2007-01-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "163569",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "7-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-01-06",
+                "pubLeg": "X",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/033/2007-01-06/7?pgs=7-8&org=PLC"
+              }
+            ],
+            "Sumario": "A AMA, Amigos do Mondego e Afluentes, pela Confraria da Lampreia de Penacova e pelos restaurantes de Penacova, solicita à Assembleia da República que adopte medidas no sentido da defesa do rio Mondego e da sua fauna e vegetação, apelando também para a construção de uma escada de peixe no açude-ponte, em Coimbra",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2007-01-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "163570",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "8-8"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-01-06",
+                "pubLeg": "X",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/033/2007-01-06/8?pgs=8&org=PLC"
+              }
+            ],
+            "Sumario": "A AMA, Amigos do Mondego e Afluentes, pela Confraria da Lampreia de Penacova e pelos restaurantes de Penacova, solicita à Assembleia da República que adopte medidas no sentido da defesa do rio Mondego e da sua fauna e vegetação, apelando também para a construção de uma escada de peixe no açude-ponte, em Coimbra",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2007-01-06",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "163571",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "8-9"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2007-01-06",
+                "pubLeg": "X",
+                "pubNr": "33",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/033/2007-01-06/8?pgs=8-9&org=PLC"
+              }
+            ],
+            "Sumario": "A AMA, Amigos do Mondego e Afluentes, pela Confraria da Lampreia de Penacova e pelos restaurantes de Penacova, solicita à Assembleia da República que adopte medidas no sentido da defesa do rio Mondego e da sua fauna e vegetação, apelando também para a construção de uma escada de peixe no açude-ponte, em Coimbra",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11290",
+    "PetAssunto": "Solicitam a que se ponha termo a progressiva desertificação do Rio Mondego.",
+    "PetDataEntrada": "2004-06-15",
+    "PeticoesAssociadas": null,
+    "PetId": "11290",
+    "PetLeg": "IX",
+    "PetNr": "89",
+    "PetNrAssinaturas": "4600",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "204",
+        "obs": null,
+        "pag": [
+          "6-9"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2007-01-06",
+        "pubLeg": "X",
+        "pubNr": "33",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/10/02/033/2007-01-06/6?pgs=6-9&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "360204",
+        "obs": null,
+        "pag": [
+          "5-6"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2006-07-01",
+        "pubLeg": "X",
+        "pubNr": "50",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/10/01/050/2006-07-01/5?pgs=5-6&org=PLC"
+      }
+    ]
+  }
+}
