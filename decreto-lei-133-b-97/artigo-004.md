@@ -8,7 +8,7 @@ a) Subsídio familiar a crianças e jovens;
 
 b) Subsídio por frequência de estabelecimento de educação especial;
 
-c) (Revogada);
+c) Subsídio mensal vitalício;
 
 d) Subsídio por assistência de terceira pessoa;
 

@@ -2,12 +2,14 @@
 
 ### Prova da deficiência
 
-1 - A prova da deficiência para atribuição da bonificação por deficiência do subsídio familiar a crianças e jovens é efetuada:
+1 - A prova da deficiência para atribuição da bonificação por deficiência do subsídio familiar a crianças e jovens e do subsídio mensal vitalício é efectuada:
 
-a) No âmbito da segurança social, através de certificação por equipas multidisciplinares de avaliação médico-pedagógica ou, não as havendo, por médico especialista da deficiência em causa, ou pelo médico assistente, se não for possível o recurso às primeiras modalidades referidas;
+a) No âmbito da segurança social:
 
-b) No âmbito do regime de proteção social da função pública, através de certificação pela junta médica da Caixa Geral de Aposentações, I. P., relativamente aos subsídios atribuídos pela CGA, ou por médico especialista na deficiência em causa, nos demais casos.
+i) Através de certificação por equipas multidisciplinares de avaliação médico-pedagógica ou, não as havendo, por médico especialista na deficiência em causa, ou pelo médico assistente, se não for possível o recurso às primeiras modalidades referidas, tratando-se da bonificação por deficiência do subsídio familiar a crianças e jovens;
 
-2 - Os critérios a ter em consideração na prova de deficiência referidos no número anterior são definidos por portaria dos membros do Governo responsáveis pelas áreas do trabalho, solidariedade e segurança social e da saúde.
+ii) Por certificação emitida pelo serviço de verificação de incapacidades do centro regional que abrange a área de residência do interessado, tratando-se de subsídio mensal vitalício;
 
-3 - É dispensada a renovação anual da prova da deficiência sempre que esta, pelas suas características de amplitude e gravidade, seja considerada permanente.
+b) No âmbito do regime de protecção social da função pública, através de certificação por equipas multidisciplinares de avaliação médico-pedagógica ou, não as havendo, por médico especialista na deficiência em causa, ou pelo médico assistente, se não for possível o recurso às primeiras modalidades referidas.
+
+2 - É dispensada a renovação anual da prova da deficiência sempre que esta, pelas suas características de amplitude e gravidade, seja considerada permanente.

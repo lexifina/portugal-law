@@ -6,4 +6,4 @@
 
 2 - No caso de o familiar não coabitar com um dos beneficiários, a atribuição é efectuada em relação àquele com quem o familiar beneficiado coabite, sem prejuízo dos casos devidamente justificados.
 
-3 - (Revogado);
+3 - Os titulares de subsídio familiar a crianças e jovens, com bonificação por deficiência, e de subsídio mensal vitalício que satisfaçam as condições de atribuição da pensão social podem optar pelo direito a esta prestação.
