@@ -1,0 +1,6 @@
+Despacho Normativo n.º 326/81
+Considerando que se suscitam dúvidas na interpretação a dar ao disposto no artigo 20.º do Decreto-Lei n.º 290/75, de 14 de Junho, no que respeita ao regime a que deve ficar sujeito o serviço não docente que os professores são obrigados a prestar em resultado de, ao abrigo da referida disposição legal, terem sido dispensados, total ou parcialmente, das respectivas funções docentes:
+Ao abrigo do disposto no artigo 23.º do Decreto-Lei n.º 290/75, determina-se:
+1 - Ao serviço não lectivo que os docentes são obrigados a prestar em virtude de terem sido totalmente dispensados da prestação de funções docentes ao abrigo do disposto no artigo 20.º do Decreto-Lei n.º 290/75, de 14 de Junho, é aplicável o horário de serviço semanal vigente na função pública.
+2 - O horário de prestação de serviço não lectivo referido no número anterior é igualmente aplicável, em termos proporcionais, à redução parcial de serviço docente que vier a ser concedida ao abrigo do diploma acima citado.
+Ministérios da Educação e das Universidades e da Reforma Administrativa, 16 de Outubro de 1981. - O Ministro da Educação e das Universidades, Vítor Pereira Crespo. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
