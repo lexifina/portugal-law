@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que a Embaixada da Hungria em Lisboa enviou ao Ministério dos Negócios Estrangeiros uma nota verbal, datada de 15 de Dezembro de 1975, informando que a parte húngara dera já cumprimento às formalidades constitucionais relativas à elaboração e entrada em vigor do Acordo de Transportes Aéreos entre o Governo de Portugal e o Governo da República Popular da Hungria, assinado em Lisboa em 22 de Maio de 1975 e publicado no Diário do Governo, 1.ª série, n.º 271, de 22 de Novembro de 1975, em resposta a uma nota verbal deste Ministério, datada de 12 de Dezembro de 1975, que informou estarem cumpridas aquelas formalidades pela parte portuguesa.
+Assim, e em conformidade com as disposições do seu artigo 19, o referido Acordo entrou em vigor no dia 15 de Dezembro de 1975.
+Direcção-Geral dos Negócios Económicos, 22 de Janeiro de 1976. - O Director-Geral-Adjunto, Fernando Manuel da Silva Marques.
