@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1924/04/08700/05570557.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1924-04-21",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "253e9e680cf5ead6a5997150251e8ec386c51c21c475fad57d6441a023187a0d",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each page read whole (Tesseract page layout)",
+    "agreement_pct": 99.8,
+    "pages": 1,
+    "columns": [
+      5
+    ],
+    "pdf_sha256": "fee2e704a6708b90829b24ded774f2bb20faf96a43da8d8aef0690ec5e7b13e2",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 133
 }
