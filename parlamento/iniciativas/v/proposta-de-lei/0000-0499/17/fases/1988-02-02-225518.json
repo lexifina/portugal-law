@@ -1,0 +1,2802 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "17",
+    "id": "29219",
+    "titulo": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1988-02-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "4950",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1988-02-02",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1988-02-02",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANÇAS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Miguel Cadilhe"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210266",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1560-1561",
+                  "1562-1563"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1560?pgs=1560-1561,1562-1563&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210267",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1561-1561"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1561?pgs=1561&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210268",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1561-1562"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1561?pgs=1561-1562&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210269",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1562-1562"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1562?pgs=1562&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210270",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1563-1565",
+                  "1565-1566",
+                  "1566-1566"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1563?pgs=1563-1565,1565-1566,1566&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210271",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1565-1565"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1565?pgs=1565&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210272",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1565-1565",
+                  "1566-1566"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1565?pgs=1565,1566&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210273",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1567-1568",
+                  "1570-1571"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1567?pgs=1567-1568,1570-1571&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210274",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1568-1569"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1568?pgs=1568-1569&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210275",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1569-1569"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1569?pgs=1569&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210276",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1569-1569",
+                  "1569-1570"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1569?pgs=1569,1569-1570&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210277",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1569-1569",
+                  "1571-1571"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1569?pgs=1569,1571&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210278",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1569-1569",
+                  "1571-1571"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1569?pgs=1569,1571&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210279",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1571-1571"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1571?pgs=1571&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210280",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1571-1571"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1571?pgs=1571&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210281",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1571-1572"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1571?pgs=1571-1572&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210282",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1572-1572"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1572?pgs=1572&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210283",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1572-1572"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1572?pgs=1572&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANÇAS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Miguel Cadilhe"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210284",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1572-1573"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1572?pgs=1572-1573&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210285",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1573-1573"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1573?pgs=1573&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210286",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1574-1574",
+                  "1574-1574"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1574?pgs=1574,1574&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210288",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1574-1574",
+                  "1574-1574"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1574?pgs=1574,1574&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "António Capucho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210289",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1574-1574"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1574?pgs=1574&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210290",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1574-1574"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1574?pgs=1574&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210291",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1574-1575"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1574?pgs=1574-1575&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210292",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1575-1575"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1575?pgs=1575&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210293",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1575-1575"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1575?pgs=1575&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210294",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1575-1575"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1575?pgs=1575&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210295",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1575-1575"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1575?pgs=1575&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210296",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1575-1575"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1575?pgs=1575&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210297",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1575-1575"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1575?pgs=1575&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210298",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1575-1575"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1575?pgs=1575&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210299",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1575-1575"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1575?pgs=1575&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210300",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1575-1576"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1575?pgs=1575-1576&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210301",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1576-1576",
+                  "1576-1576",
+                  "1577-1577"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1576?pgs=1576,1576,1577&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANÇAS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Miguel Cadilhe"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210302",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1576-1576",
+                  "1576-1576"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1576?pgs=1576,1576&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210303",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1577-1577"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1577?pgs=1577&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANÇAS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Miguel Cadilhe"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210304",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1577-1577",
+                  "1577-1577"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1577?pgs=1577,1577&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210305",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1577-1577",
+                  "1577-1577"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1577?pgs=1577,1577&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210306",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1577-1577"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1577?pgs=1577&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANÇAS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Miguel Cadilhe"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210307",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1577-1578"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1577?pgs=1577-1578&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210308",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1578-1578"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1578?pgs=1578&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANÇAS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Miguel Cadilhe"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210309",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1578-1578",
+                  "1578-1578",
+                  "1578-1578",
+                  "1578-1578",
+                  "1578-1578"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1578?pgs=1578,1578,1578,1578,1578&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210310",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1578-1578",
+                  "1578-1578",
+                  "1578-1578",
+                  "1578-1578"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1578?pgs=1578,1578,1578,1578&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210311",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1578-1578"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1578?pgs=1578&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210312",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1578-1578"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1578?pgs=1578&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "António Capucho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210313",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1578-1578"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1578?pgs=1578&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210314",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1579-1580",
+                  "1583-1583"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1579?pgs=1579-1580,1583&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210315",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1582-1582"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1582?pgs=1582&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANÇAS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Miguel Cadilhe"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210316",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1580-1581"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1580?pgs=1580-1581&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210317",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1582-1583"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1582?pgs=1582-1583&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210318",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1581-1581"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1581?pgs=1581&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210319",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1581-1581"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1581?pgs=1581&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210320",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1581-1581",
+                  "1581-1581"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1581?pgs=1581,1581&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210321",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1581-1581",
+                  "1581-1582"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1581?pgs=1581,1581-1582&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANÇAS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Miguel Cadilhe"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210322",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1582-1582"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1582?pgs=1582&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210323",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1583-1583"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1583?pgs=1583&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210324",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1583-1583"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1583?pgs=1583&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "António Capucho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210325",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1583-1584",
+                  "1584-1584"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1583?pgs=1583-1584,1584&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210326",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1584-1584",
+                  "1584-1584",
+                  "1584-1584"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1584?pgs=1584,1584,1584&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210327",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1584-1584"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1584?pgs=1584&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210328",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1584-1585"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1584?pgs=1584-1585&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "14:15",
+            "horaTermo": "21:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "210329",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1585-1585",
+                  "1585-1585"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-02-03",
+                "pubLeg": "V",
+                "pubNr": "47",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03/1585?pgs=1585,1585&org=PLC"
+              }
+            ],
+            "sumario": "Revê o regime de participações do sector público e procede à concentração dos principios gerais a ele relativos",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "225518",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "4950",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-02-03",
+        "pubLeg": "V",
+        "pubNr": "47",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/047/1988-02-03?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
