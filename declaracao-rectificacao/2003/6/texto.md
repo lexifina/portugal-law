@@ -1,0 +1,3 @@
+Declaração de Rectificação n.º 6/2003
+Tendo-se verificado que foi indevidamente publicada a Declaração n.º 2/2003, que publica os mapas I a IX a que se refere o artigo 49.º da Lei n.º 91/2001, de 20 de Agosto, republicada pela Lei n.º 2/2002, de 28 de Agosto, modificados em virtude das alterações efectuadas até 31 de Março, respeitantes ao Orçamento do Estado de 2003, no Diário da República, 1.ª série, n.º 101, de 2 de Maio de 2003, cujo original se encontra arquivado nesta Secretaria-Geral, é dada sem efeito a referida declaração.
+Secretaria-Geral da Presidência do Conselho de Ministros, 2 de Maio de 2003. - O Secretário-Geral, José M. Sousa Rego.
