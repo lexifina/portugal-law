@@ -1,0 +1,10 @@
+Portaria n.º 1006/81
+de 24 de Novembro
+Manda o Governo da República Portuguesa, pelo Secretário de Estado das Finanças, ao abrigo do artigo 10.º do Decreto-Lei n.º 211/79, de 11 de Julho, o seguinte:
+1.º Fica autorizada a celebração de um contrato entre a Junta do Crédito Público e a firma Thomson Mclintock & Company, para avaliação patrimonial das empresas rodoviárias conhecidas pela designação de Grupo Claras, nacionalizadas pelo Decreto-Lei n.º 280-C/75, de 5 de Junho, abrangendo todas as discriminadas na alínea b) do n.º 1 do seu artigo 1.º
+2.º O preço previsto no contrato será de 2500000$00, sendo suportado pelas dotações para despesas com serviços da dívida pública atribuídas à Junta do Crédito Público e não poderá exceder as seguintes quantias em cada ano:
+1981 - 900000$00;
+1982 - 1600000$00.
+3.º À quantia fixada para o ano de 1982 acrescerá o saldo apurado no ano antecedente.
+4.º A presente portaria entra em vigor na data da sua publicação.
+Secretaria de Estado das Finanças, 10 de Novembro de 1981. - O Secretário de Estado das Finanças, José Cândido Sousa Carrasca Robin de Andrade.
