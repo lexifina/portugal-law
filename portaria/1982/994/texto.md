@@ -1,0 +1,5 @@
+Portaria n.º 994/82
+de 22 de Outubro
+Tendo em consideração o disposto no artigo 14.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, e no n.º 1 do artigo 13.º do Decreto-Lei n.º 180/80, de 3 de Junho:
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros da Agricultura, Comércio e Pescas e da Reforma Administrativa, criar no quadro de pessoal do Ministério da Agricultura, Comércio e Pescas 1 lugar de assessor, letra C, o qual será extinto quando vagar, e que se destina ao técnico que vinha exercendo, em comissão de serviço, o cargo de director de serviços de Administração da Direcção Regional de Agricultura do Algarve.
+Ministérios das Finanças e do Plano, da Agricultura, Comércio e Pescas e da Reforma Administrativa, 1 de Outubro de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Agricultura, Comércio e Pescas, Basílio Adolfo Mendonça Horta da Franca. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
