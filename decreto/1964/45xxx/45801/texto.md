@@ -1,0 +1,9 @@
+Decreto n.º 45801
+Tendo surgido dúvidas acerca da linha divisória entre as freguesias de Alqueidão e Paião, do concelho da Figueira da Foz, estabelecida pelo artigo 3.º do Decreto n.º 15287, de 30 de Março de 1928, na zona onde se situa a povoação do Casal Verde;
+Considerando as conclusões do estudo a que se procedeu acerca do assunto e os pareceres emitidos pela Câmara Municipal do referido concelho, pela Junta Distrital e pelo governador civil de Coimbra;
+Tendo em vista o disposto no n.º 3.º do artigo 12.º do Código Administrativo;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º A delimitação entre as freguesias de Alqueidão e Paião, do concelho da Figueira da Foz, junto à povoação do Casal Verde, é definida por uma linha que acompanha a estrada municipal n.º 622, proveniente de Asseiçó, até ao ponto em que a mesma atinge a estrada nacional n.º 341; segue, para poente, pelo eixo desta via até à bifurcação existente junto à frontaria da capela do Casal Verde, que contorna por sudoeste; inflecte, depois, sensìvelmente para nor-nordeste, pelo eixo da estrada municipal para Alqueidão, derivando, percorridos cerca de 100 m, para oes-sudoeste, pelo eixo do caminho que passa junto da casa de Carlos Mendes e segue para a Fonte da Salgueira; daqui continua, acompanhando a linha de água ali existente, em direcção às motas de Paião e da Lezíria.
+Art. 2.º A Câmara Municipal da Figueira da Foz procederá, no prazo de 90 dias, à colocação de marcos onde se tornem necessários, de modo ficarem bem patentes os limites fixados no artigo anterior.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 8 de Julho de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior.
