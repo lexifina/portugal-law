@@ -1,0 +1,3 @@
+Portaria n.º 18018
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio, que as diferenças correspondentes à elevação do preço do azeite, relativas às existências em poder dos armazenistas, exportadores e refinadores, a que se refere o n.º 11.º da Portaria n.º 17393, de 14 de Outubro de 1959, revertam a favor da Junta Nacional do Azeite, com vista à satisfação de encargos com a edificação e o apetrechamento da Estação Nacional de Olivicultura, através do Fundo Corporativo da Olivicultura.
+Ministério da Economia, 21 de Outubro de 1960. - Pelo Secretário de Estado do Comércio, João Augusto Dias Rosas, Subsecretário de Estado do Comércio.
