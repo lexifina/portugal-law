@@ -1,0 +1,10 @@
+Portaria n.º 849/2004
+de 19 de Julho
+Pela Portaria n.º 640-X1/94, de 15 de Julho, foi concessionada à ALMOFALA - Caça e Turismo, Lda., a zona de caça turística da Herdade das Talasnas e outras (processo n.º 1652-DGRF), situada no município da Chamusca, válida até 14 de Julho de 2004.
+Entretanto, a entidade concessionária veio requerer a sua renovação.
+Cumpridos os preceitos legais, com fundamento no disposto no n.º 8 do artigo 44.º, em articulação com o disposto na alínea a) do n.º 2 do artigo 36.º, do Decreto-Lei n.º 227-B/2000, de 15 de Setembro, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 338/2001, de 26 de Dezembro, e ouvido o Conselho Cinegético Municipal:
+Manda o Governo, pelos Ministros da Economia e da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:
+1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça turística da Herdade das Talasnas e outras (processo n.º 1652-DGRF), abrangendo os prédios rústicos denominados «Herdades das Talasnas, Caneira e Foz d'Almofala, Marmeleiro e Vale da Oliveira», sitos na freguesia de Chouto, município da Chamusca, com a área de 3553 ha.
+2.º A Direcção-Geral do Turismo emitiu, ao abrigo do disposto no n.º 3 do artigo 34.º do citado diploma, parecer favorável condicionado à aprovação do projecto de arquitectura do pavilhão de caça, apresentado em 2 de Fevereiro de 2004, à conclusão da obra no prazo de 12 meses a contar da data de notificação da aprovação do projecto, à verificação da conformidade da obra com o projecto aprovado e à legalização do alojamento previsto, caso seja afecto à exploração turística, fazendo prova junto da DGT de tal facto.
+3.º A presente portaria produz efeitos a partir do dia 15 de Julho de 2004.
+Pelo Ministro da Economia, Luís Manuel Miguel Correia da Silva, Secretário de Estado do Turismo, em 30 de Junho de 2004. - Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, João Manuel Alves Soares, Secretário de Estado das Florestas, em 25 de Junho de 2004.
