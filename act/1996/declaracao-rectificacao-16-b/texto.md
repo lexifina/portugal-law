@@ -1,0 +1,7 @@
+Declaração de Rectificação n.º 16-B/96
+Para os devidos efeitos se declara que o Decreto-Lei n.º 202/96, publicado no Diário da República, 1.ª série, n.º 246, de 23 de Outubro de 1996, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 2.º, n.º 2, alínea a), onde se lê «O delegado sub-regional de saúde, que presidirá;» deve ler-se «O adjunto do delegado regional de saúde, que presidirá;».
+Na alínea b), onde se lê «Dois vogais efectivos e dois vogais suplentes, designados pelo delegado regional de saúde, de entre os delegados de saúde ou seus adjuntos.» deve ler-se «Dois vogais efectivos e dois vogais suplentes, designados pelo delegado regional de saúde, de entre os delegados concelhios de saúde ou seus adjuntos.».
+No artigo 3.º, n.º 1, onde se lê «Os requerimentos de avaliação de incapacidade são dirigidos ao adjunto do delegado regional de saúde e entregues ao delegado de saúde da residência habitual dos interessados,» deve ler-se «Os requerimentos de avaliação de incapacidade são dirigidos ao adjunto do delegado regional de saúde e entregues ao delegado concelhio de saúde».
+No n.º 2, onde se lê «O delegado de saúde» deve ler-se «O delegado concelhio de saúde».
+Secretaria-Geral da Presidência do Conselho de Ministros, 29 de Novembro de 1996. - Pelo Secretário-Geral, a Directora dos Serviços de Apoio Técnico, Iolanda Oliveira.
