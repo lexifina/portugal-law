@@ -1,0 +1,25 @@
+Portaria n.º 18462
+Convindo, de harmonia com o disposto no artigo 8.º do Decreto-Lei n.º 42073, de 31 de Dezembro de 1958, fixar as unidades das tropas pára-quedistas estacionadas na área da 1.ª região aérea, assim como as suas designações, localização, organização, efectivos e dependência:
+Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, que se observe o seguinte:
+1) As unidades referidas no mesmo artigo 8.º constituem um regimento de caçadores pára-quedistas, localizado em Tancos.
+2) O regimento referido em 1) compreende:
+a) Órgãos de comando, administração e manutenção:
+Um comando.
+Uma secretaria, secção de justiça e arquivo.
+Um conselho administrativo.
+Uma companhia de pessoal.
+Uma companhia de material e infra-estruturas.
+b) Órgãos de recrutamento e mobilização:
+Um centro de recrutamento e mobilização.
+c) Unidades de instrução:
+Um batalhão de instrução.
+d) Unidades de combate:
+O batalhão de caçadores pára-quedistas n.º 11.
+3) O organigrama e os efectivos do mesmo regimento serão fixados por despacho do Subsecretário de Estado da Aeronáutica.
+4) O regimento de caçadores pára-quedistas depende da Direcção do Serviço de Recrutamento e Instrução da Força Aérea.
+O conselho administrativo subordina-se, do ponto de vista técnico, ao director do serviço de Intendência e Contabilidade da Força Aérea. A companhia de pessoal subordina-se, do ponto de vista técnico e para os assuntos relativos à saúde, ao director do Serviço de Saúde da Força Aérea. A companhia de material e infra-estruturas subordina-se, do ponto de vista técnico e para os assuntos relativos a material e infra-estruturas, respectivamente, aos directores do Serviço de Material e de Infra-Estruturas da Força Aérea.
+5) O batalhão de caçadores pára-quedistas n.º 11 ou elementos seus são postos, para emprego em exercícios ou manobras e em guerra, à disposição dos comandos das regiões ou zonas aéreas.
+Por sua vez, estes comandos podem colocar aquele batalhão ou elementos:
+Para apoio logístico, na dependência de comandos de forças terrestres;
+Para operações, à disposição de comandos operacionais responsáveis pelo emprego conjunto de meios terrestres, navais e aéreos ou de comandos de forças terrestres.
+Presidência do Conselho, 5 de Maio de 1961. - Pelo Ministro da Defesa Nacional, Kaulza Oliveira de Arriaga, Subsecretário de Estado da Aeronáutica.
