@@ -1,0 +1,35 @@
+# Acórdão do Tribunal Central Administrativo Sul de 1999-06-15, processo 00715/98
+
+**Acórdãos TCAS:** Acórdão do Tribunal Central Administrativo Sul
+
+**Processo:** 00715/98
+
+**Secção:** Secção do Contencioso Tributário - Tribunal Central Administrativo
+
+**Data do Acordão:** 06/15/1999
+
+**Relator:** Cristina Santos
+
+**Descritores:** FALTA OU IRREGULARIDADE
+
+**Aditamento:** 1
+
+## Sumário
+
+l. É doutrina assente em direito adjectivo que a falta ou nulidade da citação em processo de
+
+execução - art°s. 195° e 198° CPC - apenas podem ser arguídas neste mesmo processo e, por isso, são insusceptíveis de fundamentar a causa de pedir da oposição;
+
+2. A falta ou nulidade da citação do executado para a acção condenatória em que foi proferida a
+
+sentença exequenda constituem fundamentos privativos dos embargos da execução de sentença - art° 813° e) CPC;
+
+3. A falta ou nulidade da citação do executado para a própria acção executiva constitui regime especial e incidental de anulação da execução, a arguir a todo o tempo e nos próprios autos - art° 921° CPC;
+
+4. A remissão do art° 2° f) CPT para o preceituado no CPC em tudo quanto não venha especificamente estabelecido naquele Diploma, conjugada com os fundamentos taxativos de oposição do art° 286° CPT - que compreende todos os fundamentos que a natureza do título não exclua - impõe que a falta ou nulidade da citação para a acção executiva fiscal é, sempre e apenas, caso de reclamação nesse mesmo processo.
+
+5. Neste tipo de acções, o título executivo corresponde à causa de pedir, na medida em que
+
+consubstancia o facto genético do direito do exequente a exigir do executado a prestação que nele se incorpora.
+
+6. Inexistindo causa petendi por via da falta de título, todo o processado será nulo - art° 193° n° l e 2 a), ex vi art° 801° do CPC - nulidade a invocar nos próprios autos de execução por reclamação junto do chefe da repartição de finanças seguida, em caso de eventual despacho que lhe dê cobertura, de recurso judicial para o Tribunal Tributário de 1a Instância, nos termos do art° 355° CPT.
