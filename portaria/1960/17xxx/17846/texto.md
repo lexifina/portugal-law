@@ -1,0 +1,14 @@
+Portaria n.º 17846
+Manda o Governo da República Portuguesa, pelos Ministros da Defesa Nacional, do Interior, do Exército e da Marinha e com referência ao Decreto-Lei n.º 42510, de 18 de Setembro de 1959, publicar o seguinte:
+1.º O inspector das bandas e fanfarras das forças militares e das forças militarizadas presta serviço no Secretariado-Geral da Defesa Nacional, por onde é abonado dos seus vencimentos, mas continua a pertencer ao ramo das forças armadas da sua origem, na situação que for designada pelo respectivo titular da pasta ou pelo Subsecretário de Estado da Aeronáutica.
+2.º No caso de se tornar necessária a publicação de diploma legal para regular aquela situação, as providências que forem requeridas para o efeito serão promovidas pelo Ministério interessado ou pelo Subsecretariado de Estado da Aeronáutica, tendo em atenção que o referido inspector prestará serviço no Secretariado-Geral da Defesa Nacional, em princípio, até à sua passagem à reserva.
+3.º O inspector das bandas e fanfarras das forças militares e das forças militarizadas, no caso de igualdade de posto com o chefe de banda da Armada, deverá, por motivo das suas funções, ser sempre considerado hieràrquicamente superior a este último.
+4.º Ao referido inspector, que desempenha as suas funções sempre por intermédio da 1.ª Repartição do Secretariado-Geral da Defesa Nacional, compete:
+a) Estudar e dar parecer técnico sobre os assuntos da sua especialidade ou à mesma ligados;
+b) Elaborar as instruções que se tornem necessárias para a uniformidade dos respectivos preceitos musicais a serem executados pelas bandas e fanfarras a que alude a presente portaria;
+c) Orientar a execução técnica destes preceitos e a elaboração dos respectivos programas, com vista a ser possibilitada, sempre que necessária e o mais breve possível, a reunião de duas ou mais bandas ou de duas ou mais fanfarras;
+d) Assumir, quando for julgada conveniente, a regência de qualquer das mencionadas bandas ou de duas ou mais bandas;
+e) Propor tudo o que julgar conveniente para melhorar o nível artístico das referidas bandas e fanfarras;
+f) Elaborar as instruções que se tornem necessárias para a uniformidade dos preceitos que devem ser seguidos na instrução de canto coral das escolas de recrutas, em qualquer ramo das forças armadas, definindo também os cânticos e os hinos que devem ser ensinados e executados naquela instrução;
+g) Fazer parte, como membro nato, dos júris dos exames para subchefes e chefes das bandas das forças militares e das forças militarizadas.
+Presidência do Conselho e Ministérios do Interior, do Exército e da Marinha, 22 de Julho de 1960. - O Ministro da Defesa Nacional, Júlio Carlos Alves Dias Botelho Moniz. - O Ministro do Interior, Arnaldo Schulz. - O Ministro do Exército, Afonso Magalhães de Almeida Fernandes. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.
