@@ -1,0 +1,4 @@
+Despacho ministerial
+Vencendo-se em 6 do corrente as promissórias de fomento nacional n.os 1 e 2 da 19.ª emissão do Fundo de Fomento Nacional, no valor de 39600000$00, e n.º 3 da 20.ª emissão do mesmo Fundo, no valor de 10000000$00, e estando prevista uma amortização de 4700000$00 em conta daquelas promissórias, fica a Direcção-Geral da Fazenda Pública autorizada, nos termos dos artigos 23.º e 24.º do Decreto-Lei n.º 42946, de 27 de Abril de 1960, a fazer a emissão de uma nova promissória do montante de 44900000$00 em substituição daquelas.
+O novo título vencerá o juro anual de 3 por cento, vencível em 6 de Janeiro e 6 de Julho de cada ano, sendo o prazo do seu reembolso de cinco anos a partir da data da sua emissão.
+Ministério das Finanças, 5 de Julho de 1963. - O Ministro das Finanças, António Manuel Pinto Barbosa.
