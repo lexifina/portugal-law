@@ -17,9 +17,26 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1951/07/15900/06330638.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1951-07-30",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "144c48674d38517b9ce2539dcc1b436871d6f5350e17e00585ee8eb2de6bd878",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.1,
+    "pages": 6,
+    "columns": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "pdf_sha256": "92dccdfcda50fbc23bebaee10916c1a9c41c354d4b38451e4be4802518ffa256",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 4752
 }
