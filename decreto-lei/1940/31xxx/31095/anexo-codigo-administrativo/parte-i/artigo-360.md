@@ -4,7 +4,7 @@ As obras serão de preferência feitas por empreitada e, em todos os casos, prec
 
 § 1.º Poderão ser feitas por administração directa:
 
-1.º As obras municipais e distritais cujo valor não exceda 250 contos ou, em Lisboa e no Porto, 500 contos, e as paroquiais de valor inferior a 50 contos;
+1.º As obras municipais e distritais cujo valor não exceda 500 contos, ou, em Lisboa e no Porto, 1000 contos, e as paroquiais de valor inferior a 100 contos.
 
 2.º As obras de construção e grande reparação, quando haja extrema urgência;
 
