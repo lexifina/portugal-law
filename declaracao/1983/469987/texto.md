@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Ministério do Comércio e Turismo, a Resolução da Presidência do Conselho de Ministros n.º 51/83, publicada no Diário da República, 1.ª série, n.º 250, de 29 de Outubro de 1983, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No final do 2.º parágrafo, onde se lê «um obstáculo à organização dos produtos perante o mercado» deve ler-se «um obstáculo à organização dos produtores perante o mercado»; no 3.º parágrafo, onde se lê «auto-organização dos produtos agrícolas» deve ler-se «auto-organização dos produtores agrícolas», e no 4.º parágrafo, onde se lê «e uma revolução prudente a partir das actuais estruturas» deve ler-se «e uma evolução prudente a partir das actuais estruturas».
+Secretaria-Geral da Presidência do Conselho de Ministros, 8 de Novembro de 1983. - O Secretário-Geral, França Martins.
