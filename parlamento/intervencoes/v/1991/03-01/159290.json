@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jICRzj3KB1Bmg3m8DVSHnpi8rXpapb3j4jMO5BtN2LbfPF3esMoTH6fDrsMuFJ9lPAZvTPAWxS9PFAt7bzMiuI04fWuRpEaIxl4mcW%2fcx1acNCntIvb5NLRRHaPebnKKry6IchvGghYnV5lkvxQk495hFB7swBEB4rvnhCoTOeXflL%2foNK7o0b4dy592StEdZmQVtVkruElsfWncCV%2b%2bpavK9g3VZy%2bP4cmQ40z%2f0a69tQcMqoIjKHap%2bFpAkJMgbKcIQykqLjBLupnXrNjLuRZ30Ox0rp%2fdoXYbf5r3SXm4%2fEbMutFiFUX0sUvjGKIZ7ZqNfVf38E4D2PhkYxEZx9pZ7GwemaRdvkVkJ4JulFaJGzWdDjdFCx4KRpH%2bqN7s&fich=IntervencoesV_json.txt&Inline=true",
+  "ficheiro_sha256": "e07157b1d50033e077d4f054f931a3450edfcc0fcd53456e529928b3d3af1eae",
+  "legislatura": "V",
+  "id": "159290",
+  "tipo": "Intervenção",
+  "orador": "Nogueira de Brito (CDS)",
+  "data_registo": "1991-03-01",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "79968",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "27119",
+        "tipo": "INI",
+        "titulo": "Ratificação - Decreto-lei nº 245/90, de 27 de Julho, que estabelece o regime jurídico dos serviços locais de segurança social"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "27115",
+        "tipo": "INI",
+        "titulo": "Ratificação - Decreto-lei nº 246/90, de 27 de Julho, que altera o Regime Jurídico das Casas do Povo, no sentido de garantir a sua autonomia institucional. Revoga diversas normas dos Decretos-leis nºs 4/81 e 185/85, respectivamente de 11 de Janeiro e 29 de Maio"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1991-03-01",
+    "Debate": "RAT n.º 139/V/3; RAT n.º 142/V/4",
+    "Deputados": {
+      "GP": "CDS",
+      "idCadastro": "226",
+      "nome": "Nogueira de Brito"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "159290",
+    "IdDebate": "3776",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "V",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "159290",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "1592-1595"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1991-03-02",
+        "pubLeg": "V",
+        "pubNr": "49",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/049/1991-03-02/1592?pgs=1592-1595&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "Responde ao Secretário de Estado da Segurança Social Vieira de Castro.",
+    "Sessao": "4",
+    "Sumario": "Decreto-lei nº 246/90, de 27 de Julho, que altera o Regime Jurídico das Casas do Povo, no sentido de garantir a sua autonomia institucional (Revoga diversas normas dos Decretos-leis nºs 4/81 e 185/85, respectivamente de 11 de Janeiro e 29 de Maio); Decreto-lei nº 245/90, de 27 de Julho, que estabelece o regime jurídico dos serviços locais de segurança social",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
