@@ -1,0 +1,3 @@
+Rectificação n.º 2/93
+Por terem sido publicados com inexactidão os Decretos do Presidente da República n.os 61/92 e 62/92, publicados no Diário da República, n.º 300, de 30 de Dezembro de 1992, rectifica-se que onde se lê «pela Resolução da Assembleia da República n.º 37/92, em 3 de Dezembro de 1992» e «pela Resolução da Assembleia da República n.º 38/92, em 3 de Dezembro de 1992» deve ler-se «pela Resolução da Assembleia da República n.º 37/92, em 3 de Novembro de 1992» e «pela Resolução da Assembleia da República n.º 38/92, em 3 de Novembro de 1992».
+Secretaria-Geral da Presidência da República, 6 de Janeiro de 1993. - Pelo Secretário-Geral, António José Rodrigues.
