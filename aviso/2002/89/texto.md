@@ -1,0 +1,5 @@
+Aviso n.º 89/2002
+Por ordem superior se torna público que, em 16 de Fevereiro de 2001, foi emitida uma nota verbal pelo Ministério das Finanças da Índia em que se comunica terem sido cumpridas as formalidades constitucionais internas de aprovação do Acordo sobre a Promoção e a Protecção Recíprocas de Investimentos entre a República Portuguesa e a República da Índia, assinado em Lisboa em 28 de Junho de 2000, e que, em 19 de Junho de 2002, o Ministério dos Negócios Estrangeiros português remeteu uma nota verbal à Embaixada da Índia em Lisboa, dando conhecimento do cumprimento de idênticas formalidades pela parte portuguesa.
+Por parte de Portugal, o referido Acordo foi aprovado pela Resolução da Assembleia da República n.º 20/2002, publicada no Diário da República, 1.ª série-A, n.º 68, de 21 de Março de 2002.
+Nos termos do n.º 1 do artigo 15.º do Acordo, o mesmo entrou em vigor no dia 19 de Julho de 2002.
+Direcção-Geral das Relações Bilaterais, 12 de Setembro de 2002. - O Director-Geral, Manuel Nuno Tavares de Sousa.
