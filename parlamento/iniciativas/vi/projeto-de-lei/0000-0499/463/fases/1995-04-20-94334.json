@@ -1,0 +1,418 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=6tRSrsS472KL0pihrbeU3Juv4E5ApzTlkuIJMDYc5d38v4XsZgYhKVB7Ayr7k6BD7ZNRnhu1uQv2nCwvvkoyXJgfHcd33Rt69gnnqGDLZ7jjDe9WHr1ZOrkFyZHrN%2bdvof6dUKIxE5Wasjk0TQFMyoX%2fKDcVSYqW4xooRfuNYiYxRnpgxINjnNAVq18dgakPF%2fXopgVWi9%2fPK8k2cZ5tRjc%2bd8zO7m6xWvdsbeUHkofo9FaMQ0PghWTFmLBF2ObMw8XQM9vXrZDGjYuCymHSoJrECXBxqIIzCmd0QdMQC5B6LWcA54XELbiVJgZxukznf%2fhdJzQ3jKe6Egx9h%2fh5EH5FtypL9lWrfzDQfsf80Is%3d&fich=IniciativasVI_json.txt&Inline=true",
+  "ficheiro_sha256": "cb79e0745a8347d94ab476dc88937917b337689f6631b8b987a47bad388a33b7",
+  "legislatura": "VI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "463",
+    "id": "3422",
+    "titulo": "Alarga a todos os cidadãos a legitimidade para recorrer contenciosamente de certas categorias de actos da administração central, regional e local"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1995-04-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "109",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1995-04-20",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PSD",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "3351",
+        "leg": "VI",
+        "nr": "502",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "112",
+            "obs": null,
+            "pag": [
+              "2147-2159"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1995-04-21",
+            "pubLeg": "VI",
+            "pubNr": "65",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/065/1995-04-21/2147?pgs=2147-2159&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "112",
+            "obs": null,
+            "pag": [
+              "2147-2159"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1995-04-21",
+            "pubLeg": "VI",
+            "pubNr": "65",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/065/1995-04-21/2147?pgs=2147-2159&org=PLC"
+          }
+        ],
+        "sel": "4",
+        "tipo": "J",
+        "titulo": "Sobre o direito de participação procedimental e de acção popular"
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "3298",
+        "leg": "VI",
+        "nr": "531",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "112",
+            "obs": null,
+            "pag": [
+              "2147-2159"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1995-04-21",
+            "pubLeg": "VI",
+            "pubNr": "65",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/065/1995-04-21/2147?pgs=2147-2159&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "112",
+            "obs": null,
+            "pag": [
+              "2147-2159"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1995-04-21",
+            "pubLeg": "VI",
+            "pubNr": "65",
+            "pubSL": "4",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/065/1995-04-21/2147?pgs=2147-2159&org=PLC"
+          }
+        ],
+        "sel": "4",
+        "tipo": "J",
+        "titulo": "Confere a todos os cidadãos a legitimidade para recorrer contenciosamente de actos administrativos lesivos de interesses públicos"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1995-04-20",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "147",
+                "nome": "António de Almeida Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40071",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2155-2159"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-04-21",
+                "pubLeg": "VI",
+                "pubNr": "65",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/065/1995-04-21/2155?pgs=2155-2159&org=PLC"
+              }
+            ],
+            "sumario": "RECURSO CONTENCIOSO DE ACTOS ADMINISTRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40072",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2152-2154",
+                  "2159-2159"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-04-21",
+                "pubLeg": "VI",
+                "pubNr": "65",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/065/1995-04-21/2152?pgs=2152-2154,2159&org=PLC"
+              }
+            ],
+            "sumario": "RECURSO CONTENCIOSO DE ACTOS ADMINISTRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "134",
+                "nome": "Rui Machete"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40073",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2150-2152",
+                  "2154-2155"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-04-21",
+                "pubLeg": "VI",
+                "pubNr": "65",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/065/1995-04-21/2150?pgs=2150-2152,2154-2155&org=PLC"
+              }
+            ],
+            "sumario": "RECURSO CONTENCIOSO DE ACTOS ADMINISTRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "134",
+                "nome": "Rui Machete"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40126",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2149-2150"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-04-21",
+                "pubLeg": "VI",
+                "pubNr": "65",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/065/1995-04-21/2149?pgs=2149-2150&org=PLC"
+              }
+            ],
+            "sumario": "RECURSO CONTENCIOSO DE ACTOS ADMINISTRATIVOS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "143",
+                "nome": "Alberto Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "19:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40130",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2147-2150"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-04-21",
+                "pubLeg": "VI",
+                "pubNr": "65",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/065/1995-04-21/2147?pgs=2147-2150&org=PLC"
+              }
+            ],
+            "sumario": "RECURSO CONTENCIOSO DE ACTOS ADMINISTRATIVOS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "94334",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "105337",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1995-04-21",
+        "pubLeg": "VI",
+        "pubNr": "65",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/065/1995-04-21?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
