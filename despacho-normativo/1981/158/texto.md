@@ -1,0 +1,3 @@
+Despacho Normativo n.º 158/81
+Tendo em consideração o disposto no artigo 3.º do Decreto-Lei n.º 200-A/80, de 4 de Junho, e aplicando a norma estabelecida pela alínea b) do n.º 1 do artigo 3.º do Decreto-Lei n.º 204-A/79, de 3 de Julho, autoriza-se o aumento das gratificações dos agentes de fiscalização do Fundo de Socorro Social para 4000$00, desde Abril de 1980.
+Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa, 27 de Maio de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro dos Assuntos Sociais, Carlos Matos Chaves de Macedo. - O Ministro da Reforma Administrativa, Eusébio Marques de Carvalho.
