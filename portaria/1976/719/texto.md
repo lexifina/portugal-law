@@ -1,0 +1,27 @@
+Portaria n.º 719/76
+de 27 de Novembro
+Os preços máximos aprovados para os adubos têm-se reportado aos que foram definidos de conformidade com a Portaria n.º 517/74, de 19 de Agosto.
+De acordo com a Portaria n.º 527/75, de 29 de Agosto, e o Decreto-Lei n.º 606/75, de 3 de Novembro, vigoraram, desde 29 de Agosto de 1975, descontos à lavoura que representaram para o Fundo de Abastecimento, até 30 de Junho de 1976, um encargo da ordem dos 900000 contos.
+Considerando:
+Que se verificaram em 1974 e 1975 aumentos de custos, nomeadamente nos domínios da mão-de-obra, dos combustíveis, da energia eléctrica e de algumas matérias-primas que não são economicamente comportáveis pelas empresas produtoras;
+Que se deve visar o progressivo ajustamento dos preços dos adubos ao seu custo real;
+O Conselho de Ministros deliberou que:
+1.º Fossem aprovados preços máximos para os adubos equivalentes a um acréscimo de 20% em relação aos preços de venda ao consumidor aprovados em Agosto de 1974 para os adubos ensacados;
+2.º Fosse reduzido para 25%, em relação aos novos preços aprovados, o desconto de 30% que vinha a ser concedido em relação à tabela de Agosto de 1974, passando a ser aplicado à generalidade dos agricultores.
+Nestes termos:
+Ao abrigo do disposto na alínea b) do n.º 1 do artigo 13.º do Decreto-Lei n.º 329-A/74, de 10 de Julho:
+Manda o Governo da República Portuguesa, pelos Secretários de Estado do Comércio Interno e dos Transportes e Comunicações:
+1.º Os preços máximos de venda de adubos ao consumidor são os seguintes:
+(ver documento original)
+2.º Os preços máximos fixados referem-se a adubo destinado ao consumo no continente, colocado na estação do destino, quando transportado por caminho de ferro, ou nos depósitos dos revendedores, quando transportado por camionagem, e a adubo a consumir nos Açores e na Madeira, colocado sobre camião nos cais dos portos destes arquipélagos, quando expedido do continente.
+3.º - 1. Os preços máximos de venda ao consumidor poderão ser onerados com:
+a) Os encargos inerentes ao transporte desde as estações de destino ou cais de desembarque nas ilhas adjacentes ao armazém do revendedor, quando devidamente autorizados pela Direcção-Geral da Fiscalização Económica;
+b) Os maiores custos de embalagem, nos casos em que, a pedido do comprador, os adubos sejam acondicionados num tipo de saco diferente daquele a que se refere o n.º 1.º desta portaria;
+c) Os encargos financeiros resultantes das vendas a prazo.
+2. Qualquer destes encargos adicionais deverá constar de forma expressa nas facturas.
+4.º Mantêm-se as margens comerciais, em valor absoluto, em vigor.
+5.º Nos preços máximos de venda ao consumidor está incluída a verba de 165$00 por tonelada, para transportes.
+6.º O transporte dos adubos para distâncias superiores a 50 km das fábricas ou dos locais de importação será feito por caminho de ferro, só podendo deixar de o ser por acordo prévio entre os distribuidores e a Companhia dos Caminhos de Ferro Portugueses (CP).
+7.º Quando se verifique infracção ao disposto no número anterior, as empresas distribuidoras serão obrigadas ao pagamento da importância de 165$00 à CP por tonelada transportada.
+8.º Esta portaria entra imediatamente em vigor.
+Secretarias de Estado do Comércio Interno e dos Transportes e Comunicações, 12 de Novembro de 1976. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves. - O Secretário de Estado dos Transportes e Comunicações, António Machado Rodrigues.
