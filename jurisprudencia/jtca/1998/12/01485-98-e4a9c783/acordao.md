@@ -1,0 +1,43 @@
+# Acórdão do Tribunal Central Administrativo Sul de 1998-12-10, processo 01485/98
+
+**Acórdãos TCAS:** Acórdão do Tribunal Central Administrativo Sul
+
+**Processo:** 01485/98
+
+**Secção:** Secção do Contencioso Administrativo - Tribunal Central Administrativo
+
+**Data do Acordão:** 12/10/1998
+
+**Relator:** António São Pedro
+
+**Descritores:** ACÇÃO PARA RECONHECIMENTO DE DIREITOS; INTERESSE EM AGIR; CUMULAÇÃO ILEGAL DE PEDIDOS
+
+**Aditamento:** 1
+
+## Sumário
+
+1. O artigo 69°, n.° 2 da LPTA, permite a acção para reconhecimento de direitos ou interesses legítimos
+
+( i) nos casos em que não exista um verdadeiro acto administrativo (incluindo a generalidade dos casos de indeferimento tácito); e
+
+(ii) quando o acto administrativo seja nulo (designadamente nos casos mais graves de nulidade -
+
+inexistência). Não é permitida a acção de reconhecimento de direitos ou interesses legítimos quando
+
+através da mesma se ponha em causa o respeito pelo caso decidido ou a discricionariedade quanto ao mérito das decisões administrativas.
+
+2. O interesse em agir, ou interesse processual, exprime a necessidade que o autor ou requerente deve ter no uso de um concreto meio processual (ou incidente autónomo). Não vem directamente regulado na lei processual, mas tem afloração em diversos institutos, nomeadamente, nos artigos 449, n.° l e 2, 287, e) e 662°, n.° l e 3 do Código Processo nº. Civil. Fora dos casos expressamente previstos, e onde não existe cominação legal para a falta de interesse em litigar (ou em litigara), não pode qualificar-se a falta de interesse em agir como falta de um pressuposto processual, que obsta ao conhecimento do mérito.
+
+Deve, sim, recorrer-se à analogia com as situações equiparadas e expressamente previstas. E a
+
+construir-se uma regra geral, deve aceitar-se apenas o princípio de que o uso de processo ainda sem. ou já sem litigio deve gerar a condenação do autor em custas e nos honorários do advogado da parte
+
+contrária ( cfr art 662°, n.° 3 do C. Processo nº. Civil)
+
+3. Fora do âmbito de aplicação do artigo 69°, n ° 2 da LPTA ( e dos demais casos expressamente
+
+previstos na lei) a falta de interesse processual não obstará, assim, necessariamente, ao conhecimento de mérito, impondo, em regra, a apreciação do pedido e condenação do autor em custas.
+
+4. O funcionário de uma Junta de Freguesia tem manifesto interesse em que o tempo de serviço (seu e
+
+dos seus colegas) seja contado na forma legal. Esse interesse é afectado ( turbado) se a Administração praticar actos inválidos que se repercutam sobre a contagem desse tempo de serviço (seu ou dos seus colegas)
