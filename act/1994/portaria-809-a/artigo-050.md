@@ -8,12 +8,10 @@ i) Grau de deficiência estrutural da região;
 
 ii) Potencial de desenvolvimento sócio-económico;
 
-iii) Existência de bases de planeamento;
+iii) Condicionantes à elaboração do projecto;
 
-iv) Acções que transitam do anterior QCA;
+iv) Complementaridade com outras acções;
 
-b) Planos de estruturação agrária:
+i) Grau de ruralidade;
 
-i) Potencial agrícola ou florestal da zona em estudo;
-
-ii) Grau de deficiência estrutural.
+iii) Complementaridade com outras acções.
