@@ -1,0 +1,3 @@
+Declaração
+Para o efeito do disposto no n.º 2.º do artigo 24.º do Decreto-Lei n.º 41204, de 24 de Julho de 1957, declara-se que, por despacho de S. Ex.ª o Secretário de Estado do Comércio, de 30 de Janeiro findo, foi prorrogado até 31 de Março próximo o regime de preços e bónus dos adubos constantes da declaração de 2 de Setembro de 1959, publicada no Diário do Governo n.º 212, 1.ª série, de 15 de Setembro daquele mesmo ano, com as alterações que lhe foram introduzidas por declarações publicadas no Diário do Governo n.os 211 e 231, 1.ª série, respectivamente de 10 de Setembro e 4 de Outubro de 1960.
+Comissão de Coordenação Económica, 22 de Fevereiro de 1961. - Pelo Presidente, António Fezas Vital.
