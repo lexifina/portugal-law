@@ -1,0 +1,4 @@
+Declaração de rectificação n.º 62/95
+Segundo comunicação do Ministério da Saúde, a Portaria n.º 261/95, publicada no Diário da República, 1.ª série, n.º 77, de 31 de Março de 1995, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No artigo 25.º, «Composição e funcionamento», no n.º 1, onde se lê «A Comissão para a Humanização e Qualidade dos Serviços é constituída por um médico, um administrador e um enfermeiro, nomeados pelo conselho de administração durante o período do seu mandato.» deve ler-se «A Comissão para a Humanização e Qualidade dos Serviços de Saúde é constituída por um médico, um administrador, um técnico de serviço social e um enfermeiro, nomeados pelo conselho de administração durante o período do seu mandato.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 26 de Maio de 1995. - O Secretário-Geral, França Martins.
