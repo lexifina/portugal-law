@@ -10,4 +10,4 @@ a) O intercâmbio de dados far-se-á por via electrónica, devendo o sistema per
 
 b) O sistema deve permitir a comunicação dos dados vinte e quatro horas por dia;
 
-c) Sempre que as autoridades nacionais e locais competentes dos outros Estados-membros solicitem informações relativas ao navio e à carga perigosa ou poluente a bordo, por razões de segurança marítima, ou de protecção, ou ainda de protecção do ambiente marinho, a DGRM transmite de imediato as informações solicitadas através do SafeSeaNet.
+c) O IPTM deve transmitir à autoridade competente nacional de outro Estado membro que o solicite as informações relativas ao navio e à carga perigosa ou poluente a bordo.

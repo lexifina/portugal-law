@@ -1,3 +1,7 @@
+Decreto-Lei n.º 180/2004
+
+de 27 de Julho
+
 Com o Decreto-Lei n.º 94/96, de 17 de Julho, o Governo introduziu no direito interno as regras preconizadas na Directiva n.º 93/75/CE, do Conselho, de 13 de Setembro, que impôs aos Estados a adopção de medidas relativas às condições mínimas exigidas aos navios com destino a portos marítimos da Comunidade ou que deles saíssem transportando mercadorias perigosas ou poluentes.
 
 Esse diploma legal foi alterado pelo Decreto-Lei n.º 367/98, de 23 de Novembro, o qual transpôs para a ordem jurídica interna as alterações que entretanto foram aprovadas pelas Directivas n.os 96/39/CE, da Comissão, de 19 de Junho, e 97/34/CE, da Comissão, de 6 de Junho.
