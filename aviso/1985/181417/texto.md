@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público ter o Representante Permanente da Suíça junto do Conselho da Europa depositado, em 11 de Março de 1985, o instrumento de ratificação do Segundo Protocolo Adicional à Convenção Europeia sobre Extradição, aberto a assinatura em 17 de Março de 1978, de que Portugal já é parte. Aquele instrumento diplomático entrou em vigor, com referência àquele país, em 9 de Junho de 1985.
+A Suíça fez a seguinte reserva quando da assinatura do Protocolo: a Suíça não aceita o capítulo II do Segundo Protocolo Adicional à Convenção Europeia sobre Extradição. Fez igualmente, na mesma altura, a seguinte declaração: em virtude do artigo 9.1 do Protocolo, e na ausência de declaração em contrário, as reservas formuladas sobre a Convenção aplicam-se igualmente ao Protocolo.
+Secretaria-Geral do Ministério, 29 de Maio de 1985. - O Director dos Serviços Jurídicos e de Tratados, Francisco Manuel dos Reis Caldeira.
