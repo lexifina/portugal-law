@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação da 11.ª Delegação da Direcção-Geral da Contabilidade Pública, junto do Ministério do Comércio e Turismo, a declaração de transferências de verbas publicada no 3.º suplemento ao Diário da República, 1.ª série, n.º 301, de 31 de Dezembro de 1980, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Onde se lê «Capítulo 50 - divisão 12 'Investimentos do Plano - Turismo', divisão 07 'Direcção-Geral do Turismo - Termalismo/Climatismo' e divisão 08 'Direcção-Geral do Turismo - Infra-estruturas turísticas'» deve ler-se «Capítulo 50 'Investimentos do Plano', divisão 12 'Turismo', subdivisão 07 'Direcção-Geral do Turismo - Termalismo/Climatismo' e subdivisão 08 'Direcção-Geral do Turismo - Infra-estruturas turísticas'».
+Secretaria-Geral da Presidência do Conselho de Ministros, 27 de Janeiro de 1981. - O Secretário-Geral, França Martins.
