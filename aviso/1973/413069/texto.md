@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que, segundo informação do Secretário-Geral das Nações Unidas, o Governo da República Federal da Alemanha depositou, em 26 de Julho de 1973, o instrumento de ratificação da Convenção sobre o Alto Mar e do Protocolo de assinatura facultativo sobre a regularização obrigatória das divergências relativas à interpretação ou à aplicação de todos os artigos de qualquer das Convenções de 29 de Abril de 1958 sobre o Direito do Mar, concluídos em Genebra em 29 de Abril de 1958.
+Em conformidade com o artigo 34 (2) da Convenção em referência, esta entrou em vigor, em relação àquele país, em 25 de Agosto de 1973. O mencionado Protocolo de assinatura entrou também em vigor na mesma data.
+Segundo uma carta que acompanhava o citado instrumento de ratificação, o Governo da República Federal da Alemanha declarou que os referidos actos são igualmente aplicáveis a Berlim (Oeste).
+Direcção-Geral dos Negócios Económicos, 14 de Setembro de 1973. - O Adjunto do Director-Geral, Luís Alberto de Vasconcelos Góis Fernandes Figueira.
