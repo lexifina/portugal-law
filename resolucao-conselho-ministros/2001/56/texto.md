@@ -1,0 +1,30 @@
+Resolução do Conselho de Ministros n.º 56/2001
+A crescente globalização da economia mundial aumenta os desafios mas abre também novas oportunidades à economia portuguesa. A globalização, acentuada com o degelo da «guerra fria», entrou numa nova fase nos últimos anos. A emergência de novas economias na concorrência internacional, num contexto de crescente liberalização dos movimentos de mercadorias e de circulação dos capitais e tecnologias, aumentou a concorrência pela captação de investimento. No espaço europeu esse movimento acentua-se com o processo de adesão de novas economias à UE, com mão-de-obra disponível com elevada formação escolar e boa localização em relação ao Centro da Europa.
+O desenvolvimento em rede da economia mundial, acelerado pelo uso da Internet, vem, por outro lado, aumentar o potencial de deslocalização de actividades económicas, abrindo novas possibilidades de captação de investimento e de internacionalização da economia, alterando as condições de atractividade dos «territórios» cada vez mais dependente da sua conexão a redes internacionais de informação, do seu posicionamento nas redes de transporte e logística e da sua capacidade de oferta de recursos humanos qualificados em permanente actualização.
+A inserção da economia portuguesa no espaço do euro e a actual baixa taxa de desemprego configuram um novo contexto macroeconómico que permite focar a política de captação de investimento estrangeiro na endogeneização de novas tecnologias, suporte de produtos com maior dinamismo de procura no mercado mundial, diversificando a especialização da economia portuguesa e melhorando a competitividade dos sectores existentes através do reforço do seu funcionamento em clusters, o que permitirá uma crescente requalificação do emprego.
+A focagem da captação de investimento directo estrangeiro (IDE) em investimentos de maior conteúdo tecnológico é possibilitada pela melhoria das condições de atractividade conseguidas nos últimos anos. As melhorias nas infra-estruturas e redes de transportes e telecomunicações, o maior nível de formação - em particular das gerações mais jovens da população portuguesa -, os resultados alcançados na recuperação do atraso científico e tecnológico - com uma comunidade científica jovem e fortemente internacionalizada - e os passos dados na articulação da ciência e da tecnologia com a inovação tecnológica empresarial são algumas das mudanças que possibilitam esta recentragem da política de captação de investimento estrangeiro cujos resultados são, aliás, já visíveis em vários casos de upgrading do investimento estrangeiro e no desenvolvimento de actividades de investigação e desenvolvimento por parte de algumas empresas com capitais de origem estrangeira, em articulação com entidades do sistema científico e tecnológico nacional.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Mandatar os Ministros da Economia e da Ciência e da Tecnologia para dinamizarem uma política de captação de investimento estrangeiro intensivo em tecnologia.
+2 - Determinar que, no quadro da cooperação que têm vindo a desenvolver na articulação das políticas de inovação e internacionalização, o ICEP e a Agência de Inovação preparem um plano de acção destinado à concretização do objectivo referido no número anterior.
+3 - No quadro de uma política activa e orientada de captação de investimento estrangeiro intensivo em tecnologia, o plano de acção referido deve compreender:
+a) Uma metodologia para a identificação de oportunidades concretas de investimento e os procedimentos adequados à sua captação;
+b) A proposta de medidas para reforçar a atractividade do País;
+c) A exploração de sinergias entre a captação de IDE e a internacionalização das empresas portuguesas;
+d) A identificação dos apoios e incentivos ao investimento, disponíveis ou a criar;
+e) A preparação de informação relevante sobre qualificações e níveis de remuneração;
+f) O levantamento de locais de implantação e sua caracterização;
+g) A contratação de serviços com consultores e agências estrangeiras, se necessário em regime de success fee;
+h) O levantamento de casos de empresas estrangeiras e nacionais de base tecnológica;
+i) A criação de um portal na Internet e desenvolvimento de outro material de divulgação orientados para este fim.
+4 - O plano de acção deve, ainda, assentar na valorização do melhor que se faz em Portugal ao nível científico e tecnológico e ao nível empresarial, valorizando:
+a) A competência científica e tecnológica nacional;
+b) A sua articulação em redes científicas e a participação em organizações de I&D internacionais;
+c) Os resultados de projectos de I&D em curso, apoiando a sua valorização no mercado internacional;
+d) Os recursos humanos de maior nível de formação, graduados nos últimos anos, nomeadamente aqueles com redes de contactos internacionais;
+e) O papel das empresas de maior nível tecnológico que possam funcionar como factores de atracção de novos investimentos;
+f) Os clusters existentes, captando de forma selectiva investimentos que funcionem como «nós» de modernização e melhoria de competitividade, aumentando o seu conteúdo em tecnologia e design;
+g) O potencial de mercado, decorrente das tendências tecnológicas e dos investimentos em curso e em particular da inserção de Portugal no mercado único da União Europeia;
+h) Recursos naturais que possam ser objecto de uma maior valorização com a utilização de novas soluções tecnológicas.
+5 - Os Ministros da Economia e da Ciência e da Tecnologia darão conta trimestralmente ao Conselho de Ministros das actividades desenvolvidas e dos resultados alcançados, no cumprimento do mandato que lhes é conferido pela presente resolução, propondo ainda as medidas legislativas, orçamentais e outras julgadas necessárias à concretização dos objectivos enunciados.
+Presidência do Conselho de Ministros, 3 de Maio de 2001. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
