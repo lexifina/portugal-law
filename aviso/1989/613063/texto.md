@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que a Convenção Europeia sobre a Violência e os Excessos dos Espectadores por Ocasião de Manifestações Desportivas e nomeadamente de Jogos de Futebol, aberta para assinatura a 19 de Agosto de 1985, em Estrasburgo, foi ratificada a 30 de Dezembro de 1988 pelo Reino dos Países Baixos (com reserva da sua aceitação para o Reino, na Europa).
+Nesta data assinaram esta Convenção os seguintes Estados: Bélgica, Irlanda, Malta e Turquia e ratificaram-na a Áustria, Chipre, Dinamarca, França, Grécia, Islândia, Itália, Luxemburgo, Países Baixos, Noruega, Portugal, Espanha, Suécia, Reino Unido e Finlândia.
+Direcção-Geral dos Negócios Político-Económicos, 22 de Fevereiro de 1989. - O Director dos Serviços de Relações Culturais Bilaterais Interino, António Montenegro.
