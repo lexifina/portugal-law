@@ -1,0 +1,16 @@
+Portaria n.º 580/75
+de 24 de Setembro
+Não existe na Universidade de Coimbra qualquer curso superior no domínio genérico das ciências sociais, o que constitui uma lacuna grave no elenco dos cursos de uma Universidade, não só por se tratar de domínio de estudos com plena identidade científica e suficiente interesse sócio-profissional, como ainda por constituir tendência bastante generalizada actualmente a de introduzir nos planos de estudo de outros cursos disciplinas que integram este domínio. Daí que a Faculdade de Economia da Universidade de Coimbra tenha proposto, e o Ministério tenha aceitado, a criação de um departamento de Ciências Sociais que, recolhendo estudantes com preparação prévia nos vários domínios do saber, ministrasse um curso conducente à licenciatura, enriquecido com esta experiência prévia da interdisciplinaridade e aberto a vária gama de necessidades sociais neste domínio.
+Assim, e ao abrigo do Decreto-Lei n.º 47587, de 10 de Março de 1967:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Ensino Superior e Investigação Científica, o seguinte:
+1.º São criados na Faculdade de Economia da Universidade de Coimbra os departamentos de Economia e de Ciências Sociais.
+2.º O departamento de Economia ministrará o curso de Economia, cujo plano de estudos será aprovado por portaria do Ministério da Educação e Investigação Científica, conducente ao grau de licenciado.
+3.º O departamento de Ciências Sociais ministrará o curso de Ciências Sociais, cujo plano de estudos será aprovado por portaria do Ministério da Educação e Investigação Científica, conducente ao grau de licenciado.
+4.º O acesso ao curso de Economia é o estabelecido na legislação que, em geral, regulamenta o acesso aos cursos superiores de graduação.
+5.º - 1. Terão acesso à licenciatura em Ciências Sociais os indivíduos habilitados com curso superior.
+2. Por portaria do Ministério da Educação e Investigação Científica poderão ser fixadas condições mais restritivas no respeitante à exigência de preparação dos candidatos em domínios do saber considerados indispensáveis para a frequência deste curso.
+3. Poderá ser facultada a matrícula na licenciatura em Ciências Sociais a indivíduos com frequência de estudos universitários correspondentes a três anos de escolaridade normal, ainda que não habilitados com curso superior, desde que satisfaçam os requisitos do n.º 2.
+6.º - 1. Além dos cursos referidos nos n.os 2.º e 3.º, qualquer dos departamentos da Faculdade de Economia da Universidade de Coimbra poderá organizar actividades pedagógicas, científicas e de serviço à comunidade, eventualmente em colaboração com outras escolas.
+2. A frequência das disciplinas cujo ensino passa a ser ministrado nos dois departamentos da Faculdade de Economia pode ser aberta a alunos de outras escolas cujos planos de estudo integrem tais disciplinas.
+7.º A acividade lectiva conducente à licenciatura em Ciências Sociais terá início no ano lectivo de 1976-1977, sendo o ano lectivo de 1975-1976 dedicado à estruturação do departamento e, eventualmente, à organização de actividades do tipo das referidas no número anterior.
+Ministério da Educação e Investigação Científica, 5 de Setembro de 1975. - O Secretário de Estado do Ensino Superior e Investigação Científica, António José Avelãs Nunes.
