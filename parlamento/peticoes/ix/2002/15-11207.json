@@ -1,0 +1,133 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=gIjTIOBD8fzbBQNrdCzuBBmwczclk6SD5HYRiA%2fDz6LvtzEOZz0p16VuinZ4c9xnv1XSgJHpVu8L3TmsAZNDGnOMwZOl11DIWbTTxvH9TZlpguA1Dr0xHxKf%2bQeAZgBPJ2JGSuYu7x65iAUduW5D4zeNirkg7R2OQEqLYjPjV69GXh3r3XIihzhHxDGQdi7oVusUbcfcYXzy5bAfGFP4LX4pUxhc8G05JIdx13wuiGlQzDNPxWXGvFL9wH8tviClTchA%2bgzQmfiBzvQfSs%2fvcRcPk4nUvD76VhB1rTiLyNK7L6yAVcl1PlcZsq2sEsFqGpdxuyeZkEQ%2bcGfcnacT%2fg%3d%3d&fich=PeticoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "c26dac93ad93dfa2ae59e6cc67f4607f06aab6fd9463b02c8517cb31fb62b02c",
+  "legislatura": "IX",
+  "id": "11207",
+  "numero": "15",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2002-09-03",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2003-01-29",
+            "dataResposta": "2003-07-18",
+            "entidades": [
+              "Ministro da Saúde"
+            ],
+            "nrOficio": "1701/COM",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "2003-04-09",
+                "dataResposta": null,
+                "nrOficio": "2186/COM",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2003-11-19",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2002-09-17",
+        "DataArquivo": "2003-07-16",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2003-12-15",
+        "DataReaberta": "2002-09-17",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2002-09-03",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a793944543030764f4652425579394562324e31625756756447397a5547563061574e6862793969596a55324d574d354f533035595452694c54517a5a545974595463304d69316d4f4445354d57566d4e5746694d5467756347526d&fich=bb561c99-9a4b-43e6-a742-f8191ef5ab18.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "109",
+        "Legislatura": "IX",
+        "Nome": "COMISSÃO DE TRABALHO E DOS ASSUNTOS SOCIAIS",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2002-11-12",
+            "gp": "PS",
+            "id": "1701",
+            "motivoCessacao": null,
+            "nome": "Luísa Portugal"
+          }
+        ],
+        "RelatorioFinal": [
+          "21603"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2002-09-03",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a7939555a58683062305a70626d46735547563061574e765a584d764d5449334d32466a4d6a4d744e7a67354f4330304e5749774c574a6b4d445974595451354f546b345954426a5a6d51334c6e426b5a673d3d&fich=1273ac23-7898-45b0-bd06-a49998a0cfd7.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11207",
+    "PetAssunto": "Solicitam a instalação de uma nova farmácia ou de um posto farmacêutico móvel na localidade de Praias do Sado, concelho de Setúbal, em face do encerramento, em 6 de Julho de 2002, da farmácia que existia naquela localidade.",
+    "PetDataEntrada": "2002-09-03",
+    "PeticoesAssociadas": null,
+    "PetId": "11207",
+    "PetLeg": "IX",
+    "PetNr": "15",
+    "PetNrAssinaturas": "1302",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "Apensada á Petição nº.27/IX/1ª. por se tratar mesmo objectivo.",
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
