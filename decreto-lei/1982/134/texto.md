@@ -1,0 +1,20 @@
+Decreto-Lei n.º 134/82
+de 23 de Abril
+1. Ao abrigo do disposto no n.º 2 do artigo 23.º do Decreto-Lei n.º 487/80, de 17 de Outubro, foram já criados no Gabinete da Área de Sines o Departamento de Projecto Portuário (DPP), o Departamento de Projecto do Centro Urbano (DPCU) e o Departamento de Projecto do Saneamento Básico (DPSB).
+2. Os referidos departamentos, concebidos como serviços de missão e para áreas de trabalho temporário, destinam-se à execução de empreendimentos a cargo do Gabinete da Área de Sines e ao acompanhamento e fiscalização de outros que serão executados por forma específica, correspondendo, nessa medida, a unidades funcionais que carecem da competência que o conselho de gestão delibere por conveniente cometer-lhes, com vista a assegurar a normal prossecução das suas atribuições.
+3. Nos termos do disposto no n.º 4 do artigo 11.º do Decreto-Lei n.º 487/80, de 17 de Outubro, apenas se prevê a possibilidade de o conselho de gestão do Gabinete da Área de Sines cometer a qualquer funcionário dirigente de categoria igual ou superior a chefe de divisão a prática de quaisquer actos da sua competência, pelo que a criação dos departamentos de projecto veio colocar o problema da delegação de competência, sempre que os referidos departamentos não sejam chefiados por funcionários.
+Assim:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo único. O artigo 11.º do Decreto-Lei n.º 487/80, de 17 de Outubro, passa a ter a seguinte redacção:
+Artigo 1.º
+(Competências)
+1 - ...
+2 - ...
+3 - ...
+4 - ...
+5 - O conselho de gestão poderá ainda delegar nos chefes dos departamentos de projecto, em função das respectivas áreas de trabalho, poderes para a prática de actos da sua competência, podendo a competência delegada, com autorização da entidade delegante, ser subdelegada na entidade imediatamente inferior da escala hierárquico-funcional.
+6 - (O anterior n.º 5.)
+Visto e aprovado em Conselho de Ministros de 16 de Março de 1982. - Francisco José Pereira Pinto Balsemão.
+Promulgado em 13 de Abril de 1982.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
