@@ -26,6 +26,16 @@ c) Prédios urbanos avaliados, nos termos do CIMI: 0,2% a 0,5%.
 
 7 - Os municípios, mediante deliberação da assembleia municipal, podem majorar até 30% a taxa aplicável a prédios urbanos degradados, considerando-se como tais os que, face ao seu estado de conservação, não cumpram satisfatoriamente a sua função ou façam perigar a segurança de pessoas e bens.
 
-8 - As deliberações da assembleia municipal referidas no presente artigo devem ser comunicadas à Direcção-Geral dos Impostos para vigorarem no ano seguinte, aplicando-se as taxas mínimas referidas no n.º 1, caso as comunicações não sejam recebidas até 30 de Novembro.
+8 - Os municípios, mediante deliberação da assembleia municipal, podem majorar até 30% a taxa aplicável aos prédios urbanos ou às suas fracções autónomas que se encontrem devolutos.
 
-9 - No caso de as deliberações compreenderem zonas delimitadas de freguesias, as comunicações referidas no número anterior são acompanhadas de listagem contendo a indicação dos artigos matriciais dos prédios abrangidos, bem como o número de identificação fiscal dos respectivos titulares.
+9 - Consideram-se devolutos os prédios urbanos ou as suas fracções autónomas que, durante um ano, se encontrem desocupados, por não apresentarem, nomeadamente:
+
+a) Contratos em vigor com prestadores de serviços públicos essenciais;
+
+b) Facturação relativa a consumos de água, electricidade, gás e telecomunicações.
+
+10 - Exceptuam-se do número anterior os prédios urbanos ou fracções autónomas dos mesmos que forem destinados à venda ou que sejam destinados a habitação por curtos períodos em praias, campo, termas e quaisquer outros lugares de vilegiatura, para arrendamentos temporários ou para uso próprio.
+
+11 - As deliberações da assembleia municipal referidas no presente artigo devem ser comunicadas à Direcção-Geral dos Impostos para vigorarem no ano seguinte, aplicando-se as taxas mínimas referidas no n.º 1, caso as comunicações não sejam recebidas até 30 de Novembro.
+
+12 - No caso de as deliberações compreenderem zonas delimitadas de freguesias, as comunicações referidas no número anterior são acompanhadas de listagem contendo a indicação dos artigos matriciais dos prédios abrangidos, bem como o número de identificação fiscal dos respectivos titulares.
