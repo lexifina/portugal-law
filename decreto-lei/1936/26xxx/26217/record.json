@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1936/01/01300/00720072.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1936-01-16",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "3901dbe2ac57a1b121a23b1bda89fb612d3dc968f7c14180ec86b30cb01c51c6",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 97.6,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "85ac05820af00f44e7d99faa7c51e4341f6f0a6c2517f20ac9fd08786a826178",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 482
 }
