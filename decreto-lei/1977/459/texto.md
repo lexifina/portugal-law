@@ -1,0 +1,16 @@
+Decreto-Lei n.º 459/77
+de 5 de Novembro
+Tendo sido incorrectamente publicado o quadro de pessoal anexo ao Decreto-Lei n.º 878/76, de 29 de Dezembro, e verificada a falta de cabimento no orçamento privativo da Junta Distrital em que foram mandados integrar os serviços da União de Freguesias do Concelho de Lisboa, a que se refere o artigo 1.º do citado diploma, com as decorrentes consequências em matéria de inexequibilidade do seu dispositivo;
+Considerando assim, e por um lado, que se torna necessário proceder à rectificação do aludido quadro e fixar, por outro, um prazo dentro do qual se devam ter por concluídas as operações indispensáveis à elaboração e aprovação de documento orçamental em que venham a prever-se as receitas e despesas inerentes ao normal funcionamento dos serviços a integrar:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º A integração na Junta Distrital de Lisboa dos estabelecimentos e serviços de assistência social a que se refere o artigo 1.º do Decreto-Lei n.º 878/76, de 29 de Dezembro, deve mostrar-se concluída depois da elaboração de um orçamento suplementar para o efeito, no prazo máximo de trinta dias, a contar da entrada em vigor do presente diploma.
+Art. 2.º Aos quadros de pessoal da Junta Distrital de Lisboa serão acrescentados os lugares referidos no quadro anexo ao presente diploma que, para todos os efeitos, se substitui ao publicado em anexo ao diploma a que se alude no artigo precedente.
+Art. 3.º As retribuições fixadas para as categorias incluídas no quadro do pessoal anexo ao presente diploma consideram-se em vigor a partir de 1 de Janeiro de 1977.
+Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás - Henrique Medina Carreira.
+Promulgado em 24 de Outubro de 1977.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Quadro de pessoal
+(ver documento original)
+O Ministro da Administração Interna, Manuel da Costa Brás. - O Ministro das Finanças, Henrique Medina Carreira.
