@@ -1,0 +1,6 @@
+Declaração de rectificação n.º 102/95
+Segundo comunicação da Direcção dos Serviços Gerais do Orçamento, da Direcção-Geral da Contabilidade Pública (Ministério das Finanças), a Declaração n.º 93/95, publicada no Diário da República, n.º 151, de 3 de Julho de 1995, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+Em «06 - Ministério das Finanças», onde se lê «C. E. 04.02.01 - Indemnização - TERTIR» deve ler-se «C. E. 04.02.01, alínea A) - Indemnização - TERTIR», onde se lê «C. E. 06.01.00 - Conf. n.º 4 do artigo 20.º da Lei n.º 6/91» deve ler-se «C. E. 06.01.00, alínea A) - Conf. n.º 4 do artigo 20.º da Lei n.º 6/91».
+Em «10 - Ministério do Planeamento e da Administração do Território» onde se lê «C. E. 04.01.03 - Instituto Tecnológico e Nuclear» deve ler-se «C. E. 04.01.03, alínea M) - Instituto Tecnológico e Nuclear».
+Em «19 - Ministério do Mar», onde se lê «C. E. 06.03.00 - Indemnização por riscos cambiais e juros de mora» deve ler-se «C. E. 06.03.00, alínea A) - Indemnização por riscos cambiais e juros de mora».
+Secretaria-Geral da Presidência do Conselho de Ministros, 19 de Julho de 1995. - O Secretário-Geral, França Martins.
