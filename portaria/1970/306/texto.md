@@ -1,0 +1,5 @@
+Portaria n.º 306/70
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, reforçar com a importância de 30000$00 a verba do capítulo 10.º, artigo 322.º, n.º 10), alínea b), 1.º «Encargos gerais - Diversas despesas - Despesas eventuais (artigo 1.º e § 2.º do artigo 6.º do Decreto n.º 22545, de 18 de Maio de 1933) - Não especificadas - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral da província de S. Tomé e Príncipe para o ano em curso, tomando como contrapartida igual importância a sair das disponibilidades existentes na verba do capítulo 7.º, artigo 268.º, n.º 2) «Serviços de fomento - Serviços de Aeronáutica Civil - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal contratado - Vencimento contratual», da referida tabela de despesa.
+Ministério do Ultramar, 22 de Junho de 1970. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada no Boletim Oficial de S. Tomé e Príncipe. - J. da Silva Cunha.
