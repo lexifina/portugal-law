@@ -1,0 +1,198 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=sHIRRaZSClvqs2fgPou4a23MGhhl3X0gpgbp%2btNARhGZicYLOXPZWkruq4vVo2sWGLeVuvGAgqbFJbJwQRW44CI9tfmX%2bbWTsyeHmJUtTMccM5o%2bccvn1sCfcA%2fpd%2bu%2fwKJ%2bFD1ev4cnIw3pVnfMa%2bhzSz6cuwzZblBv5LWM36SEbL%2bBs5zO8uiZpaydxrwOvnbXHxO20Qolz2olAmCgsT1gDBlsVm7WmD5xQWyQKm1VSK31nRXYjP8b8P%2feFXtP5tOSkcyuffzIm3hAkBaoFGuUyO4s%2fkJ5BzS9ISNRC1O2ZlNJZ6At2vSnnzEc478srqvpEWstyCICdzJ0iIVMlkL18DFe0lclA2tQQF6038g%3d&fich=IniciativasIV_json.txt&Inline=true",
+  "ficheiro_sha256": "66d499906f5f48d8fdeb07035c408bad3bf810ad88e2ed743ec1b74baa57e0d7",
+  "legislatura": "IV",
+  "tipo": "Projeto de Lei",
+  "numero": "341",
+  "id": "27716",
+  "fases": 5,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "1987-01-15",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "1987-08-12",
+    "DataInicioleg": "1986-10-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "314",
+        "nome": "António Capucho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "108",
+        "nome": "Manuel Moreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "237",
+        "nome": "Cardoso Ferreira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "56",
+        "nome": "Guido Rodrigues"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "40",
+        "nome": "Duarte Lima"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "249",
+        "nome": "Mendes Bota"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "7",
+        "nome": "Alberto Araújo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "124",
+        "nome": "Miguel Relvas"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "77",
+        "nome": "José Cesário"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "130",
+        "nome": "Rui Salvada"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2926",
+        "nome": "António Barbosa de Azevedo"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3256",
+        "nome": "José Olavo Silva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2967",
+        "nome": "Daniel Bastos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3069",
+        "nome": "Reinaldo Gomes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3021",
+        "nome": "José Melo Alves"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "93",
+        "nome": "Pereira Lopes"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "21",
+        "nome": "Roleira Marinho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "4",
+        "nome": "Adérito Campos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3124",
+        "nome": "Henrique Bairrão"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "97",
+        "nome": "Luís Martins"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3193",
+        "nome": "Malato Correia"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1695",
+        "nome": "Manuel Martins"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3079",
+        "nome": "Vargas Bulcão"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3206",
+        "nome": "Luís de Lima"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2969",
+        "nome": "Domingos e Sousa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "288",
+        "nome": "Luís Capoulas"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2985",
+        "nome": "Francisco Jardim"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "359",
+        "nome": "Francisco Costa"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "3002",
+        "nome": "João Teixeira"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "24",
+        "nome": "Arlindo Moreira"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Lei",
+    "IniEpigrafe": null,
+    "IniId": "27716",
+    "IniLeg": "IV",
+    "IniLinkTexto": "",
+    "IniNr": "341",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "J",
+    "IniTitulo": "Lei-quadro das Regiões Administrativas",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
