@@ -1,0 +1,23 @@
+Decreto-Lei n.º 398/80
+de 25 de Setembro
+Considerando que a Escola de Formação de Guardas da Polícia de Segurança Pública, criada pelo Decreto-Lei n.º 145/78, de 17 de Junho, não possui, presentemente, instalações com capacidade suficiente para fazer face às necessidades actuais da Polícia de Segurança Pública;
+Considerando que para superar essa deficiência se torna necessário deslocar, por vezes, batalhões e ou companhias de instrução para comandos regionais ou distritais, onde se julgue conveniente e as instalações o permitam;
+Atendendo a que este facto coloca o pessoal na situação de dupla dependência disciplinar, quer do comandante da Escola de Formação de Guardas, quer dos comandantes regionais ou distritais, situação essa que contraria o artigo 9.º do Decreto-Lei n.º 145/78;
+E tornando-se necessário harmonizar tais incompatibilidades, reputa-se como indispensável introduzir ligeiras alterações nos Decretos-Leis n.os 145/78 e 303/79, de 17 de Junho e de 18 de Agosto, respectivamente.
+Nesta conformidade:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º O artigo 1.º do Decreto-Lei n.º 145/78, de 17 de Junho, é acrescido do n.º 3, com a seguinte redacção:
+1 - ...
+2 - ...
+3 - O comandante-geral, quando o julgar necessário, poderá determinar que a instrução de batalhões e ou companhias de instruendos da Escola de Formação de Guardas se processe nas instalações dos comandos regionais ou distritais, continuando na dependência do comandante daquela Escola.
+Art. 2.º O artigo 3.º do Decreto-Lei n.º 303/79, de 18 de Agosto, é acrescido da alínea f), assim redigida:
+a) ...
+b) ...
+c) ...
+d) ...
+e) ...
+f) Os comandantes regionais ou distritais, onde existam batalhões e ou companhias da Escola de Formação de Guardas em instrução detêm a competência disciplinar que lhes é conferida pelo artigo 41.º do Regulamento Disciplinar da Polícia de Segurança Pública, aprovado pelo Decreto-Lei n.º 40118, de 6 de Abril de 1955, sobre o pessoal que constitui essas mesmas unidades e ou subunidades de instrução.
+Visto e aprovado em Conselho de Ministros de 13 de Agosto de 1980. - Francisco Sá Carneiro.
+Promulgado em 21 de Agosto de 1980.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
