@@ -1,0 +1,6 @@
+Resolução n.º 277/80
+Nos termos do n.º 4 da Resolução n.º 363-A/79, publicada no Diário da República, 1.ª série, n.º 299, de 29 de Dezembro de 1979, que determinou a cessação da intervenção do Estado na sociedade Álvaro Calhau Rolim, Lda., terminou em 30 de Junho de 1980 o prazo fixado à empresa para apresentar à instituição bancária competente os elementos necessários à celebração de um contrato de viabilização.
+Verifica-se, contudo, não dispor ainda a referida sociedade da totalidade desses elementos, nomeadamente por não ter sido possível concretizar a transferência para a banca dos créditos que lhe foram concedidos pela CAETA, conforme determinado no n.º 11 da citada resolução.
+Por outro lado, no n.º 7 da mesma resolução estabelece-se que a concessão de moratórias do pagamento de determinadas dívidas da empresa não ultrapasse a data de 31 de Outubro de 1980, prazo este que se verifica ser insuficiente para manter as condições necessárias à viabilização da empresa, face ao acima exposto.
+Nestes termos, o Conselho de Ministros, reunido em 23 de Julho de 1980, resolveu prorrogar até 31 de Dezembro de 1980 os prazos fixados nos n.os 4 e 7 da Resolução n.º 363-A/79, publicada no Diário da República, 1.ª série, n.º 299, de 29 de Dezembro de 1979.
+Presidência do Conselho de Ministros, 23 de Julho de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
