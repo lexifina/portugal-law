@@ -1,0 +1,4 @@
+Resolução n.º 8/77
+Ouvidas as exposições dos Ministros da República para os Açores e para a Madeira relativamente ao estabelecimento de novas tabelas de fretes marítimos no tráfego com aqueles arquipélagos, dada a elevada incidência que o custo da estiva e desestiva tem no custo final do transporte, o Conselho de Ministros reunido em 30 de Dezembro de 1976, resolveu:
+Cometer aos Ministros das Finanças, do Trabalho e dos Transportes e Comunicações a apresentação de uma solução para aquele problema, permitindo a fixação de uma nova tabela que reflita os cursos e seja remuneradora para as empresas e aceitável para a economia dos arquipélagos. Os Governos Regionais deverão participar no estudo daquela solução, que será presente a Conselho no prazo máximo de trinta dias.
+Presidência do Conselho de Ministros, 30 de Dezembro de 1976. - O Primeiro-Ministro, Mário Soares.
