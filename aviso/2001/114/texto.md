@@ -1,0 +1,5 @@
+Aviso n.º 114/2001
+Por ordem superior se torna público que o Secretariado Permanente da Conferência da Haia de Direito Internacional Privado comunicou, no âmbito da Convenção Relativa à Competência das Autoridades e à Lei Aplicável em Matéria de Protecção de Menores, concluída na Haia em 5 de Outubro de 1961, que, em conformidade com o artigo 21.º, alínea 3), da mesma, a República Portuguesa aceitou a adesão da República da Polónia à referida Convenção, com efeito a partir de 2 de Outubro de 2001.
+A República Portuguesa é Parte na mesma Convenção, que foi aprovada para ratificação pelo Decreto-Lei n.º 48494, publicado no Diário do Governo, 1.ª série, n.º 172, de 22 de Julho de 1968, tendo depositado o seu instrumento de ratificação em 6 de Dezembro de 1968, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 20, de 24 de Janeiro de 1969.
+A autoridade central na República Portuguesa é o Instituto de Reinserção Social.
+Departamento de Assuntos Jurídicos, 27 de Setembro de 2001. - A Directora, Maria Margarida Aleixo Antunes Rei.
