@@ -1,0 +1,5 @@
+Declaração
+Segundo comunicação do Ministério da Habitação, Urbanismo e Construção, o Decreto n.º 117-E/76, publicado no suplemento ao Diário do Governo, n.º 34, de 10 do corrente, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 3.º, na alínea b), onde se lê: «Direcção-Geral do Planeamento Regional e Urbano», deve ler-se: «Direcção-Geral do Planeamento Urbanístico.» Na alínea c), onde se lê: «Direcção-Geral do Equipamento e de Gestão Urbanística», deve ler-se: «Direcção-Geral de Equipamento Regional e Urbano.»
+No artigo 7.º, alínea c), onde se lê: «Director-geral do Planeamento Regional e Urbano», deve ler-se: «Director-geral do Planeamento Urbanístico», Na alínea d), onde se lê: «Director-geral do Equipamento e da Gestão Urbanística», deve ler-se: «Director-geral de Equipamento Regional e Urbano.»
+Secretaria-Geral da Presidência do Conselho de Ministros, 10 de Fevereiro de 1976. - O Secretário-Geral, Manuel Roque.
