@@ -1,0 +1,78 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=rKtwshDyv1NBeu65K82ef9j6oFE3w%2fgAbqyUhooMpoSyQQ0pTyzibfD50gH%2baGhs1TrcG1r0l2bU1A0KAmFXPBoWqi6NY9nsxTw%2fxAs2r347ke8O86pD8UW0Vo24i8zPmfcPKM5y3XEB99eQAf1Ojm%2bemILgruHhJl9u7yVaplGsWPI0o%2bZUTUUBCanSa5007dUY7uakZ2EgL138SciEtNOWsIyqy66pG5Eu5crXojP8szj276fRrDhZdP6MEXFhdUelamzN3e1Rpwl8sPVmxdyANoDqpCtvpC0PXNmoyGF02wzb13ACPnwjTtn%2bPiN%2b1oG5E%2bkfl50yDwrf9Q4ck3XnT7zfIqh68Ee0O7Ap66U%3d&fich=IntervencoesVI_json.txt&Inline=true",
+  "ficheiro_sha256": "09dcb463dee20c5105fb36bc1a4e2274ee28613bb7bd19e9b953a0ed8eb5faf8",
+  "legislatura": "VI",
+  "id": "39308",
+  "tipo": "Intervenção",
+  "orador": "Raul Rêgo (PS)",
+  "data_registo": "1993-10-27",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "3832",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "3832",
+        "tipo": "SES",
+        "titulo": "Sessão Solene - Homenagem ao Doutor Azeredo Perdigão"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1993-10-27",
+    "Debate": "SESSAO SOLENE",
+    "Deputados": {
+      "GP": "PS",
+      "idCadastro": "615",
+      "nome": "Raul Rêgo"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "39308",
+    "IdDebate": "3832",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VI",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "39308",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "99-100"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1993-10-28",
+        "pubLeg": "VI",
+        "pubNr": "4",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/004/1993-10-28/99?pgs=99-100&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "CALOUSTE GULBENKIAN INTERVEM NA SESSAO SOLENE EM HOMENAGEM DO DR. JOSE AZEREDO PERDIGAO ",
+    "Sessao": "3",
+    "Sumario": "HOMENAGEM AO DR AZEREDO PERDIGAO",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
