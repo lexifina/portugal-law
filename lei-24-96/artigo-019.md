@@ -8,4 +8,4 @@
 
 3 - Os acordos de boa conduta celebrados com associações de consumidores de interesse genérico obrigam os profissionais ou representados em relação a todos os consumidores, sejam ou não membros das associações intervenientes.
 
-4 - Os acordos atrás referidos devem ser objeto de divulgação, nomeadamente através da afixação nos estabelecimentos comerciais, sem prejuízo da utilização de outros meios informativos mais circunstanciados.
+4 - Os acordos atrás referidos devem ser objecto de divulgação, nomeadamente através da afixação nos estabelecimentos comerciais, sem prejuízo da utilização de outros meios informativos mais circunstanciados.

@@ -2,15 +2,15 @@
 
 ### Direito à formação e à educação
 
-1 - Incumbe ao Estado a promoção de uma política educativa para os consumidores, através da inserção nos programas e nas atividades escolares, bem como nas ações de educação permanente, de matérias relacionadas com o consumo e os direitos dos consumidores, usando, designadamente, os meios tecnológicos próprios numa sociedade de informação.
+1 - Incumbe ao Estado a promoção de uma política educativa para os consumidores, através da inserção nos programas e nas actividades escolares, bem como nas acções de educação permanente, de matérias relacionadas com o consumo e os direitos dos consumidores, usando, designadamente, os meios tecnológicos próprios numa sociedade de informação.
 
-2 - Incumbe ao Estado, às Regiões Autónomas e às autarquias locais desenvolver ações e adotar medidas tendentes à formação e à educação do consumidor, designadamente através de:
+2 - Incumbe ao Estado, às Regiões Autónomas e às autarquias locais desenvolver acções e adoptar medidas tendentes à formação e à educação do consumidor, designadamente através de:
 
-a) Concretização, no sistema educativo, em particular no ensino básico e secundário, de programas e atividades de educação para o consumo;
+a) Concretização, no sistema educativo, em particular no ensino básico e secundário, de programas e actividades de educação para o consumo;
 
 b) Apoio às iniciativas que neste domínio sejam promovidas pelas associações de consumidores;
 
-c) Promoção de ações de educação permanente de formação e sensibilização para os consumidores em geral;
+c) Promoção de acções de educação permanente de formação e sensibilização para os consumidores em geral;
 
 d) Promoção de uma política nacional de formação de formadores e de técnicos especializados na área do consumo.
 
