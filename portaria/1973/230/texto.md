@@ -1,0 +1,4 @@
+Portaria n.º 230/73
+de 31 de Março
+Manda o Governo da República Portuguesa, pelos Secretários de Estado do Tesouro e das Comunicações e Transportes, nos termos do n.º 3 do artigo 37.º do estatuto da empresa pública Correios e Telecomunicações de Portugal, anexo I ao Decreto-Lei n.º 49368, de 10 de Novembro de 1969, atendendo ao que por ela foi solicitado, autorizar a referida empresa a contrair um empréstimo no Banco de Fomento Nacional, até ao montante de 300000000$00, pelo prazo de sete anos, amortizável em, no máximo, doze prestações semestrais e sucessivas e vencendo juros à taxa anual de 7,75 por cento elevável até ao limite legal.
+Ministérios das Finanças e das Comunicações, 19 de Março de 1973. O Secretário de Estado do Tesouro, José Luís Sapateiro. - O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.
