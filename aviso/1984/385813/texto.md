@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se faz público que o Governo Português depositou junto do Secretário-Geral das Nações Unidas, no dia 30 de Março de 1984, a Carta de Adesão ao Acordo Internacional do Cacau, de 1980, aprovado pelo Decreto n.º 2/84, de 29 de Dezembro de 1983.
+Naquela data, além de Portugal, eram Partes no referido Acordo os seguintes países:
+República Federal da Alemanha, Argentina, Bélgica, Brasil, Bulgária, Colômbia, Comunidade Económica Europeia, Dinamarca, República Dominicana, Equador, Espanha, Finlândia, França, Ghana, Grécia, Granada, Guatemala, Haiti, Hungria, Irlanda, Itália, Jamaica, Japão, Luxemburgo, México, Nigéria, Noruega, Papua-Nova Guiné, Países Baixos, Peru, República Democrática Alemã, República Unida dos Camarões, Reino Unido, São Vicente e Grenadinas, Samoa, São Tomé e Príncipe, Suécia, Suíça, Checoslováquia, Trindade e Tobago, União das Repúblicas Socialistas Soviéticas, Venezuela, Jugoslávia e Zaire.
+Direcção-Geral dos Negócios Económicos, 28 de Junho de 1984. - O Subdirector-Geral, Roberto Nuno de Oliveira e Silva Pereira de Sousa.
