@@ -1,0 +1,16 @@
+Portaria n.º 65/2003
+de 20 de Janeiro
+A Portaria n.º 543-D/2001, de 30 de Maio, que estabelece restrições à pesca com ganchorra na zona ocidental sul, teve em conta o estado em que os recursos se encontravam na altura da sua publicação.
+Considerando os novos dados científicos disponibilizados pelo Instituto de Investigação das Pescas e do Mar (IPIMAR), indiciam uma redução de abundância da amêijoa-branca e da ameijola, pretende-se agora rever esses limites, por forma a assegurar uma exploração sustentável dos recursos, tendo também em conta a realidade sócio-económica da actividade.
+Assim, ao abrigo do disposto nos artigos 4.º, n.º 2, alíneas d) e g), do Decreto-Lei n.º 278/87, de 7 de Julho, na redacção dada pelo Decreto-Lei n.º 383/98, de 27 de Novembro, e do artigo 13.º do regulamento aprovado pela Portaria n.º 1102-E/2000, de 22 de Novembro:
+Manda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:
+Único. As alíneas c) e d) do n.º 2.º da Portaria n.º 543-D/2001, de 30 de Maio, passam a ter a seguinte redacção:
+«2.º ...
+a) ...
+b) ...
+c) ...
+Amêijoa-branca (Spisula solida) - 250 kg;
+...
+d) É fixado o seguinte limite máximo de captura diária por embarcação:
+400 kg de ameijola + 200 kg de outros bivalves ou, em alternativa, 400 kg do conjunto de todas as espécies, com excepção da ameijola, desde que os quantitativos capturados por espécie não excedam os valores de referência referidos na alínea anterior.»
+Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Luís Filipe Vieira Frazão Gomes, Secretário de Estado Adjunto e das Pescas, em 23 de Dezembro de 2002.
