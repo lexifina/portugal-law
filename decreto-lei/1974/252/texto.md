@@ -1,0 +1,34 @@
+Decreto-Lei n.º 252/74
+de 12 de Junho
+A ideia básica que presidiu à criação da Empresa Pública de Parques Industriais, como instituição essencialmente orientada para o lançamento dos parques da directa iniciativa do Estado, foi a de uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira, com suficiente flexibilidade de actuação que permitisse responder com razoável prontidão e eficiência às necessidades correntes de gestão. Nessa linha de pensamento se consignou no Estatuto da Empresa - anexo II ao Decreto-Lei n.º 133/73, de 28 de Março - que ela se regeria pelas normas próprias das empresas comerciais em tudo quanto diga respeito à capacidade jurídica e competência dos seus órgãos, devendo a organização da sua contabilidade obedecer às regras de gestão empresarial. Além disso, deu-se particular ênfase à situação patrimonial da Empresa, tanto no que se refere às amortizações do activo, como à constituição de reservas ou ao apuramento de lucros.
+Pretendeu-se desta forma dotar a Empresa Pública de Parques Industriais com órgãos e instrumentos susceptíveis de garantirem uma gestão em moldes adequados, à semelhança das modernas sociedades anónimas, sem que, ao mesmo tempo, deixassem de ser acautelados os aspectos respeitantes à fiscalização dos dinheiros públicos nela envolvidos. Do mesmo modo se procurou intencionalmente evitar a duplicação de processos, que, convergindo para o mesmo objectivo, somente originam acréscimo de meios humanos e materiais, como, por exemplo, resultaria da existência de duas contabilidades - uma obedecendo às regras de contabilidade pública e outra às regras da contabilidade financeira e analítica de exploração.
+Todavia, na ausência de moldura legal para o efeito, e não tendo sido expressamente mencionado naqueles Estatutos que a Empresa está delas excluída, aplicam-se as determinações do Decreto n.º 22257, de 25 de Fevereiro de 1933, e subsequente regulamentação, o que, decididamente, não satisfaz aos propósitos tidos em vista na concepção e delineamento legal do perfil de gestão daquela empresa pública. Urge assim proceder à necessária rectificação dos seus Estatutos, de modo que as alterações a introduzir não entravem o prosseguimento dos propósitos assinalados.
+Com estes fundamentos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º O artigo 7.º do Estatuto da Empresa Pública de Parques Industriais, anexo ao Decreto-Lei n.º 133/73, de 28 de Março, passa a ter a seguinte redacção:
+Art. 7.º - 1. ...
+a) Contratar a execução de trabalhos incluídos nas atribuições da Empresa, assim como celebrar quaisquer outros contratos, incluindo os de arrendamento, e praticar quaisquer actos ou operações, seja qual for a sua natureza e valor.
+b) Organizar o orçamento anual de receita e despesa e apresentá-lo ao conselho fiscal;
+c) Elaborar o relatório e as contas anuais de gerência, submetendo-os ao parecer do conselho fiscal;
+d) Efectuar ou mandar efectuar conferências ao cofre da tesouraria quando o julgar conveniente;
+e) Delegar parcelas da sua competência em um ou mais dos seus membros ou em determinados funcionários, estabelecendo em cada caso os limites e condições de exercício da delegação;
+f) Com parecer favorável do conselho fiscal, fixar as categorias, tabelas de vencimentos e ajudas de custo do pessoal, que serão homologadas pelo Ministro da Coordenação Económica e pelo Secretário de Estado da Indústria e Energia;
+g) Admitir, promover, exonerar, aposentar e demitir o pessoal e exercer sobre ele a competente acção disciplinar, nos termos legais e regulamentares;
+h) Estabelecer a organização interna dos serviços e aprovar os respectivos regulamentos.
+2. Os contratos, actos ou operações de qualquer natureza e valor, mesmo os que dêem lugar a encargos em mais de um ano económico ou em ano que não seja aquele em que são celebrados ou praticados, estão isentos de visto do Tribunal de Contas e de registo da Direcção-Geral da Contabilidade Pública, necessitando, porém, de parecer favorável do conselho fiscal os que envolvam dispêndio superior a 200000$00 e autorização do Secretário de Estado da Indústria e Energia aqueles cujo montante seja superior a 800000$00.
+3. Os contratos, actos ou operações que dêem lugar a encargos em mais de um ano económico, ou em ano económico diferente do da sua celebração, ficam também dispensados das formalidades referidas no artigo 6.º do Decreto-Lei n.º 48234, de 31 de Janeiro de 1968, mas carecem de autorização prévia do Secretário de Estado da Indústria e Energia todos os que dêem lugar a encargos anuais superiores a 250000$00 e cujo prazo de execução excede três anos.
+4. Os arrendamentos rústicos ou urbanos necessários à actividade da Empresa estão isentos de todas as formalidades exigidas para o arrendamento de imóveis destinados aos serviços de Estado, carecendo, no entanto, de parecer favorável do conselho fiscal.
+5. A competência dos administradores regionais será definida, para cada caso, pelo conselho de administração.
+Art. 2.º É aditado ao artigo 35.º do referido Estatuto um n.º 2, com a seguinte redacção:
+Art. 35.º - 1. ...
+2. A prestação de contas para efeitos do julgamento pelo Tribunal de Contas referido no artigo 32.º do Decreto n.º 22257, de 25 de Fevereiro de 1933, consistirá na apresentação àquele Tribunal, até 31 de Maio do ano imediato, dos seguintes documentos:
+a) Relação nominal em duplicado dos membros do conselho de administração, conselho fiscal e conselho geral;
+b) Mapas dos balanços de situação e de resultados, relatório do conselho de administração e parecer do conselho fiscal publicados nos termos do n.º 1 deste artigo;
+c) Inventários, certificados pelo conselho fiscal, demonstrando os valores apresentados no balanço de situação da Empresa;
+d) Balancetes analíticos das contas do Razão mencionadas nos balanços de resultados ou desenvolvimento publicados;
+e) Balancetes do Razão Geral antes e depois dos lançamentos de rectificação ou regularização e do apuramento de resultados, bem como cópia do despacho de homologação das taxas de amortização autorizadas;
+f) Fotocópias das actas dos conselhos de administração, fiscal e geral relativas à apresentação, parecer e aprovação de contas.
+Visto e aprovado em Conselho de Ministros. - Adelino da Palma Carlos - Vasco Vieira de Almeida.
+Promulgado em 4 de Junho de 1974.
+Publique-se.
+O Presidente da República, ANTÓNIO DE SPÍNOLA.
