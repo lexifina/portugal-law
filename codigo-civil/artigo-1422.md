@@ -12,4 +12,8 @@ b) Destinar a sua fracção a usos ofensivos dos bons costumes;
 
 c) Dar-lhe uso diverso do fim a que é destinada;
 
-d) Praticar quaisquer actos ou actividades que tenham sido proibidos no título constitutivo ou, posteriormente, por acordo de todos os condóminos.
+d) Praticar quaisquer actos ou actividades que tenham sido proibidos no título constitutivo ou, posteriormente, por deliberação da assembleia de condóminos aprovada sem oposição.
+
+3 - As obras que modifiquem a linha arquitectónica ou o arranjo estético do edifício podem ser realizadas se para tal se obtiver prévia autorização da assembleia de condóminos, aprovada por maioria representativa de dois terços do valor total do prédio.
+
+4 - Sempre que o título constitutivo não disponha sobre o fim de cada fracção autónoma, a alteração ao seu uso carece da autorização da assembleia de condóminos, aprovada por maioria representativa de dois terços do valor total do prédio.

@@ -8,4 +8,6 @@
 
 3. O administrador pode ser exonerado pelo tribunal, a requerimento de qualquer condómino, quando se mostre que praticou irregularidades ou agiu com negligência no exercício das suas funções.
 
-4. O cargo de administrador é remunerável, e tanto pode ser desempenhado por um dos condóminos como por terceiro; o período de funções é de dois anos, renováveis.
+4 - O cargo de administrador é remunerável e tanto pode ser desempenhado por um dos condóminos como por terceiro; o período de funções é, salvo disposição em contrário, de um ano, renovável.
+
+5 - O administrador mantém-se em funcões até que seja eleito ou nomeado o seu sucessor.

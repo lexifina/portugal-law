@@ -8,7 +8,7 @@ a) Convocar a assembleia dos condóminos;
 
 b) Elaborar o orçamento das receitas e despesas relativas a cada ano;
 
-c) Efectuar e manter o seguro do edifício contra o risco de incêndio;
+c) Verificar a existência do seguro contra o risco de incêndio, propondo à assembleia o montante do capital seguro;
 
 d) Cobrar as receitas e efectuar as despesas comuns;
 
@@ -21,3 +21,9 @@ g) Regular o uso das coisas comuns e a prestação dos serviços de interesse co
 h) Executar as deliberações da assembleia;
 
 i) Representar o conjunto dos condóminos perante as autoridades administrativas.
+
+j) Prestar contas à assembleia;
+
+l) Assegurar a execução do regulamento e das disposições legais e administrativas relativas ao condomínio;
+
+m) Guardar e manter todos os documentos que digam respeito ao condomínio.

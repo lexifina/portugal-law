@@ -2,15 +2,15 @@
 
 ### (Partes comuns do prédio)
 
-1. São comuns as seguintes partes do edifício:
+1 - São comuns as seguintes partes do edifício:
 
 a) O solo, bem como os alicerces, colunas, pilares, paredes mestras e todas as partes restantes que constituem a estrutura do prédio;
 
-b) O telhado ou os terraços de cobertura, ainda que destinados ao uso do último pavimento;
+b) O telhado ou os terraços de cobertura, ainda que destinados ao uso de qualquer fracção;
 
 c) As entradas, vestíbulos, escadas e corredores de uso ou passagem comum a dois ou mais condóminos;
 
-d) As instalações gerais de água, electricidade, aquecimento, ar condicionado e semelhantes.
+d) As instalações gerais de água, electricidade, aquecimento, ar condicionado, gás, comunicações e semelhantes.
 
 2. Presumem-se ainda comuns:
 
@@ -20,6 +20,8 @@ b) Os ascensores;
 
 c) As dependências destinadas ao uso e habitação do porteiro;
 
-d) As garagens;
+d) As garagens e outros lugares de estacionamento;
 
 e) Em geral, as coisas que não sejam afectadas ao uso exclusivo de um dos condóminos.
+
+3 - O título constitutivo pode afectar ao uso exclusivo de um condómino certas zonas das partes comuns.

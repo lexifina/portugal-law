@@ -2,6 +2,6 @@
 
 ### (Seguro obrigatório)
 
-1. É obrigatório o seguro do edifício contra o risco de incêndio.
+1 - É obrigatório o seguro contra o risco de incêndio do edifício, quer quanto às fracções autónomas, quer relativamente às partes comuns.
 
-2. Qualquer dos condóminos pode efectuar o seguro quando o administrador o não tenha feito, ficando com o direito de reaver de cada um dos outros a parte que lhe couber no prémio.
+2 - O seguro deve ser celebrado pelos condóminos; o administrador deve, no entanto, efectuá-lo quando os condóminos o não hajam feito dentro do prazo e pelo valor que, para o efeito, tenha sido fixado em assembleia; nesse caso, ficará com o direito de reaver deles o respectivo prémio.
