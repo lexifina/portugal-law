@@ -24,4 +24,4 @@ c) A verificação dos factos previstos nos n.os 2 e 3 do artigo 79.º e 8 do ar
 
 8 - As sanções só poderão ser aplicadas mediante processo escrito e com audição prévia da associada.
 
-9 - O produto da aplicação das sanções de natureza pecuniária reverte a favor do Fundo de Garantia do Crédito Agrícola Mútuo.
+9 - O produto da aplicação das sanções de natureza pecuniária reverte integralmente a favor do Fundo de Garantia do Crédito Agrícola Mútuo independentemente da fase em que se torne definitiva ou transite em julgado a decisão condenatória.
