@@ -1,0 +1,17 @@
+Portaria n.º 121/79
+de 16 de Março
+Considerações de natureza agronómica levaram uma das empresas adubeiras a substituir a totalidade da sua produção de adubo 10-15-15 c/B pela de adubo 7-14-14 c/B, que produzirá pela primeira vez, a metade da sua produção de adubo 12-24-12 por adubo 12-24-8, que já tinha produzido anteriormente.
+Resulta daí a necessidade de definir o regime de preços máximos para o adubo que vai ser produzido pela primeira vez e de fixar os preços máximos de venda ao consumidor dos adubos que não foram incluídos na Portaria n.º 548/78, de 14 de Setembro.
+O encargo do Fundo de Abastecimento não sofre agravamento, porque as quantidades substituídas são as mesmas e os subsídios, por tonelada dos novos adubos, são inferiores aos dos anteriores.
+Nestes termos:
+Ao abrigo do disposto no n.º 3 do artigo 1.º do Decreto-Lei n.º 75-Q/77, de 28 de Fevereiro:
+Manda o Governo da República Portuguesa, pelos Secretários de Estado do Orçamento, da Energia e Indústrias de Base e do Comércio Interno:
+1.º A venda de adubo 7-14-14 c/B fica sujeita ao regime de preços máximos a que se refere a alínea a) do n.º 1 do artigo 1.º do Decreto-Lei n.º 329-A/74, de 10 de Julho.
+2.º Os preços máximos de venda ao consumidor dos adubos compostos 7-14-14 c/B e 12-24-8 e as margens de comercialização globais atribuídas aos revendedores (grossistas e retalhistas) são os constantes do quadro anexo.
+3.º Aplicam-se aos adubos referidos na presente portaria as disposições constantes dos n.os 2.º, 3.º, 5.º e 6.º da Portaria n.º 548/78, de 14 de Setembro.
+4.º Esta portaria entra imediatamente em vigor.
+Ministérios das Finanças e do Plano, da Indústria e Tecnologia e do Comércio e Turismo, 20 de Fevereiro de 1979. - O Secretário de Estado do Orçamento, João Pinto Ribeiro. - O Secretário de Estado da Energia e Indústrias de Base, Hugo Fernando de Jesus. - O Secretário de Estado do Comércio Interno, Manuel Duarte Pereira.
+
+Quadro a que se refere o n.º 2.º
+(ver documento original)
+O Secretário de Estado do Orçamento, João Pinto Ribeiro. - O Secretário de Estado da Energia e Indústrias de Base, Hugo Fernando de Jesus. - O Secretário de Estado do Comércio Interno, Manuel Duarte Pereira.
