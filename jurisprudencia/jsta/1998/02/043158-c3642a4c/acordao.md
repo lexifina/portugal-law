@@ -1,0 +1,45 @@
+# Acórdão do Supremo Tribunal Administrativo de 1998-02-25, processo 043158
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 043158
+
+**Data do Acordão:** 02/25/1998
+
+**Tribunal:** 3 SUBSECÇÃO DO CA
+
+**Relator:** RIBEIRO DA CUNHA
+
+**Descritores:** ARMADA MILITAR; COMPETÊNCIA DO CHEFE DO ESTADO MAIOR DA ARMADA; INCOMPETÊNCIA EM RAZÃO DO AUTOR DO ACTO; COMPETÊNCIA DO TRIBUNAL CENTRAL ADMINISTRATIVO
+
+**Nº Convencional:** JSTA00048842
+
+**Nº do Documento:** SA119980225043158
+
+**Data de Entrada:** 10/28/1997
+
+**Recorrente:** PEREIRA , SALVADOR
+
+**Recorrido 1:** CEMA
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 98
+
+**Privacidade:** 01
+
+**Meio Processual:** REC CONT.
+
+**Objecto:** DESP CEMA DE 1997/08/08.
+
+**Decisão:** INCOMPETÊNCIA.
+
+**Área Temática 1:** DIR ADM CONT.
+
+**Área Temática 2:** DIR JUDIC - ORG COMP TRIB.
+
+**Legislação Nacional:** ETAF84 ART40 B ART114 ART119 N2.; PORT 398/97 DE 1997/06/18.; Texto Integral
+
+## Sumário
+
+A 1 Secção do Supremo Tribunal Administrativo é incompetente em razão do autor do acto para conhecer de recurso contencioso directo de anulação de acto praticado pelo Chefe do Estado Maior da Armada, interposto posteriormente a 15/9/97.
