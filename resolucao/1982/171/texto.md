@@ -1,0 +1,3 @@
+Resolução n.º 171/82
+O Conselho de Ministros, reunido em 26 de Agosto de 1982, resolveu, nos termos do n.º 1 do artigo 7.º do Estatuto da ANA, E. P., aprovado pelo Decreto-Lei n.º 246/79, de 25 de Julho, renovar os mandatos dos vogais do conselho de gerência da ANA, E. P., engenheiro Henrique Azinhais de Melo Risques Pereira, engenheiro José Francisco Quinteiro Fernandes da Silva e Dr. Carlos Jorge Ramalho dos Santos Ferreira, exercendo o engenheiro Risques Pereira as funções de presidente do conselho de gerência enquanto durar o impedimento do respectivo titular.
+Presidência do Conselho de Ministros, 1 de Setembro de 1982. - O Vice-Primeiro-Ministro, Diogo Pinto de Freitas do Amaral.
