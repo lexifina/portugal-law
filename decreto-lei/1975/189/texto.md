@@ -1,0 +1,20 @@
+Decreto-Lei n.º 189/75
+de 10 de Abril
+1. O Decreto-Lei n.º 440/74, de 11 de Setembro, fixou as condições de atribuição de título profissional de enfermeiro aos indivíduos habilitados com o curso de auxiliar de enfermagem. No relatório do mesmo diploma ponderou-se que «no decurso dos últimos decénios, a procura crescente dos serviços hospitalares, a complexidade progressiva dos cuidados prestados, a utilização dos estabelecimentos públicos por extractos populacionais mais exigentes e a limitação dos horários de trabalho provocaram súbito acréscimo das necessidades de mão-de-obra hospitalar, que não foi acompanhado por melhoria das condições oferecidas ao pessoal de enfermagem».
+2. Por outro lado, desde há muito que o problema da equiparação dos cursos de enfermagem militar aos cursos de enfermagem civil reclama uma solução que traduza o reconhecimento de serviços prestados e contribua para um aproveitamento de potencial humano ao serviço do País, eliminando situações anómalas que, à margem da lei, se foram desenvolvendo por imposição das circunstâncias.
+3. Entendeu-se que até à reorganização da classe de enfermagem em novos moldes, que, certamente, constituirá uma das bases de lançamento do Serviço Nacional de Saúde em Portugal, poderia transitoriamente proceder-se àquela equiparação dentro de certo condicionalismo, a fim de evitar qualquer quebra de qualidade de cuidados de saúde prestados à população.
+Nesta conformidade:
+Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Aos enfermeiros do quadro permanente do Exército e aos da Força Aérea cuja formação tenha sido feita nos moldes dos do Exército, será concedido o título de enfermeiro civil, mediante a passagem da carteira profissional pelos sindicatos da zona do seu domicílio, desde que o requeiram até 31 de Dezembro de 1975.
+Art. 2.º - 1. Sem prejuízo do que vier a ser estabelecido quanto à nova estruturação das carreiras de enfermagem, o acesso dos enfermeiros com o título de enfermeiro civil às carreiras civis fica dependente da habilitação com curso de promoção profissional regulamentado na Portaria n.º 107/75, de 17 de Fevereiro.
+2. O curso de promoção referido no n.º 1 poderá ser ministrado nos hospitais militares, devendo a frequência ser aberta aos enfermeiros militares ou civis, e, paralelamente, os enfermeiros militares poderão frequentar o mesmo curso em qualquer centro de formação a que se refere o n.º 8.º da Portaria n.º 107/75, de 17 de Fevereiro.
+3. Da não obtenção do curso de promoção não poderá resultar qualquer prejuízo para os enfermeiros militares que exerçam funções nos serviços de saúde militar.
+Art. 3.º Os indivíduos que durante o seu serviço militar obrigatório obtiveram o curso de sargentos milicianos no serviço de saúde militar (2.º ciclo) e que à data da publicação deste diploma se encontrem na situação de disponibilidade há menos de um ano, e provem ter dificuldade de emprego, poderão vir a obter o título de enfermeiro nas condições seguintes:
+a) Requerer a integração no Exército ou Força Aérea a fim de obter o tempo necessário de exercício (total de três anos após o curso de sargentos milicianos), de modo a poder ingressar no curso de promoção nos termos do artigo 2.º;
+b) Os indivíduos aprovados no curso de sargentos milicianos no serviço de saúde militar que se encontram a prestar serviço de enfermagem em instituições hospitalares, desde que exerçam estas funções há mais de três anos, poderão igualmente frequentar o curso de promoção referido na alínea anterior.
+Art. 4.º As possibilidades de equiparações previstas neste diploma cessam com a extinção do curso de promoção, nos termos do n.º 27.º da Portaria n.º 107/75, de 17 de Fevereiro.
+Art. 5.º Fica revogada a legislação em contrário.
+Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Silvano Ribeiro - Maria de Lourdes Pintasilgo.
+Promulgado em 2 de Abril de 1975.
+Publique-se.
+O Presidente da República, FRANCISCO DA COSTA GOMES.
