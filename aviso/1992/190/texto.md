@@ -1,0 +1,4 @@
+Aviso n.º 190/92
+Por ordem superior se torna público ter o Governo dos Estados Unidos da América depositado junto do Secretário-Geral das Nações Unidas, em 8 de Junho de 1992, o instrumento de ratificação do Pacto Internacional Relativo aos Direitos Civis e Políticos, adoptado pela Assembleia Geral das Nações Unidas em 16 de Dezembro de 1966.
+O referido instrumento de ratificação contém reservas e declarações relativas a vários artigos do Pacto. Entre as declarações consta uma pela qual os Estados Unidos da América aceitam a competência do Comité dos Direitos do Homem para receber e considerar comunicações ao abrigo do artigo 41.º que permite a um Estado Parte reclamar quando outro Estado Parte não cumpre as obrigações decorrentes do Pacto.
+Direcção-Geral dos Negócios Político-Económicos, 12 de Novembro de 1992. - O Director de Serviços dos Assuntos Multilaterais, António Nunes de Carvalho Santana Carlos.
