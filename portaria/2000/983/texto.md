@@ -1,0 +1,14 @@
+Portaria n.º 983/2000
+de 13 de Outubro
+Com fundamento no disposto nos artigos 20.º da Lei n.º 30/86, de 27 de Agosto, e 79.º do Decreto-Lei n.º 136/96, de 14 de Agosto;
+Ouvidos o Conselho Cinegético Municipal e o Conselho Nacional da Caça e da Conservação da Fauna:
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+1.º Ficam sujeitos ao regime cinegético especial vários prédios rústicos sitos nas freguesias de Miuzela, Porto de Ovelha e Cerdeira do Côa, município de Almeida, com a área total de 1623,33 ha, conforme planta anexa à presente portaria, que dela faz parte integrante.
+2.º Pela presente portaria é concessionada, até 31 de Maio de 2019, à Associação Desportiva e Cultural de Valverde, com o número de pessoa colectiva 501936076 e sede em Valverde, Almeida, a zona de caça associativa da Miuzela e Porto de Ovelha (processo n.º 2377 da Direcção-Geral das Florestas).
+3.º A zona de caça associativa será obrigatoriamente sinalizada com tabuletas do modelo n.º 3 definido na Portaria n.º 697/88, de 17 de Outubro, conjuntamente com o sinal do modelo anexo à Portaria n.º 569/89, de 22 de Julho.
+4.º A eficácia da concessão está dependente de prévia sinalização, de acordo com as condições definidas nos n.os 6.º a 9.º da Portaria n.º 697/88 e 3.º e 4.º da Portaria n.º 569/89.
+5.º Os prédios rústicos que integram esta zona de caça associativa ficam, nos termos do disposto no artigo 72.º do Decreto-Lei n.º 136/96, submetidos ao regime florestal para efeitos de policiamento e fiscalização da caça, ficando a entidade concessionária obrigada a assegurar a sua fiscalização permanente por um guarda florestal auxiliar dotado de meio de transporte, em observância do disposto no n.º 7.º, n.os 2 e 3, da Portaria n.º 219-A/91, de 18 de Março.
+6.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural, em 25 de Setembro de 2000.
+
+(ver planta no documento original)
