@@ -1,0 +1,42 @@
+Portaria n.º 19428
+A Portaria n.º 10515, de 26 de Outubro de 1943, aprovou as normas a observar nas cantinas dos centros escolares da Mocidade Portuguesa e da Mocidade Portuguesa Feminina.
+A experiência aconselha a alterar, apenas no que respeita à Mocidade Portuguesa, algumas dessas normas.
+Nestas condições:
+Manda o Governo da República Portuguesa, pelo Ministro da Educação Nacional, que, relativamente aos centros escolares da Mocidade Portuguesa, se considerem revogados os artigos 17.º, 19.º e 20.º das normas anexas à Portaria n.º 10515, de 26 de Outubro de 1943, e passe a observar-se o seguinte:
+1.º As receitas dos centros devem classificar-se, segundo a sua proveniência, pela seguinte forma:
+Quotização.
+Contribuição dos amigos do centro.
+Subsídios.
+Emolumentos.
+Comparticipação do Comissariado Nacional da Mocidade Portuguesa.
+Cantina.
+Donativos e legados.
+Saldos da gerência anterior.
+Outras receitas.
+2.º Com aplicação aos fins indicados no artigo 18.º das normas anexas à Portaria n.º 10515, criar-se-ão fundos a que serão atribuídas as seguintes percentagens de cada uma das receitas a que se refere o artigo 17.º:
+1) Fundo de camaradagem da Mocidade Portuguesa:
+... Percentagens
+a) Quotização ... 20
+b) Contribuição dos amigos do centro ... 60
+c) Emolumentos ... 100
+d) Comparticipação do Comissariado Nacional da Mocidade Portuguesa ... 100
+e) Cantina ... 60
+f) Saldos da gerência anterior ... 20
+g) Outras receias ... 30
+2) Fundo de visitas de estudo:
+a) Quotização ... 10
+b) Contribuição dos amigos do centro ... 20
+c) Saldos da gerência anterior ... 10
+d) Outras receitas ... 30
+3) Fundo disponível:
+a) Quotização ... 70
+b) Contribuição dos amigos do centro ... 20
+c) Cantina ... 40
+d) Saldos da gerência anterior ... 70
+e) Outras receitas ... 40
+§ único. Com o fim de contribuírem para encargos que mais estrita e directamente se relacionam com actividades dos centros (casas da Mocidade, campeonatos desportivos, acampamentos e provas de aptidão distritais, centros de férias, etc.), deverão estes centros remeter ao Comissariado Nacional da Mocidade Portuguesa 50 por cento da receita distribuída ao fundo disponível proveniente do saldo da gerência anterior e da quotização do ano em curso, sendo a remessa feita nos seguintes prazos:
+a) Até 31 de Outubro, a parte relativa ao saldo da gerência anterior;
+b) Até 15 de cada mês, a parte relativa à quotização cobrada no mês anterior.
+3.º Os donativos e legados ou seus rendimentos atribuir-se-ão aos fundos com destino aos fins de carácter educativo que tiverem sido expressamente designados.
+§ único. No caso de não serem expressamente consignadas a qualquer fim, as receitas referidas no corpo deste artigo serão atribuídas aos diversos fundos na mesma proporção das «Outras receitas».
+Ministério da Educação Nacional, 10 de Outubro de 1962. - Pelo Ministro da Educação Nacional, Carlos Eduardo Bastos de Soveral, Subsecretário de Estado da Educação Nacional.
