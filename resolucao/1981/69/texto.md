@@ -1,0 +1,3 @@
+Resolução n.º 69/81
+O Conselho de Ministros, reunido em 17 de Março de 1981, resolveu, ao abrigo do § 1.º do artigo 7.º do Decreto-Lei n.º 48912, de 18 de Março de 1969, adjudicar a concessão da exploração da zona de jogo permanente de Tróia às únicas empresas concorrentes, Torralta - Clube Internacional de Férias, S. A. R. L., e S. I. I. - Soberana - Investimentos Imobiliários, S. A. R. L., autorizando o Ministro do Comércio e Turismo a outorgar, em nome do Governo, no respectivo contrato de concessão.
+Presidência do Conselho de Ministros, 17 de Março de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
