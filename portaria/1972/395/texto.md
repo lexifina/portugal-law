@@ -1,0 +1,7 @@
+Portaria n.º 395/72
+de 20 de Julho
+Todos os prédios situados nas áreas de distribuição postal domiciliária urbana de muitas localidades do País estão já providos de receptáculos destinados à entrega da correspondência ordinária não volumosa.
+Os bons resultados obtidos com aquele sistema de distribuição aconselham a torná-lo extensivo às localidades que estão em ritmo crescente de urbanização, e onde, a par disso, se adoptam soluções em altura nas áreas de há muito urbanizadas. Estão nesta situação a vila de Loures e algumas localidades do respectivo concelho, o que mereceu deliberação favorável do respectivo Município.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelos Ministros do Interior e das Comunicações, nos termos do disposto no § 3.º do artigo 1.º do Regulamento para o Serviço de Receptáculos Postais Domiciliários, aprovado pelo Decreto-Lei n.º 37927, de 1 de Agosto de 1950, tornar extensivas à área de distribuição postal urbana da vila de Loures, e ainda às povoações de Botica, Flamenga, Guerreiros, Mealhada, Pinheiro de Loures, Ponte de Frielas, Póvoa de Santo Adrião e Santo António dos Cavaleiros, pertencentes ao mesmo concelho, todas as disposições do citado Regulamento, fixando-se para o efeito o prazo limite de 30 de Junho de 1973.
+Ministérios do Interior e das Comunicações, 6 de Julho de 1972. - O Ministro do Interior, António Manuel Gonçalves Rapazote. - O Ministro das Comunicações, Rui Alves da Silva Sanches.
