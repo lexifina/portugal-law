@@ -1,0 +1,55 @@
+# Acórdão do Supremo Tribunal Administrativo de 1993-01-13, processo 013647
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 013647
+
+**Data do Acordão:** 01/13/1993
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** RODRIGUES PARDAL
+
+**Descritores:** CONTENCIOSO ADUANEIRO; LIQUIDAÇÃO; PROCESSO PRÓPRIO; LIQUIDAÇÃO PELOS SERVIÇOS ADUANEIROS; RECURSO; DESPACHO MINISTERIAL; ACTO INTERNO; RECURSO CONTENCIOSO
+
+**Nº Convencional:** JSTA00036508
+
+**Nº do Documento:** SA219930113013647
+
+**Data de Entrada:** 09/18/1991
+
+**Recorrente:** SOINTAL-SOC DE INICIATIVAS TURISTICAS ALGARVIAS SA
+
+**Recorrido 1:** SE DOS ASSUNTOS FISCAIS
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 93
+
+**Privacidade:** 1
+
+**Meio Processual:** REC CONT.
+
+**Objecto:** DESP SE DOS ASSUNTOS FISCAIS DE 1991/08/09.
+
+**Decisão:** REJEIÇÃO REC CONT.
+
+**Área Temática 1:** DIR ADM CONT - ACTO.
+
+**Legislação Nacional:** DL 48912 DE 1969/03/18 ART34.; DL 422/89 DE 1989/02/12 ART84.; ETAF84ART68 N1 A ART32 N1 C ART33 N1 C.; CPTRIB91 ART119 ART120 ART118 N1 N2 ART72 ART73 ART74.; CIVA84 ART27 N3.; REFORMA ADUANEIRA APROVADA PELO DL 46311 DE 1965/04/27 ART52 N24.; DL 309/90 DE 1990/09/29 ART1 ART2 ART3.; DL 240/91 DE 1991/07/05 ART2 N2.; DL 271-A/75 DE 1975/05/31 ART5.; DL 225-F/76 DE 1976/03/31 ART1.; DL 133/83 DE 1983/03/18 ART2 ART3 ART6.; DL 37-A/86 DE 1986/02/28 ART1 ART2 ART3.; CIRC88 ART1 ART12.; DL 504-E/85 DE 1985/12/30 ART1.; EBFISC89 ART16 ART17 N2 N3.; CADU41 ART14 B PAR2.; LPTA85 ART25 N1 ART130 N1.; CONST89 ART268 N4.; RSTA57 ART57 PAR4.
+
+**Legislação Comunitária:** REG CONS CEE 1552/89 DE 1989/05/29.; REG CONS CEE 1854/89 DE 1989/06/14 ART1.
+
+**Jurisprudência Nacional:** AC STAPLENO PROC12082 DE 1992/03/25.; AC STA PROC13641 DE 1993/05/10.; AC STA PROC13734 DE 1992/07/01.; AC STA PROC13648 DE 1992/10/07.
+
+**Referência a Doutrina:** ALBERTO XAVIER CONCEITO E NATUREZA DO ACTO TRIBUTÁRIO PAG114-115.; SOARES MARTINEZ MANUAL DE DIREITO FISCAL PAG224-249.; SAINZ DE BUJANDA LECCIONES DE DERECHO FISCAL 5ED PAG185.; ROGÉRIO SOARES DIREITO ADMINISTRATIVO PAG91.; MARIA TERESA BARBAT VEIGA DE FARIA ESTATUTO DOS BENEFÍCIOS FISCAIS 2ED PAG93.; F PINTO FERNANDES E OUTRO ESTATUTO DOS BENEFÍCIOS FISCAIS PAG90.; MARCELLO CAETANO MANUAL DE DIREITO ADMINISTRATIVO 8ED VII PAG1222.; ESTEVES DE OLIVEIRA DIREITO ADMINISTRATIVO PAG413.
+
+## Sumário
+
+I - Só a liquidação efectuada no processo próprio é que defina a situação jurídica do contribuinte.
+
+II - A liquidação tributária aduaneira torna-se sindicável a partir da abertura do prazo para pagamento.
+
+III - Constitui um acto interno, afirmativo o despacho ministerial que teve por fim indicar aos Serviços Aduaneiros a interpretação e aplicação das normas tributárias.
+
+IV - O despacho interno, opiniativo não é lesivo dos interesses do recorrente, por isso não é irrecorrível.
