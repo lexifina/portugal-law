@@ -1,0 +1,7 @@
+Aviso n.º 1/93
+Por ordem superior se torna público que, por nota de 6 de Outubro de 1992, o Secretário-Geral das Nações Unidas, na sua qualidade de depositário, comunicou ter, a 23 de Julho de 1992, o Governo do México depositado o seu instrumento de ratificação da Convenção sobre a Cobrança de Alimentos no Estrangeiro, concluída em Nova Iorque em 20 de Junho de 1956.
+Nos termos do artigo 14.º, n.º 2, a Convenção entrou em vigor para o México no 30.º dia seguinte à data do depósito do instrumento, isto é, em 22 de Agosto de 1992.
+Foi designada pelo Governo do México a seguinte autoridade para actuar no seu território como autoridade transmissora e receptora, nos termos do artigo 2.º, n.os 1 e 2, da Convenção:
+Secretaria de Relaciones Exteriores, Consultória Jurídica, Homero 213, piso 16, Col. Chapultepec Morales, México, D. F., telefones: (525) 254-7306 e 254-7318; telefax: (525) 327-3201; telex: 1763479.
+Portugal é parte na mesma Convenção, que foi aprovada, para adesão, pelo Decreto-Lei n.º 45942, de 28 de Setembro de 1964, tendo depositado o seu instrumento de adesão em 25 de Janeiro de 1965, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 34, de 10 de Fevereiro de 1965. A autoridade central em Portugal é a Direcção-Geral dos Serviços Judiciários, do Ministério da Justiça.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 12 de Novembro de 1992. - O Chefe do Serviço Jurídico e de Tratados, António Salgado Manso Preto Mendes Cruz.
