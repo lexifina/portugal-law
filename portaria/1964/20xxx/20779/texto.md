@@ -1,0 +1,3 @@
+Portaria n.º 20779
+Manda o Governo da República Portuguesa, pelo Ministro da Educação Nacional, que o Prémio Almirante Américo Tomás, a atribuir a dois alunos (um de cada sexo) das escolas primárias da ilha de Porto Santo e a que se refere o regulamento aprovado pela Portaria n.º 19589, publicada no Diário do Governo n.º 296, 1.ª série, de 27 de Dezembro de 1962, seja também atribuído a dois alunos de ambos os sexos das escolas primárias da ilha da Madeira, aplicando-se-lhes as disposições estabelecidas no mesmo regulamento.
+Ministério da Educação Nacional, 28 de Agosto de 1964. - O Ministro da Educação Nacional, Inocêncio Galvão Teles.
