@@ -8,4 +8,4 @@
 
 3. Sendo declarado nulo o casamento católico, o prazo conta-se a partir do registo da sentença proferida pelos tribunais eclesiásticos; no caso de divórcio ou anulação do casamento civil, o prazo conta-se a partir do trânsito em julgado da respectiva sentença.
 
-4. Cessa o impedimento do prazo internupcial se o casamento se tiver dissolvido por conversão da separação judicial de pessoas e bens em divórcio, salvo se não tiverem decorrido desde a separação os prazos referidos nos números anteriores, e ainda quando o divórcio houver sido decretado com fundamento nos factos previstos nas alíneas f) e h) do artigo 1778.º
+4. Cessa o impedimento do prazo internupcial se o casamento se tiver dissolvido por conversão da separação judicial de pessoas e bens em divórcio, salvo se não tiverem decorrido desde a separação os prazos referidos nos números anteriores, e ainda quando o divórcio houver sido decretado com fundamento nos factos previstos nas alíneas f) e h) do artigo 1778.º º

@@ -6,7 +6,7 @@
 
 ### (Fundamentos)
 
-1. A separação litigiosa de pessoas e bens pode ser requerida por qualquer dos cônjuges com fundamento em algum dos factos seguintes::
+A separação litigiosa de pessoas e bens pode ser requerida por qualquer dos cônjuges com fundamento em alguns dos factos seguintes:
 
 a) Adultério do outro cônjuge;
 
@@ -14,16 +14,14 @@ b) Práticas anticoncepcionais ou de aberração sexual exercidas contra a vonta
 
 c) Condenação definitiva do outro cônjuge, por crime doloso, em pena de prisão superior a dois anos, seja qual for a natureza desta;
 
-d) Condenação definitiva pelo crime de lenocínio praticado contra descendente ou irmã do requerente, ou por homicídio doloso, ainda que não consumado, contra o requerente ou qualquer parente deste na linha recta ou até ao terceiro grau da linha colateral;
+d) Condenação definitiva pelo crime de lenocínio praticado contra descendente ou irmã do requerente, ou por homicídio doloso, ainda que não consumado, contra o requerente ou qualquer parente deste na linha recta ou até ao 3.º grau da linha colateral;
 
 e) Vida e costumes desonrosos do outro cônjuge;
 
-f) Abandono completo do lar conjugal por parte do outro cônjuge, por tempo superior a três anos;
+f) Abandono completo do lar conjugal por parte do outro cônjuge por tempo superior a três anos;
 
 g) O decaimento em acção de divórcio ou separação na qual tenham sido feitas imputações ofensivas da honra e dignidade do outro cônjuge;
 
-h) A separação de facto livremente consentida, por cinco anos consecutivos;
+h) A separação de facto por seis anos consecutivos;
 
 i) Qualquer outro facto que ofenda gravemente a integridade física ou moral do requerente.
-
-2. O prazo a que se reporta a alínea h) do número anterior é relevante, mesmo que iniciado ou decorrido anteriormente à data da publicação do diploma que altera a redacção deste artigo.
