@@ -1,0 +1,54 @@
+Portaria n.º 796/83
+de 29 de Julho
+Sob proposta do conselho científico do Instituto Superior de Ciências do Trabalho e da Empresa;
+Ao abrigo do disposto no artigo 2.º do Decreto n.º 128-A/79, de 23 de Novembro:
+Manda o Governo da República Portuguesa, pelo Ministro da Educação, aprovar o seguinte:
+1.º
+(Plano de estudos)
+O plano de estudos do curso de licenciatura em Sociologia professado no Instituto Superior de Ciências do Trabalho e da Empresa, adiante simplesmente designado por «curso», é o constante do anexo I à presente portaria.
+2.º
+(Precedências)
+A tabela e o regime de precedências serão fixados pelo conselho científico, ouvido o conselho pedagógico.
+3.º
+(Classificação final)
+A classificação final do curso será a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a 5 décimas), das classificações das disciplinas e seminário que integram o plano de estudos.
+4.º
+(Disciplinas de opção)
+1 - Os elencos das disciplinas de opção, gerais (2.º e 3.º anos), de sociologias especializadas (4.º ano) e de formação complementar (4.º ano) serão fixados anualmente pelo conselho científico.
+2 - O conselho científico fixará o número máximo de alunos a admitir à inscrição nas disciplinas referidas no n.º 1.
+3 - O número mínimo de alunos a admitir à inscrição nas disciplinas a que se refere o n.º 1 é de 10.
+4 - Exceptuam-se do disposto no n.º 3 os casos em que:
+a) O docente assegure a docência da disciplina a título gratuito;
+b) O docente assegure a regência da disciplina para além do número máximo de horas de serviço de aulas ou seminários a que é obrigado por lei;
+c) Não existindo outro serviço para distribuir ao docente, este complete com a regência da disciplina o número de horas de ensino que por lei deva assegurar.
+5.º
+(Alteração ao plano de estudos em 1982-1983)
+É aprovado o desdobramento, efectuado em 1982-1983, da disciplina de Sociologia do Desenvolvimento, do 3.º ano curricular do plano de estudos do curso fixado pela Portaria n.º 663/79, de 10 de Dezembro, nas disciplinas de Sociologia Rural, Sociologia Urbana e Sociologia do Desenvolvimento.
+6.º
+(Integração curricular)
+Os alunos que frequentam ou frequentaram o plano de estudos fixado pela Portaria n.º 663/79, de 10 de Dezembro, serão integrados no plano de estudos fixado pela presente portaria, de acordo com regras a fixar pelo conselho científico.
+7.º
+(Aplicação)
+O disposto na presente portaria aplica-se a partir do ano lectivo de 1983-1984, inclusive, a todos os anos curriculares.
+8.º
+(Disposição revogatória)
+É revogada, no que diz respeito ao curso de licenciatura em Sociologia pelo Instituto Superior de Ciências do Trabalho e da Empresa, a Portaria n.º 663/79, de 10 de Dezembro.
+Ministério da Educação.
+Assinada em 8 de Junho de 1983.
+Pelo Ministro da Educação, Alberto Romão Dias, Secretário de Estado do Ensino Superior.
+
+ANEXO I
+Curso de Sociologia
+Grau de licenciatura
+QUADRO I
+1.º ano
+(ver documento original)
+QUADRO II
+2.º ano
+(ver documento original)
+QUADRO III
+3.º ano
+(ver documento original)
+QUADRO IV
+4.º ano
+(ver documento original)
