@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ikbb22EfidWyh5aL9J45Him8rhm3hBQttHxkrMbFeyYEwrlCCV9ZfcNHgV8WjSxu83VjOPt6VK7tfawrIfKZtTDmfI0Eg1Qj2%2fgR4zkB218vexxTlHm9ELnuOSX5QSKeM5RBZD467bhRAPU4hPcfbqahvryp3gb6e37C1v7CloSAMeYftDHuGXetsMTuqWKWDw8jw4LLkjhOMYrtuWUeiCrg7lyiTG%2fjnHAs%2fmcgrOZO8jIFWuyniqH%2f16iGaVZzEzfL%2b4SfA3O6drPBVYibztEF%2fs9tJC4xx3DcN5MsnQfVSXH3wVPofkvbJEOlvWHKvrzXi7OMn9qcwTKLuqkVUEIS1yusoxybTMXClPgsIs8%3d&fich=IntervencoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "ab3e3445119ef03a27cc4debeadf3049422a38e0d13b37a933bd5be6cbd2d916",
+  "legislatura": "IX",
+  "id": "144790",
+  "tipo": "Pedido de esclarecimento",
+  "orador": "Adriana de Aguiar Branco (PSD)",
+  "data_registo": "2003-04-03",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "155886",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "19586",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Cria um novo instrumento de gestão destinado a conferir aos Conselhos Superiores e ao Ministério da Justiça competência para adoptar medidas excepcionais destinadas a superar situações de carência do quadro de magistrados."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2003-04-03",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "1962",
+      "nome": "Adriana de Aguiar Branco"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "144790",
+    "IdDebate": "2509",
+    "Iniciativas": [
+      {
+        "fase": "Discussão generalidade",
+        "id": "19586",
+        "tipo": "Proposta de Lei"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "IX",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "144790",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "4536-4536"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-04-04",
+        "pubLeg": "IX",
+        "pubNr": "108",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/108/2003-04-04/4536?pgs=4536&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputada",
+    "Resumo": "Ao Secretário de Estado Adjunto da Ministra da Justiça (João Mota Campos)",
+    "Sessao": "1",
+    "Sumario": "Cria um novo instrumento de gestão destinado a conferir aos Conselhos Superiores e ao Ministério da Justiça competência para adoptar medidas excepcionais destinadas a superar situações de carência do quadro de magistrados.",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Pedido de esclarecimento"
+  }
+}
