@@ -1,0 +1,78 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=qUAFp27CBkIttcOxiLgk0FIFM%2benj3agWAdWp9f2uUE7DM89Hf79g0s6kJ1OpP%2b%2bV8tF1iVoXzUjf9MdNSMm4nwgUSw8wSK%2f8IWQGg3htMY3c5Ya6BFuH2nCggW0h1GujT%2bIUdPmA8SvTT3HpzcWjwY1Ytx02d%2b7d2kHzuJsMkIxOLhUMfluBDICsI431jugsRtyLdTkTs3iZNjh0bZeiTsuFJxPyR5N7XOGoIkmGpdUelnuD9Uv%2bK5tX%2fCtB3SYc9FZA1mlNR599B92fTx%2bndvsVfZla0grGGcMC1Ygbf5wdyt%2fcERRcbU8v%2fdkvPhkc3PKeJXfSzhOHsiR3Kxg%2fadV%2fCqpiI%2bSBylGrc6dYzg%3d&fich=IntervencoesVII_json.txt&Inline=true",
+  "ficheiro_sha256": "63246bfd185a5eb6b3d6f557ea72ee60968af9ce7c1a76c63b16943a173ed13f",
+  "legislatura": "VII",
+  "id": "46275",
+  "tipo": "Pedido de esclarecimento",
+  "orador": "Francisco Torres (PSD)",
+  "data_registo": "1997-01-15",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "4858",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "4858",
+        "tipo": "DEB",
+        "titulo": "Debate de urgência - DEBATE DE URGENCIA-PSD E PCP"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1997-01-15",
+    "Debate": "DEBATE DE URGENCIA-PSD E PCP",
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "1131",
+      "nome": "Francisco Torres"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "PAOD",
+    "Id": "46275",
+    "IdDebate": "296",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VII",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "46275",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "1010-1011"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1997-01-16",
+        "pubLeg": "VII",
+        "pubNr": "26",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/02/026/1997-01-16/1010?pgs=1010-1011&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "AO MINISTRO DA ECONOMIA (AUGUSTO MATEUS) ",
+    "Sessao": "2",
+    "Sumario": "AUMENTO DE PRECO DE BENS E SERVICOS ESSENCIAIS RECENTEMENTEDECIDIDOS PELO GOVERNO",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Pedido de esclarecimento"
+  }
+}
