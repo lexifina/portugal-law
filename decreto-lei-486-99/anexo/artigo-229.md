@@ -25,3 +25,5 @@ e) Emitidas por pessoas colectivas internacionais de carácter público e por in
 6 - Não se aplica o disposto na alínea a) do n.º 2 do artigo 227.º às entidades referidas nas alíneas a), b) e c) do número anterior.
 
 7 - Quando o considerar necessário para a defesa dos investidores, a CMVM pode, através de regulamento, exigir notação de risco para as entidades que solicitem a admissão de obrigações à negociação.
+
+8 - Na admissão à negociação de obrigações nas circunstâncias referidas no n.º 6 do artigo 227.º, o emitente não é obrigado a acompanhar os documentos de prestação de contas de opinião de auditor, excepto se nas últimas contas anuais apresentadas o auditor tenha concluído no sentido de impossibilidade de emissão de opinião, ou emitido opinião adversa ou com reservas.
