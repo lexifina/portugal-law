@@ -1,0 +1,5 @@
+Despacho Normativo n.º 336/94
+Considerando o disposto no artigo 3.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, e nos n.os 6, 7 e 8 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção que lhes foi conferida pelo artigo 1.º daquele diploma;
+Considerando que Maria João Prata Dias Figueiredo Crespo, técnica superior de informática do quadro de pessoal da Direcção-Geral da Administração Pública, em exercício de funções dirigentes, reúne os requisitos legais de acesso à categoria de assessor informático principal e requereu, ao abrigo do n.º 7 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção que lhe foi conferida pelo artigo 1.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, a criação do necessário lugar:
+Determino que seja criado no quadro de pessoal da Direcção-Geral da Administração Pública, aprovado pela Portaria n.º 107/93, de 29 de Janeiro, um lugar de assessor informático principal da carreira de técnico superior de informática, a extinguir quando vagar.
+Ministério das Finanças, 8 de Abril de 1994. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento.
