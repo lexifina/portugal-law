@@ -1,0 +1,6 @@
+Despacho
+Fazendo aplicar a política sectorial estabelecida na alínea d) do artigo 20.º da Lei n.º 2145, de 24 de Dezembro de 1969, mandou o Governo estudar o funcionamento da indústria de amoníaco, cujo preço tem contribuído para onerar os fornecimentos de adubos azotados à lavoura.
+Depois de aturado estudo da indústria e ouvidos os produtores de amoníaco, chegou o Governo à conclusão de que o preço para o mercado interno pode ser desde já reduzido de 2500$00 para 2100$00.
+O valor agora determinado deverá decrescer no decorrer da presente década, mesmo considerando apenas as unidades actualmente existentes. As empresas interessadas saberão certamente racionalizar as suas estruturas, procedendo, nomeadamente, às operações de dimensionamento industrial que se afigurarem convenientes.
+Nestes termos, sob proposta da Comissão Reguladora dos Produtos Químicos e Farmacêuticos e ao abrigo do do disposto no n.º 11.º do artigo 4.º do Decreto-Lei n.º 30270, de 12 de Janeiro de 1940, é o preço do amoníaco fixado, para vigorar durante a campanha de 1970-1971, em 2100$00/t.
+Ministério da Economia, 15 de Junho de 1970. - O Ministro da Economia, João Augusto Dias Rosas. - O Secretário de Estado do Comércio, Valentim Xavier Pintado. - O Secretário de Estado da Indústria, Rogério da Conceição Serafim Martins.
