@@ -1,0 +1,16 @@
+Decreto-Lei n.º 45914
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º O quadro do pessoal de direcção e investigação da Polícia Judiciária, fixado pelo artigo 4.º, n.º 1, do Decreto-Lei n.º 45108, de 3 de Julho de 1963, é aditado com as seguintes unidades:
+Um subinspector-lofoscopista;
+Dois dactiloscopistas;
+Dois lofoscopistas.
+Art. 2.º - 1. O lugar de subinspector-lofoscopista será provido, sob proposta do director da Polícia Judiciária, entre os lofoscopistas que reúnam as condições exigidas pelo artigo 71.º do Decreto-Lei n.º 35042, de 20 de Outubro de 1945, com a redacção que lhe deu o artigo 1.º do Decreto-Lei n.º 39351, de 7 de Setembro de 1953.
+2. A primeira nomeação é, porém, de livre escolha entre indivíduos com conhecimentos suficientes de dactiloscopia e de reconhecida competência e idoneidade para o exercício do cargo, podendo ser dispensado o requisito exigido pelo artigo 21.º do Decreto-Lei n.º 26115, de 23 de Novembro de 1935.
+Art. 3.º Os lugares de lofoscopista serão providos, sob proposta do director da Polícia Judiciária, entre os dactiloscopistas com classificação não inferior a Bom, obtida em curso especial de dactiloscopia, ou, não os havendo, entre os aprovados em dois cursos de aperfeiçoamento que tenham revelado zelo pelo serviço e competência profissional.
+Art. 4.º Os vencimentos do subinspector-lofoscopista e dos lofoscopistas são, respectivamente, os correspondentes aos dos grupos J e L do artigo 1.º do Decreto-Lei n.º 42046, de 23 de Dezembro de 1958.
+Art. 5.º É extensivo aos lofoscopistas o disposto, quanto aos dactiloscopistas, no artigo 2.º do Decreto-Lei n.º 41564, de 18 de Março de 1958, e no artigo 9.º do Decreto-Lei n.º 44117, de 26 de Dezembro de 1961.
+Art. 6.º É extinto o serviço de dactiloscopia da subinspecção da Polícia Judiciária do Funchal.
+Art. 7.º Os encargos resultantes da criação dos lugares referidos no artigo 1.º serão reembolsados ao Estado pelo Cofre Geral dos Tribunais, mediante guia de receita a processar pela 4.ª Repartição da Direcção-Geral da Contabilidade Pública, com excepção dos relativos a um dos lugares de dactiloscopista, que serão suportados nos termos do artigo 9.º do Decreto-Lei n.º 36288, de 19 de Maio de 1947, e do artigo 5.º do Decreto-Lei n.º 45108, de 3 de Julho de 1963.
+Art. 8.º Os encargos resultantes do presente diploma no ano económico de 1964 serão suportados pelas disponibilidades do n.º 1) do artigo 105.º, capítulo 3.º, do orçamento do Ministério da Justiça em vigor.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 14 de Setembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
