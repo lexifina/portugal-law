@@ -1,0 +1,7 @@
+Despacho Normativo n.º 503/94
+Considerando que em 2 de Novembro de 1993 cesou a comissão de serviço a licenciada Maria Luísa Saldanha Sanches Ribeiro, à data chefe de divisão do ex-Gabinete de Estudos e Planeamento da Administração do Território;
+Considerando o disposto no artigo 3.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, e nos n.os 6 e 8 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembor, na redacção que lhe foi dada pelo artigo 1.º daquele diploma:
+Determina-se o seguinte:
+1 - É criado no quadro de pessoal da Direcção-Geral do Ordenamento do Território, constante do mapa X anexo ao Decreto-Lei n.º 272/91, de 7 de Agosto, um lugar de técnico superior principal da carreira técnica superior, a extinguir quando vagar.
+2 - A criação do lugar referido no número anterior produz efeitos desde o dia 2 de Novembro de 1993, considerando-se tais efeitos como reportados ao quadro do ex-Gabinete de Estudos e Planeamento da Administração do Território, até 1 de Dezembro de 1993, data em que aquela técnica superior transitou, por integração, para o quadro da Direcção-Geral do Ordenamento do Território.
+Ministérios das Finanças e do Planeamento e da Administração do Território, 30 de Junho de 1994. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.
