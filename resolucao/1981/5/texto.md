@@ -1,0 +1,15 @@
+Resolução n.º 5/81
+A Resolução n.º 119/78, de 5 de Julho, publicada no Diário da República, de 27 de Julho de 1978, cometeu à comissão administrativa da Loturba - Sociedade de Loteamento e Urbanizações, Lda., a elaboração de um programa de acção tendente fundamentalmente a solucionar o problema da urbanização do Casal da Fonte Santa, devendo a mesma propor, no prazo de seis meses, as condições em que se deveria processar a cessação da intervenção do Estado, com a restituição aos seus titulares ou com a formação de uma associação, nos termos do artigo 23.º do Decreto-Lei n.º 794/76, de 5 de Novembro.
+Para o efeito, era prioritária a elaboração e aprovação de um plano de urbanização em condições de viabilidade técnico-económica que permitisse a resolução da referida urbanização, o que implicaria uma revisão do plano existente ainda não aprovado.
+A viabilidade económica do empreendimento verificou-se dever implicar, conforme análises efectuadas, um aumento do número de habitantes por hectare previsto (90 habitantes/ha).
+A falta de meios financeiros da empresa não permitiu o reinício dos estudos da urbanização.
+A Resolução n.º 97/79, de 7 de Março, determinou a constituição da associação prevista no capítulo V do Decreto-Lei n.º 794/76 e o termo da intervenção do Estado na empresa a partir da data do acto constitutivo daquela associação, incumbindo para o efeito a EPUL - Empresa Pública da Urbanização de Lisboa.
+No entanto, verifica-se que os titulares da empresa se comprometem a promover o loteamento da Quinta da Fonte Santa dentro dos condicionamentos legais e a cumprir os contratos-promessa que realizou, o que aconselha o termo da intervenção do Estado, com entrega da empresa aos proprietários, solução que mereceu o acordo da EPUL dadas as dificuldades que se lhe apresentam para a pretendida concretização através da associação.
+Nestes termos:
+O Conselho de Ministros, reunido em 22 de Dezembro de 1980, resolveu:
+1) Determinar a cessação da intervenção do Estado na empresa Loturba - Sociedade de Loteamento e Urbanizações, Lda., com restituição aos respectivos titulares, nos termos da alínea d) do n.º 1 do artigo 24.º do Decreto-Lei n.º 422/76, com efeito a partir da publicação da presente resolução;
+2) Exonerar os actuais membros da comissão administrativa;
+3) Levantar a suspensão da gerência da empresa;
+4) Fixar o prazo de nove meses, a partir da data da cessação da intervenção, para a empresa elaborar o programa de actividades e correspondentes propostas de saneamento financeiro, se necessário integrando um contrato de viabilização, para o que lhe é desde já concedida a prioridade prevista no n.º 6 do artigo 2.º do Decreto-Lei n.º 124/77, de 1 de Abril;
+5) Manter, ao abrigo do disposto no n.º 3 do artigo 24.º do Decreto-Lei n.º 422/76, de 29 de Maio, com a redacção que lhe foi dada pelo artigo 1.º do Decreto-Lei n.º 67/78, de 5 de Abril, o regime previsto nos artigos 12.º, 13.º e 14.º do referido Decreto-Lei n.º 422/76 pelo prazo de um ano.
+Presidência do Conselho de Ministros, 22 de Dezembro de 1980. - O Vice-Primeiro-Ministro, Diogo Pinto de Freitas do Amaral.
