@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que foram trocados em Lisboa, em 5 de Novembro de 1976, entre o Ministro dos Negócios Estrangeiros de Portugal e o embaixador da República de Cabo Verde os instrumentos de ratificação referentes aos Acordos Geral Sobre Migração e Especial Regulador do Estatuto de Pessoas e Regime dos Seus Bens, celebrados entre a República Portuguesa e a República de Cabo Verde, assinados em Lisboa em 16 de Fevereiro e 15 de Abril de 1976 e aprovados para ratificação pelos Decretos n.os 524-J/76, de 5 de Julho, e 524-G/76, de 5 de Julho, respectivamente.
+Direcção-Geral dos Negócios Políticos, 16 de Novembro de 1976. - O Adjunto do Director-Geral, Alexandre Eduardo Lencastre da Veiga.
