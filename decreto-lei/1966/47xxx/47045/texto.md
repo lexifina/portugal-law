@@ -1,0 +1,7 @@
+Decreto-Lei n.º 47045
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É aberto no Ministério das Finanças a favor do Ministério do Ultramar um crédito especial, no montante de 345000000$00, destinado a reforçar a verba inscrita no artigo 134.º «Auxílios financeiros às províncias ultramarinas», capítulo 17.º, do orçamento em vigor do segundo dos aludidos Ministérios.
+Art. 2.º Para contrapartida do crédito aberto no artigo precedente, é adicionada igual quantia, à verba inscrita no capítulo 9.º, artigo 277.º «Produto da emissão de títulos, nos termos do Decreto-Lei n.º 42946, de 27 de Abril de 1960», do orçamento das receitas para o actual ano económico.
+Art. 3.º Este diploma entra imediatamente em vigor.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 8 de Junho de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
