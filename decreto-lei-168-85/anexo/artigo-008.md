@@ -10,7 +10,7 @@
 
 2 - Os membros do conselho directivo são designados pelo Primeiro-Ministro.
 
-3 - Além dos membros designados pelo Primeiro-Ministro, são membros do conselho directivo o embaixador dos Estados Unidos da América, ou um representante por este designado, e outro indicado pelo mesmo embaixador.
+3 - Dois dos membros do conselho directivo são indicados pelo embaixador dos Estados Unidos da América, acreditado em Lisboa.
 
 4 - O conselho directivo terá um presidente por ele eleito de entre os seus membros, o qual não pode fazer parte do conselho executivo.
 

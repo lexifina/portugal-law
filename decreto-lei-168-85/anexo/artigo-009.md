@@ -6,7 +6,7 @@
 
 ### Constituição e funcionamento
 
-1 - O conselho executivo é composto por um mínimo de três e um máximo de cinco membros, dos quais três serão eleitos pelo conselho directivo e os demais designados pelo Primeiro-Ministro.
+1 - O conselho executivo é constituído por três membros designados pelo Primeiro-Ministro, dos quais dois são eleitos pelo conselho directivo.
 
 2 - Os membros do conselho executivo podem ser escolhidos de entre os membros do conselho directivo, sem prejuízo do disposto no n.º 4 do artigo 8.º
 
@@ -14,7 +14,7 @@
 
 4 - O mandato dos membros do conselho executivo é de três anos, sem prejuízo, respectivamente, de eventual reeleição ou recondução por iguais períodos, salvo o disposto no número seguinte.
 
-5 - Os membros do conselho executivo que façam parte do conselho directivo cessam funções com o termo do seu mandato neste órgão nos termos do n.º 5 do artigo 8.º
+5 - O termo do respectivo mandato no conselho directivo implica a cessação simultânea das funções de membro do conselho executivo
 
 6 - As deliberações do conselho executivo são tomadas por maioria, tendo o presidente, além do seu voto, direito a voto de desempate.
 
