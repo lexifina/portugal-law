@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1933/10/24000/17751776.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1933-10-21",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "e4a9ea58d41f35bd0e65085b45b365b35dc0ea1dc7c4fb2e1a771c1de56f6088",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.1,
+    "pages": 2,
+    "columns": [
+      3,
+      1
+    ],
+    "pdf_sha256": "3afd791050e474b7397fdd2e3488cf0188d2139bf2970db7ae2943be4240dbe5",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 264
 }
