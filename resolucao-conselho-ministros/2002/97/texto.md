@@ -1,0 +1,20 @@
+Resolução do Conselho de Ministros n.º 97/2002
+De acordo com o Programa do XV Governo Constitucional, é urgente reconduzir a Administração Pública a uma dimensão e funções compatíveis com as exigências da sociedade moderna, reduzindo o seu peso excessivo e redimensionando as estruturas existentes de acordo com os princípios de qualidade, economia e eficiência que devem nortear a prestação de serviços.
+Tais objectivos passam, em termos de política de emprego, pelo rigoroso controlo das admissões de novos efectivos, e pela reavaliação das situações contratuais existentes, de modo a impedir o insustentável crescimento do aparelho administrativo e consequente aumento da despesa pública.
+Assim:
+Nos termos da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - São congeladas todas as admissões externas para lugares do quadro de serviços e organismos da administração central e dos institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos, mesmo que se encontrem em regime de instalação ou que as contratações obedeçam ao regime do contrato individual de trabalho.
+2 - São suspensos, para reavaliação da sua oportunidade, imprescindibilidade e adequada cobertura orçamental, todos os concursos externos pendentes relativamente aos quais ainda não haja lista de classificação final, devidamente homologada.
+3 - Só poderão ser abertos ou prosseguidos concursos internos, de ingresso ou acesso, desde que assegurada a respectiva cabimentação orçamental, em declaração expressamente assumida pelo dirigente máximo do serviço ou organismo, devendo a homologação da lista de classificação final ficar dependente da confirmação desse cabimento, a obter junto da correspondente delegação da Direcção-Geral do Orçamento.
+4 - A Caixa Geral de Aposentações e a segurança social devem comunicar à Direcção-Geral do Orçamento qualquer novo pedido de inscrição, para efeitos de controlo e eventual apuramento de responsabilidade em caso de admissão com violação das regras presentemente estabelecidas.
+5 - É suspensa a possibilidade de proceder a novas contratações de pessoal, designadamente sob a forma de:
+a) Contratos administrativos de provimento;
+b) Contratos de trabalho a termo certo, sujeitos à disciplina do artigo 18.º do Decreto-Lei n.º 427/89, de 7 de Dezembro, bem como os abrangidos por mecanismos excepcionais de contratação previstos em diplomas específicos, salvo os referentes à situação específica do n.º 3 do artigo 18.º-A do Decreto-Lei n.º 11/93, de 15 de Janeiro (Estatuto do Serviço Nacional de Saúde);
+c) Contratos individuais de trabalho.
+6 - Os contratos de trabalho a termo certo vigentes caducam no final dos respectivos prazos, sem possibilidade de renovação.
+7 - Os serviços e organismos que disponham de pessoal em regime de prestação de serviço nas modalidades de tarefa e avença devem, no prazo de 15 dias, comunicar ao membro do Governo de quem dependam a justificação dessas situações, de modo a poder proceder-se à avaliação da sua necessidade.
+8 - É obrigatória a afixação, em cada serviço em local visível por todos os utentes e com referência a 1 de Janeiro e 1 de Julho de cada ano, do respectivo organograma, devendo apresentar o número de pessoas que nele trabalham, sua afectação por departamento ou unidade, bem como a identificação dos dirigentes.
+9 - Fica condicionada à demonstração da sua imprescindibilidade a requisição de pessoal a empresas públicas e privadas, prevista no artigo 37.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro.
+10 - Fica igualmente suspensa a possibilidade de requisição ou de transferência previstas no Decreto-Lei n.º 175/98, de 2 de Julho, de pessoal da administração local para a administração central.
+11 - As excepções que venham a verificar-se como absolutamente imprescindíveis deverão ser propostas pelo membro do Governo responsável pela respectiva área ao Ministro das Finanças.
+Presidência do Conselho de Ministros, 2 de Maio de 2002. - O Primeiro-Ministro, José Manuel Durão Barroso.
