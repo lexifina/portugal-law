@@ -1,0 +1,4 @@
+Portaria n.º 289/76
+de 10 de Maio
+Manda o Governo da República Portuguesa, pelo Ministro da Indústria e Tecnologia, nos termos do artigo 12.º do Regulamento de 23 de Março de 1869, e para efeitos do Decreto n.º 30295, de 22 de Fevereiro de 1940, designar a letra L para servir, durante o período que decorre de 1 de Maio do corrente ano a 30 de Abril de 1977, no afilamento de todos os pesos, medidas e mais instrumentos de pesar ou medir, executado em todos os concelhos do País, à excepção do de Lisboa, onde a mesma letra já principiou a ser empregada em 1 de Março, data em que no dito concelho teve início a época de aferição, conforme o que está estabelecido no § único do artigo 1.º do citado Decreto n.º 30295, de 22 de Fevereiro de 1940.
+Ministério da Indústria e Tecnologia, 29 de Março de 1976. - O Secretário de Estado da Indústria Ligeira, Luís Filipe Moura Vicente.
