@@ -1,0 +1,16 @@
+Decreto-Lei n.º 51/81
+de 23 de Março
+O curto prazo de amortização previsto para as cautelas da classe I do empréstimo interno, amortizável, denominado «Obrigações do Tesouro, 1980, FIDES e FIA» torna necessária a introdução de ligeiras alterações no Decreto-Lei n.º 468/80, de 14 de Outubro, que regulamenta as condições de emissão do mesmo empréstimo.
+Assim:
+O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo único. Os artigos 8.º e 9.º do Decreto-Lei n.º 468/80, de 14 de Outubro, passam a ter a seguinte redacção:
+Art. 8.º - 1 - As quantidades de obrigações a amortizar serão definidas por despacho do Ministro das Finanças e do Plano, seis meses antes da data de cada amortização.
+2 - As obrigações serão amortizadas por sorteio, ao par.
+3 - Exceptuam-se do disposto nos números anteriores as amortizações previstas no n.º 2 do artigo 9.º
+Art. 9.º - 1 - ...
+2 - As amortizações respeitantes à classe I efectuar-se-ão através das respectivas cautelas, abrangendo no primeiro ano 50% do valor de cada cautela, com exclusão das cautelas correspondentes às unidades de participação que tenham sido objecto de contratos de dação em pagamento, as quais serão amortizadas por uma só vez na data referida no n.º 2 do artigo 6.º
+3 - ...
+Visto e aprovado em Conselho de Ministros de 24 de Fevereiro de 1981. - Francisco José Pereira Pinto Balsemão.
+Promulgado em 9 de Março de 1981.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
