@@ -1,0 +1,5 @@
+Resolução do Conselho de Ministros
+António Antunes de Oliveira e Olga de Oliveira Alves de Oliveira requerem a manutenção da nacionalidade portuguesa, não obstante se terem naturalizado holandeses, o que fizeram, dizem, «por temerem represálias da PIDE, em virtude de terem dado guarida, na Holanda, a um cunhado da requerente, de nome Augusto de Oliveira Alves, que, ao regressar a Portugal, foi preso pela PIDE». Dizem ainda que a polícia local lhes indicou esse meio como aquele que possibilitaria a sua protecção.
+Vista a prova dos autos, o Conselho de Ministros, ao abrigo da base XIX, alínea a), da Lei n.º 2098, resolve manter a nacionalidade portuguesa a António Antunes de Oliveira e sua mulher, Olga Oliveira Alves de Oliveira.
+Mais resolve considerar irrelevante, para efeitos de perda da nacionalidade portuguesa, a aquisição da nacionalidade holandesa pelos filhos menores do casal, Eduarda Maria Alves de Oliveira e António Manuel Alves de Oliveira, em consequência da naturalização do pai, face ao disposto na base XXXIII da citada Lei n.º 2098.
+Presidência do Conselho de Ministros, 12 de Maio de 1976. - O Primeiro-Ministro, José Baptista Pinheiro de Azevedo.
