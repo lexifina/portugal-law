@@ -1,0 +1,176 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "tipo": "Projeto de Resolução",
+  "numero": "195",
+  "id": "20041",
+  "fases": 5,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2003-12-04",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2004-09-14",
+    "DataInicioleg": "2003-09-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PSD",
+        "idCadastro": "618",
+        "nome": "Guilherme Silva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1621",
+        "nome": "Maria Ofélia Moleiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1931",
+        "nome": "Rodrigo Ribeiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "324",
+        "nome": "Fernando Pedro Moutinho"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "308",
+        "nome": "João Carlos Barreiras Duarte"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1698",
+        "nome": "Miguel Anacoreta Correia"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1558",
+        "nome": "Cruz Silva"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1906",
+        "nome": "João Gago Horta"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1999",
+        "nome": "Jorge Nuno Sá"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1655",
+        "nome": "Telmo Correia"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1959",
+        "nome": "Diogo Luz"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1966",
+        "nome": "Maria João Fonseca"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1384",
+        "nome": "Paulo Batista Santos"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1856",
+        "nome": "José Manuel Ribeiro"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1840",
+        "nome": "Miguel Miranda"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1478",
+        "nome": "Gonçalo Capitão"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1713",
+        "nome": "Bruno Vitorino"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1686",
+        "nome": "Pedro Duarte"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1657",
+        "nome": "João Pinho de Almeida"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1693",
+        "nome": "Ricardo Fonseca de Almeida"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1874",
+        "nome": "Jorge Pereira"
+      },
+      {
+        "GP": "CDS-PP",
+        "idCadastro": "1921",
+        "nome": "Isabel Gonçalves"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1588",
+        "nome": "Fernando Penha"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "2007",
+        "nome": "Bessa Guerra"
+      },
+      {
+        "GP": "PSD",
+        "idCadastro": "1990",
+        "nome": "Miguel Frasquilho"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PSD"
+      },
+      {
+        "GP": "CDS-PP"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Projeto de Resolução",
+    "IniEpigrafe": null,
+    "IniId": "20041",
+    "IniLeg": "IX",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a79394562324e31625756756447397a5357357059326c6864476c32595339684e7a4935593249305a6930334e6a4a694c5451344e5745744f44646c4f53316b4f546b785a4449785957526b5a5449755a47396a&fich=a729cb4f-762b-485a-87e9-d991d21adde2.doc&Inline=true",
+    "IniNr": "195",
+    "IniObs": null,
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "R",
+    "IniTitulo": "Habilitação para a condução de veículos de 2 rodas até 125 cc e com a potência máxima de motor de 11 Kw.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
