@@ -1,0 +1,325 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jvMQgL4qeojTXYc%2byhcz5p3ic3xODuK0iUO0Y2y2ClcTtFB9k3sD%2b9wQveZYSd8NZLsCb9yzJniqsFTagd7CbMNr9RiU3i%2bk3rmuobGx84PbCdMXEaO2tAt4ls9fukmsItoX60VYYqS8JyucRXeNK4DfI799g%2blbezfSJpZ8w7%2baZYMBqfv1VesnUx6bJSW47suQTEZztwlqhsheF%2fV6CayXq9XylkeKBdMS4k0WpFeGsJUrYs53Ga%2fzv4nbFZSlZiCimHdTEOsH%2b%2fNcwjWayb61QyVSstj3ODN9XM8DB46f%2bPQ7wSP1KSIrsnu6vc0NN5UqeG88nqFw4kPOlzPTpz7DVHur%2fsRBhn0B8NlVzMX2nw7jDBVCKY54B7pyG%2fWe&fich=PeticoesVI_json.txt&Inline=true",
+  "ficheiro_sha256": "a0b19d1767819df1af646741c024bf367ae6532369315672414b384340a05bf4",
+  "legislatura": "VI",
+  "id": "11091",
+  "numero": "100",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "1992-05-07",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "1993-06-09",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "1992-07-24",
+        "DataArquivo": "1993-06-09",
+        "DataBaixaComissao": "1993-01-27",
+        "DataEnvioPAR": "1993-07-01",
+        "DataReaberta": "1992-07-24",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "77",
+        "Legislatura": "VI",
+        "Nome": "COMISSÃO DE PETIÇÕES (ANTIGA)",
+        "NotasAdmissibilidade": null,
+        "Numero": "72",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "1993-01-27",
+            "gp": "PSD",
+            "id": "307",
+            "motivoCessacao": null,
+            "nome": "Rodrigues Marques"
+          }
+        ],
+        "RelatorioFinal": [
+          "21309"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "1994-01-20",
+    "Documentos": null,
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "1994-01-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "37529",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "997-998"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-01-21",
+                "pubLeg": "VI",
+                "pubNr": "29",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/029/1994-01-21/997?pgs=997-998&org=PLC"
+              }
+            ],
+            "Sumario": "SAUDE: ANULACAO DAS TAXAS MODERADORAS E MELHORES SERVICOS",
+            "Teor": "INTERVEM NO DEBATE. "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "1994-01-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "37640",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "997-997"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-01-21",
+                "pubLeg": "VI",
+                "pubNr": "29",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/029/1994-01-21/997?pgs=997&org=PLC"
+              }
+            ],
+            "Sumario": "SAUDE: ANULACAO DAS TAXAS MODERADORAS E MELHORES SERVICOS",
+            "Teor": "INTERVEM NO DEBATE. "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "1994-01-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "37641",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "996-997"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-01-21",
+                "pubLeg": "VI",
+                "pubNr": "29",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/029/1994-01-21/996?pgs=996-997&org=PLC"
+              }
+            ],
+            "Sumario": "SAUDE: ANULACAO DAS TAXAS MODERADORAS E MELHORES SERVICOS",
+            "Teor": "INTERVEM NO DEBATE. "
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "1994-01-21",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "37642",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "995-996"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1994-01-21",
+                "pubLeg": "VI",
+                "pubNr": "29",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/029/1994-01-21/995?pgs=995-996&org=PLC"
+              }
+            ],
+            "Sumario": "SAUDE: ANULACAO DAS TAXAS MODERADORAS E MELHORES SERVICOS",
+            "Teor": "INTERVEM NO DEBATE. "
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11091",
+    "PetAssunto": "Solicitam que a Assembleia da República tome medidas legislativas no sentido de anular a aplicação das taxas moderadoras no sector da saúde aos reformados e pensionistas.",
+    "PetDataEntrada": "1992-05-07",
+    "PeticoesAssociadas": null,
+    "PetId": "11091",
+    "PetLeg": "VI",
+    "PetNr": "100",
+    "PetNrAssinaturas": "8730",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "TEM APENSA A PETIÇÃO 80/VI",
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "589",
+        "obs": null,
+        "pag": [
+          "995-998"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1994-01-21",
+        "pubLeg": "VI",
+        "pubNr": "29",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/029/1994-01-21/995?pgs=995-998&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "169564",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1992-08-04",
+        "pubLeg": "VI",
+        "pubNr": "36",
+        "pubSL": "1",
+        "pubTipo": "DAR II série C",
+        "pubTp": "C",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2c/06/01/036/1992-08-04?org=PLC"
+      }
+    ]
+  }
+}
