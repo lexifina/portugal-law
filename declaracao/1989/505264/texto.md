@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação da 14.ª Delegação (PIDDAC) da Direcção-Geral da Contabilidade Pública, a declaração de alterações no orçamento do Ministério da Justiça publicada no Diário da República, 1.ª série, n.º 216, de 19 de Setembro de 1989, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No cap. 50, div. 42, subdiv. 01, onde se lê «Classificação funcional 1.03.0, Classificação económica 01.01.10» e «Classificação funcional 1.03.0, Classificação económica 01.01.11» deve ler-se «Classificação funcional 1.01.0, Classificação económica 01.01.10» e «Classificação funcional 1.01.0, Classificação económica 01.01.11».
+Secretaria-Geral da Presidência do Conselho de Ministros, 27 de Outubro de 1989. - O Secretário-Geral, França Martins.
