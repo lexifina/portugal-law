@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que em 23 de Setembro de 1981 a República Socialista Checoslovaca depositou, junto do Ministério dos Negócios Estrangeiros do Reino dos Países Baixos, o instrumento de adesão à Convenção Relativa à Citação e à Notificação no Estrangeiro de Actos Judiciários e Extrajudiciários em Matéria Civil e Comercial, concluída na Haia em 15 de Novembro de 1965, que era acompanhado de quatro declarações, de que Portugal já 6 parte. Aquele instrumento diplomático entrará em vigor, com referência àquele país, em 19 de Maio de 1982.
+Secretaria-Geral do Ministério, 20 de Novembro de 1981. - O Director dos Serviços Jurídicos e de Tratados, Carlos Augusto Fernandes.
