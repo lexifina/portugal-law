@@ -4,19 +4,17 @@
 
 1 - Em matéria de provas de ingresso, compete à CNAES, nomeadamente:
 
-a) A fixação do elenco das provas;
+a) A fixação do elenco e subelencos de provas e dos cursos integrados em cada área de organização dos subelencos;
 
-b) A fixação do número mínimo e máximo de provas que pode ser exigido por cada estabelecimento em relação a cada um dos seus cursos;
+b) A concessão da autorização a que se refere o n.º 5 do artigo 20.º;
 
-c) A fixação do número mínimo e máximo de elencos alternativos de provas que pode ser exigido por cada estabelecimento em relação a cada um dos seus cursos;
+c) A homologação dos elencos de provas escolhidos por cada estabelecimento para cada curso;
 
-d) A homologação dos elencos de provas escolhidos por cada estabelecimento para cada curso;
+d) O exercício das competências previstas nos n.os 6 e 7 do artigo 20.º-A;
 
-e) A regulamentação da aplicação do disposto no n.º 2 do artigo 20.º;
+e) A fixação do calendário de todo o processo, em articulação com a Direcção-Geral do Ensino Superior e com os serviços competentes do Ministério da Educação;
 
-f) A fixação do calendário de todo o processo, em articulação com os departamentos competentes do Ministério da Educação;
-
-g) A divulgação de toda a informação relevante.
+f) A divulgação de toda a informação relevante.
 
 2 - Em relação às provas a que se refere a alínea a) do artigo 19.º, compete à CNAES, nomeadamente:
 

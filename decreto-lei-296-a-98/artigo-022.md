@@ -16,6 +16,8 @@ c) Podem, consoante a sua natureza, destinar-se à selecção, à selecção e s
 
 d) São de realização anual.
 
-2 - Os pré-requisitos são objecto de regulamento a elaborar por cada estabelecimento e sujeito a homologação da CNAES.
+2 - As instituições que exijam pré-requisitos para cursos similares coordenam-se obrigatoriamente para a avaliação dos mesmos.
 
-3 - As instituições que exijam pré-requisitos para cursos similares coordenam-se obrigatoriamente para a avaliação dos mesmos.
+3 - Cada pré-requisito é objecto de um regulamento aprovado pelos órgãos legal e estatutariamente competentes dos estabelecimentos de ensino superior que o tenham exigido.
+
+4 - Os regulamentos dos pré-requisitos estão sujeitos a homologação pela CNAES e são publicados na 2.ª série do Diário da República.

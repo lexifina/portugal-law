@@ -6,7 +6,7 @@
 
 ### Candidatura aos cursos ministrados em estabelecimentos de ensino superior público
 
-1 - A candidatura aos cursos ministrados em estabelecimentos de ensino superior público é feita através de um concurso nacional organizado pelo Departamento do Ensino Superior do Ministério da Educação com a colaboração dos serviços regionais deste Ministério, dos serviços regionais de educação das Regiões Autónomas dos Açores e da Madeira e dos serviços de educação do território de Macau.
+1 - A candidatura aos cursos ministrados em estabelecimentos de ensino superior público é feita através de um concurso nacional organizado pela Direcção-Geral do Ensino Superior com a colaboração dos serviços regionais do Ministério da Educação e dos serviços regionais de educação das Regiões Autónomas dos Açores e da Madeira.
 
 2 - Exceptuam-se do disposto no número anterior:
 

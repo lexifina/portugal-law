@@ -12,4 +12,4 @@ c) Homologar os regulamentos de realização dos pré-requisitos;
 
 d) Fixar as normas para a sua certificação;
 
-e) Fixar o respectivo calendário geral de regulamentação, realização e certificação, em articulação com os departamentos competentes do Ministério da Educação.
+e) Fixar o respectivo calendário geral de regulamentação, realização e certificação em articulação com a Direcção-Geral do Ensino Superior e com os serviços competentes do Ministério da Educação.
