@@ -1,0 +1,95 @@
+Decreto n.º 19/99
+de 16 de Junho
+Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo decreta o seguinte:
+Artigo único
+São aprovados os Estatutos Revistos do Instituto Internacional da Língua Portuguesa, assinados na Praia, Cabo Verde, aos 17 de Julho de 1998, cuja versão autêntica segue em anexo.
+Visto e aprovado em Conselho de Ministros de 18 de Março de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Eduardo Carrega Marçal Grilo.
+Assinado em 26 de Abril de 1999.
+Publique-se.
+O Presidente da República, JORGE SAMPAIO.
+Referendado em 29 de Abril de 1999.
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+ESTATUTOS REVISTOS DO INSTITUTO INTERNACIONAL DA LÍNGUA PORTUGUESA
+Artigo 1.º
+Objecto
+O Instituto Internacional da Língua Portuguesa, a seguir, abreviadamente, designado por IILP, é uma organização criada pelos Estados membros da Comunidade dos Países da Língua Portuguesa e tem por objectivos fundamentais a promoção, a defesa, o enriquecimento e a difusão da língua portuguesa como veículo de cultura, educação, informação e acesso ao conhecimento científico e tecnológico.
+Artigo 2.º
+Sede
+O IILP tem sede permanente na Praia, capital da República de Cabo Verde.
+Artigo 3.º
+Órgãos
+1 - São órgãos do IILP o presidente e a assembleia geral.
+2 - A gestão do IILP é assegurada por um director executivo.
+3 - O secretariado dos órgãos do IILP é assegurado pela comissão nacional do país que exerce a presidência.
+Artigo 4.º
+Presidente
+1 - O presidente do IILP será uma individualidade de um dos Estados membros designado, rotativamente, na Conferência dos Chefes de Estado e do Governo da CPLP para um mandato de dois anos.
+2 - Compete ao presidente:
+a) Representar o IILP junto dos governos e organizações internacionais;
+b) Supervisionar as actividades do IILP, designadamente assegurar a execução das orientações aprovadas pela assembleia geral;
+c) Submeter à assembleia geral o relatório e contas do exercício findo e apresentar a proposta de orçamento para o exercício seguinte.
+3 - Em caso de impedimento, o presidente será, interinamente, substituído pelo director executivo.
+Artigo 5.º
+Assembleia geral
+1 - A assembleia geral é constituída por um coordenador das comissões nacionais de cada um dos Estados membros do IILP.
+2 - Compete à assembleia geral:
+a) Elaborar e aprovar o seu regimento;
+b) Determinar as orientações do IILP;
+c) Apreciar e aprovar o plano de actividades proposto pelo director executivo;
+d) Aprovar o relatório, as contas e a proposta de orçamento do IILP;
+e) Apreciar e aprovar projectos e programas que lhe sejam submetidos pelas comissões nacionais;
+f) Deliberar sobre doações e contribuições ao IILP;
+g) Deliberar sobre as propostas de alteração dos Estatutos que lhe sejam submetidas por um ou mais Estados membros;
+h) Decidir sobre a participação nas actividades do IILP de entidades públicas ou privadas;
+i) Deliberar sobre qualquer outro assunto de interesse do IILP.
+3 - As deliberações serão adoptadas por consenso.
+4 - O presidente da assembleia geral será designado pelo Conselho de Ministros dos Negócios Estrangeiros da CPLP, de forma rotativa, entre os representantes dos Estados membros para um mandato de dois anos.
+5 - A assembleia geral reunir-se-á, ordinariamente, uma vez por ano no país que assume a presidência do IILP e, extraordinariamente, quando convocada pelo presidente.
+6 - A assembleia geral pode autorizar a presença de observadores nas suas reuniões.
+Artigo 6.º
+Director executivo
+1 - O director executivo é designado na Conferência Sectorial dos Ministros da Educação da CPLP para um mandato de quatro anos, que poderá ser renovado uma só vez.
+2 - Compete ao director executivo:
+a) Gerir o IILP, chefiar e coordenar os seus serviços de acordo com os planos e programas aprovados pela assembleia geral e as orientações do presidente;
+b) Propor e apresentar à assembleia geral o plano de actividades, tendo por base os projectos e programas apresentados pelas comissões nacionais;
+c) Determinar as directrizes de administração e implementação do plano de actividades, ouvidas as comissões nacionais.
+Artigo 7.º
+Comissões nacionais
+1 - Cada Estado membro cria uma comissão nacional, composta por representantes de instituições governamentais e privadas de sectores ligados ao campo de actuação do IILP.
+2 - Compete às comissões nacionais:
+a) Apresentar e propor à assembleia geral projectos e programas, que deverão ser integrados no plano de actividades por esta aprovado;
+b) Coordenar com o director executivo em assuntos de interesse comum e prestar-lhe apoio sempre que necessário;
+c) Assegurar a execução dos projectos e actividades que, de acordo com o plano aprovado em assembleia geral, sejam da competência do respectivo Estado membro.
+Artigo 8.º
+Fundos
+Os fundos do IILP são integrados por contribuições, doações e outros valores ou bens de procedência governamental, de organizações internacionais ou de entidades privadas, bem como por receitas próprias.
+Artigo 9.º
+Património
+O património do IILP é constituído por todos os bens móveis ou imóveis, adquiridos, atribuídos ou doados por quaisquer pessoas e instituições públicas ou privadas.
+Artigo 10.º
+Alterações
+1 - O Estado ou Estados membros interessados em eventuais alterações aos presentes Estatutos enviarão, por escrito, ao director executivo uma notificação contendo as propostas de emenda.
+2 - O director executivo comunicará aos restantes Estados membros e ao presidente as propostas de alteração referidas no número anterior, que as submeterá à consideração da assembleia geral, para eventual aprovação.
+Artigo 11.º
+Entrada em vigor
+Os presentes Estatutos entrarão em vigor, provisoriamente, na data da sua assinatura e, definitivamente, após a notificação ao depositário do cumprimento das formalidades constitucionais por todos os Estados membros.
+Artigo 12.º
+Depositário
+Os textos originais dos presentes Estatutos serão depositados na sede do IILP, junto do seu director executivo, que enviará as cópias autenticadas dos mesmos a todos os Estados membros.
+Feito na Cidade da Praia, em 17 de Julho de 1998.
+Pelo Governo da República de Angola:
+António Brito da Silva Neto.
+Pelo Governo da República Federativa do Brasil:
+Luís Filipe Palmeira Lampreia.
+Pelo Governo da República de Cabo Verde:
+José Luís de Jesus.
+Pelo Governo da República da Guiné-Bissau:
+Fernando Delfim da Silva.
+Pelo Governo da República de Moçambique:
+Leonardo dos Santos Simão.
+Pelo Governo da República Portuguesa:
+Jaime José Matos da Gama.
+Pelo Governo da República Democrática de São Tomé e Príncipe:
+Homero Jerónimo Salvaterra.
+Marcolino Moco, secretário executivo.
