@@ -1,0 +1,15 @@
+Decreto-Lei n.º 380/71
+de 16 de Setembro
+Para prosseguimento dos investimentos previstos no III Plano de Fomento, a realizar pelo Metropolitano de Lisboa, prevê o respectivo programa de execução para o corrente ano o recurso à emissão de obrigações.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º - 1. É autorizada a empresa Metropolitano de Lisboa, S. A. R. L., a emitir, em 1971, 40000 obrigações, nominativas ou ao portador, do valor nominal de 1000$00 cada uma, em títulos de 1, 5, 10, 50 e 100 obrigações.
+2. O juro nominal das obrigações, bem como outras condições não estabelecidas no presente diploma, será oportunamente fixado pelo Secretário de Estado do Tesouro, o qual igualmente aprovará a forma de colocação e o momento da emissão.
+Art. 2.º As obrigações a emitir beneficiarão da isenção do imposto complementar e do imposto de capitais, bem como dos emolumentos relativos à emissão.
+Art. 3.º - 1. É autorizada a Câmara Municipal de Lisboa a conceder o aval às obrigações emitidas.
+2. Quanto ao aval a que se refere o número anterior, deverá observar-se, para os devidos efeitos e com as necessárias adaptações, o disposto nos artigos 2.º e 3.º do Decreto-Lei n.º 39795, de 28 de Agosto de 1954.
+Art. 4.º As obrigações a emitir nos termos do presente diploma serão ainda equiparadas aos títulos referidos no n.º 3.º do artigo 1.º do Decreto-Lei n.º 43768, de 30 de Junho de 1961, com a redacção que lhe foi dada pelo Decreto-Lei n.º 44297, de 24 de Abril de 1962.
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas.
+Promulgado em 13 de Setembro de 1971.
+Publique-se.
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
