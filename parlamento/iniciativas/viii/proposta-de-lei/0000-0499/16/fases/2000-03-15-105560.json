@@ -1,0 +1,3535 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "16",
+    "id": "6230",
+    "titulo": "Orçamento do Estado para 2000"
+  },
+  "fase": "Votação na especialidade",
+  "codigo_fase": "310",
+  "data_registo": "2000-03-15",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1771",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "310",
+    "Comissao": null,
+    "DataFase": "2000-03-15",
+    "EvtId": "34",
+    "Fase": "Votação na especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-03-15",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28552",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1712-1712"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1712?pgs=1712&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1537",
+                "nome": "Hugo Velosa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28799",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1739-1740"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1739?pgs=1739-1740&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "397",
+                "nome": "Correia de Jesus"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28800",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1739-1740"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1739?pgs=1739-1740&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28801",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1739-1740"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1739?pgs=1739-1740&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1131",
+                "nome": "Francisco Torres"
+              }
+            ],
+            "faseDebate": "VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28802",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1738-1739"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1738?pgs=1738-1739&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1660",
+                "nome": "Mota Torres"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28803",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1738-1738"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1738?pgs=1738&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1176",
+                "nome": "Casimiro Ramos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28804",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1737-1738"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1737?pgs=1737-1738&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1551",
+                "nome": "Rui Marqueiro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28805",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1737-1738"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1737?pgs=1737-1738&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1701",
+                "nome": "Luísa Portugal"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28806",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1737-1738"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1737?pgs=1737-1738&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "614",
+                "nome": "Celeste Correia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28807",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1737-1738"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1737?pgs=1737-1738&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1552",
+                "nome": "Margarida Rocha Gariso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28808",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1737-1738"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1737?pgs=1737-1738&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "143",
+                "nome": "Alberto Costa"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28809",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1737-1738"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1737?pgs=1737-1738&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1665",
+                "nome": "Zelinda Marouço Semedo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28810",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1737-1738"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1737?pgs=1737-1738&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1667",
+                "nome": "Isabel Barata"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28811",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1737-1738"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1737?pgs=1737-1738&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "459",
+                "nome": "João Cravinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28812",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1737-1738"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1737?pgs=1737-1738&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "438",
+                "nome": "Carlos Zorrinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28813",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1737-1738"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1737?pgs=1737-1738&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1675",
+                "nome": "Agostinho Gonçalves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28814",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1737-1738"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1737?pgs=1737-1738&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1674",
+                "nome": "José Barros Moura"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28815",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1737-1738"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1737?pgs=1737-1738&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1627",
+                "nome": "Maria Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28816",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1737-1738"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1737?pgs=1737-1738&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1131",
+                "nome": "Francisco Torres"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28817",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1737-1738"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1737?pgs=1737-1738&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28818",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1718-1719",
+                  "1721-1721"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1718?pgs=1718-1719,1721&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1352",
+                "nome": "Paulo Portas"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28819",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1718-1719"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1718?pgs=1718-1719&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1352",
+                "nome": "Paulo Portas"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28820",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1718-1718"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1718?pgs=1718&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1467",
+                "nome": "Medeiros Ferreira"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28821",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1712-1712"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1712?pgs=1712&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28822",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1702-1710"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1702?pgs=1702-1710&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1660",
+                "nome": "Mota Torres"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28823",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1708-1708"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1708?pgs=1708&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28824",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1705-1705"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1705?pgs=1705&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28826",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1700-1701"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1700?pgs=1700-1701&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1184",
+                "nome": "Joaquim Matias"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28827",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1699-1700"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1699?pgs=1699-1700&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28828",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16?org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28829",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1697-1708",
+                  "1710-1710"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1697?pgs=1697-1708,1710&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1485",
+                "nome": "Rodeia Machado"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28830",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1697-1697"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1697?pgs=1697&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28831",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1675-1676",
+                  "1696-1696",
+                  "1703-1703",
+                  "1720-1721"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1675?pgs=1675-1676,1696,1703,1720-1721&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1673",
+                "nome": "Luísa Vasconcelos"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28832",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1687-1687"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1687?pgs=1687&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28833",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1686-1686"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1686?pgs=1686&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28834",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1682-1683",
+                  "1698-1699"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1682?pgs=1682-1683,1698-1699&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1239",
+                "nome": "Luís Marques Guedes"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28835",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1680-1680"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1680?pgs=1680&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1553",
+                "nome": "Teresa Venda"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28836",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1678-1678"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1678?pgs=1678&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28837",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16?org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28838",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1671-1718"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1671?pgs=1671-1718&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28839",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1670-1671",
+                  "1690-1692",
+                  "1735-1737"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1670?pgs=1670-1671,1690-1692,1735-1737&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28840",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1669-1670",
+                  "1685-1686",
+                  "1697-1697",
+                  "1699-1699",
+                  "1703-1704",
+                  "1719-1720",
+                  "1726-1726"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1669?pgs=1669-1670,1685-1686,1697,1699,1703-1704,1719-1720,1726&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28841",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16?org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1709",
+                "nome": "António Pires de Lima"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28842",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1668-1669",
+                  "1695-1696"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1668?pgs=1668-1669,1695-1696&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "428",
+                "nome": "Fernando Serrasqueiro"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28843",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16?org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  JUSTIÇA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "António Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28844",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1665-1666",
+                  "1668-1668",
+                  "1705-1705"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1665?pgs=1665-1666,1668,1705&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28845",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1645-1664",
+                  "1717-1717"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1645?pgs=1645-1664,1717&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28846",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16?org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1709",
+                "nome": "António Pires de Lima"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28847",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1659-1659"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1659?pgs=1659&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "132",
+                "nome": "Rui Rio"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28849",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1657-1657"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1657?pgs=1657&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28850",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1655-1656",
+                  "1678-1679",
+                  "1682-1682"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1655?pgs=1655-1656,1678-1679,1682&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "132",
+                "nome": "Rui Rio"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28851",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1655-1658",
+                  "1684-1684",
+                  "1692-1692"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1655?pgs=1655-1658,1684,1692&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "192",
+                "nome": "José Penedos"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28852",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1654-1656"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1654?pgs=1654-1656&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "132",
+                "nome": "Rui Rio"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28853",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16?org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1131",
+                "nome": "Francisco Torres"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28854",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1653-1654",
+                  "1660-1663"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1653?pgs=1653-1654,1660-1663&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1537",
+                "nome": "Hugo Velosa"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28855",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1652-1712"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1652?pgs=1652-1712&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1176",
+                "nome": "Casimiro Ramos"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28856",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1651-1651"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1651?pgs=1651&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1704",
+                "nome": "Maria José Campos"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28857",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1647-1648",
+                  "1650-1650"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1647?pgs=1647-1648,1650&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1607",
+                "nome": "Patinha Antão"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28858",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1647-1649"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1647?pgs=1647-1649&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28859",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1645-1651",
+                  "1667-1668",
+                  "1675-1675",
+                  "1678-1682",
+                  "1686-1687",
+                  "1694-1694",
+                  "1696-1697",
+                  "1703-1703"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1645?pgs=1645-1651,1667-1668,1675,1678-1682,1686-1687,1694,1696-1697,1703&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1625",
+                "nome": "Maria Celeste Cardona"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28860",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16?org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1058",
+                "nome": "Bernardino Soares"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28862",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1643-1643"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1643?pgs=1643&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1701",
+                "nome": "Luísa Portugal"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28863",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1643-1643"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1643?pgs=1643&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28864",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1643-1644",
+                  "1649-1649",
+                  "1663-1664",
+                  "1688-1691",
+                  "1698-1698",
+                  "1717-1717",
+                  "1719-1719",
+                  "1729-1730"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1643?pgs=1643-1644,1649,1663-1664,1688-1691,1698,1717,1719,1729-1730&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "507",
+                "nome": "Joel Hasse Ferreira"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28865",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16?org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28866",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1642-1643",
+                  "1684-1684",
+                  "1686-1687",
+                  "1691-1691",
+                  "1703-1703",
+                  "1710-1710",
+                  "1717-1717",
+                  "1719-1719",
+                  "1726-1727"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1642?pgs=1642-1643,1684,1686-1687,1691,1703,1710,1717,1719,1726-1727&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS FISCAIS",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Manuel Baganha"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107290",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1644-1650",
+                  "1656-1657",
+                  "1679-1681",
+                  "1689-1689",
+                  "1693-1693"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1644?pgs=1644-1650,1656-1657,1679-1681,1689,1693&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  FINANÇAS E DA ECONOMIA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Pina Moura"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107291",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1670-1671",
+                  "1690-1692",
+                  "1735-1737"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1670?pgs=1670-1671,1690-1692,1735-1737&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO ORÇAMENTO",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Fernando Pacheco"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107292",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1657-1659",
+                  "1661-1661",
+                  "1699-1699",
+                  "1710-1710"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1657?pgs=1657-1659,1661,1699,1710&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  FINANÇAS E DA ECONOMIA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Pina Moura"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107294",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1718-1719",
+                  "1721-1721"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1718?pgs=1718-1719,1721&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "ESPECIALIDADE E VOTACAO FINAL GLOBAL",
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "21:00",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  TESOURO  E FINANÇAS",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Antonio Nogueira Leite"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107295",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1702-1703"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-03-16",
+                "pubLeg": "VIII",
+                "pubNr": "42",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16/1702?pgs=1702-1703&org=PLC"
+              }
+            ],
+            "sumario": "ORCAMENTO DO ESTADO PARA 2000",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "105560",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1771",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-03-16",
+        "pubLeg": "VIII",
+        "pubNr": "42",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/042/2000-03-16?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
