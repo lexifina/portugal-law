@@ -1,0 +1,581 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "389",
+    "id": "28681",
+    "titulo": "Atribuição de uma subvenção vitalícia aos cidadãos que participaram na revolução de 18 de Janeiro de 1934 na Marinha Grande"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1989-07-07",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "4363",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1989-07-07",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1989-07-07",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "14:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221229",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5017-5018"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-08",
+                "pubLeg": "V",
+                "pubNr": "103",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/103/1989-07-08/5017?pgs=5017-5018&org=PLC"
+              }
+            ],
+            "sumario": "Atribuição de uma subvenção vitalícia aos cidadãos que participaram na revolução de 18 de Janeiro de 1934 na Marinha Grande",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "14:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221230",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5018-5018"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-08",
+                "pubLeg": "V",
+                "pubNr": "103",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/103/1989-07-08/5018?pgs=5018&org=PLC"
+              }
+            ],
+            "sumario": "Atribuição de uma subvenção vitalícia aos cidadãos que participaram na revolução de 18 de Janeiro de 1934 na Marinha Grande",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "14:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221232",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5018-5019"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-08",
+                "pubLeg": "V",
+                "pubNr": "103",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/103/1989-07-08/5018?pgs=5018-5019&org=PLC"
+              }
+            ],
+            "sumario": "Atribuição de uma subvenção vitalícia aos cidadãos que participaram na revolução de 18 de Janeiro de 1934 na Marinha Grande",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "14:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221233",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5019-5019"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-08",
+                "pubLeg": "V",
+                "pubNr": "103",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/103/1989-07-08/5019?pgs=5019&org=PLC"
+              }
+            ],
+            "sumario": "Atribuição de uma subvenção vitalícia aos cidadãos que participaram na revolução de 18 de Janeiro de 1934 na Marinha Grande",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "14:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221234",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5019-5019"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-08",
+                "pubLeg": "V",
+                "pubNr": "103",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/103/1989-07-08/5019?pgs=5019&org=PLC"
+              }
+            ],
+            "sumario": "Atribuição de uma subvenção vitalícia aos cidadãos que participaram na revolução de 18 de Janeiro de 1934 na Marinha Grande",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "14:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221235",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5019-5020"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-08",
+                "pubLeg": "V",
+                "pubNr": "103",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/103/1989-07-08/5019?pgs=5019-5020&org=PLC"
+              }
+            ],
+            "sumario": "Atribuição de uma subvenção vitalícia aos cidadãos que participaram na revolução de 18 de Janeiro de 1934 na Marinha Grande",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "14:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221236",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5020-5021"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-08",
+                "pubLeg": "V",
+                "pubNr": "103",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/103/1989-07-08/5020?pgs=5020-5021&org=PLC"
+              }
+            ],
+            "sumario": "Atribuição de uma subvenção vitalícia aos cidadãos que participaram na revolução de 18 de Janeiro de 1934 na Marinha Grande",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "14:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221237",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5021-5021",
+                  "5022-5022"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-08",
+                "pubLeg": "V",
+                "pubNr": "103",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/103/1989-07-08/5021?pgs=5021,5022&org=PLC"
+              }
+            ],
+            "sumario": "Atribuição de uma subvenção vitalícia aos cidadãos que participaram na revolução de 18 de Janeiro de 1934 na Marinha Grande",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "14:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221238",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5022-5022"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-08",
+                "pubLeg": "V",
+                "pubNr": "103",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/103/1989-07-08/5022?pgs=5022&org=PLC"
+              }
+            ],
+            "sumario": "Atribuição de uma subvenção vitalícia aos cidadãos que participaram na revolução de 18 de Janeiro de 1934 na Marinha Grande",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "14:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221239",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5021-5022"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-08",
+                "pubLeg": "V",
+                "pubNr": "103",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/103/1989-07-08/5021?pgs=5021-5022&org=PLC"
+              }
+            ],
+            "sumario": "Atribuição de uma subvenção vitalícia aos cidadãos que participaram na revolução de 18 de Janeiro de 1934 na Marinha Grande",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "14:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221240",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5022-5022"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-08",
+                "pubLeg": "V",
+                "pubNr": "103",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/103/1989-07-08/5022?pgs=5022&org=PLC"
+              }
+            ],
+            "sumario": "Atribuição de uma subvenção vitalícia aos cidadãos que participaram na revolução de 18 de Janeiro de 1934 na Marinha Grande",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "14:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "221241",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5022-5022"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-07-08",
+                "pubLeg": "V",
+                "pubNr": "103",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/103/1989-07-08/5022?pgs=5022&org=PLC"
+              }
+            ],
+            "sumario": "Atribuição de uma subvenção vitalícia aos cidadãos que participaram na revolução de 18 de Janeiro de 1934 na Marinha Grande",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "219844",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "4363",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1989-07-08",
+        "pubLeg": "V",
+        "pubNr": "103",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/103/1989-07-08?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
