@@ -1,0 +1,7 @@
+Portaria n.º 18290
+Tendo o Decreto n.º 43387, de 7 de Dezembro de 1960, criado um lugar de professor auxiliar e um lugar de assistente da cadeira de Bioestatística no Instituto de Medicina Tropical, que não puderam ser incluídos no orçamento privativo do mesmo Instituto para 1961, por já estar aprovado e publicado na referida data;
+Assim, e sendo indispensável criar os meios financeiros necessários ao pagamento dos vencimentos do indicado professor e assistente;
+Visto o disposto no artigo 6.º do citado Decreto n.º 43387;
+Considerando que as sobras da dotação do n.º 2) do artigo 2.º do capítulo II do orçamento da despesa do Instituto de Medicina Tropical para o ano de 1961 são insuficientes para ocorrer aos encargos criados pelo mencionado decreto:
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, abrir no orçamento privativo do referido organismo para o corrente ano um crédito especial de 42000$00, destinado a reforçar a verba do capítulo II, artigo 2.º, n.º 2) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal contratado», tomando como contrapartida as disponibilidades existentes na verba do artigo 19.º «Diversos encargos - Missões de estudo», da tabela de despesa do mesmo orçamento.
+Ministério do Ultramar, 1 de Março de 1961. - Pelo Ministro do Ultramar, Adriano José Alves Moreira, Subsecretário de Estado da Administração Ultramarina.
