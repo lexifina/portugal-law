@@ -1,13 +1,9 @@
 # Artigo 14.º
 
-### Direitos dos Deputados
+### Deveres dos Deputados
 
-1 - Os Deputados não podem, sem autorização da Assembleia da República, ser jurados, peritos ou testemunhas nem ser ouvidos como declarantes nem como arguidos, excepto, neste último caso, quando presos em flagrante delito ou quando suspeitos de crime a que corresponda pena superior a três anos.
+1 - Os Deputados carecem de autorização da Assembleia para serem jurados, peritos ou testemunhas.
 
-2 - A autorização referida no número anterior ou a recusa serão precedidas de audição do Deputado.
+2 - Os Deputados carecem de autorização da Assembleia para servirem de árbitros em processos de que seja parte o Estado ou qualquer outra pessoa colectiva de direito público.
 
-3 - A falta de Deputados por causa das reuniões ou missões da Assembleia a actos ou diligências oficiais a ela estranhos constitui sempre motivo justificado de adiamento destes, sem qualquer encargo.
-
-4 - O Deputado não poderá invocar o fundamento previsto no número anterior mais de uma vez em qualquer acto ou diligência oficial.
-
-5 - Ao Deputado que frequentar curso de qualquer grau de natureza oficial é aplicável, quanto a aulas e exames, o regime mais favorável entre os que estejam previstos para outras situações.
+3 - A autorização a que se refere o n.º 1 deve ser solicitada pelo juiz competente, ou pelo instrutor do processo, em documento dirigido ao Presidente da Assembleia da República, e a decisão será precedida de audição do Deputado.
