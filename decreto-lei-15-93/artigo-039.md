@@ -2,7 +2,7 @@
 
 ### Destino dos bens declarados perdidos a favor do Estado
 
-1 - As recompensas, objectos, direitos ou vantagens declarados perdidos a favor do Estado, nos termos dos artigos 35.º a 37.º, revertem:
+1 - As recompensas, objectos, direitos ou vantagens declarados perdidos a favor do Estado, nos termos dos artigos 35.º a 38.º, revertem:
 
 a) Em 30% para a entidade coordenadora do Programa Nacional de Combate à Droga, destinando-se ao apoio de acções, medidas e programas de prevenção do consumo de droga;
 
