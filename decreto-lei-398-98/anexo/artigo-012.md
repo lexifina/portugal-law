@@ -2,7 +2,7 @@
 
 ### Aplicação da lei tributária no tempo
 
-1 - As normas tributárias aplicam-se aos factos posteriores à sua entrada em vigor, não podendo ser criados quaisquer tributos retroativos.
+1 - As normas tributárias aplicam-se aos factos posteriores à sua entrada em vigor, não podendo ser criados quaisquer impostos retroactivos.
 
 2 - Se o facto tributário for de formação sucessiva, a lei nova só se aplica ao período decorrido a partir da sua entrada em vigor.
 

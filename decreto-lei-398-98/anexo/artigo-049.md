@@ -2,24 +2,8 @@
 
 ### Interrupção e suspensão da prescrição
 
-1 - A citação, a reclamação, o recurso hierárquico, a impugnação e o pedido de revisão oficiosa da liquidação do tributo interrompem a prescrição.
+1 - A reclamação, o recurso hierárquico, a impugnação e o pedido de revisão oficiosa da liquidação do tributo interrompem a prescrição.
 
-2 - (Revogado.)
+2 - A paragem do processo por período superior a um ano por facto não imputável ao sujeito passivo faz cessar o efeito previsto no número anterior, somando-se, neste caso, o tempo que decorrer após esse período ao que tiver decorrido até à data da autuação.
 
-3 - Sem prejuízo do disposto no número seguinte, a interrupção tem lugar uma única vez, com o facto que se verificar em primeiro lugar.
-
-4 - O prazo de prescrição legal suspende-se:
-
-a) Em virtude de pagamento de prestações legalmente autorizados;
-
-b) Enquanto não houver decisão definitiva ou transitada em julgado, que ponha termo ao processo, nos casos de reclamação, impugnação, recurso ou oposição, quando determinem a suspensão da cobrança da dívida;
-
-c) Desde a instauração até ao trânsito em julgado da ação de impugnação pauliana intentada pelo Ministério Público.
-
-d) Durante o período de impedimento legal à realização da venda de imóvel afeto a habitação própria e permanente.
-
-e) Na pendência de reclamação a que se refere o artigo 276.º do Código de Procedimento e de Processo Tributário quando desta resulte a impossibilidade de praticar atos coercivos no respetivo processo de execução;
-
-f) Até ao termo do prazo de suspensão e cessação de efeito a que se refere o n.º 3 do artigo 169.º do Código de Procedimento e de Processo Tributário.
-
-5 - O prazo de prescrição legal suspende-se, ainda, desde a instauração de inquérito criminal até ao arquivamento ou trânsito em julgado da sentença.
+3 - O prazo de prescrição legal suspende-se por motivo de paragem do processo de execução fiscal em virtude de pagamento ou prestação legalmente autorizada, ou de reclamação, impugnação ou recurso.

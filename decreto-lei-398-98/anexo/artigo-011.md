@@ -4,7 +4,7 @@
 
 # Artigo 11.º
 
-### Interpretação e integração de lacunas
+### Interpretação
 
 1 - Na determinação do sentido das normas fiscais e na qualificação dos factos a que as mesmas se aplicam são observadas as regras e princípios gerais de interpretação e aplicação das leis.
 

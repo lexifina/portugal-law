@@ -6,7 +6,7 @@
 
 ### Pedido de revisão da matéria colectável
 
-1 - O sujeito passivo pode, salvo nos casos de aplicação do regime simplificado de tributação em que não sejam efectuadas correcções com base noutro método indirecto, solicitar a revisão da matéria tributável fixada por métodos indirectos em requerimento fundamentado dirigido ao órgão da administração tributária da área do seu domicílio fiscal, a apresentar no prazo de 30 dias contados a partir da data da notificação da decisão e contendo a indicação do perito que o representa.
+1 - O sujeito passivo pode, salvo em caso de aplicação de regime simplificado de tributação, solicitar a revisão da matéria tributável fixada por métodos indirectos em requerimento fundamentado dirigido ao órgão da administração tributária da área do seu domicílio fiscal, a apresentar no prazo de 30 dias contados a partir da data da notificação da decisão e contendo a indicação do perito que o representa.
 
 2 - O pedido referido no número anterior tem efeito suspensivo da liquidação do tributo.
 
@@ -16,7 +16,7 @@
 
 5 - A convocação é efectuada com antecedência não inferior a oito dias por carta registada e vale como desistência do pedido a não comparência injustificada do perito designado pelo contribuinte.
 
-6 - Em caso de falta do perito do contribuinte, o órgão da administração tributária marcará nova reunião para o 5.º dia subsequente, advertindo simultaneamente o perito do contribuinte que deverá justificar a falta à primeira reunião e que a não justificação da falta ou a não comparência à segunda reunião valem como desistência da reclamação.
+6 - Em caso de falta injustificada do perito do contribuinte, o órgão da administração tributária marcará nova reunião para o 5.º dia subsequente, advertindo simultaneamente o perito do contribuinte que deverá justificar a falta à primeira reunião e que a não justificação da falta ou a não comparência à segunda reunião valem como desistência da reclamação.
 
 7 - A falta do perito independente não obsta à realização das reuniões sem prejuízo de este poder apresentar por escrito as suas observações no prazo de cinco dias a seguir à reunião em que devia ter comparecido.
 
@@ -28,7 +28,7 @@ a) Provar-se que lhe é imputável a aplicação de métodos indirectos;
 
 b) A reclamação ser destituída de qualquer fundamento;
 
-c) Tendo sido deduzida impugnação judicial, esta ser considerada improcedente.
+c) Não ser deduzida impugnação judicial.
 
 10 - O agravamento referido no número anterior será aplicado pelo órgão da administração tributária referido no n.º 1 e exigido adicionalmente ao tributo a título de custas.
 
@@ -38,6 +38,6 @@ c) Tendo sido deduzida impugnação judicial, esta ser considerada improcedente.
 
 13 - Os processos de revisão serão distribuídos pelos peritos de acordo com a data de entrada e a ordem das listas referidas no n.º 11, salvo impedimento ou outra circunstância devidamente fundamentada pela entidade referida no n.º 1.
 
-14 - As correcções meramente aritméticas da matéria tributável resultantes de imposição legal e as questões de direito, salvo quando referidas aos pressupostos de determinação indirecta da matéria tributável, não estão abrangidas pelo disposto neste artigo.
+14 - As correcções meramente aritméticas da matéria tributável resultantes de imposição legal ou que possam ser objecto, de acordo com as leis tributárias, de recurso hierárquico com efeito suspensivo da liquidação e as questões de direito, salvo quando referidas aos pressupostos da determinação indirecta da matéria colectável, não estão abrangidas pelo disposto neste artigo.
 
 15 - É autuado um único procedimento de revisão em caso de reclamação de matéria tributável apurada na mesma acção de inspecção, ainda que respeitante a mais de um exercício ou tributo.

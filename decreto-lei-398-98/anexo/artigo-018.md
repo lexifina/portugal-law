@@ -10,6 +10,6 @@
 
 4 - Não é sujeito passivo quem:
 
-a) Suporte o encargo do imposto por repercussão legal, sem prejuízo do direito de reclamação, recurso, impugnação ou de pedido de pronúncia arbitral nos termos das leis tributárias;
+a) Suporte o encargo do imposto por repercussão legal, sem prejuízo do direito de reclamação, recurso ou impugnação nos termos das leis tributárias;
 
 b) Deva prestar informações sobre assuntos tributários de terceiros, exibir documentos, emitir laudo em processo administrativo ou judicial ou permitir o acesso a imóveis ou locais de trabalho.

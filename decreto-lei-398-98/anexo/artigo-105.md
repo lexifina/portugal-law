@@ -2,4 +2,4 @@
 
 ### Alçadas
 
-A alçada dos tribunais tributários corresponde àquela que se encontra estabelecida no Estatuto dos Tribunais Administrativos e Fiscais.
+A lei fixará as alçadas dos tribunais tributários, sem prejuízo da possibilidade de recurso para o Supremo Tribunal Administrativo, em caso de este visar a uniformização das decisões sobre idêntica questão de direito.

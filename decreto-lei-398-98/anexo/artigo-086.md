@@ -4,7 +4,7 @@
 
 1 - A avaliação directa é susceptível, nos termos da lei, de impugnação contenciosa directa.
 
-2 - A impugnação da avaliação directa depende do esgotamento dos meios administrativos previstos para a sua revisão.
+2 - A impugnação da avaliação indirecta depende do esgotamento dos meios administrativos previstos para a sua revisão.
 
 3 - A avaliação indirecta não é susceptível de impugnação contenciosa directa, salvo quando não dê origem a qualquer liquidação.
 
