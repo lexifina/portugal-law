@@ -1,0 +1,5 @@
+Aviso n.º 13/2002
+Por ordem superior se torna público que o Governo do Tajiquistão depositou, em 18 de Julho de 2001, o seu instrumento de adesão à Convenção Relativa às Zonas Húmidas de Importância Internacional, especialmente como Habitat de Aves Aquáticas, adoptada em Ramsar em 2 de Fevereiro de 1971, tal como emendada pelo Protocolo de Paris de 3 de Dezembro de 1982.
+Portugal é Parte da mesma Convenção, tendo depositado o instrumento de ratificação à Convenção em 24 de Novembro de 1980 (Decreto n.º 101/80, de 9 de Outubro), assim como do Protocolo de 1982, tendo depositado o instrumento de ratificação ao Protocolo em 18 de Novembro de 1984 (Decreto n.º 33/84, de 10 de Julho).
+Nos termos do artigo 10 (2), a Convenção Relativa às Zonas Húmidas de Importância Internacional, especialmente como Habitat de Aves Aquáticas, tal como emendada pelo Protocolo de Paris, entrou em vigor no Tajiquistão em 18 de Novembro de 2001.
+Direcção-Geral dos Assuntos Multilaterais, 18 de Fevereiro de 2002. - A Directora de Serviços das Organizações Económicas Internacionais, Graça Gonçalves Pereira.
