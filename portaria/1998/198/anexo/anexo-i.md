@@ -244,9 +244,9 @@ Do tipo B.
 
 3.1.1.1 - Investimentos elegíveis:
 
-A - Modernização das instalações de recepção, secagem e acondicionamento;
+A - Equipamentos para a recepção, secagem e acondicionamento da produção local nas zonas de produção para as quais seja demonstrada a insuficiência desses equipamentos sem aumento da capacidade de armazenagem na região;
 
-B - Aumento da capacidade de secagem nas regiões onde se verifique défice.
+B - Aumento da capacidade de secagem nas unidades localizadas junto das zonas de produção onde se verifique défice.
 
 Restrições:
 
@@ -264,17 +264,9 @@ Todos os investimentos são considerados prioritários.
 
 Comercialização primária:
 
-A - Modernização das instalações de recepção, secagem e acondicionamento;
+A - Equipamentos para a recepção, secagem e acondicionamento da produção local nas zonas de produção para as quais seja demonstrada a insuficiência desses equipamentos, sem aumento de capacidade de armazenagem da região;
 
-B - Aumento da capacidade de secagem nas regiões onde se verifique défice.
-
-Restrições:
-
-Só são admitidos investimentos nas unidades localizadas junto das zonas de produção;
-
-Não são admitidos investimentos que envolvam aumento de capacidade de armazenagem.
-
-Transformação:
+B - Aumento da capacidade de secagem nas unidades localizadas junto das zonas de produção onde se verifique défice.
 
 C - Concentração de unidades;
 
@@ -554,9 +546,9 @@ f) Não previstos no Plano Destinado à Melhoria Estrutural de Sectores da Trans
 
 III - Níveis de ajuda:
 
-a) As ajudas a conceder revestem a forma de subsídio em capital a fundo perdido, fixando-se, para esse efeito, taxas de comparticipação que podem atingir os seguintes níveis:
+a) As ajudas a conceder revestem a forma de subsídio em capital a fundo perdido, que podem atingir os seguintes níveis:
 
-(ver quadro no documento original)
+(ver tabela no documento original)
 
 b) Os níveis de ajuda variam em função do tipo de investimento e da natureza do beneficiário.
 
