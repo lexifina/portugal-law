@@ -1,0 +1,3 @@
+Portaria n.º 19373
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, abrir um crédito especial da quantia de 1000000$00 destinado a reforçar a verba do artigo 9.º, n.º 2), alínea e) «Pagamento de serviços - Diversos serviços - Propaganda - Outros serviços de propaganda que forem determinados pelo Ministro», da tabela de despesa do orçamento privativo da Agência-Geral do Ultramar para o corrente ano, tomando como contrapartida o saldo das contas de exercícios findos.
+Ministério do Ultramar, 31 de Agosto de 1962. - Pelo Ministro do Ultramar, Carlos João da Silva Moreira Rato, Subsecretário de Estado do Fomento Ultramarino.
