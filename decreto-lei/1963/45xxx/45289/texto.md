@@ -1,0 +1,10 @@
+Decreto-Lei n.º 45289
+Para execução do inscrito no programa para 1963 do II Plano de Fomento referente à rede de transportes no subsolo de Lisboa, e tendo em vista facilitar o equilíbrio económico do empreendimento, é de promover-se, na conformidade do estabelecido no Decreto-Lei n.º 44497, de 6 de Agosto de 1962, a possível intervenção do Fundo Especial de Transportes Terrestres na realização do programado financiamento directo das caixas económicas a Metropolitano de Lisboa, S. A. R. L., concessionária daquela rede de transportes.
+Testes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
+Artigo 1.º É autorizado o Fundo Especial de Transportes Terrestres a contrair na Caixa Geral de Depósitos, Crédito e Previdência um empréstimo de 70000000$00 para ser aplicado no financiamento a Metropolitano de Lisboa, S. A. R. L., nos termos do Decreto-Lei n.º 44497, de 6 de Agosto de 1962, na parte aplicável.
+Art. 2.º O Fundo Especial de Transportes Terrestres consignará prioritàriamente ao pagamento dos encargos deste empréstimo a parte necessária das receitas do seu orçamento ordinário.
+Art. 3.º O Fundo Especial de Transportes Terrestres poderá antecipar a liquidação de todo ou parte do empréstimo.
+Art. 4.º Mediante decreto assinado pelos Ministros das Finanças e das Comunicações serão promulgadas as alterações orçamentais necessárias à execução do presente diploma.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 2 de Outubro de 1963. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
