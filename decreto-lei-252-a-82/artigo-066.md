@@ -4,10 +4,12 @@
 
 # Artigo 66.º
 
-### Consideram-se equiparados, para todos os efeitos:
+### Equiparação a director de serviços e a chefe de divisão
 
-Consideram-se equiparados para todos os efeitos:
+1 - Consideram-se equiparados, para todos os efeitos:
 
-1) Ao cargo de director de serviços, os cargos de inspector-chefe e de director das Alfândegas de Lisboa e do Porto;
+1) Ao cargo de director de serviços, os cargos de inspector-chefe e de director de alfândega;
 
 2) Ao cargo de chefe de divisão, o cargo de director de laboratório.
+
+2 - Para efeitos remuneratórios, os cargos de juiz dos tribunais técnicos são também equiparados a director de serviços.
