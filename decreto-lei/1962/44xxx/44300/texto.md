@@ -1,0 +1,6 @@
+Decreto-Lei n.º 44300
+Atendendo ao que foi exposto pelo Ministério da Economia;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. São fixados em $75 por quilograma os direitos devidos pelo centeio importado pela Federação Nacional dos Produtores de Trigo e transportado nos navios Edda Corts (2726838 kg) e Capetan Manolis (2376088 kg), respectivamente em Outubro e Novembro de 1960, e Libannon (4010988 kg) e Fairway (1500260 kg), respectivamente em Maio e Junho de 1961.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 26 de Abril de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - João Augusto Dias Rosas.
