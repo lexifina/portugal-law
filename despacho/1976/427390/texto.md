@@ -1,0 +1,3 @@
+Despacho
+É dispensado o cumprimento das formalidades exigidas na parte final do n.º 6 do artigo 7.º do Decreto n.º 34412, de 14 de Fevereiro de 1945, considerando-se automaticamente prorrogado o limite de abono de ajudas de custo para as deslocações superiores a noventa dias, quando se trate de instrutores, monitores e instruendos, durante a frequência de cursos, escolas, estágios ou outras modalidades de instrução, cuja duração seja superior àquele período.
+Ministérios da Administração Interna e das Finanças, 3 de Maio de 1976. - O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa. - Pelo Ministro das Finanças, José Dias dos Santos Pais, Subsecretário de Estado Adjunto do Ministro das Finanças.
