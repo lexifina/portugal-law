@@ -1,0 +1,4 @@
+Declaração
+Declara-se, para os devidos efeitos, que entre o original arquivado nesta Secretaria-Geral e o texto do despacho que delega a representação do Governo nos trabalhos da Associação Europeia de Comércio Livre (E. F. T. A.) e do Acordo Geral sobre Pautas Aduaneiras (G. A. T. T.) no Secretário de Estado do Comércio, Dr. Alexandre Vaz Pinto, publicado no Diário do Governo, 1.ª série, n.º 256, de 3 de Novembro, existe a seguinte divergência, que assim se rectifica:
+Onde se lê: «... em assuntos referentes às mesmas organizações do Ministério dos Negócios Estrangeiros, ...», deve ler-se: «... em assuntos referentes às mesmas organizações, do Ministro dos Negócios Estrangeiros, ...»
+Secretaria-Geral da Presidência do Conselho, 3 de Novembro de 1972. - O Secretário-Geral, Diogo de Paiva Brandão.
