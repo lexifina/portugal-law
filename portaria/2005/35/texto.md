@@ -1,0 +1,10 @@
+Portaria n.º 35/2005
+de 17 de Janeiro
+Como consequência da detecção em alguns Estados membros de Pseudomonas solanacearum (Smith) Smith em batata de consumo originária do Egipto, foi aprovada a Decisão n.º 2004/4/CE, da Comissão, de 22 de Dezembro de 2003, publicada no Jornal Oficial da União Europeia, n.º L 2, de 6 de Janeiro de 2004, que autorizou os Estados membros a adoptar provisoriamente, em relação àquele país, medidas adicionais de protecção fitossanitária.
+Com base na decisão citada foi publicada a Portaria n.º 125/2004, de 6 de Fevereiro, que estabeleceu medidas adicionais temporárias de protecção fitossanitária relativamente à importação de batata de consumo originária do Egipto.
+Na sequência da execução dessas medidas adicionais, designadamente das previstas pela Decisão n.º 2004/4/CE, da Comissão, de 22 de Dezembro de 2003, e uma vez que se continuaram a verificar intercepções nalguns Estados membros, a Comissão Europeia decidiu reavaliar a situação, tendo para o efeito aprovado a Decisão n.º 2004/836/CE, da Comissão, de 6 de Dezembro, publicada no Jornal Oficial da União Europeia, n.º L 360, de 7 de Dezembro de 2004. Deste modo, importa adaptar a Portaria n.º 125/2004, de 6 de Fevereiro, às novas recomendações.
+Assim:
+Nos termos do n.º 2 do artigo 1.º do Decreto-Lei n.º 14/99, de 12 de Janeiro, republicado pelo Decreto-Lei n.º 517/99, de 4 de Dezembro:
+Manda o Governo, pelo Ministro da Agricultura, Pescas e Florestas, que o n.º 2.º da Portaria n.º 125/2004, de 6 de Fevereiro, passe a ter a seguinte redacção:
+«2.º Os tubérculos de Solanum tuberosum L., com excepção dos destinados à plantação, originários do Egipto só podem ser introduzidos no território nacional desde que se observem as condições estabelecidas na Decisão n.º 2004/4/CE, da Comissão, de 22 de Dezembro de 2003, na redacção que lhe foi dada pela Decisão n.º 2004/836/CE, da Comissão, de 6 de Dezembro.»
+O Ministro da Agricultura, Pescas e Florestas, Carlos Henrique da Costa Neves, em 23 de Dezembro de 2004.
