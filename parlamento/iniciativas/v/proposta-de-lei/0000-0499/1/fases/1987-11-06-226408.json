@@ -1,0 +1,1076 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "1",
+    "id": "29224",
+    "titulo": "Alterações à Lei nº 33/87 de 11 de Julho (regulamenta o exercício do direito de associação dos estudantes)"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1987-11-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "5059",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1987-11-06",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "29045",
+        "leg": "V",
+        "nr": "70",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Alarga o prazo previsto na Lei nº 33/87, de 11 de Julho, com vista a garantir às associações de estudantes condições para apresentação dos elementos previstos neste diploma legal"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1987-11-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204775",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "426-426",
+                  "426-427"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-11-07",
+                "pubLeg": "V",
+                "pubNr": "20",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/020/1987-11-07/426?pgs=426,426-427&org=PLC"
+              }
+            ],
+            "sumario": "Alarga o prazo previsto na Lei nº 33/87, de 11 de Julho, com vista a garantir às associações de estudantes condições para apresentação dos elementos previstos neste diploma legal; Alterações à Lei nº 33/87 de 11 de Julho (regulamenta o exercício do direito de associação dos estudantes)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204777",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "428-428",
+                  "429-429"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-11-07",
+                "pubLeg": "V",
+                "pubNr": "20",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/020/1987-11-07/428?pgs=428,429&org=PLC"
+              }
+            ],
+            "sumario": "Alarga o prazo previsto na Lei nº 33/87, de 11 de Julho, com vista a garantir às associações de estudantes condições para apresentação dos elementos previstos neste diploma legal; Alterações à Lei nº 33/87 de 11 de Julho (regulamenta o exercício do direito de associação dos estudantes)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204779",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "428-429",
+                  "429-429"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-11-07",
+                "pubLeg": "V",
+                "pubNr": "20",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/020/1987-11-07/428?pgs=428-429,429&org=PLC"
+              }
+            ],
+            "sumario": "Alarga o prazo previsto na Lei nº 33/87, de 11 de Julho, com vista a garantir às associações de estudantes condições para apresentação dos elementos previstos neste diploma legal; Alterações à Lei nº 33/87 de 11 de Julho (regulamenta o exercício do direito de associação dos estudantes)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204780",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "429-430"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-11-07",
+                "pubLeg": "V",
+                "pubNr": "20",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/020/1987-11-07/429?pgs=429-430&org=PLC"
+              }
+            ],
+            "sumario": "Alarga o prazo previsto na Lei nº 33/87, de 11 de Julho, com vista a garantir às associações de estudantes condições para apresentação dos elementos previstos neste diploma legal; Alterações à Lei nº 33/87 de 11 de Julho (regulamenta o exercício do direito de associação dos estudantes)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204781",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "430-430"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-11-07",
+                "pubLeg": "V",
+                "pubNr": "20",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/020/1987-11-07/430?pgs=430&org=PLC"
+              }
+            ],
+            "sumario": "Alarga o prazo previsto na Lei nº 33/87, de 11 de Julho, com vista a garantir às associações de estudantes condições para apresentação dos elementos previstos neste diploma legal; Alterações à Lei nº 33/87 de 11 de Julho (regulamenta o exercício do direito de associação dos estudantes)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204782",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "430-431",
+                  "432-432",
+                  "432-433"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-11-07",
+                "pubLeg": "V",
+                "pubNr": "20",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/020/1987-11-07/430?pgs=430-431,432,432-433&org=PLC"
+              }
+            ],
+            "sumario": "Alarga o prazo previsto na Lei nº 33/87, de 11 de Julho, com vista a garantir às associações de estudantes condições para apresentação dos elementos previstos neste diploma legal; Alterações à Lei nº 33/87 de 11 de Julho (regulamenta o exercício do direito de associação dos estudantes)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204784",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "431-432",
+                  "432-432"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-11-07",
+                "pubLeg": "V",
+                "pubNr": "20",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/020/1987-11-07/431?pgs=431-432,432&org=PLC"
+              }
+            ],
+            "sumario": "Alarga o prazo previsto na Lei nº 33/87, de 11 de Julho, com vista a garantir às associações de estudantes condições para apresentação dos elementos previstos neste diploma legal; Alterações à Lei nº 33/87 de 11 de Julho (regulamenta o exercício do direito de associação dos estudantes)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204785",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "433-434",
+                  "434-435"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-11-07",
+                "pubLeg": "V",
+                "pubNr": "20",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/020/1987-11-07/433?pgs=433-434,434-435&org=PLC"
+              }
+            ],
+            "sumario": "Alarga o prazo previsto na Lei nº 33/87, de 11 de Julho, com vista a garantir às associações de estudantes condições para apresentação dos elementos previstos neste diploma legal; Alterações à Lei nº 33/87 de 11 de Julho (regulamenta o exercício do direito de associação dos estudantes)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204787",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "434-434"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-11-07",
+                "pubLeg": "V",
+                "pubNr": "20",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/020/1987-11-07/434?pgs=434&org=PLC"
+              }
+            ],
+            "sumario": "Alarga o prazo previsto na Lei nº 33/87, de 11 de Julho, com vista a garantir às associações de estudantes condições para apresentação dos elementos previstos neste diploma legal; Alterações à Lei nº 33/87 de 11 de Julho (regulamenta o exercício do direito de associação dos estudantes)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204788",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "434-434"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-11-07",
+                "pubLeg": "V",
+                "pubNr": "20",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/020/1987-11-07/434?pgs=434&org=PLC"
+              }
+            ],
+            "sumario": "Alarga o prazo previsto na Lei nº 33/87, de 11 de Julho, com vista a garantir às associações de estudantes condições para apresentação dos elementos previstos neste diploma legal; Alterações à Lei nº 33/87 de 11 de Julho (regulamenta o exercício do direito de associação dos estudantes)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204789",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "435-436"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-11-07",
+                "pubLeg": "V",
+                "pubNr": "20",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/020/1987-11-07/435?pgs=435-436&org=PLC"
+              }
+            ],
+            "sumario": "Alarga o prazo previsto na Lei nº 33/87, de 11 de Julho, com vista a garantir às associações de estudantes condições para apresentação dos elementos previstos neste diploma legal; Alterações à Lei nº 33/87 de 11 de Julho (regulamenta o exercício do direito de associação dos estudantes)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204790",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "436-436"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-11-07",
+                "pubLeg": "V",
+                "pubNr": "20",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/020/1987-11-07/436?pgs=436&org=PLC"
+              }
+            ],
+            "sumario": "Alarga o prazo previsto na Lei nº 33/87, de 11 de Julho, com vista a garantir às associações de estudantes condições para apresentação dos elementos previstos neste diploma legal; Alterações à Lei nº 33/87 de 11 de Julho (regulamenta o exercício do direito de associação dos estudantes)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204791",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "436-438",
+                  "438-439",
+                  "439-439",
+                  "440-440"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-11-07",
+                "pubLeg": "V",
+                "pubNr": "20",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/020/1987-11-07/436?pgs=436-438,438-439,439,440&org=PLC"
+              }
+            ],
+            "sumario": "Alarga o prazo previsto na Lei nº 33/87, de 11 de Julho, com vista a garantir às associações de estudantes condições para apresentação dos elementos previstos neste diploma legal; Alterações à Lei nº 33/87 de 11 de Julho (regulamenta o exercício do direito de associação dos estudantes)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204792",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "438-438"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-11-07",
+                "pubLeg": "V",
+                "pubNr": "20",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/020/1987-11-07/438?pgs=438&org=PLC"
+              }
+            ],
+            "sumario": "Alarga o prazo previsto na Lei nº 33/87, de 11 de Julho, com vista a garantir às associações de estudantes condições para apresentação dos elementos previstos neste diploma legal; Alterações à Lei nº 33/87 de 11 de Julho (regulamenta o exercício do direito de associação dos estudantes)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204793",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "439-439"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-11-07",
+                "pubLeg": "V",
+                "pubNr": "20",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/020/1987-11-07/439?pgs=439&org=PLC"
+              }
+            ],
+            "sumario": "Alarga o prazo previsto na Lei nº 33/87, de 11 de Julho, com vista a garantir às associações de estudantes condições para apresentação dos elementos previstos neste diploma legal; Alterações à Lei nº 33/87 de 11 de Julho (regulamenta o exercício do direito de associação dos estudantes)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204794",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "439-440"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-11-07",
+                "pubLeg": "V",
+                "pubNr": "20",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/020/1987-11-07/439?pgs=439-440&org=PLC"
+              }
+            ],
+            "sumario": "Alarga o prazo previsto na Lei nº 33/87, de 11 de Julho, com vista a garantir às associações de estudantes condições para apresentação dos elementos previstos neste diploma legal; Alterações à Lei nº 33/87 de 11 de Julho (regulamenta o exercício do direito de associação dos estudantes)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204795",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "440-440"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-11-07",
+                "pubLeg": "V",
+                "pubNr": "20",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/020/1987-11-07/440?pgs=440&org=PLC"
+              }
+            ],
+            "sumario": "Alarga o prazo previsto na Lei nº 33/87, de 11 de Julho, com vista a garantir às associações de estudantes condições para apresentação dos elementos previstos neste diploma legal; Alterações à Lei nº 33/87 de 11 de Julho (regulamenta o exercício do direito de associação dos estudantes)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204797",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "440-441"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-11-07",
+                "pubLeg": "V",
+                "pubNr": "20",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/020/1987-11-07/440?pgs=440-441&org=PLC"
+              }
+            ],
+            "sumario": "Alarga o prazo previsto na Lei nº 33/87, de 11 de Julho, com vista a garantir às associações de estudantes condições para apresentação dos elementos previstos neste diploma legal; Alterações à Lei nº 33/87 de 11 de Julho (regulamenta o exercício do direito de associação dos estudantes)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204798",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "441-442",
+                  "442-443",
+                  "443-443"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-11-07",
+                "pubLeg": "V",
+                "pubNr": "20",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/020/1987-11-07/441?pgs=441-442,442-443,443&org=PLC"
+              }
+            ],
+            "sumario": "Alarga o prazo previsto na Lei nº 33/87, de 11 de Julho, com vista a garantir às associações de estudantes condições para apresentação dos elementos previstos neste diploma legal; Alterações à Lei nº 33/87 de 11 de Julho (regulamenta o exercício do direito de associação dos estudantes)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204800",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "442-442"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-11-07",
+                "pubLeg": "V",
+                "pubNr": "20",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/020/1987-11-07/442?pgs=442&org=PLC"
+              }
+            ],
+            "sumario": "Alarga o prazo previsto na Lei nº 33/87, de 11 de Julho, com vista a garantir às associações de estudantes condições para apresentação dos elementos previstos neste diploma legal; Alterações à Lei nº 33/87 de 11 de Julho (regulamenta o exercício do direito de associação dos estudantes)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204801",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "443-443"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-11-07",
+                "pubLeg": "V",
+                "pubNr": "20",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/020/1987-11-07/443?pgs=443&org=PLC"
+              }
+            ],
+            "sumario": "Alarga o prazo previsto na Lei nº 33/87, de 11 de Julho, com vista a garantir às associações de estudantes condições para apresentação dos elementos previstos neste diploma legal; Alterações à Lei nº 33/87 de 11 de Julho (regulamenta o exercício do direito de associação dos estudantes)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204802",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "443-443"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-11-07",
+                "pubLeg": "V",
+                "pubNr": "20",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/020/1987-11-07/443?pgs=443&org=PLC"
+              }
+            ],
+            "sumario": "Alarga o prazo previsto na Lei nº 33/87, de 11 de Julho, com vista a garantir às associações de estudantes condições para apresentação dos elementos previstos neste diploma legal; Alterações à Lei nº 33/87 de 11 de Julho (regulamenta o exercício do direito de associação dos estudantes)",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "13:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "204803",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "443-443"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-11-07",
+                "pubLeg": "V",
+                "pubNr": "20",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/020/1987-11-07/443?pgs=443&org=PLC"
+              }
+            ],
+            "sumario": "Alarga o prazo previsto na Lei nº 33/87, de 11 de Julho, com vista a garantir às associações de estudantes condições para apresentação dos elementos previstos neste diploma legal; Alterações à Lei nº 33/87 de 11 de Julho (regulamenta o exercício do direito de associação dos estudantes)",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "226408",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "329437",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1987-11-07",
+        "pubLeg": "V",
+        "pubNr": "20",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/020/1987-11-07?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
