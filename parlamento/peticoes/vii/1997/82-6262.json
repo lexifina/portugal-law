@@ -1,0 +1,167 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=tKfXsA%2fENKNnp0LKqSGHXsjkrRl7S077Q3%2bDShtNlJSfDEIxb29heS60fekSU9Mh%2bOaOxN93u5lJXhXrF20O3GwJrwgX%2b0YU%2bhQwCIVqWOtg4qLdCOsovw17HpQ%2b61GwzRT0xyKc0H%2fa9DQdlP4PkB2kdgun9cM%2f%2fx7V2KVgyAwbUtpLdjftXVCgqJHGFNGYlFDP1m8Jzr0rp%2bkkIm21JfRb4lD2mU2lj506V%2fnSNSb2tR3%2bEDlK3FCGtu7ykpvS5%2bJJC%2frUbEM2mltYb1VfVOgZIDgJPPhSuZN2zIxPp9%2f2OdtvhAO8Vt2qGCJv%2bMWDKcdwAI%2fMSsLsMJfNmLa7xtfsjI6y%2ft3q%2btijdCCXBQfnO9%2b8PHRu402cRBtkKANn&fich=PeticoesVII_json.txt&Inline=true",
+  "ficheiro_sha256": "6041edea08a28f8315a7bbbffd2127aaa9493aac12482c88a108bc6b12f7d746",
+  "legislatura": "VII",
+  "id": "6262",
+  "numero": "82",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "1997-05-19",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": "2000-03-30",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2000-03-30",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2000-05-05",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "27",
+        "Legislatura": "VIII",
+        "Nome": "COMISSAO DE TRABALHO, SOLIDARIEDADE E SEGURANÇA SOCIAL",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2000-03-29",
+            "gp": "PS",
+            "id": "159",
+            "motivoCessacao": null,
+            "nome": "Artur Penedos"
+          }
+        ],
+        "RelatorioFinal": [
+          "21553"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "1998-01-29",
+            "dataResposta": "1998-03-17",
+            "entidades": [
+              "Ministério do Trabalho e da Solidariedade"
+            ],
+            "nrOficio": "OF 118/COM",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "1997-05-28",
+        "DataArquivo": "2000-03-30",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": null,
+        "DataReaberta": "1997-05-28",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "23",
+        "Legislatura": "VII",
+        "Nome": "COMISSÃO DE TRABALHO, SOLIDARIEDADE E SEGURANÇA SOCIAL",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "1997-05-28",
+            "gp": "PSD",
+            "id": "321",
+            "motivoCessacao": null,
+            "nome": "Francisco José Martins"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": null,
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "6262",
+    "PetAssunto": "Solicitam providência legislativa no sentido de ressalvar as expectativas dos beneficiários do regime geral da Segurança Social inscritos antes da data de entrada em vigor do Decreto-Lei nº 329/93 (que alterou as regras de cálculo das pensões dos contribuintes do regime geral da Segurança Social), estabelecendo-se que o cálculo das pensões de reforma seja efectuado de acordo com as regras vigentes antes da referida data.",
+    "PetDataEntrada": "1997-05-19",
+    "PeticoesAssociadas": null,
+    "PetId": "6262",
+    "PetLeg": "VII",
+    "PetNr": "82",
+    "PetNrAssinaturas": "1938",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
