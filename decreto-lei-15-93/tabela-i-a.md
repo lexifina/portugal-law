@@ -74,6 +74,8 @@ Difenoxina - ácido-1-(3-ciano-3,3-difenilpropil)-4-fenilisonipecótico.
 
 Diidrocodeína - 6-hidroxi-3-metoxi-17-metil-4,5-epoximorfinano.
 
+Diidroetorfina-7,8-diidro-7-a-[1-(R)-hidroxi-1-metilbutil]-6,14-enab-etanotetraidrooripavina.
+
 Di-hidromorfina - 3,6-di-hidroxi-4,5-epoxi-17-metilmorfinano.
 
 Dimefeptanol - 6-dimetilamino-4,4-difenil-3-heptanol.
@@ -213,6 +215,10 @@ Racemétorfano - (mais ou menos)-3-metoxi-N-metilmorfinano.
 Racemoramida - (mais ou menos)-4-[2-metil-4-oxo-3,3-difenil-4-(1-pirrolidinil)-butil]-morfolina.
 
 Racemorfano - (mais ou menos)-3-hidroxi-N-metilmorfinano.
+
+Remifentanilo-1-(2-metoxicarboniletil)-4-(fenilpropionilamino)
+
+piperidina-4-carboxilato de metilo.
 
 Sufentanil - N-{4-metoximetil-1-[2-(2-(tienil)-etil]-4-piperidil}-propionanilida.
 

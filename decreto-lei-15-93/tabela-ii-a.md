@@ -36,6 +36,8 @@ MMDA - (mais ou menos)-5-metoxi-3,4-metilenodioxi-(alfa) metilfeniletilamina.
 
 Para-hexilo - 3-hexilo-1-hidroxi-7,8,9,10-tetraidro-6,6,9-trimetil-6H-dibenzo (b,d) pirano.
 
+4-MTA (p-metiltioanfetamina ou 4-metiltioanfetamina).
+
 PMA - 4 (alfa)-metoxi-metilfeniletilamina.
 
 Psilocibina - fosfatodiidrogenado de 3-(2-dimetilaminoetil)-4-indolilo.
