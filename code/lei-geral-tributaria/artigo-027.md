@@ -6,4 +6,4 @@
 
 2 - Para os efeitos do presente artigo, consideram-se gestores de bens ou direitos todas aquelas pessoas singulares ou colectivas que assumam ou sejam incumbidas, por qualquer meio, da direcção de negócios de entidade não residente em território português, agindo no interesse e por conta dessa entidade.
 
-3 - Verificando-se as circunstâncias previstas no presente artigo, deve o representante fiscal do não residente, quando pessoa diferente do gestor dos bens ou direitos, obter a identificação deste e apresentá-la à administração fiscal sempre que solicitado.
+3 - O representante fiscal do não residente, quando pessoa diferente do gestor dos bens ou direitos, deve obter a identificação deste e apresentá-la à administração tributária, bem como informar no caso da sua inexistência, presumindo-se, salvo prova em contrário, gestor dos bens ou direitos na falta destas informações.
