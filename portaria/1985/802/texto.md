@@ -1,0 +1,10 @@
+Portaria n.º 802/85
+de 26 de Outubro
+A necessidade de implementar a reestruturação do Ministério dos Negócios Estrangeiros, em curso, torna absolutamente indispensável prever dentro das categorias do pessoal do serviço diplomático as unidades necessárias ao recrutamento das novas chefias. Simultaneamente terão as mesmas chefias de ser integradas por pessoal das categorias de secretário de embaixada em número suficiente que garanta a resposta às necessidades acrescidas aos órgãos e serviços internos e externos do Ministério dos Negócios Estrangeiros, mantendo por outro lado as regras de densidade.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelos Ministros dos Negócios Estrangeiros e das Finanças e do Plano e pelo Secretário de Estado da Administração Pública, ao abrigo do Decreto-Lei n.º 59/76, de 23 de Janeiro, que o quadro de pessoal do Ministério dos Negócios Estrangeiros, previsto na Portaria n.º 1096/80, de 27 de Dezembro, com as alterações posteriormente introduzidas, seja alterado de acordo com o mapa anexo.
+Presidência do Conselho de Ministros e Ministérios dos Negócios Estrangeiros e das Finanças e do Plano.
+Assinada em 17 de Outubro de 1985.
+O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.
+
+(ver documento original)
