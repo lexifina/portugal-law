@@ -1,0 +1,15 @@
+Portaria n.º 18/75
+de 14 de Janeiro
+A fim de ser dado cumprimento ao disposto na alínea i) do artigo 14.º do Decreto-Lei n.º 35846, de 2 de Setembro de 1946, e conforme está previsto na Portaria n.º 691/71, de 11 de Dezembro, com as alterações introduzidas pela Portaria n.º 610/72, de 14 de Outubro:
+Manda o Governo da República Portuguesa, pelos Secretários de Estado da Agricultura e do Abastecimento e Preços, ouvidas as entidades competentes, que na campanha vinícola de 1974-1975 se observe o seguinte:
+1.º O grau alcoólico volumétrico mínimo dos vinhos comuns a granel, em trânsito, para e na venda directa ao público, e que não esteja regulado por disposições especiais, será o seguinte:
+12º - nos distritos de Beja, Castelo Branco, Évora, Faro, Portalegre, Santarém e Setúbal;
+11,5º - no distrito de Lisboa;
+11º - nos concelhos do Porto, Matosinhos, Maia, Valongo, Gondomar, Vila Nova de Gaia e Espinho; nos distritos de Bragança e Vila Real, exceptuando os concelhos de Boticas, Montalegre e Vila Pouca de Aguiar; no distrito de Aveiro, exceptuando os concelhos de Águeda, Albergaria-a-Velha, Oliveira de Azeméis e Sever do Vouga; nos distritos de Coimbra, Guarda e Leiria; nas freguesias de Calde, Campo, Lordosa, Bodiosa e Ribafeita, do concelho de Viseu, e nos concelhos de Oliveira de Frades, S. Pedro do Sul e Vouzela, do distrito de Viseu, para os vinhos que aí não sejam produzidos; e nas ilhas adjacentes, para os vinhos provenientes do continente;
+10,5º - nos concelhos de Armamar, Castro Daire (excluindo as freguesias de Alva e Gafanhão, para os vinhos aí produzidos), Lamego, Moimenta da Beira, Penedono, S. João da Pesqueira, Sernancelhe, Tabuaço, Tarouca e Vila Nova de Paiva, do distrito de Viseu;
+10º - nos concelhos de Águeda, Albergaria-a-Velha, Oliveira de Azeméis e Sever do Vouga, na parte não compreendida na Região dos Vinhos Verdes de Lafões, do distrito de Aveiro; nos concelhos de Boticas, Montalegre, Vila Pouca de Aguiar, do distrito de Vila Real, e nas ilhas adjacentes, somente para os vinhos aí produzidos;
+7,5º - nos concelhos de Oliveira de Frades, S. Pedro do Sul, Vouzela e Sever do Vouga (com exclusão das freguesias de Sedrim e Couto de Esteves); nas freguesias de Campo, Lordosa, Calde, Ribafeita e Bodiosa, do concelho de Viseu, bem como nas freguesias de Alva e Gafanhão, do concelho de Castro Daire, para os vinhos verdes de Lafões aí produzidos.
+2.º O disposto no número anterior é somente aplicável na parte das circunscrições referidas que não se encontrem incluídas em qualquer região demarcada.
+3.º Dentro da Região Demarcada do Douro e em relação aos vinhos comuns aí produzidos, o grau alcoólico volumétrico a que se refere o n.º 1.º é fixado em 11,5º.
+4.º O grau alcoólico volumétrico mínimo dos vinhos verdes a granel, em trânsito para fora e fora da região demarcada, em armazém e na venda directa ao público fora da região demarcada, será de 7,5º.
+Secretarias de Estado da Agricultura e do Abastecimento e Preços, 13 de Janeiro de 1975. - O Secretário de Estado da Agricultura, Alfredo Gonzalez Esteves Belo. - O Secretário de Estado do Abastecimento e Preços, Nelson Sérgio Melo da Rocha Trigo.
