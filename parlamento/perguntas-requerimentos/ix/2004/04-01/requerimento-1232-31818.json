@@ -1,0 +1,96 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ktYqpeS%2ft%2bZbliS4sHhftatFgOONJZv%2b0jwNSKIew1t0xo7wpSD4Wuod7wOpHm6JnVumY%2fcLg1QEJ6QuXOoI0mCZg8Now%2fNFrlqr4xaPyukQAb7VOIDJycUu8LgcqeBWkrLalvQbJNVVjYrmyeKurhYgJ88b%2bTAHUhqae0PG2tWw6wd9S%2fB1oSkkszdy9OWFhN3wUjxq5HmVweG9RQH09rl4k2N5tPgs%2fzprZm2tzFHnHSctshbR2DfX7RwTBfcB1zHFUq7rfF1ywAQTHCnkTEnmy8XmgIMFNpTZggbLiolv7UH6aQ9wXzrJpNDVBZQItckByiVODO72lKf0LysofiwVHTL6an5RgmBfpD1TjRRanKSw%2fu9%2bMNyeFb2ozzbOeEiwgdJpFNYQkXLYkgJujw%3d%3d&fich=RequerimentosIX_json.txt&Inline=true",
+  "ficheiro_sha256": "234acc6bf0a22a14e4ad1370daea559258a1b7960a20d3feebcabf91a9366690",
+  "legislatura": "IX",
+  "id": "31818",
+  "tipo": "Requerimento",
+  "numero": "1232",
+  "data_registo": "2004-04-01",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Pedido de prestação de informações ao Tribunal de Contas",
+    "Autores": [
+      {
+        "GP": "PS",
+        "idCadastro": "1949",
+        "nome": "Maximiano Martins"
+      }
+    ],
+    "DataEnvio": "2004-04-13",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2004-04-13",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "Tribunal de Contas",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2004-05-04",
+            "docRemetida": null,
+            "entidade": "Tribunal de Contas",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793879553077764f47526a5a6a59304e5445745a6d557a4e4330304e57497a4c5749785a4463744d544d325a6a5133597a55324e444d794c6e426b5a673d3d&fich=8dcf6451-fe34-45b3-b1d7-136f47c56432.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          },
+          {
+            "dataResposta": "2004-05-10",
+            "docRemetida": null,
+            "entidade": "Tribunal de Contas",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793879553077764d7a4e6b596d4e6d5a6a41744e6a63325a693030596d4d354c5468684e6a41745a47466b5a47457a4d6d51334d4455354c6e426b5a673d3d&fich=33dbcff0-676f-4bc9-8a60-dadda32d7059.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2004-04-01",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793879553077765a6a51354e6a646b4e4451744e546b794e7930305a6a67354c546c69597a6b744f574a6a4e6a42684e474a695a6a5a694c6e426b5a673d3d&fich=f4967d44-5927-4f89-9bc9-9bc60a4bbf6b.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "31818",
+    "Legislatura": "IX",
+    "Nr": "1232",
+    "Observacoes": "Vialitoral; Viaexpresso",
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "290278",
+        "obs": "134-(5)",
+        "pag": [
+          "134-(5)-134-(5)"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2004",
+        "pubLeg": "IX",
+        "pubNr": "26",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/02/026S1/2004-04-17/134-(5)?pgs=134-(5)&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "2",
+    "Tipo": "Requerimento"
+  }
+}
