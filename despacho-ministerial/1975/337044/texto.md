@@ -1,0 +1,8 @@
+Despacho ministerial
+Ouvida a comissão liquidatária;
+Ao abrigo do disposto no artigo 1.º, n.os 2 e 3, do Decreto-Lei n.º 443/74, de 12 de Setembro, determino o seguinte:
+1.º A extinção efectiva dos Grémios dos Industriais de Conservas de Peixe do Norte, Centro, Setúbal, Barlavento e Sotavento do Algarve e do Grémio dos Exportadores de Conservas de Peixe é fixada em 31 de Março de 1975.
+2.º A partir da data mencionada no n.º 1.º, o pessoal dos organismos extintos ficará na situação de adido aos quadros do Instituto Português de Conservas de Peixe, até que seja resolvida a sua situação, nos termos previstos no artigo 5.º do Decreto-Lei n.º 443/74, de 12 de Setembro, cabendo ao Instituto o pagamento das respectivas remunerações e outros encargos laborais, bem como dos complementos das pensões de reforma que vierem a ser atribuídas.
+3.º Entre as atribuições dos Grémios transferidas para o Instituto Português de Conservas de Peixe, nos termos da alínea a) do n.º 1 do artigo 2.º do Decreto-Lei n.º 443/74, contam-se, a título provisório e enquanto este organismo se mantiver, as funções de concessão de crédito aos industriais e de assistência aos trabalhadores deste sector, sem prejuízo, quanto a estas últimas, dos acordos que venham a ser celebrados com o Ministério dos Assuntos Sociais.
+4.º A extinção dos fundos existentes, nos termos do n.º 3 do artigo 2.º do Decreto-Lei n.º 443/74, não obsta ao pagamento de responsabilidades emergentes de eventos ocorridos antes da data da extinção efectiva dos Grémios.
+Ministério da Agricultura e Pescas, 30 de Maio de 1975. - O Ministro da Agricultura e Pescas, Fernando Oliveira Baptista.
