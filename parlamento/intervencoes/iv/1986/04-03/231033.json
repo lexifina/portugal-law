@@ -1,0 +1,85 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=79nXFyfsgBY%2fJVBb5m%2fzm439Xg5ve48f1c1ups%2bLbbbzgeVE7xaddjAIw8fKkyahLYEPGMBEybmt2qLrIdv0jO5GfTL4VN%2fiWok3aCysUrgT%2bkQhb%2fpI6Qk8N3VQwx4slYQXYFjp3d1XBoWklTVjVqfGWySmoKDfbAfesLcl3gGysABw6rRd0e3JweUfeYnCZe%2feS5d2p%2fu6OKMPsjWtwO0GMm7RJG4ayfS7iItotM8XtguFU6gQUcDMHFdhVHSzyPlM7c6CV8WPFcksiLALK3%2bitI9mT64CQ17YQecKkwCGA6LMVlttgRTzanRwnFqlETnNY7Kfa92jwEh4SR%2fKNnHXk8Pem8PBI%2f7gtfcJkRyWEIQnofpEOJzRhg%2fTeRdG&fich=IntervencoesIV_json.txt&Inline=true",
+  "ficheiro_sha256": "74df01da47fa15f86113cdafbb8ae342034efbc261d672e72117b28c095d90dd",
+  "legislatura": "IV",
+  "id": "231033",
+  "tipo": "Interpelação à mesa",
+  "orador": "Rui Machete (PSD)",
+  "data_registo": "1986-04-03",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "110685",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28138",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Grandes Opções do Plano para 1986"
+      },
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "28119",
+        "tipo": "INI",
+        "titulo": "Proposta de Lei - Orçamento de Estado para 1986"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1986-04-03",
+    "Debate": "PPL n.º 15/IV/1; PPL n.º 16/IV/1",
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "134",
+      "nome": "Rui Machete"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "231033",
+    "IdDebate": "3990",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "IV",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "231033",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "1880-1880"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1986-04-04",
+        "pubLeg": "IV",
+        "pubNr": "52",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/052/1986-04-04/1880?pgs=1880&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": null,
+    "Sessao": "1",
+    "Sumario": "Grandes Opções do Plano para 1986; Orçamento de Estado para 1986Artigo 32.º-C",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Interpelação à mesa"
+  }
+}
