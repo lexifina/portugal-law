@@ -1,0 +1,36 @@
+Decreto-Lei n.º 551/77
+de 31 de Dezembro
+Com a aprovação do presente decreto-lei visam-se, essencialmente, dois objectivos:
+1 - A extinção do ICEP (Instituto dos Cereais, E. P.), uma das empresas públicas criadas pelo Decreto-Lei n.º 663/76, de 4 de Agosto;
+2 - A adequação dos estatutos da EPAC (Empresa Pública de Abastecimento de Cereais), empresa pública criada também pelo Decreto-Lei n.º 663/76, à Lei Orgânica do Ministério da Agricultura e Pescas.
+Simultaneamente extingue-se o Instituto dos Cereais e concretiza-se a transferência de todo o pessoal e património para a EPAC.
+A publicação da Lei Orgânica do Ministério da Agricultura e Pescas veio, de facto, permitir uma solução mais completa para a reestruturação do Instituto dos Cereais, reestruturação imprescindível, quer pela forma desordenada de criação e ampliação do organismo em 1973 e 1975, quer pela necessidade de adequação das suas funções e das suas estruturas às directrizes e objectivos governamentais do sector, quer ainda como preparação para uma futura integração na CEE.
+Assim, com a criação do Instituto de Qualidade Alimentar e da Direcção-Geral das Indústrias Alimentares, foi possível cometer a essas entidades grande parte das funções previstas para o ICEP pelo Decreto-Lei n.º 663/76, assumindo a EPAC as restantes funções, o que permite, pois, a extinção daquela primeira empresa pública.
+A comissão instaladora apresentou, no prazo estabelecido, as conclusões relativas às tarefas de instalação. No entanto, por se tornar necessário, à luz das alterações orgânicas referidas, rever algumas dessas conclusões e completar tarefas não expressamente determinadas pelo Decreto-Lei n.º 663/76, atribuiu-se ao conselho de gerência da EPAC, a partir de 1 de Dezembro de 1977, um prazo curto para o efeito.
+Quanto à EPAC, entidade que assumirá as funções de carácter comercial e de intervenção actualmente desempenhadas pelo Instituto dos Cereais, deverá assumir, pela sua forma jurídica e os meios de gestão subsequentes, maior eficácia de acção, de modo que o Estado mantenha o necessário contrôle do mercado, nomeadamente no aspecto de preços e abastecimento.
+Num sistema concorrencial entre a actividade pública, privada e cooperativa, só uma forma de gestão empresarial permitirá a adequada maleabilidade e capacidade de resposta do sector público, sem que a EPAC deixe de ser, acima de tudo, um instrumento económico de acção do Governo.
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta:
+Artigo 1.º É extinto o Instituto dos Cereais, com efeitos a partir de 1 de Dezembro de 1977.
+Art. 2.º A Empresa Pública de Abastecimento de Cereais (EPAC), criada pelo Decreto-Lei n.º 663/76, de 4 de Agosto, iniciará a sua actividade na data de extinção do Instituto dos Cereais.
+Art. 3.º É extinto o Instituto dos Cereais, E. P. (ICEP), criado pelo Decreto-Lei n.º 663/76.
+Art. 4.º Constituem objectivos da EPAC:
+a) Dar concretização às medidas definidas pelo Governo relativamente à regularização do mercado dos cereais e sementes;
+b) Contribuir para a regularização e abastecimento do mercado interno de cereais e sementes pela compra, venda e armazenagem da produção nacional e pela importação;
+c) Promover a modernização do sistema de comercialização de cereais e sementes, estruturando os respectivos circuitos e criando infra-estruturas de conservação e armazenamento necessárias ao seu eficiente funcionamento;
+d) Colaborar com os serviços oficiais na modernização do sistema comercial, no estabelecimento de medidas sobre preços dos factores de produção agrícola e na elaboração dos programas nacionais de abastecimento de cereais;
+e) Dar parecer sobre a importação de cereais e produtos afins e derivados, tendo em conta o estabelecimento e execução dos programas de abastecimento;
+f) Promover, como complemento da sua acção comercial, actividades de apoio técnico, junto da indústria utilizadora das matérias-primas fornecidas, por iniciativa própria ou em colaboração com outras entidades.
+Art. 5.º O conselho de gerência da EPAC deverá, no prazo de trinta dias, a contar da data do início da actividade:
+a) Proceder à revisão dos estatutos definidos pelo Decreto-Lei n.º 663/76, de acordo com as disposições deste diploma e com o Decreto-Lei n.º 260/76, de 8 de Abril;
+b) Apresentar o balanço de abertura da actividade da empresa, referido a 1 de Dezembro de 1977, devendo proceder à reavaliação do património nos termos do Decreto-Lei n.º 353-B/77, de 29 de Agosto;
+c) Elaborar o quadro de pessoal da empresa.
+Art. 6.º Transitam para a EPAC todo o pessoal, património, direitos e obrigações do Instituto dos Cereais.
+Art. 7.º O capital estatutário inicial da empresa será representado pelo valor do activo imobilizado, depois da reavaliação referida na alínea b) do artigo 5.º deste diploma.
+Art. 8.º O balanço de abertura da actividade e o quadro do pessoal da EPAC serão aprovados pelo Ministro da Tutela após parecer, quanto ao primeiro, da comissão de fiscalização.
+Art. 9.º Os estatutos da EPAC, revistos nos termos da alínea a) do artigo 5.º deste diploma, serão aprovados por decreto referendado pelo Primeiro-Ministro e pelos Ministros das Finanças, do Planeamento e Coordenação Económica e da Agricultura e Pescas.
+Art. 10.º Os poderes de tutela do Governo sobre a EPAC serão exercidos através do Ministério da Agricultura e Pescas.
+Art. 11.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas.
+Visto e aprovado em Conselho de Ministros. - Mário Soares - António Miguel Morais Barreto.
+Promulgado em 22 de Dezembro de 1977.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
