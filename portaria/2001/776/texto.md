@@ -1,0 +1,206 @@
+Portaria n.º 776/2001
+de 23 de Julho
+O Decreto-Lei n.º 73/2001, de 26 de Fevereiro, em execução da autorização legislativa prevista nos n.os 6 e 7 do artigo 69.º da Lei n.º 3-B/2000, de 4 de Abril, procedeu à alteração dos artigos 2.º a 6.º do Decreto-Lei n.º 445/99, de 3 de Novembro, e de outras disposições do Estatuto dos Despachantes Oficiais, regulamentando o direito de apresentar declarações perante as alfândegas.
+No âmbito das alterações ao Decreto-Lei n.º 445/99, prevê-se que a regulamentação do regime de formação e de acesso a despachante oficial, no que respeita aos agentes aduaneiros, despachantes privativos e aos procuradores que tenham exercido a actividade de fazer declarações aduaneiras por conta de outrem, seja definida por portaria do Ministro das Finanças.
+Trata-se de um regime especial que tem em vista a recondução profissional das pessoas integradas nas categorias referidas e é, por natureza, de vigência temporária.
+A par deste regime especial é, também, necessário regulamentar o regime geral de acesso a despachante oficial, tendo presente que a verificação dos requisitos legais e a organização de exames e de provas são atribuições da Câmara dos Despachantes Oficiais (CDO), nos termos do respectivo Estatuto, aprovado pelo Decreto-Lei n.º 173/98, de 26 de Junho, a qual reveste a natureza de associação pública profissional sob a tutela do Ministro das Finanças.
+O Regulamento do Curso de Formação e de Acesso a Despachante Oficial foi elaborado com a participação activa da CDO e, no que respeita ao regime transitório, foi ouvida a Associação de Declarantes Fiscais Aduaneiros Portugueses.
+Assim:
+Manda o Governo, pelo Ministro das Finanças, ao abrigo do disposto do n.º 1 do artigo 2.º do Decreto-Lei n.º 445/99, de 3 de Novembro, e do artigo 5.º do Estatuto dos Despachantes Oficiais, publicado em anexo ao mesmo diploma, com as redacções introduzidas pelo Decreto-Lei n.º 73/2001, de 26 de Fevereiro, que seja aprovado o Regulamento do Curso de Formação e de Acesso a Despachante Oficial, anexo à presente portaria e que dela faz parte integrante.
+O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura, em 2 de Julho de 2001.
+
+REGULAMENTO DO CURSO DE FORMAÇÃO E DE ACESSO A DESPACHANTE OFICIAL
+CAPÍTULO I
+Disposição geral
+Artigo 1.º
+Âmbito do Regulamento
+O presente Regulamento estabelece a forma e os requisitos de acesso a despachante oficial, sendo de aplicação supletiva as disposições do Código do Procedimento Administrativo.
+CAPÍTULO II
+Acesso à profissão
+Artigo 2.º
+Forma de acesso
+O acesso a despachante oficial depende de avaliação da capacidade profissional e deontológica para o exercício da actividade.
+Artigo 3.º
+Avaliação
+1 - A avaliação da capacidade profissional para despachante oficial é feita através de prova de avaliação precedida de curso de formação.
+2 - O curso e a avaliação têm âmbito e validade nacionais.
+3 - Compete à Câmara dos Despachantes Oficiais, adiante designada por CDO, a organização e a realização dos cursos de formação e das provas de avaliação.
+Artigo 4.º
+Cursos de formação
+1 - Os cursos de formação realizam-se anualmente, sem prejuízo do disposto no número seguinte.
+2 - Os cursos de formação terão lugar desde que, até 31 de Dezembro do ano anterior, solicitem a inscrição no curso e na avaliação da sua capacidade profissional, pelo menos, 25 candidatos e desde que, aberto o curso, efectivamente nele se inscrevam, pelo menos, 20 candidatos.
+3 - No caso de o número de candidatos inscritos ser inferior ao estabelecido no número anterior, a CDO organizará uma prova de avaliação de equivalência ao curso de formação, que incluirá as matérias constantes do anexo II ao presente Regulamento.
+4 - A frequência do curso ou a realização da prova de equivalência obriga ao pagamento da respectiva inscrição, cujo valor será anualmente fixado.
+Artigo 5.º
+Duração e objecto do curso
+1 - Os cursos de formação têm a duração de seis meses e incluem as matérias constantes do anexo I.
+2 - Sempre que possível, o curso de formação realiza-se em horário pós-laboral.
+3 - A CDO designa, para a formação dos candidatos, pessoas de reconhecida competência no sector aduaneiro e nas áreas objecto do curso.
+Artigo 6.º
+Requisitos de admissão
+1 - Sem prejuízo do regime de incompatibilidades previsto na lei, podem solicitar a frequência do curso de formação:
+a) Os diplomados com o grau de bacharelato ou de licenciatura nas áreas de Economia, Gestão ou Direito;
+b) Os empregados há mais de 10 anos dos despachantes oficiais com, pelo menos, o 12.º ano de escolaridade e em exercício efectivo de funções no ano anterior ao do curso.
+Artigo 7.º
+Avisos
+1 - Os cursos de formação são obrigatoriamente tornados públicos, mediante aviso de abertura publicado no Diário da República, 3.ª série, e em dois órgãos de comunicação social de expansão nacional, um de Lisboa e outro do Porto, com a antecedência de, pelo menos, dois meses sobre a data prevista para o seu início.
+2 - Do aviso de abertura do curso de formação devem constar obrigatoriamente:
+a) Os requisitos de admissão;
+b) A data de início do curso e da realização da prova de avaliação;
+c) A forma, o prazo e o local para apresentação das inscrições;
+d) A disponibilidade para entrega do presente Regulamento aos interessados;
+e) O custo de inscrição;
+f) Quaisquer outras indicações consideradas úteis.
+3 - O aviso é enviado por via postal aos candidatos que se tenham inscrito até 31 de Dezembro do ano anterior, não podendo a falta de recepção justificar qualquer reclamação.
+4 - A informação relativa ao calendário, horário e local do curso é comunicada aos candidatos por via postal.
+Artigo 8.º
+Pedido de inscrição
+1 - O pedido de inscrição no curso de formação e de acesso a despachante oficial deve ser dirigido à CDO, por via postal registada ou entregue directamente.
+2 - Consideram-se entregues dentro do prazo os pedidos cujo registo postal tenha sido expedido até ao termo do prazo fixado para a inscrição.
+3 - No caso de entrega directa, é emitido recibo comprovativo da sua recepção.
+4 - O pedido deve conter a identificação completa do candidato e uma declaração, sob compromisso de honra, de que reúne os requisitos necessários.
+5 - Os candidatos a que se refere a alínea a) do artigo 6.º podem, no pedido de inscrição, solicitar a dispensa de frequência de algumas das matérias objecto do curso.
+6 - As falsas declarações dos candidatos são passíveis de procedimento criminal.
+Artigo 9.º
+Instrução do pedido
+Dentro do prazo de inscrição, devem os candidatos, sob pena de não admissão ao curso e à avaliação final, proceder ao pagamento do custo de inscrição e apresentar os seguintes documentos:
+a) Fotocópia do bilhete de identidade;
+b) Certidão de habilitações académicas;
+c) Certidão do registo criminal.
+Artigo 10.º
+Admissão de candidaturas
+1 - Nos 10 dias seguintes ao termo do prazo para a inscrição, os pedidos de inscrição são remetidos ao júri do curso que, em igual prazo, elabora a lista dos candidatos admitidos e dos excluídos, com indicação do motivo da exclusão, e procede à notificação dos interessados.
+2 - O júri decide ainda sobre os pedidos de dispensa referidos no n.º 5 do artigo 8.º
+3 - Os candidatos excluídos podem recorrer, no prazo de oito dias úteis, para o conselho directivo da CDO, que decide de forma definitiva e executória.
+Artigo 11.º
+Júri do curso
+1 - O júri do curso é nomeado pelo conselho directivo da CDO e é composto pelo presidente do respectivo conselho directivo, que presidirá, e por mais quatro membros efectivos e dois suplentes, designados entre pessoas de reconhecida capacidade e idoneidade no sector aduaneiro.
+2 - Na ausência do presidente, será este substituído nos termos do Estatuto da CDO.
+Artigo 12.º
+Deliberações do júri
+1 - As deliberações do júri são tomadas por maioria.
+2 - O júri só pode deliberar desde que esteja presente a totalidade dos seus membros.
+3 - De cada reunião do júri é lavrada uma acta, da qual deve constar a identificação de todos os participantes, os assuntos tratados e as deliberações tomadas.
+4 - Das actas das reuniões em que seja feita a avaliação dos candidatos consta obrigatoriamente a classificação atribuída e a respectiva justificação.
+Artigo 13.º
+Competência do júri
+O júri é responsável por todas as operações do curso e pela avaliação final, competindo-lhe, nomeadamente:
+a) Elaborar a lista definitiva dos candidatos ao curso;
+b) Elaborar a prova de avaliação;
+c) Presidir e coordenar a prestação da prova e classificá-la;
+d) Decidir das reclamações relativas às classificações;
+e) Emitir pareceres sobre assuntos relativos ao curso e à avaliação.
+Artigo 14.º
+Método de classificação
+A classificação dos candidatos é feita em mérito absoluto, na escala de 0 a 20 valores, sendo o resultado final expresso nas fórmulas de Aprovado e Não aprovado.
+Artigo 15.º
+Prova de avaliação
+1 - A prova de avaliação inicia-se nos 30 dias seguintes ao termo do curso de formação.
+2 - A prova de avaliação consta de uma prova escrita e de uma prova oral sobre as matérias objecto do curso.
+3 - São admitidos à prova oral os candidatos que obtiverem o mínimo de 8 valores na prova escrita, sendo excluídos os restantes.
+4 - A prova escrita terá a duração de três horas e a prova oral a duração máxima de uma hora.
+5 - Não são admitidos à prova de avaliação os candidatos que tenham faltado, injustificadamente, a mais de cinco dias do curso de formação.
+Artigo 16.º
+Aprovação
+São aprovados na prova de avaliação os candidatos que obtiverem classificação final igual ou superior a 10 valores no conjunto da prova escrita e da prova oral.
+Artigo 17.º
+Anúncio dos resultados
+1 - Os resultados da prova escrita e da avaliação final são afixados na sede da secção da CDO a cuja área pertença o candidato, devendo os da avaliação final sê-lo no prazo de oito dias úteis após a realização da prova oral.
+2 - A deliberação do júri sobre a avaliação dos candidatos constitui acto definitivo e executório.
+Artigo 18.º
+Título comprovativo
+A CDO emitirá título comprovativo da aprovação na avaliação final do curso de acesso a despachante oficial.
+CAPÍTULO III
+Regime transitório
+Artigo 19.º
+Primeiro curso de formação
+Ao primeiro curso de formação e de acesso a despachante oficial que se realize após a aprovação do presente Regulamento são aplicáveis, em especial, as normas dos artigos seguintes.
+Artigo 20.º
+Requisitos de admissão
+São exclusivamente admitidos como candidatos ao primeiro curso de formação:
+a) Os procuradores a que se referem os n.os 1 e 2 do artigo 2.º do Decreto-Lei n.º 445/99, de 3 de Novembro, com a redacção introduzida pelo Decreto-Lei n.º 73/2001, de 26 de Fevereiro, desde que reúnam as condições aí fixadas;
+b) Os ajudantes de despachante que preencham as condições de acesso ao exame para despachante oficial, previsto no revogado artigo 443.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, e tenham continuado no exercício ininterrupto dessas funções durante os últimos sete anos contados à data de 31 de Dezembro de 1999.
+Artigo 21.º
+Anúncio do curso
+O anúncio do primeiro curso de formação é publicado no prazo de 20 dias úteis após a entrada em vigor do presente Regulamento.
+Artigo 22.º
+Inscrição no curso
+O prazo para a inscrição no curso é de 20 dias úteis contados da data da publicação do anúncio referido no artigo anterior.
+Artigo 23.º
+Duração do curso
+O curso inicia-se no prazo de dois meses após o termo do prazo para inscrição e tem igual duração.
+Artigo 24.º
+Matérias do curso
+O primeiro curso de formação abrange apenas as matérias constantes do anexo II deste Regulamento.
+Artigo 25.º
+Certificação da aptidão profissional
+A aptidão profissional dos candidatos ao curso referido neste capítulo é feita por certidão a emitir pelas alfândegas.
+Artigo 26.º
+Inscrição na CDO
+Os candidatos aprovados na prova de avaliação, desde que o requeiram, são inscritos como despachantes oficiais na CDO.
+ANEXO I
+PARTE I
+Generalidades
+1 - Legislação aduaneira.
+2 - Pauta Aduaneira das Comunidades Europeias e classificação pautal das mercadorias.
+3 - Informações pautais vinculativas.
+4 - Origem das mercadorias: origem não preferencial (operações de complemento de fabrico ou transformações que conferem o carácter originário) e origem preferencial (sistema de preferências generalizadas - SPG: noção de produtos originários, prova de origem e métodos de cooperação administrativa). Informações vinculativas em matéria de origem.
+5 - Valor aduaneiro das mercadorias.
+6 - Introdução das mercadorias no território aduaneiro: exame prévio, declaração sumária, depósito temporário, disposições especiais aplicáveis às mercadorias transportadas por via marítima e aérea.
+7 - Acordos de livre comércio.
+8 - Declaração aduaneira (procedimento normal): declarações por escrito, declarações por processo informático e declarações verbais.
+9 - Procedimentos simplificados.
+10 - Direito de representação. Contrato de mandato.
+11 - Verificação das mercadorias.
+PARTE II
+Os destinos aduaneiros
+1 - Introdução em livre prática: disposições gerais e admissão de determinadas mercadorias ao benefício de um tratamento pautal favorável em função do seu destino especial.
+2 - O trânsito: carácter comunitário das mercadorias, o trânsito comunitário externo, o trânsito comunitário interno e medidas de simplificação.
+3 - Os regimes aduaneiros económicos: entreposto aduaneiro, aperfeiçoamento activo, transformação sob controlo aduaneiro, importação temporária e aperfeiçoamento passivo.
+4 - Disposições relativas à exportação.
+5 - Outros destinos aduaneiros: zonas francas e entrepostos francos; reexportação, inutilização e abandono.
+6 - Mercadorias de retorno.
+7 - A dívida aduaneira: garantias, constituição da dívida, registo de liquidação e cobrança a posteriori, reembolso ou dispensa do pagamento de direitos de importação ou de exportação.
+PARTE III
+Imposto sobre o valor acrescentado
+1 - Noção geral do funcionamento do imposto.
+2 - A sua repercussão nas transacções internacionais e intracomunitárias de mercadorias.
+PARTE IV
+Impostos especiais de consumo
+1 - Legislação nacional e comunitária aplicáveis.
+2 - Procedimentos relativos à introdução no consumo.
+PARTE V
+Outros temas
+1 - Caução global para desalfandegamento.
+2 - Contingentes pautais.
+3 - Suspensões pautais.
+4 - Controlo de qualidade/conformidade.
+5 - Dumping.
+6 - Franquias comunitárias.
+7 - Política agrícola comum.
+8 - Reforma Aduaneira.
+9 - Regulamento das Alfândegas.
+10 - Regime Jurídico das Infracções Fiscais Aduaneiras e Lei Quadro das Contra-Ordenações.
+11 - Letras e cheques.
+PARTE VI
+Regulamentação profissional
+1 - Estatutos da CDO.
+2 - Estatuto dos Despachantes Oficiais.
+3 - Código deontológico do despachante oficial.
+4 - Regulamentos da CDO.
+ANEXO II
+1 - Direito de representação. Contrato de mandato.
+2 - Caução global de desalfandegamento.
+3 - Código aduaneiro comunitário.
+4 - Pauta Aduaneira Comum e Classificação Pautal.
+5 - Regras de origem.
+6 - Acordos de livre comércio.
+7 - Reforma Aduaneira.
+8 - Regulamento das Alfândegas.
+9 - Código dos Impostos Especiais de Consumo.
+10 - Código do Imposto sobre o Valor Acrescentado.
+11 - Regime Jurídico das Infracções Fiscais Aduaneiras e Lei Quadro das Contra-Ordenações.
+12 - Estatutos da CDO.
+13 - Estatuto dos Despachantes Oficiais.
+14 - Código deontológico do despachante oficial.
+15 - Regulamentos da CDO.
