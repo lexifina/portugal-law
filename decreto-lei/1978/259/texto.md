@@ -1,0 +1,13 @@
+Decreto-Lei n.º 259/78
+de 29 de Agosto
+Pelo Decreto-Lei n.º 718/74, de 17 de Dezembro, estatuíram-se os princípios gerais reguladores da figura de contrato de desenvolvimento, a celebrar entre o Estado, representado por certos organismos ou outras pessoas de direito público, e empresas ou grupos de empresas. Subsequentemente, o Decreto-Lei n.º 288/76, de 22 de Abril, definiu o regime aplicável aos contratos de desenvolvimento para a exportação. Mas a experiência veio mostrar, especialmente nos casos em que o Estado não era representado por instituições de crédito nacionalizadas ou por outras pessoas de direito público com apropriada capacidade financeira, que as disposições vigentes continham uma regra que acabava por contrariar o desejado incremento dos aludidos contratos: a de que as operações de financiamento a empresas ou agrupamentos de empresas deveriam ter lugar após a celebração dos contratos.
+Nestes termos:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º - 1 - Os créditos a médio ou a longo prazo que instituições de crédito concedam a empresas ou agrupamentos de empresas para financiamento de investimentos poderão vir a ser integrados nos contratos de desenvolvimento para a exportação a celebrar por tais empresas ou agrupamentos de empresas.
+2 - A aplicação do previsto no número precedente deste artigo, a solicitar oportunamente pelas empresas ou pelos agrupamentos de empresas interessadas, fica dependente da verificação pelas entidades que intervenham nos contratos em representação do Estado de que os investimentos financiados pelos referidos créditos se integram no objecto dos contratos a celebrar e de que os mesmos créditos não foram concedidos há mais de um ano relativamente à data da apresentação das propostas dos ditos contratos.
+Art. 2.º Desde que os referidos créditos bancários a médio ou a longo prazo sejam incluídos em contratos de desenvolvimento, ao abrigo do artigo anterior, as respectivas condições de prazo e juros e as das garantias eventualmente concedidas pela Companhia de Seguro de Créditos serão revistas, de maneira que fiquem em situação idêntica à que caracteriza os créditos com o mesmo objecto obtidos em consequência da celebração dos contratos em causa.
+Art. 3.º O disposto no presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio - Basílio Adolfo Mendonça Horta da Franca.
+Promulgado em 10 de Agosto de 1978.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
