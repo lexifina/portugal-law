@@ -1,0 +1,16 @@
+Portaria n.º 56/86
+de 14 de Fevereiro
+Pela Portaria n.º 115/85 de 21 de Fevereiro, foram criados dois prémios destinados a distinguir trabalhos de investigação no domínio do ambiente. Um ano passado sobre a sua publicação, verifica-se ser necessário introduzir algumas alterações no texto da referida portaria.
+Nestes termos, e de acordo com o n.º 2 do artigo 24.º do Decreto-Lei n.º 497/85, de 17 de Dezembro:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Ambiente e dos Recursos Naturais, o seguinte:
+1.º Os n.os 1.º, 2.º e 5.º da Portaria n.º 115/85, de 21 de Fevereiro, passam a ter a seguinte redacção:
+1.º São criados 3 prémios para distinguir trabalhos de investigação no domínio do ambiente.
+2.º Os prémios referidos no número anterior, a atribuir pela Secretaria de Estado do Ambiente e dos Recursos Naturais, através da Direcção-Geral da Qualidade do Ambiente, terão o valor de 250000$00, 150000$00 e 100000$00, respectivamente.
+3.º ...
+4.º ...
+5.º A comissão mencionada no n.º 3.º reunirá anualmente, de 15 de Abril a 15 de Maio, para apreciar os trabalhos dos candidatos, sob convocação do respectivo presidente.
+6.º ...
+2.º Esta portaria entra imediatamente em vigor.
+Secretaria de Estado do Ambiente e dos Recursos Naturais.
+Assinada em 24 de Janeiro de 1986.
+O Secretário de Estado do Ambiente e dos Recursos Naturais, Carlos Alberto Martins Pimenta.
