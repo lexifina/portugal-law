@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que nas datas referidas os seguintes países aceitaram as emendas aos artidos 24.º e 25.º da Constituição da Organização Mundial de Saúde, adoptadas pela 39.ª Assembleia Mundial de Saúde em 12 de Maio de 1986: Austrália, em 25 de Fevereiro; Marrocos e Singapura, em 2 de Março; Brunei, em 4 de Março; ilhas Salomão, em 9 de Março; França, em 17 de Março; Reino Unido, em 18 de Março; Vanuatu, em 19 de Março, e Jordânia, em 26 de Março do corrente ano.
+Direcção-Geral dos Negócios Político-Económicos, 15 de Junho de 1987. - O Director de Serviços dos Assuntos Multilaterais, Marcello de Zaffiri Duarte Mathias.
