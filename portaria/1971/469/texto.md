@@ -1,0 +1,4 @@
+Portaria n.º 469/71
+de 31 de Agosto
+Manda o Governo da República Portuguesa, pelos Secretários de Estado do Tesouro e das Comunicações e Transportes, nos termos do n.º 3 do artigo 37.º do Estatuto da empresa pública Correios e Telecomunicações de Portugal, anexo ao Decreto-Lei n.º 49368, de 10 de Novembro de 1969, atendendo ao que por ela foi solicitado, autorizar a referida empresa a contrair na Caixa Geral de Depósitos, Crédito e Previdência um empréstimo de 170000000$00, à taxa de juro de 6,5 por cento ao ano, com o período de utilização de dois meses e amortizável em vinte semestralidades, vencendo-se a primeira dois anos após a assinatura do contrato.
+O Secretário de Estado do Tesouro, João Luís da Costa André. - O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.
