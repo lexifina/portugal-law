@@ -1,0 +1,8 @@
+Decreto-Lei n.º 43953
+Devido às actuais necessidades da defesa nacional são crescentes as dificuldades de recrutamento de oficiais do Exército para prestarem serviço na Guarda Nacional Republicana. Justifica-se, por isso, na presente conjuntura alargar a todas as armas e serviços as possibilidades de recrutamento.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É autorizada a colocação nas tropas e nos serviços da Guarda Nacional Republicana de oficiais superiores, capitães e oficiais subalternos de todas as armas e serviços, do quadro permanente, no activo ou na reserva.
+Art. 2.º Fica expressamente revogada a limitação estabelecida no artigo 21.º do Estatuto do Oficial do Exército, promulgado pelo Decreto-Lei n.º 36304 de 23 de Maio de 1947, na parte respeitante à Guarda Nacional Republicana.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 6 de Outubro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
