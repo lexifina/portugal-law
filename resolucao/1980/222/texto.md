@@ -1,0 +1,3 @@
+Resolução n.º 222/80
+O Conselho de Ministros, reunido em 9 de Junho de 1980, resolveu, nos termos do Tratado entre a República Federal da Alemanha e a República de Portugal Relativo à Extradição e à Assistência Judiciária em Matéria Penal, de 8 de Abril de 1965, e do artigo 24.º, n.º 2, do Decreto-Lei n.º 437/75, de 16 de Agosto, deferir o pedido de extradição apresentado pelas autoridades da República Federal da Alemanha referente ao seu súbdito Ralf Adam, acusado da prática de crimes de homicídio voluntário.
+Presidência do Conselho de Ministros, 9 de Junho de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
