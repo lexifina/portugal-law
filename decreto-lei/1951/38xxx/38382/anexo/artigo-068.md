@@ -1,11 +1,9 @@
 # Artigo 68.º
 
-1. Nas habitações T(índice 0), T(índice 1) e T(índice 2), a área mínima para instalações sanitárias é de 3,5 m2, sendo o equipamento mínimo definido de acordo com o artigo 84.º
+1 - Nas habitações T0, T1 e T2 a área mínima para instalações sanitárias é de 4,50 m2, sendo o equipamento mínimo definido de acordo com o artigo 84.º e as peças sanitárias colocadas de forma que resulte uma área livre na qual seja possível inscrever um círculo de 1,50 m de diâmetro ao nível do pavimento.
 
-2. Nas habitações T(índice 3) e T(índice 4), a área mínima para instalações sanitárias é de 4,5 m2, subdividida em dois espaços com acesso independente.
+2 - Nas habitações T3 e T4 a área mínima para instalações sanitárias é de 6,00 m2 ou subdividida em 2 espaços com acesso independente, possuindo um deles obrigatoriamente as dimensões e equipamentos referidos no n.º 1.
 
-3. Nas instalações sanitárias subdivididas haverá como equipamento mínimo uma banheira e um lavatório, num dos espaços; uma bacia de retrete, um bidé e um lavatório, no outro espaço.
+3 - Nas habitações T5 ou com mais de 6 compartimentos a área livre mínima para instalações sanitárias é de 7,50 m2, desdobrada em 2 espaços com acesso independente.
 
-4. Nas habitações T(índice 5) ou com mais de seis compartimentos, a área mínima para instalações sanitárias é de 6 m2, desdobrada em dois espaços com acesso independente.
-
-5. Nas instalações sanitárias desdobradas haverá como equipamento mínimo uma banheira, uma bacia de retrete, um bidé e um lavatório, num dos espaços; e uma bacia de duche, uma bacia de retrete e um lavatório, no outro.
+4 - Nas instalações sanitárias desdobradas um dos espaços possuirá as dimensões e equipamentos referidos no n.º 1, para permitir a inscrição de um círculo de 1,50 m de diâmetro, possuindo o outro como equipamento mínimo 1 bacia de duche, 1 bacia de retrete e 1 lavatório.

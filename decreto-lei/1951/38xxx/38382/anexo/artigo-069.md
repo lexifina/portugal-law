@@ -12,4 +12,6 @@ d) Quando a respectiva área for maior ou igual a 15 m2, o comprimento não pode
 
 2. Quando um compartimento se articular em dois espaços não autónomos, a dimensão horizontal que define o seu contacto nunca será inferior a dois terços da dimensão menor do espaço maior, com o mínimo de 2,10 m.
 
-3. Exceptua-se do preceituado no número anterior o compartimento destinado a cozinha, em que a dimensão mínima admitida será de 1,70 m, sem prejuízo de que a distância mínima livre entre bancadas situadas em paredes opostas seja de 1,10 m.
+3 - Exceptua-se do preceituado no número anterior o compartimento destinado à cozinha, em que a dimensão mínima admitida será de 2,00 m, sem prejuízo de que a distância mínima livre entre bancadas situadas em paredes opostas seja de 1,50 m.
+
+4 - O vestíbulo de entrada, quando exista, deverá ter as dimensões mínimas de 1,50 m x 1,50 m.
