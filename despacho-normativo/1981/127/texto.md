@@ -1,0 +1,3 @@
+Despacho Normativo n.º 127/81
+Revogo o Despacho Normativo n.º 94/81, de 9 de Fevereiro, publicado no Diário da República, 1.ª série, n.º 62, de 16 de Março de 1981, e, no uso da competência que me é conferida pelo n.º 3 do artigo 23.º do Regulamento da Pesca de Arrasto Costeira, aprovado pela Portaria n.º 49/73, de 24 de Janeiro, e aditado pelo n.º 30 da Portaria n.º 1094-D/80, de 26 de Dezembro, determino que não será considerada como infracção a captura incidental (by catch) de crustáceos e o seu desembarque por arrastões de peixe, desde que o seu peso total não exceda 10% do peso dos peixes.
+Secretaria de Estado das Pescas, 7 de Abril de 1981. - O Secretário de Estado das Pescas, José Carlos Gonçalves Viana.
