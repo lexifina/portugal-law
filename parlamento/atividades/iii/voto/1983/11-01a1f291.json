@@ -1,0 +1,79 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=apHO%2bj%2fPyvy9jeR1p7qPMDWq%2bNBNtu7zmTW3glqltduGGVlVwuKcV0KRZVbeIKa%2bxwf8LYmr0fbmofEgv7oSnGQGoxPDPbZ5zrAuuKuGvsqS6OvHj%2bmESH9%2bC8bHYSrthvaA3bu2uCZ7BJMd4Yy5Z4LXqRD3OzQ9bqAE%2bZLEXzhOBqkMyqNt0tPtsFs27GR9sKVEWDfgCpb%2baHTJs1WdJCT9MmcNkVLn92uI%2bJwF35tmwo4VTbPVnLoCfE8qTF2RBpKILlkdFu49tAGruYOTVPWYoTrfYkvbkMyoZjJgG8csoQBr3C2cN4jO1r9uihVmphpoWwMrml3UBfxpRjJFNRZvqwASre3t%2fucUyxW4dAI9AuwBH5rbcPq4U3biExpZ&fich=AtividadesIII_json.txt&Inline=true",
+  "ficheiro_sha256": "57357a02c9845e2bb6dbf69e98ad151e9a6d2ed210bce5ca29e26a0a6d217b1b",
+  "legislatura": "III",
+  "tipo": "Voto",
+  "numero": "11",
+  "data_registo": "1983-10-17",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Voto de congratulação pela atribuição do Prémio Nobel da Paz a Lech Valesa",
+    "AutoresGP": [
+      "PS",
+      "PSD",
+      "José Mota (PS)",
+      "José Valente (PS)",
+      "Leonel Fadigas (PS)",
+      "Victor Hugo (PS)",
+      "Manuel Araújo dos Santos (PSD)",
+      "Maria Luisa Daniel (PS)",
+      "Fernando Figueiredo (PSD)"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": null,
+    "DataAnuncio": null,
+    "DataEntrada": "1983-10-17",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "III",
+    "Numero": "11",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "819343",
+        "obs": null,
+        "pag": [
+          "1566-1567"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1983-10-21",
+        "pubLeg": "III",
+        "pubNr": "36",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/03/01/036/1983-10-21/1566?pgs=1566-1567&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": null,
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "1",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": "Grupos Parlamentares",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "1983-10-20",
+        "descricao": null,
+        "detalhe": null,
+        "id": "80179",
+        "publicacao": null,
+        "resultado": "Aprovado",
+        "reuniao": "36",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
