@@ -1,0 +1,15 @@
+Decreto-Lei n.º 548/74
+de 23 de Outubro
+Pelo Decreto-Lei n.º 220/74, de 27 de Maio, foi criado no Ministério da Justiça o cargo de Subsecretário de Estado da Administração Judiciária, com as atribuições que aí lhe foram fixadas.
+Porém, a prática demonstra que a estrutura de um simples Subsecretário de Estado é incompatível com a vastidão e complexidade das matérias que este abarca.
+No diploma de início citado atribui-se-lhe competência em toda a já vasta gama de assuntos das Direcções-Gerais da Administração Judiciária, dos Serviços Prisionais e dos Registos e do Notariado. Mas, por necessidades internas do Ministério da Justiça, em grande parte devidas à enorme actividade legislativa renovadora da hora presente, esse Subsecretário passou a despachar mais, por delegações sucessivas, sobre todos os assuntos relativos ao Supremo Tribunal Administrativo (integrado no Ministério da Justiça, pelo Decreto-Lei n.º 250/74, de 12 de Junho), Câmara dos Revisores Oficiais de Contas, Direcção dos Serviços dos Cofres, 4.ª Direcção-Geral da Contabilidade Pública, Obras do Ministério da Justiça, Procuradoria-Geral da República, processos de expropriações por utilidade pública e domínio marítimo.
+Está ainda iminente (por estudo concluído, conforme despacho de 2 de Julho de 1974, publicado no Diário do Governo, 2.ª série, de 18 de Julho de 1974) a integração no Ministério da Justiça dos tribunais do trabalho, o que, só por si, determina uma enorme quantidade de novas atribuições de administração e reformas legislativas. Outros tribunais também virão a ser integrados, na sequência de orientações já adoptadas.
+Só a elevação da Subsecretaria a Secretaria de Estado, com a consequente ampliação de estruturas, permite, para já, fazer face a tão vastas atribuições.
+Nestes termos:
+Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É convertido no de Secretário de Estado da Justiça o cargo de Subsecretário de Estado da Administração Judiciária, criado pelo Decreto-Lei n.º 220/74, de 27 de Maio.
+Art. 2.º Este decreto entra imediatamente em vigor.
+Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Francisco Salgado Zenha - José da Silva Lopes.
+Promulgado em 18 de Outubro de 1974, nos termos do n.º 3.º do artigo 10.º da Lei Constitucional n.º 3/74.
+Publique-se.
+O Presidente da República, JOSÉ BAPTISTA PINHEIRO DE AZEVEDO.
