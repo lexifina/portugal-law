@@ -20,9 +20,9 @@ f) Sociedades de factoring - 200000 contos;
 
 g) Sociedades financeiras para aquisições a crédito - 500000 contos;
 
-h) Sociedades financeiras de corretagem - 500000 contos;
+h) Sociedades financeiras de corretagem - (euro) 3500000;
 
-i) Sociedades corretoras - 50000 contos;
+i) Sociedades corretoras - (euro) 350000;
 
 j) Sociedades mediadoras do mercado monetário ou de câmbios - 10000 ou 100000 contos, consoante operem exclusivamente no mercado monetário ou simultaneamente nos dois mercados;
 
@@ -36,6 +36,8 @@ o) Sociedades de desenvolvimento regional - 600000 contos;
 
 p) Sociedades de capital de risco - 600000 contos;
 
-q) Sociedades administradoras de compras em grupo - 100000 ou 50000 contos, consoante administrem ou não administrem grupos constituídos para a aquisição de bens imóveis.
+q) Sociedades administradoras de compras em grupo - 100000 ou 50000 contos, consoante administrem ou não administrem grupos constituídos para a aquisição de bens imóveis;
+
+r) Sociedades de garantia mútua — 500 mil contos.
 
 2.º A presente portaria entra imediatamente em vigor.
