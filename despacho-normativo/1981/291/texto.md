@@ -1,0 +1,9 @@
+Despacho Normativo n.º 291/81
+No intuito de adequar a actividade dos circuitos móveis prosseguida pelas instituições do sistema bancário à nova realidade estrutural e programática do respectivo sector, o Despacho Normativo n.º 84/79, de 28 de Março, veio definir em novos moldes o âmbito geográfico da sua actuação.
+A experiência entretanto adquirida tem vindo a demonstrar o acerto da medida adoptada na matéria pela economia de meios que propiciou, sem que concomitantemente se verificasse uma quebra no ritmo de afluxo de fundos ao sistema bancário.
+Por outro lado, o âmbito da cobertura geográfica do País alcançado pelo sistema bancário potência que a concorrência interbancária actue prevalentemente em ordem à consecução de uma melhoria na eficiência do funcionamento e serviços prestados pelas diversas instituições.
+Considerando, pois, a vantagem no prosseguimento e no aprofundamento das disposições contidas no Despacho Normativo n.º 94/79, de 10 de Abril:
+Determino:
+1 - Nas zonas do território continental localizadas a distância não superior a 10 km de cada agência/dependência bancária deverá cessar toda a actividade dos circuitos móveis/prospecção, ficando assim vedada as instituições de crédito a realização em tais zonas de quaisquer operações fora das respectivas instalações, designadamente recebimentos, de forma sistemática ou isolada, de valores para depósito.
+2 - O Banco de Portugal, em conjugação com as instituições de crédito envolvidas, deverá acompanhar e controlar a implementação da presente directiva em ordem ao seu rigoroso cumprimento e à subsequente submissão a esta Secretaria de Estado de uma proposta de adequação do enquadramento geográfico definido no número anterior, findo o prazo de um ano, a contar da data deste despacho.
+Secretaria de Estado do Tesouro, 22 de Setembro de 1981. - O Secretário de Estado do Tesouro, Walter Waldemar Pego Marques.
