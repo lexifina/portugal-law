@@ -1,0 +1,5 @@
+Portaria n.º 949/82
+de 7 de Outubro
+Tendo António Nuno de Carvalho Corrêa de Oliveira, casado, residente na Casa do Belinho, freguesia de Antas, do concelho de Esposende, solicitado autorização para o enterramento de sua tia Maria Cândida da Cunha Sottomayor de Abreu Corrêa d'Oliveira na Capela de Nossa Senhora do Rosário, privativa de sua casa, segundo uso tradicional mantido e respeitado na sua família há 11 gerações:
+Manda o Governo da República Portuguesa, pelo Ministro da Administração Interna, que, ao abrigo do artigo 251.º do Código do Registo Civil, na redacção do artigo 17.º do Decreto-Lei n.º 274/82, de 14 de Julho, obtidos os pareceres favoráveis da autoridade sanitária e da Câmara Municipal de Esposende, autorizar o enterramento de Maria Cândida da Cunha Sottomayor de Abreu Corrêa d'Oliveira na Capela de Nossa Senhora do Rosário, privativa da Casa do Belinho, sita na freguesia de Antas, concelho de Esposende, de que é proprietário António Nuno de Carvalho Corrêa de Oliveira.
+Ministério da Administração Interna, 22 de Setembro de 1982. - O Ministro da Administração Interna, José Ângelo Ferreira Correia.
