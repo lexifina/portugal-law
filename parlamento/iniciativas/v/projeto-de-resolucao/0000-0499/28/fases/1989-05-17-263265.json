@@ -1,0 +1,803 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "28",
+    "id": "27749",
+    "titulo": "Alterações ao processo especial de apreciação e votação da revisão constitucional"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "1989-05-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "7144",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "1989-05-17",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1989-05-17",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "02:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226725",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3910-3910",
+                  "3910-3910",
+                  "3911-3911"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-18",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/082/1989-05-18/3910?pgs=3910,3910,3911&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao processo especial de apreciação e votação da revisão constitucional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "02:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226726",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3910-3910",
+                  "3910-3910",
+                  "3910-3911"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-18",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/082/1989-05-18/3910?pgs=3910,3910,3910-3911&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao processo especial de apreciação e votação da revisão constitucional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "02:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226727",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3911-3911",
+                  "3911-3911",
+                  "3911-3911"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-18",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/082/1989-05-18/3911?pgs=3911,3911,3911&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao processo especial de apreciação e votação da revisão constitucional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "02:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226728",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3911-3911",
+                  "3911-3911"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-18",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/082/1989-05-18/3911?pgs=3911,3911&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao processo especial de apreciação e votação da revisão constitucional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "02:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226729",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3911-3911"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-18",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/082/1989-05-18/3911?pgs=3911&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao processo especial de apreciação e votação da revisão constitucional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "02:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226730",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3911-3911"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-18",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/082/1989-05-18/3911?pgs=3911&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao processo especial de apreciação e votação da revisão constitucional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "02:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226731",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3912-3912"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-18",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/082/1989-05-18/3912?pgs=3912&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao processo especial de apreciação e votação da revisão constitucional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "02:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226732",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3912-3913",
+                  "3913-3914"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-18",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/082/1989-05-18/3912?pgs=3912-3913,3913-3914&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao processo especial de apreciação e votação da revisão constitucional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "02:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226733",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3913-3913"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-18",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/082/1989-05-18/3913?pgs=3913&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao processo especial de apreciação e votação da revisão constitucional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "02:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226734",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3914-3914"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-18",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/082/1989-05-18/3914?pgs=3914&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao processo especial de apreciação e votação da revisão constitucional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "02:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226735",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3914-3915"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-18",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/082/1989-05-18/3914?pgs=3914-3915&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao processo especial de apreciação e votação da revisão constitucional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "02:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226736",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3915-3915"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-18",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/082/1989-05-18/3915?pgs=3915&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao processo especial de apreciação e votação da revisão constitucional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "02:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226737",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3915-3915"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-18",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/082/1989-05-18/3915?pgs=3915&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao processo especial de apreciação e votação da revisão constitucional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "02:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226738",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3915-3915"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-18",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/082/1989-05-18/3915?pgs=3915&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao processo especial de apreciação e votação da revisão constitucional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "02:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226739",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3915-3815"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-18",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/082/1989-05-18/3915?pgs=3915-3815&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao processo especial de apreciação e votação da revisão constitucional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "02:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226740",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3915-3916"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-18",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/082/1989-05-18/3915?pgs=3915-3916&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao processo especial de apreciação e votação da revisão constitucional.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "02:05",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "226741",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3916-3916"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-05-18",
+                "pubLeg": "V",
+                "pubNr": "82",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/082/1989-05-18/3916?pgs=3916&org=PLC"
+              }
+            ],
+            "sumario": "Alterações ao processo especial de apreciação e votação da revisão constitucional.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "263265",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "7144",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1989-05-18",
+        "pubLeg": "V",
+        "pubNr": "82",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/082/1989-05-18?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
