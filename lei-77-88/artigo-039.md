@@ -1,3 +1,7 @@
+## Subsecção IV
+
+## Direcção de Serviços de Relações Públicas e Internacionais
+
 # Artigo 39.º
 
 ### Atribuições

@@ -1,14 +1,10 @@
-## Subsecção III
-
-## Assessoria Jurídica
-
-## Subsecção IV
-
-## Gabinete de Estudos Parlamentares
-
 ## Secção III
 
 ## Direcções-gerais e outros serviços
+
+## Subsecção I
+
+## Unidades orgânicas
 
 # Artigo 27.º
 
