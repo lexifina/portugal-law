@@ -1,0 +1,8 @@
+Portaria n.º 223/82
+de 19 de Fevereiro
+Tendo, por despacho do Secretário de Estado do Planeamento de 30 de Julho de 1979, anotado pelo Tribunal de Contas em 3 de Setembro do mesmo ano, sido atribuído provimento definitivo na categoria de assessor, letra C, nos termos dos n.os 3, alínea a), e 7 do artigo 12.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, ao director de serviços do Instituto Nacional de Estatística licenciado Adrião Simões Ferreira da Cunha (Diário da República, 2.ª série, n.º 224, de 27 de Setembro de 1979), que continuou a exercer, em comissão de serviço, o cargo de director de serviços;
+Tendo, por despacho de 21 de Setembro de 1981 do Secretário de Estado do Planeamento, sido deferido requerimento em que o licenciado Adrião Simões Ferreira da Cunha solicita a cessação daquela sua comissão de serviço (despacho anotado pelo Tribunal de Contas em 19 de Outubro de 1981):
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelo Ministro da Reforma Administrativa, nos termos e para os efeitos do artigo 14.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, o seguinte:
+1.º É criado no quadro de pessoal do Instituto Nacional de Estatística 1 lugar de assessor, letra C.
+2.º O lugar criado pelo número anterior será extinto quando vagar.
+Ministérios das Finanças e do Plano e da Reforma Administrativa, 4 de Fevereiro de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
