@@ -1,0 +1,9 @@
+Aviso n.º 216/94
+Por ordem superior se torna público que a Grécia depositou, em 19 de Março de 1993, junto do Ministério dos Negócios Estrangeiros do Reino dos Países Baixos, o instrumento de ratificação da Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, concluída na Haia em 25 de Outubro de 1980.
+O instrumento da ratificação contém as reservas e a declarção cuja tradução em português é a seguinte:
+1 - Em virtude do artigo 42.º da Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, a Grécia declara que não é obrigada ao pagamento das despesas visadas no parágrafo segundo do artigo 26.º e que estão ligadas à participação de advogado ou conselheiro jurídico ou a custas judiciais, a não ser na medida em que tais despesas respeitem aos casos de assistência judiciária ou jurídica gratuita.
+2 - Em virtude do artigo 42.º da Convenção acima mencionado, a Grécia declara que se opõe ao uso previsto pelo artigo 24.º da língua francesa relativamente a qualquer pedido, comunicação ou outro documento dirigido à sua Autoridade Central.
+3 - Em conformidade com o artigo 6.º, parágrafo primeiro, da Convenção, o Ministério da Justiça (Diário da Elaboração das Leis, 4.ª secção) é designado como sendo a Autoridade Central da Grécia.
+Em conformidade com o artigo 43.º, alínea 2, a Convenção entrou em vigor para a Grécia em 1 de Junho de 1993.
+Portugal é Parte nesta Convenção, que foi aprovada para ratificação pelo Decreto do Governo n.º 33/83, de 11 de Maio (publicado no Diário da República, 1.ª série, n.º 108, da mesma data), tendo depositado o seu instrumento de ratificação em 29 de Setembro de 1983, conforme aviso publicado no Diário da República, 1.ª série, n.º 126, de 31 de Maio de 1984. A Convenção vigora para Portugal desde 1 de Dezembro de 1983.
+Departamento de Assuntos Jurídicos, 25 de Julho de 1994. - O Director, José Maria Teixeira Leite Martins.
