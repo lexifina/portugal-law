@@ -1,0 +1,7 @@
+Portaria n.º 374/72
+de 7 de Julho
+Manda o Governo da República Portuguesa, pelo Ministro da Justiça, nos termos das alíneas a) e b) do artigo 6.º do Decreto-Lei n.º 49040, de 4 de Junho de 1969, que:
+a) Sejam criados estabelecimentos prisionais regionais em Coimbra, Bragança, Braga, Beja e Faro, que principiarão a funcionar no dia 1 de Outubro de 1972;
+b) A Cadeia Comarcã de Lisboa e a Cadeia Civil do Porto passem, nessa data, a denominar-se, respectivamente, Estabelecimentos Prisionais de Lisboa e do Porto, mantendo a actual organização e regime administrativo;
+c) Sejam extintas, a partir do mesmo dia, as Cadeias Comarcãs de Sintra, Mafra, Vila Franca de Xira, Vila da Feira, Oliveira de Azeméis, Arouca, Baião, Marco de Canaveses, Penafiel, Paredes, Paços de Ferreira, Santo Tirso, Vila do Conde, Póvoa de Varzim, Vila Nova de Famalicão, Coimbra, Montemor-o-Velho, Figueira da Foz, Cantanhede, Oliveira do Hospital, Arganil, Lousã, Figueiró dos Vinhos, Ansião, Soure, Bragança, Vinhais, Mirandela, Macedo de Cavaleiros, Vila Flor, Mogadouro, Miranda do Douro, Vimioso, Braga, Amares, Lousada, Barcelos, Esposende, Vila Verde, Póvoa de Lanhoso, Vieira do Minho, Fafe, Celorico de Basto, Cabeceiras de Basto, Amarante, Felgueiras, Beja, Mértola, Ourique, Serpa, Moura, Cuba, Faro, Lagos, Portimão, Silves, Olhão e Tavira.
+Ministério da Justiça, 23 de Junho de 1972. - O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.
