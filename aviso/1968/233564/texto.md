@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se faz público que, segundo uma comunicação do Departamento dos Estados Unidos da América dirigida à Embaixada de Portugal em Washington, foram depositados, respectivamente em 16 de Junho e 11 e 20 de Outubro de 1967, os instrumentos de adesão dos Governos da Tanzânia, do Quénia e do Panamá ao Acordo para o Estabelecimento de Um Regime Provisório Aplicável a Um Sistema Comercial Mundial de Telecomunicações por Satélite, concluído em Washington em 20 de Agosto de 1964.
+O Acordo entrou em vigor, em relação à Tanzânia, ao Quénia e ao Panamá, na data do depósito dos respectivos instrumentos de adesão, ou seja, respectivamente, em 16 de Junho e 11 e 20 de Outubro de 1967.
+Direcção-Geral dos Negócios Económicos, 31 de Janeiro de 1968. - O Director-Geral, José Calvet de Magalhães.
