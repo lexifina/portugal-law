@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1937/06/15000/06300630.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1937-06-30",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "c0455ab1f1b688ebd23c7cb5b1f9dc8add7a22addbf74b703ea0ea640d6abd93",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.1,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "571dbe4a91d2f95ea1cbb20e9ea459289031999ecc0d5aeded811e8ac7a20075",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 346
 }
