@@ -1,0 +1,3 @@
+Despacho
+Nos termos do artigo 2.º do Decreto-Lei n.º 43000, de 1 de Junho de 1960, o Conselho de Ministros resolve, mediante proposta do Ministério da Educação Nacional, declarar o curso de comércio regulado pelo Decreto n.º 20420, de 20 de Outubro de 1931, como suficiente, em paralelo com o curso geral dos liceus, para efeito de provimento nos lugares de terceiro-oficial do quadro dos serviços da Emissora Nacional de Radiodifusão.
+Presidência do Conselho, 3 de Novembro de 1966. - Pelo Presidente do Conselho, António Jorge Martins da Mota Veiga, Ministro de Estado adjunto do Presidente do Conselho.
