@@ -24,13 +24,13 @@ e) As entidades que prossigam a actividade de seguro ou de resseguro, nos ramos 
 
 f) As sociedades gestoras de fundos de pensões e as de seguro ou resseguro, no ramo «Vida», e que assumam compromissos exclusivamente com não residentes no território português, exceptuados os respectivos estabelecimentos estáveis nele situados, relativamente aos rendimentos provenientes das respectivas actividades;
 
-g) As sociedades gestoras de participações sociais relativamente aos rendimentos provenientes das participações sociais que detenham em sociedades não residentes no território português, exceptuadas as zonas francas, ou no de outros Estados membros da Comunidade Europeia;
+g) As sociedades gestoras de participações sociais relativamente aos rendimentos, designadamente lucros e mais-valias, provenientes das participações sociais que detenham em sociedades não residentes no território português, exceptuadas as zonas francas, ou no de outros Estados membros da União Europeia;
 
 h) As entidades referidas na alínea a), relativamente aos rendimentos derivados das actividades exercidas na zona demarcada industrial não abrangidas por aquela alínea a), e as restantes entidades não mencionadas nas alíneas anteriores, relativamente aos rendimentos derivados das suas actividades compreendidas no âmbito institucional da respectiva zona franca desde que, em ambos os casos, respeitem as operações realizadas com entidades instaladas nas zonas francas ou com não residentes no território português, exceptuados os estabelecimentos estáveis aí situados e fora das zonas francas.
 
 2 - As entidades que participem no capital social de sociedades instaladas nas zonas francas e referidas nas alíneas a), b), g) e h) do número anterior gozam, com dispensa de qualquer formalidade, de isenção de IRS ou de IRC, até 31 de Dezembro de 2011, relativamente:
 
-a) Aos lucros colocados à sua disposição por essas sociedades na proporção da soma das partes isenta e não isenta mas derivada de rendimentos obtidos fora do território português, do resultado líquido do exercício correspondente, acrescido do valor líquido das variações patrimoniais não reflectidas nesse resultado, determinado para efeitos de IRC;
+a) Aos lucros colocados à sua disposição por essas sociedades na proporção da soma das partes isenta e não isenta mas derivada de rendimentos obtidos fora do território português, do resultado líquido do exercício correspondente, acrescido do valor líquido das variações patrimoniais não reflectidas nesse resultado, determinado para efeitos de IRC, neles se compreendendo, com as necessárias adaptações, o valor atribuído aos associados em resultado da partilha que, nos termos do artigo 75.º do Código do IRC, seja considerado como rendimento de aplicação de capitais, bem como o valor atribuído aos associados na amortização de partes sociais sem redução de capital;
 
 b) Aos rendimentos provenientes de juros e outras formas de remuneração de suprimentos, abonos ou adiamentos de capital por si feitos à sociedade ou devidos pelo facto de não levantarem os lucros ou remunerações colocados à sua disposição.
 
@@ -72,20 +72,46 @@ b) Todos os rendimentos decorrentes da prestação de serviços a pessoas singul
 
 13 - Para os efeitos do disposto nos números anteriores, consideram-se residentes em território português as entidades como tal qualificadas nos termos dos Códigos do IRS e do IRC e que não sejam consideradas residentes de outro Estado por força de convenção destinada a eliminar a dupla tributação de que o Estado Português seja parte.
 
-14 - Para efeito do disposto nos números anteriores, a qualidade de não residente deve ser comprovada da forma seguinte:
+14 - Para efeitos do disposto nos números anteriores, sempre que a qualidade de não residente seja condição necessária à verificação dos pressupostos da isenção, deve aquela ser comprovada da seguinte forma:
 
-a) Quando forem bancos centrais, instituições de direito público ou organismos internacionais, bem como quando forem instituições financeiras, domiciliadas em qualquer Estado membro da União Europeia ou em Estado com o qual Portugal tenha celebrado convenção para evitar a dupla tributação internacional e estejam submetidas a um regime especial de supervisão ou de registo administrativo, com a respectiva identificação fiscal;
+a) Quando forem bancos centrais, instituições de direito público ou organismos internacionais, bem como quando forem instituições de crédito, sociedades financeiras, fundos de investimento mobiliário ou imobiliário, fundos de pensões ou empresas de seguros domiciliadas em qualquer país da OCDE ou em país com o qual Portugal tenha celebrado convenção para evitar a dupla tributação internacional e estejam submetidas a um regime especial de supervisão ou de registo administrativo, de acordo com as seguintes regras:
 
-b) Nos restantes casos, mediante a apresentação de certificado de residência ou documento equivalente emitido pelas autoridades fiscais ou outra entidade oficial do Estado da residência ou de documento emitido por consulado português, comprovativo da residência no estrangeiro, com data de emissão não anterior a três anos nem posterior a três meses em relação à data de realização das operações e da percepção dos rendimentos, salvo se o prazo de validade do documento for inferior ou se o documento indicar um ano de referência.
+1) A respectiva identificação fiscal, sempre que o titular dela disponha; ou,
 
-15 - Compete às entidades a que se refere o n.º 1 a prova da qualidade de não residente das entidades com as quais estabeleçam relações, devendo os meios de prova ser conservados durante um período não inferior a cinco anos e exibidos ou facultados à administração tributária sempre que solicitados.
+2) Certidão da entidade responsável pelo registo ou pela supervisão que ateste a existência jurídica do titular e o seu domicílio; ou,
 
-16 - A falta de apresentação da prova de não residente a que se refere o número anterior pelas entidades a que se refere o n.º 1 tem as consequências seguintes:
+3) Declaração do próprio titular, devidamente assinada e autenticada, se se tratar de bancos centrais, instituições de direito público que integrem a administração pública central, regional ou a demais administração periférica, estadual indirecta ou autónoma do Estado da residência fiscalmente relevante, ou organismos internacionais; ou
 
-a) Ficam sem efeito os benefícios concedidos às entidades beneficiárias que pressuponham a referida qualidade;
+4) Comprovação da qualidade de não residente, nos termos da alínea c), caso o titular opte pelos meios de prova aí previstos.
+
+b) Quando forem emigrantes no activo, através dos documentos previstos para a comprovação desta qualidade em portaria do Ministro das Finanças que regulamente o sistema poupança-emigrante;
+
+c) Nos restantes casos, de acordo com as seguintes regras:
+
+1) A comprovação deve ser realizada mediante a apresentação de certificado de residência ou documento equivalente emitido pelas autoridades fiscais, de documento emitido por consulado português, comprovativo da residência no estrangeiro, ou de documento especificamente emitido com o objectivo de certificar a residência por entidade oficial do respectivo Estado, que integre a sua administração pública central, regional ou a demais administração periférica, estadual indirecta ou autónoma do mesmo, não sendo designadamente admissível para o efeito documento de identificação como passaporte ou bilhete de identidade, ou documento de que apenas indirectamente se possa presumir uma eventual residência fiscalmente relevante, como uma autorização de trabalho ou permanência;
+
+2) O documento referido na subalínea anterior é necessariamente o original ou cópia devidamente autenticada e tem de possuir data de emissão não anterior a três anos nem posterior a três meses em relação à data de realização das operações e da percepção dos rendimentos, salvo o disposto nas subalíneas seguintes;
+
+3) Se o prazo de validade do documento for inferior ou se este indicar um ano de referência, o mesmo é válido para o ano referido e para o ano subsequente, quando este último coincida com o da emissão do documento;
+
+4) O documento que, à data da contratação de uma operação, comprove validamente a qualidade de não residente, nos termos das subalíneas anteriores, permanece eficaz até ao termo inicialmente previsto para aquela, desde que este não seja superior a um ano.
+
+15 - As entidades referidas nas alíneas g) e h) do n.º 1 estão dispensadas da comprovação, pelos meios e nos termos previstos no n.º 14, da qualidade de não residente das entidades com quem se relacionam, quer nas operações de pagamento que lhes sejam dirigidas, quer nos pagamentos por si efectuados relativos a aquisições de bens e serviços, sendo admissível, para estes casos, qualquer meio que constitua prova bastante, salvo quanto aos pagamentos a qualquer entidade dos tipos de rendimentos referidos na alínea d) do n.º 2 e nos n.os 3 e 4 do artigo 71.º do Código do IRS, aos quais se continua a aplicar o disposto no n.º 14.
+
+16 - Compete às entidades a que se refere o n.º 1 a prova, nos termos dos n.os 14 e 15, da qualidade de não residente das entidades com as quais estabeleçam relações, a qual é extensível, nas situações de contitularidade, nomeadamente aquando da constituição de contas de depósito de numerário ou de valores mobiliários com mais de um titular, a todos os titulares, devendo os meios de prova ser conservados durante um período não inferior a cinco anos e exibidos ou facultados à administração tributária sempre que solicitados.
+
+17 - Para efeitos do disposto no n.º 1, alínea c), subalínea 2), compete às instituições de crédito ou sociedades financeiras instaladas nas zonas francas a prova das condições aí previstas, a qual, quando não estejam em relação de grupo, tal como esta é definida no artigo 13.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, com as entidades não residentes ali referidas, é constituída por declaração destas, confirmando a inexistência das mencionadas condições, excepto quanto àquelas que as instituições de crédito ou sociedades financeiras instaladas nas zonas francas não pudessem razoavelmente desconhecer, caso em que prevalece o facto notório.
+
+18 - A prova prevista no número anterior não dispensa as instituições de crédito ou sociedades financeiras instaladas nas zonas francas da aplicação do n.º 14.
+
+19 - A falta de apresentação das provas de não residente e de inexistência das condições previstas no n.º 1, alínea c), subalínea 2), ou o desconhecimento doloso ou negligente destas últimas, pelas entidades instaladas nas zonas francas que a tal estejam respectivamente obrigadas nos termos dos n.os 14 e 15, tem, no período de tributação a que respeita, as consequências seguintes:
+
+a) Ficam sem efeito os benefícios concedidos às entidades beneficiárias que pressuponham a referida qualidade ou a ausência daquelas condições;
 
 b) São aplicáveis as normas gerais previstas nos competentes códigos relativas à responsabilidade pelo pagamento do imposto em falta;
 
-c) Presume-se que as operações foram realizadas com entidades residentes em território português para efeitos do disposto neste preceito.
+c) Presume-se que as operações foram realizadas com entidades residentes em território português para efeitos do disposto neste preceito, sem prejuízo de se poder ilidir a presunção, de acordo com o artigo 73.º da Lei Geral Tributária, e nos termos do artigo 64.º do Código do Procedimento e de Processo Tributário.
 
-17 - As entidades a que se refere a alínea c) do n.º 1, que não exerçam em exclusivo a sua actividade nas zonas francas, devem organizar a contabilidade, de modo a permitir o apuramento dos resultados das operações realizadas no âmbito das zonas francas, para o que podem ser definidos procedimentos por portaria do Ministro das Finanças.
+20 - As entidades a que se refere a alínea c) do n.º 1, que não exerçam em exclusivo a sua actividade nas zonas francas, devem organizar a contabilidade, de modo a permitir o apuramento dos resultados das operações realizadas no âmbito das zonas francas, para o que podem ser definidos procedimentos por portaria do Ministro das Finanças.
+
+21 - Para efeitos do disposto no n.º 1, não se consideram compreendidas no âmbito institucional da zona franca as actividades de intermediação na celebração de quaisquer contratos em que o alienante dos bens ou prestador dos serviços ou, bem assim, o adquirente ou utilizador dos mesmos, seja entidade residente no restante território português, fora das zonas francas, ou estabelecimento estável de não residente aqui situado, mesmo que os rendimentos auferidos pela entidade instalada na zona franca sejam pagos por não residentes em território português.

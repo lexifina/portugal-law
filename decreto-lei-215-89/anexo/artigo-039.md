@@ -28,6 +28,4 @@ a) Crédito fiscal utilizável em IRC compreendido entre 10% e 20% das aplicaç�
 
 b) Eliminação da dupla tributação económica nos termos e condições estabelecidos no artigo 46.º do Código do IRC, durante o período contratual, quando o investimento seja efectuado sob a forma de constituição ou de aquisição de sociedades estrangeiras.
 
-6 - Excluem-se da aplicação do disposto nos números anteriores os investimentos efectuados em zonas francas ou nos países, territórios e regiões previstos na Portaria n.º 377-B/94, de 15 de Junho.
-
-7 - No caso de os projectos de investimento se realizarem num Estado membro da União Europeia, o disposto no presente artigo aplica-se exclusivamente a pequenas e médias empresas, definidas nos termos comunitários.
+6 - Excluem-se da aplicação do disposto nos números anteriores os investimentos efectuados em zonas francas ou nos países, territórios e regiões, sujeitos a um regime fiscal claramente mais favorável, constante de lista aprovada por portaria do Ministro das Finanças.

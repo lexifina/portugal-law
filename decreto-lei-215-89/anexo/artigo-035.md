@@ -12,6 +12,8 @@ a) O pessoal das missões diplomáticas e consulares, quanto às remunerações 
 
 b) O pessoal ao serviço de organizações estrangeiras ou internacionais, quanto às remunerações auferidas nessa qualidade.
 
-2 - O disposto no número anterior não prejudica o englobamento dos rendimentos isentos, para efeitos do disposto no n.º 4 do artigo 22.º do Código do IRS e determinação da taxa aplicável ao restante rendimento colectável.
+2 - As isenções previstas no número anterior não abrangem, designadamente, os membros do pessoal administrativo, técnico, de serviço e equiparados, das missões diplomáticas e consulares, quando sejam residentes em território português e não se verifique a existência de reciprocidade.
 
-3 - O reconhecimento relativo ao preenchimento dos requisitos de isenção, quando necessário, é da competência do Ministro das Finanças.
+3 - Os rendimentos isentos nos termos do n.º 1 são obrigatoriamente englobados para efeito de determinação da taxa a aplicar aos restantes rendimentos.
+
+4 - O reconhecimento relativo ao preenchimento dos requisitos de isenção, quando necessário, é da competência do Ministro das Finanças.

@@ -13,3 +13,5 @@
 5 - Nas situações abrangidas pelo número anterior, se o pedido for apresentado para além do prazo referido, a isenção inicia-se a partir do ano imediato, inclusive, ao da sua apresentação, cessando, todavia, no ano em que findaria caso o pedido tivesse sido apresentado em tempo.
 
 6 - Os benefícios fiscais a que se refere este artigo cessam logo que deixem de verificar-se os pressupostos que os determinaram, devendo os proprietários ou os usufrutuários dar cumprimento ao disposto no n.º 1 do artigo 14.º do Código da Contribuição Autárquica.
+
+7 - As isenções previstas nos números anteriores não são aplicáveis quando o sujeito passivo do imposto tenha o domicílio em país, território ou região, sujeito a um regime fiscal claramente mais favorável, constante de lista aprovada por portaria do Ministro das Finanças.
