@@ -1,0 +1,12 @@
+Portaria n.º 655/2004
+de 18 de Junho
+O Decreto-Lei n.º 224/2000, de 9 de Setembro, que estabelece a regulamentação do Programa Operacional Pesca, designado por MARE - Programa para o Desenvolvimento Sustentável do Sector da Pesca, do Quadro Comunitário de Apoio para 2000-2006 (QCA III), prevê, no seu artigo 2.º, os domínios através dos quais se desenvolve. Estes domínios foram objecto de portarias e despachos normativos que aprovam e regulamentam os diversos regimes de apoio, os quais, tendo em conta a dotação financeira programada, distinguem os projectos localizados na região de Lisboa e Vale do Tejo e os projectos localizados nas restantes regiões.
+No início do ano 2004, constatou-se que a dotação financeira relativa à região de Lisboa e Vale do Tejo decidida para o período 2000-2006 se encontrava já comprometida, sendo as disponibilidades financeiras inferiores ao valor dos projectos respeitantes às candidaturas existentes para esta região.
+O efeito directo e imediato de tal constatação foi a suspensão da apresentação de candidaturas cujos projectos se localizassem em tal região.
+As candidaturas desta região a acções de promoção e divulgação, dada a sua natureza, geram um efeito multiplicador que se repercute positivamente sobre toda a fileira da pesca portuguesa, pelo que a impossibilidade de apoiar os agentes económicos da região de Lisboa e Vale do Tejo dificulta a concretização de iniciativas neste domínio. Estas acções, que são de fundamental importância para o desenvolvimento do sector, implicam investimentos não muito vultuosos e, por isso, compatíveis com as disponibilidades financeiras existentes na região de Lisboa e Vale do Tejo.
+Assim:
+Ao abrigo do disposto no n.º 5 do artigo 2.º do Decreto-Lei n.º 224/2000, de 9 de Setembro:
+Manda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:
+1.º Até 31 de Dezembro de 2004, podem ser apresentadas candidaturas na região de Lisboa e Vale do Tejo ao regime de apoio publicado ao abrigo da alínea l) do n.º 2 do artigo 2.º do Decreto-Lei n.º 224/2000, de 9 de Setembro (promoção e prospecção de novos mercados), na redacção dada pelo Decreto-Lei n.º 109/2003, de 4 de Junho.
+2.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Luís Filipe Vieira Frazão Gomes, Secretário de Estado Adjunto e das Pescas, em 8 de Junho de 2004.
