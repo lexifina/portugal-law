@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que, conforme comunicação da Embaixada da Polónia em Londres, transmitida pelo Ministério dos Negócios Estrangeiros do Reino Unido, o Governo da Bélgica depositou junto do Governo da Polónia, no dia 27 de Agosto de 1963, o instrumento de ratificação do seu país ao Protocolo, assinado na Haia em 20 de Setembro de 1955, alterando a Convenção para unificação de certas regras relativas ao transporte aéreo internacional, assinada em Varsóvia em 12 de Outubro de 1929.
+Direcção-Geral dos Negócios Económicos e Consulares, 23 de Dezembro de 1963. - O Director-Geral, Albano Pires Fernandes Nogueira.
