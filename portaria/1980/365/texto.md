@@ -1,0 +1,9 @@
+Portaria n.º 365/80
+de 3 de Julho
+Os gabinetes de apoio técnico (GAT), institucionalizados pelo Decreto-Lei n.º 58/79, de 29 de Março, possuem um quadro de pessoal especializado onde, por se considerar indispensável manter o grau de operacionalidade que detêm desde a sua criação, não existem chefias intermédias entre o director e os técnicos.
+As características específicas dos gabinetes de apoio técnico no conjunto da Administração Pública Portuguesa, particularmente salientes pelas funções que lhes estão cometidas e pela posição em que estão colocados, de encontro entre o Governo Central e os Governos Locais, aliada à relevante - e porventura crescente - intervenção dos órgãos autárquicos na nomeação dos respectivos directores, conduzem a que não seja possível seguir as regras gerais que a lei estabelece para provimento destes lugares, tornando-se necessário o recurso ao regime excepcional que o próprio Decreto-Lei n.º 191-F/79 expressamente prevê no n.º 4 do seu artigo 2.º
+Assim:
+Manda o Governo da República Portuguesa, pelos Secretários de Estado da Administração Regional e Local e da Reforma Administrativa, o seguinte:
+1 - Os lugares de director dos gabinetes de apoio técnico, institucionalizados pelo Decreto-Lei n.º 58/79, de 29 de Março, serão preenchidos por indivíduos de reconhecida competência para o exercício do cargo e habilitados com licenciatura adequada, designadamente em Engenharia ou em Arquitectura.
+2 - Para preenchimento dos lugares referidos no número anterior é dispensado o vínculo à função pública, nos termos do n.º 4 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho.
+Presidência do Conselho de Ministros e Ministério da Administração Interna, 6 de Junho de 1980. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo. - O Secretário de Estado da Administração Regional e Local, José Albino da Silva Peneda.
