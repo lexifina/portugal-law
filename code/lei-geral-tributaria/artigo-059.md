@@ -32,6 +32,6 @@ l) A comunicação antecipada do início da inspecção da escrita, com a indica
 
 4 - A colaboração dos contribuintes com a administração tributária compreende o cumprimento das obrigações acessórias previstas na lei e a prestação dos esclarecimentos que esta lhes solicitar sobre a sua situação tributária, bem como sobre as relações económicas que mantenham com terceiros.
 
-5 - A publicação dos elementos referidos nas alíneas e), f) e i) do n.º 2 far-se-á no jornal oficial ou nos termos a definir por despacho do Ministro das Finanças.
+5 - A publicação dos elementos referidos nas alíneas e), f) e i) do n.º 3 far-se-á no jornal oficial ou nos termos a definir por despacho do Ministro das Finanças.
 
 6 - A administração tributária publica integralmente, até 31 de Março de cada ano, os códigos tributários devidamente actualizados.

@@ -14,7 +14,7 @@
 
 6 - Para efeitos do presente artigo, considera-se haver sempre retardamento da liquidação quando as declarações de imposto forem apresentadas fora dos prazos legais.
 
-7 - Os juros compensatórios só são devidos pelo prazo máximo de 180 dias no caso de erro do sujeito passivo evidenciado na declaração ou, em caso de falta apurada em acção de fiscalização, a partir dos 90 dias posteriores à sua conclusão.
+7 - Os juros compensatórios só são devidos pelo prazo máximo de 180 dias no caso de erro do sujeito passivo evidenciado na declaração ou, em caso de falta apurada em acção de fiscalização, até aos 90 dias posteriores à sua conclusão.
 
 8 - Os juros compensatórios integram-se na própria dívida do imposto, com a qual são conjuntamente liquidados.
 
