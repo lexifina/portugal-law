@@ -1,0 +1,9 @@
+Portaria n.º 745/98
+de 12 de Setembro
+A Assembleia Municipal de Peso da Régua aprovou, em 15 de Julho de 1998, sob proposta da Câmara Municipal de Peso da Régua, a prorrogação do prazo de vigência das medidas preventivas que acompanharam a suspensão do Plano Geral de Urbanização de Peso da Régua, ratificadas pela Portaria n.º 234/96, de 28 de Junho, publicada no Diário da República, 1.ª série-B, n.º 148, de 28 de Junho de 1996.
+Verifica-se que o processo de elaboração do novo Plano de Urbanização da Zona Urbana da Régua - Godim ainda não está concluído e que se mantêm válidas as razões que levaram à suspensão do Plano Geral de Urbanização de Peso da Régua e ao estabelecimento de medidas preventivas, designadamente evitar a alteração das circunstâncias e das condições existentes na área, o que poderia comprometer a futura execução do Plano ou torná-la mais difícil ou onerosa.
+Assim, ao abrigo do disposto nos artigos 3.º, n.º 4, e 7.º do Decreto-Lei n.º 69/90, de 2 de Março, com as alterações introduzidas pelo Decreto-Lei n.º 155/97, de 24 de Junho, e da delegação de competências conferida pelo despacho n.º 48/96 do Ministro do Equipamento, do Planeamento e da Administração do Território, publicado no Diário da República, 2.ª série, n.º 69, de 21 de Março de 1996:
+Manda o Governo, pelo Secretário de Estado da Administração Local e Ordenamento do Território, que seja ratificada a prorrogação do prazo de vigência das medidas preventivas estabelecidas para a área a abranger pelo Plano de Urbanização da Zona Urbana da Régua - Godim, ratificadas pela Portaria n.º 234/96, de 28 de Junho, publicada no Diário da República, 1.ª série-B, n.º 148, de 28 de Junho de 1996, por mais um ano, com efeitos reportados a 29 de Julho de 1998.
+Ministério do Equipamento, do Planeamento e da Administração do Território.
+Assinada em 26 de Agosto de 1998.
+O Secretário de Estado da Administração Local e do Ordenamento do Território, José Augusto de Carvalho.
