@@ -1,0 +1,59 @@
+Portaria n.º 502/87
+de 22 de Junho
+Sob proposta do conselho científico do Instituto Superior Técnico, da Universidade Técnica de Lisboa;
+Ao abrigo do disposto nos Decretos-Leis n.os 173/80, de 29 de Maio, e 263/80, de 7 de Agosto, e no capítulo III do Decreto-Lei n.º 316/83, de 2 de Julho:
+Manda o Governo da República Portuguesa, pelo Ministro da Educação e Cultura, aprovar o seguinte:
+1.º
+Criação
+A Universidade Técnica de Lisboa, através do Instituto Superior Técnico, concede o grau de mestre em Transportes.
+2.º
+Organização do curso
+O curso especializado conducente ao mestrado em Transportes, adiante simplesmente designado «curso», organiza-se pelo sistema de unidades de crédito.
+3.º
+Área científica
+A área científica do curso é a de Transportes.
+4.º
+Áreas científicas e unidades de crédito
+As áreas científicas obrigatórias e as unidades de crédito necessárias à conclusão do curso distribuem-se da seguinte forma:
+a) Métodos Matemáticos ... 4
+b) Tecnologias de Transporte ... 4
+c) Enquadramento dos Sistemas de Transporte ... 4
+d) Planeamento e Gestão de Sistemas de Transportes ... 6,5
+e) Políticas de Transporte ... 3,5
+Total ... 22
+5.º
+Duração normal
+A duração normal do curso é de dois semestres lectivos.
+6.º
+Habilitações de acesso
+1 - São admitidos à candidatura à matrícula no curso os titulares de licenciaturas nas áreas de Engenharia, Economia e Gestão ou os titulares de habilitações legalmente equivalentes, com a classificação mínima de 14 valores.
+2 - Excepcionalmente, em casos devidamente justificados, o conselho científico poderá admitir à candidatura à matrícula candidatos cujo currículo demonstre uma adequada preparação científica de base, embora nas licenciaturas referidas no n.º 1 tenham classificação inferior a 14 valores.
+3 - Cabe ao conselho científico definir quais os cursos a incluir nas áreas referidas no n.º 1.
+7.º
+«Numerus clausus»
+1 - A matrícula e a inscrição no curso estão sujeitas a limitações quantitativas, a fixar anualmente por despacho do reitor da Universidade, ao abrigo do disposto na alínea e) do artigo 2.º do Decreto-Lei n.º 323/84, de 9 de Outubro, sob proposta do conselho científico.
+2 - O despacho a que se refere o n.º 1 estabelecerá ainda:
+a) Qual a percentagem do numerus clausus que será reservada prioritariamente a docentes de estabelecimentos de ensino superior;
+b) Qual o número mínimo de inscrições indispensável ao funcionamento do curso.
+3 - O despacho a que se refere o n.º 1 deverá ser publicado na 2.ª série do Diário da República antes do início do prazo de candidatura.
+8.º
+Critérios de selecção
+1 - Os candidatos à matrícula no curso serão seleccionados pelo conselho científico, tendo em atenção os seguintes critérios:
+a) Currículo académico e científico;
+b) Currículo profissional;
+c) Classificação da licenciatura a que se refere o n.º 6 ou de outros graus já obtidos pelo candidato.
+2 - O conselho científico poderá submeter os candidatos à matrícula a provas académicas de selecção para avaliação do nível daqueles nas áreas científicas de base correspondentes ao curso, bem como determinar a obrigatoriedade de frequência com aproveitamento de determinadas disciplinas do elenco de licenciaturas ou outras, como condição prévia para a candidatura à matrícula no curso.
+3 - Os candidatos a que se refere o n.º 2 do n.º 6.º só serão considerados após a selecção dos candidatos a que se refere o n.º 1 do mesmo número.
+4 - A selecção a que se refere o presente número será feita pelo conselho científico, de cuja decisão não cabe recurso, salvo se arguida de vício de forma.
+9.º
+Prazos e calendário lectivo
+Os prazos de candidatura, matrícula e inscrição, bem como o calendário lectivo, serão fixados pelo reitor através do despacho a que se refere o n.º 1 do n.º 7.º
+10.º
+Regime geral
+As regras de matrícula e inscrição, bem como o regime de faltas, de avaliação de conhecimentos e de classificação para as disciplinas que integram o curso, serão as previstas na lei para os cursos de licenciatura, naquilo em que não forem contrariadas pelo disposto na presente portaria e pela natureza do curso.
+11.º
+Início de funcionamento
+O início de funcionamento do curso ficará dependente de autorização expressa do Ministro da Educação e Cultura, exarada sobre relatório da Universidade Técnica de Lisboa comprovativo da existência da totalidade dos recursos humanos e materiais necessários à sua completa concretização.
+Ministério da Educação e Cultura.
+Assinada em 24 de Maio de 1987.
+Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.
