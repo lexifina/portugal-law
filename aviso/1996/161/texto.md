@@ -1,0 +1,43 @@
+Aviso n.º 161/96
+Por ordem superior se torna público que, por nota de 18 de Abril de 1996 e nos termos do artigo 32.º da Convenção Europeia de Extradição, aberta à assinatura em Paris em 13 de Dezembro de 1957, a Secretaria-Geral do Conselho da Europa notificou ter Malta, em 19 de Março de 1996, assinado e depositado o seu instrumento de ratificação da mencionada Convenção, com as seguintes reservas:
+«Article 1 - Malta reserves the right to grant a request for the extradition of a person accused of an offence only where the court of committal is satisfied, after hearing any evidence tendered in support of the request for the return of that person or on behalf of that person, that the evidence would be sufficient to warrant his trial for that offence if it had been committed within the jurisdiction of the Courts of Criminal Justice of Malta. A person convicted of an offence in his absence shall be treated as a person accused of that offence.
+Malta reserves the right, when granting extradition, to stipulate that the extradited person shall not be prosecuted for the offence in question in a court which is only provisionally, or under exceptional circumstances, empowered to deal with such offences. Extradition requested for the execution of a sentence rendered by such special court may be refused.
+Malta reserves the right to apply the Convention in accordance with section 20 of chapter 276 of the Laws of Malta (The Extradition Act, 1978), which section reads as follows:
+'On an appeal made to the Court of Criminal Appeal or an application for redress to the Constitutional Court under section 46 of the Constitution of Malta, either of the said Courts may, without prejudice to any other jurisdiction, order the person committed to be discharged from custody if it appears to such Court that:
+a) By reason of the trivial nature of the offence of which he is accused or was convicted; or
+b) By reason of the passage of time since he is alleged to have committed it or to have become unlawfully at large, as the case may be; or
+c) Because the accusation against him is not made in good faith in the interests of justice; it would, having regard to all circumstances, be unjust or oppressive to return him.'
+Article 3 - Malta reserves the right to apply paragraph 3 of this article in accordance with section 10 (5) of the Extradition Act, which reads as follows:
+'For the purposes of this section, an offence against the life or person of a Head of State, or any related offence described in subsection (3) of section 5 of this Act, shall not necessarily be deemed to be an offence of a political character.'
+Article 9 - Malta reserves the right to apply this article in accordance with the rule of non bis in idem as laid down in section 527 of the Criminal Code (chapter 9 of the Laws of Malta), which reads as follows:
+'Where in a trial, judgement is given acquitting the person charged or accused, it shall not be lawful to subject such person to another trial for the same fact.'
+Article 18 - Malta reserves the right to apply the provisions set out in paragraphs 4 and 5 of this article in accordance with section 24 of the Extradition Act (chapter 276 of the Laws of Malta), which reads as follows:
+'(1) If any persons committed to await his return is in custody in Malta under this Act after the expiration of the following period is to say:
+(a) In any case, the period of two months beginning with the first day on which, having regard to subsection (2) of section 21 of this Act, he could have been returned;
+(b) Where a warrant for his return has been issued under section 21 of this Act, the period of one month beginning with the day on which that warrant was issued;
+he may apply to the Court of Criminal Appeal, sitting as a court of appeal from judgements of the Court of Judicial Police, for his discharge.
+(2) If upon any such application the court is satisfied that reasonable notice of the proposed application has been given to the minister, the court may, unless sufficient cause is shown to the contrary, by order direct the applicant to be discharged from custody, and if a warrant for his return has been issued under the said section squash that warrant.'
+Article 21 - Malta reserves the right to grant such transit under this article only in so far as transit is permissible under its own laws.»
+Tradução
+Artigo 1.º Malta reserva-se o direito de dar seguimento a um pedido de extradição de uma pessoa acusada de uma infracção apenas quando o tribunal rogado constate, depois de examinadas todas as provas apresentadas em apoio do pedido de entrega dessa pessoa ou em nome dessa pessoa, que a prova seria suficiente para fundamentar o seu julgamento se a infracção tivesse sido cometida no quadro da jurisdição dos tribunais criminais de Malta. Uma pessoa condenada à revelia será tratada como uma pessoa acusada dessa infracção.
+Malta reserva-se o direito, quando conceder a extradição, de estipular que o extraditado não poderá ser processado pela infracção em questão num tribunal que só provisoriamente ou em circunstâncias especiais é competente para julgar tais infracções. A extradição pedida para a execução de uma pena decretada por um tal tribunal especial poderá ser recusada.
+Malta reserva-se o direito de aplicar a Convenção de harmonia com a secção 20 do capítulo 276 das Leis de Malta (o Extradition Act, 1978), em cuja secção se lê o seguinte:
+«Num recurso para o Tribunal de Recurso Criminal ou num requerimento para o Tribunal Constitucional nos termos da secção 46 da Constituição de Malta, qualquer dos referidos Tribunais pode, sem prejuízo de qualquer outra jurisdição, ordenar que a pessoa acusada seja posta em liberdade se se afigurar que a esse Tribunal que:
+a) Em razão da natureza insignificante da infracção de que vem acusada ou foi condenada; ou
+b) Em razão do decurso do tempo desde que alegadamente a cometeu ou ficou ilegalmente em liberdade, conforme o caso; ou
+c) Porque a acusação contra a pessoa não foi feita de boa fé no interesse da justiça;
+seria, tendo em conta todas as circunstâncias, injusto ou opressivo entregá-la.»
+Artigo 3.º - Malta reserva-se o direito de aplicar o parágrafo 3 deste artigo de harmonia com a secção 10 (5) do Extradition Act, onde se lê o seguinte:
+«Para os efeitos da presente secção, uma infracção contra a vida ou a pessoa de um chefe de Estado, ou qualquer infracção relacionada descrita na subsecção (3) da secção 5 desta lei, não configurará necessariamente uma infracção de carácter político.»
+Artigo 9.º Malta reserva-se o direito de aplicar este artigo de harmonia com o princípio non bis in idem, conforme consagrado na secção 527 do Código Criminal (capítulo 9 das Leis de Malta), onde se lê o seguinte:
+«Quando num julgamento, uma sentença é proferida absolvendo a pessoa condenada ou acusada, não será legal sujeitar tal pessoa a outro julgamento pelo mesmo facto.»
+Artigo 18.º Malta reserva-se o direito de aplicar as disposições contidas nos parágrafos 4 e 5 deste artigo de harmonia com a secção 24 do Extradition Act (capítulo 276 das Leis de Malta), onde se lê o seguinte:
+«(1) Se uma pessoa obrigada a aguardar a sua entrega se encontra detida em Malta segundo a presente lei, depois de expirados os prazos seguintes:
+(a) Em qualquer caso, o prazo de dois meses a contar da data em que, tendo em atenção o disposto na subsecção (2) da secção 21 da presente lei, ela poderia ter sido entregue;
+(b) Quando um mandado para a sua entrega tenha sido emitido nos termos da secção 21 da presente lei, o prazo de um mês a contar da data em que esse mandado foi emitido;
+ela pode recorrer para o Tribunal de Recurso Criminal, reunido como tribunal de recurso de sentenças do Tribunal de Polícia Judicial, para a sua soltura.
+(2) Se nesse recurso o tribunal concluir que, em tempo razoável, foi dado conhecimento do proposto recurso ao ministro, o tribunal, salvo se se apresentar suficiente causa para o contrário, pode ordenar a soltura do recorrente e, se um mandado com vista à extradição tiver sido emitido nos termos da presente secção, anular esse mandado.»
+Artigo 21.º Malta reserva-se o direito de conceder trânsito nos termos deste artigo apenas na medida em que o trânsito seja permitido segundo as suas leis.
+A Convenção entrará em vigor para Malta em 17 de Junho de 1996.
+Portugal é parte na mesma Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 23/89, de 21 de Agosto, tendo depositado o seu instrumento de ratificação conforme aviso publicado no Diário da República, 1.ª série, n.º 76, de 31 de Março de 1990, com uma declaração e reservas.
+Departamento de Assuntos Jurídicos, 28 de Maio de 1996. - O Director, José Maria Teixeira Leite Martins.
