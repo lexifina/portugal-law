@@ -1,0 +1,5 @@
+Portaria n.º 20446
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, conjugado com a alínea e) do artigo 3.º do mesmo diploma, com a nova redacção dada pelo artigo 4.º do Decreto n.º 40712, de 1 de Agosto de 1956, abrir um crédito especial de 4000000$00, destinado a reforçar a verba do capítulo 1.º, artigo 9.º «Dívida da província - Para pagamento dos encargos criados pelo Decreto-Lei n.º 42817, de 25 de Janeiro de 1960», da tabela de despesa ordinária do orçamento geral da província de Moçambique para 1963, tomando como contrapartida igual importância a sair do excesso de cobrança sobre a previsão da receita do capítulo 1.º, artigo 6.º «Impostos directos gerais - Imposto de rendimento», do orçamento da receita para o mesmo ano.
+Ministério do Ultramar, 18 de Março de 1964. - Pelo Ministro do Ultramar, Joaquim Moreira da Silva Cunha, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Moçambique. - Silva Cunha.
