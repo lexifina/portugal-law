@@ -1,0 +1,28 @@
+Portaria n.º 741/84
+de 21 de Setembro
+Considerando que, nos termos do disposto na Portaria n.º 996/83, de 28 de Novembro, somente as promoções aos postos mais elevados que possam ser alcançados por um oficial de determinado quadro se processem por escolha;
+Tornando-se necessário alterar em conformidade a Portaria n.º 576/77, de 15 de Setembro, que regulamenta o sistema de promoções dos oficiais do Exército;
+Convindo, ainda, actualizar a designação dos quadros referidos no n.º 5 da mesma portaria, de acordo com a terminologia dos Decretos-Leis n.os 242/81 e 243/81, ambos de 20 de Agosto, e corrigir o n.º 8.1, de acordo com a redacção do artigo 70.º do mesmo EOE.
+Nos termos do disposto na alínea e) do n.º 2 do artigo 14.º da Lei n.º 29/82, de 11 de Dezembro:
+Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, o seguinte:
+1.º Os n.os 5, 6, 7 e 8.1 da Portaria n.º 576/77, de 15 de Setembro, passam a ter a seguinte redacção:
+5 - Para efeitos de promoção ao posto de major:
+5.1 - São apreciados os capitães que se encontrem no terço superior da escala dos capitães, ordenada por antiguidade, excepto os pertencentes aos serviços técnicos de manutenção de material do quadro do serviço de material, cuja apreciação incidirá sobre os que, como tenentes, se inscreviam no terço superior da respectiva escala de antiguidade.
+5.2 - À escolha atribui-se:
+a) 25% das vagas nos quadros das armas de infantaria, artilharia, cavalaria e engenharia, oficiais de transmissões do quadro da arma de transmissões, quadros dos serviços de administração militar e de saúde e oficiais de material do quadro do serviço de material;
+b) Um terço das vagas para os oficiais dos serviços técnicos de exploração e manutenção das transmissões do quadro das armas de transmissões, oficiais dos serviços técnicos de manutenção de material do quadro do serviço de material e nos quadros do serviço geral do Exército e das bandas e fanfarras do Exército.
+6 - Para efeitos de promoção ao posto de tenente-coronel:
+6.1 - São apreciados os majores que se encontrem no terço superior da escala, ordenada por antiguidade.
+6.2 - À escolha atribui-se:
+a) Um terço das vagas nos quadros das armas de infantaria, artilharia, cavalaria e engenharia, oficiais de transmissões da arma de transmissões, quadros do serviço de administração militar e do serviço de saúde, e para os oficiais de material do quadro do serviço de material;
+b) 100% das vagas para os oficiais dos serviços técnicos de exploração e manutenção das transmissões do quadro da arma de transmissões, oficiais dos serviços técnicos de manutenção de material do quadro do serviço de material e nos quadros do serviço geral do Exército e das bandas e fanfarras do Exército.
+7 - Para efeitos de promoção ao posto de coronel:
+7.1 - São apreciados os tenentes-coronéis que se encontrem na metade superior da escala, ordenada por antiguidade.
+7.2 - À escolha atribui-se:
+a) 50% das vagas nos quadros das armas de infantaria, artilharia, cavalaria e engenharia, oficiais de transmissões da arma de transmissões, quadro do serviço de administração militar, ramo de medicina do quadro do serviço de saúde, e para os oficiais de material do quadro do serviço de material;
+b) 100% das vagas nos ramos de farmácia e veterinária do quadro do serviço de saúde e no QEO.
+8.1 - As listas referidas no n.º 4 do artigo 70.º do Decreto-Lei n.º 176/71, de 30 de Abril (Estatuto do Oficial do Exército), são elaboradas pelas direcções das armas e serviços em Outubro de cada ano, sendo as faixas de apreciação dos oficiais determinadas com referência a 30 de Junho.
+2.º A presente portaria produz efeitos desde 1 de Janeiro de 1984.
+Ministério da Defesa Nacional.
+Assinada em 27 de Agosto de 1984.
+O Ministro da Defesa Nacional, Carlos Alberto da Mota Pinto.
