@@ -1,0 +1,3 @@
+Despacho
+Nos termos do artigo 14.º, n.º 5, da Lei Constitucional n.º 3/74, de 14 de Maio, e considerando a actual orgânica do Governo Provisório, encarrego o Ministro sem pasta Dr. Magalhães Mota de superintender e de despachar nos assuntos de administração relativos aos seguintes serviços dependentes da Presidência do Conselho de Ministros: Secretaria-Geral, Secretaria-Geral da Presidência da República, Secretaria-Geral da Assembleia Nacional e da Câmara Corporativa, Serviços Sociais e 1.ª Delegação da Direcção-Geral da Contabilidade Pública.
+Presidência do Conselho de Ministros, 24 de Julho de 1974. - O Primeiro Ministro, Vasco dos Santos Gonçalves.
