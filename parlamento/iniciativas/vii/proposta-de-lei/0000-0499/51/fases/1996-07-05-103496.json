@@ -1,0 +1,842 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "51",
+    "id": "5415",
+    "titulo": "Aprova a lei de bases do Tribunal de Contas"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1996-07-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1364",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1996-07-05",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1996-07-05",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1490",
+                "nome": "João Carlos da Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43164",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3203-3203"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-06",
+                "pubLeg": "VII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/093/1996-07-06/3203?pgs=3203&org=PLC"
+              }
+            ],
+            "sumario": "APROVA A LEI DE BASES DO TRIBUNAL DE CONTAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43165",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3203-3203"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-06",
+                "pubLeg": "VII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/093/1996-07-06/3203?pgs=3203&org=PLC"
+              }
+            ],
+            "sumario": "APROVA A LEI DE BASES DO TRIBUNAL DE CONTAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANCAS",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Sousa Franco"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43166",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3201-3203"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-06",
+                "pubLeg": "VII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/093/1996-07-06/3201?pgs=3201-3203&org=PLC"
+              }
+            ],
+            "sumario": "APROVA A LEI DE BASES DO TRIBUNAL DE CONTAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43167",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3200-3200"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-06",
+                "pubLeg": "VII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/093/1996-07-06/3200?pgs=3200&org=PLC"
+              }
+            ],
+            "sumario": "APROVA A LEI DE BASES DO TRIBUNAL DE CONTAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "613",
+                "nome": "António Lobo Xavier"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43168",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3199-3200",
+                  "3201-3201"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-06",
+                "pubLeg": "VII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/093/1996-07-06/3199?pgs=3199-3200,3201&org=PLC"
+              }
+            ],
+            "sumario": "APROVA A LEI DE BASES DO TRIBUNAL DE CONTAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43169",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3198-3199"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-06",
+                "pubLeg": "VII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/093/1996-07-06/3198?pgs=3198-3199&org=PLC"
+              }
+            ],
+            "sumario": "APROVA A LEI DE BASES DO TRIBUNAL DE CONTAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43170",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3197-3197"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-06",
+                "pubLeg": "VII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/093/1996-07-06/3197?pgs=3197&org=PLC"
+              }
+            ],
+            "sumario": "APROVA A LEI DE BASES DO TRIBUNAL DE CONTAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1490",
+                "nome": "João Carlos da Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43171",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3196-3197",
+                  "3198-3198",
+                  "3203-3203"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-06",
+                "pubLeg": "VII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/093/1996-07-06/3196?pgs=3196-3197,3198,3203&org=PLC"
+              }
+            ],
+            "sumario": "APROVA A LEI DE BASES DO TRIBUNAL DE CONTAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43172",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3194-3195"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-06",
+                "pubLeg": "VII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/093/1996-07-06/3194?pgs=3194-3195&org=PLC"
+              }
+            ],
+            "sumario": "APROVA A LEI DE BASES DO TRIBUNAL DE CONTAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43173",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3192-3194",
+                  "3195-3196",
+                  "3203-3203"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-06",
+                "pubLeg": "VII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/093/1996-07-06/3192?pgs=3192-3194,3195-3196,3203&org=PLC"
+              }
+            ],
+            "sumario": "APROVA A LEI DE BASES DO TRIBUNAL DE CONTAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43174",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3192-3192"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-06",
+                "pubLeg": "VII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/093/1996-07-06/3192?pgs=3192&org=PLC"
+              }
+            ],
+            "sumario": "APROVA A LEI DE BASES DO TRIBUNAL DE CONTAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43175",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3189-3190"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-06",
+                "pubLeg": "VII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/093/1996-07-06/3189?pgs=3189-3190&org=PLC"
+              }
+            ],
+            "sumario": "APROVA A LEI DE BASES DO TRIBUNAL DE CONTAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "319",
+                "nome": "Manuela Ferreira Leite"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43176",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3189-3189"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-06",
+                "pubLeg": "VII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/093/1996-07-06/3189?pgs=3189&org=PLC"
+              }
+            ],
+            "sumario": "APROVA A LEI DE BASES DO TRIBUNAL DE CONTAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "613",
+                "nome": "António Lobo Xavier"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43177",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3188-3189"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-06",
+                "pubLeg": "VII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/093/1996-07-06/3188?pgs=3188-3189&org=PLC"
+              }
+            ],
+            "sumario": "APROVA A LEI DE BASES DO TRIBUNAL DE CONTAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43178",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3187-3188"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-06",
+                "pubLeg": "VII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/093/1996-07-06/3187?pgs=3187-3188&org=PLC"
+              }
+            ],
+            "sumario": "APROVA A LEI DE BASES DO TRIBUNAL DE CONTAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "13:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANCAS",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Sousa Franco"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "43179",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3182-3187",
+                  "3190-3192"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-06",
+                "pubLeg": "VII",
+                "pubNr": "93",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/093/1996-07-06/3182?pgs=3182-3187,3190-3192&org=PLC"
+              }
+            ],
+            "sumario": "APROVA A LEI DE BASES DO TRIBUNAL DE CONTAS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "103496",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1364",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1996-07-06",
+        "pubLeg": "VII",
+        "pubNr": "93",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/093/1996-07-06?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
