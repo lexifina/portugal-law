@@ -1,0 +1,3 @@
+Despacho Normativo n.º 115/79
+Tendo suscitado dúvidas o preceituado no n.º 3 do artigo 2.º do Decreto-Lei n.º 3/79, de 11 de Janeiro, esclarece-se, ao abrigo do disposto no artigo 4.º do mesmo diploma, que as gratificações de chefia fixadas no n.º 1 do artigo 1.º do mesmo diploma são, nos quantitativos nele previstos, consideradas no abono dos subsídios de férias e de Natal, com a excepção prevista no referido n.º 3 do artigo 2.º
+Presidência do Conselho de Ministros e Ministério das Finanças e do Plano, 16 de Maio de 1979. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.
