@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1925/04/07800/03890389.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1925-04-11",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "9aec62b25cd6ee57e069640c6355897c5ed8112ea9b790c0ac68aa0403dd4c6a",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.6,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "e811dd95f7295fe8dbae5392d26c63d4517981f5ba09d347bd431e5f6b078e78",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 138
 }
