@@ -1,0 +1,14 @@
+Resolução do Conselho de Ministros n.º 92/2004
+A EPCOS - Peças e Componentes Electrónicos, S. A., com sede em Évora, é detida pela empresa alemã EPCOS, A. G., e integra o maior grupo europeu e segundo ao nível mundial de produção de componentes passivos para a indústria electrónica, tendo como principais clientes os maiores fabricantes mundiais de equipamentos eléctricos e electrónicos.
+A EPCOS decidiu implementar em Portugal um novo projecto de investimento que lhe permitirá diversificar a sua actividade e produzir, em larga escala, condensadores de tântalo de última geração, com o recurso a uma nova tecnologia baseada na utilização de polímeros condutores, potenciando o desenvolvimento e a consolidação da empresa em Portugal.
+No âmbito deste projecto, a EPCOS propõe-se ainda desenvolver a significativa e crescente cooperação que tem vindo a manter com os centros de insvestigação de diversas universidades portuguesas.
+O investimento, a concluir até final de 2006, ronda os 21 milhões de euros, dos quais cerca de 3 milhões de euros se destinam a formação profissional.
+Está prevista a criação, até 2007, de 50 novos postos de trabalho.
+O volume de vendas estimado para 2007, decorrente do projecto, ascende a cerca de 31 milhões de euros, totalmente destinados à exportação.
+O impacte macroeconómico do investimento é significativo, estimando-se, ao nível de balança de bens e serviços, a obtenção, até 2011, de um valor acumulado de cerca de 49 milhões de euros.
+Deste modo, considera-se que este projecto, pelo seu mérito e relevância excepcional, demonstra especial interesse para a economia nacional e reúne as condições necessárias à admissão ao regime contratual e à concessão de incentivos financeiros e fiscais previstos para grandes projectos de investimento.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Aprovar a minuta do contrato de investimento e respectivos anexos a celebrar entre o Estado Português, representado pela Agência Portuguesa para o Insvestimento, E. P. E., a EPCOS, A. G., e a EPCOS - Peças e Componentes Electrónicos, S. A., para a realização do projecto de investimento que tem por objecto a modernização da unidade industrial desta última em Évora, ficando o original do contrato arquivado na Agência Portuguesa para o Investimento.
+2 - Atento o disposto no n.º 1 do artigo 39.º do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de Julho, na redacção que lhe foi dada pelo Decreto-Lei n.º 198/2001, de 3 de Julho, ao abrigo da Lei n.º 109-B/2001, de 27 de Dezembro, e no Decreto-Lei n.º 409/99, de 15 de Outubro, sob proposta da Ministra de Estado e das Finanças, conceder os benefícios fiscais em sede de IRC e de imposto do selo que constam do contrato de investimento e do contrato de concessão de benefícios fiscais.
+Presidência do Conselho de Ministros, 24 de Junho de 2004. - O Primeiro-Ministro, José Manuel Durão Barroso.
