@@ -1,0 +1,8 @@
+Decreto-Lei n.º 45708
+Pelo Decreto-Lei n.º 45234, de 7 de Setembro de 1963, foi fixado até final do ano corrente o prazo de execução do plano de aquisição de mobiliário e equipamento para o Centro de Reabilitação de Diminuídos Motores, em Alcoitão, a que a Santa Casa da Misericórdia de Lisboa está a proceder, através da Comissão Administrativa de Obras, sob a orientação do Ministério das Obras Públicas.
+Reconhece-se porém, não ser possível concluir dentro deste prazo a execução do plano, que há que subordinar ao desenvolvimento efectivo da obra a que diz respeito.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. É prorrogado até 31 de Dezembro de 1965 o prazo de execução do plano de aquisição de mobiliário e equipamento para o Centro de Reabilitação de Diminuídos Motores, em Alcoitão, estabelecido no artigo único do Decreto-Lei n.º 45234, de 7 de Setembro de 1963.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 4 de Maio de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
