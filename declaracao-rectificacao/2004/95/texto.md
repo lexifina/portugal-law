@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 95/2004
+Segundo comunicação do Ministério da Segurança Social, da Família e da Criança, a Declaração n.º 11/2004, publicada no Diário da República, 1.ª série, n.º 212, de 8 de Setembro de 2004, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões que assim se rectificam:
+No mapa X, «Receitas da segurança social por classificação económica», relativamente à designação, «Contribuições para a segurança social» na col. «Orçamento revisto - 2003», onde se lê «10516212159,89» deve ler-se «10516212169,89» e nas designações, «Subsistema previdencial» e «Receitas de capital», na col. «OSS - 2003», onde se lê, respectivamente, «10515269586,89» e «1293997994» deve ler-se «10515259586,89» e «1293997949», respectivamente.
+Secretaria-Geral da Presidência do Conselho de Ministros, 20 de Outubro de 2004. - O Secretário-Geral, José M. Sousa Rego.
