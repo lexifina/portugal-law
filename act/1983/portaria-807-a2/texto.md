@@ -1,0 +1,78 @@
+Portaria n.º 807-A2/83
+de 30 de Julho
+O ensino superior politécnico criado pelo Decreto-Lei n.º 427-B/77, de 14 de Outubro, ratificado com emendas pela Lei n.º 61/78, de 28 de Julho, preconiza a criação de escolas superiores técnicas com a finalidade de formar técnicos qualificados de nível superior no âmbito da produção agrícola, pecuária e florestal, da tecnologia dos produtos alimentares e industriais, de gestão e contabilidade, da saúde e do jornalismo e promoverá a investigação e desenvolvimento experimental, estabelecendo a ligação do ensino com as actividades produtivas e sociais, colaborando de forma continuada e activa no desenvolvimento cultural das áreas em que se insere, de modo a contribuir para a resolução de problemas preferencialmente de carácter regional.
+Consequentemente, o ensino superior politécnico deverá ser tratado com a especificidade própria a cursos que se pretendem com a tónica acentuadamente profissionalizante sem que tal facto obste a uma adequada preparação de base.
+O Decreto-Lei n.º 513-T/79, de 26 de Dezembro, ratificado com emendas pela Lei n.º 29/80, de 28 de Julho, cria as escolas superiores agrárias em diferentes localidades. Os cursos da Escola Superior Agrária de Coimbra foram criados pelo Decreto n.º 2/82, de 2 de Janeiro, sendo remetidos para portaria a definição dos planos e o regime de estudo.
+Encontram-se agora satisfeitas as condições indispensáveis à definição e aprovação dos planos e regimes de estudos dos cursos de bacharelato em Produção Agrícola e Produção Animal, nomeadamente através da aplicação destes planos de estudo, cujos currículos, lançados no ano lectivo de 1981-1982, foram experimentados e avaliados.
+Logo que publicado o diploma legal que regule a aplicação do sistema de unidades de crédito ao ensino superior politécnico, promover-se-á o estudo da aplicação desse regime aos cursos regulados pelo presente diploma.
+Nestes termos:
+Tendo em vista o disposto no Decreto n.º 2/82, de 2 de Janeiro;
+Ao abrigo do artigo 4.º do Decreto-Lei n.º 303/80, de 16 de Agosto:
+Manda o Governo da República Portuguesa, pelo Ministro da Educação, o seguinte:
+1.º
+(Planos de estudos)
+1 - Os planos de estudo dos cursos de bacharelato em Produção Agrícola e Produção Animal, da Escola Superior Agrária de Coimbra, são os constantes dos anexos I e II desta portaria.
+2 - Os planos referidos no n.º 1 encontram-se em vigor desde o ano lectivo de 1981-1982, em aplicação progressiva ano a ano.
+2.º
+(Trabalho de fim de curso)
+1 - No decurso do último ano do curso os alunos realizarão um trabalho de fim de curso, que terá como objectivo profissionalizá-los nas áreas das disciplinas de aplicação.
+2 - O trabalho terá a duração mínima de 280 horas em situação profissional.
+3 - O regulamento do trabalho de fim de curso será aprovado por despacho do Ministro da Educação, sob proposta conjunta do conselho científico e da comissão instaladora.
+3.º
+(Língua estrangeira)
+Os alunos inscritos nos cursos deverão frequentar com assiduidade e aproveitamento uma disciplina de língua estrangeira, em moldes a fixar pelo conselho científico.
+4.º
+(Precedências)
+A tabela e o regime de precedências serão fixados pelo conselho científico.
+5.º
+(Bacharelato em Produção Agrícola)
+São condições para a concessão do grau de bacharel em Produção Agrícola:
+a) A aprovação na totalidade das disciplinas que integram o plano de estudo descrito no anexo I;
+b) A realização com aproveitamento do trabalho a que se refere o n.º 2.º;
+c) A satisfação das condições referidas no n.º 3.º
+6.º
+(Bacharelato em Produção Animal)
+São condições para a concessão do grau de bacharel em Produção Animal:
+a) A aprovação na totalidade das disciplinas que integram o plano de estudo descrito no anexo II;
+b) A realização com aproveitamento do trabalho a que se refere o n.º 2.º;
+c) A satisfação das condições referidas no n.º 3.º
+7.º
+(Classificação final)
+A classificação final é a média aritmética ponderada arredondada às unidades (considerando-se como unidade a fracção não inferior a cinco décimas) das classificações das disciplinas e do trabalho de fim de curso a que se referem os n.os 1.º e 2.º
+2 - Os coeficientes de ponderação são fixados pelo conselho científico.
+8.º
+(Regime geral)
+As regras de matrícula e inscrição, bem como o regime de faltas, de avaliação de conhecimentos e de classificação para as disciplinas que integram o curso, serão as previstas na lei para o ensino superior universitário naquilo em que não forem contrariadas pelo disposto na presente portaria e pela natureza do curso.
+9.º
+(Título profissional)
+1 - A comissão coordenadora das escolas superiores técnicas apresentará ao Ministério da Educação proposta fundamentada acerca do título profissional a atribuir aos bacharéis em Produção Agrícola e Produção Animal e condições para a sua concessão.
+2 - O Ministério da Educação promoverá a aprovação do título profissional pelas entidades competentes.
+Ministério da Educação.
+Assinada em 7 de Junho de 1983.
+Pelo Ministro da Educação, Alberto Romão Dias, Secretário de Estado do Ensino Superior.
+
+ANEXO I
+Curso de Produção Agrícola
+Grau: bacharelato
+QUADRO I
+1.º ano
+(ver documento original)
+QUADRO II
+2.º ano
+(ver documento original)
+QUADRO III
+3.º ano
+(ver documento original)
+
+ANEXO II
+Curso de Produção Animal
+Grau: bacharelato
+QUADRO I
+1.º ano
+(ver documento original)
+QUADRO II
+2.º ano
+(ver documento original)
+QUADRO III
+3.º ano
+(ver documento original)
