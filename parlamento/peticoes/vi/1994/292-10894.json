@@ -1,0 +1,179 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jvMQgL4qeojTXYc%2byhcz5p3ic3xODuK0iUO0Y2y2ClcTtFB9k3sD%2b9wQveZYSd8NZLsCb9yzJniqsFTagd7CbMNr9RiU3i%2bk3rmuobGx84PbCdMXEaO2tAt4ls9fukmsItoX60VYYqS8JyucRXeNK4DfI799g%2blbezfSJpZ8w7%2baZYMBqfv1VesnUx6bJSW47suQTEZztwlqhsheF%2fV6CayXq9XylkeKBdMS4k0WpFeGsJUrYs53Ga%2fzv4nbFZSlZiCimHdTEOsH%2b%2fNcwjWayb61QyVSstj3ODN9XM8DB46f%2bPQ7wSP1KSIrsnu6vc0NN5UqeG88nqFw4kPOlzPTpz7DVHur%2fsRBhn0B8NlVzMX2nw7jDBVCKY54B7pyG%2fWe&fich=PeticoesVI_json.txt&Inline=true",
+  "ficheiro_sha256": "a0b19d1767819df1af646741c024bf367ae6532369315672414b384340a05bf4",
+  "legislatura": "VI",
+  "id": "10894",
+  "numero": "292",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "1994-12-05",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "1997-06-05",
+            "dataResposta": null,
+            "entidades": [
+              "Ministério do Ambiente e Recursos Naturais"
+            ],
+            "nrOficio": "1023/COM",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "1998-06-25",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "1998-06-25",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "1999-01-22",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "11",
+        "Legislatura": "VII",
+        "Nome": "COMISSAO ADMINIST. DO TERRITORIO, P. LOCAL, EQ. SOC E AMBIENTE",
+        "NotasAdmissibilidade": null,
+        "Numero": "4",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "1997-02-12",
+            "gp": "PSD",
+            "id": "317",
+            "motivoCessacao": null,
+            "nome": "Teresa Patrício Gouveia"
+          }
+        ],
+        "RelatorioFinal": [
+          "21402"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "1995-05-29",
+            "dataResposta": null,
+            "entidades": [
+              "NIN. REC.NAT."
+            ],
+            "nrOficio": "OF 909/COM",
+            "pedidosReiteracao": [
+              {
+                "dataOficio": "1997-06-05",
+                "dataResposta": null,
+                "nrOficio": "OF 1023/COM",
+                "oficioResposta": null
+              }
+            ],
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": "1995-01-05",
+        "DataArquivo": "1998-06-25",
+        "DataBaixaComissao": "1996-03-19",
+        "DataEnvioPAR": null,
+        "DataReaberta": "1995-01-05",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "4",
+        "Legislatura": "VI",
+        "Nome": "COMISSÃO PETIÇÕES",
+        "NotasAdmissibilidade": null,
+        "Numero": "2",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": null,
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "10894",
+    "PetAssunto": "Manifestam-se contra a pretendida instalação no Litoral Alentejano de uma unidade incineradora ou de um aterro de resíduos industriais tóxicos e perigosos.",
+    "PetDataEntrada": "1994-12-05",
+    "PeticoesAssociadas": null,
+    "PetId": "10894",
+    "PetLeg": "VI",
+    "PetNr": "292",
+    "PetNrAssinaturas": "7224",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "4",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "169475",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1995-01-07",
+        "pubLeg": "VI",
+        "pubNr": "12",
+        "pubSL": "4",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/06/04/012/1995-01-07?org=PLC"
+      }
+    ]
+  }
+}
