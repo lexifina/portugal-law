@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ktYqpeS%2ft%2bZbliS4sHhftatFgOONJZv%2b0jwNSKIew1t0xo7wpSD4Wuod7wOpHm6JnVumY%2fcLg1QEJ6QuXOoI0mCZg8Now%2fNFrlqr4xaPyukQAb7VOIDJycUu8LgcqeBWkrLalvQbJNVVjYrmyeKurhYgJ88b%2bTAHUhqae0PG2tWw6wd9S%2fB1oSkkszdy9OWFhN3wUjxq5HmVweG9RQH09rl4k2N5tPgs%2fzprZm2tzFHnHSctshbR2DfX7RwTBfcB1zHFUq7rfF1ywAQTHCnkTEnmy8XmgIMFNpTZggbLiolv7UH6aQ9wXzrJpNDVBZQItckByiVODO72lKf0LysofiwVHTL6an5RgmBfpD1TjRRanKSw%2fu9%2bMNyeFb2ozzbOeEiwgdJpFNYQkXLYkgJujw%3d%3d&fich=RequerimentosIX_json.txt&Inline=true",
+  "ficheiro_sha256": "234acc6bf0a22a14e4ad1370daea559258a1b7960a20d3feebcabf91a9366690",
+  "legislatura": "IX",
+  "id": "25261",
+  "tipo": "Requerimento",
+  "numero": "85",
+  "data_registo": "2002-05-08",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Suspensão do projecto do Museu de Arte e Arqueologia do Vale do Côa e extinção do Instituto Português de Arqueologia (IPA)",
+    "Autores": [
+      {
+        "GP": "PS",
+        "idCadastro": "2256",
+        "nome": "Fernando Cabral"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1278",
+        "nome": "Augusto Santos Silva"
+      }
+    ],
+    "DataEnvio": "2002-05-10",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2002-05-10",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DA  CULTURA",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2002-07-09",
+            "docRemetida": null,
+            "entidade": "MIN.  DA  CULTURA",
+            "ficheiro": "",
+            "ficheiroComTipo": null,
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2002-05-08",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077764d7a6b774d7a45774d6a4d744d574931597930304f474d774c5749335a575174596a686b596d59305a474d34597a51304c6e426b5a673d3d&fich=39031023-1b5c-48c0-b7ed-b8dbf4dc8c44.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "25261",
+    "Legislatura": "IX",
+    "Nr": "85",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "270934",
+        "obs": "16-(4)",
+        "pag": [
+          "16-(4)-16-(4)"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2002",
+        "pubLeg": "IX",
+        "pubNr": "4",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/01/004S1/2002-05-18/16-(4)?pgs=16-(4)&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
