@@ -1,0 +1,6 @@
+Decreto-Lei n.º 43038
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo para valer como lei, o seguinte:
+Artigo 1.º É criada uma embaixada em Léopoldville.
+Art. 2.º As despesas de representação serão inscritas no orçamento de 1961 e as que por despacho do Ministro dos Negócios Estrangeiros hajam de ser pagas no corrente ano económico serão satisfeitas por força das disponibilidades existentes na dotação da alínea b) do n.º 1) do artigo 23.º, capítulo 3.º, do orçamento em vigor.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 30 de Junho de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
