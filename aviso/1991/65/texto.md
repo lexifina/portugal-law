@@ -1,0 +1,3 @@
+Aviso n.º 65/91
+Por ordem superior se faz público que o Governo do Reino da Arábia Saudita depositou, em 17 de Dezembro de 1990, junto do Governo da República Federal da Alemanha, o instrumento de aprovação da Convenção sobre a Conservação das Espécies Migratórias da Fauna Selvagem, tendo emitido uma reserva no sentido do não reconhecimento do Estado de Israel, pelo que não admitirá relações com aquele país no quadro da referida Convenção.
+Direcção-Geral dos Negócios Político-Económicos, 22 de Abril de 1991. - O Director de Serviços dos Assuntos Multilaterais, António Nunes de Carvalho Santana Carlos.
