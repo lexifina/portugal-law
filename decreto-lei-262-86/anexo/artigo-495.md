@@ -2,7 +2,7 @@
 
 ### (Projecto de contrato de subordinação)
 
-As administrações das sociedades que pretendam celebrar contrato de subordinação devem elaborar, em conjunto, um projecto donde constem, além de outros elementos necessários ou convenientes para o perfeito conhecimento da operação visada, tanto no aspecto jurídico como no económico:
+As administrações das sociedades que pretendam celebrar contrato de subordinação devem elaborar, em conjunto, um projecto donde constem, além de outros elementos necessários, os convenientes para o perfeito conhecimento da operação visada, tanto no aspecto jurídico como no económico:
 
 a) Os motivos, as condições e os objectivos do contrato relativamente às duas sociedades intervenientes;
 

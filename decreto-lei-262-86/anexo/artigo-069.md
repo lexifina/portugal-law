@@ -1,8 +1,8 @@
 # Artigo 69.º
 
-### Regime especial de invalidade das deliberações
+### (Regime especial de invalidade de deliberações)
 
-1 - A violação dos preceitos legais relativos à elaboração do relatório de gestão, das contas do exercício e de demais documentos de prestação de contas torna anuláveis as deliberações tomadas pelos sócios.
+1 - A violação dos preceitos legais relativos à elaboração e apresentação do relatório de gestão das contas do exercício e demais documentos de prestação de contas tornam anuláveis as deliberações tomadas pelos sócios.
 
 2 - É igualmente anulável a deliberação que aprove contas em si mesmas irregulares, mas o juiz, em casos de pouca gravidade ou fácil correcção, só decretará a anulação se as contas não forem reformadas no prazo que fixar.
 

@@ -15,5 +15,3 @@ a) A modalidade do aumento do capital;
 b) O montante do aumento do capital;
 
 c) As reservas que serão incorporadas no capital.
-
-5 - O disposto nos números anteriores não é aplicável durante a pendência de qualquer processo de reestruturação de empresas previsto no Código da Insolvência e da Recuperação de Empresas.

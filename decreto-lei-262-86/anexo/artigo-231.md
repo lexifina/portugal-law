@@ -8,7 +8,7 @@
 
 a) Se for omitida a proposta referida no número anterior;
 
-b) Se a proposta e a aceitação não respeitarem a forma escrita e o negócio não for celebrado por escrito nos 60 dias seguintes à aceitação, por causa imputável à sociedade;
+b) Se o negócio proposto não for efectivado dentro dos 60 dias seguintes à aceitação;
 
 c) Se a proposta não abranger todas as quotas para cuja cessão o sócio tenha simultaneamente pedido o consentimento da sociedade;
 

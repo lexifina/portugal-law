@@ -2,7 +2,7 @@
 
 ### (Pendência da amortização ou aquisição)
 
-1 - A amortização ou a aquisição da quota do sócio falecido efectuada de acordo com o prescrito nos artigos anteriores retrotrai os seus efeitos à data do óbito.
+1 - A amortização ou a aquisição da quota do sócio falecido efectuada de acordo com o prescrito nos artigos anteriores retrotai os seus efeitos à data do óbito.
 
 2 - Os direitos e obrigações inerentes à quota ficam suspensos enquanto não se efectivar a amortização ou aquisição dela nos termos previstos nos artigos anteriores ou enquanto não decorrerem os prazos ali estabelecidos.
 

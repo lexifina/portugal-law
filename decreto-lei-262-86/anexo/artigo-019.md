@@ -2,15 +2,15 @@
 
 ### (Assunção pela sociedade de negócios anteriores ao registo)
 
-1 - Com o registo definitivo do contrato, a sociedade assume de pleno direito:
+1 - Com o registo definitivo do contrato a sociedade assume de pleno direito:
 
 a) Os direitos e obrigações decorrentes dos negócios jurídicos referidos no artigo 16.º, n.º 1;
 
 b) Os direitos e obrigações resultantes da exploração normal de um estabelecimento que constitua objecto de uma entrada em espécie ou que tenha sido adquirido por conta da sociedade, no cumprimento de estipulação do contrato social;
 
-c) Os direitos e obrigações emergentes de negócios jurídicos concluídos antes do acto de constituição e que neste sejam especificados e expressamente ratificados;
+c) Os direitos e obrigações emergentes de negócios jurídicos concluídos antes da celebração da escritura de constituição que nesta sejam especificados e expressamente ratificados;
 
-d) Os direitos e obrigações decorrentes de negócios jurídicos celebrados pelos gerentes ou administradores ao abrigo de autorização dada por todos os sócios no acto de constituição.
+d) Os direitos e obrigações decorrentes de negócios jurídicos celebrados pelos gerentes, administradores ou directores ao abrigo de autorização dada por todos os sócios na escritura de constituição.
 
 2 - Os direitos e obrigações decorrentes de outros negócios jurídicos realizados em nome da sociedade, antes de registado o contrato, podem ser por ela assumidos mediante decisão da administração, que deve ser comunicada à contraparte nos 90 dias posteriores ao registo.
 

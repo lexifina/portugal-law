@@ -12,4 +12,4 @@
 
 5 - O consentimento dado a uma cessão posterior a outra não consentida torna esta eficaz, na medida necessária para assegurar a legitimidade do cedente.
 
-6 - Considera-se prestado o consentimento da sociedade quando o cessionário tenha participado em deliberação dos sócios e nenhum deles a impugnar com esse fundamento, provando-se o consentimento tácito, para efeitos de registo da cessão, pela acta da deliberação.
+6 - Considera-se prestado o consentimento da sociedade quando o cessionário tenha participado em deliberação dos sócios e nenhum deles a impugnar com esse fundamento; para efeitos de registo da cessão, o consentimento tácito prova-se pela acta da deliberação e por certidão do registo comercial donde conste não ter sido intentada em devido tempo a referida impugnação judicial.

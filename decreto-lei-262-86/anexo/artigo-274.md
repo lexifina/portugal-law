@@ -2,4 +2,4 @@
 
 ### (Aquisição da qualidade de sócio)
 
-A qualidade de sócio surge com a celebração do contrato de sociedade ou com o aumento do capital, não dependendo da emissão e entrega do título de acção ou, tratando-se de acções escriturais, da inscrição na conta de registo individualizado.
+A qualidade de sócio não depende da emissão e entrega do título de acção; surge com a outorga do contrato de sociedade ou da escritura de aumento do capital.

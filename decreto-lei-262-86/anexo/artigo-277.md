@@ -1,21 +1,9 @@
 # Artigo 277.º
 
-### Entradas
+### (Entradas)
 
 1 - Não são admitidas contribuições de indústria.
 
-2 - Nas entradas em dinheiro só pode ser diferida a realização de 70 % do valor nominal ou do valor de emissão das acções, não podendo ser diferido o prémio de emissão, quando previsto.
+2 - Nas entradas em dinheiro só pode ser diferida a realização de 70% do valor nominal das acções; não pode ser diferido o pagamento de mais de metade do ágio.
 
-3 - A soma das entradas em dinheiro já realizadas deve ser depositada em instituição de crédito, numa conta aberta em nome da futura sociedade, até ao momento da celebração do contrato.
-
-4 - Os sócios devem declarar no acto constitutivo, sob sua responsabilidade, que procederam ao depósito referido no número anterior.
-
-5 - Da conta referida no n.º 3 só podem ser efectuados levantamentos:
-
-a) Depois de o contrato estar definitivamente registado;
-
-b) Depois de celebrado o contrato, caso os accionistas autorizem os administradores a efectuá-los para fins determinados;
-
-c) Para liquidação provocada pela inexistência ou nulidade do contrato ou pela falta do registo;
-
-d) Para a restituição prevista nos artigos 279.º, n.º 6, alínea h), e 280.º
+3 - A soma das entradas em dinheiro já realizadas deve ser depositada em instituição de crédito, antes de celebrado o contrato, numa conta aberta em nome da futura sociedade, da qual só poderão ser efectuados levantamentos ou depois de o contrato estar definitivamente registado ou para os fins da liquidação, provocada quer pela nulidade do contrato quer pela falta de registo, salvo a restituição prevista nos artigos 279.º, n.º 6, alínea h), e 280.º

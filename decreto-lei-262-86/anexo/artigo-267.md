@@ -6,6 +6,4 @@
 
 2 - O consentimento exigido no número anterior é dispensado, concedido ou recusado nos termos prescritos para o consentimento de cessão de quotas, mas a deliberação de aumento de capital pode conceder o referido consentimento para todo esse aumento.
 
-3 - No caso previsto na parte final do número anterior, os adquirentes devem exercer a preferência na assembleia que aprove o aumento de capital.
-
-4 - No caso de o consentimento ser expressamente recusado, a sociedade deve apresentar proposta de aquisição do direito por sócio ou estranho, aplicando-se, com as necessárias adaptações, o disposto no artigo 231.º
+3 - No caso de o consentimento ser expressamente recusado, a sociedade deve apresentar proposta de aquisição do direito por sócio ou estranho, aplicando-se, com as necessárias adaptações, o disposto no artigo 231.º

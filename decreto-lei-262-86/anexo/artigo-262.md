@@ -6,9 +6,9 @@
 
 2 - As sociedades que não tiverem conselho fiscal devem designar um revisor oficial de contas para proceder à revisão legal desde que, durante dois anos consecutivos, sejam ultrapassados dois dos três seguintes limites:
 
-a) Total do balanço: 1500000 euros;
+a) Total do balanço: 140000 contos;
 
-b) Total das vendas líquidas e outros proveitos: 3000000 euros;
+b) Total das vendas líquidas e outros proveitos: 280000 contos;
 
 c) Número de trabalhadores empregados em média durante o exercício: 50.
 

@@ -1,6 +1,6 @@
 # Artigo 317.º
 
-### Casos de aquisição lícita de acções próprias
+### (Casos de aquisição lícita de acções próprias)
 
 1 - O contrato de sociedade pode proibir totalmente a aquisição de acções próprias ou reduzir os casos em que ela é permitida por esta lei.
 
@@ -20,4 +20,4 @@ e) A aquisição seja feita em processo executivo para cobrança de dívidas de 
 
 f) A aquisição decorra de processo estabelecido na lei ou no contrato de sociedade para a falta de liberação de acções pelos seus subscritores.
 
-4 - Como contrapartida da aquisição de acções próprias, uma sociedade só pode entregar bens que, nos termos dos artigos 32.º e 33.º, possam ser distribuídos aos sócios, devendo o valor dos bens distribuíveis ser, pelo menos, igual ao dobro do valor a pagar por elas.
+4 - Como contrapartida da aquisição de acções próprias, uma sociedade só pode entregar bens que, nos termos dos artigos 32.º e 33.º, possam ser distribuídos aos sócios e quando o valor dos bens distribuíveis for, pelo menos, igual ao dobro do valor dos bens a pagar pelas acções.

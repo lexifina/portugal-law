@@ -18,11 +18,11 @@
 
 a) Sobre a constituição da sociedade, nos precisos termos do projecto registado;
 
-b) Sobre as designações para os órgãos sociais.
+b) Sobre as nomeações para os órgãos sociais.
 
 8 - Com o voto unânime de todos os promotores e subscritores podem ser introduzidas alterações no projecto de contrato de sociedade.
 
-9 - Havendo subscrição particular, com entradas que não consistam em dinheiro, a eficácia da deliberação de constituição da sociedade fica dependente da efectivação daquelas entradas.
+9 - Havendo subscrição particular, com entradas que não consistam em dinheiro, a eficácia da deliberação de constituição da sociedade fica dependente da efectivação daquelas entradas na escritura do contrato.
 
 10 - No caso previsto no artigo 280.º, n.º 3, a deliberação ali referida deve fixar o montante do capital e o número das acções, em conformidade com as subscrições efectuadas.
 

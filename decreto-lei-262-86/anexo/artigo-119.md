@@ -2,17 +2,17 @@
 
 ### (Projecto de cisão)
 
-Compete à administração da sociedade a cindir ou, tratando-se de cisão-fusão, às administrações das sociedades participantes, em conjunto, elaborar o projecto de cisão, donde constem, além dos demais elementos necessários ou convenientes para o perfeito conhecimento da operação visada, tanto no aspecto jurídico como no aspecto económico, os seguintes elementos:
+A administração da sociedade a cindir ou, tratando-se de cisão-fusão, as administrações das sociedades participantes, em conjunto, elaborarão um projecto de cisão, donde constem, além dos demais elementos necessários ou convenientes para o perfeito conhecimento da operação visada, tanto no aspecto jurídico como no aspecto económico:
 
 a) A modalidade, os motivos, as condições e os objectivos da cisão relativamente a todas as sociedades participantes;
 
-b) A firma, a sede, o montante do capital e o número de matrícula no registo comercial de cada uma das sociedades;
+b) A firma, a sede, o montante do capital e o número e data da matrícula no registo comercial de cada uma das sociedades;
 
 c) A participação que alguma das sociedades tenha no capital de outra;
 
 d) A enumeração completa dos bens a transmitir para a sociedade incorporante ou para a nova sociedade e os valores que lhes são atribuídos;
 
-e) Tratando-se de cisão-fusão, o balanço de cada uma das sociedades participantes, elaborado nos termos da alínea d) do n.º 1 e do n.º 2 do artigo 98.º;
+e) Tratando-se de cisão-fusão, o balanço de cada uma das sociedade participantes, elaborado nos termos do artigo 98.º, n.º 1, alínea d);
 
 f) As partes, quotas ou acções da sociedade incorporante ou da nova sociedade e, se for caso disso, as quantias em dinheiro que serão atribuídas aos sócios da sociedade a cindir, especificando-se a relação de troca das participações sociais, bem como as bases desta relação;
 

@@ -18,7 +18,7 @@ a) Essas acções só compartilham dos lucros de exercício, juntamente com as o
 
 b) Tais acções só compartilham do produto da liquidação da sociedade, juntamente com as outras, depois de a estas ter sido reembolsado o valor nominal; as acções só parcialmente reembolsadas têm direito proporcional a essa primeira partilha.
 
-5 - As acções totalmente reembolsadas passam a denominar-se acções de fruição, constituem uma categoria e esse facto deve constar do título ou do registo das acções.
+5 - As acções totalmente reembolsadas passam a denominar-se acções de fruição, constituem uma categoria de acções e devem ser representadas por títulos especiais.
 
 6 - O reembolso é definitivo, mas as acções de fruição podem ser convertidas em acções de capital, mediante deliberações da assembleia geral e da assembleia especial dos respectivos titulares, tomadas pela maioria exigida para alteração do contrato de sociedade.
 

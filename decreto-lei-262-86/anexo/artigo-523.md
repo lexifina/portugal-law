@@ -1,5 +1,5 @@
 # Artigo 523.º
 
-### Violação do dever de convocar ou requerer a convocação da assembleia geral em caso de perda grave do capital social
+### (Perda de metade do capital)
 
-O gerente ou administrador de sociedade que, verificando pelas contas de exercício estar perdida metade do capital, não der cumprimento ao disposto no artigo 35.º é punido com pena de prisão até 1 ano ou com pena de multa.
+Enquanto não entrar em vigor o artigo 35.º desta lei, os credores de uma sociedade anónima podem requerer a sua dissolução, provando que, posteriormente à época dos seus contratos, metade do capital social está perdido, mas a sociedade pode opor-se à dissolução, sempre que dê as necessárias garantias de pagamento aos seus credores.

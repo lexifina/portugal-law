@@ -6,6 +6,6 @@
 
 2 - Não sendo o pagamento efectuado no prazo referido no número anterior e deliberando a sociedade excluir o sócio, deve comunicar-lhe, por carta registada, a sua exclusão, com a consequente perda a favor da sociedade da respectiva quota e pagamentos já realizados, salvo se os sócios, por sua iniciativa ou a pedido do sócio remisso, deliberarem limitar a perda à parte da quota correspondente à prestação não efectuada; neste caso, deverão ser indicados na declaração dirigida ao sócio os valores nominais da parte perdida por este e da parte por ele conservada.
 
-3 - (Revogado).
+3 - A estas partes não é aplicável o disposto no artigo 219.º, n.º 3, não podendo, contudo, cada uma delas ser inferior a 5000$00.
 
 4 - Se, nos termos do n.º 2 deste artigo, tiver sido declarada perdida pelo sócio remisso apenas uma parte da quota, é aplicável à venda dessa parte, à responsabilidade do sócio e à dos anteriores titulares da mesma quota, bem como ao destino das quantias obtidas, o disposto nos artigos seguintes.

@@ -8,16 +8,10 @@
 
 # Artigo 202.º
 
-### Entradas
+### (Entradas)
 
 1 - Não são admitidas contribuições de indústria.
 
-2 - (Revogado.)
+2 - Só pode ser diferida a efectivação de metade das entradas em dinheiro, mas o quantitativo global dos pagamentos feitos por conta destas, juntamente com a soma dos valores nominais das quotas correspondentes às entradas em espécie, deve perfazer o capital mínimo fixado na lei.
 
-3 - (Revogado.)
-
-4 - Sem prejuízo de estipulação contratual que preveja o diferimento da realização das entradas em dinheiro, os sócios devem declarar no acto constitutivo, sob sua responsabilidade, que já procederam à entrega do valor das suas entradas ou que se comprometem a entregar, até ao final do primeiro exercício económico, as respectivas entradas nos cofres da sociedade.
-
-5 - (Revogado.)
-
-6 - Os sócios que, nos termos do n.º 4, se tenham comprometido no acto constitutivo a realizar as suas entradas até ao final do primeiro exercício económico devem declarar, sob sua responsabilidade, na primeira assembleia geral anual da sociedade posterior ao fim de tal prazo, que já procederam à entrega do respectivo valor nos cofres da sociedade.
+3 - A soma das entradas em dinheiro já realizadas deve ser depositada em instituição de crédito, antes de celebrado o contrato, numa conta aberta em nome da futura sociedade, da qual só poderão ser efectuados levantamentos ou depois de o contrato estar definitivamente registado ou para os fins da liquidação provocada quer pela nulidade do contrato quer pela falta de registo.

@@ -12,6 +12,6 @@ c) Menção de um objecto ilícito ou contrário à ordem pública;
 
 d) Falta de cumprimento dos preceitos legais que exigem a liberação mínima do capital social;
 
-e) Não ter sido observada a forma legalmente exigida para o contrato de sociedade.
+e) Não ter sido reduzido a escritura pública o contrato de sociedade.
 
 2 - São sanáveis por deliberação dos sócios, tomada nos termos estabelecidos para as deliberações sobre alteração do contrato, os vícios decorrentes de falta ou nulidade da firma e da sede da sociedade, bem como do valor da entrada de algum sócio e das prestações realizadas por conta desta.

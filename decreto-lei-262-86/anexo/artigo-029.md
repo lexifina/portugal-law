@@ -2,13 +2,13 @@
 
 ### (Aquisição de bens a accionistas)
 
-1 - A aquisição de bens por uma sociedade anónima ou em comandita por acções deve ser previamente aprovada por deliberação da assembleia geral, desde que se verifiquem cumulativamente os seguintes requisitos:
+1 - A aquisição de bens por uma sociedade anónima ou em comandita por acções deve ser previamente aprovada por deliberação da assembleia geral desde que se verifiquem cumulativamente os seguintes requisitos:
 
 a) Seja efectuada, directamente ou por interposta pessoa, a um fundador da sociedade ou a pessoa que desta se torne sócio no período referido na alínea c);
 
-b) O contravalor dos bens adquiridos à mesma pessoa durante o período referido na alínea c) exceda 2% ou 10% do capital social, consoante este for igual ou superior a 50000 euros, ou inferior a esta importância, no momento do contrato donde a aquisição resulte;
+b) O contravalor dos bens adquiridos à mesma pessoa durante o período referido na alínea c) exceda 2% ou 10% do capital social, consoante este for igual ou superior a 10000 contos, ou inferior a esta importância, no momento do contrato donde a aquisição resulte;
 
-c) O contrato de que provém a aquisição seja concluído antes da celebração do contrato de sociedade, simultaneamente com este ou nos dois anos seguintes ao registo do contrato de sociedade ou do aumento do capital.
+c) O contrato de que provém a aquisição seja concluído antes da celebração do contrato de sociedade, simultaneamente com este ou dos dois anos seguintes à escritura do contrato de sociedade ou de aumento de capital.
 
 2 - O disposto no número anterior não se aplica a aquisições feitas em bolsa ou em processo judicial executivo ou compreendidas no objecto da sociedade.
 

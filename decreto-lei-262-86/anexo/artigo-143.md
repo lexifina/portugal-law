@@ -1,11 +1,7 @@
 # Artigo 143.º
 
-### Causas de dissolução oficiosa
+### (Redução dos sócios a número inferior ao mínimo legal)
 
-O serviço de registo competente deve instaurar oficiosamente o procedimento administrativo de dissolução, caso não tenha sido ainda iniciado pelos interessados, quando:
+1 - No caso previsto na alínea a) do n.º 1 do artigo anterior, o sócio ou qualquer dos sócios restantes pode requerer ao tribunal que lhe seja concedido um prazo razoável a fim de regularizar a situação, suspendendo-se entretanto a dissolução da sociedade.
 
-a) Durante dois anos consecutivos, a sociedade não tenha procedido ao depósito dos documentos de prestação de contas e a administração tributária tenha comunicado ao serviço de registo competente a omissão de entrega da declaração fiscal de rendimentos pelo mesmo período;
-
-b) A administração tributária tenha comunicado ao serviço de registo competente a ausência de actividade efectiva da sociedade, verificada nos termos previstos na legislação tributária;
-
-c) A administração tributária tenha comunicado ao serviço de registo competente a declaração oficiosa da cessação de actividade da sociedade, nos termos previstos na legislação tributária.
+2 - O juiz, ouvidos os credores da sociedade e ponderadas as razões alegadas pelo sócio, decidirá, podendo ordenar as providências que se mostrarem adequadas para conservação do património social durante aquele prazo.

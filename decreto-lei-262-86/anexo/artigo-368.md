@@ -9,5 +9,3 @@
 3 - Durante o período de tempo referido no n.º 1 deste artigo, sociedade só poderá emitir novas obrigações convertíveis em acções, alterar o valor nominal das suas acções, distribuir reservas aos accionistas, aumentar o capital social mediante novas entradas ou por incorporação de reservas e praticar qualquer outro acto que possa afectar os direitos dos obrigacionistas que venham a optar pela conversão desde que sejam assegurados direitos iguais aos dos accionistas.
 
 4 - Os direitos referidos na parte final do número anterior não abrangem o de receber quaisquer rendimentos dos títulos ou de participar em distribuição das reservas em causa relativamente a período anterior à data em que a conversão vier a produzir os seus efeitos.
-
-5 - Em sociedades emitentes de valores mobiliários admitidos à negociação em mercado regulamentado, a protecção dos titulares de obrigações convertíveis pode, em alternativa, ser efectuada através de cláusulas de reajustamento automático da relação de conversão que salvaguarde a integridade do interesse económico dos titulares em condições equitativas.

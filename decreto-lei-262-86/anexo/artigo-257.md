@@ -14,4 +14,4 @@
 
 6 - Constituem justa causa de destituição, designadamente, a violação grave dos deveres do gerente e a sua incapacidade para o exercício normal das respectivas funções.
 
-7 - Não havendo indemnização contratual estipulada, o gerente destituído sem justa causa tem direito a ser indemnizado dos prejuízos sofridos, entendendo-se, porém, que ele não se manteria no cargo ainda por mais de quatro anos ou do tempo que faltar para perfazer o prazo por que fora designado.
+7 - Não havendo indemnização contratual estipulada, o gerente destituído sem justa causa tem direito a ser indemnizado dos prejuízos sofridos, entendendo-se, porém, que ele não se manteria no cargo ainda por mais de quatro anos ou do tempo que faltar para perfazer o prazo por que fora nomeado.

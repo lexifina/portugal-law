@@ -1,9 +1,13 @@
 # Artigo 512.º
 
-### Amortização lícita de quota dada em penhor ou que seja objecto de usufruto
+### (Capital mínimo)
 
-1 - O gerente de sociedade que, em violação da lei, propuser à deliberação dos sócios amortizar, total ou parcialmente, quota sobre a qual incida direito de usufruto ou de penhor, sem consentimento do titular deste direito, é punido com pena de prisão até 2 anos ou com pena de multa.
+1 - As sociedades constituídas antes da entrada em vigor desta lei cujo capital não atinja os montantes mínimos nela estabelecidos devem aumentar o capital, pelo menos até aos referidos montantes mínimos, no prazo de três anos, a contar daquela entrada em vigor.
 
-2 - Com a mesma pena será punido o sócio titular da quota que promover a amortização ou para esta der o seu assentimento, ou que, podendo informar do facto, antes de executado, o titular do direito de usufruto ou de penhor, maliciosamente o não fizer.
+2 - Para o aumento de capital exigido pelo número anterior podem as sociedades deliberar por maioria simples a incorporação de reservas, incluindo reservas de reavaliação de bens do activo.
 
-3 - Se for causado dano grave, material ou moral, e que o autor pudesse prever, ao titular do direito de usufruto ou de penhor, a algum sócio que não tenha dado o seu assentimento para o facto ou à sociedade, a pena é de prisão até 3 anos ou pena de multa.
+3 - Para a liberação total do capital, aumentado por novas entradas em cumprimento do disposto no n.º 1 deste artigo, podem ser fixados prazos até cinco anos.
+
+4 - As sociedades que não tenham procedido ao aumentou do capital e à liberação deste, em conformidade com os números anteriores, devem ser dissolvidas a requerimento do Ministério Público, mediante participação do conservador do Registo Comercial.
+
+5 - Podem ser mantidos os valores nominais de quotas ou acções estipulados de harmonia com a legislação anterior, embora sejam inferiores aos valores mínimos estabelecidos nesta lei, os quais, porém, passarão a ser aplicáveis desde que o capital seja aumentado por força deste artigo ou por outras circunstâncias.

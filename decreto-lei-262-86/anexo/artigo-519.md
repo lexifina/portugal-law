@@ -1,13 +1,9 @@
 # Artigo 519.º
 
-### Informações falsas
+### (Participações recíprocas)
 
-1 - Aquele que, estando nos termos do presente Código obrigado a prestar a outrem informações sobre matéria da vida da sociedade, as der contrárias à verdade, é punido com pena de prisão até 2 anos ou com pena de multa.
+1 - O disposto no artigo 485.º, n.º 3, começa a aplicar-se às participações recíprocas existentes entre sociedades à data da entrada em vigor desta lei a partir do fim do ano civil seguinte à referida data, se nessa altura ainda se mantiverem.
 
-2 - Com a mesma pena será punido aquele que, nas circunstâncias descritas no número anterior, prestar maliciosamente informações incompletas e que possam induzir os destinatários a conclusões erróneas de efeito idêntico ou semelhante ao que teriam informações falsas sobre o mesmo objecto.
+2 - A proibição de exercício de direitos aplica-se à participação de menor valor nominal, salvo acordo em contrário entre as duas sociedades.
 
-3 - Se o facto for praticado com intenção de causar dano, material ou moral, a algum sócio que não tenha conscientemente concorrido para o mesmo facto, ou à sociedade, a pena é de prisão até 2 anos e 6 meses ou pena de multa.
-
-4 - Se for causado dano grave, material ou moral, e que o autor pudesse prever, a algum sócio que não tenha concorrido conscientemente para o facto, à sociedade ou a terceiro, a pena é de prisão até 3 anos ou pena de multa.
-
-5 - Se, no caso do n.º 2, o facto for praticado por motivo ponderoso, e que não indicie falta de zelo na defesa dos direitos e dos interesses legítimos da sociedade e dos sócios, mas apenas compreensão errónea do objeto desses direitos e interesses, o juiz pode atenuar especialmente a pena ou dispensar dela.
+3 - As participações existentes à data da entrada em vigor desta lei contam-se para o cálculo dos 10% de capital.

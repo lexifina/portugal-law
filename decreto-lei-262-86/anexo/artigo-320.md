@@ -12,6 +12,6 @@ c) A modalidade da alienação;
 
 d) O preço mínimo ou outra contrapartida das alienações a título oneroso.
 
-2 - A alienação de acções próprias pode ser decidida pelo conselho de administração ou pelo conselho de administração executivo, se for imposta por lei.
+2 - A alienação de acções próprias pode ser decidida pelo conselho de administração ou pela direcção, se for imposta por lei.
 
-3 - No caso do número anterior, devem os administradores, na primeira assembleia geral seguinte, expor os motivos e todas as condições da operação efectuada.
+3 - No caso do número anterior, devem os administradores ou directores, na primeira assembleia geral seguinte, expor os motivos e todas as condições da operação efectuada.

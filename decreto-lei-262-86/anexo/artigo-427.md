@@ -1,9 +1,9 @@
 # Artigo 427.º
 
-### Presidente
+### (Presidente e director do trabalho)
 
-1 - Se não for designado no acto de designação dos membros do conselho de administração executivo, este conselho escolhe o seu presidente, podendo neste caso substituí-lo a todo o tempo.
+1 - O presidente da direcção é designado e destituído pelo conselho geral.
 
-2 - Aplica-se, com as devidas adaptações, o disposto nos n.os 3 e 4 do artigo 395.º
+2 - No acto de designação do presidente, o conselho geral pode conceder-lhe voto de qualidade nas deliberações da direcção.
 
-3 - (Revogado.)
+3 - Quando haja vários directores, o conselho geral deve designar o director do trabalho, mais especialmente encarregado das relações com os trabalhadores.

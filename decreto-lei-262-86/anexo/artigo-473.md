@@ -6,6 +6,6 @@
 
 2 - Constitui fundamento especial de dissolução das sociedades em comandita o desaparecimento de todos os sócios comanditados ou de todos os sócios comanditários.
 
-3 - Se faltarem todos os sócios comanditários, a sociedade pode ser dissolvida por via administrativa.
+3 - Se faltarem todos os sócios comanditários, a sociedade pode ser dissolvida judicialmente.
 
 4 - Se faltarem todos os sócios comanditados e nos 90 dias seguintes a situação não tiver sido regularizada, a sociedade dissolve-se imediatamente.

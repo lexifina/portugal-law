@@ -2,4 +2,4 @@
 
 ### (Expressão do capital)
 
-O montante do capital social deve ser sempre e apenas expresso em moeda com curso legal em Portugal.
+O montante do capital social deve ser sempre e apenas expresso em escudos.

@@ -10,4 +10,4 @@
 
 4 - É aplicável o disposto no artigo 163.º, n.º 4.
 
-5 - No caso de falecimento dos liquidatários, aplica-se o disposto no artigo 163.º, n.º 5.
+5 - No caso de falecimento do liquidatário, aplica-se o disposto no artigo 163.º, n.º 5.

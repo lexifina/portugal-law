@@ -18,4 +18,4 @@ d) Por denúncia de alguma das sociedades, nos termos do número seguinte, se o 
 
 4 - A denúncia por alguma das sociedades não pode ter lugar antes de o contrato ter vigorado cinco anos; deve ser autorizada por deliberação da assembleia geral, nos termos do n.º 2, é comunicada à outra sociedade, por carta registada, e só produz efeitos no fim do exercício seguinte.
 
-5 -A denúncia prevista no n.º 3, alínea d), é autorizada por deliberação tomada nos termos do n.º 2.
+5 - A acção prevista no n.º 3, alínea d), é autorizada por deliberação tomada nos termos do n.º 2.

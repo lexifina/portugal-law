@@ -8,7 +8,7 @@ a) Considerar-se suspensos todos os direitos inerentes às acções, excepto o d
 
 b) Tornar-se indisponível uma reserva de montante igual àquele por que elas estejam contabilizadas.
 
-2 - No relatório anual do conselho de administração ou do conselho de administração executivo devem ser claramente indicados:
+2 - No relatório anual do conselho de administração ou da direcção devem ser claramente indicados:
 
 a) O número de acções próprias adquiridas durante o exercício, os motivos das aquisições efectuadas e os desembolsos da sociedade;
 

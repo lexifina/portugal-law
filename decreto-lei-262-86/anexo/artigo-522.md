@@ -1,5 +1,5 @@
 # Artigo 522.º
 
-### Impedimento de fiscalização
+### (Depósitos de entradas)
 
-O gerente ou administrador de sociedade que impedir ou dificultar, ou levar outrem a impedir ou dificultar, atos necessários à fiscalização da vida da sociedade, executados, nos termos e formas que sejam de direito, por quem tenha por lei, pelo contrato social ou por decisão judicial o dever de exercer a fiscalização, ou por pessoa que atue à ordem de quem tenha esse dever, é punido com pena de prisão até 2 anos ou com pena de multa.
+Os depósitos de entradas de capital ordenados por esta lei continuam a ser efectuados na Caixa Geral de Depósitos, enquanto os Ministros das Finanças e da Justiça, em portaria conjunta, não autorizarem que o sejam noutras instituições de crédito.

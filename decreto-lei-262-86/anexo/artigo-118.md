@@ -2,10 +2,6 @@
 
 ## Cisão de sociedades
 
-## Secção I
-
-## Cisão interna
-
 # Artigo 118.º
 
 ### (Noção. Modalidades)

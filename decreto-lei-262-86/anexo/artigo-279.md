@@ -4,7 +4,7 @@
 
 1 - A constituição de sociedade anónima com apelo a subscrição pública de acções deve ser promovida por uma ou mais pessoas que assumem a responsabilidade estabelecida nesta lei.
 
-2 - Os promotores devem subscrever e realizar integralmente acções cuja soma dos valores nominais ou cuja soma dos valores de emissão de cada acção perfaçam, pelo menos, o capital mínimo prescrito no n.º 3 do artigo 276.º, sendo essas acções inalienáveis durante dois anos a contar do registo definitivo da sociedade e os negócios obrigacionais celebrados durante esse tempo sobre oneração ou alienação de acções nulos.
+2 - Os promotores devem subscrever e realizar integralmente acções cujos valores nominais somem, pelo menos, o capital mínimo prescrito no artigo 276.º, n.º 3; essas acções são inalienáveis durante dois anos a contar do registo definitivo da sociedade e os negócios obrigacionais celebrados durante esse tempo sobre alienação ou oneração de tais acções são nulos.
 
 3 - Os promotores devem elaborar o projecto completo de contrato de sociedade e requerer o seu registo provisório.
 
@@ -30,6 +30,8 @@ g) A indicação de que a constituição definitiva da sociedade ficará depende
 
 h) O montante da entrada a efectuar na altura da subscrição, o prazo e o modo da restituição dessa importância, no caso de não chegar a constituir-se a sociedade.
 
-7 - As entradas em dinheiro efectuadas por todos os subscritores serão directamente depositadas por estes na conta aberta pelos promotores e referida no n.º 3 do artigo 277.º.
+7 - As entradas em dinheiro efectuadas por todos os subscritores serão directamente depositadas por estes na conta aberta pelos promotores e referida no n.º 3.
 
 8 - Aos promotores não pode ser atribuída outra vantagem além da reserva de uma percentagem não superior a um décimo dos lucros líquidos da sociedade, por tempo não excedente a um terço da duração desta e nunca superior a cinco anos, a qual não poderá ser paga sem se acharem aprovadas as contas anuais.
+
+9 - Por portaria dos Ministros das Finanças e da Justiça poderão ser regulamentados os programas de oferta de acções à subscrição e quaisquer outros documentos que, em relação com subscrições, sejam destinados ao público.

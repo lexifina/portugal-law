@@ -1,11 +1,7 @@
-## Secção IV
-
-## Conselho de administração executivo
-
 # Artigo 424.º
 
-### Composição do conselho de administração executivo
+### (Composição da direcção)
 
-1 - O conselho de administração executivo, a que se refere a alínea c) do n.º 1 do artigo 278.º, é composto pelo número de administradores fixado nos estatutos.
+1 - A direcção, a que se refere a alínea b) do n.º 1 do artigo 278.º, é composta por um número impar de directores, no máximo de cinco.
 
-2 - A sociedade só pode ter um único administrador quando o seu capital não exceda (euro) 200000.
+2 - O contrato de sociedade deve fixar o número de directores, mas a sociedade só pode ter um único director quando o seu capital for inferior a 20000 contos.

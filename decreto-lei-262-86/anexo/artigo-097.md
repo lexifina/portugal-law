@@ -2,19 +2,15 @@
 
 ## Fusão de sociedades
 
-## Secção I
-
-## Fusão interna
-
 # Artigo 97.º
 
 ### (Noção. Modalidades)
 
 1 - Duas ou mais sociedades, ainda que de tipo diverso, podem fundir-se mediante a sua reunião numa só.
 
-2 - Sem prejuízo do disposto na alínea b) do n.º 4 do artigo 117.º-A, as sociedades dissolvidas podem fundir-se com outras sociedades, dissolvidas ou não, ainda que a liquidação seja feita judicialmente, se preencherem os requisitos de que depende o regresso ao exercício da atividade social.
+2 - As sociedades dissolvidas podem fundir-se com outras sociedades, dissolvidas ou não, ainda que a liquidação seja feita judicialmente, se preencherem os requisitos de que depende o regresso ao exercício da actividade social.
 
-3 - Não é permitido a uma sociedade fundir-se a partir da data da petição de apresentação à insolvência ou do pedido de declaração desta.
+3 - Não é permitido a uma sociedade fundir-se a partir do requerimento para apresentação à falência e convocação de credores, previsto no artigo 1140.º, n.º 1, do Código de Processo Civil, e do requerimento de declaração de falência ou da participação, previstos no artigo 1177.º do mesmo Código.
 
 4 - A fusão pode realizar-se:
 

@@ -1,10 +1,10 @@
 ## Secção II
 
-## Obrigação de prestações acessórias
+## Obrigações e prestações acessórias
 
 # Artigo 287.º
 
-### (Obrigação de prestações acessórias)
+### (Obrigações e prestações acessórias)
 
 1 - O contrato de sociedade pode impor a todos ou a alguns accionistas a obrigação de efectuarem prestações além das entradas, desde que fixe os elementos essenciais desta obrigação e especifique se as prestações devem ser efectuadas onerosa ou gratuitamente. Quando o conteúdo da obrigação corresponder ao de um contrato típico, aplicar-se-á a regulamentação legal própria desse contrato.
 

@@ -1,11 +1,9 @@
 # Artigo 371.º
 
-### Emissão de acções para conversão de obrigações
+### (Emissão de acções para conversão de obrigações)
 
-1 - A administração da sociedade deve, imediatamente após o registo comercial do aumento de capital resultante da emissão:
+1 - No primeiro mês de cada trimestre, a administração da sociedade, mediante deliberação consignada em acta, deve emitir as acções que caibam aos obrigacionistas que houverem pedido a conversão no trimestre anterior e promover, dentro dos 30 dias imediatos, a conversão em definitivo do registo provisório do aumento de capital correspondente às acções emitidas.
 
-a) Em relação a ações tituladas, emitir os títulos das novas ações e entregá-los aos seus titulares;
+2 - Os averbamentos de conversão serão lavrados com base na acta a que se refere o número anterior.
 
-b) Em relação a ações escriturais, proceder ao registo em conta das novas ações.
-
-2 - Não é necessário proceder à emissão a que se refere o número anterior quando os pedidos de conversão possam ser satisfeitos com ações já emitidas e que se encontrem disponíveis para o efeito, salvo se as condições da emissão dispuserem diferentemente.
+3 - Não será necessário proceder à emissão a que se referem os números anteriores quando os pedidos de conversão possam ser satisfeitos com acções já emitidas e que se encontrem disponíveis para o efeito.

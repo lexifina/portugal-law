@@ -4,6 +4,6 @@
 
 1 - Os membros do órgão de administração da sociedade directora devem optar, relativamente ao grupo, a diligência exigida por lei quanto à administração da sua própria sociedade.
 
-2 - Os membros do órgão de administração da sociedade directora são responsáveis também para com a sociedade subordinada, nos termos dos artigos 72.º a 77.º desta lei, com as necessárias adaptações; a acção de responsabilidade pode ser proposta por qualquer sócio ou accionista livre da sociedade subordinada, em nome desta.
+2 - Os membros do órgão de administração da sociedade directora são responsáveis também para com a sociedade subordinada, nos termos dos artigos 98.º e seguintes desta lei, com as necessárias adaptações; a acção de responsabilidade pode ser proposta por qualquer sócio ou accionista livre da sociedade subordinada, em nome desta.
 
 3 - Os membros do órgão de administração da sociedade subordinada não são responsáveis pelos actos ou omissões praticados na execução de instruções lícitas recebidas.

@@ -1,6 +1,6 @@
 ## Capítulo VI
 
-## Administração, fiscalização e secretário da sociedade
+## Administração e fiscalização
 
 ## Secção I
 
@@ -10,9 +10,9 @@
 
 ### (Composição)
 
-1 - O conselho de administração é composto pelo número de administradores fixado no contrato de sociedade.
+1 - O conselho de administração é composto por um número ímpar de membros, fixado no contrato de sociedade.
 
-2 - O contrato de sociedade pode dispor que a sociedade tenha um só administrador, desde que o capital social não exceda 200000 euros; aplicam-se ao administrador único as disposições relativas ao conselho de administração que não pressuponham a pluralidade de administradores.
+2 - O contrato de sociedade pode dispor que a sociedade tenha um só administrador, desde que o capital social não exceda 20000 contos; aplicam-se ao administrador único as disposições relativas ao conselho de administração que não pressuponham a pluralidade de administradores.
 
 3 - Os administradores podem não ser accionistas, mas devem ser pessoas singulares com capacidade jurídica plena.
 

@@ -2,4 +2,4 @@
 
 ### (Celebração e registo do contrato)
 
-O contrato de subordinação deve ser reduzido a escrito, devendo ser celebrado por administradores das duas sociedades, registado por depósito pelas duas sociedades e publicado.
+O contrato de subordinação deve ser celebrado por escritura pública, outorgada por administradores das duas sociedades, inscrito no registo das duas sociedades e publicado.

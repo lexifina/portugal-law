@@ -2,7 +2,7 @@
 
 ### (Participação nos lucros e perdas)
 
-1 - Na falta de preceito especial ou convenção em contrário, os sócios participam nos lucros e nas perdas da sociedade segundo a proporção dos valores das respectivas participações no capital.
+1 - Na falta de preceito especial ou convenção em contrário, os sócios participam nos lucros e nas perdas da sociedade segundo a proporção dos valores nominais das respectivas participações no capital.
 
 2 - Se o contrato determinar somente a parte de cada sócio nos lucros, presumir-se-á ser a mesma a sua parte nas perdas.
 

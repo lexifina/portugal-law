@@ -8,4 +8,4 @@
 
 3 - Não tendo sido oportunamente efectuadas as alienações previstas nos números anteriores, deve proceder-se à anulação das acções que houvessem de ser alienadas; relativamente a acções cuja aquisição tenha sido lícita, a anulação deve recair sobre as mais recentemente adquiridas.
 
-4 - Os administradores são responsáveis, nos termos gerais, pelos prejuízos sofridos pela sociedade, seus credores ou terceiros por causa da aquisição ilícita de acções, da anulação de acções prescrita neste artigo ou da falta de anulação de acções.
+4 - Os administradores ou directores são responsáveis, nos termos gerais, pelos prejuízos sofridos pela sociedade, seus credores ou terceiros por causa da aquisição ilícita de acções, da anulação de acções prescrita neste artigo ou da falta de anulação de acções.

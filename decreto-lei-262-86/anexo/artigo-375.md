@@ -1,10 +1,10 @@
 # Artigo 375.º
 
-### Assembleias gerais de accionistas
+### (Assembleias gerais de accionistas)
 
-1 - As assembleias gerais de accionistas devem ser convocadas sempre que a lei o determine ou o conselho de administração, a comissão de auditoria, o conselho de administração executivo, o conselho fiscal ou o conselho geral e de supervisão entenda conveniente.
+1 - As assembleias gerais de accionistas devem ser convocadas sempre que a lei o determine ou o conselho de administração, a direcção, o conselho fiscal ou o conselho geral entenda conveniente.
 
-2 - A assembleia geral deve ser convocada quando o requererem um ou mais accionistas que possuam acções correspondentes a, pelo menos, 5% do capital social.
+2 - A assembleia geral deve ser convocada quando o requererem um ou mais accionistas que possuam acções correspondentes, pelo menos, a 5% do capital social ou ao valor nominal de 1000 contos.
 
 3 - O requerimento referido no número anterior deve ser feito por escrito e dirigido ao presidente da mesa da assembleia geral, indicando com precisão os assuntos a incluir na ordem do dia e justificando a necessidade da reunião da assembleia.
 

@@ -1,9 +1,9 @@
 # Artigo 453.º
 
-### Exame das contas nas sociedades com conselho geral e de supervisão
+### (Apreciação pelo conselho fiscal)
 
-1 - Até 30 dias antes da data da assembleia geral convocada para apreciar os documentos de prestação de contas, o conselho de administração executivo deve apresentar ao revisor oficial de contas o relatório de gestão e as contas do exercício, para os efeitos referidos nos números seguintes, e ao conselho geral e de supervisão.
+1 - O conselho fiscal deve apreciar o relatório referido no artigo anterior, o qual fica fazendo parte integrante do seu próprio relatório.
 
-2 - O revisor oficial de contas deve apreciar o relatório de gestão e completar o exame das contas com vista à sua certificação legal.
+2 - Se o conselho concordar com a certificação legal das contas ou com a declaração de impossibilidade de certificação legal das contas, deve declarar expressamente tal concordância no seu relatório.
 
-3 - Aplica-se o disposto no n.º 3 do artigo 451.º e nos n.os 2 a 4 do artigo 452.º, com as necessárias adaptações.
+3 - Se discordar dela, o conselho deve consignar as razões da sua discordância; se esta for no sentido de recusar a aprovação ou de a conceder com reservas, deve lançar essa menção; se a discordância for no sentido de aprovar plenamente as contas ou de as aprovar com reservas diferentes das propostas, não pode tal menção ser lançada e, em vez dela, deve ser declarado que, pelas razões especificadas, o conselho não chegou a acordo sobre a aprovação das contas.

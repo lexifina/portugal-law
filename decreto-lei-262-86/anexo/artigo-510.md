@@ -1,7 +1,11 @@
 # Artigo 510.º
 
-### Aquisição ilícita de quotas ou acções
+### (Voto plural)
 
-1 - O gerente ou administrador de sociedade que, em violação da lei, subscrever ou adquirir para a sociedade quotas ou ações próprias desta, ou encarregar outrem de as subscrever ou adquirir por conta da sociedade, ainda que em nome próprio, ou por qualquer título facultar fundos ou prestar garantias da sociedade para que outrem subscreva ou adquira quotas ou ações representativas do seu capital, é punido com pena de prisão até 2 anos ou com pena de multa.
+1 - Os direitos de voto plural constituídos legalmente antes da entrada em vigor desta lei mantêm-se.
 
-2 - O gerente ou administrador de sociedade que, em violação da lei, adquirir para a sociedade quotas ou ações de outra sociedade que com aquela esteja em relação de participações recíprocas ou em relação de domínio é, igualmente, punido com pena de prisão até 2 anos ou com pena de multa.
+2 - Tais direitos podem ser extintos ou limitados por deliberação dos sócios tomada nos termos previstos para a alteração do contrato, sem necessidade de consentimento dos sócios titulares desses direitos.
+
+3 - Todavia, caso tais direitos tenham sido concedidos em contrapartida de contribuições especiais para a sociedade, para além das entradas, a sociedade deve pagar uma indemnização equitativa pela sua extinção ou limitação.
+
+4 - A indemnização referida no número anterior pode ser pedida judicialmente no prazo de 60 dias a contar da data em que a sócio teve conhecimento da deliberação ou, se esta for impugnada, do trânsito em julgado da respectiva sentença.
