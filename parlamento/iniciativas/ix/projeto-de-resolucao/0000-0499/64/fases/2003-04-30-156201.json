@@ -1,0 +1,593 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "64",
+    "id": "19321",
+    "titulo": "Sobre a informação, avaliação e disciplina na actividade de extracção de areias em meio hídrico."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2003-04-30",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2550",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2003-04-30",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "19023",
+        "leg": "IX",
+        "nr": "24",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "697",
+            "obs": null,
+            "pag": [
+              "4885-4894"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2003-05-02",
+            "pubLeg": "IX",
+            "pubNr": "116",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/116/2003-05-02/4885?pgs=4885-4894&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Cria o sistema de vigilância e controlo do exercício da actividade de dragagens e extracção de inertes."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2003-04-30",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1679",
+                "nome": "Renato Sampaio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145111",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4885-4886",
+                  "4894-4894"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-02",
+                "pubLeg": "IX",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/116/2003-05-02/4885?pgs=4885-4886,4894&org=PLC"
+              }
+            ],
+            "sumario": "Cria o sistema de vigilância e controlo do exercício da actividade de dragagens e extracção de inertes; Sobre a informação, avaliação e disciplina na actividade de extracção de areias em meio hídrico.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "2034",
+                "nome": "Joana Amaral Dias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145112",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4886-4886"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-02",
+                "pubLeg": "IX",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/116/2003-05-02/4886?pgs=4886&org=PLC"
+              }
+            ],
+            "sumario": "Cria o sistema de vigilância e controlo do exercício da actividade de dragagens e extracção de inertes; Sobre a informação, avaliação e disciplina na actividade de extracção de areias em meio hídrico.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145113",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4887-4887"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-02",
+                "pubLeg": "IX",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/116/2003-05-02/4887?pgs=4887&org=PLC"
+              }
+            ],
+            "sumario": "Cria o sistema de vigilância e controlo do exercício da actividade de dragagens e extracção de inertes; Sobre a informação, avaliação e disciplina na actividade de extracção de areias em meio hídrico.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "187",
+                "nome": "José Lello"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145114",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4889-4889"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-02",
+                "pubLeg": "IX",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/116/2003-05-02/4889?pgs=4889&org=PLC"
+              }
+            ],
+            "sumario": "Cria o sistema de vigilância e controlo do exercício da actividade de dragagens e extracção de inertes; Sobre a informação, avaliação e disciplina na actividade de extracção de areias em meio hídrico.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1907",
+                "nome": "Luís Gomes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145115",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4889-4892"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-02",
+                "pubLeg": "IX",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/116/2003-05-02/4889?pgs=4889-4892&org=PLC"
+              }
+            ],
+            "sumario": "Cria o sistema de vigilância e controlo do exercício da actividade de dragagens e extracção de inertes; Sobre a informação, avaliação e disciplina na actividade de extracção de areias em meio hídrico.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1679",
+                "nome": "Renato Sampaio"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145116",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4891-4891"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-02",
+                "pubLeg": "IX",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/116/2003-05-02/4891?pgs=4891&org=PLC"
+              }
+            ],
+            "sumario": "Cria o sistema de vigilância e controlo do exercício da actividade de dragagens e extracção de inertes; Sobre a informação, avaliação e disciplina na actividade de extracção de areias em meio hídrico.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145117",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4891-4891",
+                  "4894-4894"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-02",
+                "pubLeg": "IX",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/116/2003-05-02/4891?pgs=4891,4894&org=PLC"
+              }
+            ],
+            "sumario": "Cria o sistema de vigilância e controlo do exercício da actividade de dragagens e extracção de inertes; Sobre a informação, avaliação e disciplina na actividade de extracção de areias em meio hídrico.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1696",
+                "nome": "Honório Novo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145123",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4892-4893"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-02",
+                "pubLeg": "IX",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/116/2003-05-02/4892?pgs=4892-4893&org=PLC"
+              }
+            ],
+            "sumario": "Cria o sistema de vigilância e controlo do exercício da actividade de dragagens e extracção de inertes; Sobre a informação, avaliação e disciplina na actividade de extracção de areias em meio hídrico.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1863",
+                "nome": "Miguel Paiva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145124",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4893-4894"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-02",
+                "pubLeg": "IX",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/116/2003-05-02/4893?pgs=4893-4894&org=PLC"
+              }
+            ],
+            "sumario": "Cria o sistema de vigilância e controlo do exercício da actividade de dragagens e extracção de inertes; Sobre a informação, avaliação e disciplina na actividade de extracção de areias em meio hídrico.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:00",
+            "horaTermo": "19:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145125",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4895-4895"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-05-02",
+                "pubLeg": "IX",
+                "pubNr": "116",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/116/2003-05-02/4895?pgs=4895&org=PLC"
+              }
+            ],
+            "sumario": "Cria o sistema de vigilância e controlo do exercício da actividade de dragagens e extracção de inertes; Sobre a informação, avaliação e disciplina na actividade de extracção de areias em meio hídrico.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "156201",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "277110",
+        "obs": null,
+        "pag": [
+          "4885-4887",
+          "4889-4895"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-05-02",
+        "pubLeg": "IX",
+        "pubNr": "116",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/116/2003-05-02/4885?pgs=4885-4887,4889-4895&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
