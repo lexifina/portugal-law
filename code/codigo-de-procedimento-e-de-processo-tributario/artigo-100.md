@@ -1,8 +1,8 @@
 # Artigo 100.º
 
-### Dúvida sobre o facto tributário. Utilização de métodos indirectos
+### Dúvidas sobre o facto tributário e utilização de métodos indirectos
 
-1 - Sempre que da prova produzida resulte a fundada dúvida sobre a existência e qualificação do facto tributário, deverá o acto impugnado ser anulado.
+1 - Sempre que da prova produzida resulte a fundada dúvida sobre a existência e quantificação do facto tributário, deverá o acto impugnado ser anulado.
 
 2 - Em caso de quantificação da matéria tributável por métodos indirectos não se considera existir dúvida fundada, para efeitos do número anterior, se o fundamento da aplicação daqueles consistir na inexistência ou desconhecimento, por recusa de exibição, da contabilidade ou escrita e de mais documentos legalmente exigidos ou a sua falsificação, ocultação ou destruição, ainda que os contribuintes invoquem razões acidentais.
 
