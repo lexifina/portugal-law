@@ -1,0 +1,3 @@
+# Artigo 15.º
+
+Respeito de outros direitosNo estabelecimento e exploração das redes de distribuição deverá respeitar-se, na medida do possível, o património cultural, estético e científico da paisagem, em especial quando tiverem valor histórico, ecológico, paisagístico ou arquitectónico. Deve-se ainda procurar causar-lhes, bem como aos terrenos e outras propriedades afectadas, o menor dano possível, reduzindo ao mínimo as perturbações nos diversos serviços, tanto de interesse público como particular. Deverá ainda reduzir-se ao mínimo o corte ou a desrama das plantações, preservando, na medida do possível, as paisagens.
