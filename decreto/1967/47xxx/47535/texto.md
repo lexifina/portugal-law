@@ -1,0 +1,8 @@
+Decreto n.º 47535
+Considerando que, em virtude de diversas dificuldades que surgiram, se tornou necessária a prorrogação do prazo de conclusão da empreitada de construção de um troço do cais comercial de Faro adjudicada à firma Somec - Sociedade Metropolitana de Construção, S. A. R. L., inicialmente fixado até 31 de Dezembro de 1964, no contrato celebrado com aquela firma em 13 de Dezembro de 1962;
+Considerando que, consequentemente, pelo Decreto n.º 45923, de 15 de Setembro de 1964, foi alterado o escalonamento dos pagamentos a efectuar, até ao valor limite de 14800000$00, estipulado no referido contrato, ficando a Direcção-Geral dos Serviços Hidráulicos autorizada a despender, em 1965, a importância de 6900000$00, ou o que se apurasse como saldo do mesmo contrato;
+Considerando que, devido à necessidade de se introduzirem algumas alterações ao projecto contratual e por razão de diversas dificuldades que impediram a total conclusão dos trabalhos da empreitada, se considera que os mesmos só poderão ficar concluídos em 1967, o que envolve um encargo nesse ano, relativo ao saldo contratual, que se estima em 1800000$00;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo único. É a Direcção-Geral dos Serviços Hidráulicos autorizada a despender no ano de 1967 a importância de 1800000$00, ou o que se apurar como saldo do contrato, para a execução da empreitada de construção de um troço do cais comercial de Faro.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 15 de Fevereiro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Eduardo de Arantes e Oliveira.
