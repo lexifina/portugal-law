@@ -1,0 +1,4 @@
+Despacho Normativo n.º 64/81
+1 - Usando da autorização que me é conferida pelo n.º 2 do Despacho Normativo n.º 52/81, de 23 de Janeiro, subdelego no Secretário de Estado da Defesa Nacional, engenheiro Miguel Nunes Anacoreta Correia, a competência para despachar os assuntos correntes relativos ao Serviço Nacional de Protecção Civil (SNPC), que me foi delegada nos termos do n.º 1 do mesmo despacho e ao abrigo do artigo 4.º, n.º 1, do Decreto-Lei n.º 510/80, de 25 de Outubro.
+2 - A subdelegação a que se refere o número anterior entende-se feita sem prejuízo dos poderes de avocação, superintendência e revogação e, bem assim, no pressuposto de que será objecto de acerto prévio com o Ministro da Defesa Nacional a orientação a dar a casos tecnicamente controversos ou politicamente melindrosos.
+Ministério da Defesa Nacional, 2 de Fevereiro de 1981. - O Ministro da Defesa Nacional, Luís Aníbal de Sá de Azevedo Coutinho.
