@@ -1,0 +1,3 @@
+Portaria n.º 20732
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças, nos termos do disposto no § único do artigo 3.º da Reforma Aduaneira, alterado pelo Decreto n.º 45165, de 29 de Julho de 1963, fixar em dois anos, a contar da data da importação da respectiva matéria-prima, o prazo dentro do qual se deverá efectuar a exportação dos artefactos abrangidos pelo Decreto n.º 40579, de 20 de Abril de 1956, que concede o regime de draubaque para a fibra de manilha destinada ao fabrico de artigos de cordoaria.
+Ministério das Finanças, 17 de Agosto de 1964. - O Ministro das Finanças, António Manuel Pinto Barbosa.
