@@ -1,0 +1,13 @@
+Decreto Regulamentar n.º 13/83
+de 22 de Fevereiro
+O Decreto Regulamentar n.º 56/81, de 22 de Dezembro, que definiu a orgânica do Gabinete das Relações Culturais Internacionais, do Ministério da Cultura e Coordenação Científica, ao fixar, no artigo 1.º, as respectivas atribuições, não previu a competência para concessão de subsídios, o que vem ocasionando dificuldades no exercício da actividade que lhe está cometida.
+Verificando-se, assim, a necessidade de lhe ser reconhecida legalmente tal capacidade:
+O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+Artigo único. Ao artigo 1.º do Decreto Regulamentar n.º 56/81, de 22 de Dezembro, é aditada a alínea seguinte:
+g) Conceder subsídios no âmbito das suas atribuições.
+Francisco José Pereira Pinto Balsemão - José Maurício Fernandes Salgueiro - Vasco Luís Caldeira Coelho Futscher Pereira - Francisco António Lucas Pires - António Jorge de Figueiredo Lopes.
+Promulgado em 1 de Fevereiro de 1983.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 2 de Fevereiro de 1983.
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
