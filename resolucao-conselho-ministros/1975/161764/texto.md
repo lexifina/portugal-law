@@ -1,0 +1,17 @@
+Resolução do Conselho de Ministros
+A situação económica e financeira da firma Gel-Mar - Empresa Distribuidora de Produtos Alimentares, Lda., sociedade de distribuição de peixe, de alto interesse no abastecimento público, no emprego e no conjunto empresarial do sector, corre grave risco de interromper a sua actividade se não forem tomadas urgentes medidas adequadas de ordem financeira e de reorganização.
+Neste sentido foi ordenado, por despacho do Secretário de Estado das Pescas de 9 de Dezembro de 1974, um inquérito à referida empresa, através do qual se verificaram as situações previstas nas alíneas a) e b) do Decreto-Lei n.º 660/74, de 25 de Novembro.
+Atendendo, por outro lado, aos termos da concordata aprovada e homologada no processo preventivo de falência desta sociedade, que correu pela 2.ª Vara do Tribunal da Comarca de Lisboa;
+Considerando os poderes conferidos à comissão de fiscalização pelos sócios da empresa e a demissão do conselho de gerência:
+O Conselho de Ministros, reunido em 4 de Abril de 1975, resolveu:
+1) Nomear, em substituição do conselho de gerência, ao abrigo da alínea a) do n.º 1 do artigo 3.º do Decreto-Lei n.º 660/74, uma comissão administrativa constituída pelos senhores:
+Dr. Jorge Amora Rodrigues Carvalheiro, economista especialista da Direcção-Geral do Planeamento e Fomento das Pescas, que presidirá, considerando-se em comissão de serviço;
+Dr.ª Maria de Lurdes Ramos Matafome, técnica da Direcção-Geral de Economia, do Ministério da Coordenação Interterritorial, especializada em produtos alimentares de origem animal;
+José Eduardo de Campos Cochat Sabrosa, técnico em marketing,
+à qual são cometidos todos os poderes que o pacto social confere ao conselho de gerência, sem prejuízo da comissão de fiscalização imposta pela concordata, e ainda:
+a) Criação das condições necessárias para prosseguimento da actividade da empresa;
+b) Estudo e análise da situação económica e financeira da empresa, com vista ao seu saneamento e reconversão;
+c) Apuramento das responsabilidades pessoais relativas à gestão anterior à tomada de posse pela comissão administrativa.
+2) Ratificar a gestão exercida pelos membros da comissão de fiscalização, designadamente pelos representantes do Estado na referida comissão administrativa, ora designada.
+3) Autorizar a prestação do auxílio financeiro à empresa, incluindo a concessão de avales do Estado, até ao limite de 50000000$00, em termos e condições a definir por despacho conjunto das Secretarias de Estado das Pescas e do Tesouro, com a aprovação dos Ministros da Coordenação Económica e das Finanças.
+Presidência do Conselho de Ministros, 4 de Abril de 1975. - O Primeiro-Ministro, Vasco dos Santos Gonçalves.
