@@ -1,0 +1,43 @@
+# Inclusão de dados pessoais dos assinantes nas listas telefónicas e serviço informativo no âmbito do serviço universal de telecomunicações
+
+Decisão de 2003-12-18 · publicado em 2003-12-18
+
+Por deliberação de 18 de Dezembro de 2003, foi aprovada a decisão relativa à inclusão de dados pessoais dos assinantes nas listas telefónicas e serviço informativo no âmbito do serviço universal de telecomunicações.
+
+Deliberação
+
+Em 21/03/2003 foi aprovado o projecto de decisão relativo à inclusão dos dados pessoais dos assinantes nas listas telefónicas e serviço informativo, DE008403CA. Este projecto de decisão determina aos prestadores que assegurem a inclusão nos contratos da indicação expressa da vontade do assinante sobre a inclusão ou não, dos respectivos dados pessoais nas listas de utilizadores e a sua divulgação através de serviços informativos, determinando que, em caso de não preenchimento do espaço reservado aquela manifestação de vontade, ficam os dados disponíveis para serem cedidos ao prestador de serviço universal, para inclusão em listas de assinantes e divulgação no serviço informativo a disponibilizar no âmbito do Serviço Universal de Telecomunicações.
+
+Em sede de audiência de interessados os prestadores do serviço fixo de telefone apenas manifestaram a sua discordância relativamente aos prazos fixados na deliberação. Dois prestadores do Serviço Telefónico Móvel, Vodafone Telecel – Comunicações Pessoais, S.A. e Optimus – Telecomunicações, S.A., entenderam que os dados pessoais do assinante só poderão ser disponibilizados mediante manifestação expressa de vontade. Não se pode presumir que, nada dizendo, o assinante deu o seu consentimento à transmissão dos dados. Presumir ainda o seu consentimento para que os dados sejam transferidos, para um operador que não escolheu, será exorbitar o propósito da Lei n.º 69/98, de 28 de Outubro e contrariar todas as regras legais e constitucionais que procuram assegurar a estrita defesa dos dados pessoais e a protecção da privacidade dos assinantes.
+
+Consultada sobre o referido projecto, a Comissão Nacional de Protecção de Dados ( CNPD ), considerou que globalmente, no que se refere à inclusão de dados pessoais dos assinantes nas listas telefónicas e serviço informativo no âmbito do Serviço Universal de Telecomunicações os seus termos respondem às exigências da legislação portuguesa relativa à protecção de dados pessoais. Assinalou, no entanto, a existência de regimes diferentes para o serviço fixo de telefone e para o serviço telefónico móvel.
+
+Em relação ao serviço telefónico móvel, a alínea g) do n.º 2 do artigo 9.º do Regulamento de Exploração aprovado pelo Decreto-Lei n.º 290-B/99, de 30 de Julho, prevê que dos contratos de adesão, deve constar uma indicação expressa da vontade do utilizador sobre a inclusão ou não dos respectivos elementos pessoais nas listas de utilizadores e a sua divulgação através de serviços informativos, envolvendo ou não a sua transmissão a terceiros. Entende a CNPD que esta asserção surge mais claramente concretizada no n.º 1 do artigo 10.º do mesmo Regulamento ao dispôr que os prestadores dos serviços telefónicos devem garantir a inscrição gratuita em lista de assinantes dos utilizadores que expressamente o solicitem com observância das normas relativas à protecção de dados pessoais e da vida privada.
+
+Sobre o serviço fixo de telefone, a alínea b) do n.º 3 do artigo 17.º do Decreto-Lei n.º 474/99, de 8 de Novembro, explicita que deve constar dos contratos de adesão a indicação expressa da vontade do assinante sobre a inclusão ou não dos respectivos elementos pessoais nas listas telefónicas e a sua divulgação através dos serviços informativos, envolvendo ou não a sua transmissão a terceiros para igual fim ou diverso.
+
+Comparando os regimes expostos, entende a CNPD que em relação ao serviço fixo de telefone, não existe necessidade de expressa solicitação do titular dos dados, ao invés do que está previsto em relação aos serviços telefónicos móveis.
+
+Desta forma conclui que a inclusão de dados pessoais de titulares de números de telefone móveis carece de solicitação expressa prévia, não podendo aceitar-se que, por defeito os dados pessoais do assinante do serviço móvel, sejam disponibilizados na lista telefónica e no serviço informativo.
+
+Se em relação ao serviço fixo de telefone não foi assinalado qualquer tipo de impedimento à adopção da Deliberação, em relação aos móveis entendeu-se que o projecto de decisão contraria a legislação em vigor.
+
+Sobre esta matéria importa também atender ao regime estabelecido na Directiva 2002/58/CE do Parlamento Europeu e do Conselho, de 12 de Julho de 2002, relativa ao tratamento de dados pessoais e à protecção da privacidade no sector das comunicações electrónicas, no que respeita a listas telefónicas, que prevê que os dados só poderão ser cedidos mediante consentimento do seu titular, e em caso afirmativo o seu titular terá ainda de decidir quais os dados a incluir.
+
+O regime desta Directiva cuja transposição para o ordenamento jurídico nacional estará concluído para breve, é consentâneo com a interpretação que actualmente a CNPD faz, bem como dos operadores móveis que se opõe à adopção desta medida.
+
+Desta forma, visando assegurar, no momento actual, a rápida e efectiva disponibilização de uma lista de assinantes, do serviço universal, considerou-se que a forma mais exequível de concretizar esta medida será adoptar uma deliberação em que se fixe um regime diferenciado para o SFT e para o STM, acolhendo, desde já a doutrina a implementar com a nova Directiva, cujo regime se dirige à generalidade dos serviços de telecomunicações fixos e móveis.
+
+Considerando as disposições fixadas nesta Directiva e tendo presente a argumentação expendida pelos prestadores dos serviços telefónicos móveis e pela Comissão Nacional de Protecção de Dados, o ICP-ANACOM entende justificada a alteração do sentido da Deliberação, pois no momento actual só desta forma se permite nos termos da lei regular a relação entre prestadores do serviço móvel e o prestador do Serviço Universal, acautelando a disponibilização de lista global e o integral cumprimento dos compromissos do Estado Português no domínio das medidas comunitárias previstas na Directiva 98/10/CE e 2002/58/CE.
+
+Pelo exposto e visando assegurar, em toda a sua extensão, os direitos que os clientes dos serviços telefónicos têm de figurar em listas telefónicas e serviços informativos, e garantir o eficaz cumprimento das obrigações emergentes do Decreto-Lei n.º 458/99, de 5 de Novembro, em particular a obrigação que impende sobre o prestador do serviço universal de elaborar, publicar e disponibilizar aos utilizadores listas de assinantes do serviço de telefone fixo e do serviço telefónico móvel, o Conselho de Administração do ICP-ANACOM, nos termos da alínea g) do n.º 2 do artigo 9.º e 10.º do Regulamento de Exploração dos Serviços de Telecomunicações de Uso Público, aprovado pelo Decreto-Lei n.º 290-B/99, de 30 de Julho, bem como da alínea b) do n.º 3 do artigo 17.º do Regulamento de Exploração do Serviço Fixo de Telefone, aprovado pelo Decreto-Lei n.º 474/99, de 8 de Novembro, determina, ao abrigo do disposto na alínea g) do artigo 9.º, no artigo 17.º e na alínea l) do artigo 26.º dos Estatutos do ICP-ANACOM, anexos ao Decreto-Lei n.º 309/2001, de 7 de Dezembro, que:
+
+1. Os prestadores dos serviços telefónicos móveis devem, no prazo de 30 (trinta) dias solicitar aos seus clientes que, de forma expressa, manifestem a sua vontade sobre a inclusão dos seus dados nas listas e serviços informativos, e em particular no âmbito do Serviço Universal de Telecomunicações, esclarecendo-os que a ausência de manifestação expressa de vontade do assinante vale como uma manifestação de vontade no sentido de não querer figurar em lista.
+
+2. No prazo de 45 (quarenta e cinco) dias, os prestadores do serviço telefónico móvel devem remeter ao prestador do Serviço Universal os elementos de todos os seus clientes que expressamente tenham autorizado a cedência dos seus dados.
+
+3. No mesmo prazo, devem remeter ao ICP-ANACOM informação sobre a forma e modo como foi dado cumprimento ao disposto nos números anteriores, bem como indicação do número de clientes que solicitaram a sua inscrição em listas e número de clientes que não se pronunciaram.
+
+4. Os prestadores do SFT devem assegurar o cumprimento do disposto nos números anteriores, nos mesmos prazos e de acordo com os mesmos procedimentos, imediatamente após a entrada em vigor da Lei que transpõe a Directiva 2002/58/CE, de 12 de Julho de 2002, relativa ao tratamento de dados pessoais e a protecção da privacidade no sector das comunicações electrónicas.
+
+Fonte: https://www.anacom.pt/render.jsp?contentId=403718
