@@ -1,0 +1,451 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "134",
+    "id": "29153",
+    "titulo": "Estatuto Politico-Administrativo da Região Autónoma da Madeira"
+  },
+  "fase": "Discussão generalidade decreto",
+  "codigo_fase": "440",
+  "data_registo": "1991-02-14",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "4921",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "440",
+    "Comissao": null,
+    "DataFase": "1991-02-14",
+    "EvtId": "20",
+    "Fase": "Discussão generalidade decreto",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1991-02-14",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159072",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1365-1366"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-15",
+                "pubLeg": "V",
+                "pubNr": "42",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/042/1991-02-15/1365?pgs=1365-1366&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto Politico-Administrativo da Região Autónoma da Madeira",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159073",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1366-1366"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-15",
+                "pubLeg": "V",
+                "pubNr": "42",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/042/1991-02-15/1366?pgs=1366&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto Politico-Administrativo da Região Autónoma da Madeira",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159074",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1366-1367"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-15",
+                "pubLeg": "V",
+                "pubNr": "42",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/042/1991-02-15/1366?pgs=1366-1367&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto Politico-Administrativo da Região Autónoma da Madeira",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159075",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1367-1368"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-15",
+                "pubLeg": "V",
+                "pubNr": "42",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/042/1991-02-15/1367?pgs=1367-1368&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto Politico-Administrativo da Região Autónoma da Madeira",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159076",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1368-1369"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-15",
+                "pubLeg": "V",
+                "pubNr": "42",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/042/1991-02-15/1368?pgs=1368-1369&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto Politico-Administrativo da Região Autónoma da Madeira",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159077",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1369-1369"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-15",
+                "pubLeg": "V",
+                "pubNr": "42",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/042/1991-02-15/1369?pgs=1369&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto Politico-Administrativo da Região Autónoma da Madeira",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159078",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1369-1370"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-15",
+                "pubLeg": "V",
+                "pubNr": "42",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/042/1991-02-15/1369?pgs=1369-1370&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto Politico-Administrativo da Região Autónoma da Madeira",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159079",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1369-1369"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-15",
+                "pubLeg": "V",
+                "pubNr": "42",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/042/1991-02-15/1369?pgs=1369&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto Politico-Administrativo da Região Autónoma da Madeira",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159080",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1369-1369"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-15",
+                "pubLeg": "V",
+                "pubNr": "42",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/042/1991-02-15/1369?pgs=1369&org=PLC"
+              }
+            ],
+            "sumario": "Estatuto Politico-Administrativo da Região Autónoma da Madeira",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": "Texto expurgado preparado pela Comissão",
+    "OevId": "224852",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "4921",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1991-02-15",
+        "pubLeg": "V",
+        "pubNr": "42",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/042/1991-02-15?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
