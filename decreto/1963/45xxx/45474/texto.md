@@ -1,0 +1,6 @@
+Decreto n.º 45474
+Com fundamento nas disposições do artigo 3.º do Decreto-Lei n.º 24914, de 10 de Janeiro de 1935, e mediante proposta aprovada pelo Ministro das Finanças, nos termos do mesmo artigo;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo único. É autorizada a Emissora Nacional de Radiodifusão a satisfazer, em conta da verba de despesas de anos económicos findos, inscrita no seu actual orçamento privativo, a quantia de 323563$90, respeitante a despesas de cobrança, telefones e direitos de autor.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 28 de Dezembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
