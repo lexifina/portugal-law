@@ -1,0 +1,7 @@
+Decreto-Lei n.º 45071
+Tornando-se conveniente adaptar a composição do Conselho Superior de Obras Públicas ao desenvolvimento verificado no número e importância dos problemas de urbanização para cujo estudo é pedida a sua intervenção;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. A alínea i) do artigo 2.º do Decreto-Lei n.º 37015, de 16 de Agosto de 1948, passa a ter a seguinte redacção:
+i) Os professores de Estradas, de Caminhos de Ferro, de Pontes, de Estabilidade, de Portos de Mar, de Hidráulica Aplicada e Agrícola, de Construções Civis, de Urbanização, de Higiene e Salubridade, de Aplicações de Electricidade ou de Electrotécnica e de Turbinas Hidráulicas do Instituto Superior Técnico ou da Faculdade de Engenharia da Universidade do Porto;
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 14 de Junho de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
