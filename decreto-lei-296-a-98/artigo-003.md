@@ -2,4 +2,4 @@
 
 ### Limitações quantitativas
 
-O ingresso em cada par instituição/ciclo de estudos está sujeito a limitações quantitativas, decorrentes do número de vagas fixado nos termos do presente decreto-lei.
+O ingresso em cada par estabelecimento/curso de ensino superior está sujeito a limitações quantitativas, decorrentes do número de vagas fixado anualmente nos termos do presente diploma.

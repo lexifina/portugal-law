@@ -1,5 +1,5 @@
 # Artigo 38.º
 
-### Informação sobre o acesso ao ensino superior
+### Guias para o acesso ao ensino superior
 
-A Direcção-Geral do Ensino Superior assegura a divulgação através da Internet e de outros meios que considerar adequados de toda a informação relevante acerca do acesso ao ensino superior, nomeadamente a referente às normas legais aplicáveis, às provas de ingresso, aos pré-requisitos, às preferências regionais e outras, às classificações mínimas, à fórmula da nota de candidatura e às vagas para a candidatura a cada par estabelecimento/curso.
+A CNAES e o Departamento do Ensino Superior promovem a edição anual das publicações necessárias à divulgação das informações relevantes acerca do acesso ao ensino superior, nomeadamente as normas legais aplicáveis, as provas de ingresso, os pré-requisitos, as preferências regionais e outras, as classificações mínimas, a fórmula da nota de candidatura e as vagas para a candidatura a cada par estabelecimento/curso.

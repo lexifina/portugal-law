@@ -2,14 +2,6 @@
 
 ### Provas para ingresso em cada par estabelecimento/curso
 
-1 - De entre o elenco a que se refere o artigo 18.º, cada estabelecimento de ensino superior fixa, através do seu órgão legal e estatutariamente competente, as provas que exige para o ingresso em cada um dos seus cursos.
+1 - De entre o elenco a que se refere o artigo 18.º, cada estabelecimento de ensino superior fixa, através dos seus órgãos legal e estatutariamente competentes, as provas que exige para o ingresso em cada um dos seus cursos.
 
-2 - Quando o elenco estiver organizado em subelencos por áreas de estudo, a fixação das provas para cada par estabelecimento/curso é feita de entre as provas que constituem o subelenco em que se integra o curso.
-
-3 - O número de provas exigidas para o ingresso em cada par instituição/ciclo de estudos não pode ser inferior a um nem superior a três.
-
-4 - O número de elencos alternativos de provas fixado para cada par instituição/ciclo de estudos não pode ser superior a seis.
-
-5 - (Revogado.)
-
-6 - À fixação das disciplinas sobre que devem incidir as provas de capacidade para a frequência dos ciclos de estudos de licenciatura ou integrados de mestrado aplica-se igualmente o disposto no artigo 181.º da Lei n.º 62/2007, de 10 de Setembro.
+2 - Cada estabelecimento de ensino superior pode ainda, através dos seus órgãos legal e estatutariamente competentes, determinar que os estudantes titulares de determinados cursos não portugueses legalmente equivalentes ao ensino secundário português possam apresentar, em lugar das provas escolhidas nos termos do número anterior, os exames finais de determinadas disciplinas desses cursos.

@@ -6,4 +6,4 @@
 
 ### Objecto
 
-O presente decreto-lei regula o regime geral de acesso e ingresso no ensino superior.
+O presente diploma regula o regime de acesso e ingresso no ensino superior.
