@@ -1,0 +1,4 @@
+Declaração de rectificação n.º 28-P/91
+Segundo comunicação do Ministério da Indústria e Energia, o Despacho Normativo n.º 179/90, publicado no Diário da República, 1.ª série, n.º 300 (6.º suplemento), de 31 de Dezembro de 1990, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No anexo, na medida C, na submedida C1, onde se lê «Vencimentos de técnicos admitidos pelos ON para o Secretariado de Comissões Técnicas (no máximo duas)» deve ler-se «Vencimentos de técnicos admitidos pelos ON para o Secretariado de Comissões Técnicas (no máximo dois)», e na medida D, na submedida D3, na coluna «Limite máximo de apoio por projecto (103 PTE)», deve constar o montante de 35000.
+Secretaria-Geral da Presidência do Conselho de Ministros, 26 de Fevereiro de 1991. - O Secretário-Geral, França Martins.
