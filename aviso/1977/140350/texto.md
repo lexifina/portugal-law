@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que a Embaixada da Roménia em Lisboa enviou ao Ministério dos Negócios Estrangeiros uma nota verbal, datada de 8 de Fevereiro de 1977, informando que a parte romena já dera cumprimento às formalidades constitucionais relativas à aprovação e entrada em vigor da Convenção Sanitário-Veterinária entre o Governo da República Portuguesa e o Governo da República Socialista da Roménia, assinada em Lisboa em 31 de Outubro de 1975, e publicada no Diário do Governo, 1.ª série, n.º 113, de 11 de Maio de 1976, em resposta a uma nota verbal deste Ministério, datada de 6 de Julho de 1976, que informava estarem cumpridas aquelas formalidades pela parte portuguesa.
+Nesta conformidade, e segundo o disposto no artigo 7, a Convenção em apreço entrou em vigor no dia 8 de Fevereiro de 1977.
+Direcção-Geral dos Negócios Económicos, 16 de Fevereiro de 1977. - O Director-Geral-Adjunto, Paulo Manuel Lage David Ennes.
