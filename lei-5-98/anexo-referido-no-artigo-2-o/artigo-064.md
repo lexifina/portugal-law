@@ -1,6 +1,6 @@
 # Artigo 64.º
 
-1 - Em tudo o que não esteja previsto na presente lei e nos regulamentos adoptados em sua execução, o Banco, salvo o disposto no número seguinte, rege-se pelas normas da legislação reguladora da actividade das instituições de crédito, quando aplicáveis, e pelas demais normas e princípios de direito de privado, bem como, no que se refere aos membros dos órgãos de administração, pelo Estatuto do Gestor Público.
+1 - Em tudo o que não estiver previsto na presente Lei Orgânica e nos regulamentos adoptados em sua execução, o Banco, salvo o disposto no número seguinte, rege-se pelas normas da legislação reguladora da actividade das instituições de crédito, quando aplicáveis, e pelas demais normas e princípios do direito privado.
 
 2 - No exercício de poderes públicos de autoridade, são aplicáveis ao Banco as disposições do Código do Procedimento Administrativo e quaisquer outras normas e princípios de âmbito geral respeitantes aos actos administrativos do Estado.
 

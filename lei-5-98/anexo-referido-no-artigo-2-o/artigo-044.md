@@ -8,4 +8,4 @@
 
 4 - Aplica-se às actas do conselho de auditoria o regime do artigo 38.º
 
-5 - Os membros do conselho de auditoria têm direito a remuneração mensal, fixada pelo Ministro das Finanças, a qual não pode integrar qualquer componente variável.
+5 - Os membros do conselho de auditoria têm direito a remuneração mensal, fixada pelo Ministro das Finanças.

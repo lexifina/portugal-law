@@ -4,7 +4,7 @@
 
 a) Custos operacionais e administrativos anuais;
 
-b) Dotações anuais para constituição ou reforço de provisões destinadas à cobertura de riscos de depreciação de activos ou à ocorrência de outras eventualidades a que se julgue necessário prover, bem como de uma reserva especial relativa aos ganhos em operações de alienação de ouro, nos termos definidos pelo conselho de administração;
+b) Dotações anuais para a constituição ou reforço de provisões destinadas à cobertura de créditos de cobrança duvidosa e de riscos de depreciação de outros valores activos ou à ocorrência de outras eventualidades a que se julgue necessário prover, nos termos definidos pelo conselho de administração;
 
 c) Eventuais dotações especiais para o Fundo de Pensões;
 
