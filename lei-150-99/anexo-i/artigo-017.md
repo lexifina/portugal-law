@@ -2,7 +2,7 @@
 
 ### Prazo, local de pagamento, caducidade e juros compensatórios
 
-1 - O imposto é entregue pelas entidades a quem incumba essa obrigação nos serviços locais ou qualquer outro local autorizado nos termos da lei até ao final do mês seguinte àquele em que a obrigação tributária se tenha constituído.
+1 - O imposto é entregue pelas entidades a quem incumba essa obrigação nos serviços locais ou qualquer outro local autorizado nos termos da lei até ao dia 20 do mês seguinte àquele em que a obrigação tributária se tenha constituído.
 
 2 - Nos documentos, títulos e livros sujeitos a imposto são mencionados o valor do imposto e a data da liquidação.
 
