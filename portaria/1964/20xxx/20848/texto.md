@@ -1,0 +1,4 @@
+Portaria n.º 20848
+Nos termos do artigo 3.º do Decreto-Lei n.º 31913, de 12 de Março de 1942, e dos artigos 24.º, n.º 19.º, com a nova redacção dada pelo Decreto-Lei n.º 41723, de 8 de Julho de 1958, e 170.º, § 1.º, do Decreto-Lei n.º 35108, de 7 de Novembro de 1945:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Saúde e Assistência, incluir no mapa 1) Sanatório do Dr. João de Almada, subdelegação do Funchal, da Portaria n.º 16808, de 8 de Agosto de 1958, o lugar de analista-chefe de laboratório com o vencimento correspondente à letra N do artigo 1.º do Decreto-Lei n.º 42046, de 23 de Dezembro de 1958, sendo extinto o lugar de terceiro-analista constante do mesmo mapa.
+Ministérios das Finanças e da Saúde e Assistência, 14 Outubro de 1964. - Pelo Ministro das Finanças, Manuel Tarujo de Almeida, Subsecretário de Estado do Orçamento. - O Ministro da Saúde e Assistência, Francisco Pereira Neto de Carvalho.
