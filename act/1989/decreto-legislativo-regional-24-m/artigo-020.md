@@ -1,0 +1,17 @@
+# Artigo 20.º
+
+### Estatuto
+
+1 - O secretário-geral é nomeado pelo Presidente da Assembleia Legislativa Regional, em comissão de serviço e pelo período da legislatura, obtido o parecer favorável do Conselho de Administração, e permanece em funções até à nomeação do novo secretário-geral.
+
+2 - O secretário-geral da Assembleia Legislativa Regional pode ser exonerado a todo o tempo pelo Presidente da Assembleia Legislativa Regional, obtido o parecer favorável do Conselho de Administração.
+
+3 - O secretário-geral não pode exercer actividades profissionais privadas nem desempenhar outras funções públicas, salvo as que resultem de inerência ou de actividades de reconhecido interesse público cujo exercício seja autorizado por despacho do Presidente da Assembleia Legislativa Regional.
+
+4 - O secretário-geral é substituído nas suas faltas e impedimentos por quem o Presidente da Assembleia Legislativa Regional designar.
+
+5 - A remuneração do secretário-geral é igual ao vencimento base fixado para o cargo de director-geral, acrescido da diferença entre o vencimento deste e o de subdirector-geral, e poderá ser atribuído um abono para despesas de representação a fixar pelo Presidente da Assembleia Legislativa Regional, ouvido o Conselho de Administração, o qual não poderá exceder os limites estabelecidos para os secretários-gerais dos órgãos de soberania.
+
+6 - No exercício das suas atribuições, o secretário-geral pode dispor de um secretário auxiliar, a requisitar aos departamentos da Administração Pública, com vencimento igual a 85% do vencimento dos secretários, aplicando-se-lhe o disposto no artigo 11.º, sendo portador de um cartão de identidade, conforme anexo II do presente diploma.
+
+7 - O secretário-geral é portador de um cartão de identidade conforme anexo II do presente diploma.
