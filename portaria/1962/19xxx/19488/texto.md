@@ -1,0 +1,4 @@
+Portaria n.º 19488
+Considerando a necessidade de dispensar o tempo de embarque, que constitui uma das condições especiais de promoção, aos segundos-grumetes que frequentam cursos preparatórios à admissão dos cursos de alistamento ou estes mesmos cursos, procedimento, aliás, já adoptado para os segundos-grumetes que frequentam os cursos preparatórios à admissão dos cursos de alistamento ou estes mesmos cursos, procedimento, aliás, já adoptado para os segundos-grumetes que frequentamos os cursos do 1.º grau:
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, que aos segundos-grumetes que frequentam os cursos preparatórios para a admissão aos cursos de alistamento ou estes mesmos cursos seja dispensado o tempo de embarque, que constitui uma das condições de promoção a primeiro-grumete.
+Ministério da Marinha, 8 de Novembro de 1962. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.
