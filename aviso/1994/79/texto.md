@@ -1,0 +1,6 @@
+Aviso n.º 79/94
+Por ordem superior se torna público que o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos, depositário da Convenção Relativa ao Processo Civil, concluída na Haia, em 1 de Março de 1954, informou os Estados membros da Conferência da Haia de Direito Internacional Privado e os Estados aderentes à Convenção que a mesma se mantém em vigor entre os Estados Contratantes e a República da Bósnia-Herzegovina.
+A República da Bósnia-Herzegovina fez a seguinte declaração:
+O Governo da República da Bósnia-Herzegovina designa o Ministério da Justiça e da Administração como autoridade competente para os fins previstos no artigo 1.º da Convenção.
+Relativamente a Portugal, a Convenção foi aprovada para ratificação pelo Decreto-Lei n.º 47097, de 14 de Julho de 1966, conforme Diário do Governo, n.º 162, de 14 de Julho de 1966. O instrumento de ratificação foi depositado em 3 de Julho de 1967, segundo avisos de 7 de Agosto de 1967, Diário do Governo, n.º 196, de 23 de Agosto de 1967, e de 5 de Dezembro de 1967, conforme Diário do Governo, n.º 1, de 2 de Janeiro de 1968, e a Convenção entrou em vigor para o nosso país em 31 de Agosto de 1967.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 2 de Fevereiro de 1994. - O Secretário-Geral-Adjunto, Afonso de Castro de Sá Pereira e Vasconcelos.
