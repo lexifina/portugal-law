@@ -1,0 +1,3 @@
+Despacho Normativo n.º 291/78
+Em todos os casos existentes em que, mediante remuneração, quaisquer entidades ocupantes ou beneficiárias de terra expropriada ou nacionalizada hajam cedido a outrem, total ou parcialmente, a posse útil dessa terra, deverão os cessionários ser considerados, de imediato, os exclusivos beneficiários da entrega dessa terra, para todos os efeitos. As respectivas rendas ou contraprestações deverão ser entregues ao Estado à ordem do director do Instituto de Gestão e Estruturação Fundiária.
+Secretaria de Estado da Estruturação Agrária, 22 de Setembro de 1978. - O Secretário de Estado da Estruturação Agrária, Augusto Martins Ferreira do Amaral.
