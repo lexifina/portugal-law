@@ -1,5 +1,5 @@
 # Artigo 192.º
 
-### Promoção de supranumerários
+### Promoção de adidos
 
-O militar na situação de supranumerário que seja promovido por antiguidade ou escolha ocupa vaga no seu novo posto.
+O militar adido ao quadro que seja promovido por antiguidade ou por escolha mantém-se na mesma situação em relação ao quadro, apenas ocupando a vaga que deu origem à sua promoção se o novo posto impossibilitar a sua permanência na situação de adido.

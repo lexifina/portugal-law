@@ -1,25 +1,37 @@
 # Artigo 174.º
 
-### Supranumerário
+### Adido ao quadro
 
-1 - Considera-se supranumerário o militar no activo que, não estando na situação de adido, não possa ocupar vaga no quadro especial a que pertence por falta de vacatura no seu posto.
+1 - Considera-se adido ao quadro o militar no activo que se encontre em comissão especial, inactividade temporária ou licença ilimitada.
 
-2 - A situação de supranumerário pode resultar de qualquer das seguintes circunstâncias:
+2 - Considera-se ainda adido ao quadro o militar que, em comissão normal, se encontre numa das seguintes situações:
 
-a) Ingresso no quadro especial;
+a) Pertença aos quadros orgânicos dos comandos, quartéis-generais ou estados-maiores conjuntos ou combinados;
 
-b) Promoção por distinção;
+b) Represente o País, a título permanente, em organismos militares internacionais;
 
-c) Promoção de militar demorado, quando tenha cessado o motivo que temporariamente o excluiu da promoção;
+c) Desempenhe o cargo de adido de defesa ou dos ramos junto das representações diplomáticas no estrangeiro ou preste serviço junto dos gabinetes dos respectivos adidos;
 
-d) Transferência de quadro especial;
+d) Desempenhe cargos no âmbito de projectos de cooperação técnico-militar, pelo período mínimo de um ano;
 
-e) Regresso da situação de adido;
+e) Exerça funções na Casa Militar do Presidente da República;
 
-f) Reabilitação em consequência da revisão de processo disciplinar ou criminal;
+f) Receba o vencimento por outro departamento do Estado ou por organismos autónomos dos departamentos das Forças Armadas;
 
-g) Outras circunstâncias previstas na lei.
+g) Exerça funções em organismos não militares ou militares não dependentes do respectivo ramo;
 
-3 - O militar supranumerário preenche obrigatoriamente a primeira vaga que ocorra no respectivo quadro especial e no seu posto, pela ordem cronológica da sua colocação naquela situação, ressalvados os casos especiais previstos na lei.
+h) Sendo almirante ou general, não exerça a função de CEM do respectivo ramo;
 
-4 - Quando do antecedente não existam supranumerários e se verifique no mesmo dia uma vacatura e uma situação de supranumerário, este ocupa aquela vacatura.
+i) Aguarde a execução da decisão que determinou a separação do serviço;
+
+j) Tendo passado à situação de reserva ou de reforma, aguarde a publicação da respectiva decisão;
+
+l) Esteja sustada a transição para a situação de reserva, nos termos do artigo 159.º;
+
+m) Seja deficiente das Forças Armadas e tenha, nos termos da lei, optado pela prestação de serviço no activo;
+
+n) Seja considerado desertor, prisioneiro de guerra ou desaparecido;
+
+o) Quando colocado nessa situação por expressa disposição legal.
+
+3 - O militar adido ao quadro não é contado nos efectivos do respectivo quadro especial.

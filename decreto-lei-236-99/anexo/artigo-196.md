@@ -1,15 +1,17 @@
+## Capítulo VIII
+
+## Ensino e formação militar
+
 # Artigo 196.º
 
-### Nomeação para os cursos de promoção
+### Cursos, tirocínios ou estágios
 
-1 - A nomeação do militar para os cursos de promoção é feita por despacho do CEM do ramo respectivo, tendo em conta:
+1 - O processo de admissão, o regime escolar e a organização dos cursos, tirocínios ou estágios que habilitam ao ingresso nas várias categorias dos QP são regulados em legislação própria.
 
-a) As necessidades do ramo;
+2 - O número de vagas para admissão aos cursos, tirocínios ou estágios para ingresso nas várias categorias dos QP é fixado anualmente por despacho do MDN, sob proposta do CEM do ramo respectivo, tendo em conta:
 
-b) As condições de acesso legalmente fixadas;
+a) As necessidades estruturais e organizacionais e as decorrentes necessidades de alimentação dos quadros especiais;
 
-c) A posição do militar na lista de antiguidade do posto a que pertence.
+b) A programação e desenvolvimento da carreira nas diferentes categorias.
 
-2 - O militar dispensado da frequência de curso de promoção, nos termos do artigo 189.º, deve frequentá-lo, logo que possível, sem carácter classificativo.
-
-3 - Não é nomeado para o curso de promoção o militar que vier a atingir o limite de idade de passagem à situação de reserva no período determinado para a ocorrência do curso.
+3 - Os efectivos recrutados ao abrigo do artigo 133.º que frequentem cursos, tirocínios ou estágios para ingresso nas várias categorias dos QP, abreviadamente designados por militares alunos, ficam sujeitos ao regime geral de deveres e direitos respeitantes aos militares, da forma de prestação de serviço a que se destinam, com as adaptações decorrentes da sua condição de alunos constantes de legislação própria.

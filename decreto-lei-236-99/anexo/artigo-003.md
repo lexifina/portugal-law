@@ -10,4 +10,4 @@ b) Serviço efectivo em regime de contrato (RC);
 
 c) Serviço efectivo em regime de voluntariado (RV);
 
-d) Serviço efectivo decorrente de convocação ou mobilização.
+d) Serviço decorrente de convocação ou mobilização.

@@ -1,15 +1,15 @@
 # Artigo 275.º
 
-### Cursos, tirocínios e estágios
+### Condições especiais de promoção
 
-Os sargentos do Exército recebem a preparação cultural, técnica e profissional-militar, essencialmente pela frequência de:
+1 - É condição especial de promoção ao posto de primeiro-sargento ter cumprido o tempo mínimo de permanência referido na alínea a) do artigo 264.º, nas unidades, escolas, centros de instrução e nos órgãos técnicos dos serviços.
 
-a) Curso de formação inicial;
+2 - São condições especiais de promoção ao posto de sargento-ajudante, para além do tempo mínimo de permanência referido na alínea b) do artigo 264.º:
 
-b) Cursos de promoção;
+a) Frequência, com aproveitamento, do curso de promoção a sargento-ajudante;
 
-c) Cursos de especialização ou qualificação;
+b) Ter prestado, no mínimo, dois anos de serviço efectivo em unidades, escolas práticas, centros de instrução, estabelecimentos ou órgãos próprios da respectiva arma ou serviço.
 
-d) Cursos de actualização;
+3 - É condição especial de promoção ao posto de sargento-chefe, para além dos tempos mínimos de permanência estabelecidos no artigo 264.º, a frequência, com aproveitamento, do curso de promoção a sargento-chefe.
 
-e) Tirocínios e estágios.
+4 - É condição especial de promoção ao posto de sargento-mor, para além dos tempos mínimos de permanência referidos no artigo 264.º, o exercício, como sargento-chefe, pelo menos durante um ano seguido, de funções de adjunto de comandante de batalhão ou órgão de escalão equivalente ou de chefia em actividades técnicas.

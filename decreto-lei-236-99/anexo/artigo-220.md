@@ -1,9 +1,9 @@
 # Artigo 220.º
 
-### Situação especial de transição para a reserva
+### Suspensão da transição para a reserva
 
-Os almirantes ou generais que cessem as funções que determinaram a sua promoção transitam para a reserva 120 dias após a data da cessação das respectivas funções, se antes do termo deste prazo não forem nomeados para:
+1 - Aos oficiais generais que, nos termos da LDNFA, sejam nomeados para os cargos de CEMGFA, CEM dos ramos ou presidente do STM é suspenso o limite de idade de passagem à reserva enquanto permanecerem no desempenho dos referidos cargos.
 
-a) Cargo para o qual a lei exija o posto de almirante ou general;
+2 - O disposto no número anterior aplica-se aos oficiais generais nomeados para cargos militares em organizações internacionais de que Portugal faça parte e a que corresponda o posto de almirante ou general.
 
-b) Funções que, por diploma legal, sejam consideradas compatíveis com o seu posto.
+3 - O disposto no número anterior aplica-se ainda aos militares nomeados para o cargo de Ministro da República e para membro do Governo ou cargo legalmente equiparado.

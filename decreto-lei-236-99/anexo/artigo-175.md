@@ -1,23 +1,25 @@
-## Capítulo VI
-
-## Antiguidade e tempo de serviço
-
 # Artigo 175.º
 
-### Data da antiguidade
+### Supranumerário
 
-1 - A data da antiguidade no posto corresponde:
+1 - Considera-se supranumerário o militar no activo que, não estando na situação de adido, não possa ocupar vaga no quadro especial a que pertence por falta de vacatura no seu posto.
 
-a) Nas promoções por diuturnidade, à data em que o militar reúne as condições de promoção ou em que cessem os motivos da preterição;
+2 - A situação de supranumerário pode resultar de qualquer das seguintes circunstâncias:
 
-b) Nas promoções por escolha ou antiguidade, à data em que ocorre a vacatura que motiva a promoção ou em que, cessados os motivos da preterição, ocorra a vacatura em relação à qual o militar é promovido;
+a) Ingresso no quadro especial;
 
-c) Nas promoções por distinção, à data em que foi praticado o feito que a motiva, se outra não for indicada no diploma de promoção;
+b) Promoção por distinção;
 
-d) À data que lhe teria sido atribuída, se não tivesse estado na situação de demorado, logo que cessem os motivos desta situação.
+c) Promoção de militar demorado, quando tenha cessado o motivo que temporariamente o excluiu da promoção;
 
-2 - Nas modalidades de promoção por escolha ou antiguidade, se na data em que ocorrer vacatura não existirem militares que reúnam as condições de promoção, a antiguidade do militar que vier a ser promovido por motivo dessa vacatura corresponderá à data em que satisfizer as referidas condições.
+d) Transferência de quadro especial;
 
-3 - A data de abertura de vacatura por incapacidade física ou psíquica de um militar é a da homologação do parecer da junta de saúde pelo CEM respectivo.
+e) Regresso da situação de adido;
 
-4 - A data da antiguidade do militar a quem seja alterada a colocação na lista de antiguidade do seu posto por efeito do n.º 1 do artigo 54.º é a do militar do seu quadro especial que, na nova posição, lhe fique imediatamente a seguir na ordem descendente, salvo se outra data for indicada no diploma que determina a alteração.
+f) Reabilitação em consequência da revisão de processo disciplinar ou criminal;
+
+g) Outras circunstâncias previstas na lei.
+
+3 - O militar supranumerário preenche obrigatoriamente a primeira vaga que ocorra no respectivo quadro especial e no seu posto, pela ordem cronológica da sua colocação naquela situação, ressalvados os casos especiais previstos na lei.
+
+4 - Quando do antecedente não existam supranumerários e se verifique no mesmo dia uma vacatura e uma situação de supranumerário, este ocupa aquela vacatura.

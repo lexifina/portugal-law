@@ -1,5 +1,17 @@
+## Subsecção II
+
+## Activo
+
 # Artigo 145.º
 
-### Comissão normal
+### Situações em relação à prestação de serviço
 
-Designa-se comissão normal a prestação de serviço nas Forças Armadas ou fora delas, desde que em cargos e funções militares, bem como nos casos especialmente previstos no presente Estatuto e em legislação própria.
+O militar no activo pode estar, em relação à prestação de serviço, numa das seguintes situações:
+
+a) Comissão normal;
+
+b) Comissão especial;
+
+c) Inactividade temporária;
+
+d) Licença sem vencimento.

@@ -1,15 +1,13 @@
 # Artigo 182.º
 
-### Tempo de serviço efectivo
+### Antiguidade para efeitos de promoção
 
-Conta-se como tempo de serviço efectivo, para além do referido no artigo 46.º, o seguinte:
+Para efeitos de promoção não conta como antiguidade:
 
-a) A frequência de estabelecimentos militares de ensino superior (EMES);
+a) O tempo decorrido na situação de inactividade temporária por motivo de pena de natureza criminal ou disciplinar;
 
-b) A frequência de estabelecimentos de ensino superior necessária à obtenção das habilitações que constituem condições gerais de admissão aos EMES;
+b) O tempo de ausência ilegítima e de deserção;
 
-c) A duração normal dos respectivos cursos de ensino superior e formação complementar exigida, quando tenha ingressado nos QP mediante concurso e depois de completados cinco anos de serviço efectivo no respectivo quadro especial;
+c) O tempo de permanência na situação de licença ilimitada;
 
-d) A frequência de cursos, tirocínios ou estágios nos estabelecimentos militares de ensino que constituem habilitação para o ingresso nos QP na respectiva categoria e quadro;
-
-e) O tempo em que o militar tenha estado compulsivamente afastado do serviço, desde que reintegrado por revisão do respectivo processo.
+d) O tempo de serviço prestado antes do ingresso nos QP.

@@ -1,9 +1,9 @@
 # Artigo 187.º
 
-### Satisfação das condições especiais de promoção
+### Verificação da condição física e psíquica
 
-1 - As condições especiais de promoção são satisfeitas em comissão normal.
+A verificação da condição geral de promoção a que se refere a alínea d) do artigo 56.º é feita:
 
-2 - Sempre que um militar não reúna todas as condições especiais de promoção, mas deva ser incluído no conjunto dos militares a apreciar em virtude da sua antiguidade para efeitos de promoção, é analisado do mesmo modo que os militares com a totalidade das condições, mediante parecer do órgão de gestão de pessoal do ramo, que se pronuncia sobre se o militar deve ou não delas ser dispensado.
+a) Pelas competentes juntas médicas, quando se trate das promoções aos postos de contra-almirante ou major-general, de capitão-tenente ou major e de sargento-chefe;
 
-3 - O militar em comissão especial deve declarar, com a antecedência necessária, se deseja que lhe seja facultada a satisfação das condições especiais de promoção.
+b) Pelos elementos que constam das avaliações periódicas e dos livretes de saúde, quando se trate das promoções a outros postos, devendo o militar, em caso de dúvida, ser presente às juntas referidas na alínea anterior.

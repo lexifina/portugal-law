@@ -1,9 +1,7 @@
 # Artigo 226.º
 
-### Comissão normal
+### Cargos e funções
 
-Para além das situações de comissão normal definidas no artigo 146.º do presente Estatuto, são considerados em comissão normal os oficiais no desempenho dos seguintes cargos ou funções:
+1 - Aos oficiais da Marinha incumbe, designadamente, o exercício de funções de comando, estado-maior e execução nos comandos, forças, unidades, serviços e outros organismos da Marinha, de acordo com os respectivos postos e classes, bem como o exercício de funções que à Marinha respeita nos quartéis-generais ou estados-maiores de comandos de forças conjuntas ou combinadas e ainda noutros departamentos do Estado.
 
-a) Capitães-de-bandeira;
-
-b) No comando e guarnição de navios mercantes, quando, por motivos operacionais, for julgado conveniente o desempenho de tais cargos por oficiais da Armada.
+2 - Os cargos e funções específicos de cada posto são os previstos nos regulamentos e na estrutura orgânica dos comandos, forças, unidades, serviços e órgãos da Marinha, bem como na estrutura de outros organismos e departamentos, nacionais e internacionais, exteriores à Marinha.

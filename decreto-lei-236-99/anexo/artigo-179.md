@@ -1,11 +1,7 @@
 # Artigo 179.º
 
-### Antiguidade por transferência de quadro especial
+### Alteração na antiguidade
 
-1 - Ao militar transferido para outro quadro especial é atribuída a antiguidade do:
+1 - A alteração na data de antiguidade de um militar resultante de modificação da sua colocação na lista de antiguidade deve constar expressamente do documento que determina essa modificação.
 
-a) Posto fixado para início da carreira na respectiva categoria, ficando à esquerda de todos os militares existentes no novo quadro, se a transferência se efectuar por ingresso;
-
-b) Posto e antiguidade que detém, se a transferência se efectuar por reclassificação.
-
-2 - A inscrição na lista de antiguidade do novo quadro obedece ao disposto no artigo seguinte.
+2 - A alteração do ordenamento na lista de antiguidade em consequência da promoção de militares do mesmo quadro especial a um dado posto na mesma data deve expressamente constar do documento oficial de promoção.

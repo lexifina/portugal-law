@@ -4,7 +4,7 @@
 
 Os cursos têm duração variável e são ministrados sob a responsabilidade de um organismo militar ou civil reconhecido para o efeito, revestindo as seguintes tipologias:
 
-a) Cursos de formação inicial que habilitem ao ingresso nas diferentes categorias, visando a habilitação profissional do militar e a aprendizagem de conhecimentos adequados às evoluções da ciência e tecnologia e, bem assim, ao seu desenvolvimento cultural;
+a) Cursos de formação inicial que habilitem ao ingresso nas categorias dos QP, visando a habilitação profissional do militar e a aprendizagem de conhecimentos adequados às evoluções da ciência e tecnologia e, bem assim, ao seu desenvolvimento cultural;
 
 b) Cursos de promoção, destinados a habilitar o militar com os conhecimentos técnico-militares necessários ao desempenho de cargos e exercício de funções de nível e responsabilidade mais elevados, sendo condição especial de acesso ao posto imediato e de avaliação obrigatória;
 

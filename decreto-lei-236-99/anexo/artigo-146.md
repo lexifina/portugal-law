@@ -1,7 +1,5 @@
 # Artigo 146.º
 
-### Comissão especial
+### Comissão normal
 
-1 - Designa-se comissão especial o exercício de funções públicas que, não sendo de natureza militar, assumam interesse nacional.
-
-2 - Ao militar em comissão especial não é permitido o uso de uniforme em actos de serviço relativos às funções a que não corresponde o direito ao uso de insígnias militares.
+Designa-se comissão normal a prestação de serviço nas Forças Armadas ou fora delas, desde que em cargos e funções militares, bem como nos casos especialmente previstos no presente Estatuto e em legislação própria.

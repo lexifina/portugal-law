@@ -1,7 +1,11 @@
 # Artigo 180.º
 
-### Antiguidade relativa
+### Antiguidade por transferência de quadro especial
 
-1 - A antiguidade relativa entre militares pertencentes a quadros especiais diferentes com o mesmo posto ou postos correspondentes é determinada pelas datas de antiguidade nesse posto e, em caso de igualdade destas, pelas datas de antiguidade no posto anterior, e assim sucessivamente, aplicando-se para o posto de ingresso o estabelecido no artigo 178.º
+1 - Ao militar transferido para outro quadro especial é atribuída a antiguidade do:
 
-2 - Dentro de cada posto, para efeitos protocolares, os militares na efectividade de serviço precedem os militares na situação de reserva fora da efectividade de serviço e reforma.
+a) Posto fixado para início da carreira na respectiva categoria, ficando à esquerda de todos os militares existentes no novo quadro, se a transferência se efectuar por ingresso;
+
+b) Posto e antiguidade que detém, se a transferência se efectuar por reclassificação.
+
+2 - A inscrição na lista de antiguidade do novo quadro obedece ao disposto no artigo seguinte.

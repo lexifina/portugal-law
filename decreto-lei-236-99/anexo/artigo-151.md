@@ -1,9 +1,15 @@
 # Artigo 151.º
 
-### Regresso à situação do activo
+### Situações quanto à efectividade de serviço
 
-1 - Regressa ao activo o militar na reserva ou na reforma que desempenhe o cargo de Presidente da República, voltando à situação anterior logo que cesse o seu mandato.
+1 - Considera-se na efectividade de serviço o militar no activo que se encontre:
 
-2 - Regressa ao activo o militar na reserva ou na reforma que seja promovido por distinção ou a título excepcional, voltando à situação anterior se se mantiverem as condições que determinaram a passagem a essas situações.
+a) Em comissão normal;
 
-3 - Regressa ao activo o militar que, tendo transitado para a reserva ou reforma por motivo disciplinar ou criminal, seja reabilitado, sem prejuízo dos limites de idade em vigor.
+b) Na inactividade temporária por acidente ou doença.
+
+2 - Considera-se fora da efectividade de serviço o militar no activo quando, para além do disposto no n.º 3 do artigo 43.º, se encontre:
+
+a) Em comissão especial;
+
+b) De licença ilimitada.

@@ -1,9 +1,5 @@
 # Artigo 212.º
 
-### Almirante da Armada e marechal
+### Comandante-chefe e comandante operacional
 
-1 - Ao almirante ou general e ao vice-almirante ou tenente-general que, no exercício de funções de comando ou direcção suprema, tenha revelado predicados excepcionais, prestado serviços distintíssimos e relevantes ou praticado feitos com honra e lustre para a Nação e para as Forças Armadas pode ser concedido, independentemente da idade ou do vínculo ao serviço, o titulo de almirante da Armada ou de marechal do Exército ou da Força Aérea.
-
-2 - Os títulos previstos no número anterior constituem uma dignidade honorífica no âmbito do Estado e são concedidos por decreto do Presidente da República.
-
-3 - O estatuto do almirante da Armada e marechal consta de legislação própria.
+O oficial dos QP investido no cargo de comandante-chefe ou comandante operacional é hierarquicamente superior a todos os oficiais do mesmo posto que comandam cada uma das forças subordinadas e é nomeado e exonerado nos termos previstos na LDNFA.

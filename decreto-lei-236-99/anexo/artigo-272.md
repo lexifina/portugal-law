@@ -1,13 +1,17 @@
-## Capítulo III
-
-## Do Exército
-
 # Artigo 272.º
 
-### Armas e serviços
+### Formação militar
 
-Os sargentos do Exército distribuem-se pelas seguintes armas, serviços e postos:
+1 - A preparação básica e complementar dos sargentos, efectuada essencialmente através de acções de investimento, de evolução e de ajustamento, desenvolve-se através das actividades enunciadas no artigo 232.º
 
-a) Armas e serviços: infantaria (INF), artilharia (ART), cavalaria (CAV), engenharia (ENG), transmissões (TM), medicina (MED), farmácia (FARM), medicina veterinária (VET), diagnóstico e terapêutica (DT), administração militar (AM), material (MAT), transporte (TRANS), pessoal e secretariado (PESSEC), músicos (MUS) e corneteiros e clarins (CORN/CLAR);
+2 - Os cursos frequentados pelos sargentos compreendem:
 
-b) Postos: sargento-mor, sargento-chefe, sargento-ajudante, primeiro-sargento e segundo-sargento.
+a) Curso de promoção a sargento-chefe (CPSC);
+
+b) Cursos de especialização;
+
+c) Cursos de aperfeiçoamento;
+
+d) Cursos de actualização.
+
+3 - Os sargentos podem ser nomeados para frequentar cursos em estabelecimentos de ensino, civis ou militares, nacionais ou estrangeiros.

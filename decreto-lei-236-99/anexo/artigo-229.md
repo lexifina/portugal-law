@@ -1,13 +1,19 @@
 # Artigo 229.º
 
-### Contagem de tirocínios
+### Tirocínios de embarque
 
-1 - Os tirocínios de embarque e em terra apenas podem ser contados relativamente a oficiais em comissão normal que não se encontrem nas situações de:
+1 - Os tirocínios de embarque são constituídos por:
 
-a) Ausência ilegítima do serviço;
+a) Tempo de embarque e ou tempo de serviço de helicópteros;
 
-b) Cumprimento de pena que implique suspensão de funções.
+b) Tempo de navegação e ou tempo de voo;
 
-2 - Os tirocínios de embarque não são contados aos oficiais que estejam hospitalizados, impedidos de prestar serviço por motivo de doença, que estejam no gozo de qualquer licença, com excepção no que respeita ao tempo de embarque e ao exercício de funções, das licenças de férias e por mérito.
+c) Tempo de exercício de funções específicas.
 
-3 - Os tirocínios em terra não são contados aos oficiais que estejam hospitalizados, impedidos de prestar serviço por motivo de doença ou, no gozo de qualquer licença, com excepção das licenças de férias ou por mérito.
+2 - Conta-se por tempo de embarque o que é prestado em navios armados e o oficial pertença à guarnição da força ou unidade naval ou, estando embarcado em diligência, desempenhe as funções que competem aos oficiais da respectiva lotação.
+
+3 - Conta-se por tempo de serviço de helicópteros o período durante o qual o militar com especialização na área dos helicópteros, presta serviço na esquadrilha de helicópteros ou em unidades ou serviços na área funcional dos helicópteros.
+
+4 - Conta-se por tempo de navegação o que for realizado no mar e aquele que, efectuado dentro de barras, rios ou portos fechados, corresponda a navegação preliminar ou complementar da navegação no mar.
+
+5 - Conta-se por tempo de voo o período que medeia entre o levantamento do helicóptero do solo ou do navio, até que volte a tocá-los, considerando-se para este efeito uma hora de tempo de voo como equivalente a quatro horas de tempo de navegação.

@@ -1,19 +1,9 @@
 # Artigo 177.º
 
-### Inscrição na lista de antiguidade
+### Listas de antiguidade
 
-1 - O militar na situação de activo ocupa um lugar na lista de antiguidade do quadro especial a que pertence, sendo inscrito no respectivo posto de ingresso por ordem decrescente de classificação no respectivo curso ou concurso de ingresso.
+1 - As listas de antiguidade de oficiais, sargentos e praças de cada ramo, onde se inscrevem os militares no activo, reserva e reforma, são anualmente publicadas até ao último dia do mês de Março, reportando-se a 31 de Dezembro do ano anterior.
 
-2 - Os militares pertencentes ao mesmo quadro especial promovidos ao mesmo posto na mesma data são ordenados por ordem decrescente, segundo a ordem da sua inscrição na lista de antiguidade desse posto, que deve constar do documento oficial de promoção.
+2 - Nas listas referentes à situação de activo os militares distribuem-se por quadros especiais, nos quais são inscritos por postos e antiguidade relativa.
 
-3 - Em caso de igualdade de classificação, a inscrição na lista de antiguidade do posto de ingresso de cada quadro especial obedece às seguintes prioridades:
-
-a) Maior graduação anterior;
-
-b) Maior antiguidade no posto anterior;
-
-c) Mais tempo de serviço efectivo;
-
-d) Maior idade.
-
-4 - No ordenamento hierárquico ditado pela lista de antiguidade considera-se qualquer militar à esquerda de todos os que são mais antigos do que ele e à direita dos que são mais modernos.
+3 - Nas listas referentes às situações de reserva e reforma os militares são inscritos de acordo com as classes, armas e serviços, especialidades, postos e antiguidade relativa.

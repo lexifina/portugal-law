@@ -1,9 +1,13 @@
 # Artigo 230.º
 
-### Dispensa de tirocínios
+### Contagem de tirocínios
 
-1 - O CEMA pode dispensar dos tirocínios de embarque ou em terra, num só posto, qualquer oficial que, por conveniência excepcional do serviço, esteja impedido de os realizar.
+1 - Os tirocínios de embarque e em terra apenas podem ser contados relativamente a oficiais em comissão normal que não se encontrem nas situações de:
 
-2 - Aos oficiais subalternos com formação específica nas áreas de mergulhadores, hidrografia e informática que prestem ou tenham prestado serviço, respectivamente, em unidades de mergulhadores-sapadores, no Instituto Hidrográfico ou em áreas funcionais de informática da Marinha, o tempo de embarque exigido para promoção ao posto imediato pode ser reduzido até metade e substituído por tempo de serviço naquelas unidades e organismos.
+a) Ausência ilegítima do serviço;
 
-3 - Aos oficiais subalternos com formação específica nas áreas de mergulhadores, hidrografia e informática que tenham prestado pelo menos um ano de serviço, respectivamente, em unidades de mergulhadores-sapadores, no Instituto Hidrográfico ou em áreas funcionais de informática da Marinha, o tempo de navegação exigido para promoção ao posto imediato é reduzido para metade.
+b) Cumprimento de pena que implique suspensão de funções.
+
+2 - Os tirocínios de embarque não são contados aos oficiais que estejam hospitalizados, impedidos de prestar serviço por motivo de doença, que estejam no gozo de qualquer licença, com excepção no que respeita ao tempo de embarque e ao exercício de funções, das licenças de férias e por mérito.
+
+3 - Os tirocínios em terra não são contados aos oficiais que estejam hospitalizados, impedidos de prestar serviço por motivo de doença ou, no gozo de qualquer licença, com excepção das licenças de férias ou por mérito.

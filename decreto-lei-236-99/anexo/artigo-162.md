@@ -1,5 +1,5 @@
 # Artigo 162.º
 
-### Data de transição para a reforma
+### Prestação de serviço na reforma
 
-A passagem à reforma tem lugar na data fixada no documento oficial que promova a mudança de situação, sendo objecto de publicação no Diário de República e na ordem do ramo a que pertença o militar.
+Para além do previsto no Estatuto da Aposentação, sendo declarado o estado de sítio ou a guerra, o militar na situação de reforma pode ser chamado a prestar serviço efectivo compatível com o seu posto, aptidões e estado físico e psíquico.

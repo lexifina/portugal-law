@@ -1,7 +1,13 @@
+## Capítulo II
+
+## Da Marinha
+
 # Artigo 267.º
 
-### Subclasses e ramos
+### Classes e postos
 
-1 - As classes podem ser divididas em subclasses e ramos, de acordo com os princípios definidos no artigo 224.º
+Os sargentos da Armada distribuem-se pelas seguintes classes e postos:
 
-2 - Na designação dos sargentos, a identificação da subclasse ou ramo a que pertence o militar deve substituir a que se refere à respectiva classe.
+a) Classes: administrativos (L), comunicações (C), electromecânicos (EM), electrotécnicos (ET), enfermeiros e técnicos de diagnóstico e terapêutica (H), fuzileiros (FZ), mergulhadores (U), músicos (B), operações (OP), manobra e serviços (MS), taifa (TF) e técnicos de armamento (TA);
+
+b) Postos: sargento-mor, sargento-chefe, sargento-ajudante, primeiro-sargento e segundo-sargento.

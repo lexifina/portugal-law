@@ -1,5 +1,15 @@
+## Subsecção II
+
+## Situações em relação ao quadro especial
+
 # Artigo 172.º
 
-### Militar no quadro
+### Situações
 
-Considera-se no quadro o militar que é contado nos efectivos do respectivo quadro especial.
+O militar no activo encontra-se, em relação ao quadro especial a que pertence, numa das seguintes situações:
+
+a) No quadro;
+
+b) Adido ao quadro;
+
+c) Supranumerário.

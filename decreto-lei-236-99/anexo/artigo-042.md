@@ -20,6 +20,6 @@
 
 5 - Os efectivos dos comandos, unidades, estabelecimentos e órgãos militares não integrados nos ramos são fixados por decreto-lei, sob proposta do CCEM.
 
-6 - Os efectivos em RC e RV são fixados, para cada ramo, por decreto regulamentar, sob proposta do CCEM.
+6 - Os efectivos em RC são fixados, para cada ramo, por decreto regulamentar, sob proposta do CCEM.
 
 7 - Os efectivos a convocar ou mobilizar são fixados de acordo com as disposições previstas na LSM e demais legislação aplicável.

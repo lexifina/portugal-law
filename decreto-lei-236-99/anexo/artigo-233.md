@@ -1,9 +1,13 @@
 # Artigo 233.º
 
-### Cursos de promoção
+### Cursos para ingresso na categoria
 
-Constituem condição especial de promoção os seguintes cursos:
+1 - Os cursos que habilitam ao ingresso nas classes da categoria de oficiais são os seguintes:
 
-a) Para a promoção a oficial general, o curso superior naval de guerra (CSNG);
+a) De licenciatura ministrados na Escola Naval;
 
-b) Para a promoção a oficial superior, o curso geral naval de guerra (CGNG).
+b) De licenciatura ou equivalente ministrados em estabelecimentos de ensino superior complementados por cursos ministrados em organismos militares adequados;
+
+c) De bacharelato ou equivalente ministrados em estabelecimentos de ensino superior complementados por cursos ministrados em organismos militares adequados ou cursos de bacharelato ministrados na Escola Superior de Tecnologias Navais (ESTNA).
+
+2 - Os cursos referidos no número anterior são regulados por legislação especial.

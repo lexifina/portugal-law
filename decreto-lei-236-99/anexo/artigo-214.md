@@ -1,11 +1,15 @@
+## Secção II
+
+## Ingresso e promoção na categoria
+
 # Artigo 214.º
 
-### Promoção a oficial general e de oficiais generais
+### Ingresso na categoria
 
-1 - As promoções a oficial general e de oficiais generais realizam-se por escolha de entre os oficiais que satisfaçam as condições gerais e especiais para acesso aos postos, de acordo com o disposto na LDNFA.
+1 - O ingresso na categoria de oficiais faz-se por habilitação com curso adequado, nos postos de guarda-marinha, subtenente ou alferes e de segundo-tenente ou tenente, consoante os ramos e quadros especiais.
 
-2 - São promovidos ao posto de almirante ou general os vice-almirantes ou tenentes-generais que forem nomeados para ocuparem os cargos de CEMGFA, de CEM dos ramos ou de presidente do STM, sendo o diploma de nomeação, simultaneamente, o da promoção.
+2 - A antiguidade dos oficiais ingressados nos termos previstos no número anterior reporta-se, em regra, a 1 de Outubro do ano em que concluam o respectivo curso, tirocínio ou estágio, sendo, porém, antecipada de tantos anos quantos os que a organização escolar dos respectivos cursos, somada à duração do respectivo estágio, tirocínio ou curso, exceder:
 
-3 - São promovidos ao posto de vice-almirante ou de tenente-general os contra-almirantes ou majores-generais, independentemente do quadro especial a que pertencem, que forem nomeados para o desempenho de cargos a que corresponda o exercício de funções de direcção ou chefia em estruturas de coordenação de actividades funcionais comuns aos ramos das Forças Armadas, nas áreas do ensino, da saúde, da administração e da logística.
+a) Cinco anos, para licenciatura ou equivalente;
 
-4 - A antiguidade no novo posto reporta-se à data, respectivamente, da deliberação do CCEM, no caso previsto no n.º 1, e do diploma de nomeação que é simultaneamente de promoção, nos casos previstos nos n.os 2 e 3.
+b) Três anos, para bacharelato ou equivalente.

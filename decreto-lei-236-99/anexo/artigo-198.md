@@ -1,13 +1,17 @@
 # Artigo 198.º
 
-### Nomeação para os cursos de especialização ou qualificação
+### Adiamento, suspensão ou desistência da frequência de cursos de promoção
 
-1 - A realização e os requisitos dos cursos de especialização e de qualificação são publicados em ordem de serviço, com uma antecedência mínima de 60 dias.
+1 - O CEM de cada ramo pode adiar ou suspender a frequência de curso de promoção nos seguintes casos:
 
-2 - A nomeação do militar para frequência de cursos de especialização ou qualificação é feita por despacho do CEM respectivo, de acordo com as necessidades próprias de cada ramo, tendo em conta os seguintes factores:
+a) Por exigências de serviço devidamente fundamentadas;
 
-a) Voluntariado, preferência e aptidões manifestadas pelos militares candidatos;
+b) Por razões de acidente ou doença, mediante parecer da competente junta médica;
 
-b) Currículo do militar e das funções que desempenhe ou venha a desempenhar.
+c) Por uma só vez, a requerimento do interessado, por motivos de ordem pessoal.
 
-3 - O militar habilitado com curso de especialização ou qualificação só pode deixar o serviço efectivo após o período mínimo previamente fixado pelo CEM de cada ramo, que pode, em alternativa e a pedido do interessado, fixar uma indemnização ao Estado, tendo em consideração, em qualquer dos casos, a natureza desse curso, o seu custo, condições de ingresso, duração, estabelecimento de ensino, nacional ou estrangeiro, em que tenha sido ministrado e a expectativa da utilização efectiva do militar decorrente da formação adquirida.
+2 - O militar a quem seja adiada ou suspensa a frequência do curso de promoção ao abrigo das alíneas a) e b) do número anterior fica demorado a partir da data em que lhe competiria a promoção até se habilitar com o respectivo curso, o qual deve ser frequentado logo que cessem as causas que determinaram o adiamento ou suspensão.
+
+3 - O militar a quem seja concedido o adiamento ou a suspensão da frequência de curso de promoção ao abrigo da alínea c) do n.º 1 fica preterido, se entretanto lhe competir a promoção, devendo ser nomeado para o curso seguinte.
+
+4 - O militar pode desistir da frequência de curso de promoção, não podendo ser novamente nomeado.

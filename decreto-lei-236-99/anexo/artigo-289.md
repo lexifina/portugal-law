@@ -1,11 +1,7 @@
 # Artigo 289.º
 
-### Ingresso em categorias superiores
+### Formação militar
 
-As praças da Armada podem concorrer à frequência de cursos que habilitem ao ingresso nas categorias de sargento ou de oficial, desde que satisfaçam, designadamente, as seguintes condições:
+1 - A preparação básica e complementar das praças é efectuada essencialmente por acções de investimento, de evolução e de ajustamento, desenvolvendo-se de acordo com as actividades mencionadas no artigo 232.º
 
-a) Ter as habilitações exigidas para a frequência do curso de ingresso na categoria respectiva;
-
-b) Ter idade não superior à exigida para a frequência do curso a que se refere a alínea anterior, que, em qualquer caso, não pode exceder os 34 e 38 anos de idade, respectivamente, para a categoria de sargento e de oficial;
-
-c) Ficar aprovado nas provas do concurso de admissão ao curso e ser seleccionado para o preenchimento das vagas abertas para cada concurso.
+2 - A preparação militar e técnica das praças deve ainda ser completada e melhorada de forma contínua por acções desenvolvidas nas unidades ou serviços onde se encontram colocadas.

@@ -1,13 +1,11 @@
 # Artigo 262.º
 
-### Modalidades de promoção
+### Alimentação da categoria
 
-A promoção aos postos da categoria de sargentos processa-se nas seguintes modalidades:
+De acordo com as normas previstas para cada ramo, a categoria de sargentos é alimentada por:
 
-a) Sargento-mor, por escolha;
+a) Sargentos e praças em RC;
 
-b) Sargento-chefe, por escolha;
+b) Praças dos QP;
 
-c) Sargento-ajudante, por antiguidade;
-
-d) Primeiro-sargento, por diuturnidade.
+c) Candidatos civis.

@@ -1,19 +1,17 @@
 # Artigo 280.º
 
-### Cursos
+### Condições especiais de promoção
 
-1 - Os sargentos recebem preparação cultural, técnica e profissional-militar, essencialmente pela frequência de:
+1 - As condições especiais de promoção dos sargentos dos quadros especiais de operadores, mecânicos e apoio e serviços, para além das mencionadas no artigo 264.º, são as previstas no presente artigo, de acordo com os respectivos postos.
 
-a) Curso de formação inicial;
+2 - É condição especial de promoção ao posto de primeiro-sargento ter prestado, como segundo-sargento, serviço efectivo em unidades ou outros órgãos da Força Aérea, com eficiência comprovada, no exercício de funções próprias da especialidade e posto.
 
-b) Cursos de promoção;
+3 - É condição especial de promoção ao posto de sargento-ajudante ter prestado durante três anos, como primeiro-sargento, serviço efectivo em unidades ou outros órgãos da Força Aérea, com eficiência comprovada, no exercício de funções próprias da especialidade e posto.
 
-c) Cursos de qualificação;
+4 - São condições especiais de promoção ao posto de sargento-chefe:
 
-d) Cursos de especialização;
+a) Ter prestado durante três anos, como sargento-ajudante, serviço efectivo em unidades ou outros órgãos da Força Aérea, com eficiência comprovada, no exercício de funções próprias da especialidade e posto;
 
-e) Cursos de actualização.
+b) Ter frequentado, com aproveitamento, o curso de promoção a sargento-chefe.
 
-2 - O curso de formação inicial destina-se a ministrar preparação adequada ao ingresso no QP de sargentos e ao exercício de funções correspondentes aos respectivos quadros especiais.
-
-3 - O curso de promoção a sargento-chefe (CPSCH) visa aprofundar os conhecimentos técnicos e militares necessários à coordenação e controlo da execução, bem como, no âmbito do sistema de avaliação de mérito, exercer papel selectivo para a promoção aos postos de sargento-chefe e sargento-mor.
+5 - São condições especiais de promoção ao posto de sargento-mor ter prestado durante dois anos, como sargento-chefe, serviço efectivo em unidades de outros órgãos da Força Aérea, com eficiência comprovada, no exercício de funções próprias da especialidade e posto.

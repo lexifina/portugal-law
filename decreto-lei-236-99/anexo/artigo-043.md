@@ -14,6 +14,4 @@ b) Fora da efectividade de serviço.
 
 a) No cumprimento de penas a que a legislação penal ou disciplinar atribuam esse efeito;
 
-b) Nas situações de ausência ilegítima ou de deserção;
-
-c) De licença registada.
+b) De licença registada.

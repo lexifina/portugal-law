@@ -1,11 +1,15 @@
 # Artigo 259.º
 
-### Cursos de promoção
+### Cursos, tirocínios ou estágios
 
-Constituem condição especial de promoção os seguintes cursos:
+1 - Os cursos, tirocínios e estágios que habilitam ao ingresso na categoria de oficiais são os seguintes:
 
-a) Curso superior de guerra aérea (CSGA), para a promoção a oficial general;
+a) Licenciatura e respectivo tirocínio na AFA;
 
-b) Curso geral de guerra aérea (CGGA), para a promoção a oficial superior;
+b) Licenciatura ou equivalente em estabelecimento de ensino superior, complementado por estágio técnico-militar na AFA;
 
-c) Curso básico de comando (CBC), para a promoção a capitão.
+c) Bacharelato na ESTMA;
+
+d) Bacharelato ou equivalente ministrado em estabelecimento de ensino superior, complementado por estágio técnico na ESTMA.
+
+2 - Os cursos, tirocínios ou estágios referidos no número anterior são regulados por legislação especial.

@@ -1,9 +1,7 @@
 # Artigo 186.º
 
-### Verificação da condição física e psíquica
+### Não satisfação das condições gerais de promoção
 
-A verificação da condição geral de promoção a que se refere a alínea d) do artigo 56.º é feita:
+1 - O militar que não satisfaça qualquer das condições gerais de promoção previstas no artigo 56.º fica excluído da promoção, sendo do facto notificado por escrito.
 
-a) Pelas competentes juntas médicas, quando se trate das promoções aos postos de contra-almirante ou major-general, de capitão-tenente ou major e de sargento-chefe;
-
-b) Pelos elementos que constam das avaliações periódicas e dos livretes de saúde, quando se trate das promoções a outros postos, devendo o militar, em caso de dúvida, ser presente às juntas referidas na alínea anterior.
+2 - O militar que num mesmo posto e em dois anos seguidos ou interpolados não satisfaça, por falta de mérito absoluto, qualquer das três primeiras condições gerais de promoção é definitivamente excluído da promoção.

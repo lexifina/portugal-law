@@ -1,7 +1,9 @@
 # Artigo 143.º
 
-### Reforma
+### Reserva
 
-1 - Reforma é a situação para que transita o militar, no activo ou na reserva, que seja abrangido pelo disposto no artigo 160.º
+1 - Reserva é a situação para que transita o militar do activo quando verificadas as condições estabelecidas neste Estatuto, mantendo-se, no entanto, disponível para o serviço.
 
-2 - O militar na reforma não pode exercer funções militares, salvo nas circunstâncias excepcionais previstas neste Estatuto.
+2 - O militar na reserva pode encontrar-se na efectividade de serviço ou fora da efectividade de serviço.
+
+3 - O efectivo de militares na situação de reserva é variável.

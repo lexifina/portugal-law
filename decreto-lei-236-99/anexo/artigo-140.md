@@ -1,23 +1,5 @@
-## Capítulo V
-
-## Situações e efectivos
-
-## Secção I
-
-## Situações
-
-## Subsecção I
-
-## Disposições gerais
-
 # Artigo 140.º
 
-### Situações
+### Regras de nomeação e colocação
 
-O militar encontra-se numa das seguintes situações:
-
-a) Activo;
-
-b) Reserva;
-
-c) Reforma.
+As regras de nomeação e colocação dos militares são estabelecidas por despacho do respectivo CEM.

@@ -1,4 +1,4 @@
-# Artigo 105
+# Artigo 105.º
 
 ### Recurso hierárquico
 
@@ -11,5 +11,3 @@
 4 - O recurso hierárquico deve ser decidido no prazo de 30 dias a contar da data em que o mesmo for recebido pela entidade competente para dele conhecer, prorrogável até ao máximo de 60 dias, em casos devidamente fundamentados.
 
 5 - Se, no prazo referido no número anterior, não for proferida decisão expressa, o recurso é considerado tacitamente indeferido.
-
-6 - Das decisões do CEMGFA e dos CEM dos ramos não cabe recurso hierárquico.

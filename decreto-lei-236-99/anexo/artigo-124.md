@@ -1,5 +1,5 @@
 # Artigo 124.º
 
-### Uso e porte de arma
+### Assistência à família
 
-O militar tem direito à detenção, uso e porte de arma de qualquer natureza, independentemente de licença, sem prejuízo do seu obrigatório manifesto quando da mesma seja proprietário.
+Aos membros do agregado familiar do militar é garantido o direito à assistência médica, medicamentosa e hospitalar e apoio social, de acordo com o regime definido em legislação especial.

@@ -1,13 +1,27 @@
+## Capítulo IV
+
+## Da Força Aérea
+
 # Artigo 277.º
 
-### Caracterização funcional dos quadros especiais
+### Especialidades, grupos de especialidades e postos
 
-Compete aos sargentos da Força Aérea o exercício de:
+1 - Os sargentos dos QP da Força Aérea distribuem-se por especialidades, grupos de especialidades e postos, a que correspondem as áreas funcionais e quadros especiais que se indicam:
 
-a) Actividades de natureza militar e de instrução;
+a) Área de operações:
 
-b) Funções em estado-maior e nas unidades, órgãos e serviços das diferentes áreas funcionais, a nível de direcção, inspecção e execução;
+Quadro especial de operadores - operadores de comunicações (OPCOM), meteorologistas (OPMET), de circulação aérea e radaristas de tráfego (OPCART) e radaristas de detecção (OPRDET): sargento-mor, sargento-chefe, sargento-ajudante, primeiro-sargento e segundo-sargento;
 
-c) Funções de apoio às representações diplomáticas de Portugal no estrangeiro;
+b) Área de manutenção:
 
-d) Exercício de funções específicas, inerentes às respectivas qualificações técnico-profissionais, previstas em regulamentação própria da Força Aérea.
+Quadro especial de mecânicos - mecânicos de material aéreo (MMA), de material terrestre (MMT), de electricidade (MELECT), de electrónica (MELECA), de electricidade e instrumentos de avião (MELIAV), de armamento e equipamento (MARME): sargento-mor, sargento-chefe, sargento-ajudante, primeiro-sargento e segundo-sargento;
+
+c) Área de apoio:
+
+Quadro especial de apoio e serviços - operadores de informática (OPINF), de sistemas de assistência e socorros (OPSAS), abastecimento (ABST), construção e manutenção de infra-estruturas (CMI), serviço de saúde (SS), polícia aérea (PA), secretariado e apoio dos serviços (SAS): sargento-mor, sargento-chefe, sargento-ajudante, primeiro-sargento e segundo-sargento;
+
+Quadro especial de amanuenses - amanuenses (AMA): primeiro-sargento e segundo-sargento.
+
+2 - Quadro especial de banda e fanfarras - músicos (MUS) e clarins (CLAR): sargento-mor, sargento-chefe, sargento-ajudante, primeiro-sargento e segundo-sargento.
+
+3 - As vagas, dentro de cada quadro especial, podem ser comuns ou específicas das diferentes especialidades que o integram.

@@ -1,17 +1,9 @@
 # Artigo 227.º
 
-### Condições especiais de promoção
+### Comissão normal
 
-1 - As condições especiais de promoção compreendem:
+Para além das situações de comissão normal definidas no artigo 146.º do presente Estatuto, são considerados em comissão normal os oficiais no desempenho dos seguintes cargos ou funções:
 
-a) Tempo mínimo de permanência no posto;
+a) Capitães-de-bandeira;
 
-b) Tirocínios de embarque;
-
-c) Tirocínios em terra;
-
-d) Frequência, com aproveitamento, de cursos ou estágios;
-
-e) Outras condições de natureza específica das classes.
-
-2 - As condições especiais de promoção para os diversos postos e classes, para além das fixadas no artigo 218.º, constam do anexo II ao presente Estatuto, do qual faz parte integrante.
+b) No comando e guarnição de navios mercantes, quando, por motivos operacionais, for julgado conveniente o desempenho de tais cargos por oficiais da Armada.
