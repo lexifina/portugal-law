@@ -12,7 +12,7 @@ c) A Portaria n.º 709/2000, de 4 de Setembro;
 
 d) A Portaria n.º 942/93, de 27 de Setembro;
 
-e) Todas as normas que contenham isenções ou reduções emolumentares relativamente a actos praticados nos serviços dos registos e do notariado.
+e) Todas as normas que contenham isenções ou reduções emolumentares relativamente a actos praticados nos serviços dos registos e do notariado, com excepção das previstas no Decreto-Lei n.º 404/90, de 21 de Dezembro.
 
 2 - O disposto na alínea b) do número anterior não abrange as isenções ou reduções emolumentares de que beneficiam os actos inseridos:
 
