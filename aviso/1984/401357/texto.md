@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que em Fevereiro de 1982 o Governo do Reino Unido comunicou ao Secretário-Geral das Nações Unidas que a ratificação da Convenção de Viena sobre Relações Consulares e do seu Protocolo Adicional sobre Resolução Obrigatória de Diferendos, ambos celebrados em 24 de Abril de 1963, se passaria a aplicar aos territórios dos Estados Associados (Antigua, Dominica, Grenada, St. Christopher-Nevis-Anguilla, St. Lucia e St. Vicent), aos territórios sob a soberania territorial do Reino Unido e ao Protectorado das Ilhas Salomão.
+Direcção-Geral dos Serviços Centrais, 27 de Novembro de 1984. - O Director-Geral, António Manuel da Veiga e Meneses Cordeiro.
