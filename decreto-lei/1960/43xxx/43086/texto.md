@@ -1,0 +1,12 @@
+Decreto-Lei n.º 43086
+Reconhece o Governo a conveniência de ser acelerada a execução das obras em curso para a construção da reitoria da Universidade de Lisboa e das instalações académicas e desportivas das Cidades Universitárias de Lisboa e Coimbra.
+Torna-se necessário, porém, que deste facto não resulte atraso para as demais obras a realizar nas referidas Cidades Universitárias de harmonia com os planos aprovados.
+Concede-se assim às Comissões Administrativas das Novas Instalações Universitárias e do Plano de Obras da Cidade Universitária de Coimbra um reforço das dotações do orçamento vigente, por via de subsídios reembolsáveis do Fundo de Desemprego, em aplicação das disponibilidades deste Fundo acumuladas para garantia das comparticipações em aberto.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É autorizado o Comissariado do Desemprego a conceder às Comissões Administrativas das Novas Instalações Universitárias e do Plano de Obras da Cidade Universitária de Coimbra subsídios reembolsáveis até aos montantes de 20000000$00 e 10000000$00, respectivamente, para reforço das dotações concedidas pelo Tesouro em 1960 e 1961.
+§ único. O reembolso destes subsídios será efectuado por força das dotações constantes dos orçamentos dos referidos organismos, da seguinte forma:
+(ver documento original)
+Art. 2.º O Comissariado do Desemprego fará entrega das importâncias dos subsídios a que se refere o artigo anterior em face de requisições das respectivas Comissões Administrativas, visadas pelo Ministro das Obras Públicas, à medida do desenvolvimento dos planos de trabalho, sem dependência de outras formalidades.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 23 de Julho de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
