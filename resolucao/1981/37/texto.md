@@ -1,0 +1,5 @@
+Resolução n.º 37/81
+Pela Resolução do Conselho de Ministros n.º 275/80, de 4 de Agosto, foi decidido renovar, por mais seis meses, o aval do Estado a operações de crédito intercalar, até ao montante de 50000 contos, contraídas pela RDP - Radiodifusão Portuguesa, E. P., junto do sistema bancário, destinadas ao financiamento de encargos inadiáveis e imprescindíveis de funcionamento.
+Atendendo a que a situação da empresa não apresentou qualquer evolução significativa e que o processo de saneamento financeiro, cujo projecto foi entretanto entregue, ainda vai exigir algum tempo:
+O Conselho de Ministros, reunido em 10 de Fevereiro de 1981, resolveu renovar, por mais seis meses, o aval do Estado a operações de crédito intercalar até ao montante de 50000 contos, contraídas pela RDP - Radiodifusão Portuguesa, E. P., junto do sistema bancário, destinadas ao financiamento de encargos inadiáveis e imprescindíveis de funcionamento.
+Presidência do Conselho de Ministros, 10 de Fevereiro de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
