@@ -1,0 +1,599 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=6tRSrsS472KL0pihrbeU3Juv4E5ApzTlkuIJMDYc5d38v4XsZgYhKVB7Ayr7k6BD7ZNRnhu1uQv2nCwvvkoyXJgfHcd33Rt69gnnqGDLZ7jjDe9WHr1ZOrkFyZHrN%2bdvof6dUKIxE5Wasjk0TQFMyoX%2fKDcVSYqW4xooRfuNYiYxRnpgxINjnNAVq18dgakPF%2fXopgVWi9%2fPK8k2cZ5tRjc%2bd8zO7m6xWvdsbeUHkofo9FaMQ0PghWTFmLBF2ObMw8XQM9vXrZDGjYuCymHSoJrECXBxqIIzCmd0QdMQC5B6LWcA54XELbiVJgZxukznf%2fhdJzQ3jKe6Egx9h%2fh5EH5FtypL9lWrfzDQfsf80Is%3d&fich=IniciativasVI_json.txt&Inline=true",
+  "ficheiro_sha256": "cb79e0745a8347d94ab476dc88937917b337689f6631b8b987a47bad388a33b7",
+  "legislatura": "VI",
+  "iniciativa": {
+    "tipo": "Proposta de Resolução",
+    "numero": "16",
+    "id": "3992",
+    "titulo": "Aprova, para ratificação, o acordo sobre o Espaço Económico Europeu."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "1992-11-05",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "492",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "1992-11-05",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1992-11-05",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "226",
+                "nome": "Nogueira de Brito"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36409",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "293-294"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-11-06",
+                "pubLeg": "VI",
+                "pubNr": "10",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/010/1992-11-06/293?pgs=293-294&org=PLC"
+              }
+            ],
+            "sumario": "ACORDO SOBRE O ESPACO ECONOMICO EUROPEU:RATIFICACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "203",
+                "nome": "Rogério Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36410",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "291-293"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-11-06",
+                "pubLeg": "VI",
+                "pubNr": "10",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/010/1992-11-06/291?pgs=291-293&org=PLC"
+              }
+            ],
+            "sumario": "ACORDO SOBRE O ESPACO ECONOMICO EUROPEU:RATIFICACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36411",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "290-291"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-11-06",
+                "pubLeg": "VI",
+                "pubNr": "10",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/010/1992-11-06/290?pgs=290-291&org=PLC"
+              }
+            ],
+            "sumario": "ACORDO SOBRE O ESPACO ECONOMICO EUROPEU:RATIFICACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "226",
+                "nome": "Nogueira de Brito"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36412",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "289-289"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-11-06",
+                "pubLeg": "VI",
+                "pubNr": "10",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/010/1992-11-06/289?pgs=289&org=PLC"
+              }
+            ],
+            "sumario": "ACORDO SOBRE O ESPACO ECONOMICO EUROPEU:RATIFICACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "50",
+                "nome": "Fernando Condesso"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36413",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "287-289"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-11-06",
+                "pubLeg": "VI",
+                "pubNr": "10",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/010/1992-11-06/287?pgs=287-289&org=PLC"
+              }
+            ],
+            "sumario": "ACORDO SOBRE O ESPACO ECONOMICO EUROPEU:RATIFICACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "172",
+                "nome": "Helena Torres Marques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36414",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "285-287"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-11-06",
+                "pubLeg": "VI",
+                "pubNr": "10",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/010/1992-11-06/285?pgs=285-287&org=PLC"
+              }
+            ],
+            "sumario": "ACORDO SOBRE O ESPACO ECONOMICO EUROPEU:RATIFICACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "69",
+                "nome": "João Oliveira Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36415",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "282-282"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-11-06",
+                "pubLeg": "VI",
+                "pubNr": "10",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/010/1992-11-06/282?pgs=282&org=PLC"
+              }
+            ],
+            "sumario": "ACORDO SOBRE O ESPACO ECONOMICO EUROPEU:RATIFICACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "198",
+                "nome": "Manuel dos Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36416",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "281-282"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-11-06",
+                "pubLeg": "VI",
+                "pubNr": "10",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/010/1992-11-06/281?pgs=281-282&org=PLC"
+              }
+            ],
+            "sumario": "ACORDO SOBRE O ESPACO ECONOMICO EUROPEU:RATIFICACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "176",
+                "nome": "Menezes Ferreira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36417",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "280-281"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-11-06",
+                "pubLeg": "VI",
+                "pubNr": "10",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/010/1992-11-06/280?pgs=280-281&org=PLC"
+              }
+            ],
+            "sumario": "ACORDO SOBRE O ESPACO ECONOMICO EUROPEU:RATIFICACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "215",
+                "nome": "Lino de Carvalho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "36418",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "280-280"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-11-06",
+                "pubLeg": "VI",
+                "pubNr": "10",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/010/1992-11-06/280?pgs=280&org=PLC"
+              }
+            ],
+            "sumario": "ACORDO SOBRE O ESPACO ECONOMICO EUROPEU:RATIFICACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  INTEGRACAO EUROPEIA",
+              "governo": "XII GOVERNO CONSTITUCIONAL",
+              "nome": "Vitor Martins"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107906",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "276-280",
+                  "283-285",
+                  "294-294"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1992-11-06",
+                "pubLeg": "VI",
+                "pubNr": "10",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/010/1992-11-06/276?pgs=276-280,283-285,294&org=PLC"
+              }
+            ],
+            "sumario": "ACORDO SOBRE O ESPACO ECONOMICO EUROPEU:RATIFICACAO",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "97169",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "492",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1992-11-06",
+        "pubLeg": "VI",
+        "pubNr": "10",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/010/1992-11-06?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
