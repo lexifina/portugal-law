@@ -1,7 +1,7 @@
 # Artigo 132.º
 
-### (Isenções)
+### (Decisão do recurso)
 
-1 - Os processos de rectificação estão isentos de custas e de quaisquer outros encargos legais quando o pedido for julgado procedente ou a rectificação for promovida pelo conservador.
+1 - Recebido o processo, o juiz ordena a notificação dos interessados para, no prazo de 10 dias, impugnarem os fundamentos do recurso.
 
-2 - O registo da rectificação ou da sua pendência é gratuito, salvo se se tratar de inexactidão proveniente de deficiência dos títulos.
+2 - Não havendo lugar a qualquer notificação ou findo o prazo a que se refere o número anterior, vai o processo com vista ao Ministério Público.
