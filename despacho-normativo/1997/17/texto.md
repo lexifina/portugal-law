@@ -1,0 +1,33 @@
+Despacho Normativo n.º 17/97
+Pelo Despacho Normativo n.º 199/91, de 17 de Setembro, com a redacção dada pelo Despacho Normativo n.º 34/92, de 11 de Março, com o objectivo de efectuar o inventário do património cultural móvel, foi criada a Comissão para o Inventário do Património Cultural Móvel.
+Tem vindo, no entanto, a verificar-se que o modelo adoptado para aquela Comissão não é o mais eficaz face aos objectivos a atingir, quer pela dificuldade de articulação com os organismos das diversas áreas, quer pela impossibilidade legal de proceder à contratação do pessoal técnico de inventariação e de gerir os financiamentos atribuídos.
+Por outro lado, os princípios de valorização do património como factor de identidade nacional e de defesa do património face à livre circulação de pessoas e bens no espaço comunitário justificam que o inventário integre progressivamente os bens das autarquias locais, da Igreja, das misericórdias, das fundações e de outras entidades.
+Assim, ao abrigo do artigo 10.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, determina-se:
+1.º É criada uma estrutura de projecto, denominada Inventário do Património Cultural, adiante designada por estrutura de projecto, para a qual são transferidas todas as competências da Comissão para o Inventário do Património Cultural Móvel, criada pelo Despacho Normativo n.º 199/91, de 17 de Setembro, com a redacção dada pelo Despacho Normativo n.º 34/92, de 11 de Março.
+2.º - 1 - A estrutura de projecto funciona junto do Ministro da Cultura e é constituída por:
+a) Um coordenador-geral e um coordenador-adjunto, nomeados pelo Ministro da Cultura;
+b) Quatro elementos representando o Instituto Português do Património Arquitectónico e Arqueológico (IPPAR), o Instituto da Biblioteca Nacional e do Livro (IBL), os Arquivos Nacionais/Torre do Tombo (AN/TT) e o Instituto Português de Museus (IPM), designados pelo Ministro da Cultura, sob proposta dos dirigentes máximos de cada organismo;
+c) Um elemento designado pelo Ministro do Equipamento, do Planeamento e da Administração do Território;
+d) Um representante da Conferência Episcopal Portuguesa.
+2 - A estrutura de projecto é apoiada por um secretariado técnico-administrativo, constituído por três elementos, designados pelo coordenador-geral, nos termos seguintes:
+a) Em regime de requisição ou destacamento, obtida a concordância do serviço de origem, quando se trate de funcionários públicos;
+b) Em regime de contrato de trabalho a termo certo, por prazo igual ou inferior ao de duração da estrutura de projecto, quando não vinculados à função pública, nos termos do Decreto-Lei n.º 427/89, de 7 de Dezembro.
+3.º - 1 - À estrutura de projecto compete:
+a) Elaborar os planos de actividades e orçamentos anuais e plurianuais;
+b) Disponibilizar aos organismos das diversas áreas abrangidas pelo projecto técnicos de inventário e equipamentos necessários à execução dos planos de actividades;
+c) Acompanhar e integrar num projecto global todos os trabalhos desenvolvidos ou a desenvolver pelos organismos referidos na alínea anterior;
+d) Estabelecer critérios de uniformização e compatibilidade dos registos informáticos aplicáveis às diversas tipologias patrimoniais;
+e) Informar os membros do Governo competentes sobre aspectos de conservação e segurança das espécies inventariadas em situação de risco;
+f) Propor a celebração de protocolos que promovam o inventário dos bens de interesse cultural das autarquias e de propriedade privada, disponibilizando técnicos de inventário e equipamentos necessários à execução dos planos de actividades;
+g) Divulgar os dados reunidos, salvaguardando matérias confidenciais preestabelecidas;
+h) Manter contactos regulares com os organismos internacionais congéneres, de modo a promover o intercâmbio científico e assegurar a representação nacional em reuniões;
+i) Elaborar os relatórios anuais de actividades.
+2 - Para efeitos da alínea b) do número anterior, a estrutura de projecto procederá à celebração de contratos de trabalho a termo certo, por prazo igual ou inferior ao de duração da estrutura, nos termos do Decreto-Lei n.º 427/89, de 7 de Dezembro, com a redacção dada pelo Decreto-Lei n.º 407/91, de 17 de Outubro.
+4.º Compete ao coordenador-geral propor as autorizações das despesas por conta das verbas atribuídas ao projecto.
+5.º - 1 - O pessoal que à data da publicação do presente despacho normativo se encontrar a prestar serviço no âmbito da Comissão para o Inventário do Património Cultural Móvel, e que para esse efeito tenha sido contratado em regime de contrato de trabalho a termo certo, será contratado nos termos do n.º 2 do n.º 3.º, com dispensa das formalidades previstas nos artigos 19.º e 21.º do Decreto-Lei n.º 427/89, de 7 de Dezembro, com a redacção dada pelo Decreto-Lei n.º 407/91, de 17 de Outubro.
+2 - Os contratos referidos no número anterior serão objecto de comunicação ao Ministro das Finanças e ao membro do Governo responsável pela área da Administração Pública.
+6.º O coordenador-geral e o coordenador-adjunto são equiparados, para efeitos remuneratórios, respectivamente, a director-geral e a subdirector-geral.
+7.º O projecto do Inventário do Património Cultural envolve o montante de 1000000 de contos, a suportar por verbas do orçamento do IPPAR, de acordo com o plano de orçamentação a apresentar pelo coordenador-geral no prazo de 30 dias a contar da data do presente despacho normativo. As verbas inscritas no orçamento de funcionamento deverão constar de divisão própria no orçamento privativo do IPPAR.
+8.º O projecto do Inventário do Património Cultural decorrerá até ao final de 1999, mantendo-se a estrutura de projecto, agora criada, em actividade até ao final do ano seguinte.
+9.º São revogados os Despachos Normativos n.os 199/91, de 17 de Setembro, e 34/92, de 11 de Março.
+Presidência do Conselho de Ministros e Ministérios das Finanças, do Equipamento, do Planeamento e da Administração do Território e da Cultura, 17 de Março de 1997. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - O Ministro da Cultura, Manuel Maria Ferreira Carrilho. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
