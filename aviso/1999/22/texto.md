@@ -1,0 +1,4 @@
+Aviso n.º 22/99
+Por ordem superior se torna público que o Níger e a Zâmbia aderiram, com efeitos a partir de 4 e de 6 de Novembro de 1998, respectivamente, à Convenção contra a Tortura e Outros Tratamentos ou Punições Cruéis, Inumanos ou Degradantes, de 10 de Dezembro de 1984, estabelecendo a Zâmbia uma reserva ao artigo 20 da mesma Convenção.
+Portugal ratificou esta Convenção em 12 de Setembro de 1990 (Decreto do Presidente da República n.º 57/88, in Diário da República, 1.ª série, n.º 166, de 20 de Julho de 1988), com efeitos em 11 de Março de 1989, após o depósito do instrumento de ratificação, que se efectuou em 9 de Fevereiro de 1989 (aviso publicado no Diário da República, 1.ª série, n.º 128, de 5 de Junho de 1989).
+Direcção-Geral dos Assuntos Multilaterais, 26 de Janeiro de 1999. - O Director de Serviços das Organizações Políticas Internacionais, João José Gomes Caetano da Silva.
