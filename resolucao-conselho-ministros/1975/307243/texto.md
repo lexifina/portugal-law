@@ -1,0 +1,5 @@
+Resolução do Conselho de Ministros
+Na sequência da intervenção do Estado, através de Resolução do Conselho de Ministros de 28 de Maio de 1975, na C. I. F. A. - Companhia de Fibras Artificiais, S. A. R. L., pela qual foram suspensos os então administradores e em sua substituição nomeados dois administradores por parte do Estado;
+Atendendo a que, conforme relato e factos fundamentados, se pode concluir que o funcionamento do conselho fiscal é de molde a não permitir aos representantes do Governo o exercício pleno das suas responsabilidades, quer pelas ligações antigas e actuais com a administração suspensa, quer pelo facto de a sua anterior actuação ter sido efectivamente sancionatória da má gestão que conduziu à intervenção do Estado;
+Ao abrigo do disposto no artigo 10.º do Decreto-Lei n.º 222-B/75, de 12 de Maio, o conselho fiscal da C. I. F. A. - Companhia Industrial de Fibras Artificiais, S. A. R. L., é suspenso imediatamente.
+Presidência do Conselho de Ministros, 31 de Agosto de 1975. - O Primeiro-Ministro, Vasco dos Santos Gonçalves.
