@@ -1,0 +1,9 @@
+Portaria n.º 19758
+Tendo em atenção o disposto no artigo 5.º do Decreto n.º 38350, de 31 de Julho de 1951, e de harmonia com a tabela aprovada pela Portaria n.º 17257, de 6 de Julho de 1959, para o pessoal dos restantes estabelecimentos fabris do Ministério do Exército, procedeu-se, pela Portaria n.º 17876, de 2 de Agosto de 1960, à actualização dos vencimentos e salários do pessoal civil contratado e assalariado que fazia parte do quadro da Fábrica Militar de Pólvoras e Explosivos à data do seu arrendamento à Companhia de Pólvoras e Munições de Barcarena.
+Verificando-se que na tabela de vencimentos e salários posta em vigor pela citada Portaria n.º 17876 não foram previstos os das categorias a que, por promoções efectuadas em 1 de Janeiro de 1961, ascenderam alguns funcionários do quadro daquele estabelecimento fabril, do que resulta não poderem as mesmas categorias ser reconhecidas para efeitos de aposentação:
+Manda o Governo da República Portuguesa, pelos Ministros da Defesa Nacional, das Finanças, do Exército e das Corporações e Previdência Social, incluir na tabela de vencimentos e salários, aprovada pela Portaria n.º 17876, de 2 de Agosto de 1960, para o pessoal civil contratado e assalariado da Fábrica Militar de Pólvoras e Explosivos, actualmente em regime de arrendamento à Companhia de Pólvoras e Munições de Barcarena, os vencimentos correspondentes às categorias abaixo designadas, com efeito desde 1 de Janeiro de 1961:
+a) Pessoal contratado
+(ver documento original)
+b) Pessoal assalariado
+(ver documento original)
+Presidência do Conselho e Ministérios das Finanças, do Exército e das Corporações e Previdência Social, 13 de Março de 1963. - O Ministro da Defesa Nacional, Manuel Gomes de Araújo. - O Ministro das Finanças, António Manuel Pinto Barbosa. - O Ministro do Exército, Joaquim da Luz Cunha. - O Ministro das Corporações e Previdência Social, José João Gonçalves de Proença.
