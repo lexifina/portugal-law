@@ -1,0 +1,6 @@
+Resolução n.º 216/82
+A Direcção-Geral das Contribuições e Impostos solicitou a aquisição de instalações para vários dos seus serviços, designadamente o Núcleo de Informática, que se torna necessário fazer funcionar com urgência.
+Estudado e ponderado o assunto, optou aquela Direcção-Geral pela aquisição de parte de um prédio sito na Rua da Imprensa Nacional, 77 a 83, em Lisboa, o qual se encontra em regime de propriedade horizontal.
+A Direcção-Geral dos Edifícios e Monumentos Nacionais, consultada nos termos legais, pôs algumas reservas ao imóvel, mas reconhece ser difícil encontrar outra alternativa, pelo que admite se aproveite a solução proposta.
+Assim, considerando o exposto, o Conselho de Ministros para os Assuntos Económicos, reunido em 30 de Novembro de 1982, resolveu, nos termos dos n.os 2 e 3 do artigo 1.º do Decreto-Lei n.º 27/79, de 22 de Fevereiro, autorizar a Direcção-Geral do Património do Estado a adquirir a parte do imóvel sito em Lisboa, na Rua da Imprensa Nacional, 77 a 83, constituída pelas fracções A, do bloco A, e Q, do bloco B, pela importância de 111766000$00, a suportar pela competente verba do orçamento do Ministério das Finanças e do Plano e com o pagamento diferido por 2 anos económicos.
+Presidência do Conselho de Ministros. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.
