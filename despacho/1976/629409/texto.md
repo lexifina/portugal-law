@@ -1,0 +1,10 @@
+Despacho
+Em cumprimento do n.º 2 do artigo 1. do Decreto-Lei n.º 461-A/75, de 25 de Agosto, determina-se:
+1. Os oficiais, sargentos ou equiparados e praças dos quadros permanentes do Exército, da Armada e da Força Aérea, nas situações de actividade e de reserva prestando serviço, são abonados de diuturnidades por cada cinco anos de serviço, até ao limite de quatro diuturnidades.
+2. O valor de cada diuturnidade é igual ao quantitativo actualmente percebido pelos sargentos (calculado com base no vencimento do segundo-sargento fixado pelo Decreto-Lei n.º 498-E/74, de 30 de Setembro), acrescido da quantia de 250$00.
+3. Mantém-se o abono do acréscimo nas condições do antecedente estabelecidas em relação à primeira diutunidade de sargentos, o qual é tornado extensivo a todos os militares a que se refere o Decreto-Lei n.º 461-A/75, de 25 de Agosto.
+4. O pagamento dos abonos atrás referidos reportar-se-á à data de 1 de Abril de 1976.
+Entretanto, as importâncias resultantes da aplicação do artigo 10.º do Decreto-Lei n.º 461-A/75, de 25 de Agosto, quando de valor igual ou superior a 4000$00, serão pagas em dezasseis prestações mensais; quando de valor inferior, serão liquidadas em prestações mensais de 250$00.
+O pagamento da primeira prestação referir-se-á à mesma data de 1 de Abril de 1976.
+5. Aos militares que passaram ou venham a passar à situação de reserva sem comissão de serviço, à situação de reforma ou a outros ministérios devem ser pagos de todas as prestações em dívida na data em que se verificarem essas alterações, competindo o respectivo pagamento à última entidade processadora das suas remunerações.
+Estado-Maior-General das Forças Armadas e Ministério das Finanças, 5 de Junho de 1976. - O Chefe do Estado-Maior-General das Forças Armadas, Francisco da Costa Gomes. - O Chefe do Estado-Maior do Exército, António dos Santos Ramalho Eanes. - O Chefe do Estado-Maior da Armada, Augusto Souto Silva Cruz. - O Chefe do Estado-Maior da Força Aérea, José Alberto Morais da Silva. - O Ministro das Finanças, Francisco Salgado Zenha.
