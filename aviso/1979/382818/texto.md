@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que o Líbano depositou em 10 de Maio de 1978 o instrumento de ratificação do Protocolo de Haia, de 28 de Setembro de 1955, que emenda a Convenção para a Unificação de Certas Normas Relativas ao Transporte Aéreo Internacional, assinada em Varsóvia em 12 de Outubro de 1929, e que a Finlândia e a Itália assinaram em 2 e 15 de Maio de 1978, respectivamente, os Protocolos adicionais n.os 1, 2 e 3 e o Protocolo de Montreal n.º 4, concluídos em Montreal em 25 de Setembro de 1975, que emendam a referida Convenção.
+Direcção-Geral dos Negócios Económicos, 28 de Fevereiro de 1979. - O Adjunto do Director-Geral, Carlos Alberto Soares Simões Coelho.
