@@ -1,0 +1,14 @@
+Portaria n.º 87/93
+de 25 de Janeiro
+Tendo em consideração o disposto no n.º 2 do artigo 9.º do Decreto-Lei n.º 282/86, de 5 de Setembro, que manda fixar anualmente a taxa a cobrar pela concessão do alvará a que se refere o artigo 7.º do mesmo diploma;
+Considerando a obrigatoriedade que cabe aos serviços públicos de, atempadamente, darem cumprimento às determinações da lei:
+Manda o Governo, pelo Secretário de Estado da Administração Interna, nos termos do n.º 2 do artigo 9.º do Decreto-Lei n.º 282/86, de 5 de Setembro, o seguinte:
+1.º Pela concessão dos alvarás previstos no n.º 1 do artigo 9.º do Decreto-Lei n.º 282/86 serão cobradas, no ano de 1993, as seguintes taxas:
+a) Prestação dos serviços previstos na alínea c) do artigo 5.º - 1150000$00;
+b) Prestação dos serviços previstos na alínea a) do artigo 6.º - 2300000$00;
+c) Prestação dos serviços previstos na alínea b) do artigo 6.º - 2300000$00;
+d) Substituição de alvará - 60000$00.
+2.º As taxas são pagas através de guias de receita do Estado, a emitir pela Secretaria-Geral do Ministério da Administração Interna.
+Ministério da Administração Interna.
+Assinada em 22 de Dezembro de 1992.
+O Secretário de Estado da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro.
