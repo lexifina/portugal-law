@@ -1,0 +1,3 @@
+Resolução n.º 13/82
+O Conselho de Ministros para os Assuntos Económicos, reunido em 5 de Janeiro de 1982, resolveu exonerar de membro do conselho de gestão da Companhia de Seguro de Créditos, E. P., o Dr. Amílcar Junqueira Martins, na sequência da sua nomeação para o cargo de presidente do conselho de gerência da CNP - Companhia Nacional de Petroquímica, E. P., por Resolução do Conselho de Ministros n.º 209/81, publicada no Diário da República, 1.ª série, n.º 211, de 14 de Setembro de 1981.
+Presidência do Conselho de Ministros, 5 de Janeiro de 1982. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.
