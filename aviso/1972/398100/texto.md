@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que foram trocados, em Lisboa, em 27 de Janeiro de 1972, entre o Ministro dos Negócios Estrangeiros de Portugal e o embaixador da Áustria em Lisboa os instrumentos de ratificação da Convenção entre a República Portuguesa e a República da Áustria para Evitar a Dupla Tributação em Matéria de Impostos sobre o Rendimento e sobre o Capital, assinada em Viena em 29 de Dezembro de 1970 e aprovada para ratificação pelo Decreto-Lei n.º 70/71, de 8 de Março.
+Direcção-Geral dos Negócios Económicos, 28 de Janeiro de 1972. - O Director-Geral Interino, Tomás de Melo Breyner Andresen.
