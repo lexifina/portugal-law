@@ -1,0 +1,1022 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "21",
+    "id": "29169",
+    "titulo": "Concede ao Governo autorização legislativa para estabelecer o processamento das transgressoes  e contravençoes ainda subsistentes"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1987-12-22",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "4931",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1987-12-22",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1987-12-22",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  ADJUNTO MINISTRO DA  JUSTIÇA",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Borges Soeiro"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207152",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "917-919",
+                  "920-921"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-23",
+                "pubLeg": "V",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/035/1987-12-23/917?pgs=917-919,920-921&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização legislativa para estabelecer o processamento das transgressoes  e contravençoes ainda subsistentes",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207153",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "919-919"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-23",
+                "pubLeg": "V",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/035/1987-12-23/919?pgs=919&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização legislativa para estabelecer o processamento das transgressoes  e contravençoes ainda subsistentes",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207155",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "919-919"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-23",
+                "pubLeg": "V",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/035/1987-12-23/919?pgs=919&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização legislativa para estabelecer o processamento das transgressoes  e contravençoes ainda subsistentes",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207156",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "921-922",
+                  "922-923"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-23",
+                "pubLeg": "V",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/035/1987-12-23/921?pgs=921-922,922-923&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização legislativa para estabelecer o processamento das transgressoes  e contravençoes ainda subsistentes",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207157",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "922-922"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-23",
+                "pubLeg": "V",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/035/1987-12-23/922?pgs=922&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização legislativa para estabelecer o processamento das transgressoes  e contravençoes ainda subsistentes",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207158",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "923-924",
+                  "924-925"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-23",
+                "pubLeg": "V",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/035/1987-12-23/923?pgs=923-924,924-925&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização legislativa para estabelecer o processamento das transgressoes  e contravençoes ainda subsistentes",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207160",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "924-924"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-23",
+                "pubLeg": "V",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/035/1987-12-23/924?pgs=924&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização legislativa para estabelecer o processamento das transgressoes  e contravençoes ainda subsistentes",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207161",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "924-924"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-23",
+                "pubLeg": "V",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/035/1987-12-23/924?pgs=924&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização legislativa para estabelecer o processamento das transgressoes  e contravençoes ainda subsistentes",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207162",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "925-925",
+                  "925-925"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-23",
+                "pubLeg": "V",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/035/1987-12-23/925?pgs=925,925&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização legislativa para estabelecer o processamento das transgressoes  e contravençoes ainda subsistentes",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207163",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "925-926"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-23",
+                "pubLeg": "V",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/035/1987-12-23/925?pgs=925-926&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização legislativa para estabelecer o processamento das transgressoes  e contravençoes ainda subsistentes",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207165",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "926-927",
+                  "929-930",
+                  "930-930"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-23",
+                "pubLeg": "V",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/035/1987-12-23/926?pgs=926-927,929-930,930&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização legislativa para estabelecer o processamento das transgressoes  e contravençoes ainda subsistentes",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207166",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "927-928"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-23",
+                "pubLeg": "V",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/035/1987-12-23/927?pgs=927-928&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização legislativa para estabelecer o processamento das transgressoes  e contravençoes ainda subsistentes",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207168",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "928-928"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-23",
+                "pubLeg": "V",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/035/1987-12-23/928?pgs=928&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização legislativa para estabelecer o processamento das transgressoes  e contravençoes ainda subsistentes",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207169",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "928-928"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-23",
+                "pubLeg": "V",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/035/1987-12-23/928?pgs=928&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização legislativa para estabelecer o processamento das transgressoes  e contravençoes ainda subsistentes",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207170",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "929-929",
+                  "930-930"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-23",
+                "pubLeg": "V",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/035/1987-12-23/929?pgs=929,930&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização legislativa para estabelecer o processamento das transgressoes  e contravençoes ainda subsistentes",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207171",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "930-931",
+                  "932-932",
+                  "932-932"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-23",
+                "pubLeg": "V",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/035/1987-12-23/930?pgs=930-931,932,932&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização legislativa para estabelecer o processamento das transgressoes  e contravençoes ainda subsistentes",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207172",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "931-932",
+                  "932-932"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-23",
+                "pubLeg": "V",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/035/1987-12-23/931?pgs=931-932,932&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização legislativa para estabelecer o processamento das transgressoes  e contravençoes ainda subsistentes",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  ADJUNTO MINISTRO DA  JUSTIÇA",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Borges Soeiro"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207173",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "930-933",
+                  "933-933"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-23",
+                "pubLeg": "V",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/035/1987-12-23/930?pgs=930-933,933&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização legislativa para estabelecer o processamento das transgressoes  e contravençoes ainda subsistentes",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207174",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "933-933"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-23",
+                "pubLeg": "V",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/035/1987-12-23/933?pgs=933&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização legislativa para estabelecer o processamento das transgressoes  e contravençoes ainda subsistentes",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  PRESIDÊNCIA  E DA JUSTIÇA",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Fernando Nogueira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207175",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "933-934",
+                  "934-935"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-23",
+                "pubLeg": "V",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/035/1987-12-23/933?pgs=933-934,934-935&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização legislativa para estabelecer o processamento das transgressoes  e contravençoes ainda subsistentes",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207177",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "934-934"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-23",
+                "pubLeg": "V",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/035/1987-12-23/934?pgs=934&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização legislativa para estabelecer o processamento das transgressoes  e contravençoes ainda subsistentes",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "207179",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "935-935"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1987-12-23",
+                "pubLeg": "V",
+                "pubNr": "35",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/035/1987-12-23/935?pgs=935&org=PLC"
+              }
+            ],
+            "sumario": "Concede ao Governo autorização legislativa para estabelecer o processamento das transgressoes  e contravençoes ainda subsistentes",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "225109",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "4931",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1987-12-23",
+        "pubLeg": "V",
+        "pubNr": "35",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/035/1987-12-23?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
