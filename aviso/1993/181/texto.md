@@ -1,0 +1,3 @@
+Aviso n.º 181/93
+Por ordem superior se faz público ter o Governo da Noruega, na sua qualidade de depositário, recebido, em 22 de Fevereiro de 1993, o instrumento de ratificação do Reino Unido da Grã-Bretanha e Irlanda do Norte (no que diz respeito aos territórios de Jersey, Guernsey e Isle of Man) ao Protocolo, de 5 de Dezembro de 1989, Que Emenda a Convenção para a Prevenção da Poluição Marítima Causada por Operações de Imersão Efectuadas por Navios e Aeronaves (Convenção de Oslo de 1972), de acordo com o artigo VII do referido Protocolo.
+Direcção-Geral dos Negócios Político-Económicos, 21 de Junho de 1993. - O Subdirector-Geral, António Nunes de Carvalho Santana Carlos.
