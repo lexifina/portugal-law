@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1952/02/03800/03250326.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1952-02-19",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "7066911c66c1312a4c81f44e15963186170f02decf88557073f9f6737923d192",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.6,
+    "pages": 2,
+    "columns": [
+      3,
+      7
+    ],
+    "pdf_sha256": "ffa49d61446b20d106f98c08988193c16db4f617df78d6c146e7584cfb22b279",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 357
 }
