@@ -1,0 +1,117 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=P0Fiu%2fOxm2B6i1Qb1v6Kl8P9Ddn6RTIUCktgva%2fyOaH7lWGUnkkysYTUSoIwHSs4BsNkQvxZU1Jn26l834KO7HtuiuTauD6UP2bFLXGt1tGFPrfPngnS3CSTBHYbjc71uc6LAaWwWMNPEAhBQhLTogdfX0k86zYaSRdtMb5VxaaW%2bmRVLZ1kFuUjHoiU3DnKr1hwTFH2RjyVH0%2bkvoh5J2473p4WEAcwEGu0cbkopo0uGKBdgu45lweS1xncByHsc5RkSTt5XtJ4jYpzMHGU0JCobwocVoDRrWDIaByf6THsN8d28CiCvqU0mvdSGeyt9pZrFNIo3KeVbLuYHnmRx0uPU1z9aF2A03pcO1L5Ivg%3d&fich=AtividadesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "158feac9a195837800498c997c5f15d982e196bc878ba5194b23e12459159b60",
+  "legislatura": "IX",
+  "tipo": "Voto",
+  "numero": "133",
+  "data_registo": "2004-02-12",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Voto de Protesto contra o recurso pelo Governo a expedientes de desorçamentação e adulteração das contas públicas e outras formas de viciação da transparência e verdade financeiras",
+    "AutoresGP": [
+      "PS",
+      "Guilherme D'oliveira Martins (PS)",
+      "Alberto Costa (PS)",
+      "José Magalhães (PS)",
+      "Joel Hasse Ferreira (PS)"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": "2004-02-26",
+    "DataAnuncio": null,
+    "DataEntrada": "2004-02-12",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "IX",
+    "Numero": "133",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "288529",
+        "obs": null,
+        "pag": [
+          "99-99"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-02-14",
+        "pubLeg": "IX",
+        "pubNr": "18",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/02/018/2004-02-14/99?pgs=99&org=PLC"
+      }
+    ],
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "21138",
+        "obs": null,
+        "pag": [
+          "3131-3135"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2004-02-27",
+        "pubLeg": "IX",
+        "pubNr": "56",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/056/2004-02-27/3131?pgs=3131-3135&org=PLC"
+      }
+    ],
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "2",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": "Grupos Parlamentares",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "2004-02-26",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> BE</I>, <I> PEV</I><BR>Contra:<I>PSD</I>, <I> CDS-PP</I>",
+        "id": "31432",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "285998",
+            "obs": null,
+            "pag": [
+              "3134-3134"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2004-02-27",
+            "pubLeg": "IX",
+            "pubNr": "56",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/056/2004-02-27/3134?pgs=3134&org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "56",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
