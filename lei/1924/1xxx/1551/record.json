@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1924/03/04800/03370337.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1924-03-01",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "e888771af6ac7a49dd2d2e5ecea7549ea794b631f12914224667153ae84a78ff",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.1,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "0119937658fe79872668dfe8d0dac03abf08d1f42b491dcf7f29e46c1fc50454",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 193
 }
