@@ -1,0 +1,7 @@
+Aviso n.º 98/94
+Por ordem superior se torna público que o Secretariado Permanente da Conferência da Haia de Direito Internacional Privado informou que os Estados seguintes declararam aceitar a adesão da Austrália à Convenção sobre Obtenção de Provas no Estrangeiro em Matéria Civil ou Comercial, concluída na Haia em 18 de Março de 1970: Chipre, em 20 de Abril de 1993; República Federal da Alemanha, em 4 de Maio de 1993; Reino dos Países Baixos (por Aruba), em 20 de Maio de 1993; Finlândia, em 24 de Maio de 1993, e Estados Unidos da América, em 23 de Junho de 1993.
+Em conformidade com o artigo 39, alínea 5, a Convenção entrou em vigor: entre a Austrália, por um lado, e Chipre, República Federal da Alemanha, Aruba, Finlândia e Estados Unidos da América, respectivamente, em 19 de Junho de 1993, 3 de Julho de 1993, 19 de Julho de 1993, 23 de Julho de 1993 e 22 de Agosto de 1993.
+Relativamente a Portugal, a Convenção foi ratificada pelo Decreto n.º 764/74, de 30 de Dezembro, conforme Diário da República, n.º 302, de 30 de Dezembro de 1974.
+Foi publicado aviso no Diário do Governo, 1.ª série, n.º 82, de 8 de Abril de 1975.
+Entrou em vigor para Portugal em 11 de Maio de 1975. A autoridade central é a Direcção-Geral dos Serviços Judiciários.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 16 de Fevereiro de 1994. - O Secretário-Geral-Adjunto, Afonso de Castro de Sá Pereira e Vasconcelos.
