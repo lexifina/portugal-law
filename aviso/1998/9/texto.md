@@ -1,0 +1,13 @@
+Aviso n.º 9/98
+Por ordem superior se torna público que a Itália formulou, em 18 de Julho de 1994, uma objecção às reservas feitas pela República Árabe da Síria aquando da ratificação da Convenção sobre os Direitos da Criança, adoptada pela Assembleia Geral das Nações Unidas em 20 de Novembro de 1989, cuja versão em inglês e tradução oficial em português a seguir se transcrevem:
+«The Government of Italy has examined the reservation contained in the instrument of ratification of the Government of the Syrian Arab Republic to the Convention on the Rights of the Child which reads as follows:
+'The Syrian Arab Republic has reservations on the Convention's provisions which are not in conformity with the Syrian Arab legislations and with the islamic shariaa's principles, in particular the content of article 14 related to the right of the child to the freedom of religion, and articles 2 and 21 concerning the adoption.'
+This reservation is too comprehensive and too general as to be compatible with the object and purpose of the Convention. The Government of Italy therefore objects to the reservation made by the Syrian Arab Republic.
+This objection shall not preclude the entry into force of the Convention as between the Syrian Arab Republic and Italy.»
+Tradução oficial
+«O Governo da Itália examinou a reserva incluída no instrumento de ratificação do Governo da República Árabe Síria à Convenção sobre os Direitos da Criança, cujo texto é o seguinte:
+'A República Árabe Síria coloca reservas às disposições da Convenção que não estão em conformidade com a legislação da Síria árabe e com os princípios da lei islâmica, em especial o conteúdo do artigo 14.º, relativo ao direito da criança à liberdade de religião, e os artigos 2.º e 21.º, relativos à adopção.'
+Esta reserva é demasiado abrangente para ser compatível com o objecto e finalidade da Convenção. Por conseguinte, o Governo da Itália manifesta a sua objecção à reserva feita pela República Árabe Síria.
+Esta objecção não impedirá a entrada em vigor da Convenção entre a República Árabe Síria e a Itália.»
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 20/90, publicada no Diário da República, 1.ª série (suplemento), n.º 211, de 12 de Setembro de 1990, tendo depositado o seu instrumento de ratificação em 21 de Setembro de 1990, conforme aviso publicado no Diário da República, 1.ª série, n.º 248, de 26 de Outubro de 1990.
+Direcção de Serviços das Organizações Políticas Internacionais, 30 de Dezembro de 1997. - O Director de Serviços, João José Gomes Caetano da Silva.
