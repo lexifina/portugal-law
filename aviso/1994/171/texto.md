@@ -1,0 +1,5 @@
+Aviso n.º 171/94
+Por ordem superior se torna público que o director dos Assuntos Jurídicos do Conselho da Europa, por notificação de 6 de Maio de 1994, comunicou que a Bulgária ratificou, a 3 de Maio de 1994, a Convenção Europeia para a Prevenção da Tortura e das Penas ou Tratamentos Desumanos ou Degradantes, aberta à assinatura em 24 de Novembro de 1987.
+Relativamente a Portugal, a Convenção foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 3/90, conforme Diário da República, n.º 25, de 30 de Janeiro de 1990. A Convenção foi ratificada pelo Decreto n.º 8/90, de 20 de Fevereiro de 1990.
+O depósito do instrumento de ratificação foi feito em 29 de Março de 1990 e a Convenção entrou em vigor para o nosso país em 1 de Julho de 1990, conforme aviso publicado no Diário da República, n.º 107, de 10 de Maio de 1990.
+Direcção-Geral dos Assuntos Multilaterais, 17 de Junho de 1994. - A Directora de Serviços das Organizações Políticas Internacionais, Ana Maria da Silva Marques Martinho.
