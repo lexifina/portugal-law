@@ -1,0 +1,78 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ikbb22EfidWyh5aL9J45Him8rhm3hBQttHxkrMbFeyYEwrlCCV9ZfcNHgV8WjSxu83VjOPt6VK7tfawrIfKZtTDmfI0Eg1Qj2%2fgR4zkB218vexxTlHm9ELnuOSX5QSKeM5RBZD467bhRAPU4hPcfbqahvryp3gb6e37C1v7CloSAMeYftDHuGXetsMTuqWKWDw8jw4LLkjhOMYrtuWUeiCrg7lyiTG%2fjnHAs%2fmcgrOZO8jIFWuyniqH%2f16iGaVZzEzfL%2b4SfA3O6drPBVYibztEF%2fs9tJC4xx3DcN5MsnQfVSXH3wVPofkvbJEOlvWHKvrzXi7OMn9qcwTKLuqkVUEIS1yusoxybTMXClPgsIs8%3d&fich=IntervencoesIX_json.txt&Inline=true",
+  "ficheiro_sha256": "ab3e3445119ef03a27cc4debeadf3049422a38e0d13b37a933bd5be6cbd2d916",
+  "legislatura": "IX",
+  "id": "147277",
+  "tipo": "Leitura",
+  "orador": "Mota Amaral (PSD)",
+  "data_registo": "2003-10-30",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "73824",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "73824",
+        "tipo": "VOT",
+        "titulo": "De Congratulação - De congratulação por o piloto Carlos Sousa ter conquistado a Taça do Mundo de Todo-o-Terreno"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "2003-10-30",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "390",
+      "nome": "Mota Amaral"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "147277",
+    "IdDebate": "20915",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "IX",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "147277",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "977-977"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-10-31",
+        "pubLeg": "IX",
+        "pubNr": "18",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/02/018/2003-10-31/977?pgs=977&org=PLC"
+      }
+    ],
+    "Qualidade": "Pres. Mesa",
+    "Resumo": null,
+    "Sessao": "2",
+    "Sumario": "Voto de congratulação pela conquista da Taça do Mundo de Todo-o-Terreno pelo piloto Carlos Sousa",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Leitura"
+  }
+}
