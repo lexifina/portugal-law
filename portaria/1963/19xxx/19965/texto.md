@@ -1,0 +1,4 @@
+Portaria n.º 19965
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e dos Negócios Estrangeiros, nos termos do artigo 3.º do Decreto-Lei n.º 38728, de 24 de Abril de 1952, que o n.º 2) da Portaria n.º 18758, de 2 de Outubro de 1961, passe a ter a seguinte redacção:
+2) Membros da delegação prestando nela serviço privativo: um ministro plenipotenciário de 2.ª classe ou um conselheiro de legação; três funcionários do quadro diplomático ou consular de qualquer categoria de entre os primeiros, Segundos e terceiros-secretários de legação, cônsules de 1.ª, de 2.ª ou 3.ª classe, e um secretário privativo, ou dois funcionários do referido quadro diplomático ou consular das mencionadas categorias, e dois secretários privativos.
+Ministérios das Finanças e dos Negócios Estrangeiros, 24 de Julho de 1963. - O Ministro das Finanças, António Manuel Pinto Barbosa. - O Ministro dos Negócios Estrangeiros, Alberto Marciano Gorjão Franco Nogueira.
