@@ -1,0 +1,17 @@
+Resolução do Conselho de Ministros n.º 41/2004
+A negociação no âmbito da União Europeia de um novo quadro financeiro para o período de 2007 a 2013 deverá ter início a breve trecho, tendo já sido apresentada, em 10 de Fevereiro corrente, a comunicação da Comissão Europeia que irá enquadrar as suas propostas sobre esta matéria.
+Trata-se de um processo negocial complexo, que assumirá implicações determinantes para os vários domínios da acção da União Europeia no futuro próximo e que representa um importante acréscimo de trabalho face aos recursos humanos actualmente existentes na Representação Permanente de Portugal junto da União Europeia (REPER), manifestamente exíguos para o tratamento de uma matéria com esta complexidade.
+Nestes termos, afigura-se essencial dotar a REPER dos meios adequados ao atento acompanhamento das negociações das próximas perspectivas financeiras, objectivo que poderá ser mais bem prosseguido através de pessoal qualificado que a ele se dedique em exclusivo, no âmbito de uma estrutura de missão especificamente criada para o efeito que confira a esta situação o necessário enquadramento legal.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Criar, junto do Ministério dos Negócios Estrangeiros e na dependência directa do Representante Permanente de Portugal junto da União Europeia, em Bruxelas, a «estrutura de missão para acompanhamento técnico das negociações das próximas perspectivas financeiras», nos termos do artigo 28.º da Lei n.º 4/2004, de 15 de Janeiro.
+2 - Determinar que a estrutura de missão tem por objectivo assegurar em Bruxelas, em estreita coordenação com os respectivos departamentos do Estado em Lisboa, o acompanhamento por parte de Portugal das negociações relativas ao quadro financeiro da União Europeia para o período de 2007 a 2013.
+3 - Estabelecer que a estrutura de missão integra dois funcionários, a nomear por despacho conjunto das Ministras de Estado e das Finanças e dos Negócios Estrangeiros e das Comunidades Portuguesas, colocados, em comissão de serviço, na Representação Permanente de Portugal junto da União Europeia, em Bruxelas, sendo responsável por aquela o funcionário diplomático nomeado.
+4 - Determinar que os funcionários referidos no número anterior gozam, em tudo o que seja conforme à transitoriedade das respectivas colocações:
+a) Do estatuto previsto no Decreto-Lei n.º 40-A/98, de 27 de Fevereiro, para a carreira diplomática, caso se trate de funcionários do quadro diplomático do Ministério dos Negócios Estrangeiros;
+b) Do estatuto do quadro de pessoal especializado, previsto no Decreto-Lei n.º 133/85, de 2 de Maio, caso se trate de funcionários não diplomáticos.
+5 - Estabelecer que os elementos integrantes da estrutura de missão têm direito a auferir das regalias previstas no artigo 62.º e nos n.os 2 e 3 do artigo 67.º do Decreto-Lei n.º 40-A/98, de 27 de Fevereiro.
+6 - Determinar que os encargos decorrentes da criação e funcionamento da presente estrutura de missão são suportados pelo orçamento do departamento governamental de que sejam originários os funcionários a nomear.
+7 - Estabelecer que a estrutura de missão se extingue automaticamente no prazo de 60 dias após a conclusão das negociações referidas no n.º 2.
+8 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+Presidência do Conselho de Ministros, 11 de Março de 2004. - O Primeiro-Ministro, José Manuel Durão Barroso.
