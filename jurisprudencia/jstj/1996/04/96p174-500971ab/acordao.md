@@ -1,0 +1,43 @@
+# Acórdão do Supremo Tribunal de Justiça de 1996-04-18, processo 96P174
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 96P174
+
+**Nº Convencional:** JSTJ00031382
+
+**Relator:** FERREIRA ROCHA
+
+**Descritores:** CONCURSO REAL DE INFRACÇÕES; FURTO QUALIFICADO; INTRODUÇÃO EM CASA ALHEIA; INTRODUÇÃO EM LUGAR VEDADO AO PÚBLICO; ATENUAÇÃO ESPECIAL DA PENA; REFORMATIO IN PEJUS
+
+**Nº do Documento:** SJ199604180001743
+
+**Data do Acordão:** 04/18/1996
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REC PENAL.
+
+**Decisão:** NEGADO PROVIMENTO.
+
+**Indicações Eventuais:** SIMAS SANTOS E LEAL HENRIQUES IN JURISPRUDÊNCIA PENAL 1995 PAG425.; LOPES ROCHA IN BMJ N322 PAG559.
+
+**Área Temática:** DIR CRIM - CRIM C/PATRIMÓNIO / TEORIA GERAL.
+
+## Sumário
+
+I - Desde que os furtos sejam qualificados por outra ou outras agravantes além da prevista no artigo 297 n. 2, alínea d), do C.P. de 1982 e verificando-se também esta agravante, então há que considerar consumado o crime do artigo 177 ou do artigo 176 do mesmo Código, em concurso real com o de furto.
+
+II - Não propícia a atenuação especial da pena aplicada ao autor de um crime qualificado de furto o facto de:
+
+A. por um lado, o dolo ser directo e intenso, sendo o valor dos objectos furtados na casa de habitação de 650000 escudos - valor considerável - e a ilicitude ser de grau acentuado;
+
+B. por outro lado, ainda, o ser o agente do crime toxicodependente de longa data ser uma circunstância agravante quando o crime não está relacionado com o tráfico de droga, constituindo crime comum praticado com o fim de obter meios para a adquirir - v. artigos 88 e 86 do C.P.;
+
+C. finalmente, apenas o poder ter a seu favor a confissão dos factos praticados e dado como provados e que todos os objectos, com alguma excepção, terem sido recuperados.
+
+III - Embora os factos dados como provados integrem, além de um furto qualificado, o crime de introdução em casa alheia e (ou) outro de introdução de lugar vedado ao público, não poderão estes ser considerados por a tanto se opôr o princípio da "reformatio in pejus".
