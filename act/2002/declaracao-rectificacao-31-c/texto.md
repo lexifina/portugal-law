@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 31-C/2002
+Para os devidos efeitos se declara que o Decreto-Lei n.º 197/2002, publicado no Diário da República, 1.ª série, n.º 222, de 25 de Setembro de 2002, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No sumário, onde se lê «Fixa as taxas a pagar pelos serviços de recolha, transporte, transformação e distribuição dos subprodutos de carne de mamíferos e aves, incluindo os materiais de risco específico.» deve ler-se «Fixa as taxas a pagar pelos serviços de recolha, transporte, transformação e destruição dos subprodutos de carne de mamíferos e aves, incluindo os materiais de risco específico.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Outubro de 2002. - O Secretário-Geral, José M. Sousa Rego.
