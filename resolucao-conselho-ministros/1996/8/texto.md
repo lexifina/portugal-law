@@ -1,0 +1,8 @@
+Resolução do Conselho de Ministros n.º 8/96
+Considerando a situação e perspectivas de desenvolvimento do Empreendimento de Fins Múltiplos de Alqueva à luz dos princípios e objectivos da política de desenvolvimento regional em geral, e do desenvolvimento rural em particular, bem como da gestão ambiental em conformidade com o desenvolvimento sustentável que enformam o seu Programa;
+Ao abrigo da alínea g) do artigo 202.º da Constituição, o Governo resolveu:
+1 - Avançar inequivocamente com o projecto do Alqueva, reorientando-o à luz dos princípios e objectivos da política de desenvolvimento regional e do cumprimento dos requisitos exigidos pela gestão ambiental que enformam o seu Programa, assegurando o seu financiamento através das mais adequadas combinações de recursos nacionais e comunitários.
+2 - Determinar à Empresa de Desenvolvimento e Infra-Estruturas do Alqueva, S. A., que prossiga, sem interrupções, o programa do Empreendimento.
+3 - Reforçar o conselho de administração da Empresa de Desenvolvimento e Infra-Estruturas do Alqueva, S. A., mediante a agregação de dois novos elementos a indicar pelos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente.
+4 - Incumbir o Ministro do Planeamento e da Administração do Território de, em articulação com os Ministros das Finanças, da Economia, da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente, preparar uma acção integrada de desenvolvimento para a zona de influência do Empreendimento do Alqueva, devendo apresentar um relatório sobre o assunto ao conselho até 30 de Setembro de 1996.
+Presidência do Conselho de Ministros, 4 de Janeiro de 1996. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
