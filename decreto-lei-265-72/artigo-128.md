@@ -4,7 +4,11 @@
 
 1. O certificado de navegabilidade é o documento passado de acordo com as disposições da legislação nacional sobre segurança da navegação e sua fiscalização que prova terem as embarcações as condições necessárias para navegar.
 
-2. O certificado de navegabilidade é dispensado para as embarcações de passageiros providas de certificado de segurança de navio de passageiros, passado nos termos da C. I. S. V. H. M., mas é exigível às embarcações de carga que possuam os certificados da mesma Convenção.
+2 - O certificado de navegabilidade é dispensado para as embarcações de comércio abaixo indicadas, desde que providas dos certificados de segurança passados nos termos da Convenção Internacional para a Salvaguarda da Vida Humana no Mar (CISVHM):
+
+a) Embarcações de passageiros;
+
+b) Embarcações de carga com uma arqueação bruta igual ou superior a 500 t.
 
 3. Do certificado de navegabilidade das embarcações de tráfego local e rebocadores e embarcações auxiliares locais ou costeiros deve constar a lotação de tripulantes e, quando for caso disso, a lotação de passageiros.
 
