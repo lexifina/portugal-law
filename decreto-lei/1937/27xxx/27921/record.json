@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1937/08/18000/07890790.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1937-08-04",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "781ce5b5424adb0f19d256a7e422877632c83f31835efd3ba9aa133e5cd7225f",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.3,
+    "pages": 2,
+    "columns": [
+      3,
+      1
+    ],
+    "pdf_sha256": "78f1cdf197f63e7af8d8b853c1c4c619cc4e7de57e94209ee8286a8165a76ed3",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 33
 }
