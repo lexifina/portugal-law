@@ -1,3 +1,5 @@
+## Regulamento Geral de Segurança e Higiene do Trabalho nos Estabelecimentos Industriais
+
 ## Capítulo I
 
 ## Disposições gerais

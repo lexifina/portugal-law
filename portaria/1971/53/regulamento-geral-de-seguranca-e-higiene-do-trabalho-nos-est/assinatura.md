@@ -1,0 +1,1 @@
+O Secretário de Estado da Indústria, Rogério da Conceição Serafim Martins. - O Secretário de Estado do Trabalho e Previdência, Joaquim Dias da Silva Pinto. - O Secretário de Estado da Saúde e Assistência, Francisco Gonçalves Ferreira.
