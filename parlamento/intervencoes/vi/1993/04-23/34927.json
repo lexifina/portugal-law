@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=rKtwshDyv1NBeu65K82ef9j6oFE3w%2fgAbqyUhooMpoSyQQ0pTyzibfD50gH%2baGhs1TrcG1r0l2bU1A0KAmFXPBoWqi6NY9nsxTw%2fxAs2r347ke8O86pD8UW0Vo24i8zPmfcPKM5y3XEB99eQAf1Ojm%2bemILgruHhJl9u7yVaplGsWPI0o%2bZUTUUBCanSa5007dUY7uakZ2EgL138SciEtNOWsIyqy66pG5Eu5crXojP8szj276fRrDhZdP6MEXFhdUelamzN3e1Rpwl8sPVmxdyANoDqpCtvpC0PXNmoyGF02wzb13ACPnwjTtn%2bPiN%2b1oG5E%2bkfl50yDwrf9Q4ck3XnT7zfIqh68Ee0O7Ap66U%3d&fich=IntervencoesVI_json.txt&Inline=true",
+  "ficheiro_sha256": "09dcb463dee20c5105fb36bc1a4e2274ee28613bb7bd19e9b953a0ed8eb5faf8",
+  "legislatura": "VI",
+  "id": "34927",
+  "tipo": "Intervenção",
+  "orador": "José Calçada (PCP)",
+  "data_registo": "1993-04-23",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "96695",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "3959",
+        "tipo": "INI",
+        "titulo": "Ratificação - Decreto-lei nº 249/92, de 9 de Novembro, que - estabelece o regime jurídico da formação contínua de professores da educação pré-escolar e dos ensinos básico e secundário."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1993-04-23",
+    "Debate": "RAT54-PS",
+    "Deputados": {
+      "GP": "PCP",
+      "idCadastro": "815",
+      "nome": "José Calçada"
+    },
+    "FaseDebate": "GENERALIDADE",
+    "FaseSessao": "POD",
+    "Id": "34927",
+    "IdDebate": "431",
+    "Iniciativas": [
+      {
+        "fase": "Apreciação de Decreto-Lei",
+        "id": "3959",
+        "tipo": "Ratificação"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VI",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "34927",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "2016-2016"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1993-04-24",
+        "pubLeg": "VI",
+        "pubNr": "63",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/063/1993-04-24/2016?pgs=2016&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": null,
+    "Sessao": "2",
+    "Sumario": "DL 249/92 REGIME JURIDICO DA FORMACAO CONTINUA DE PROFESSO-RES DA EDUCACAO PRE-ESCOLAR E DOS ENSINOS BASICO E SECUNDA-RIO",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
