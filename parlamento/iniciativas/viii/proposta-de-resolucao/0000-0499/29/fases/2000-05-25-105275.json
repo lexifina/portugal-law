@@ -1,0 +1,303 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Resolução",
+    "numero": "29",
+    "id": "6080",
+    "titulo": "Aprova, para ratificação, a Convenção n°182 relativa à Interdição das Piores Formas de Trabalho das Crianças e à Acção Imediata com Vista à sua Eliminação adoptada pela Conferencia Geral da Organização Internacional de Trabalho em 17 de Junho de 1999"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2000-05-25",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1717",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2000-05-25",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-05-25",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "219",
+                "nome": "Odete Santos"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27483",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2786-2786"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-26",
+                "pubLeg": "VIII",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/070/2000-05-26/2786?pgs=2786&org=PLC"
+              }
+            ],
+            "sumario": "TRABALHO INFANTIL: ELIMINACAO DAS SUAS PIORES FORMAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1102",
+                "nome": "Pedro Mota Soares"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27484",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2785-2786"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-26",
+                "pubLeg": "VIII",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/070/2000-05-26/2785?pgs=2785-2786&org=PLC"
+              }
+            ],
+            "sumario": "TRABALHO INFANTIL: ELIMINACAO DAS SUAS PIORES FORMAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1713",
+                "nome": "Bruno Vitorino"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27485",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2785-2785"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-26",
+                "pubLeg": "VIII",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/070/2000-05-26/2785?pgs=2785&org=PLC"
+              }
+            ],
+            "sumario": "TRABALHO INFANTIL: ELIMINACAO DAS SUAS PIORES FORMAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1272",
+                "nome": "Afonso Lobão"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27486",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2784-2785"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-26",
+                "pubLeg": "VIII",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/070/2000-05-26/2784?pgs=2784-2785&org=PLC"
+              }
+            ],
+            "sumario": "TRABALHO INFANTIL: ELIMINACAO DAS SUAS PIORES FORMAS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  TRABALHO E FORMAÇÃO",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Paulo Pedroso"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107932",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2784-2784"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-05-26",
+                "pubLeg": "VIII",
+                "pubNr": "70",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/070/2000-05-26/2784?pgs=2784&org=PLC"
+              }
+            ],
+            "sumario": "TRABALHO INFANTIL: ELIMINACAO DAS SUAS PIORES FORMAS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "105275",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1717",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-05-26",
+        "pubLeg": "VIII",
+        "pubNr": "70",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/070/2000-05-26?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
