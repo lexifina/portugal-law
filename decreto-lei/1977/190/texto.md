@@ -1,0 +1,15 @@
+Decreto-Lei n.º 190/77
+de 11 de Maio
+A Constituição da República prevê a existência de um Tribunal de Contas com funções de dar parecer sobre a Conta Geral do Estado, fiscalizar a legalidade das despesas públicas e julgar as contas que a lei mandar submeter-lhe.
+Nos termos do artigo 136.º, alínea l), da Constituição, a competência para nomear e exonerar o presidente do Tribunal de Contas, que pertencia ao Governo, transitou para o Presidente da República.
+Importa ajustar a lei ordinária ao dispositivo constitucional.
+Aproveitando-se a oportunidade, introduzem-se ligeiras alterações na orgânica daquele Tribunal, com o objectivo de reforçar a sua eficiência e o seu prestígio. Nesse sentido, procura-se facilitar a nomeação do presidente e dos juízes do Tribunal de Contas, incentivando o seu recrutamento de entre magistrados judiciais e do Ministério Público, que nele poderão agora ingressar sem terem de renunciar às respectivas carreiras.
+Usando da autorização conferida pela Lei n.º 24/77, de 18 de Abril, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º O presidente do Tribunal de Contas é nomeado e exonerado nos termos da Constituição, tem categoria, tratamento e honras iguais aos do presidente do Supremo Tribunal de Justiça, toma posse e presta compromisso de honra perante o Presidente da República.
+Art. 2.º - 1. Quando recaia em magistrados judiciais e do Ministério Público, a nomeação para os cargos de presidente ou juiz do Tribunal de Contas faz-se em comissão permanente de serviço.
+2. O exercício dos cargos providos nos termos do número anterior considera-se para todos os efeitos como de efectivo serviço judicial, conservando os respectivos magistrados os direitos e regalias inerentes às carreiras de origem, nomeadamente os respeitantes a antiguidade e promoção, e podendo optar, quanto a remunerações, pelo regime que lhes for mais favorável.
+Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Visto e aprovado em Conselho de Ministros. - Mário Soares - António de Almeida Santos - Henrique Medina Carreira.
+Promulgado em 3 de Maio de 1977.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
