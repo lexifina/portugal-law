@@ -2,7 +2,7 @@
 
 ### Consequências da proibição definitiva
 
-1 - As cláusulas contratuais gerais objecto de proibição definitiva por decisão transitada em julgado, ou outras cláusulas que se lhes equiparem substancialmente, não podem ser incluídas em contratos que o demandado venha a celebrar, nem continuar a ser recomendadas.
+1 - Se o demandado, vencido na acção inibitória, infringir a obrigação de se abster de utilizar ou de recomendar cláusulas contratuais gerais que foram objecto de proibição definitiva por decisão transitada em julgado, incorre numa sanção pecuniária compulsória que não pode ultrapassar o valor de (euro) 4987,98 por cada infracção.
 
 2 - Aquele que seja parte, juntamente com o demandado vencido na acção inibitória, em contratos onde se incluam cláusulas gerais proibidas, nos termos referidos no número anterior, pode invocar a todo o tempo, em seu benefício, a declaração incidental de nulidade contida na decisão inibitória.
 

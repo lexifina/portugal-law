@@ -1,6 +1,6 @@
 ## Capítulo VII
 
-## Normas de conflitos
+## Disposições finais e transitórias
 
 # Artigo 35.º
 
