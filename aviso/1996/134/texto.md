@@ -1,0 +1,5 @@
+Aviso n.º 134/96
+Por ordem superior se torna público que, por nota de 29 de Março de 1996 e nos termos do artigo 31.º, alínea e), da Convenção Relativa à Citação e à Notificação no Estrangeiro dos Actos Judiciais e Extrajudiciais em Matéria Civil ou Comercial, concluída na Haia em 15 de Novembro de 1965, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a Eslováquia, nos termos dos artigos 2.º, 6.º e 9.º, designado, em 13 de Fevereiro de 1996, a seguinte Autoridade Central:
+Ministerstvo spravodlivosti Slovenskej republiky, Zupné námestie 13 813 11 Bratislava, Slovak Republic [fax (00427) 5316035].
+Portugal é parte na mesma Convenção, que foi aprovada, para ratificação, pelo Decreto-Lei n.º 210/71, de 18 de Maio, tendo depositado o seu instrumento de ratificação em 27 de Dezembro de 1973, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 20, de 24 de Janeiro de 1974. A Autoridade Central em Portugal foi designada conforme aviso publicado no Diário do Governo, 1.ª série, n.º 10, de 13 de Janeiro de 1975.
+Departamento de Assuntos Jurídicos, 2 de Maio de 1996. - O Director, José Maria Teixeira Leite Martins.
