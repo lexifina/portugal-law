@@ -1,0 +1,5 @@
+Resolução n.º 44/80
+Considerando que, por força da Resolução do Conselho de Ministros n.º 1/80, de 3 de Janeiro, foi deliberado suspender todas as resoluções tomadas ou publicadas após as eleições do dia 2 de Dezembro de 1979, por se entender que o V Governo Constitucional perdera legitimidade para tomar decisões políticas e administrativas que não fossem actos de mera gestão dos assuntos correntes;
+Considerando que algumas das medidas adoptadas pelo Governo anterior, através da Resolução do Conselho de Ministros n.º 362/79, de 22 de Novembro, publicada no Diário da República, 1.ª série, n.º 298, de 28 de Dezembro de 1979, não são compatíveis, em termos de oportunidade, com as orientações do VI Governo Constitucional no plano da política económica e financeira:
+O Conselho de Ministros, reunido em 29 de Janeiro de 1980, resolveu, sob proposta do Ministro das Finanças e do Plano, revogar a Resolução do Conselho de Ministros n.º 362/79.
+Presidência do Conselho de Ministros, 29 de Janeiro de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
