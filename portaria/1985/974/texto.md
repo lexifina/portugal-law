@@ -1,0 +1,10 @@
+Portaria n.º 974/85
+de 31 de Dezembro
+Considerando que o n.º 1 do artigo 5.º do Decreto-Lei n.º 500-A/85, de 27 de Dezembro, prevê que o benefício do regime de aperfeiçoamento activo pode ser concedido sempre que contribua para a reunião das condições mais favoráveis para a exportação das mercadorias, resultantes desse aperfeiçoamento, sem que ocasione prejuízos aos interesses essenciais dos produtores comunitários;
+Considerando que, atendendo à sua importância relativamente limitada no conjunto das actividades económicas, as operações de reparação, incluindo a restauração e afinação das mercadorias tal como estão previstas no n.º 3 do artigo 2.º do Decreto-Lei n.º 500-A/85, preenchem, na quase totalidade dos casos, as condições previstas no n.º 1 do artigo 5.º para poderem ser efectuadas ao abrigo do regime de aperfeiçoamento activo;
+Considerando, portanto, que será inútil obrigar as autoridades aduaneiras a avaliar caso a caso os efeitos económicos das operações de reparação e afinação e que, consequentemente, se justifica que estas operações sejam consideradas como contribuindo para a reunião das condições mais favoráveis à exportação sem que daí resultem prejuízos para os interesses essenciais dos produtos comunitários:
+Manda o Governo de República Portuguesa, pelo Secretário de Estado para os Assuntos Fiscais, nos termos do artigo 26.º do Decreto-Lei n.º 500-A/85, o seguinte:
+1.º Nos casos em que as mercadorias são introduzidas no País tendo em vista a sua reparação, incluindo a sua restauração e a sua afinação, ao abrigo do regime do aperfeiçoamento activo, essas operações serão consideradas como contribuindo para a reunião de condições mais favoráveis à exportação, sem causar prejuízo aos interesses essenciais dos produtores comunitários, para efeito da aplicação do n.º 1 do artigo 5.º do Decreto-Lei n.º 500-A/85.
+2.º A presente portaria entra em vigor em 1 de Janeiro de 1986.Secretaria de Estado para as Assuntos Fiscais.
+Assinada em 31 de Dezembro de 1985.
+O Secretário de Estado para os Assuntos Fiscais, José de Oliveira Costa.
