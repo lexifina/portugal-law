@@ -1,0 +1,6 @@
+Aviso
+Por ordem superior se torna público que se encontra concluído por ambas as Partes o processo de aprovação do Acordo sobre as Relações Cinematográficas entre a República Portuguesa e o Reino de Espanha, assinado em Madrid em 8 de Fevereiro de 1989 e aprovado pelo Decreto do Governo n.º 29/89, publicado no Diário da República, 1.ª série, n.º 152, de 5 de Julho de 1989.
+Nos termos do artigo XVI do Acordo, este entra em vigor a partir do momento em que as duas Partes se notifiquem reciprocamente do cumprimento das condições requeridas para tal fim.
+O Ministério dos Assuntos Exteriores do Governo do Reino de Espanha, através da nota verbal n.º 117/19, de 28 de Junho de 1990, informou ter a Parte espanhola dado cumprimento aos requisitos constitucionais internos exigidos.
+O Ministério dos Negócios Estrangeiros do Governo da República Portuguesa, através da nota verbal n.º 5997, de 1 de Agosto de 1990, informou ter a Parte portuguesa satisfeito o estabelecido no direito interno português em matéria de conclusão de acordos internacionais.
+Direcção-Geral dos Negócios Político-Económicos, 1 de Agosto de 1990. - O Director de Serviços das Relações Culturais Bilaterais, José Manuel Santos Braga.
