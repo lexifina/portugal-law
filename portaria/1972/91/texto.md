@@ -1,0 +1,8 @@
+Portaria n.º 91/72
+de 15 de Fevereiro
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, o seguinte:
+1.º Reforçar, com a importância de 30000$00, a verba do capítulo 10.º, artigo 2896.º, n.º 37, alínea a) «Encargos gerais - Diversas despesas - Passagens e auxílio a necessitados - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral da província de Moçambique para o ano económico de 1971, tomando como contrapartida igual importância a sair das disponibilidades do capítulo 10.º, artigo 2895.º, n.º 2, alínea a) «Encargos gerais - Deslocações de pessoal - Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na metrópole», da mesma tabela de despesa.
+2.º Reforçar, com a importância de 20000$00, a verba do capítulo 10.º, artigo 302.º, n.º 2, alínea a) «Encargos gerais - Deslocações do pessoal - Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral da província de Timor para o ano económico de 1971, tomando como contrapartida igual importância a sair das disponibilidades do capítulo 10.º, artigo 303.º, n.º 35, alínea a) «Encargos gerais - Diversas despesas - Despesas com a assistência médica, tratamento e internamento em hospitais, manicómios, casas de saúde e sanatórios de funcionários civis do activo, aposentados e operários do Estado - A pagar na metrópole», da mesma tabela de despesa.
+Pelo Ministro do Ultramar, Leão Maria Tavares Rosado do Sacramento Monteiro, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada nos Boletins Oficiais de Moçambique e Timor. - Sacramento Monteiro.
