@@ -1,0 +1,3 @@
+Despacho
+Nos termos do artigo 2.º do Decreto-Lei n.º 43000, de 1 de Junho de 1960, o Conselho de Ministros resolve, mediante proposta do Ministério da Educação Nacional, declarar a habilitação do curso de topógrafo auxiliar de obras públicas ou de outro curso profissional relativo à construção civil e professado nas escolas industriais como suficiente, em paralelo com a do curso geral dos liceus, para efeito de provimento nos lugares de encarregado geral ou de encarregado do serviço de higiene e limpeza a que se refere o n.º 2.º do artigo 651.º do Código Administrativo.
+Presidência do Conselho, 13 de Março de 1965. - Pelo Presidente do Conselho, o Ministro de Estado adjunto, José Gonçalo da Cunha Sottomayor Correia de Oliveira.
