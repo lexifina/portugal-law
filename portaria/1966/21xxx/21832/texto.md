@@ -1,0 +1,6 @@
+Portaria n.º 21832
+A Portaria n.º 19399, de 21 de Setembro de 1962, prevê a existência, no quadro do pessoal de direcção e chefia da Colónia Agrícola do Lorvão, de um chefe dos serviços clínicos, permitindo, no entanto, que, enquanto este lugar não fosse preenchido, se manteriam em exercício os dois médicos da comissão instaladora anteriormente existentes, os quais continuariam a perceber a gratificação que até aí auferiam.
+Verificando-se, entretanto, a necessidade de preencher aquele cargo, sem prejuízo de manter a direcção médica do estabelecimento nas condições em que está a exercer-se actualmente:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Saúde e Assistência, o seguinte:
+É autorizado o preenchimento do lugar de chefe dos serviços clínicos da Colónia Agrícola do Lorvão, mantendo-se em exercício os dois membros da anterior comissão instaladora que têm exercido até ao presente a direcção médica do estabelecimento, aos quais será mantida a gratificação que actualmente auferem.
+Ministérios das Finanças e da Saúde e Assistência, 25 de Janeiro de 1966. - O Ministro das Finanças, Ulisses Cruz de Aguiar Cortês. - O Ministro da Saúde e Assistência, Francisco Pereira Neto de Carvalho.
