@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que o embaixador de Portugal em Washington depositou junto do Governo dos Estados Unidos da América, em 18 de Março de 1980, o instrumento de ratificação, por parte de Portugal, do protocolo relativo ao texto autêntico quadrilingue da Convenção sobre a Aviação Civil Internacional, concluído em Montreal em 30 de Setembro de 1977 e aprovado para ratificação pelo Decreto n.º 143/79, de 28 de Dezembro.
+2 - Até àquela data eram partes no referido protocolo os seguintes países:
+Argentina, Bangladesh, Barbados, Bulgária, Checoslováquia, Colômbia, Cuba, Dinamarca, Equador, Egipto, Espanha, Etiópia, Finlândia, França, Grécia, Guatemala, Hungria, Islândia, Índia, Israel, Itália, Jugoslávia, Marrocos, México, Níger, Noruega, Paquistão, Polónia, Reino Unido, República Federal da Alemanha, Roménia, República Popular Democrática da Coreia, Seychelles, Suécia, Suíça, Tunísia e União das Repúblicas Socialistas Soviéticas.
+Direcção-Geral dos Negócios Económicos, 6 de Junho de 1980. - O Adjunto do Director-Geral, Francisco Moita.
