@@ -1,0 +1,19 @@
+Decreto-Lei n.º 439/80
+de 3 de Outubro
+Através do n.º 2 do artigo 4.º do Decreto-Lei n.º 515/77, de 14 de Dezembro, na redacção que lhe foi dada pela Lei n.º 51/78, de 25 de Julho, foram fixados limites superiores para os valores do custo por metro quadrado de construção e do montante de cada empréstimo e de cada fogo, no âmbito do esquema de crédito para aquisição ou construção de habitação própria nas regiões autónomas no regime de bonificação a cargo do Estado.
+Considerando a conveniência de se proceder à elevação da percentagem estabelecida na citada disposição legal e mostrando-se aconselhável a comparticipação das Regiões Autónomas da Madeira e dos Açores no esforço tendente ao incremento da construção habitacional nas referidas regiões;
+Ouvidos os Governos Regionais da Madeira e dos Açores:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo único. O n.º 2 do artigo 4.º e a alínea c) do n.º 2 do artigo 7.º do Decreto-Lei n.º 515/77, de 14 de Dezembro, passam a ter a seguinte redacção:
+Artigo 4.º - 1 - ...
+2 - Os limites previstos no n.º 1 do artigo 3.º e no n.º 1 do presente artigo serão acrescidos de 35% quando se refiram a empréstimos concedidos nas Regiões Autónomas da Madeira e dos Açores para aquisição ou construção de habitação própria na respectiva região.
+...
+Artigo 7.º - 1 - ...
+2 - ...
+a) ...
+b) ...
+c) Pelo Estado ou pelas regiões autónomas nos casos referidos no n.º 2 do artigo 4.º, na parte restante.
+Visto e aprovado em Conselho de Ministros de 10 de Setembro de 1980. - Francisco Sá Carneiro.
+Promulgado em 23 de Setembro de 1980.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
