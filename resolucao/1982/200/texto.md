@@ -1,0 +1,11 @@
+Resolução n.º 200/82
+Dentro da sua política de criar todas as condições para o normal abastecimento de carne e o melhoramento do efectivo pecuário nacional, não tem o Governo poupado esforços no combate ao contrabando de gado que se tem processado ao longo das fronteiras do País.
+Na prossecução do objectivo acima referido, tem sido essencial a actuação de 3 ministérios:
+Ministério das Finanças e do Plano - actuação da Guarda Fiscal ao nível da fronteira terrestre;
+Ministério da Administração Interna - actuação da Guarda Nacional Republicana e da Polícia de Segurança Pública no controle da movimentação de animais e sensibilização das autarquias no sentido do cumprimento das disposições legais em vigor;
+Ministério da Agricultura, Comércio e Pescas - acções atinentes à legalização da movimentação de animais, controle da entrada de animais nos matadouros, implementação do desenvolvimento dos parques de recolha de gado e política de encerramento de casas de matança particulares, com vista ao integral cumprimento do disposto em relação à rede nacional de abate, através da Direcção-Geral de Fiscalização Económica, da Direcção-Geral da Pecuária, da Junta Nacional dos Produtos Pecuários e dos serviços regionais de agricultura, comércio e pescas.
+Entende o Governo que é necessário ir mais longe na repressão das ilegalidades praticadas, pelo que uma acção concertada dos 3 ministérios directamente envolvidos se impõe.
+Nestes termos, o Conselho de Ministros, reunido em 30 de Setembro de 1982, resolveu:
+1 - Criar uma comissão, composta por 1 representante do MACP, que presidirá, 1 representante do MFP e 1 representante do MAI, encarregada de coordenar as acções de combate ao contrabando de gado.
+2 - A comissão poderá, no âmbito da sua actividade e através dos canais hierárquicos competentes, não só promover a melhor utilização de todos os meios disponíveis sempre que haja clara suspeita de actividades ilegais, como desencadear acções atinentes a um patrulhamento extraordinário nas áreas de possível contrabando e desenvolver actividades extraordinárias de inspecção que considere necessárias aos fins em vista.
+Presidência do Conselho de Ministros, 30 de Setembro de 1982. - Pelo Primeiro-Ministro, Diogo Pinto de Freitas do Amaral.
