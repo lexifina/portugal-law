@@ -1,0 +1,153 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=EeydxMxWDACnKIdafO1gLuckTcPUKEzq1%2bHH3DxRj1tc2AQfc7RGac%2b4XdUghgos4hwJbWU%2fEsqic91pJfSy558GPhXV9oA5uyvzrB1qFVhCGEknXlWuTT8uRAklugoPfYrUiIlzLHhtSLkmSiI4%2bdYzFtfLATYK8agC7LMNmzinpm7uNNpbroIMRf9ffPjD%2fHACkBGVzah3bssnNnwPFdEjeiiy%2bEyzrNHvpOuJpm4ezAfTJczAjgs4mgA8L35izjUTV1PadybFpEpUVN%2b8NcOO6c8ymJZXTt07TVuJC87qb6GzDk6zmf29WVzsGKDDbWRGOt9g%2brwMTLOTxaLPAw%3d%3d&fich=IniciativasIB_json.txt&Inline=true",
+  "ficheiro_sha256": "8ce94fbc287b7e9dc94a4b6d2a0a9325847ce701b2894595086453b04b7c2e75",
+  "legislatura": "I",
+  "tipo": "Ratificação",
+  "numero": "167",
+  "id": "32546",
+  "fases": 2,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "1980-01-11",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "1980-11-12",
+    "DataInicioleg": "1980-01-03",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PCP",
+        "idCadastro": "2948",
+        "nome": "Carlos Alfredo Brito"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3377",
+        "nome": "Álvaro Oliveira"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3613",
+        "nome": "Dinis Miranda"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "211",
+        "nome": "João Amaral"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3176",
+        "nome": "Alda Nogueira"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3007",
+        "nome": "Jorge Lemos"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3704",
+        "nome": "Marino Vicente"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3673",
+        "nome": "José Veríssimo Silva"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3672",
+        "nome": "António Pedrosa"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3025",
+        "nome": "José Vitoriano"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3191",
+        "nome": "Joaquim Miranda"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3703",
+        "nome": "Freitas Rodrigues"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "1353",
+        "nome": "José Ildefonso Oliveira"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3632",
+        "nome": "Fernando Sousa Marques"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3614",
+        "nome": "José Carreira Marques"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3702",
+        "nome": "José Aranha Figueiredo"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3618",
+        "nome": "Josefina Andrade"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3620",
+        "nome": "Helder Pinheiro"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3385",
+        "nome": "Lino Carvalho Lima"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "569",
+        "nome": "Ilda Figueiredo"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "1521",
+        "nome": "Vital Moreira"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PCP"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Ratificação",
+    "IniEpigrafe": null,
+    "IniId": "32546",
+    "IniLeg": "I",
+    "IniLinkTexto": "",
+    "IniNr": "167",
+    "IniObs": "Sem seguimento.",
+    "IniSel": "4",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "F",
+    "IniTitulo": "Ratificação do Decreto-Lei nº 356/79, de 31 de Agosto (explicita o alcance do artº 1º do Decreto-Lei nº 254-A/77, designadamente no respeitante a actos de transferencia e exoneração de trabalhadores da função pública).",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
