@@ -1,15 +1,3 @@
-## Anexo
-
-## CÓDIGO DOS VALORES MOBILIÁRIOS
-
-## Título I
-
-## Disposições gerais
-
-## Capítulo I
-
-## Âmbito de aplicação
-
 # Artigo 2.º
 
 ### Âmbito de aplicação material
