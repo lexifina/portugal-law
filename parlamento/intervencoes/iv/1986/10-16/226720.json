@@ -1,0 +1,78 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=79nXFyfsgBY%2fJVBb5m%2fzm439Xg5ve48f1c1ups%2bLbbbzgeVE7xaddjAIw8fKkyahLYEPGMBEybmt2qLrIdv0jO5GfTL4VN%2fiWok3aCysUrgT%2bkQhb%2fpI6Qk8N3VQwx4slYQXYFjp3d1XBoWklTVjVqfGWySmoKDfbAfesLcl3gGysABw6rRd0e3JweUfeYnCZe%2feS5d2p%2fu6OKMPsjWtwO0GMm7RJG4ayfS7iItotM8XtguFU6gQUcDMHFdhVHSzyPlM7c6CV8WPFcksiLALK3%2bitI9mT64CQ17YQecKkwCGA6LMVlttgRTzanRwnFqlETnNY7Kfa92jwEh4SR%2fKNnHXk8Pem8PBI%2f7gtfcJkRyWEIQnofpEOJzRhg%2fTeRdG&fich=IntervencoesIV_json.txt&Inline=true",
+  "ficheiro_sha256": "74df01da47fa15f86113cdafbb8ae342034efbc261d672e72117b28c095d90dd",
+  "legislatura": "IV",
+  "id": "226720",
+  "tipo": "Pedido de esclarecimento",
+  "orador": "Vitor Crespo (PSD)",
+  "data_registo": "1986-10-16",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "33508",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "33508",
+        "tipo": "DEB",
+        "titulo": "Declarações Políticas - Início da sessão legislativa"
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1986-10-16",
+    "Debate": null,
+    "Deputados": {
+      "GP": "PSD",
+      "idCadastro": "140",
+      "nome": "Vitor Crespo"
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "226720",
+    "IdDebate": "3111",
+    "Iniciativas": null,
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "IV",
+    "MembrosGoverno": {
+      "cargo": null,
+      "governo": null,
+      "nome": null
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "226720",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "5-5"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1986-10-17",
+        "pubLeg": "IV",
+        "pubNr": "1",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/02/001/1986-10-17/5?pgs=5&org=PLC"
+      }
+    ],
+    "Qualidade": "Deputado",
+    "Resumo": "Ao Deputado Ferraz de Abreu (PS).",
+    "Sessao": "2",
+    "Sumario": "Início da sessão legislativa",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Pedido de esclarecimento"
+  }
+}
