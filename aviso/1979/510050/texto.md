@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se faz público que o Conselho de Segurança das Nações Unidas, mediante a Resolução n.º 460 (1979), de 21 de Dezembro de 1979, levantou as sanções impostas à Rodésia do Sul pelas Resoluções n.º 253 (1968), de 29 de Maio de 1968, n.º 388 (1976), de 6 de Abril de 1976, e n.º 409 (1977), de 27 de Maio de 1977, as quais foram tornadas públicas pelas Resoluções do Conselho de Ministros n.os 188/77 e 251/78 e inseridas no Diário da República, 1.ª série, respectivamente em 29 de Julho de 1977 e 30 de Dezembro de 1978, em cumprimento do disposto no artigo 25.º da Carta das Nações Unidas, a que Portugal se encontra vinculado.
+Nos termos do mesmo artigo 25.º da Carta, a cessação dos efeitos das sanções produz-se a partir de 21 de Dezembro de 1979, data em que foi aprovada a referida Resolução do Conselho de Segurança n.º 460 (1979).
+Direcção-Geral dos Negócios Políticos, 27 de Dezembro de 1979. - O Director-Geral, António Vaz Pereira.
