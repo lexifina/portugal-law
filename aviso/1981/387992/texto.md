@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que em 16 de Setembro de 1980 o Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte depositou junto do Ministério dos Negócios Estrangeiros dos Países Baixos o instrumento de extensão às ilhas Caimão da Convenção Relativa à Obtenção de Provas no Estrangeiro em Matéria Civil e Comercial, concluída na Haia em 18 de Março de 1980, de que Portugal já é parte. Aquele instrumento diplomático entrou em vigor, com referência àquelas ilhas, em 15 de Novembro de 1980.
+Secretaria-Geral do Ministério, 5 de Fevereiro de 1981. - O Secretário-Geral, João Manuel Hall Themido.
