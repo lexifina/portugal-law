@@ -1,0 +1,822 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "14",
+    "id": "29052",
+    "titulo": "Criação da freguesia de Benafim"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1988-03-11",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "4821",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1988-03-11",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "29104",
+        "leg": "V",
+        "nr": "2",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Elevação de Sagres à categoria de vila"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "29064",
+        "leg": "V",
+        "nr": "19",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Elevação da vila do Fundão à categoria de cidade"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "29069",
+        "leg": "V",
+        "nr": "22",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Elevação da vila do Fundão à categoria de cidade"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "29061",
+        "leg": "V",
+        "nr": "23",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Elevação da Aldeia Nova de São Bento à categoria de vila"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "29056",
+        "leg": "V",
+        "nr": "27",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Elevação da povoação e freguesia de Alvor, no concelho de Portimão, distrito de Faro, à categoria de vila"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "29082",
+        "leg": "V",
+        "nr": "36",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Elevação de Vila Nova de Mil Fontes a vila, no concelho de Odemira"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "29081",
+        "leg": "V",
+        "nr": "37",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Cria a freguesia do Campinho, no concelho de Reguengos de Monsaraz, no distrito de Évora"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "29033",
+        "leg": "V",
+        "nr": "48",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Criação da freguesia de Bicos no concelho de Odemira"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "29000",
+        "leg": "V",
+        "nr": "57",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Elevação à categoria de cidade da vila da Marinha Grande"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "29037",
+        "leg": "V",
+        "nr": "62",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Elevação de Aldeia Nova de São Bento à categoria de vila"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "29018",
+        "leg": "V",
+        "nr": "77",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Elevação a vila da aldeia de São Teotónio no concelho de Odemira"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "29024",
+        "leg": "V",
+        "nr": "83",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Criação da freguesia de Pêro Pinheiro, no concelho de Sintra"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "29028",
+        "leg": "V",
+        "nr": "87",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Criação da freguesia de Vale de Amoreira, concelho e distrito da Guarda"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28989",
+        "leg": "V",
+        "nr": "91",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Criação da freguesia do Vale da Amoreira no concelho da Moita, distrito de Setúbal"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28948",
+        "leg": "V",
+        "nr": "110",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Elevação da sede da freguesia de Pinhal Novo à categoria de vila"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28950",
+        "leg": "V",
+        "nr": "112",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Criação da freguesia de Trigaches, no concelho de Beja"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28951",
+        "leg": "V",
+        "nr": "113",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Elevação da povoação de Arazede, no concelho de Montemor-o-Velho, à categoria de vila"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28975",
+        "leg": "V",
+        "nr": "137",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Criação da freguesia da Barrosa no concelho de Benavente"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28977",
+        "leg": "V",
+        "nr": "138",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Elevação da povoação de Apúlia, no concelho de Esposende, à categoria de vila"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28978",
+        "leg": "V",
+        "nr": "139",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Elevação de Vila Real de Santo António a cidade"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28962",
+        "leg": "V",
+        "nr": "143",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Alteração do artigo 2º da Lei nº 91/85, de 4 de Outubro, o qual fixa os limites da freguesia de Pedrouços no concelho da Maia, distrito do Porto"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28931",
+        "leg": "V",
+        "nr": "147",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Alteração dos nomes da freguesia e da povoação de Póvoa para Póvoa de S. Miguel"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28924",
+        "leg": "V",
+        "nr": "151",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Criação da freguesia de Sabugueiro, no concelho de Arraiolos"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28925",
+        "leg": "V",
+        "nr": "152",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Elevação de Montemor-o-Novo a cidade"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28926",
+        "leg": "V",
+        "nr": "153",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Criação da freguesia de Cortiçadas de Lavre, no concelho de Montemor-o-Novo"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28927",
+        "leg": "V",
+        "nr": "154",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Criação da freguesia de Silveiras, no concelho de Montemor-o-Novo"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28928",
+        "leg": "V",
+        "nr": "155",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Criação da freguesia de Foros de Vale de Figueira, no concelho de Montemor-o-Novo"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28893",
+        "leg": "V",
+        "nr": "159",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Criação da freguesia de Casais de Vale da Pedra, no concelho do Cartaxo"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28944",
+        "leg": "V",
+        "nr": "165",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Criação da freguesia de Poceirão no concelho de Palmela"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28909",
+        "leg": "V",
+        "nr": "166",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Criação da freguesia de Vale da Pedra no concelho do Cartaxo"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28912",
+        "leg": "V",
+        "nr": "170",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Criação da freguesia de Casas do Soeiro no concelho de Celorico da Beira"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28913",
+        "leg": "V",
+        "nr": "171",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Criação da freguesia de Vila Franca da Beira"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28915",
+        "leg": "V",
+        "nr": "173",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Elevação da vila da Marinha Grande a cidade"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28916",
+        "leg": "V",
+        "nr": "174",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Criação da freguesia de Granho no concelho de Salvaterra de Magos"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28922",
+        "leg": "V",
+        "nr": "180",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Elevação da sede da Freguesia do Couço à categoria de vila"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28895",
+        "leg": "V",
+        "nr": "181",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Criação da freguesia de Vale da Pedra, no concelho do Cartaxo"
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28898",
+        "leg": "V",
+        "nr": "184",
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Criação da freguesia de Bicos, no concelho de Odemira"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1988-03-11",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "11:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212196",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2141-2141"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-03-12",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/062/1988-03-12/2141?pgs=2141&org=PLC"
+              }
+            ],
+            "sumario": "Elevação da vila do Fundão à categoria de cidade; Elevação à categoria de cidade da vila da Marinha Grande; Elevação da vila da Marinha Grande a cidade; Elevação de Vila Real de Santo António a cidade; Elevação de Montemor-o-Novo a cidade; Elevação de Sagres à categoria de vila; Elevação da Aldeia Nova de São Bento à categoria de vila; Elevação da povoação e freguesia de Alvor, no concelho de Portimão, distrito de Faro, à categoria de vila; Elevação de Vila Nova de Mil Fontes a vila, no concelho de Odemira; Elevação a vila da aldeia de São Teotónio no concelho de Odemira; Elevação da sede da freguesia de Pinhal Novo à categoria de vila; Elevação da povoação de Arazede, no concelho de Montemor-o-Velho, à categoria de vila; Elevação da povoação de Apúlia, no concelho de Esposende, à categoria de vila; Elevação da sede da Freguesia do Couço à categoria de vila; Criação da freguesia de Benafim; Cria a freguesia do Campinho, no concelho de Reguengos de Monsaraz, no distrito de Évora; Criação da freguesia de Pêro Pinheiro, no concelho de Sintra; Criação da freguesia do Vale da Amoreira no concelho da Moita, distrito de Setúbal; Criação da freguesia de Vale de Amoreira, concelho e distrito da Guarda; Criação da freguesia de Cortiçadas de Lavre, no concelho de Montemor-o-Novo; Criação da freguesia de Silveiras, no concelho de Montemor-o-Novo; Criação da freguesia de Bicos, no concelho de Odemira; Criação da freguesia de Casais de Vale da Pedra, no concelho do Cartaxo; Criação da freguesia de Sabugueiro, no concelho de Arraiolos; Criação da freguesia da Barrosa no concelho de Benavente; Alteração dos nomes da freguesia e da povoação de Póvoa para Póvoa de S. Miguel; Alteração do artigo 2º da Lei nº 91/85, de 4 de Outubro, o qual fixa os limites da freguesia de Pedrouços no concelho da Maia, distrito do Porto; Criação da freguesia de Casas do Soeiro no concelho de Celorico da Beira; Criação da freguesia de Vale da Pedra no concelho do Cartaxo; Criação da freguesia de Trigaches, no concelho de Beja; Criação da freguesia de Foros de Vale de Figueira, no concelho de Montemor-o-Novo; Criação da freguesia de Vila Franca da Beira; Criação da freguesia de Poceirão no concelho de Palmela; Criação da freguesia de Vale da Pedra, no concelho do Cartaxo; Criação da freguesia de Granho no concelho de Salvaterra de Magos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "11:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212213",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2145-2145"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-03-12",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/062/1988-03-12/2145?pgs=2145&org=PLC"
+              }
+            ],
+            "sumario": "Elevação da vila do Fundão à categoria de cidade; Elevação à categoria de cidade da vila da Marinha Grande; Elevação da vila da Marinha Grande a cidade; Elevação de Vila Real de Santo António a cidade; Elevação de Montemor-o-Novo a cidade; Elevação de Sagres à categoria de vila; Elevação da Aldeia Nova de São Bento à categoria de vila; Elevação da povoação e freguesia de Alvor, no concelho de Portimão, distrito de Faro, à categoria de vila; Elevação de Vila Nova de Mil Fontes a vila, no concelho de Odemira; Elevação a vila da aldeia de São Teotónio no concelho de Odemira; Elevação da sede da freguesia de Pinhal Novo à categoria de vila; Elevação da povoação de Arazede, no concelho de Montemor-o-Velho, à categoria de vila; Elevação da povoação de Apúlia, no concelho de Esposende, à categoria de vila; Elevação da sede da Freguesia do Couço à categoria de vila; Criação da freguesia de Benafim; Cria a freguesia do Campinho, no concelho de Reguengos de Monsaraz, no distrito de Évora; Criação da freguesia de Pêro Pinheiro, no concelho de Sintra; Criação da freguesia do Vale da Amoreira no concelho da Moita, distrito de Setúbal; Criação da freguesia de Vale de Amoreira, concelho e distrito da Guarda; Criação da freguesia de Cortiçadas de Lavre, no concelho de Montemor-o-Novo; Criação da freguesia de Silveiras, no concelho de Montemor-o-Novo; Criação da freguesia de Bicos, no concelho de Odemira; Criação da freguesia de Casais de Vale da Pedra, no concelho do Cartaxo; Criação da freguesia de Sabugueiro, no concelho de Arraiolos; Criação da freguesia da Barrosa no concelho de Benavente; Alteração dos nomes da freguesia e da povoação de Póvoa para Póvoa de S. Miguel; Alteração do artigo 2º da Lei nº 91/85, de 4 de Outubro, o qual fixa os limites da freguesia de Pedrouços no concelho da Maia, distrito do Porto; Criação da freguesia de Casas do Soeiro no concelho de Celorico da Beira; Criação da freguesia de Vale da Pedra no concelho do Cartaxo; Criação da freguesia de Trigaches, no concelho de Beja; Criação da freguesia de Foros de Vale de Figueira, no concelho de Montemor-o-Novo; Criação da freguesia de Vila Franca da Beira; Criação da freguesia de Poceirão no concelho de Palmela; Criação da freguesia de Vale da Pedra, no concelho do Cartaxo; Criação da freguesia de Granho no concelho de Salvaterra de Magos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "11:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212215",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2145-2145"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-03-12",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/062/1988-03-12/2145?pgs=2145&org=PLC"
+              }
+            ],
+            "sumario": "Elevação da vila do Fundão à categoria de cidade; Elevação à categoria de cidade da vila da Marinha Grande; Elevação da vila da Marinha Grande a cidade; Elevação de Vila Real de Santo António a cidade; Elevação de Montemor-o-Novo a cidade; Elevação de Sagres à categoria de vila; Elevação da Aldeia Nova de São Bento à categoria de vila; Elevação da povoação e freguesia de Alvor, no concelho de Portimão, distrito de Faro, à categoria de vila; Elevação de Vila Nova de Mil Fontes a vila, no concelho de Odemira; Elevação a vila da aldeia de São Teotónio no concelho de Odemira; Elevação da sede da freguesia de Pinhal Novo à categoria de vila; Elevação da povoação de Arazede, no concelho de Montemor-o-Velho, à categoria de vila; Elevação da povoação de Apúlia, no concelho de Esposende, à categoria de vila; Elevação da sede da Freguesia do Couço à categoria de vila; Criação da freguesia de Benafim; Cria a freguesia do Campinho, no concelho de Reguengos de Monsaraz, no distrito de Évora; Criação da freguesia de Pêro Pinheiro, no concelho de Sintra; Criação da freguesia do Vale da Amoreira no concelho da Moita, distrito de Setúbal; Criação da freguesia de Vale de Amoreira, concelho e distrito da Guarda; Criação da freguesia de Cortiçadas de Lavre, no concelho de Montemor-o-Novo; Criação da freguesia de Silveiras, no concelho de Montemor-o-Novo; Criação da freguesia de Bicos, no concelho de Odemira; Criação da freguesia de Casais de Vale da Pedra, no concelho do Cartaxo; Criação da freguesia de Sabugueiro, no concelho de Arraiolos; Criação da freguesia da Barrosa no concelho de Benavente; Alteração dos nomes da freguesia e da povoação de Póvoa para Póvoa de S. Miguel; Alteração do artigo 2º da Lei nº 91/85, de 4 de Outubro, o qual fixa os limites da freguesia de Pedrouços no concelho da Maia, distrito do Porto; Criação da freguesia de Casas do Soeiro no concelho de Celorico da Beira; Criação da freguesia de Vale da Pedra no concelho do Cartaxo; Criação da freguesia de Trigaches, no concelho de Beja; Criação da freguesia de Foros de Vale de Figueira, no concelho de Montemor-o-Novo; Criação da freguesia de Vila Franca da Beira; Criação da freguesia de Poceirão no concelho de Palmela; Criação da freguesia de Vale da Pedra, no concelho do Cartaxo; Criação da freguesia de Granho no concelho de Salvaterra de Magos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "11:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212216",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2145-2145"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-03-12",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/062/1988-03-12/2145?pgs=2145&org=PLC"
+              }
+            ],
+            "sumario": "Elevação da vila do Fundão à categoria de cidade; Elevação à categoria de cidade da vila da Marinha Grande; Elevação da vila da Marinha Grande a cidade; Elevação de Vila Real de Santo António a cidade; Elevação de Montemor-o-Novo a cidade; Elevação de Sagres à categoria de vila; Elevação da Aldeia Nova de São Bento à categoria de vila; Elevação da povoação e freguesia de Alvor, no concelho de Portimão, distrito de Faro, à categoria de vila; Elevação de Vila Nova de Mil Fontes a vila, no concelho de Odemira; Elevação a vila da aldeia de São Teotónio no concelho de Odemira; Elevação da sede da freguesia de Pinhal Novo à categoria de vila; Elevação da povoação de Arazede, no concelho de Montemor-o-Velho, à categoria de vila; Elevação da povoação de Apúlia, no concelho de Esposende, à categoria de vila; Elevação da sede da Freguesia do Couço à categoria de vila; Criação da freguesia de Benafim; Cria a freguesia do Campinho, no concelho de Reguengos de Monsaraz, no distrito de Évora; Criação da freguesia de Pêro Pinheiro, no concelho de Sintra; Criação da freguesia do Vale da Amoreira no concelho da Moita, distrito de Setúbal; Criação da freguesia de Vale de Amoreira, concelho e distrito da Guarda; Criação da freguesia de Cortiçadas de Lavre, no concelho de Montemor-o-Novo; Criação da freguesia de Silveiras, no concelho de Montemor-o-Novo; Criação da freguesia de Bicos, no concelho de Odemira; Criação da freguesia de Casais de Vale da Pedra, no concelho do Cartaxo; Criação da freguesia de Sabugueiro, no concelho de Arraiolos; Criação da freguesia da Barrosa no concelho de Benavente; Alteração dos nomes da freguesia e da povoação de Póvoa para Póvoa de S. Miguel; Alteração do artigo 2º da Lei nº 91/85, de 4 de Outubro, o qual fixa os limites da freguesia de Pedrouços no concelho da Maia, distrito do Porto; Criação da freguesia de Casas do Soeiro no concelho de Celorico da Beira; Criação da freguesia de Vale da Pedra no concelho do Cartaxo; Criação da freguesia de Trigaches, no concelho de Beja; Criação da freguesia de Foros de Vale de Figueira, no concelho de Montemor-o-Novo; Criação da freguesia de Vila Franca da Beira; Criação da freguesia de Poceirão no concelho de Palmela; Criação da freguesia de Vale da Pedra, no concelho do Cartaxo; Criação da freguesia de Granho no concelho de Salvaterra de Magos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "11:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212218",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2156-2157"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-03-12",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/062/1988-03-12/2156?pgs=2156-2157&org=PLC"
+              }
+            ],
+            "sumario": "Elevação da vila do Fundão à categoria de cidade; Elevação à categoria de cidade da vila da Marinha Grande; Elevação da vila da Marinha Grande a cidade; Elevação de Vila Real de Santo António a cidade; Elevação de Montemor-o-Novo a cidade; Elevação de Sagres à categoria de vila; Elevação da Aldeia Nova de São Bento à categoria de vila; Elevação da povoação e freguesia de Alvor, no concelho de Portimão, distrito de Faro, à categoria de vila; Elevação de Vila Nova de Mil Fontes a vila, no concelho de Odemira; Elevação a vila da aldeia de São Teotónio no concelho de Odemira; Elevação da sede da freguesia de Pinhal Novo à categoria de vila; Elevação da povoação de Arazede, no concelho de Montemor-o-Velho, à categoria de vila; Elevação da povoação de Apúlia, no concelho de Esposende, à categoria de vila; Elevação da sede da Freguesia do Couço à categoria de vila; Criação da freguesia de Benafim; Cria a freguesia do Campinho, no concelho de Reguengos de Monsaraz, no distrito de Évora; Criação da freguesia de Pêro Pinheiro, no concelho de Sintra; Criação da freguesia do Vale da Amoreira no concelho da Moita, distrito de Setúbal; Criação da freguesia de Vale de Amoreira, concelho e distrito da Guarda; Criação da freguesia de Cortiçadas de Lavre, no concelho de Montemor-o-Novo; Criação da freguesia de Silveiras, no concelho de Montemor-o-Novo; Criação da freguesia de Bicos, no concelho de Odemira; Criação da freguesia de Casais de Vale da Pedra, no concelho do Cartaxo; Criação da freguesia de Sabugueiro, no concelho de Arraiolos; Criação da freguesia da Barrosa no concelho de Benavente; Alteração dos nomes da freguesia e da povoação de Póvoa para Póvoa de S. Miguel; Alteração do artigo 2º da Lei nº 91/85, de 4 de Outubro, o qual fixa os limites da freguesia de Pedrouços no concelho da Maia, distrito do Porto; Criação da freguesia de Casas do Soeiro no concelho de Celorico da Beira; Criação da freguesia de Vale da Pedra no concelho do Cartaxo; Criação da freguesia de Trigaches, no concelho de Beja; Criação da freguesia de Foros de Vale de Figueira, no concelho de Montemor-o-Novo; Criação da freguesia de Vila Franca da Beira; Criação da freguesia de Poceirão no concelho de Palmela; Criação da freguesia de Vale da Pedra, no concelho do Cartaxo; Criação da freguesia de Granho no concelho de Salvaterra de Magos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "11:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212221",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2157-2158"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-03-12",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/062/1988-03-12/2157?pgs=2157-2158&org=PLC"
+              }
+            ],
+            "sumario": "Elevação da vila do Fundão à categoria de cidade; Elevação à categoria de cidade da vila da Marinha Grande; Elevação da vila da Marinha Grande a cidade; Elevação de Vila Real de Santo António a cidade; Elevação de Montemor-o-Novo a cidade; Elevação de Sagres à categoria de vila; Elevação da Aldeia Nova de São Bento à categoria de vila; Elevação da povoação e freguesia de Alvor, no concelho de Portimão, distrito de Faro, à categoria de vila; Elevação de Vila Nova de Mil Fontes a vila, no concelho de Odemira; Elevação a vila da aldeia de São Teotónio no concelho de Odemira; Elevação da sede da freguesia de Pinhal Novo à categoria de vila; Elevação da povoação de Arazede, no concelho de Montemor-o-Velho, à categoria de vila; Elevação da povoação de Apúlia, no concelho de Esposende, à categoria de vila; Elevação da sede da Freguesia do Couço à categoria de vila; Criação da freguesia de Benafim; Cria a freguesia do Campinho, no concelho de Reguengos de Monsaraz, no distrito de Évora; Criação da freguesia de Pêro Pinheiro, no concelho de Sintra; Criação da freguesia do Vale da Amoreira no concelho da Moita, distrito de Setúbal; Criação da freguesia de Vale de Amoreira, concelho e distrito da Guarda; Criação da freguesia de Cortiçadas de Lavre, no concelho de Montemor-o-Novo; Criação da freguesia de Silveiras, no concelho de Montemor-o-Novo; Criação da freguesia de Bicos, no concelho de Odemira; Criação da freguesia de Casais de Vale da Pedra, no concelho do Cartaxo; Criação da freguesia de Sabugueiro, no concelho de Arraiolos; Criação da freguesia da Barrosa no concelho de Benavente; Alteração dos nomes da freguesia e da povoação de Póvoa para Póvoa de S. Miguel; Alteração do artigo 2º da Lei nº 91/85, de 4 de Outubro, o qual fixa os limites da freguesia de Pedrouços no concelho da Maia, distrito do Porto; Criação da freguesia de Casas do Soeiro no concelho de Celorico da Beira; Criação da freguesia de Vale da Pedra no concelho do Cartaxo; Criação da freguesia de Trigaches, no concelho de Beja; Criação da freguesia de Foros de Vale de Figueira, no concelho de Montemor-o-Novo; Criação da freguesia de Vila Franca da Beira; Criação da freguesia de Poceirão no concelho de Palmela; Criação da freguesia de Vale da Pedra, no concelho do Cartaxo; Criação da freguesia de Granho no concelho de Salvaterra de Magos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "11:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212222",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2158-2159"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-03-12",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/062/1988-03-12/2158?pgs=2158-2159&org=PLC"
+              }
+            ],
+            "sumario": "Elevação da vila do Fundão à categoria de cidade; Elevação à categoria de cidade da vila da Marinha Grande; Elevação da vila da Marinha Grande a cidade; Elevação de Vila Real de Santo António a cidade; Elevação de Montemor-o-Novo a cidade; Elevação de Sagres à categoria de vila; Elevação da Aldeia Nova de São Bento à categoria de vila; Elevação da povoação e freguesia de Alvor, no concelho de Portimão, distrito de Faro, à categoria de vila; Elevação de Vila Nova de Mil Fontes a vila, no concelho de Odemira; Elevação a vila da aldeia de São Teotónio no concelho de Odemira; Elevação da sede da freguesia de Pinhal Novo à categoria de vila; Elevação da povoação de Arazede, no concelho de Montemor-o-Velho, à categoria de vila; Elevação da povoação de Apúlia, no concelho de Esposende, à categoria de vila; Elevação da sede da Freguesia do Couço à categoria de vila; Criação da freguesia de Benafim; Cria a freguesia do Campinho, no concelho de Reguengos de Monsaraz, no distrito de Évora; Criação da freguesia de Pêro Pinheiro, no concelho de Sintra; Criação da freguesia do Vale da Amoreira no concelho da Moita, distrito de Setúbal; Criação da freguesia de Vale de Amoreira, concelho e distrito da Guarda; Criação da freguesia de Cortiçadas de Lavre, no concelho de Montemor-o-Novo; Criação da freguesia de Silveiras, no concelho de Montemor-o-Novo; Criação da freguesia de Bicos, no concelho de Odemira; Criação da freguesia de Casais de Vale da Pedra, no concelho do Cartaxo; Criação da freguesia de Sabugueiro, no concelho de Arraiolos; Criação da freguesia da Barrosa no concelho de Benavente; Alteração dos nomes da freguesia e da povoação de Póvoa para Póvoa de S. Miguel; Alteração do artigo 2º da Lei nº 91/85, de 4 de Outubro, o qual fixa os limites da freguesia de Pedrouços no concelho da Maia, distrito do Porto; Criação da freguesia de Casas do Soeiro no concelho de Celorico da Beira; Criação da freguesia de Vale da Pedra no concelho do Cartaxo; Criação da freguesia de Trigaches, no concelho de Beja; Criação da freguesia de Foros de Vale de Figueira, no concelho de Montemor-o-Novo; Criação da freguesia de Vila Franca da Beira; Criação da freguesia de Poceirão no concelho de Palmela; Criação da freguesia de Vale da Pedra, no concelho do Cartaxo; Criação da freguesia de Granho no concelho de Salvaterra de Magos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "11:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212223",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2159-2159"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-03-12",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/062/1988-03-12/2159?pgs=2159&org=PLC"
+              }
+            ],
+            "sumario": "Elevação da vila do Fundão à categoria de cidade; Elevação à categoria de cidade da vila da Marinha Grande; Elevação da vila da Marinha Grande a cidade; Elevação de Vila Real de Santo António a cidade; Elevação de Montemor-o-Novo a cidade; Elevação de Sagres à categoria de vila; Elevação da Aldeia Nova de São Bento à categoria de vila; Elevação da povoação e freguesia de Alvor, no concelho de Portimão, distrito de Faro, à categoria de vila; Elevação de Vila Nova de Mil Fontes a vila, no concelho de Odemira; Elevação a vila da aldeia de São Teotónio no concelho de Odemira; Elevação da sede da freguesia de Pinhal Novo à categoria de vila; Elevação da povoação de Arazede, no concelho de Montemor-o-Velho, à categoria de vila; Elevação da povoação de Apúlia, no concelho de Esposende, à categoria de vila; Elevação da sede da Freguesia do Couço à categoria de vila; Criação da freguesia de Benafim; Cria a freguesia do Campinho, no concelho de Reguengos de Monsaraz, no distrito de Évora; Criação da freguesia de Pêro Pinheiro, no concelho de Sintra; Criação da freguesia do Vale da Amoreira no concelho da Moita, distrito de Setúbal; Criação da freguesia de Vale de Amoreira, concelho e distrito da Guarda; Criação da freguesia de Cortiçadas de Lavre, no concelho de Montemor-o-Novo; Criação da freguesia de Silveiras, no concelho de Montemor-o-Novo; Criação da freguesia de Bicos, no concelho de Odemira; Criação da freguesia de Casais de Vale da Pedra, no concelho do Cartaxo; Criação da freguesia de Sabugueiro, no concelho de Arraiolos; Criação da freguesia da Barrosa no concelho de Benavente; Alteração dos nomes da freguesia e da povoação de Póvoa para Póvoa de S. Miguel; Alteração do artigo 2º da Lei nº 91/85, de 4 de Outubro, o qual fixa os limites da freguesia de Pedrouços no concelho da Maia, distrito do Porto; Criação da freguesia de Casas do Soeiro no concelho de Celorico da Beira; Criação da freguesia de Vale da Pedra no concelho do Cartaxo; Criação da freguesia de Trigaches, no concelho de Beja; Criação da freguesia de Foros de Vale de Figueira, no concelho de Montemor-o-Novo; Criação da freguesia de Vila Franca da Beira; Criação da freguesia de Poceirão no concelho de Palmela; Criação da freguesia de Vale da Pedra, no concelho do Cartaxo; Criação da freguesia de Granho no concelho de Salvaterra de Magos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:40",
+            "horaTermo": "11:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "212224",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2159-2160"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-03-12",
+                "pubLeg": "V",
+                "pubNr": "62",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/062/1988-03-12/2159?pgs=2159-2160&org=PLC"
+              }
+            ],
+            "sumario": "Elevação da vila do Fundão à categoria de cidade; Elevação à categoria de cidade da vila da Marinha Grande; Elevação da vila da Marinha Grande a cidade; Elevação de Vila Real de Santo António a cidade; Elevação de Montemor-o-Novo a cidade; Elevação de Sagres à categoria de vila; Elevação da Aldeia Nova de São Bento à categoria de vila; Elevação da povoação e freguesia de Alvor, no concelho de Portimão, distrito de Faro, à categoria de vila; Elevação de Vila Nova de Mil Fontes a vila, no concelho de Odemira; Elevação a vila da aldeia de São Teotónio no concelho de Odemira; Elevação da sede da freguesia de Pinhal Novo à categoria de vila; Elevação da povoação de Arazede, no concelho de Montemor-o-Velho, à categoria de vila; Elevação da povoação de Apúlia, no concelho de Esposende, à categoria de vila; Elevação da sede da Freguesia do Couço à categoria de vila; Criação da freguesia de Benafim; Cria a freguesia do Campinho, no concelho de Reguengos de Monsaraz, no distrito de Évora; Criação da freguesia de Pêro Pinheiro, no concelho de Sintra; Criação da freguesia do Vale da Amoreira no concelho da Moita, distrito de Setúbal; Criação da freguesia de Vale de Amoreira, concelho e distrito da Guarda; Criação da freguesia de Cortiçadas de Lavre, no concelho de Montemor-o-Novo; Criação da freguesia de Silveiras, no concelho de Montemor-o-Novo; Criação da freguesia de Bicos, no concelho de Odemira; Criação da freguesia de Casais de Vale da Pedra, no concelho do Cartaxo; Criação da freguesia de Sabugueiro, no concelho de Arraiolos; Criação da freguesia da Barrosa no concelho de Benavente; Alteração dos nomes da freguesia e da povoação de Póvoa para Póvoa de S. Miguel; Alteração do artigo 2º da Lei nº 91/85, de 4 de Outubro, o qual fixa os limites da freguesia de Pedrouços no concelho da Maia, distrito do Porto; Criação da freguesia de Casas do Soeiro no concelho de Celorico da Beira; Criação da freguesia de Vale da Pedra no concelho do Cartaxo; Criação da freguesia de Trigaches, no concelho de Beja; Criação da freguesia de Foros de Vale de Figueira, no concelho de Montemor-o-Novo; Criação da freguesia de Vila Franca da Beira; Criação da freguesia de Poceirão no concelho de Palmela; Criação da freguesia de Vale da Pedra, no concelho do Cartaxo; Criação da freguesia de Granho no concelho de Salvaterra de Magos",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "223858",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "330854",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-03-12",
+        "pubLeg": "V",
+        "pubNr": "62",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/062/1988-03-12?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
