@@ -1,0 +1,13 @@
+Decreto-Lei n.º 200/72
+de 17 de Junho
+A experiência do ano anterior aconselha a introduzir algumas alterações ao regime de atribuição da categoria de professor extraordinário, bem como ao processo de colocação dos professores provisórios e eventuais cujo concurso se julga também conveniente antecipar.
+Nestes termos, usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º O artigo 4.º do Decreto-Lei n.º 331/71 passa a ter a seguinte redacção:
+1. A atribuição da categoria de professor extraordinário será requerida aos respectivos directores-gerais, através dos estabelecimentos de ensino, de 1 a 8 de Agosto de cada ano.
+2. Independentemente da data do despacho que atribua a categoria de professor extraordinário, serão processados os vencimentos em Agosto e Setembro aos professores que, em 31 de Julho de cada ano, o estabelecimento de ensino competente verifique reunirem as condições legais exigidas para essa atribuição.
+Art. 2.º O artigo 3.º do Decreto n.º 49120, de 14 de Julho de 1969, passa a ter a seguinte redacção:
+Os candidatos a professores eventuais não abrangidos pelas disposições anteriores serão recrutados mediante concurso que decorrerá anualmente de 1 a 15 de Junho.
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - José Veiga Simão.
+Promulgado em 7 de Junho de 1972.
+Publique-se.
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
