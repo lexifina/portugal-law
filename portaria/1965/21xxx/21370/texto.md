@@ -1,0 +1,4 @@
+Portaria n.º 21370
+Verificando-se que na costa algarvia o exercício da caça pelo mar e de barco constitui perigo iminente para o movimento da navegação e para o afluxo progressivo de banhistas:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, que, nos termos do n.º 3.º do artigo 6.º do Decreto n.º 23461, de 17 de Janeiro de 1934, seja proibida a caça, por mar e de barco, aos pombos bravos das rochas, aos maçaricos e todas as espécies marinhas de arribação, cuja abertura se efectuava em 15 de Julho, de acordo com o exposto no § 8.º do artigo 10.º daquele mesmo decreto e conforme a redacção que lhe foi dada pelo Decreto n.º 37983, de 26 de Setembro de 1950.
+Secretaria de Estado da Agricultura, 2 de Julho de 1965. - O Secretário de Estado da Agricultura, Domingos Rosado Vitória Pires.
