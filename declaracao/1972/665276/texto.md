@@ -1,0 +1,3 @@
+Declaração
+Declara-se, para os devidos efeitos, que no sumário respeitante ao decreto-lei publicado pelo Ministério da Marinha no Diário do Governo, 1.ª série, n.º 288, de 13 de Dezembro de 1972, que define o critério de determinação do suplemento eventual de que trata o Decreto-Lei n.º 457/72, de 15 de Novembro, a abonar ao pessoal das guarnições dos navios da Armada em comissão no ultramar, foi, por lapso, atribuído àquele diploma o «n.º 513/73», o qual deve ser rectificado para o «n.º 513/72».
+Secretaria-Geral da Presidência do Conselho, 15 de Dezembro de 1972. - O Secretário-Geral, Diogo de Paiva Brandão.
