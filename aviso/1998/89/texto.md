@@ -1,0 +1,4 @@
+Aviso n.º 89/98
+Por ordem superior se torna público que o Brunei Darussalam depositou, em 13 de Novembro de 1997, os instrumentos de ratificação da Convenção sobre Prevenção e Repressão de Crimes contra Pessoas Gozando de Protecção Internacional, Incluindo os Agentes Diplomáticos, aberta para assinatura em 14 de Dezembro de 1973.
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 20/94, publicada no Diário da República, 1.ª série-A, n.º 104, de 5 de Maio de 1994, tendo ratificado a Convenção pelo Decreto do Presidente da República n.º 22/94, de 5 Maio, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 104, de 5 de Maio de 1994.
+Direcção-Geral dos Assuntos Multilaterais, 20 de Abril de 1998. - O Director de Serviços das Organizações Políticas Internacionais, João José Caetano da Silva.
