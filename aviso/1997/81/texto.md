@@ -1,0 +1,3 @@
+Aviso n.º 81/97
+Por ordem superior se torna público que a Rússia assinou, em 7 de Novembro de 1996, a Convenção Europeia de Extradição, bem como o Protocolo Adicional e o Segundo Protocolo Adicional à referida Convenção, aberta à assinatura em Paris, em 13 de Dezembro de 1957.
+Direcção de Serviços das Organizações Políticas Multilaterais, 7 de Fevereiro de 1997. - O Director de Serviços, João José Gomes Caetano da Silva.
