@@ -1,0 +1,10 @@
+Decreto-Lei n.º 48380
+Considerando a manifesta vantagem que reveste para o desenvolvimento da exploração dos recursos mineiros da província de Angola a fusão da Sociedade Mineira do Lombige, S. A. R. L., com a Companhia Mineira do Lobito, S. A. R. L.;
+Atendendo ao que foi representado pelos conselhos de administração de ambas as empresas;
+Usando da faculdade conferida pelo 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º O Governo poderá autorizar, por despacho conjunto dos Ministros das Finanças e do Ultramar, a fusão da Sociedade Mineira do Lombige, S. A. R. L., e da Companhia Mineira do Lobito, S. A. R. L., por incorporação da primeira na última, isentando estas sociedades, por aquela fusão e actos com ela relacionados, de qualquer encargo fiscal e dispensando, na parte aplicável, o cumprimento do disposto nos §§ únicos dos artigos 116.º e 124.º e nos artigos 125.º a 127.º do Código Comercial.
+Art. 2.º Deliberada pelas assembleias gerais de ambas as sociedades e autorizada nos termos do artigo 1.º, a referida fusão considera-se definitivamente efectuada pela outorga da respectiva escritura, transferindo-se desde logo para a incorporante todos os direitos e obrigações da incorporada, designadamente os direitos mineiros e correlativas obrigações.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 11 de Maio de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Para ser publicado no Boletim Oficial de Angola. - J. da Silva Cunha.
