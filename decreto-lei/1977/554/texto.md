@@ -1,0 +1,26 @@
+Decreto-Lei n.º 554/77
+de 31 de Dezembro
+A orientação da educação física escolar foi durante largos anos da competência da extinta organização fascista Mocidade Portuguesa. Em 1971 passou a depender da então Direcção-Geral de Educação Física e Desportos, mantendo-se assim para a educação física um tratamento diferenciado em relação às restantes disciplinas, pois continuou subordinada a entidade estranha às direcções-gerais de ensino.
+O Decreto-Lei n.º 694/74, de 5 de Dezembro, entregou essa orientação às direcções-gerais de ensino, satisfazendo uma correcta e legítima aspiração dos docentes de Educação Física. Contudo, a transferência de responsabilidades não foi acompanhada da criação, nas direcções-gerais referidas, de um mínimo de condições e estrutura que possibilitasse o efectivo exercício das competências estabelecidas; os meios e possibilidades de acção permaneceram na Direcção-Geral dos Desportos, pelo que a situação continuou na prática semelhante à existente anteriormente à publicação do referido decreto-lei.
+Após a posse do Governo Constitucional, e uma vez equacionado o problema, iniciou-se um trabalho de transferência efectiva de meios de intervenção, ailcerçado em despachos conjuntos dos Secretários de Estado da Orientação Pedagógica e Juventude e Desportos e coordenado por um grupo de trabalho central.
+Entretanto, deixaram também de estar atribuídas à Direcção-Geral dos Desportos as competências relativas ao desporto escolar, conforme se assinala no preâmbulo do Decreto-Lei n.º 553/77, de 31 de Dezembro, que reestruturou a referida Direcção-Geral, o desporto escolar, como actividade extracurricular, só tem sentido se constituir sequência lógica e harmoniosa da actividade curricular, devendo portanto estar a sua orientação igualmente subordinada às direcções-gerais de ensino.
+O presente diploma ordena as competências das direcções-gerais de ensino nos campos curricular e extracurricular, atribui ao inspector superior de Educação Física funções de coordenação de toda a actividade e prevê que o funcionamento dos serviços seja objecto de portaria regulamentar. Adoptam-se assim as medidas mínimas consideradas necessárias para a dignificação do ensino da educação física até à prevista reestruturação das direcções-gerais de ensino.
+Nestes termos:
+O Governo decreta, de acordo com a alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º Compete às Direcções-Gerais dos Ensinos Básico e Secundário e à Inspecção-Geral do Ensino Particular, consoante o ensino ministrado:
+a) Programar, orientar e fiscalizar o ensino da educação física nos estabelecimentos de ensino oficial e particular dependentes do MEIC, com excepção do ensino superior, promovendo o seu aperfeiçoamento e assegurando a sua constante actualização;
+b) Promover a actualização e informação dos docentes de Educação Física;
+c) Superintender no desporto escolar não universitário, orientando e regulamentando todas as actividades extracurriculares;
+d) Organizar de modo regular acções de convívio e competições no âmbito escolar;
+e) Assegurar a representação internacional do desporto escolar não universitário.
+Art. 2.º As Direcções-Gerais do Ensino Básico e Secundário e a Inspecção-Geral do Ensino Particular manterão coordenação permanente:
+a) Com a Direcção-Geral dos Desportos, através do Conselho Técnico Coordenador dos Planos de Desenvolvimento Desportivo, nos termos dos artigos 10.º e 11.º do Decreto-Lei n.º 553/77, de 31 de Dezembro;
+b) Com a Direcção-Geral do Equipamento Escolar, para efeitos de programação da utilização racional das instalações e restante equipamento gimnodesportivo.
+Art. 3.º Mantém-se, no quadro da Direcção-Geral do Ensino Secundário, o lugar de inspector superior de Educação Física, criado pelo artigo 5.º do Decreto-Lei n.º 694/74, de 5 de Dezembro.
+Art. 4.º Ao inspector superior referido no artigo anterior compete coadjuvar os directores-gerais dos Ensinos Básico e Secundário e o inspector-geral do Ensino Particular na orientação e coordenação de toda a actividade decorrente das competências estabelecidas no artigo 1.º deste diploma.
+Art. 5.º O funcionamento dos serviços de educação física e desporto escolar será regulamentado por portaria do Ministro da Educação e Investigação Científica.
+Art. 6.º São revogados os artigos 2.º, 3.º e 5.º do Decreto-Lei n.º 694/74, de 5 de Dezembro.
+Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos.
+Promulgado em 22 de Dezembro de 1977.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
