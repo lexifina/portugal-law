@@ -1,0 +1,58 @@
+Portaria n.º 17790
+Tornando-se necessário regulamentar o funcionamento dos conselhos regionais de agricultura, criados pelo artigo 20.º do Decreto-Lei n.º 41473, de 23 de Dezembro de 1957:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, que se observem as normas constantes do seguinte:
+Regulamento dos Conselhos Regionais de Agricultura
+CAPÍTULO I
+Atribuições
+1.º Os conselhos regionais de agricultura, que funcionarão na sede das regiões agrícolas, destinam-se a estabelecer uma mais íntima ligação entre os serviços regionais da Secretaria de Estado da Agricultura e a lavoura.
+2.º Compete designadamente aos conselhos regionais da agricultura:
+a) Assegurar a estreita colaboração dos diferentes serviços da região com os agricultores e trabalhadores rurais, representados pelos grémios da lavoura e Casas do Povo;
+b) Apresentar sugestões sobre a actuação dos serviços e os problemas de interesse para a região;
+c) Emitir parecer sobre os assuntos de carácter técnico-económico que interessem as respectivas regiões, quer sob o ponto de vista local, quer do seu enquadramento nacional, e que lhe sejam submetidos por determinação superior;
+d) Pronunciar-se sobre os assuntos que para o efeito lhe forem submetidos pelo Conselho Superior de Agricultura.
+CAPÍTULO II
+Constituição do conselho
+3.º Os conselhos regionais de agricultura são constituídos pelos seguintes membros:
+Presidente: o inspector da zona.
+Vogais:
+a) O dirigente do organismo regional da Direcção-Geral dos Serviços Agrícolas da respectiva região agrícola;
+b) Os dirigentes dos organismos especializados da Direcção-Geral dos Serviços Agrícolas com sede na respectiva região agrícola;
+c) Um intendente de pecuária indicado pela Direcção-Geral dos Serviços Pecuários e em representação de todos os intendentes da respectiva região agrícola;
+d) Os dirigentes dos organismos especializados da Direcção-Geral dos Serviços Pecuários com sede na respectiva região agrícola;
+e) Um administrador florestal indicado pela Direcção-Geral dos Serviços Florestais e Aquícolas e em representação dos administradores da respectiva região agrícola;
+f) Os dirigentes dos organismos especializados da Direcção-Geral dos Serviços Florestais e Aquícolas com sede na respectiva região agrícola;
+g) Um delegado da Junta de Colonização Interna com sede na área da região agrícola;
+h) O presidente do grémio da lavoura da sede da região;
+i) Quatro representantes dos grémios da lavoura da região indicados anualmente pela respectiva Federação ou, na falta desta, pelos respectivos grémios;
+j) Dois representantes das Casas do Povo designados anualmente pela respectiva Federação.
+§ único. A renovação anual dos vogais referidos nas alíneas i) e j) far-se-á por forma a que sucessivamente todos os grémios e Casas do Povo venham a estar representados no respectivo conselho regional de agricultura, não podendo os vogais designados fazer parte dos conselhos mais do que três anos seguidos.
+4.º O conselho regional de agricultura da XVII região agrícola será presidido pelo respectivo inspector de zona, tendo como vogais os delegados da Direcção-Geral dos Serviços Agrícolas, os directores das estações agrárias distritais, o administrador florestal ou os chefes das circunscrições florestais, quando estas existam, os intendentes de pecuária, os representantes da Junta de Colonização Interna e os representantes da lavoura e das Casas do Povo de cada distrito autónomo designados nos termos da lei.
+§ único. O conselho regional a que se refere este artigo pode, quando o interesse dos serviços o aconselhe, reunir por secções distritais, que serão presididas pelo inspector de zona e que terão como vogais o delegado da Direcção-Geral dos Serviços Agrícolas, o administrador florestal ou o chefe da circunscrição florestal, quando esta exista, o intendente de pecuária do distrito, o director da respectiva estação agrária, os representantes da Junta de Colonização Interna e o representante distrital da lavoura e das Casas do Povo.
+5.º Os presidentes dos conselhos regionais da agricultura poderão convidar a assistir às reuniões pessoas que pelas funções que desempenham, ou conhecimentos especiais que possuam, possam contribuir para o esclarecimento dos assuntos sobre que os conselhos tenham de se pronunciar.
+CAPÍTULO III
+Funcionamento
+6.º Os conselhos regionais reúnem obrigatòriamente, em sessão ordinária, uma vez em cada trimestre; e em sessão extraordinária, sempre que forem convocados pelo presidente, por sua iniciativa, por determinação superior ou por proposta de qualquer dos seus vogais.
+7.º Os conselhos regionais terão a sua sede no serviço da Direcção-Geral dos Serviços Agrícolas e as suas reuniões terão lugar nos grémios da lavoura da região agrícola ou em local que o conselho designar.
+8.º As reuniões serão presididas pelo inspector de zona, que nas suas faltas e impedimentos será substituído pelo funcionário mais categorizado vogal do conselho e, em igualdade de categoria, pelo mais antigo.
+9.º Servirá de secretário um funcionário da sede das regiões agrícolas estabelecidas pelo artigo 74.º do Decreto-Lei n.º 27207.
+§ único. Os serviços de secretaria serão assegurados pelo organismo sede da região agrícola.
+10.º De todas as resoluções ou assuntos ventilados nas reuniões dos conselhos regionais será enviada uma cópia ao Conselho Superior de Agricultura para seu conhecimento.
+§ único. No que se refere às XVI e XVII regiões agrícolas, os conselhos regionais poderão ainda dar conhecimento das resoluções tomadas ou trabalhos efectuados aos respectivos governadores, sempre que nisso haja interesse para os distritos, e aos presidentes das juntas gerais.
+11.º As convocações para as reuniões dos conselhos devem indicar os assuntos a tratar e ser expedidas, pelo menos, com a antecedência de oito dias.
+12.º A presença dos vogais às reuniões é obrigatória, salvo motivo de força maior justificado por doença nos termos vulgares, ou por motivo de serviço público inadiável:
+a) As faltas não justificadas dos vogais funcionários públicos serão comunicadas aos serviços a que pertencem;
+b) Os vogais representantes da lavoura perdem o mandato no caso de três faltas seguidas ou interpoladas dentro do próprio ano.
+13.º As sessões funcionarão logo que esteja presente a maioria dos vogais.
+§ único. Quando, por falta de número, se não possa realizar sessão do conselho, será feita nova convocação, podendo então a sessão funcionar com qualquer número de vogais.
+14.º De todas as sessões serão lavradas actas em que se relate tudo o que tiver sido tratado.
+15.º Os pontos de vista do conselho, quando necessário, serão definidos por votos, incluindo o presidente, que terá voto de qualidade.
+§ único. O voto é obrigatório e a abstenção ou indicação de vencido deve ser acompanhada de declaração que a justifique.
+CAPÍTULO IV
+Ordem dos trabalhos
+16.º Aberta a sessão será posta a discussão e aprovação a acta da sessão anterior.
+17.º Os trabalhos prosseguirão na seguinte ordem:
+a) Antes da ordem;
+b) Ordem do dia;
+c) Depois da ordem do dia.
+18.º Compete ao presidente regular o uso da palavra, as discussões e votações dos assuntos que forem ventilados.
+Ministério da Economia, 4 de Julho de 1960. - O Secretário de Estado da Agricultura, Luís Quartin Graça.
