@@ -7,3 +7,5 @@
 2. Na mesma base serão liquidadas as quotas correspondentes a percentagens legais de aumento do tempo de serviço prestado nas condições do número anterior.
 
 3 - Nos demais casos de contagem de tempo, as quotas que não hajam sido pagas ou que tenham sido restituídas pela Caixa serão liquidadas, sem juros, com base na remuneração do cargo do subscritor à data da entrada do seu requerimento e na taxa então vigente.
+
+4 - Para efeitos de contagem de tempo de reforma, os trabalhadores bancários no activo poderão proceder, a seu pedido, a descontos para a Caixa Geral de Aposentações respeitantes ao período em que prestaram serviço militar, aos quais será aplicada uma taxa de 2%, por motivo de tais deduções prestacionais não lhes conferirem a aquisição de quaisquer direitos em matéria de aposentação e sobrevivência no âmbito da Caixa Geral de Aposentações.

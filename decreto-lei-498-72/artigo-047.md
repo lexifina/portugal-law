@@ -13,3 +13,5 @@ b) A média mensal das demais remunerações percebidas pelo subscritor nos dois
 3. Será havida como enumeração dos cargos exercidos em regime de tempo parcial, depois de efectuada a conversão prevista no n.º 2 do artigo 26.º, a que corresponder ao serviço em regime de tempo completo.
 
 4 - As remunerações percebidas a título de participações emolumentares, qualquer que seja a sua natureza, são em todos os casos consideradas para a aposentação, nos termos do disposto da alínea b) do n.º 1.
+
+5 - Nos casos em que a média das remunerações previstas na alínea b) do n.º 1, adicionada da remuneração estabelecida na alínea a) do mesmo número, exceda a remuneração base legalmente fixada para o cargo de Primeiro-Ministro, será a remuneração mensal relevante reduzida até ao limite daquela.

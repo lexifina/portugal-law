@@ -6,4 +6,4 @@
 
 2. À concessão do subsídio é aplicável o regime fixado na Lei para os subsídios por morte dos funcionários na actividade.
 
-3. A declaração relativa ao destinatário do subsídio será remetida à Caixa, a pedido desta, pelo serviço onde estiver depositada, ou, na sua falta, directamente entregue na mesma Caixa pelo aposentado.
+3. (Revogado).
