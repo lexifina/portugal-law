@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo informação da Embaixada da Polónia em Londres, o Governo da República de Nauru declarou-se, em 4 de Novembro de 1970, vinculado pelas disposições da Convenção sobre a Unificação de Certas Normas Relativas ao Transporte Aéreo Internacional, concluída em Varsóvia em 12 de Outubro de 1929, e pelas do respectivo Protocolo de modificação, concluído na Haia em 28 de Outubro de 1955, cuja aplicação ao seu território havia sido feita pelo Reino Unido da Grã-Bretanha em 1 de Agosto de 1935 e em 23 de Junho de 1959, respectivamente.
+Direcção-Geral dos Negócios Económicos, 20 de Julho de 1971. - O Adjunto do Director-Geral, Manuel Rodrigues de Almeida Coutinho.
