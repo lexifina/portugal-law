@@ -1,0 +1,8 @@
+Portaria n.º 808/82
+de 27 de Agosto
+Considerando o disposto no n.º 4 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho;
+Considerando que para o desempenho das funções de chefia da Divisão de Coordenação Financeira se justifica, face aos conhecimentos próprios do sector em causa, que a escolha recaia sobre um profissional de comprovada experiência no campo da centralização de toda a informação sobre o esforço financeiro que para o sector público português resulte de acções, programas e projectos de cooperação, da prestação do apoio necessário à execução de acordos e, bem assim, de encargos decorrentes da descolonização:
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros dos Negócios Estrangeiros e da Reforma Administrativa, o seguinte:
+1.º É alargada a área de recrutamento para o lugar de chefe de divisão do quadro do pessoal anexo ao Decreto-Lei n.º 487/79, de 18 de Dezembro, com vista à chefia do departamento a que alude o n.º 4 do artigo 21.º, secção X do mesmo diploma, a chefes de repartição dos quadros do Estado habilitados com curso superior, sendo dispensada a posse de licenciatura.
+2.º O despacho de nomeação será acompanhado, para publicação, do curriculum do nomeado.
+Ministérios das Finanças e do Plano, dos Negócios Estrangeiros e da Reforma Administrativa, 6 de Agosto de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, Alberto Heleno Nascimento Regueira, Secretário de Estado do Planeamento. - Pelo Ministro dos Negócios Estrangeiros, Luís de Oliveira Fontoura, Secretário de Estado para a Cooperação e Desenvolvimento. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
