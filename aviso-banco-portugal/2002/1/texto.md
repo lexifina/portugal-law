@@ -1,0 +1,50 @@
+Aviso do Banco de Portugal n.º 1/2002
+Com a publicação do Aviso n.º 3/2000, de 11 de Agosto, e a explicitação dos principais direitos e responsabilidades dos participantes no sistema de débitos directos (SDD) - credores, devedores e instituições de crédito -, o Banco de Portugal procurou assegurar, a par da transparência do processo de cobrança, um elevado nível de confiança no sistema.
+Com efeito, tratava-se de um sistema de cobrança novo, que exigia um enquadramento jurídico e operacional específico, decorrente do facto de o devedor, no momento de autorização de débito em conta, poder desconhecer o montante e data da sua efectivação, uma vez que o processo de cobrança é da iniciativa do credor.
+Passado cerca de ano e meio sobre a data de publicação desse aviso e do funcionamento do SDD, a fiabilidade que o sistema proporciona e a experiência entretanto adquirida permitem agora desenhar novos horizontes para a sua utilização.
+Foi entendido redefinir o SDD, permitindo que a introdução das autorizações de débito em conta pudesse também ser efectuada pelos credores, enquanto depositários de tais autorizações, trazendo ao sistema um significativo número de novos utilizadores.
+O presente aviso, mantendo o conteúdo essencial do Aviso n.º 3/2000, estabelece a obrigação de os credores informarem os seus devedores dos elementos identificadores das autorizações de débito que introduzirem no sistema e de as cancelarem caso o contrato que as originou cesse ou seja revogado. Regulamenta também o fornecimento às instituições de crédito das autorizações que tenham processado.
+Quanto aos devedores, garante não só a verificação, através do seu banco, da regularidade das autorizações na posse dos credores como também o crédito da totalidade das importâncias cobradas ao abrigo de autorizações que se mostrem inexistentes ou irregulares.
+Finalmente, as modificações agora introduzidas no sistema permitem aproximá-lo ainda mais dos princípios de funcionamento dos sistemas equiparáveis instituídos na maioria dos países da União Europeia, factor que igualmente foi tido em consideração.
+Assim, o Banco de Portugal, no uso da competência que lhe foi conferida pelo artigo 14.º da sua Lei Orgânica, estabelece o seguinte:
+Artigo 1.º
+Definições
+No âmbito do presente aviso, entende-se por:
+a) «Sistema de débitos directos» (SDD) - conjunto de regras e infra-estruturas operacionais que permitem pagamentos por débito directo em conta, decorrentes de relação contratual e que envolvem credor, devedor e instituições de crédito respectivas;
+b) «Débito directo» - débito, em conta bancária, com base numa autorização de débito do devedor e numa instrução de cobrança transmitida pelo credor;
+c) «Credor» - entidade autorizada pelo devedor a efectuar cobranças através do SDD;
+d) «Devedor» - entidade que autoriza que lhe sejam efectuadas cobranças através do SDD;
+e) «Autorização de débito em causa» - consentimento expresso do devedor a uma instituição de crédito pelo qual permite débitos directos de montante fixo, variável ou até um valor e ou data previamente definidos na conta de depósitos aberta em seu nome nessas instituição de crédito;
+f) «Sistema Multibanco» - conjunto de infra-estruturas que viabiliza a realização de operações, composto por sistemas aplicacionais, de telecomunicações e centros de processamento de dados, bem como outros meios de responsabilidade da SIBS - Sociedade Interbancária de Serviços ou de terceiros, normalmente identificados por «ATM - automated teller machines», «caixas multibanco» e «caixas de pagamento automático».
+Artigo 2.º
+Dos credores
+1 - Os credores que pretendam efectuar as suas cobranças através do SDD, obtida a concordância dos devedores, estão obrigados a informá-los dos direitos e obrigações previstos neste aviso.
+2 - Nos casos em que as cobranças sejam já efectuadas por débito em conta, estão os credores obrigados a notificar os devedores, com, pelo menos, 15 dias de antecedência relativamente à data a partir da qual passam a ser cobrados através do SDD, dos direitos e obrigações regulados neste aviso.
+3 - Os credores estão obrigados a informar os devedores dos elementos identificadores das autorizações de débito em conta, designadamente os números atribuídos à autorização e à identificação do credor.
+4 - Os credores não devem apresentar à cobrança quaisquer valores decorrentes da celebração, renúncia ou execução de contrato legalmente sujeito a período de reflexão antes de decorrido o referido período, excepto se os devedores a ele houverem expressamente renunciado, podendo, todavia, introduzir no sistema os elementos que permitam posteriormente aquela cobrança.
+5 - Nos casos em que as referidas autorizações tenham sido introduzidas por estes no sistema, os credores estão obrigados a cancelar as autorizações relativas a contratos:
+a) Cuja execução haja, por qualquer forma, cessado;
+b) Revogados pelos devedores durante o período de reflexão.
+6 - Os credores devem fornecer às suas instituições de crédito as autorizações de débito em conta que tenham processado, atento o disposto nos n.os 3, 4 e 5 do artigo 4.º
+Artigo 3.º
+Dos devedores
+1 - Os devedores são livres de aceitar ou recusar que as cobranças sejam efectuadas através do SDD, podendo, a todo o tempo, cancelar a autorização de débito em conta concedida, quer junto das suas instituições de crédito depositárias, quer através do Sistema Multibanco.
+2 - Os devedores podem anular, junto das suas instituições de crédito e nos cinco dias úteis subsequentes à sua efectivação, qualquer débito efectuado através do SDD.
+3 - Os devedores têm o direito de acordar com os credores a antecedência com que são avisados dos montantes dos débitos e das datas a partir das quais vão ser cobrados, por forma que as contas possam ser devidamente aprovisionadas.
+4 - Não se consideram processadas pelo credor as autorizações de débito em conta que tenham sido posteriormente modificadas através da definição de limites de prazo ou montante pelo devedor, nem aquelas cujas existência e regularidade tenham já sido comprovadas nos termos do n.º 3 do artigo 4.º
+5 - O simples cancelamento pelo devedor da autorização de débito em conta processada pelo credor não altera a natureza desta autorização.
+Artigo 4.º
+Das instituições de crédito
+1 - As instituições de crédito devem identificar nos extractos de conta dos devedores, clara e inequivocamente, os débitos efectuados através do SDD e os respectivos credores, bem como quaisquer outros movimentos ocorridos nas suas contas em virtude da utilização de tal sistema.
+2 - As instituições de crédito não estão obrigadas a aceitar nem a manter as autorizações de débito em conta dos seus clientes devedores e não respondem pelo incumprimento das obrigações emergentes das relações contratuais estabelecidas entre credores e devedores.
+3 - As instituições de crédito são obrigadas, a requerimento dos devedores, a comprovar a existência e a regularidade das autorizações de débito em conta, bem como, nos casos de estas autorizações terem sido processadas pelos credores, a creditar os valores indevidamente debitados, quando se comprove a sua inexistência ou irregularidade.
+4 - As instituições de crédito devem obter dos seus clientes credores e entregar às instituições de crédito dos devedores daqueles clientes, a pedido destas e no prazo de quatro dias úteis, as autorizações de débito em conta processadas pelos mesmos.
+5 - As instituições de crédito podem exigir a exibição das autorizações de débito em conta que os seus clientes credores hajam processado, com a finalidade de verificar a sua existência ou regularidade.
+6 - Ao Banco de Portugal compete regulamentar as condições de adesão das instituições de crédito ao SDD e fixar as condições que estas devem observar no âmbito daquele sistema.
+Artigo 5.º
+Entrada em vigor
+O presente aviso entra em vigor no dia da sua publicação.
+Artigo 6.º
+Norma revogatória
+É revogado o Aviso n.º 3/2000.
+Lisboa, 27 de Fevereiro de 2002. - O Governador, Vítor Constâncio.
