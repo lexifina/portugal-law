@@ -1,0 +1,14 @@
+Portaria n.º 672-C/78
+de 21 de Novembro
+Manda o Conselho da Revolução, pelo Chefe do Estado-Maior-General das Forças Armadas, nos termos do artigo 15.º do Decreto-Lei n.º 400/74, de 29 de Agosto, na redacção do Decreto-Lei n.º 709/76, de 4 de Outubro, e da alínea c) do n.º 5 da Portaria n.º 672-B/78, de 21 de Novembro, aprovar as normas de ingresso no QPC/EMGFA do pessoal referido nos n.os 2, 3 e 4 da citada portaria.
+1 - O ingresso no QPC/EMGFA terá lugar:
+a) Pela ordem resultante da aplicação sucessiva do constante dos n.os 2, 3 e 4 da portaria referida;
+b) Em 1 de Janeiro de 1979, nas vagas deixadas no QPC/EMGFA pelos movimentos de pessoal previstos nos n.os 2 e 3 da Portaria n.º 672-B/78, de 21 de Novembro, o pessoal civil dependente de outros Ministérios ou ramos das forças armadas, actualmente em serviço no EMGFA, que o requeira até àquela data, bem como os agentes do quadro geral de adidos destacados, requisitados ou em comissão de serviço no EMGFA.
+2 - O pessoal do grupo de informações militares, para além do expresso no número anterior, será integrado de acordo com as normas fixadas na Portaria n.º 672-E/78, de 21 de Novembro.
+3 - O preenchimento dos lugares previstos no quadro anexo n.º 1 à Portaria n.º 672-B/78, de 21 de Novembro, em conformidade com o disposto nos n.os 2 e 3 desse mesmo diploma, far-se-á, com dispensa de todas as formalidades legais, mediante simples publicação no Diário da República de lista nominativa com a indicação da respectiva categoria, assinada pelo competente adjunto do CEMGFA e anotada pelo Tribunal de Contas.
+4 - O provimento no mesmo quadro do pessoal referido na alínea b) do n.º 1 do presente diploma far-se-á em categoria igual ou equivalente à que possui nos departamentos ou quadros de origem, independentemente de quaisquer formalidades legais, devendo constar de lista nominativa a publicar no Diário da República, depois de visada pelo Tribunal de Contas.
+5 - A contagem de tempo de serviço no QPC/EMGFA, em cada categoria, para efeitos de promoção, será efectuada:
+a) Para o pessoal que transita para o QPC/EMGFA, ao abrigo do n.º 2 da Portaria n.º 672-B/78, de 21 de Novembro, com excepção do pessoal abrangido pelas normas de reajustamento, a partir da data de admissão ou de promoção para preenchimento de vaga nos quadros orgânicos criados pelo Decreto-Lei n.º 43077, de 18 de Julho de 1960, e pelo Decreto-Lei n.º 43816, de 24 de Julho de 1961;
+b) Para o pessoal abrangido pelo n.º 3 da Portaria n.º 672-B/78, de 21 de Novembro, vinculado ao SGDN ou ao EMGFA por adequado título de provimento, a partir da data do provimento;
+c) Para o restante pessoal, a partir da data da criação do QPC/EMGFA.
+Estado-Maior-General das Forças Armadas, 21 de Novembro de 1978. - O Chefe do Estado-Maior-General das Forças Armadas, António Ramalho Eanes, general.
