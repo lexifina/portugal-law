@@ -1,0 +1,10 @@
+Portaria n.º 594/86
+de 11 de Outubro
+O Decreto-Lei n.º 384-B/85, de 30 de Setembro, criou a carreira de técnico de diagnóstico e terapêutica, que visa um melhor enquadramento profissional dos técnicos auxiliares dos serviços complementares de diagnóstico e terapêutica, face às alterações ocorridas na área da tecnologia médica, especialmente no domínio do diagnóstico e da terapêutica.
+A carreira de técnico de diagnóstico e terapêutica, instituída pelo diploma legal acima mencionado, é automaticamente aplicável aos profissionais dos serviços ou estabelecimentos integrados ou dependentes do Ministério da Saúde e das secretarias regionais dos assuntos socias das regiões autónomas, podendo, contudo, por portaria conjunta do Ministro da respectiva pasta, do Ministro das Finanças e do membro do Governo que tiver a seu cargo a Administração Pública, abranger o pessoal de outros departamentos governamentais que exerçam cargos do mesmo conteúdo funcional.
+Considerando que no sector da segurança social existem trabalhadores inseridos na carreira técnica auxiliar dos serviços complementartes de diagnóstico e terapêutica que desempenham funções de idêntico conteúdo funcional ao da carreira criada, torna-se necessário que o regime previsto no diploma legal acima mencionado lhes seja igualmente aplicável.
+Nestes termos, ao abrigo do disposto no n.º 3 do artigo 1.º do Decreto-Lei n.º 384-B/85, de 30 de Setembro:
+Manda o Governo da República Portuguesa, pelos Secretários de Estado do Orçamento e da Segurança Social, que seja aplicável aos técnicos auxiliares dos serviços complementares de diagnóstico e terapêutica dos centros regionais de segurança social e demais serviços personalizados do sector da segurança social o regime estabelecido no Decreto-Lei n.º 384-B/85, de 30 de Setembro, com as devidas adaptações.
+Secretarias de Estado do Orçamento e da Segurança Social.
+Assinada em 26 de Setembro de 1986.
+O Secretário de Estado do Orçamento, Rui Carlos Alvarez Carp. - O Secretário de Estado da Segurança Social, José Nobre Pinto Sancho.
