@@ -1,0 +1,6 @@
+Portaria n.º 693/71
+de 13 de Dezembro
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do § único do artigo 7.º do Decreto-Lei n.º 23367, de 18 de Dezembro de 1933, conjugado com o artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, e artigo 3.º do aludido Decreto n.º 35770 e na alínea e), com a nova redacção dada pelo artigo 4.º do Decreto n.º 40712, de 1 de Agosto de 1956, abrir um crédito especial, da importância de 2000000$00, destinado a reforçar a verba do capítulo 10.º, artigo 302.º, n.º 4), alínea b), 1 «Encargos gerais - Deslocações de pessoal - Passagens de ou para o exterior - Por quaisquer outros motivos - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral em vigor da província de Timor, tomando como contrapartida igual importância a sair do excesso de cobrança sobre a previsão da receita do capítulo 3.º, artigo 18.º «Indústrias em regime tributário especial - Imposto de produção e consumo», da tabela da receita ordinária do mesmo orçamento geral.
+Pelo Ministro do Ultramar, Leão Maria Tavares Rosado do Sacramento Monteiro, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Timor. - Sacramento Monteiro.
