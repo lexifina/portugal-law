@@ -8,9 +8,9 @@ a) O casamento, sua dissolução, declaração de inexistência ou nulidade, anu
 
 b) O estabelecimento da filiação;
 
-c) A declaração de que o registado na ocasião do nascimento não beneficiou da posse de estado de filho relativamente a ambos os cônjuges;
+c) (Revogada.)
 
-d) A paternidade do marido da mãe, quando não afastada nos termos legais;
+d) (Revogada.)
 
 e) O casamento dos pais, entre si, posterior ao registo de nascimento do filho;
 
@@ -32,4 +32,4 @@ n) Em geral, todos os factos jurídicos que modifiquem os elementos de identific
 
 2 - A perfilhação dependente de assentimento só é averbada quando este for prestado.
 
-3 - Os factos referidos na alínea h) do n.º 1 são averbados aos assentos de nascimento dos pais e dos filhos.
+3 - Os factos referidos na alínea h) do n.º 1 são averbados aos assentos de nascimento dos filhos.
