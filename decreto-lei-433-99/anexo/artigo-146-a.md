@@ -8,4 +8,4 @@
 
 a) Recurso interposto pelo contribuinte;
 
-b) (Revogada).
+b) Pedido de autorização da administração tributária.
