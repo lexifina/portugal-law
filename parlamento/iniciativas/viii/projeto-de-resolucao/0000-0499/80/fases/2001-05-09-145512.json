@@ -1,0 +1,450 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Resolução",
+    "numero": "80",
+    "id": "5874",
+    "titulo": "Sobre a instalação de sistema de controlo de tráfego marítimo"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2001-05-09",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1872",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2001-05-09",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-05-09",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138521",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3127-3128"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-05-10",
+                "pubLeg": "VIII",
+                "pubNr": "79",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/079/2001-05-10/3127?pgs=3127-3128&org=PLC"
+              }
+            ],
+            "sumario": "Instalação de um sistema de controlo de tráfego marítimo",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1639",
+                "nome": "José Eduardo Martins"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138522",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3128-3128"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-05-10",
+                "pubLeg": "VIII",
+                "pubNr": "79",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/079/2001-05-10/3128?pgs=3128&org=PLC"
+              }
+            ],
+            "sumario": "Instalação de um sistema de controlo de tráfego marítimo",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "228",
+                "nome": "Manuel Queiró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138523",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3128-3129"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-05-10",
+                "pubLeg": "VIII",
+                "pubNr": "79",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/079/2001-05-10/3128?pgs=3128-3129&org=PLC"
+              }
+            ],
+            "sumario": "Instalação de um sistema de controlo de tráfego marítimo",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1184",
+                "nome": "Joaquim Matias"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138524",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3129-3129"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-05-10",
+                "pubLeg": "VIII",
+                "pubNr": "79",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/079/2001-05-10/3129?pgs=3129&org=PLC"
+              }
+            ],
+            "sumario": "Instalação de um sistema de controlo de tráfego marítimo",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1167",
+                "nome": "Natalina Tavares de Moura"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138525",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3129-3131"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-05-10",
+                "pubLeg": "VIII",
+                "pubNr": "79",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/079/2001-05-10/3129?pgs=3129-3131&org=PLC"
+              }
+            ],
+            "sumario": "Instalação de um sistema de controlo de tráfego marítimo",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  ADMINISTRAÇÃO MARÍTIMA  E  PORTUÁRIA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Junqueiro"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138526",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3131-3133"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-05-10",
+                "pubLeg": "VIII",
+                "pubNr": "79",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/079/2001-05-10/3131?pgs=3131-3133&org=PLC"
+              }
+            ],
+            "sumario": "Instalação de um sistema de controlo de tráfego marítimo",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "228",
+                "nome": "Manuel Queiró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138527",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3132-3132"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-05-10",
+                "pubLeg": "VIII",
+                "pubNr": "79",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/079/2001-05-10/3132?pgs=3132&org=PLC"
+              }
+            ],
+            "sumario": "Instalação de um sistema de controlo de tráfego marítimo",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "19:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138528",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3133-3133"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-05-10",
+                "pubLeg": "VIII",
+                "pubNr": "79",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/079/2001-05-10/3133?pgs=3133&org=PLC"
+              }
+            ],
+            "sumario": "Instalação de um sistema de controlo de tráfego marítimo",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "145512",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1872",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-05-10",
+        "pubLeg": "VIII",
+        "pubNr": "79",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/079/2001-05-10?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
