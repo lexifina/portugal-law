@@ -1,0 +1,8 @@
+Portaria n.º 513/2003
+de 1 de Julho
+Pela Portaria n.º 283/88, de 4 de Maio, foi homologado o protocolo que criou o CITEX - Centro de Formação Profissional da Indústria Têxtil, outorgado entre o Instituto do Emprego e Formação Profissional (IEFP), a Associação Nacional das Indústrias Têxteis, Algodoeiras e Fibras (ANITAF), a Associação Portuguesa das Indústrias de Malha (APIM) e a Associação Nacional das Indústrias de Vestuário e Confecção (ANIVEC).
+Aquela portaria foi posteriormente alterada pela Portaria n.º 612/2001, de 21 de Junho, alterando o protocolo no seu texto introdutório pela alteração das denominações sociais da Associação Nacional das Indústrias Têxteis, Algodoeiras e Fibras (ANITAF) e da Associação Portuguesa das Indústrias de Malha (APIM), passando a denominar-se, respectivamente, Associação Portuguesa de Têxteis e Vestuário (APT) e Associação Portuguesa das Indústrias de Malha e Confecção (APIM).
+Torna-se de novo necessário proceder à alteração daquela portaria, uma vez que a denominação social de alguns outorgantes foi entretanto alterada.
+Assim, no uso dos poderes conferidos pelos n.os 2 e 3 do artigo 10.º do Decreto-Lei n.º 165/85, de 16 de Maio:
+Manda o Governo, pelo Secretário de Estado do Trabalho, que na Portaria n.º 283/88, de 4 de Maio, com as alterações introduzidas pela Portaria n.º 612/2001, de 21 de Junho, onde se lê «Associação Nacional das Indústrias de Vestuário e Confecção (ANIVEC)» deve ler-se «Associação Nacional das Indústrias do Vestuário e Confecção (ANIVEC/APIV)».
+O Secretário de Estado do Trabalho, Luís Miguel Pais Antunes, em 8 de Maio de 2003.
