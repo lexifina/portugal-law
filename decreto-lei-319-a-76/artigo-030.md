@@ -1,13 +1,11 @@
 # Artigo 30.º
 
-### (Morte de candidato)
+### (Morte ou incapacidade)
 
-1. Em caso de morte de qualquer candidato será reaberto o processo eleitoral.
+1 - Em caso de morte de qualquer candidato ou de qualquer outro facto que o incapacite para o exercício da função presidencial será reaberto o processo eleitoral.
 
-2. A prova do óbito pode ser feita por qualquer cidadão eleitor e sê-lo-á obrigatoriamente pelo Ministério Público junto das secções cíveis do Supremo Tribunal de Justiça.
+2 - Verificado o óbito ou declarada a incapacidade, o presidente do Tribunal Constitucional dará publicidade ao facto, por declaração a inserir imediatamente na 1.ª série do Diário da República.
 
-3. Feita a prova do óbito, o presidente do Supremo Tribunal de Justiça dará imediatamente publicidade ao facto, por publicação na 1.ª série do Diário da República.
+3 - O Presidente da República marcará a data da eleição nas 48 horas seguintes ao recebimento da decisão do Tribunal Constitucional que verificou a morte ou a declaração de incapacidade do candidato.
 
-4. O Presidente da República marcará a data da eleição dentro de quarenta e oito horas, contadas da data da publicação referida no número anterior.
-
-5. Na repetição do acto de apresentação de candidaturas é facultada aos subscritores a dispensa de junção de certidões anteriormente apresentadas.
+4 - Na repetição do acto de apresentação de candidaturas é facultada aos subscritores a dispensa de junção de certidões anteriormente apresentadas.

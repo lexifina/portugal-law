@@ -6,6 +6,10 @@
 
 ### (Desistência de candidatura)
 
-1. Qualquer candidato pode desistir da candidatura até quarenta e oito horas antes do dia da eleição, mediante declaração por ele subscrita, com a assinatura reconhecida pelo notário.
+1 - Qualquer candidato pode desistir da candidatura até 48 horas antes do dia da eleição, mediante declaração escrita, com a assinatura reconhecida por notário, apresentada ao presidente do Tribunal Constitucional.
 
-2. A desistência deverá ser comunicada pelo candidato ou seu mandatário ao juiz-presidente do Supremo Tribunal de Justiça, o qual a deverá transmitir imediatamente aos governos civis, que lhe darão a máxima publicidade.
+2 - Verificada a regularidade da declaração de desistência, o presidente do Tribunal manda imediatamente afixar cópia à porta do edifício do Tribunal e notifica do facto a Comissão Nacional de Eleições e os governadores civis.
+
+3 - Após a realização do primeiro sufrágio, a eventual desistência de qualquer dos dois candidatos mais votados só pode ocorrer até às 18 horas do segundo dia posterior à primeira votação.
+
+4 - Em caso de desistência nos termos do número anterior são sucessivamente chamados os restantes candidatos, pela ordem de votação, para que, até às 12 horas do terceiro dia posterior à primeira votação, comuniquem a eventual desistência.

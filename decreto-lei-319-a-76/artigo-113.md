@@ -1,9 +1,9 @@
-## Secção IV
+## Secção V
 
-## Segunda votação
+## Segundo sufrágio
 
 # Artigo 113.º
 
-### (Segunda votação)
+### (Segundo sufrágio)
 
-No caso previsto no n.º 2 do artigo 10.º, observar-se-á o disposto nos artigos 51.º a 65.º, 70.º a 112.º e 114.º a 116.º
+Ao segundo sufrágio, além das disposições específicas, aplicam-se as disposições gerais da legislação que regula a eleição do Presidente da República, com as necessárias adaptações.
