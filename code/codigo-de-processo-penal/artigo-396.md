@@ -1,11 +1,21 @@
 # Artigo 396.º
 
-### (Audiência e condenação)
+### Notificação e oposição do arguido
 
-1 - O tribunal, se não proceder nos termos do artigo 394.º, n.º 3, manda notificar o arguido para comparecer, acompanhado de defensor, se o desejar, no dia, hora e local que indicará.
+1 - O juiz, se não rejeitar o requerimento nos termos do artigo anterior:
 
-2 - Na data fixada o tribunal dá conhecimento ao arguido do requerimento do Ministério Público, pergunta-lhe se aceita as sanções propostas, acrescidas da indemnização civil, de imposto de justiça e custas, e esclarece-o de que uma resposta negativa implica o reenvio do processo para outra forma processual.
+a) Nomeia defensor ao arguido que não tenha advogado constituído ou defensor nomeado; e
 
-3 - Se o arguido declarar que aceita as sanções propostas, o juiz manda escrever esta declaração, dá-a a assinar ao arguido e profere despacho de concordância com o requerimento do Ministério Público, ao qual acrescenta a condenação em imposto de justiça e custas, reduzidos a metade. É correspondentemente aplicável o disposto no artigo 389.º, n.º 7.
+b) Ordena a notificação ao arguido do requerimento do Ministério Público e, sendo caso disso, do despacho a que se refere o n.º 2 do artigo anterior, para, querendo, se opor no prazo de 15 dias.
 
-4 - O despacho referido no número anterior vale como sentença condenatória e transita imediatamente em julgado.
+2 - A notificação a que se refere o número anterior é feita por contacto pessoal, nos termos do artigo 113.º, n.º 1, alínea a), e deve conter obrigatoriamente:
+
+a) A informação do direito de o arguido se opor à sanção e da forma de o fazer;
+
+b) A indicação do prazo para a oposição e do seu termo final;
+
+c) O esclarecimento dos efeitos da oposição e da não oposição a que se refere o artigo seguinte.
+
+3 - O requerimento é igualmente notificado ao defensor.
+
+4 - A oposição pode ser deduzida por simples declaração.

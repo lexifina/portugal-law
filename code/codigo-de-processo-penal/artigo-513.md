@@ -1,6 +1,6 @@
 ## Livro XI
 
-## Da responsabilidade por imposto de justiça e por custas
+## Da responsabilidade por custas
 
 # Artigo 513.º
 
