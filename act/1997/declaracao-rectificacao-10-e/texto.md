@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 10-E/97
+Para os devidos efeitos se declara que o Decreto Regulamentar Regional n.º 11/97/M, publicado no Diário da República, 1.ª série, n.º 109, de 12 de Maio de 1997, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No capítulo IV, artigo 21.º, onde se lê «A transição do pessoal da DRTT para o quadro anexo ao presente diploma far-se-á» deve ler-se «A transição do pessoal da DRTT para o quadro a aprovar nos termos do n.º 2 do artigo 17.º o do presente diploma far-se-á» e no artigo 22.º, onde se lê «correspondam no mapa anexo ao presente diploma.» deve ler-se «correspondam no quadro a aprovar nos termos do n.º 2 do artigo 17.º o do presente diploma.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 28 de Maio de 1997. - O Secretário-Geral, Alexandre Figueiredo.
