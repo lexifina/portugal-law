@@ -1,0 +1,9 @@
+Despacho Normativo n.º 232/81
+Considerando que a actual capacidade de formação das escolas de hotelaria e turismo, dependentes do Instituto Nacional de Formação Turística, é reconhecidamente insuficiente em relação às necessidades de trabalhadores qualificados nas diferentes áreas de hotelaria;
+Considerando, por outro lado, que as secções móveis (brigadas itinerantes de aperfeiçoamento profissional) da Divisão de Assistência Técnica e Formação na Empresa daquele Instituto não se encontram também suficientemente equipadas para poder responder a todos os pedidos de assistência que lhes são formulados;
+Tendo, finalmente, em atenção que um e outro problemas, pela componente de estruturas e recursos humanos e financeiros que envolvem, não são passíveis de resolução a curto prazo, determina-se:
+1 - A Secretaria de Estado do Turismo poderá prestar apoio técnico e financeiro às empresas hoteleiras que, pela sua dimensão, diversificação de unidades de exploração e postos de trabalho efectivos e a criar, pretendam organizar núcleos internos de formação profissional contínua.
+2 - Caberá ao Instituto Nacional de Formação Turística proceder à análise e selecção dos pedidos, informando directamente da sua justificação técnica e dos meios de assistência pedagógico-formativa de que possa dispor em apoio a esses pedidos.
+3 - Havendo, cumulativamente, pedido de assistência financeira, transitará o processo, nessa parte, ao Fundo de Turismo, instruído desde logo com o parecer do Instituto sobre a justificação dos encargos que o fundamentam.
+4 - Organizados os processos nos termos dos n.os 2 ou 3 do presente despacho, conforme se verifique ou não cumulação de pedido de assistência técnica e financeira, serão os mesmos submetidos ao Secretário de Estado do Turismo, a quem cabe final decisão sobre as modalidades de apoio a prestar.
+Secretaria de Estado do Turismo, 24 de Agosto de 1981. - O Secretário de Estado do Turismo, Alcino Cardoso.
