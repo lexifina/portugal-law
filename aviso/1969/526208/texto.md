@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, por nota de 17 de Fevereiro de 1969, a Embaixada de Portugal na Haia comunicou ao Ministério dos Negócios Estrangeiros dos Países Baixos que o Governo Português designou o procurador-geral da República e os procuradores da República junto das relações como as entidades competentes para emitir a apostila prevista no artigo 3.º da Convenção Relativa à Supressão da Exigência da Legalização dos Actos Públicos Estrangeiros, concluída na Haia em 5 de Outubro de 1961.
+Secretaria-Geral do Ministério, 24 de Março de 1969. - O Secretário-Geral, José Luís Archer.
