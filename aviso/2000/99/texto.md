@@ -1,0 +1,22 @@
+Aviso n.º 99/2000
+Por ordem superior se torna público que, por nota de 30 de Novembro de 1999 e nos termos do artigo 31.º da Convenção Relativa à Citação e à Notificação no Estrangeiro dos Actos Judiciais e Extrajudiciais em Matéria Civil ou Comercial, concluída na Haia, em 15 de Novembro de 1965, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos informou ter o Governo Português, relativamente à extensão da Convenção a Macau em 11 de Fevereiro de 1999, comunicado o seguinte, em 7 de Outubro de 1999:
+«1 - In accordance with article 18 of the Convention, the Ministério Público de Macau is designated as the competent authority in Macau to receive requests for service coming from other contracting States and to proceed in conformity with provisions of articles 3 to 6.
+The address of the Ministério Público is as follows:
+Ministério Público de Macau, Praceta de 25 de Abril, Macau (phone: 326736; fax: 326747).
+2 - Court clerks (escrivães de direito) and deputy court clerks (escrivães-adjuntos) from the Supreme Court of Justice (Tribunal Superior de Justiça) of Macau are entitled to complete in Macau the certificate provided for in articles 6 and 9 of the Convention.
+3 - In accordance with the provisions of the second paragraph of article 8 of the Convention, Portugal reiterates that it recognises to the diplomatic or consular agents the right to forward documents, for the purpose of service, exclusively to the nationals of the State in which the documents originate.
+4 - The Ministério Público de Macau is also designated as the competent authority in Macau to receive documents forwarded through consular channels, in accordance with article 9 of the Convention.
+5 - Portugal declares that the judges of the courts of Macau, notwithstanding the provisions of the first paragraph of article 15 of the Convention, may give judgement on whether the conditions referred to in second of the same article are fulfilled.
+6 - In accordance with the third paragraph of article 16 of the Convention, Portugal declares that the applications referred to in the second paragraph of article 16 will not be entertained if they are filed after the expiration of one year following the date of the judgement.»
+Tradução
+«1 - Nos termos do artigo 18.º da Convenção, o Ministério Público de Macau é designado como autoridade competente em Macau para receber pedidos de notificação provenientes de outros Estados Contratantes e para proceder em conformidade com as disposições dos artigos 3.º e 6.º
+O endereço do Ministério Público de Macau é o seguinte:
+Ministério Público de Macau, Praceta de 25 de Abril, Macau (telefone: 326736; fax: 326747).
+2 - Os escrivães de direito e escrivães-adjuntos do Supremo Tribunal de Justiça de Macau têm competência para emitir em Macau o certificado previsto nos artigos 6.º e 9.º da Convenção.
+3 - Nos termos das disposições do segundo parágrafo do artigo 8.º da Convenção, Portugal reitera que reconhece aos agentes diplomáticos ou consulares o direito de enviar documentos, para efeitos de notificação, exclusivamente aos nacionais do Estado de origem.
+4 - O Ministério Público de Macau é também designado como autoridade competente em Macau para receber documentos enviados através dos canais consulares, nos termos do artigo 9.º da Convenção.
+5 - Portugal declara que os juízes dos tribunais de Macau, não obstante as disposições do primeiro parágrafo do artigo 15.º da Convenção, podem proferir decisões sempre que as condições referidas no segundo parágrafo do mesmo artigo se encontrem satisfeitas.
+6 - Nos termos do terceiro parágrafo do artigo 16.º da Convenção, Portugal declara que o pedido referido no segundo parágrafo do artigo 16.º não será recebido se for apresentado após o termo do prazo de um ano a contar da data da decisão.»
+A Convenção entrou em vigor para Macau em 12 de Abril de 1999, nos termos do parágrafo 3.º do artigo 29.º
+A Convenção foi aprovada, para ratificação, por Portugal pelo Decreto-Lei n.º 210/71, de 18 de Maio, tendo sido depositado o instrumento de ratificação em 27 de Dezembro de 1973, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 20, de 24 de Janeiro de 1974. A autoridade central em Portugal foi designada conforme aviso publicado no Diário do Governo, 1.ª série, n.º 10, de 13 de Janeiro de 1975.
+Departamento de Assuntos Jurídicos, 14 de Janeiro de 2000. - O Director, José Maria Teixeira Leite Martins.
