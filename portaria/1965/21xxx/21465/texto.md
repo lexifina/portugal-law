@@ -1,0 +1,16 @@
+Portaria n.º 21465
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças, nos termos do disposto no § único do artigo 4.º da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965:
+1.º Conceder a importação, sob regime de draubaque, de chumbo para fabricação de carbonato de chumbo destinado a exportação.
+2.º Estabelecer as seguintes bases para aplicação do citado regime:
+a) No acto da exportação deverá ser apresentado boletim de análise, passado por um laboratório oficial, do qual conste o teor de chumbo existente no carbonato de chumbo, que ficará junto ao bilhete de despacho respectivo;
+b) O interessado ficará obrigado a declarar nos despaches de exportação o peso real e o valor da matéria-prima, declarados na altura de importação, com a indicação do número de ordem do respectivo despacho, para efeitos de restituição de direitos;
+c) As alfândegas extrairão amostras dos produtos a exportar e, para confirmação dos resultados constantes dos boletins apresentados, procederão às análises julgadas Convenientes;
+d) Restituir-se-ão os direitos correspondentes ao chumbo importado ao abrigo do regime de draubaque existente nos produtos exportados;
+e) Para cálculo dos direitos de importação a restituir aplicar-se-á a seguinte fórmula:
+I = (T x Q x R x V(índice i))/100
+I = Importância a restituir;
+T = Taxa que tributa na importação a matéria-prima;
+Q = Quantidade em quilogramas do carbonato de chumbo exportado;
+R = Quantidade do chumbo existente em 100 kg do carbonato de chumbo exportado, dado por boletim de análise;
+V(índice i) = Valor unitário por quilograma do chumbo declarado na importação.
+Ministério das Finanças, 13 de Agosto de 1965. - O Ministro das Finanças, Ulisses Cruz de Aguiar Cortês.
