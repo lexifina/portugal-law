@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1924/05/10300/06350635.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1924-05-10",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "a7ef59cf59b9694a788b30ef0a479b31b7f2449fa8a01940d9b768331bdedf84",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.5,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "a5de0803502d8f11e1ccf18836060e5339581f5239987e4162ca53c5b54a7a5a",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 226
 }
