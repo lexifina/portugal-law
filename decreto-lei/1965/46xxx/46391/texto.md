@@ -1,0 +1,8 @@
+Decreto-Lei n.º 46391
+Considerando que, em consequência do notável aumento da população escolar do Instituto Técnico Militar dos Pupilos do Exército, urge actualizar o quadro orgânico desse estabelecimento militar de ensino, aprovado pelo Decreto-Lei n.º 42632, de 4 de Novembro de 1959;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º O quadro orgânico do Instituto Técnico Militar dos Pupilos do Exército, publicado em anexo ao Decreto-Lei n.º 42632, de 4 de Novembro de 1959, é aumentado do seguinte pessoal contratado, destinado à direcção, secretaria e conselho administrativo:
+(ver documento original)
+Art. 2.º O acréscimo de despesa resultante da publicação do presente decreto-lei é suportado no ano económico em curso pelas disponibilidades das verbas do pessoal dos quadros aprovados por lei consignadas no orçamento do Ministério do Exército ao Instituto Técnico Militar dos Pupilos do Exército.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 14 de Junho de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
