@@ -1,0 +1,51 @@
+# Acórdão do Tribunal da Relação de Lisboa de 2000-10-12, processo 0080546
+
+**Acórdãos TRL:** Acórdão do Tribunal da Relação de Lisboa
+
+**Processo:** 0080546
+
+**Nº Convencional:** JTRL00028723
+
+**Relator:** FERNANDA ISABEL PEREIRA
+
+**Descritores:** DIREITO DE HABITAÇÃO PERIÓDICA; CONTRATO-PROMESSA; FORMA; REGIME; ASSINATURA; RECONHECIMENTO NOTARIAL
+
+**Nº do Documento:** RL200010120080546
+
+**Data do Acordão:** 10/12/2000
+
+**Votação:** UNANIMIDADE
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** APELAÇÃO.
+
+**Decisão:** CONFIRMADA A SENTENÇA.
+
+**Área Temática:** DIR CIV - DIR CONTRAT.
+
+**Legislação Nacional:** CCIV66 ART410 N3. DL 130/89 DE 1989/04/18 ART30 ART31 ART32. DL 275/93 DE 1993/08/05 ART17 ART20.
+
+**Jurisprudência Nacional:** AC RL DE 1997/04/24 IN CJ ANO1997 T2 PAG120. AC RC DE 1997/05/06 IN CJ ANO 1997 T3 PAG13.
+
+## Sumário
+
+Muito embora o artigo 410 do Código Civil fixe o regime geral do contrato-promessa, os elementos essenciais que o contrato-promessa de compra e venda de direito real de habitação periódica deve conter obrigatoriamente acham-se consagrados nomeadamente nos artigos 30º, 31º e 32º do citado DL nº 130/89. E de tais normativos não resulta a exigência do reconhecimento presencial da assinatura dos promitentes, tal como não resulta dos artigos 17º a 20º do DL nº275/93 vigente.
+
+E essa mesma exigência não decorre, igualmente do regime geral estabelecido nos nºs 1 e 2 do artigo 410º do Código Civil, que apenas impõe que o contrato-promessa conste de documento escrito assinado pelo promitente ou promitentes, consoante seja unilateral ou bilateral, quando a lei exija documento, quer autêntico, quer particular, para o contrato prometido.
+
+A imposição do reconhecimento presencial das assinaturas dos promitentes introduzida com o aditamento de um nº3 ao aludido artigo 410 pelo DL nº 236/80, de 18 de Junho, foi ditada pelas circunstâncias que se viviam no domínio do mercado de aquisição de habitação própria, como dá conta o próprio legislador no preâmbulo desse diploma.
+
+A "ratio" desse aditamento em 1980 com a exigência do reconhecimento presencial da assinatura dos promitentes e da certificação pelo notário da existência de licença de utilização ou construção afasta a sua aplicação aos contratos-promessa de aquisição do direito real de habitação periódica instituído em 1993.
+
+Por outro lado, não se exigindo para o contrato de compra e venda do direito real de habitação periódica (contrato definitivo) o reconhecimento presencial da assinatura do comprador - endossado -, mas tão só a do vendedor - endossante - não se compreenderia maior solenidade para o contrato-promessa com a imposição do reconhecimento presencial da assinatura do promitente adquirente.
+
+Aliás, tendo o legislador optado por consagrar no diploma que rege o direito real de habitação periódica os elementos essenciais que devem figurar obrigatoriamente do respectivo contrato-promessa de compra e venda e do contrato definitivo, teria, seguramente, feito referência em tal diploma à exigência formal em questão (reconhecimento presencial das assinaturas dos promitentes), tanto mais que era conhecedor dessa exigência instituída desde 1980 no nº3 do artigo 410º do Código Civil.
+
+Afigura-se que o legislador optou por outros mecanismos para assegurar o equilíbrio entre os contraentes, como é o caso da possibilidade de o promitente-comprador resolver o contrato por carta registada com aviso de recepção nos sete dias seguintes à sua assinatura (nº4 do artigo 30º do DL 130/89).
+
+Assim, não obstante alguma jurisprudência em sentido contrário entende-se que o direito real de habitação periódica não cai na previsão do artigo 410º nº3 do Código Civil.
+
+Não sendo exigível em tal contrato o reconhecimento presencial da assinatura do promitente-comprador, a inobservância dessa formalidade não constitui violação geradora da sua nulidade por aplicação do disposto no artigo 220º do citado compêndio substantivo.
