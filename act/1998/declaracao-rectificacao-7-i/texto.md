@@ -1,0 +1,14 @@
+Declaração de Rectificação n.º 7-I/98
+Segundo comunicação do Ministério do Trabalho e da Solidariedade, a Portaria n.º 1185/97, publicada no Diário da República, 1.ª série, n.º 269, de 20 de Novembro de 1997, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No n.º 3 do artigo 4.º, onde se lê «3 - [...] parecer favorável dos IAN/TT,» deve ler-se «3 - [...] parecer favorável do IAN/TT,».
+No anexo I - Tabela de selecção, refs. n.os 10 a 13, na coluna correspondente à «Área orgânico-funcional», onde se lê «Auditoria jurídica e de contencioso.» deve ler-se «Auditoria».
+Nas refs. n.os 14 a 18, na coluna correspondente à «Área orgânico-funcional», deve inscrever-se «Jurídica e de contencioso».
+Na ref. 23.3, «Área orgânico-funcional - Certificação: Classificações profissionais», deve inscrever-se «x» na coluna correspondente ao «Destino final: Conservação permanente», mantendo-se a observação (4).
+Na ref. 26.1, «Área orgânico-funcional - Certificação: Processo de equivalência de qualificações profissionais adquiridas em países comunitários ou outros.», deve retirar-se «x» da coluna correspondente ao «Destino final: Eliminação» e inscrever-se «x» na coluna correspondente ao «Destino final: Conservação permanente».
+Na ref. 75.3, «Área orgânico-funcional - Emprego/programas de inserção: Colecções de documentos relativos ao desenvolvimento das acções.», deve retirar-se «x» da coluna correspondente ao «Destino final: Conservação permanente» e inscrever-se «x» na coluna correspondente ao «Destino final: Eliminação».
+Na ref. 76, «Área orgânico-funcional - Emprego/programas de inserção» onde se lê «Acordos de cooperação no âmbito da inservação:» deve ler-se «Acordos de cooperação no âmbito da inserção:».
+Na ref. 85.1, «Área orgânico-funcional - Formação profissional/desenvolvimento curricular e recursos formativos.», onde se lê «Dossiers técnico-pedagógico relativos ao Sistema de Formação Profissional Acelerada (FPA).» deve ler-se «Dossiers técnico-pedagógicos relativos ao Sistema de Formação Profissional Acelerada (FPA).».
+Na ref. 134, «Área orgânico-funcional - Recursos humanos/formação interna», onde se lê «Processos relativos à execução da medida n.º 3 do Programa Operacional 2 (PO2).» deve ler-se «Processos relativos à execução da Medida 3 do Programa Operacional 2 (PO2).».
+Nas refs. 135.1 e 135.2 deve retirar-se «x» colocada na coluna correspondente aos SC (serviços centrais) entre as refs. 135.1 e 135.2, pois não pertence a nenhuma série.
+Na ref. 137, «Área orgânico-funcional - Recursos humanos/pessoal: Balanço social», deve retirar-se «x» da coluna correspondente ao «Destino final: Eliminação» e inscrever-se «x» na coluna correspondente ao «Destino final: Conservação permanente».
+Secretaria-Geral da Presidência do Conselho de Ministros, 20 de Março de 1998. - O Secretário-Geral, Alexandre Figueiredo.
