@@ -1,0 +1,11 @@
+Portaria n.º 603/88
+de 1 de Setembro
+A especificidade e natureza das funções cometidas ao Instituto Nacional de Garantia Agrícola - INGA levam a que os titulares dos cargos de chefe de divisão devam ter uma adequada experiência profissional, elevada competência e grande sentido de responsabilidade.
+Atendendo a que nem sempre é possível prover os cargos de chefe de divisão do INGA de entre técnicos superiores principais, porque os existentes actualmente no INGA não têm experiência nas áreas referidas e são imprescindíveis nas funções que já desempenham, e considerando que o provimento de tais cargos passa por um conhecimento profundo das normas comunitárias, da aplicação dos fluxos financeiros, do apuramento dos resultados e apresentação de contas às entidades comunitárias, e tais características exigem um conhecimento e prática em que a experiência demonstrou ser dispensável uma licenciatura, os quais são indispensáveis para assegurar a eficácia e a resposta na execução das normas para evitar graves inconvenientes no relacionamento do INGA com a CEE, com os agentes económicos e com outros organismos:
+Manda o Governo, pelo Ministro das Finanças, ao abrigo do disposto no n.º 4 do artigo 2.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, o seguinte:
+1.º É alargada a área de recrutamento para o primeiro provimento dos cargos de chefe de divisão de Apoio Técnico, Análise Financeira e de Contabilidade, do quadro de pessoal do INGA, anexo ao Decreto Regulamentar n.º 58/87, de 18 de Agosto, a categorias não inferiores a, respectivamente, técnicos superiores de 1.ª classe, técnicos principais e técnicos de 1.ª classe, sempre que os nomeados se mostrem possuidores de experiência ou adequada formação profissional na área da legislação comunitária e na aplicação de sistemas de análise financeira e contabilidade, independentemente de possuírem ou não uma licenciatura.
+2.º O despacho de nomeação será acompanhado, para publicação, dos currículos dos nomeados.
+3.º A presente portaria produz efeitos desde o dia seguinte ao da sua publicação.
+Ministério das Finanças.
+Assinada em 18 de Agosto de 1988.
+Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento.
