@@ -1,0 +1,4 @@
+Aviso n.º 285/98
+Por ordem superior se torna público que a Grécia depositou, em 18 de Junho de 1998, os instrumentos de assinatura e ratificação do Protocolo Adicional à Carta Social Europeia Prevendo Um Sistema de Reclamações Colectivas, aberta para assinatura, em Estrasburgo, em 9 de Novembro de 1995.
+Portugal é Parte neste Protocolo, que foi aprovado para ratificação pela Resolução da Assembleia da República n.º 67/97, publicada no Diário da República, 1.ª série-A, n.º 282, de 6 de Dezembro de 1997, tendo depositado o seu instrumento de ratificação no mesmo dia, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 282, de 6 de Dezembro de 1997.
+Direcção-Geral dos Assuntos Multilaterais, 27 de Novembro de 1998. - O Director de Serviços das Organizações Políticas Internacionais, João José Gomes Caetano da Silva.
