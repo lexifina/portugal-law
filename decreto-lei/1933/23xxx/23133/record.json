@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1933/10/23300/17451746.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1933-10-13",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "6a7f1a4a352a56ca56ce0f5f90361d097a3487cd90d23e2f416188593c2e8386",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.3,
+    "pages": 2,
+    "columns": [
+      3,
+      4
+    ],
+    "pdf_sha256": "fd43d352c7de51d8326c8c8268131a1fa1c00c3eb203e486108ab9c1c111b624",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 599
 }
