@@ -1,7 +1,3 @@
-## Capítulo IV
-
-## Dos examinadores de condução automóvel
-
 ## Capítulo V
 
 ## Dos exames de condução
