@@ -1,0 +1,4 @@
+Aviso n.º 28/91
+Por ordem superior se faz público que, segundo comunicação do Conselho de Cooperação Aduaneira, os Governos da Hungria, Chade, Brukina-Faso e Bulgária depositaram, respectivamente em 27 de Agosto, 5 de Setembro, 25 de Setembro e 30 de Outubro de 1990, os instrumentos de ratificação ou adesão à Convenção Internacional sobre o Sistema Harmonizado de Designação e de Codificação de Mercadorias, com as alterações introduzidas pelo Protocolo Adicional à referida Convenção.
+A Convenção entrará em vigor para a Hungria a 1 de Janeiro de 1991 e em 1 de Janeiro de 1992 para o Chade, Brukina-Faso e a Bulgária, a menos que estes dois últimos países indiquem uma data anterior.
+Direcção-Geral dos Negócios Político-Económicos, 31 de Fevereiro de 1991. - O Director de Serviços dos Assuntos Multilaterais, António Santana Carlos.
