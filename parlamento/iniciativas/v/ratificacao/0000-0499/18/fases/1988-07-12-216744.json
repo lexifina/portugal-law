@@ -1,0 +1,722 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Ratificação",
+    "numero": "18",
+    "id": "28321",
+    "titulo": "Decreto-lei nº 91/88, 12 de Março, que cria o Gabinete de Saneamento Básico da Costa do Estoril"
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "1988-07-12",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "4102",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "1988-07-12",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": [
+      {
+        "dataEntrada": null,
+        "descTipo": "Ratificação",
+        "id": "28320",
+        "leg": "V",
+        "nr": "16",
+        "sel": "1",
+        "tipo": "F",
+        "titulo": "Decreto-lei nº 91/88, 12 de Março, que cria o Gabinete de Saneamento Básico da Costa do Estoril"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1988-07-12",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214144",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4627-4629",
+                  "4629-4630"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-13",
+                "pubLeg": "V",
+                "pubNr": "115",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/115/1988-07-13/4627?pgs=4627-4629,4629-4630&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 91/88, 12 de Março, que cria o Gabinete de Saneamento Básico da Costa do Estoril.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214145",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4629-4629"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-13",
+                "pubLeg": "V",
+                "pubNr": "115",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/115/1988-07-13/4629?pgs=4629&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 91/88, 12 de Março, que cria o Gabinete de Saneamento Básico da Costa do Estoril.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214146",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4630-4630",
+                  "4630-4631"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-13",
+                "pubLeg": "V",
+                "pubNr": "115",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/115/1988-07-13/4630?pgs=4630,4630-4631&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 91/88, 12 de Março, que cria o Gabinete de Saneamento Básico da Costa do Estoril.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214147",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4630-4630"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-13",
+                "pubLeg": "V",
+                "pubNr": "115",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/115/1988-07-13/4630?pgs=4630&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 91/88, 12 de Março, que cria o Gabinete de Saneamento Básico da Costa do Estoril.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214148",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4631-4631"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-13",
+                "pubLeg": "V",
+                "pubNr": "115",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/115/1988-07-13/4631?pgs=4631&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 91/88, 12 de Março, que cria o Gabinete de Saneamento Básico da Costa do Estoril.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214149",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4632-4632"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-13",
+                "pubLeg": "V",
+                "pubNr": "115",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/115/1988-07-13/4632?pgs=4632&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 91/88, 12 de Março, que cria o Gabinete de Saneamento Básico da Costa do Estoril.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214150",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4632-4632"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-13",
+                "pubLeg": "V",
+                "pubNr": "115",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/115/1988-07-13/4632?pgs=4632&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 91/88, 12 de Março, que cria o Gabinete de Saneamento Básico da Costa do Estoril.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214151",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4633-4633"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-13",
+                "pubLeg": "V",
+                "pubNr": "115",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/115/1988-07-13/4633?pgs=4633&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 91/88, 12 de Março, que cria o Gabinete de Saneamento Básico da Costa do Estoril.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214152",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4633-4633"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-13",
+                "pubLeg": "V",
+                "pubNr": "115",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/115/1988-07-13/4633?pgs=4633&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 91/88, 12 de Março, que cria o Gabinete de Saneamento Básico da Costa do Estoril.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DOS ASSUNTOS PARLAMENTARES",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "António Capucho"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214153",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4633-4634"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-13",
+                "pubLeg": "V",
+                "pubNr": "115",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/115/1988-07-13/4633?pgs=4633-4634&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 91/88, 12 de Março, que cria o Gabinete de Saneamento Básico da Costa do Estoril.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  AMBIENTE E RECURSOS  NATURAIS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Macário Correia"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214154",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4634-4635"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-13",
+                "pubLeg": "V",
+                "pubNr": "115",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/115/1988-07-13/4634?pgs=4634-4635&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 91/88, 12 de Março, que cria o Gabinete de Saneamento Básico da Costa do Estoril.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214155",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4635-4636"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-13",
+                "pubLeg": "V",
+                "pubNr": "115",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/115/1988-07-13/4635?pgs=4635-4636&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 91/88, 12 de Março, que cria o Gabinete de Saneamento Básico da Costa do Estoril.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214156",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4636-4636"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-13",
+                "pubLeg": "V",
+                "pubNr": "115",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/115/1988-07-13/4636?pgs=4636&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 91/88, 12 de Março, que cria o Gabinete de Saneamento Básico da Costa do Estoril.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214157",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4636-4637"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-13",
+                "pubLeg": "V",
+                "pubNr": "115",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/115/1988-07-13/4636?pgs=4636-4637&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 91/88, 12 de Março, que cria o Gabinete de Saneamento Básico da Costa do Estoril.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "214158",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4637-4637"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-07-13",
+                "pubLeg": "V",
+                "pubNr": "115",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/115/1988-07-13/4637?pgs=4637&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 91/88, 12 de Março, que cria o Gabinete de Saneamento Básico da Costa do Estoril.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "216744",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "333914",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-07-13",
+        "pubLeg": "V",
+        "pubNr": "115",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/115/1988-07-13?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
