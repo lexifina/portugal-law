@@ -1,0 +1,8 @@
+Portaria n.º 23612
+Aproxima-se um período de fim de férias que abrange os últimos dias do mês de Setembro e os primeiros de Outubro e em que se prevê acentuado aumento de tráfego nas estradas do continente, como tem acontecido em períodos idênticos nos anos anteriores.
+Esta circunstância leva a considerar oportuna a realização, nesse período, de mais uma campanha de limitação temporária de velocidade para os veículos que circulem naquelas vias de comunicação, medida que se espera que contribua para melhorar a segurança geral e, em particular, para a diminuição do número e gravidade dos acidentes rodoviários;
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Ministro das Comunicações, ao abrigo do disposto no n.º 6 do artigo 7.º do Código da Estrada, que desde as 0 horas do dia 27 de Setembro às 24 horas do dia 1 de Outubro e das 0 horas do dia 4 de Outubro às 24 horas do dia 7 de Outubro próximos seja fixada para os motociclos simples e automóveis ligeiros sem reboque a velocidade máxima instantânea de 90 km/hora, fora das localidades e em todas as estradas do continente, com a excepção das auto-estradas, em que a velocidade se fixa em 120 km/hora.
+Os restantes veículos automóveis ficam sujeitos, no mesmo período, ao limite de velocidade máxima instantânea de 60 km/hora, excepto nas auto-estradas, em que se mantêm os valores fixados na lei.
+Todos estes limites são estabelecidos sem prejuízo de outros que lhes sejam inferiores, devidamente sinalizados ou genèricamente impostos pelo Código da Estrada.
+Ministério das Comunicações, 18 de Setembro de 1968. - O Ministro das Comunicações, José Estêvão Abranches Couceiro do Canto Moniz.
