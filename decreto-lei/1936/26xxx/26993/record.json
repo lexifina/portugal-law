@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1936/09/21200/10831084.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1936-09-09",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "f8870b9638b3ddd84aca16670faeeae224598afcc25a7cf61d31196be7c528fa",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 96.7,
+    "pages": 2,
+    "columns": [
+      3,
+      9
+    ],
+    "pdf_sha256": "bfa882c4fa15856c2e66521a4e3d7e1e596874f1b829b9d9f738a432c24f568b",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 384
 }
