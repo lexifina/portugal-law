@@ -1,0 +1,3 @@
+Despacho Normativo n.º 71/92
+Ao abrigo da competência que me foi delegada pelo Despacho n.º 5/92, de 19 de Março, e nos termos e para os efeitos do artigo 72.º da Lei n.º 1/76, de 17 de Fevereiro, com a nova redacção que lhe foi dada pela Lei n.º 13/90, de 10 de Maio, e do artigo 5.º da Lei n.º 6/83, de 29 de Julho, determino a publicação no Boletim Oficial de Macau dos Decretos n.os 20/88, de 30 de Agosto, e 23/88, de 1 de Setembro, que, respectivamente, aprovam, para ratificação, o Protocolo de Montreal sobre as Substâncias Que Empobrecem a Camada de Ozono e, para adesão, a Convenção de Viena para a Protecção da Camada de Ozono.
+Presidência do Conselho de Ministros, 23 de Abril de 1992. - O Ministro-Adjunto, Luís Manuel Gonçalves Marques Mendes.
