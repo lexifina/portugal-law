@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se faz público que, segundo uma nota da Organização das Nações Unidas, o Governo de Malta notificou o Secretário-Geral daquela Organização de que se considera vinculado pela Convenção sobre as facilidades aduaneiras a favor do turismo e pela Convenção aduaneira sobre importação temporária de veículos rodoviários particulares, concluídas em Nova Iorque em 4 de Junho de 1954.
+O Governo de Malta informou também o Secretário-Geral da Organização das Nações Unidas no sentido de que não mantém as reservas formuladas em seu nome às referidas Convenções pelo Governo do Reino Unido da Grã-Bretanha e da Irlanda do Norte quando estendeu a aplicação daqueles actos internacionais a Malta.
+Direcção-Geral dos Negócios Económicos e Consulares, 12 de Maio de 1966. - O Director-Geral, José Calvet de Magalhães.
