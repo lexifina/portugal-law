@@ -1,0 +1,3562 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "117",
+    "id": "29202",
+    "titulo": "Orçamento do Estado para 1990"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1989-11-20",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "16173",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1989-11-20",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "29203",
+        "leg": "V",
+        "nr": "118",
+        "sel": "3",
+        "tipo": "P",
+        "titulo": "Grandes Opções do Plano para 1990"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1989-11-20",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292608",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "505-506"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/505?pgs=505-506&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292609",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "506-506"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/506?pgs=506&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292610",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "506-506"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/506?pgs=506&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292620",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "511-511"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/511?pgs=511&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANÇAS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Miguel Cadilhe"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292611",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "506-511"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/506?pgs=506-511&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292621",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "511-511"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/511?pgs=511&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292622",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "512-512"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/512?pgs=512&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292638",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "512-512"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/512?pgs=512&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292644",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "512-513"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/512?pgs=512-513&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292645",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "513-513"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/513?pgs=513&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292760",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "513-514"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/513?pgs=513-514&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292761",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "514-514"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/514?pgs=514&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292837",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "514-514"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/514?pgs=514&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292838",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "515-515"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/515?pgs=515&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292839",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "515-515"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/515?pgs=515&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANÇAS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Miguel Cadilhe"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292840",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "515-519"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/515?pgs=515-519&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "VICE-PRIMEIRO-MINISTRO  E  MINISTRO DA  DEFESA  NACIONAL",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Eurico de Melo"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292841",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "519-519"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/519?pgs=519&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292842",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "519-519"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/519?pgs=519&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292843",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "519-520"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/519?pgs=519-520&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292844",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "520-520"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/520?pgs=520&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292845",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "520-520"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/520?pgs=520&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANÇAS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Miguel Cadilhe"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292846",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "521-521"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/521?pgs=521&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292847",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "521-521"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/521?pgs=521&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292848",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "521-522"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/521?pgs=521-522&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292849",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "522-524"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/522?pgs=522-524&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292850",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "524-525"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/524?pgs=524-525&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292851",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "526-526"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/526?pgs=526&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292852",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "526-526"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/526?pgs=526&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292853",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "526-527"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/526?pgs=526-527&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "292854",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "527-530"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/527?pgs=527-530&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "302838",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "530-531"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/530?pgs=530-531&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "302839",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "531-531"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/531?pgs=531&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "302840",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "531-532"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/531?pgs=531-532&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  TESOURO.",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Carlos Tavares"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "302841",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "532-533"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/532?pgs=532-533&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "302842",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "533-534"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/533?pgs=533-534&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "302843",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "534-535"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/534?pgs=534-535&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "302844",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "535-535"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/535?pgs=535&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "302847",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "535-535"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/535?pgs=535&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "302848",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "535-535"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/535?pgs=535&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "302849",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "536-536"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/536?pgs=536&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "302850",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "536-537"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/536?pgs=536-537&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "302851",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "537-537"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/537?pgs=537&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "302856",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "537-538"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/537?pgs=537-538&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "302861",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "538-538"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/538?pgs=538&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "302864",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "539-539"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/539?pgs=539&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "302867",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "539-539"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/539?pgs=539&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "302869",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "539-540"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/539?pgs=539-540&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "302873",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "540-540"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/540?pgs=540&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "302876",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "540-541"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/540?pgs=540-541&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "302878",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "541-541"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/541?pgs=541&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "302880",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "541-541"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/541?pgs=541&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "302881",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "541-541"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/541?pgs=541&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "302882",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "541-542"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/541?pgs=541-542&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312845",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "542-545"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/542?pgs=542-545&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312846",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "545-545"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/545?pgs=545&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312847",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "546-546"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/546?pgs=546&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS FISCAIS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Oliveira Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312848",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "546-547"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/546?pgs=546-547&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312849",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "547-547"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/547?pgs=547&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DO PLANEAMENTO E ADMINISTRAÇÃO DO TERRITÓRIO",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Luis Valente De Oliveira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312850",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "547-550"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/547?pgs=547-550&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312853",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "551-551"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/551?pgs=551&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312857",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "551-552"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/551?pgs=551-552&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312862",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "552-552"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/552?pgs=552&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312864",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "552-552"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/552?pgs=552&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN. DO PLANEAMENTO E ADMINISTRAÇÃO DO TERRITÓRIO",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Luis Valente De Oliveira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312867",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "553-554"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/553?pgs=553-554&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312868",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "554-556"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/554?pgs=554-556&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312869",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "556-556"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/556?pgs=556&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312870",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "556-557"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/556?pgs=556-557&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312871",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "557-557",
+                  "559-559"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/557?pgs=557,559&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312872",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "557-559",
+                  "559-559"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/557?pgs=557-559,559&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312873",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "561-562"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/561?pgs=561-562&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312874",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "560-560"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/560?pgs=560&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "312875",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "561-561"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/561?pgs=561&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "313016",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "561-562"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/561?pgs=561-562&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "313022",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "562-563"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/562?pgs=562-563&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "313024",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "563-563"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/563?pgs=563&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "313025",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "563-564"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/563?pgs=563-564&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "313026",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "564-564"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/564?pgs=564&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "313030",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "565-565"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/565?pgs=565&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "313033",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "565-566"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/565?pgs=565-566&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "313034",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "566-566"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/566?pgs=566&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:45",
+            "horaTermo": "23:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "313036",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "566-566"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-11-21",
+                "pubLeg": "V",
+                "pubNr": "17",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/566?pgs=566&org=PLC"
+              }
+            ],
+            "sumario": "Propostas de lei n.ºs 117/V (Orçamento do Estado para 1990) e 118/V (Grandes Opções do Plano para 1990),",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "225441",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "330036",
+        "obs": null,
+        "pag": [
+          "505-566"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1989-11-21",
+        "pubLeg": "V",
+        "pubNr": "17",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/017/1989-11-21/505?pgs=505-566&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
