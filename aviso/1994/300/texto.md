@@ -1,0 +1,6 @@
+Aviso n.º 300/94
+Por ordem superior se torna público que, por notificação de 13 de Junho de 1994, o Comité Permanente da Conferência da Haia de Direito Internacional Privado comunicou que o Reino dos Países Baixos aceitou, em 19 de Maio de 1994, pelas Antilhas Neerlandesas, a República Eslovaca e a República Checa como Partes da Convenção Relativa ao Reconhecimento e à Execução das Decisões em Matéria de Prestação de Alimentos a Menores, concluída na Haia, em 15 de Abril de 1958.
+A Convenção entrou em vigor entre as Antilhas Neerlandesas, por um lado, e a República Eslovaca e a República Checa, por outro, em 19 de Maio de 1994.
+Relativamente a Portugal, a Convenção foi aprovada para ratificação pelo Decreto-Lei n.º 246/71, de 3 de Junho, conforme Diário do Governo, n.º 130, de 3 de Junho de 1971, rectificado no Diário do Governo, n.º 224, de 24 de Setembro de 1973.
+O instrumento de ratificação foi depositado em 27 de Dezembro de 1973, segundo aviso de 14 de Janeiro de 1974, publicado no Diário do Governo, n.º 18, de 22 de Janeiro de 1974, e a Convenção entrou em vigor para o nosso país em 24 de Fevereiro de 1974.
+Departamento de Assuntos Jurídicos, 19 de Outubro de 1994. - O Director, José Maria Teixeira Leite Martins.
