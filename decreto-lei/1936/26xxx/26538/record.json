@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1936/04/09300/04440444.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1936-04-22",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "a586231ca91edd1c1d734b129307c257ed01be554a0499a37b3288eaba75b944",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 98.8,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "5ee9d1ec1188f87880e0066f25839016565fa86053d32dae3b38e7b3e01527e8",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 133
 }
