@@ -14,6 +14,8 @@ d) Os eleitores que, por motivo de doença, se encontrem internados ou presumive
 
 e) Os eleitores que se encontrem presos e não privados de direitos políticos.
 
+f) Os membros que representem oficialmente selecções nacionais, organizadas por federações desportivas dotadas de estatuto de utilidade pública desportiva, e se encontrem deslocados no estrangeiro, em competições desportivas, no dia da realização da eleição.
+
 2 - Só são considerados os votos recebidos na sede da junta de freguesia correspondente à assembleia de voto em que o eleitor deveria votar até ao dia anterior ao da realização da eleição.
 
 3 - As listas concorrentes à eleição podem nomear, nos termos gerais, delegados para fiscalizar as operações de voto antecipado, os quais gozam de todas as imunidades e direitos previstos no artigo 50.º-A.
