@@ -1,0 +1,13 @@
+Portaria n.º 21772
+Manda o Governo da República Portuguesa, pelo Ministro das Comunicações, de harmonia com o disposto no artigo 96.º do Estatuto das Juntas Autónomas dos Portos, aprovado pelo Decreto-Lei n.º 37754, de 18 de Fevereiro de 1950, manter em vigor as tarifas provisórias da Junta Autónoma dos Portos de Sotavento do Algarve, aprovadas pela Portaria n.º 15498, de 10 de Agosto de 1955, com as alterações introduzidas pelas Portarias n.os 16408, 19033, 19765 e 20674, de, respectivamente, 11 de Setembro de 1957, 16 de Fevereiro de 1962, 16 de Março de 1963 e 9 de Julho de 1964, e mais as seguintes das redacções dos artigos 97.º e 99.º:
+Art. 97.º Pela circulação de veículos nos arruamentos e terraplenos vedados da Junta cobram-se as seguintes taxas, por dia e por veículo:
+Carros de mão ... $50
+Automóveis ligeiros e veículos de tracção animal ... 1$00
+Camiões ou camionetas ... 2$50
+§ 1.º ...
+§ 2.º ...
+...
+Art. 99.º Pela utilização das mesas da lota comercial cobra-se:
+Por cada venda de peixe ... 1$50
+§ único. ...
+Ministério das Comunicações, 4 de Janeiro de 1966. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.
