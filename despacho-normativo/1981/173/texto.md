@@ -1,0 +1,4 @@
+Despacho Normativo n.º 173/81
+1 - Ao abrigo do disposto no artigo 20.º, n.º 1, do Decreto-Lei n.º 28/81, de 12 de Fevereiro, delego no Secretário de Estado da Defesa Nacional, engenheiro José Miguel Nunes Anacoreta Correia, a competência que, relativamente à empresa pública Indústrias Nacionais de Defesa, E. P. (INDEP), me é conferida pelo Decreto-Lei n.º 515/80, de 31 de Outubro.
+2 - A delegação a que se refere o presente despacho entende-se feita sem prejuízo dos poderes de avocação, superintendência e revogação e, bem assim, no pressuposto de que será objecto de acerto prévio com o Ministro a orientação a dar a casos tecnicamente controversos ou politicamente melindrosos.
+Ministério da Defesa Nacional, 30 de Junho de 1981. - O Ministro da Defesa Nacional, Luís Aníbal de Sá de Azevedo Coutinho.
