@@ -1,0 +1,4 @@
+Portaria n.º 26-L/80
+de 9 de Janeiro
+Manda o Governo da República, pelo Ministro das Finanças, nos termos do n.º 3.º do artigo 4.º da Reforma Aduaneira, promulgada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965, que o posto de despacho de Sines seja elevado a delegação aduaneira extra-urbana, designada Delegação Aduaneira de Sines, abrangida pela categoria fixada no n.º 2.º do § 1.º do artigo 222.º da citada Reforma Aduaneira, com a redacção dada pelo Decreto-Lei n.º 464/70, de 9 de Outubro, e que a estância aduaneira criada pelo artigo 2.º do Decreto-Lei n.º 333/78, de 14 de Novembro, se denomine Subdelegação Aduaneira junto da Zona Franca da Petrogal, dando-se cumprimento ao disposto no artigo 3.º da referida Reforma Aduaneira e procedendo-se à correspondente inserção no mapa I anexo à aludida Reforma Aduaneira.
+Ministério das Finanças, 19 de Dezembro de 1979. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.
