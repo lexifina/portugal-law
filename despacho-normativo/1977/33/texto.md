@@ -1,0 +1,5 @@
+Despacho Normativo n.º 33/77
+1. As sociedades Real Companhia Velha e Real Vinícola têm estado sob a intervenção do Estado desde Setembro de 1975.
+2. Por resolução do Conselho de Ministros de 2 de Setembro de 1976, determina-se que se proceda ao saneamento económico-financeiro das empresas, concretizando a respectiva fusão e fixando o capital social da nova empresa, daí resultando uma tomada de participação por parte do Estado.
+3. O avançado estado de laboração em que se encontra o dossier de cessação de intervenção do Estado, de acordo com o artigo 1.º do Decreto n.º 907/76, de 31 de Dezembro, permite desde já concluir pela necessidade de uma participação de 100000 contos a atribuir à unidade resultante da fusão por intermédio do IPE.
+Ministérios do Plano e Coordenação Económica, das Finanças e do Comércio e Turismo, 31 de Dezembro de 1976. - O Ministro do Plano e Coordenação Económica, António Francisco Barroso Sousa Gomes. - O Ministro do Comércio e Turismo, António Miguel Morais Barreto. - Pelo Ministro das Finanças, Maria Manuela Matos Morgado Santiago Baptista, Secretário de Estado das Finanças.
