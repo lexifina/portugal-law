@@ -1,0 +1,99 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=ktYqpeS%2ft%2bZbliS4sHhftatFgOONJZv%2b0jwNSKIew1t0xo7wpSD4Wuod7wOpHm6JnVumY%2fcLg1QEJ6QuXOoI0mCZg8Now%2fNFrlqr4xaPyukQAb7VOIDJycUu8LgcqeBWkrLalvQbJNVVjYrmyeKurhYgJ88b%2bTAHUhqae0PG2tWw6wd9S%2fB1oSkkszdy9OWFhN3wUjxq5HmVweG9RQH09rl4k2N5tPgs%2fzprZm2tzFHnHSctshbR2DfX7RwTBfcB1zHFUq7rfF1ywAQTHCnkTEnmy8XmgIMFNpTZggbLiolv7UH6aQ9wXzrJpNDVBZQItckByiVODO72lKf0LysofiwVHTL6an5RgmBfpD1TjRRanKSw%2fu9%2bMNyeFb2ozzbOeEiwgdJpFNYQkXLYkgJujw%3d%3d&fich=RequerimentosIX_json.txt&Inline=true",
+  "ficheiro_sha256": "234acc6bf0a22a14e4ad1370daea559258a1b7960a20d3feebcabf91a9366690",
+  "legislatura": "IX",
+  "id": "27233",
+  "tipo": "Requerimento",
+  "numero": "1372",
+  "data_registo": "2002-11-28",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Violação de menores na Casa Pia",
+    "Autores": [
+      {
+        "GP": "BE",
+        "idCadastro": "1941",
+        "nome": "Ana Drago"
+      }
+    ],
+    "DataEnvio": "2002-12-03",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2002-12-03",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DA  JUSTIÇA",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2003-01-15",
+            "docRemetida": null,
+            "entidade": "MIN.  DA  JUSTIÇA",
+            "ficheiro": "",
+            "ficheiroComTipo": null,
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      },
+      {
+        "dataEnvio": "2002-12-03",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DA  SEGURANÇA SOCIAL E DO TRABALHO",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": "2003-02-04",
+            "docRemetida": null,
+            "entidade": "MIN.  DA  SEGURANÇA SOCIAL E DO TRABALHO",
+            "ficheiro": "",
+            "ficheiroComTipo": null,
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2002-11-28",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379394a5745786c5a79394562324e31625756756447397a554756795a3356756447467a556d5678645756796157316c626e527663793878553077764f545a684d6a49354d6d4d744e3251325a5330304e4759314c57457a4d3251745a54637a4d57557a4d7a59784d7a63314c6e426b5a673d3d&fich=96a2292c-7d6e-44f5-a33d-e731e3361375.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "27233",
+    "Legislatura": "IX",
+    "Nr": "1372",
+    "Observacoes": "investigação policial",
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "275258",
+        "obs": "134-(16)",
+        "pag": [
+          "134-(16)-134-(16)"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2002",
+        "pubLeg": "IX",
+        "pubNr": "23",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/09/01/023S1/2002-12-07/134-(16)?pgs=134-(16)&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
