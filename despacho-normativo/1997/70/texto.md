@@ -1,0 +1,27 @@
+Despacho Normativo n.º 70/97
+O Despacho Normativo n.º 3/86, de 7 de Janeiro, estabeleceu um conjunto de habilitações adequadas ao provimento em lugares das carreiras técnico-profissionais da função pública, níveis 3 e 4, além das habilitações referidas na alínea c) do n.º 1 e na alínea b) do n.º 2 do artigo 20.º do Decreto-Lei n.º 248/85, de 15 de Julho.
+Posteriormente, tendo-se verificado que outros cursos já existentes ao tempo ou entretanto criados, caso dos cursos das escolas profissionais e dos cursos complementares do ensino secundário, podiam ser também reconhecidos como adequados ao provimento em lugares das carreiras técnico-profissionais, níveis 3 e 4, o Despacho Normativo n.º 45/90, de 3 de Julho, alargou consideravelmente o conjunto das habilitações equivalentes para o efeito.
+A recente evolução do sistema de ensino português, quer a nível do ensino básico quer, particularmente, ao nível do ensino secundário, permite proceder a um novo enquadramento legal do reconhecimento da equivalência de habilitações académicas para fins profissionais, numa expectativa de rentabilização dos recursos humanos disponíveis e de valorização social dos diversos percursos escolares configurados no nosso sistema educativo.
+Por outro lado, e na mesma perspectiva de aproveitamento dos recursos humanos disponíveis, importa valorizar os percursos de frequência do ensino superior por parte dos alunos que a eles acederam mediante cursos secundários de natureza não técnica, quando comprovem terem desenvolvido competências tão relevantes quanto as adquiridas através da frequência dos três anos de formação técnico-profissional exigidos para ingresso no nível 4 das carreiras técnico-profissionais.
+Assim, ao abrigo da alínea a) do n.º 3 do artigo 20.º do Decreto-Lei n.º 248/85, de 15 de Julho, determina-se:
+1 - São reconhecidos como habilitação suficiente para o provimento em lugares das carreiras técnico-profissionais da função pública, nível 3, desde que concluídos com aprovação:
+a) Os cursos de natureza técnica que funcionam ou funcionaram no âmbito do sistema educativo e comportem uma frequência escolar de nove anos;
+b) Os cursos que confiram a qualificação profissional de nível II definida pela Decisão n.º 85/368/EEC, do Conselho das Comunidades Europeias, de 16 de Julho de 1985;
+c) Os antigos cursos complementares liceais diurnos e nocturnos;
+d) Os cursos complementares diurnos criados pelo Despacho Normativo n.º 140-A/78, de 22 de Junho;
+e) Os cursos do 12.º ano de escolaridade da via de ensino criados ao abrigo do Decreto-Lei n.º 240/80, de 19 de Julho;
+f) Os cursos de carácter geral do novo ensino secundário aprovados pelo Decreto-Lei n.º 286/89, de 28 de Agosto, ou equivalentes.
+2 - São reconhecidos como habilitação suficiente para o provimento em lugares das carreiras técnico-profissionais da função pública, nível 4, desde que concluídos com aprovação:
+a) Os cursos de natureza técnica, técnico-profissional e tecnológica e profissionais que funcionam ou funcionaram no âmbito do sistema educativo e comportem uma frequência escolar de, no mínimo, 11 anos;
+b) Os cursos do 12.º ano de escolaridade da via profissionalizante criados ao abrigo do Decreto-Lei n.º 240/80, de 19 de Julho;
+c) O curso de educador social, criado pela Portaria n.º 1017/81, de 25 de Novembro;
+d) O curso técnico de agricultura (ramos de agro-pecuária, silvicultura e indústrias alimentares), a que se refere a Portaria n.º 1056/82, de 13 de Novembro;
+e) Os cursos que confiram a qualificação profissional de nível III definida pela Decisão n.º 85/368/EEC, do Conselho das Comunidades Europeias, de 16 de Julho de 1985;
+f) Os antigos cursos complementares liceais diurnos e nocturnos, desde que acrescidos com aproveitamento de 10 cadeiras anuais ou 20 semestrais, todas elas de índole técnica ou especializada, dos cursos do ensino superior;
+g) Os cursos complementares diurnos criados pelo Despacho Normativo n.º 140-A/78, de 22 de Junho, desde que acrescidos da aprovação em, pelo menos, 10 cadeiras anuais ou 20 semestrais, de índole técnica ou especializada, dos cursos do ensino superior;
+h) O 12.º ano da via de ensino, desde que acrescido da aprovação em, pelo menos, 10 cadeiras anuais ou 20 semestrais, de índole técnica ou especializada, dos cursos do ensino superior;
+i) Os cursos de carácter geral do ensino secundário aprovados pelo Decreto-Lei n.º 286/89, de 28 de Agosto, ou equivalentes, desde que acrescidos da aprovação em, pelo menos, 10 cadeiras anuais ou 20 semestrais, de índole técnica ou especializada, dos cursos do ensino superior.
+3 - O reconhecimento das habilitações consignadas nos n.os 1 e 2 do presente despacho, para efeito de ingresso ou acesso nas carreiras técnico-profissionais da função pública, níveis 3 e 4, depende, em todos os casos, da adequação do perfil de formação ao conteúdo funcional dessas carreiras, a avaliar pelos serviços da Administração Pública, através da análise curricular das habilitações dos candidatos.
+4 - A certificação de todos os cursos acima mencionados deverá ser feita pela apresentação de diploma ou de certidão de habilitações, devidamente autenticados, que explicitem o enquadramento normativo do curso e declarem expressamente que o curso foi concluído.
+5 - É revogado o Despacho Normativo n.º 45/90, de 3 de Julho.
+Presidência do Conselho de Ministros e Ministério da Educação, 6 de Novembro de 1997. - O Ministro da Educação, Eduardo Carrega Marçal Grilo. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
