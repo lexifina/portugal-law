@@ -1,0 +1,331 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "tipo": "Inquérito Parlamentar",
+  "numero": "14",
+  "id": "32909",
+  "fases": 5,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "1989-04-08",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "1989-10-14",
+    "DataInicioleg": "1988-10-15",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PCP",
+        "idCadastro": "2948",
+        "nome": "Carlos Brito"
+      },
+      {
+        "GP": "PRD",
+        "idCadastro": "2992",
+        "nome": "Hermínio Martinho"
+      },
+      {
+        "GP": "PEV",
+        "idCadastro": "1627",
+        "nome": "Maria Santos"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "235",
+        "nome": "Manuel Alegre"
+      },
+      {
+        "GP": "Indep",
+        "idCadastro": "212",
+        "nome": "João Corregedor da Fonseca"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "222",
+        "nome": "Octávio Teixeira"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3082",
+        "nome": "Vidigal Amaro"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "213",
+        "nome": "José Manuel Maia"
+      },
+      {
+        "GP": "Indep",
+        "idCadastro": "568",
+        "nome": "Raul Castro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "164",
+        "nome": "Eduardo Pereira"
+      },
+      {
+        "GP": "PRD",
+        "idCadastro": "2996",
+        "nome": "Isabel Espada"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "285",
+        "nome": "José Sócrates"
+      },
+      {
+        "GP": "PRD",
+        "idCadastro": "148",
+        "nome": "Marques Júnior"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3017",
+        "nome": "José Luís Nunes"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "215",
+        "nome": "Lino de Carvalho"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "209",
+        "nome": "António Filipe"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "2915",
+        "nome": "Álvaro Brasileiro"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3034",
+        "nome": "Luis Roque"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3007",
+        "nome": "Jorge Lemos"
+      },
+      {
+        "GP": "PRD",
+        "idCadastro": "3075",
+        "nome": "Rui Santos Silva"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "569",
+        "nome": "Ilda Figueiredo"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "236",
+        "nome": "Carlos Carvalhas"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "210",
+        "nome": "Jerónimo de Sousa"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "211",
+        "nome": "João Amaral"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3038",
+        "nome": "Manuel Filipe"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "617",
+        "nome": "Apolónia Teixeira"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "781",
+        "nome": "António Mota"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "219",
+        "nome": "Odete Santos"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "3020",
+        "nome": "José Manuel Mendes"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "2977",
+        "nome": "Fernando Conceição Gomes"
+      },
+      {
+        "GP": "PEV",
+        "idCadastro": "2991",
+        "nome": "Herculano Pombo"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "217",
+        "nome": "Rogério Brito"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "2963",
+        "nome": "Cláudio Percheiro"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "2907",
+        "nome": "Afonso Abrantes"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "218",
+        "nome": "Maria de Lourdes Hespanhol"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "189",
+        "nome": "José Magalhães"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "760",
+        "nome": "Ana Paula Coelho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "142",
+        "nome": "Alberto Arons de Carvalho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "3055",
+        "nome": "Mário Sottomayor Cardia"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "555",
+        "nome": "Domingos Abrantes"
+      },
+      {
+        "GP": "PCP",
+        "idCadastro": "2954",
+        "nome": "Carlos Costa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "195",
+        "nome": "Leonor Coutinho"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "409",
+        "nome": "Helder Filipe"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1205",
+        "nome": "António Vitorino"
+      },
+      {
+        "GP": "PRD",
+        "idCadastro": "2944",
+        "nome": "Barbosa da Costa"
+      },
+      {
+        "GP": "PS",
+        "idCadastro": "1814",
+        "nome": "João Soares"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "1740",
+        "nome": "Basílio Horta"
+      },
+      {
+        "GP": "PRD",
+        "idCadastro": "3060",
+        "nome": "Natália Correia"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "226",
+        "nome": "Nogueira de Brito"
+      },
+      {
+        "GP": "CDS",
+        "idCadastro": "229",
+        "nome": "Narana Coissoró"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PS"
+      },
+      {
+        "GP": "PCP"
+      },
+      {
+        "GP": "PRD"
+      },
+      {
+        "GP": "CDS"
+      },
+      {
+        "GP": "PEV"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": [
+      {
+        "assunto": "Delibera a publicação integral das actas e demais documentos  constantes da Comissão Eventual de Inquérito constituida com vista a apurar a actuação dos serviços oficiais, designadamente da administração fiscal, intervenientes no processo de aquisição pelo Ministro das Obras Públicas, cidadão José Miguel Cadilhe, de um andar  na torre 4 do Edíficio Amoreiras, sito em Lisboa",
+        "dcl": null,
+        "descTipo": "Projeto de Resolução",
+        "id": "27664",
+        "legislatura": "V",
+        "numero": "39",
+        "sessao": "3",
+        "tipo": "R"
+      },
+      {
+        "assunto": "Constituição de uma comissão de inquérito parlamentar com vista a apurar em toda a extensão a conduta dos serviços oficiais, designadamente da administração fiscal, intervenientes no processo de aquisição pelo Ministro das Finanças de apartamentos no edifício Amoreiras e na rua Francisco Stromp, em Lisboa.",
+        "dcl": null,
+        "descTipo": "Projeto de Deliberação",
+        "id": "32769",
+        "legislatura": "V",
+        "numero": "42",
+        "sessao": "2",
+        "tipo": "D"
+      }
+    ],
+    "IniDescTipo": "Inquérito Parlamentar",
+    "IniEpigrafe": null,
+    "IniId": "32909",
+    "IniLeg": "V",
+    "IniLinkTexto": "",
+    "IniNr": "14",
+    "IniObs": "Regimento da Comissão: DAR IIS C nº 21, de 03-06-1989, pág. 496; Relatório Final da Comissão: DAR IIS B nº 1, de 21-10-1989; Apreciação do relatório em Plenário: DAR IS nº 22, de 06-12-1989, págs. 731-740; Actas da Comissão CEI: DAR IIS nº1, de 02-04-1990; DAR IIS nº 2, de 03-04-1990; DAR IIS nº 3, de 04-04-1990; DAR IIS nº 4, de 05-04-1990; DAR IIS nº 5, de 06-04-1990; DAR IIS nº 6, de 09-04-1990; e DAR IIS nº 7, de 10-04-1990. Ver Projecto de Resolução nº 39/V.",
+    "IniSel": "2",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "I",
+    "IniTitulo": "Realização de um inquérito parlamentar com vista a apurar em toda a extensão a conduta dos serviços oficiais, designadamente da Administração Fiscal, intervenientes no processo de aquisição pelo Ministro das Finanças de apartamentos no edifício das Amoreiras e na rua Francisco Stromp, em Lisboa.",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": null
+  }
+}
