@@ -1,0 +1,13 @@
+Decreto-Lei n.º 359/78
+de 27 de Novembro
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º - 1 - É constituída uma zona de protecção que garanta a supressão do cruzamento de nível ao quilómetro 1 da estrada nacional n.º 13, Via Norte.
+2 - A referida zona corresponde à área graficamente representada na planta anexa.
+Art. 2.º Logo que o projecto se encontre aprovado, a área reservada será reduzida para os limites correspondentes à zona non aedificandi legalmente estabelecida.
+Art. 3.º Aos proprietários dos terrenos que constituem a zona de protecção fica interdito fazer quaisquer obras, construção ou plantação de espécies arbóreas ou arbustivas com carácter de permanência até à aprovação do respectivo projecto, momento a partir do qual se passará a aplicar o disposto no Decreto-Lei n.º 13/71, de 23 de Janeiro.
+Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - João Orlindo Almeida Pina.
+Promulgado em 31 de Outubro de 1978.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+(ver documento original)
