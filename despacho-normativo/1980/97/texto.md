@@ -1,0 +1,3 @@
+Despacho Normativo n.º 97/80
+Ao abrigo do disposto no n.º 3 do artigo 1.º do Decreto-Lei n.º 303/77, de 29 de Julho, e em aditamento à tabela n.º 1 - Produtos fitofarmacêuticos, é autorizada a alteração do teor, 440 g/l (p/v) para 420 g/l (p/v) de substância activa, relativamente aos produtos fitofarmacêuticos com base em azinfos-etilo e formulado em concentrado para emulsão.
+Ministérios da Agricultura e Pescas e do Comércio e Turismo, 15 de Fevereiro de 1980. - O Secretário de Estado do Fomento Agrário, José Vicente de Jesus de Carvalho Cardoso. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.
