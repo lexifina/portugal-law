@@ -1,0 +1,7 @@
+Declaração
+De harmonia com o disposto no n.º 1 do artigo 6.º do Decreto-Lei n.º 54/72, de 15 de Fevereiro, se publica que foram autorizadas as seguintes transferências de verbas, nos termos do n.º 2 do artigo 3.º do mesmo diploma:
+(ver documento original)
+No capítulo 2.º, artigo 19.º, a respectiva rubrica é alterada para:
+...
+Outros membros do Governo, nos termos do Decreto-Lei n.º 13/70, de 14 de Janeiro - 900000$00.
+1.ª Repartição da Direcção-Geral da Contabilidade Pública, 19 de Setembro de 1972. - O Chefe, José de Sousa Nunes Ferreira.
