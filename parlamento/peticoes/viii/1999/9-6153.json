@@ -1,0 +1,452 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=WEUMi7%2fBtIIg%2fkHBDyZ%2fsil3BmWuButejMvPGkqNVyUfIJXddc1IDB3t8GXfBL3zSPQF%2bIyDi3AcWLUm0oL6crfUIOoirULFjyvRAul6J%2by6a6FDtpJuVrK3Y3rP8bCLGdxev%2bdUqQgc%2bXEDQI%2f8OLEsCv3IziG5WQHDSzFAl7qQApdhGho5obQdwDn6iwyWAFYt%2fzWn72d9GQ0G7zTxyKwsQjpKzhAqqYI6%2fCsSwtcK7MkwpbhLc%2bPOBViftzfwo0QY4%2b1hHCAUUDtd7wn2zRmIMG1aKMpZb8PUmWVGX9mCVPzhBcSom0%2boac5wXwR%2fcfo1uKTMHtBvk9eTSDfjfyy5P2leMqegA1xVPD5%2bIs%2bMWrsB8j6dH%2fUqNW7MrBr8&fich=PeticoesVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "c7a8b036f2bb9420007f23598577186345f4c787fefe68382e6a1aac6e3b6ea3",
+  "legislatura": "VIII",
+  "id": "6153",
+  "numero": "9",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "1999-05-28",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": [
+          {
+            "dataOficio": "2002-06-26",
+            "dataResposta": "2002-08-07",
+            "entidades": [
+              "Ministro da Saúde"
+            ],
+            "nrOficio": "519/COM",
+            "pedidosReiteracao": null,
+            "publicacao": null,
+            "relatorioIntercalar": null
+          }
+        ],
+        "DadosRelatorioFinal": [
+          {
+            "data": "2002-09-10",
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": null,
+        "DataArquivo": "2002-09-10",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2002-11-14",
+        "DataReaberta": null,
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": null,
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "109",
+        "Legislatura": "IX",
+        "Nome": "COMISSÃO DE TRABALHO E DOS ASSUNTOS SOCIAIS",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2002-05-28",
+            "gp": "PS",
+            "id": "1488",
+            "motivoCessacao": null,
+            "nome": "Afonso Candal"
+          }
+        ],
+        "RelatorioFinal": [
+          "21536"
+        ],
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      },
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": [
+          {
+            "data": null,
+            "publicacao": null,
+            "votacao": {
+              "ausencias": null,
+              "data": null,
+              "descricao": null,
+              "detalhe": null,
+              "id": null,
+              "publicacao": null,
+              "resultado": null,
+              "reuniao": null,
+              "tipoReuniao": null,
+              "unanime": null
+            }
+          }
+        ],
+        "DataAdmissibilidade": "2000-01-18",
+        "DataArquivo": "2002-09-10",
+        "DataBaixaComissao": "2000-01-18",
+        "DataEnvioPAR": null,
+        "DataReaberta": "2000-01-18",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "1999-05-28",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c304e5054533834553151765247396a6457316c626e52766331426c64476c6a595738764e7a6b7a4e475a6c4f446b74597a55354d5330304f5445774c546b794d5459744d6d466d4d574d354d3259354e44526a4c6e426b5a673d3d&fich=7934fe89-c591-4910-9216-2af1c93f944c.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "24",
+        "Legislatura": "VIII",
+        "Nome": "COMISSAO DE SAUDE E TOXICODEPENDENCIA",
+        "NotasAdmissibilidade": null,
+        "Numero": "8",
+        "Publicacao": null,
+        "Relatores": [
+          {
+            "dataCessacao": null,
+            "dataNomeacao": "2000-01-18",
+            "gp": "PSD",
+            "id": "1596",
+            "motivoCessacao": null,
+            "nome": "Nuno Freitas"
+          }
+        ],
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": "2003-02-27",
+    "Documentos": [
+      {
+        "DataDocumento": "1999-05-28",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c637938794e6a4d345a44517a5a4330354d6d49314c5452685a4459744f4455324d433033596a55324e6a67344d7a67324d7a49756347526d&fich=2638d43d-92b5-4ad6-8560-7b5668838632.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": [
+      {
+        "DataReuniaoPlenaria": "2003-02-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144162",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3894-3896"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-02-28",
+                "pubLeg": "IX",
+                "pubNr": "92",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/092/2003-02-28/3894?pgs=3894-3896&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITAM A REABERTURA DO SAP NAS INSTALAÇÕES DO EXTINTO HOSPITAL POR ESTAREM CONVICTOS DE QUE HAVERÁ UM ATENDIMENTO MAIS PRÓXIMO MAIS ACESSÍVEL MAIS ECONÓMICO E RÁPIDO",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-02-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144163",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3895-3895"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-02-28",
+                "pubLeg": "IX",
+                "pubNr": "92",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/092/2003-02-28/3895?pgs=3895&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITAM A REABERTURA DO SAP NAS INSTALAÇÕES DO EXTINTO HOSPITAL POR ESTAREM CONVICTOS DE QUE HAVERÁ UM ATENDIMENTO MAIS PRÓXIMO MAIS ACESSÍVEL MAIS ECONÓMICO E RÁPIDO",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-02-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144164",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3896-3896"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-02-28",
+                "pubLeg": "IX",
+                "pubNr": "92",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/092/2003-02-28/3896?pgs=3896&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITAM A REABERTURA DO SAP NAS INSTALAÇÕES DO EXTINTO HOSPITAL POR ESTAREM CONVICTOS DE QUE HAVERÁ UM ATENDIMENTO MAIS PRÓXIMO MAIS ACESSÍVEL MAIS ECONÓMICO E RÁPIDO",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-02-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144165",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3896-3897"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-02-28",
+                "pubLeg": "IX",
+                "pubNr": "92",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/092/2003-02-28/3896?pgs=3896-3897&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITAM A REABERTURA DO SAP NAS INSTALAÇÕES DO EXTINTO HOSPITAL POR ESTAREM CONVICTOS DE QUE HAVERÁ UM ATENDIMENTO MAIS PRÓXIMO MAIS ACESSÍVEL MAIS ECONÓMICO E RÁPIDO",
+            "Teor": null
+          }
+        ]
+      },
+      {
+        "DataReuniaoPlenaria": "2003-02-28",
+        "Oradores": [
+          {
+            "Convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "Deputados": null,
+            "FaseDebate": null,
+            "FaseSessao": "POD",
+            "LinkVideo": null,
+            "MembrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "Publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "144166",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3897-3897"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-02-28",
+                "pubLeg": "IX",
+                "pubNr": "92",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/092/2003-02-28/3897?pgs=3897&org=PLC"
+              }
+            ],
+            "Sumario": "SOLICITAM A REABERTURA DO SAP NAS INSTALAÇÕES DO EXTINTO HOSPITAL POR ESTAREM CONVICTOS DE QUE HAVERÁ UM ATENDIMENTO MAIS PRÓXIMO MAIS ACESSÍVEL MAIS ECONÓMICO E RÁPIDO",
+            "Teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "6153",
+    "PetAssunto": "Solicitam a reabertura do SAP nas instalações do extinto Hospital de Oleiros por estarem convictos de que haverá um atendimento mais próximo mais acessível mais económico e rápido.",
+    "PetDataEntrada": "1999-05-28",
+    "PeticoesAssociadas": null,
+    "PetId": "6153",
+    "PetLeg": "VIII",
+    "PetNr": "9",
+    "PetNrAssinaturas": "15840",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": "SAÚDE",
+    "PetSel": "1",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "130",
+        "obs": null,
+        "pag": [
+          "3894-3897"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-02-28",
+        "pubLeg": "IX",
+        "pubNr": "92",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/092/2003-02-28/3894?pgs=3894-3897&org=PLC"
+      }
+    ],
+    "PublicacaoPeticao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "121529",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1996-01-20",
+        "pubLeg": "VII",
+        "pubNr": "11",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/07/01/011/1996-01-20?org=PLC"
+      }
+    ]
+  }
+}
