@@ -1,0 +1,3 @@
+Aviso n.º 281/93
+Por ordem superior se torna público que Marrocos depositou junto do Secretário-Geral das Nações Unidas, a 21 de Junho de 1993, o instrumento de ratificação e a Eslovénia e a Antígua e Barbuda depositaram, a 16 e 19 de Julho de 1993, respectivamente, o instrumento de adesão à Convenção contra a Tortura e Outras Penas ou Tratamentos Cruéis, Desumanos ou Degradantes, adoptada pela Assembleia Geral das Nações Unidas a 10 de Dezembro de 1984.
+Direcção-Geral dos Negócios Político-Económicos, 3 de Dezembro de 1993. - O Director de Serviços dos Assuntos Multilaterais, António Raul Freitas Monteiro Portugal.
