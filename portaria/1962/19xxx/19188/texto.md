@@ -1,0 +1,3 @@
+Portaria n.º 19188
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 5.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, abrir um crédito especial da quantia de 3500$00, em adicional ao orçamento privativo do Núcleo de Documentação Técnica para o corrente ano económico, destinado ao pagamento de remunerações ao contínuo por horas extraordinárias, tomando como contrapartida as disponibilidades existentes na verba do artigo 10.º, n.º 3) «Diversos encargos - Encargos administrativos - Publicação da revista», do referido orçamento.
+Ministério do Ultramar, 15 de Maio de 1962. - Pelo Ministro do Ultramar, João da Costa Freitas, Subsecretário de Estado da Administração Ultramarina.
