@@ -1,0 +1,38 @@
+Portaria n.º 416/82
+de 26 de Abril
+Ao abrigo do disposto no artigo 17.º do Decreto-Lei n.º 329-A/74, de 10 de Julho:
+Manda o Governo da República Portuguesa, pelo Ministro da Agricultura, Comércio e Pescas, o seguinte:
+1.º Ficam sujeitos, no continente, ao regime especial de preços previsto neste diploma os bens ou serviços produzidos ou importados constantes das listas anexas a esta portaria por empresas, que poderão ser alteradas por despacho do Ministro da Agricultura, Comércio e Pescas.
+2.º O regime especial de preços previsto neste diploma determina a obrigatoriedade de declaração pelas empresas dos novos preços que pretendem pôr em vigor, quando envolvam aumento, reservando-se a Administração a faculdade de se opor a esses preços, se os não considerar justificados perante os elementos de que dispõe e que as empresas são obrigadas a apresentar.
+3.º As declarações de novos preços a praticar pelas empresas abrangidas pelo disposto no n.º 1.º deverão ser enviadas em carta registada com aviso de recepção para as Direcções-Gerais do Comércio Alimentar e do Comércio não Alimentar, consoante a natureza dos bens ou serviços, com a antecedência mínima de 90 dias da data em que se pretenda sejam aplicados.
+4.º As declarações de novos preços a que se refere o número anterior devem ser acompanhadas dos seguintes elementos:
+a) Estudo justificativo das razões dos novos preços, com as designações comerciais (marca, modelo, referência) dos bens ou serviços tal como vão ser comercializados, nos termos do Despacho Normativo n.º 369/80, publicado no Diário da República, 1.ª série, de 3 de Dezembro de 1980;
+b) Decomposição dos custos de produção e venda das empresas, discriminando:
+Matérias-primas subsidiárias e acessórias;
+Combustíveis, energia e lubrificantes;
+Ordenados, salários e encargos sociais;
+Rendas e seguros, salvo os incorporados na rubrica anterior;
+Encargos financeiros;
+Impostos directos e indirectos, não imputados directamente aos preços de aquisição e venda;
+Outros bens ou serviços comprados a terceiros;
+Ganhos acidentais e proveitos acessórios;
+Lucros de exploração.
+5.º Podem ainda as Direções-Gerais solicitar o envio de quaisquer outros elementos adicionais julgados necessários, bem como dispensar, em casos especiais, o envio de alguns dos elementos indicados no n.º 4.º
+6.º Às empresas produtoras e importadoras abrangidas pelo disposto no n.º 1.º que pretendam lançar no mercado novos bens ou serviços de utilização igual ou semelhante à dos bens ou serviços sujeitos ao regime de preços previsto neste diploma aplica-se, quanto a esses bens ou serviços, o disposto nos n.os 3.º e seguintes.
+7.º - 1 - Se as Direcções-Gerais considerarem não justificados os preços declarados pelas empresas nos termos dos n.os 3.º e seguintes, submeterão novos preços à aprovação do Ministro da Agricultura, Comércio e Pescas.
+2 - O despacho a alterar os preços declarados pelas empresas deverá ser proferido até à data limite prevista no n.º 3.º
+3 - Os preços constantes deste despacho serão comunicados às empresas, por carta registada com aviso de recepção, podendo desde logo entrar em vigor.
+8.º As Direcções-Gerais poderão, em casos excepcionais, propor a entrada em vigor dos preços declarados pelas empresas, bem como autorizar a prática de preços inferiores que se considerem já devidamente justificados, em data anterior à do termo do prazo indicado no n.º 3.º
+9.º Serão considerados como não justificados, para efeitos do disposto no n.º 7.º, n.º 1, os preços declarados quando não sejam enviados os elementos adicionais solicitados nos termos do n.º 5.º desta portaria.
+10.º - 1 - Constitui crime de especulação a venda de bens ou a prestação de serviços por preços superiores aos que resultam da aplicação desta portaria.
+2 - Constitui crime de falsas declarações a prestação de elementos, informações e declarações, nos casos previstos nos n.os 4.º e seguintes, quando intencionalmente falsos ou incompletos.
+11.º As dúvidas suscitadas na aplicação desta portaria serão resolvidas por despacho do Ministro da Agricultura, Comércio e Pescas.
+12.º Esta portaria entra em vigor no dia imediato ao da sua publicação.
+Ministério da Agricultura, Comércio e Pescas, 19 de Abril de 1982. - O Ministro da Agricultura, Comércio e Pescas, Basílio Adolfo Mendonça Horta da Franca.
+
+LISTA ANEXA
+Bens e serviços não alimentares
+Roupa exterior e interior e outros artigos de malha enquadrados na CAE a seis dígitos 32.13.00 e artigos de vestuário por corte e costura de tecidos, roupa interior e exterior, roupões e penteadores, impermeáveis e outras peças de vestuário exterior impermeabilizados enquadrados na CAE a seis dígitos 32.20.00 produzidos ou importados por empresas que no conjunto destas duas posições CAE apresentem uma facturação bruta total correspondente a vendas no mercado interno, no ano anterior, igual ou superior a 150000 contos.
+Meias enquadradas na CAE a seis dígitos 32.13.00 produzidas ou importadas por empresas cuja facturação bruta correspondente a vendas de meias no mercado interno, no ano anterior, seja igual ou superior a 50000 contos.
+Bens ou serviços alimentares
+(ver documento original)
