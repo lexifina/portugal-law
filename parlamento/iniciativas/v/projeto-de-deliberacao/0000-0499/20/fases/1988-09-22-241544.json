@@ -1,0 +1,398 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Projeto de Deliberação",
+    "numero": "20",
+    "id": "32746",
+    "titulo": "Comissão eventual para o levantamento e estudo, nos principais aglomerados urbanos do País, em particular nos respectivos centros históricos, no que respeita às condições de segurança contra incêndios e catástrofes naturais."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "1988-09-22",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "5206",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "1988-09-22",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": [
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Deliberação",
+        "id": "32747",
+        "leg": "V",
+        "nr": "21",
+        "sel": "1",
+        "tipo": "D",
+        "titulo": "Criação de uma comissão da Assembleia da República para as questões decorrentes do incêndio do Chiado."
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Deliberação",
+        "id": "32748",
+        "leg": "V",
+        "nr": "22",
+        "sel": "1",
+        "tipo": "D",
+        "titulo": "Autoriza o funcionamento da Comissão de Administração do Território, Poder Local e Ambiente."
+      },
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Deliberação",
+        "id": "32749",
+        "leg": "V",
+        "nr": "23",
+        "sel": "1",
+        "tipo": "D",
+        "titulo": "Autoriza o funcionamento imediato da Comissão de Administração do Território, Poder Local e Ambiente."
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1988-09-22",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215044",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4860-4860",
+                  "4861-4861"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-09-23",
+                "pubLeg": "V",
+                "pubNr": "124",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/124/1988-09-23/4860?pgs=4860,4861&org=PLC"
+              }
+            ],
+            "sumario": "Comissão eventual para o levantamento e estudo, nos principais aglomerados urbanos do País, em particular nos respectivos centros históricos, no que respeita às condições de segurança contra incêndios e catástrofes naturais; Criação de uma comissão da Assembleia da República para as questões decorrentes do incêndio do Chiado; Autoriza o funcionamento da Comissão de Administração do Território, Poder Local e Ambiente.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215045",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4860-4861"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-09-23",
+                "pubLeg": "V",
+                "pubNr": "124",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/124/1988-09-23/4860?pgs=4860-4861&org=PLC"
+              }
+            ],
+            "sumario": "Comissão eventual para o levantamento e estudo, nos principais aglomerados urbanos do País, em particular nos respectivos centros históricos, no que respeita às condições de segurança contra incêndios e catástrofes naturais; Criação de uma comissão da Assembleia da República para as questões decorrentes do incêndio do Chiado; Autoriza o funcionamento da Comissão de Administração do Território, Poder Local e Ambiente.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215046",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4861-4862",
+                  "4863-4863"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-09-23",
+                "pubLeg": "V",
+                "pubNr": "124",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/124/1988-09-23/4861?pgs=4861-4862,4863&org=PLC"
+              }
+            ],
+            "sumario": "Comissão eventual para o levantamento e estudo, nos principais aglomerados urbanos do País, em particular nos respectivos centros históricos, no que respeita às condições de segurança contra incêndios e catástrofes naturais; Criação de uma comissão da Assembleia da República para as questões decorrentes do incêndio do Chiado; Autoriza o funcionamento da Comissão de Administração do Território, Poder Local e Ambiente.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215047",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4862-4863"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-09-23",
+                "pubLeg": "V",
+                "pubNr": "124",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/124/1988-09-23/4862?pgs=4862-4863&org=PLC"
+              }
+            ],
+            "sumario": "Comissão eventual para o levantamento e estudo, nos principais aglomerados urbanos do País, em particular nos respectivos centros históricos, no que respeita às condições de segurança contra incêndios e catástrofes naturais; Criação de uma comissão da Assembleia da República para as questões decorrentes do incêndio do Chiado; Autoriza o funcionamento da Comissão de Administração do Território, Poder Local e Ambiente.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215048",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4863-4863"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-09-23",
+                "pubLeg": "V",
+                "pubNr": "124",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/124/1988-09-23/4863?pgs=4863&org=PLC"
+              }
+            ],
+            "sumario": "Comissão eventual para o levantamento e estudo, nos principais aglomerados urbanos do País, em particular nos respectivos centros históricos, no que respeita às condições de segurança contra incêndios e catástrofes naturais; Criação de uma comissão da Assembleia da República para as questões decorrentes do incêndio do Chiado; Autoriza o funcionamento da Comissão de Administração do Território, Poder Local e Ambiente.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215049",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4863-4864"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-09-23",
+                "pubLeg": "V",
+                "pubNr": "124",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/124/1988-09-23/4863?pgs=4863-4864&org=PLC"
+              }
+            ],
+            "sumario": "Comissão eventual para o levantamento e estudo, nos principais aglomerados urbanos do País, em particular nos respectivos centros históricos, no que respeita às condições de segurança contra incêndios e catástrofes naturais; Criação de uma comissão da Assembleia da República para as questões decorrentes do incêndio do Chiado; Autoriza o funcionamento da Comissão de Administração do Território, Poder Local e Ambiente.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "17:55",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "215050",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4865-4866"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1988-09-23",
+                "pubLeg": "V",
+                "pubNr": "124",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/124/1988-09-23/4865?pgs=4865-4866&org=PLC"
+              }
+            ],
+            "sumario": "Comissão eventual para o levantamento e estudo, nos principais aglomerados urbanos do País, em particular nos respectivos centros históricos, no que respeita às condições de segurança contra incêndios e catástrofes naturais; Criação de uma comissão da Assembleia da República para as questões decorrentes do incêndio do Chiado; Autoriza o funcionamento da Comissão de Administração do Território, Poder Local e Ambiente.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "241544",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "347870",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1988-09-23",
+        "pubLeg": "V",
+        "pubNr": "124",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/01/124/1988-09-23?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
