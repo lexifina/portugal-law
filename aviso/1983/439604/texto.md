@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que em 20 de Julho de 1983 o embaixador da Grécia na Maia depositou junto do Ministro dos Negócios Estrangeiros dos Países Baixos o instrumento de ratificação da Convenção Relativa à Citação e Notificação no Estrangeiro de Actos Judiciais e Extrajudiciais em Matéria Civil e Comercial, de 15 de Novembro de 1965, de que Portugal já é parte. Aquele instrumento diplomático entrará em vigor, com referência àquele país, em 18 de Setembro de 1983.
+O Governo Grego designou o Departamento de Negócios Administrativos e Judiciais do Ministério dos Negócios Estrangeiros da Grécia como a autoridade central para efeitos do artigo 2.º da Convenção.
+Secretaria-Geral do Ministério, 16 de Agosto de 1983. - O Director dos Serviços Jurídicos e de Tratados, Carlos Augusto Fernandes.
