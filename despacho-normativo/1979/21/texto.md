@@ -1,0 +1,9 @@
+Despacho Normativo n.º 21/79
+1 - A CPP - Companhia Portuguesa de Pesca, S. A. R. L., e a SNAPA - Sociedade Nacional de Armadores da Pesca do Arrasto, S. A. R. L., empresas nacionalizadas, operam, tradicionalmente, a primeira com dezasseis unidades e a segunda com cinco na Zona Económica Exclusiva da República Islâmica da Mauritânia.
+2 - Antes da imobilização da frota em meados do ano findo aquelas unidades estavam a laborar com certa regularidade, permitindo manter um normal fluxo das receitas indispensáveis ao funcionamento destas empresas.
+3 - A paralisação veio quebrar este ritmo e conduziu à total descapitalização das duas sociedades, que, como é do conhecimento geral, vinham desde há anos a lutar já com tremendas dificuldades financeiras, dando, embora, a CPP indícios de recuperação.
+4 - Não se afigurando possível a prazo imediato dar a todas aquelas unidades outra utilização, o que deixaria inactivo grande número de trabalhadores, por um lado, e sendo o pescado a capturar pela frota necessário ao abastecimento público, por outro, e reconhecendo-se embora que as soluções definitivas para aquelas unidades passam por profundas alterações a introduzir nas empresas armadoras em causa, o que tem de concretizar-se no mais curto espaço de tempo:
+Determina-se:
+1) Atribuir, a título excepcional, subsídios não reembolsáveis de 60000 contos e 10000 contos, respectivamente, à CPP e à SNAPA para assegurar o pagamento dos encargos indispensáveis ao reinício da actividade da mencionada frota;
+2) Que esta verba seja retirada da dotação de 690000 contos «a distribuir futuramente», nos termos da resolução do Conselho de Ministros n.º 78/78, de 17 de Maio.
+Ministérios das Finanças e do Plano e da Agricultura e Pescas, 5 de Janeiro de 1979. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal.
