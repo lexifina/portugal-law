@@ -1,0 +1,878 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "145",
+    "id": "19268",
+    "titulo": "Iniciativa da lei por grupos de cidadãos eleitores."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2002-10-17",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2291",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2002-10-17",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "BE",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "18981",
+        "leg": "IX",
+        "nr": "9",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "651",
+            "obs": null,
+            "pag": [
+              "2025-2052"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-10-18",
+            "pubLeg": "IX",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/050/2002-10-18/2025?pgs=2025-2052&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "651",
+            "obs": null,
+            "pag": [
+              "2025-2052"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-10-18",
+            "pubLeg": "IX",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/050/2002-10-18/2025?pgs=2025-2052&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "651",
+            "obs": null,
+            "pag": [
+              "2025-2052"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-10-18",
+            "pubLeg": "IX",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/050/2002-10-18/2025?pgs=2025-2052&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Iniciativa Legislativa de Cidadania"
+      },
+      {
+        "autor": "PS",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "19065",
+        "leg": "IX",
+        "nr": "51",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "651",
+            "obs": null,
+            "pag": [
+              "2025-2052"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-10-18",
+            "pubLeg": "IX",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/050/2002-10-18/2025?pgs=2025-2052&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "651",
+            "obs": null,
+            "pag": [
+              "2025-2052"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-10-18",
+            "pubLeg": "IX",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/050/2002-10-18/2025?pgs=2025-2052&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "651",
+            "obs": null,
+            "pag": [
+              "2025-2052"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-10-18",
+            "pubLeg": "IX",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/050/2002-10-18/2025?pgs=2025-2052&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Regula e garante o exercício do direito de Inciativa Legislativa Popular."
+      },
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "19105",
+        "leg": "IX",
+        "nr": "68",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "651",
+            "obs": null,
+            "pag": [
+              "2025-2052"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-10-18",
+            "pubLeg": "IX",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/050/2002-10-18/2025?pgs=2025-2052&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "651",
+            "obs": null,
+            "pag": [
+              "2025-2052"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-10-18",
+            "pubLeg": "IX",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/050/2002-10-18/2025?pgs=2025-2052&org=PLC"
+          },
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "651",
+            "obs": null,
+            "pag": [
+              "2025-2052"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2002-10-18",
+            "pubLeg": "IX",
+            "pubNr": "50",
+            "pubSL": "1",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/050/2002-10-18/2025?pgs=2025-2052&org=PLC"
+          }
+        ],
+        "sel": "1",
+        "tipo": "J",
+        "titulo": "Iniciativa Legislativa Parlamentar"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2002-10-17",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142436",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2025-2026",
+                  "2030-2033"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-18",
+                "pubLeg": "IX",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/050/2002-10-18/2025?pgs=2025-2026,2030-2033&org=PLC"
+              }
+            ],
+            "sumario": "Iniciativa legislativa de cidadania",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142437",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2026-2027"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-18",
+                "pubLeg": "IX",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/050/2002-10-18/2026?pgs=2026-2027&org=PLC"
+              }
+            ],
+            "sumario": "Iniciativa legislativa de cidadania",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1700",
+                "nome": "Vitalino Canas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142438",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2027-2029"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-18",
+                "pubLeg": "IX",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/050/2002-10-18/2027?pgs=2027-2029&org=PLC"
+              }
+            ],
+            "sumario": "Iniciativa legislativa de cidadania",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2006",
+                "nome": "Assunção Esteves"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142439",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2028-2028"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-18",
+                "pubLeg": "IX",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/050/2002-10-18/2028?pgs=2028&org=PLC"
+              }
+            ],
+            "sumario": "Iniciativa legislativa de cidadania",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142440",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2029-2029",
+                  "2032-2032"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-18",
+                "pubLeg": "IX",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/050/2002-10-18/2029?pgs=2029,2032&org=PLC"
+              }
+            ],
+            "sumario": "Iniciativa legislativa de cidadania",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142442",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2029-2030",
+                  "2048-2048"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-18",
+                "pubLeg": "IX",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/050/2002-10-18/2029?pgs=2029-2030,2048&org=PLC"
+              }
+            ],
+            "sumario": "Iniciativa legislativa de cidadania",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1561",
+                "nome": "Luís Montenegro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142445",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2032-2032"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-18",
+                "pubLeg": "IX",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/050/2002-10-18/2032?pgs=2032&org=PLC"
+              }
+            ],
+            "sumario": "Iniciativa legislativa de cidadania",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1022",
+                "nome": "Eugénio Marinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142446",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2033-2034"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-18",
+                "pubLeg": "IX",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/050/2002-10-18/2033?pgs=2033-2034&org=PLC"
+              }
+            ],
+            "sumario": "Iniciativa legislativa de cidadania",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142447",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2048-2049"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-18",
+                "pubLeg": "IX",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/050/2002-10-18/2048?pgs=2048-2049&org=PLC"
+              }
+            ],
+            "sumario": "Iniciativa legislativa de cidadania",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1022",
+                "nome": "Eugénio Marinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142449",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2050-2050"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-18",
+                "pubLeg": "IX",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/050/2002-10-18/2050?pgs=2050&org=PLC"
+              }
+            ],
+            "sumario": "Iniciativa legislativa de cidadania",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142451",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2050-2051"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-18",
+                "pubLeg": "IX",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/050/2002-10-18/2050?pgs=2050-2051&org=PLC"
+              }
+            ],
+            "sumario": "Iniciativa legislativa de cidadania",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:25",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "142453",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2051-2052"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2002-10-18",
+                "pubLeg": "IX",
+                "pubNr": "50",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/050/2002-10-18/2051?pgs=2051-2052&org=PLC"
+              }
+            ],
+            "sumario": "Iniciativa legislativa de cidadania",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "153667",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "273584",
+        "obs": null,
+        "pag": [
+          "2025-2034",
+          "2048-2052"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2002-10-18",
+        "pubLeg": "IX",
+        "pubNr": "50",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/050/2002-10-18/2025?pgs=2025-2034,2048-2052&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
