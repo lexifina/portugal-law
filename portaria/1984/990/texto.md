@@ -1,0 +1,29 @@
+Portaria n.º 990/84
+de 29 de Dezembro
+No âmbito das negociações em curso para a adesão do nosso país à CEE, tem especial relevância a comparticipação que o Fundo Social Europeu possa prestar em relação aos encargos com a amortização dos centros de formação profissional públicos ou privados, com vista a incentivar o crescimento económico de regiões menos favorecidas ou garantir uma situação de equilíbrio do emprego em regiões que se encontrem em crise.
+As normas da Comunidade referem, contudo, que a amortização dos centros de formação criados em algumas regiões consideradas superprioritárias pode ser calculada sobre 6 anos, desde que tal método de amortizações seja compatível com o que vigora no Estado membro interessado.
+Assim, torna-se necessário adequar a legislação nacional às normas da CEE, a fim de que se possa usufruir do referido benefício, entendendo-se que a alteração agora introduzida possa contemplar também as empresas que, embora não comparticipadas pelo Fundo, venham a realizar investimentos em centros de formação profissional de interesse para o desenvolvimento económico e social do País.
+Aproveita-se a oportunidade para elevar a taxa de reintegração fixada para as formas utilizadas na indústria do calçado, passando a incluir-se na mesma rubrica os moldes e as formas afectos àquela actividade específica, ajustando-se, assim, a taxa legal ao crescente deperecimento daqueles elementos, resultante da exigência dos novos modelos da parte de mercados consumidores de artigos de qualidade, como sejam os dos países da EFTA e da CEE.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano, o seguinte:
+1.º A rubrica 3 do grupo 3 da divisão III da tabela I anexa à Portaria n.º 737/81, de 29 de Agosto, passa a ter a seguinte redacção:
+... Percentagens
+3 - Moldes e formas para calçado ... 50
+2.º A divisão I da tabela II anexa à mesma portaria é alterada da maneira seguinte:
+1 - Ao grupo 1 é aditado o n.º 2.5, com a seguinte redacção:
+... Percentagens
+2.5 - Afectos a centros de formação profissional ... 16,66
+2 - O grupo 2 passa a ter a seguinte redacção:
+... Percentagens
+17 - ...
+18 - Instalações de centros de formação profissional ... 16,66
+19 - Não especificadas ... 10
+3 - É aditado ao grupo 3 o n.º 15, com a seguinte redacção:
+... Percentagens
+15 - Equipamento de centros de formação profissional ... 16,66
+4 - É aditada ao grupo 5 a nota (ver nota d), com a seguinte redacção:
+(nota d) O mobiliário e outros elementos afectos a centros de formação profissional são reintegrados à taxa máxima anual de 16,66% se taxa mais elevada não estiver fixada na presente tabela.
+3.º As taxas previstas na presente portaria aplicam-se à determinação da matéria colectável sujeita a contribuição industrial respeitante aos exercícios de 1984 e seguintes.
+Ministério das Finanças e do Plano.
+Assinada em 6 de Dezembro de 1984.
+Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento.
