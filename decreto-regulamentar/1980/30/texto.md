@@ -1,0 +1,21 @@
+Decreto Regulamentar n.º 30/80
+de 25 de Julho
+Determinando-se no artigo 5.º do Decreto-Lei n.º 23/79, de 14 de Fevereiro, que «o pessoal do quadro do Instituto ficará submetido ao estatuto em vigor para o funcionalismo público, incluindo o da aposentação», torna-se, porém, necessário definir o modo como deverá concretizar-se aquela situação.
+Nestes termos:
+O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+Artigo 1.º O pessoal ao serviço do Instituto de Gestão Financeira da Segurança Social é obrigatoriamente inscrito na Caixa Geral de Aposentações, aplicando-se-lhe o disposto no Estatuto da Aposentação - Decreto-Lei n.º 498/72, de 9 de Dezembro.
+Art. 2.º - 1 - As pensões a conceder no âmbito da Caixa Nacional de Previdência aos funcionários do Instituto de Gestão Financeira da Segurança Social que nela estejam ou venham a ser inscritos serão calculadas de acordo com as normas em vigor na mesma Caixa, tendo em conta também o tempo de serviço anteriormente prestado pelo subscritor em qualquer instituição de previdência do âmbito do Ministério dos Assuntos Sociais.
+2 - O Instituto de Gestão Financeira da Segurança Social assumirá a responsabilidade do encargo com a parcela da pensão de aposentação resultante da consideração do tempo de serviço referido no número anterior, bem como das diuturnidades que do mesmo resultem.
+Art. 3.º - 1 - As pensões devidas nos termos do n.º 1 do artigo anterior serão pagas pela Caixa Geral de Aposentações que receberá do Instituto de Gestão Financeira da Segurança Social a quota-parte da pensão da responsabilidade daquele Instituto.
+2 - A entrega das importâncias a que se refere o número anterior far-se-á através de contas correntes a abrir na Caixa Nacional de Previdência entre a Caixa Geral de Aposentações e o Instituto de Gestão Financeira da Segurança Social.
+Art. 4.º - 1 - O pessoal abrangido por este diploma beneficiará do mesmo regime no que respeita a pensões de sobrevivência em conformidade com o Decreto-Lei n.º 142/73, de 30 de Março.
+2 - Quando se trate de tempo sobreposto e não sucessivo, relativo ao exercício da mesma função retribuída por serviços ou organismos do Estado, o pessoal abrangido pelo regime referido no n.º 1 deste artigo, ou os seus herdeiros hábeis, não tem a faculdade de requerer a retroactividade da inscrição no Montepio dos Servidores do Estado, a que se referem os artigos 8.º, 9.º, 10.º e 25.º do respectivo Estatuto, quando essa retroacção venha a abranger tempo já considerado para atribuição de pensões de sobrevivência pela Caixa Nacional de Pensões e respectivos complementos pelos serviços e organismos.
+Art. 5.º - 1 - As pensões devidas nos termos do artigo anterior serão pagas pelo Montepio dos Servidores do Estado, que receberá do Instituto de Gestão Financeira da Segurança Social a quota-parte da pensão da responsabilidade daquele Instituto.
+2 - A entrega das importâncias a que se refere o número anterior far-se-á através de contas correntes a abrir na Caixa Nacional de Previdência entre o Montepio dos Servidores do Estado e o Instituto de Gestão Financeira da Segurança Social.
+Art. 6.º O valor a ter em conta na fixação de pensões mínimas, para os efeitos deste diploma, será o quantitativo global que resultar das regras aplicáveis à Caixa Geral de Aposentações e à Caixa Nacional de Pensões.
+Art. 7.º Ao subsídio previsto no artigo 83.º do Decreto-Lei n.º 498/72, de 9 de Dezembro, são aplicáveis as regras estabelecidas neste diploma para as pensões de aposentação ou reforma do pessoal abrangido pelo n.º 1 do artigo 2.º
+Art. 8.º O presente diploma produz efeitos a partir de 1 de Março de 1979 relativamente aos funcionários aos quais é aplicável o disposto no n.º 1 do artigo 21.º do Decreto-Lei n.º 23/79, de 14 de Fevereiro, com a nova redacção que lhe foi dada pelo Decreto-Lei n.º 139/79, de 19 de Maio, e a partir das datas em relação às quais os funcionários forem providos nos lugares do quadro do Instituto, para o restante pessoal.
+Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Aníbal António Cavaco Silva - João António Morais Leitão.
+Promulgado em 16 de Julho de 1980.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
