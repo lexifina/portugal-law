@@ -1,0 +1,25 @@
+# Acórdão do Tribunal Central Administrativo Sul de 2001-10-23, processo 5448/01
+
+**Acórdãos TCAS:** Acórdão do Tribunal Central Administrativo Sul
+
+**Processo:** 5448/01
+
+**Secção:** Contencioso Tributário
+
+**Data do Acordão:** 10/23/2001
+
+**Relator:** J. Lopes
+
+**Descritores:** OCUPAÇÃO DA VIA PÚBLICA; SERVIÇO PÚBLICO.
+
+**Aditamento:** 1
+
+## Sumário
+
+1 - Segundo a Lei das Finanças Locais (Lei 1/87, 6 JAN artº 11, ais. b) e c); Lei 42/98, 6 AGO - artº 19, ais. b) e c)) os municípios podem cobrar taxas por concessão de licenças de ocupação da via pública por motivo de obras e por ocupação (ou utilização do solo, subsolo e espaço aéreo) do.domínio público (municipal).
+
+2 - Mas não é toda a ocupação que legitima a imposição de taxas. De acordo" com a definição dessa figura, a taxa pressupõe uma utilização individualizada de bens semi-públicos; uma utilização que satisfaça, além das necessidades colectivas, necessidades individuais, isto é, necessidades de satisfação activa, necessidades cuja satisfação exige a procura das coisas pelo consumidor.
+
+3 - E no caso concreto, a instalação das tubagens no subsolo do domínio público municipal para implantação da rede de gás natural pela GDL-Sociedade Distribuidora de Gás Natural.de Lisboa, SÁ, inscreve-se no exercício da actividade de concessionária da construção e exploração, em regime de serviço público, da Rede de Distribuição Regional de Gás Natural de Lisboa (DL nº33/91,16 Janeiro, art.4ºnºl ),verificando-se, precisamente, a ausência dessa utilização individualizada de bens do domínio público. O que se verifica é a ocupação e utilização de bens dominiais para instalação e funcionamento de um serviço público.
+
+4 - E nessas condições as quantias que a CMS pretende cobrar a titulo de abertura de valas e utilização do subsolo não podem ser qualificadas com taxas, por extravasarem os limites delimitadores dessa figura.
