@@ -1,0 +1,5 @@
+Declaração
+Verificando-se que existem divergências entre o original, arquivado nesta Secretaria-Geral, e o texto do artigo 20.º do caderno de encargos aprovado pela Portaria n.º 17796, publicada pelo Ministério das Obras Públicas, Gabinete do Ministro, no Diário do Governo n.º 155, 1ª série, de 6 de Julho do ano findo, novamente se publica o referido artigo, que é do seguinte teor:
+Art. 20.º A multa a pagar pelo empreiteiro, por cada dia que a execução da empreitada exceder o prazo indicado no artigo 16.º, ou sua prorrogação nos termos do artigo 18.º, será de ..., não podendo porém o período da multa exceder ..., findo o qual o contrato será rescindido.
+§ único. No caso de ser exigido ao empreiteiro um plano de trabalhos e este não estiver sendo cumprido, o Estado reserva-se o direito de rescindir imediatamente o contrato de empreitada ou de mandar aplicar a multa de ... por cada dia em que sejam excedidos os prazos nele estabelecidos.
+Secretaria-Geral da Presidência do Conselho, 26 de Abril de 1961. - O Secretário-Geral, Diogo de Castelbranco de Paiva de Faria Leite Brandão.
