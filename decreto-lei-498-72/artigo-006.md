@@ -1,8 +1,8 @@
 # Artigo 6.º
 
-### (Incidência da quota)
+### Incidência da quota
 
-1. Para os efeitos do presente diploma, e salvo disposição especial em contrário, consideram-se remunerações os ordenados, salários, gratificações, emolumentos e outras retribuições, certas ou acidentais, fixas ou variáveis, correspondentes ao cargo ou cargos exercidos e não isentas de quota nos termos do n.º 2.
+1 - Para efeitos do presente diploma e salvo disposição especial em contrário, consideram-se remunerações os ordenados, salários, gratificações, emolumentos, o subsídio de férias, o subsídio de Natal e outras retribuições, certas ou acidentais, fixas ou variáveis, correspondentes ao cargo ou cargos exercidos e não isentas de quota nos termos do n.º 2.
 
 2. Estão isentos de quota os abonos provenientes de participações em multas, senhas de presença, prémios por sugestões, trabalho extraordinário, simples inerências e outros análogos, bem como todos os demais que, por força do presente diploma ou de lei especial, não possam igualmente influir, em qualquer medida, na pensão de aposentação.
 
