@@ -1,0 +1,5 @@
+Portaria n.º 922/82
+de 30 de Setembro
+Nos termos do artigo 4.º do Decreto-Lei n.º 40520, de 2 de Fevereiro de 1956, e do n.º 1 do artigo 2.º do Decreto-Lei n.º 351/80, de 3 de Setembro, obtido o parecer favorável da Direcção-Geral de Saúde, ouvida a Comissão Técnica Portuguesa de Normalização de Aditivos Alimentares (CT-53) e verificadas as condições mencionadas no artigo 5.º do citado Decreto-Lei n.º 40520:
+Manda o Governo da República Portuguesa, pelo Ministro da Agricultura, Comércio e Pescas, sob proposta do Instituto de Qualidade Alimentar, autorizar a firma Knorr Portuguesa - Produtos Alimentares, S. A. R. L., com sede em Lisboa, a incorporar na mistura para bolo de amêndoa, marca comercial Knorr, os antioxígenos galatos de propilo, de octilo e de dodecilo, estremes ou em mistura, no máximo de 20 mg por quilograma do produto a fabricar.
+Ministério da Agricultura, Comércio e Pescas, 16 de Setembro de 1982. - O Ministro da Agricultura, Comércio e Pescas, Basílio Adolfo Mendonça Horta da Franca.
