@@ -1,0 +1,4 @@
+Portaria n.º 577/76
+de 24 de Setembro
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Justiça, que, nos termos do n.º 3 do artigo 71.º do Decreto n.º 314/70, de 8 de Julho, seja aumentado com um lugar de terceiro-ajudante o quadro do pessoal auxiliar dos serviços anexados do Registo Civil e Notariado de Salvaterra de Magos.
+Ministério da Justiça, 10 de Setembro de 1976. - O Secretário de Estado da Justiça, José Dias dos Santos Pais.
