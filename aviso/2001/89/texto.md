@@ -1,0 +1,11 @@
+Aviso n.º 89/2001
+Por ordem superior se torna público que, por nota de 7 de Junho de 2001 e nos termos do artigo 31.º da Convenção Relativa à Citação e Notificação no Estrangeiro de Actos Judiciais e Extrajudiciais em Matéria Civil ou Comercial, concluída na Haia em 15 de Novembro de 1965, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos informou ter a República da Lituânia depositado o seu instrumento de adesão em 2 de Agosto de 2000, contendo as seguintes declarações:
+Tradução
+«Considerando a previsão do artigo 2.º da citada Convenção, a República da Lituânia designa o Ministro da Justiça da República da Lituânia como a autoridade central para receber pedidos de citação e os de notificação provenientes de outros Estados contratantes.
+Considerando a previsão do artigo 8.º da citada Convenção, a República da Lituânia declara que se opõe aos meios de citação e notificação previstos neste artigo, excepto se o acto dever ser objecto de citação ou notificação a um nacional do Estado de origem.
+Considerando a previsão do artigo 10.º da citada Convenção, a República da Lituânia declara opor-se aos meios de citação e notificação previstos neste artigo.
+Considerando a previsão do § 2.º do artigo 15.º da citada Convenção, a República da Lituânia declara que o juiz da República da Lituânia pode julgar, embora não tenha sido recebido qualquer certificado da citação ou notificação ou da entrega, se todas as condições previstas no § 2.º do artigo 15.º se encontrarem preenchidas.
+Considerando a previsão do § 2.º do artigo 16.º da citada Convenção, a República da Lituânia declara que o pedido para relevação não será atendido se tiver sido formulado um ano após a data do julgamento final.»
+Nos termos do disposto no § 3.º do artigo 28.º, a Convenção entrou em vigor para a República da Lituânia no dia 1 de Julho de 2001.
+Portugal é Parte na mesma Convenção, que foi aprovada, para ratificação, pelo Decreto n.º 210/71, de 18 de Junho, tendo depositado o seu instrumento de ratificação em 27 de Dezembro de 1973, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 20, de 24 de Janeiro de 1974.
+Departamento de Assuntos Jurídicos, 12 de Julho de 2001. - A Directora, Maria Margarida Aleixo Antunes Rei.
