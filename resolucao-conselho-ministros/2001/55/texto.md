@@ -1,0 +1,30 @@
+Resolução do Conselho de Ministros n.º 55/2001
+Os laboratórios do Estado e, em geral, as instituições públicas de investigação cumprem missões de inegável interesse público, que se consubstanciam não apenas na sua actividade de investigação e desenvolvimento tecnológico mas também, designadamente, na prestação de serviços, apoio à indústria, peritagens, certificação ou normalização. Fundamental é, também, o papel que lhes compete em matéria de minimização de riscos públicos.
+Sem estruturas adequadas, quer materiais quer humanas, e sem procedimentos de actuação eficazes, as referidas instituições deixam de poder desempenhar cabalmente o papel insubstituível que lhes cabe no panorama científico e tecnológico nacional.
+Por essa razão, a reforma das referidas instituições tem sido uma preocupação constante do Governo. Assim, em 1995 foi desencadeado um amplo processo de avaliação independente do sector público de investigação que identificou bloqueios, diagnosticou problemas e apontou soluções e caminhos de actuação futura.
+De entre as conclusões desse processo de avaliação importa chamar a atenção para a necessidade que claramente se apontava de alteração das regras administrativas e financeiras a que as instituições de investigação e desenvolvimento nacionais estavam sujeitas, vistas, aliás, como um pesado fardo redutor da respectiva eficiência. O caminho apontado era o de uma maior autonomia e descentralização.
+Outro dos pontos fundamentais focado nas referidas conclusões era o dos recursos humanos, factor determinante na vida das instituições de investigação. Chamava-se a atenção para a necessidade premente de rejuvenescer o pessoal daquelas instituições e para o fomento da mobilidade dentro do sistema científico e tecnológico.
+Na sequência da avaliação feita, o Governo adoptou a Resolução do Conselho de Ministros n.º 133/97, de 12 de Agosto, que estabeleceu orientações e princípios a que se devia subordinar a reforma das instituições aqui referidas.
+Mais uma vez aí se salientou a importância das matérias acima referidas no quadro do processo de modernização das instituições públicas de investigação e desenvolvimento.
+Eram assim, designadamente, identificadas como linhas orientadoras da reforma de que elas careciam:
+a) A adequação das regras administrativas e financeiras que regem a actividade dos laboratórios do Estado;
+b) A revisão da política de recursos humanos, rejuvenescendo os efectivos de pessoal e clarificando os respectivos estatutos;
+c) A introdução de formas contratuais adaptadas às funções a desempenhar;
+d) A promoção da mobilidade de pessoal dentro do sistema científico e tecnológico e com o sistema produtivo;
+e) O descongelamento progressivo de novas admissões para os quadros de pessoal e o recurso à figura do contrato individual de trabalho;
+f) O crescimento progressivo dos orçamentos directamente ligados à requalificação das actividades científicas e técnicas.
+Muito foi já feito no sentido do cumprimento das orientações estabelecidas. Cumpre, neste contexto, salientar a adopção de um diploma enquadrador do regime jurídico aplicável às instituições públicas de investigação, a adopção de um novo estatuto da carreira de investigação científica ou o lançamento do programa de apoio à reforma dos laboratórios do Estado.
+Há, no entanto, que acelerar e aprofundar o processo de reforma das instituições públicas de investigação científica e desenvolvimento tecnológico em curso, caminhando no sentido do reforço da respectiva autonomia e da criação das condições necessárias ao desenvolvimento eficaz da sua actividade.
+Assim, nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Criar um grupo de trabalho que deverá propor ao Conselho de Ministros, no prazo de 30 dias, medidas tendentes à concretização dos seguintes objectivos:
+a) Desenvolvimento do enquadramento da gestão financeira e patrimonial das instituições públicas de investigação científica e desenvolvimento tecnológico que reforce, no sentido de uma maior agilização, flexibilidade e eficácia, o quadro normativo actualmente existente;
+b) Aprofundamento do regime de gestão de recursos humanos das instituições públicas de investigação científica e desenvolvimento tecnológico no sentido do reforço da capacidade das mesmas na área de pessoal científico e tecnológico qualificado, dos incentivos à mobilidade dentro do sistema e da sua competitividade;
+c) Criação de um fundo de apoio à reforma e desenvolvimento acelerado das instituições públicas de investigação científica e desenvolvimento tecnológico.
+2 - O grupo de trabalho referido no número anterior é constituído por:
+a) Ministro da Ciência e da Tecnologia, que preside;
+b) Secretário de Estado do Orçamento, em representação do Ministro das Finanças;
+c) Secretário de Estado da Administração Pública e da Modernização Administrativa, em representação do Ministro da Reforma do Estado e da Administração Pública.
+3 - Aos trabalhos do grupo serão ainda associados, na medida em que as questões a tratar envolvam as instituições que representam:
+a) Os membros do Governo que tutelam laboratórios do Estado;
+b) Um representante do Conselho de Reitores das Universidades Portuguesas.
+Presidência do Conselho de Ministros, 3 de Maio de 2001. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
