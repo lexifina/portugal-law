@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que, segundo comunicação do Secretário de Estado norte-americano, os Governos da República Socialista da Checoslováquia e da República Popular Federal da Jugoslávia depositaram, em 25 de Abril de 1963 e em 22 de Maio de 1963, respectivamente, os instrumentos de aceitação da alteração do Estatuto da Agência Internacional de Energia Atómica, aprovada pela 5.ª Conferência Geral daquela Agência, realizada em Viena em 4 de Outubro de 1961.
+Direcção-Geral dos Negócios Económicos e Consulares, 10 de Setembro de 1963. - O Director-Geral, Albano Pires Fernandes Nogueira.
