@@ -1,0 +1,6 @@
+Portaria n.º 23929
+Por despacho de 26 de Novembro de 1964, foi o Centro de Normalização autorizado a inscrever-se, como representante de Portugal, na Comissão Internacional de Regulamentação para Aprovação do Equipamento Eléctrico.
+Esta Comissão pediu a todos os países membros que procedessem ao registo nacional da marca Ê aplicável aos materiais e produtos eléctricos que satisfaçam às características fixadas nas suas especificações, para posteriormente se processar, através do Secretariado-Geral da C. E. E., ao seu registo internacional no Bureau International de la Propriété Industrielle, em Berna.
+Nestas condições:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Indústria, que seja autorizado o Centro de Normalização, como representante de Portugal na Comissão Internacional de Regulamentação para Aprovação do Equipamento Eléctrico (C. E. E.), a registar em seu nome a marca Ê aplicável aos materiais e aos produtos eléctricos que satisfaçam ou venham a satisfazer às especificações publicadas pela C. E. E., ficando o Centro de Normalização responsável pela concessão e pela fiscalização do uso dessa marca.
+Secretaria de Estado da Indústria, 18 de Fevereiro de 1969. - O Secretário de Estado da Indústria, Manuel Rafael Amaro da Costa.
