@@ -1,0 +1,43 @@
+# Acórdão do Tribunal da Relação de Lisboa de 1976-11-30, processo 0008721
+
+**Acórdãos TRL:** Acórdão do Tribunal da Relação de Lisboa
+
+**Processo:** 0008721
+
+**Nº Convencional:** JTRL00024218
+
+**Relator:** COSTA AROSO
+
+**Descritores:** PENA DE MULTA; CONVERSÃO DA MULTA EM PRISÃO; CONSTITUCIONALIDADE
+
+**Nº do Documento:** RL197611300008721
+
+**Data do Acordão:** 11/30/1976
+
+**Votação:** MAIORIA COM DEC VOT E VOT VENC
+
+**Referência de Publicação:** CJ 1976 PAG826
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REC PENAL.
+
+**Decisão:** PROVIDO.
+
+**Área Temática:** DIR CONST - DIR FUND.; DIR CRIM - TEORIA GERAL.
+
+**Legislação Nacional:** CP886 ART122 PAR2.; CPP29 ART640.; CONST76 ART13 ART27 N2.
+
+## Sumário
+
+I - Os artigos 27 - 2 e 13 da Constituição da República Portuguesa não revogaram as disposições do Código Penal e do Código de Processo Penal relativas à conversão das multas em prisão (v. g. artigos 122, parágrafo 2 e 640, respectivamente).
+
+II - Com efeito, o n. 2 do citado artigo 27, designadamente na sua expressão "acto punido com pena de prisão", limita-se a pressupor que a lei ordinária estabeleça quanto a privação de liberdade, revista esta a forma de prisão maior, prisão simples ou prisão resultante de conversão não estando aí a palavra "prisão" empregada no sentido rigoroso que lhe dá a ciência jurídica, com exclusão da prisão que resulta da conversão da multa.
+
+III - Por sua vez, o artigo 13 não poderia funcionar para beneficiar os que não possam pagar as multas, em face dos que as pagam ou podem pagar.
+
+IV - Seria, aliás impossível a distinção prática, completa e perfeita, entre condenados em multa possidentes e não possidentes, v.g. abdicando da conversão em prisão e substituindo esta por prestações de trabalho obrigatório (em regime livre), pois mesmo, então, subsistiria a desigualdade, pois os primeiros limitar-se-iam a pagar a multa e os segundos teriam de a remir por trabalho.
+
+V - A proibição da prisão por dívidas, no sentido tradicional (dívidas de natureza civil). continua a ter expressão constitucional, embora indirecta, por via da conjugação do artigo 16 - 1 da Constituição da República Portuguesa com as leis internas que àquela se referem ou dela são aplicações v. g. o artigo 114 do Código Penal (redacção do Decreto-Lei n. 183/72, de 31/5).
