@@ -1,0 +1,5 @@
+Aviso
+Por ordem superior se torna público que o representante permanente de Portugal junto dos organismos e organizações internacionais, em Genebra, notificou o secretário executivo da Comissão Económica para a Europa, em 17 de Abril de 1979, da aceitação, por parte de Portugal, das Resoluções n.os 36 e 37, assim como dos novos desenhos n.os 1 e 2, adoptados em 25 de Outubro de 1974 pelo grupo de peritos dos problemas aduaneiros relativos a transportes.
+A Resolução n.º 36 foi publicada no Diário do Governo, 1.ª série, n.º 202, de 2 de Setembro de 1975, e os novos desenhos n.os 1 e 2, que a ela se referem, no Diário da República, 1.ª série, n.º 136, de 15 de Junho de 1977.
+A Resolução n.º 37 foi publicada no Diário do Governo, 1.ª série, n.º 203, de 3 de Setembro de 1975, e os novos desenhos n.os 1 e 2, que a ela se referem, no Diário da República, 2.ª série, n.º 138, de 17 de Junho de 1977.
+Direcção-Geral dos Negócios Económicos, 31 de Maio de 1979. - O Adjunto do Director-Geral, Carlos Alberto Soares Simões Coelho.
