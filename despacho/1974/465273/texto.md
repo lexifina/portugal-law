@@ -1,0 +1,3 @@
+Despacho
+É revogado a partir de 10 de Julho de 1974 o despacho de 10 de Outubro de 1964, publicado no Diário do Governo, 1.ª série, n.º 238, do mesmo mês, que determinou a cobrança do diferencial de 20$00 por tonelada de carvão vendido pelas minas nacionais e tonelada de lignite, antracite, hulha ou coques estrangeiros importados pelas estações aduaneiras do continente e ilhas adjacentes.
+Ministérios das Finanças e da Economia, 24 de Outubro de 1974. - O Ministro das Finanças, José da Silva Lopes. - Pelo Ministro da Economia, José de Melo Torres Campos, Secretário de Estado da Indústria e Energia.
