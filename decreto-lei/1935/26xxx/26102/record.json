@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1935/11/27200/17451745.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1935-11-23",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "45015ff97bc82e24e865530b1f550ab146f26df2badca43cb0d16a1ec00dda03",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.7,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "ae6dcfd1338b838331cbc936d02a67cb2f0b910a3dfff39e2777d8e770ed91ae",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 259
 }
