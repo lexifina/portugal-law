@@ -1,0 +1,13 @@
+Decreto-Lei n.º 734/76
+de 15 de Outubro
+Atendendo à vontade expressa pela maioria absoluta dos cidadãos eleitores com residência habitual no lugar de Ferraria e na parte do lugar da Ponte da Fraga, situada na margem esquerda do rio Sermanha, pertencentes à freguesia de Vinhós, no concelho de Peso da Régua, no sentido de aquelas povoações serem desanexadas da freguesia de Vinhós e integradas na de Sedielos, ambas do concelho de Peso da Régua;
+Considerando o parecer favorável do Município de Peso da Régua e do governador civil de Vila Real;
+Nestes termos:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º São transferidas, com efeitos a partir de 15 de Setembro do corrente ano, para a freguesia de Sedielos, do concelho de Peso da Régua, as povoações de Ferraria e da parte da Ponte da Fraga, na margem esquerda do rio Sermanha, da freguesia de Vinhós, do mesmo concelho.
+Art. 2.º A delimitação entre as duas freguesias passa a ser definida por uma linha que, partindo do marco divisório M. F. 11, localizado no Cabeço da Loisa, segue pelo cume do monte que divide os baldios entre Ferraria e Ermida até ao local conhecido por Lameira das Covas, daqui seguindo para sul pelos limites do mesmo monte; flecte em seguida para nascente pela linha de água do Vale da Cruz, onde vai entroncar com o caminho vicinal Ermida-Ferraria, prossegue por este para sul até ao sítio do Amadinho, donde continua para nascente pela linha de água da Sabugueira até encontrar o caminho do Lameirão; segue depois por este caminho até se encontrar com o caminho vicinal Ferraria-Vinhós e prossegue por este para nascente e, em seguida, para sul até passar a acompanhar, sucessivamente, a estrema poente dos prédios matriciais n.os 701, 719, 715, 738, 739, 740 e 741, a estrema sul dos prédios matriciais n.os 741, 730 e 732 e a estrema poente dos prédios matriciais n.os 702, 705 e 706; daqui continua para nascente, pela estrema sul do prédio matricial n.º 706, vindo a alcançar, a cerca de 200 m do marco divisório M. F. 22, a actual linha divisória entre as freguesias de Sedielos e Vinhós, que se manterá, a partir daqui, sem qualquer alteração.
+Art. 3.º A Comissão Administrativa do Município de Peso da Régua procederá, no prazo de noventa dias, a contar da publicação do presente decreto-lei, à colocação de marcos, onde se tornem necessários, por forma que fiquem bem patentes os limites fixados no artigo 2.º
+Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás.
+Promulgado em 8 de Outubro de 1976.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
