@@ -20,6 +20,6 @@ g) As infracções previstas nas alíneas a), e) e l) do artigo anterior quando 
 
 h) A infracção prevista na alínea b) do artigo anterior, quando o excesso de velocidade for superior a 60 km/h ou a 40 km/h, respectivamente, bem como a infracção prevista na alínea c) do mesmo artigo, quando o excesso de velocidade for superior a 40 km/h;
 
-i) A infracção prevista na alínea m) do artigo anterior, quando a taxa de álcool no sangue for superior a 0,8 g/l;
+i) A infracção prevista na alínea m) do artigo anterior, quando a taxa de álcool no sangue for igual ou superior a 0,8 g/l;
 
 j) A condução sob a influência de substâncias legalmente consideradas como estupefacientes ou psicotrópicas.

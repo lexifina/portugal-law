@@ -2,7 +2,7 @@
 
 ### Auto de notícia e de denúncia
 
-1 - Qualquer autoridade ou agente de autoridade que, no exercício das suas funções de fiscalização, presenciar contra-ordenação levanta ou manda levantar auto de notícia que deve mencionar os factos que constituem a infracção, o dia, a hora, o local e as circunstâncias em que foi cometida, o nome e a qualidade da autoridade que a presenciou e tudo o que puder averiguar acerca da identificação dos agentes da infracção e, quando possível, de, pelo menos, uma testemunha que possa depor sobre os factos.
+1 - Qualquer autoridade ou agente de autoridade que, no exercício das suas funções de fiscalização, presenciar contra-ordenação levanta ou manda levantar auto de notícia, que deve mencionar os factos que constituem a infracção, o dia, a hora, o local e as circunstâncias em que foi cometida, o nome e a qualidade da autoridade que a presenciou e tudo o que puder averiguar acerca da identificação dos agentes da infracção e, quando possível, de, pelo menos, uma testemunha que possa depor sobre os factos.
 
 2 - O auto de notícia é assinado pela autoridade ou agente de autoridade que o levantou ou mandou levantar, pelas testemunhas, quando for possível, e pelo infractor, se quiser assinar, devendo ser lavrada certidão no caso de recusa.
 

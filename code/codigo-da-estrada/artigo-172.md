@@ -4,7 +4,7 @@
 
 1 - Podem ser removidos os veículos que se encontrem:
 
-a) Estacionados abusivamente, nos termos do artigo 170.º, não tendo sido retirados nas condições fixadas na lei;
+a) Estacionados abusivamente, nos termos do artigo 170.º;
 
 b) Estacionados ou imobilizados na berma de auto-estrada ou via equiparada;
 

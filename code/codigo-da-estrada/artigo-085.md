@@ -14,7 +14,7 @@ b) Carta ou licença de condução;
 
 c) Certificado de seguro.
 
-2 - Tratando-se de automóvel, motociclo, ciclomotor, tractor agrícola ou florestal ou reboque, o condutor deve ainda ser portador dos seguintes documentos:
+2 - Tratando-se de automóvel, motociclo, ciclomotor, tractor agrícola ou florestal, ou reboque, o condutor deve ainda ser portador dos seguintes documentos:
 
 a) Título de registo de propriedade do veículo ou documento equivalente;
 

@@ -16,6 +16,6 @@ c) O de veículo, em zona de estacionamento condicionado ao pagamento de taxa, q
 
 d) O de veículo que permanecer em local de estacionamento limitado mais de duas horas para além do período de tempo permitido;
 
-e) O de veículos agrícolas, máquinas industriais, reboques e semi-reboques não atrelados ao veículo tractor e o de veículos publicitários que permaneçam no mesmo local por tempo superior a quarenta e oito horas ou a 30 dias, se estacionarem em parques a esse fim destinados;
+e) O de veículos agrícolas, máquinas industriais, reboques e semi-reboques não atrelados ao veículo tractor e o de veículos publicitários que permaneçam no mesmo local por tempo superior a quarenta e oito horas, ou a 30 dias se estacionarem em parques a esse fim destinados;
 
 f) O que se verifique por tempo superior a quarenta e oito horas, quando se tratar de veículos que apresentem sinais exteriores evidentes de abandono ou de impossibilidade de se deslocarem com segurança pelos seus próprios meios.

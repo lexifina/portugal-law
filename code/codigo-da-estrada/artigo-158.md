@@ -1,6 +1,6 @@
 ## SECÇÃO II
 
-## Procedimento para a fiscalização da condução sob influência de álcool, substâncias estupefacientes ou psicotrópicas
+## Procedimento para a fiscalização de condução sob influência de álcool, estupefacientes, substâncias psicotrópicas ou produtos com efeito análogo
 
 # Artigo 158.º
 

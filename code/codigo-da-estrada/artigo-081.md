@@ -20,8 +20,6 @@ b) Resultado positivo em análises toxicológicas efectuadas para detecção de 
 
 a) 20000$00 a 100000$00, se a taxa de álcool no sangue for superior à prevista na alínea a) do n.º 2;
 
-b) 40000$00 a 200000$00, se aquela taxa for igual ou superior a 0,8 g/l e inferior a 1,2 g/l ou se conduzir sob influência de estupefacientes, substâncias psicotrópicas ou produtos com efeito análogo;
+b) 40000$00 a 200000$00, se aquela taxa for igual ou superior a 0,5 g/l e inferior a 0,8 g/l;
 
-c) 60000$00 a 300000$00, se a taxa de álcool for igual ou superior a 1,2 g/l.
-
-5 - Quem recusar submeter-se aos exames estabelecidos no n.º 2 do presente artigo é sancionado com coima de 300000$00, se ao facto não couber sanção mais grave.
+c) 60000$00 a 300000$00, se a taxa de álcool for igual ou superior a 0,8 g/l ou se conduzir sob influência de estupefacientes, substâncias psicotrópicas ou produtos com efeito análogo.
