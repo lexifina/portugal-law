@@ -1,0 +1,6 @@
+Portaria n.º 4/70
+Considerando que, por insuficiência dos quadros de pessoal, se encontram ao serviço de estabelecimentos hospitalares, na situação de além dos quadros, profissionais de enfermagem que aguardam vaga para neles ingressarem, e entendendo-se que é justo tomar em conta o tempo de serviço por eles prestado, na classificação relativa dos candidatos em concursos de ingresso, o que não foi previsto na Portaria n.º 23344, de 3 de Maio de 1968;
+Nos termos da alínea a) do n.º 2 do artigo 14.º do Decreto-Lei n.º 48166, de 27 de Dezembro de 1967:
+Manda o Governo da República Portuguesa, pelo Ministro da Saúde e Assistência, o seguinte:
+Quando aos concursos para enfermeiros de 2.ª e auxiliares de enfermagem de 2.ª dos hospitais se apresentarem candidatos que, à data da publicação da Portaria n.º 23344, de 3 de Maio de 1968, estivessem a prestar serviço nesses hospitais, em qualquer situação além dos quadros, cada ano de bom e efectivo serviço contará como um valor e meio, a adicionar à classificação obtida no respectivo curso, para efeito de classificação final.
+Ministério da Saúde e Assistência, 5 de Janeiro de 1970. - O Ministro da Saúde e Assistência, Lopo de Carvalho Cancella de Abreu.
