@@ -2,7 +2,7 @@
 
 ### (Emissão ou recusa)
 
-1 - As certidões são passadas no prazo máximo de 5 dias, sempre que possível por fotocópia, e o respectivo imposto do selo é pago por verba.
+1 - As certidões são passados no prazo máximo de cinco dias, sempre que possível por fotocópia.
 
 2 - As certidões negativas devem ser passadas em impresso oficialmente aprovado.
 

@@ -10,4 +10,4 @@
 
 2 - A prova da correspondência entre a antiga e a nova denominação ou numeração, se não resultar dos documentos apresentados, pode ser suprida por declaração complementar dos interessados, quando a câmara municipal certificar a impossibilidade de a estabelecer.
 
-3 - A certidão a que se refere o número anterior é requerida em papel comum, isenta de selo e passada gratuitamente.
+3 - A certidão a que se refere o número anterior é gratuita.

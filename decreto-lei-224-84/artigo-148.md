@@ -1,5 +1,7 @@
 # Artigo 148.º
 
-### (Comunicações oficiosas)
+### (Valor do recurso e isenção)
 
-Decidido definitivamente o recurso, o chefe da secretaria deve remeter à conservatória cópia da decisão proferida; se houver desistência ou deserção do recurso, ou se estiver parado mais de 30 dias por inércia do recorrente deve o facto ser também comunicado.
+1 - O valor do recurso contencioso é o do facto cujo registo foi recusado ou feito provisoriamente por dúvidas.
+
+2 - Os conservadores são dispensados de preparos e isentos de custas, ainda que os motivos da recusa ou da provisoriedade sejam julgados improcedentes, salvo se tiverem agido com dolo.

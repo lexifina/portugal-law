@@ -14,6 +14,6 @@
 
 ### (Princípio do tratado sucessivo)
 
-1 - O registo definitivo de aquisição de direitos ou de constituição de encargos por negócio jurídico depende da prévia inscrição dos bens em nome de quem os transmite ou onera.
+1 - O registo definitivo de aquisição de direitos nos termos da alínea c) do n.º 2 do artigo 9.º ou de constituição de encargos por negócio jurídico depende da prévia inscrição dos bens em nome de quem os transmite ou onera.
 
 2 - No caso de existir sobre os bens registo de aquisição ou reconhecimento de direito susceptível de ser transmitido ou de mera posse, é necessária a intervenção do respectivo titular para poder ser lavrada nova inscrição definitiva, salvo se o facto for consequência de outro anteriormente inscrito.

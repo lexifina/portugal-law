@@ -12,7 +12,7 @@ c) A denominação do prédio e a sua situação por referência ao lugar, rua, 
 
 d) A composição e a área do prédio;
 
-e) O rendimento colectável ou, na sua falta, o valor venal;
+e) O valor patrimonial constante da matriz ou, na sua falta, o valor venal;
 
 f) A situação matricial do prédio expressa pelo artigo de matriz ou pela menção de estar omisso.
 

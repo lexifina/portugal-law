@@ -1,11 +1,11 @@
 # Artigo 143.º
 
-### (Efeitos da impugnação)
+### (Apreciação do recurso hierárquico)
 
-1 - A interposição de recurso ou reclamação deve ser imediatamente anotada na ficha respectiva a seguir à anotação da recusa ou ao registo provisório.
+1 - O recurso hierárquico é decidido no prazo de 90 dias pelo director-geral dos Registos e do Notariado, que pode determinar que previamente seja ouvido o Conselho Técnico.
 
-2 - São ainda anotadas a improcedência ou a desistência da impugnação, bem como, no caso de recurso, a sua deserção ou paragem durante mais de 30 dias por inércia do recorrente.
+2 - Quando haja de ser ouvido, o Conselho Técnico deve pronunciar-se no prazo máximo de 60 dias.
 
-3 - Com a interposição do recurso ou da reclamação fica suspenso o prazo de caducidade do registo provisório, até lhe serem anotados os factos referidos no n.º 2.
+3 - A decisão do director-geral diferente do parecer do Conselho Técnico deve ser fundamentada.
 
-4 - Se o recurso ou a reclamação forem julgados procedentes, cumprir-se-á o disposto no n.º 1 do artigo anterior.
+4 - A decisão proferida é notificada ao reclamante por carta registada e comunicada ao conservador reclamado.

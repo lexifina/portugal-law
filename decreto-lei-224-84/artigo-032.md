@@ -7,3 +7,5 @@
 2 - No caso de estar pendente alteração ou rectificação da matriz, aos documentos previstos no artigo anterior deve ser junto duplicado do respectivo pedido feito há menos de 1 ano.
 
 3 - A prova da participação e do pedido previstos nos números anteriores não carece de ser renovada para os registos apresentados dentro do referido prazo.
+
+4 - Se a participação para a inscrição na matriz ou o pedido da sua rectificação ou alteração não tiverem sido feitos pelo proprietário ou possuidor, deve o interessado, sendo terceiro, fazer prova de que deu conhecimento à repartição de finanças da omissão ou alteração ou do erro existente.

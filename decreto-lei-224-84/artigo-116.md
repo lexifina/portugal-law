@@ -15,3 +15,5 @@
 2 - Se existir inscrição de aquisição, reconhecimento ou mera posse, pode também suprir-se, mediante justificação judicial ou notarial, a intervenção do respectivo titular, exigida pela regra do n.º 2 do artigo 34.º
 
 3 - Na hipótese prevista no número anterior, a usucapião implica novo trato sucessivo a partir do titular do direito assim justificado.
+
+4 - O processo de justificação previsto na lei sobre emparcelamento substitui, com as necessárias adaptações, a escritura de justificação notarial.

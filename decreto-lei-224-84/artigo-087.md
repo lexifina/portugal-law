@@ -16,4 +16,6 @@ d) As descrições previstas na segunda parte do n.º 2 do artigo 80.º, quando 
 
 e) As descrições de prédios cuja área seja totalmente dividida em lotes de terreno destinados à construção.
 
+f) As descrições dos prédios de cada proprietário submetidos a emparcelamento.
+
 3 - A inutilização de qualquer descrição é anotada com menção da sua causa.
