@@ -1,0 +1,16 @@
+Portaria n.º 18921
+O Decreto-Lei n.º 43874, de 24 de Agosto de 1961, pelo seu artigo 1.º declarou extinta, a partir de 31 de Dezembro de 1961, a Junta de Exportação do Café, e pelo seu artigo 13.º afectou as atribuições deste organismo de coordenação económica relativas à comercialização e ao abastecimento de café aos serviços a designar por esta Secretaria de Estado do Comércio.
+Nestes termos, em execução do disposto naquele artigo 13.º e considerando as atribuições do Grémio dos Armazenistas de Mercearia definidas nos n.os 2.º, 4.º, 5.º, 7.º, 9.º e 10.º do artigo 7.º e no artigo 8.º do Decreto-Lei n.º 30002, de 26 de Outubro de 1939:
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar e pelo Secretário de Estado do Comércio, o seguinte:
+1.º A Comissão de Coordenação Económica, para o desempenho das atribuições que lhe são conferidas pela alínea 2) do artigo 21.º do Decreto-Lei n.º 43874, de 24 de Agosto de 1961, deverá ouvir o Grémio dos Armazenistas de Mercearia, que, a pedido daquela Comissão ou por iniciativa própria, lhe enviará todos os elementos considerados necessários à elaboração do plano anual de abastecimento de café, à fixação dos preços de venda no continente e ilhas adjacentes e à disciplina das actividades interessadas no comércio deste produto.
+2.º Incumbe ao Grémio dos Armazenistas de Mercearia:
+a) Importar café ultramarino, quando circunstâncias excepcionais o justifiquem, e estabelecer postos de venda ao público;
+b) Receber da origem, em regime de consignação, sempre que o julgue conveniente, o café ultramarino adquirido pelos torrefactores, armazenistas e retalhistas, e distribuí-lo por estes compradores, em termos legais;
+c) Fixar obrigatoriedade de um mínimo global de existências de cafés para os importadores metropolitanos e consignatários e ratear aquele mínimo pelos interessados;
+d) Executar, na parte que lhe diga respeito, o plano anual do abastecimento do café;
+e) Fazer cumprir a legislação em vigor sobre o comércio de café na metrópole;
+f) Aplicar as penalidades estabelecidas na lei, relativas às infracções disciplinares referentes àquele comércio.
+3.º Os pedidos de importação, exportação e reexportação do café cru, torrado ou moído serão apresentados pelos interessados no Grémio dos Armazenistas de Mercearia, que, para efeito do respectivo despacho, os remeterá, devidamente informados, à Direcção-Geral do Comércio da Secretaria de Estado do Comércio.
+4.º As atribuições conferidas pelo artigo 20.º da Portaria n.º 17330, de 31 de Agosto de 1959, à Junta de Exportação do Café ficam a pertencer, a partir de 1 de Janeiro de 1962, à Comissão Interministerial do Café, prevista no artigo 19.º do Decreto-Lei n.º 43874, sempre que um dos interessados na reclassificação do café seja importador, armazenista, consignatário, torrefactor ou retalhista do mesmo produto.
+A Comissão Interministerial do Café poderá delegar estas funções no delegado do Governo junto do Grémio dos Armazenistas de Mercearia, se assim o entender conveniente.
+Ministério do Ultramar e Secretaria de Estado do Comércio, 28 de Dezembro de 1961. - O Ministro do Ultramar, Adriano José Alves Moreira - O Secretário de Estado do Comércio, João Augusto Dias Rosas.
