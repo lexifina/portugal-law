@@ -1,0 +1,407 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "19",
+    "id": "6141",
+    "titulo": "Regula o voto dos cidadãos portugueses residentes no estrangeiro na eleição do Presidente da Republica e alarga as situações de voto antecipado alterando o Decreto-lei n°319-A/ 76 de 3 de Maio"
+  },
+  "fase": "Discussão especialidade",
+  "codigo_fase": "300",
+  "data_registo": "2000-07-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "5962",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "300",
+    "Comissao": null,
+    "DataFase": "2000-07-06",
+    "EvtId": "17",
+    "Fase": "Discussão especialidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-07-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27103",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3478-3478"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3478?pgs=3478&org=PLC"
+              }
+            ],
+            "sumario": "REGULA O VOTO DOS CIDADAOS PORTUGUESES RESIDENTES NO ESTRANGEIRO NA ELEICAO DO PRESIDENTE DA REPUBLICA E ALARGA AS SITUACOES DE VOTO ANTECIPADO ALTERANDO O DEC-LEI 319-A/76, DE 3 DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27104",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3477-3477"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3477?pgs=3477&org=PLC"
+              }
+            ],
+            "sumario": "REGULA O VOTO DOS CIDADAOS PORTUGUESES RESIDENTES NO ESTRANGEIRO NA ELEICAO DO PRESIDENTE DA REPUBLICA E ALARGA AS SITUACOES DE VOTO ANTECIPADO ALTERANDO O DEC-LEI 319-A/76, DE 3 DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27105",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3474-3474"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3474?pgs=3474&org=PLC"
+              }
+            ],
+            "sumario": "REGULA O VOTO DOS CIDADAOS PORTUGUESES RESIDENTES NO ESTRANGEIRO NA ELEICAO DO PRESIDENTE DA REPUBLICA E ALARGA AS SITUACOES DE VOTO ANTECIPADO ALTERANDO O DEC-LEI 319-A/76, DE 3 DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27106",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3474-3474"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3474?pgs=3474&org=PLC"
+              }
+            ],
+            "sumario": "REGULA O VOTO DOS CIDADAOS PORTUGUESES RESIDENTES NO ESTRANGEIRO NA ELEICAO DO PRESIDENTE DA REPUBLICA E ALARGA AS SITUACOES DE VOTO ANTECIPADO ALTERANDO O DEC-LEI 319-A/76, DE 3 DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "161",
+                "nome": "Carlos Luís"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27107",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3474-3474"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3474?pgs=3474&org=PLC"
+              }
+            ],
+            "sumario": "REGULA O VOTO DOS CIDADAOS PORTUGUESES RESIDENTES NO ESTRANGEIRO NA ELEICAO DO PRESIDENTE DA REPUBLICA E ALARGA AS SITUACOES DE VOTO ANTECIPADO ALTERANDO O DEC-LEI 319-A/76, DE 3 DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "117",
+                "nome": "Maria Manuela Aguiar"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27108",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3473-3474"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3473?pgs=3473-3474&org=PLC"
+              }
+            ],
+            "sumario": "REGULA O VOTO DOS CIDADAOS PORTUGUESES RESIDENTES NO ESTRANGEIRO NA ELEICAO DO PRESIDENTE DA REPUBLICA E ALARGA AS SITUACOES DE VOTO ANTECIPADO ALTERANDO O DEC-LEI 319-A/76, DE 3 DE MAIO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": "ESPECIALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "22:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27109",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3473-3473"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-07-07",
+                "pubLeg": "VIII",
+                "pubNr": "87",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07/3473?pgs=3473&org=PLC"
+              }
+            ],
+            "sumario": "REGULA O VOTO DOS CIDADAOS PORTUGUESES RESIDENTES NO ESTRANGEIRO NA ELEICAO DO PRESIDENTE DA REPUBLICA E ALARGA AS SITUACOES DE VOTO ANTECIPADO ALTERANDO O DEC-LEI 319-A/76, DE 3 DE MAIO",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "250246",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "5962",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-07-07",
+        "pubLeg": "VIII",
+        "pubNr": "87",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/087/2000-07-07?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
