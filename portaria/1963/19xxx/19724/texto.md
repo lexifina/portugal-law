@@ -1,0 +1,5 @@
+Portaria n.º 19724
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, abrir em Angola um crédito especial da quantia de 630137$00, a inscrever em adicional ao capítulo 1.º da tabela de despesa ordinária do orçamento geral da província para o ano económico de 1962, destinado ao pagamento de juros de 2,5 por cento relativos ao «Empréstimo de 2,5 por cento de 1962 - Província de Angola», autorizado pelo Decreto n.º 44429, de 29 de Junho de 1962, tomando como contrapartida as disponibilidades existentes na verba do capítulo 4.º, artigo 507.º, n.º 1) «Corpo de Polícia de Segurança Pública - Despesas com o pessoal - Remunerações certas ao pessoal exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da referida tabela de despesa.
+Ministério do Ultramar, 22 de Fevereiro de 1963. - Pelo Ministro do Ultramar, Joaquim Moreira da Silva Cunha, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Angola. - Silva Cunha.
