@@ -1,0 +1,41 @@
+Decreto-Lei n.º 287/87
+de 25 de Julho
+Com a extinção dos grémios da lavoura, operada através do Decreto-Lei n.º 482/74, de 25 de Setembro, foi sentida a necessidade da existência de um organismo que na Região Autónoma dos Açores visasse não só a sua substituição mas também e principalmente pudesse colmatar as deficiências que eles nunca superaram.
+Nesse sentido, foi criado, na dependência do Governo Regional, o Instituto de Apoio Comercial à Agricultura, Pecuária e Silvicultura (IACAPS), através do Decreto Regional n.º 11/79/A, de 8 de Maio, organismo que, dotado de autonomia administrativa e financeira, tem como principais atribuições o apoio comercial directo aos sectores agrícola, pecuário e silvícola e a colaboração com outros organismos públicos, privados ou cooperativos ligados aos referidos sectores, bem como contribuir para o desenvolvimento económico, especialmente com estudos de comercialização e industrialização dos respectivos produtos.
+Ao abrigo do artigo 9.º daquele diploma, o pessoal que prestava serviço nos extintos grémios da lavoura foi integrado na sua totalidade no IACAPS, não se fazendo referência expressa sobre qual o estatuto jurídico-laboral a que o mesmo pessoal ficava sujeito.
+Essa indefinição permaneceu, mal-grado a publicação do regulamento daquele Instituto, aprovado pelo Decreto Regulamentar Regional n.º 8/80/A, de 5 de Março, porquanto o artigo 21.º limita-se a mencionar que as condições de ingresso e acesso à carreira profissional do pessoal do quadro do IACAPS são as das carreiras estabelecidas no Decreto-Lei n.º 191-C/79, de 25 de Junho, e na legislação regional e geral complementar.
+Assim, no que diz respeito ao regime de previdência, os trabalhadores dos ex-grémios da lavoura integrados no IACAPS continuaram inscritos e a descontar para a Segurança Social e a poderem beneficiar das pensões complementares referidas no artigo 35.º do estatuto anexo à Portaria n.º 768/71, de 31 de Dezembro.
+No entanto, aquela portaria não prevê a possibilidade de actualização das pensões atribuídas aos reformados, para além do facto de aquele diploma exigir como idade mínima de reforma os 65 anos, o que gera uma situação de disparidade relativamente ao funcionalismo público.
+Nesse sentido, procurando sanar situações como as atrás descritas, o presente diploma visa, nomeadamente, o estabelecimento de um mecanismo de processamento de pensões, de modo que os trabalhadores recebam uma pensão global equivalente àquela que receberiam se desde sempre descontassem para a Caixa Geral de Aposentações, obrigando-se o Centro Nacional de Pensões a contribuir e enviar àquele organismo as parcelas das pensões que lhe dizem respeito.
+Refira-se, por último, que para a elaboração deste projecto de diploma seguiu-se de perto o Decreto-Lei n.º 141/79, de 22 de Maio.
+Assim, e ouvida a Região Autónoma dos Açores:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º
+Âmbito de aplicação
+1 - A partir da data da entrada em vigor deste diploma, o pessoal que esteve ao serviço nos ex-grémios da lavoura sediados na Região Autónoma dos Açores e que, com a extinção daqueles organismos, foi integrado no Instituto de Apoio Comercial à Agricultura, Pecuária e Silvicultura (IACAPS) passa a ser obrigatoriamente inscrito na Caixa Geral de Aposentações (CGA), aplicando-se-lhe o disposto no Decreto-Lei n.º 498/72, de 9 de Dezembro, e legislação complementar.
+2 - O disposto no número anterior implica a inscrição na Assistência na Doença dos Servidores Civis do Estado (ADSE), ficando o pessoal nela abrangido a coberto do regime de protecção na doença nos termos gerais em vigor na função pública.
+Artigo 2.º
+Atribuição de pensões complementares
+1 - O pessoal referido no artigo 1.º, quando se aposentar, terá direito a pensões complementares, de modo que o montante total das suas pensões seja igual ao que resultaria se lhe fosse aplicável a forma de cálculo determinada no Decreto-Lei n.º 498/72, de 9 de Dezembro.
+2 - Para o cálculo das pensões complementares será contado todo o tempo de serviço prestado, incluindo o anterior à data da inscrição na Segurança Social.
+3 - Os encargos com as pensões complementares atribuídas por força do n.º 1 deste artigo serão suportadas pela CGA.
+Artigo 3.º
+Entidade processadora das pensões complementares
+1 - As pensões globais referidas no n.º 1 do artigo anterior serão pagas pela CGA, que receberá do Centro Nacional de Pensões (CNP) a quota-parte da pensão da responsabilidade deste organismo.
+2 - Para efeitos do número anterior, será aberta uma conta corrente entre a CGA e o CNP.
+Artigo 4.º
+Pensões de sobrevivência
+O pessoal abrangido por este diploma ao qual seja aplicável o disposto no n.º 1 do artigo 2.º e no artigo 3.º beneficiará do mesmo regime no que respeita às pensões de sobrevivência, em conformidade com o Decreto-Lei n.º 142/73, de 31 de Março (Estatuto das Pensões de Sobrevivência).
+Artigo 5.º
+Subsídio por morte
+Ao subsídio previsto no artigo 83.º do Decreto-Lei n.º 498/72, de 9 de Dezembro, são aplicáveis as regras estabelecidas neste diploma para as pensões de aposentação do pessoal abrangido pelo n.º 1 do artigo 2.º
+Artigo 6.º
+Contribuição para a Caixa Nacional de Previdência
+1 - O IACAPS, na qualidade de entidade patronal, entregará mensalmente à Caixa Nacional de Previdência (CGA e Montepio dos Servidores do Estado) uma quantia correspondente a 5% das remunerações sujeitas a desconto para esta instituição, de todo o seu pessoal, como contribuição para o financiamento do sistema.
+2 - O desconto referido no número anterior será efectuado simultaneamente com a entrega das quotas do respectivo pessoal e poderá ser actualizado por portaria do Ministro das Finanças, caso se verifiquem alterações nos parâmetros estruturais do sistema de aposentação da função pública.
+Visto e aprovado em Conselho de Ministros de 9 de Junho de 1987. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Manuel Carlos Carvalho Fernandes - António Amaro de Matos.
+Promulgado em 9 de Julho de 1987.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 15 de Julho de 1987.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
