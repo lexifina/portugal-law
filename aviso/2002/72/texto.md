@@ -1,0 +1,4 @@
+Aviso n.º 72/2002
+Por ordem superior se torna público que, agindo na sua qualidade de depositário da Convenção para a Protecção dos Bens Culturais em Caso de Conflito Armado, adoptada na Haia em 14 de Maio de 1954, o director-geral da Organização das Nações Unidas para a Educação, Ciência e Cultura (UNESCO) comunicou ter o Botswana depositado o seu instrumento de adesão à citada Convenção em 3 de Janeiro de 2002, tendo entrado em vigor, para este país, em 3 de Abril de 2002.
+Portugal é parte da mesma, tendo depositado o respectivo instrumento de ratificação em 4 de Agosto de 2000, conforme publicado no Diário da República, 1.ª série-A, n.º 40, de 16 de Fevereiro de 2001.
+Direcção de Serviços das Organizações Políticas Internacionais, 21 de Junho de 2002. - O Director de Serviços, Rui Filipe Monteiro Belo Macieira.
