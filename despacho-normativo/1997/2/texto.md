@@ -1,0 +1,6 @@
+Despacho Normativo n.º 2/97
+Através do Despacho Normativo n.º 43-A/96 foi regulamentado o regime de apoio aos produtores de culturas arvenses.
+A aplicação deste regime veio demonstrar a necessidade de introdução de outros ajustamentos, tendo em vista melhorar as condições da sua aplicabilidade.
+De entre esses ajustamentos avulta o que respeita às condições de elegibilidade para atribuição da ajuda à cultura de oleaginosas, atentos os novos critérios do plano de regionalização em vigor.
+Assim, determino, em derrogação ao disposto na alínea a) do n.º 23 do Despacho Normativo n.º 43-A/96, que, para os produtores tradicionais de oleaginosas, nas regiões de rendimento inferior a 2 t/ha é elegível a maior área objecto de ajuda numa das - campanhas de 1994-1995, 1995-1996 ou 1996-1997, desde que a área de cultura de oleaginosas candidata à ajuda, em sequeiro ou em regadio, não ultrapasse 35% da área total semeada com culturas arvenses objecto de pedido de ajuda na respectiva superfície de base.
+Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, 30 de Dezembro de 1996. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.
