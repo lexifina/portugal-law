@@ -1,0 +1,4 @@
+Aviso n.º 188/98
+Por ordem superior se torna público que a Turquia depositou, em 11 de Julho de 1997, os instrumentos de ratificação do Protocolo n.º 11 à Convenção de Salvaguarda dos Direitos do Homem e das Liberdades Fundamentais, aberta para assinatura, em Estrasburgo, em 11 de Maio de 1994.
+Portugal é Parte neste Protocolo, que foi aprovado, para ratificação, pela Resolução da Assembleia da República n.º 21/97, publicada no Diário da República, 1.ª série-A, n.º 102, de 3 de Maio de 1997, tendo depositado o seu instrumento de ratificação em 3 de Maio 1997, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 102, de 3 de Maio de 1997.
+Direcção-Geral dos Assuntos Multilaterais, 14 de Setembro de 1998. - O Director de Serviços das Organizações Políticas Internacionais, João José Gomes Caetano da Silva.
