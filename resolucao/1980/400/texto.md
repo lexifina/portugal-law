@@ -1,0 +1,5 @@
+Resolução n.º 400/80
+De acordo com a Resolução n.º 75/80 (Diário da República, n.º 53, de 4 de Março de 1980, com uma rectificação no Diário da República, 1.ª série, n.º 68, de 21 de Março de 1980), que determina a cessação da intervenção do Estado na Casa Agrícola Santos Jorge, S. A. R. L., foi nomeada, por despacho conjunto dos Ministros das Finanças e do Plano e da Agricultura e Pescas, a comissão prevista no n.º 4 daquela resolução, a qual deveria decidir sobre todas as questões emergentes da separação do património restituível e não restituível, da regularização do passivo, bem como de definição do activo referente aos períodos anterior e posterior à intervenção.
+Considerando que a complexidade das questões em análise não permitiu que a comissão concluísse os trabalhos até à data prevista:
+O Conselho de Ministros, reunido em 25 de Novembro de 1980, resolveu prorrogar, até 31 de Dezembro de 1980, o prazo fixado no n.º 4 da resolução do Conselho de Ministros que determina a cessação da intervenção do Estado naquela empresa.
+Presidência do Conselho de Ministros, 25 de Novembro de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
