@@ -1,0 +1,1615 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=sHIRRaZSClvqs2fgPou4a23MGhhl3X0gpgbp%2btNARhGZicYLOXPZWkruq4vVo2sWGLeVuvGAgqbFJbJwQRW44CI9tfmX%2bbWTsyeHmJUtTMccM5o%2bccvn1sCfcA%2fpd%2bu%2fwKJ%2bFD1ev4cnIw3pVnfMa%2bhzSz6cuwzZblBv5LWM36SEbL%2bBs5zO8uiZpaydxrwOvnbXHxO20Qolz2olAmCgsT1gDBlsVm7WmD5xQWyQKm1VSK31nRXYjP8b8P%2feFXtP5tOSkcyuffzIm3hAkBaoFGuUyO4s%2fkJ5BzS9ISNRC1O2ZlNJZ6At2vSnnzEc478srqvpEWstyCICdzJ0iIVMlkL18DFe0lclA2tQQF6038g%3d&fich=IniciativasIV_json.txt&Inline=true",
+  "ficheiro_sha256": "66d499906f5f48d8fdeb07035c408bad3bf810ad88e2ed743ec1b74baa57e0d7",
+  "legislatura": "IV",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "3",
+    "id": "28155",
+    "titulo": "Orçamento suplementar para 1985"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1986-01-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "4003",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1986-01-06",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1986-01-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "49",
+                "nome": "Fernando Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "21:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227950",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "596-603"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-01-07",
+                "pubLeg": "IV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/596?pgs=596-603&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento suplementar para 1985",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3074",
+                "nome": "Rui Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "21:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227951",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "603-603"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-01-07",
+                "pubLeg": "IV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/603?pgs=603&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento suplementar para 1985",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "49",
+                "nome": "Fernando Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "21:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227952",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "603-605"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-01-07",
+                "pubLeg": "IV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/603?pgs=603-605&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento suplementar para 1985",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "21:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS   FINANÇAS",
+              "governo": "X GOVERNO CONSTITUCIONAL",
+              "nome": "Miguel Cadilhe"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227953",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "605-607",
+                  "611-612"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-01-07",
+                "pubLeg": "IV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/605?pgs=605-607,611-612&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento suplementar para 1985",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "MDP/CDE",
+                "idCadastro": "212",
+                "nome": "João Corregedor da Fonseca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "21:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227954",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "607-608"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-01-07",
+                "pubLeg": "IV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/607?pgs=607-608&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento suplementar para 1985",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "21:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227955",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "608-608"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-01-07",
+                "pubLeg": "IV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/608?pgs=608&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento suplementar para 1985",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PRD",
+                "idCadastro": "4788",
+                "nome": "Magalhães Mota"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "21:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227956",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "608-609"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-01-07",
+                "pubLeg": "IV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/608?pgs=608-609&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento suplementar para 1985",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "3230",
+                "nome": "Maldonado Gonelha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "21:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227957",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "609-610"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-01-07",
+                "pubLeg": "IV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/609?pgs=609-610&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento suplementar para 1985",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS",
+                "idCadastro": "226",
+                "nome": "Nogueira de Brito"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "21:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227958",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "610-610"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-01-07",
+                "pubLeg": "IV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/610?pgs=610&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento suplementar para 1985",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "3265",
+                "nome": "António Osório"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "21:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227959",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "610-610"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-01-07",
+                "pubLeg": "IV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/610?pgs=610&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento suplementar para 1985",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PRD",
+                "idCadastro": "4788",
+                "nome": "Magalhães Mota"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "21:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227960",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "613-614"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-01-07",
+                "pubLeg": "IV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/613?pgs=613-614&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento suplementar para 1985",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "MDP/CDE",
+                "idCadastro": "212",
+                "nome": "João Corregedor da Fonseca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "21:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227961",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "614-616"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-01-07",
+                "pubLeg": "IV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/614?pgs=614-616&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento suplementar para 1985",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "21:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227962",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "616-618"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-01-07",
+                "pubLeg": "IV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/616?pgs=616-618&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento suplementar para 1985",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "459",
+                "nome": "João Cravinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "21:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227963",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "618-620",
+                  "621-621"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-01-07",
+                "pubLeg": "IV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/618?pgs=618-620,621&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento suplementar para 1985",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "134",
+                "nome": "Rui Machete"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "21:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227964",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "620-621"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-01-07",
+                "pubLeg": "IV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/620?pgs=620-621&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento suplementar para 1985",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PRD",
+                "idCadastro": "3076",
+                "nome": "Silva Lopes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "21:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227965",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "621-623"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-01-07",
+                "pubLeg": "IV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/621?pgs=621-623&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento suplementar para 1985",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "3230",
+                "nome": "Maldonado Gonelha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "21:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227966",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "623-624"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-01-07",
+                "pubLeg": "IV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/623?pgs=623-624&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento suplementar para 1985",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS",
+                "idCadastro": "226",
+                "nome": "Nogueira de Brito"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "21:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227967",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "624-626"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-01-07",
+                "pubLeg": "IV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/624?pgs=624-626&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento suplementar para 1985",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "21:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  TESOURO",
+              "governo": "X GOVERNO CONSTITUCIONAL",
+              "nome": "Tavares Moreira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227968",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "627-627"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-01-07",
+                "pubLeg": "IV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/627?pgs=627&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento suplementar para 1985",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3074",
+                "nome": "Rui Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "21:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227969",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "628-630",
+                  "631-631"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-01-07",
+                "pubLeg": "IV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/628?pgs=628-630,631&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento suplementar para 1985",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS",
+                "idCadastro": "226",
+                "nome": "Nogueira de Brito"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "21:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227970",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "630-630"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-01-07",
+                "pubLeg": "IV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/630?pgs=630&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento suplementar para 1985",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS",
+                "idCadastro": "226",
+                "nome": "Nogueira de Brito"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "21:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227971",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "632-632"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-01-07",
+                "pubLeg": "IV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/632?pgs=632&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento suplementar para 1985",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "3074",
+                "nome": "Rui Amaral"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "21:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227972",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "632-632"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-01-07",
+                "pubLeg": "IV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/632?pgs=632&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento suplementar para 1985",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "459",
+                "nome": "João Cravinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "21:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227973",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "632-632"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-01-07",
+                "pubLeg": "IV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/632?pgs=632&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento suplementar para 1985",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "3017",
+                "nome": "José Luís Nunes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "21:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227974",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "632-633"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-01-07",
+                "pubLeg": "IV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/632?pgs=632-633&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento suplementar para 1985",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "21:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E. DOS  ASSUNTOS FISCAIS",
+              "governo": "X GOVERNO CONSTITUCIONAL",
+              "nome": "José De Oliveira Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227975",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "634-634",
+                  "634-635",
+                  "635-635",
+                  "636-636"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-01-07",
+                "pubLeg": "IV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/634?pgs=634,634-635,635,636&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento suplementar para 1985",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "MDP/CDE",
+                "idCadastro": "212",
+                "nome": "João Corregedor da Fonseca"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "21:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227976",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "634-634"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-01-07",
+                "pubLeg": "IV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/634?pgs=634&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento suplementar para 1985",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PRD",
+                "idCadastro": "4788",
+                "nome": "Magalhães Mota"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "21:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227977",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "635-635"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-01-07",
+                "pubLeg": "IV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/635?pgs=635&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento suplementar para 1985",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "21:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227978",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "635-636"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-01-07",
+                "pubLeg": "IV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/635?pgs=635-636&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento suplementar para 1985",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "21:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.   DO  ORÇAMENTO",
+              "governo": "X GOVERNO CONSTITUCIONAL",
+              "nome": "Rui Carp"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227979",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "636-636",
+                  "638-638"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-01-07",
+                "pubLeg": "IV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/636?pgs=636,638&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento suplementar para 1985",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "21:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227980",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "637-637"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-01-07",
+                "pubLeg": "IV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/637?pgs=637&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento suplementar para 1985",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "3230",
+                "nome": "Maldonado Gonelha"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "21:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "227981",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "637-637"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1986-01-07",
+                "pubLeg": "IV",
+                "pubNr": "19",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07/637?pgs=637&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento suplementar para 1985",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "215748",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "4003",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1986-01-07",
+        "pubLeg": "IV",
+        "pubNr": "19",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/04/01/019/1986-01-07?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
