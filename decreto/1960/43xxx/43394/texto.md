@@ -1,0 +1,13 @@
+Decreto n.º 43394
+Considerando que foi adjudicada à firma Martins & Guedes, Lda., a empreitada de construção do edifício do picadeiro do Colégio Militar;
+Considerando que para a execução de tais obra está fixado um prazo que abrange parte do ano económico de 1960, o ano de 1961 e parte do ano de 1962;
+Tendo em vista o disposto no artigo 22.º e seu § 1.º do Decreto-Lei n.º 41375, de 19 de Novembro de 1957;
+Usando da faculdade conferida pelo n.º 3 º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º É autorizada a Repartição dos Serviços Administrativos da Direcção-Geral dos Edifícios e Monumentos Nacionais do Ministério das Obras Públicas a celebrar contrato com a firma Martins & Guedes, Lda., para a execução da empreitada designada por «Construção do edifício do picadeiro do Colégio Militar», pela importância de 1368367$00, acrescidos de 54735$00 para despesas de expediente e administração.
+Art. 2.º Seja qual for o valor dos trabalhos a realizar, não poderá o conselho administrativo da Direcção dos Serviços de Fortificações e Obras Militares despender com pagamentos relativos aos trabalhos executados, por virtude deste contrato, e a despesa de expediente e administração mais do que as importâncias abaixo indicadas:
+Em 1960 ... 104000$00
+Em 1961 ... 1040000$00
+Em 1962 ... 279102$00
+ou o que se apurar como saldo nos anos de 1960 e 1961.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 13 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Júlio Carlos Alves Dias Botelho Moniz - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Eduardo de Arantes e Oliveira.
