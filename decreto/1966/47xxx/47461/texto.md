@@ -1,0 +1,27 @@
+Decreto n.º 47461
+Com fundamento nas disposições do artigo 3.º do Decreto-Lei n.º 24914, de 10 de Janeiro de 1935, e mediante propostas aprovadas pelo Ministro das Finanças, nos termos do mesmo artigo;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos económicos findos inscrita nos orçamentos do actual ano económico, as quantias seguintes:
+Encargos Gerais da Nação
+Encargo do ano de 1964 referente a vencimentos, gratificações, ajudas de custo e serviços clínicos e de hospitalização a liquidar pelo conselho administrativo do Depósito Geral de Material da Força Aérea ... 75441$60
+Despesas do ano de 1965 respeitantes a transportes a liquidar pela Secretaria-Geral da Assembleia Nacional ... 22310$90
+... 97752$50
+Ministério da Justiça
+Despesas do ano de 1965 referentes a ajudas de custo e a serviços clínicos e de hospitalização a liquidar, respectivamente, pela Cadeia Civil do Porto e Direcção-Geral dos Serviços Prisionais ... 1248$20
+Ministério do Exército
+Ajudas de custo referentes aos anos de 1960 a 1965 a abonar a diversos militares ... 140421$00
+Ministério da Marinha
+Encargo do ano de 1965 respeitante a luz, aquecimento, água, lavagem e limpeza, telefones e transportes a liquidar pelo conselho administrativo da Direcção do Serviço de Electricidade e Comunicações ... 1065563$70
+Ministério dos Negócios Estrangeiros
+Encargos diversos do Ministério referentes aos anos de 1961 a 1965 ... 9007400$10
+Ministério da Educação Nacional
+Encargos do ano de 1965 respeitantes a telefones a liquidar pela Faculdade de Ciências da Universidade de Lisboa ... 18931$30
+Despesas com ajudas de custo e conservação de semoventes do ano de 1965 a liquidar pela Secretaria-Geral do Ministério ... 1646$40
+... 20577$70
+Ministério das Comunicações
+Despesas de transportes da Direcção-Geral da Aeronáutica Civil referentes ao ano de 1965 ... 1215$40
+Ministério das Corporações e Previdência Social
+Encargo do ano de 1965 referente a telefones da delegação de Castelo Branco ... 297$60
+Art. 2.º Fica igualmente autorizado o Instituto de Assistência Nacional aos Tuberculosos a satisfazer, em conta da verba de despesas de anos económicos findos inscrita no seu actual orçamento privativo, a quantia de 1226$00 em dívida a um ex-colchoeiro dos serviços centrais.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 31 de Dezembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
