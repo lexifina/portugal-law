@@ -1,0 +1,4 @@
+Portaria n.º 18635
+Em execução do disposto no artigo 2.º do Decreto-Lei n.º 43423, de 22 de Dezembro de 1960, e em aditamento ao estabelecido no § único do n.º 1.º da Portaria n.º 18206, de 13 de Janeiro de 1961:
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças e Secretário de Estado da Agricultura, que as importâncias devidas pela certificação levada a efeito pela Estação de Ensaio de Sementes sobre sementes de forragens adquiridas pela Federação Nacional dos Produtores do Trigo sejam cobradas por este organismo nas condições indicadas no § único do n.º 1.º da Portaria n.º 18206 para o trigo e cevada dística.
+Ministérios das Finanças e da Economia, 4 de Agosto de 1961. - O Ministro das Finanças, António Manuel Pinto Barbosa. - O Secretário de Estado da Agricultura, João Mota Pereira de Campos.
