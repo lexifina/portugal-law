@@ -2,7 +2,7 @@
 
 1 - Para efeitos desta tabela, o valor do facto registado é, em geral, o dos bens que constituem o seu objecto.
 
-2 - O valor dos prédios é o de 20 vezes o rendimento colectável, ou aquele que as partes lhe atribuírem, se for superior, e, na falta destes elementos, obtém-se segundo as regras gerais da lei processual ou considera-se indeterminado, se não for possível fixá-lo.
+2 - O valor dos prédios é o seu valor fiscal ou aquele que as partes lhes atribuírem, se for superior, e, na falta destes elementos, obtém-se segundo as regras gerais da lei processual ou considera-se indeterminado, se não for possível fixá-lo.
 
 3 - Nos registos de garantia, o valor do facto é o assegurado pelo próprio registo, recorrendo se às regras da lei processual, se necessário, para a sua determinação.
 
