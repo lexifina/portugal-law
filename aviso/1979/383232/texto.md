@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, em 21 de Março de 1979, o Governo de Djibouti depositou, junto do Secretário-Geral das Nações Unidas, o instrumento de adesão à Convenção Suplementar Relativa à Abolição da Escravatura, do Tráfego de Escravos e das Instituições e Práticas Análogas à Escravatura, concluída em Genebra em 7 de Setembro de 1956, de que Portugal já é parte. Aquele instrumento diplomático entrou em vigor, com referência àquele país, em 21 de Março de 1979.
+Secretaria-Geral do Ministério, 17 de Maio de 1979. - O Chefe dos Serviços Jurídicos e de Tratados, Mário d'Oliveira Neves.
