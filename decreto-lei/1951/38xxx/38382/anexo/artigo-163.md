@@ -1,3 +1,3 @@
 # Artigo 163.º
 
-A existência de meios de transporte vertical - ascensores, monta-cargas, escadas ou tapetes rolantes -, quando exigidos pelo presente regulamento, em condições de não poderem ser utilizados permanentemente, será punida com multa de 500$00 a 2000$00.
+Os mínimos e os máximos fixados no artigo anterior são elevados para o dobro quando a infracção for praticada por empresas que se dediquem à construção civil ou seus mandatários ou comissários.
