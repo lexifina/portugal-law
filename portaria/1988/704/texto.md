@@ -1,0 +1,19 @@
+Portaria n.º 704/88
+de 20 de Outubro
+A Directiva n.º 80/217/CEE, de 22 de Janeiro, modificada pelas Directivas n.os 81/476/CEE, de 8 de Julho, e 84/645/CEE, de 11 de Dezembro, estabelecem as medidas comunitárias de luta contra a peste suína clássica.
+Considerando que a Directiva n.º 80/1095/CEE, de 11 de Novembro, fixa as condições destinadas a manter o território da Comunidade indemne de peste suína clássica e que as Decisões n.os 80/1096/CEE, do Conselho, de 11 de Novembro, e 87/230/CEE, de 7 de Abril, estabelecem uma acção financeira da Comunidade com a duração de seis anos com vista à erradicação desse morbo;
+Considerando que em Portugal todo o enquadramento da luta contra a peste suína clássica era conduzido no âmbito da luta contra o complexo das pestes do porco e que, face à nossa adesão, era imperioso definir um plano de erradicação autónomo que respondesse às exigências dos normativos comunitários;
+Considerando que o referido plano já foi apresentado e recebeu a aprovação por parte das autoridades comunitárias, através da Decisão n.º 87/478/CEE, de 9 de Setembro:
+Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, ao abrigo do artigo 18.º do Decreto-Lei n.º 250/88, de 16 de Julho, o seguinte:
+1.º O Plano Acelerado de Erradicação da Peste Suína Clássica, adiante designado por Plano, elaborado nos termos dos artigos 3.º e 4.º da Directiva n.º 80/1095/CEE, de 11 de Novembro, e dos artigos 3.º e 5.º da Decisão n.º 80/1096/CEE, de 11 de Novembro, tem como objectivo o combate ao morbo.
+2.º As acções a desenvolver no âmbito do Plano reportam-se à intensificação da profilaxia médica, ao alargamento do controle sorológico, à imposição da occisão sanitária e correspondente indemnização compensatória, assim como a adopção das medidas de polícia sanitária que serão aplicadas nos termos da legislação em vigor.
+3.º O Plano, com uma duração de seis anos, aplicar-se-á a todo o território do continente.
+4.º Todas as acções respeitantes a vacinação e diagnóstico laboratorial, bem como o fornecimento de equipamento, reagentes e outros produtos, serão da responsabilidade do coordenador nacional proposto pelo director-geral da Pecuária.
+5.º As indemnizações devidas aos criadores por motivo de abate sanitário dos efectivos suínos atacados ou suspeitos de doença serão pagas pelo Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas, sob proposta do coordenador nacional.
+6.º O Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas, adiante designado por IFADAP, procederá ao pagamento das despesas em conformidade com as necessidades de execução das acções, a solicitação do respectivo gestor, desde que o pagamento se encontre em condições de ser efectuado.
+7.º Sempre que necessário, o gestor poderá solicitar ao IFADAP um adiantamento anual até ao limite de 20% do montante estimado nesse ano para a execução das acções da sua competência.
+8.º - 1 - Havendo adiantamento nos termos do número anterior, cada uma das parcelas subsequentes a libertar pelo IFADAP no ano em causa não poderá exceder o valor das despesas efectuadas e comprovadas. O IFADAP só libertará verbas respeitantes a um certo ano quando se encontre comprovada a aplicação de 90% das verbas entregues no ano anterior ou haja sido devolvido o saldo eventualmente não aplicado.
+2 - Os comprovativos relativos ao remanescente deverão ser apresentados no IFADAP até ao último dia do mês de Fevereiro subsequente, data a partir da qual ficarão condicionados os pagamentos futuros.
+Ministério da Agricultura, Pescas e Alimentação.
+Assinada em 7 de Outubro de 1988.
+O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.
