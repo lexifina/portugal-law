@@ -1,0 +1,5 @@
+Aviso n.º 133/2001
+Por ordem superior se torna público que, em 28 de Julho de 2000 e em 25 de Outubro de 2001, foram emitidas notas respectivamente pela Embaixada da Espanha em Lisboa e pelo Ministério dos Negócios Estrangeiros português em que se comunicava a aprovação do Acordo entre a República Portuguesa e o Reino da Espanha relativo à Instituição de uma Comissão Mista nos Domínios dos Transportes Terrestres e das Infra-Estruturas de Transporte, assinado em Salamanca em 26 de Janeiro de 2000.
+Por parte de Portugal, o citado Acordo foi aprovado pelo Decreto n.º 13/2001, publicado no Diário da República, 1.ª série-A, n.º 54, de 5 de Março de 2001.
+A nota emitida pelo Ministério dos Negócios Estrangeiros foi recebida pela Embaixada da Espanha em 28 de Outubro de 2001, pelo que o Acordo entrou em vigor em 27 de Novembro de 2001, nos termos do seu artigo 3.º, n.º 2.
+Direcção-Geral das Relações Bilaterais, 28 de Novembro de 2001. - O Director-Geral, José Caetano de Campos de Andrada da Costa Pereira.
