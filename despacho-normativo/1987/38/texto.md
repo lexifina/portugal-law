@@ -1,0 +1,10 @@
+Despacho Normativo n.º 38/87
+Têm sido levantadas com frequência dúvidas quanto ao enquadramento pela Segurança Social de beneficiários cuja situação laboral não figura de forma iniludível a situação típica do contrato de trabalho ou do contrato de prestação de serviços.
+Com efeito, situações existem, como as de vendedores de livros, que ganham à comissão, e as de trabalhadores eventuais, nomeadamente os da actividade turística e de algumas outras, que têm suscitado dúvidas quanto ao enquadramento no regime geral de segurança social dos trabalhadores por conta de outrem, sob a alegação de que na sua base não se encontraria um contrato de trabalho subordinado.
+Com esta argumentação vem-se verificando, inclusivamente, a não inscrição, por parte de algumas entidades patronais, dos trabalhadores nestas condições.
+No entanto, estas relações laborais, surgidas, na maior parte, em resultado da actual conjuntura económica, muito embora apresentem algumas especificidades, têm, na sua essência, características que apontam inequivocamente para uma real subordinação do trabalhador à respectiva entidade patronal e, como tal, devem determinar o seu enquadramento no regime de segurança social dos trabalhadores por conta de outrem.
+Nestes termos:
+Ao abrigo do artigo 201.º do Decreto n.º 45266, de 23 de Setembro de 1963, aplicável por força do n.º 2 do artigo 83.º da Lei n.º 28/84, de 14 de Agosto, determino o seguinte:
+1 - Os trabalhadores cuja actividade seja exercida com efectiva subordinação a outra entidade, qualquer que seja de facto a forma pela qual sejam remunerados, ainda que a mesma revista carácter eventual e assuma a forma aparente de contrato de prestação de serviços, são obrigatoriamente abrangidos pelo regime geral de segurança social dos trabalhadores por conta de outrem.
+2 - As entidades que beneficiam do exercício de actividade nos termos do número anterior são igualmente abrangidas, na qualidade de contribuintes, pelo regime geral de segurança social.
+Secretaria de Estado da Segurança Social, 20 de Março de 1987. - O Secretário de Estado da Segurança Social, Luís Filipe da Conceição Pereira.
