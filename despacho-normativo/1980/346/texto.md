@@ -1,0 +1,3 @@
+Despacho Normativo n.º 346/80
+Ao abrigo do disposto no n.º 1 do artigo 1.º do Decreto-Lei n.º 303/77, de 29 de Julho, é aprovada a tabela n.º 2 - Produtos fitofarmacêuticos, que substitui a tabela n.º 1 - Produtos fitofarmacêuticos, cuja publicidade será dada pela Direcção-Geral do Comércio não Alimentar, nos termos do n.º 5 do artigo 1.º daquele diploma.
+Ministérios da Agricultura e Pescas e do Comércio e Turismo, 14 de Outubro de 1980. - O Secretário de Estado do Fomento Agrário, José Vicente de Jesus de Carvalho Cardoso. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.
