@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação do Ministério das Finanças e do Plano (Direcção-Geral da Contabilidade Pública), a declaração de transferências de verbas publicada no Diário da República, 1.ª série, n.º 267, de 18 de Novembro de 1982, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No cap. 15.º, onde se lê «Div. 02, subdiv. 13, C. F. 3.02.0, C. E. 01.46 - Diuturnidades; div. 03, subdiv. 03, C. F. 3.01.0, C. E. 01.04 Pessoal contratado não pertencente aos quadros» deve ler-se «Div. 02, subdiv. 13, C. F. 3.02.0, C. E. 01.47 - Diuturnidades; div. 03, subdiv. 03, C. F. 3.02.0, C. E. 01.04 Pessoal contratado não pertencente aos quadros».
+Secretaria-Geral da Presidência do Conselho de Ministros, 3 de Dezembro de 1982. - O Secretário-Geral, França Martins.
