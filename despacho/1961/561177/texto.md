@@ -1,0 +1,7 @@
+Despacho
+Tendo-se suscitado dúvidas acerca das habilitações a considerar adequadas ou suficientes para o provimento em lugares de desenhadores de vários serviços públicos, o Conselho de Ministros, solicitado a definir orientação sobre a matéria, de harmonia com as disposições do Decreto-Lei n.º 43000, de 1 de Junho de 1960, resolve o seguinte:
+1) Declarar como suficientes, em paralelo com o curso geral dos liceus, nos termos do artigo 2.º do Decreto-Lei n.º 43000:
+a) Para efeito de provimento nos lugares de desenhador das Faculdades de Letras, a habilitação dos cursos profissionais de índole artística, entre eles o de pintor cerâmico, regulado pelo Decreto n.º 20420, de 20 de Outubro de 1931;
+b) Para efeito de provimento nos lugares de desenhador da Direcção-Geral de Minas e Serviços Geológicos, a habilitação de um curso profissional em que a disciplina de Desenho seja professada até ao último ano.
+2) Considerar exigível, nos termos do artigo 1.º do referido Decreto-Lei n.º 43000, para efeito de provimento no lugar de desenhador do quadro do pessoal técnico da Santa Casa da Misericórdia de Lisboa, a habilitação de um curso profissional de construção civil, designadamente desenhador de construção civil, construtor civil, carpinteiro civil e carpinteiro-marceneiro.
+Presidência do Conselho, 6 de Março de 1961. - Pelo Presidente do Conselho, o Ministro da Presidência, Pedro Theotónio Pereira.
