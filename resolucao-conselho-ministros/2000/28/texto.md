@@ -1,0 +1,14 @@
+Resolução do Conselho de Ministros n.º 28/2000
+O Observatório do Comércio consubstancia um fórum de discussão e de promoção de análises e estudos relativos ao sector do comércio, contribuindo para um melhor conhecimento da realidade do sector.
+Desse modo possibilita aos decisores institucionais escolhas e opções tecnicamente melhor alicerçadas e aos agentes económicos um conhecimento mais aprofundado da sua própria realidade de forma a poderem proceder a eventuais ajustamentos ou mudanças na respectiva estratégia empresarial.
+Nos termos do n.º 11 da Resolução do Conselho de Ministros n.º 54/98, de 23 de Abril, o Observatório do Comércio tem a duração de 24 meses, prorrogáveis por igual período, se se mantiverem as circunstâncias que motivaram a sua criação.
+Constatando-se a manutenção de todas as circunstâncias que estiveram na origem da sua criação, torna-se, assim, importante que o Observatório do Comércio continue em actividade nos mesmos moldes em que tem funcionado desde 1998.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+1 - Prorrogar, pelo período de 24 meses, de acordo com o disposto no n.º 11 da Resolução do Conselho de Ministros n.º 54/98, de 23 de Abril, a duração do Observatório do Comércio, mantendo, em todos os aspectos, a estrutura organizacional anteriormente definida.
+2 - Determinar que os encargos decorrentes do funcionamento do Observatório do Comércio, nomeadamente os referentes aos estudos e divulgação de informação, bem como os custos de aquisição, manutenção e conservação dos bens, equipamentos ou serviços que tenha de utilizar, e ainda os relativos aos recursos humanos, são assegurados:
+a) Pelas comparticipações, incentivos, dotações, transferências e subsídios provenientes de medidas de parceria e iniciativas públicas a implementar com base em dotações comunitárias e nacionais a constituir para o efeito, os quais serão disponibilizados pelo Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento;
+b) Por quaisquer outras receitas resultantes da prossecução das atribuições que lhe sejam conferidas por lei, contrato ou outro título.
+3 - Permanecem válidos e eficazes, inclusive na relação com terceiros, todos os actos, contratos, protocolos, em que o Observatório do Comércio, ou qualquer dos seus membros, em seu nome, tenha concretizado ou dado início.
+4 - Os cargos de presidente do conselho coordenador e de director da Unidade Técnica de Observação Permanente continuam a ser exercidos pelas personalidades anteriormente nomeadas ao abrigo da Resolução do Conselho de Ministros n.º 54/98, de 23 de Abril, e pelo mesmo período referido no n.º 1 da presente resolução.
+Presidência do Conselho de Ministros, 27 de Abril de 2000. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
