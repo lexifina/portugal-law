@@ -1,0 +1,859 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "661",
+    "id": "28387",
+    "titulo": "Financiamento dos partidos políticos e das campanhas eleitorais"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1991-02-07",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "4177",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1991-02-07",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "28527",
+        "leg": "V",
+        "nr": "540",
+        "sel": "3",
+        "tipo": "J",
+        "titulo": "Financiamento da actividade dos partidos políticos"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1991-02-07",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159014",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1304-1306",
+                  "1308-1309"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-08",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/040/1991-02-08/1304?pgs=1304-1306,1308-1309&org=PLC"
+              }
+            ],
+            "sumario": "Financiamento da actividade dos partidos políticos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159015",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1306-1306",
+                  "1316-1316"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-08",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/040/1991-02-08/1306?pgs=1306,1316&org=PLC"
+              }
+            ],
+            "sumario": "Financiamento da actividade dos partidos políticos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159016",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1307-1307"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-08",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/040/1991-02-08/1307?pgs=1307&org=PLC"
+              }
+            ],
+            "sumario": "Financiamento da actividade dos partidos políticos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159017",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1307-1307"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-08",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/040/1991-02-08/1307?pgs=1307&org=PLC"
+              }
+            ],
+            "sumario": "Financiamento da actividade dos partidos políticos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159018",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1307-1308",
+                  "1316-1317"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-08",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/040/1991-02-08/1307?pgs=1307-1308,1316-1317&org=PLC"
+              }
+            ],
+            "sumario": "Financiamento da actividade dos partidos políticos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159019",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1309-1309"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-08",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/040/1991-02-08/1309?pgs=1309&org=PLC"
+              }
+            ],
+            "sumario": "Financiamento da actividade dos partidos políticos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159020",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1309-1312"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-08",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/040/1991-02-08/1309?pgs=1309-1312&org=PLC"
+              }
+            ],
+            "sumario": "Financiamento da actividade dos partidos políticos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159021",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1311-1311",
+                  "1316-1316",
+                  "1322-1322"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-08",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/040/1991-02-08/1311?pgs=1311,1316,1322&org=PLC"
+              }
+            ],
+            "sumario": "Financiamento da actividade dos partidos políticos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159022",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1312-1312",
+                  "1315-1316",
+                  "1318-1318"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-08",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/040/1991-02-08/1312?pgs=1312,1315-1316,1318&org=PLC"
+              }
+            ],
+            "sumario": "Financiamento da actividade dos partidos políticos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159023",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1312-1312"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-08",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/040/1991-02-08/1312?pgs=1312&org=PLC"
+              }
+            ],
+            "sumario": "Financiamento da actividade dos partidos políticos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159024",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1313-1315",
+                  "1317-1318"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-08",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/040/1991-02-08/1313?pgs=1313-1315,1317-1318&org=PLC"
+              }
+            ],
+            "sumario": "Financiamento da actividade dos partidos políticos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159025",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1315-1315"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-08",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/040/1991-02-08/1315?pgs=1315&org=PLC"
+              }
+            ],
+            "sumario": "Financiamento da actividade dos partidos políticos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159026",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1315-1316",
+                  "1323-1323"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-08",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/040/1991-02-08/1315?pgs=1315-1316,1323&org=PLC"
+              }
+            ],
+            "sumario": "Financiamento da actividade dos partidos políticos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159027",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1316-1316",
+                  "1323-1323"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-08",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/040/1991-02-08/1316?pgs=1316,1323&org=PLC"
+              }
+            ],
+            "sumario": "Financiamento da actividade dos partidos políticos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159028",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1318-1320"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-08",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/040/1991-02-08/1318?pgs=1318-1320&org=PLC"
+              }
+            ],
+            "sumario": "Financiamento da actividade dos partidos políticos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159029",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1320-1320"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-08",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/040/1991-02-08/1320?pgs=1320&org=PLC"
+              }
+            ],
+            "sumario": "Financiamento da actividade dos partidos políticos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159030",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1320-1322"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-08",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/040/1991-02-08/1320?pgs=1320-1322&org=PLC"
+              }
+            ],
+            "sumario": "Financiamento da actividade dos partidos políticos",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "159031",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1322-1323"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1991-02-08",
+                "pubLeg": "V",
+                "pubNr": "40",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/040/1991-02-08/1322?pgs=1322-1323&org=PLC"
+              }
+            ],
+            "sumario": "Financiamento da actividade dos partidos políticos",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "217379",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "333666",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1991-02-08",
+        "pubLeg": "V",
+        "pubNr": "40",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/04/040/1991-02-08?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
