@@ -1,0 +1,11 @@
+Portaria n.º 86/73
+de 9 de Fevereiro
+Tendo as actividades de informação turística sido objecto de diplomas específicos - Decreto-Lei n.º 16/71, de 26 de Janeiro, e Decreto n.º 271/71, de 19 de Junho - que definiram as profissões e regularam as condições do seu exercício e ainda a sua disciplina e fiscalização;
+Considerando que aqueles diplomas estatuem a obrigatoriedade da posse da carteira profissional como condição indispensável do exercício da actividade profissional, sendo aquele título de habilitação substituído por documento de identificação em casos de exercício acidental ou temporário das actividades de informação turística, e atenta a circunstância de o Decreto-Lei n.º 16/71 prever que o Regulamento da Carteira e o respectivo modelo sejam aprovados em portaria conjunta do Ministro das Corporações e Previdência Social e do Secretário de Estado da Informação e Turismo;
+Considerando o condicionalismo específico destas actividades por força do estabelecido nos citados dirável de uma comissão técnica, para o efeito expressaa indivíduos de nacionalidade portuguesa, os efeitos impeditivos de determinados tipos de condenações anteriores, a estatuição de incompatibilidades com o exercício de outras profissões determinadas e a determinar;
+Considerando, ainda, o parecer unânimemente favorável de uma comissão técnica, para o efeito expressamente constituída, composta por representantes do Ministério das Corporações e Previdência Social, da Secretaria de Estado da Informação e Turismo e dos organismos corporativos interessados:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Informação e Turismo e pelo Secretário de Estado do Trabalho e Previdência, aprovar o Regulamento da Carteira Profissional e o respectivo modelo respeitante ao pessoal de informação turística, previstos no artigo 9.º do Decreto-Lei n.º 16/71, de 26 de Janeiro.
+Ministério das Corporações e Previdência Social e Secretaria de Estado da Informação e Turismo, 30 de Janeiro de 1973. - O Secretário de Estado da Informação e Turismo, César Henrique Moreira Baptista. - O Secretário de Estado do Trabalho e Previdência, Joaquim Dias da Silva Pinto.
+
+(ver documento original)
+O Secretário de Estado da Informação e Turismo, César Henrique Moreira Baptista. - O Secretário de Estado do Trabalho e Previdência, Joaquim Dias da Silva Pinto.
