@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação do Departamento de Estado dos Estados Unidos da América, os Governos do Egipto e da República Socialista da Roménia depositaram, em 20 de Maio e 19 de Agosto de 1975, os instrumentos de ratificação da Convenção para Supressão de Actos Ilegais contra a Segurança da Aviação Civil celebrada em Montreal, em 23 de Setembro de 1971. Ambos os países fizeram acompanhar as suas ratificações de uma cláusula de reserva ao artigo 14, parágrafo 1, da mesma Convenção.
+Direcção-Geral dos Negócios Económicos, 12 de Outubro de 1976. - O Adjunto do Director-Geral, Paulo Manuel Lage David Ennes.
