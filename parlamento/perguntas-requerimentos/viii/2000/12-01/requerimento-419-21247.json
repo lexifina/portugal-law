@@ -1,0 +1,83 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPerguntasRequerimentos.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=OfehzreU1EekBL7OXFnyzGmW8bzUJkDwDT7BSK7VUfLauZ5I%2f6vSw1dJJCXiVPxrlwNtg4zrKjgh67DgiM8B5FKf8N6o4ALNMnM6XcxO93rNB0scu3e8b%2bi1ZjYLgC3GyFhkWhw%2bIXevazca40mvw98RJxsco5JCegGgillMwlwn078EN3YG2ZZJVhZ59H%2fLW%2bs5mYqc4JXMwaXSW8sA0jwKn6uXi10AUm59cKhTprZUuHzvHEWandtkZpdSG61gn1XLqqd34GFDqZfcyLmX3ExGx49CBIyD8qQZJ5cRcV%2flVtgFM44vas8fwL4YHxhDFbwSHrZDfEziwK608l068Bc1XIKORTm7pOuZpv0CK8Wx1xbmFjVpqM7eBPtfukK%2b9sFdolrKVteHgWfoqM6qxjc5xiB0Zh3Rpl%2frrgejwZ4%3d&fich=RequerimentosVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "ee27fd579cbcd218d0bfb6c54648bdf855a16242176249fd32eb6a93230a2247",
+  "legislatura": "VIII",
+  "id": "21247",
+  "tipo": "Requerimento",
+  "numero": "419",
+  "data_registo": "2000-12-01",
+  "data_registo_base": "record date = the entry day of the question/request (DtEntrada; else DataEnvio) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "PROJECTO URBANISTICO NA FOZ DO RIO ARADE",
+    "Autores": [
+      {
+        "GP": "PEV",
+        "idCadastro": "231",
+        "nome": "Isabel Castro"
+      }
+    ],
+    "DataEnvio": "2000-12-04",
+    "Destinatarios": [
+      {
+        "dataEnvio": "2000-12-04",
+        "dataProrrogacao": null,
+        "dataReenvio": null,
+        "devolvido": null,
+        "nomeEntidade": "MIN.  DO AMBIENTE E ORDENAMENTO DO TERRITÓRIO",
+        "prazoProrrogacao": null,
+        "prorrogado": null,
+        "reenviado": null,
+        "respostas": [
+          {
+            "dataResposta": null,
+            "docRemetida": null,
+            "entidade": "S.E.  DO  ORDENAMENTO DO TERRITÓRIO  E  DA  CONSERVAÇÃO  DA  NATUREZA",
+            "ficheiro": "",
+            "ficheiroComTipo": [
+              {
+                "tipo": "Resposta",
+                "url": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a4654544338784f474a6d5a546378597931685a4745314c5451324d6a4974595463344e53316a4e7a4e6b596a46684f47566c4d3255756347526d&fich=18bfe71c-ada5-4622-a785-c73db1a8ee3e.pdf&Inline=true"
+              }
+            ],
+            "publicacao": null
+          }
+        ],
+        "retirado": null
+      }
+    ],
+    "DtEntrada": "2000-12-01",
+    "Ficheiro": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c305276593356745a57353062334e515a584a6e6457353059584e535a5846315a584a70625756756447397a4c7a465454433833596a55334f5467345a5331694e7a52684c5451784d7a5174596d517a597930304e57557859324e6d5a4445324e3259756347526d&fich=7b57988e-b74a-4134-bd3c-45e1ccfd167f.pdf&Inline=true",
+    "Fundamentacao": null,
+    "Id": "21247",
+    "Legislatura": "VIII",
+    "Nr": "419",
+    "Observacoes": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "38449",
+        "obs": "54-(16)",
+        "pag": [
+          "54-(16)-54-(16)"
+        ],
+        "pagFinalDiarioSupl": "1º Supl.",
+        "pubdt": "2000",
+        "pubLeg": "VIII",
+        "pubNr": "11",
+        "pubSL": "1",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": "1º Supl.",
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/08/01/011S1/2000-01-15/54-(16)?pgs=54-(16)&org=PLC"
+      }
+    ],
+    "ReqTipo": "AC",
+    "RespostasSPerguntas": null,
+    "Sessao": "1",
+    "Tipo": "Requerimento"
+  }
+}
