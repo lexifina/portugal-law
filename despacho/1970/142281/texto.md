@@ -1,0 +1,8 @@
+Despacho
+As cotações de gasolina pesada no mercado internacional mostram que aquele produto pode ser fornecido aos consumidores nacionais ao preço C. I. F. Lisboa de U. S. $19 por tonelada.
+Não se vê razão para que nos fornecimentos internos de gasolina pesada sejam praticados preços superiores, pelo que se considera necessário fazer alinhar por aquele valor os preços a praticar no mercado nacional. Este alinhamento de preços permitirá suprimir o encargo que para o Fundo de Abastecimento constitui o pagamento da compensação estabelecida por despacho ministerial de 2 de Agosto de 1967, publicado no Diário do Governo, 1.ª série, n.º 181, de 4 do mesmo mês.
+Nestes termos, ouvidas a Direcção-Geral dos Combustíveis e a Comissão Reguladora dos Produtos Químicos e Farmacêuticos, tendo em conta os artigos 3.º, alínea b), 17.º e 20.º, alínea d), da Lei n.º 2145, de 24 de Dezembro de 1969, e ao abrigo do disposto no artigo 1.º e seu § único do Decreto-Lei n.º 29904, de 7 de Setembro de 1939, determina-se o seguinte:
+1.º Para os efeitos do artigo 24.º do Decreto-Lei n.º 41204, de 24 de Julho de 1957, é fixado em 543$53 por tonelada o preço da gasolina pesada à porta do produtor.
+2.º É suprimido o pagamento da compensação que relativamente aos fornecimentos de gasolina pesada constitui encargo do Fundo de Abastecimento, por força do n.º 6 do despacho ministerial de 2 de Agosto de 1967.
+3.º Este despacho entra em vigor em 1 de Maio de 1970.
+Ministério da Economia, 28 de Abril de 1970. - O Secretário de Estado do Comércio, Valentim Xavier Pintado. - O Secretário de Estado da Indústria, Rogério da Conceição Serafim Martins.
