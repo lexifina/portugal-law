@@ -1,0 +1,22 @@
+Portaria n.º 302/88
+de 12 de Maio
+A habitação social, e em particular a promoção cooperativa, tem vindo a afirmar-se cada vez mais no contexto da política global de habitação, por se tratar de uma alternativa credível, com qualidade, a preços compatíveis, que resulta de uma solidariedade social conseguida na conjugação permanente de esforços e de interesses.
+Potencializar esta característica intrínseca do movimento cooperativo para melhorar a qualidade de vida e de serviços a que a população envolvida pode ter acesso constitui um objectivo de relevante interesse social.
+Nestes termos, criar condições para a concretização, no âmbito da promoção cooperativa, de projectos de equipamento social, totalmente a cargo dos respectivos cooperantes, sem qualquer encargo para o Estado e dentro de limites que não condicionem a capacidade de intervenção do Instituto Nacional de Habitação, é o objectivo da presente portaria.
+Assim, tendo em vista o disposto na alínea a) do n.º 2 do artigo 3.º do Decreto-Lei n.º 202-B/86, de 22 de Julho:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, o seguinte:
+1.º - a) Nos termos da alínea a) do n.º 2 do artigo 3.º do Decreto-Lei n.º 202-B/86, de 22 de Julho, o Instituto Nacional de Habitação (INH) pode conceder empréstimos para projectos de equipamento social integrados em empreendimentos de habitações a custos controlados de promoção cooperativa.
+b) O INH dará preferência aos projectos que envolvam mais de uma cooperativa, desde que integradas na mesma área urbanística.
+2.º O valor máximo do equipamento social a financiar nos termos do número anterior não pode ser superior a 5% do valor total do empreendimento a que se destina, avaliado de acordo com os parâmetros estabelecidos para habitação social.
+3.º - a) Têm acesso aos financiamentos para equipamento social integrado em empreendimentos em curso ou a iniciar as cooperativas de habitação e construção que integrem nos preços de venda praticados uma percentagem para reserva de construção de pelo menos 2,5%.
+b) O limite definido na alínea anterior não condiciona o financiamento do equipamento social relativo a empreendimentos já concluídos ou em amortização à data da publicação da presente portaria.
+4.º Os empréstimos a conceder pelo INH para efeitos do disposto nos números anteriores ficam sujeitos às seguintes condições:
+a) Montante máximo até 50% do valor do equipamento social, determinado de acordo com o disposto no n.º 2.º;
+b) A taxa de juro é a máxima legal aplicável em cada momento em vigor para operações de prazo idêntico;
+c) Prazo máximo de 36 meses;
+d) Regime de amortização a definir por livre negociação entre as partes.
+5.º Os meios financeiros a afectar pelo INH a estes empréstimos não podem ultrapassar, em cada momento, 2,5% da sua estrutura de capitais permanentes.
+6.º Os empréstimos concedidos ao abrigo desta portaria serão garantidos preferencialmente por hipoteca constituída sobre os terrenos e as edificações.
+Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações.
+Assinada em 2 de Maio de 1988.
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.
