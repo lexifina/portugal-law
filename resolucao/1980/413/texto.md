@@ -1,0 +1,5 @@
+Resolução n.º 413/80
+Pela Resolução do Conselho de Ministros n.º 301/80, de 23 de Julho, publicada no Diário da República, 1.ª série, n.º 199, de 29 de Agosto de 1980, foi prorrogado até 1 de Novembro de 1980 o prazo fixado para o termo de intervenção estatal nas empresas Nutripol - Sociedade Portuguesa de Supermercados, S. A. R. L., e Supermercados Boa Ajuda Modelar, Lda.
+Não se encontrando ainda reunidas as condições que viabilizem uma definitiva tomada de posição por parte do Governo:
+O Conselho de Ministros, reunido em 11 de Dezembro de 1980, resolveu prorrogar, com efeitos a partir do dia 1 de Novembro de 1980, nos termos do n.º 3 do artigo 6.º do Decreto-Lei n.º 422/76, de 26 de Maio, com a redacção que lhe foi dada pelo artigo 2.º do Decreto-Lei n.º 370/77, de 5 de Setembro, até 31 de Março de 1981 o prazo fixado na Resolução do Conselho de Ministros n.º 301/80, de 23 de Julho.
+Presidência do Conselho de Ministros, 11 de Dezembro de 1980. - O Vice-Primeiro-Ministro, Diogo Pinto de Freitas do Amaral.
