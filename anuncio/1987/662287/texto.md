@@ -1,0 +1,5 @@
+Anúncio
+Dr. José Manuel de Moura Pires Machado, juiz conselheiro do Supremo Tribunal Administrativo:
+Faz saber que neste Supremo Tribunal corre termos o processo de declaração de ilegalidade de normas, registado sob o n.º 23651, em que é requerente o Sindicato Democrático dos Professores e requerido o Serviço de Acção Social da Santa Casa da Misericórdia de Lisboa.
+Mais faz saber que o objecto do pedido do requerente, interposto no dia 15 de Janeiro de 1986, incide na suposta ilegalidade contida nos artigos 33.º e 34.º do capítulo II, secção IV, do regulamento interno do requerido, aprovado pela Portaria n.º 534/85, de 1 de Agosto, do Ministério do Trabalho e Segurança Social, publicada no Diário da República, 1.ª série, n.º 175, de 1 de Agosto de 1985, permitindo o presente anúncio a intervenção neste processo de eventuais interessados ao conhecimento da causa, podendo oferecer as suas respostas e quaisquer outros documentos que pretendam incluir dentro dos prazos previstos por lei.
+Lisboa, 25 de Julho de 1986. - O Conselheiro Relator, José Manuel de Moura Pires Machado. - O Escrivão-Adjunto, Manuel Esteves Jácome.
