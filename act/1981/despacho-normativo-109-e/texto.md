@@ -1,0 +1,7 @@
+Despacho Normativo n.º 109-E/81
+Ao abrigo do disposto na alínea a) do artigo 11.º do Decreto-Lei n.º 70/78, de 7 de Abril, determina-se o seguinte:
+1.º São fixados, respectivamente, em 17200$00 e 10600$00 por tonelada os preços das sêmolas destinadas ao fabrico de massas alimentícias de qualidade superior (M(índice 1)) e das farinhas destinadas ao fabrico de massas alimentícias de consumo corrente (M(índice 2)).
+2.º Nos termos do n.º 1 do artigo 25.º do Decreto-Lei n.º 70/78, de 7 de Abril, as fábricas de massas alimentícias liquidarão à EPAC, no prazo máximo de sessenta dias, para crédito do Fundo de Abastecimento, o diferencial entre os preços por que adquiriram as sêmolas (M(índice 1)) e farinhas (M(índice 2)) em seu poder à data da entrada em vigor do presente diploma e os novos preços agora fixados.
+3.º Fica revogado o Despacho Normativo n.º 64/80, publicado no suplemento ao Diário da República, 1.ª série, n.º 43, de 21 de Fevereiro de 1980.
+4.º Este despacho entra em vigor no dia imediato ao da sua publicação.
+Secretarias de Estado das Finanças, da Transformação e Mercados e do Comércio, 1 de Abril de 1981. - O Secretário de Estado das Finanças, José António da Silveira Godinho. - Pelo Secretário de Estado da Transformação e Mercados, António José Baptista Cardoso e Cunha, Ministro da Agricultura e Pescas. - O Secretário de Estado do Comércio, Walter Waldemar Pego Marques.
