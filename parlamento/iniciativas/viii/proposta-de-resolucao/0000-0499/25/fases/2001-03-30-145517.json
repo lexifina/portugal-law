@@ -1,0 +1,402 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Resolução",
+    "numero": "25",
+    "id": "6132",
+    "titulo": "Aprova, para ratificação, o Protocolo estabelecido com base no artigo k3 do Tratado da União Europeia Relativo ao Âmbito do Branqueamento de Dinheiro na Convenção sobre a Utilização da Informática no Domínio Aduaneiro e a Inclusão do Número de Matrícula do Meio de Transporte na Lista de Dados da Convenção Incluindo as Declarações assinado em Bruxelas, em 12 de Março de 1999"
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "2001-03-30",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1877",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "2001-03-30",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-03-30",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  ADMINISTRA. INTERNA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Rui Pereira"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137558",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2637-2638",
+                  "2640-2641"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-31",
+                "pubLeg": "VIII",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/067/2001-03-31/2637?pgs=2637-2638,2640-2641&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICACAO O PROTOCOLO ESTABELECIDO COM BASE NO ARTIGO K3 DO TRATADO DA UNIAO EUROPEIA RELATIVO AO AMBITO DO BRANQUEAMENTO DE DINHEIRO NA CONVENCAO SOBRE A UTILIZACAO DA INFORMATICA NO DOMINIO ADUANEIRO E A INCLUSAO DO NUMERO DE MATRICULA DO MEIO DE TRANSPORTE NA LISTA DE DADOS DA CONVENCAO INCLUINDO AS DECLARACOES ASSINADO EM BRUXELAS EM 12 DE MARÇO DE 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1436",
+                "nome": "Joaquim Sarmento"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137559",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2638-2638"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-31",
+                "pubLeg": "VIII",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/067/2001-03-31/2638?pgs=2638&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICACAO O PROTOCOLO ESTABELECIDO COM BASE NO ARTIGO K3 DO TRATADO DA UNIAO EUROPEIA RELATIVO AO AMBITO DO BRANQUEAMENTO DE DINHEIRO NA CONVENCAO SOBRE A UTILIZACAO DA INFORMATICA NO DOMINIO ADUANEIRO E A INCLUSAO DO NUMERO DE MATRICULA DO MEIO DE TRANSPORTE NA LISTA DE DADOS DA CONVENCAO INCLUINDO AS DECLARACOES ASSINADO EM BRUXELAS EM 12 DE MARÇO DE 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1641",
+                "nome": "Henrique Rocha de Freitas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137560",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2638-2639"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-31",
+                "pubLeg": "VIII",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/067/2001-03-31/2638?pgs=2638-2639&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICACAO O PROTOCOLO ESTABELECIDO COM BASE NO ARTIGO K3 DO TRATADO DA UNIAO EUROPEIA RELATIVO AO AMBITO DO BRANQUEAMENTO DE DINHEIRO NA CONVENCAO SOBRE A UTILIZACAO DA INFORMATICA NO DOMINIO ADUANEIRO E A INCLUSAO DO NUMERO DE MATRICULA DO MEIO DE TRANSPORTE NA LISTA DE DADOS DA CONVENCAO INCLUINDO AS DECLARACOES ASSINADO EM BRUXELAS EM 12 DE MARÇO DE 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1654",
+                "nome": "João Rebelo"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137561",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2639-2640"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-31",
+                "pubLeg": "VIII",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/067/2001-03-31/2639?pgs=2639-2640&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICACAO O PROTOCOLO ESTABELECIDO COM BASE NO ARTIGO K3 DO TRATADO DA UNIAO EUROPEIA RELATIVO AO AMBITO DO BRANQUEAMENTO DE DINHEIRO NA CONVENCAO SOBRE A UTILIZACAO DA INFORMATICA NO DOMINIO ADUANEIRO E A INCLUSAO DO NUMERO DE MATRICULA DO MEIO DE TRANSPORTE NA LISTA DE DADOS DA CONVENCAO INCLUINDO AS DECLARACOES ASSINADO EM BRUXELAS EM 12 DE MARÇO DE 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1660",
+                "nome": "Mota Torres"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137562",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2640-2640"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-31",
+                "pubLeg": "VIII",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/067/2001-03-31/2640?pgs=2640&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICACAO O PROTOCOLO ESTABELECIDO COM BASE NO ARTIGO K3 DO TRATADO DA UNIAO EUROPEIA RELATIVO AO AMBITO DO BRANQUEAMENTO DE DINHEIRO NA CONVENCAO SOBRE A UTILIZACAO DA INFORMATICA NO DOMINIO ADUANEIRO E A INCLUSAO DO NUMERO DE MATRICULA DO MEIO DE TRANSPORTE NA LISTA DE DADOS DA CONVENCAO INCLUINDO AS DECLARACOES ASSINADO EM BRUXELAS EM 12 DE MARÇO DE 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "206",
+                "nome": "Rui Vieira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137563",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2640-2640"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-31",
+                "pubLeg": "VIII",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/067/2001-03-31/2640?pgs=2640&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICACAO O PROTOCOLO ESTABELECIDO COM BASE NO ARTIGO K3 DO TRATADO DA UNIAO EUROPEIA RELATIVO AO AMBITO DO BRANQUEAMENTO DE DINHEIRO NA CONVENCAO SOBRE A UTILIZACAO DA INFORMATICA NO DOMINIO ADUANEIRO E A INCLUSAO DO NUMERO DE MATRICULA DO MEIO DE TRANSPORTE NA LISTA DE DADOS DA CONVENCAO INCLUINDO AS DECLARACOES ASSINADO EM BRUXELAS EM 12 DE MARÇO DE 1999",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "137564",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2641-2641"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-03-31",
+                "pubLeg": "VIII",
+                "pubNr": "67",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/067/2001-03-31/2641?pgs=2641&org=PLC"
+              }
+            ],
+            "sumario": "APROVA PARA RATIFICACAO O PROTOCOLO ESTABELECIDO COM BASE NO ARTIGO K3 DO TRATADO DA UNIAO EUROPEIA RELATIVO AO AMBITO DO BRANQUEAMENTO DE DINHEIRO NA CONVENCAO SOBRE A UTILIZACAO DA INFORMATICA NO DOMINIO ADUANEIRO E A INCLUSAO DO NUMERO DE MATRICULA DO MEIO DE TRANSPORTE NA LISTA DE DADOS DA CONVENCAO INCLUINDO AS DECLARACOES ASSINADO EM BRUXELAS EM 12 DE MARÇO DE 1999",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "145517",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1877",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-03-31",
+        "pubLeg": "VIII",
+        "pubNr": "67",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/067/2001-03-31?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
