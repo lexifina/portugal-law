@@ -1,0 +1,827 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "457",
+    "id": "18581",
+    "titulo": "Novas medidas no ambito da sexualidade juvenil"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2001-06-07",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1944",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2001-06-07",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": [
+      {
+        "autor": "PCP",
+        "dataEntrada": null,
+        "descTipo": "Projeto de Lei",
+        "id": "7079",
+        "leg": "VIII",
+        "nr": "411",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "516",
+            "obs": null,
+            "pag": [
+              "3640-3650"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2001-06-08",
+            "pubLeg": "VIII",
+            "pubNr": "93",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/093/2001-06-08/3640?pgs=3640-3650&org=PLC"
+          }
+        ],
+        "sel": "2",
+        "tipo": "J",
+        "titulo": "Define medidas de apoio social às mães e pais estudantes"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2001-06-07",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1762",
+                "nome": "Margarida  Botelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138741",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3640-3642"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-08",
+                "pubLeg": "VIII",
+                "pubNr": "93",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/093/2001-06-08/3640?pgs=3640-3642&org=PLC"
+              }
+            ],
+            "sumario": "Define medidas de apoio social às mães e pais estudantes; novas medidas no âmbito da sexualidade juvenil",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1640",
+                "nome": "David Justino"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138744",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3641-3641"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-08",
+                "pubLeg": "VIII",
+                "pubNr": "93",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/093/2001-06-08/3641?pgs=3641&org=PLC"
+              }
+            ],
+            "sumario": "Define medidas de apoio social às mães e pais estudantes; novas medidas no âmbito da sexualidade juvenil",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1212",
+                "nome": "Ana Catarina Mendonça"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138745",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3641-3641"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-08",
+                "pubLeg": "VIII",
+                "pubNr": "93",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/093/2001-06-08/3641?pgs=3641&org=PLC"
+              }
+            ],
+            "sumario": "Define medidas de apoio social às mães e pais estudantes; novas medidas no âmbito da sexualidade juvenil",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1799",
+                "nome": "António Pinho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138746",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-08",
+                "pubLeg": "VIII",
+                "pubNr": "93",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/093/2001-06-08?org=PLC"
+              }
+            ],
+            "sumario": "Define medidas de apoio social às mães e pais estudantes; novas medidas no âmbito da sexualidade juvenil",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1596",
+                "nome": "Nuno Freitas"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138747",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3642-3645"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-08",
+                "pubLeg": "VIII",
+                "pubNr": "93",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/093/2001-06-08/3642?pgs=3642-3645&org=PLC"
+              }
+            ],
+            "sumario": "Define medidas de apoio social às mães e pais estudantes; novas medidas no âmbito da sexualidade juvenil",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138748",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3644-3644"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-08",
+                "pubLeg": "VIII",
+                "pubNr": "93",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/093/2001-06-08/3644?pgs=3644&org=PLC"
+              }
+            ],
+            "sumario": "Define medidas de apoio social às mães e pais estudantes; novas medidas no âmbito da sexualidade juvenil",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1703",
+                "nome": "João Sequeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138749",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3644-3644"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-08",
+                "pubLeg": "VIII",
+                "pubNr": "93",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/093/2001-06-08/3644?pgs=3644&org=PLC"
+              }
+            ],
+            "sumario": "Define medidas de apoio social às mães e pais estudantes; novas medidas no âmbito da sexualidade juvenil",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1212",
+                "nome": "Ana Catarina Mendonça"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138750",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3645-3646"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-08",
+                "pubLeg": "VIII",
+                "pubNr": "93",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/093/2001-06-08/3645?pgs=3645-3646&org=PLC"
+              }
+            ],
+            "sumario": "Define medidas de apoio social às mães e pais estudantes; novas medidas no âmbito da sexualidade juvenil",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138751",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3646-3647"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-08",
+                "pubLeg": "VIII",
+                "pubNr": "93",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/093/2001-06-08/3646?pgs=3646-3647&org=PLC"
+              }
+            ],
+            "sumario": "Define medidas de apoio social às mães e pais estudantes; novas medidas no âmbito da sexualidade juvenil",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "834",
+                "nome": "Heloísa Apolónia"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138752",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3647-3647"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-08",
+                "pubLeg": "VIII",
+                "pubNr": "93",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/093/2001-06-08/3647?pgs=3647&org=PLC"
+              }
+            ],
+            "sumario": "Define medidas de apoio social às mães e pais estudantes; novas medidas no âmbito da sexualidade juvenil",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1762",
+                "nome": "Margarida  Botelho"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138753",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3647-3647"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-08",
+                "pubLeg": "VIII",
+                "pubNr": "93",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/093/2001-06-08/3647?pgs=3647&org=PLC"
+              }
+            ],
+            "sumario": "Define medidas de apoio social às mães e pais estudantes; novas medidas no âmbito da sexualidade juvenil",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  ENSINO SUPERIOR",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Dinis Reis"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138754",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3647-3648"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-08",
+                "pubLeg": "VIII",
+                "pubNr": "93",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/093/2001-06-08/3647?pgs=3647-3648&org=PLC"
+              }
+            ],
+            "sumario": "Define medidas de apoio social às mães e pais estudantes; novas medidas no âmbito da sexualidade juvenil",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138756",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3649-3649"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-08",
+                "pubLeg": "VIII",
+                "pubNr": "93",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/093/2001-06-08/3649?pgs=3649&org=PLC"
+              }
+            ],
+            "sumario": "Define medidas de apoio social às mães e pais estudantes; novas medidas no âmbito da sexualidade juvenil",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "152",
+                "nome": "António Braga"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138757",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3649-3650"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-08",
+                "pubLeg": "VIII",
+                "pubNr": "93",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/093/2001-06-08/3649?pgs=3649-3650&org=PLC"
+              }
+            ],
+            "sumario": "Define medidas de apoio social às mães e pais estudantes; novas medidas no âmbito da sexualidade juvenil",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "19:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "138780",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3650-3650"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2001-06-08",
+                "pubLeg": "VIII",
+                "pubNr": "93",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/093/2001-06-08/3650?pgs=3650&org=PLC"
+              }
+            ],
+            "sumario": "Define medidas de apoio social às mães e pais estudantes; novas medidas no âmbito da sexualidade juvenil",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "146335",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "261462",
+        "obs": null,
+        "pag": [
+          "3640-3648"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2001-06-08",
+        "pubLeg": "VIII",
+        "pubNr": "93",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/02/093/2001-06-08/3640?pgs=3640-3648&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
