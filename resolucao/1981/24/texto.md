@@ -1,0 +1,3 @@
+Resolução n.º 24/81
+O Conselho de Ministros, reunido em 29 de Janeiro de 1981, resolveu, nos termos do Tratado entre a República Federal da Alemanha e a República de Portugal Relativo à extradição e à Assistência Judiciária em Matéria Penal, de 8 de Abril de 1965, e do artigo 24.º, n.º 2, do Decreto-Lei n.º 437/75, de 16 de Agosto, deferir o pedido de extradição apresentado pelas autoridades da República Federal da Alemanha Referente ao seu súbdito Klaus Jaskolka, condenado pela prática de crime de tráfico e consumo de droga, e para execução da parte da pena em que foi condenado e ainda por cumprir.
+Presidência do Conselho de Ministros, 29 de Janeiro de 1981. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
