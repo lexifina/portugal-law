@@ -1,0 +1,4 @@
+Declaração
+Para os devidos efeitos se declara que a declaração de rectificação publicada no Diário da República, 1.ª série, n.º 279, de 3 de Dezembro de 1982, ao Decreto-Lei n.º 400/82, publicado no Diário da República, 1.ª série, n.º 221, de 23 de Setembro de 1982, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+A seguir à rectificação ao artigo 175.º, n.º 3, onde se lê «No artigo 256.º, epígrafe, onde se lê '(Exposição corporizada no escrito é equiparado e registada em disco,' deve ler-se 'A declaração corporizada no escrito é equiparada a registada em disco,'» deve ler-se «No artigo 229.º, n.º 2, onde se lê 'A declaração corporizada no escrito é equiparada a registada em disco,' deve ler-se 'À declaração corporizada no escrito é equiparada a registada em disco,'».
+Secretaria-Geral da Presidência do Conselho de Ministros, 7 de Janeiro de 1983. - O Secretário-Geral, França Martins.
