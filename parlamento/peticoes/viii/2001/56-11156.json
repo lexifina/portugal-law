@@ -1,0 +1,86 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAPeticoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=WEUMi7%2fBtIIg%2fkHBDyZ%2fsil3BmWuButejMvPGkqNVyUfIJXddc1IDB3t8GXfBL3zSPQF%2bIyDi3AcWLUm0oL6crfUIOoirULFjyvRAul6J%2by6a6FDtpJuVrK3Y3rP8bCLGdxev%2bdUqQgc%2bXEDQI%2f8OLEsCv3IziG5WQHDSzFAl7qQApdhGho5obQdwDn6iwyWAFYt%2fzWn72d9GQ0G7zTxyKwsQjpKzhAqqYI6%2fCsSwtcK7MkwpbhLc%2bPOBViftzfwo0QY4%2b1hHCAUUDtd7wn2zRmIMG1aKMpZb8PUmWVGX9mCVPzhBcSom0%2boac5wXwR%2fcfo1uKTMHtBvk9eTSDfjfyy5P2leMqegA1xVPD5%2bIs%2bMWrsB8j6dH%2fUqNW7MrBr8&fich=PeticoesVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "c7a8b036f2bb9420007f23598577186345f4c787fefe68382e6a1aac6e3b6ea3",
+  "legislatura": "VIII",
+  "id": "11156",
+  "numero": "56",
+  "nota": "sem o nome dos peticionarios (without the petitioners' names)",
+  "data_registo": "2001-04-05",
+  "data_registo_base": "record date = the petition's entry day (PetDataEntrada) in the AR open data; a parliamentary record, not a commencement",
+  "omitido": {
+    "campos": [
+      "DadosComissao.DocumentosPeticao.DocsRelatorioFinal.TituloDocumento",
+      "Documentos.TituloDocumento",
+      "PetAutor"
+    ],
+    "motivo": "dados pessoais de particulares (personal data of private persons)"
+  },
+  "registo": {
+    "DadosComissao": [
+      {
+        "Admissibilidade": null,
+        "Audicoes": null,
+        "Codigo": null,
+        "DadosPedidosInformacao": null,
+        "DadosRelatorioFinal": null,
+        "DataAdmissibilidade": "2001-10-02",
+        "DataArquivo": "2001-12-20",
+        "DataBaixaComissao": null,
+        "DataEnvioPAR": "2001-12-21",
+        "DataReaberta": "2001-10-02",
+        "DocumentosPeticao": {
+          "DocsOutros": null,
+          "DocsPedidoInformacoes": null,
+          "DocsRelatorioFinal": [
+            {
+              "DataDocumento": "2001-04-05",
+              "TipoDocumento": "Relatório Final",
+              "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c304e505453383556464e545579394562324e31625756756447397a5547563061574e68627938784d7a55334e6a4e6d5953316c5a6d59794c5451354f446774596a41335969307a5a4745324d324d795a57566d5a444d756347526d&fich=135763fa-eff2-4988-b07b-3da63c2eefd3.pdf&Inline=true"
+            }
+          ],
+          "DocsRespostaPedidoInformacoes": null
+        },
+        "IdComissao": "27",
+        "Legislatura": "VIII",
+        "Nome": "COMISSAO DE TRABALHO, SOLIDARIEDADE E SEGURANÇA SOCIAL",
+        "NotasAdmissibilidade": null,
+        "Numero": "9",
+        "Publicacao": null,
+        "Relatores": null,
+        "RelatorioFinal": null,
+        "Sessao": null,
+        "Situacao": "Concluída",
+        "Transitada": null
+      }
+    ],
+    "DataDebate": null,
+    "Documentos": [
+      {
+        "DataDocumento": "2001-04-05",
+        "TipoDocumento": "Texto",
+        "URL": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c31526c65485276526d6c75595778515a5852705932396c6379396c5a54686a4d5445354f4330314e574e6a4c5451355a6d4574596d526b4e69316d4e6a466a4e5445354f57597a4d5751756347526d&fich=ee8c1198-55cc-49fa-bdd6-f61c5199f31d.pdf&Inline=true"
+      }
+    ],
+    "IniciativasConjuntas": null,
+    "Iniciativasoriginadas": null,
+    "Intervencoes": null,
+    "Links": null,
+    "PedidosEsclarecimento": null,
+    "PetActividadeId": "11156",
+    "PetAssunto": "Submete à consideração da Assembleia da República documentação relativa à sua situação de aposentado da Administração Pública susceptível de relevar na actualização da sua pensão, a ocorrer no âmbito da actualização das pensões degradadas da Função Pública.",
+    "PetDataEntrada": "2001-04-05",
+    "PeticoesAssociadas": null,
+    "PetId": "11156",
+    "PetLeg": "VIII",
+    "PetNr": "56",
+    "PetNrAssinaturas": "1",
+    "PetNrAssinaturasInicial": null,
+    "PetObs": null,
+    "PetSel": "2",
+    "PetSituacao": "Concluída",
+    "PetUrlTexto": null,
+    "PublicacaoDebate": null,
+    "PublicacaoPeticao": null
+  }
+}
