@@ -1,0 +1,6 @@
+Aviso n.º 206/94
+Por ordem superior se torna público que o Secretariado Permanente da Conferência da Haia de Direito Internacional Privado notificou que, nos termos da alínea 2 do artigo 21 da Convenção Relativa à Competência das Autoridades e à Lei Aplicável em Matéria de Protecção de Menores, concluída na Haia, em 5 de Outubro de 1961, a Alemanha e a França declararam aceitar a adesão da República da Polónia à referida Convenção respectivamente em 14 de Setembro e 29 de Novembro de 1993.
+Nos termos da alínea 3 do artigo 21, a Convenção entrou em vigor entre a República da Polónia e a Alemanha em 13 de Novembro de 1993 e entre a República da Polónia e a França em 28 de Janeiro de 1994.
+Portugal é Parte na Convenção, que foi aprovada para ratificação pelo Decreto-Lei n.º 48494 (publicado no Diário do Governo, 1.ª série, n.º 172, de 22 de Julho de 1968), tendo depositado o seu instrumento de ratificação em 6 de Dezembro de 1968, conforme aviso publicado no Diário do Governo, 1.ª série, n.º 20, de 24 de Janeiro de 1969.
+A Convenção vigora em Portugal desde 4 de Fevereiro de 1969.
+Departamento de Assuntos Jurídicos, 25 de Julho de 1994. - O Director, José Maria Teixeira Leite Martins.
