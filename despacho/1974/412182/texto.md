@@ -1,0 +1,3 @@
+Despacho
+Nos termos do artigo 2.º do Decreto-Lei n.º 43000, de 1 de Junho de 1960, e mediante proposta do Ministério da Educação Nacional, ouvido o Conselho Permanente da Acção Educativa, a habilitação do curso de serralheiro mecânico, regulado pelo Decreto n.º 20420, de 21 de Outubro de 1931, é declarada suficiente, em paralelo com o curso geral dos liceus, para o desempenho das funções de chefe de oficinas da Faculdade de Ciências e Tecnologia da Universidade de Coimbra, da Faculdade de Engenharia da Universidade do Porto, e dos cursos de Ciências e Engenharia da Universidade de Lourenço Marques.
+Presidência do Conselho, 22 de Março de 1974. - Pelo Presidente do Conselho, Mário Ângelo Morais de Oliveira, Ministro de Estado.
