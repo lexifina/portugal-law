@@ -1,0 +1,5 @@
+Aviso n.º 12/92
+Por ordem superior se torna público que, por nota de 9 de Dezembro de 1991 e nos termos do artigo 25.º da Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, concluída na Haia em 25 de Outubro de 1980, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou ter a República da Alemanha declarado aceitar as adesões da Nova Zelândia e do México à mencionada Convenção, em 14 de Novembro de 1991.
+Nos termos do artigo 38.º, parágrafo 5.º, a Convenção entra em vigor entre a Nova Zelândia e a República Federal da Alemanha e entre o México e a República Federal da Alemanha em 1 de Fevereiro de 1992.
+Portugal é Parte na mesma Convenção, que foi aprovada para ratificação pelo Decreto do Governo n.º 33/83, de 11 de Maio, tendo depositado o seu instrumento de ratificação em 29 de Setembro de 1983, conforme aviso publicado no Diário da República, 1.ª série, n.º 126, de 31 de Maio de 1984. A Convenção vigora em Portugal desde 1 de Dezembro de 1983.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 16 de Janeiro de 1992. - O Chefe do Serviço Jurídico e de Tratados, António Salgado Manso Preto Mendes Cruz.
