@@ -1,0 +1,5 @@
+Aviso n.º 53/2002
+Por ordem superior se torna público que em 28 de Fevereiro e em 23 de Maio de 2002 foram emitidas notas, respectivamente pelo Ministério dos Negócios Estrangeiros português e pela Embaixada do Reino da Dinamarca em Lisboa, em que se comunica terem sido cumpridas as respectivas formalidades constitucionais internas de aprovação da Convenção entre a República Portuguesa e o Reino da Dinamarca para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento, assinada em Lisboa em 14 de Dezembro de 2000.
+Por parte de Portugal a Convenção foi aprovada pela Resolução da Assembleia da República n.º 6/2002, e ratificada pelo Decreto do Presidente da República n.º 5/2002, publicados no Diário da República, 1.ª série, n.º 46, de 23 de Fevereiro de 2002.
+Nos termos do artigo 29.º da Convenção, esta entrou em vigor em 24 de Maio de 2002.
+Direcção-Geral das Relações Bilaterais, 2 de Junho de 2002. - O Director-Geral, José Caetano de Campos Andrada da Costa Pereira.
