@@ -18,11 +18,11 @@ b) De cada registo lavrado no território de Macau ... 150$00
 
 Artigo 3.º:
 
-Pela menção ou averbamento de convenção antenupcial ou de alteração do regime de bens em qualquer assunto do casamento ... 650$00
+Pela menção ou averbamento de convenção antenupcial ou de alteração do regime de bens em qualquer assento de casamento ... 650$00
 
 Artigo 4.º:
 
-Por cada assunto requerido nos termos dos artigos 116.º a 151.º ... 200$00
+Por cada assento requerido nos termos dos artigos 116.º ou 151.º ... 200$00
 
 Artigo 5.º:
 
@@ -58,7 +58,7 @@ Artigo 12.º
 
 1 - Pela passagem de nova cédula pessoal ... 200$00
 
-2 - Pela actualização e conferência da cédula pessoal e pela emissão de duplicado de boletins a que se refere o n.º 3 do artigo 276.º ... 50$00
+2 - Pela actualização e conferência da cédula pessoal e pela emissão de duplicados de boletins a que se refere o n.º 3 do artigo 276.º ... 50$00
 
 Artigo 13.º
 
@@ -76,4 +76,4 @@ Artigo 14.º
 
 Artigo 16.º
 
-Por cada auto de redução a escrito de requerimento verbal para a prática de qualquer acto de registo ou para fins de instauração dos processos regulares no Código de Registo Civil ... 200$00
+Por cada auto de redução a escrito de requerimento verbal para a prática de qualquer acto de registo ou para fins de instauração dos processos regulados no Código do Registo Civil... 200$00

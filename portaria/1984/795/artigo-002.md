@@ -2,13 +2,15 @@
 
 Os artigos 7.º, 11.º, 19.º e 20.º da tabela de emolumentos do registo civil passam a ter a seguinte redacção:
 
+Artigo 7.º:
+
 1 - Pelos processos para suprimento de certidões de registo ou para verificação de capacidade matrimonial ... 800$00
 
 2 - ...
 
 Artigo 11.º
 
-1 - Por cada certidão ou fotocópia de qualquer registo ou documento, bem como por qualquer certidão negativa ... 200$00
+1 - Por cada certidão ou fotocópia de qualquer registo ou documento, bem como por cada certidão negativa ... 200$00
 
 2 - ...
 
