@@ -1,0 +1,15 @@
+Resolução do Conselho de Ministros
+1 - O Conselho de Ministros tomou conhecimento oficial de que um grupo de camionistas bloqueou, com os respectivos camiões, os acessos à Fábrica de Cimento Secil, como expediente de pressão sobre a administração da empresa em ordem a garantirem a continuação da livre comercialização do cimento produzido por aquela empresa, ao contrário do que foi determinado pelo Ministério da Indústria e Tecnologia.
+2 - O propósito dos referidos camionistas é assegurar a continuação das manobras especulativas em que têm estado envolvidos, com os inerentes proveitos ilícitos.
+3 - Trata-se da exploração de uma situação transitória possibilitada pelo facto de o consumo de cimento ser superior à produção, apesar de as fábricas estarem a produzir em regime de laboração contínua: vinte e quatro horas por dia.
+Com efeito, o consumo aumentou mais de 20% em relação ao ano anterior, fenómeno aliás indicativo de uma animação real do sector da construção. A situação será regularizada nos primeiros meses de 1977, com a entrada em laboração de novos fomos de cimento nas fábricas de Alhandra e Outão.
+4 - Enquanto a especulação no âmbito da comercialização de cimento não é desestimulada pelo equilíbrio entre a oferta e a procura, os Ministérios da Indústria e Tecnologia, do Comércio e Turismo e da Habitação, Urbanismo e Construção tomaram medidas que, por isso mesmo, desagradam aos especuladores, que não recuam perante um acto de flagrante sabotagem da economia nacional e uma forma de pressão e de luta que põe em causa a autoridade do Governo.
+5 - Disposto a não pactuar com semelhantes processos, o Conselho de Ministros, reunido em 26 de Outubro, resolveu:
+a) Recomendar à Companhia de Cimentos Secil a imediata suspensão de quaisquer conversações com os camionistas responsáveis pelo mencionado bloqueio, por não serem em nenhum caso aceitáveis negociações sob pressão, ou a partir de formas de luta que caiam sob a alçada da lei penal;
+b) Conceder àqueles motoristas a possibilidade de, até às 12 horas de quinta-feira próxima, dia 28, procederem voluntariamente à desobstrução dos referidos acessos à fábrica da Secil;
+c) Ordenar a sua desobstrução coerciva, findo aquele prazo, se revelar necessário, e com envolvimento dos meios convenientes, responsabilizando os camionistas obstrutores pelas consequências das acções que se revelarem necessárias;
+d) Responsabilizá-los, em qualquer caso, à luz das leis em vigor, pelo acto de obstrução em si;
+e) Esclarecer o público sobre o infundado das reivindicações dos camionistas envolvidos e sobre a natureza ilícita dos seus objectivos e processos;
+f) Tomar em conta, na revisão da legislação de acesso e funcionamento do mercado de transportes de mercadorias, procedimentos desta natureza ou outra de índole semelhante;
+g) Tornar claro, uma vez mais, que não pactuará com formas de luta e expedientes de pressão à margem das leis.
+Presidência do Conselho de Ministros, 26 de Outubro de 1976. - O Primeiro-Ministro, Mário Soares.
