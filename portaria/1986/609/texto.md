@@ -1,0 +1,28 @@
+Portaria n.º 609/86
+de 18 de Outubro
+Considerando que, nos termos do Acto de Adesão, está prevista uma disciplina de preços e uma disciplina de ajudas para os produtos agrícolas sujeitos ao regime de transição por etapas;
+Considerando que o Decreto-Lei n.º 517/85, de 31 de Dezembro, prevê para o sector vitivinícola a fixação de preços de intervenção quando as condições do mercado o justifiquem;
+Considerando que o mercado de vinhos de mesa na campanha de 1985-1986 tem apresentado uma recessão acentuada na procura, o que se traduz por um aumento de volume de stocks na produção para além de um nível desejável;
+Considerando que a previsão de produção na campanha vitivinícola de 1986-1987 aponta para valores considerados médios e, portanto, superiores aos valores médios de consumo;
+Considerando a necessidade de produção de aguardentes vínicas de características físico-químicas e organolépticas adequadas à elaboração do vinho do Porto, de forma a evitar a importação a que tem havido necessidade de se recorrer;
+Considerando que para a obtenção de aguardentes com as características referidas é tecnicamente aconselhável proceder à destilação dos vinhos tão cedo quanto possível;
+Considerando a conveniência em que a produção seja atempadamente informada das medidas que visem a regularização do mercado no âmbito das regras comunitárias e admitindo como vantajosa a manutenção, à semelhança do ano transacto, do valor de 65% do preço de orientação como preço de intervenção;
+Considerando a necessidade de dar cumprimento ao estipulado no Decreto-Lei n.º 214/76, de 24 de Março, que obriga os produtores que tenham vinhos que não satisfaçam as características legais ou que se apresentem defeituosos ou alterados a entregá-los ao organismo vinícola da respectiva área;
+Considerando ainda a necessidade de dar cumprimento ao disposto no Decreto-Lei n.º 58/84, de 21 de Fevereiro, através da fixação dos preços a pagar pelos destilados de borra entregues às entidades que se encontrem aptas a proceder à respectiva rectificação:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio, ao abrigo dos artigos 8.º e 9.º do Decreto-Lei n.º 517/85, de 31 de Dezembro, o seguinte:
+1.º Para a campanha de 1986-1987, no âmbito do regime de intervenção no sector vitivinícola, proceder-se-á à aquisição de vinhos sob a forma de «destilação preventiva».
+2.º O preço a pagar, correspondente a 65% do preço de orientação, é o seguinte:
+Áreas da Junta Nacional do Vinho e Federação dos Vinicultores do Dão:
+Vinho tinto - 259$00/% vol./hl;
+Vinho branco - 236$00/% vol./hl;
+Área da Comissão de Viticultura da Região dos Vinhos Verdes:
+Vinho tinto - 304$00/% vol./hl;
+Vinho branco - 304$00/% vol./hl.
+3.º A operação de «destilação preventiva» é aberta no início da campanha de comercialização, podendo ser apresentadas propostas de entrega de vinho durante um período de 60 dias e até um quantitativo de 1000000 hl.
+4.º As características do vinho a receber serão definidas pela entidade responsável pela gestão do mercado vitivinícola, tendo em consideração a área em que se desenvolve a operação.
+5.º Proceder-se-á à aquisição de vinhos ao abrigo do artigo 1.º do Decreto-Lei n.º 214/76 até ao limite de 50000 hl, sendo o preço a pagar ao produtor, correspondente a 35% do preço de orientação determinado para o vinho branco, o seguinte 127$00/% vol./hl.
+6.º Proceder-se-á à aquisição de destilados de borra ao abrigo do disposto no Decreto-Lei n.º 58/84 até ao limite de 30000 hl, sendo o preço a pagar ao destilador, correspondente a 50% do preço de orientação determinado para o vinho branco, o seguinte:
+182$00/% vol./hl.
+Ministérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
+Assinada em 30 de Setembro de 1986.
+Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - Pelo Ministro da Agricultura, Pescas e Alimentação, António Amaro de Matos, Secretário de Estado da Alimentação. - Pelo Ministro da Indústria e Comércio, Jorge Manuel Águas da Ponte Silva Marques, Secretário de Estado do Comércio Interno.
