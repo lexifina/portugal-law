@@ -1,0 +1,5 @@
+Portaria n.º 19173
+Nos termos do artigo 1.º e seu § 2.º do Decreto-Lei n.º 31913, de 12 de Março de 1942, e dos artigos 24.º, n.º 19.º, e 170.º do Decreto-Lei n.º 35108, de 7 de Novembro de 1945, na nova redacção dada pelo Decreto-Lei n.º 41723, de 8 de Julho de 1958, aplicáveis por força do artigo 26.º do Decreto-Lei n.º 41759, de 25 de Julho de 1958:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Saúde e Assistência, criar no quadro do pessoal de direcção e chefia do Instituto de Assistência Psiquiátrica, aprovado pelo Decreto-Lei n.º 41759, de 25 de Julho de 1958, uma rubrica com a designação de «Pessoal de direcção técnica», na qual se inclui o lugar de adjunto clínico, a que corresponderá o vencimento a que se refere a letra F do artigo 1.º do Decreto-Lei n.º 42046, de 23 de Dezembro de 1958.
+Esta portaria substitui a Portaria n.º 19107, de 31 de Março último.
+Ministérios das Finanças e da Saúde e Assistência, 9 de Maio de 1962. - O Ministro das Finanças, António Manuel Pinto Barbosa. - O Ministro da Saúde e Assistência, Henrique de Miranda Vasconcelos Martins de Carvalho.
