@@ -8,6 +8,6 @@
 
 4 - O conselho de departamento é presidido por um professor catedrático ou associado, em exercício de funções no Departamento, eleito por mandato de 2 anos.
 
-5 - Em caso de ausência ou impedimento temporário do presidente, o conselho será presidido pelo professor mais antigo da categoria mais elevada do Departamento que esteja a prestar serviço em regime de tempo parcial.
+5 - Em caso de ausência ou impedimento temporário do presidente, o conselho será presidido pelo professor mais antigo da categoria mais elevada do Departamento que esteja a prestar serviço em regime de tempo integral.
 
 6 - O conselho de departamento reúne por iniciativa do seu presidente ou de metade dos seus membros, mediante convocatória assinada por aquele, da qual deve constar a ordem de trabalhos e a data, hora e local da reunião.
