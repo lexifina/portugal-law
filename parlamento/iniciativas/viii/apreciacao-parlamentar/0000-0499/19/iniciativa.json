@@ -1,0 +1,81 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "tipo": "Apreciação Parlamentar",
+  "numero": "19",
+  "id": "6046",
+  "fases": 7,
+  "registo_nota": "objeto da iniciativa sem IniEventos (cada fase e um registo proprio em fases/)",
+  "data_registo": "2000-05-17",
+  "data_registo_base": "record date = the day of the initiative's \"Entrada\" phase (IniEventos[].DataFase; else its earliest phase day) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "DataFimleg": "2000-09-14",
+    "DataInicioleg": "1999-10-25",
+    "IniAnexos": null,
+    "IniAutorDeputados": [
+      {
+        "GP": "PCP",
+        "idCadastro": "1423",
+        "nome": "Luísa Mesquita"
+      }
+    ],
+    "IniAutorGruposParlamentares": [
+      {
+        "GP": "PCP"
+      }
+    ],
+    "IniAutorOutros": {
+      "iniAutorComissao": null,
+      "nome": "Deputados",
+      "sigla": "D"
+    },
+    "IniciativasEuropeias": null,
+    "IniciativasOrigem": null,
+    "IniciativasOriginadas": null,
+    "IniDescTipo": "Apreciação Parlamentar",
+    "IniEpigrafe": null,
+    "IniId": "6046",
+    "IniLeg": "VIII",
+    "IniLinkTexto": "http://app.parlamento.pt/webutils/docs/doc.pdf?path=6148523063484d364c793968636d356c6443397a6158526c6379395753556c4a5447566e4c305276593356745a57353062334e4a626d6c6a6157463061585a684c7a466b4e54686a4e5445334c574a6a4d7a49744e4746694e7931684d6a63344c5451334e6a426a4f54646b4d445a6b4d43356b62324d3d&fich=1d58c517-bc32-4ab7-a278-4760c97d06d0.doc&Inline=true",
+    "IniNr": "19",
+    "IniObs": "DL67/2000.",
+    "IniSel": "1",
+    "IniTextoSubst": "NAO",
+    "IniTextoSubstCampo": null,
+    "IniTipo": "A",
+    "IniTitulo": "Decreto-lei nº 67/2000 de 26 de Abril que \"institui a protecção no desemprego dos docentes contratados dos estabelecimentos de educação e ensino públicos\".",
+    "Links": null,
+    "Peticoes": null,
+    "PropostasAlteracao": [
+      {
+        "autor": "PCP",
+        "id": "7050",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "117935",
+            "obs": null,
+            "pag": [
+              "1-1"
+            ],
+            "pagFinalDiarioSupl": null,
+            "pubdt": "2000-06-03",
+            "pubLeg": "VIII",
+            "pubNr": "27",
+            "pubSL": "1",
+            "pubTipo": "DAR II série B",
+            "pubTp": "B",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/08/01/027/2000-06-03/1?pgs=1&org=PLC"
+          }
+        ],
+        "tipo": "Proposta de Alteração"
+      }
+    ]
+  }
+}
