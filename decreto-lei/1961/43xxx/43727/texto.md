@@ -1,0 +1,8 @@
+Decreto-Lei n.º 43727
+Tornando-se urgente dotar o orçamento da defesa nacional com a importância destinada a ocorrer a necessidades imediatas de aquisição de novo material indispensável à protecção das nossas províncias ultramarinas;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constitutição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º É aberto no Ministério das Finanças um crédito especial no montante de 500000000$00, devendo a mesma importância ser adicionada à verba inscrita no artigo 297.º «Forças militares extraordinárias no ultramar», capítulo 11.º, do orçamento dos encargos gerais da Nação para o corrente ano económico.
+Art. 2.º Para compensação do crédito aludido no artigo precedente é adicionada igual quantia à verba inscrita no capítulo 9.º «Receita extraordinária», artigo 266.º «Produto da venda de títulos ou de empréstimos», do orçamento das receitas para o actual ano económico.
+Art. 3.º O presente diploma entra imediatamente em vigor.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 9 de Junho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
