@@ -1,0 +1,41 @@
+Decreto Regulamentar n.º 27/97
+de 18 de Junho
+Prevê o n.º 1 do artigo 4.º do Decreto-Lei n.º 247/87, de 17 de Junho, que a criação de carreiras ou categorias específicas da administração local se faz mediante decreto regulamentar do Ministro do Planeamento e da Administração do Território e do membro do Governo que tiver a seu cargo a função pública.
+Competindo, nos termos da Lei n.º 24/96, de 31 de Julho, às autarquias locais a protecção e defesa dos consumidores;
+Considerando que nos últimos 10 anos foram abertos, por protocolo entre as câmaras municipais e o Instituto do Consumidor, cerca de 40 centros de informação autárquicos ao consumidor (CIAC) ou postos municipais de informação ao consumidor (PMIC);
+Sendo manifesta a vontade por parte dos municípios de proceder à abertura de novos CIAC;
+Considerando ainda a necessidade de garantir a dignificação e a especialização dos funcionários autárquicos que, nas autarquias, asseguram estes serviços:
+Assim, sob proposta do Instituto do Consumidor (IC) e do Centro de Estudos e Formação Autárquica (CEFA) e ouvida a Associação Nacional de Municípios Portugueses:
+Ao abrigo do disposto no n.º 1 do artigo 4.º do Decreto-Lei n.º 247/87, de 17 de Junho, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Objecto
+É criada no regime de pessoal da administração local, no grupo de pessoal técnico-profissional, nível 4, a carreira de conselheiro de consumo, com o desenvolvimento e escala salarial fixados no mapa anexo ao presente diploma, do qual faz parte integrante.
+Artigo 2.º
+Conteúdo funcional
+O conteúdo funcional da carreira referida no artigo anterior integra as seguintes tarefas:
+a) Atender e informar os consumidores sobre questões relacionadas com o consumo e sobre os seus direitos e modo de exercício;
+b) Receber e analisar as reclamações dos consumidores, procedendo à mediação dos respectivos conflitos de consumo ou, caso esta não seja viável, encaminhar a resolução desses conflitos para as entidades competentes;
+c) Pesquisar, analisar e seleccionar a documentação necessária ao fornecimento da informação objectiva e actualizada no domínio do consumo;
+d) Inventariar e analisar os recursos concelhios, designadamente em matéria de estrutura do mercado, do consumo e de organizações sócio-económicas;
+e) Promover e organizar, a nível local, acções de sensibilização e de informação sobre a temática do consumo e da protecção dos direitos dos consumidores.
+Artigo 3.º
+Ingresso e acesso
+O recrutamento para ingresso na carreira de conselheiro de consumo faz-se de entre indivíduos titulares, cumulativamente, das habilitações seguintes:
+a) Ensino secundário completo;
+b) Curso de formação adequado, ministrado pelo Centro de Estudos e Formação Autárquica (CEFA), cujo programa e duração sejam aprovados por portaria conjunta dos Ministros das Finanças e da Administração do Território, do Ambiente e Adjunto.
+Artigo 4.º
+Condições especiais de acesso
+A requerimento dos interessados, serão integrados na categoria de ingresso da carreira de conselheiro de consumo os funcionários autárquicos que à data da entrada em vigor do presente diploma reúnam, cumulativamente, os seguintes requisitos:
+a) Sejam detentores do 9.º ano de escolaridade obrigatória ou equivalente;
+b) Tenham frequentado com aproveitamento curso de formação em matéria de defesa do consumidor ministrado pelo Instituto do Consumidor;
+c) Desempenhem há, pelo menos, três anos funções de conteúdo idêntico às previstas no artigo 2.º
+Presidência do Conselho de Ministros, 10 de Abril de 1997.
+António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Eduardo Carrega Marçal Grilo - Elisa Maria da Costa Guimarães Ferreira - Jorge Paulo Sacadura Almeida Coelho.
+Promulgado em 22 de Maio de 1997.
+Publique-se.
+O Presidente da República, JORGE SAMPAIO.
+Referendado em 27 de Maio de 1997.
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.
+
+ANEXO
+(ver documento original)
