@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1950/08/15200/05010502.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1950-08-01",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "e97f911521229ecd4aae861bdff46335dac1563dea0af0b449f3d9d465b55534",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 95.6,
+    "pages": 2,
+    "columns": [
+      1,
+      3
+    ],
+    "pdf_sha256": "a5af93b7016075713b8001b9bc84cda3f622bf9f8538ab5ca229a43eaedb760e",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 804
 }
