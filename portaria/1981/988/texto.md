@@ -1,0 +1,5 @@
+Portaria n.º 988/81
+de 19 de Novembro
+Manda o Governo da República Portuguesa, pelos Ministros de Estado e das Finanças e do Plano, da Educação e das Universidades e da Reforma Administrativa, que, face ao disposto no n.º 1 do artigo 20.º do Decreto-Lei n.º 191-C/79, de 25 de Junho, o quadro de pessoal do Instituto de Orientação Profissional de Maria Luísa Barbosa de Carvalho, a que se referem os Decretos com força de lei n.os 14715, de 7 de Dezembro de 1927, e 14963, de 24 de Janeiro de 1928, e os Decretos-Leis n.os 22753, 26611, 31049 e 41120, respectivamente de 28 de Junho de 1933, de 19 de Maio de 1936, de 28 de Dezembro de 1940 e de 20 de Maio de 1957, passe a ter a seguinte composição:
+(ver documento original)
+Ministérios das Finanças e do Plano, da Educação e das Universidades e da Reforma Administrativa, 25 de Outubro de 1981. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Educação e das Universidades, Vítor Pereira Crespo. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
