@@ -1,0 +1,10 @@
+Declaração
+O Assento do Supremo Tribunal de Justiça n.º 2/82, publicado no Diário da República, 1.ª série, n.º 138, de 18 de Junho de 1982, saiu com as seguintes inexactidões, que assim se rectificam:
+A p. 1754, col. 2.ª, onde se lê «julgou, diversamente, que a competência, a legitimidade do Ministério Público para a propositura de acção de impugnação de paternidade, 'depende do pedido de quem pretendesse ser o verdadeiro pai e do reconhecimento judicial da viabilidade desse pedido'» deve ler-se «julgou, diversamente, que "a competência, a legitimidade do Ministério Público para a propositura de acção de impugnação de paternidade 'depende' do pedido de quem pretendesse ser o verdadeiro pai e do reconhecimento judicial da viabilidade desse pedido"».
+A p. 1755, col. 1.ª, onde se lê «A partir daí, formaram-se no Supremo Tribunal de Justiça 2 correntes jurisprudenciais, de peso sensivelmente igual, acerca da competência do Ministério Público, para, em representação de menores, impugnar a paternidade destes» deve ler-se «A partir daí, formaram-se no Supremo Tribunal de Justiça duas correntes jurisprudenciais, de peso sensivelmente igual, acerca da competência do Ministério Público para, em representação de menores, impugnar a paternidade destes».
+A p. 1755, col. 2.ª, onde se lê «Segundo Paul Roubier, citado pelos autores que mais adiante aludiremos» deve ler-se «Segundo Paulo Roubier, citado pelos autores a que mais adiante aludiremos».
+A p. 1756, col. 1.ª, onde se lê «A isso opõe, com razão, o Prof. Baptista Machado (ob. e doc. cit)» deve ler-se «A isso opõe, com razão, o Prof. Baptista Machado (ob. e loc. cit.)»
+Onde se lê «Estes podiam contar que a solução» deve ler-se «Estes podiam contar com a solução»
+Onde se lê «Só no assento, que não no teor do acórdão proferido sobre o recurso para o tribunal pleno, os seus fundamentos têm eficácia decisória» deve ler-se «Só o assento, que não o teor do acórdão proferido sobre o recurso para o Tribunal pleno, os seus fundamentos, tem eficácia decisória».
+Está conforme.
+Secretaria do Supremo Tribunal de Justiça, 29 de Junho de 1982. - O Escrivão de Direito da 1.ª Secção, António dos Santos Rocha.
