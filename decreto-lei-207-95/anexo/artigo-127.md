@@ -20,4 +20,4 @@ f) Assinatura das pessoas notificadas que tenham comparecido, ou declaração de
 
 3 - Os declarantes podem requerer pública-forma do instrumento de protesto, sendo igual faculdade conferida aos notificados que tenham declarado verbalmente as razões da falta de aceite ou de pagamento.
 
-4 - O instrumento de protesto deve ser expedido mediante o preenchimento de impresso de modelo aprovado.
+4 - O instrumento de protesto deve ser expedido mediante o preenchimento de impresso de modelo aprovado por despacho do director-geral dos Registos e do Notariado, podendo ser submetido a tratamento informático, mediante despacho da mesma entidade.

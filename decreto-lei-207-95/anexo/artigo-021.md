@@ -10,6 +10,6 @@
 
 4 - O livro de notas para testamentos públicos e escrituras de revogação, formado por fascículos ou folhas soltas, deve ser encadernado dentro das instalações do cartório, preservando-se a confidencialidade dos actos dele constantes.
 
-5 - O uso de livros de notas para escrituras diversas, formados por folhas soltas, apenas é permitido relativamente a um dos volumes desdobrados nos termos do n.º 2 do artigo 10.º, quando o notário esteja em exercício ou o autorizar, por escrito, para cada caso.
+5 - O uso do livro de notas para escrituras diversas, formado por folhas soltas, é permitido relativamente a dois volumes desdobrados, nos termos do n.º 2 do artigo 10.º, devendo um deles destinar-se a serviço externo.
 
 6 - Além dos referidos nos números anteriores, outros livros podem ser submetidos a tratamento informático mediante despacho do director-geral dos Registos e do Notariado.
