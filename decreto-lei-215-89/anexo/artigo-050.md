@@ -32,14 +32,18 @@ l) Os prédios ou parte de prédios cedidos gratuitamente pelos respectivos prop
 
 2 - As isenções a que se refere o número anterior iniciam-se:
 
-a) Nas situações previstas nas alíneas a) a j), no ano, inclusive, em que o prédio ou parte do prédio for destinado aos fins nelas referidos ou, no caso das misericórdias, a partir do ano, inclusive, em que se constitua o seu direito de propriedade;
+a) Relativamente às situações previstas nas alíneas a) a d) e g) a j), no ano, inclusive, em que o prédio ou parte do prédio for destinado aos fins nelas referidos;
 
-b) No caso previsto na alínea l), no ano, inclusive, em que se verificar a cedência.
+b) Relativamente às situações previstas nas alíneas e) e f), a partir do ano, inclusive, em que se constitua o direito de propriedade;
+
+c) No caso previsto na alínea l), no ano, inclusive, em que se verificar a cedência.
 
 3 - A isenção a que se refere a alínea a) do n.º 1 será reconhecida por despacho do Ministro das Finanças, a requerimento das entidades interessadas.
 
-4 - Nos restantes casos previstos neste artigo, a isenção será reconhecida pelo director-geral das Contribuições e Impostos, a requerimento devidamente documentado, que deverá ser apresentado pelos sujeitos passivos na repartição de finanças da área da situação do prédio, no prazo de 90 dias contados da verificação do facto determinante da isenção, salvo quanto às misericórdias, caso em que o direito à isenção será reconhecido oficiosamente, sempre que se verifique a inscrição na matriz em seu nome.
+4 - As isenções a que se refere a alínea b) do n.º 2 serão reconhecidas oficiosamente, desde que se verifique a inscrição na matriz em nome das entidades beneficiárias, que os prédios se destinem directamente à realização dos seus fins e que seja feita prova da respectiva natureza jurídica.
 
-5 - Nas situações abrangidas pela primeira parte do número anterior, se o pedido for apresentado para além do prazo referido, a isenção iniciar-se-á a partir do ano imediato, inclusive, ao da sua apresentação.
+5 - Nos restantes casos previstos neste artigo, a isenção será reconhecida pelo director-geral dos Impostos, a requerimento devidamente documentado, que deverá ser apresentado pelos sujeitos passivos na repartição de finanças da área da situação do prédio, no prazo de 90 dias contados da verificação do facto determinante da isenção.
 
-6 - Os benefícios constantes das alíneas b) a l) do n.º 1 cessam logo que deixem de verificar-se os pressupostos que os determinaram, devendo os proprietários ou usufrutuários dar cumprimento ao disposto no n.º 1 do artigo 14.º do Código da Contribuição Autárquica.
+6 - Nas situações abrangidas pelo número anterior, se o pedido for apresentado para além do prazo referido, a isenção iniciar-se-á a partir do ano imediato, inclusive, ao da sua apresentação.
+
+7 - Os benefícios constantes das alíneas b) a l) do n.º 1 cessam logo que deixem de verificar-se os pressupostos que os determinaram, devendo os proprietários ou usufrutuários dar cumprimento ao disposto no n.º 1 do artigo 14.º do Código da Contribuição Autárquica.
