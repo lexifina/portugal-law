@@ -1,7 +1,19 @@
 # Artigo 712.º
 
-A liquidação da licença de estabelecimento comercial ou industrial terá por base o lançamento da contribuïção industrial e as declarações dos contribuintes, quando se trate de sucursais, filiais, agências, delegações, correspondências ou estabelecimentos que sejam colectados por outro concelho, mas corrigidas estas com elementos fornecidos pela fiscalização.
+As empresas que exerçam actividade em mais do que um concelho pagarão o imposto de comércio e indústria na câmara municipal do concelho onde lhes for liquidada a contribuição industrial, ou onde este imposto lhes seria liquidável, segundo a lei, se dele não estivessem isentas, aplicando-se a taxa mais elevada das votadas nos diversos concelhos.
 
-§ 1.º As declarações compreenderão o ramo de comércio ou indústria, o rendimento ilíquido da sociedade ou emprêsa e o da sucursal, filial, agência, delegação, correspondência ou estabelecimento, devendo ser apresentadas na secretaria da câmara até 31 de Dezembro de cada ano.
+§ 1.º O imposto de comércio e indústria será repartido pelas câmaras municipais dos concelhos onde as empresas possuam a sede, escritórios de administração, filiais, sucursais, agências, delegações ou qualquer outra forma de representação própria permanente.
 
-§ 2.º As emprêsas isentas do pagamento de contribuïção industrial ao Estado, mas não do pagamento de impostos municipais, pagarão licença de estabelecimento comercial e industrial, calculada sôbre a base da contribuïção industrial que lhes seria liquidada, segundo a lei, se não estivessem isentas.
+As importâncias do imposto serão contabilizadas em consignação de receitas e as que pertencerem às demais câmaras entregues no mês seguinte ao do seu recebimento, constituindo encargo das referidas câmaras o prémio de transferência.
+
+§ 2.º Os contribuintes deverão apresentar em cada um dos concelhos em que se situem as instalações, até 31 de Dezembro, declaração em que indiquem o ramo de comércio ou indústria, o rendimento total e a sua discriminação pelos diversos concelhos, no ano anterior, e cópias das declarações apresentadas nas repartições de finanças para efeito de liquidação da contribuição do Estado.
+
+A falta de declaração será punida com multa de 500$00.
+
+§ 3.º Os directores dos Serviços de Finanças das Câmaras Municipais de Lisboa e Porto e os chefes de secretaria das demais câmaras determinarão, com base nas declarações dos contribuintes, corrigíveis com elementos fornecidos pela fiscalização, ou só nestes elementos, na falta de declaração, a percentagem da colecta do imposto de comércio e indústria correspondente ao respectivo concelho e comunicá-la-ão, até 31 de Março, às direcções dos serviços de finanças ou secretarias das câmaras dos restantes concelhos interessados na repartição.
+
+§ 4.º Na falta de acordo entre os serviços mencionados no parágrafo anterior, pode qualquer dos respectivos dirigentes ou dos presidentes das câmaras municipais reclamar para a comissão a que se refere o § 3.º do artigo 706.º, que resolverá em definitivo.
+
+As alterações que, em anos seguintes e por acordo entre os referidos serviços, forem introduzidas nas percentagens de distribuição fixadas nos termos deste parágrafo, serão comunicadas à comissão pelo director dos serviços de finanças ou chefe de secretaria da câmara onde o imposto for cobrado.
+
+§ 5.º O disposto nos parágrafos 1.º a 4.º deste artigo não se aplica relativamente aos contribuintes cuja colecta para o Estado seja igual ou inferior a 10000$00.

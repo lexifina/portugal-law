@@ -1,7 +1,7 @@
 # Artigo 709.º
 
-Os impostos sôbre bilhares, casinos e outras casas de recreio, bem como sôbre as destinadas à exploração regular da indústria de espectáculos, são cobrados por meio de licença pedida pelo interessado até 31 de Janeiro de cada ano ou nos trinta dias seguintes àquele em que iniciar a actividade tributada, não podendo exceder 10 por cento da colecta da contribuïção industrial, do imposto único sôbre espectáculos públicos ou do valor locativo dos lugares onde o contribuinte esteja instalado, no caso de não pagar aquela contribuïção, ou 35 por cento nos concelhos de Lisboa e Pôrto.
+O imposto municipal sobre espectáculos é devido pelas actividades passíveis de imposto, para o Estado, sobre espectáculos e divertimentos públicos, não podendo exceder 10 por cento da colecta do imposto liquidado ou liquidável para o Estado, ou 35 por cento nos concelhos de Lisboa e Porto.
 
-§ 1.º Consideram-se casas de recreio, para os efeitos dêste artigo, os lugares onde seja permitido a pessoas indeterminadas jogar, participar de quaisquer distracções ou presenciá-las mediante o pagamento de entradas ou taxas.
+§ 1.º Sobre o imposto de espectáculos incidirá o adicional de 8 por cento para o Estado, não sendo devido selo de conhecimento.
 
-§ 2.º Aplicam-se a êste imposto as disposições que regulam o lançamento e cobrança da licença de comércio e indústria, correspondente ao grupo C da contribuïção industrial.
+§ 2.º Aplicam-se a este imposto as disposições que regulam a liquidação e cobrança do correspondente imposto do Estado.

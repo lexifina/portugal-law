@@ -1,5 +1,5 @@
 # Artigo 710.º
 
-A licença de estabelecimento comercial ou industrial é devida pelas empresas singulares ou colectivas ou suas sucursais, filiais, agências, delegações, correspondências ou estabelecimentos que exerçam qualquer ramo de comércio ou de indústria na circunscrição municipal.
+O imposto de comércio e indústria é devido pelo exercício, na circunscrição municipal, de qualquer actividade passível de contribuição industrial, ou imposto de natureza especial que a substitua.
 
-§ único. Para os efeitos do disposto neste artigo considera-se comércio ou indústria toda a actividade sôbre que incida contribuïção industrial ou imposto de natureza especial que a substitua.
+§ único. As empresas isentas do pagamento de contribuição industrial, mas não do pagamento do imposto municipal, pagarão imposto de comércio e indústria sobre a colecta que lhes seria liquidada, segundo a lei, se não estivessem isentas.

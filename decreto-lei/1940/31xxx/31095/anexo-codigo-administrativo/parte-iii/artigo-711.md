@@ -1,13 +1,9 @@
 # Artigo 711.º
 
-As taxas de licença de estabelecimento comercial ou industrial não poderão exceder 10 por cento da importância da colecta da contribuïção industrial liquidada ou liquidável para o Estado, ou 5 por cento tratando-se de sociedades anónimas.
+A taxa do imposto de comércio e indústria não poderá exceder 10 por cento da colecta do imposto liquidado ou liquidável para o Estado no ano anterior, ou 45 por cento em Lisboa e Porto.
 
-§ 1.º O disposto neste artigo não se aplica ao concelho de Lisboa, cujas taxas de licença poderão ser fixadas até aos seguintes limites:
+§ 1.º Será aplicável o limite fixado para os concelhos de Lisboa e Porto aos concelhos cujas câmaras não cobrem ou deliberem suprimir a cobrança de impostos indirectos a que se refere o artigo 714.º deste Código, salvo os que incidam sobre géneros ou artigos cuja tributação esteja regulada por legislação especial.
 
-55 por cento, para as colectas do grupo A da contribuïção industrial;
+§ 2.º O imposto de comércio e indústria devido pelas empresas que cessem totalmente a sua actividade será calculado com base nas colectas da contribuição industrial liquidadas para o Estado no ano anterior e no próprio ano.
 
-20 por cento para as colectas do grupo B;
-
-45 por cento para as colectas do grupo C.
-
-§ 2.º Serão aplicáveis os limites fixados no parágrafo anterior aos concelhos cujas câmaras, cobrando impostos indirectos à data da publicação dêste Código, deliberem suprimir toda a tributação do consumo público, desde que essa deliberação seja aprovada, bem como as novas taxas de licença de estabelecimento comercial e industrial, por despacho do Ministro das Finanças publicado no Diário do Govêrno.
+§ 3.º Sobre o imposto de comércio e indústria incidirá um adicional, para o Estado, de 8 por cento, não sendo devido selo de conhecimento.
