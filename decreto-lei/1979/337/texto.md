@@ -1,0 +1,31 @@
+Decreto-Lei n.º 337/79
+de 24 de Agosto
+A aplicação do preceituado no n.º 11 do artigo 58.º do Código da Estrada tem frequentemente suscitado dificuldades, nomeadamente nos casos em que o veículo, propriedade de um particular ou de firmas comerciais ou industriais, serve como instrumento de trabalho a vários condutores. Ora o não cumprimento do dever imposto ao proprietário pela mencionada disposição legal pode ameaçar seriamente as condições de trabalho dos referidos condutores.
+Acresce que o n.º 11 do artigo 58.º não prevê - e, consequentemente, não pune - o incumprimento do citado dever pelos detentores dos veículos (exceptuando-se a detenção abusiva), o que tem constituído grave lacuna.
+Pretende-se, pois, com as alterações ora introduzidas ao Código da Estrada assegurar a actividade fiscalizadora na deteccção, prevenção e repressão do ilícito rodoviário, de acordo com as directrizes vigentes na ordem jurídica nacional.
+Quanto aos restantes preceitos, não são mais do que a formalização legalmente exigível à boa execução das normas estradais e correspondente organização interna dos serviços competentes.
+Usando da faculdade conferida pela alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta:
+Artigo 1.º Os n.os 11 e 12 do artigo 58.º, o artigo 62.º, n.º 1, e o n.º 2 do artigo 66.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 39672, de 20 de Maio de 1954, passam a ter a seguinte redacção:
+ARTIGO 58.º
+Disposições gerais
+...
+11 - Quando o autuante não puder identificar o condutor, deve ser notificado o proprietário, o adquirente com reserva de propriedade ou usufrutuário do veículo para, no prazo de vinte dias, proceder a essa identificação.
+O proprietário, o adquirente com reserva de propriedade ou usufrutuário é obrigado a proceder à identificação do condutor ou detentor, salvo se provar utilização abusiva do veículo.
+O detentor é obrigado, nos mesmos termos, a proceder à identificação do condutor.
+A falta do cumprimento do dever atrás referido é punida com multa igual ao dobro do limito máximo da aplicável à infracção praticada pelo condutor, salvo quando à infracção corresponda inibição de conduzir, caso em que o referido montante será igual ao quíntuplo daquele limite, sem prejuízo das penas aplicáveis por encobrimento.
+12 - Em caso de reincidência na falta do cumprimento do dever de identificação previsto no número anterior, serão as multas ali referidas elevadas para o dobro.
+ARTIGO 62.º
+Multas
+1 - As infracções ao disposto no presente Código a que não corresponda pena especial serão punidas com multa de 100$00 a 500$00.
+ARTIGO 66.º
+Registo de Infracções
+...
+2 - A Direcção-Geral de Viação deve organizar em registo especial o cadastro de cada condutor, do qual deve constar:
+a) Os crimes e as contravenções que impliquem inibição de conduzir e respectivas penas aplicadas;
+b) As medidas de segurança aplicadas nos termos previstos no Código da Estrada e demais legislação complementar;
+c) Os acidentes em que os condutores tenham participado.
+Art. 2.º Este diploma entra em vigor na data da sua publicação.
+Visto e aprovado em Conselho de Ministros de 18 de Julho de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - José Ricardo Marques da Costa.
+Promulgado em 1 de Agosto de 1979.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
