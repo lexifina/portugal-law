@@ -1,0 +1,63 @@
+# Acórdão do Supremo Tribunal Administrativo de 1995-09-26, processo 036406
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 036406
+
+**Data do Acordão:** 09/26/1995
+
+**Tribunal:** 2 SUBSECÇÃO DO CA
+
+**Relator:** FERREIRA DE ALMEIDA
+
+**Descritores:** ASILO POLÍTICO; RECEIO RAZOÁVEL DE PERSEGUIÇÃO; ÓNUS DE ALEGAÇÃO DE FACTOS; ÓNUS DE PROVA; PRINCÍPIO DA OFICIALIDADE; PRESUNÇÃO DE LEGALIDADE DO ACTO ADMINISTRATIVO; PODER DISCRICIONÁRIO; PODER VINCULADO; FUNDAMENTAÇÃO PER RELATIONEM
+
+**Nº Convencional:** JSTA00043293
+
+**Nº do Documento:** SA119950926036406
+
+**Data de Entrada:** 11/24/1994
+
+**Recorrente:** NEACSU , GEORGHE
+
+**Recorrido 1:** SEA DO MINAI
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 95
+
+**Privacidade:** 01
+
+**Meio Processual:** REC CONT.
+
+**Objecto:** DESP SEA DO MINAI DE 1994/06/16.
+
+**Decisão:** NEGA PROVIMENTO.
+
+**Área Temática 1:** DIR ADM GER - ASILO.
+
+**Legislação Nacional:** L 70/93 DE 1993/09/29 ART2 N1 N2 ART10 ART13 N2 ART15 N1 ART38.; L 38/80 DE 1980/08/01 ART15-A.; LPTA85 ART36 N1 D.; CONST89 ART124 N1 A C ART125 ART268 N3.
+
+**Jurisprudência Nacional:** AC STA PROC33505 DE 1994/06/07.; AC STA PROC33609 DE 1994/12/13.; AC STA PROC35520 DE 1995/03/01.; AC STA PROC34520 DE 1995/05/30.; AC STA PROC34602 DE 1995/05/30.; AC STA PROC36572 DE 1995/06/20.; AC STA PROC35057 DE 1995/06/20.; Texto Integral
+
+## Sumário
+
+I - O pedido de asilo deve, nos termos do n. 2 do art. 13 da L 70/93 conter, além do mais, o relato das circunstâncias ou factos que fundamentam o asilo e a indicação dos elementos de prova reputados necessários, sem prejuízo do dever de oficialidade que o n. 1 do art. 15 do mesmo diploma comina ao Serviço de Estrangeiros e Fronteiras.
+
+II - Gozando o acto administrativo da presunção de legalidade - nesta incluída a presunção de verosimilhança dos pressupostos de facto em que assentou - impende sobre o respectivo impugnante o ónus de alegar factos tendentes a substanciar os vícios que ao mesmo imputa e logo no articulado inicial, tal como impõe a al. d) do n. 1 do art. 36 da LPTA 85.
+
+III - Não se pode dar como satisfeito tal ónus se o interessado, na petição de recurso, se limita a enunciar os conceitos, fórmulas ou princípios abstractamente integradores dos pressupostos legais da concessão do direito de asilo, sem todavia chegar a referir qualquer facto concreto substanciador desses pressupostos.
+
+IV - Se o recorrente, logo na fase inicial do processo administrativo, declarou que jamais havia militado em qualquer partido político ou exercido qualquer actividade política no país de origem, logo arredado ficou o hipotético propósito de prosseguir um qualquer dos objectivos consignados no art. 2 da L 70/93 de 29/9.
+
+V - Perante a " ratio legis ", e atenta a exigência legal da respectiva razoabilidade ("com razão"), o eventual receio de perseguição pelas autoridades do país de origem implica que o mesmo se não reduza a uma mera condição subjectiva (estado de espírito do impetrante) devendo antes fundar-se numa situação (ou realidade fáctica) de carácter objectivo normalmente geradora de tal receio para um homem médio.
+
+VI - Não preenche qualquer dos objectivos do preceito, a aventada prática pelo requerente (conjuntamente com outros indivíduos) de uma infracção de carácter cívico-eleitoral eventualmente punível nos termos da lei comum - destruição de boletins de voto numa assembleia eleitoral.
+
+VII - A concessão do direito de asilo face ao preenchimento dos requisitos e pressupostos legais vertidos nos ns. 1 e 2 da Lei do Asilo assumem natureza vinculada, enquanto que a concessão do asilo por razões humanitárias contemplada no art. 10 da mesma Lei traduz um poder essencialmente discricionário.
+
+VIII- Encontra-se devidamente fundamentado "per relationem" ou
+
+"per remissionem" o acto denegatório do pedido de asilo se a decisão respectiva se louvou no conteúdo de uma informação-proposta elaborada pelo Comissário Nacional
+
+Para os Refugiados, para a qual expressamente remete e a qual desvenda, com suficiência e clareza, o itinerário cognosctivo e valorativo conducente a tal desideratum.
