@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1917/08/14500/07350736.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1917-08-28",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "3a2dc74619fd80e52a68b6e114ab777b70f3e8b0c6cd13f3d0862d2b7c6bdf32",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.3,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "bb6585ba89c4636fc526e1b3e6ce01bab41f55e0e7ce73878207603fcc3b81e5",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 1048
 }
