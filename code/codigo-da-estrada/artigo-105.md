@@ -1,10 +1,6 @@
-## CAPÍTULO IV
+## TÍTULO IV
 
-## Dos veículos
-
-## CAPÍTULO I
-
-## Classificação dos veículos
+## Dos veículosCAPÍTULO IClassificação dos veículos
 
 # Artigo 105.º
 

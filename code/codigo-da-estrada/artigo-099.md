@@ -1,4 +1,4 @@
-## SECÇÃO III
+## TÍTULO III
 
 ## Do trânsito de peões
 

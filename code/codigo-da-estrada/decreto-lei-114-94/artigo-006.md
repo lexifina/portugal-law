@@ -1,6 +1,6 @@
 # Artigo 6.º
 
-1 - Sem prejuízo do disposto no artigo seguinte, os regulamentos previstos no Código da Estrada são aprovados por decreto regulamentar.
+1 - Sem prejuízo do disposto no número seguinte, os regulamentos do Código da Estrada são aprovados por decreto regulamentar.
 
 2 - Exceptuam-se do disposto no número anterior:
 

@@ -1,12 +1,4 @@
-## CÓDIGO DA ESTRADA
-
-## TÍTULO I
-
-## Disposições gerais
-
-## CAPÍTULO I
-
-## Princípios gerais
+## CÓDIGO DA ESTRADATÍTULO IDisposições geraisCAPÍTULO IPrincípios gerais
 
 # Artigo 1.º
 
