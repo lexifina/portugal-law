@@ -1,0 +1,8 @@
+Decreto n.º 43534
+Dentro da execução dos trabalhos de arborização definidos na Lei n.º 2069, há necessidade de proceder ao arrendamento, por um período de cinco anos, de três parcelas de terreno, com a área total aproximada de 40620 m2, situadas na freguesia de Trandeiras, concelho de Braga, pertencentes a Olívia da Conceição Rebelo de Castro e Melo e Narciso António Rebelo de Castro e Melo, destinadas à instalação de um viveiro para reprodução de novos híbridos de choupos.
+Nestas condições, tendo em vista o disposto no artigo 22.º e seu § 1.º do Decreto-Lei n.º 41375, de 19 de Novembro de 1957;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º É autorizada a Direcção-Geral dos Serviços Florestais e Aquícolas a celebrar contrato com Olívia da Conceição Rebelo de Castro e Melo e Narciso António Rebelo de Castro e Melo para o arrendamento, por cinco anos, de três parcelas de terreno, com a área aproximada de 40620 m2, situadas na freguesia de Trandeiras, concelho de Braga.
+Art. 2.º A despesa em cada ano económico com o citado arrendamento não poderá exceder a importância de 26809$20 e constituirá encargo da dotação descrita na despesa extraordinária do orçamento do Ministério da Economia «II Plano de Fomento», na verba consignada a «Repovoamento de terrenos particulares» e descrita no corrente ano sob o capítulo 23.º, artigo 314.º, n.º 2), alínea b).
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 11 de Março de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Luís Quartin Graça.
