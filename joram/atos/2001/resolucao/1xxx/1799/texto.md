@@ -1,0 +1,17 @@
+# Resolução n.º 1799/2001
+
+**Emissor:** PRESIDÊNCIA DO GOVERNO REGIONAL
+
+**Publicação:** JORAM, I série, n.º 137/2001, 2.º suplemento, de 2001-12-31
+
+**Sumário:** Concede o aval da Região à sociedade que gira sob a firma Sousas & Cabral, Lda., para garantir uma operação de crédito no montante de 56.574,23 (11.342.115$00), a contrair junto do BANIF - Banco Internacional do Funchal, S.A..
+
+## Texto
+
+Resolução n.º 1799/2001
+Considerando o papel fundamental do sector das pescas para o equilíbrio sócio-económico da Região, pelo que ao Governo Regional interessa apoiar as empresas que operam neste segmento produtivo, nomeadamente aquelas que se dedicam à captura de tunídeos, e que estão sujeitas a factores de ordem natural e sazonal que afectam negativamente os seus resultados;
+Considerando que as contingências naturais se reflectiram negativamente na actividade da empresa “Sousas & Cabral, Lda.”, pelo que não lhe foi possível cumprir o serviço da dívida, entretanto vencida.
+O Conselho do Governo reunido em plenário em 28 de Dezembro de 2001, resolveu:
+1 - Ao abrigo do disposto no artigo 7.º do Decreto Regional n.º 23/79/M, de 16 de Outubro, conceder o Aval da Região à empresa “Sousas & Cabral, Lda.”, para garantir uma operação de crédito no montante de 56.574,23 (11.342.115$00), a contrair junto do BANIF - Banco Internacional do Funchal, S.A..
+2 - Mandatar o Secretário Regional do Plano e Finanças para outorgar o respectivo termo do aval.
+Presidência do Governo Regional. - O PRESIDENTE DO GOVERNO REGIONAL, Alberto João Cardoso Gonçalves Jardim.
