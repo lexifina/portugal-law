@@ -1,0 +1,5 @@
+Aviso n.º 29/98
+Por ordem superior se torna público que, por comunicação de 5 de Dezembro de 1997, o Secretário-Geral das Nações Unidas informou ter sido notificado, em 2 de Setembro de 1997, pelo Governo da República Jugoslava da Macedónia, da respectiva sucessão à República Federal Socialista da Jugoslávia quanto à Convenção Relativa à Distribuição de Sinais Portadores de Programas Transmitidos por Satélite - concluída em Bruxelas em 21 de Maio de 1974 -, com efeitos a partir de 17 de Novembro de 1991, data em que assumiu a responsabilidade pelas suas relações internacionais.
+Portugal aderiu a esta Convenção em 11 de Dezembro de 1995, nos termos do Decreto n.º 19/88, de 26 de Agosto, a que se refere o Aviso n.º 363/96, publicado no Diário da República, 1.ª série-A, n.º 283, de 7 de Dezembro de 1996.
+A Convenção entrou em vigor relativamente a Portugal em 11 de Março de 1996.
+Direcção de Serviços das Organizações Económicas Internacionais, 14 de Janeiro de 1998. - O Director de Serviços, João Perestrello Cavaco.
