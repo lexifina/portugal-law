@@ -1,0 +1,353 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "10",
+    "id": "6274",
+    "titulo": "Regula a constituição, organização, funcionamento e atribuições das entidades de gestão colectiva do direito de autor e dos direitos conexos"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2000-01-27",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "5902",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2000-01-27",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-01-27",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28964",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1219-1221"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-28",
+                "pubLeg": "VIII",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/032/2000-01-28/1219?pgs=1219-1221&org=PLC"
+              }
+            ],
+            "sumario": "DIREITOS DE AUTOR E DIREITOS CONEXOS: REGULAMENTACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28965",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1218-1219"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-28",
+                "pubLeg": "VIII",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/032/2000-01-28/1218?pgs=1218-1219&org=PLC"
+              }
+            ],
+            "sumario": "DIREITOS DE AUTOR E DIREITOS CONEXOS: REGULAMENTACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "484",
+                "nome": "José Saraiva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28966",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1218-1218"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-28",
+                "pubLeg": "VIII",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/032/2000-01-28/1218?pgs=1218&org=PLC"
+              }
+            ],
+            "sumario": "DIREITOS DE AUTOR E DIREITOS CONEXOS: REGULAMENTACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1687",
+                "nome": "Jorge Neto"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28967",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1216-1218"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-28",
+                "pubLeg": "VIII",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/032/2000-01-28/1216?pgs=1216-1218&org=PLC"
+              }
+            ],
+            "sumario": "DIREITOS DE AUTOR E DIREITOS CONEXOS: REGULAMENTACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "189",
+                "nome": "José Magalhães"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "28968",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1215-1216"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-28",
+                "pubLeg": "VIII",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/032/2000-01-28/1215?pgs=1215-1216&org=PLC"
+              }
+            ],
+            "sumario": "DIREITOS DE AUTOR E DIREITOS CONEXOS: REGULAMENTACAO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:25",
+            "horaTermo": "20:40",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  CULTURA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Catarina Vaz Pinto"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107241",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1214-1216",
+                  "1221-1221"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-28",
+                "pubLeg": "VIII",
+                "pubNr": "32",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/032/2000-01-28/1214?pgs=1214-1216,1221&org=PLC"
+              }
+            ],
+            "sumario": "DIREITOS DE AUTOR E DIREITOS CONEXOS: REGULAMENTACAO",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "249812",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "5902",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-01-28",
+        "pubLeg": "VIII",
+        "pubNr": "32",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/032/2000-01-28?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
