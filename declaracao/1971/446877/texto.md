@@ -1,0 +1,13 @@
+Declaração
+Segundo comunicação do Ministério dos Negócios Estrangeiros, Direcção-Geral dos Serviços Centrais, a Portaria n.º 49/71, publicada no Diário do Governo, 1.ª série, n.º 27, de 2 de Fevereiro, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+Onde se lê:
+...
+Consulados de 3.ª classe:
+...
+Pará ... 2590$00
+deve ler-se:
+...
+Consulados de 3.ª classe:
+...
+Pará ... 2500$00
+Secretaria-Geral da Presidência do Conselho, 8 de Fevereiro de 1971. - O Secretário-Geral, Diogo de Paiva Brandão.
