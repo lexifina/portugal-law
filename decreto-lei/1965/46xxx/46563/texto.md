@@ -1,0 +1,11 @@
+Decreto-Lei n.º 46563
+A experiência tem mostrado que o regime do provimento do lugar de escriturário de 2.ª classe das secretarias das auditorias administrativas, tal como se acha estabelecido no Código Administrativo, dá lugar a dificuldades no preenchimento das vagas respectivas.
+Por outro lado, o quadro da secretaria da cada auditoria é constituído apenas pelo respectivo chefe e um escriturário, e, assim, para o seu funcionamento normal tem sido necessário proceder ao preenchimento interino das vagas existentes, quando os concursos de provimento das mesmas ficam desertos, como se tem verificado.
+Porém, a anualidade das nomeações interinas afecta a regularidade daquele funcionamento.
+Nestes termos:
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º As nomeações interinas para o lugar de escriturário das secretarias das auditorias administrativas que houver necessidade de efectuar serão válidas enquanto se não verificar o provimento definitivo daqueles cargos, mediante concurso que continuará a abrir-se anualmente.
+§ único. As nomeações interinas feitas anteriormente à publicação deste decreto-lei mantêm-se, sem interrupção, para além do prazo de um ano referido no artigo 31.º da Lei de 14 de Junho de 1913, independentemente de quaisquer formalidades legais, sendo válidos, para todos os efeitos, os actos praticados entre o termo do prazo da validade daquelas nomeações e a entrada em vigor do presente diploma.
+Art. 2.º Este diploma entra imediatamente em vigor.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 1 de Outubro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
