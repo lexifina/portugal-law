@@ -1,0 +1,7 @@
+Resolução do Conselho de Ministros n.º 114/2002
+O Decreto-Lei n.º 267/97, de 2 de Outubro, aprovou o regime de realização de concursos públicos com vista à concessão de lanços de auto-estrada e conjuntos viários associados, nomeadamente o da concessão designada por Grande Porto, a que se referem a alínea d) do n.º 1 e a alínea d) do n.º 2 do artigo 2.º daquele diploma, estabelecendo no artigo 14.º que as bases da concessão seriam aprovadas por decreto-lei e que a minuta do respectivo contrato seria aprovada por resolução do Conselho de Ministros.
+O Decreto-Lei n.º 189/2002, de 28 de Agosto, aprovou as bases da concessão do Grande Porto e mandatou a Ministra de Estado e das Finanças e o Ministro das Obras Públicas, Transportes e Habitação para outorgar o contrato de concessão, sendo agora necessário aprovar a minuta do contrato de concessão.
+Assim:
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+Aprovar a minuta do contrato de concessão de lanços de auto-estrada e conjuntos viários associados designada por Grande Porto, a que se refere a alínea d) do n.º 2 do artigo 2.º do aludido Decreto-Lei n.º 267/97, de 2 de Outubro, e, bem assim, o despacho conjunto n.º 371-A/98, de 30 de Maio, dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território, a celebrar entre o Estado Português e a LUSOSCUT - Auto Estradas do Grande Porto, S. A.
+Presidência do Conselho de Ministros, 1 de Agosto de 2002. - O Primeiro-Ministro, José Manuel Durão Barroso.
