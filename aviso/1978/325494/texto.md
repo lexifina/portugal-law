@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se torna público que, segundo comunicação da Embaixada da Bélgica em Lisboa, o Governo do Botswana depositou, em 25 de Agosto de 1978, os instrumentos de adesão à Convenção Relativa à Criação de Um Conselho de Cooperação Aduaneira e à Convenção sobre a Nomenclatura para a Classificação das Mercadorias das Pautas Aduaneiras e Anexo, concluídos em Bruxelas em 15 de Dezembro de 1950, bem como ao Protocolo de Ratificação desta Convenção e Anexo, concluídos em Bruxelas em 1 de Julho de 1955.
+De acordo com as disposições aplicáveis, aqueles actos produzem efeitos, em relação ao Botswana, a partir de 25 de Agosto de 1978 e de 25 de Novembro de 1978.
+Direcção-Geral dos Negócios Económicos, 21 de Novembro de 1978. - O Adjunto do Director-Geral, Carlos Alberto Soares Simões Coelho.
