@@ -1,5 +1,9 @@
+## Capítulo VIII
+
+## Garantias dos contribuintes
+
 # Artigo 32.º
 
-### Matérias não reguladas
+### Garantias dos contribuintes
 
-Às matérias não reguladas no presente Código aplica-se a lei geral tributária e, subsidiariamente, o disposto no Código do IRC.
+Às garantias dos contribuintes aplicam-se, conforme a natureza das matérias, a Lei Geral Tributária e o Código do Processo Tributário.
