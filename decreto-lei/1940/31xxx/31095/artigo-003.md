@@ -1,0 +1,7 @@
+# Artigo 3.º
+
+Os funcionários providos em cargos dos concelhos que mudam de ordem, por virtude de alteração dos mapas anexos aos decretos-leis referidos no artigo anterior, passam para a classe do quadro geral que lhes corresponda quando já estivessem providos nos mesmos cargos em 1 de Janeiro de 1937, e mantêm a categoria e classe em que actualmente se encontram quando tenham sido providos depois dessa data.
+
+§ 1.º Os funcionários providos depois de 1 de Janeiro de 1937 em cargos de concelho a cuja ordem corresponda classe superior à que ocupam no quadro geral, ou que lhes dê ingresso nesse quadro, são obrigados a apresentar-se ao primeiro concurso de promoção que seja aberto para a classe imediatamente superior; se forem aprovados, conservam-se nos cargos que ocupam, com a nova classe e vencimentos, mas se não se apresentarem a prestar provas ou forem nelas excluídos, passam a ser considerados opositores obrigatórios em todos os concursos de provimento para vagas da sua categoria ou classe até obterem colocação, permanecendo entretanto nos cargos actuais.
+
+§ 2.º Os funcionários nas condições do parágrafo anterior que à data da publicação do presente decreto-lei já tenham sido aprovados em concurso de promoção à classe correspondente à nova ordem dos seus concelhos ficam desde já com provimento definitivo nos cargos que actualmente ocupam, considerando-se promovidos à classe imediatamente superior.
