@@ -1,0 +1,84 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIntervencoes.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=rKtwshDyv1NBeu65K82ef9j6oFE3w%2fgAbqyUhooMpoSyQQ0pTyzibfD50gH%2baGhs1TrcG1r0l2bU1A0KAmFXPBoWqi6NY9nsxTw%2fxAs2r347ke8O86pD8UW0Vo24i8zPmfcPKM5y3XEB99eQAf1Ojm%2bemILgruHhJl9u7yVaplGsWPI0o%2bZUTUUBCanSa5007dUY7uakZ2EgL138SciEtNOWsIyqy66pG5Eu5crXojP8szj276fRrDhZdP6MEXFhdUelamzN3e1Rpwl8sPVmxdyANoDqpCtvpC0PXNmoyGF02wzb13ACPnwjTtn%2bPiN%2b1oG5E%2bkfl50yDwrf9Q4ck3XnT7zfIqh68Ee0O7Ap66U%3d&fich=IntervencoesVI_json.txt&Inline=true",
+  "ficheiro_sha256": "09dcb463dee20c5105fb36bc1a4e2274ee28613bb7bd19e9b953a0ed8eb5faf8",
+  "legislatura": "VI",
+  "id": "107963",
+  "tipo": "Intervenção",
+  "orador": "Vasco Valdez (S.E.  DOS  ASSUNTOS FISCAIS)",
+  "data_registo": "1994-02-04",
+  "data_registo_base": "record date = the plenary sitting day (DataReuniaoPlenaria) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActividadeId": "95426",
+    "ActividadesRelacionadas": [
+      {
+        "autoresDeputados": null,
+        "autoresGP": null,
+        "id": "3700",
+        "tipo": "INI",
+        "titulo": "Proposta de Resolução - Aprova, para ratificação, a Convenção entre a República Portuguesa e a Irlanda para evitar a dupla tributação e prevenir a evasão fiscal em matéria de impostos sobre o rendimento, bem como o respectivo protocolo."
+      }
+    ],
+    "Convidados": {
+      "cargo": null,
+      "honra": null,
+      "nome": null,
+      "pais": null
+    },
+    "DadosAudiovisual": null,
+    "DataReuniaoPlenaria": "1994-02-04",
+    "Debate": "PPR 41",
+    "Deputados": {
+      "GP": null,
+      "idCadastro": null,
+      "nome": null
+    },
+    "FaseDebate": null,
+    "FaseSessao": "POD",
+    "Id": "107963",
+    "IdDebate": "295",
+    "Iniciativas": [
+      {
+        "fase": "Apreciação",
+        "id": "3700",
+        "tipo": "Proposta de Resolução"
+      }
+    ],
+    "IntervencoesRelacionadas": null,
+    "Legislatura": "VI",
+    "MembrosGoverno": {
+      "cargo": "S.E.  DOS  ASSUNTOS FISCAIS",
+      "governo": "XII GOVERNO CONSTITUCIONAL",
+      "nome": "Vasco Valdez"
+    },
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "107963",
+        "idPag": null,
+        "obs": null,
+        "pag": [
+          "1190-1191"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1994-02-05",
+        "pubLeg": "VI",
+        "pubNr": "36",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/03/036/1994-02-05/1190?pgs=1190-1191&org=PLC"
+      }
+    ],
+    "Qualidade": null,
+    "Resumo": "RESPONDE AO DEP. DOMINGOS AZEVEDO (PS)",
+    "Sessao": "3",
+    "Sumario": "CONVENCAO ENTRE A REPUBLICA PORTUGUESA E A IRLANDA, PARAEVITAR A DUPLA TRIBUTACAO E PREVENIR A EVASAO FISCAL",
+    "Sumario2": null,
+    "TipoDebate": null,
+    "TipoIntervencao": "Intervenção"
+  }
+}
