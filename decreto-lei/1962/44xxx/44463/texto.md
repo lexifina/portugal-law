@@ -1,0 +1,5 @@
+Decreto-Lei n.º 44463
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
+Artigo único. Os bens que constituam o espólio dos elementos das forças armadas que sacrificaram a vida em defesa da Pátria, quando sujeitos à acção aduaneira, serão isentos de pagamento de direitos e demais, imposições do despacho.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 16 de Julho de 1962. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
