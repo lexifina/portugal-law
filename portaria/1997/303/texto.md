@@ -1,0 +1,134 @@
+Portaria n.º 303/97
+de 8 de Maio
+A Assembleia Municipal de Alcochete aprovou, em 31 de Outubro de 1996, o Plano de Pormenor da Quinta do Flamingo, no município de Alcochete.
+Foi realizado o inquérito público, nos termos previstos no artigo 14.º do Decreto-Lei n.º 69/90, de 2 de Março, e emitidos os pareceres a que se refere o artigo 13.º do mesmo diploma legal.
+Verifica-se ainda a conformidade do Plano de Pormenor com as disposições legais e regulamentares em vigor e a sua articulação com outros planos, programas e projectos de interesse para o município ou supramunicipal, nos termos previstos no n.º 2 do artigo 16.º do Decreto-Lei n.º 69/90, de 2 de Março.
+O presente Plano de Pormenor carece de ratificação, nos termos da alínea c) do n.º 1 do artigo 16.º do Decreto-Lei n.º 69/90, de 2 de Março, conjugado com o disposto no n.º 4 do artigo 3.º, na redacção que lhe foi dada pelo Decreto-Lei n.º 211/92, de 8 de Outubro.
+Assim, ao abrigo do disposto no n.º 4 do artigo 3.º do Decreto-Lei n.º 69/90, de 2 de Março, com a redacção que lhe foi introduzida pelo Decreto-Lei n.º 211/92, de 8 de Outubro, e no uso da delegação de competências conferida pelo Despacho n.º 48/96, do Ministro do Equipamento, do Planeamento e da Administração do Território, publicado no Diário da República, 2.ª série, n.º 69, de 21 de Março de 1996:
+Manda o Governo, pelo Secretário de Estado da Administração Local e Ordenamento do Território, que seja ratificado o Plano de Pormenor da Quinta do Flamingo, no município de Alcochete, cujo regulamento e planta de síntese se publicam em anexo à presente portaria e que dela fazem parte integrante.
+Ministério do Equipamento, do Planeamento e da Administração do Território.
+Assinada em 7 de Abril de 1997.
+O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.
+
+REGULAMENTO DO PLANO DE PORMENOR DA QUINTA DO FLAMINGO
+CAPÍTULO I
+Disposições gerais
+1 - O Plano de Pormenor da Quinta do Flamingo tem por objectivo definir e regulamentar o uso, a ocupação e a transformação do solo na área de intervenção.
+2 - A área de intervenção do Plano de Pormenor da Quinta do Flamingo encontra-se definida na planta de síntese.
+3 - A implementação do Plano caberá à Câmara Municipal de Alcochete no âmbito da gestão das áreas afectas ao parque edificado e dos loteamentos a que venham a ser sujeitos os terrenos incluídos na área de intervenção.
+4 - A área de intervenção é constituída por zonas distintas demarcadas na planta de síntese e sujeitas ao estatuto das seguintes categorias de uso:
+a) Áreas a lotear;
+b) Áreas de equipamento;
+c) Áreas de zona verde;
+d) Áreas de circulação.
+CAPÍTULO II
+Áreas a lotear
+1 - As zonas assinaladas na planta de síntese como áreas a lotear deverão constituir lotes para construção no âmbito de processos de loteamento que venham a ser instruídos para os terrenos onde se localizam.
+2 - Os lotes a construir deverão respeitar a configuração e as dimensões definidas na planta de trabalho.
+3 - Todos os lotes deverão ter acesso a partir de um arruamento existente ou espaço público acessível a viaturas a partir de um arruamento existente.
+4 - A ocupação de cada lote sujeita-se ao que lhe é imposto no capítulo VI do Regulamento, relativo à tipologia de construção que lhe é atribuída na planta de síntese, e no capítulo VII do Regulamento, relativo às condições genéricas de ocupação.
+CAPÍTULO III
+Áreas de equipamento
+1 - Integram-se nas áreas de equipamento aquelas que são afectas a equipamento existente, na sua configuração original ou remodelada, e as áreas a ocupar com o equipamento previsto.
+2 - Caberá à Câmara Municipal de Alcochete estabelecer os parâmetros de ocupação destas áreas, atendendo às solicitações programáticas de cada caso.
+3 - Caberá à Câmara Municipal de Alcochete promover a implantação de zonas verdes na envolvente dos equipamentos, nomeadamente no apoio técnico, com a colaboração de estudos de arranjos exteriores, e no fornecimento de espécies vegetais.
+4 - O uso das áreas para equipamento está discriminado na planta de síntese.
+5 - Na ocupação da área destinada ao court de ténis, a área envolvente não ocupada deverá constituir zona verde de acesso público.
+CAPÍTULO IV
+Áreas de zona verde
+1 - Constituem-se como zonas verdes todas as áreas a ajardinar e ou arborizar representadas na planta de síntese.
+2 - Consoante a dimensão, a configuração e a localização das áreas representadas, as zonas verdes deverão assumir as seguintes características:
+a) Espaços verdes residuais:
+Pequenos espaços nas zonas de circulação pedonal, que deverão constituir alamedas arborizadas ou placas ajardinadas;
+b) Jardins:
+Estes espaços deverão constituir pequenas zonas de lazer ajardinadas e arborizadas, incluindo circuitos pedonais e mobiliário urbano.
+3 - É interdita qualquer construção nestas áreas, excepto o presente no número anterior.
+4 - Estas zonas deverão integrar o domínio público municipal através de cedência no âmbito dos loteamentos a instruir para os terrenos onde se localizam.
+5 - A execução destas zonas caberá aos promotores dos processos de loteamento que venham a ser instruídos para os terrenos onde se localizam.
+6 - A gestão e manutenção destas áreas caberá à Câmara Municipal de Alcochete.
+CAPÍTULO V
+Áreas de circulação
+1 - Constituem áreas de circulação os arruamentos, as zonas de estacionamento, as zonas de circulação condicionada e os passeios e zonas de circulação pedonal, devidamente assinalados na planta de síntese.
+2 - Nas áreas assinaladas como zonas de circulação condicionada apenas será permitida a circulação de trânsito automóvel a ambulâncias, viaturas de bombeiros, viaturas de limpeza e veículos que efectuem cargas e descargas nos lotes e áreas unicamente servidas por estas zonas.
+3 - Todas as áreas de circulação deverão integrar o domínio público municipal através de negociação, permuta, cedência ou expropriação no âmbito dos processos de loteamento a instruir para os terrenos onde se localizam.
+4 - Caberá aos promotores dos processos de loteamento a instruir a execução destas zonas.
+5 - Caberá à Câmara Municipal de Alcochete a gestão e manutenção destas áreas.
+CAPÍTULO VI
+Tipologias de construção dos lotes
+1 - Construção em banda para habitação plurifamiliar em lotes com área de 242 m2:
+a) Número de fogos: 8;
+b) Número de pisos: 4 + 1 (estacionamento em cave);
+c) Índice de ocupação: 1;
+d) Índice de construção líquida: 4 (habitação).
+2 - Construção em banda para habitação plurifamiliar em lotes com área de 261 m2:
+a) Número de fogos: 8;
+b) Número de pisos: 4 + 1 (estacionamento em cave);
+c) Índice de ocupação: 1;
+d) Índice de construção líquida: 4 (habitação).
+3 - Construção em banda para habitação plurifamiliar em lotes com área de 261 m2:
+a) Número de fogos: 10;
+b) Número de pisos: 5 + 1 (estacionamento em cave);
+c) Índice de ocupação: 1;
+d) Índice de construção líquida: 5 (habitação).
+4 - Construção em banda para habitação plurifamiliar em lotes com área de 269 m2:
+a) Número de fogos: 8;
+b) Número de pisos: 4 + 1 (estacionamento em cave);
+c) Índice de ocupação: 1;
+d) Índice de construção líquida: 4 (habitação).
+5 - Construção geminada para habitação plurifamiliar em lotes com área de 252 m2:
+a) Número de fogos: 8;
+b) Número de pisos: 4 + 1 (estacionamento em cave);
+c) Índice de ocupação: 1;
+d) Índice de construção líquida: 4 (habitação).
+6 - Construção geminada para habitação plurifamiliar em lotes com área de 261 m2:
+a) Número de fogos: 8;
+b) Número de pisos: 4 + 1 (estacionamento em cave);
+c) Índice de ocupação: 1;
+d) Índice de construção líquida: 4 (habitação).
+7 - Construção em banda para habitação plurifamiliar e unidades de comércio e ou serviços em lote com área de 261 m2:
+a) Número de fogos: 8;
+b) Número de unidades de comércio e ou serviços: 2 (piso - 1);
+c) Número de pisos: 5;
+d) Índice de ocupação: 1;
+e) Índice de construção líquida: 5 (1 - comércio/serviços; 4 - habitação).
+8 - Construção em banda para habitação plurifamiliar e unidades de comércio e ou serviços em lote com área de 312 m2:
+a) Número de fogos: 6;
+b) Número de unidades de comércio e ou serviços: 2 (piso - 1);
+c) Número de pisos: 4;
+d) Índice de ocupação: 1;
+e) Índice de construção líquida: 4 (1 - comércio/serviços; 3 - habitação).
+9 - Construção em banda para habitação plurifamiliar e unidades de comércio e ou serviços em lote com área de 407 m2:
+a) Número de fogos: 6;
+b) Número de unidades de comércio e ou serviços: 2 (piso - 1);
+c) Número de pisos: 4;
+d) Índice de ocupação: 1;
+e) Índice de construção líquida: 4 (1 - comércio/serviços; 3 - habitação).
+10 - Construção isolada para habitação plurifamiliar e unidades de comércio e ou serviços em lote com área de 5380 m2:
+a) Número de fogos: 64;
+b) Número de unidades de comércio e ou serviços: 16 (piso - 1);
+c) Número de pisos: 5 + 1 (estacionamento em cave);
+d) Índice de ocupação: 0,35;
+e) Índice de construção líquida: 1,91 (0,35 - comércio/serviços; 1,56 - habitação).
+CAPÍTULO VII
+Condicionantes à ocupação dos lotes
+1 - Alinhamentos. - Os alinhamentos serão obrigatoriamente marcados pelos serviços técnicos municipais, de acordo com as peças desenhadas.
+2 - Cotas de soleira:
+a) As cotas de soleira terão como referência o ponto comum ao eixo do arruamento ou via pública de acesso ao lote e a uma recta horizontal perpendicular àquele eixo e que parte do ponto intermédio da extrema que define a frente do lote;
+b) As cotas de soleira serão marcadas de acordo com a planta de trabalho.
+3 - Volumetria:
+a) A altura máxima, piso a piso, será de 3 m nos pisos de habitação e de 3,5 m nos pisos para comércio e ou serviços;
+b) A projecção máxima das varandas sobre o plano marginal de implantação não poderá exceder 1,2 m nas construções para habitação plurifamiliar;
+c) O comprimento das empenas não poderá exceder 15,5 m;
+d) Admite-se como inclinação máxima das coberturas o valor de 30%, podendo os serviços técnicos municipais fixar valores para coberturas nas construções, de modo a garantir a homogeneidade do conjunto.
+4 - Materiais. - As construções dos lotes sujeitam-se às posturas municipais respeitantes à aplicação de materiais de revestimento e paletas cromáticas.
+5 - Cave. - A construção de cave, piso abaixo do piso de acesso, deverá sujeitar-se às seguintes condicionantes:
+a) Da construção e ventilação da cave não poderão resultar quaisquer prejuízos para os lotes e construções vizinhos;
+b) A área da cave não constitui área útil de habitação e nela não poderão existir instalações sanitárias;
+c) A área de implantação da cave tem efeito apenas no índice de ocupação do lote;
+d) É obrigatória a existência de um sistema gravítico ou elevatório, de modo a garantir o escoamento das águas na cave em situação de inundação.
+6 - Sótão:
+a) A área de sótão não constitui área útil de habitação e nela não poderão existir instalações sanitárias.
+CAPÍTULO VIII
+Excepções
+A Câmara Municipal de Alcochete poderá aprovar construções que não se conformem com os parâmetros e condições impostos à ocupação do lote, desde que não ultrapassem 3% e se reconheça a qualidade da proposta de arquitectura e o enquadramento na envolvente.
+(ver documento original)
