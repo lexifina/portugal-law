@@ -1,0 +1,10 @@
+Portaria n.º 326/77
+de 2 de Junho
+Tornando-se necessário garantir um melhor aproveitamento dos oficiais que, após o seu ingresso nos quadros do activo, adquiram em escolas estranhas à Marinha, nacionais ou estrangeiras, habilitações de nível superior, exigidas para o ingresso em certas classes, ou especializações de interesse para a Marinha;
+Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, ao abrigo do artigo 247.º do Estatuto do Oficial da Armada (EOA), aprovado e posto em execução pelo Decreto n.º 46960, de 14 de Abril de 1966, o seguinte:
+1.º São aditados ao EOA os artigos seguintes:
+Art. 37.º-A. Os oficiais que hajam ingressado na classe de engenheiros construtores navais são obrigados a permanecer ao serviço da Marinha, no desempenho das funções da respectiva classe, durante os oito anos seguintes ao respectivo ingresso.
+Art. 53.º-A. Os oficiais que ingressem na classe de engenheiros de material naval nas condições referidas nos artigos anteriores são obrigados a permanecer ao serviço da Marinha, no desempenho das funções da respectiva classe, durante os oito anos seguintes ao respectivo ingresso.
+Art. 120.º-A. Por despacho do Chefe do Estado-Maior da Armada, poderá ser estabelecida como condição de nomeação para a frequência de cursos em estabelecimentos de ensino nacionais ou estrangeiros cuja duração e nível o justifiquem a obrigatoriedade de permanência ao serviço da Marinha, no desempenho de funções em que utilizem as habilitações adquiridas nesses cursos, por período a fixar em cada caso.
+2.º Para os oficiais que à data da publicação da presente portaria já pertenciam ou se encontravam em preparação para ingressar nas classes de engenheiros construtores navais e engenheiros de material naval, mantêm-se as condições que vigoravam à data em que efectuaram os concursos a que se referem os artigos 33.º e 48.º, respectivamente, do EOA.
+Estado-Maior da Armada, 23 de Maio de 1977. - O Chefe do Estado-Maior da Armada, Augusto Souto Silva Cruz, vice-almirante.
