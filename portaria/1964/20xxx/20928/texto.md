@@ -1,0 +1,5 @@
+Portaria n.º 20928
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, que, nos termos do § 1.º do artigo 22.º do Decreto-Lei n.º 39749, de 9 de Agosto de 1954, com a nova redacção do Decreto-Lei n.º 43582, de 4 de Abril de 1961, sejam elevados à categoria de postos os subpostos da Polícia Internacional e de Defesa do Estado instalados nas localidades de Massabi, Iema e Ochicango, todos na província de Angola, dependentes da delegação do mesmo organismo com sede em Luanda, cabendo ao Governo-Geral da província, mediante proposta da referida Polícia, a faculdade de promover a fixação e distribuição de pessoal efectivo e eventual, consoante as necessidades de serviço, de harmonia com o mapa anexo ao Decreto-Lei n.º 45280, de 30 de Setembro de 1963, e nos termos do § 4.º do artigo 46.º dos citados diplomas.
+Ministério do Ultramar, 24 de Novembro de 1964. - Pelo Ministro do Ultramar, Joaquim Moreira da Silva Cunha, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Angola. - Silva Cunha.
