@@ -8,7 +8,9 @@ a) O presidente do SRPCBA, que preside;
 
 b) O vice-presidente do SRPCBA;
 
-c) Dois vogais, a nomear pelo secretário regional da tutela, sob proposta do presidente do Serviço, de entre o pessoal que se encontre em exercício de funções no SRPCBA.
+c) O responsável pela contabilidade do SRPCBA;
+
+d) Dois vogais, a nomear pelo secretário regional competente, sob proposta do presidente do SRPCBA, de entre o pessoal do mesmo que se encontre em exercício de funções.
 
 2 - O presidente pode convidar outros funcionários do SRPCBA para, sem direito a voto, participarem nas reuniões do conselho administrativo.
 
