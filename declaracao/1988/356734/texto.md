@@ -1,0 +1,5 @@
+Declaração
+De harmonia com o disposto na parte final do n.º 2 do artigo 6.º do Decreto-Lei n.º 46/84, de 4 de Fevereiro, se publica que foram autorizadas as seguintes alterações orçamentais, nos termos dos n.os 2 e 3 do artigo 5.º do mesmo diploma e da alínea c) do artigo 22.º da Lei n.º 2/88, de 26 de Janeiro (suplemento):
+(ver documento original)
+Despacho de 3 de Agosto de 1988.
+1.ª Delegação da Direcção-Geral da Contabilidade Pública, 8 de Novembro de 1988. - O Director, António Ribeiro Bernardo.
