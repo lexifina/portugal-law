@@ -1,0 +1,446 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=jht0KgjXzZmrieEauX66D5tyGqUTtQEYWv2OzwGNlVs34Q3AQip08%2fw3dyRuDVSx4EwIPxSkia0ZxGmXvycbJjdI2A60VYUzLJy4TymQK6xw%2bY11rqlx5ULw7i7ZThvFIs76vKf%2bvN4UJkzQdk4FSAwBOebSsIrcefQtNW%2b%2fILFIU8sa3HwNSVqy9DtZnovl6VpUGocyVhqXcSxvKO%2bzY4Cexi%2blLMUomQjQ0WdHKTPDkfrHSC9%2bV0aUtHqrePSGVj96OyxfrXMLL%2fHRHdNsHfCBL7nF320w3n2vZ9wb3nyagQeEGWuVTuOOOj0MTTRY8oobkfBNWcjSD4agzooKMnlnO44LZ9ONQk%2b%2f0k5cL5k%3d&fich=IniciativasIX_json.txt&Inline=true",
+  "ficheiro_sha256": "b2f6028e561d7e9c92410ef024fa50d6b4216ca6f95ce97abb25b987f10e9b25",
+  "legislatura": "IX",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "51",
+    "id": "19673",
+    "titulo": "Decreto-Lei n.º 69/2003, de 10 Abril, que \"Estabelece as normas disciplinadoras do exercício da actividade industrial\"."
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "2003-06-06",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "2597",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "2003-06-06",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2003-06-06",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2011",
+                "nome": "Pedro Silva Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145763",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5470-5471",
+                  "5478-5479"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-07",
+                "pubLeg": "IX",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/131/2003-06-07/5470?pgs=5470-5471,5478-5479&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 69/2003, de 10 Abril, que \"Estabelece as normas disciplinadoras do exercício da actividade industrial\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2015",
+                "nome": "Almeida Henriques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145764",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5471-5473"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-07",
+                "pubLeg": "IX",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/131/2003-06-07/5471?pgs=5471-5473&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 69/2003, de 10 Abril, que \"Estabelece as normas disciplinadoras do exercício da actividade industrial\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1863",
+                "nome": "Miguel Paiva"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145765",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5473-5474"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-07",
+                "pubLeg": "IX",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/131/2003-06-07/5473?pgs=5473-5474&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 69/2003, de 10 Abril, que \"Estabelece as normas disciplinadoras do exercício da actividade industrial\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PEV",
+                "idCadastro": "231",
+                "nome": "Isabel Castro"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145766",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5474-5475",
+                  "5478-5478"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-07",
+                "pubLeg": "IX",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/131/2003-06-07/5474?pgs=5474-5475,5478&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 69/2003, de 10 Abril, que \"Estabelece as normas disciplinadoras do exercício da actividade industrial\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  INDÚSTRIA,  COMÉRCIO E SERVIÇOS",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Maria Do Rosario Ventura"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145767",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5475-5477"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-07",
+                "pubLeg": "IX",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/131/2003-06-07/5475?pgs=5475-5477&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 69/2003, de 10 Abril, que \"Estabelece as normas disciplinadoras do exercício da actividade industrial\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "2011",
+                "nome": "Pedro Silva Pereira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145768",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5476-5477"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-07",
+                "pubLeg": "IX",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/131/2003-06-07/5476?pgs=5476-5477&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 69/2003, de 10 Abril, que \"Estabelece as normas disciplinadoras do exercício da actividade industrial\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "2015",
+                "nome": "Almeida Henriques"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145769",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5477-5477"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-07",
+                "pubLeg": "IX",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/131/2003-06-07/5477?pgs=5477&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 69/2003, de 10 Abril, que \"Estabelece as normas disciplinadoras do exercício da actividade industrial\".",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:00",
+            "horaTermo": "13:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E. DO  AMBIENTE",
+              "governo": "XV GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Eduardo Martins"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "145770",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "5477-5479"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2003-06-07",
+                "pubLeg": "IX",
+                "pubNr": "131",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/131/2003-06-07/5477?pgs=5477-5479&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-Lei n.º 69/2003, de 10 Abril, que \"Estabelece as normas disciplinadoras do exercício da actividade industrial\".",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "156880",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "2597",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2003-06-07",
+        "pubLeg": "IX",
+        "pubNr": "131",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/09/01/131/2003-06-07?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
