@@ -1,0 +1,6 @@
+Despacho Normativo n.º 268-A/93
+A implementação dos procedimentos administrativos inerentes à aplicação da ajuda estabelecida pelos Regulamentos (CEE) n.os 739/93, de 17 de Março, do Conselho, e 1579/93, de 23 de Junho, da Comissão, suscitou dificuldades de ordem prática que justificam a prorrogação do prazo inicialmente previsto para apresentação de candidaturas e, consequentemente, a manutenção por mais algum tempo da modalidade de pagamento prevista nos Despachos Normativos n.os 64-A/93, de 30 de Abril, e 180/93, de 6 de Julho.
+Assim, ao abrigo do disposto nos Regulamentos (CEE) n.os 739/93 e 1579/93, respectivamente de 17 de Março e de 23 de Junho, bem como do Decreto-Lei n.º 282/88, de 12 de Agosto, determina-se o seguinte:
+1 - O prazo para apresentação da candidatura a que se refere o n.º 4 do Despacho Normativo n.º 198-A/93, de 9 de Agosto, é prorrogado até ao final do mês de Outubro de 1993.
+2 - A modalidade de pagamento da ajuda aos produtores de leite de vaca, estabelecida nos n.os 2 e 3 do Despacho Normativo n.º 64-A/93, de 30 de Abril, e no Despacho Normativo n.º 180/93, de 6 de Julho, é extensível aos meses de Novembro e Dezembro de 1993.
+Ministério da Agricultura, 15 de Setembro de 1993. - Pelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar.
