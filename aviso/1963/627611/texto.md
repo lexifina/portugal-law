@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que, conforme comunicação do Bureau International du Travail ao Ministério dos Negócios Estrangeiros, os Governos do Burundi e do Uganda comunicaram àquele organismo internacional, respectivamente, em 11 de Março de 1963 e 25 de Março de 1963, a aceitação por parte dos seus Governos das obrigações resultantes da Constituição da Organização Internacional do Trabalho. Nos termos do parágrafo 3.º do artigo 1.º a referida Constituição entrou em vigor em relação àqueles países na data de recepção do instrumento de aceitação.
+Direcção-Geral dos Negócios Económicos e Consulares, 25 de Maio de 1963. - O Director-Geral, Albano Pires Fernandes Nogueira.
