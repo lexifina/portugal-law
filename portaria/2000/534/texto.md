@@ -1,0 +1,34 @@
+Portaria n.º 534/2000
+de 2 de Agosto
+Através do Decreto-Lei n.º 376/99, de 21 de Setembro, foi criada a Administração-Geral Tributária (AGT), entidade a quem compete o desempenho de funções de coordenação, controlo e planeamento estratégico das direcções-gerais tributárias.
+Nos termos do n.º 3 do artigo 4.º daquele diploma, os serviços de apoio à AGT são criados por portaria do Ministro das Finanças.
+Assim:
+Ao abrigo do disposto no n.º 3 do artigo 4.º do Decreto-Lei n.º 376/99, de 21 de Setembro:
+Manda o Governo, pelo Ministro das Finanças, o seguinte:
+1.º São criados os seguintes serviços de apoio na Administração-Geral Tributária (AGT):
+a) Serviços de apoio directo aos órgãos superiores;
+b) Serviços de apoio comum.
+2.º São serviços de apoio directo aos órgãos superiores:
+a) Núcleo de relações públicas;
+b) Núcleo de secretariado;
+c) Núcleo de apoio especializado.
+3.º Ao núcleo de relações públicas compete assegurar os serviços de relações públicas da AGT.
+4.º Ao núcleo de secretariado compete assegurar o apoio administrativo aos órgãos superiores da AGT.
+5.º Ao núcleo de apoio especializado compete assegurar o apoio técnico em todas as matérias que lhe forem superiormente solicitadas.
+6.º São serviços de apoio comum:
+a) Núcleo de planeamento e controlo de gestão;
+b) Núcleo de contabilidade;
+c) Núcleo de recursos humanos;
+d) Núcleo de expediente e arquivo;
+e) Núcleo de aquisições e património;
+f) Núcleo de documentação.
+7.º Ao núcleo de planeamento e controlo de gestão compete a elaboração do plano e relatório de actividades, a elaboração e acompanhamento da execução do orçamento da AGT, bem como a preparação de indicadores considerados úteis para apoio à gestão.
+8.º Ao núcleo de contabilidade compete executar a contabilização de todos os movimentos financeiros e organizar os respectivos processos de prestação de contas, bem como verificar a conformidade jurídico-financeira de todos os documentos de despesas e preparar o respectivo pagamento.
+9.º Ao núcleo de recursos humanos compete assegurar as operações relacionadas com o pessoal.
+10.º Ao núcleo de expediente e arquivo compete assegurar as tarefas inerentes à recepção, classificação, registo, distribuição interna e expedição de correspondência, bem como do arquivo geral da AGT.
+11.º Ao núcleo de aquisições e património compete assegurar a aquisição, a distribuição e o controlo de bens e serviços, bem como a gestão do património afecto à AGT, mantendo actualizado o respectivo inventário de bens.
+12.º Ao núcleo de documentação compete assegurar a organização e funcionamento da biblioteca, bem como promover a aquisição de publicações com interesse para a respectiva actividade.
+13.º Os serviços de apoio comum da AGT são dirigidos por um director nomeado pelo Ministro das Finanças, ouvido o conselho directivo.
+14.º Os núcleos podem ser dirigidos por coordenadores designados para o efeito pelo conselho directivo.
+15.º O mesmo coordenador pode dirigir mais de um núcleo.
+O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura, em 12 de Julho de 2000.
