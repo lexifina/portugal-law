@@ -1,9 +1,9 @@
 # Artigo 89.º
 
-### Petição e remessa a juízo
+### Emolumentos
 
-1 - A petição pode não ser articulada e deve ser dirigida ao juiz da comarca e especificar a causa do pedido e a identidade das pessoas nele interessadas.
+1 - Quando não haja motivo para indeferimento liminar, são os requerentes notificados para efectuarem o pagamento dos emolumentos que sejam devidos pela instrução e decisão do processo.
 
-2 - Quando a rectificação não for promovida oficiosamente, a petição e os documentos são entregues na conservatória e anotados no Diário.
+2 - O pagamento desses emolumentos é efectuado no prazo de cinco dias a contar da data da notificação, podendo ainda os requerentes efectuá-lo nos oito dias após o termo deste prazo com agravamento de 20%.
 
-3 - O processo é remetido a juízo, com parecer do conservador, no prazo de cinco dias e a pendência da rectificação é simultaneamente averbada ao registo, se antes o não tiver sido.
+3 - Findo este último prazo sem que o pagamento se mostre efectuado, o conservador declara o processo findo e do respectivo despacho notifica os requerentes.
