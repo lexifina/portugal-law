@@ -1,0 +1,3 @@
+Declaração
+Para o devido conhecimento e fins convenientes se declara que, por despachos de S. Ex.ª o Secretário de Estado do Comércio de 13 de Novembro findo e da S. Ex.ª o Secretário de Estado da Agricultura de 23 do mesmo mês, foram prorrogados, por mais um ano, os prazos fixados nas alíneas a) e b) do n.º 25 do despacho normativo do comércio avícola, publicado no Diário do Governo n.º 59, 1.ª série, de 13 de Março de 1961, que já haviam sido prorrogados, por um ano, conforme declaração publicada no Diário do Governo n.º 298, 1.ª série, de 27 de Dezembro de 1961.
+Comissão de Coordenação Económica, 3 de Dezembro de 1962. - O Presidente, António Carlos Fezas Vital.
