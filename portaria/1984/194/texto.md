@@ -1,0 +1,23 @@
+Portaria n.º 194/84
+de 3 de Abril
+Pelo Decreto-Lei n.º 463/79, de 30 de Novembro, foi instituído e regulamentado o número fiscal, com o objectivo de possibilitar uma rápida e correcta identificação do contribuinte e um controle eficaz do cumprimento dos respectivos deveres tributários, bem como uma maior eficiência administrativa e um mais fácil e melhor contacto com o contribuinte.
+Para o efeito, as entidades adstritas a enviar às repartições de finanças elementos de interesse para a tributação ficaram por virtude daquele diploma obrigadas também a fazer constar dos mesmos o número fiscal dos respectivos contribuintes.
+Situações há, porém, em que este regime não tem funcionado, como é o caso da contribuição predial e do imposto de capitais - secção A, por razões a que não é alheia a forma como se processa o lançamento e liquidação de tais impostos, assente quase sempre em valores imutáveis com o decurso do tempo e feitos muitas vezes até em nomes diferentes dos verdadeiros titulares.
+Impõe-se, portanto, a obtenção do número fiscal dos verdadeiros titulares dos rendimentos sujeitos a contribuição predial e a imposto de capitais - secção A para que a administração fiscal possa melhorar a sua eficiência e controle de tais rendimentos através da utilização da informática.
+A consecução deste objectivo é feita, relativamente aos contribuintes, com a preocupação de minimizar os incómodos e despesas e de facilitar também aos serviços a realização de tal tarefa, que se reveste de carácter urgente.
+Assim, nos termos do artigo 9.º do Decreto-Lei n.º 463/79, de 30 de Novembro:
+Manda o Governo da República Portuguesa, pelos Secretários de Estado do Orçamento e do Tesouro, o seguinte:
+1.º Os contribuintes sujeitos a contribuição predial ou a imposto de capitais - secção A, ainda que isentos, deverão comunicar em 1984 o número fiscal às repartições de finanças por onde são tributados, dentro dos prazos a seguir indicados:
+a) Contribuintes da contribuição predial cujo rendimento global no continente, Açores e Madeira seja superior a 100000$00, até 31 de Maio;
+b) Os restantes contribuintes da contribuição predial e os do imposto de capitais - secção A, até 31 de Dezembro.
+2.º - 1 - Para os contribuintes referidos na alínea a) do número anterior a comunicação deverá ser feita por entrega de aviso que para o efeito lhes será remetido pelo correio ou, na sua falta, por preenchimento de impresso próprio existente nas repartições de finanças respectivas.
+2 - A entrega do impresso poderá ser feita pessoalmente ou por terceiros, devendo exibir-se o cartão de contribuinte ou sua fotocópia, ou ainda, por via postal, acompanhado de fotocópia do mesmo cartão.
+3.º Para os restantes contribuintes não isentos a comunicação referida no corpo do n.º 1.º poderá ser feita na tesouraria da Fazenda Pública, no acto de pagamento dos impostos nele referidos, mediante a apresentação do cartão de contribuinte ou fotocópia, juntamente com o aviso emitido para esse efeito, sendo neste efectuado o averbamento do número fiscal e restituído o cartão, quando da conferência entre eles se conclua ser o mesmo contribuinte, ou, em caso contrário, feita a anotação, se se tratar de pessoa diferente, informando-se o apresentante de que deverá dirigir-se à repartição de finanças, com vista ao determinado no n.º 5.º
+4.º Os avisos recolhidos nas tesourarias da Fazenda Pública serão remetidos às repartições de finanças respectivas no final de cada dia.
+5.º - 1 - No caso de os rendimentos se encontrarem, no todo ou em parte, em nome de pessoas que não sejam os seus efectivos titulares, a comunicação referida no n.º 2.º terá de ser feita por declaração verbal, que será gratuitamente reduzida a termo em impresso próprio, por funcionário da repartição de finanças.
+2 - Se a fruição dos rendimentos se verificar em benefício de várias pessoas, o declarante indicará os seus nomes, moradas, fracção ou quota que a cada uma pertence e respectivos números fiscais, que provará pela exibição dos cartões ou respectivas fotocópias.
+6.º A falta de comunicação do número fiscal no prazo determinado nas alíneas a) e b) do n.º 1.º será punida nos termos do artigo 16.º do Decreto-Lei n.º 463/79, de 30 de Novembro.
+7.º No mês seguinte ao do seu recebimento, as repartições de finanças enviarão à Direcção de Serviços de Informática os avisos ou impressos anotados, depois de feitos os necessários averbamentos.
+Secretarias de Estado do Orçamento e do Tesouro.
+Assinada em 7 de Março de 1984.
+O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado do Tesouro, António d'Almeida.
