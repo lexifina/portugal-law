@@ -1,11 +1,9 @@
 # Artigo 65.º
 
-### Formação da decisão
+### (Decisão)
 
-1 - Concluso o processo ao relator, é por este elaborado, no prazo de 40 dias, um projecto de acórdão, de harmonia com a orientação fixada pelo Tribunal.
+1 - O relator elabora o projecto de acórdão no prazo de 40 dias a contar da distribuição, após o que a secretaria distribui cópia do mesmo por todos os juízes.
 
-2 - A secretaria distribui por todos os juízes cópias do projecto referido no número anterior e conclui o processo ao presidente, com a entrega da cópia que lhe é destinada, para inscrição em tabela na sessão do Tribunal que se realize decorridos 15 dias, pelo menos, sobre a distribuição das cópias.
+2 - Com a entrega da cópia que se lhe destina, é o processo concluso ao presidente para o inscrever na ordem do dia da sessão ordinária que se realize decorridos, pelo menos, 10 dias após a entrega das cópias referidas no número anterior.
 
-3 - Quando ponderosas razões o justifiquem, pode o presidente, ouvido o Tribunal, encurtar até metade os prazos referidos nos números anteriores.
-
-4 - Havendo solicitação fundamentada do requerente nesse sentido e acordo do órgão autor da norma, o Presidente, ouvido o Tribunal, decidirá sobre a atribuição de prioridade à apreciação e decisão do processo.
+3 - Quando ponderosas razões o justifiquem pode o presidente, ouvido o Tribunal, encurtar os prazos fixados nos números anteriores até, respectivamente, 20 dias e 5 dias.

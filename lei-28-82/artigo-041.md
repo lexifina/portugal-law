@@ -1,7 +1,7 @@
 # Artigo 41.º
 
-### Secções
+### (Secções)
 
-1 - Haverá três secções não especializadas, cada uma delas constituída pelo presidente ou pelo vice-presidente do Tribunal e por mais quatro juízes.
+1 - Haverá 2 secções não especializadas, cada uma delas constituída pelo presidente do Tribunal e por mais 6 juízes.
 
-2 - A distribuição dos juízes, incluindo o vice-presidente, pelas secções e a determinação da secção normalmente presidida pelo vice-presidente serão feitas pelo Tribunal no início de cada ano judicial.
+2 - A distribuição dos juízes pelas secções é feita pelo próprio Tribunal no início de cada ano judicial.

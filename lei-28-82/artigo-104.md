@@ -1,4 +1,6 @@
-## Subcapítulo IV
+## Secção IV
+
+## Processos relativos a organizações que perfilhem a ideologia fascista
 
 # Artigo 104.º
 

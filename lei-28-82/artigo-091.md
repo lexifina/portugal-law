@@ -1,8 +1,8 @@
 # Artigo 91.º
 
-### Destituição do cargo de Presidente da República
+### (Destituição do cargo de Presidente da República)
 
-1 - Transitada em julgado a decisão do Supremo Tribunal de Justiça condenatória do Presidente da República por crime praticado no exercício das suas funções, o Presidente do Supremo Tribunal de Justiça envia de imediato certidão da mesma ao Tribunal Constitucional para os efeitos do n.º 3 do artigo 130.º da Constituição.
+1 - Transitada em julgado decisão do Supremo Tribunal de Justiça condenatória do Presidente da República por crime praticado no exercício das suas funções, o presidente do Supremo Tribunal de Justiça envia de imediato certidão da mesma ao Tribunal Constitucional para os efeitos do n.º 3 do artigo 133.º da Constituição.
 
 2 - Recebida a certidão, o Tribunal reúne em sessão plenária no dia seguinte.
 

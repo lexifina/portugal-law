@@ -1,6 +1,6 @@
 # Artigo 38.º
 
-### Forma de eleição e posse
+### (Forma de eleição)
 
 1 - O presidente e o vice-presidente são eleitos por voto secreto, sem discussão ou debate prévios, em sessão presidida, na falta do presidente ou do vice-presidente, pelo juiz mais idoso e secretariada pelo mais novo.
 
@@ -12,6 +12,4 @@
 
 5 - Considera-se eleito vice-presidente o juiz que obtiver o mínimo de 8 votos, após as votações necessárias, efectuadas nos termos dos números anteriores.
 
-6 - A eleição do Presidente e do Vice-Presidente do Tribunal Constitucional é publicada na 1.ª série-A do Diário da República, sob a forma de declaração assinada pelo juiz que tiver dirigido a reunião.
-
-7 - Uma vez eleitos, o Presidente e o Vice-Presidente do Tribunal Constitucional tomam posse perante o plenário de juízes do Tribunal.
+6 - A eleição do presidente e do vice-presidente do Tribunal Constitucional é publicada na 1.ª série do Diário da República, sob a forma de declaração assinada pelo juiz que tiver dirigido a reunião.

@@ -1,7 +1,7 @@
 # Artigo 115.º
 
-### Publicação oficial de acórdãos
+### (Entrada em vigor)
 
-1 - Sem prejuízo do disposto no artigo 3.º, serão publicados no Boletim do Ministério da Justiça todos os acórdãos do Tribunal Constitucional com interesse doutrinário, cabendo a selecção ao presidente.
+1 - A presente lei entra em vigor na data da sua publicação, salvo o disposto no número seguinte, e sem prejuízo do preceituado no artigo 108.º
 
-2 - O Tribunal Constitucional promove a publicação dos seus acórdãos com interesse doutrinário em colectânea anual.
+2 - A alínea d) do artigo 8.º e os artigos 9.º, 10.º, 101.º, 102.º, 103.º e 107.º entram em vigor 60 dias após a posse dos primeiros juízes do Tribunal Constitucional.

@@ -1,8 +1,8 @@
 # Artigo 97.º
 
-### Morte ou incapacidade permanente do candidato
+### (Morte ou incapacidade permanente de candidato)
 
-1 - Cabe ao Procurador-Geral da República promover a verificação da morte ou a declaração de incapacidade de qualquer candidato a Presidente da República, para os efeitos do n.º 3 do artigo 124.º da Constituição.
+1 - Cabe ao procurador-geral da República promover a verificação da morte ou a declaração de incapacidade de qualquer candidato a Presidente da República, para os efeitos do n.º 3 do artigo 127.º da Constituição.
 
 2 - O procurador-geral da República deve apresentar prova do óbito ou requerer a designação de 3 peritos médicos para verificarem a incapacidade do candidato, fornecendo neste caso ao Tribunal todos os elementos de prova de que disponha.
 

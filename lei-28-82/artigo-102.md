@@ -6,4 +6,4 @@
 
 2 - O processo relativo ao contencioso eleitoral é regulado pelas leis eleitorais.
 
-3 - (Revogado;)
+3 - De acordo com o disposto nos números anteriores são atribuídas ao Tribunal Constitucional as competências dos tribunais da relação previstas no n.º 1 do artigo 118.º da Lei n.º 14/79, de 16 de Maio, no n.º 1 do artigo 118.º do Decreto-Lei n.º 267/80, de 8 de Agosto, no n.º 1 do artigo 111.º do Decreto-Lei n.º 318-E/76, de 30 de Abril, e no n.º 1 do artigo 104.º, bem como no n.º 2 do artigo 83.º, do Decreto-Lei n.º 701-B/76, de 29 de Setembro.

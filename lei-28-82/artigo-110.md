@@ -1,5 +1,5 @@
 # Artigo 110.º
 
-### Comunicação de decisões
+### (Pessoal da Comissão Constitucional)
 
-Proferida deliberação ou decisão que determine a perda de mandato pela violação das regras do regime do exercício de funções por titulares de cargos políticos e altos cargos públicos que não seja da competência do Tribunal Constitucional, deve a entidade competente, logo que tal decisão haja transitado em julgado ou se tenha tornado inimpugnável, comunicá-la à Entidade para a Transparência.
+O pessoal que se encontre a prestar serviço, a qualquer título, na secretaria e no núcleo de apoio documental da Comissão Constitucional à data da entrada em vigor da presente lei transita a igual título e com categoria correspondente para os quadros da secretaria e dos serviços de apoio do Tribunal Constitucional, mediante lista nominativa e independentemente de quaisquer outras formalidades, salvo anotação pelo Tribunal de Contas.

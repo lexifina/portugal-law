@@ -1,19 +1,13 @@
-## Subcapítulo VI
+## Título IV
 
-## Processos relativos a titulares de cargos públicos
+## Disposições finais e transitórias
 
 # Artigo 106.º
 
-### Competências sancionatórias relativas a titulares de cargos públicos
+### (Processos pendentes no Conselho da Revolução, na Comissão Constitucional e no Supremo Tribunal Administrativo)
 
-1 - Compete ao Tribunal Constitucional aplicar as sanções sem natureza penal previstas nos artigos 11.º, 17.º e 18.º do regime do exercício de funções por titulares de cargos políticos e altos cargos públicos relativamente aos titulares de cargos políticos e equiparados indicados nos artigos 2.º e 4.º do referido regime, bem como aos antigos titulares de cargos políticos, quando aplicável, com exceção:
+1 - Os recursos que, à data da entrada em funcionamento do Tribunal, estejam pendentes na Comissão Constitucional ou que para ela hajam sido interpostos transitam para o Tribunal Constitucional, prosseguindo os seus termos na fase em que se encontrem, salvo o disposto nesta lei quanto a distribuição e vistos.
 
-a) Do Presidente da República, do Presidente da Assembleia da República e do Primeiro-Ministro;
+2 - Os pedidos de apreciação e declaração de inconstitucionalidade pendentes no Conselho da Revolução ou na Comissão Constitucional à data da entrada em vigor da Lei Constitucional n.º 1/82, de 30 de Setembro, transitam igualmente para o Tribunal Constitucional, onde são processados como pedidos de declaração de inconstitucionalidade, nos termos da presente lei.
 
-b) Do Provedor de Justiça;
-
-c) Da perda de mandato de Deputados à Assembleia da República e às Assembleias Legislativas das Regiões Autónomas, cuja aplicação compete às respetivas assembleias, sem prejuízo dos recursos destas decisões para o Tribunal Constitucional;
-
-d) Dos membros dos órgãos executivos do poder local e das áreas metropolitanas e entidades intermunicipais, cuja competência para aplicação de sanções se rege pelas normas estatutárias específicas e pelo regime jurídico da tutela administrativa.
-
-2 - Compete aos tribunais administrativos aplicar as sanções sem natureza penal previstas nos artigos 11.º, 17.º e 18.º do regime do exercício de funções por titulares de cargos políticos e altos cargos públicos relativamente aos titulares de cargos políticos referidos nas alíneas i) e j) do n.º 1 do artigo 2.º e aos titulares de altos cargos públicos e equiparados identificados no artigo 3.º, ambos do referido regime, bem como aos respetivos antigos titulares nos casos nele previstos.
+3 - Transitam ainda para o Tribunal Constitucional, nos termos do n.º 2, os pedidos de declaração de ilegalidade formulados ao abrigo do disposto na Lei n.º 15/79, de 19 de Maio, que à data da entrada em vigor da Lei Constitucional n.º 1/82, de 30 de Setembro, se encontrem pendentes no Supremo Tribunal Administrativo.

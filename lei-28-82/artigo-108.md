@@ -1,5 +1,5 @@
 # Artigo 108.º
 
-### Incumprimento de obrigações declarativas por antigos titulares de cargos políticos
+### (Comissão Constitucional)
 
-O disposto no artigo anterior é aplicável quando ocorra incumprimento de obrigações declarativas por antigos titulares de cargos políticos a elas vinculados, relativamente às sanções que lhes sejam correspondentemente aplicáveis nos termos do regime do exercício de funções por titulares de cargos políticos e altos cargos públicos.
+Até à entrada em funcionamento do Tribunal Constitucional mantém-se em funções a Comissão Constitucional, com a sua actual composição, nos termos e para os efeitos do disposto nos n.os 3 e 4 do artigo 246.º da Lei Constitucional n.º 1/82, de 30 de Setembro, sendo aplicável aos respectivos membros o disposto nos artigos 9.º, 10.º, 11.º, 12.º e 15.º do Decreto-Lei n.º 503-F/76, de 30 de Junho.

@@ -1,12 +1,12 @@
 # Artigo 19.º
 
-### Votação e designação
+### (Votação e designação)
 
 1 - A cada juiz cooptante é distribuído um boletim de voto do qual constem, por ordem alfabética, os nomes de todos os indigitados.
 
 2 - À frente de cada nome figura um quadrado em branco destinado a ser assinalado com a escolha do cooptante.
 
-3 - Cada cooptante assinala com uma cruz os quadrados correspondentes aos indigitados em que vota, não podendo votar num número de indigitados superior ao das vagas a preencher, nem num número de indigitados que não sejam juízes dos restantes tribunais que afecte a quota de lugares a estes reservada, sob pena de inutilização do respectivo boletim.
+3 - Cada cooptante assinala com uma cruz os quadrados correspondentes aos indigitados em que vota, não podendo votar num número de indigitados superior ao das vagas a preencher, sob pena de inutilização do respectivo boletim.
 
 4 - Considera-se designado o indigitado que obtiver um mínimo de 7 votos na mesma votação e que aceitar a designação.
 
@@ -18,4 +18,4 @@
 
 8 - A cooptação de cada indigitado só se considera definitiva depois de preenchidas todas as vagas.
 
-9 - A lista dos cooptados é publicada na 1.ª série-A do Diário da República, sob forma de declaração assinada pelo juiz que tiver dirigido a reunião, no dia seguinte ao da cooptação.
+9 - A lista dos cooptados é publicada na 1.ª série do Diário da República, sob a forma de declaração assinada pelo juiz que tiver dirigido a reunião.

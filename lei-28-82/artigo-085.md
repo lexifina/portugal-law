@@ -1,5 +1,5 @@
 # Artigo 85.º
 
-### Apoio judiciário
+### (Assistência judiciária)
 
-Nos recursos para o Tribunal Constitucional podem as partes litigar com benefício de apoio judiciário, nos termos da lei.
+Nos recursos para o Tribunal Constitucional podem as partes litigar com o benefício da assistência judiciária, nos termos da lei.
