@@ -1,0 +1,4 @@
+Portaria n.º 524/81
+de 27 de Junho
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano, da Indústria e Energia e da Reforma Administrativa, que, ao abrigo do artigo 14.º do Decreto-Lei n.º 191-F/79, de 26 de Junho, sejam criados no quadro do pessoal da Direcção-Geral de Geologia e Minas, constante do anexo VIII à Portaria n.º 284/80, de 24 de Maio, dois lugares de assessor, letra B, a prover pelos adjuntos do director-geral dos Serviços de Prospecção e Exploração Mineira da extinta Junta de Energia Nuclear e a extinguir quando vagarem.
+Ministérios das Finanças e do Plano, da Indústria e Energia e da Reforma Administrativa, 27 de Maio de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro da Indústria e Energia, Ricardo Manuel Simões Bayão Horta. - Pelo Ministro da Reforma Administrativa, José Queirós Lopes Raimundo, Secretário de Estado da Reforma Administrativa.
