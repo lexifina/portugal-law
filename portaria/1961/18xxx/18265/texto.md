@@ -1,0 +1,5 @@
+Portaria n.º 18265
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, abrir em Angola um crédito especial da quantia de 1477$80 para reforçar a verba do capítulo 6.º, artigo 929.º, n.º 1) «Procuradoria da República e Arquivo Geral de Registo Criminal - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei», da tabela de despesa ordinária do orçamento geral para o ano de 1960, a fim de pagar a compensação de vencimentos ao contínuo da Procuradoria da República relativa ao mesmo ano, tomando como contrapartida as disponibilidades existentes na verba do capítulo 7.º, artigo 1095.º, n.º 1) «Serviços de veterinária - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei», da referida tabela de despesa.
+Ministério do Ultramar, 13 de Fevereiro de 1961. - Pelo Ministro do Ultramar, Adriano José Alves Moreira, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Angola. - A. Moreira.
