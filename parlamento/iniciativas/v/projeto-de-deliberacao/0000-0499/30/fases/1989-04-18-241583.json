@@ -1,0 +1,413 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Projeto de Deliberação",
+    "numero": "30",
+    "id": "32757",
+    "titulo": "Sobre o estatuto dos grupos parlamentares de amizade com parlamentos e parlamentares de outros países."
+  },
+  "fase": "Apreciação",
+  "codigo_fase": "243",
+  "data_registo": "1989-04-18",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "5216",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "243",
+    "Comissao": null,
+    "DataFase": "1989-04-18",
+    "EvtId": "64",
+    "Fase": "Apreciação",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1989-04-18",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217665",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2230-2230",
+                  "2231-2231"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-19",
+                "pubLeg": "V",
+                "pubNr": "65",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/065/1989-04-19/2230?pgs=2230,2231&org=PLC"
+              }
+            ],
+            "sumario": "Sobre o estatuto dos grupos parlamentares de amizade com parlamentos e parlamentares de outros países.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217666",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2230-2231"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-19",
+                "pubLeg": "V",
+                "pubNr": "65",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/065/1989-04-19/2230?pgs=2230-2231&org=PLC"
+              }
+            ],
+            "sumario": "Sobre o estatuto dos grupos parlamentares de amizade com parlamentos e parlamentares de outros países.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217667",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2231-2232",
+                  "2232-2232"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-19",
+                "pubLeg": "V",
+                "pubNr": "65",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/065/1989-04-19/2231?pgs=2231-2232,2232&org=PLC"
+              }
+            ],
+            "sumario": "Sobre o estatuto dos grupos parlamentares de amizade com parlamentos e parlamentares de outros países.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217668",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2232-2232",
+                  "2233-2233",
+                  "2233-2233"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-19",
+                "pubLeg": "V",
+                "pubNr": "65",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/065/1989-04-19/2232?pgs=2232,2233,2233&org=PLC"
+              }
+            ],
+            "sumario": "Sobre o estatuto dos grupos parlamentares de amizade com parlamentos e parlamentares de outros países.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217669",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2232-2233"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-19",
+                "pubLeg": "V",
+                "pubNr": "65",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/065/1989-04-19/2232?pgs=2232-2233&org=PLC"
+              }
+            ],
+            "sumario": "Sobre o estatuto dos grupos parlamentares de amizade com parlamentos e parlamentares de outros países.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217670",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2233-2234",
+                  "2234-2234"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-19",
+                "pubLeg": "V",
+                "pubNr": "65",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/065/1989-04-19/2233?pgs=2233-2234,2234&org=PLC"
+              }
+            ],
+            "sumario": "Sobre o estatuto dos grupos parlamentares de amizade com parlamentos e parlamentares de outros países.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217671",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2234-2234"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-19",
+                "pubLeg": "V",
+                "pubNr": "65",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/065/1989-04-19/2234?pgs=2234&org=PLC"
+              }
+            ],
+            "sumario": "Sobre o estatuto dos grupos parlamentares de amizade com parlamentos e parlamentares de outros países.",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:20",
+            "horaTermo": "20:50",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "217672",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2234-2234"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-04-19",
+                "pubLeg": "V",
+                "pubNr": "65",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/065/1989-04-19/2234?pgs=2234&org=PLC"
+              }
+            ],
+            "sumario": "Sobre o estatuto dos grupos parlamentares de amizade com parlamentos e parlamentares de outros países.",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "241583",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "5216",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1989-04-19",
+        "pubLeg": "V",
+        "pubNr": "65",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/065/1989-04-19?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
