@@ -1,0 +1,7 @@
+Decreto-Lei n.º 43121
+Verificando-se a manifesta insuficiência do quadro do pessoal maior da secretaria do Governo Civil do distrito de Lisboa, apenas aumentado de dois escriturários nos últimos vinte anos, o que está longe de corresponder ao incremento dos serviços em igual período;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º São criados mais dois lugares de aspirante e dois lugares de escriturário no quadro do pessoal maior da secretaria do Governo Civil do distrito de Lisboa.
+Art. 2.º Os encargos a que este diploma dará lugar serão satisfeitos no ano corrente pelas sobras da verba do n.º 1) do artigo 38.º do orçamento do Ministério do Interior.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 18 de Agosto de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
