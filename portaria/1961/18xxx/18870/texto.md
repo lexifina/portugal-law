@@ -1,0 +1,6 @@
+Portaria n.º 18870
+Manda o Governo da República Portuguesa, pelo Ministro da Educação Nacional, que seja aprovada, conforme vem proposto pela Direcção-Geral da Educação Física, Desportos e Saúde Escolar, a nova redacção da alínea a) do artigo 3.º do Regulamento do Curso de Instrutores de Educação Física, aprovado pela Portaria n.º 18081, de 26 de Novembro de 1960:
+Art. 3.º ...
+...
+a) Possuir o 5.º ano dos liceus ou as habilitações consideradas equivalentes, para este fim especial pelo Ministro da Educação Nacional, ouvida a Junta Nacional da Educação.
+Ministério da Educação Nacional, 9 de Dezembro de 1961. - O Ministro da Educação Nacional, Manuel Lopes de Almeida.
