@@ -1,0 +1,5 @@
+Despacho Normativo n.º 137/83
+Considerando que, nos termos do artigo 1.º, n.º 2, do Decreto-Lei n.º 375/82, de 11 de Outubro, cabe ao membro do Governo responsável pelo sector do turismo, por despacho, seleccionar de entre os eixos rodoviários interurbanos definidos por despacho do Ministro da Habitação, Obras Públicas e Transportes aqueles onde importa satisfazer uma procura turística com exigências de transporte de alta qualidade;
+Verificando-se, porém, não estarem ainda definidos os eixos interurbanos e importando definir critérios que permitam à Direcção-Geral de Turismo propor a definição dos eixos turísticos:
+Determina-se que se devem considerar para aquele efeito todos os eixos rodoviários interurbanos entre localidades situadas em áreas abrangidas por comissões regionais de turismo, comissões municipais de turismo ou ainda juntas de turismo com um percurso, em princípio, superior à distância de 100 km.
+Presidência do Conselho de Ministros, 31 de Maio de 1983. - Pelo Primeiro-Ministro, Luís Fernando Cardoso Nandim de Carvalho, Secretário de Estado do Turismo.
