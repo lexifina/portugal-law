@@ -1,0 +1,9 @@
+Resolução do Conselho de Ministros n.º 46/93
+A auto-estrada Loures-Torres Vedras reveste-se de importância fundamental para o desenvolvimento e acessibilidade de uma faixa de território fortemente carenciada, não se restringindo à envolvência directamente servida pelos nós existentes no lanço Loures-Malveira, já em serviço, integrado na concessão outorgada à BRISA - Auto-Estradas de Portugal, S. A., e que se rege pelas bases anexas ao Decreto-Lei n.º 315/91, de 20 de Agosto.
+Importa, assim, promover a rápida construção do lanço seguinte, entre Malveira e Torres Vedras, no mesmo modelo da concessão da BRISA, colhendo-se os benefícios que resultam da indução do tráfego nos lanços em exploração, de uma melhor utilização da capacidade disponível da infra-estrutura em exploração e da homogeneidade das características da rede nacional de auto-estradas, com reflexos na melhoria das condições de comodidade e segurança na circulação rodoviária.
+Considerando o disposto na base XLV anexa ao Decreto-Lei n.º 315/91, de 20 de Agosto:
+Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:
+1 - A concessão outorgada à BRISA - Auto-Estradas de Portugal, S. A., pelos Decretos-Leis n.os 467/72, de 22 de Novembro, 458/85, de 30 de Outubro, e 315/91, de 20 de Agosto, é ampliada pela integração no seu objecto da construção, conservação e exploração do lanço Malveira-Torres Vedras da A8, auto-estrada Loures-Torres Vedras.
+2 - A extensão estimada do novo lanço da auto-estrada é de 17 km e deverá entrar em serviço até ao final do 2.º semestre de 1995.
+3 - Salvo o previsto na presente resolução, à construção, conservação e exploração do lanço Malveira-Torres Vedras aplicam-se as bases anexas ao Decreto-Lei n.º 315/91, de 20 de Agosto.
+Presidência do Conselho de Ministros, 13 de Maio de 1993. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
