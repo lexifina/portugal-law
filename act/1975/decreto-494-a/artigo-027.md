@@ -10,7 +10,7 @@ c) Chefe de secretaria, de entre indivíduos diplomados com curso superior adequ
 
 d) Chefe de contabilidade e tesoureiro de 1.ª, de entre indivíduos diplomados com curso superior ou pelos institutos comerciais, adequados ao exercício das respectivas funções, ou de entre contabilistas de 1.ª ou tesoureiros de 2.ª, com, pelo menos, três anos de bom e efectivo serviço na categoria;
 
-e) Técnicos auxiliares principais, técnicos auxiliares de 1.ª classe, técnicos auxiliares de 2.ª classe, de entre indivíduos diplomados com curso superior ou pelos institutos comerciais e industriais, adequados ao exercício das funções de técnicos auxiliares principais ou de entre, respectivamente, técnicos auxiliares de 1.ª classe, técnicos auxiliares de 2.ª classe e técnicos auxiliares de 3.ª classe, com, pelo menos, três anos de bom e efectivo serviço na categoria e as habilitações referidas neste diploma;
+e) Técnicos auxiliares principais, técnicos auxiliares de 1.ª classe, técnicos auxiliares de 2.ª classe, de entre indivíduos diplomados com o curso superior adequado ou pelos institutos comerciais e industriais ou com qualificação profissional resultante da frequência do estágio especializado previsto no n.º 3 deste artigo ou de entre, respectivamente, técnicos auxiliares de 1.ª classe, técnicos auxiliares de 2.ª classe e técnicos auxiliares de 3.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e as habilitações referidas neste diploma;
 
 f) Adjunto do chefe de secretaria, primeiros e segundos-oficiais, de entre diplomados com curso superior adequado ou pelos institutos comerciais para os lugares de adjunto do chefe de secretaria ou de entre, respectivamente, primeiros, segundos e terceiros-oficiais, com, pelo menos, três anos de bom e efectivo serviço na categoria;
 
@@ -42,7 +42,7 @@ s) Contínuos, de entre indivíduos com escolaridade obrigatória.
 
 2. Os escriturários-dactilógrafos e telefonistas que ingressem na categoria de terceiro-oficial sem a habilitação do curso geral dos liceus ou equiparado não poderão ascender a categoria superior à de segundo-oficial enquanto não possuírem as mesmas habilitações.
 
-3. O ingresso na categoria de técnico auxiliar de 3.ª classe será precedido de um estágio remunerado, que obedecerá a normas a estabelecer pela comissão de gestão e a aprovar pelo Ministro da Defesa Nacional.
+3. O ingresso nas categorias de técnico auxiliar de 1.ª, 2.ª e 3.ª classes será precedido de um estágio remunerado, que obedecerá a normas a estabelecer pela comissão de gestão e a aprovar pelo Ministro da Defesa Nacional.
 
 4. Os funcionários da carreira de pessoal administrativo e técnico até à letra L, inclusive, e com, pelo menos, seis meses na categoria podem transitar, a seu pedido e mediante parecer favorável da comissão de gestão, de uma para outra carreira, para lugar de igual categoria, excepto os terceiros-oficiais, que poderão apenas transitar para técnicos auxiliares de 3.ª
 
