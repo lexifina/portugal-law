@@ -1,0 +1,3 @@
+Despacho Normativo n.º 274/81
+Delego no Secretário de Estado da Reforma Administrativa, Dr. António Jorge de Figueiredo Lopes, os poderes que por lei me são conferidos relativamente aos assuntos correntes compreendidos no âmbito das atribuições do Ministério da Reforma Administrativa, incluindo a intervenção na elaboração de diplomas que impliquem alterações na estrutura orgânica ou no regime do pessoal dos serviços públicos, bem como a coordenação das acções a desenvolver no âmbito da Reforma Administrativa.
+Ministério da Reforma Administrativa, 8 de Setembro de 1981. - O Ministro da Reforma Administrativa, José Manuel Meneres Sampaio Pimentel.
