@@ -1,0 +1,4 @@
+Declaração
+Segundo comunicação da Direcção-Geral dos Negócios Económicos e Consulares, o aviso que torna público ter o Conselho da Associação Europeia do Comércio Livre adoptado uma decisão emendando o parágrafo 2 do artigo 3 da Convenção que institui aquela Associação, publicado no Diário do Governo n.º 186, 1.ª série, de 14 de Agosto findo, e cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a inexactidão seguinte, que assim se rectifica:
+Na tradução portuguesa, no n.º 2 da emenda ao parágrafo 2 do artigo 3 da Convenção, onde se lê: «... e por uma data não posterior a 30 de Abril ...», deve ler-se: «... e por uma data não posterior a 30 de Abril de 1963 ...».
+Secretaria-Geral da Presidência do Conselho, 14 de Setembro de 1962. - O Secretário-Geral, Diogo de Castelbranco de Paiva de Faria Leite Brandão.
