@@ -1,0 +1,41 @@
+# Acórdão do Supremo Tribunal de Justiça de 1989-06-29, processo 077460
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 077460
+
+**Nº Convencional:** JSTJ00013847
+
+**Relator:** BALTAZAR COELHO
+
+**Descritores:** ARRENDAMENTO PARA HABITAÇÃO; DESPEJO; EMBARGOS DE TERCEIRO; TUTELA POSSESSORIA
+
+**Nº do Documento:** SJ198906290774602
+
+**Data do Acordão:** 06/29/1989
+
+**Votação:** UNANIMIDADE
+
+**Referência de Publicação:** BMJ N388 ANO1989 PAG467
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** AGRAVO.
+
+**Decisão:** PROVIDO.
+
+**Área Temática:** DIR CIV - DIR CONTRAT.; DIR PROC CIV.
+
+## Sumário
+
+I - O cumprimento do mandado de despejo não torna inutil os embargos de terceiro deduzidos nos termos do artigo 1043, n. 1, do Codigo de Processo Civil, uma vez que, visando eles a manutenção da posse do arrendado, nada obsta a que, face ao disposto no n. 2 do artigo 1033, aqui aplicavel por força do preceituado nos artigos 1042 e 1043, n. 1, do mesmo diploma legal, venha, na sua eventual procedencia, a ser ordenada a sua restrição.
+
+II - Das disposições conjugadas dos artigos 1682-B, alinea a),
+
+1673 e 1687 do Codigo Civil não resulta que o conjuge do arrendatario da casa de morada de familia adquira a co-titularidade da posição do inquilino da mesma, como melhor decorre do n. 1 do artigo 1110 do mesmo diploma legal.
+
+III - Não sendo o conjuge do arrendatario co-titular do arrendamento habitacional, não beneficia ele da tutela possessoria conferida ao arrendatario (artigos 1037, n. 2, e 1285 do Codigo Civil).
+
+IV - Assim sendo, não pode aquele deduzir os referidos embargos que, a serem interpostos, devem ser indeferidos liminarmente (ultima parte da alinea c) do artigo 474, ex vi do n. 1 do artigo 463, ambos do Codigo de Processo Civil).
