@@ -1,0 +1,17 @@
+Decreto n.º 45753
+Considerando que foram adjudicadas:
+Ao empreiteiro António Fernandes Vozone a execução da obra de alojamentos e ampliação da messe de oficiais da base aérea n.º 2 (Ota), trabalhos a mais;
+À firma Saga - Construções e Representações, Lda., a execução da obra de construção de alojamentos para sargentos e soldados alunos na base aérea n.º 2 (Ota), trabalhos complementares, 2.ª fase;
+Ao empreiteiro António Torres Baptista a execução da obra de adaptação do refeitório de praças do regimento de caçadores pára-quedistas (Tancos) a self-service, trabalhos complementares;
+À firma Efieme - Estudos, Fabricos e Instalações Electromecânicas, Lda., a execução da obra de fornecimento e instalação de cabo armado telefónico na base aérea n.º 1 (Sintra);
+Considerando que o prazo de execução de tais obras abrange parte dos anos económicos de 1964 e 1965;
+Tendo em conta o disposto no artigo 22.º e seu § 1.º do Decreto-Lei n.º 41375, de 19 de Novembro de 1957;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Infra-Estruturas da Força Aérea a celebrar os seguintes contratos:
+Com o empreiteiro António Fernandes Vozone para a execução da obra de alojamentos e ampliação da messe de oficiais da base aérea n.º 2 (Ota), trabalhos a mais, pela importância de 928909$30;
+Com a firma Saga - Construções e Representações, Lda., para a execução da obra de construção de alojamentos para sargentos e soldados alunos na base aérea n.º 2 (Ota), trabalhos complementares, 2.ª fase, pela importância de 1371859$10;
+Com o empreiteiro António Torres Baptista para a execução da obra de adaptação do refeitório de praças do regimento de caçadores pára-quedistas (Tancos) a self-service, trabalhos complementares, pela importância de 27000$00;
+Com a firma Efieme -Estudos, Fabricos e Instalações Electromecânicas, Lda., para a execução da obra de fornecimento e instalação de cabo armado telefónico na base aérea n.º 1 (Sintra), pela importância de 448330$00;
+Art. 2.º O encargo com estas obras, no montante de 2776098$40, a custear por conta da verba apropriada do orçamento suplementar da defesa, será, na sua totalidade, liquidado pelo referido conselho administrativo no ano económico de 1965.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 5 de Junho de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - António Manuel Pinto Barbosa - Francisco António das Chagas.
