@@ -1,0 +1,5 @@
+Aviso n.º 129/98
+Por ordem superior se torna público que a Colômbia depositou, em 5 de Agosto de 1997, o instrumento de adesão ao Segundo Protocolo Facultativo ao Pacto Internacional sobre Direitos Civis e Políticos Visando a Abolição da Pena de Morte, adoptado pela Assembleia Geral das Nações Unidas em 15 de Dezembro de 1989.
+Portugal é Parte neste Protocolo, que foi aprovado, para ratificação, pela Resolução da Assembleia da República n.º 25/90, publicada no Diário da República, 1.ª série, n.º 224, de 27 de Setembro de 1990, tendo depositado o seu instrumento de ratificação em 19 de Outubro de 1990, conforme aviso publicado no Diário da República, 1.ª série, n.º 273, de 26 de Novembro de 1990.
+Nos termos do n.º 2 do artigo 8.º, o Protocolo entrou em vigor para a Colômbia três meses após a data do depósito do respectivo instrumento, ou seja, no dia 5 de Novembro de 1997.
+Direcção de Serviços das Organizações Políticas Internacionais, 16 de Junho de 1998. - O Director de Serviços, João José Gomes Caetano da Silva.
