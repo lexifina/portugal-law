@@ -2,4 +2,4 @@
 
 ### (Contribuintes na situação de licença ilimitada ou de inactividade)
 
-Aos contribuintes do Montepio que à data da entrada em vigor se encontrem na situação de licença ilimitada, inactividade ou situação equiparada e posteriormente regressem à efectividade serão aplicáveis as disposições dos artigos 61.º e 62.º
+Aos contribuintes do Montepio que à data da entrada em vigor do presente Estatuto se encontrem na situação de licença ilimitada, inactividade ou situação equiparada e posteriormente regressem à efectividade serão aplicáveis as disposições dos artigos 61.º e 62.º

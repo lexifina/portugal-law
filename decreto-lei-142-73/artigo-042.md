@@ -4,6 +4,6 @@
 
 1. Têm direito à pensão os filhos solteiros de qualquer dos sexos menores de 18 anos ou que, tendo completado 18 anos, frequentem com aproveitamento, até aos 21 anos, o ensino médio ou equiparado e, até aos 24 anos, o ensino superior ou equiparado.
 
-2 - Têm ainda direito à pensão, independentemente de qualquer outro requisito, os filhos de ambos os sexos que sofram de incapacidade permanente e total para o trabalho, desde que, sendo casados, os rendimentos que concorram na economia do casal, incluindo retribuições, rendas, pensões e equivalentes, mas excluindo a pensão a que se habilitam nos termos do presente diploma, não ultrapassem metade do vencimento correspondente à letra U da tabela de vencimentos da função pública.
+2 - Têm ainda direito à pensão, independentemente de qualquer outro requisito, os filhos de ambos os sexos que sofram de incapacidade permanente e total para o trabalho, e quando sejam casados, desde que os rendimentos que concorram na economia do casal, incluindo retribuições, rendas, pensões e equivalentes, mas excluindo a pensão a que se habilitam nos termos do presente diploma, não ultrapassem metade do vencimento correspondente à letra U da tabela de vencimentos da função pública.
 
 3 - O estado de incapacidade será obrigatoriamente comprovado em exame por junta médica da Caixa Nacional de Previdência, a realizar antes da fixação da pensão.
