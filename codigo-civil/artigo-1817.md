@@ -1,13 +1,11 @@
 # Artigo 1817.º
 
-### (Impugnação da paternidade do filho concebido durante o matrimónio)
+### (Prazo para a proposição da acção)
 
-O marido só pode impugnar a paternidade relativamente ao filho nascido passados cento e oitenta dias depois da celebração do casamento, se não se verificar nenhum dos factos previstos no n.º 1 do artigo antecedente e, além disso, ocorrer alguma das seguintes circunstâncias:
+1. A acção de investigação de maternidade só pode ser proposta durante a menoridade do investigante ou nos dois primeiros anos posteriores à sua maioridade ou emancipação.
 
-a) Ter estado fìsicamente impossibilitado de coabitar com a mulher em todo o período legal da concepção;
+2. Se não for possível estabelecer a maternidade em consequência do disposto no artigo 1815.º, a acção pode ser proposta no ano seguinte à rectificação, declaração de nulidade ou cancelamento do registo inibitório, contanto que a remoção do obstáculo tenha sido requerida até ao termo do prazo estabelecido no número anterior, se para tal o investigante tiver legitimidade.
 
-b) Ter sofrido em todo esse período de impotência absoluta para ter cópula ou para gerar;
+3. Se a acção se fundar em escrito no qual a pretensa mãe declare inequivocamente a maternidade, pode ser intentada nos seis meses posteriores à data em que o autor conheceu ou devia ter conhecido o conteúdo do escrito.
 
-c) Ter estado separado de facto da mulher em todo aquele período e ter esta mantido no decurso do mesmo período convivência marital com outro homem, estabelecida por comunhão duradoura de leito, mesa e habitação, em condições análogas às dos cônjuges, fora do domicílio conjugal;
-
-d) Ter a mulher cometido adultério dentro do período da concepção e ocultado do marido a gravidez e o nascimento do filho, desde que o marido prove, por qualquer outra circunstância, que o filho não foi procriado por ele.
+4. Se o investigante for tratado como filho pela pretensa mãe, a acção pode ser proposta dentro do prazo de um ano, a contar da data em que cessar aquele tratamento.
