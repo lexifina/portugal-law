@@ -1,0 +1,4 @@
+Aviso n.º 77/2004
+Por ordem superior se torna público que o Principado do Listenstaina depositou junto do Secretário-Geral do Conselho da Europa, em 24 de Janeiro de 2003, o seu instrumento de ratificação da Convenção Europeia sobre a Violência e os Excessos dos Espectadores por Ocasião das Manifestações Desportivas e nomeadamente de Jogos de Futebol, aberta para assinatura em Estrasburgo em 19 de Agosto de 1985.
+Portugal é Parte nesta Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 11/87, publicada no Diário da República, 1.ª série-A, n.º 57, de 10 de Março de 1987, tendo depositado o seu instrumento de ratificação em 26 de Junho de 1987, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 204, de 5 de Setembro de 1987.
+Direcção-Geral dos Assuntos Multilaterais, 21 de Abril de 2004. - O Director de Serviços das Organizações Políticas Internacionais, Bernardo Fernandes Homem de Lucena.
