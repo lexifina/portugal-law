@@ -40,6 +40,6 @@ f) A energia reactiva em défice nas horas fora de vazio e a fornecida nas horas
 
 2 - Para potências de ligação superiores a 10 MVA, nos meses em que os fornecimentos correspondam a potências mensais facturadas que ultrapassem 10 MVA, os primeiros 10 MVA são valorizados segundo os critérios referidos no número anterior, sendo os fornecimentos suplementares valorizados, durante 15 anos, pelo critério dos custos evitados totais.
 
-3 - Para efeitos do disposto no número anterior, a entidade de planeamento do sistema electroprodutor propõe anualmente os valores ou a fórmula de cálculo dos valores dos custos evitados para os 15 anos subsequentes, competindo ao director-geral de Energia a sua homologação.
+3 - Para efeitos do disposto no número anterior, a DGE estabelece anualmente os valores ou a fórmula de cálculo dos valores dos custos evitados para os 15 anos subsequentes, com base no plano de expansão em vigor, ouvidas a Entidade Reguladora e a entidade concessionária da RNT.
 
-4 - Para efeitos do disposto no n.º 2, os fornecimentos suplementares de um produtor cuja instalação entra em exploração num determinado ano são valorizados, ao longo desse ano e dos 14 anos subsequentes, pelos custos evitados homologados pelo director-geral de Energia no ano imediatamente anterior, nos termos do número antecedente.
+4 - Para efeitos do disposto no n.º 2, os fornecimentos suplementares de um produtor cuja instalação entra em exploração num determinado ano são valorizados pelos custos evitados estabelecidos pela DGE no ano imediatamente anterior, nos temos do número antecedente.
