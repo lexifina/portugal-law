@@ -1,0 +1,15 @@
+Portaria n.º 22403
+Manda o Governo da República Portuguesa, pelo Ministro da Educação Nacional, que seja aprovado o Regulamento do Prémio Escolar Escritor Ferreira de Castro, que baixa assinado pelo director-geral do Ensino Primário.
+Ministério da Educação Nacional, 29 de Dezembro de 1966. - Pelo Ministro da Educação Nacional, Alberto Carlos de Brito, Subsecretário de Estado da Administração Escolar.
+
+Regulamento do Prémio Escolar Escritor Ferreira de Castro
+Artigo 1.º É instituído, por iniciativa da Casa da Comarca de Oliveira de Azeméis, o Prémio Escolar Escritor Ferreira de Castro, com o fim de perpetuar o nome deste escritor na freguesia onde nasceu e viveu a sua infância, a atribuir em cada ano lectivo a dois alunos (um de cada sexo) entre os aprovados no exame da 4.ª classe do ensino primário concluído em qualquer das escolas ou postos escolares dos núcleos da freguesia de Ossela, concelho de Oliveira de Azeméis.
+Art. 2.º O fundo de manutenção do referido Prémio é constituído pelo produto do rendimento da importância de 10000$00, a converter em certificado de renda perpétua da Junta do Crédito Público, assentado à Direcção do Distrito Escolar de Aveiro.
+Art. 3.º A escolha dos alunos a premiar será feita nas condições seguintes:
+a) Por cada estabelecimento do ensino primário será indicado um aluno e uma aluna escolhidos entre os aprovados no exame da 4.ª classe do ensino primário que mais se tenham distinguido por qualidades morais, assiduidade às aulas, aplicação ao estudo e dotes intelectuais;
+b) Havendo mais de um lugar de professor com a 4.ª classe, os respectivos agentes de ensino deliberarão em conjunto acerca do aluno e da aluna a quem os prémios devem ser atribuídos, nas condições da alínea anterior; em caso de não chegarem a acordo, será o assunto submetido à apreciação do respectivo delegado escolar;
+c) Das resoluções tomadas será lavrada uma acta, da qual será enviada uma cópia à Direcção do Distrito Escolar de Aveiro e outra à Câmara Municipal de Oliveira de Azeméis, entidades pelas quais será fixado, de comum acordo, o dia para a distribuição dos prémios;
+d) A cada um dos alunos propostos será atribuído, em partes iguais, o rendimento do referido Prémio;
+e) A distribuição dos prémios far-se-á anualmente no mês de Outubro, logo após o início do ano lectivo e de preferência num domingo, numa das salas de aula do edifício escolar de Ossela (núcleo de Santo António), em sessão presidida pelo director do distrito escolar de Aveiro, ou por um seu representante, na presença de professores e alunos e das autoridades convidadas para o efeito, em que se enalteça o significado do Prémio e se dê o devido relevo à ideia que presidiu à sua instituição.
+Art. 4.º Os alunos que não comparecerem no dia designado para a distribuição dos prémios, nem os reclamem no decorrer desse ano escolar, perderão o direito aos mesmos em benefício das caixas escolares respectivas.
+Direcção-Geral do Ensino Primário, 29 de Dezembro de 1966. - O Director-Geral, José Gomes Branco.
