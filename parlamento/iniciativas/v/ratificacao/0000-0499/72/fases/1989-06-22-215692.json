@@ -1,0 +1,1119 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Ratificação",
+    "numero": "72",
+    "id": "28158",
+    "titulo": "Decreto-lei nº 139/89, de 28 de Abril, que altera o Decreto-lei nº 357/75, de 8 de Julho, relativo a protecção ao relevo natural, solo arável e revestimento vegetal"
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "1989-06-22",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "4002",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "1989-06-22",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1989-06-22",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220938",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4714-4715",
+                  "4715-4716"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-23",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/095/1989-06-23/4714?pgs=4714-4715,4715-4716&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 139/89, de 28 de Abril, que altera o Decreto-lei nº 357/75, de 8 de Julho, relativo a protecção ao relevo natural, solo arável e revestimento vegetal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220939",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4715-4715"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-23",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/095/1989-06-23/4715?pgs=4715&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 139/89, de 28 de Abril, que altera o Decreto-lei nº 357/75, de 8 de Julho, relativo a protecção ao relevo natural, solo arável e revestimento vegetal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220940",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4716-4716"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-23",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/095/1989-06-23/4716?pgs=4716&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 139/89, de 28 de Abril, que altera o Decreto-lei nº 357/75, de 8 de Julho, relativo a protecção ao relevo natural, solo arável e revestimento vegetal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220941",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4716-4717"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-23",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/095/1989-06-23/4716?pgs=4716-4717&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 139/89, de 28 de Abril, que altera o Decreto-lei nº 357/75, de 8 de Julho, relativo a protecção ao relevo natural, solo arável e revestimento vegetal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220942",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4717-4717",
+                  "4717-4718"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-23",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/095/1989-06-23/4717?pgs=4717,4717-4718&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 139/89, de 28 de Abril, que altera o Decreto-lei nº 357/75, de 8 de Julho, relativo a protecção ao relevo natural, solo arável e revestimento vegetal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220943",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4717-4717"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-23",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/095/1989-06-23/4717?pgs=4717&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 139/89, de 28 de Abril, que altera o Decreto-lei nº 357/75, de 8 de Julho, relativo a protecção ao relevo natural, solo arável e revestimento vegetal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220945",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4718-4718"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-23",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/095/1989-06-23/4718?pgs=4718&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 139/89, de 28 de Abril, que altera o Decreto-lei nº 357/75, de 8 de Julho, relativo a protecção ao relevo natural, solo arável e revestimento vegetal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  AGRICULTURA",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Alvaro Amaro"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220946",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4719-4720",
+                  "4723-4724"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-23",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/095/1989-06-23/4719?pgs=4719-4720,4723-4724&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 139/89, de 28 de Abril, que altera o Decreto-lei nº 357/75, de 8 de Julho, relativo a protecção ao relevo natural, solo arável e revestimento vegetal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220947",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4722-4722"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-23",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/095/1989-06-23/4722?pgs=4722&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 139/89, de 28 de Abril, que altera o Decreto-lei nº 357/75, de 8 de Julho, relativo a protecção ao relevo natural, solo arável e revestimento vegetal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220948",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4723-4723"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-23",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/095/1989-06-23/4723?pgs=4723&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 139/89, de 28 de Abril, que altera o Decreto-lei nº 357/75, de 8 de Julho, relativo a protecção ao relevo natural, solo arável e revestimento vegetal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220949",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4723-4723"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-23",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/095/1989-06-23/4723?pgs=4723&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 139/89, de 28 de Abril, que altera o Decreto-lei nº 357/75, de 8 de Julho, relativo a protecção ao relevo natural, solo arável e revestimento vegetal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220950",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4720-4721"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-23",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/095/1989-06-23/4720?pgs=4720-4721&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 139/89, de 28 de Abril, que altera o Decreto-lei nº 357/75, de 8 de Julho, relativo a protecção ao relevo natural, solo arável e revestimento vegetal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  AGRICULTURA",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Alvaro Amaro"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220951",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4721-4721"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-23",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/095/1989-06-23/4721?pgs=4721&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 139/89, de 28 de Abril, que altera o Decreto-lei nº 357/75, de 8 de Julho, relativo a protecção ao relevo natural, solo arável e revestimento vegetal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220952",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4722-4722"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-23",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/095/1989-06-23/4722?pgs=4722&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 139/89, de 28 de Abril, que altera o Decreto-lei nº 357/75, de 8 de Julho, relativo a protecção ao relevo natural, solo arável e revestimento vegetal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220953",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4722-4723"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-23",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/095/1989-06-23/4722?pgs=4722-4723&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 139/89, de 28 de Abril, que altera o Decreto-lei nº 357/75, de 8 de Julho, relativo a protecção ao relevo natural, solo arável e revestimento vegetal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220954",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4724-4724"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-23",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/095/1989-06-23/4724?pgs=4724&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 139/89, de 28 de Abril, que altera o Decreto-lei nº 357/75, de 8 de Julho, relativo a protecção ao relevo natural, solo arável e revestimento vegetal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  AGRICULTURA",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Alvaro Amaro"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220955",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4724-4725"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-23",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/095/1989-06-23/4724?pgs=4724-4725&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 139/89, de 28 de Abril, que altera o Decreto-lei nº 357/75, de 8 de Julho, relativo a protecção ao relevo natural, solo arável e revestimento vegetal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220956",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4725-4725"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-23",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/095/1989-06-23/4725?pgs=4725&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 139/89, de 28 de Abril, que altera o Decreto-lei nº 357/75, de 8 de Julho, relativo a protecção ao relevo natural, solo arável e revestimento vegetal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DA  AGRICULTURA",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Alvaro Amaro"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220957",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4725-4726"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-23",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/095/1989-06-23/4725?pgs=4725-4726&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 139/89, de 28 de Abril, que altera o Decreto-lei nº 357/75, de 8 de Julho, relativo a protecção ao relevo natural, solo arável e revestimento vegetal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220959",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4726-4727",
+                  "4727-4727"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-23",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/095/1989-06-23/4726?pgs=4726-4727,4727&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 139/89, de 28 de Abril, que altera o Decreto-lei nº 357/75, de 8 de Julho, relativo a protecção ao relevo natural, solo arável e revestimento vegetal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220960",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4727-4727"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-23",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/095/1989-06-23/4727?pgs=4727&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 139/89, de 28 de Abril, que altera o Decreto-lei nº 357/75, de 8 de Julho, relativo a protecção ao relevo natural, solo arável e revestimento vegetal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220961",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4727-4727",
+                  "4728-4729",
+                  "4729-4729"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-23",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/095/1989-06-23/4727?pgs=4727,4728-4729,4729&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 139/89, de 28 de Abril, que altera o Decreto-lei nº 357/75, de 8 de Julho, relativo a protecção ao relevo natural, solo arável e revestimento vegetal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220962",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4728-4728",
+                  "4728-4728",
+                  "4729-4729"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-23",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/095/1989-06-23/4728?pgs=4728,4728,4729&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 139/89, de 28 de Abril, que altera o Decreto-lei nº 357/75, de 8 de Julho, relativo a protecção ao relevo natural, solo arável e revestimento vegetal",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "15:15",
+            "horaTermo": "20:35",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "220963",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "4729-4730"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-06-23",
+                "pubLeg": "V",
+                "pubNr": "95",
+                "pubSL": "2",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/095/1989-06-23/4729?pgs=4729-4730&org=PLC"
+              }
+            ],
+            "sumario": "Decreto-lei nº 139/89, de 28 de Abril, que altera o Decreto-lei nº 357/75, de 8 de Julho, relativo a protecção ao relevo natural, solo arável e revestimento vegetal",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": "Recusa de ratificação",
+    "OevId": "215692",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "4002",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1989-06-23",
+        "pubLeg": "V",
+        "pubNr": "95",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/02/095/1989-06-23?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": [
+      "PEV"
+    ],
+    "TextosAprovados": null,
+    "Votacao": [
+      {
+        "ausencias": null,
+        "data": "1989-06-22",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> PRD</I>, <I> PEV</I><BR>Contra:<I>PSD</I><BR>Abstenção:<I>CDS</I>",
+        "id": "78476",
+        "publicacao": null,
+        "resultado": "Rejeitado",
+        "reuniao": "95",
+        "tipoReuniao": "RP",
+        "unanime": null
+      }
+    ]
+  }
+}
