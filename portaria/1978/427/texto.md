@@ -1,0 +1,5 @@
+Portaria n.º 427/78
+de 29 de Julho
+Uma vez verificadas as condições de que dependia a exoneração solicitada pela comissão executiva do Programa Autónomo de Trás-os-Montes, nomeada por despacho de 14 de Dezembro de 1974 e publicado no 1.º suplemento do Diário do Governo, 2.ª série, de 31 do mesmo mês:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano, da Agricultura e Pescas e da Habitação e Obras Públicas, ao abrigo do disposto no n.º 2 do artigo 11.º do Decreto-Lei n.º 126/74, de 30 de Março, exonerar a referida comissão, sendo os valores e encargos que geria transferidos para a Direcção Regional de Trás-os-Montes, que aquela dará em auto de entrega e recebimento e diligenciará a respectiva gerência.
+Ministérios das Finanças e do Plano, da Agricultura e Pescas e da Habitação e Obras Públicas, 18 de Julho de 1978. - O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio. - O Ministro da Agricultura e Pescas, Luís Silvério Gonçalves Saias. - O Ministro da Habitação e Obras Públicas, António Francisco Barroso de Sousa Gomes.
