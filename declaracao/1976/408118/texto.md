@@ -1,0 +1,4 @@
+Declaração
+Para os devidos efeitos se declara que a resolução do Conselho de Ministros respeitante a que futuramente nenhuma alteração de natureza salarial ou similar que abranja pessoal dependente dos quadros do Estado ou organismos ou empresas dele dependentes se faça sem prévio contacto entre os Ministérios interessados e audição do Conselho Nacional de Rendimentos e Preços, publicada no Diário da República, 1.ª série, n.º 257, de 3 de Novembro de 1976, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No sumário e no contexto, onde se lê: «Comissão Nacional de Rendimentos e Preços», deve ler-se: «Conselho Nacional de Rendimentos e Preços».
+Secretaria-Geral da Presidência do Conselho de Ministros, 22 de Novembro de 1976. - O Secretário-Geral, Alfredo Barroso.
