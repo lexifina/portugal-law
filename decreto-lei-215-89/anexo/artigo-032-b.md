@@ -1,7 +1,9 @@
 # Artigo 32.º-B
 
-### Regime fiscal dos empréstimos externos
+### Aquisição de acções em ofertas públicas de venda realizadas pelo Estado
 
-1 - Ficam isentos de IRS ou de IRC os juros de capitais provenientes do estrangeiro representativos de contratos de empréstimo Schuldscheindarlehen celebrados pelo IGCP, E. P. E., em nome e em representação da República Portuguesa, desde que o credor seja um não residente sem estabelecimento estável em território português ao qual o empréstimo seja imputado.
+1 - Para efeitos de IRS são dedutíveis ao rendimento colectável, e até à concorrência deste, 20% dos montantes aplicados na aquisição de acções em ofertas públicas de venda realizadas pelo Estado, com limite de 120 contos por sujeito passivo não casado ou 240 contos por ambos os cônjuges não separados judicialmente de pessoas e bens.
 
-2 - A isenção fiscal prevista no número anterior fica subordinada à verificação, pelo IGCP, E. P. E., da não residência dos credores em Portugal e da não existência de estabelecimento estável em território português ao qual o empréstimo seja imputado, até à data de pagamento do rendimento ou, caso o IGCP, E. P. E., não conheça nessa data o beneficiário efetivo, nos 60 dias posteriores ao respetivo conhecimento.
+2 - Para efeitos de IRS são dedutíveis ao rendimento colectável, e até à concorrência deste, 30% dos montantes aplicados na aquisição de acções em ofertas públicas de venda realizadas pelo Estado, com limite de 180 contos por sujeito passivo não casado ou 360 contos por ambos os cônjuges não separados judicialmente de pessoas e bens, quando a aquisição seja efectuada pelos próprios trabalhadores da empresa objecto de privatização.
+
+3 - Os benefícios previstos nos números anteriores não são acumuláveis quando se trate das mesmas acções.

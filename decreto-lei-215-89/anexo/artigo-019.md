@@ -13,3 +13,5 @@
 5 - São isentos de IRC os rendimentos auferidos pelos fundos de investimento imobiliário.
 
 6 - Os rendimentos distribuídos pelos fundos de investimento imobilário aos titulares de unidades de participação são considerados em apenas 80% do seu valor para fins de IRS ou IRC.
+
+7 - Para efeitos de IRS são dedutíveis ao rendimento colectável, e até à concorrência deste, 20% dos montantes aplicados durante o ano na aquisição de certificados em fundos de investimento mobiliário, com o limite máximo de 120 contos por sujeito passivo não casado ou 240 contos por ambos os cônjuges não separados judicialmente de pessoas e bens, desde que as acções cotadas representem mais de 40% do valor da carteira do fundo e os certificados sejam detidos pelos titulares pelo menos durante dois anos e estejam depositados numa instituição de crédito.
