@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se faz público que a República da Irlanda (29 de Julho de 1988), o Reino Hashemita da Jordânia (30 de Setembro de 1988), o Reino Unido da Grã-Bretanha e Irlanda do Norte (26 de Outubro de 1988), a República Democrática do Sri-Lanka (28 de Outubro de 1988) e a República dos Camarões (23 de Novembro de 1988) assinaram em Londres o Protocolo Suplementar à Convenção para a Supressão de Actos Ilícitos contra a Segurança da Aviação Civil.
+Direcção-Geral dos Negócios Político-Económicos, 27 de Fevereiro de 1989. - O Director de Serviços dos Assuntos Multilaterais, José Tadeu da Costa Sousa Soares.
