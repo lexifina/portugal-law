@@ -1,0 +1,72 @@
+Decreto n.º 20/99
+de 16 de Junho
+Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição da República Portuguesa, o Governo decreta o seguinte:
+Artigo único
+É aprovado o Acordo de Cooperação entre Instituições de Ensino Superior dos Países Membros da Comunidade dos Países de Língua Portuguesa, assinado na Praia, aos 17 de Julho de 1998, cuja versão autêntica segue em anexo.
+Visto e aprovado em Conselho de Ministros de 18 de Março de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Eduardo Carrega Marçal Grilo.
+Assinado em 26 de Abril de 1999.
+Publique-se.
+O Presidente da República, JORGE SAMPAIO.
+Referendado em 29 de Abril de 1999.
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+ACORDO DE COOPERAÇÃO ENTRE INSTITUIÇÕES DE ENSINO SUPERIOR DOS PAÍSES MEMBROS DA COMUNIDADE DOS PAÍSES DE LÍNGUA PORTUGUESA.
+Os Governos da República de Angola, da República Federativa do Brasil, da República de Cabo Verde, da República da Guiné-Bissau, da República de Moçambique, da República Portuguesa e da República Democrática de São Tomé e Príncipe:
+Considerando os princípios e objectivos enunciados nos Estatutos e na Declaração Constitutiva da Comunidade dos Países de Língua Portuguesa (CPLP), assinados em 17 de Julho de 1996;
+Cientes de que a cooperação entre instituições de ensino superior constitui instrumento essencial na consolidação de uma comunidade consciente da importância da educação e do valor da língua comum;
+Convictos de que o intercâmbio entre instituições de ensino superior é uma das formas mais profícuas de estímulo ao desenvolvimento científico, tecnológico e cultural dos Estados membros;
+Desejosos de dinamizar a cooperação entre as instituições de ensino superior, com vista à valorização dos recursos humanos nos Estados membros;
+Tendo em atenção as conclusões da 1.ª Conferência dos Ministros da Educação da Comunidade dos Países de Língua Portuguesa (CPLP), realizada em Lisboa, a 24 e 25 de Novembro de 1997;
+decidiram entre si a implementação do presente Acordo:
+Artigo 1.º
+Os Estados membros promoverão a cooperação entre instituições de ensino superior mediante actividades de apoio à educação e cultura, à pesquisa e ao desenvolvimento científico e tecnológico. Para tanto, cada país nomeará um órgão executor no máximo 60 dias após a sua entrada em vigor.
+Artigo 2.º
+1 - O presente Acordo tem por objectivos:
+a) A formação e o aperfeiçoamento de docentes e pesquisadores;
+b) O intercâmbio de informações e experiências;
+c) O intercâmbio de produções científicas, de documentação especializada e de publicações;
+d) O planejamento, implementação e desenvolvimento de projectos comuns;
+e) O conhecimento mútuo dos sistemas de ensino superior.
+2 - Os objectivos acima enumerados serão implementados mediante convénios celebrados entre instituições de ensino superior dos Estados membros.
+Artigo 3.º
+1 - Visando atingir os objectivos do artigo anterior, os Estados membros da CPLP promoverão as seguintes actividades:
+a) Intercâmbio de docentes e pesquisadores para a realização de cursos de pós-graduação em instituições de ensino superior;
+b) Intercâmbio de missões de ensino e pesquisa, de docentes e pesquisadores, de curta ou longa duração, com vista ao desenvolvimento do ensino de pós-graduação;
+c) Troca de documentação e publicação dos resultados das pesquisas realizadas conjuntamente;
+d) Elaboração e execução conjunta de projectos de pesquisa.
+2 - Tais actividades poderão ser executadas por universidades, centros de pesquisas ou outras instituições de ensino superior, observadas as disposições legais vigentes em cada Estado membro e as directrizes estabelecidas pelo Conselho de Ministros da CPLP.
+Artigo 4.º
+Os Estados membros envidarão esforços no sentido de facilitar o reconhecimento mútuo, pelas instituições de ensino superior, de títulos, diplomas e certificados, de acordo com as leis vigentes em cada país.
+Artigo 5.º
+Os Estados membros estimularão a assinatura de convénios entre instituições de ensino superior, no sentido de facilitar a equivalência dos diplomas emitidos por estas, de acordo com as leis vigentes em cada país.
+Artigo 6.º
+Cada Estado membro deverá informar os demais Estados de quaisquer modificações verificadas em seu sistema de ensino superior.
+Artigo 7.º
+Os programas e projectos de carácter multilateral, desenvolvidos no âmbito do presente Acordo, serão aprovados pela Conferência de Ministros da Educação da CPLP.
+Artigo 8.º
+1 - As divergências relacionadas com a interpretação ou implementação do presente Acordo serão dirimidas entre os Ministros da Educação da CPLP.
+2 - Caso não seja possível dirimir quaisquer divergências por negociação, cada Estado membro poderá solicitar que as mesmas sejam submetidas à decisão do Conselho de Ministros da CPLP.
+Artigo 9.º
+O presente Acordo poderá ser revisto de comum acordo por proposta de um dos Estados membros.
+Artigo 10.º
+1 - O presente Acordo entrará em vigor, para os dois primeiros Estados membros que o ratifiquem ou aprovem, 30 dias após o depósito do segundo instrumento de ratificação.
+2 - Para os demais signatários, entrará em vigor no 30.º dia após o depósito do respectivo instrumento de ratificação ou aprovação.
+Artigo 11.º
+1 - O Secretariado Executivo da CPLP será o depositário do presente Acordo, bem como dos instrumentos de ratificação ou aprovação.
+2 - O Secretariado Executivo da CPLP notificará aos Governos dos demais Estados membros a data de entrada em vigor do presente Acordo e a data de depósito dos instrumentos de ratificação ou aprovação.
+Feito e assinado na Praia, a 17 de Julho de 1998.
+Pelo Governo da República de Angola:
+António Brito da Silva Neto.
+Pelo Governo da República Federativa do Brasil:
+Luís Filipe Palmeira Lampreia.
+Pelo Governo da República de Cabo Verde:
+José Luís de Jesus.
+Pelo Governo da República da Guiné-Bissau:
+Fernando Delfim da Silva.
+Pelo Governo da República de Moçambique:
+Leonardo dos Santos Simão.
+Pelo Governo da República Portuguesa:
+Jaime José Matos da Gama.
+Pelo Governo da República Democrática de São Tomé e Príncipe:
+Homero Jerónimo Salvaterra.
+Marcolino Moco, secretário executivo.
