@@ -1,0 +1,49 @@
+# Acórdão do Supremo Tribunal Administrativo de 1993-05-06, processo 000257
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 000257
+
+**Data do Acordão:** 05/06/1993
+
+**Tribunal:** CONFLITOS
+
+**Relator:** BALTAZAR COELHO
+
+**Descritores:** FALÊNCIA; APENSAÇÃO; EXECUÇÃO FISCAL; REMESSA DO PROCESSO AO TRIBUNAL COMPETENTE
+
+**Nº Convencional:** JSTA00037107
+
+**Nº do Documento:** SAC19930506000257
+
+**Recorrente:** MINISTERIO PUBLICO
+
+**Recorrido 1:** JUIZ DO TRIBUNAL JUDICIAL DA COMARCA DE SINTRA
+
+**Recorrido 2:** CHEFE DA 3 REPARTIÇÃO DE FINANÇAS DO CONCELHO SINTRA-AGUALVA-CACEM
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 93
+
+**Privacidade:** 01
+
+**Meio Processual:** CONFLITO.
+
+**Objecto:** POSITIVO JURISDIÇÃO TJ SINTRA - RF SINTRA.
+
+**Decisão:** DECL COMPETENTE 3J TJ SINTRA.
+
+**Área Temática 1:** DIR PROC TRIBUT CONT - EXEC FISCAL.
+
+**Área Temática 2:** DIR PROC CIV.
+
+**Legislação Nacional:** CPTRIB91 ART264 ART300.; CPCI63 ART167 PAR1 - PAR4 ART168 ART193 PARÚNICO.; CPC67 ART63 ART73 ART920 ART1141 N2 B C ART1142 N3 ART1146 N1 ART1148N1 N3 ART1152 N2 ART1176 N1 A ART1198 N1 N2 ART1205 N1 N2 ART1224 ART1241 ART1303-A.; DL 177/86 DE 1986/07/02 ART56.
+
+**Jurisprudência Nacional:** AC STA DE 1989/06/06 IN BMJ N388 PAG402.; AC STA DE 1990/05/09 IN BMJ N397 PAG292.; AC STA PROC13839 DE 1992/05/06.; AC STA PROC14451 DE 1992/10/14.
+
+**Referência a Doutrina:** MENEZES CORDEIRO IN O DIREITO N120 VI-II PAG85.; PAVÃO LEAL DAS FALÊNCIAS E CONCORDATA VI PAG137.; PEDRO MACEDO MANUAL DE DIREITO DE FALÊNCIAS VI PAG13 PAG416 VII PAG110 PAG131 PAG291.; ALBERTO DOS REIS PROCESSOS ESPECIAIS VII PAG342.; TRAFANO DE MIRANDA VALVERDE COMENTÁRIO À LEI DE FALÊNCIA VI PAG101.; RUBEN DE CARVALHO E OUTRO CÓDIGO DO PROCESSO DAS CONTRIBUIÇÕES E IMPOSTOS ANOTADO 1ED V2 PAG186.; Texto Integral
+
+## Sumário
+
+Tendo o Tribunal, que decretou a falência duma sociedade, requisitado, para apensação aos respectivos autos, o processo de execução fiscal pendente contra a falida, deve a Repartição de Finanças, onde corre aquele último processo, proceder à sua remessa ao requisitante.*
