@@ -1,0 +1,60 @@
+Portaria n.º 509/90
+de 5 de Julho
+Sob proposta das comissões instaladoras do Instituto Politécnico de Beja e da sua Escola Superior de Educação;
+Ao abrigo do disposto no n.º 2 do artigo 1.º do Decreto Regulamentar n.º 63/87, de 17 de Dezembro;
+Considerando o disposto no artigo 13.º da Lei de Bases do Sistema Educativo (Lei n.º 46/86, de 14 de Outubro);
+Considerando o disposto na Portaria n.º 374/90, de 14 de Maio:
+Manda o Governo, pelo Ministro da Educação, aprovar o seguinte:
+1.º
+Diploma de estudos superiores especializados
+O modelo de diploma de estudos superiores especializados conferido pelo Instituto Politécnico de Beja, através da sua Escola Superior de Educação, aos estudantes que concluam o curso de Professores do Ensino Básico a que se refere o n.º 9.º da Portaria n.º 352/86, de 8 de Julho, regulamentando o disposto no n.º 2 do artigo 3.º do Decreto-Lei n.º 59/86, de 21 de Março, é o constante do anexo I a esta portaria.
+2.º
+Carta de curso do grau de licenciado
+O modelo de carta de curso do grau de licenciado em Educação conferido pelo Instituto Politécnico de Beja através da sua Escola Superior de Educação aos estudantes que concluam o curso de Professores do Ensino Básico a que se refere o n.º 9.º da Portaria n.º 352/86, de 8 de Julho, regulamentando o disposto no n.º 2 do artigo 3.º do Decreto-Lei n.º 59/86, de 21 de Março, é o constante do anexo II a esta portaria.
+Ministério da Educação.
+Assinada em 6 de Junho de 1990.
+Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
+
+ANEXO I
+Diploma
+R (ver nota a) P
+... (ver nota b), presidente da comissão instaladora do Instituto Politécnico de Beja, faz saber que ... (ver nota c), natural de ... (ver nota d), conclui em ... (ver nota e), na Escola Superior de Educação deste Instituto, o curso de Professores do Ensino Básico na variante de ... (ver nota f), com a classificação final de ... (ver nota g), pelo que, em conformidade com as disposições legais em vigor, lhe mandei passar o presente diploma de estudos superiores especializados.
+Instituto Politécnico de Beja, ... (ver nota h).
+O Presidente da Comissão Instaladora do Instituto Politécnico de Beja, ... (ver nota i).
+O Presidente da Comissão Instaladora da Escola Superior de Educação de Beja, ... (ver nota j).
+O Administrador, ... (ver nota l).
+O Secretário da Escola Superior de Educação de Beja, ... (ver nota m).
+(nota a) Símbolo do Instituto Politécnico de Beja.
+(nota b) Nome do presidente da comissão instaladora do Instituto Politécnico de Beja.
+(nota c) Nome titular do diploma.
+(nota d) Freguesia, concelho e distrito de naturalidade do titular do diploma.
+(nota e) Data de conclusão do curso.
+(nota f) Designação da variante.
+(nota g) Classificação final calculada nos termos da Portaria n.º 768/89, de 5 de Setembro.
+(nota h) Data de emissão do diploma.
+(nota i) Assinatura do presidente da comissão instaladora do Instituto Politécnico de Beja autenticada pelo selo branco do Instituto Politécnico.
+(nota j) Assinatura do presidente da comissão instaladora da Escola Superior de Educação do Instituto Politécnico de Beja.
+(nota l) Assinatura do administrador do Instituto Politécnico de Beja autenticada pelo selo branco do Instituto Politécnico, inutilizando as estampilhas fiscais do valor fixado na Tabela do Imposto do Selo.
+(nota m) Assinatura do secretário da Escola Superior da Educação do Instituto Politécnico de Beja.
+
+ANEXO II
+Carta de curso
+R (ver nota a) P
+... (ver nota b), presidente da comissão instaladora do Instituto Politécnico de Beja, faz saber que ... (ver nota c), natural de ... (ver nota d), concluiu em ... (ver nota e), na Escola Superior de Educação deste Instituto, o curso de Professores do Ensino Básico na variante de ... (ver nota f), pelo que, nos termos do n.º 2.º da Portaria n.º 374/90, de 14 de Maio, lhe é conferido o grau de licenciado em Educação na variante de ... (ver nota f), com a classificação de ... (ver nota g) valores.
+Instituto Politécnico de Beja, ... (ver nota h).
+O Presidente da Comissão Instaladora do Instituto Politécnico de Beja, ... (ver nota i).
+O Presidente da Comissão Instaladora da Escola Superior de Educação de Beja, ... (ver nota j).
+O Administrador, ... (ver nota l).
+O Secretário da Escola Superior de Educação de Beja, ... (ver nota m).
+(nota a) Símbolo do Instituto Politécnico de Beja.
+(nota b) Nome do presidente da comissão instaladora do Instituto Politécnico de Beja.
+(nota c) Nome do titular do grau.
+(nota d) Freguesia, concelho e distrito de naturalidade do titular do diploma.
+(nota e) Data de conclusão do curso de Professores do Ensino Básico.
+(nota f) Designação da variante.
+(nota g) Classificação final calculada nos termos da Portaria n.º 768/89, de 5 de Setembro.
+(nota h) Data de emissão da carta de curso.
+(nota i) Assinatura do presidente da comissão instaladora do Instituto Politécnico de Beja autenticada pelo selo branco do Instituto Politécnico.
+(nota j) Assinatura do presidente da comissão instaladora da Escola Superior de Educação do Instituto Politécnico de Beja.
+(nota l) Assinatura do administrador do Instituto Politécnico de Beja autenticada pelo selo branco do Instituto Politécnico, inutilizando as estampilhas fiscais do valor fixado na Tabela do Imposto do Selo.
+(nota m) Assinatura do secretário da Escola Superior de Educação do Instituto Politécnico de Beja.
