@@ -12,14 +12,14 @@ a) Pelos titulares dos valores mobiliários, em relação aos elementos constant
 
 b) Pelos titulares de direitos de usufruto, de penhor e de outras situações jurídicas que onerem valores mobiliários registados, em relação aos respectivos direitos;
 
-c) Pelos emitentes, em relação a elementos constantes das contas de valores mobiliários, necessários para a identificação dos respetivos titulares ou para o exercício de direitos inerentes aos mesmos.
+c) Pelos emitentes, em relação a elementos constantes das contas de valores mobiliários nominativos.
 
 2 - O dever de informação abrange os elementos constantes dos documentos que serviram de base aos registos.
 
 3 - Se os valores mobiliários estiverem integrados em sistema centralizado, os pedidos de informação pelos emitentes podem ser dirigidos à entidade gestora desse sistema, que os transmite a cada uma das entidades registadoras.
 
-4 - A entidade registadora envia a cada um dos titulares de valores mobiliários registados:
+4 - A entidade registadora deve tomar a iniciativa de enviar a cada um dos titulares de valores mobiliários registados:
 
-a) O extrato periódico relativo aos bens pertencentes ao património do cliente;
+a) Em cada período de três meses, ou outro menor que seja contratualmente acordado, extractos das contas abertas em seu nome, com indicação dos movimentos efectuados e do saldo apurado no final do período;
 
 b) Os elementos necessários para o atempado cumprimento das obrigações fiscais.

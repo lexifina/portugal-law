@@ -11,5 +11,3 @@
 2 - Os sistemas centralizados de valores mobiliários só podem ser geridos por entidades que preencham os requisitos fixados em lei especial.
 
 3 - O disposto na presente secção não é aplicável aos sistemas centralizados directamente geridos pelo Banco de Portugal.
-
-4 - O disposto no presente Código sobre sistemas centralizados e suas entidades gestoras aplica-se ao registo inicial e à administração de sistema de registo centralizado e suas entidades gestoras, com as devidas adaptações.

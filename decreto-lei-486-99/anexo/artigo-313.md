@@ -1,33 +1,29 @@
-## Subsecção IX
-
-## Benefícios ilegítimos
-
 # Artigo 313.º
 
-### Proibição de benefícios ilegítimos e deveres de divulgação
+### Informação às entidades gestoras dos mercados e à CMVM
 
-1 - O intermediário financeiro não pode, relativamente à prestação de uma actividade de intermediação financeira ao cliente, oferecer a terceiros ou deles receber qualquer remuneração, comissão ou benefício não pecuniário, excepto se:
+1 - Os intermediários financeiros com sede em território nacional declaram às entidades gestoras dos mercados regulamentados as operações por si intermediadas que tenham como objecto os seguintes instrumentos financeiros, quando admitidos à negociação num mercado regulamentado situado ou a funcionar em Estado membro da Comunidade Europeia:
 
-a) A existência, a natureza e o montante da remuneração, comissão ou benefício não pecuniário, ou, se o montante não puder ser determinado, o seu método de cálculo, forem divulgados ao cliente, de modo completo, verdadeiro e claro, nos termos previstos no número seguinte e, quando aplicável, for prestada informação sobre os mecanismos para a transferência para o cliente da remuneração, comissão ou benefício pecuniário ou não pecuniário recebido; e
+a) Acções e valores mobiliários que conferem direito à sua subscrição ou aquisição;
 
-b) O pagamento da remuneração ou comissão ou a concessão do benefício não pecuniário reforçarem a qualidade da actividade prestada ao cliente e não prejudicarem o respeito do dever de actuar no sentido da protecção dos legítimos interesses do cliente;
+b) Obrigações;
 
-c) O pagamento de remunerações adequadas, tais como custos de custódia, comissões de compensação e troca, taxas obrigatórias ou despesas de contencioso, possibilite ou seja necessário para a prestação da atividade de intermediação financeira e que pela sua própria natureza não sejam suscetíveis de originar conflitos com o dever de o intermediário financeiro atuar de forma honesta, equitativa e profissional, no sentido da proteção dos legítimos interesses do cliente.
+c) Contratos a prazo padronizados relativos a acções;
 
-2 - Para efeitos da alínea a) do número anterior:
+d) Opções padronizadas relativas a acções.
 
-a) O intermediário financeiro, antes da prestação da atividade de intermediação financeira em causa, transmite ao cliente informações, relativamente a qualquer pagamento ou benefício recebido de terceiros ou pago a terceiros, devendo indicar separadamente os benefícios não monetários recebidos ou pagos pelo intermediário financeiro e a respetiva quantificação, no contexto do serviço de investimento prestado a um cliente;
+2 - Da declaração a que se refere o número anterior deve constar, além da identificação do intermediário financeiro que efectuou a operação, o tipo, a quantidade e o preço dos instrumentos financeiros negociados, bem como a data e hora da operação.
 
-3 - (Revogado).
+3 - A declaração é feita imediatamente após a realização da operação, por escrito, e, conforme a natureza da operação, deve ser feita à entidade gestora do mercado regulamentado a contado ou a prazo.
 
-4 - (Revogado).
+4 - Quando o próprio sistema de negociação realize o registo das operações, a declaração considera-se feita no momento e através desse registo.
 
-5 - (Revogado).
+5 - As entidades gestoras dos mercados regulamentados asseguram as condições para que a CMVM disponha imediatamente das informações comunicadas.
 
-6 - (Revogado).
+6 - A declaração a que se refere o presente artigo é dispensada se as operações a comunicar se realizarem num mercado regulamentado situado ou a funcionar noutro Estado membro da Comunidade Europeia que imponha o mesmo dever de comunicação, salvo se respeitarem a valores mobiliários negociados em mercado regulamentado situado ou a funcionar em Portugal.
 
-7 - (Revogado).
+7 - As sociedades autorizadas a exercer actividades de intermediação financeira em Portugal e os titulares de participações qualificadas nessas sociedades estão sujeitos aos deveres de informação de participações qualificadas nos termos dos artigos 102.º, 104.º, 105.º, 107.º, 108.º e 110.º do Regime Geral das Instituições de Crédito e das Sociedades Financeiras, com as seguintes adaptações:
 
-8 - No cumprimento dos deveres previstos no presente artigo, o intermediário financeiro tem em conta os deveres em matéria de custos e encargos previstos na alínea h) do n.º 1 do artigo 312.º e respetiva regulamentação.
+a) Devem ser feitas também à CMVM as comunicações dirigidas ao Banco de Portugal;
 
-9 - Quando mais do que um intermediário financeiro esteja envolvido num canal de distribuição, cada entidade que presta um serviço de investimento ou auxiliar cumpre os seus deveres em matéria de divulgação de informações relativamente aos seus clientes.
+b) A CMVM divulga, pelo menos anualmente, uma lista com a identidade dos titulares daquelas participações qualificadas.

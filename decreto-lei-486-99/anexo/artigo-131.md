@@ -1,7 +1,7 @@
 # Artigo 131.º
 
-### Retirada e proibição da oferta
+### Retirada da oferta
 
-1 - A CMVM deve, consoante o caso, ordenar a retirada da oferta ou proibir o seu lançamento, se verificar que esta enferma de alguma ilegalidade ou violação de regulamento insanáveis.
+1 - A CMVM deve ordenar a retirada da oferta se verificar que esta enferma de alguma ilegalidade ou violação de regulamento insanáveis.
 
-2 - As decisões de retirada e de proibição são publicadas, a expensas do oferente, através de meios iguais aos utilizados para a divulgação do prospeto ou documento exigível de acordo com a legislação da União Europeia.
+2 - A decisão de retirada é publicada pela CMVM, a expensas do oferente, nos mesmos termos em que foi divulgado o anúncio de lançamento.

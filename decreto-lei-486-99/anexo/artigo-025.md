@@ -2,7 +2,7 @@
 
 ### Aumento de capital social
 
-As ações emitidas por sociedade emitente de ações admitidas à negociação em mercado regulamentado constituem uma categoria autónoma:
+As acções emitidas por sociedade aberta constituem uma categoria autónoma:
 
 a) Pelo prazo de 30 dias contados da deliberação de aumento de capital; ou
 

@@ -2,7 +2,7 @@
 
 ### Regulamentação do sistema centralizado de valores mobiliários
 
-1 - A CMVM elabora os regulamentos necessários à concretização e ao desenvolvimento das disposições relativas aos valores mobiliários escriturais e titulados integrados em sistema centralizado, ouvidas as entidades gestoras, nomeadamente quanto aos seguintes aspetos:
+A CMVM elabora os regulamentos necessários à concretização e ao desenvolvimento das disposições relativas aos valores mobiliários escriturais e titulados integrados em sistema centralizado, ouvidas as entidades gestoras, nomeadamente quanto aos seguintes aspectos:
 
 a) Sistema de contas e regras a que deve obedecer;
 
@@ -23,5 +23,3 @@ h) Prestação do serviço de registo ou de depósito de valores mobiliários po
 i) Procedimentos a adoptar nas relações operacionais entre sistemas centralizados a funcionar em Portugal ou no estrangeiro;
 
 j) Termos em que pode ser ilidida a presunção a que se refere o n.º 3 do artigo 74.º
-
-2 - O número anterior aplica-se quando os valores mobiliários estão em registo inicial ou em administração de sistema de registo centralizado.

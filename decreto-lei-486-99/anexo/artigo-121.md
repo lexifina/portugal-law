@@ -6,9 +6,9 @@
 
 a) Obedecer aos princípios enunciados no artigo 7.º;
 
-b) Referir a existência ou a disponibilidade futura de prospeto ou de documento exigível de acordo com a legislação da União Europeia e indicar as modalidades de acesso ao mesmo;
+b) Referir a existência ou a disponibilidade futura de prospecto;
 
-c) Harmonizar-se com o conteúdo dos documentos referidos na alínea anterior.
+c) Harmonizar-se com o conteúdo do prospecto.
 
 2 - Todo o material publicitário relacionado com a oferta pública está sujeito a aprovação prévia pela CMVM.
 

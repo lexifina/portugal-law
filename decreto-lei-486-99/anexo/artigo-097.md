@@ -8,7 +8,7 @@ a) Número de ordem;
 
 b) Quantidade de direitos representados no título e, se for o caso, valor nominal global;
 
-c) Identificação do titular.
+c) Identificação do titular, nos títulos nominativos.
 
 2 - Os títulos são assinados, ainda que através de chancela, por um titular do órgão de administração do emitente.
 

@@ -26,4 +26,4 @@ j) Outras referências que sejam exigidas pela natureza ou pelas característica
 
 2 - As menções referidas no número anterior devem incluir a data da inscrição e a referência abreviada aos documentos que lhes serviram de base.
 
-3 - Se os valores mobiliários tiverem sido emitidos por entidade que tenha como lei pessoal uma lei estrangeira, o registo é efectuado, no que respeita às menções equivalentes às referidas nas alíneas a) e b) do n.º 1 do artigo 44.º, com base em declaração do requerente, acompanhada do parecer jurídico previsto no n.º 1 do artigo 231.º, quando exigido nos termos deste artigo.
+3 - Se os valores mobiliários tiverem sido emitidos por entidade que tenha como lei pessoal uma lei estrangeira, o registo é efectuado, no que respeita às menções equivalentes às referidas nas alíneas a) e b) do n.º 1 do artigo 44.º, com base em declaração do requerente, acompanhada dos pareceres jurídicos previstos no n.º 1 do artigo 231.º e no artigo 117.º ou da nota comparativa prevista no n.º 1 do artigo 146.º, quando exigidos por algum destes preceitos.

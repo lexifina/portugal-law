@@ -1,13 +1,9 @@
 # Artigo 226.º
 
-### Deveres dos membros
+### Direitos inerentes
 
-1 - Os membros de mercado regulamentado devem:
+1 - Os direitos patrimoniais inerentes aos valores mobiliários vendidos pertencem ao comprador desde a data da operação.
 
-a) Acatar as decisões dos órgãos da entidade gestora do mercado regulamentado que sejam tomadas no âmbito das disposições legais e regulamentares aplicáveis no mercado onde actuam; e
+2 - O comprador paga ao vendedor, além do preço formado, os juros e outras remunerações certas correspondentes ao tempo decorrido após o último vencimento até à data da liquidação da operação.
 
-b) Prestar à entidade gestora do mercado regulamentado as informações necessárias à boa gestão dos mercados, ainda que tais informações estejam sujeitas a segredo profissional.
-
-2 - Cada um dos membros do mercado regulamentado designa um titular do seu órgão de administração, ou um representante com poderes bastantes, como interlocutor directo perante a entidade gestora do mercado regulamentado e a CMVM.
-
-3 - (Revogado).
+3 - O disposto nos números anteriores não exclui diferente regime de atribuição de direitos inerentes aos valores mobiliários transaccionados, desde que tal regime seja prévia e claramente publicado nos termos previstos nas regras do mercado.

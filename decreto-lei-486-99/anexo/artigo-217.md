@@ -1,15 +1,7 @@
-## Secção II
-
-## Mercados regulamentados
-
-## Subsecção I
-
-## Disposições gerais
-
 # Artigo 217.º
 
-### Autorização
+### Funções dos membros da bolsa
 
-1 - A constituição e extinção dos mercados regulamentados depende de autorização requerida pela respectiva entidade gestora e concedida pelo Ministro das Finanças, mediante portaria e ouvida a CMVM.
+1 - Os membros da bolsa que apenas exerçam funções de negociação só podem ser admitidos após terem celebrado contrato com um ou mais membros que assegurem a liquidação das operações por eles negociadas.
 
-2 - A CMVM comunica aos Estados Membros e à Autoridade Europeia dos Valores Mobiliários e dos Mercados a lista atualizada dos mercados regulamentados registados nos termos do disposto no artigo 202.º.
+2 - Só podem ser membros liquidadores os participantes em sistema de liquidação utilizado pela bolsa, que estejam autorizados a realizar operações por conta própria.

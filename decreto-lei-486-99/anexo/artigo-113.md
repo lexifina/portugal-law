@@ -2,7 +2,7 @@
 
 ### Intermediação obrigatória
 
-1 - As ofertas públicas relativas a valores mobiliários em que seja exigível prospecto devem ser realizadas com intervenção de intermediário financeiro, que presta pelo menos os seguintes serviços:
+1 - As ofertas públicas relativas a valores mobiliários devem ser realizadas com intervenção de intermediário financeiro, que presta pelo menos os seguintes serviços:
 
 a) Assistência e colocação, nas ofertas públicas de distribuição;
 

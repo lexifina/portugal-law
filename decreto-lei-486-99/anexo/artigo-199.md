@@ -1,7 +1,13 @@
 # Artigo 199.º
 
-### Mercados regulamentados
+### Mercados permitidos
 
-1 - São mercados regulamentados os sistemas que, tendo sido autorizados como tal por qualquer Estado membro da União Europeia, são multilaterais e funcionam regularmente a fim de possibilitar o encontro de interesses relativos a instrumentos financeiros com vista à celebração de contratos sobre tais instrumentos.
+1 - É permitido o funcionamento em Portugal dos seguintes mercados de valores mobiliários:
 
-2 - Os mercados regulamentados autorizados nos termos do artigo 217.º obedecem aos requisitos fixados no capítulo ii do presente título.
+a) Mercados de bolsa;
+
+b) Outros mercados regulamentados;
+
+c) Mercados organizados de acordo com regras livremente estabelecidas pela respectiva entidade gestora.
+
+2 - Os mercados de valores mobiliários estão sujeitos a registo na CMVM e só podem ser geridos por entidades que preencham os requisitos fixados em lei especial.

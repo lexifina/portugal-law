@@ -12,10 +12,10 @@
 
 1 - Através do Ministro das Finanças, o Governo pode:
 
-a) Estabelecer políticas relativas ao mercado de instrumentos financeiros e, em geral, às matérias reguladas no presente Código e em legislação complementar;
+a) Estabelecer políticas relativas aos mercados de valores mobiliários e, em geral, às matérias reguladas neste Código e em legislação complementar;
 
-b) Solicitar à CMVM informações e esclarecimentos nos termos previstos pelos estatutos desta entidade;
+b) Exercer, em relação à CMVM, os poderes de tutela conferidos pelo estatuto desta entidade;
 
-c) (Revogada).
+c) Coordenar a supervisão e a regulação relativas a valores mobiliários, quando a competência pertença a mais de uma entidade pública.
 
-2 - Sem prejuízo das competências da CMVM, quando no mercado de instrumentos financeiros se verifique perturbação que ponha em grave risco a economia nacional ou as finanças públicas, o Governo pode, por portaria conjunta do Primeiro-Ministro e do membro do Governo responsável pela área das finanças, ordenar as medidas apropriadas, nomeadamente a suspensão temporária de mercados regulamentados ou sistemas de negociação multilateral ou organizado, de certas categorias de operações ou da atividade de entidades gestoras de mercados regulamentados, de sistemas de negociação multilateral ou organizado, de sistemas de liquidação, de câmaras de compensação, de sistemas centralizados de valores mobiliários, de registo inicial ou de administração de sistema de registo centralizado, de contrapartes centrais ou de quaisquer operações ou atividades sujeitas à supervisão da CMVM.
+2 - Quando nos mercados de valores mobiliários se verifique perturbação que ponha em grave risco a economia nacional, pode o Governo, por portaria conjunta do Primeiro-Ministro e do Ministro das Finanças, ordenar as medidas apropriadas, nomeadamente a suspensão temporária de mercados, de certas categorias de operações ou da actividade de entidades gestoras de mercados, de entidades gestoras de sistemas de liquidação e de entidades gestoras de sistemas centralizados de valores mobiliários.

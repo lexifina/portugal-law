@@ -1,13 +1,11 @@
 # Artigo 218.º
 
-### Acordos entre entidades gestoras
+### Deveres dos membros da bolsa
 
-1 - As entidades gestoras de mercados regulamentados situados ou a funcionar em Portugal podem acordar, entre si, sistemas de conexão informativa ou operativa se o bom funcionamento dos mercados por elas geridos e os interesses dos investidores o aconselharem.
+1 - Além da observância dos deveres próprios da actividade de intermediação que exercem, os membros da bolsa devem:
 
-2 - As entidades gestoras de mercados regulamentados situados ou a funcionar em Portugal podem celebrar acordos com entidades congéneres de outros Estados, prevendo nomeadamente:
+a) Acatar as decisões dos órgãos da entidade gestora da bolsa que sejam tomadas no âmbito das disposições legais e regulamentares aplicáveis no mercado onde actuam;
 
-a) Que em cada um deles sejam negociados instrumentos financeiros admitidos à negociação no outro;
+b) Prestar à entidade gestora da bolsa as informações necessárias à boa gestão dos mercados, ainda que tais informações estejam sujeitas a segredo profissional.
 
-b) Que os membros de cada um dos mercados regulamentados possam intervir no outro.
-
-3 - Os acordos a que se referem os números anteriores são previamente comunicados à CMVM, a qual, nos 15 dias após a comunicação, pode deduzir oposição, no caso do n.º 2, se o mercado regulamentado situado ou a funcionar em Estado não membro da União Europeia não impuser níveis de exigência similares aos do mercado regulamentado situado ou a funcionar em Portugal quanto à admissão dos instrumentos financeiros à negociação e à informação a prestar ao público e não forem assegurados outros requisitos de protecção dos investidores.
+2 - Cada um dos membros da bolsa designa um titular do seu órgão de administração, ou um representante com poderes bastantes, como interlocutor directo perante a entidade gestora da bolsa e a CMVM.

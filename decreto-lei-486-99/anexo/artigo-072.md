@@ -6,7 +6,7 @@
 
 a) Em relação aos quais tenham sido passados certificados para exercício de direitos a eles inerentes, durante o prazo de vigência indicado no certificado, quando o exercício daqueles direitos dependa da manutenção da titularidade até à data desse exercício;
 
-b) Por iniciativa de intermediário financeiro, quanto aos valores mobiliários em relação aos quais lhe tenha sido dada ou transmitida ordem de venda em mercado regulamentado ou em sistema de negociação multilateral ou organizado.
+b) Em relação aos quais tenha sido passado certificado para valer como título executivo, devendo o bloqueio manter-se até à devolução do original do certificado ou até à apresentação de certidão da decisão final do processo executivo;
 
 c) Que sejam objecto de penhora ou de outros actos de apreensão judicial, enquanto esta se mantiver;
 
@@ -17,8 +17,6 @@ d) Que sejam objecto de oferta pública de venda ou, quando já tenham sido emit
 a) Por iniciativa do titular, em qualquer caso;
 
 b) Por iniciativa de intermediário financeiro, quanto aos valores mobiliários em relação aos quais lhe tenha sido dada ou transmitida ordem de venda em mercado registado.
-
-c) Por iniciativa do emitente, quanto à totalidade dos valores mobiliários de uma mesma categoria, desde que tal faculdade esteja prevista nos termos e condições da emissão.
 
 3 - O bloqueio consiste num registo em conta, com indicação do seu fundamento, do prazo de vigência e da quantidade de valores mobiliários abrangidos.
 

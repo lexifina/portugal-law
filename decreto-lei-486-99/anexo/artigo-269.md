@@ -8,6 +8,6 @@ a) Do acordo constitutivo e das alterações aprovadas por todos os participante
 
 b) De regras aprovadas pela entidade gestora.
 
-2 - As regras referidas na alínea b) do número anterior e respetivas alterações são comunicadas pela entidade gestora à CMVM, acompanhadas de breve análise explicativa das mesmas com uma antecedência mínima de 15 dias úteis face à data pretendida para a respetiva entrada em vigor.
+2 - As regras do sistema vigoram a partir do seu registo na CMVM e são aplicáveis à entidade gestora e a todos os participantes.
 
-3 - A entidade gestora divulga as regras, com indicação da respetiva data de entrada em vigor.
+3 - A CMVM recusa o registo das regras do sistema ou impõe modificações sempre que as considere insuficientes ou contrárias a disposição legal ou regulamentar.

@@ -2,7 +2,7 @@
 
 ### Suspensão de deliberação social
 
-1 - A providência cautelar de suspensão de deliberação social tomada por sociedade emitente de ações admitidas à negociação em mercado regulamentado só pode ser requerida por acionistas que, isolada ou conjuntamente, sejam titulares de ações correspondentes, pelo menos, a 0,5 % do capital social.
+1 - A providência cautelar de suspensão de deliberação social tomada por sociedade aberta só pode ser requerida por sócios que, isolada ou conjuntamente, possuam acções correspondentes, pelo menos, a 0,5% do capital social.
 
 2 - Qualquer accionista pode, porém, instar, por escrito, o órgão de administração a abster-se de executar deliberação social que considere inválida, explicitando os respectivos vícios.
 

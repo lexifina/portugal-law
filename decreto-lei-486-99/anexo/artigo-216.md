@@ -1,21 +1,11 @@
 # Artigo 216.º
 
-### Regulamentação
+### Admissão dos membros da bolsa
 
-1 - A CMVM elabora os regulamentos necessários à concretização do disposto no presente título, nomeadamente sobre as seguintes matérias:
+1 - A admissão como membro dos mercados de bolsa e a manutenção dessa qualidade dependem, além dos requisitos definidos no artigo 203.º, da observância das condições fixadas pela entidade gestora da bolsa, quanto à sua organização, aos meios materiais exigíveis e à idoneidade e aptidão profissional das pessoas que actuem em seu nome.
 
-a) Processo de registo dos mercados regulamentados e sistemas de negociação multilateral ou organizado e das regras aos mesmos subjacentes;
+2 - A entidade gestora de uma bolsa não pode limitar o número máximo dos seus membros.
 
-b) Processo de comunicação de regras que não imponham a verificação da sua legalidade, suficiência e adequação;
+3 - A qualidade de membro da bolsa não depende da titularidade de qualquer parcela do capital social da sociedade gestora.
 
-c) Informações a prestar à CMVM pelas entidades gestoras de mercados regulamentados e de sistemas de negociação multilateral ou organizado;
-
-d) Informações a prestar ao público pelas entidades gestoras de mercados regulamentados e de sistemas de negociação multilateral ou organizado e pelos emitentes de valores mobiliários admitidos à negociação, designadamente quanto ao conteúdo da informação, aos meios e aos prazos em que deve ser prestada ou publicada;
-
-e) Informações relativas aos dados de negociação a incluir no boletim do mercado regulamentado e do sistema de negociação multilateral ou organizado.
-
-2 - (Revogado).
-
-3 - (Revogado).
-
-4 - (Revogado).
+4 - Os membros de um mercado regulamentado de outro Estado membro da Comunidade Europeia podem tornar-se membros das bolsas situadas ou a funcionar em Portugal ou a elas ter acesso, directa ou indirectamente, bem como ter acesso aos sistemas de liquidação acessíveis aos seus membros.

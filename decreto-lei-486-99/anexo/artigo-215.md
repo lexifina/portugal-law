@@ -1,13 +1,13 @@
 # Artigo 215.º
 
-### Efeitos da suspensão e da exclusão
+### Acordos entre bolsas
 
-1 - A decisão de suspensão ou de exclusão produz efeitos imediatos.
+1 - As entidades gestoras de bolsas situadas ou a funcionar em Portugal devem acordar, entre si, sistemas de conexão informativa ou operativa exigidos pelo bom funcionamento dos mercados por elas geridos e pelos interesses dos investidores.
 
-2 - A suspensão mantém-se pelo tempo estritamente necessário à regularização da situação que lhe deu origem.
+2 - As entidades gestoras de bolsas situadas ou a funcionar em Portugal podem celebrar acordos com entidades congéneres de outros Estados, prevendo nomeadamente:
 
-3 - A suspensão da negociação não exonera o emitente do cumprimento das obrigações de informação a que esteja sujeito.
+a) Que em cada uma delas sejam negociados valores mobiliários admitidos à negociação na outra;
 
-4 - Se a tal não obstar a urgência da decisão, a entidade gestora de mercado regulamentado notifica o emitente para se pronunciar sobre a suspensão ou a exclusão no prazo que para o efeito lhe fixar.
+b) Que os membros de cada uma das bolsas possam intervir na outra.
 
-5 - Quando seja informada pela autoridade competente de outro Estado membro da União Europeia da respetiva decisão relativa à suspensão ou exclusão da negociação de um instrumento financeiro ou derivado relativo ou indexado ao mesmo, a CMVM ordena a suspensão ou exclusão da negociação dos instrumentos financeiros negociados numa plataforma de negociação ou por internalizador sistemático registado em Portugal, exceto quando tal puder causar prejuízos significativos aos interesses dos investidores ou ao bom funcionamento dos mercados.
+3 - Os acordos a que se referem os números anteriores são registados na CMVM, devendo o registo ser recusado, no caso do n.º 2, se a bolsa situada ou a funcionar em Estado estrangeiro não impuser níveis de exigência similares aos da bolsa situada ou a funcionar em Portugal quanto à admissão dos valores mobiliários à negociação, à informação a prestar ao público e a outros requisitos de protecção dos investidores.

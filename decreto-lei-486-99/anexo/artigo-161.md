@@ -1,11 +1,3 @@
-## Capítulo II
-
-## Ofertas de valores mobiliários ao público
-
-## Secção I
-
-## Disposições gerais
-
 # Artigo 161.º
 
 ### Distribuição incompleta

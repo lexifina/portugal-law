@@ -12,7 +12,7 @@ c) A que se aplique o direito português por força de cláusula expressa do res
 
 d) Tenham adoptado regras compatíveis com este Código, os regulamentos da CMVM e do Banco de Portugal.
 
-2 - Para efeitos do registo são entregues à CMVM os seguintes elementos:
+2 - Do registo constam os seguintes elementos actualizados:
 
 a) O acordo celebrado entre os participantes;
 
@@ -22,4 +22,4 @@ c) Elementos de identificação da entidade gestora, quando exista, incluindo os
 
 d) As regras aprovadas pela entidade gestora.
 
-3 - Sem prejuízo do disposto em norma especial, a entidade gestora comunica imediatamente à CMVM qualquer alteração relevante às condições iniciais do registo.
+3 - Ao processo de registo, incluindo a sua recusa e o seu cancelamento, aplica-se, com as devidas adaptações, o disposto para o registo das entidades gestoras de mercados.

@@ -2,4 +2,4 @@
 
 ### Publicidade
 
-É permitida a realização de acções publicitárias, observando-se o disposto nos artigos 121.º e 122.º
+É permitida a realização de acções publicitárias a partir da divulgação do anúncio preliminar, observando-se o disposto nos artigos 121.º e 122.º

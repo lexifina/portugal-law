@@ -6,7 +6,7 @@
 
 ### Oferta pública de subscrição para constituição de sociedade
 
-Além dos documentos exigidos nas alíneas j) a n) do n.º 1 do artigo 115.º, o pedido de aprovação de prospecto de oferta pública de subscrição para constituição de sociedade deve ser instruído com os seguintes elementos:
+Além dos documentos exigidos nas alíneas j) a o) do n.º 1 do artigo 115.º e no artigo 156.º, o pedido de registo de oferta de subscrição para constituição de sociedade deve ser instruído com os seguintes elementos:
 
 a) Identificação dos promotores;
 

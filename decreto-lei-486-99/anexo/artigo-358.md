@@ -2,10 +2,6 @@
 
 ## Supervisão
 
-## Secção I
-
-## Disposições gerais
-
 # Artigo 358.º
 
 ### Princípios
@@ -14,7 +10,7 @@ A supervisão desenvolvida pela CMVM obedece aos seguintes princípios:
 
 a) Protecção dos investidores;
 
-b) Eficiência e regularidade de funcionamento dos mercados de instrumentos financeiros;
+b) Eficiência e regularidade de funcionamento dos mercados de valores mobiliários;
 
 c) Controlo da informação;
 

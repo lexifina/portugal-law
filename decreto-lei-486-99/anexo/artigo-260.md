@@ -1,17 +1,21 @@
 # Artigo 260.º
 
-### Princípios gerais
+### Garantia
 
-1 - A contraparte central deve adotar medidas adequadas à prevenção e gestão dos riscos, nomeadamente de crédito, de liquidez e operacionais, bem como medidas adequadas ao bom funcionamento dos mecanismos adotados e à proteção dos mercados.
+1 - A realização de operações a prazo exige a prestação prévia de caução a favor da contraparte, salvo quando, em função da natureza da operação, seja dispensada nos casos e nos termos a estabelecer em regulamento da CMVM.
 
-2 - A contraparte central deve ter mecanismos de governo sólidos, que permitam a sua gestão sã e prudente.
+2 - Os membros do mercado são responsáveis pela constituição, pelo reforço ou pela substituição da caução.
 
-3 - (Revogado).
+3 - A caução é prestada através de:
 
-4 - (Revogado).
+a) Penhor ou reporte sobre valores mobiliários de baixo risco e elevada liquidez, livres de quaisquer ónus, ou sobre depósito de dinheiro em instituição autorizada;
 
-5 - (Revogado).
+b) Garantia bancária.
 
-6 - (Revogado).
+4 - Sobre os valores dados em caução não podem ser constituídas outras garantias.
 
-7 - (Revogado).
+5 - Os valores recebidos em caução podem ser vendidos extrajudicialmente, nos termos a definir em regulamento da CMVM, para satisfação das obrigações emergentes das operações caucionadas ou como consequência do encerramento das posições dos membros que tenham prestado a caução.
+
+6 - Em caso de abertura de um processo de falência, de recuperação de empresa ou de saneamento de um membro do mercado, as cauções a que se referem os números anteriores continuam a garantir as obrigações vencidas e não vencidas decorrentes de operações efectuadas até ao momento da abertura daquele processo, revertendo apenas para a massa falida ou para a empresa em recuperação ou saneamento o saldo que eventualmente se apure após o encerramento de todas as posições.
+
+7 - É aplicável o disposto no n.º 3 do artigo 283.º

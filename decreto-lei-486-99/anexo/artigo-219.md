@@ -1,11 +1,11 @@
 # Artigo 219.º
 
-### Estrutura do mercado regulamentado
+### Sessões de bolsa
 
-1 - Em cada mercado regulamentado podem ser criados os segmentos que se revelem necessários tendo em conta, nomeadamente, as características das operações, dos instrumentos financeiros negociados, das entidades que os emitem, do sistema de negociação e as quantidades a transaccionar.
+1 - Os mercados de bolsa funcionam em sessões públicas, que podem ser normais ou especiais.
 
-2 - (Revogado).
+2 - As sessões normais de bolsa funcionam no horário e nos dias definidos pela entidade gestora da bolsa, para negociação corrente dos valores mobiliários admitidos à negociação.
 
-3 - (Revogado).
+3 - As sessões especiais realizam-se em cumprimento de decisão judicial ou por decisão da entidade gestora da bolsa a pedido dos interessados.
 
-4 - (Revogado).
+4 - As sessões especiais decorrem de acordo com as regras fixadas pela entidade gestora da bolsa, podendo as operações ter por objecto valores mobiliários admitidos ou não à negociação em sessões normais.

@@ -1,15 +1,7 @@
-## Secção III
-
-## Gestão de carteira
-
 # Artigo 335.º
 
-### Âmbito
+### Forma e padronização
 
-1 - Pelo contrato de gestão de uma carteira individualizada de instrumentos financeiros, o intermediário financeiro obriga-se:
+1 - O contrato de gestão de carteira está sujeito a forma escrita.
 
-a) A realizar todos os actos tendentes à valorização da carteira;
-
-b) A exercer os direitos inerentes aos instrumentos financeiros que integram a carteira.
-
-2 - O disposto no presente título aplica-se à gestão de instrumentos financeiros, ainda que a carteira integre bens de outra natureza.
+2 - As cláusulas contratuais gerais adoptadas por cada um dos intermediários financeiros estão sujeitas a registo na CMVM.

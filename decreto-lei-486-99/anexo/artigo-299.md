@@ -1,9 +1,9 @@
 # Artigo 299.º
 
-### Prazo do registo
+### Deferimento tácito
 
-A CMVM regista o intermediário financeiro no prazo de 30 dias a contar da data do facto que ocorra em último lugar:
+O registo considera-se efectuado se a CMVM não o recusar no prazo de 60 dias a contar:
 
-a) Comunicação da autorização pela autoridade competente;
+a) Da comunicação da autorização; e
 
-b) Receção do pedido de registo junto da CMVM.
+b) Da data da recepção do pedido ou de informações complementares que hajam sido solicitadas.

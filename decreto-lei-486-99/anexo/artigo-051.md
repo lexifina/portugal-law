@@ -12,4 +12,4 @@
 
 5 - Quando todos os títulos em depósito centralizado sejam destruídos, sem que os correspondentes registos tenham sido afectados, consideram-se os mesmos convertidos em valores mobiliários escriturais, salvo se o emitente, no prazo de 90 dias após a comunicação da entidade gestora do sistema de depósito centralizado, requerer a reforma judicial.
 
-6 - (Revogado.)
+6 - O processo de reforma de documentos regulado pelos artigos 1069.º e seguintes do Código de Processo Civil aplica-se à reforma de valores mobiliários escriturais, com as devidas adaptações.

@@ -10,24 +10,12 @@ a) Equipara-se ao conhecimento do lançamento da oferta a recepção pela socied
 
 b) Consideram-se alterações relevantes da situação patrimonial da sociedade visada, nomeadamente, a emissão de acções ou de outros valores mobiliários que confiram direito à sua subscrição ou aquisição e a celebração de contratos que visem a alienação de parcelas importantes do activo social.
 
-c) A limitação estende-se aos actos de execução de decisões tomadas antes do período ali referido e que ainda não tenham sido parcial ou totalmente executados.
-
 3 - Exceptuam-se do disposto nos números anteriores:
 
 a) Os actos que resultem do cumprimento de obrigações assumidas antes do conhecimento do lançamento da oferta;
 
-b) Os actos autorizados por força de assembleia geral convocada exclusivamente para o efeito durante o período mencionado no n.º 1;
+b) Os actos autorizados por deliberação de assembleia geral convocada especificamente para o efeito durante o prazo da oferta.
 
-c) Os actos destinados à procura de oferentes concorrentes.
-
-4 - Durante o período referido no n.º 1:
-
-a) A antecedência do prazo de divulgação de convocatória de assembleia geral é reduzida para 15 dias;
-
-b) As deliberações da assembleia geral prevista na alínea b) do número anterior, bem como as relativas à distribuição antecipada de dividendos e de outros rendimentos, apenas podem ser tomadas pela maioria exigida para a alteração dos estatutos.
+4 - Durante o período referido no n.º 1, as deliberações da assembleia geral previstas na alínea b) do n.º 3, bem como as relativas à distribuição antecipada de dividendos e de outros rendimentos, apenas podem ser tomadas pela maioria exigida para a alteração dos estatutos.
 
 5 - O oferente é responsável pelos danos causados por decisão de lançamento de oferta pública de aquisição tomada com o objectivo principal de colocar a sociedade visada na situação prevista neste artigo.
-
-6 - O regime previsto neste artigo não é aplicável a ofertas públicas de aquisição dirigidas por pessoas que não estejam sujeitas às mesmas regras ou que sejam dominadas por pessoa que não esteja sujeita às mesmas regras.
-
-7 - Nas sociedades que adoptem o modelo referido na alínea c) do n.º 1 do artigo 278.º do Código das Sociedades Comerciais, os n.os 1 a 6 aplicam-se, com as necessárias adaptações, ao conselho de administração executivo e ao conselho geral e de supervisão.

@@ -9,5 +9,3 @@
 a) Lançar a oferta em termos não menos favoráveis para os destinatários do que as constantes desse anúncio;
 
 b) Requerer o registo da oferta no prazo de 20 dias, prorrogável pela CMVM até 60 dias nas ofertas públicas de troca.
-
-c) Informar os representantes dos seus trabalhadores ou, na sua falta, os trabalhadores sobre o conteúdo dos documentos da oferta, assim que estes sejam tornados públicos.

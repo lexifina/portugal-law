@@ -14,8 +14,4 @@ b) Recompra dos valores mobiliários que não tenham sido entregues;
 
 c) Revenda dos valores mobiliários que não tenham sido pagos.
 
-4 - Nos casos em que exista contraparte central, é esta que aciona os procedimentos previstos para as situações de incumprimento.
-
-5 - Os procedimentos de substituição não são accionados quando o credor declarar, em tempo útil, que perdeu o interesse na liquidação, salvo disposição em contrário constante de regra aprovada pela entidade gestora do sistema ou, se aplicável, pela contraparte central.
-
-6 - As regras referidas no número anterior asseguram que os mecanismos de substituição adoptados possibilitam a entrega dos instrumentos financeiros ao credor num prazo razoável.
+4 - Os procedimentos de substituição não são accionados quando o credor declarar, em tempo útil, que perdeu o interesse na liquidação.

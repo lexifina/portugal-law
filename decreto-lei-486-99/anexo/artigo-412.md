@@ -8,15 +8,11 @@ a) Suspensão preventiva de alguma ou algumas actividades ou funções exercidas
 
 b) Sujeição do exercício de funções ou actividades a determinadas condições, necessárias para esse exercício, nomeadamente o cumprimento de deveres de informação.
 
-c) Apreensão e congelamento de valores, independentemente do local ou instituição em que os mesmos se encontrem.
-
 2 - A determinação referida no número anterior vigora, consoante os casos:
 
 a) Até à sua revogação pela CMVM ou por decisão judicial;
 
-b) Até ao início do cumprimento de sanção acessória de efeito equivalente às medidas previstas no número anterior.
-
-c) Até que sobre a mesma tenham decorrido cinco anos.
+b) Até ao início do cumprimento de sanção acessória de efeito equivalente à medida prevista nas alíneas b) ou c) do n.º 1 do artigo 404.º
 
 3 - A determinação de suspensão preventiva pode ser publicada pela CMVM.
 

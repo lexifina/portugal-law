@@ -1,7 +1,11 @@
 # Artigo 18.º
 
-### Dias de negociação
+### Dispensa de publicação
 
-1 - Para efeitos da presente secção, consideram-se dias de negociação aqueles em que esteja aberto para negociação o mercado regulamentado no qual as acções ou os outros valores mobiliários que confiram direito à sua subscrição ou aquisição estejam admitidos.
+A CMVM pode dispensar o cumprimento do disposto no n.º 1 do artigo anterior em relação às participações de 2% e de 5% dos direitos de voto, se o participante:
 
-2 - A CMVM deve divulgar no seu sistema de difusão de informação o calendário de dias de negociação dos mercados regulamentados situados ou a funcionar em Portugal.
+a) For membro de mercado regulamentado situado ou a funcionar num Estado membro da Comunidade Europeia; e
+
+b) Detiver as acções transitoriamente com vista à sua alienação; e
+
+c) Declarar que, com os direitos de voto adquiridos, não pretende exercer influência sobre a gestão da sociedade.

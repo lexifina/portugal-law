@@ -2,16 +2,12 @@
 
 ### Cancelamento do registo
 
-1 - [Revogado.]
+1 - Constituem fundamento de cancelamento de registo pela CMVM:
 
-2 - A decisão de cancelamento do registo, exceto nos casos em que esta é fundamentada na revogação ou caducidade da autorização, é precedida de comunicação ao Banco de Portugal, com a antecedência de 15 dias, quando este tenha competência para a autorização.
+a) A verificação de circunstância que obstaria ao registo, se essa circunstância não tiver sido sanada no prazo fixado pela CMVM;
 
-3 - A decisão de cancelamento do registo é comunicada:
+b) A revogação ou a caducidade da autorização;
 
-a) Ao Banco de Portugal, salvo no que respeita às entidades para as quais este não tenha competência para a autorização.
+c) A cessação de actividade ou a desconformidade entre o objecto e a actividade efectivamente exercida.
 
-b) Às autoridades competentes dos Estados-Membros onde o intermediário financeiro tenha sucursais ou exerça atividade em livre prestação de serviços; e
-
-c) À Autoridade Europeia dos Valores Mobiliários e dos Mercados.
-
-4 - A CMVM divulga o cancelamento do registo por um período de cinco anos, através do sistema de difusão de informação referido no artigo 367.º.
+2 - A decisão de cancelamento deve ser precedida de parecer favorável do Banco de Portugal.

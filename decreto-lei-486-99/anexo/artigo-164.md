@@ -1,3 +1,7 @@
+## Secção II
+
+## Recolha de intenções de investimento
+
 # Artigo 164.º
 
 ### Admissibilidade

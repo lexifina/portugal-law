@@ -2,7 +2,7 @@
 
 ### Valor do registo
 
-1 - Salvo prova em contrário, o registo em conta individualizada de valores mobiliários escriturais faz presumir que o direito existe e que pertence ao titular da conta, nos termos dos respetivos registos.
+1 - O registo em conta individualizada de valores mobiliários escriturais faz presumir que o direito existe e que pertence ao titular da conta, nos precisos termos dos respectivos registos.
 
 2 - Salvo indicação diversa constante da respectiva conta, as quotas dos contitulares de uma mesma conta de valores mobiliários escriturais presumem-se iguais.
 

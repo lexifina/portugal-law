@@ -2,8 +2,6 @@
 
 ### Regras operacionais
 
-1 - A entidade gestora aprova e aplica as regras operacionais necessárias ao funcionamento de sistema centralizado por si gerido.
+1 - As regras operacionais necessárias ao funcionamento de sistema centralizado são estabelecidas pela respectiva entidade gestora, estando sujeitas a registo.
 
-2 - A entidade gestora comunica as regras aprovadas, bem como as respetivas alterações, à CMVM, acompanhadas de breve análise explicativa das mesmas, com antecedência mínima de 15 dias úteis face à pretendida data de entrada em vigor.
-
-3 - A entidade gestora divulga as regras operacionais, com indicação da respetiva data de entrada em vigor.
+2 - A CMVM recusa o registo ou impõe modificações sempre que as considere insuficientes ou contrárias a disposição legal ou regulamentar.

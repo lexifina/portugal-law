@@ -1,17 +1,15 @@
-## Secção IV
-
-## Categorização de investidores
-
 # Artigo 317.º
 
-### Disposições gerais
+### Dever de comunicação pelos auditores
 
-1 - O intermediário financeiro deve estabelecer, por escrito, uma política interna que lhe permita, a todo o tempo, conhecer a natureza de cada cliente, como investidor não profissional, profissional ou contraparte elegível, e adotar os procedimentos necessários à concretização da mesma.
+1 - Os auditores que prestem serviços a intermediário financeiro ou a empresa que com ele esteja em relação de domínio ou de grupo devem comunicar imediatamente à CMVM os factos respeitantes a esse intermediário financeiro de que tenham conhecimento no exercício das suas funções, quando tais factos sejam susceptíveis de:
 
-2 - O intermediário financeiro pode, por sua própria iniciativa ou a pedido do cliente, tratar:
+a) Constituir crime ou ilícito de mera ordenação social previsto em norma legal ou regulamentar que estabeleça as condições de autorização ou que regule, de modo específico, actividades de intermediação financeira; ou
 
-a) Qualquer investidor profissional como investidor não profissional;
+b) Afectar a continuidade do exercício da actividade do intermediário financeiro; ou
 
-b) Uma contraparte elegível, assim qualificada nos termos do n.º 1 do artigo 317.º-D como investidor profissional ou como investidor não profissional.
+c) Justificar a recusa da certificação das contas ou a emissão de reservas.
 
-3 - (Revogado.)
+2 - O dever de comunicação imposto pelo presente artigo prevalece sobre quaisquer restrições à divulgação de informações, legal ou contratualmente previstas, e o seu cumprimento de boa fé não envolve qualquer responsabilidade para os respectivos sujeitos.
+
+3 - No caso de os factos referidos no n.º 1 serem relevantes nos termos do artigo 248.º, a CMVM e o Banco de Portugal devem coordenar as respectivas acções, tendo em vista uma adequada conjugação dos objectivos de supervisão prosseguidos por cada uma dessas autoridades.

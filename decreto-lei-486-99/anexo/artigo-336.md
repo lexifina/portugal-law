@@ -1,9 +1,5 @@
 # Artigo 336.º
 
-### Ordens vinculativas
+### Deveres de informação
 
-1 - Mesmo que tal não esteja previsto no contrato, o cliente pode dar ordens vinculativas ao gestor quanto às operações a realizar.
-
-2 - O disposto no número anterior não se aplica aos contratos que garantam uma rendibilidade mínima da carteira.
-
-.
+O gestor tem o dever de informar o cliente sobre os riscos a que fica sujeito em consequência da gestão, tendo em conta especialmente os objectivos do investimento e o grau de discricionariedade concedida ao gestor.

@@ -8,4 +8,4 @@
 
 3 - Se as acções forem tituladas e não estiverem integradas em sistema centralizado, a sociedade procede à emissão de novos títulos representativos das acções adquiridas, servindo os títulos antigos apenas para legitimar o recebimento da contrapartida.
 
-4 - A aquisição implica, em termos imediatos, a exclusão da negociação em mercado regulamentado das ações da sociedade e dos valores mobiliários que a elas dão direito.
+4 - A aquisição implica a imediata exclusão da negociação em mercado regulamentado das acções da sociedade e dos valores mobiliários que a elas dão direito, ficando vedada a readmissão durante dois anos.

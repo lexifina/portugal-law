@@ -2,22 +2,12 @@
 
 ### Oferta concorrente
 
-1 - A partir da publicação do anúncio preliminar de oferta pública de aquisição de valores mobiliários admitidos à negociação em mercado regulamentado, qualquer outra oferta pública de aquisição de valores mobiliários da mesma categoria só pode ser realizada através de oferta que cumpra o disposto no presente artigo.
+1 - A partir da publicação do anúncio preliminar de oferta pública de aquisição de valores mobiliários admitidos à negociação em mercado regulamentado, qualquer outra oferta pública de aquisição de valores mobiliários da mesma categoria só pode ser realizada através de oferta concorrente lançada nos termos do presente artigo.
 
-2 - Não podem lançar a oferta a que se refere a segunda parte do número anterior as pessoas que estejam com o oferente inicial ou com oferente anterior em alguma das situações previstas no n.º 1 do artigo 20.º, salvo autorização da CMVM a conceder caso a situação que determina a imputação de direitos de voto cesse antes do registo da oferta.
+2 - As ofertas concorrentes não podem incidir sobre quantidade de valores mobiliários inferior àquela que é objecto da oferta inicial.
 
-3 - A oferta a que se refere a segunda parte do n.º 1:
+3 - A contrapartida da oferta concorrente deve ser superior à antecedente em, pelo menos, 5% do seu valor.
 
-a) Apresenta uma contrapartida superior à anteriormente anunciada em pelo menos 2 % do seu valor, independentemente de poder vir a obter primeiro o registo;
+4 - O lançamento de oferta concorrente confere ao oferente inicial o direito de proceder à revisão dos termos da sua oferta, independentemente de o ter ou não feito ao abrigo do artigo anterior.
 
-b) Não incide sobre quantidade de valores mobiliários inferior àquela que é objeto da oferta anteriormente anunciada;
-
-c) Não faz depender a sua eficácia de uma percentagem de aceitações por titulares de valores mobiliários ou de direitos de voto em quantidade superior ao constante da oferta anteriormente anunciada, salvo se, para efeitos do número anterior, essa percentagem se justificar em função dos direitos de voto na sociedade visada já detidos pelo oferente e por pessoas que com este estejam em alguma das situações previstas no n.º 1 do artigo 20.º
-
-4 - (Revogado.)
-
-5 - (Revogado.)
-
-6 - (Revogado.)
-
-7 - A sociedade visada assegura a igualdade de tratamento entre oferentes quanto à informação que lhes seja prestada.
+5 - Os interessados podem revogar livremente as declarações de aceitação da oferta anterior nos cinco dias seguintes ao lançamento de uma oferta concorrente.

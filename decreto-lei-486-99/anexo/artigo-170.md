@@ -6,4 +6,4 @@
 
 ### Bloqueio dos valores mobiliários
 
-O pedido de aprovação de prospecto de oferta pública de venda é instruído com certificado comprovativo do bloqueio dos valores mobiliários oferecidos.
+O pedido de registo de oferta pública de venda é instruído com certificado comprovativo do bloqueio dos valores mobiliários oferecidos.

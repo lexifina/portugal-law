@@ -6,6 +6,4 @@ A entidade gestora do sistema centralizado deve fornecer ao emitente informaçã
 
 a) A conversão de valores mobiliários escriturais em titulados ou destes em escriturais;
 
-b) Os elementos necessários para o exercício dos direitos patrimoniais inerentes aos valores mobiliários registados e para o controlo desse exercício pelo emitente;
-
-c) Informações relativas à identidade dos acionistas, nos termos dos artigos 21.º-E a 21.º-H.
+b) Os elementos necessários para o exercício dos direitos patrimoniais inerentes aos valores mobiliários registados e para o controlo desse exercício pelo emitente.

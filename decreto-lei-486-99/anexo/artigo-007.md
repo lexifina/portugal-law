@@ -6,10 +6,10 @@
 
 ### Qualidade da informação
 
-1 - A informação respeitante a instrumentos financeiros, a formas organizadas de negociação, às actividades de intermediação financeira, à liquidação e à compensação de operações, a ofertas públicas de valores mobiliários e a emitentes deve ser completa, verdadeira, actual, clara, objectiva e lícita.
+1 - Deve ser completa, verdadeira, actual, clara, objectiva e lícita a informação respeitante a valores mobiliários, a ofertas públicas, a mercados de valores mobiliários, a actividades de intermediação e a emitentes que seja susceptível de influenciar as decisões dos investidores ou que seja prestada às entidades de supervisão e às entidades gestoras de mercados, de sistemas de liquidação e de sistemas centralizados de valores mobiliários.
 
 2 - O disposto no número anterior aplica-se seja qual for o meio de divulgação e ainda que a informação seja inserida em conselho, recomendação, mensagem publicitária ou relatório de notação de risco.
 
 3 - O requisito da completude da informação é aferido em função do meio utilizado, podendo, nas mensagens publicitárias, ser substituído por remissão para documento acessível aos destinatários.
 
-4 - À publicidade relativa a instrumentos financeiros e a actividades reguladas no presente Código é aplicável o regime geral da publicidade.
+4 - À publicidade relativa a valores mobiliários e a actividades reguladas neste Código é aplicável o regime geral da publicidade.

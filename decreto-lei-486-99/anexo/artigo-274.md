@@ -1,8 +1,8 @@
-## Secção II
+## Capítulo II
 
 ## Operações
 
-## Subsecção I
+## Secção I
 
 ## Disposições gerais
 
@@ -10,7 +10,7 @@
 
 ### Ordens de transferência
 
-1 - As ordens de transferência são introduzidas no sistema pelos participantes ou, por delegação destes, pela entidade gestora do mercado regulamentado ou do sistema de negociação multilateral ou organizado onde os instrumentos financeiros foram transacionados, pela entidade que assuma as funções de câmara de compensação ou pela contraparte central relativamente às operações realizadas nesse mercado ou sistema.
+1 - As ordens de transferência são introduzidas no sistema pelos participantes ou, por delegação destes, pela entidade gestora do mercado onde os valores mobiliários foram transaccionados.
 
 2 - As ordens de transferência são irrevogáveis, produzem efeitos entre os participantes e são oponíveis a terceiros a partir do momento em que tenham sido introduzidas no sistema.
 

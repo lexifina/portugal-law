@@ -12,6 +12,4 @@ b) Possa exercer a maioria dos direitos de voto, nos termos de acordo parassocia
 
 c) Possa nomear ou destituir a maioria dos titulares dos órgãos de administração ou de fiscalização.
 
-3 - (Revogado.)
-
-4 - Para efeitos deste Código consideram-se em relação de grupo as sociedades como tal qualificadas pelo Código das Sociedades Comerciais, independentemente de as respectivas sedes se situarem em Portugal ou no estrangeiro.
+3 - Para efeitos deste Código consideram-se em relação de grupo as sociedades como tal qualificadas pelo Código das Sociedades Comerciais, independentemente de as respectivas sedes se situarem em Portugal ou no estrangeiro.

@@ -2,12 +2,10 @@
 
 ### Apuramento e publicação do resultado da oferta
 
-1 - Terminado o prazo da oferta, o resultado desta é imediatamente apurado e publicado através do sistema de difusão de informação referido no artigo 367.º:
+1 - Terminado o prazo da oferta, o resultado desta é imediatamente apurado e publicado:
 
 a) Por um intermediário financeiro que concentre as declarações de aceitação; ou
 
-b) Por sociedade gestora de mercado regulamentado que concentre as declarações de aceitação.
+b) Em sessão especial de bolsa.
 
-2 - [Revogado.]
-
-3 - O dever de publicação do resultado da oferta previsto no n.º 1 é dispensado no caso das ofertas dirigidas exclusivamente a trabalhadores.
+2 - Em caso de oferta pública de distribuição, paralelamente à divulgação do resultado, o intermediário financeiro ou a entidade gestora da bolsa devem informar se foi requerida a admissão à negociação dos valores mobiliários que dela são objecto.

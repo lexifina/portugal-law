@@ -1,8 +1,8 @@
 # Artigo 290.º
 
-### Serviços e actividades de investimento
+### Serviços de investimento
 
-1 - São serviços e actividades de investimento em instrumentos financeiros:
+1 - São serviços de investimento em valores mobiliários:
 
 a) A recepção e a transmissão de ordens por conta de outrem;
 
@@ -10,18 +10,8 @@ b) A execução de ordens por conta de outrem;
 
 c) A gestão de carteiras por conta de outrem;
 
-d) Os serviços e atividades de:
+d) A colocação em ofertas públicas de distribuição.
 
-i) Tomada firme e colocação com garantia; ou
+2 - A negociação por conta própria em valores mobiliários é considerada serviço de investimento quando realizada por intermediário financeiro.
 
-ii) Colocação sem garantia;
-
-e) A negociação por conta própria;
-
-f) A consultoria para investimento;
-
-g) A gestão de sistema de negociação multilateral.
-
-2 - A recepção e transmissão de ordens por conta de outrem inclui a colocação em contacto de dois ou mais investidores com vista à realização de uma operação.
-
-3 - (Revogado).
+3 - A mediação em transações sobre valores mobiliários considera-se equiparada ao serviço de recepção e de transmissão de ordens por conta de outrem.

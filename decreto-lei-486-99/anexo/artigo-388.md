@@ -10,44 +10,20 @@
 
 ### Disposições comuns
 
-1 - Às contraordenações previstas nesta secção são aplicáveis as seguintes coimas:
+1 - Às contra-ordenações previstas nesta secção são aplicáveis as seguintes coimas:
 
-a) Entre (euro) 25 000 e (euro) 5 000 000, quando sejam qualificadas como muito graves;
+a) Entre (Euro) 25000 e (Euro) 2500000, quando sejam qualificadas como muito graves;
 
-b) Entre (euro) 12 500 e (euro) 2 500 000, quando sejam qualificadas como graves;
+b) Entre (Euro) 12500 e (Euro) 1250000, quando sejam qualificadas como graves;
 
-c) Entre (euro) 5 000 e (euro) 1 000 000, quando sejam qualificadas como menos graves.
+c) Entre (Euro) 2500 e (Euro) 250000, quando sejam qualificadas como menos graves.
 
-2 - O limite máximo da coima aplicável é elevado ao maior dos seguintes valores:
+2 - As contra-ordenações previstas nos artigos seguintes respeitam tanto à violação de deveres consagrados neste Código e sua regulamentação como à violação de deveres consagrados em outras leis e sua regulamentação, que digam respeito às seguintes matérias:
 
-a) O triplo do benefício económico obtido, mesmo que total ou parcialmente sob a forma de perdas potencialmente evitadas; ou
+a) Valores mobiliários ou outros instrumentos financeiros, ofertas públicas relativas a valores mobiliários, mercados de valores mobiliários ou outros instrumentos financeiros, sistemas de liquidação ou intermediação financeira;
 
-b) No caso de contraordenações muito graves, 10 % do volume de negócios, de acordo com as últimas contas consolidadas ou individuais que tenham sido aprovadas pelo órgão de administração;
+b) Entidades gestoras de mercados de valores mobiliários ou outros instrumentos financeiros, de sistemas de liquidação, de sistemas centralizados de valores mobiliários ou sociedades gestoras de participações sociais nestas entidades.
 
-c) No caso de contraordenações graves, 2 % do volume de negócios, de acordo com as últimas contas consolidadas ou individuais que tenham sido aprovadas pelo órgão de administração;
+3 - Se a lei ou o regulamento exigirem que dever seja cumprido num determinado prazo considera-se que existe incumprimento logo que o prazo fixado tenha sido ultrapassado.
 
-d) No caso de contraordenações menos graves, 0,8 % do volume de negócios, de acordo com as últimas contas consolidadas ou individuais que tenham sido aprovadas pelo órgão de administração;
-
-e) Nas contraordenações por uso ou transmissão de informação privilegiada e manipulação de mercado, 15 % do volume de negócios, de acordo com as últimas contas consolidadas ou individuais que tenham sido aprovadas pelo órgão de administração.
-
-3 - As contraordenações previstas nos artigos seguintes respeitam tanto à violação de deveres consagrados neste Código e sua regulamentação, como à violação de deveres consagrados em outras leis, nacionais ou da União Europeia, e sua regulamentação, que digam respeito às seguintes matérias:
-
-a) Instrumentos financeiros, ofertas públicas relativas a valores mobiliários, formas organizadas de negociação de instrumentos financeiros, sistemas de liquidação e compensação, contraparte central, intermediação financeira, titularização de créditos, notação de risco, elaboração, administração e utilização de índices de referência e fornecimento de dados de cálculo para os mesmos e regime da informação e de publicidade relativa a qualquer destas matérias;
-
-b) Entidades gestoras de mercados regulamentados, de sistemas de negociação multilateral ou organizado, de sistemas de liquidação, de câmara de compensação, de sistemas centralizados de valores mobiliários, de registo inicial ou de administração de sistema de registo centralizado, contrapartes centrais ou sociedades gestoras de participações sociais nestas entidades, empresas de investimento e prestadores de serviços de comunicação de dados;
-
-c) Ao regime relativo ao abuso de mercado;
-
-d) Organismos de investimento coletivo;
-
-e) Deveres dos particulares em relação à CMVM enquanto supervisor;
-
-f) Oferentes, pessoas que solicitam a admissão à negociação de criptoativos, emitentes de criptofichas referenciadas a ativos e criptofichas de moeda eletrónica e prestadores de serviços de criptoativos.
-
-4 - Se a lei ou o regulamento exigirem que dever seja cumprido num determinado prazo considera-se que existe incumprimento logo que o prazo fixado tenha sido ultrapassado.
-
-5 - Considera-se como não divulgada a informação cuja divulgação não tenha sido efetuada através dos meios adequados.
-
-6 - Sempre que uma lei ou um regulamento da CMVM alterar as condições ou termos de cumprimento de um dever constante de lei ou regulamento anterior, aplica-se a lei antiga aos factos ocorridos no âmbito da sua vigência e a lei nova aos factos posteriores, salvo se perante a identidade do facto houver lugar à aplicação do regime concretamente mais favorável.
-
-7 - Quando norma diversa das previstas no n.º 3 determinar a competência contraordenacional da CMVM, é aplicável o regime substantivo e processual do presente Código.
+4 - Considera-se como não divulgada a informação cuja divulgação não tenha sido efectuada através dos meios adequados.

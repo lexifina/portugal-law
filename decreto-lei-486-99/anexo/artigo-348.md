@@ -2,10 +2,14 @@
 
 ### Fomento de mercado
 
-1 - As operações de fomento de mercado visam a criação de condições para a comercialização regular num mercado de uma determinada categoria de valores mobiliários ou de instrumentos financeiros, nomeadamente o incremento da liquidez.
+1 - As operações de fomento de mercado visam a criação de condições para a comercialização regular num mercado de uma determinada categoria de valores mobiliários, nomeadamente o incremento da liquidez.
 
-2 - As operações de fomento devem ser precedidas de contrato celebrado entre a entidade gestora do mercado e o intermediário financeiro.
+2 - As operações de fomento de mercado devem ser precedidas de contrato celebrado entre o intermediário financeiro e:
 
-3 - Quando as actividades de fomento respeitem a valores mobiliários e tal se encontre previsto na lei, em regulamento ou nas regras do mercado em causa, o contrato referido no número anterior tem como parte o emitente dos valores mobiliários cuja negociação se pretende fomentar.
+a) O emitente dos valores mobiliários cuja negociação se pretende fomentar; ou
 
-4 - Devem ser previamente comunicados à CMVM os contratos a que se referem os n.os 2 e 3 ou as cláusulas contratuais desses contratos, quando existam.
+b) A entidade gestora do mercado, quando as actividades de fomento respeitem a instrumentos financeiros derivados.
+
+3 - Os contratos a que se refere a alínea b) do número anterior são celebrados com base em cláusulas contratuais gerais a elaborar pela entidade gestora do mercado.
+
+4 - Os contratos a que se refere a alínea a) do n.º 2 e as cláusulas contratuais gerais referidas no número anterior são registadas na CMVM.

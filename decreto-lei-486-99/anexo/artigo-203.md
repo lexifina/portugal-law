@@ -1,17 +1,19 @@
 # Artigo 203.º
 
-### Entidade gestora
+### Membros
 
-1 - Os mercados regulamentados e os sistemas de negociação multilateral ou organizado são geridos por entidade gestora que preencha os requisitos fixados em lei especial e, no que respeita apenas a sistemas de negociação multilateral ou organizado, também por intermediário financeiro, de acordo com o seu regime.
+1 - A negociação em mercado de valores mobiliários efectua-se através dos seus membros.
 
-2 - (Revogado).
+2 - Só podem ser admitidos como membros de um mercado os intermediários financeiros que:
 
-3 - (Revogado).
+a) Estejam autorizados a realizar operações sobre valores mobiliários; e
 
-4 - (Revogado).
+b) Participem no sistema de liquidação das operações realizadas nesse mercado ou que, para esse efeito, tenham celebrado contrato com um participante naquele sistema.
 
-5 - (Revogado).
+3 - Nos mercados constituídos para a realização exclusiva de operações entre investidores institucionais, estes podem ser admitidos como membros, ainda que não satisfaçam os requisitos do proémio e da alínea a) do número anterior.
 
-6 - (Revogado).
+4 - A admissão dos membros de um mercado compete à respectiva entidade gestora, de acordo com princípios de igualdade e de respeito pelas regras de sã e leal concorrência.
 
-7 - (Revogado).
+5 - A intervenção dos membros de um mercado pode consistir no mero registo de operações.
+
+6 - A CMVM pode autorizar que as funções dos membros de mercado não regulamentado sejam exercidas pela respectiva entidade gestora.

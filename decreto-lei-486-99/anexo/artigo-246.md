@@ -2,36 +2,18 @@
 
 ### Informação semestral
 
-1 - Os emitentes de ações e de valores mobiliários representativos de dívida referidos no n.º 1 do artigo 244.º divulgam, tão cedo quanto possível e decorridos, no máximo, três meses após o termo do primeiro semestre do exercício, relativamente à atividade desse período, e mantêm à disposição do público durante, pelo menos, 10 anos:
+1 - Os emitentes de acções admitidas à negociação publicam, até três meses após o termo do 1.º semestre do exercício, informação relativa à actividade e resultados desse semestre, contendo pelo menos os seguintes elementos:
 
-a) As demonstrações financeiras condensadas;
+a) O montante líquido do volume de negócios;
 
-b) Um relatório de gestão intercalar;
+b) O resultado antes ou após dedução de impostos;
 
-c) Declarações de cada uma das pessoas responsáveis do emitente, cujos nomes e funções devem ser claramente indicados, onde afirmem que, tanto quanto é do seu conhecimento, a informação prevista na alínea a) foi elaborada em conformidade com as normas contabilísticas aplicáveis, dando uma imagem verdadeira e apropriada do activo e do passivo, da situação financeira e dos resultados do emitente e das empresas incluídas no perímetro da consolidação, quando for o caso, e que o relatório de gestão intercalar expõe fielmente as informações exigidas nos termos do n.º 2.
+c) O texto integral do relatório de auditor registado na CMVM.
 
-2 - O relatório de gestão intercalar deve conter, pelo menos, uma indicação dos acontecimentos importantes que tenham ocorrido no período a que se refere e o impacto nas respectivas demonstrações financeiras, bem como uma descrição dos principais riscos e incertezas para os seis meses seguintes.
+2 - A informação exigida no n.º 1 contém os elementos necessários para que os investidores formem um juízo fundamentado sobre a evolução da actividade e dos resultados da sociedade desde o termo do exercício anterior, bem como, se possível, a evolução previsível no exercício em curso, em particular:
 
-3 - Os emitentes obrigados a elaborar contas consolidadas:
+a) Qualquer factor específico que tenha influenciado a sua actividade e resultados;
 
-a) Devem elaborar as demonstrações financeiras de acordo com as normas internacionais de contabilidade aplicáveis aos relatórios financeiros intercalares adoptadas nos termos do Regulamento (CE) n.º 1606/2002, do Parlamento Europeu e do Conselho, de 19 de Julho;
+b) Comparação dos elementos apresentados com os correspondentes ao exercício anterior.
 
-b) A informação referida na alínea anterior é apenas divulgada sob forma consolidada, salvo se as contas em base individual contiverem informação significativa;
-
-c) Os emitentes de acções devem incluir ainda informação sobre as principais transacções relevantes entre partes relacionadas realizadas nos seis primeiros meses do exercício que tenham afectado significativamente a sua situação financeira ou o desempenho bem como quaisquer alterações à informação incluída no relatório anual precedente susceptíveis de ter um efeito significativo na sua posição financeira ou desempenho nos primeiros seis meses do exercício corrente.
-
-4 - Se o emitente não estiver obrigado a elaborar contas consolidadas, as demonstrações financeiras condensadas incluem, pelo menos, um balanço e uma demonstração de resultados condensados, elaborados de acordo com os princípios de reconhecimentos e mensuração aplicáveis à elaboração dos relatórios financeiros anuais, e notas explicativas àquelas contas.
-
-5 - Nos casos previstos no número anterior:
-
-a) O balanço condensado e a demonstração de resultados condensada devem apresentar todas as rubricas e subtotais incluídos nas últimas demonstrações financeiras anuais do emitente, sendo acrescentadas as rubricas adicionais necessárias se, devido a omissões, as demonstrações financeiras semestrais reflectirem uma imagem enganosa do activo, do passivo, da posição financeira e dos resultados do emitente;
-
-b) O balanço deve incluir informação comparativa referida ao final do exercício imediatamente precedente;
-
-c) A demonstração de resultados deve incluir informação comparativa relativa ao período homólogo do exercício precedente;
-
-d) As notas explicativas devem incluir informação suficiente para assegurar a comparabilidade das demonstrações financeiras semestrais condensadas com as demonstrações financeiras anuais e a correcta apreensão, por parte dos utilizadores, de qualquer alteração significativa de montantes e da evolução no período semestral em causa reflectidos no balanço e na demonstração de resultados;
-
-e) Os emitentes de acções devem incluir, no mínimo, informações sobre as principais transacções relevantes entre partes relacionadas realizadas nos seis primeiros meses do exercício referindo nomeadamente o montante de tais transacções, a natureza da relação relevante e outra informação necessária à compreensão da posição financeira do emitente se tais transacções forem relevantes e não tiverem sido concluídas em condições normais de mercado.
-
-6 - Para efeitos da alínea e) do número anterior, as transacções entre partes relacionadas podem ser agregadas de acordo com a sua natureza, excepto se a informação separada for necessária para a compreensão dos efeitos da transacção na posição financeira do emitente.
+3 - Se a sociedade estiver obrigada a elaborar contas consolidadas, a informação referida no número anterior é também publicada sob forma consolidada.

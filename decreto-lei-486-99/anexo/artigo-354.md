@@ -8,6 +8,4 @@
 
 3 - Os factos ou elementos sujeitos a segredo só podem ser revelados mediante autorização do interessado, transmitida à CMVM, ou noutras circunstâncias previstas na lei.
 
-4 - Nos casos em que haja lugar à aplicação do disposto no artigo 135.º do Código de Processo Penal, o tribunal competente para determinar a quebra do segredo ouve previamente a CMVM e notifica-a da decisão final.
-
-5 - O dever de segredo não abrange factos ou elementos cuja divulgação pela CMVM seja imposta ou permitida por lei.
+4 - O dever de segredo não abrange factos ou elementos cuja divulgação pela CMVM seja imposta ou permitida por lei.
