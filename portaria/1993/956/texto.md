@@ -1,0 +1,19 @@
+Portaria n.º 956/93
+de 29 de Setembro
+A requerimento de ISLA - Santarém, Educação e Cultura, Lda., titular do Instituto Superior de Línguas e Administração, em Santarém, estabelecimento de ensino superior reconhecido, ao abrigo e nos termos do Decreto-Lei n.º 271/89, de 19 de Agosto, pela Portaria n.º 788/89, de 8 de Setembro.
+Considerando que a proposta foi elaborada sob a responsabilidade do competente órgão científico-pedagógico do Instituto Superior de Línguas e Administração, em Santarém, e sujeita a adequada análise;
+Ao abrigo e nos termos dos n.os 1 e 3 do artigo 26.º do Decreto-Lei n.º 271/89, de 19 de Agosto:
+Manda o Governo, pelo Ministro da Educação, o seguinte:
+1.º É alterado o plano de estudos do curso superior de Gestão de Recursos Humanos, do Instituto Superior de Línguas e Administração, em Santarém, de acordo com o plano de estudos anexo à presente portaria.
+2.º O novo plano de estudos substitui o aprovado pela Portaria n.º 770/91, de 6 de Agosto.
+3.º O referido curso superior de Gestão de Recursos Humanos passa a denominar-se curso de Gestão de Recursos Humanos.
+4.º Aos diplomas emitidos pela conclusão do curso com o plano de estudos ora autorizado passam a ser reconhecidos os efeitos de grau de licenciatura.
+5.º O reconhecimento e autorização na presente portaria não prejudicam, sob pena de renovação, a obrigação dos órgãos responsáveis do Instituto Superior de Línguas e Administração pelo cumprimento de eventuais adaptações ou correcções que sejam determinadas pelo Departamento do Ensino Superior, quer em resultado da análise do processo que fundamentou a presente portaria, quer de futuras informações dos serviços de inspecção, de acordo com a legislação vigente.
+Ministério da Educação.
+Assinada em 25 de Agosto de 1993.
+O Ministro da Educação, António Fernando Couto dos Santos.
+
+ANEXO
+Instituto Superior de Línguas e Administração (Santarém)
+Curso de Gestão de Recursos Humanos (licenciatura)
+(ver documento original)
