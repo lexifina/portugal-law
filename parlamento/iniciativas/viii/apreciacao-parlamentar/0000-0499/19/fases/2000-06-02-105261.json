@@ -1,0 +1,358 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Apreciação Parlamentar",
+    "numero": "19",
+    "id": "6046",
+    "titulo": "Decreto-lei nº 67/2000 de 26 de Abril que \"institui a protecção no desemprego dos docentes contratados dos estabelecimentos de educação e ensino públicos\"."
+  },
+  "fase": "Apreciação de Decreto-Lei",
+  "codigo_fase": "220",
+  "data_registo": "2000-06-02",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1710",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "220",
+    "Comissao": null,
+    "DataFase": "2000-06-02",
+    "EvtId": "65",
+    "Fase": "Apreciação de Decreto-Lei",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-06-02",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1423",
+                "nome": "Luísa Mesquita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27601",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2911-2912"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-03",
+                "pubLeg": "VIII",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/074/2000-06-03/2911?pgs=2911-2912&org=PLC"
+              }
+            ],
+            "sumario": "APRECIACAO DO DEC-LEI 67/2000, DE 26 DE ABRIL,\"INSTITUI A PROTECCAO NO DESEMPREGO DOS DOCENTES CONTRATADOS DOS ESTABELECIMENTOS DE EDUCACAO E ENSINO PUBLICOS\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1158",
+                "nome": "Barbosa de Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27602",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2910-2911"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-03",
+                "pubLeg": "VIII",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/074/2000-06-03/2910?pgs=2910-2911&org=PLC"
+              }
+            ],
+            "sumario": "APRECIACAO DO DEC-LEI 67/2000, DE 26 DE ABRIL,\"INSTITUI A PROTECCAO NO DESEMPREGO DOS DOCENTES CONTRATADOS DOS ESTABELECIMENTOS DE EDUCACAO E ENSINO PUBLICOS\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1351",
+                "nome": "Manuel Oliveira"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27604",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2909-2910"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-03",
+                "pubLeg": "VIII",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/074/2000-06-03/2909?pgs=2909-2910&org=PLC"
+              }
+            ],
+            "sumario": "APRECIACAO DO DEC-LEI 67/2000, DE 26 DE ABRIL,\"INSTITUI A PROTECCAO NO DESEMPREGO DOS DOCENTES CONTRATADOS DOS ESTABELECIMENTOS DE EDUCACAO E ENSINO PUBLICOS\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "1651",
+                "nome": "Francisco Louçã"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27605",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2909-2909"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-03",
+                "pubLeg": "VIII",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/074/2000-06-03/2909?pgs=2909&org=PLC"
+              }
+            ],
+            "sumario": "APRECIACAO DO DEC-LEI 67/2000, DE 26 DE ABRIL,\"INSTITUI A PROTECCAO NO DESEMPREGO DOS DOCENTES CONTRATADOS DOS ESTABELECIMENTOS DE EDUCACAO E ENSINO PUBLICOS\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1719",
+                "nome": "Rosado Fernandes"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27606",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2908-2909"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-03",
+                "pubLeg": "VIII",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/074/2000-06-03/2908?pgs=2908-2909&org=PLC"
+              }
+            ],
+            "sumario": "APRECIACAO DO DEC-LEI 67/2000, DE 26 DE ABRIL,\"INSTITUI A PROTECCAO NO DESEMPREGO DOS DOCENTES CONTRATADOS DOS ESTABELECIMENTOS DE EDUCACAO E ENSINO PUBLICOS\"",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "1423",
+                "nome": "Luísa Mesquita"
+              }
+            ],
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:10",
+            "horaTermo": "12:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27607",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2907-2908"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-03",
+                "pubLeg": "VIII",
+                "pubNr": "74",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/074/2000-06-03/2907?pgs=2907-2908&org=PLC"
+              }
+            ],
+            "sumario": "APRECIACAO DO DEC-LEI 67/2000, DE 26 DE ABRIL,\"INSTITUI A PROTECCAO NO DESEMPREGO DOS DOCENTES CONTRATADOS DOS ESTABELECIMENTOS DE EDUCACAO E ENSINO PUBLICOS\"",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "105261",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1710",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-06-03",
+        "pubLeg": "VIII",
+        "pubNr": "74",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/074/2000-06-03?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
