@@ -1,0 +1,13 @@
+Decreto-Lei n.º 49434
+Havendo conveniência em precisar as condições em que o pessoal de enfermagem deve considerar-se especializado, para efeitos de beneficiar do aumento de remuneração previsto no Decreto-Lei n.º 48166, de 27 de Dezembro de 1967, bem como em promover o melhor aproveitamento desse pessoal;
+Tornando-se necessário revogar o disposto na nota 1 do mapa anexo ao mesmo decreto-lei, pelos prejuízos que ocasiona aos profissionais nela abrangidos;
+Usando da faculdade conferida pela 1.ª Parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º O n.º 3 do artigo 12.º do Decreto-Lei n.º 48166, de 27 de Dezembro de 1967, passa a ter a seguinte redacção:
+3. A remuneração do pessoal de enfermagem que, além dos respectivos cursos de enfermagem geral ou de auxiliares de enfermagem, esteja habilitado com algumas das especialidades legalmente reconhecidas que exijam como habilitação prévia aqueles cursos é acrescida de 20 por cento quando colocado em exercício efectivo dessa especialidade. O disposto neste número não prejudica os profissionais aos quais esteja a ser abonado o acréscimo de remuneração acima referido.
+Art. 2.º É revogada a nota 1 do mapa anexo ao Decreto-Lei n.º 48166 a que se refere o n.º 1 do artigo 12.º do mesmo diploma.
+Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
+Promulgado em 26 de Novembro de 1969.
+Publique-se.
+Presidência da República, 9 de Dezembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser presente à Assembleia Nacional.
