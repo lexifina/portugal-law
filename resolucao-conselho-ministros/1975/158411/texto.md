@@ -1,0 +1,9 @@
+Resolução do Conselho de Ministros
+Tendo sido presente ao Conselho de Ministros o relatório em que a Comissão Interministerial para a transferência do estabelecimento da Companhia Nacional Editora para a Editorial República se declara pronta a efectuar essa transferência, pedindo que lhe sejam previamente confirmados os poderes de negociação; tendo presente que os motivos que levam a Comissão Interministerial a solicitar essa confirmação são os elevados encargos para o Estado da transferência e a defesa dos interesses dos trabalhadores da CNE; tendo em atenção a extrema urgência existente em que a situação dos trabalhadores fique definida, o Conselho de Ministros reunido em 11 de Abril de 1975, resolveu adoptar, de imediato, as seguintes linhas de actuação:
+a) Que seja revogada a decisão tomada em Conselho de Ministros de 7 de Janeiro no sentido da transferência referida;
+b) Que seja dada por cumprida a missão de que já foi incumbida a Comissão Interministerial e que a mesma seja dissolvida;
+c) Que a antecipação do pagamento das indemnizações a que têm direito os trabalhadores seja feito pela Comissão Liquidatária da ex-ANP, sendo esta, para o efeito, dotada com verba especial pelo Ministério das Finanças.
+Este processo é utilizado a título excepcional e as indemnizações serão pagas parcelarmente de acordo com as necessidades dos trabalhadores;
+d) Que seja declarada a falência da Companhia Nacional Editora;
+e) Que, em virtude de as acções da CNE terem pertencido à ANP, a liquidação de todo o contencioso seja entregue à Comissão Liquidatária daquela Organização.
+Presidência do Conselho de Ministros, 11 de Abril de 1975. - O Primeiro-Ministro, Vasco dos Santos Gonçalves.
