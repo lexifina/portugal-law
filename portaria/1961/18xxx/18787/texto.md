@@ -1,0 +1,5 @@
+Portaria n.º 18787
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 13.º do Decreto n.º 35770, de 29 de Julho de 1946, e da alínea e) do artigo 3.º do mesmo diploma, com a redacção que lhe foi dada pelo artigo 4.º do Decreto, n.º 40712, de 1 de Agosto de 1956, abrir na província de Cabo Verde um crédito especial da quantia de 141000$00 para reforçar a verba do capítulo 5.º, artigo 165.º, n.º 3) «Serviços aduaneiros - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal assalariado», da tabela de despesa ordinária do orçamento geral em vigor, destinado ao pagamento de pessoal para o serviço do tráfego, tomando como contrapartida o excesso da cobrança sobre a previsão da receita da verba do capitulo 4.º, artigo 31.º «Taxas - Rendimentos de diversos serviços - Taxas do tráfego aduaneiro», do referido orçamento.
+Ministério do Ultramar, 25 de Outubro de 1961. - Pelo Ministro do Ultramar, João da Costa Freitas, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Cabo Verde. - Costa Freitas.
