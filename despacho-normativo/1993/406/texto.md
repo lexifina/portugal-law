@@ -1,0 +1,5 @@
+Despacho Normativo n.º 406/93
+Considerando que o engenheiro António José Pereira Machado exerce, em comissão de serviço, o cargo de director de serviços, reúne os requisitos necessários para acesso à categoria de assessor principal e requereu a criação do correspondente lugar;
+Considerando o disposto no artigo 3.º do Decreto-Lei n.º 34/93, de 13 de Fevereiro, e nos n.os 6, 7 e 8 do artigo 18.º do Decreto-Lei n.º 323/89, de 26 de Setembro, na redacção que lhe foi conferida pelo artigo 1.º daquele diploma:
+Determina-se que seja criado no quadro de pessoal da Direcção-Geral de Transportes Terrestres, aprovado pela Portaria n.º 260/89, de 8 de Abril, um lugar de assessor principal da carreira de engenheiro, a extinguir quando vagar.
+Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações, 8 de Novembro de 1993. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Jorge Manuel Mendes Antas, Secretário de Estado dos Transportes.
