@@ -20,4 +20,4 @@ d) Tractores: os veículos construídos para desenvolver um esforço de tracçã
 
 e) Especiais: os veículos destinados ao desempenho de uma função específica, diferente do transporte normal de passageiros ou carga.
 
-3 - As categorias de veículos para efeitos de aprovação de modelo são definidas em regulamento.
+3 - As categorias de veículos para efeitos de aprovação de modelo são fixadas em regulamento.

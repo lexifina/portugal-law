@@ -22,6 +22,6 @@ e) Transpor os separadores de trânsito ou as aberturas neles existentes;
 
 f) O ensino da condução, fora dos casos legalmente previstos.
 
-3 - Quem infringir o disposto no n.º 1 e nas alíneas a) e b) do n.º 2 é sancionado com coima de 10000$00 a 50000$00, salvo tratando-se de peão, caso em que a coima é de 5000$00 a 25000$00.
+3 - Quem infringir o disposto no n.º 1 e nas alíneas a) e b) do n.º 2 é sancionado com coima de (euro) 60 a (euro) 300, salvo tratando-se de peão, caso em que a coima é de (euro) 30 a (euro) 150.
 
-4 - Quem circular em sentido oposto ao legalmente estabelecido ou infringir o disposto nas alíneas c) a f) do n.º 2 é sancionado com coima de 40000$00 a 200000$00.
+4 - Quem circular em sentido oposto ao legalmente estabelecido ou infringir o disposto nas alíneas c) a f) do n.º 2 é sancionado com coima de (euro) 240 a (euro) 1200.

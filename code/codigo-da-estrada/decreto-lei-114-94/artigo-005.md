@@ -8,4 +8,4 @@ b) Quando seja detectado, por análise qualitativa, um teor de álcool no sangue
 
 c) Se as circunstâncias advenientes da imobilização do veículo originarem a impossibilidade de deslocação do presumível infractor, o agente da autoridade assegurará os meios necessários ao cumprimento da notificação, acompanhando-o ou disponibilizando meio de transporte.
 
-2 - Os encargos advenientes da aplicação da alínea c) do número anterior são suportados pelo infractor nos termos a definir por despacho do Ministro da Administração Interna.
+2 – (Revogado pelo DL n.º 265-A/2001, de 28 de Setembro).

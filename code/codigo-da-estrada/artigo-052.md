@@ -6,4 +6,4 @@
 
 2 - No caso de não existirem os locais referidos no número anterior, a paragem deve ser feita o mais próximo possível do limite direito da faixa de rodagem.
 
-3 - Quem infringir o disposto nos números anteriores é sancionado com coima de 5000$00 a 25000$00.
+3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 30 a (euro) 150.

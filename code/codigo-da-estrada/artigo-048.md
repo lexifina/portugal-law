@@ -16,4 +16,4 @@
 
 5 - Ao estacionar o veículo, o condutor deve deixar os intervalos indispensáveis à saída de outros veículos, à ocupação dos espaços vagos e ao fácil acesso aos prédios, bem como tomar as precauções indispensáveis para evitar que aquele se ponha em movimento.
 
-6 - Quem infringir o disposto nos n.os 3 a 5 é sancionado com coima de 5000$00 a 25000$00.
+6 - Quem infringir o disposto nos n.os 3 a 5 é sancionado com coima de (euro) 30 a (euro) 150.

@@ -18,4 +18,4 @@ c) Em vias situadas dentro das localidades.
 
 3 - Nos veículos que transitem em via de trânsito de sentido reversível, o uso de dispositivos de sinalização luminosa e de iluminação é obrigatório em qualquer circunstância.
 
-4 - Quem infringir o disposto nos números anteriores é sancionado com coima de 5000$00 a 25000$00, se sanção mais grave não for aplicável por força de disposição especial.
+4 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 30 a (euro) 150, se sanção mais grave não for aplicável por força de disposição especial.

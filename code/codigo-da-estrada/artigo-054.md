@@ -14,6 +14,6 @@ c) Os casos especialmente previstos em regulamentos locais, para os veículos de
 
 3 - É proibido o transporte de pessoas em número que exceda a lotação do veículo ou de modo a comprometer a sua segurança ou a segurança da condução.
 
-4 - É igualmente proibido o transporte de passageiros fora dos assentos, sem prejuízo do disposto em legislação especial ou salvo em condições excepcionais a definir em regulamento.
+4 - É igualmente proibido o transporte de passageiros fora dos assentos, sem prejuízo do disposto em legislação especial ou salvo em condições excepcionais fixadas em regulamento.
 
-5 - Quem infringir o disposto nos n.os 1, 3 e 4 é sancionado com coima de 5000$00 a 25000$00.
+5 - Quem infringir o disposto nos n.os 1, 3 e 4 é sancionado com coima de (euro) 30 a (euro) 150.

@@ -12,4 +12,4 @@ a) As vias públicas onde existam corredores de circulação;
 
 b) As auto-estradas, nas quais os condutores devem deixar livre a berma.
 
-4 - Quem infringir o disposto nos n.os 1 e 2 é sancionado com coima de 10000$00 a 50000$00.
+4 - Quem infringir o disposto nos n.os 1 e 2 é sancionado com coima de (euro) 60 a (euro) 300.

@@ -8,4 +8,4 @@
 
 3 - Nos casos previstos nas alíneas b), c) e e) do n.º 2 do artigo anterior, os peões devem transitar o mais próximo possível do limite da faixa de rodagem.
 
-4 - Quem infringir o disposto nos números anteriores é sancionado com coima de 1000$00 a 5000$00.
+4 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 6 a (euro) 30.

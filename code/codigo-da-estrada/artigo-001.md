@@ -14,7 +14,7 @@
 
 Para os efeitos do disposto no presente Código e legislação complementar, os termos seguintes têm o significado que lhes é atribuído neste artigo:
 
-a) Via pública: via de comunicação terrestre afectada ao trânsito público;
+a) Via pública: via de comunicação terrestre afecta ao trânsito público;
 
 b) Via equiparada a via pública: via de comunicação terrestre do domínio privado aberta ao trânsito público;
 
@@ -30,7 +30,7 @@ g) Eixo da faixa de rodagem: linha longitudinal, materializada ou não, que divi
 
 h) Via de trânsito: zona longitudinal da faixa de rodagem, destinada à circulação de uma única fila de veículos;
 
-i) Via de sentido reversível: via de trânsito afectada alternadamente, através de sinalização, a um ou outro dos sentidos de trânsito;
+i) Via de sentido reversível: via de trânsito afecta alternadamente, através de sinalização, a um ou outro dos sentidos de trânsito;
 
 j) Via de aceleração: via de trânsito resultante do alargamento da faixa de rodagem e destinada a permitir que os veículos que entram numa via pública adquiram a velocidade conveniente para se incorporarem na corrente de trânsito principal;
 
@@ -40,7 +40,7 @@ m) Berma: superfície da via pública não especialmente destinada ao trânsito 
 
 n) Passeio: superfície da via pública, em geral sobrelevada, especialmente destinada ao trânsito de peões e que ladeia a faixa de rodagem;
 
-o) Corredor de circulação: via de trânsito reservada a veículos de certa espécie ou afectados a determinados transportes;
+o) Corredor de circulação: via de trânsito reservada a veículos de certa espécie ou afectos a determinados transportes;
 
 p) Pista especial: via pública ou via de trânsito especialmente destinada, de acordo com sinalização, ao trânsito de peões, de animais ou de certa espécie de veículos;
 
@@ -52,6 +52,8 @@ s) Rotunda: praça formada por cruzamento ou entroncamento, onde o trânsito se 
 
 t) Parque de estacionamento: local exclusivamente destinado ao estacionamento de veículos;
 
-u) Localidade: zona com edificações e cujos limites são assinalados com os sinais regulamentares.
+u) Localidade: zona com edificações e cujos limites são assinalados com os sinais regulamentares;
 
-v) Zona de estacionamento: local da via pública especialmente destinado, por construção ou sinalização, ao estacionamento.
+v) Zona de estacionamento: local da via pública especialmente destinado, por construção ou sinalização, ao estacionamento de veículos;
+
+x) Ilhéu direccional: zona restrita da via pública, interdita à circulação de veículos e delimitada por lancil ou marcação apropriada, destinada a orientar o trânsito.

@@ -8,4 +8,4 @@
 
 3 - A proibição e o condicionamento referidos nos números anteriores são precedidos de divulgação através da comunicação social ou da distribuição de folhetos nas zonas afectadas, afixação de painéis de informação ou outro meio adequado.
 
-4 - Quem infringir a proibição prevista no n.º 1 ou o condicionamento previsto no n.º 2 é sancionado com coima de 25000$00 a 125000$00, sendo os veículos impedidos de prosseguir a sua marcha até findar o período em que vigora a proibição.
+4 - Quem infringir a proibição prevista no n.º 1 ou o condicionamento previsto no n.º 2 é sancionado com coima de (euro) 150 a (euro) 750, sendo os veículos impedidos de prosseguir a sua marcha até findar o período em que vigora a proibição.

@@ -26,4 +26,4 @@ a) O condutor transite em via que lhe confira prioridade nos cruzamentos e entro
 
 b) A ultrapassagem se faça pela direita nos termos do n.º 1 do artigo 37.º
 
-5 - Quem infringir o disposto nos n.os 1 e 2 é sancionado com coima de 20000$00 a 100000$00.
+5 - Quem infringir o disposto nos n.os 1 e 2 é sancionado com coima de (euro) 120 a (euro) 600.

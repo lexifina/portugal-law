@@ -1,11 +1,19 @@
 # Artigo 164.º
 
-### Fiscalização da condução sob influência de estupefacientes, substâncias psicotrópicas ou produtos com efeito análogo
+### Outras disposições
 
-1 - Aos condutores que devam ser submetidos aos exames de detecção de estupefacientes, substâncias psicotrópicas ou produtos com efeito análogo, nos termos da alínea a) do n.º 1 do artigo 158.º, é correspondentemente aplicável, com as necessárias adaptações, o disposto nos artigos 160.º e 161.º
+1 - São fixados em regulamento:
 
-2 - Em caso de acidente, tanto os condutores como os peões envolvidos devem ser submetidos aos exames referidos no n.º 1.
+a) O tipo de material a utilizar na fiscalização e nos exames laboratoriais para determinação dos estados de influenciado pelo álcool ou por substâncias legalmente consideradas como estupefacientes ou psicotrópicas;
 
-3 - Para os efeitos previstos nos números anteriores, o agente de autoridade notifica os condutores e os peões aí referidos de que devem submeter-se aos exames necessários, sob pena de desobediência, e providencia o seu transporte a centro de saúde ou estabelecimento hospitalar.
+b) Os métodos a utilizar para a determinação do doseamento de álcool ou de substâncias legalmente consideradas como estupefacientes ou psicotrópicas no sangue;
 
-4 - Para os efeitos previstos nos n.os 2 e 3 aplicam-se, com as necessárias adaptações, os artigos 162.º, n.os 3 e 4, e 163.º
+c) Os exames médicos para determinação dos estados de influenciado pelo álcool ou por substâncias legalmente consideradas como estupefacientes ou psicotrópicas;
+
+d) Os laboratórios onde devem ser feitas as análises de urina e de sangue;
+
+e) As tabelas dos preços dos exames realizados e das taxas de transporte dos examinandos e de imobilização e de remoção de veículos.
+
+2 - O pagamento das despesas originadas pelos exames previstos na lei para determinação do estado de influenciado pelo álcool ou por substâncias legalmente consideradas como estupefacientes ou psicotrópicas, bem como pela imobilização e remoção de veículo a que se refere o artigo 161.º, é efectuado pela entidade a quem competir a coordenação da fiscalização do trânsito.
+
+3 - Quando os exames referidos tiverem resultado positivo, as despesas são da responsabilidade do examinando, devendo ser levadas à conta de custas nos processos crime ou de contra-ordenação a que houver lugar, as quais revertem a favor da entidade referida no número anterior.

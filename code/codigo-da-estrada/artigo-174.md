@@ -1,13 +1,9 @@
 # Artigo 174.º
 
-### Reclamação de veículos
+### Penhora
 
-1 - Da notificação deve constar a indicação do local para onde o veículo foi removido e, bem assim, que o proprietário o deve retirar dentro dos prazos referidos no artigo anterior e após o pagamento das despesas de remoção e depósito, sob pena de o veículo se considerar abandonado.
+1 - Quando o veículo tenha sido objecto de penhora ou acto equivalente, a autoridade que procedeu à remoção deve informar o tribunal das circunstâncias que a justificaram.
 
-2 - No caso previsto na alínea e) do n.º 1 artigo 170.º, se o veículo apresentar sinais evidentes de acidente, a notificação deve fazer-se pessoalmente, salvo se o proprietário não estiver em condições de a receber, sendo então feita em qualquer pessoa da sua residência, preferindo os parentes.
+2 - No caso previsto no número anterior, o veículo deve ser entregue à pessoa que para o efeito o tribunal designar como fiel depositário, sendo dispensado o pagamento prévio das despesas de remoção e depósito.
 
-3 - Não sendo possível proceder à notificação pessoal por se ignorar a identidade, ou a residência, do proprietário do veículo, a notificação deve ser afixada na câmara municipal da área onde o veículo tiver sido encontrado ou junto da última residência conhecida do proprietário, respectivamente.
-
-4 - A entrega do veículo ao reclamante depende da prestação de caução de valor equivalente às despesas de remoção e depósito.
-
-Aditado pelo seguinte diploma: Decreto-Lei n.º 2/98, de 03 de Janeiro
+3 - Na execução, os créditos pelas despesas de remoção e depósito gozam de privilégio mobiliário especial.

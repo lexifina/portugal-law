@@ -22,4 +22,4 @@ h) Nos troços de via em mau estado de conservação, molhados, enlameados ou qu
 
 i) Nos locais assinalados com sinais de perigo.
 
-2 - Quem infringir o disposto no número anterior é sancionado com coima de 10000$00 a 50000$00.
+2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 60 a (euro) 300.

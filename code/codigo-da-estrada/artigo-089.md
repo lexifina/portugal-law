@@ -4,4 +4,8 @@
 
 1 - O condutor interveniente em acidente deve fornecer aos restantes intervenientes a sua identificação, a do proprietário do veículo e a da seguradora, bem como o número da apólice, exibindo, quando solicitado, os documentos comprovativos.
 
-2 - Quem infringir o disposto no número anterior é sancionado com coima de 20000$00 a 100000$00.
+2 - Se do acidente resultarem mortos ou feridos o condutor deve aguardar, no local, a chegada de agente de autoridade.
+
+3 - Quem infringir o disposto no n.º 1 é sancionado com coima (euro) 120 a (euro) 600.
+
+4 - Quem infringir o disposto no n.º 2 é sancionado com coima de (euro) 360 a (euro) 1800, se sanção mais grave não for aplicável por força de outra disposição legal.

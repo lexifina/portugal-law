@@ -10,6 +10,6 @@
 
 4 - Os peões só podem utilizar as pistas referidas no número anterior quando não existam locais que lhes sejam especialmente destinados.
 
-5 - Quem infringir o disposto nos n.os 1 a 3 é sancionado com coima de 5000$00 a 25000$00.
+5 - Quem infringir o disposto nos n.os 1 a 3 é sancionado com coima de (euro) 30 a (euro) 150.
 
-6 - Quem infringir o disposto no n.º 4 é sancionado com coima de 1000$00 a 5000$00.
+6 - Quem infringir o disposto no n.º 4 é sancionado com coima de (euro) 6 a (euro) 30.

@@ -22,10 +22,10 @@ f) Não seja excedida a altura de 4 m a contar do solo;
 
 g) Tratando-se de veículos destinados ao transporte de passageiros ou mistos, aquela não ultrapasse os contornos envolventes do veículo, salvaguardando a correcta identificação dos dispositivos de sinalização e de iluminação e da matrícula;
 
-h) Tratando-se de veículos destinados ao transporte de mercadorias, aquela se contenha em comprimento e largura nos limites da caixa, salvo em condições excepcionais a definir em regulamento;
+h) Tratando-se de veículos destinados ao transporte de mercadorias, aquela se contenha em comprimento e largura nos limites da caixa, salvo em condições excepcionais fixadas em regulamento;
 
 i) Tratando-se de transporte de mercadorias a granel, aquela não exceda a altura definida pelo bordo superior dos taipais ou dispositivos análogos.
 
 4 - Consideram-se contornos envolventes do veículo os planos verticais que passam pelos seus pontos extremos.
 
-5 - Quem infringir o disposto nos n.os 1 a 3 é sancionado com coima de 10000$00 a 50000$00.
+5 - Quem infringir o disposto nos n.os 1 a 3 é sancionado com coima de (euro) 60 a (euro) 300.

@@ -12,7 +12,7 @@ b) De veículos agrícolas.
 
 3 - A licença de condução de veículos agrícolas habilita a conduzir uma ou mais das seguintes categorias de veículos:
 
-I - motocultivadores com semi-reboque ou retrotrem e tractocarros de peso bruto não superior a 2500 kg;
+I - Motocultivadores com semi-reboque ou retrotrem e tractocarros de peso bruto não superior a 2500 kg;
 
 II:
 
@@ -22,7 +22,7 @@ b) Tractores agrícolas ou florestais com reboque ou máquina agrícola ou flore
 
 c) Máquinas agrícolas ou florestais ligeiras e tractocarros de peso bruto superior a 2500 kg;
 
-III - tractores agrícolas ou florestais com ou sem reboque e máquinas agrícolas pesadas.
+III - Tractores agrícolas ou florestais com ou sem reboque e máquinas agrícolas pesadas.
 
 4 - Os titulares de licença de condução válida para motociclos de cilindrada não superior a 50 cm3 consideram-se habilitados para a condução de ciclomotores.
 
@@ -32,4 +32,4 @@ III - tractores agrícolas ou florestais com ou sem reboque e máquinas agrícol
 
 7 - Os titulares de licença de condução de veículos agrícolas válida para veículos da categoria III consideram-se habilitados para a condução de veículos das categorias I e II.
 
-8 - Quem, sendo titular de licença válida apenas para a condução de ciclomotores, conduzir motociclo de cilindrada não superior a 50 cm3 ou, sendo titular de licença de condução de veículos agrícolas, conduzir veículo agrícola ou florestal de categoria para a qual a mesma licença não confira habilitação é sancionado com coima de 20000$00 a 100000$00.
+8 - Quem, sendo titular de licença válida apenas para a condução de ciclomotores, conduzir motociclo de cilindrada não superior a 50 cm3 ou, sendo titular de licença de condução de veículos agrícolas, conduzir veículo agrícola ou florestal de categoria para a qual a mesma licença não confira habilitação é sancionado com coima de (euro) 120 a (euro) 600.

@@ -20,4 +20,4 @@ b) Quando as instruções dos agentes ferroviários ou a sinalização existente
 
 3 - Se a passagem de nível não dispuser de protecção ou sinalização, o condutor só pode iniciar o atravessamento depois de se certificar de que se não aproxima qualquer veículo ferroviário.
 
-4 - Quem infringir o disposto nos números anteriores é sancionado com coima de 20000$00 a 100000$00.
+4 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 120 a (euro) 600.

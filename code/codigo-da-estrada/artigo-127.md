@@ -10,10 +10,10 @@ a) Esteja habilitado, há pelo menos dois anos, a conduzir veículos da categori
 
 b) Seja maior de 21 anos e tenha sido aprovado em prova prática realizada em motociclo sem carro lateral e de potência igual ou superior a 35 kW.
 
-3 - Podem ser impostas aos condutores, em resultado de exame médico ou psicológico, restrições ao exercício da condução, prazos especiais para revalidação dos títulos ou adaptações específicas ao veículo que conduzam, as quais devem ser sempre mencionadas na respectiva carta ou licença.
+3 - Podem ser impostas aos condutores, em resultado de exame médico ou psicológico, restrições ao exercício da condução, prazos especiais para revalidação dos títulos ou adaptações específicas ao veículo que conduzam, as quais devem ser sempre mencionadas no respectivo título.
 
-4 - Quem conduzir veículo sem observar as restrições que lhe tenham sido impostas é sancionado com coima de 10000$00 a 50000$00, se sanção mais grave não estiver prevista para a infracção praticada.
+4 - Quem conduzir veículo sem observar as restrições que lhe tenham sido impostas é sancionado com coima de (euro) 60 a (euro) 300, se sanção mais grave não estiver prevista para a infracção praticada.
 
-5 - Quem conduzir veículo sem as adaptações específicas que tenham sido impostas nos termos do n.º 3 é sancionado com coima de 10000$00 a 50000$00.
+5 - Quem conduzir veículo sem as adaptações específicas que tenham sido impostas nos termos do n.º 3 é sancionado com coima de (euro) 60 a (euro) 300.
 
-6 - Quem infringir o disposto nos n.os 1 e 2 é sancionado com coima de 25000$00 a 125000$00.
+6 - Quem infringir o disposto nos n.os 1 e 2 é sancionado com coima de (euro) 150 a (euro) 750.

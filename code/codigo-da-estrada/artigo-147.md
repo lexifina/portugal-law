@@ -4,7 +4,7 @@
 
 São muito graves as seguintes contra-ordenações:
 
-a) A paragem ou o estacionamento nas faixas de rodagem, fora das localidades, a menos de 50 m dos cruzamentos e entroncamentos, curvas ou lombas de visibilidade insuficiente e, ainda, a paragem ou o estacionamento nas faixas de rodagem das auto-estradas;
+a) A paragem ou o estacionamento nas faixas de rodagem, fora das localidades, a menos de 50 m dos cruzamentos e entroncamentos, curvas ou lombas de visibilidade insuficiente e, ainda, a paragem ou o estacionamento nas faixas de rodagem das auto-estradas ou vias equiparadas;
 
 b) O estacionamento, de noite, nas faixas de rodagem, fora das localidades;
 
@@ -22,4 +22,4 @@ h) A infracção prevista na alínea b) do artigo anterior, quando o excesso de 
 
 i) A infracção prevista na alínea m) do artigo anterior, quando a taxa de álcool no sangue for igual ou superior a 0,8 g/l;
 
-j) A condução sob a influência de substâncias legalmente consideradas como estupefacientes ou psicotrópicas.
+j) A condução sob influência de substâncias legalmente consideradas como estupefacientes ou psicotrópicas.

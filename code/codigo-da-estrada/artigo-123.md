@@ -26,7 +26,7 @@ D + E - conjuntos de veículos compostos por veículo tractor da categoria D e r
 
 a) Tractores agrícolas ou florestais simples ou com equipamentos montados desde que o peso máximo não exceda 6000 kg;
 
-b) Máquinas agrícolas ou florestais ligeiras, motocultivadores, tractocarros e máquinas industriais ligeiras;
+b) Máquinas agrícolas ou florestais ligeiras, moto-cultivadores, tractocarros e máquinas industriais ligeiras;
 
 c) Motociclos e ciclomotores, ambos de três rodas, bem como os veículos englobados nestas categorias nos termos do n.º 3 do artigo 107.º
 
@@ -40,10 +40,10 @@ c) Outros tractores agrícolas ou florestais com ou sem reboque, máquinas agrí
 
 6 - Os titulares de carta de condução válida para veículos da categoria B + E consideram-se também habilitados para a condução de tractores agrícolas ou florestais com reboque ou com máquina agrícola ou florestal rebocada, desde que o peso bruto do conjunto não exceda 6000 kg.
 
-7 - Os titulares de carta de condução válida para conjuntos de veículos da categoria C + E ou D + E consideram-se também habilitados para a condução de conjuntos de veículos da categoria B + E.
+7 - Os titulares de carta de condução válida para conjuntos de veículos das categorias C + E ou D + E consideram-se também habilitados para a condução de conjuntos de veículos da categoria B + E.
 
 8 - Os titulares de carta de condução válida, simultaneamente, para veículos da categoria D e para conjuntos de veículos da categoria C + E consideram-se também habilitados para a condução de veículos da categoria D + E.
 
-9 - Quem conduzir veículo de qualquer das categorias referidas no n.º 1 para a qual a respectiva carta de condução não confira habilitação é sancionado com coima de 40000$00 a 200000$00.
+9 - Quem conduzir veículo de qualquer das categorias referidas no n.º 1 para a qual a respectiva carta de condução não confira habilitação é sancionado com coima de (euro) 240 a (euro) 1200.
 
-10 - Quem, sendo titular de carta de condução válida para a categoria B, B + E ou C, conduzir veículo agrícola ou florestal ou máquina para o qual a categoria averbada não confira habilitação é sancionado com coima de 20000$00 a 100000$00.
+10 - Quem, sendo titular de carta de condução válida para as categorias B ou B + E, conduzir veículo agrícola ou florestal ou máquina para o qual a categoria averbada não confira habilitação é sancionado com coima de (euro) 120 a (euro) 600.

@@ -16,4 +16,4 @@ b) Perante o sinal de paragem obrigatória em cruzamento ou entroncamento.
 
 3 - É proibida a utilização dos sinais que identificam a marcha dos veículos referidos no n.º 1 quando não transitem em missão urgente.
 
-4 - Quem infringir o disposto nos números anteriores é sancionado com coima de 10000$00 a 50000$00.
+4 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300.

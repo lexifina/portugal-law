@@ -6,4 +6,4 @@
 
 2 - Dentro das localidades, os condutores devem utilizar a via de trânsito mais conveniente ao seu destino, só lhes sendo permitida a mudança para outra, depois de tomadas as devidas precauções, a fim de mudar de direcção, ultrapassar, parar ou estacionar.
 
-3 - Quem infringir o disposto nos números anteriores é sancionado com coima de 10000$00 a 50000$00.
+3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300.

@@ -14,6 +14,6 @@
 
 4 - Sempre que, nos termos do artigo 59.º, seja obrigatória a utilização de dispositivos de sinalização luminosa, os condutores de veículos de tracção animal ou de animais em grupo devem utilizar uma lanterna de luz branca, visível em ambos os sentidos de trânsito.
 
-5 - Quem infringir o disposto nos números anteriores é sancionado com coima de 5000$00 a 25000$00.
+5 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 30 a (euro) 150.
 
-6 - O proprietário de animal que o deixe vaguear na via pública por forma a impedir ou fazer perigar o trânsito é sancionado com coima de 5000$00 a 25000$00.
+6 - O proprietário de animal que o deixe vaguear na via pública por forma a impedir ou fazer perigar o trânsito é sancionado com coima de (euro) 30 a (euro) 150.

@@ -10,6 +10,6 @@
 
 4 - As condições de utilização de dispositivos de alarme sonoro antifurto em veículos podem ser fixadas em regulamento.
 
-5 - Quem infringir o disposto no n.º 1 é sancionado com coima de 5000$00 a 25000$00.
+5 - Quem infringir o disposto no n.º 1 é sancionado com coima de (euro) 30 a (euro) 150.
 
-6 - Quem infringir o disposto nos n.os 2 e 3 é sancionado com coima de 10000$00 a 50000$00, se sanção mais grave não for aplicável por força de outro diploma legal.
+6 - Quem infringir o disposto nos n.os 2 e 3 é sancionado com coima de (euro) 60 a (euro) 300, se sanção mais grave não for aplicável por força de outro diploma legal.

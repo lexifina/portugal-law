@@ -1,17 +1,11 @@
 # Artigo 175.º
 
-### Hipoteca
+### Pessoas a notificar
 
-1 - Quando o veículo seja objecto de hipoteca, a remoção deve também ser notificada ao credor, para a residência constante do respectivo registo ou nos termos do n.º 3 do artigo anterior.
+1 - Existindo sobre o veículo um direito de usufruto, a notificação referida nos artigos 171.º e 172.º deve ser feita ao usufrutuário, aplicando-se ao proprietário, com as necessárias adaptações, o disposto no artigo 173.º
 
-2 - Da notificação ao credor deve constar a indicação dos termos em que a notificação foi feita ao proprietário e a data em que termina o prazo a que o artigo anterior se refere.
+2 - Em caso de locação financeira ou de locação por prazo superior a um ano, a notificação referida nos artigos 171.º e 172.º deve ser feita ao locatário, aplicando-se ao locador, com as necessárias adaptações, o disposto no artigo 173.º
 
-3 - O credor hipotecário pode requerer a entrega do veículo como fiel depositário, para o caso de, findo o prazo, o proprietário o não levantar.
+3 - Tendo o veículo sido vendido com reserva de propriedade e mantendo-se esta, a notificação referida nos artigos 171.º e 172.º deve ser feita ao adquirente, aplicando-se ao proprietário, com as necessárias adaptações, o disposto no artigo 173.º
 
-4 - O requerimento pode ser apresentado no prazo de 20 dias após a notificação ou até ao termo do prazo para levantamento do veículo pelo proprietário, se terminar depois daquele.
-
-5 - O veículo deve ser entregue ao credor hipotecário logo que se mostrem pagas todas as despesas ocasionadas pela remoção e depósito, devendo o pagamento ser feito dentro dos oito dias seguintes ao termo do último dos prazos a que se refere o artigo anterior.
-
-6 - O credor hipotecário tem direito de exigir do proprietário as despesas referidas no número anterior e as que efectuar na qualidade de fiel depositário.
-
-Aditado pelo seguinte diploma: Decreto-Lei n.º 2/98, de 03 de Janeiro
+4 - Nos casos em que, em virtude de facto sujeito a registo, haja posse do veículo, a notificação deve ser feita à pessoa que tiver a qualidade de possuidor, aplicando-se ao proprietário, com as necessárias adaptações, o disposto no artigo 173.º

@@ -1,33 +1,21 @@
-## SECÇÃO IV
+## SECÇÃO V
 
-## Apreensão de veículos
+## Abandono, bloqueamento e remoção de veículos
 
 # Artigo 169.º
 
-### Apreensão de veículos
+### Estacionamento indevido ou abusivo
 
-1 - O veículo deve ser apreendido pelas autoridades de investigação criminal ou de fiscalização de trânsito ou seus agentes quando:
+Considera-se estacionamento indevido ou abusivo:
 
-a) Transite com números de matrícula que não lhe correspondam ou não tenham sido legalmente atribuídos;
+a) O de veículo, durante 30 dias ininterruptos, em local da via pública ou em parque ou zona de estacionamento isentos do pagamento de qualquer taxa;
 
-b) Transite sem chapas de matrícula ou não se encontre matriculado, salvo nos casos permitidos por lei;
+b) O de veículo, em parque, quando as taxas correspondentes a cinco dias de utilização não tiverem sido pagas;
 
-c) Transite com números de matrícula que não sejam válidos para o trânsito em território nacional;
+c) O de veículo, em zona de estacionamento condicionado ao pagamento de taxa, quando esta não tiver sido paga ou tiverem decorrido duas horas para além do período de tempo pago;
 
-d) Transite, estando o respectivo certificado de matrícula apreendido, salvo se este tiver sido substituído por guia passada nos termos do artigo anterior;
+d) O de veículo que permanecer em local de estacionamento limitado mais de duas horas para além do período de tempo permitido;
 
-e) O respectivo registo de propriedade ou a titularidade do certificado de matrícula não tenham sido regularizados no prazo legal;
+e) O de veículos agrícolas, máquinas industriais, reboques e semi-reboques não atrelados ao veículo tractor e o de veículos publicitários que permaneçam no mesmo local por tempo superior a quarenta e oito horas, ou a 30 dias, se estacionarem em parques a esse fim destinados;
 
-f) Não tenha sido efectuado seguro de responsabilidade civil nos termos da lei.
-
-2 - Nos casos previstos no número anterior, o veículo não pode manter-se apreendido por mais de 90 dias devido a negligência do proprietário em promover a regularização da sua situação, sob pena de perda do mesmo a favor do Estado.
-
-3 - Nos casos previstos nas alíneas a) e b) do n.º 1, o veículo é colocado à disposição da autoridade judicial competente, sempre que tiver sido instaurado procedimento criminal.
-
-4 - Nos casos previstos nas alíneas c) a f) do n.º 1, pode o proprietário ser designado fiel depositário do veículo.
-
-5 - No caso de acidente, a apreensão referida na alínea f) do n.º 1 mantém-se até que se mostrem satisfeitas as indemnizações dele derivadas ou, se o respectivo montante não tiver sido determinado, até que seja prestada caução por quantia equivalente ao valor mínimo do seguro obrigatório.
-
-6 - Exceptuam-se do disposto na primeira parte do número anterior os casos em que as indemnizações tenham sido satisfeitas pelo Fundo de Garantia Automóvel nos termos de legislação própria.
-
-7 - O proprietário, usufrutuário, adquirente com reserva de propriedade ou locatário em regime de locação financeira responde pelo pagamento das despesas causadas pela apreensão do veículo.
+f) O que se verifique por tempo superior a quarenta e oito horas, quando se tratar de veículos que apresentem sinais exteriores evidentes de abandono ou de impossibilidade de se deslocarem com segurança pelos seus próprios meios.

@@ -1,15 +1,15 @@
 # Artigo 173.º
 
-### Presunção de abandono
+### Hipoteca
 
-1 - Removido o veículo, nos termos do artigo anterior, deve ser notificado o proprietário, para a residência constante do respectivo registo, para o levantar no prazo de 45 dias.
+1 - Quando o veículo seja objecto de hipoteca, a remoção deve também ser notificada ao credor, para a residência constante do respectivo registo ou nos termos do n.º 3 do artigo anterior.
 
-2 - Tendo em vista o estado geral do veículo, se for previsível um risco de deterioração que possa fazer recear que o preço obtido em venda em hasta pública não cubra as despesas decorrentes da remoção e depósito, o prazo previsto no número anterior é reduzido a 30 dias.
+2 - Da notificação ao credor deve constar a indicação dos termos em que a notificação foi feita ao proprietário e a data em que termina o prazo a que o artigo anterior se refere.
 
-3 - Os prazos referidos nos números anteriores contam-se a partir da recepção da notificação ou da sua afixação nos termos do artigo seguinte.
+3 - O credor hipotecário pode requerer a entrega do veículo como fiel depositário, para o caso de, findo o prazo, o proprietário o não levantar.
 
-4 - Se o veículo não for reclamado dentro do prazo previsto nos números anteriores é considerado abandonado e adquirido por ocupação pelo Estado ou pelas autarquias locais.
+4 - O requerimento pode ser apresentado no prazo de 20 dias após a notificação ou até ao termo do prazo para levantamento do veículo pelo proprietário, se terminar depois daquele.
 
-5 - O veículo é considerado imediatamente abandonado quando essa for a vontade manifestada expressamente pelo seu proprietário.
+5 - O veículo deve ser entregue ao credor hipotecário logo que se mostrem pagas todas as despesas ocasionadas pela remoção e depósito, devendo o pagamento ser feito dentro dos oito dias seguintes ao termo do último dos prazos a que se refere o artigo anterior.
 
-Aditado pelo seguinte diploma: Decreto-Lei n.º 2/98, de 03 de Janeiro
+6 - O credor hipotecário tem direito de exigir do proprietário as despesas referidas no número anterior e as que efectuar na qualidade de fiel depositário.

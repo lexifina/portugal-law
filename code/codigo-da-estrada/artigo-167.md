@@ -1,17 +1,31 @@
 # Artigo 167.º
 
-### Outros casos de apreensão de cartas e licenças de condução
+### Apreensão do documento de identificação do veículo
 
-1 - As cartas ou licenças de condução devem ser apreendidas para cumprimento da cassação da carta ou licença, proibição ou inibição de conduzir.
+1 - O documento de identificação do veículo deve ser apreendido pelas autoridades de investigação criminal ou de fiscalização ou seus agentes quando:
 
-2 - A entidade competente deve ainda determinar a apreensão das cartas ou licenças de condução quando:
+a) Suspeitem da sua contrafacção ou viciação fraudulenta;
 
-a) Qualquer dos exames realizados nos termos dos n.os 1 a 3 do artigo 129.º revelar incapacidade técnica ou inaptidão física, mental ou psicológica do examinando para conduzir com segurança;
+b) As características do veículo a que respeitam não confiram com as nele mencionadas, salvo tratando-se de motores de substituição devidamente registados ou de pneus de medida superior à indicada adaptáveis às rodas;
 
-b) O condutor não se apresentar a qualquer dos exames referidos na alínea anterior ou no n.º 3 do artigo 148.º, salvo se justificar a falta no prazo de cinco dias;
+c) Se encontre em estado de conservação que torne ininteligível qualquer indicação ou averbamento;
 
-c) A carta de condução tenha caducado nos termos do n.º 1 do artigo 130.º
+d) O veículo, em consequência de acidente, se mostre inutilizado;
 
-3 - Nos casos previstos nos números anteriores, o condutor é notificado para, no prazo de 20 dias, entregar a carta ou licença de condução à entidade competente, sob pena de desobediência.
+e) O veículo for apreendido;
 
-4 - Sem prejuízo da punição por desobediência, se o condutor não proceder à entrega da carta ou licença de condução nos termos do número anterior, pode a entidade competente determinar a sua apreensão, através da autoridade de fiscalização do trânsito e seus agentes.
+f) O veículo for encontrado a circular não oferecendo condições de segurança;
+
+g) Se verifique, em inspecção, que o veículo não oferece condições de segurança ou ainda, estando afecto a transportes públicos, não tenha a suficiente comodidade;
+
+h) Seja determinada a apreensão do veículo nos termos do n.º 4 do artigo 152.º
+
+2 - Com a apreensão do documento de identificação do veículo procede-se também à de todos os outros documentos que à circulação do veículo digam respeito, os quais são restituídos em simultâneo com aquele documento.
+
+3 - Nos casos previstos nas alíneas a), c) e g) do n.º 1, deve ser passada, em substituição do documento de identificação do veículo, uma guia válida pelo prazo e nas condições na mesma indicados.
+
+4 - Nos casos previstos nas alíneas b) e e) do n.º 1, deve ser passada guia válida apenas para o percurso até ao local de destino do veículo.
+
+5 - Deve ainda ser passada guia de substituição do documento de identificação do veículo, válida para os percursos necessários às reparações a efectuar para regularização da situação do veículo, bem como para a sua apresentação a inspecção.
+
+6 - Sem prejuízo do disposto nos n.os 3 a 5, quem conduzir veículo cujo documento de identificação tenha sido apreendido é sancionado com coima de (euro) 300 a (euro) 1500, quando se trate de automóvel, motociclo ou reboque, e de (euro) 180 a (euro) 900, quando se trate de outro veículo a motor.

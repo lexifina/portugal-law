@@ -6,4 +6,4 @@
 
 2 - Ao mudar de direcção, o condutor, mesmo não existindo passagem assinalada para a travessia de peões, deve reduzir a sua velocidade e, se necessário, parar a fim de deixar passar os peões que estejam a atravessar a faixa de rodagem da via em que vai entrar.
 
-3 - Quem infringir o disposto nos números anteriores é sancionado com coima de 20000$00 a 100000$00.
+3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 120 a (euro) 600.

@@ -20,7 +20,7 @@ a) Subcategoria A1: 16 anos;
 
 b) Categorias A, B e B + E: 18 anos;
 
-c) Categorias C e C + E: 21 anos ou 18 anos desde que, neste caso, possua certificado de aptidão profissional comprovativo da frequência, com aproveitamento, de um curso de formação de condutores de transportes rodoviários de mercadorias efectuado nos termos a fixar em regulamento;
+c) Categorias C e C + E: 21 anos ou 18 anos desde que, neste caso, possua certificado de aptidão profissional comprovativo da frequência, com aproveitamento, de um curso de formação de condutores de transportes rodoviários de mercadorias efectuado nos termos fixados em regulamento;
 
 d) Categorias D e D + E: 21 anos.
 
@@ -42,7 +42,7 @@ d) Veículos agrícolas da categoria III: 18 anos.
 
 7 - São fixados em regulamento:
 
-a) Os requisitos mínimos de aptidão física mental e psicológica para o exercício da condução e os modos da sua comprovação;
+a) Os requisitos mínimos de aptidão física, mental e psicológica para o exercício da condução e os modos da sua comprovação;
 
 b) As provas constitutivas dos exames de condução;
 

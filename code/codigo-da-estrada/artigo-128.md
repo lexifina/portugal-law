@@ -2,7 +2,7 @@
 
 ### Troca de títulos de condução
 
-1 - Podem ainda obter carta ou licença de condução com dispensa do respectivo exame e mediante entrega de título válido que possuam e comprovação dos requisitos fixados nas alíneas a) a d) do n.º 1 do artigo 126.º:
+1 - Podem ainda obter título de condução com dispensa do respectivo exame e mediante entrega de título válido que possuam e comprovação dos requisitos fixados nas alíneas a) a d) do n.º 1 do artigo 126.º:
 
 a) Os titulares de licenças de condução referidas nas alíneas b), c) e d) do n.º 1 do artigo 125.º;
 

@@ -1,51 +1,11 @@
 # Artigo 172.º
 
-### Remoção e bloqueamento
+### Reclamação de veículos
 
-1 - Podem ser removidos os veículos que se encontrem:
+1 - Da notificação deve constar a indicação do local para onde o veículo foi removido e, bem assim, que o proprietário o deve retirar dentro dos prazos referidos no artigo anterior e após o pagamento das despesas de remoção e depósito, sob pena de o veículo se considerar abandonado.
 
-a) Estacionados abusivamente, nos termos do artigo 170.º;
+2 - No caso previsto na alínea f) do artigo 169.º, se o veículo apresentar sinais evidentes de acidente, a notificação deve fazer-se pessoalmente, salvo se o proprietário não estiver em condições de a receber, sendo então feita em qualquer pessoa da sua residência, preferindo os parentes.
 
-b) Estacionados ou imobilizados na berma de auto-estrada ou via equiparada;
+3 - Não sendo possível proceder à notificação pessoal por se ignorar a identidade ou a residência do proprietário do veículo, a notificação deve ser afixada na câmara municipal da área onde o veículo tiver sido encontrado ou junto da última residência conhecida do proprietário, respectivamente.
 
-c) Estacionados ou imobilizados de modo a constituírem evidente perigo ou grave perturbação para o trânsito;
-
-d) Com sinais exteriores de manifesta inutilização do veículo, nos termos definidos em regulamento.
-
-2 - Para efeitos do disposto na alínea c) do número anterior, considera-se que constituem evidente perigo ou grave perturbação para o trânsito os seguintes casos de estacionamento ou imobilização:
-
-a) Em via ou corredor de circulação reservados a transportes públicos;
-
-b) Em local de paragem de veículos de transporte colectivo de passageiros;
-
-c) Em passagem de peões sinalizada;
-
-d) Em cima dos passeios ou em zona reservada exclusivamente ao trânsito de peões;
-
-e) Na faixa de rodagem, sem ser junto da berma ou passeio;
-
-f) Em local destinado ao acesso de veículos ou peões a propriedades, garagens ou locais de estacionamento;
-
-g) Em local destinado ao estacionamento de veículos de certas categorias ou afecto ao estacionamento de veículos ao serviço de determinadas entidades;
-
-h) Impedindo a formação de uma ou de duas filas de trânsito, conforme este se faça num ou em dois sentidos;
-
-i) Na faixa de rodagem, em segunda fila;
-
-j) Em local em que impeça o acesso a outros veículos devidamente estacionados ou a saída destes;
-
-l) De noite, na faixa de rodagem, fora das localidades, salvo em caso de imobilização por avaria devidamente sinalizada;
-
-m) Na faixa de rodagem de auto-estrada ou via equiparada.
-
-3 - Verificada qualquer das situações previstas nas alíneas a), b) e c) do n.º 1, as autoridades competentes para a fiscalização podem bloquear o veículo através de dispositivo adequado, impedindo a sua deslocação até que se possa proceder à remoção.
-
-4 - Na situação prevista na alínea c) do n.º 1, as autoridades competentes para a fiscalização podem, também, proceder à deslocação provisória do veículo para outro local, a fim de ser aí bloqueado até à remoção.
-
-5 - O desbloqueamento do veículo só pode ser feito pelas autoridades competentes sendo qualquer outra pessoa que o fizer sancionada com coima de 40000$00 a 200000$00.
-
-6 - Os proprietários, usufrutuários, adquirentes com reserva de propriedade ou locatários em regime de locação financeira são responsáveis por todas as despesas ocasionadas pela remoção, sem prejuízo das sanções legais aplicáveis, ressalvando o direito de regresso contra o condutor.
-
-7 - As taxas devidas pela remoção de veículos, bem como pelo depósito dos mesmos, são aprovadas por regulamento.
-
-8 - As taxas não são devidas quando se verificar que houve errada aplicação das disposições legais.
+4 - A entrega do veículo ao reclamante depende da prestação de caução de valor equivalente às despesas de remoção e depósito.

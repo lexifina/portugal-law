@@ -6,4 +6,4 @@
 
 2 - Em caso de avaria nas luzes, os velocípedes devem ser conduzidos à mão.
 
-3 - Quem infringir o disposto no n.º 2 é sancionado com coima de 5000$00 a 25000$00.
+3 - Quem infringir o disposto no n.º 2 é sancionado com coima de (euro) 30 a (euro) 150.

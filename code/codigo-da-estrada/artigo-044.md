@@ -6,4 +6,4 @@
 
 2 - Se tanto na via que vai abandonar como naquela em que vai entrar o trânsito se processa nos dois sentidos, o condutor deve efectuar a manobra de modo a dar a esquerda ao centro de intersecção das duas vias.
 
-3 - Quem infringir o disposto nos números anteriores é sancionado com coima de 10000$00 a 50000$00.
+3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300.

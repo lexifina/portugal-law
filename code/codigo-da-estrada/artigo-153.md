@@ -2,11 +2,11 @@
 
 ### Cumprimento voluntário
 
-1 - É admitido o pagamento voluntário da coima, pelo montante mínimo, nos termos e com os efeitos estabelecidos nos números seguintes.
+1 - É admitido o pagamento voluntário da coima, pelo mínimo, nos termos e com os efeitos estabelecidos nos números seguintes.
 
 2 - A opção de pagamento pelo mínimo e sem acréscimo de custas deve verificar-se no prazo de 20 dias a contar da notificação para o efeito.
 
-3 - A ausência de acréscimo de custas prevista no número anterior não abrange as despesas decorrentes dos exames médicos e análises toxicológicas efectuados com vista à detecção de álcool, estupefacientes, substâncias psicotrópicas ou produtos com efeito análogo no sangue.
+3 - A dispensa de custas prevista no número anterior não abrange as despesas decorrentes dos exames médicos e análises toxicológicas legalmente previstos para a determinação dos estados de influenciado pelo álcool ou por substâncias legalmente consideradas como estupefacientes ou psicotrópicas.
 
 4 - Em qualquer altura do processo, mas sempre antes da decisão, pode ainda o arguido optar pelo pagamento voluntário da coima, a qual, neste caso, é liquidada pelo mínimo, sem prejuízo das custas que forem devidas.
 

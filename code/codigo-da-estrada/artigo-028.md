@@ -10,8 +10,8 @@ b) Limites máximos de velocidade instantânea inferiores ou superiores aos esta
 
 2 - Os limites referidos no número anterior devem ser sinalizados ou, se temporários e não sendo possível a sinalização, divulgados pelos meios de comunicação social, afixação de painéis de informação ou outro meio adequado.
 
-3 - A circulação de veículos a motor na via pública pode ser condicionada à incorporação de dispositivos limitadores de velocidade, nos termos a definir em regulamento.
+3 - A circulação de veículos a motor na via pública pode ser condicionada à incorporação de dispositivos limitadores de velocidade, nos termos fixados em regulamento.
 
-4 - É aplicável às infracções aos limites máximos estabelecidos nos termos deste artigo o disposto no n.º 3 do artigo anterior.
+4 - É aplicável às infracções aos limites máximos estabelecidos nos termos deste artigo o disposto no n.º 2 do artigo anterior.
 
-5 - Quem infringir os limites mínimos de velocidade instantânea estabelecidos nos termos deste artigo é sancionado com coima de 5000$00 a 25000$00.
+5 - Quem infringir os limites mínimos de velocidade instantânea estabelecidos nos termos deste artigo é sancionado com coima de (euro) 30 a (euro) 150.

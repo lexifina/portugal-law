@@ -10,4 +10,4 @@
 
 2 - O sinal deve manter-se enquanto se efectua a manobra e cessar logo que ela esteja concluída.
 
-3 - Quem infringir o disposto nos número anteriores é sancionado com coima de 10000$00 a 50000$00.
+3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300.

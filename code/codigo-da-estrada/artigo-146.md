@@ -28,8 +28,8 @@ i) O desrespeito da obrigação de parar imposta pelo agente fiscalizador ou reg
 
 j) A transposição ou a circulação em desrespeito de uma linha longitudinal contínua delimitadora de sentidos de trânsito ou de uma linha mista com o mesmo significado;
 
-l) O trânsito sem iluminação do veículo, quando obrigatória;
+l) O trânsito de veículos sem utilização dos dispositivos de iluminação, quando obrigatória;
 
-m) A condução sob influência do álcool, quando a taxa de álcool no sangue for igual ou superior a 0,5 g/l;
+m) A condução sob influência de álcool, quando a taxa de álcool no sangue for igual ou superior a 0,5 g/l;
 
 n) A não utilização do sinal de pré-sinalização de perigo, quando obrigatório, fora das localidades.

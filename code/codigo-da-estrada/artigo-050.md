@@ -26,4 +26,4 @@ a) De noite, nas faixas de rodagem;
 
 b) Nas faixas de rodagem assinaladas com o sinal 'via com prioridade'.
 
-3 - Quem infringir o disposto nos números anteriores é sancionado com coima de 5000$00 a 25000$00, salvo se se tratar do disposto nas alíneas c) e f) do n.º 1 e b) do n.º 2, casos em que é sancionado com coima de 10000$00 a 50000$00, ou na alínea a) do n.º 2, em que a coima é de 40000$00 a 200000$00.
+3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 30 a (euro) 150, salvo se se tratar do disposto nas alíneas c) e f) do n.º 1 e b) do n.º 2, casos em que é sancionado com coima de (euro) 60 a (euro) 300, ou na alínea a) do n.º 2, em que a coima é de (euro) 240 a (euro) 1200.

@@ -12,4 +12,4 @@
 
 3 - É proibida a reparação de veículos na via pública, salvo se for indispensável à respectiva remoção ou, tratando-se de avarias de fácil reparação, ao prosseguimento da marcha.
 
-4 - Quem infringir o disposto nos números anteriores é sancionado com coima de 5000$00 a 25000$00, se outra não for especialmente aplicável.
+4 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 30 a (euro) 150, se outra não for especialmente aplicável.

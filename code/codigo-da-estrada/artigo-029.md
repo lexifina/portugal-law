@@ -14,4 +14,4 @@
 
 2 - O condutor com prioridade de passagem deve observar as cautelas necessárias à segurança do trânsito.
 
-3 - Quem infringir o disposto nos números anteriores é sancionado com coima de 20000$00 a 100000$00.
+3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 120 a (euro) 600.

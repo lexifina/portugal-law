@@ -22,4 +22,4 @@ c) De qualquer veículo, perante um conjunto de veículos;
 
 d) Perante veículos da mesma categoria, aquele que for a subir, salvo se for manifestamente mais fácil a manobra para o condutor do veículo que desce.
 
-3 - Quem infringir o disposto nos números anteriores é sancionado com coima de 10000$00 a 50000$00.
+3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300.

@@ -8,4 +8,4 @@ a) Dois médios, ou um médio do lado esquerdo e dois mínimos para a frente, um
 
 b) Luzes de perigo, caso em que apenas podem transitar pelo tempo estritamente necessário à sua circulação até um lugar de paragem ou estacionamento.
 
-2 - Quem infringir o disposto no número anterior é sancionado com coima de 10000$00 a 50000$00.
+2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 60 a (euro) 300.

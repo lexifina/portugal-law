@@ -16,6 +16,6 @@
 
 7 - É proibida a utilização de reboques em transporte público de passageiros.
 
-8 - Exceptua-se do disposto nos n.os 6 e 7 a utilização de um reboque destinado ao transporte de bagagem nos veículos pesados afectados ao transporte de passageiros, de reboques em comboios turísticos, bem como, nos termos a fixar em regulamento local, de reboques em tractores agrícolas ou florestais.
+8 - Exceptua-se do disposto nos n.os 6 e 7 a utilização de um reboque destinado ao transporte de bagagem nos veículos pesados afectos ao transporte de passageiros, de reboques em comboios turísticos, bem como, nos termos a fixar em regulamento local, de reboques em tractores agrícolas ou florestais.
 
-9 - Quem infringir o disposto nos n.os 6 e 7 é sancionado com coima de 20000$00 a 100000$00.
+9 - Quem infringir o disposto nos n.os 6 e 7 é sancionado com coima de (euro) 120 a (euro) 600.

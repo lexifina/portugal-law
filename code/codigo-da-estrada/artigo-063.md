@@ -14,4 +14,4 @@ b) Quando o veículo esteja a ser rebocado.
 
 4 - Nos casos previstos no número anterior devem ser usadas luzes de presença se não for possível a utilização das luzes de perigo.
 
-5 - Quem infringir o disposto nos n.os 2, 3 e 4 é sancionado com coima de 10000$00 a 50000$00.
+5 - Quem infringir o disposto nos n.os 2, 3 e 4 é sancionado com coima de (euro) 60 a (euro) 300.

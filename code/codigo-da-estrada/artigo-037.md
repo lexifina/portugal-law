@@ -10,4 +10,4 @@ a) Não estejam parados para a entrada ou saída de passageiros;
 
 b) Estando parados para a entrada ou saída de passageiros, exista placa de refúgio para peões.
 
-3 - Quem infringir o disposto no n.º 1 é sancionado com coima de 20000$00 a 100000$00.
+3 - Quem infringir o disposto no n.º 1 é sancionado com coima de (euro) 120 a (euro) 600.

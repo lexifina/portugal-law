@@ -16,4 +16,4 @@ d) O condutor que o antecede na mesma via não assinalou a intenção de ultrapa
 
 3 - O condutor deve retomar a direita logo que conclua a manobra e o possa fazer sem perigo.
 
-4 - Quem infringir o disposto nos números anteriores é sancionado com coima de 20000$00 a 100000$00.
+4 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 120 a (euro) 600.

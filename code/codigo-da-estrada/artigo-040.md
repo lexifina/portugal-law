@@ -8,4 +8,4 @@
 
 3 - Sempre que a largura livre da faixa de rodagem, o seu perfil ou o estado de conservação da via não permitam que a ultrapassagem se faça em termos normais com a necessária segurança, os condutores dos veículos referidos no n.º 1 devem reduzir a velocidade e parar, se necessário, para facilitar a ultrapassagem.
 
-4 - Quem infringir o disposto nos n.os 1 e 3 é sancionado com coima de 10000$00 a 50000$00.
+4 - Quem infringir o disposto nos n.os 1 e 3 é sancionado com coima de (euro) 60 a (euro) 300.

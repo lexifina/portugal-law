@@ -20,10 +20,10 @@ d) Nas vias públicas em que esteja proibido o trânsito de veículos;
 
 e) Quando sigam em formação organizada sob a orientação de um monitor ou em cortejo.
 
-3 - Nos casos previstos nas alíneas b), c) e e) do número anterior os peões podem transitar pelas pistas a que se refere o artigo 78., desde que a intensidade do trânsito o permita e não prejudiquem a circulação dos veículos ou animais a que aquelas estão afectas.
+3 - Nos casos previstos nas alíneas b), c) e e) do número anterior os peões podem transitar pelas pistas a que se refere o artigo 78.º, desde que a intensidade do trânsito o permita e não prejudiquem a circulação dos veículos ou animais a que aquelas estão afectas.
 
 4 - Sempre que transitem na faixa de rodagem, desde o anoitecer ao amanhecer e sempre que as condições de visibilidade ou a intensidade do trânsito o aconselhem, os peões devem transitar numa única fila, salvo quando seguirem em cortejo ou formação organizada nos termos previstos no artigo 102.º
 
-5 - Quem infringir o disposto nos números anteriores é sancionado com coima de 1000$00 a 5000$00.
+5 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 6 a (euro) 30.
 
-6 - Quem, com violação dos deveres de cuidado e de protecção, não impedir que os menores de 16 anos que, por qualquer título, se encontrem a seu cargo brinquem nas faixas de rodagem das vias públicas é sancionado com coima de 5000$00 a 25000$00.
+6 - Quem, com violação dos deveres de cuidado e de protecção, não impedir que os menores de 16 anos que, por qualquer título, se encontrem a seu cargo brinquem nas faixas de rodagem das vias públicas é sancionado com coima de (euro) 30 a (euro) 150.

@@ -18,10 +18,10 @@ b) Seguir com os pés fora dos pedais ou apoios;
 
 c) Fazer-se rebocar;
 
-d) Levantar a roda da frente no arranque ou em circulação;
+d) Levantar a roda da frente ou de trás no arranque ou em circulação;
 
 e) Seguir a par, salvo se transitarem em pista especial e não causarem perigo ou embaraço para o trânsito.
 
 2 - Os condutores de velocípedes devem transitar o mais próximo possível das bermas ou passeios, mesmo nos casos em que, no mesmo sentido de trânsito, sejam possíveis duas ou mais filas.
 
-3 - Quem infringir o disposto nos números anteriores é sancionado com coima de 5000$00 a 25000$00.
+3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 30 a (euro) 150.

@@ -1,31 +1,33 @@
+## SECÇÃO IV
+
+## Apreensão de veículos
+
 # Artigo 168.º
 
-### Apreensão do certificado de matrícula
+### Apreensão de veículos
 
-1 - O certificado de matrícula deve ser apreendido pelas autoridades de investigação criminal ou de fiscalização de trânsito ou seus agentes quando:
+1 - O veículo deve ser apreendido pelas autoridades de investigação criminal ou de fiscalização ou seus agentes quando:
 
-a) Suspeitem da sua contrafacção ou viciação fraudulenta;
+a) Transite com números de matrícula que não lhe correspondam ou não tenham sido legalmente atribuídos;
 
-b) As características do veículo a que respeitam não confiram com as nele mencionadas, salvo tratando-se de motores de substituição devidamente registados ou de pneus de medida superior à indicada adaptáveis às rodas;
+b) Transite sem chapas de matrícula ou não se encontre matriculado, salvo nos casos permitidos por lei;
 
-c) Se encontre em estado de conservação que tome ininteligível qualquer indicação ou averbamento;
+c) Transite com números de matrícula que não sejam válidos para o trânsito em território nacional;
 
-d) O veículo, em consequência de acidente, se mostre inutilizado;
+d) Transite estando o respectivo documento de identificação apreendido, salvo se este tiver sido substituído por guia passada nos termos do artigo anterior;
 
-e) O veículo for apreendido;
+e) O respectivo registo de propriedade ou a titularidade do documento de identificação não tenham sido regularizados no prazo legal;
 
-f) O veículo for encontrado a circular não oferecendo condições de segurança;
+f) Não tenha sido efectuado seguro de responsabilidade civil nos termos da lei.
 
-g) Se verifique, em inspecção, que o veículo não oferece condições de segurança ou ainda, estando afectado a transportes públicos, não tenha a suficiente comodidade;
+2 - Nos casos previstos no número anterior, o veículo não pode manter-se apreendido por mais de 90 dias devido a negligência do proprietário em promover a regularização da sua situação, sob pena de perda do mesmo a favor do Estado.
 
-h) Seja determinada a apreensão do veículo nos termos do n.º 3 do artigo 152.º
+3 - Nos casos previstos nas alíneas a) e b) do n.º 1, o veículo é colocado à disposição da autoridade judicial competente, sempre que tiver sido instaurado procedimento criminal.
 
-2 - Com a apreensão do certificado de matrícula procede-se também à de todos os outros documentos que à circulação do veículo digam respeito, os quais são restituídos em simultâneo com aquele documento.
+4 - Nos casos previstos nas alíneas c) a f) do n.º 1, pode o proprietário ser designado fiel depositário do veículo.
 
-3 - Nos casos previstos nas alíneas a), c) e g) do n.º 1, deve ser passada, em substituição do certificado de matrícula, uma guia válida pelo prazo e nas condições na mesma indicados.
+5 - No caso de acidente, a apreensão referida na alínea f) do n.º 1 mantém-se até que se mostrem satisfeitas as indemnizações dele derivadas ou, se o respectivo montante não tiver sido determinado, até que seja prestada caução por quantia equivalente ao valor mínimo do seguro obrigatório.
 
-4 - Nos casos previstos nas alíneas b), e) e f) do n.º 1, deve ser passada guia válida apenas para o percurso até ao local de destino do veículo.
+6 - Exceptuam-se do disposto na primeira parte do número anterior os casos em que as indemnizações tenham sido satisfeitas pelo Fundo de Garantia Automóvel nos termos de legislação própria.
 
-5 - Deve ainda ser passada guia de substituição do certificado de matrícula, válida para os percursos necessários às reparações a efectuar para regularização da situação do veículo, bem como para a sua apresentação a inspecção.
-
-6 - Sem prejuízo do disposto nos n.os 3 a 5, quem conduzir veículo cujo certificado de matrícula tenha sido apreendido é sancionado com coima de 50000$00 a 250000$00, quando se trate de automóvel, motociclo ou reboque, e de 30000$00 a 150000$00, quando se trate de outro veículo a motor.
+7 - Quem for proprietário, adquirente com reserva de propriedade, usufrutuário, locatário em regime de locação financeira, locatário por prazo superior a um ano ou quem, em virtude de facto sujeito a registo, tiver a posse do veículo, responde pelo pagamento das despesas causadas pela apreensão do veículo.

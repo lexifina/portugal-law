@@ -26,4 +26,4 @@ a) A menos de 50 m para um e outro lado dos cruzamentos, entroncamentos, curvas 
 
 b) Nas faixas de rodagem, sendo possível a paragem ou estacionamento fora delas.
 
-3 - Quem infringir o disposto nos números anteriores é sancionado com coima de 5000$00 a 25000$00.
+3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 30 a (euro) 150.

@@ -8,4 +8,4 @@
 
 1 - Nos cruzamentos e entroncamentos o condutor deve ceder a passagem aos veículos que se lhe apresentem pela direita.
 
-2 - Quem infringir o disposto no número anterior é sancionado com coima de 20000$00 a 100000$00.
+2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 120 a (euro) 600.

@@ -18,4 +18,4 @@ d) Onde quer que a visibilidade seja insuficiente ou que a via, pela sua largura
 
 e) Sempre que se verifique grande intensidade de trânsito.
 
-2 - Quem infringir o disposto no número anterior é sancionado com coima de 20000$00 a 100000$00.
+2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 120 a (euro) 600.

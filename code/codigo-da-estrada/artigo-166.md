@@ -1,17 +1,17 @@
-## SECÇÃO III
-
-## Apreensão de documentos
-
 # Artigo 166.º
 
-### Apreensão preventiva de cartas e licenças de condução
+### Outros casos de apreensão de títulos de condução
 
-1 - As cartas e licenças de condução devem ser preventivamente apreendidas pelas autoridades de investigação criminal ou de fiscalização do trânsito ou seus agentes, quando:
+1 - Os títulos de condução devem ser apreendidos para cumprimento da cassação do título, proibição ou inibição de conduzir.
 
-a) Suspeitem da sua contrafacção ou viciação fraudulenta;
+2 - A entidade competente deve ainda determinar a apreensão dos títulos de condução quando:
 
-b) Tiver expirado o seu prazo de validade;
+a) Qualquer dos exames realizados nos termos dos n.os 1 e 3 do artigo 129.º revelar incapacidade técnica ou inaptidão física, mental ou psicológica do examinando para conduzir com segurança;
 
-c) Se encontrem em estado de conservação que torne ininteligível qualquer indicação ou averbamento.
+b) O condutor não se apresentar a qualquer dos exames referidos na alínea anterior ou no n.º 3 do artigo 148.º, salvo se justificar a falta no prazo de cinco dias;
 
-2 - Nos casos previstos nas alíneas a) e c) do número anterior, deve, em substituição da licença, ser fornecida uma guia de condução válida pelo tempo julgado necessário e renovável quando ocorra motivo justificado.
+c) Tenha caducado nos termos do n.º 1 do artigo 130.º
+
+3 - Nos casos previstos nos números anteriores, o condutor é notificado para, no prazo de 20 dias, entregar o título de condução à entidade competente, sob pena de desobediência.
+
+4 - Sem prejuízo da punição por desobediência, se o condutor não proceder à entrega do título de condução nos termos do número anterior, pode a entidade competente determinar a sua apreensão, através da autoridade de fiscalização e seus agentes.
