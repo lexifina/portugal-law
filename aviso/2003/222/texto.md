@@ -1,0 +1,5 @@
+Aviso n.º 222/2003
+Por ordem superior se torna público que o Governo da República Portuguesa depositou, em 3 de Outubro de 2003, junto do Secretário-Geral do Conselho da Europa, o instrumento de ratificação ao Protocolo n.º 13 da Convenção Europeia dos Direitos do Homem e das Liberdades Fundamentais, Relativo à Abolição da Pena de Morte em Quaisquer Circunstâncias, de 2002.
+O referido Protocolo n.º 13 foi aprovado, para ratificação, pela Resolução da Assembleia da República n.º 44/2003, publicada no Diário da República, 1.ª série-A, n.º 119, de 23 de Maio de 2003, e ratificado pelo Decreto do Presidente da República n.º 33/2003, publicado no Diário da República, 1.ª série-A, n.º 119, de 23 de Maio de 2003.
+Nos termos do n.º 2 do seu artigo 7.º, o referido Protocolo entrará em vigor, relativamente a Portugal, em 1 de Fevereiro de 2004.
+Direcção-Geral dos Assuntos Multilaterais, 23 de Outubro de 2003. - O Director de Serviços das Organizações Políticas Internacionais, Bernardo Fernandes Homem de Lucena.
