@@ -1,0 +1,8 @@
+Despacho Normativo n.º 22/2000
+O Regulamento (CEE) n.º 3508/92, do Conselho, de 27 de Novembro, prevê a necessidade de apresentação de pedidos de ajuda, remetendo para o Estado membro a definição dos respectivos prazos, em obediência aos limites estabelecidos pela legislação comunitária.
+Através do Despacho Normativo n.º 9/2000, de 8 de Fevereiro, foram estabelecidas as competências, metodologia, tramitação, procedimentos e calendários das candidaturas feitas ao abrigo do citado regulamento.
+As condições climatéricas adversas entretanto ocorridas levaram à alteração da aplicação das regras estabelecidas no Despacho Normativo n.º 64/99, de 24 de Novembro, que estabelece medidas relativas ao regime de apoio aos produtores de culturas arvenses, no sentido de minorar os efeitos da escassez de recursos hídricos sobre os rendimentos dos produtores, bem como à alteração do prazo de apresentação do pedido de ajuda «superfícies» (modelo A) previsto no Despacho Normativo n.º 9/2000.
+A apresentação do pedido de ajuda «animais» (modelo N) deverá ocorrer em simultâneo com a apresentação daquele pedido, dada a interdependência entre os dois, no tocante às áreas forrageiras, pelo que também o prazo de apresentação destas últimas candidaturas carece ser alterado.
+Assim e tendo em conta o disposto no Regulamento (CEE) n.º 3508/92, do Conselho, de 27 de Novembro, determina-se o seguinte:
+O prazo previsto no Despacho Normativo n.º 9/2000, de 8 de Fevereiro, para a apresentação do pedido de ajuda «animais» (modelo N) é prorrogado para 28 de Abril de 2000.
+Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, 3 de Abril de 2000. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.
