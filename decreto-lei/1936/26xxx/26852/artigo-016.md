@@ -1,6 +1,10 @@
 # Artigo 16.º
 
-Os requerimentos, acompanhadas dos respectivos projectos, serão entregues na Repartição dos Serviços Eléctricos, em Lisboa, ou nas secções de fiscalização eléctrica do Pôrto ou Coimbra, que imediatamente os remeterão à Repartição dos Serviços Eléctricos; se o requerente assim o desejar, poderão os projectos ser acompanhados de uma relação nominativa, em duplicado, de todos os documentos apresentados, ficando o original dessa relação, com a nota da data da recepção, junto ao processo e entregando-se o duplicado, com o competente recibo, ao interessado.
+1. Os requerimentos, acompanhados dos respectivos projectos, serão entregues na Direcção-Geral dos Serviços Eléctricos, em Lisboa, ou nas direcções de fiscalização eléctrica, que os remeterão à Direcção-Geral.
+
+2. Se se tratar de redes de tracção eléctrica urbana, o requerimento, acompanhado do projecto, em sextuplicado, será dirigido ao director-geral dos Transportes Terrestres, que remeterá à Direcção-Geral dos Serviços Eléctricos três exemplares do projecto com o respectivo parecer.
+
+3. Além destes documentos, sempre que, para a execução das instalações, seja necessária a ocupação de quaisquer domínios públicos ou particulares e as instalações não gozem de declaração de utilidade pública, deverá o requerente apresentar declaração escrita em papel selado e reconhecida por notário público, de que se obriga a obter as autorizações para a ocupação desses domínios, dadas pelos proprietários ou entidades competentes ou seus legítimos representantes, e de que só depois de obtidas essas autorizações procederá à montagem da instalação projectada.
 
 § 1.º Com os projectos das linhas ou ramais de tracção eléctrica deverá o concessionário apresentar documento comprovativo de que os traçados a construir obtiveram a aprovação prévia da câmara municipal do respectivo concelho, o que constitue condição essencial para que a licença possa ser concedida; considera-se como prova suficiente dessa aprovação a apresentação de um dos exemplares da planta a que se refere a alínea a) do artigo anterior, da qual constem todos os traçados a estabelecer, visado e autenticado pela câmara municipal.
 

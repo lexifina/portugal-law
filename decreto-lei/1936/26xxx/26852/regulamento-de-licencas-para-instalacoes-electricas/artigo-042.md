@@ -1,5 +1,0 @@
-# Artigo 42.º
-
-O chefe da secção de fiscalização eléctrica mandará, dentro do menor prazo compatível com as exigências do serviço, proceder a essa vistoria, na qual se verificará se o estabelecimento da instalação satisfaz a todas as prescrições técnicas e de segurança regulamentares, fazendo-se as medidas e ensaios necessários para apreciar devidamente as condições do seu funcionamento e da segurança da sua exploração, devendo o funcionário ou funcionários que procederem à vistoria elaborar um relatório, do qual constarão os resultados das medidas e ensaios efectuados, bem como o seu parecer e propostas fundamentadas sôbre o assunto, tendo especialmente em vista a segurança pública e a da exploração da instalação e das canalizações telegráficas, telefónicas e outras preexistentes.
-
-§ único. Quando se tratar de rêdes de baixa tensão deverão em geral fazer-se, se as necessidades do serviço o permitirem, medições da tensão nos pontos extremos da rêde e nos seus pontos de alimentação, quanto possível à hora da carga máxima, para verificar se a queda de tensão nos condutores excede as tolerâncias admissíveis.

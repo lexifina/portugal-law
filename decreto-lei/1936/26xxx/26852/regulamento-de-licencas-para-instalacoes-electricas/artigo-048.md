@@ -1,3 +1,7 @@
+## Capítulo IV
+
+## Abertura à exploração
+
 ## Capítulo V
 
 ## Condições a que deve satisfazer o estabelecimento das instalações eléctricas

@@ -1,5 +1,0 @@
-# Artigo 47.º
-
-A licença de exploração será concedida por meio de um título, que, pela Repartição dos Serviços Eléctricos, será enviado ao interessado, e do qual constará uma descrição sumária da instalação, indicando a sua potência, tensão, destino, comprimento das linhas de alta tensão e outros esclarecimentos que forem necessários para a identificar, a data em que foi concedida a licença de estabelecimento e a entidade que a concedeu, a data em que foi realizada a primeira vistoria e a data do despacho do presidente da Junta de Electrificação Nacional que mandou conceder a licença de exploração. Êste título será assinado pelo chefe da secção de licenças da Repartição dos Serviços Eléctricos.
-
-§ único. No caso das instalações abrangidas pelas disposições do artigo 27.º não se passará título de licença, mas um dos exemplares do projecto será devolvido ao concessionário, devidamente visado, acompanhado de um ofício em que lhe será dado conhecimento do despacho que autorizou a exploração, o qual poderá ser também averbado nas peças do projecto, se o concessionário assim o desejar.
