@@ -1,0 +1,19 @@
+Decreto-Lei n.º 169/89
+de 26 de Maio
+Verificando-se que o Decreto-Lei n.º 310/75, de 26 de Junho, alterou o Decreto-Lei n.º 47188, de 8 de Setembro de 1966, na norma relativa à graduação em brigadeiro ou contra-almirante do capelão-mor das forças armadas quando a nomeação para este cargo recaísse em sacerdote com a dignidade episcopal;
+Considerando que, em nomeação canónica, é dado um bispo auxiliar ao ordinário castrense, o qual irá desempenhar as funções de capelão-chefe das forças armadas, pelo que, em virtude da sua dignidade episcopal, deverá o mesmo ser graduado em oficial general na hierarquia militar:
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+Artigo único. É alterado o artigo 12.º do Decreto-Lei n.º 47188, de 8 de Setembro de 1966, com as alterações introduzidas pelos Decretos-Leis n.os 44/71, de 20 de Fevereiro, e 310/75, de 26 de Junho, que passa a ter a seguinte redacção:
+Art. 12.º - 1 - ...
+a) ...
+b) ...
+c) ...
+d) ...
+2 - A graduação em tenente-coronel ou capitão-de-fragata é reservada ao adjunto da chefia do Serviço de Assistência Religiosa das Forças Armadas e aos chefes do Serviço dos três ramos, e a de brigadeiro ou contra-almirante é reservada ao chefe do Serviço de Assistência Religiosa das Forças Armadas quando o mesmo tiver dignidade episcopal.
+3 - ...
+Visto e aprovado em Conselho de Ministos de 13 de Abril de 1989. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe.
+Promulgado em 11 de Maio de 1989.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 16 de Maio de 1989.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
