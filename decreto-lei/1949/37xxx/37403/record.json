@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1949/05/09600/03150316.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1949-05-07",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "8f0558d4f7990718a9d075541b8c5fb7f7792c910985c27307bf8ffdf250ea09",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.6,
+    "pages": 2,
+    "columns": [
+      3,
+      3
+    ],
+    "pdf_sha256": "9e80c671c0892c38f3d3f47654c65504ee3ce2bdd54585e5073bac643c6fc607",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 542
 }
