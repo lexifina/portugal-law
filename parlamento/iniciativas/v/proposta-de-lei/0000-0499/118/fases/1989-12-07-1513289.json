@@ -1,0 +1,5583 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=MRYJuhixLprdDZP0qa9QAbZG6MrNbXEEkLuaEsDiDnmIHJn4bjW0JpBpFk32D0WoxBoeleyRkYwEGBdlGGdpL6myupDEOPu3wiwvXnUfeX6UgetMgvWZBTpLirqB%2fnjb9LedSZaRp%2fTa8McpQNlh9xukBsDXz13D1o%2f%2fzKqDW5HQ6GE6E8eSM3iLLznMPgeEMe5EH57iS3Gd%2bJwJm%2bIWYe2J2PD1Z65tw%2fCSaSi4PjVrvpQbMuRC7y6ebuX96LslirpDy6yDC2BqiJWuQf7NOvHg%2bAkOMBXJTAsdsEAFAf202EAokCkkWE%2bfwpn5Yi8zaJq8PHI7SKQTyMwNT%2fpI%2bLKqhN8suc%2bj3U%2b2EJUGGxA%3d&fich=IniciativasV_json.txt&Inline=true",
+  "ficheiro_sha256": "9c763268565d732afd22b69013fb479f1a9418044822cd6045d73e294eed3e15",
+  "legislatura": "V",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "118",
+    "id": "29203",
+    "titulo": "Grandes Opções do Plano para 1990"
+  },
+  "fase": "Discussão especialidade",
+  "codigo_fase": "300",
+  "data_registo": "1989-12-07",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "29807",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "300",
+    "Comissao": null,
+    "DataFase": "1989-12-07",
+    "EvtId": "17",
+    "Fase": "Discussão especialidade",
+    "IniciativasConjuntas": [
+      {
+        "dataEntrada": null,
+        "descTipo": "Proposta de Lei",
+        "id": "29202",
+        "leg": "V",
+        "nr": "117",
+        "sel": "3",
+        "tipo": "P",
+        "titulo": "Orçamento do Estado para 1990"
+      }
+    ],
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1989-12-07",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377003",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "874-874"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/874?pgs=874&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377004",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "874-874"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/874?pgs=874&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377005",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "874-874"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/874?pgs=874&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377006",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "874-874"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/874?pgs=874&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377007",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "874-875"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/874?pgs=874-875&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  TESOURO.",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Carlos Tavares"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377008",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "875-875"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/875?pgs=875&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377009",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "875-875"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/875?pgs=875&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS FISCAIS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Oliveira Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377010",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "875-875"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/875?pgs=875&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377011",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "875-875"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/875?pgs=875&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377012",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "876-876"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/876?pgs=876&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS FISCAIS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Oliveira Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377013",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "876-876"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/876?pgs=876&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377014",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "876-876"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/876?pgs=876&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377015",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "876-877"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/876?pgs=876-877&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS FISCAIS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Oliveira Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377016",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "877-877"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/877?pgs=877&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377017",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "877-877"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/877?pgs=877&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377018",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "877-877"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/877?pgs=877&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377019",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "877-877"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/877?pgs=877&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377020",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "878-878"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/878?pgs=878&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  ORÇAMENTO",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Rui Carp"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377021",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "878-878"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/878?pgs=878&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377022",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "878-878"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/878?pgs=878&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377023",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "878-878"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/878?pgs=878&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS FISCAIS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Oliveira Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377024",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "879-879"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/879?pgs=879&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377025",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "879-879"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/879?pgs=879&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377027",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "879-879"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/879?pgs=879&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377028",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "879-879"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/879?pgs=879&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377029",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "879-879"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/879?pgs=879&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377030",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "880-880"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/880?pgs=880&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS FISCAIS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Oliveira Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377031",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "880-880"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/880?pgs=880&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377032",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "880-880"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/880?pgs=880&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377033",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "881-881"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/881?pgs=881&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377034",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "881-881"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/881?pgs=881&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377036",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "881-881"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/881?pgs=881&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377037",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "881-881"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/881?pgs=881&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377038",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "881-881"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/881?pgs=881&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377039",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "881-881"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/881?pgs=881&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377040",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "881-881"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/881?pgs=881&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377041",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "881-881"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/881?pgs=881&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377042",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "882-882"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/882?pgs=882&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377043",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "882-882"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/882?pgs=882&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377045",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "882-882"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/882?pgs=882&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377046",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "882-882"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/882?pgs=882&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377047",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "882-882"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/882?pgs=882&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377048",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "882-883"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/882?pgs=882-883&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377051",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "883-883"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/883?pgs=883&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS FISCAIS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Oliveira Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377052",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "883-883"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/883?pgs=883&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377053",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "883-884"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/883?pgs=883-884&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377054",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "884-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/884?pgs=884-885&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS FISCAIS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Oliveira Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377055",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377056",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377057",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DOS  ASSUNTOS FISCAIS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Oliveira Costa"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377058",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "885-885"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/885?pgs=885&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377077",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "891-891"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/891?pgs=891&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377078",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "891-892"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/891?pgs=891-892&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377079",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "892-892"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/892?pgs=892&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377087",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "894-894"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/894?pgs=894&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377088",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "894-895"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/894?pgs=894-895&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377090",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "896-896"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/896?pgs=896&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377091",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "896-896"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/896?pgs=896&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377092",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "896-896"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/896?pgs=896&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377093",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "896-896"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/896?pgs=896&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377094",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "897-897"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/897?pgs=897&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377095",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "897-897"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/897?pgs=897&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377096",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "897-897"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/897?pgs=897&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377097",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "897-897"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/897?pgs=897&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377098",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "897-897"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/897?pgs=897&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377099",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "897-898"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/897?pgs=897-898&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377100",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "898-898"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/898?pgs=898&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377101",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "898-898"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/898?pgs=898&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377102",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "898-898"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/898?pgs=898&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377103",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "898-898"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/898?pgs=898&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377104",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "898-898"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/898?pgs=898&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377105",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "898-898"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/898?pgs=898&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377107",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "899-900"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/899?pgs=899-900&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  TESOURO.",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Carlos Tavares"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377113",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "900-901"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/900?pgs=900-901&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377120",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "901-902"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/901?pgs=901-902&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  TESOURO.",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Carlos Tavares"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377127",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "902-903"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/902?pgs=902-903&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377130",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "903-904"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/903?pgs=903-904&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377134",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "904-904"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/904?pgs=904&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377135",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "904-905"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/904?pgs=904-905&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377147",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "905-905"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/905?pgs=905&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377149",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "905-905"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/905?pgs=905&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANÇAS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Miguel Cadilhe"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377150",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "905-906"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/905?pgs=905-906&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377152",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "906-906"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/906?pgs=906&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377167",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "908-908"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/908?pgs=908&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377173",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "908-908"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/908?pgs=908&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377174",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "908-908"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/908?pgs=908&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377192",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "908-908"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/908?pgs=908&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377197",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "908-908"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/908?pgs=908&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377200",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "908-908"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/908?pgs=908&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377202",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "908-908"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/908?pgs=908&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377204",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "908-908"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/908?pgs=908&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377216",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "909-909"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/909?pgs=909&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377217",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "909-909"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/909?pgs=909&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377218",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "909-910"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/909?pgs=909-910&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377219",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "910-910"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/910?pgs=910&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377220",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "910-910"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/910?pgs=910&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377221",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "910-910"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/910?pgs=910&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377222",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "910-910"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/910?pgs=910&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377223",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "910-911"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/910?pgs=910-911&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377224",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "911-911"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/911?pgs=911&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377225",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "911-911"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/911?pgs=911&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377226",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "911-911"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/911?pgs=911&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377228",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "912-912"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/912?pgs=912&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377229",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "912-912"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/912?pgs=912&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377230",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "912-912"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/912?pgs=912&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377231",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "912-912"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/912?pgs=912&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377232",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "912-912"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/912?pgs=912&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377233",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "912-912"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/912?pgs=912&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377274",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "918-918"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/918?pgs=918&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377275",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "918-918"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/918?pgs=918&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377276",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "919-919"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/919?pgs=919&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377277",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "919-920"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/919?pgs=919-920&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377278",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "920-920"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/920?pgs=920&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377279",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "920-920"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/920?pgs=920&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377280",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "921-921"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/921?pgs=921&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377281",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "921-921"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/921?pgs=921&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377282",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "922-922"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/922?pgs=922&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "S.E.  DO  ORÇAMENTO",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Rui Carp"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377283",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "922-923"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/922?pgs=922-923&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377284",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "925-925"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/925?pgs=925&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377285",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "925-925"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/925?pgs=925&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377286",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "925-925"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/925?pgs=925&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377287",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "925-925"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/925?pgs=925&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377288",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "926-927"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/926?pgs=926-927&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377289",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "927-927"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/927?pgs=927&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377290",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "927-928"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/927?pgs=927-928&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377291",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "928-930"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/928?pgs=928-930&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377292",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "930-931"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/930?pgs=930-931&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputados": null,
+            "faseDebate": null,
+            "faseSessao": "P",
+            "horaInicio": "10:30",
+            "horaTermo": "21:45",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DAS  FINANÇAS",
+              "governo": "XI GOVERNO CONSTITUCIONAL",
+              "nome": "Miguel Cadilhe"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "377293",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "931-932"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1989-12-09",
+                "pubLeg": "V",
+                "pubNr": "24",
+                "pubSL": "3",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/931?pgs=931-932&org=PLC"
+              }
+            ],
+            "sumario": "Orçamento do Estado para 1990; Grandes Opções do Plano para 1990",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "1513289",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "997671",
+        "obs": null,
+        "pag": [
+          "873-885",
+          "890-912",
+          "918-932"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1989-12-09",
+        "pubLeg": "V",
+        "pubNr": "24",
+        "pubSL": "3",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/05/03/024/1989-12-09/873?pgs=873-885,890-912,918-932&org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
