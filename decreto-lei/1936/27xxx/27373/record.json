@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1936/12/30000/16821682.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1936-12-23",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "b7a6d0970bfcb4968453774d4b47cb07c50f368c7aebe0203925f1f6a5fbea89",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.1,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "2da628edc93704602fc0d27fe6b37f6a111be1ac5de7b68f40b789b49981b548",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 202
 }
