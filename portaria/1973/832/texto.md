@@ -1,0 +1,14 @@
+Portaria n.º 832/73
+de 22 de Novembro
+O Ministério das Comunicações tem vindo a prosseguir medidas de segurança rodoviária apoiadas em limitações temporárias de velocidade, quando as características do trânsito o aconselhem.
+Por outro lado, há que reconhecer a crescente aceitação que certa orientação internacional no âmbito da Conferência Europeia dos Ministros dos Transportes tem obtido, no sentido de serem fixados, permanentemente, limites máximos de velocidade, o que recebeu já concretização legal por parte de diversos países europeus.
+Esta questão tinha posto, assim, na mente do Ministério das Comunicações, a necessidade de se ensaiarem experiências, em moldes diferentes dos entre nós praticados, que permitissem decisões definitivas nesta matéria.
+Sucede que, entretanto, na, conjuntura actual, a Portaria n.º 777/73, dimanada do Ministério da Economia, veio restringir no País o abastecimento de gasolina e gasóleo.
+Deste modo, considera-se oportuno, enquanto tal situação crítica se verificar, determinar limitações de velocidade, fixando restrições que, necessariamente, sirvam também o interesse colectivo da economia do consumo dos combustíveis, tal como, recentemente, se observou já em alguns países.
+Assim, tendo em consideração estudos técnicos referentes aos aumentos das taxas de consumo médio de combustível, entende-se que as velocidades adequadas, em relação à maioria dos veículos que constituem o parque automóvel nacional, se devem cifrar em 80 km/h nas estradas e 100 km/h nas auto-estradas.
+Isto, não obstante se reconheça que o nível do consumo mínimo de combustível se obteria com restrições de velocidade mais enérgicas.
+Julga-se, no entanto, que estas medidas se tornem suficientes para, por um lado, operarem uma redução sensível no consumo, e, por outro, não colidirem demasiado com os interesses da circulação.
+Nestes termos:
+Manda o Governo da República Portuguesa, pelo Ministro das Comunicações, ao abrigo do disposto no n.º 6 do artigo 7.º do Código da Estrada, que das 0 horas do dia 24 de Novembro de 1973 até data a fixar oportunamente a velocidade máxima instantânea permitida para os motociclos simples e automóveis ligeiros de passageiros e mistos sem reboque seja de 80 km/h fora das localidades e em todas as estradas do continente, com excepção das auto-estradas, em que a velocidade máxima se fixa em 100 km/h.
+Os restantes veículos automóveis ficam sujeitos ao limite de velocidade máxima instantânea de 60 km/h, excepto nas auto-estradas, em que se mantêm os valores fixados na lei; todos estes limites são estabelecidos sem prejuízo de outros que lhes sejam inferiores, devidamente sinalizados ou genericamente impostos pelo Código da Estrada.
+Ministério das Comunicações, 20 de Novembro de 1973. - O Ministro das Comunicações, Rui Alves da Silva Sanches.
