@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo informação do Departamento Político Federal da Suíça, os Governos do Principado do Listenstaina e do Reino da Grécia depositaram, em 29 de Novembro e 8 de Dezembro de 1972, respectivamente, os instrumentos de ratificação das Convenções Internacionais Relativas ao Transporte de Mercadorias por Caminho de Ferro (CIM) e ao Transporte de Passageiros e de Bagagens por Caminho de Ferro (CIV), bem como do Protocolo Adicional às referidas Convenções e do Protocolo Relativo às Despesas do Serviço Central dos Estados Partes nas Convenções CIM e CIV, concluídos em Berna em 7 de Fevereiro de 1970.
+Direcção-Geral dos Negócios Económicos, 23 de Janeiro de 1973. - O Adjunto do Director-Geral, José Joaquim de Mena e Mendonça.
