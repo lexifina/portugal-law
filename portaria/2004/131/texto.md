@@ -1,0 +1,95 @@
+Portaria n.º 131/2004
+de 9 de Fevereiro
+Tem a Comissão Nacional da UNESCO vindo a promover nos serviços o exercício da função arquivo como medida fundamental para a gestão dos seus documentos. A função arquivo cria as condições objectivas para o conhecimento e controlo permanente e continuado da produção documental nas fases activa, semiactiva e inactiva, mediante dois instrumentos fundamentais, o plano de classificação e a tabela de selecção - a qual ora se publica. Se esta é responsável pela gestão do ciclo de vida dos documentos e a definição da memória da instituição, o primeiro descreve, normaliza e controla a produção documental em fase activa - na realidade, a primeira fase ou o princípio do arquivo, onde ele começa e onde, verdadeiramente, deve ser concentrado todo o esforço normalizador e racionalizador.
+Com efeito, muito embora sendo produzidos no âmbito dos arquivos correntes (como fruto da aplicação das funções arquivísticas de classificação e de avaliação), estes dois instrumentos actuam, transversalmente, em todas as fases do ciclo de vida dos documentos: o plano de classificação define a estrutura do arquivo e o seu funcionamento, que vão persistir ao longo das fases semiactiva e inactiva, e a tabela de selecção estabelece os tempos de conservação administrativa e a memória a partir dos quais são aplicadas as transferências e as eliminações, com resultados eficazes nos volumes documentais e na racionalização de espaços.
+Dotada destes dois instrumentos arquivísticos, encontra-se a CNU em condições para equacionar a implantação de outro importante expediente de racionalidade e eficiência, a informatização do seu arquivo, mediante a criação de um programa de gestão de documentos electrónicos, o qual deverá cumprir os requisitos essenciais para a preservação integral dos seus documentos nas fases activa, semiactiva e inactiva.
+Nestes termos, ao abrigo do disposto na alínea a) do n.º 1 do artigo 1.º do Decreto-Lei n.º 447/88, de 10 de Dezembro:
+Manda o Governo, pelos Ministros dos Negócios Estrangeiros e das Comunidades Portuguesas e da Cultura, o seguinte:
+1.º É aprovado o Regulamento Arquivístico da Comissão Nacional da UNESCO, anexo à presente portaria, da qual faz parte integrante.
+2.º A presente portaria entra em vigor no dia imediato ao da sua publicação.
+Em 20 de Janeiro de 2004.
+Pela Ministra dos Negócios Estrangeiros e das Comunidades Portuguesas, Maria Manuela Ferreira Macedo Franco, Secretária de Estado dos Negócios Estrangeiros e da Cooperação. - O Ministro da Cultura, Pedro Manuel da Cruz Roseta.
+
+ANEXO
+REGULAMENTO ARQUIVÍSTICO DA COMISSÃO NACIONAL DA UNESCO
+1.º
+Âmbito de aplicação
+O presente Regulamento é aplicável à documentação produzida e recebida no âmbito das suas atribuições e competências pela Comissão Nacional da UNESCO, adiante designada por CNU.
+2.º
+Sistema de arquivos da CNU
+1 - O arquivo da CNU constitui um sistema integrado de arquivos correntes, intermédio e definitivo.
+2 - Os arquivos correntes são geradores e responsáveis por toda a produção documental do organismo, cumprindo as regras definidas para a organização, utilização e conservação dos documentos em fase activa.
+3 - O arquivo intermédio guarda os documentos em fase semiactiva, executando as tarefas que lhe estão cometidas no âmbito da recolha, conservação, disponibilização, selecção, eliminação e transferência.
+4 - Os documentos com valor secundário ou histórico serão periodicamente entregues à guarda de uma instituição arquivística vocacionada para a conservação permanente deste património, o Serviço de Arquivo Histórico-Diplomático do Ministério dos Negócios Estrangeiros, mediante celebração de protocolo.
+5 - A gestão e a coordenação do sistema de arquivos da CNU são cometidas ao arquivista da CNU, ao qual cabe desenvolver e aplicar a função arquivística através de instrumentos de normalização, gestão, descrição e conservação.
+3.º
+Avaliação
+1 - O processo de avaliação dos documentos do arquivo da CNU tem por objectivo a determinação do seu valor para efeitos da respectiva conservação permanente ou eliminação, findos os respectivos prazos de conservação em fase activa e semiactiva.
+2 - É da responsabilidade da CNU a atribuição dos prazos de conservação em fase activa e semiactiva.
+3 - Os prazos de conservação são os que constam da tabela de selecção, anexo I do presente Regulamento.
+4 - Os referidos prazos de conservação são contados a partir da data final dos processos, dos documentos integrados em colecção e dos registos.
+5 - Cabe ao Instituto dos Arquivos Nacionais/Torre do Tombo, adiante designado por IAN/TT, a determinação do destino final dos documentos, sob proposta da CNU.
+4.º
+Selecção
+1 - A selecção dos documentos a conservar permanentemente em arquivo histórico é efectuada pela CNU, de acordo com as orientações estabelecidas na tabela de selecção.
+2 - Os documentos aos quais for reconhecido valor arquivístico devem ser conservados em arquivo no suporte original, excepto nos casos cuja substituição seja previamente autorizada nos termos dos artigos 11.º e 12.º deste Regulamento.
+5.º
+Tabela de selecção
+1 - A tabela de selecção, anexo I do presente Regulamento, consigna e sintetiza as disposições relativas à avaliação documental.
+2 - A tabela de selecção será submetida a revisões com vista à sua adequação às alterações da produção documental.
+3 - Para efeitos do disposto no n.º 2, deve a CNU obter, mediante proposta devidamente fundamentada, o parecer favorável do IAN/TT, enquanto organismo coordenador da política arquivística nacional.
+6.º
+Remessas para arquivo intermédio
+1 - Findos os prazos de conservação em fase activa, a documentação com reduzidas taxas de utilização deverá ser remetida dos arquivos correntes para o arquivo intermédio, de acordo com o estipulado na tabela de selecção.
+2 - As remessas dos documentos para o arquivo intermédio serão efectuadas de acordo com a periodicidade que a CNU vier a determinar.
+7.º
+Remessas para arquivo definitivo
+1 - Os documentos cujo valor arquivístico justifique a sua conservação permanente, de acordo com a tabela de selecção, deverão ser remetidos para arquivo histórico após o cumprimento dos respectivos prazos de conservação e seguindo o estipulado no n.º 4 do n.º 2.º deste Regulamento.
+2 - As remessas não podem pôr em causa a integridade dos conjuntos documentais.
+8.º
+Formalidades das remessas
+1 - As remessas de documentos referidas no n.º 6.º serão feitas mediante um registo das unidades de instalação do qual constarão elementos de descrição, de controlo e de recuperação.
+2 - As remessas de documentos referidas no n.º 7.º deverão ser acompanhadas por um auto de entrega a título de prova e por uma guia de remessa destinada à identificação e ao controlo da documentação remetida, obrigatoriamente rubricada e autenticada pelas partes envolvidas no processo.
+a) A guia de remessa deverá ser feita em triplicado, ficando o original no serviço destinatário, sendo o duplicado devolvido ao serviço de origem.
+b) O triplicado da guia de remessa será provisoriamente utilizado no arquivo histórico como instrumento de descrição documental, após ter sido conferido e completado com as referências topográficas e demais informação pertinente, só podendo ser eliminado após a elaboração do respectivo inventário.
+3 - Os modelos referidos nos números anteriores constam dos anexos II, III e IV do presente Regulamento.
+9.º
+Eliminação
+1 - A eliminação dos documentos aos quais não for reconhecido valor arquivístico, não se justificando a sua conservação permanente, deve ser efectuada logo após o cumprimento dos respectivos prazos de conservação fixados na tabela de selecção.
+2 - A eliminação dos documentos que não estejam mencionados na tabela de selecção carece de autorização expressa do IAN/TT.
+3 - A decisão sobre o processo de eliminação deve atender a critérios de confidencialidade e racionalidade de meios e custos.
+10.º
+Formalidades da eliminação
+1 - As eliminações dos documentos mencionados no n.º 9.º devem obedecer às seguintes formalidades:
+a) Serem acompanhadas de um auto de eliminação, que fará prova do abate patrimonial;
+b) O auto de eliminação deve ser assinado pelo dirigente da CNU e pelo responsável do arquivo;
+c) O referido auto será feito em duplicado, ficando o original na CNU e o duplicado remetido ao IAN/TT.
+2 - O modelo do auto de eliminação consta do anexo V do presente Regulamento.
+11.º
+Substituição de suporte
+1 - A CNU deverá elaborar oportunamente um programa de substituição de suporte para a sua documentação, o qual deverá articular critérios de economia/racionalização de espaços, de eficácia/eficiência do acesso à informação e de preservação/segurança/autenticidade/durabilidade dos documentos e informação.
+2 - A substituição de suporte dos documentos será feita com plena garantia da sua preservação, segurança, autenticidade, durabilidade e acessibilidade, de acordo com as normas técnicas da International Standard Organization (ISO).
+3 - O programa de substituição de suporte dos documentos da CNU só poderá ser efectuado mediante parecer favorável do IAN/TT.
+4 - As cópias obtidas a partir de microfilme autenticado têm força probatória de original, de acordo com o disposto no artigo 3.º do Decreto-Lei n.º 447/88, de 10 de Dezembro.
+12.º
+Documentação electrónica
+1 - Os documentos gerados em meio electrónico aos quais for reconhecido valor arquivístico definido na tabela de selecção podem ser conservados nesse meio desde que seja expressa e inequivocamente assegurada a sua preservação, segurança, fidedignidade, integridade, autenticidade, durabilidade e acessibilidade.
+2 - Para efeitos do disposto no número anterior, a CNU deve obter, mediante um plano de preservação elaborado de acordo com as recomendações para a gestão de documentos de arquivo electrónicos do IAN/TT e a Norma ISO 15489, o parecer favorável deste Instituto.
+13.º
+Acessibilidade e comunicabilidade
+O acesso e comunicabilidade do arquivo da CNU obedecerá a critérios de confidencialidade de informação definidos internamente em conformidade com a lei geral em vigor.
+14.º
+Fiscalização
+Compete ao IAN/TT a inspecção técnica sobre a execução do disposto no presente Regulamento.
+ANEXO I
+Tabela de selecção da CNU
+(ver tabela no documento original)
+ANEXO II
+Registo de unidades de instalação do AI
+(ver modelo no documento original)
+ANEXO III
+(ver modelo no documento original)
+ANEXO IV
+(ver modelo no documento original)
+ANEXO V
+(ver modelo no documento original)
