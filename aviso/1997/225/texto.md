@@ -1,0 +1,3 @@
+Aviso n.º 225/97
+Por ordem superior se torna público que a Letónia assinou, em 29 de Maio de 1997, a Carta Social Europeia, aberta à assinatura em Turim em 18 de Outubro de 1961 e tendo entrado em vigor em 26 de Fevereiro de 1965, o Protocolo Adicional à Carta Social Europeia, aberto à assinatura em Estrasburgo em 5 de Maio de 1988 e tendo entrado em vigor em 4 de Setembro de 1992, e o Protocolo de Alterações à Carta Social Europeia, aberto à assinatura em Turim em 21 de Outubro de 1991.
+Direcção de Serviços das Organizações Políticas Multilaterais, 27 de Junho de 1997. - O Director de Serviços, João José Gomes Caetano da Silva.
