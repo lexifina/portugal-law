@@ -1,0 +1,6 @@
+Resolução n.º 78/80
+Pelas Resoluções do Conselho de Ministros n.º 276/79, de 22 de Agosto, publicada no Diário da República, 1.ª série, n.º 213, de 14 de Setembro de 1979, e n.º 339/79, de 9 de Novembro, publicada no Diário da República, 1.ª série, n.º 281, de 6 de Dezembro de 1979, foram prorrogados alguns dos prazos previstos na Resolução n.º 67/79, de 14 de Fevereiro, que determinou a desintervenção do Estado nas empresas do grupo Prainha.
+Constata-se, porém, não ser possível cumprir os prazos previstos para a entrega da proposta do contrato de viabilização, nomeadamente por continuar a aguardar-se a aprovação, pela entidade competente, do novo plano de urbanização de empreendimento, de vital importância para o mesmo conforme já foi referido na Resolução n.º 339/79.
+Tornando-se necessário manter as condições criadas para a viabilização do grupo Prainha pelos motivos já anteriormente mencionados:
+O Conselho de Ministros, reunido em 21 de Fevereiro de 1980, resolveu prorrogar, com efeitos a partir de 15 de Dezembro de 1979, até 31 de Março de 1980, o prazo referido no n.º 4 da Resolução do Conselho de Ministros n.º 67/79.
+Presidência do Conselho de Ministros, 21 de Fevereiro de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
