@@ -1,0 +1,33 @@
+Decreto n.º 362/73
+de 17 de Julho
+Sendo conveniente adoptar diversas medidas de carácter aduaneiro aplicáveis às províncias ultramarinas;
+Nos termos do § 3.º do artigo 136.º da Constituição, por motivos de urgência;
+Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
+Artigo 1.º Continua válida até 31 de Dezembro de 1973 a lista de classificação do concurso para a categoria de reverificador-chefe do quadro técnico-aduaneiro comum do ultramar, publicada no Diário do Governo, 2.ª série, de 9 de Abril de 1970.
+Art. 2.º São abolidos os emolumentos gerais aduaneiros referidos no artigo 29.º da tabela aprovada pelo Decreto n.º 31883, de 12 de Fevereiro de 1942, que no Estado Português de Moçambique incidem sobre as mercadorias que circulam em regime de transferência.
+Art. 3.º - 1. Ao artigo 9.º da Organização dos Serviços da Guarda Fiscal do Estado Português de Moçambique, aprovada pelo Decreto n.º 44347, de 14 de Maio de 1962, alterado pelo artigo único do Decreto n.º 46109, de 28 de Dezembro de 1964, são aditados os §§ 3.º e 4.º, com a redacção seguinte:
+§ 3.º No Estado Português de Moçambique o comando de três circunscrições fiscais será exercido por comandantes de circunscrição do quadro privativo.
+§ 4.º As promoções a comandante de circunscrição para efeitos do disposto no parágrafo anterior serão feitas pelo Governo-Geral, por proposta do comandante do corpo, ouvido o Conselho de Disciplina, entre os chefes ajudantes com mais de cinco anos na categoria que tenham boas informações e que tenham exercido o comando de circunscrições ou secções fiscais pelo período mínimo de dois anos e aí tenham sido considerados com especial qualificação para o desempenho das referidas funções.
+2. A execução do disposto nos parágrafos referidos no n.º 1 dependerá da inscrição de verbas próprias no Orçamento do Estado Português de Moçambique.
+Art. 4.º Passa a ser a seguinte a redacção da alínea e) do artigo 1.º do Decreto n.º 41024:
+e) Materiais de construção e de aparelhagem eléctrica, máquinas, aparelhos, seus acessórios e peças separadas, instrumentos e utensílios, postes e suportes das linhas transportadoras de energia, tubos de qualquer matéria e seus acessórios, quando sejam importados pelos corpos administrativos e destinados às suas redes de distribuição de águas, luz ou de esgotos, ou pelos serviços de obras públicas para realização das obras respeitantes às referidas redes ou a quaisquer outras de interesse para o fomento da província e do apetrechamento de portos, assim como os produtos químicos ou de outra natureza destinados exclusivamente ao tratamento das águas.
+Art. 5.º O regime aduaneiro prescrito no artigo 2.º do Decreto n.º 43513, de 22 de Fevereiro de 1961, é tornado extensivo à Polícia Judiciária dos Estados Portugueses de Angola e Moçambique.
+Art. 6.º - 1. É alterada pela forma seguinte a tributação dos artigos pautais 91.09.01 a 91.09.09 das pautas mínimas de importação das províncias ultramarinas:
+91.09.01 - 30% ad valorem.
+91.09.02 - 30% ad valorem.
+91.09.03 - 30% ad valorem.
+91.09.04 - 20% ad valorem.
+91.09.05 - 30% ad valorem.
+91.09.06 - 30% ad valorem.
+91.09.07 - 30% ad valorem.
+91.09.08 - 20% ad valorem.
+91.09.09 - 30% ad valorem.
+2. O disposto no n.º 1 aplica-se aos bilhetes de despacho pendentes de liquidação e pagamento.
+Art. 7.º Ao artigo 7.º do Decreto n.º 423/70, de 4 de Setembro, é aditado o n.º 3, com a seguinte redacção:
+3. Na província de Cabo Verde, em relação ao Aeroporto do Sal, além das referidas no n.º 1, podem ser devidas taxas pela utilização das instalações, cujo montante e destino serão fixados em portaria provincial, ficando a cobrança de umas e outras a cargo dos serviços provinciais designados na mesma portaria.
+Marcello Caetano - Joaquim Moreira da Silva Cunha.
+Promulgado em 4 de Julho de 1973.
+Publique-se.
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas, excepto Macau. - J. da Silva Cunha.
