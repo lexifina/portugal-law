@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 4-J/97
+Para os devidos efeitos se declara que o Decreto Regulamentar n.º 17/96, publicado no Diário da República, 1.ª série, n.º 294, de 20 de Dezembro de 1996, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+No n.º 3 do artigo 21.º, onde se lê «A acta a que se refere o n.º 1 é afixada nos centros de selecção e nos demais departamentos da PSP, disposto nos artigos 100.º e 101.º do Código do Procedimento Administrativo» deve ler-se «A acta a que se refere o n.º 1 é afixada nos centros de selecção e nos demais departamentos da PSP, com o aviso de que os interessados têm o prazo de 10 dias úteis para efeitos do disposto nos artigos 100.º e 101.º do Código do Procedimento Administrativo».
+Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Janeiro de 1997. - O Secretário-Geral, Alexandre Figueiredo.
