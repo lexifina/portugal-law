@@ -1,0 +1,5 @@
+Resolução n.º 217/82
+A Direcção-Geral das Contribuições e Impostos solicitou a aquisição do prédio sito em Lisboa, na Rua Nova do Almada, 69, de que tem necessidade para instalação de vários dos seus serviços.
+O imóvel indicado reúne as condições adequadas para o efeito e situa-se em zona bastante central, tendo a sua aquisição obtido parecer favorável da Direcção-Geral dos Edifícios e Monumentos Nacionais, ouvida nos termos legais.
+Nestes termos, tendo em atenção o estabelecido nos n.os 2 e 3 do artigo 1.º do Decreto-Lei n.º 27/79, de 22 de Fevereiro, o Conselho de Ministros para os Assuntos Económicos, reunido em 30 de Novembro de 1982, resolveu autorizar a Direcção-Geral do Património do Estado a adquirir o prédio urbano sito em Lisboa, na Rua Nova do Almada, 69, pela importância de 120000000$00, despesa a suportar pela competente verba do orçamento do Ministério das Finanças e do Plano e com o pagamento diferido por 3 anos económicos.
+Presidência do Conselho de Ministros. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro.
