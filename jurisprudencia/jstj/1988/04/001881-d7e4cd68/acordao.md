@@ -1,0 +1,45 @@
+# Acórdão do Supremo Tribunal de Justiça de 1988-04-14, processo 001881
+
+**Acórdãos STJ:** Acórdão do Supremo Tribunal de Justiça
+
+**Processo:** 001881
+
+**Nº Convencional:** JSTJ00000543
+
+**Relator:** MELO FRANGO
+
+**Descritores:** CONTRATO DE TRABALHO; LOCAL DE TRABALHO; ESTABELECIMENTO; ENCERRAMENTO DO ESTABELECIMENTO; MUDANÇA DO ESTABELECIMENTO; DISPONIBILIDADE; RESCISÃO; JUSTA CAUSA; AVISO PREVIO; ONUS DA PROVA; RETRIBUIÇÃO; SALARIO
+
+**Nº do Documento:** SJ198804140018814
+
+**Data do Acordão:** 04/14/1988
+
+**Votação:** UNANIMIDADE
+
+**Referência de Publicação:** BMJ N376 ANO1988 PAG513
+
+**Texto Integral:** N
+
+**Privacidade:** 1
+
+**Meio Processual:** REVISTA.
+
+**Decisão:** NEGADA A REVISTA.
+
+**Área Temática:** DIR TRAB - CONTRAT INDIV TRAB. DIR CIV - DIR OBG.
+
+## Sumário
+
+I - O artigo 24, n. 1, do Decreto-Lei n. 49 408, de 24 de Novembro de 1969 (Regime Juridico do Contrato Individual de Trabalho), permite que a entidade patronal, salvo estipulação em contrario, transfira o trabalhador para outro local de trabalho, prevendo duas hipoteses: simples mudança desse local; mudança que resulte de mudança total ou parcial do estabelecimento onde o trabalhador presta serviço.
+
+A primeira so e legal se não causar prejuizo serio ao trabalhador; de contrario pode este opor-se, cabendo-lhe então a prova de tal serio prejuizo.
+
+No segundo caso e facultado ao trabalhador simplesmente rescindir o contrato de trabalho, impendendo agora sobre a entidade patronal a prova de que da transferencia não resulta prejuizo serio para aquele (artigo 24, n. 2).
+
+II - Não se impõe, por conseguinte, ao trabalhador rescindir o contrato, se a entidade patronal mudar o local de trabalho transferindo definitivamente para Vila Nova de Gaia o estabelecimento, sito em Lisboa, em que era prestado o trabalho, e onde o trabalhador tinha organizada a sua vida familiar, e isto sem lhe prestar quaisquer esclarecimentos, apesar de instada nesse sentido, acerca das condições da mudança.
+
+Neste circunstancialismo , mantem-se o contrato de trabalho se o trabalhador continuou a apresentar-se no local primitivo, sendo-lhe devidas as respectivas retribuições mesmo que o trabalho não seja efectivamente prestado merce do encerramento do estabelecimento e, pois, por culpa da entidade patronal.
+
+III - De facto, embora a retribuição surja como contraprestação do trabalho realmente prestado, não e neste, verdadeiramente, mas na disponibilidade do trabalhador que aquela alcança o seu correspectivo.
+
+IV - Assim, a falta de pagamento pontual do salario ao trabalhador que se encontra na descrita situação de disponibilidade, no primitivo local de trabalho, constitui justa causa de rescisão do contrato pelo trabalhador sem aviso previo (artigo 25, alinea b), do Decreto-Lei n. 372-A/75, de 16 de Julho), competindo a entidade patronal provar que a falta não procedeu de culpa sua (artigo 799 do Codigo Civil).
