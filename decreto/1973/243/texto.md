@@ -1,0 +1,17 @@
+Decreto n.º 243/73
+de 16 de Maio
+Considerando a necessidade de aumentar a rede de escolas de enfermagem no País;
+Com base no artigo 2.º do Decreto-Lei n.º 38884, de 28 de Agosto de 1952, nos termos do disposto no artigo 78.º do Decreto-Lei n.º 413/71, de 27 de Setembro, ouvido o Gabinete de Estudos e Planeamento;
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+Artigo 1.º - 1. São criadas quatro escolas de enfermagem destinadas a funcionar em Leiria, Santarém, Setúbal e Viana do Castelo, ficando a designar-se por Escolas de Enfermagem da respectiva localidade.
+2. Estas escolas são serviços oficiais do Ministério da Saúde e Assistência dotados de autonomia técnica e administrativa.
+Art. 2.º As escolas regem-se pelo Regulamento Geral das Escolas de Enfermagem, aprovado pela Portaria n.º 34/70, de 14 de Janeiro.
+Art. 3.º Cabe ao hospital distrital da respectiva localidade desempenhar as funções a que se refere o n.º 3 do artigo 3.º do referido Regulamento.
+Art. 4.º O conselho orientador das escolas será presidido pelo provedor do hospital distrital respectivo.
+Art. 5.º As funções atribuídas ao director das escolas pelo Regulamento serão desempenhadas por um monitor-chefe.
+Art. 6.º As escolas entram em regime de instalação, previsto no artigo 79.º do Decreto-Lei n.º 413/71, de 27 de Setembro, para o que será nomeada uma comissão instaladora, nos termos do artigo 85.º do mesmo diploma, à qual competirá assumir as funções atribuídas pelo Regulamento ao conselho de gerência das escolas.
+Art. 7.º O período de instalação de cada uma das escolas contar-se-á a partir da data em que for dada posse às respectivas comissões instaladoras.
+Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Alfredo Jorge Assis dos Santos.
+Promulgado em 7 de Maio de 1973.
+Publique-se.
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
