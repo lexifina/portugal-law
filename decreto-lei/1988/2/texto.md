@@ -1,0 +1,15 @@
+Decreto-Lei n.º 2/88
+de 14 de Janeiro
+Pelo Decreto-Lei n.º 435/86, de 31 de Dezembro, foi abolido o uso de papel selado propriamente dito, passando a usar-se, nos actos para que anteriormente se requeria a sua utilização, papel azul de 25 linhas, salvo autorizações concedidas pela Direcção-Geral das Contribuições e Impostos.
+A prática de alguns meses de vigência daquele diploma permite desde já detectar a possibilidade de avançar na desburocratização empreendida, permitindo-se ao cidadão a escolha entre a utilização de papel azul de 25 linhas ou a de papel branco de formato A4.
+Assim:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo único. O artigo 2.º do Decreto-Lei n.º 435/86, de 31 de Dezembro, passa a ter a seguinte redacção:
+Art. 2.º - 1 - Para os actos em que se requeria o uso de papel selado passar-se-á a utilizar papel azul de 25 linhas ou papel branco, liso, de formato A4, cabendo ao utente optar por qualquer destas formas.
+2 - Nos casos em que o utente opte pela utilização de papel branco, cada lauda não poderá conter mais de 25 linhas, devendo também ser respeitadas margens com cerca de 3 cm e 1 cm, respectivamente no lado esquerdo e direito da frente, com correspondência simétrica no verso.
+Visto e aprovado em Conselho de Ministros de 10 de Dezembro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
+Promulgado em 28 de Dezembro de 1987.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 29 de Dezembro de 1987.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
