@@ -14,4 +14,4 @@ b) À repartição de finanças da residência do falecido, relação das pessoa
 
 2 - Para os fins do número anterior, o conservador deve ouvir, em auto, de modelo aprovado por portaria do Ministro da Justiça, o declarante do óbito, em acto imediato à prestação da respectiva declaração.
 
-3 - Até ao dia 8 de cada mês, deve o conservador remeter à Direcção-Geral dos Serviços de Informática do Ministério da Justiça fotocópia dos autos relativos aos óbitos lavrados no mês anterior.
+3 - Até ao dia 8 de cada mês, deve o conservador remeter ao Instituto das Tecnologias de Informação na Justiça fotocópia dos autos relativos aos óbitos lavrados no mês anterior, devendo comunicar ainda os números de bilhetes de identidade ulteriormente conhecidos, bem como qualquer completamento ou rectificação de assento de óbito que respeite ao nome do falecido, idade, naturalidade ou filiação.

@@ -12,6 +12,6 @@ a) Pelo conhecimento pessoal do conservador;
 
 b) Pela exibição dos respectivos bilhetes de identidade;
 
-c) Pela exibição do passaporte ou documento equivalente, se os nubentes forem estrangeiros não residentes em Portugal há mais de seis meses.
+c) Pela exibição do título ou autorização de residência, do passaporte ou documento equivalente, se os nubentes forem estrangeiros.
 
 4 - Considera-se celebrado na presença do funcionário do registo civil o casamento realizado perante quem, não tendo competência funcional para o acto, exerça publicamente as respectivas funções, salvo se ambos os nubentes conheciam, no momento da celebração, a falta daquela competência.

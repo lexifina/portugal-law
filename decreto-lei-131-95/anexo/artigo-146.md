@@ -15,3 +15,5 @@
 4 - No caso de os nubentes pretenderem realizar o casamento civil em conservatória diferente daquela onde correu o processo, o conservador deve observar o disposto nos n.os 1 e 2, e pagos os emolumentos devidos, remeter oficiosamente o certificado a essa repartição.
 
 5 - Para efeitos do número anterior, estando junto ao processo auto de convenção antenupcial ou certidão de escritura antenupcial, deve ser remetida, com o certificado, certidão do auto ou da escritura.
+
+6 - Aos casos previstos no artigo 171.º, n.º 2, aplica-se o disposto no número anterior.
