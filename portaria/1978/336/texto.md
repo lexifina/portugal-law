@@ -1,0 +1,12 @@
+Portaria n.º 336/78
+de 24 de Junho
+A necessidade de acelerar a cobrança coerciva dos impostos e de outras dívidas do Estado através dos Serviços de Justiça Fiscal, bem como a extensão da sua competência operada pelos Decretos-Leis n.os 511/76, de 3 de Julho, 619/76, de 27 de Julho, e 784/76, de 30 de Outubro, determinaram que passassem a funcionar no Tribunal de 1.ª Instância das Contribuições e Impostos de Lisboa sete juízos e três no Tribunal do Porto (Decreto-Lei n.º 217/76, de 25 de Março - artigo 7.º -, Portaria n.º 296/76, de 13 de Maio - n.º 11 -, e despacho do Secretário de Estado do Orçamento de 14 de Abril de 1977 - no Diário da República, 2.ª série, n.º 95, de 22 de Abril de 1977).
+Para que os novos juízos entrem em funcionamento, é preciso nomear juízes e aumentar o correspondente número dos representantes da Fazenda Nacional junto dos tribunais.
+A representação da Fazenda Nacional junto dos tribunais de 1.ª instância das contribuições e impostos é assegurada por directores de finanças - artigo 53.º, alínea c), da Organização dos Serviços de Justiça Fiscal (aprovada pelo Decreto-Lei n.º 45006, de 27 de Abril de 1963).
+Perante esta situação, urge aumentar o número de lugares de director de finanças, em especial os lugares de director-ajudante junto dos directores de Finanças de Lisboa e Porto.
+Assim, nos termos do artigo 23.º da Organização da Direcção-Geral das Contribuições e Impostos, aprovada pelo Decreto n.º 45095, de 29 de Junho de 1963, bem como nos termos do n.º 2 do artigo 1.º do Decreto-Lei n.º 59/76, de 23 de Janeiro:
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e da Reforma Administrativa:
+1.º O quadro geral da Direcção-Geral das Contribuições e Impostos é aumentado de cinco lugares de director de finanças.
+2.º Dos funcionários providos nos lugares referidos no número anterior, três exercerão funções de director-ajudante na Direcção de Finanças do Distrito de Lisboa e dois na do Porto.
+3.º Na satisfação dos encargos resultantes da execução da presente portaria poderão ser utilizadas as disponibilidades das verbas orçamentais consignadas ao pagamento de pessoal dos quadros aprovados da Direcção-Geral das Contribuições e Impostos.
+Ministério das Finanças e do Plano e da Reforma Administrativa, 19 de Junho de 1978. - O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio. - Pelo Ministro da Reforma Administrativa, José Manuel San-Bento Meneses, Secretário de Estado da Administração Pública.
