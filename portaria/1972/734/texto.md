@@ -1,0 +1,20 @@
+Portaria n.º 734/72
+de 16 de Dezembro
+Manda o Governo da República Portuguesa, pelo Ministro das Obras Públicas, ao abrigo do disposto no artigo 2.º do Decreto-Lei n.º 468/72, de 22 de Novembro, aprovar o Regulamento da Concessão de Diuturnidade aos Especialistas do Laboratório Nacional de Engenharia Civil, anexo à presente portaria.
+Ministério das Obras Públicas, 7 de Dezembro de 1972. - O Ministro das Obras Públicas, Rui Alves da Silva Sanches.
+
+Regulamento da Concessão de Diuturnidade aos Especialistas do Laboratório Nacional de Engenharia Civil
+Artigo 1.º - 1. O especialista candidato à concessão de diuturnidade deverá apresentar:
+a) Requerimento em que é solicitada a concessão da diuturnidade;
+b) Resenha, por ele subscrita, nos termos do número seguinte;
+c) Quaisquer documentos que entenda deverem ser apreciados pelo júri e, designadamente, comprovativos de habilitações especiais.
+2. Da resenha a que se refere a alínea b) do número anterior constarão:
+a) Elementos biográficos: nome, idade, escola e ano de formatura, classificação de curso, carreira no Laboratório Nacional de Engenharia Civil (data de admissão, promoções, etc.) e indicação de outros cargos que exerça;
+b) Elementos bibliográficos: publicações elaboradas pelo candidato (designadamente relatórios, memórias, comunicações e congressos, etc.) ou em cuja autoria tomou parte, devendo, nesta última hipótese, ser indicada a quota-parte do candidato;
+c) Descrição comentada da actividade geral desenvolvida: organização e leccionação de cursos, colóquios e outras reuniões, participação em comissões, colaboração com organismos estrangeiros, enquadramento e preparação do pessoal, melhoria da organização e da eficiência do Laboratório, etc.;
+d) Descrição comentada dos resultados mais significativos da actividade especializada desenvolvida ao serviço do Laboratório, com base nos trabalhos considerados de maior relevância.
+Art. 2.º - 1. O mérito da actividade exercida pelos especialistas será apreciado através das qualidades científicas e técnicas, pessoais e administrativas, referidas no artigo 4.º do Regulamento das Informações de Serviço do Laboratório Nacional de Engenharia Civil, segundo o critério indicado no corpo do seu artigo 9.º, com base nas informações de serviço do candidato e nos elementos referidos no artigo 1.º do presente Regulamento.
+2. Só será reconhecido mérito à actividade exercida pelos especialistas, para efeitos de concessão da diuturnidade, àqueles que obtiverem classificação global, arredondada às unidades, não inferior a 15.
+Art. 3.º O júri de apreciação do mérito da actividade exercida pelos candidatos será constituído pelo director do Laboratório, pelos subdirectores e pelos chefes de serviço para o efeito nomeados.
+Art. 4.º Aos especialistas aos quais não seja concedida a diuturnidade por não atingirem a classificação referida no n.º 2 do artigo 2.º é dada a faculdade de se candidatarem de novo à concessão da diuturnidade após decorridos mais cinco anos.
+O Ministro das Obras Públicas, Rui Alves da Silva Sanches.
