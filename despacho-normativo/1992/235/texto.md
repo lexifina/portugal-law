@@ -1,0 +1,39 @@
+Despacho Normativo n.º 235/92
+Tem sido objectivo do Governo transferir para as associações profissionais e interprofissionais do sector agrícola funções tradicionalmente desempenhadas pela Administração Pública, mas que, na realidade e no quadro da modernização que se prossegue para o sector e da redução da intervenção do Estado na área económica, deverão estar cometidas aos próprios agentes económicos e suas organizações.
+Caso paradigmático no sector vitivinícola é a transferência para as comissões vitivinícolas regionais (CVR) de todo o conjunto de funções que visam a promoção e a certificação de qualidade dos produtos vínicos com direito a denominações de origem.
+Outras funções há, todavia, de que a Administração não pode abdicar, em especial as que se prendem com a verificação do respeito pelos imperativos nacionais e comunitários relativos ao controlo da produção e obediência aos mecanismos de intervenção, à prevenção e fiscalização contra fraudes e a atribuição de ajudas, no âmbito do FEOGA.
+Neste âmbito, o Ficheiro Vitivinícola, estabelecido pelo Regulamento (CEE) n.º 2392/86, do Conselho, de 24 de Julho, constitui um instrumento imprescindível ao controlo do desenvolvimento do potencial vitícola e do regime de intervenções comunitárias, funções cometidas aos organismos nacionais constituídos como interlocutores perante o FEOGA, designadamente o Instituto da Vinha e do Vinho (IVV) e o Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP).
+Tal não deverá, no entanto, implicar que as CVR não possam aceder, para exercício das suas competências, aos dados constantes do Ficheiro Vitivinícola relativos às vinhas e aos produtores vitivinícolas sobre os quais exerçam funções de disciplina, assim como será de toda a conveniência que se possa dispor da sua contribuição nos trabalhos inerentes à elaboração do ficheiro da respectiva região.
+No entanto, tendo em atenção a diferente experiência e apetrechamento técnico das CVR existentes, não se julga possível estabelecer um modelo único de colaboração entre estas e os serviços centrais, pelo que convém que o IVV, enquanto organismo responsável a nível nacional pelo Ficheiro, possa celebrar com cada uma das CVR o protocolo que, caso a caso, se revele mais adequado.
+Assim, tornando-se necessário estabelecer as diversas acções com vista à execução do programa de realização do Ficheiro Vitivinícola Comunitário para Portugal, aprovado pela Comissão da Comunidade Europeia em 20 de Junho de 1991, determina-se o seguinte:
+1.1 - O Ficheiro Vitivinícola, constituído por ficheiros de exploração, de produção e de destilação, é obtido através do recenseamento das explorações vitícolas e da recolha, compilação e tratamento das declarações dos vitivinicultores.
+1.2 - São informações obrigatórias do Ficheiro Vitivinícola as como tal consideradas na lista anexa ao Regulamento (CEE) n.º 649/87, da Comissão, de 3 de Março, e ainda a identificação do proprietário e as características naturais da exploração, tais como as topográficas, a exposição e a zona altimétrica, sem prejuízo de outras que possam vir a ser definidas nos cadernos de encargos, a que se refere o n.º 3.4.
+2 - Para aplicação do disposto no presente despacho são competentes o Instituto da Vinha e do Vinho e o Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas, abreviadamente designados por IVV e IFADAP.
+3 - A coordenação e supervisão deste programa é cometida ao IVV, competindo-lhe, designadamente:
+a) Coordenar, a nível nacional, todas as actividades do programa, assegurando a prossecução dos respectivos objectivos e a concretização das acções nele previstas, sem prejuízo, no caso das Regiões Autónomas, das competências próprias dos respectivos órgãos de governo;
+b) Centralizar toda a informação recolhida e efectuar o tratamento dos dados correspondentes, utilizando igualmente para o efeito os elementos já existentes e a facultar por outras entidades, designadamente pelas comissões vitivinícolas regionais e pela Casa do Douro;
+c) Estabelecer e manter actualizado o Ficheiro Vitivinícola;
+d) Elaborar os cadernos de encargos, bem como as respectivas normas técnicas, nos termos do n.º 7, com vista à abertura de concursos públicos, sempre que a execução do programa o justifique;
+e) Proceder, com a colaboração do IFADAP, à abertura de concursos públicos, criando-se, para o efeito de avaliação das propostas recebidas, uma comissão conjunta de análise:
+f) Acompanhar, controlar e avaliar a execução do programa, designadamente, na sua componente técnica;
+g) Estabelecer protocolos com outras entidades, nomeadamente Instituto Geográfico e Cadastral, Instituto Nacional de Investigação Agrária e Instituto Nacional de Estatística, sempre que o entenda conveniente;
+h) Assegurar a divulgação adequada do programa, promovendo as acções de formação indispensáveis à realização dos objectivos.
+4 - Compete ao IFADAP:
+a) Assegurar e garantir a gestão financeira das verbas necessárias ao suporte dos custos efectivos de implementação do Ficheiro Vitivinícola e promover a respectiva participação comunitária, através de adiantamentos e reembolsos;
+b) Elaborar e emitir as instruções e a documentação necessárias para efeitos do disposto no número anterior;
+c) Proceder, em colaboração com o IVV, à adjudicação dos concursos referidos no n.º 3, alínea d);
+d) Celebrar os contratos decorrentes da adjudicação em concurso público ou outros que se afigurem necessários, no âmbito deste despacho;
+e) Proceder ao pagamento dos custos efectivos de implementação do Ficheiro Vitivinícola, fiscalizar a execução das despesas e a regularidade da aplicação dos referidos montantes, informando o IVV das suas decisões.
+5 - É constituída uma comissão regional de acompanhamento da execução do Ficheiro para cada uma das zonas de trabalho previstas no programa, que tem como função apoiar e colaborar nos trabalhos de campo necessários à sua realização.
+5.1 - As comissões regionais de acompanhamento são constituídas por:
+Um representante do IVV, que convoca e preside às reuniões;
+Um representante de cada uma das direcções regionais de agricultura da zona em causa;
+Um representante de cada uma das comissões vitivinícolas regionais incluídas na zona;
+Um representante das adegas cooperativas da zona;
+Um representante das associações de viticultores da zona.
+5.2 - A colaboração a prestar pelas entidades privadas que integram as comissões regionais de acompanhamento poderá ser prestada mediante a celebração de um protocolo com o IVV.
+6 - Os agentes económicos que devem constar obrigatoriamente do Ficheiro Vitivinícola deverão confirmar por escrito, após verificação da autenticidade, as informações que lhes respeitem.
+7 - Para efeitos do estabelecimento da área das parcelas a constar do Ficheiro Vitivinícola e relativamente a sistemas especiais de condução da vinha, nomeadamente em bordadura, ramada ou enforcado, é aplicada a legislação vitivinícola em vigor, sem prejuízo de, no âmbito de cada concurso, poderem ser definidas normas técnicas específicas.
+8 - Pelos serviços prestados no exercício das competências que lhes são cometidas, no âmbito deste despacho, o IVV e o IFADAP poderão ser remunerados nos termos e em condições a definir por despacho.
+9 - O presente despacho produz efeitos a partir da data da sua publicação.
+Ministério da Agricultura, 10 de Novembro de 1992. - O Ministro da Agricultura, Arlindo Marques da Cunha.
