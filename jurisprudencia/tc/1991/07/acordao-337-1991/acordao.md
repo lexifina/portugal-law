@@ -1,0 +1,120 @@
+# Acórdão do Tribunal Constitucional n.º 337/1991, de 1991-07-03
+
+**Acórdão:** 337/91
+
+**Processo:** 266/90
+
+**Formação:** 2ª Secção
+
+**Espécie:** Recurso
+
+**Data:** 03.07.1991
+
+**Relator:** Cons. Alves Correia
+
+**Fonte:** https://www.tribunalconstitucional.pt/tc/acordaos/19910337.html
+
+## Texto integral
+
+ACÓRDÃO Nº 337/91
+
+Processo nº 266/90
+
+2ª Secção
+
+Relator: Conselheiro Alves Correia
+
+I Relatório:
+
+1. O Representante do Ministério Público junto do Tribunal Judicial da Comarca de Matosinhos deduziu acu­sação contra A., imputando-lhe a autoria de um crime de desobediência, previsto e punido pelas disposi­ções conjugadas dos artigos 388º, nºs 1 e 2, do Código Penal, e 17º, nº 1, do Decreto-Lei nº 14/84, de 11 de Janeiro.
+
+E isto porque, tendo-lhe sido aplicada, por decisão do Banco de Portugal, de 31 de Julho de 1987, a me­dida de restrição ao uso de cheque e tendo sido notificada para devolver os cheques que tivesse em seu poder, no prazo de oito dias, não procedeu a essa devolução.
+
+2. O Mmº Juiz do Tribunal Judicial da Co­marca de Matosinhos, por despacho de 1 de Junho de 1990, invo­cando o Acórdão do Tribunal Constitucional nº 489/89 (publicado no Diário da República, II Série, nº 27, de 01-02-1990), recu­sou, no entanto, a aplicação das normas dos artigos 10º, nº 1, e 13º, nº 1, do Decreto-Lei nº 14/84, com fundamento em inconstitucionalidade orgânica, pelo que, reputando ilegítima, por carecer de base legal, a ordem do Banco de Portugal, entendeu não existir desobediência criminalmente punível, ordenando, con­sequentemente, o arquivamento dos autos.
+
+3. Daquele despacho interpôs o Ministério Público obrigatoriamente o presente recurso, nos termos das per­tinentes disposições constitucionais e legais, cujo objecto con­siste, assim, na questão da constitucionalidade das normas dos artigos 10º, nº 1, e 13º, nº 1, do Decreto- Lei nº 14/84.
+
+4. Neste Tribunal, o Exmº Procurador-Geral Adjunto concluiu as suas alegações do seguinte modo:
+
+lº. A medida de restrição ao uso do cheque tem natureza disciplinar administrativa;
+
+2º. Não são organicamente inconstitucio­nais as normas dos artigos 10º, nº 1, e 13º, nº 1, do Decreto-Lei nº 14/84, de 11 de Janeiro, já que cabem na competência própria do Governo;
+
+3º. Deve conceder-se provimento ao recurso, determinando-se a reforma da decisão recorrida em conformidade com o precedente juízo de não inconstitucionalidade.
+
+5. Por sua vez, a recorrida, nas suas ale­gações, diz que o Decreto-Lei nº 14/84, de 11 de Janeiro, nomea­damente os seus artigos 10º e 13º, padece de inconstitucionali­dade orgânica, pelo que deve ser negado provimento ao recurso.
+
+II Fundamentos:
+
+6. Este Tribunal já teve ocasião de apre­ciar a questão da constitucionalidade das normas acima transcri­tas. Fê-lo, primeiro, pelo Acórdão da lª secção nº 489/89 ( pu­blicado no Diário da República, II Série, nº 27, de 01-02-1990) e, mais recentemente, pelos Acórdãos da sua 2ª secção nºs 160/91, 183/91, 184/91 e 185/91 (ainda inéditos), tendo concluído em todos eles, embora com alguns votos discordantes, pela inconsti­tucionalidade orgânica daquelas normas.
+
+É essa conclusão que agora o Tribunal reitera, limitando-se, para tanto, a recordar o essencial dos fundamentos dos mencionados arestos da 2ª secção - e não os do Acórdão nº 489/89, uma vez que os fundamentos deste não são­ co­incidentes com os daqueles.
+
+7. Elemento verdadeiramente determinante para a resolução do problema da constitucionalidade da "medida de restrição ao uso de cheque", disciplinada nas normas desapli­cadas, é o da definição da topologia daquela medida san­cionató­ria no quadro mais geral das "sanções de direito público".
+
+Em primeiro lugar, aqueles arestos colocam a questão de saber se a medida de restrição ao uso de cheque é (ou não) uma sanção criminal - recte, se ela é (ou não) uma me­dida de segurança.
+
+A resposta vem pronta e em sentido negati­vo.
+
+"De facto, não é nenhuma das penas princi­pais que o Código Penal prevê (cfr. o artigo 40º e ss.) ; e, não sendo aplicada para punir qualquer infracção criminal (não pres­supõe, sequer, uma condenação criminal), também não pode tratar-se de uma pena acessória. A pena acessória só pode, na verdade, ser pronunciada numa sentença condenatória em con­junto com uma pena principal (cfr. artigos 66º e 69º do Código Penal)" (cfr. o citado Acórdão nº 160/91).
+
+Não é também uma medida de segurança, uma vez que "a função das medidas de segurança é de pura defesa so­cial; não possuem, pois, carácter de reprovação como as penas, nem têm como elas fundamento ético-jurídico. Por esse lado, as medidas de segurança aproximam-se das medidas administrativas; mas, contrariamente a estas, pressupõem o cometimento pelo agen­te de um facto objectivamente criminoso, que, não sendo, embora, a sua razão de ser, nem tão-pouco o critério da sua medida, serve-lhes, no entanto, de prova e de valor sintomático (cfr. artigos 91º e 97º do Código Penal; cfr. também Eduardo Correia, Direito Criminal, 1963, p. 33; Cavaleiro de Ferreira, Lições de Direito Penal, Parte Geral II, Penas e Medidas de Segurança, ano lectivo de 1987/1988, p. 59 e sg.; e Jorge Figueiredo Dias, Di­reito Penal 2, lições ao 5º ano da Faculdade de Direito, 1988, p.27)".
+
+Ora, "a aplicação da medida de restrição ao uso de cheque não tem como pressuposto - ao menos em todos os casos - a prática de um facto objectivamente criminoso [no caso, a prática de um crime de emissão de cheque sem cobertura, pre­visto e punível pelos artigos 23º e 24º do Decreto nº 13.004, de 12 de Janeiro de 1927 (o último, na redacção da Lei nº 25/81, de 21 de Agosto, e do Decreto-Lei nº 400/82, de 23 de Setembro]".
+
+"Não revestindo a medida de restrição ao uso de cheque a natureza de sanção criminal - recte, de medida de segurança - pode ela ser aplicada em 1ª instância pela Adminis­tração. Ao que acresce que o Governo, ao legislar sobre a maté­ria, não invadiu a reserva parlamentar que tem por objecto a "definição dos crimes, penas, medidas de segurança e respectivos pressupostos", constante da alínea c) do nº 1 do artigo 168º".
+
+Assim sendo, terá de concluir-se que as normas dos artigos 10º, nºs 1 e 2 , 13º, nº 1, e 17º, nº 1, do Decreto-Lei nº 14/84 não violam os artigos 168º, nº 1, alínea c), e 205º, nºs 1 e 2, da Constituição (cfr. o Acórdão nº 160/91).
+
+8. A medida de restrição ao uso do cheque é, antes, uma medida administrativa.
+
+Não é, porém, uma medida administrativa de natureza disciplinar.
+
+"É que, as pessoas a quem tal medida é aplicável - sacadores de cheques e titulares de contas bancárias - sofrem a medida em causa nessa específica qualidade, e não enquanto gente que exerça uma actividade ou profissão que, pelo seu "especial interesse público", pela sua "perigosidade" ou por "supor uma relação funcional com a Administração", deva ficar sujeita a uma "especial vigilância" desta, com vista a assegurar o seu regular funcionamento. Tais pessoas são, antes, usuárias de um sistema - o sistema que inclui os cheques entre os meios de pagamento e, por isso, os emite - , mas um tal sistema não se apresenta organizado sob a forma de um serviço público [sobre o conceito de serviço público, cfr. Freitas do Amaral (Curso de Direito Administrativo, I, Coimbra, 1988, p. 616 e ss.)]"(cfr. o mencionado Acórdão nº 160/91).
+
+Acrescente-se, no entanto, que, ainda que se estivesse em presença de uma sanção disciplinar, não ficaria ressalvada a constitucionalidade da norma que prevê a medida aqui em causa , ou seja, a norma do artigo 10º ,nºs 1 e 2 . Com efeito, como refere o Acórdão nº 160/91, "sendo reservado à Assembleia da República legislar sobre o "regime geral de puni­ção das infracções disciplinares", não se vê que a medida de restrição do uso de cheque possa identificar-se com qualquer das sanções previstas nesse "regime geral". Inconstitucionalidade só não existiria, então, na norma que atribui ao Banco de Portugal competência para aplicar tal medida, ou seja, no artigo 13º, nº 1, pois se está fora da reserva do juiz ".
+
+9. A medida de restrição ao uso de cheque não pode também ser qualificada como uma medida de polícia, uma vez que esta tem uma função de garantia da legalidade em geral, da ordem pública, da segurança interna e dos direitos dos cida­dãos (crf. o artigo 272º, nº 1, da Constituição), assumindo, pois, uma natureza preventiva e não sancionatória, ao passo que aquela é inequivocamente uma medida sancionatória.
+
+Assim sendo, "poderia dizer-se, desde lo­go, que da Constituição parece extrair-se a conclusão de que o direito público sancionatório se esgota numa das categorias se­guintes: ilícito penal (entendida esta expressão em sentido­ am­plo por forma a abarcar a categoria residual das contraven­ções),ilícito disciplinar e ilícito de mera ordenação social [cfr. artigos 27º, nºs 2 e 3, 29º, 30º, 37º, nº 3, 168º, nº 1, alíneas c) e d), e 269º, nº 3, da Constituição].
+
+A ser assim, então, ao legislador não se­ria ilícito criar ilícitos administrativos atípicos.
+
+Ora, no caso, pode entender-se que o que o Governo fez foi, justamente, criar um ilícito administrativo atípico, pois que não é ele um ilícito disciplinar e também não se vê que possa reconduzir-se ao conceito de contra-ordenação. Contra-ordenação é, na verdade, apenas o "facto ilícito e censu­rável que preencha um tipo legal no qual se comine uma coima", como se diz no artigo 1º da respectiva lei-quadro (Decreto-Lei nº 433/82, de 27 de Outubro), e a medida de restri­ção ao uso de cheque não é identificável com qualquer das "coi­mas" previs­tas nos artigos 17º e 21º da referida lei-quadro.
+
+Se assim for - isto é, se o legislador não puder criar ilícitos administrativos diferentes do ilícito dis­ciplinar e do ilícito contra-ordenacional - então terá ele vio­lado o "programa constitucional" relativo ao direito público sancionatório.
+
+Mas, ainda que assim não deva entender-se - isto é, ainda que haja de ter-se por constitucionalmente admis­sível a criação de ilícitos administrativos para além do ilícito disciplinar e do ilícito contra-ordenacional - uma coisa é cer­ta: só a Assembleia da República ou o Governo por ela autori­zado hão-de poder criar tal tipo de ilícito e definir-lhe o res­pecti­vo regime, sob pena de se defraudar o sentido da reserva parla­mentar.
+
+Com efeito, para subtrair a matéria à in­tervenção parlamentar, bastaria dar às sanções cominadas desi­gnações diferentes das que correspondem àqueles tipos de ilíci­to.
+
+Daí a inconstitucionalidade das normas em questão.
+
+Admitindo, porém, que se está em face de um ilícito contra-ordenacional, então, haverá de concluir-se que as normas sub iudicio (directamente, a do artigo 10º, nº 1 e 2, e, consequentemente, as dos artigos 13º, nº 1, e 17º, nº 1) vio­lam o artigo 168º, nº 1, alínea d), da Constituição, que reserva à Assembleia da República a legislação sobre o "regime geral de punição [...] dos ilícitos de mera ordenação social e do res­pectivo processo".
+
+Na verdade, embora o Governo possa, no exercício da competência legislativa concorrente, definir con­cretos ilícitos contra-ordenacionais e as coimas que cabem a cada infracção, ao fazê-lo há-de mover-se dentro da moldura san­cionatória da respectiva lei-quadro (cfr., neste sentido, por último, o Acórdão nº 88/90, DR,II, 17.09.90), não podendo,desi­gnadamente (salvo munido de autorização legislativa), criar san­ções que não se reconduzam a qualquer dos tipos de "coima" pre­vistos naquela lei-quadro (previstos, por conseguinte, nos arti­gos 17º e 21º do Decreto-Lei nº 433/82, de 27 de Outubro).
+
+Pois bem: de um lado, a medida de restri­ção ao uso do cheque não é, como se disse já, identificável com qualquer das "coimas" previstas nos mencionados artigos 17º e 21º do Decreto-Lei nº 433/82; e, de outro, o Governo não dispunha de autorização legislativa para a criar, como bem de­corre do ...sentido das autorizações le­gislativas invocadas para a edição do Decreto-Lei nº 14/84,de 11 de Janeiro" (o art­.3º da Lei nº 12/83,de 24 de Agosto, e o art.1º da Lei nº 27/83, de 8 de Setembro).
+
+"As normas em apreciação violam, pois, o artigo 168º, nº 1, alínea d), da Constituição; só, porém, as normas dos nºs. 1 e 2 do artigo 10º do Decreto-Lei nº 14/84 vio­lam directamente tal preceito constitucional, pois é aí que se prevê e recorta a medida de restrição ao uso do cheque. Quanto às normas dos artigos 13º, nº 1, e 17º, nº 1, a inconstituciona­lidade é, como se disse, tão-só consequencial.
+
+Na verdade, atribuindo-se, no nº 1 do ar­tigo 13º, competência ao Banco de Portugal para "decidir sobre a aplicação da medida de restrição ao uso do cheque", a sua in­constitucionalidade decorre da inconstitucionalidade do artigo 10º, nºs 1 e 2, onde se contém a previsão e desenho de tal medi­da. E identicamente se passam as coisas quanto ao artigo 17º, nº 1, pois que aí se prevêem dois crimes de desobediência, cujos elementos constitutivos são, quanto a um deles, o achar-se abrangido pela medida de restrição ao uso do cheque e o não de­volver às instituições de crédito os módulos de cheques que tiver em seu poder, como se impõe no artigo 10º, nº 2" ( cfr. o Acórdão nº 160/91).
+
+III Decisão :
+
+10. Nos termos e pelos fundamentos expos­tos, nega-se provimento ao recurso e, em consequência, confirma-se a decisão recorrida quanto ao julgamento da questão de inconstitu­cionalidade.
+
+Lisboa, 3 de Julho de 1991
+
+Fernando Alves Correia
+
+Messias Bento
+Luís Nunes de Almeida
+
+Mário de Brito
+
+José de Sousa e Brito (vencido, nos termos da declaração de voto junta ao Acórdão nº 155/91)
+
+Bravo Serra (vencido, pela fundamentação constante das declarações de voto que apus nos Acs. 155/91 e 160/91)
+
+José Manuel Cardoso da Costa
