@@ -1,0 +1,785 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=6tRSrsS472KL0pihrbeU3Juv4E5ApzTlkuIJMDYc5d38v4XsZgYhKVB7Ayr7k6BD7ZNRnhu1uQv2nCwvvkoyXJgfHcd33Rt69gnnqGDLZ7jjDe9WHr1ZOrkFyZHrN%2bdvof6dUKIxE5Wasjk0TQFMyoX%2fKDcVSYqW4xooRfuNYiYxRnpgxINjnNAVq18dgakPF%2fXopgVWi9%2fPK8k2cZ5tRjc%2bd8zO7m6xWvdsbeUHkofo9FaMQ0PghWTFmLBF2ObMw8XQM9vXrZDGjYuCymHSoJrECXBxqIIzCmd0QdMQC5B6LWcA54XELbiVJgZxukznf%2fhdJzQ3jKe6Egx9h%2fh5EH5FtypL9lWrfzDQfsf80Is%3d&fich=IniciativasVI_json.txt&Inline=true",
+  "ficheiro_sha256": "cb79e0745a8347d94ab476dc88937917b337689f6631b8b987a47bad388a33b7",
+  "legislatura": "VI",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "508",
+    "id": "3343",
+    "titulo": "Proíbe o financiamento de partidos políticos e de campanhas eleitorais por empresas, e reduz o limite máximo admissível das despesas realizadas em campanhas eleitorais. (altera a Lei n°72/93, de 30 de Novembro - financiamento dos partidos políticos e das campanhas eleitorais)"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1995-03-23",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "7950",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1995-03-23",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1995-03-22",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39643",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1828-1834"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-23",
+                "pubLeg": "VI",
+                "pubNr": "55",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/055/1995-03-23/1828?pgs=1828-1834&org=PLC"
+              }
+            ],
+            "sumario": "PROIBE O FINANCIAMENTO DE PARTIDOS POLITICOS E DE CAMPANHASELEITORAIS POR EMPRESAS E REDUZ O LIMITE MAXIMO ADMISSIVELDAS DESPESAS REALIZADAS EM CAMPANHAS ELEITORAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "462",
+                "nome": "Alberto Martins"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "39646",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-23",
+                "pubLeg": "VI",
+                "pubNr": "55",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/055/1995-03-23?org=PLC"
+              }
+            ],
+            "sumario": "PROIBE O FINANCIAMENTO DE PARTIDOS POLITICOS E DE CAMPANHASELEITORAIS POR EMPRESAS E REDUZ O LIMITE MAXIMO ADMISSIVELAS DESPESAS REALIZADAS EM CAMPANHAS ELEITORAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40514",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1843-1843"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-23",
+                "pubLeg": "VI",
+                "pubNr": "55",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/055/1995-03-23/1843?pgs=1843&org=PLC"
+              }
+            ],
+            "sumario": "PROIBE O FINANCIAMENTO DE PARTIDOS POLITICOS E DE CAMPANHASELEITORAIS POR EMPRESAS E REDUZ O LIMITE MAXIMO ADMISSIVELAS DESPESAS REALIZADAS EM CAMPANHAS ELEITORAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "131",
+                "nome": "Rui Carp"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40515",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1842-1842"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-23",
+                "pubLeg": "VI",
+                "pubNr": "55",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/055/1995-03-23/1842?pgs=1842&org=PLC"
+              }
+            ],
+            "sumario": "PROIBE O FINANCIAMENTO DE PARTIDOS POLITICOS E DE CAMPANHASELEITORAIS POR EMPRESAS E REDUZ O LIMITE MAXIMO ADMISSIVELAS DESPESAS REALIZADAS EM CAMPANHAS ELEITORAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "Indep",
+                "idCadastro": "220",
+                "nome": "Mário Tomé"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40516",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1841-1841"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-23",
+                "pubLeg": "VI",
+                "pubNr": "55",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/055/1995-03-23/1841?pgs=1841&org=PLC"
+              }
+            ],
+            "sumario": "PROIBE O FINANCIAMENTO DE PARTIDOS POLITICOS E DE CAMPANHASELEITORAIS POR EMPRESAS E REDUZ O LIMITE MAXIMO ADMISSIVELAS DESPESAS REALIZADAS EM CAMPANHAS ELEITORAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "34",
+                "nome": "Carlos Oliveira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40517",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-23",
+                "pubLeg": "VI",
+                "pubNr": "55",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/055/1995-03-23?org=PLC"
+              }
+            ],
+            "sumario": "PROIBE O FINANCIAMENTO DE PARTIDOS POLITICOS E DE CAMPANHASELEITORAIS POR EMPRESAS E REDUZ O LIMITE MAXIMO ADMISSIVELAS DESPESAS REALIZADAS EM CAMPANHAS ELEITORAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "462",
+                "nome": "Alberto Martins"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40518",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-23",
+                "pubLeg": "VI",
+                "pubNr": "55",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/055/1995-03-23?org=PLC"
+              }
+            ],
+            "sumario": "PROIBE O FINANCIAMENTO DE PARTIDOS POLITICOS E DE CAMPANHASELEITORAIS POR EMPRESAS E REDUZ O LIMITE MAXIMO ADMISSIVELAS DESPESAS REALIZADAS EM CAMPANHAS ELEITORAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40519",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-23",
+                "pubLeg": "VI",
+                "pubNr": "55",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/055/1995-03-23?org=PLC"
+              }
+            ],
+            "sumario": "PROIBE O FINANCIAMENTO DE PARTIDOS POLITICOS E DE CAMPANHASELEITORAIS POR EMPRESAS E REDUZ O LIMITE MAXIMO ADMISSIVELAS DESPESAS REALIZADAS EM CAMPANHAS ELEITORAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40520",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1837-1837"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-23",
+                "pubLeg": "VI",
+                "pubNr": "55",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/055/1995-03-23/1837?pgs=1837&org=PLC"
+              }
+            ],
+            "sumario": "PROIBE O FINANCIAMENTO DE PARTIDOS POLITICOS E DE CAMPANHASELEITORAIS POR EMPRESAS E REDUZ O LIMITE MAXIMO ADMISSIVELAS DESPESAS REALIZADAS EM CAMPANHAS ELEITORAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "34",
+                "nome": "Carlos Oliveira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40521",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-23",
+                "pubLeg": "VI",
+                "pubNr": "55",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/055/1995-03-23?org=PLC"
+              }
+            ],
+            "sumario": "PROIBE O FINANCIAMENTO DE PARTIDOS POLITICOS E DE CAMPANHASELEITORAIS POR EMPRESAS E REDUZ O LIMITE MAXIMO ADMISSIVELDAS DESPESAS REALIZADAS EM CAMPANHAS ELEITORAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "274",
+                "nome": "Nunes Liberato"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40522",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1835-1835"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-23",
+                "pubLeg": "VI",
+                "pubNr": "55",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/055/1995-03-23/1835?pgs=1835&org=PLC"
+              }
+            ],
+            "sumario": "PROIBE O FINANCIAMENTO DE PARTIDOS POLITICOS E DE CAMPANHASELEITORAIS POR EMPRESAS E REDUZ O LIMITE MAXIMO ADMISSIVELDAS DESPESAS REALIZADAS EM CAMPANHAS ELEITORAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "462",
+                "nome": "Alberto Martins"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40523",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1834-1834"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-23",
+                "pubLeg": "VI",
+                "pubNr": "55",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/055/1995-03-23/1834?pgs=1834&org=PLC"
+              }
+            ],
+            "sumario": "PROIBE O FINANCIAMENTO DE PARTIDOS POLITICOS E DE CAMPANHASELEITORAIS POR EMPRESAS E REDUZ O LIMITE MAXIMO ADMISSIVELDAS DESPESAS REALIZADAS EM CAMPANHAS ELEITORAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "229",
+                "nome": "Narana Coissoró"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40524",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1833-1833"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-23",
+                "pubLeg": "VI",
+                "pubNr": "55",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/055/1995-03-23/1833?pgs=1833&org=PLC"
+              }
+            ],
+            "sumario": "PROIBE O FINANCIAMENTO DE PARTIDOS POLITICOS E DE CAMPANHASELEITORAIS POR EMPRESAS E REDUZ O LIMITE MAXIMO ADMISSIVELDAS DESPESAS REALIZADAS EM CAMPANHAS ELEITORAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "462",
+                "nome": "Alberto Martins"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40525",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-23",
+                "pubLeg": "VI",
+                "pubNr": "55",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/055/1995-03-23?org=PLC"
+              }
+            ],
+            "sumario": "PROIBE O FINANCIAMENTO DE PARTIDOS POLITICOS E DE CAMPANHASELEITORAIS POR EMPRESAS E REDUZ O LIMITE MAXIMO ADMISSIVELAS DESPESAS REALIZADAS EM CAMPANHAS ELEITORAIS",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:30",
+            "horaTermo": "17:30",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "40526",
+                "idPag": null,
+                "obs": null,
+                "pag": null,
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1995-03-23",
+                "pubLeg": "VI",
+                "pubNr": "55",
+                "pubSL": "4",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/055/1995-03-23?org=PLC"
+              }
+            ],
+            "sumario": "PROIBE O FINANCIAMENTO DE PARTIDOS POLITICOS E DE CAMPANHASELEITORAIS POR EMPRESAS E REDUZ O LIMITE MAXIMO ADMISSIVELDAS DESPESAS REALIZADAS EM CAMPANHAS ELEITORAIS",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "273247",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "7950",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1995-03-23",
+        "pubLeg": "VI",
+        "pubNr": "55",
+        "pubSL": "4",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/04/055/1995-03-23?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
