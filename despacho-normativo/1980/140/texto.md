@@ -1,0 +1,3 @@
+Despacho Normativo n.º 140/80
+Ao abrigo do disposto no n.º 1 do artigo 1.º do Decreto-Lei n.º 303/77, de 29 de Julho, e em aditamento à tabela n.º 1 «Produtos fitofarmacêuticos», é autorizado o lançamento no mercado de nova embalagem com a capacidade de 100 g, em produtos fitofarmacêuticos, com base em metribuzina, formulados em pó molhável, com o teor de 35% de substância activa.
+Secretarias de Estado do Fomento Agrário e do Comércio e Turismo, 10 de Março de 1980. - O Secretário de Estado do Fomento Agrário, José Vicente de Jesus de Carvalho Cardoso. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.
