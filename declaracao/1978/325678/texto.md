@@ -1,0 +1,18 @@
+Declaração
+Para os fins do disposto no artigo 9.º da Lei Orgânica do Banco de Portugal, aprovada pelo Decreto-Lei n.º 644/75, de 15 de Novembro, com a nova redacção dada pelo Decreto-Lei n.º 273/78, de 6 de Setembro, faz-se público que, por despacho do Secretário de Estado do Tesouro de 12 de Setembro último, foi aprovada a emissão de uma nova chapa da nota de 20$00 (chapa 9 - efígie do almirante Gago Coutinho), a pôr em circulação pelo referido Banco, com as seguintes características:
+a) Frente da nota
+a) - 1 - Composição do desenho
+Na metade direita da nota destaca-se a efígie do almirante Gago Coutinho, aparecendo na parte inferior direita o dístico «Almirante Gago Coutinho». À esquerda e na parte superior aparece a legenda «Banco de Portugal» e na zona média o escudo nacional. Ligeiramente descentrados sobre a esquerda aparecem, sucessivamente e de cima para baixo, os dísticos «Ch. 9», «VINTE ESCUDOS» e «OURO». Nos cantos inferior esquerdo e superior direito aparecem os n.os «20» inseridos num trabalho de guillochis. Na zona imediatamente à direita da efígie há uns ornatos a traço branco e a representação da rosa-dos-ventos. O fundo da nota, constituído nos seus bordos por um trabalho numismático, apresenta na zona central o sextante sobre o astrolábio, notando-se por cima da efígie dois raios triangulares de outra rosa-dos-ventos.
+a) - 2 - Cores
+O fundo da nota é de um tom verde-alface, evoluindo para o violeta na zona central, por um processo íris, voltando ao verde-alface na metade direita. Em verde-musgo são a palavra «Portugal», da legenda «Banco de Portugal», o n.º «20» e o trabalho de guillochis que o circunda no canto superior direito e a parte de trabalho de guillochis que circunda o n.º «20» do canto inferior esquerdo. Em verde-escuro são a palavra «Banco», da legenda «Banco de Portugal», «Ch. 9», «VINTE ESCUDOS» e «OURO», bem como todo o restante trabalho de guillochis, a farda da efígie e a rosa-dos-ventos. A cara da efígie em verde-claro. Na zona central, constituindo o desenho do sextante e do astrolábio, bem como um pequeno trabalho de guillochis, aparecem ainda as cores amarelo-ocre, azul-anilado e verde.
+b) Verso da nota
+b) - 1 - Composição do desenho
+Na metade inferior da nota destaca-se a gravura de um hidroavião amarado em frente da Torre de Belém, contendo em baixo a legenda «1922 - Gago Coutinho inicia a navegação aérea astronómica». Na metade esquerda, uma representação esquemática dos continentes sul-americano, africano e europeu, com a indicação da rota seguida pelo almirante Gago Coutinho, em 1922, na sua viagem Lisboa-Rio de Janeiro. Na metade direita, em cima, a legenda «Banco de Portugal». Nos cantos superior esquerdo e inferior direito, os n.os «20» inseridos em trabalho de guillochis. O fundo da nota, constituído nos seus bordos por um trabalho numismático, apresenta, na zona central, o astrolábio. Na metade esquerda, aparecem duas rosas-dos-ventos.
+b) - 2 - Cores
+Em verde toda a gravura, bem como a legenda «Banco de Portugal», os n.os «20» e o trabalho de guillochis. O fundo da nota, também obtido por um processo íris, tem uma zona central amarelo-sépia, sendo os extremos de um verde-azulado. Em azul, as rosas-dos-ventos.
+c) Marca de água e filete de segurança
+A marca de água situa-se na metade esquerda da nota e é um retrato do almirante Gago Coutinho, redução da efígie.
+O filete de segurança é um traço descontínuo, ligeiramente descentrado sobre a esquerda e paralelo às margens menores.
+d) Dimensões
+As notas, incluídas as margens, medem 135 mm x 66 mm.
+Direcção-Geral do Tesouro, 3 de Novembro de 1978. - O Director-Geral, Manuel Raminhos Alves de Melo.
