@@ -1,0 +1,6 @@
+Resolução n.º 135/82
+No uso da competência que lhe é conferida pelo disposto no n.º 2 do artigo 5.º e no n.º 2 do artigo 8.º dos Estatutos da ANOP - Agência Noticiosa Portuguesa, E. P., aprovados pelo Decreto-Lei n.º 502/77, de 29 de Novembro, e no n.º 4 do artigo 9.º do Decreto-Lei n.º 260/76, de 8 de Abril, o Conselho de Ministros, reunido em 5 de Agosto de 1982, resolveu:
+1 - Exonerar, a seu pedido, das funções de presidente e vogais do conselho de gerência da ANOP - Agência Noticiosa Portuguesa, E. P., respectivamente, Manuel Maria Meneses Pinto Machado e os Drs. Manuel Maria Norton Cardoso de Meneses e António Manuel da Costa Saldida.
+2 - Nomear, em sua substituição, em comissão de serviço, presidente do referido conselho o Dr. Jorge Manuel Pereira Thadeu Ferreira e vogais Carlos Rodrigues Machado e Guilherme Archer Moreira de Almeida Coelho.
+3 - Estas nomeações revestem-se de carácter interino, nos termos do artigo 7.º, n.º 3, da Lei n.º 78/77, de 25 de Outubro, até à obtenção do parecer do Conselho de Informação para a ANOP, e à audição das estruturas representativas dos trabalhadores da empresa, nos termos da lei.
+Presidência do Conselho de Ministros, 5 de Agosto de 1982. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
