@@ -2,46 +2,34 @@
 
 ### Acesso a informações e documentos bancários
 
-1 - A administração tributária tem o poder de aceder a todas as informações ou documentos bancários, bem como a informações ou documentos de outras entidades financeiras previstas como tal no artigo 3.º da Lei n.º 25/2008, de 5 de junho, alterado pelos Decretos-Leis n.os 317/2009, de 30 de outubro, e 242/2012, de 7 de novembro, sem dependência do consentimento do titular dos elementos protegidos:
+1 - A administração tributária tem o poder de aceder directamente aos documentos bancários, nas situações de recusa da sua exibição ou de autorização para a sua consulta:
 
-a) Quando existam indícios da prática de crime em matéria tributária;
+a) Quando se trate de documentos de suporte de registos contabilísticos dos sujeitos passivos de IRS e IRC que se encontrem sujeitos a contabilidade organizada;
 
-b) Quando se verifiquem indícios da falta de veracidade do declarado ou esteja em falta declaração legalmente exigível;
+b) Quando o contribuinte usufrua de benefícios fiscais ou de regimes fiscais privilegiados, havendo necessidade de controlar os respectivos pressupostos e apenas para esse efeito.
 
-c) Quando se verifiquem indícios da existência de acréscimos de património não justificados, nos termos da alínea f) do n.º 1 do artigo 87.º;
+2 - A administração tributária tem o poder de aceder a todos os documentos bancários, excepto as informações prestadas para justificar o recurso ao crédito, nas situações de recusa de exibição daqueles documentos ou de autorização para a sua consulta:
 
-d) Quando se trate da verificação de conformidade de documentos de suporte de registos contabilísticos dos sujeitos passivos de IRS e IRC que se encontrem sujeitos a contabilidade organizada ou dos sujeitos passivos de IVA que tenham optado pelo regime de IVA de caixa;
+a) Quando se verificar a impossibilidade de comprovação e quantificação directa e exacta da matéria tributável, nos termos do artigo 88.º, e, em geral, quando estejam verificados os pressupostos para o recurso a uma avaliação indirecta;
 
-e) Quando exista a necessidade de controlar os pressupostos de regimes fiscais privilegiados de que o contribuinte usufrua;
+b) Quando os rendimentos declarados em sede de IRS se afastarem significativamente, para menos, sem razão justificada, dos padrões de rendimento que razoavelmente possam permitir as manifestações de riqueza evidenciadas pelo sujeito passivo, nos termos do artigo 89.º-A;
 
-f) Quando se verifique a impossibilidade de comprovação e quantificação directa e exacta da matéria tributável, nos termos do artigo 88.º, e, em geral, quando estejam verificados os pressupostos para o recurso a uma avaliação indirecta.
+c) Quando existam indícios da prática de crime doloso em matéria tributária, designadamente nos casos de utilização de facturas falsas, e, em geral, nas situações em que existam factos concretamente identificados gravemente indiciadores da falta de veracidade do declarado;
 
-g) Quando se verifique a existência comprovada de dívidas à administração fiscal ou à segurança social.
+d) Quando seja necessário, para fins fiscais, comprovar a aplicação de subsídios públicos de qualquer natureza.
 
-h) Quando se trate de informações solicitadas nos termos de acordos ou convenções internacionais em matéria fiscal a que o Estado português esteja vinculado.
+3 - As decisões da administração tributária referidas nos números anteriores devem ser fundamentadas com expressa menção dos motivos concretos que as justificam, pressupõem a audição prévia do contribuinte e são da competência do director-geral dos Impostos ou do director-geral das Alfândegas e dos Impostos Especiais sobre o Consumo, ou seus substitutos legais, sem possibilidade de delegação.
 
-i) Constitui também fundamento da derrogação do sigilo bancário, em sede de procedimento administrativo de inspeção tributária, a comunicação de operações suspeitas, remetidas à Autoridade Tributária e Aduaneira, pelo Departamento Central de Investigação e Ação Penal da Procuradoria-Geral da República (DCIAP) e pela Unidade de Informação Financeira (UIF), no âmbito da legislação relativa à prevenção e repressão do branqueamento de capitais e financiamento do terrorismo.
+4 - Os actos praticados ao abrigo da competência definida no número anterior são susceptíveis de recurso judicial, o qual terá efeito suspensivo nas situações previstas no n.º 2.
 
-2 - A administração tributária tem, ainda, o poder de aceder diretamente aos documentos bancários e aos documentos emitidos por outras entidades financeiras previstas como tal no artigo 3.º da Lei n.º 25/2008, de 5 de junho, nas situações de recusa da sua exibição ou de autorização para a sua consulta, quando se trate de familiares ou terceiros que se encontrem numa relação especial com o contribuinte.
+5 - Nos casos de deferimento do recurso previsto no número anterior, os elementos de prova entretanto obtidos não podem ser utilizados para qualquer efeito em desfavor do contribuinte.
 
-3 - (Revogado.)
+6 - As entidades que se encontrem numa relação de domínio com o contribuinte ficam sujeitas aos regimes de acesso à informação bancária referidos nos n.os 1 e 2.
 
-4 - As decisões da administração tributária referidas nos números anteriores devem ser fundamentadas com expressa menção dos motivos concretos que as justificam e, salvo o disposto no número seguinte e no n.º 13, notificadas aos interessados no prazo de 30 dias após a sua emissão, sendo da competência do diretor-geral da Autoridade Tributária e Aduaneira, ou dos seus substitutos legais, sem possibilidade de delegação.
+7 - O acesso da administração tributária a informação bancária relevante relativa a familiares ou terceiros que se encontrem numa relação especial com o contribuinte depende de autorização judicial expressa, após audição do visado, obedecendo aos requisitos previstos no n.º 3.
 
-5 - Os atos praticados ao abrigo da competência definida no n.º 1 são suscetíveis de recurso judicial com efeito meramente devolutivo e, sem prejuízo do disposto no n.º 13, os atos previstos no n.º 2 dependem da audição prévia do familiar ou terceiro e são suscetíveis de recurso judicial com efeito suspensivo, por parte destes.
+8 - O regime previsto nos números anteriores não prejudica a legislação aplicável aos casos de investigação por infracção penal e só pode ter por objecto operações e movimentos bancários realizados após a sua entrada em vigor, sem prejuízo do regime vigente para as situações anteriores.
 
-6 - Nos casos de deferimento do recurso previsto no número anterior, os elementos de prova entretanto obtidos não podem ser utilizados para qualquer efeito em desfavor do contribuinte.
-
-7 - As entidades que se encontrem numa relação de domínio com o contribuinte ficam sujeitas aos regimes de acesso à informação bancária referidos nos n.os 1, 2 e 3.
-
-8 - (Revogado.)
-
-9 - O regime previsto nos números anteriores não prejudica a legislação aplicável aos casos de investigação por infracção penal e só pode ter por objecto operações e movimentos bancários realizados após a sua entrada em vigor, sem prejuízo do regime vigente para as situações anteriores.
+9 - Os actos praticados ao abrigo da competência prevista no n.º 1 devem ser objecto de comunicação ao Defensor do Contribuinte.
 
 10 - Para os efeitos desta lei, considera-se documento bancário qualquer documento ou registo, independentemente do respectivo suporte, em que se titulem, comprovem ou registem operações praticadas por instituições de crédito ou sociedades financeiras no âmbito da respectiva actividade, incluindo os referentes a operações realizadas mediante utilização de cartões de crédito.
-
-11 - Para os efeitos desta lei, considera-se documento de outras entidades financeiras, previstas como tal no artigo 3.º da Lei n.º 25/2008, de 5 de junho, qualquer documento ou registo, independentemente do respetivo suporte, que, não sendo considerado documento bancário, titule, comprove ou registe operações praticadas pelas referidas entidades.
-
-12 - A administração tributária presta ao ministério da tutela informação anual de caráter estatístico sobre os processos em que ocorreu o levantamento do sigilo bancário e do sigilo previsto no Regime Jurídico do Contrato de Seguro, a qual é remetida à Assembleia da República com a apresentação do relatório detalhado sobre a evolução do combate à fraude e à evasão fiscais, previsto no artigo 64.º-B.
-
-13 - Nos casos abrangidos pela alínea h) do n.º 1, não há lugar a notificação dos interessados nem a audição prévia do familiar ou terceiro quando o pedido de informações tenha caráter urgente ou essa audição ou notificação possa prejudicar as investigações em curso no Estado ou jurisdição requerente das informações e tal seja expressamente solicitado por este Estado ou jurisdição.

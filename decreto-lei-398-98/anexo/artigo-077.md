@@ -10,15 +10,17 @@
 
 2 - A fundamentação dos actos tributários pode ser efectuada de forma sumária, devendo sempre conter as disposições legais aplicáveis, a qualificação e quantificação dos factos tributários e as operações de apuramento da matéria tributável e do tributo.
 
-3 - Sempre que as leis tributárias permitam que a matéria tributável seja corrigida com base nas relações entre o contribuinte e terceiras pessoas e verificando-se o estabelecimento de condições diferentes das que se verificariam sem a existência de tais relações, a fundamentação das correcções obedecerá aos seguintes requisitos:
+3 - Em caso de existência de operações ou séries de operações sobre bens, direitos ou serviços, ou de operações financeiras, efectuadas entre um sujeito passivo de imposto sobre o rendimento e qualquer outra entidade, sujeita ou não a imposto sobre o rendimento, com a qual aquele esteja em situação de relações especiais, e sempre que haja incumprimento de qualquer obrigação estatuída na lei para essa situação, a fundamentação da determinação da matéria tributável corrigida dos efeitos das relações especiais deve observar os seguintes requisitos:
 
 a) Descrição das relações especiais;
 
-b) Descrição dos termos em que nomeadamente decorrem operações da mesma natureza entre pessoas independentes em idênticas circunstâncias;
+b) Indicação das obrigações incumpridas pelo sujeito passivo;
 
-c) Descrição e qualificação do montante efectivo que serviu de base à correcção.
+c) Aplicação dos métodos previstos na lei, podendo a Direcção-Geral dos Impostos utilizar quaisquer elementos de que disponha e considerando-se o seu dever de fundamentação dos elementos de comparação adequadamente observado ainda que de tais elementos sejam expurgados os dados susceptíveis de identificar as entidades a quem dizem respeito;
 
-4 - A decisão da tributação pelos métodos indirectos nos casos e com os fundamentos previstos na presente lei especificará os motivos da impossibilidade da comprovação e quantificação directas e exacta da matéria tributável, ou descreverá o afastamento da matéria tributável do sujeito passivo dos indicadores objectivos da actividade de base científica, e indicará os critérios utilizados na sua determinação.
+d) Quantificação dos respectivos efeitos.
+
+4 - A decisão da tributação pelos métodos indirectos nos casos e com os fundamentos previstos na presente lei especificará os motivos da impossibilidade da comprovação e quantificação directas e exacta da matéria tributável, ou descreverá o afastamento da matéria tributável do sujeito passivo dos indicadores objectivos da actividade de base científica ou fará a descrição dos bens cuja propriedade ou fruição a lei considerar manifestações de fortuna relevantes, ou indicará a sequência de prejuízos fiscais relevantes, e indicará os critérios utilizados na avaliação da matéria tributável.
 
 5 - Em caso de aplicação de métodos indirectos por afastamento dos indicadores objectivos de actividade de base científica a fundamentação deverá também incluir as razões da não aceitação das justificações apresentadas pelo contribuinte nos termos da presente lei.
 
