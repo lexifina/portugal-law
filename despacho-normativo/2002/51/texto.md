@@ -1,0 +1,10 @@
+Despacho Normativo n.º 51/2002
+O Despacho Normativo n.º 37/2001, de 2 de Outubro, estabelece as disposições relativas ao regime de apoio aos produtores de culturas arvenses, em aplicação do Regulamento (CE) n.º 1251/99, do Conselho, de 17 de Maio, e do Regulamento (CE) n.º 2316/99, da Comissão, de 22 de Outubro.
+Do referido despacho normativo constam, no capítulo IV, as disposições relativas à retirada de terras, entre as quais se determina, no seu n.º 14, que a taxa máxima de retirada, voluntária ou, quando aplicável, obrigatória e voluntária, é de 35% do total da superfície declarada para efeitos do pedido de ajuda.
+Determinou o mesmo número que, a título excepcional e transitório, para a campanha de 2002-2003, a taxa máxima de retirada fosse fixada em 50% do total da superfície declarada para efeitos do pedido de ajuda.
+Face às actuais circunstâncias, considera-se adequado manter a derrogação em questão para a campanha de 2003-2004.
+Assim, determina-se o seguinte:
+O n.º 14 do Despacho Normativo n.º 37/2001, de 2 de Outubro, passa a ter a seguinte redacção:
+«14.1 - Os produtores poderão efectuar um pousio voluntário, que consiste na possibilidade de uma retirada de terras superior à sua obrigação. A retirada total de terras, pousio obrigatório e pousio voluntário, no caso dos produtores cuja área declarada é superior à necessária para produzir 92 t de cereais, ou pousio voluntário, no caso dos produtores cuja a área declarada é inferior ou igual à necessária para produzir 92 t de cereais, não poderá exceder 35% do total de superfície declarada para efeitos de pedido de ajuda.
+14.2 - A título excepcional e transitório, para a campanha de comercialização de 2003-2004, é permitida uma retirada total de terras inferior ou igual a 50% do total da superfície declarada para efeitos de pedido de ajuda.»
+Ministério da Agricultura, Desenvolvimento Rural e Pescas, 15 de Outubro de 2002. - O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto.
