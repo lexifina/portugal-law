@@ -1,0 +1,5 @@
+Portaria n.º 22356
+Tornando-se necessário alterar a cor designativa da classe de radiotelegrafistas navais dos oficiais, aspirantes a oficial e cadetes da reserva marítima;
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, que o n.º 4.º da Portaria n.º 17637, de 17 de Março de 1960, passe a ter a seguinte redacção:
+4.º Os oficiais, aspirantes a oficial e cadetes da reserva marítima provenientes da Escola Náutica usam os mesmos artigos de fardamento e distintivos que os do activo do mesmo posto. As cores designativas das classes de maquinistas navais e administração naval desta reserva são as que estão estabelecidas, respectivamente, para as classes de engenheiros maquinistas navais e de administração naval do activo, sendo laranja a cor designativa dos oficiais da classe de radiotelegrafistas; quando houver necessidade de criar outras classes de oficiais desta reserva, as suas cores designativas serão fixadas por despacho do Ministro da Marinha.
+Ministério da Marinha, 7 de Dezembro de 1966. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.
