@@ -1,0 +1,7 @@
+Decreto-Lei n.º 45119
+Considerando que, segundo o novo Código do Imposto de Capitais, aprovado pelo Decreto-Lei n.º 44561, de 10 de Setembro de 1962, a divisão do referido imposto em duas secções tem por fundamento principal a diversidade dos processos de cobrança, não se justificando, pois, que o adicional para as câmaras municipais deixe de incidir sobre qualquer das secções;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. A percentagem adicional, até 10 por cento, para as câmaras municipais, sobre o imposto de capitais, abrange as duas secções: A e B.
+§ único. A cobrança do adicional respeitante à secção B terá lugar a partir de 1 de Janeiro de 1964.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 10 de Julho de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
