@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, tendo sido incluída na lista anexa ao Acordo Europeu sobre o Regime de Circulação de Pessoas entre os Países Membros do Conselho da Europa, na parte referente a Portugal, a cédula pessoal, a ser utilizada somente por menores, esta alteração foi aprovada pelos restantes Estados partes no Acordo, passando assim o aviso publicado no Diário da República, 1.ª série, n.º 189, de 19 de Agosto de 1986, a produzir todos os seus efeitos legais.
+Direcção-Geral dos Negócios Político-Económicos, 26 de Janeiro de 1987. - O Director de Serviços dos Assuntos Multilaterais, Marcello de Zaffiri Duarte Mathias.
