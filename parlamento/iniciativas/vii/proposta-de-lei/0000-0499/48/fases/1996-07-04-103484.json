@@ -1,0 +1,588 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=kWC0hUjmf5OUWiOox1QP%2fUraf4uNBboGqtQ9m%2bO46DAm8jk0YdyA4FZ%2bJZjl%2fI6YyKZvRKOhHIEHVTu%2b15BAP8AEi9G0Hnso7%2foYzwxDEcat6Gcy8Jvv4fVnsyH6E5%2bP2a4DalWY1WotaKu%2bGJK2JE3HhXz4jaAmDBe0slFDMVvrJoFgxzINXwnNYkKWUmu%2bEJp9OwLl9Leoqptx4QE%2fB%2f2f3avdc6evkwt7CK4af2tThVaNf735wLfzmhsvDW6tDWHjlsMKkvwM5uh9g2tVfqtXtq3TkB36%2fLBmF8t%2bcw5KfH1kg%2fmVPZK5UGDewyIKg7sx90V5tJPJfE3CqH8Phg%3d%3d&fich=IniciativasVII_json.txt&Inline=true",
+  "ficheiro_sha256": "3eb873c36a1ea2b86debe77f13f4d0d1affef57f873712a0e9130ac566115d77",
+  "legislatura": "VII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "48",
+    "id": "5430",
+    "titulo": "Cria o núcleo de assessoria técnica no âmbito dos serviços da Procuradoria-Geral da República."
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "1996-07-04",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1362",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "1996-07-04",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "1996-07-04",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1086",
+                "nome": "Jorge Ferreira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42157",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3159-3160"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-05",
+                "pubLeg": "VII",
+                "pubNr": "92",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/092/1996-07-05/3159?pgs=3159-3160&org=PLC"
+              }
+            ],
+            "sumario": "NUCLEO DE ASSESSORIA TECNICA NA PROCURADORIA GERAL DA REPUBLICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42158",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3158-3159"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-05",
+                "pubLeg": "VII",
+                "pubNr": "92",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/092/1996-07-05/3158?pgs=3158-3159&org=PLC"
+              }
+            ],
+            "sumario": "NUCLEO DE ASSESSORIA TECNICA NA PROCURADORIA GERAL DA REPUBLICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42159",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3157-3157"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-05",
+                "pubLeg": "VII",
+                "pubNr": "92",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/092/1996-07-05/3157?pgs=3157&org=PLC"
+              }
+            ],
+            "sumario": "NUCLEO DE ASSESSORIA TECNICA NA PROCURADORIA GERAL DA REPUBLICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1525",
+                "nome": "João Palmeiro"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42160",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3156-3158"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-05",
+                "pubLeg": "VII",
+                "pubNr": "92",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/092/1996-07-05/3156?pgs=3156-3158&org=PLC"
+              }
+            ],
+            "sumario": "NUCLEO DE ASSESSORIA TECNICA NA PROCURADORIA GERAL DA REPUBLICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "618",
+                "nome": "Guilherme Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42161",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3154-3156",
+                  "3160-3161"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-05",
+                "pubLeg": "VII",
+                "pubNr": "92",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/092/1996-07-05/3154?pgs=3154-3156,3160-3161&org=PLC"
+              }
+            ],
+            "sumario": "NUCLEO DE ASSESSORIA TECNICA NA PROCURADORIA GERAL DA REPUBLICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "19",
+                "nome": "Barbosa de Melo"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42162",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3153-3154"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-05",
+                "pubLeg": "VII",
+                "pubNr": "92",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/092/1996-07-05/3153?pgs=3153-3154&org=PLC"
+              }
+            ],
+            "sumario": "NUCLEO DE ASSESSORIA TECNICA NA PROCURADORIA GERAL DA REPUBLICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  JUSTIÇA",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Vera Jardim"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42163",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3150-3150"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-05",
+                "pubLeg": "VII",
+                "pubNr": "92",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/092/1996-07-05/3150?pgs=3150&org=PLC"
+              }
+            ],
+            "sumario": "NUCLEO DE ASSESSORIA TECNICA NA PROCURADORIA GERAL DA REPUBLICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1086",
+                "nome": "Jorge Ferreira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42164",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3149-3150"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-05",
+                "pubLeg": "VII",
+                "pubNr": "92",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/092/1996-07-05/3149?pgs=3149-3150&org=PLC"
+              }
+            ],
+            "sumario": "NUCLEO DE ASSESSORIA TECNICA NA PROCURADORIA GERAL DA REPUBLICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1086",
+                "nome": "Jorge Ferreira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42165",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3148-3148"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-05",
+                "pubLeg": "VII",
+                "pubNr": "92",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/092/1996-07-05/3148?pgs=3148&org=PLC"
+              }
+            ],
+            "sumario": "NUCLEO DE ASSESSORIA TECNICA NA PROCURADORIA GERAL DA REPUBLICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  JUSTIÇA",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Vera Jardim"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "42166",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3146-3149",
+                  "3154-3154",
+                  "3160-3160"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-05",
+                "pubLeg": "VII",
+                "pubNr": "92",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/092/1996-07-05/3146?pgs=3146-3149,3154,3160&org=PLC"
+              }
+            ],
+            "sumario": "NUCLEO DE ASSESSORIA TECNICA NA PROCURADORIA GERAL DA REPUBLICA",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "10:25",
+            "horaTermo": "21:10",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA  JUSTIÇA",
+              "governo": "XIII GOVERNO CONSTITUCIONAL",
+              "nome": "Jose Vera Jardim"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107675",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "3150-3150"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "1996-07-05",
+                "pubLeg": "VII",
+                "pubNr": "92",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/092/1996-07-05/3150?pgs=3150&org=PLC"
+              }
+            ],
+            "sumario": "NUCLEO DE ASSESSORIA TECNICA NA PROCURADORIA GERAL DA REPUBLICA",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "103484",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1362",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1996-07-05",
+        "pubLeg": "VII",
+        "pubNr": "92",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/07/01/092/1996-07-05?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
