@@ -1,0 +1,69 @@
+Decreto-Lei n.º 250/2002
+de 21 de Novembro
+Na execução da Política Agrícola e da Política das Pescas da responsabilidade do Ministério da Agricultura, Desenvolvimento Rural e Pescas, o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) e o Instituto Nacional de Intervenção e Garantia Agrícola (INGA) desempenham um importante papel, canalizando a quase totalidade dos apoios nacionais e comunitários destinados aos sectores agrícola e das pescas.
+Embora estes dois Institutos tivessem sido criados com objectivos, orientações e formas de financiamento diferentes, decorrentes, em grande parte, da regulamentação comunitária a que dão execução, a verdade é que apresentam bastantes pontos de contacto entre os quais se destaca o carácter das suas actividades cujos destinatários são constituídos essencialmente pelo mesmo universo de utentes.
+Ambos têm uma importante actividade de carácter financeiro no âmbito dos sectores agrícola e das pescas e, em alguns casos, campos de acção relativamente próximos, executam acções complementares, podendo mesmo algumas delas ser desempenhadas indiferentemente por qualquer daqueles Institutos.
+Acresce que a evolução recente e as perspectivas futuras da PAC apontam para uma maior integração entre os instrumentos de apoio aos mercados e ao desenvolvimento rural que são executados em Portugal, no primeiro caso, pelo INGA e, no segundo caso, pelo IFADAP.
+Constata-se, ainda, que os custos de funcionamento destes dois organismos são claramente excessivos, designadamente face aos serviços prestados, em grande parte devido às ineficiências resultantes da duplicação de estruturas para prestação de serviços semelhantes.
+Deste modo o Governo considera essencial a integração dos dois institutos num único organismo.
+Porém, a complexidade desta integração aconselha que seja cuidadosamente concebida e faseada, pelo que se entende que a primeira medida a tomar passa pela criação de um único conselho de gestão para aqueles dois organismos.
+Com esta solução pretende-se atingir, com segurança, a racionalização da gestão dos recursos dos dois Institutos, dotando-os de maior eficácia na aplicação da regulamentação comunitária, desenvolvendo acções de controlo melhor articuladas e mais eficazes, de modo a proporcionar a prestação de melhores e mais integrados benefícios aos utentes a menor custo para o Estado.
+Assim:
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º
+Objecto
+É criado o conselho de administração do Instituto de Financiamento e Apoio à Agricultura e Pescas (IFADAP) e do Instituto Nacional de Intervenção e Garantia Agrícola (INGA), que assume as competências atribuídas pelo estatuto aprovado pelo Decreto-Lei n.º 414/93, de 23 de Dezembro, e pelo Decreto-Lei n.º 78/98, de 27 de Março, ao conselho de administração do IFADAP e ao conselho directivo do INGA, respectivamente.
+Artigo 2.º
+Composição
+1 - O conselho de administração é composto por um presidente e quatro vogais.
+2 - O presidente é nomeado por despacho conjunto do Primeiro-Ministro e dos ministros da tutela e os vogais por despacho conjunto dos ministros da tutela.
+Artigo 3.º
+Mandato
+1 - Sem prejuízo do disposto no estatuto aprovado pelo Decreto-Lei n.º 414/93, de 23 de Dezembro, na redacção do Decreto-Lei n.º 136/2001, de 24 de Abril, e no Decreto-Lei n.º 78/98, de 27 de Março, no que se refere aos restantes órgãos do IFADAP e do INGA, os mandatos dos membros do conselho de administração, criado pelo presente diploma, tem a duração de três anos.
+2 - No termo dos respectivos mandatos, os membros do conselho de administração mantêm-se em exercício das suas funções até efectiva substituição ou declaração de cessação de funções.
+3 - A cessação do mandato do presidente do conselho de administração implica a cessação simultânea dos mandatos dos vogais do mesmo conselho.
+Artigo 4.º
+Regime
+1 - Os membros do conselho de administração estão sujeitos ao estatuto de gestor público, possuindo estatuto remuneratório idêntico ao dos membros dos conselhos de gestão ou das comissões executivas das empresas públicas do grupo A.
+2 - Os membros do conselho de administração exercerão as funções em regime de tempo completo, estando sujeitos ao regime de incompatibilidades da Lei n.º 64/93, de 26 de Agosto, com as alterações da Lei n.º 28/95, de 18 de Agosto, e da Lei n.º 12/96, de 18 de Abril.
+3 - Os Ministros das Finanças e da Agricultura, Desenvolvimento Rural e Pescas fixarão, por despacho, o regime de exercício dos membros do conselho de administração, na parte em que lhe não seja aplicável o estatuto referido no n.º 1.
+Artigo 5.º
+Competência
+1 - Sem prejuízo das competências atribuídas pelos diplomas orgânicos do IFADAP e do INGA ao respectivo conselho de administração e conselho directivo, compete ainda ao conselho de administração, criado pelo presente diploma, tomar todas as medidas que visem uma adequada coordenação e integração dos dois Institutos, em particular as que sejam indispensáveis a uma gestão concertada e racionalizada de todos os recursos disponíveis.
+2 - A integração dos dois Institutos deverá ser feita no prazo de dois anos contado da data de entrada em vigor deste diploma.
+Artigo 6.º
+Deliberações
+1 - O conselho de administração só pode deliberar validamente desde que estejam presentes na reunião a maioria dos membros em exercício.
+2 - As decisões são tomadas por maioria dos votos expressos, tendo o presidente do conselho de administração, ou quem o substitua, voto de qualidade em caso de empate na votação.
+3 - Não é admitido voto por procuração.
+4 - Serão lavradas actas de todas as reuniões do conselho de administração, as quais serão assinadas por todos os membros que nelas participem.
+Artigo 7.º
+Convocações
+As convocações para as reuniões do conselho de administração são efectuadas de acordo com o disposto no artigo 10.º do Decreto-Lei n.º 78/98, de 27 de Março.
+Artigo 8.º
+Reuniões
+O conselho de administração reúne ordinariamente uma vez por semana e extraordinariamente sempre que for convocado pelo seu presidente ou a solicitação de, pelo menos, dois dos seus membros ou das comissões de fiscalização.
+Artigo 9.º
+Vinculação
+1 - O IFADAP e o INGA obrigam-se:
+a) Pela assinatura conjunta de dois membros do conselho de administração ou por um dos seus membros que para tanto tenha recebido delegação;
+b) Pela assinatura de mandatário ou procurador;
+c) Pela assinatura do trabalhador do IFADAP ou do INGA ao qual tal poder tenha sido conferido.
+2 - Os actos de mero expediente de que não resultem obrigações para o IFADAP ou para o INGA podem ser assinados por qualquer membro do conselho de administração ou pelos trabalhadores a quem tal poder tenha sido conferido.
+Artigo 10.º
+Remissões
+Todas as referências contidas no estatuto aprovado pelo Decreto-Lei n.º 414/93, de 23 de Dezembro, ao conselho de administração do IFADAP e no Decreto-Lei n.º 78/98, de 27 de Março, ao conselho directivo do INGA, devem ser havidas como feitas ao conselho de administração criado pelo presente diploma.
+Artigo 11.º
+Norma revogatória
+1 - É revogado o Decreto-Lei n.º 242-A/2001, de 31 de Agosto, sendo repristinados o artigo 2.º do Decreto-Lei n.º 187/2001 e o artigo 2.º do Decreto-Lei n.º 188/2001, de 25 de Junho.
+2 - São revogados a alínea a) do artigo 6.º e os artigos 7.º, 8.º, 10.º e 11.º do estatuto aprovado pelo Decreto-Lei n.º 414/93, de 23 de Dezembro.
+3 - São revogados a alínea a) do artigo 7.º e os artigos 8.º, 9.º, apenas no que se refere às deliberações do conselho directivo, 11.º, 14.º, 15.º e 17.º do Decreto-Lei n.º 78/98, de 27 de Março.
+Artigo 12.º
+Vigência
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Visto e aprovado em Conselho de Ministros de 25 de Setembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Armando José Cordeiro Sevinate Pinto.
+Promulgado em 6 de Novembro de 2002.
+Publique-se.
+O Presidente da República, JORGE SAMPAIO.
+Referendado em 13 de Novembro de 2002.
+O Primeiro-Ministro, José Manuel Durão Barroso.
