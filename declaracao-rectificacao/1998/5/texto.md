@@ -1,0 +1,4 @@
+Declaração de Rectificação n.º 5/98
+Para os devidos efeitos de declara que a Lei n.º 2/98, que estende aos magistrados do Ministério Público junto do Supremo Tribunal de Justiça a coadjuvação por assessores e institui a assessoria a ambas as magistraturas nos tribunais de relação e em certos tribunais de 1.ª instância, publicada no Diário da República, 1.ª série-A, n.º 6, de 8 de Janeiro de 1998, saiu com a seguinte incorrecção, que assim se rectifica:
+No n.º 3 do artigo 12.º, onde se lê «As despesas decorrentes do disposto na presente lei são asseguradas pelo Gabinete de Gestão Financeira do Ministério da Justiça.» deve ler-se «As despesas decorrentes do disposto na parte final do número anterior da presente lei são asseguradas pelo Gabinete de Gestão Financeira do Ministério da Justiça.»
+Assembleia da República, 11 de Fevereiro de 1998. - A Secretária-Geral, Adelina Sá Carvalho.
