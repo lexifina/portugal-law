@@ -1,0 +1,6 @@
+Resolução n.º 297/80
+Pela Resolução n.º 101/80, de 23 de Fevereiro, da Presidência do Conselho de Ministros, foi determinado à RDP - Radiodifusão Portuguesa, E. P., a apresentação, no prazo de noventa dias, da proposta técnica referida no artigo 1.º do Decreto-Lei n.º 490/76, de 23 de Junho, necessária à determinação do valor do seu capital estatutário.
+Considerando, porém, estar em preparação o acordo de saneamento económico e financeiro que a RDP, E. P., irá submeter, a curto prazo, à apreciação do Governo;
+Considerando ainda que a estrutura desse acordo se encontra estreitamente ligada à política e objectivos entretanto definidos para a RDP, E. P., e que a própria preparação técnica da proposta se interliga com o acordo de saneamento económico e financeiro:
+O Conselho de Ministros, reunido em 30 de Julho de 1980, considerando prematuro proceder desde já à fixação do capital estatutário desta empresa pública, resolveu alterar para duzentos e quarenta dias o prazo estabelecido no n.º 6 da Resolução n.º 101/80, de 23 de Fevereiro, da Presidência do Conselho de Ministros.
+Presidência do Conselho de Ministros, 30 de Julho de 1980. - O Vice-Primeiro-Ministro, Diogo Pinto de Freitas do Amaral.
