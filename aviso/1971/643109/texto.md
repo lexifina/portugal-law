@@ -1,0 +1,3 @@
+Aviso
+Por ordem superior se torna público que, segundo informação da Embaixada da Polónia em Londres, o Governo da Nova Zelândia declarou-se, em 21 de Setembro de 1970, vinculado pelas disposições da Convenção sobre a Unificação de Certas Normas Relativas ao Transporte Aéreo Internacional, concluída em Varsóvia em 12 de Outubro de 1929, cuja aplicação ao seu território, antes da obtenção de independência, havia sido efectuada pelo Reino Unido da Grã-Bretanha em 6 de Abril de 1937.
+Direcção-Geral dos Negócios Económicos, 21 de Julho de 1971. - O Adjunto do Director-Geral, Manuel Rodrigues de Almeida Coutinho.
