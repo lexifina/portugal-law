@@ -1,0 +1,80 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DADiplomasAprovados.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=csS8hqnzZpS2LjGFkRd7A9qIvAAyyxM3ACqixuNjQLNnm%2bsZqKPqNh0OrM9hW%2f5JsJQHr7SLxB%2bFbuCKB5hHC483Ad1uVBNRIipn8DEHRpsPi1Hm%2f1mhBdHnNXMPPPul%2f%2fhzV39gIknl8sXWw46JiX2wiBLzZGIuOlNz0QEtZszL%2f7A57lq1SSQ7b%2bDA3dzwq2t3ncmE5IzkEYuAmXSz76D4L2geTvbpj0Bs6X95S8qH4UTvRIMLymhJWx2B%2bhUeoz3eSPNVpC2BEadfzVvbElodk5%2fdAcBM0ZCjUAUYzL9IUNFuMENdMZ%2fzkvVfoEL9ncA4i%2bZIh3C0pynQOYS1T9XIN2thzmet0nUVUmhGQL%2bD0hNNVN5xxuHg%2f440vF82&fich=DiplomasIB_json.txt&Inline=true",
+  "ficheiro_sha256": "7378c298884c973a79e777e5b8972ea9ebe8c7758b577def94725f15f008646d",
+  "legislatura": "I",
+  "id": "13855",
+  "tipo": "Decreto da Assembleia da República",
+  "numero": "279",
+  "data_registo": "1980-03-26",
+  "data_registo_base": "record date = the act's earliest publication day (Publicacao[].pubdt) in the AR open data; a parliamentary record of the approved act, not its commencement",
+  "registo": {
+    "Actividades": null,
+    "Anexos": null,
+    "AnoCivil": "1980",
+    "Id": "13855",
+    "Iniciativas": [
+      {
+        "DataFimleg": null,
+        "DataInicioleg": null,
+        "IniAnexos": null,
+        "IniAutorDeputados": null,
+        "IniAutorGruposParlamentares": null,
+        "IniAutorOutros": null,
+        "IniciativasEuropeias": null,
+        "IniciativasOrigem": null,
+        "IniciativasOriginadas": null,
+        "IniDescTipo": null,
+        "IniEpigrafe": null,
+        "IniEventos": null,
+        "IniId": "32182",
+        "IniLeg": null,
+        "IniLinkTexto": "",
+        "IniNr": "289",
+        "IniObs": null,
+        "IniSel": null,
+        "IniTestaFicheiro": null,
+        "IniTextoSubst": null,
+        "IniTextoSubstCampo": null,
+        "IniTipo": "P",
+        "IniTitulo": null,
+        "Links": null,
+        "Peticoes": null,
+        "PropostasAlteracao": null
+      }
+    ],
+    "Legislatura": "I",
+    "LinkTexto": "",
+    "Numero": "279",
+    "Numero2": null,
+    "Observacoes": null,
+    "OrcamContasGerencia": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "346383",
+        "obs": null,
+        "pag": [
+          "422-422"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1980-03-26",
+        "pubLeg": "I",
+        "pubNr": "37",
+        "pubSL": "4",
+        "pubTipo": "DAR II série",
+        "pubTp": "K",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2/01/04/037/1980-03-26/422?pgs=422&org=PLC"
+      }
+    ],
+    "Sessao": "4",
+    "Tipo": "Decreto da Assembleia da República",
+    "Titulo": "Prorrogação da Lei n.º 42/77, de 18 de Junho, e da legislação complementar",
+    "Tp": "D",
+    "Versao": null
+  }
+}
