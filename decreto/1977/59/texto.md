@@ -1,0 +1,36 @@
+Decreto n.º 59/77
+de 19 de Abril
+O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
+Artigo único. É aprovado o Acordo Especial entre Portugal e a Guiné-Bissau para a Aplicação da Tarifa Postal Interna aos Objectos de Correspondência a Permutar entre os Dois Países, assinado em Lisboa a 14 de Janeiro de 1977, cujo texto acompanha o presente decreto.
+Visto e aprovado em Conselho de Ministros. - Mário Soares - José Manuel de Medeiros Ferreira.
+Assinado em 24 de Março de 1977.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Acordo Especial entre Portugal e a Guiné-Bissau para a Aplicação da Tarifa Postal Interna aos Objectos de Correspondência a Permutar entre os Dois Países.
+O Governo da República Portuguesa e o Governo da República da Guiné-Bissau, considerando que o artigo 8.º da Constituição da União Postal Universal permite a conclusão de acordos bilaterais, desde que se respeitem as condições ali consignadas, no desejo de contribuir para o desenvolvimento da colaboração e para o reforço dos laços de amizade que unem os respectivos países, e em obediência ao que dispõe o artigo 1.º do Acordo Geral de Cooperação e Amizade, firmado em Lisboa em 11 de Junho de 1975, resolveram celebrar o presente Acordo para a aplicação da tarifa postal interna aos objectos de correspondência postal a permutar entre os dois países.
+ARTIGO 1.º
+Nas relações recíprocas entre Portugal e a Guiné-Bissau o porte das correspondências postais será o que vigorar no regime interno de cada um destes países.
+ARTIGO 2.º
+As categorias de correspondência e condições de aceitação são as definidas na Convenção Postal Universal e respectivo Regulamento de Execução.
+ARTIGO 3.º
+Com excepção das cartas, é obrigatória a prévia e completa franquia das correspondências. Nos casos de falta ou insuficiência de franquia a administração de origem procederá de acordo com a sua legislação interna.
+ARTIGO 4.º
+As taxas dos serviços especiais serão as que vigorarem para o serviço internacional.
+ARTIGO 5.º
+A correspondência permutada entre Portugal e a Guiné-Bissau será transportada, normalmente, em navios de qualquer dos dois países ou de empresas mistas de ambos os países, podendo utilizar-se, porém, paquetes estrangeiros, consoante as conveniências, cujos ónus ficarão a cargo da administração expedidora.
+ARTIGO 6.º
+Os fretes devidos pela utilização de navios portugueses ou guineenses ou de empresas mistas serão estabelecidos mediante acordos com as respectivas empresas de navegação, ajustando os Governos de Portugal e da Guiné-Bissau a igualdade das remunerações.
+ARTIGO 7.º
+Salvo nos casos de força maior, as administrações dos países contratantes serão responsáveis pela perda de qualquer objecto registado. O montante da indemnização e a determinação da responsabilidade são regulados pelas disposições da Convenção Postal Universal.
+ARTIGO 8.º
+As disposições do presente Acordo aplicam-se aos objectos de correspondência transportados por via aérea, sem prejuízo da cobrança da sobretaxa-avião em vigor entre os dois países. Todos os demais assuntos relacionados com a permuta de correspondências postais que não estejam previstos neste Acordo serão regulados pelas disposições da Convenção Postal Universal e seu Regulamento de Execução.
+ARTIGO 9.º
+Qualquer modificação quanto ao conteúdo do artigo 2.º e à revisão dos fretes referidos no artigo 6.º será estabelecida entre as duas Partes, sem necessidade de alterar o texto do presente Acordo.
+ARTIGO 10.º
+O presente Acordo entrará em execução em data a fixar pelas administrações interessadas e vigorará enquanto convier a ambas as Partes, nas condições estabelecidas no Acordo Geral sobre Correios e Telecomunicações assinado pelos Governos dos dois países.
+Feito em Lisboa, aos 14 de Janeiro de 1977, em dois exemplares, fazendo ambos os textos igualmente fé.
+Pelo Governo da República de Portugal:
+Emílio Rui da Veiga Peixoto Vilar.
+Pelo Governo da República da Guiné-Bissau:
+(Assinatura ilegível.)
