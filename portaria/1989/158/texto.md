@@ -1,0 +1,35 @@
+Portaria n.º 158/89
+de 2 de Março
+A Lei n.º 2118, de 3 de Abril de 1963, que preconiza a criação de centros de saúde mental, e o Decreto-Lei n.º 74-C/84, de 2 de Março, que comete à Direcção-Geral dos Cuidados de Saúde Primários as atribuições e competências do extinto Instituto de Assistência Psiquiátrica, constituem, no contexto da nossa realidade actual, factores muito favoráveis ao desenvolvimento de novas formas organizacionais que permitam uma progressiva implantação junto da população de um conjunto completo e acessível de serviços de saúde mental funcionalmente articulados e integrados com as estruturas prestadoras de cuidados de saúde primários e diferenciados existentes na área.
+As áreas metropolitanas de Lisboa, Porto e Coimbra, totalizando cerca de 4500000 habitantes e defrontando-se com crescentes problemas no domínio da saúde mental, não têm podido beneficiar de serviços deste tipo, na medida em que os recursos nelas existentes se encontram concentrados em grandes unidades hospitalares psiquiátricas.
+Neste contexto, o Departamento de Estudos e Planeamento da Saúde concluiu já uma proposta de planeamento do sistema de cuidados de saúde mental para a área metropolitana de Lisboa, na qual se prevê a criação de doze centros de saúde mental.
+Um primeiro passo na incrementação desses centros de saúde mental é agora dado com a criação do Centro de Saúde Mental do Barreiro/Montijo, para cuja entrada em funcionamento existem condições.
+Por um lado, o novo Hospital Distrital do Barreiro dispõe de instalações para o internamento de doentes do foro psiquiátrico e, por outro, não será difícil conseguir a colaboração do pessoal indispensável ao seu funcionamento, nomeadamente médicos, enfermeiros e terapeutas ocupacionais.
+Assim, nos termos do disposto no Decreto-Lei n.º 46102, de 23 de Dezembro de 1964, e observado o disposto no artigo 2.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro:
+Manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:
+1.º É criado o Centro de Saúde Mental do Barreiro/Montijo, adiante designado por Centro, que exercerá a sua actividade na área dos concelhos do Barreiro, Moita, Alcochete e Montijo.
+2.º A sede do novo Centro situa-se em instalações especialmente afectas a esse fim no Hospital Distrital do Barreiro.
+3.º O Centro goza de autonomia técnica e administrativa, sem prejuízo da sua dependência da Direcção-Geral dos Cuidados de Saúde Primários, sendo-lhe aplicável o regime estabelecido nos artigos 79.º e seguintes do Decreto-Lei n.º 413/71, de 27 de Setembro.
+4.º Durante o período de instalação a gestão do Centro fica a cargo de uma comissão instaladora, a nomear por despacho da Ministra da Saúde.
+5.º Enquanto o Centro não dispuser de meios humanos e financeiros necessários ao pleno exercício da sua actividade, esta continua a ser assegurada pelas estruturas de saúde que actualmente a desenvolvem, nomeadamente o Hospital de Miguel Bombarda.
+6.º Durante o período de transição as questões relacionadas com o processo de organização do Centro são resolvidas mediante protocolos a elaborar com o Hospital de Miguel Bombarda e o Hospital Distrital do Barreiro.
+7.º O mapa de pessoal do Centro é o constante do anexo I ao presente diploma, de que constitui parte integrante.
+8.º São extintos à medida que vagarem os lugares do quadro do Hospital de Miguel Bombarda constantes do anexo II desta portaria.
+Ministérios das Finanças e da Saúde.
+Assinada em 6 de Fevereiro de 1989.
+Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
+
+ANEXO I
+Mapa do Centro de Saúde Mental do Barreiro/Montijo
+(ver documento original)
+
+ANEXO II
+Pessoal Médico
+Assistente hospitalar ... 2
+Pessoal de enfermagem
+Enfermeiro graduado ... 4
+Enfermeiro ... 4
+Pessoal Administrativo
+Terceiro-oficial ... 1
+Pessoal auxiliar
+Auxiliar de acção médica de 1.ª classe, de 2.ª classe ou de 3.ª classe ... 5
