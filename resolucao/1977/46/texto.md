@@ -1,0 +1,8 @@
+Resolução n.º 46/77
+Considerando que até à adaptação dos estatutos da Setenave ao regime jurídico das bases gerais das empresas públicas, e sem prejuízo da sua efectivação, importa desde já tomar algumas medidas relativas à composição e funções do conselho de gerência da Setenave, E. P.:
+O Conselho de Ministros, reunido em 8 de Fevereiro de 1977, resolveu:
+1 - Nomear, nos termos do n.º 4 do artigo 9.º do Decreto-Lei n.º 260/76, de 8 de Abril, para o cargo de presidente do conselho de gerência da Setenave, E. P., o licenciado António de Seixas da Costa Leal, o qual é exonerado do cargo de vice-governador do Banco de Portugal.
+2 - O actual presidente do conselho de gerência da Setenave é exonerado dessas funções, continuando, porém, como membro do conselho de gerência.
+3 - Exonerar, a seu pedido, do cargo de administrador da Setenave, E. P., por ter sido contratado para desempenhar as funções de director-geral do novo estaleiro do Asry, no Barhain, o engenheiro António José Machado Lopes.
+4 - Considerando a necessidade e as vantagens recíprocas de promover o funcionamento coordenado dos Estaleiros Navais da Setenave, E. P., e da Lisnave, S. A. R. L., em que o Estado tem uma importante participação, a partir desta data, a Parry & Son passa a ser representada no conselho de administração da Lisnave, S. A. R. L., pelo presidente da Setenave, Dr, António de Seixas da Costa Leal, sem prejuízo das decisões que venham a ser tomadas brevemente para clarificar e reforçar as representações do Estado no conselho de administração da Lisnave, S. A. R. L.
+Presidência do Conselho de Ministros, 8 de Fevereiro de 1977. - O Primeiro-Ministro, Mário Soares.
