@@ -1,0 +1,4 @@
+Portaria n.º 929/73
+de 29 de Dezembro
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Administração Ultramarina, nos termos do § 1.º do artigo 4.º do Decreto-Lei n.º 28326, de 27 de Dezembro de 1937, reforçar, com a importância de 4000$00 a verba do capítulo único, artigo 10.º, n.º 2) «Diversos encargos - Encargos administrativos - Pagamento de serviços e encargos não especificados», do orçamento de despesa do Centro de Documentação Técnico-Económica em vigor, tomando como contrapartida disponibilidades do capítulo único, artigo 12.º «Diversos encargos - Participação em congressos e reuniões internacionais», do mesmo orçamento.
+Ministério do Ultramar, 14 de Dezembro de 1973. - O Secretário de Estado da Administração Ultramarina, Leão Maria Tavares Rosado do Sacramento Monteiro.
