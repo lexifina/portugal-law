@@ -1,0 +1,98 @@
+Decreto-Lei n.º 408/83
+de 21 de Novembro
+O Decreto-Lei n.º 151/80, de 23 de Maio, actualizou a tabela n.º 6 anexa ao Código da Propriedade Industrial, que estabelece as taxas para os diversos actos previstos no referido Código da Propriedade Industrial.
+Tendo em consideração que a última actualização da referida tabela se efectuou em Maio de 1980, após um período demasiado longo em que aquelas taxas se mantiveram imutáveis, e considerando ainda o rápido desajustamento que as taxas sofreram em virtude dos efeitos inflacionários dos últimos anos, torna-se necessária e é plenamente justificada uma nova actualização.
+Assim:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+Artigo 1.º A tabela a que se refere o artigo 1.º, n.º 1, do Decreto-Lei n.º 151/80, de 23 de Maio, é substituída pela tabela anexa ao presente diploma.
+Art. 2.º Esta tabela passa a constituir a tabela n.º 6 a que se refere o artigo 255.º do Código da Propriedade Industrial.
+Art. 3.º As taxas referidas no artigo 1.º serão pagas em numerário no Instituto Nacional da Propriedade Industrial por meio de recibo, em triplicado, a emitir pelo mesmo, cujo original será entregue ao interessado, o duplicado será anexo ao processo respectivo e o triplicado fica arquivado na caderneta de recebidos.
+Art. 4.º As receitas provenientes da cobrança das taxas a que se refere o artigo anterior ficam sujeitas ao regime do Decreto-Lei n.º 459/82, de 26 de Novembro.
+Visto e aprovado em Conselho de Ministros de 27 de Outubro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes - José Veiga Simão.
+Promulgado em 9 de Novembro de 1983.
+Publique-se.
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+Referendado em 10 de Novembro de 1983.
+O Primeiro-Ministro, Mário Soares.
+
+TABELA
+TAXAS
+Patentes
+Pedido ... 1500$00
+Anuidades ... 1000$00
+Adição ... 1500$00
+Sobretaxa pelo pagamento dentro de 60 dias - 50% da taxa em dívida.
+Revalidação - o triplo da taxa em dívida.
+Averbamento da transmissão ou de licença de exploração ... 3000$00
+Depósito de modelo de utilidade
+Pedido ... 1200$00
+Anuidades ... 800$00
+Sobretaxa pela renovação dentro de 60 dias - 50% da taxa em dívida.
+Revalidação - o triplo da taxa em dívida.
+Averbamento de transmissão ou licença ... 3000$00
+Depósito de modelos ou desenhos industriais
+Pedido ... 1000$00
+Anuidades ... 500$00
+Sobretaxa pela renovação dentro de 60 dias - 50% da taxa em dívida.
+Registo nacional de marcas
+Pedido por classe e por cada cinco produtos ... 1000$00
+Registo ... 10000$00
+Renovações ... 10000$00
+Sobretaxa pela renovação dentro de 60 dias - 50% da taxa em dívida.
+Registo nacional de marcas
+Pedido de classe e por cada cinco produtos ... 1000$00
+Registo ... 10000$00
+Renovações ... 10000$00
+Sobretaxa pela renovação dentro de 60 dias - 50% da taxa em dívida.
+Revalidações - o triplo da taxa em dívida.
+Averbamento de transmissão ... 3000$00
+Série de marcas
+Pedido ... 2000$00
+Registo ... 10000$00
+Renovações ... 10000$00
+Sobretaxa pela renovação dentro de 60 dias - 50% da taxa em dívida.
+Revalidações - o triplo da taxa em dívida.
+Marcas de artifíces
+Pedido ... 500$00
+Registo e suas renovações ... 1000$00
+Revalidações ... 2000$00
+Registo internacional de marcas
+Registo ... 5000$00
+Renovações ... 5000$00
+Averbamento de transmissão ... 5000$00
+Registo de recompensas
+Pedido ... 2000$00
+Registo ... 2000$00
+Averbamento de transmissão ... 2000$00
+Registo de nomes e insígnias
+Pedido ... 1000$00
+Registo ... 10000$00
+Renovações ... 10000$00
+Sobretaxa pelo pagamento dentro de 6 meses - 50% da taxa em dívida.
+Revalidações - o triplo da taxa em dívida.
+Averbamento de transmissão ... 4000$00
+Registo de denominações de origem
+Pedido ... 3000$00
+Registo ... 3000$00
+Outras taxas
+Certificados de patente, depósito ou registo ... 500$00
+Títulos ... 500$00
+Duplicado, triplicado ou quadriplicado, etc., do título - respectivamente o dobro, o triplo, o quádruplo - respectivamente o dobro, o triplo, o quádruplo, etc., da taxa do título.
+Buscas:
+Por cada ano ... 5000$00
+Certidões ou cópias fotográficas:
+Por cada lauda ... 100$00
+Entrada de requerimentos:
+Por cada apresentação ... 100$00
+Averbamento de modificações do nome, firma, denominação social ou outro elemento de identidade do titular ... 1000$00
+Publicações:
+Por pedido ... 100$00
+Reivindacações (por linha de papel selado) ... 50$00
+Gravuras (por linha ou por cada 3 mm) ... 30$00
+Informações:
+Obrigando consulta de processos, livros, ficheiros ou outros elementos de registo ou arquivo:
+Por cada elemento consultado ... 200$00
+Obrigando execução de buscas:
+Por cada ano ... 5000$00
+Obrigando a utilização do terminal ou do telex:
+Por cada informação além do custo próprio da utilização a factura em separado ... 1000$00
