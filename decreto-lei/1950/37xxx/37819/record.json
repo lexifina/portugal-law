@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1950/05/08700/02770277.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1950-05-13",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "7244b5d01f6447e0712e262e8158ffcd1fdfab5b0872e389195944fbdb40a2cf",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.0,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "836b21c82176d22c7d5dfb56214fbe6132a18c1bd5b9f7ccc4e64692858eecbb",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 192
 }
