@@ -1,0 +1,4 @@
+Aviso n.º 125/92
+Por ordem superior se torna público que as ilhas Seichelles depositaram junto do Secretário-Geral das Nações Unidas, a 5 de Maio de 1992, os instrumentos de adesão ao Pacto Internacional Relativo aos Direitos Económicos, Sociais e Culturais, ao Pacto Internacional Relativo aos Direitos Civis e Políticos e ao Protocolo Facultativo ao Pacto Internacional Relativo aos Direitos Civis e Políticos, adoptados pela Assembleia Geral das Nações Unidas em 16 de Dezembro de 1966.
+Na mesma data, o Governo da Guatemala depositou junto do Secretário-Geral das Nações Unidas o instrumento de adesão ao Pacto Internacional Relativo aos Direitos Civis e Políticos, adoptado pela Assembleia Geral das Nações Unidas em 16 de Dezembro de 1966.
+Direcção-Geral dos Negócios Político-Económicos, 20 de Julho de 1992. - O Director de Serviços dos Assuntos Multilaterais, António Nunes de Carvalho Santana Carlos.
