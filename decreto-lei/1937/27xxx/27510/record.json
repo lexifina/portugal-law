@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1937/02/02900/00970097.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1937-02-04",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "eb11411fdc35d4797f65e4564114a962354a8d846273d646146ecdd75569a195",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 96.0,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "2d2470eb57e525e8cd34be1d62c061fd5c5f979c207c4de3d12b44736aff2394",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 411
 }
