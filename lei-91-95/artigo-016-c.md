@@ -12,8 +12,8 @@
 
 5 - O montante dos juros cobrados é aplicado no processo de reconversão, revertendo, nas contas finais da administração conjunta, em benefício de todos os interessados.
 
-6 - Na penhora de quota indivisa para cobrança de comparticipação nas despesas de reconversão, a notificação prevista no n.º 1 do artigo 781.º do Código do Processo Civil é efetuada por afixação de editais na propriedade e na sede da junta ou juntas de freguesia e pela publicação de anúncios nos termos do disposto no n.º 1 do artigo 240.º do mesmo diploma.
+6 - A comissão de administração deve ter disponível na respectiva sede a documentação da administração conjunta da AUGI para consulta dos interessados em horário a fixar.
 
-7 - A comissão de administração deve ter disponível na respectiva sede a documentação da administração conjunta da AUGI para consulta dos interessados, em horário a fixar.
+7 - A comissão de administração remete, para informação, à câmara municipal as contas anuais, intercalares, e finais da administração conjunta, nos casos em que aquela não tenha participado na assembleia que procedeu à respectiva aprovação.
 
-8 - A comissão de administração remete à câmara municipal e ao serviço de finanças da localização da AUGI as contas anuais, intercalares e finais da administração conjunta.
+8 - As comissões de administração eleitas nos termos da presente lei iniciam imediatamente a sua actividade, sem prejuízo da prestação de contas devida pela administração anterior.

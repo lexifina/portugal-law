@@ -6,28 +6,22 @@
 
 a) Praticar os actos necessários à tramitação do processo de reconversão em representação dos titulares dos prédios e donos das construções integrados na AUGI;
 
-b) Celebrar os contratos necessários para a execução dos projectos e das obras de urbanização e fiscalizar o respectivo cumprimento;
+b) Elaborar os mapas de comparticipação e cobrar as comparticipações, designadamente para as despesas do seu funcionamento, para execução dos projectos, acompanhamento técnico do processo e execução das obras de urbanização;
 
-c) Elaborar e submeter à assembleia de proprietários ou comproprietários os mapas e os respectivos métodos e fórmulas de cálculo e as datas para a entrega das comparticipações e cobrar as comparticipações, designadamente para as despesas do seu funcionamento, para execução dos projectos, acompanhamento técnico do processo e execução das obras de urbanização;
+c) Elaborar e submeter à assembleia de proprietários ou comproprietários os orçamentos para execução das obras de urbanização, o relatório da administração conjunta e as contas anuais, intercalares, relativos a cada ano civil; d) Constituir e movimentar contas bancárias;
 
-d) Elaborar e submeter à assembleia de proprietários ou comproprietários os orçamentos para execução das obras de urbanização, o relatório da administração conjunta e as contas anuais, intercalares, relativas a cada ano civil, e as contas finais;
+e) Pleitear em juízo, dispondo para tal de legitimidade activa e passiva nas acções emergentes das relações jurídicas em que seja parte;
 
-e) Submeter os documentos a que se referem as alíneas do n.º 1 do artigo 16.º-B a parecer da comissão de fiscalização;
+f) Emitir declarações, atestando o pagamento das comparticipações devidas pelos proprietários e comproprietários, para efeito de emissão da licença de construção ou outros actos para os quais as mesmas se mostrem necessárias;
 
-f) Constituir e movimentar contas bancárias;
+g) Representar os titulares dos prédios integrados na AUGI perante a repartição de finanças, conservatória do registo predial, para promover as necessárias rectificações e alterações ao teor da matriz e da descrição, e o registo do alvará de loteamento;
 
-g) Representar a administração conjunta em juízo;
+h) Representar os titulares dos prédios integrados na AUGI perante o cartório notarial, para os efeitos previstos no n.º 4 do artigo 38.º
 
-h) Emitir declarações atestando o pagamento das comparticipações devidas pelos proprietários ou comproprietários para efeito da emissão da licença de construção, ou outros actos para as quais as mesmas se mostrem necessárias, nomeadamente para efeito do disposto no artigo 30.º-A;
+i) Dar cumprimento às deliberações da assembleia;
 
-i) Representar os titulares dos prédios integrados na AUGI perante os serviços de finanças e conservatórias do registo predial, para promover, designadamente, as necessárias rectificações e alterações ao teor da matriz e da descrição e o registo do alvará de loteamento, podendo fazer declarações complementares;
+j) Prestar a colaboração solicitada pela câmara municipal, designadamente entregando documentos e facultando informações.
 
-j) Representar os titulares dos prédios integrados na AUGI no acto notarial para os efeitos previstos no n.º 4 do artigo 38.º;
+l) Solicitar à comissão de fiscalização os pareceres necessários, designadamente os referidos nas alíneas a), b) e c) do n.º 1 do artigo 16.º-B.
 
-l) Dar cumprimento às deliberações da assembleia;
-
-m) Prestar a colaboração solicitada pela câmara municipal, designadamente entregando documentos e facultando informações.
-
-2 - As contas anuais, intercalares e finais, previstas na alínea d) do número anterior, devem ser elaboradas de acordo com o Plano Oficial de Contabilidade, com as necessárias adaptações, e subscritas também por um técnico oficial de contas, a designar pela comissão de administração.
-
-3 - A aprovação das contas anuais, intercalares, cujo movimento do respectivo exercício exceda (euro) 50000 e a aprovação das contas finais da administração dependem da certificação prévia por revisor oficial de contas ou por uma sociedade de revisores, igualmente a designar pela comissão de administração.
+2 - As contas anuais, intercalares, previstas na alínea c) do número anterior, devem ser elaboradas de acordo com o Plano Oficial de Contabilidade, com as necessárias adaptações.

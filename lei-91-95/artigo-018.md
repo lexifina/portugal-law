@@ -8,9 +8,9 @@
 
 # Artigo 18.º
 
-### Licenciamento da operação de loteamento
+### Pedido de loteamento
 
-1 - As operações de loteamento no âmbito da reconversão de AUGI estão sujeitas ao procedimento de licenciamento previsto no regime jurídico da urbanização e edificação, com as adaptações previstas na presente lei, e são instruídas com os seguintes elementos:
+1 - O pedido de loteamento é apresentado na câmara municipal e é instruído com os seguintes elementos:
 
 a) Certidão do registo predial referente ao prédio ou prédios abrangidos;
 
@@ -24,13 +24,13 @@ e) Planta síntese do loteamento pretendido;
 
 f) Listagem dos possuidores de cada uma das parcelas em que se subdividiu o loteamento ilegal, reportada à planta referida na alínea d) e à certidão registral;
 
-g) Fotocópia certificada das actas das reuniões da assembleia onde tenham sido tomadas as deliberações previstas nas alíneas a), b) e d) do n.º 2 do artigo 10.º
+g) Pública-forma das actas das reuniões da assembleia onde tenham sido tomadas as deliberações previstas nas alíneas a), b) e c) do n.º 2 do artigo 10.º
 
-2 - Após a aprovação do loteamento e para efeitos de apresentação de comunicação prévia das obras de urbanização, são apresentados na câmara municipal os seguintes elementos:
+2 - Após a aprovação do loteamento, são apresentados na câmara municipal os seguintes elementos:
 
 a) Projectos das redes viária, de electricidade, de águas, de esgotos e de arranjos de espaços exteriores, bem como o faseamento da sua execução;
 
-b) Orçamento das obras de urbanização e de outras operações previstas e o mapa contendo o valor absoluto e a quota de comparticipação de cada lote nos custos de execução das obras e da caução legal, nos termos do artigo 26.º
+b) Orçamento das obras de urbanização e de outras operações previstas, bem como a quota de comparticipação de cada lote nos custos de execução das obras e da caução legal, nos termos do n.º 3 do artigo 26.º
 
 3 - A câmara municipal pode dispensar a apresentação dos elementos referidos na alínea a) do número anterior, desde que seja reconhecido pelas entidades gestoras das redes que as mesmas já existem e estão em condições de funcionamento.
 

@@ -2,12 +2,8 @@
 
 ### Alvará de loteamento
 
-1 - Na sequência da deliberação final sobre o pedido de loteamento, a câmara municipal emite o alvará de loteamento nos prazos e termos previstos no regime da urbanização e edificação.
+Decididas as reclamações ou decorrido o prazo para a sua apresentação e prestada a garantia, se a ela houver lugar e se a mesma for prestada nos termos gerais, a câmara municipal emite o alvará de loteamento, que contém as especificações previstas no Decreto-Lei n.º 448/91, de 29 de Novembro, e ainda:
 
-2 - O alvará de loteamento deve conter as especificações previstas no regime jurídico da urbanização e edificação e, ainda:
+a) Lista dos factos sujeitos a registo predial, nomeadamente a hipoteca legal, o benefício da manutenção temporária previsto na alínea a) do n.º 3 do artigo 24.º e o ónus de não indemnização por demolição previsto no n.º 5 do artigo 7.º
 
-a) A lista dos factos sujeitos a registo predial, nomeadamente a hipoteca legal, o benefício da manutenção temporária previsto na alínea a) do n.º 3 do artigo 24.º e o ónus de não indemnização por demolição previsto no n.º 8 do artigo 7.º;
-
-b) O valor absoluto e a quota de comparticipação de cada lote nos custos das obras de urbanização e da caução prestada;
-
-c) O valor das taxas de urbanização cujo pagamento haja sido diferido para momento posterior à respetiva emissão, devendo esta especificação constar da inscrição do alvará de loteamento na conservatória do registo predial.
+b) Valor da quota de comparticipação de cada lote nos custos das obras de urbanização e da caução prestada;

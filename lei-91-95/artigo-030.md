@@ -12,12 +12,10 @@
 
 a) Alvará de loteamento;
 
-b) Prova da entrega no serviço de finanças de cópia do alvará de loteamento.
+b) Prova da entrega na repartição de finanças de cópia do alvará de loteamento.
 
 5 - Caso o alvará de loteamento respeite a prédio em compropriedade, a individualização dos lotes a que se refere o artigo 54.º do Código do Registo Predial só tem lugar simultaneamente com a inscrição de aquisição por divisão de coisa comum.
 
-6 - É dispensada a inscrição intermédia em nome dos titulares de quota do prédio indiviso integrado em AUGI que faça parte de herança indivisa, para efeitos do registo de aquisição do lote por divisão da coisa comum que continue a integrar a mesma herança.
+6 - É dispensada a menção dos sujeitos passivos na inscrição da aquisição do lote por divisão de coisa comum.
 
-7 - É dispensada a menção dos sujeitos passivos na inscrição da aquisição do lote por divisão de coisa comum.
-
-8 - (Revogado.)
+7 - Nos prédios constituídos em compropriedade, o prazo de apresentação da declaração modelo n.º 129 para efeitos de inscrição do lote na matriz a que se refere o artigo 14.º do Código da Contribuição Autárquica conta-se a partir da data da inscrição da aquisição do lote por divisão de coisa comum.

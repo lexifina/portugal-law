@@ -2,7 +2,11 @@
 
 ### Comissão de fiscalização
 
-1 - A comissão de fiscalização integra três representantes dos proprietários ou comproprietários, um dos quais será o presidente.
+1 - A comissão de fiscalização integra:
+
+a) Três representantes dos proprietários ou comproprietários, um dos quais será o presidente;
+
+b) Um revisor oficial de contas, ou uma sociedade de revisores, eleito em assembleia de proprietários ou comproprietários, mediante proposta da comissão de administração.
 
 2 - O mandato da comissão de fiscalização é anual.
 

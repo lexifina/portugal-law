@@ -14,6 +14,6 @@ b) Sem o apoio da administração conjunta.
 
 4 - Os interessados a que se refere o artigo 9.º podem aderir individualmente ao processo de reconversão realizado sem o apoio da administração conjunta.
 
-5 - Na reconversão sem o apoio da administração conjunta, a câmara municipal remete, conforme o caso, o alvará de loteamento ou a certidão do plano de pormenor ao serviço de finanças, bem como à conservatória do registo predial, que procede à sua inscrição e dos ónus e outros factos sujeitos a registo deles constantes.
+5 - Na reconversão sem o apoio da administração conjunta a câmara municipal remete, conforme o caso, o alvará de loteamento ou a certidão do plano de pormenor à conservatória do registo predial, que procede à sua inscrição e dos ónus e outros factos sujeitos a registo deles constantes.
 
 6 - Nos casos previstos no número anterior a realização das inscrições é dispensada de preparo, competindo ao conservador notificar os interessados para o pagamento dos respectivos emolumentos, após a feitura do registo.
