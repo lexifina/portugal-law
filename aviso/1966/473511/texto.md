@@ -1,0 +1,4 @@
+Aviso
+Por ordem superior se faz público que, segundo comunicação recebida através da Embaixada de Portugal em Washington, o Governo Francês transmitiu em 30 de Março último, ao Governo dos Estados Unidos da América, uma notificação denunciando o Protocolo sobre o Estatuto dos Quartéis-Generais Militares Internacionais criados por força do Tratado do Atlântico Norte, assinado em Paris, em 28 de Agosto de 1952, e publicado no Diário do Governo n.º 170, 1.ª série, de 3 de Agosto de 1955.
+Nos termos do n.º 1 do artigo 16 do referido Protocolo e do n.º 3 do artigo XIX da Convenção entre os Estados Partes no Tratado do Atlântico Norte relativa ao estatuto das suas forças, esta denúncia terá efeito a partir de 31 de Março de 1967.
+Direcção-Geral dos Negócios Políticos e da Administração Interna, 14 de Maio de 1966. - O Director-Geral, João Manuel Hall Themido.
