@@ -1,0 +1,41 @@
+Resolução da Assembleia da República n.º 12/2004
+Aprova, para ratificação, o Protocolo de Adesão da República da Lituânia ao Tratado do Atlântico Norte, assinado em Bruxelas em 26 de Março de 2003.
+A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e do n.º 5 do artigo 166.º da Constituição, aprovar, para ratificação, o Protocolo de Adesão da República da Lituânia ao Tratado do Atlântico Norte, assinado em Bruxelas em 26 de Março de 2003, cujo texto, nas versões autênticas nas línguas inglesa e francesa e respectiva tradução em português, se publica em anexo à presente resolução.
+Aprovada em 27 de Novembro de 2003.
+O Presidente da Assembleia da República, João Bosco Mota Amaral.
+
+PROTOCOL TO THE NORTH ATLANTIC TREATY ON THE ACCESSION OF THE REPUBLIC OF LITHUANIA
+The Parties to the North Atlantic Treaty, signed at Washington on April 4, 1949, being satisfied that the security of the North Atlantic area will be enhanced by the accession of the Republic of Lithuania to that Treaty, agree as follows:
+Article I
+Upon the entry into force of this Protocol, the Secretary General of the North Atlantic Treaty Organisation shall, on behalf of all the Parties, communicate to the Government of the Republic of Lithuania an invitation to accede to the North Atlantic Treaty. In accordance with article 10 of the Treaty, the Republic of Lithuania shall become a Party on the date when it deposits its instrument of accession with the Government of the United States of America.
+Article II
+The present Protocol shall enter into force when each of the Parties to the North Atlantic Treaty has notified the Government of the United States of America of its acceptance thereof. The Government of the United States of America shall inform all the Parties to the North Atlantic Treaty of the date of receipt of each such notification and of the date of the entry into force of the present Protocol.
+Article III
+The present Protocol, of which the English and French texts are equally authentic, shall be deposited in the Archives of the Government of the United States of America. Duly certified copies thereof shall be transmitted by that Government to the Governments of all the Parties to the North Atlantic Treaty.
+In witness whereof, the undersigned plenipotentiaries have signed the present Protocol.
+Signed at Brussels on the 26th day of March 2003.
+(ver fecho e assinaturas no documento original)
+
+PROTOCOLE AU TRAITÉ DE L'ATLANTIQUE NORD SUR L'ACCESSION DE LA REPUBLIQUE DE LITUANIE
+Les Parties au Traité de l'Atlantique Nord, signé le 4 avril 1949 à Washington, assurées que l'accession de la République de Lituanie au Traité de l'Atlantique Nord permettra d'augmenter la sécurité de la région de l'Atlantique Nord, conviennent ce qui suit:
+Article I
+Dès l'entrée en vigueur de ce Protocole, le Secrétaire Général de l'Organisation du Traité de l'Atlantique Nord enverra, au nom de toutes les Parties, au Gouvernement de la République de Lituanie une invitation à adhérer au Traité de l'Atlantique Nord. Conformément à l'article 10 du Traité, la République de Lituanie deviendra Partie à ce Traité à la date du dépôt de son instrument d'accession auprès du Gouvernement des États-Unis d'Amérique.
+Article II
+Le présent Protocole entrera en vigueur lorsque toutes les Parties au Traité de l'Atlantique Nord auront notifié leur approbation au Gouvernement des États-Unis d'Amérique. Le Gouvernement des États-Unis d'Amérique informera toutes les Parties au Traité de l'Atlantique Nord de la date de réception de chacune de ces notifications et de la date d'entrée en vigueur du présent Protocole.
+Article III
+Le présent Protocole, dont les textes en français et anglais font également foi, sera déposé dans les archives du Gouvernement des États-Unis d'Amérique. Des copies certifiées conformes seront transmises par celui-ci aux Gouvernements de toutes les autres Parties au Traité de l'Atlantique Nord.
+En foi de quoi, les plénipotentiaires désignés ci-dessous ont signé le présent Protocole.
+Signé à Bruxelles le 26 mars 2003.
+(ver fecho e assinaturas no documento original)
+
+PROTOCOLO DE ADESÃO DA REPÚBLICA DA LITUÂNIA AO TRATADO DO ATLÂNTICO NORTE
+As Partes no Tratado do Atlântico Norte, assinado em Washington em 4 de Abril de 1949, convictas de que a adesão da República da Lituânia ao Tratado do Atlântico Norte permitirá reforçar a segurança da área do Atlântico Norte, acordam no seguinte:
+Artigo I
+Após a entrada em vigor do presente Protocolo, o Secretário-Geral da Organização do Tratado do Atlântico Norte, em nome de todas as Partes, enviará ao Governo da República da Lituânia um convite para aderir ao Tratado do Atlântico Norte. Nos termos do artigo 10.º do Tratado, a República da Lituânia tornar-se-á Parte no referido Tratado na data de depósito do seu instrumento de adesão junto do Governo dos Estados Unidos da América.
+Artigo II
+O presente Protocolo entrará em vigor quando todas as Partes no Tratado do Atlântico Norte tiverem notificado o Governo dos Estados Unidos da América da respectiva aceitação. O Governo dos Estados Unidos da América informará todas as Partes no Tratado do Atlântico Norte da data de recepção de cada uma das notificações e da data de entrada em vigor do presente Protocolo.
+Artigo III
+O presente Protocolo, cujos textos em francês e inglês fazem igualmente fé, será depositado nos Arquivos do Governo dos Estados Unidos da América, o qual transmitirá cópias autenticadas aos Governos de todas as outras Partes no Tratado do Atlântico Norte.
+Em fé do que os plenipotenciários abaixo designados assinaram o presente Protocolo.
+Assinado em Bruxelas em 26 de Março de 2003.
+(ver fecho e assinaturas no documento original)
