@@ -1,0 +1,446 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Proposta de Lei",
+    "numero": "27",
+    "id": "6051",
+    "titulo": "Altera a composição e competências da Comissão Nacional de Eleições revogando a lei n°71/78 de 27 de Dezembro"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2000-06-01",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "5942",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2000-06-01",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-06-01",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27629",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2895-2896"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-02",
+                "pubLeg": "VIII",
+                "pubNr": "73",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/073/2000-06-02/2895?pgs=2895-2896&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A COMPOSICAO E COMPETENCIA DA COMISSAO NACIONAL DE ELEICOES, REVOGANDO A LEI 71/78, DE 27 DE DEZEMBRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "262",
+                "nome": "Laurentino Dias"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27630",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2894-2895"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-02",
+                "pubLeg": "VIII",
+                "pubNr": "73",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/073/2000-06-02/2894?pgs=2894-2895&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A COMPOSICAO E COMPETENCIA DA COMISSAO NACIONAL DE ELEICOES, REVOGANDO A LEI 71/78, DE 27 DE DEZEMBRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27631",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2894-2894"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-02",
+                "pubLeg": "VIII",
+                "pubNr": "73",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/073/2000-06-02/2894?pgs=2894&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A COMPOSICAO E COMPETENCIA DA COMISSAO NACIONAL DE ELEICOES, REVOGANDO A LEI 71/78, DE 27 DE DEZEMBRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "123",
+                "nome": "Miguel Macedo"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27632",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2892-2894"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-02",
+                "pubLeg": "VIII",
+                "pubNr": "73",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/073/2000-06-02/2892?pgs=2892-2894&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A COMPOSICAO E COMPETENCIA DA COMISSAO NACIONAL DE ELEICOES, REVOGANDO A LEI 71/78, DE 27 DE DEZEMBRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1655",
+                "nome": "Telmo Correia"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27633",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2891-2892"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-02",
+                "pubLeg": "VIII",
+                "pubNr": "73",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/073/2000-06-02/2891?pgs=2891-2892&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A COMPOSICAO E COMPETENCIA DA COMISSAO NACIONAL DE ELEICOES, REVOGANDO A LEI 71/78, DE 27 DE DEZEMBRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "209",
+                "nome": "António Filipe"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27634",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2891-2891"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-02",
+                "pubLeg": "VIII",
+                "pubNr": "73",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/073/2000-06-02/2891?pgs=2891&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A COMPOSICAO E COMPETENCIA DA COMISSAO NACIONAL DE ELEICOES, REVOGANDO A LEI 71/78, DE 27 DE DEZEMBRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "27635",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2890-2892",
+                  "2896-2896"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-02",
+                "pubLeg": "VIII",
+                "pubNr": "73",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/073/2000-06-02/2890?pgs=2890-2892,2896&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A COMPOSICAO E COMPETENCIA DA COMISSAO NACIONAL DE ELEICOES, REVOGANDO A LEI 71/78, DE 27 DE DEZEMBRO",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": null,
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:10",
+            "horaTermo": "20:15",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": "MIN.  DA REFORMA  DO ESTADO E DA ADMINISTRAÇÃO PÚBLICA",
+              "governo": "XIV GOVERNO CONSTITUCIONAL",
+              "nome": "Alberto Martins"
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "107588",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "2890-2892",
+                  "2896-2896"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-06-02",
+                "pubLeg": "VIII",
+                "pubNr": "73",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/073/2000-06-02/2890?pgs=2890-2892,2896&org=PLC"
+              }
+            ],
+            "sumario": "ALTERA A COMPOSICAO E COMPETENCIA DA COMISSAO NACIONAL DE ELEICOES, REVOGANDO A LEI 71/78, DE 27 DE DEZEMBRO",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "250070",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "5942",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-06-02",
+        "pubLeg": "VIII",
+        "pubNr": "73",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/073/2000-06-02?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
