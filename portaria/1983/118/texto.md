@@ -1,0 +1,6 @@
+Portaria n.º 118/83
+de 2 de Fevereiro
+Considerando a necessidade de adequar o quadro de pessoal da Biblioteca Nacional ao disposto no Decreto-Lei n.º 465/80, de 14 de Outubro:
+Ao abrigo do n.º 2 do artigo 10.º do mesmo diploma legal:
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros da Cultura e Coordenação Científica e da Reforma Administrativa, que o quadro de pessoal da Biblioteca Nacional, constante do mapa anexo ao Decreto-Lei n.º 332/80, de 29 de Agosto, seja alterado, passando o lugar de tesoureiro de 1.ª classe, nele existente, a tesoureiro principal, de 1.ª classe ou de 2.ª classe, de harmonia com as disposições constantes do artigo 4.º do Decreto-Lei n.º 465/80, de 14 de Outubro.
+Ministérios das Finanças e do Plano, da Cultura e Coordenação Científica e da Reforma Administrativa, 20 de Janeiro de 1983. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Cultura e Coordenação Científica, Francisco António Lucas Pires. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
