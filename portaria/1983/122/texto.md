@@ -1,0 +1,16 @@
+Portaria n.º 122/83
+de 2 de Fevereiro
+A Portaria n.º 479/71, de 2 de Setembro, refere as normas regulamentares para a certificação das sementes de arroz.
+No seu n.º 33 indica-se que os lotes de arroz que no ensaio preliminar apresentem teor de impurezas (traduzidas em matéria inerte) superior a 6% deverão ser excluídos.
+Verifica-se na prática que os agricultores-multiplicadores encontram grande dificuldade em apresentar os seus lotes com percentagens de impurezas que não ultrapassem este nível. Daí resulta que grandes quantidades de sementes, que os equipamentos de calibração de sementes já hoje existentes permitiriam aproveitar, são recusadas, não se podendo proceder à sua aquisição.
+Torna-se necessário rever esta situação de modo que os agricultores-multiplicadores possam ver recompensado o seu esforço e que o País possua sementes em quantidade, não sendo necessário proceder à sua importação.
+Assim:
+Manda o Governo da República Portuguesa, pelos Secretários de Estado da Produção Agrícola e do Comércio, o seguinte:
+1.º O n.º 33 da Portaria n.º 479/71, de 2 de Setembro, passa a ter a seguinte redacção:
+33 - Os lotes a aprovar no ensaio a que se refere o número anterior devem satisfazer as características seguintes:
+(ver documento original)
+a) Por impurezas entende-se matéria inerte, grãos partidos ou descascados e sementes de outras espécies.
+b) As sementes de outras espécies não podem ultrapassar o limite máximo de 0,1%.
+c) Quando o cereal apresentar um teor de impurezas entre 6% e 15%, descontar-se-á, no peso, a percentagem que exceder os 6%.
+2.º Esta portaria entra em vigor na data da sua publicação.
+Secretarias de Estado da Produção Agrícola e do Comércio, 12 de Janeiro de 1983. - O Secretário de Estado da Produção Agrícola, José Vicente Carvalho Cardoso. - O Secretário de Estado do Comércio, António Escaja Gonçalves.
