@@ -1,0 +1,9 @@
+Decreto-Lei n.º 48105
+Considerando que pelo artigo 186.º do Decreto n.º 45266, de 23 de Setembro de 1963, foi introduzido nas instituições de previdência social obrigatória o princípio da actualização das pensões para atender à variação do custo de vida, tendo-se procedido à primeira actualização por força da Portaria n.º 22420, de 31 de Dezembro de 1966;
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo 1.º Os certificados especiais da dívida pública a emitir nos termos do artigo 2.º do Decreto-Lei n.º 37440, de 6 de Junho de 1949, a favor das instituições de previdência de qualquer das categorias previstas na base III da Lei n.º 2115, de 18 de Junho de 1962, bem como das caixas sindicais de previdência ou das caixas de reforma ou de previdência constituídas ao abrigo da Lei n.º 1884, de 16 de Março de 1935, e ainda do Fundo Nacional do Abono de Família, serão objecto de ajustamento, tendo especialmente em atenção a melhoria das pensões.
+Art. 2.º O critério a adoptar para o efeito do artigo anterior será estabelecido por acordo entre o Ministro das Finanças e o Ministro das Corporações e Previdência Social.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 12 de Dezembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Para ser presente à Assembleia Nacional.
