@@ -1,0 +1,55 @@
+# Acórdão do Supremo Tribunal Administrativo de 1996-02-22, processo 019237
+
+**Acórdãos STA:** Acórdão do Supremo Tribunal Administrativo
+
+**Processo:** 019237
+
+**Data do Acordão:** 02/22/1996
+
+**Tribunal:** 2 SECÇÃO
+
+**Relator:** ABILIO BORDALO
+
+**Descritores:** IMPUGNAÇÃO JUDICIAL; SUSPENSÃO DA INSTÂNCIA; IMPOSTO PROFISSIONAL; IMPOSTO COMPLEMENTAR; PODER VINCULADO; CASO JULGADO FORMAL; DECISÃO; TRÂNSITO EM JULGADO; CAUSA PREJUDICIAL
+
+**Nº Convencional:** JSTA00045074
+
+**Nº do Documento:** SA219960222019237
+
+**Data de Entrada:** 03/15/1995
+
+**Recorrente:** SANTOS , DOMINGOS
+
+**Recorrido 1:** FAZENDA PUBLICA
+
+**Votação:** UNANIMIDADE
+
+**Ano da Publicação:** 96
+
+**Privacidade:** 01
+
+**Meio Processual:** REC JURISDICIONAL.
+
+**Objecto:** SENT TT1INST AVEIRO DE 1994/07/15 PER SALTUM.
+
+**Decisão:** PROVIDO.
+
+**Área Temática 1:** DIR PROC TRIBUT CONT - IMPUGN JUDICIAL.
+
+**Legislação Nacional:** CPC67 ART276 ART278 ART279 N1 ART283 ART284 N1 C ART672 ART677 ART679.; CPTRIB91 ART2 F.
+
+**Jurisprudência Nacional:** AC STA PROC67995 DE 1978/03/29 IN BMJ N285 PAG269.; AC STA PROC19160 DE 1996/01/31.
+
+**Referência a Doutrina:** ALBERTO DOS REIS COMENTÁRIOS AO CÓDIGO DE PROCESSO CIVIL V3 PAG268.; ALBERTO DOS REIS CÓDIGO DE PROCESSO CIVIL ANOTADO V5 PAG165.; Texto Integral
+
+## Sumário
+
+I - O despacho do juiz que ordena a suspensão da instância do processo de impugnação do imposto complementar, por antes haver sido imposta outra impugnação do imposto profissional nos termos dos arts. 276, 1, al n. c) e 279, n. 1 do CPC não se insere no âmbito de um poder discricionário, mas antes de um poder legal limitado, susceptível de recurso.
+
+II - Tal despacho tem força e autoridade de caso julgado formal dentro do processo, se não for impugnado pela via do recurso.
+
+III - A suspensão da instância decretada nos termos referidos em
+
+I apenas cessa quando houver decisão final transitada da causa prejudicial que esteve na base da referida suspensão.
+
+IV - Há violação de caso julgado se o juiz conheceu da tempestividade da impugnação sem que se tenha verificado a cessação da suspensão da instância (art. 672 e 284 1 c) do CPC), conducente à revogação da sentença recorrida.
