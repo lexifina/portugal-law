@@ -1,0 +1,7 @@
+Despacho Normativo n.º 95/82
+1 - Através da Portaria n.º 721/78, de 11 de Dezembro, o quadro de pessoal da Direcção-Geral do Turismo foi aumentado dos lugares necessários à integração dos funcionários que nessa data se encontravam colocados naquela Direcção-Geral.
+2 - Nos termos do n.º 1.º, n.º 3, da citada portaria, o quadro da mencionada Direcção-Geral pode ser alterado, mediante despacho dos Ministros da Agricultura, Comércio e Pescas e da Reforma Administrativa e do Secretário de Estado do Orçamento, com o objectivo de integrar os adidos que, tendo sido posteriormente colocados naquele departamento, satisfaçam necessidades permanentes de serviço.
+3 - Havendo na Direcção-Geral de Turismo funcionários adidos nas condições referidas no n.º 1.º, n.º 3, da Portaria n.º 721/78, de 11 de Dezembro, pelo presente despacho se determina que, nos termos deste diploma legal, o quadro da mesma Direcção-Geral seja aumentado dos lugares constantes do quadro anexo, o qual fica a constituir parte integrante deste despacho.
+Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e da Reforma Administrativa, 25 de Maio de 1982. - O Secretário de Estado do Turismo, Luís Fernando Cardoso Nandim de Carvalho. - O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
+
+(ver documento original)
