@@ -1,0 +1,1046 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAIniciativas.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=RK9%2ffv2PjwG%2bIBQB6jLbrYBbVWLI89Z%2bHY7DHwQAzFrJXblDLAlMypSuDGqP3hciwDOcj83HozEJ%2f47XIrcScIlq8bpidjSyMrg%2fWS8na9qfneCflWxuyFWPLF8PMjIG5WHsf6gbmo4pt5C1vAmCCp%2bb3Tr%2fqzSAkadsVCOBlHsgRTOCqz5ksaZLK2JkBpBHsQvVaq3ihC298O24WQeqp80aI01m%2bzk%2fHoB4%2fDxHMFVBZiHyG0D1DFKkSpuhegQSYYvKwtnCluVgSvocYY57ApYfvevvkXxvXmn7sRR8GUrwlS6c%2b1pHEblyTt%2bcuP%2b28Tuup9JraRn6MhF1OmQe%2bUcsWM13P%2fdXyWqJ9Nyv4%2bg%3d&fich=IniciativasVIII_json.txt&Inline=true",
+  "ficheiro_sha256": "b343d05c60ed456f3b9911afd0542c68aaee9a019767a4a3e1b9a17027e71663",
+  "legislatura": "VIII",
+  "iniciativa": {
+    "tipo": "Projeto de Lei",
+    "numero": "52",
+    "id": "6270",
+    "titulo": "Lei da regularização das situações decorrentes do processo de descolonização"
+  },
+  "fase": "Discussão generalidade",
+  "codigo_fase": "190",
+  "data_registo": "2000-01-26",
+  "data_registo_base": "record date = the phase day (IniEventos[].DataFase) in the AR open data; a parliamentary record, not a commencement",
+  "registo": {
+    "ActId": "1786",
+    "ActividadesConjuntas": null,
+    "AnexosFase": null,
+    "CodigoFase": "190",
+    "Comissao": null,
+    "DataFase": "2000-01-26",
+    "EvtId": "10",
+    "Fase": "Discussão generalidade",
+    "IniciativasConjuntas": null,
+    "Intervencoesdebates": [
+      {
+        "dataReuniaoPlenaria": "2000-01-26",
+        "oradores": [
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "211",
+                "nome": "João Amaral"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29044",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1184-1184"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-27",
+                "pubLeg": "VIII",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/031/2000-01-27/1184?pgs=1184&org=PLC"
+              }
+            ],
+            "sumario": "DESCOLONIZACAO: LEI REGULARIZACAO DE SITUACOES DECORRENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1352",
+                "nome": "Paulo Portas"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29045",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1183-1183"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-27",
+                "pubLeg": "VIII",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/031/2000-01-27/1183?pgs=1183&org=PLC"
+              }
+            ],
+            "sumario": "DESCOLONIZACAO: LEI REGULARIZACAO DE SITUACOES DECORRENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "211",
+                "nome": "João Amaral"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29046",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1182-1183"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-27",
+                "pubLeg": "VIII",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/031/2000-01-27/1182?pgs=1182-1183&org=PLC"
+              }
+            ],
+            "sumario": "DESCOLONIZACAO: LEI REGULARIZACAO DE SITUACOES DECORRENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "211",
+                "nome": "João Amaral"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29047",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1179-1181"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-27",
+                "pubLeg": "VIII",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/031/2000-01-27/1179?pgs=1179-1181&org=PLC"
+              }
+            ],
+            "sumario": "DESCOLONIZACAO: LEI REGULARIZACAO DE SITUACOES DECORRENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1740",
+                "nome": "Basílio Horta"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29048",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1178-1179"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-27",
+                "pubLeg": "VIII",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/031/2000-01-27/1178?pgs=1178-1179&org=PLC"
+              }
+            ],
+            "sumario": "DESCOLONIZACAO: LEI REGULARIZACAO DE SITUACOES DECORRENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1490",
+                "nome": "João Carlos da Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29049",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1178-1178"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-27",
+                "pubLeg": "VIII",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/031/2000-01-27/1178?pgs=1178&org=PLC"
+              }
+            ],
+            "sumario": "DESCOLONIZACAO: LEI REGULARIZACAO DE SITUACOES DECORRENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1740",
+                "nome": "Basílio Horta"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29050",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1177-1178"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-27",
+                "pubLeg": "VIII",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/031/2000-01-27/1177?pgs=1177-1178&org=PLC"
+              }
+            ],
+            "sumario": "DESCOLONIZACAO: LEI REGULARIZACAO DE SITUACOES DECORRENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1490",
+                "nome": "João Carlos da Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29051",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1175-1177"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-27",
+                "pubLeg": "VIII",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/031/2000-01-27/1175?pgs=1175-1177&org=PLC"
+              }
+            ],
+            "sumario": "DESCOLONIZACAO: LEI REGULARIZACAO DE SITUACOES DECORRENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1352",
+                "nome": "Paulo Portas"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29052",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1175-1176",
+                  "1181-1182"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-27",
+                "pubLeg": "VIII",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/031/2000-01-27/1175?pgs=1175-1176,1181-1182&org=PLC"
+              }
+            ],
+            "sumario": "DESCOLONIZACAO: LEI REGULARIZACAO DE SITUACOES DECORRENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1490",
+                "nome": "João Carlos da Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29053",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1173-1174"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-27",
+                "pubLeg": "VIII",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/031/2000-01-27/1173?pgs=1173-1174&org=PLC"
+              }
+            ],
+            "sumario": "DESCOLONIZACAO: LEI REGULARIZACAO DE SITUACOES DECORRENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1674",
+                "nome": "José Barros Moura"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29054",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1173-1173"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-27",
+                "pubLeg": "VIII",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/031/2000-01-27/1173?pgs=1173&org=PLC"
+              }
+            ],
+            "sumario": "DESCOLONIZACAO: LEI REGULARIZACAO DE SITUACOES DECORRENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "1736",
+                "nome": "Fernando Seara"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29055",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1171-1179"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-27",
+                "pubLeg": "VIII",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/031/2000-01-27/1171?pgs=1171-1179&org=PLC"
+              }
+            ],
+            "sumario": "DESCOLONIZACAO: LEI REGULARIZACAO DE SITUACOES DECORRENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29056",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1170-1170"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-27",
+                "pubLeg": "VIII",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/031/2000-01-27/1170?pgs=1170&org=PLC"
+              }
+            ],
+            "sumario": "DESCOLONIZACAO: LEI REGULARIZACAO DE SITUACOES DECORRENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PCP",
+                "idCadastro": "222",
+                "nome": "Octávio Teixeira"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29057",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1168-1169"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-27",
+                "pubLeg": "VIII",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/031/2000-01-27/1168?pgs=1168-1169&org=PLC"
+              }
+            ],
+            "sumario": "DESCOLONIZACAO: LEI REGULARIZACAO DE SITUACOES DECORRENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "BE",
+                "idCadastro": "263",
+                "nome": "Luís Fazenda"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29058",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1168-1168"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-27",
+                "pubLeg": "VIII",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/031/2000-01-27/1168?pgs=1168&org=PLC"
+              }
+            ],
+            "sumario": "DESCOLONIZACAO: LEI REGULARIZACAO DE SITUACOES DECORRENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PSD",
+                "idCadastro": "314",
+                "nome": "António Capucho"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29059",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1168-1168"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-27",
+                "pubLeg": "VIII",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/031/2000-01-27/1168?pgs=1168&org=PLC"
+              }
+            ],
+            "sumario": "DESCOLONIZACAO: LEI REGULARIZACAO DE SITUACOES DECORRENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "1490",
+                "nome": "João Carlos da Silva"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29060",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1163-1167"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-27",
+                "pubLeg": "VIII",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/031/2000-01-27/1163?pgs=1163-1167&org=PLC"
+              }
+            ],
+            "sumario": "DESCOLONIZACAO: LEI REGULARIZACAO DE SITUACOES DECORRENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "PS",
+                "idCadastro": "614",
+                "nome": "Celeste Correia"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29061",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1161-1161"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-27",
+                "pubLeg": "VIII",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/031/2000-01-27/1161?pgs=1161&org=PLC"
+              }
+            ],
+            "sumario": "DESCOLONIZACAO: LEI REGULARIZACAO DE SITUACOES DECORRENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1740",
+                "nome": "Basílio Horta"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29062",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1161-1167",
+                  "1173-1173"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-27",
+                "pubLeg": "VIII",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/031/2000-01-27/1161?pgs=1161-1167,1173&org=PLC"
+              }
+            ],
+            "sumario": "DESCOLONIZACAO: LEI REGULARIZACAO DE SITUACOES DECORRENTES",
+            "teor": null
+          },
+          {
+            "convidados": {
+              "cargo": null,
+              "honra": null,
+              "nome": null,
+              "pais": null
+            },
+            "deputadosOradores": [
+              {
+                "GP": "CDS-PP",
+                "idCadastro": "1352",
+                "nome": "Paulo Portas"
+              }
+            ],
+            "faseDebate": "GENERALIDADE",
+            "faseSessao": "P",
+            "horaInicio": "15:35",
+            "horaTermo": "18:20",
+            "linkVideo": null,
+            "membrosGoverno": {
+              "cargo": null,
+              "governo": null,
+              "nome": null
+            },
+            "publicacao": [
+              {
+                "debateDtReu": null,
+                "idAct": null,
+                "idDeb": null,
+                "idInt": "29063",
+                "idPag": null,
+                "obs": null,
+                "pag": [
+                  "1158-1162"
+                ],
+                "pagFinalDiarioSupl": null,
+                "pubdt": "2000-01-27",
+                "pubLeg": "VIII",
+                "pubNr": "31",
+                "pubSL": "1",
+                "pubTipo": "DAR I série",
+                "pubTp": "D",
+                "supl": null,
+                "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/031/2000-01-27/1158?pgs=1158-1162&org=PLC"
+              }
+            ],
+            "sumario": "DESCOLONIZACAO: LEI REGULARIZACAO DE SITUACOES DECORRENTES",
+            "teor": null
+          }
+        ]
+      }
+    ],
+    "Links": null,
+    "ObsFase": null,
+    "OevId": "105650",
+    "OevTextId": null,
+    "PcpublicasConjuntas": null,
+    "PeticoesConjuntas": null,
+    "PublicacaoFase": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": "1786",
+        "idPag": null,
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "2000-01-27",
+        "pubLeg": "VIII",
+        "pubNr": "31",
+        "pubSL": "1",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/08/01/031/2000-01-27?org=PLC"
+      }
+    ],
+    "RecursoDeputados": null,
+    "RecursoGP": null,
+    "TextosAprovados": null,
+    "Votacao": null
+  }
+}
