@@ -8,7 +8,7 @@
 
 a) Os documentos, actos ou contratos emitidos ou celebrados fora do território nacional, nos mesmos termos em que o seriam se no território nacional fossem emitidos ou celebrados, caso em Portugal sejam apresentados para quaisquer efeitos legais;
 
-b) As operações de crédito realizadas e as garantias prestadas por instituições de crédito ou por sociedades financeiras e outras entidades financeiras sediadas no estrangeiro ou por filiais ou sucursais no estrangeiro de instituições de crédito ou sociedades financeiras e outras entidades financeiras sediadas no território nacional a quaisquer entidades domiciliadas neste território, considerando-se domicílio a sede, filial, sucursal ou estabelecimento estável;
+b) As operações de crédito realizadas e as garantias prestadas por instituições de crédito, por sociedades financeiras ou por quaisquer outras entidades, independentemente da sua natureza, sediadas no estrangeiro, por filiais ou sucursais no estrangeiro de instituições de crédito, de sociedades financeiras, ou quaisquer outras entidades, sediadas no território nacional, a quaisquer entidades, independentemente da sua natureza, domiciliadas neste território, considerando-se domicílio a sede, filial, sucursal ou estabelecimento estável;
 
 c) Os juros, as comissões e outras contraprestações cobrados por instituições de crédito ou sociedades financeiras sediadas no estrangeiro ou por filiais ou sucursais no estrangeiro de instituições de crédito ou sociedades financeiras sediadas no território nacional a quaisquer entidades domiciliadas neste território, considerando-se domicílio a sede, filial, sucursal ou estabelecimento estável das entidades que intervenham na realização das operações;
 

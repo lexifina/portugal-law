@@ -2,7 +2,7 @@
 
 ### Obrigações contabilísticas
 
-1 - As entidades obrigadas a possuir contabilidade organizada nos termos dos Códigos do IRS e do IRC devem organizá-la de modo a possibilitar o conhecimento claro e inequívoco dos elementos necessários à verificação do imposto do selo liquidado e suportado, bem como a permitir o seu controlo.
+1 - As entidades obrigadas a possuir contabilidade organizada nos termos dos Códigos do IRS e do IRC devem organizá-la de modo a possibilitar o conhecimento claro e inequívoco dos elementos necessários à verificação do imposto do selo liquidado, bem como a permitir o seu controlo.
 
 2 - Para cumprimento do disposto no n.º 1, são objecto de registo as operações e os actos realizados, sujeitos a imposto do selo.
 
@@ -14,9 +14,7 @@ b) O valor das operações e dos actos realizados isentos de imposto, segundo a 
 
 c) O valor do imposto liquidado, segundo a verba aplicável da Tabela;
 
-d) O valor do imposto suportado, segundo a verba aplicável da Tabela;
-
-e) O valor do imposto compensado.
+d) O valor do imposto compensado.
 
 4 - As pessoas que nos termos dos Códigos do IRC e do IRS não estejam obrigadas a possuir contabilidade organizada, bem como os serviços públicos, quando obrigados à liquidação e entrega do imposto nos cofres do Estado, devem possuir registos adequados ao cumprimento das alíneas do n.º 3.
 

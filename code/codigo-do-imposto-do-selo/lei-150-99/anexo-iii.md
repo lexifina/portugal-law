@@ -22,13 +22,13 @@
 
 9 - Exploração, pesquisa e prospecção de recursos geológicos integrados no domínio público do Estado - por cada contrato administrativo ... 25
 
-10 - Garantias das obrigações, qualquer que seja a sua natureza ou forma, designadamente o aval, a caução, a garantia bancária autónoma, a fiança, a hipoteca, o penhor e o seguro-caução, salvo quando materialmente acessórias de contratos especialmente tributados na presente Tabela e sejam constituídas simultaneamente com a obrigação garantida, ainda que em instrumento ou título diferente - sobre o respectivo valor, em função do prazo, considerando-se sempre como nova operação a segunda prorrogação ou a prorrogação não automática efectuada após o 30.º dia anterior ao termo do prazo de contrato:
+10 - Garantias das obrigações, qualquer que seja a sua natureza ou forma, designadamente o aval, a caução, a garantia bancária autónoma, a fiança, a hipoteca, o penhor e o seguro-caução, salvo quando materialmente acessórias de contratos especialmente tributados na presente Tabela e sejam constituídas simultaneamente com a obrigação garantida, ainda que em instrumento ou título diferente sobre o respectivo valor, em função do prazo, considerando-se sempre com nova operação a prorrogação do prazo do contrato:
 
 10.1 - Garantias de prazo até um ano - por cada mês ou fracção ... 0,04%
 
 10.2 - Garantias de prazo superior a um ano ... 0,5%
 
-10.3 - Garantias de prazo superior a cinco anos ... 0,6%
+10.3 - Garantias sem prazo ou de prazo igual ou superior a cinco anos - 0,6%.
 
 11 - Jogo:
 
@@ -62,9 +62,9 @@
 
 12 - Licenças:
 
-12.1 - Para instalação de máquinas electrónicas de diversão - por cada máquina ... 75
+12.1 - Para instalação ou exploração de máquinas electrónicas de diversão por cada máquina e sobre o valor da taxa devida pela emissão da licença, no mínimo de 15 - 20%;
 
-12.2 - Para quaisquer outros jogos legais - por cada uma ... 75
+12.2 - Para quaisquer outros jogos legais por cada máquina e sobre o valor da taxa devida pela emissão da licença, no mínimo de 15 - 20%;
 
 12.3 - Para funcionamento de estabelecimentos de restauração e bebidas:
 
@@ -74,7 +74,11 @@
 
 12.4 - Para instalação de máquinas automáticas de venda de bens ou serviços em locais de acesso público - por cada máquina ... 50
 
-12.5 - Outras licenças não designadas especialmente nesta Tabela, concedidas pelo Estado, Regiões Autónomas e autarquias locais ou qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados, compreendidos os institutos públicos - por cada uma ... 3
+12.5 - Outras licenças não designadas especialmente nesta Tabela, concedidas pelo Estado, Regiões Autónomas e autarquias locais ou qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados, compreendidos os institutos públicos, por cada uma:
+
+12.5.1 - Quando seja devida qualquer taxa ou emolumento pela sua emissão - sobre o respectivo valor, no máximo de 3 - 20%;
+
+12.5.2 - Quando não seja devida qualquer taxa ou emolumento - 3.
 
 13 - Livros dos comerciantes, obrigatórios nos termos da lei comercial - por cada folha ... 0,5
 
@@ -82,7 +86,7 @@
 
 15 - Notariado e actos notariais:
 
-15.1 - Escrituras, testamentos e demais instrumentos exarados nos livros de notas dos notários, incluindo os privativos - por cada instrumento ... 25
+15.1 - Escrituras, excluindo as que tenham por objecto os actos referidos no n.º 26, testamentos e demais instrumentos exarados nos livros de notas dos notários, incluindo os privativos - por cada instrumento ... 25
 
 15.2 - Habilitação de herdeiros e de legatários - por cada herança aberta ... 10
 
@@ -126,15 +130,15 @@
 
 16.6.2 - De cabotagem e de longo curso ... 8
 
-16.7 - Formulários de tráfego aéreo de entrada e de saída nos voos internacionais - por cada um ... 8
+16.7 - Formulários de tráfego aéreo de saída nos voos comerciais internacionais - por cada um - 8;
 
-16.8 - Formulários de tráfego aéreo de entrada e de saída nos voos domésticos - por cada um ... 3
+16.8 - Formulários de tráfego aéreo de saída nos voos comerciais domésticos - por cada um - 3;
 
-16.9 - Outras guias, licenças e formulários não especificados em qualquer verba deste artigo - por cada um ... 5
+16.9 - Outras guias, licenças e formulários não especificados em qualquer ponto deste número - por cada um - 1,5.
 
 17 - Operações financeiras:
 
-17.1 - Pela utilização de crédito, sob a forma de fundos, mercadorias e outros valores, em virtude da concessão de crédito a qualquer título, incluindo a cessão de créditos, o factoring e as operações de tesouraria quando envolvam qualquer tipo de financiamento ao cessionário, aderente, ou devedor, considerando-se, sempre, como nova concessão de crédito a segunda prorrogação do prazo do contrato ou a prorrogação não automática do seu prazo efectuada após o 30.º dia anterior ao termo do seu prazo - sobre o respectivo valor, em função do prazo:
+17.1 - Pela utilização de crédito, sob a forma de fundos, mercadorias e outros valores, em virtude de concessão de crédito a qualquer título, incluindo a cessão de créditos, o factoring e as operações de tesouraria quando envolvam qualquer tipo de financiamento ao cessionário, aderente, ou devedor, considerando-se, sempre, como nova concessão de crédito a prorrogação do prazo do contrato.
 
 17.1.1 - Crédito de prazo até um ano - por cada mês ou fracção ... 0,04%
 
@@ -195,3 +199,21 @@
 24 - Títulos de dívida pública emitidos por governos estrangeiros, com exclusão dos títulos de dívida pública emitidos por Estados membros da União Europeia, quando existentes ou postos à venda no território nacional - sobre o valor nominal ... 0,9%
 
 25 - Vales de correio e telegráficos, com excepção dos chamados «de serviço» - por cada um ... 0,05
+
+26 - Entradas de capital:
+
+26.1 - Constituição de uma sociedade de capitais; sobre o valor real dos bens de qualquer natureza entregues ou a entregar pelos sócios após dedução das obrigações assumidas e dos encargos suportados pela sociedade em consequência de cada entrada ... 0,4%
+
+26.2 - Transformação em sociedade de capitais de uma sociedade, associação ou pessoa colectiva que não seja sociedade de capitais; sobre o valor real dos bens de qualquer natureza pertencentes à sociedade à data da transformação, após dedução das obrigações e dos encargos que a onerem nesse momento ... 0,4%
+
+26.3 - Aumento do capital social de uma sociedade de capitais mediante a entrada de bens de qualquer espécie; sobre o valor real dos bens de qualquer natureza entregues ou a entregar pelos sócios após dedução das obrigações assumidas e dos encargos suportados pela sociedade em consequência de cada entrada ... 0,4%
+
+26.4 - Aumento do activo de uma sociedade de capitais mediante a entrada de bens de qualquer espécie remunerada não por partes representativas do capital social ou do activo, mas por direitos da mesma natureza que os dos sócios tais como direito de voto, participação nos lucros ou no saldo de liquidação; sobre o valor real dos bens de qualquer natureza entregues ou a entregar pelos sócios após dedução das obrigações assumidas e dos encargos suportados pela sociedade em consequência de cada entrada ... 0,4%
+
+26.5 - Transferência de um país terceiro para um Estado-Membro da sede de direcção efectiva de uma sociedade, associação ou pessoa colectiva cuja sede estatutária se encontre num país terceiro e que seja considerada para efeitos da cobrança do imposto sobre as entradas de capital como sociedade de capitais neste Estado-Membro; sobre o valor real dos bens de qualquer natureza pertencentes à sociedade à data da transferência, após dedução das obrigações e dos encargos que a onerem nesse momento ... 0,4%
+
+26.6 - Transferência de um país terceiro para um Estado-Membro da sede estatutária de uma sociedade, associação ou pessoa colectiva cuja sede de direcção efectiva se encontre num país terceiro e que seja considerada para efeitos da cobrança do imposto sobre as entradas de capital como sociedade de capitais neste Estado-Membro; sobre o valor real dos bens de qualquer natureza pertencentes à sociedade à data da transferência, após dedução das obrigações e dos encargos que a onerem nesse momento ... 0,4%
+
+26.7 - Transferência de um Estado-Membro para outro Estado-Membro da sede de direcção efectiva de uma sociedade, associação ou pessoa colectiva que seja considerada, para efeitos de cobrança do imposto sobre as entradas de capital, como sociedade de capitais no Estado-Membro referido em último lugar, e não o era no outro Estado-Membro, salvo quando tenha sido cobrado o imposto previsto na Directiva n.º 69/335/CE, de 17 de Julho, no Estado de proveniência; sobre o valor real dos bens de qualquer natureza pertencentes à sociedade à data da transferência, após dedução das obrigações e dos encargos que a onerem nesse momento ... 0,4%
+
+26.8 - Transferência de um Estado-Membro para outro Estado-Membro da sede estatutária de uma sociedade, associação ou pessoa colectiva cuja sede de direcção efectiva se situe num país terceiro e que seja considerada, para efeitos de cobrança do imposto sobre as entradas de capital, como sociedade de capitais no Estado-Membro referido em último lugar, e não o era no outro Estado-Membro, salvo quando tenha sido cobrado o imposto previsto na Directiva n.º 69/335/CE, de 17 de Julho, no Estado de proveniência; sobre o valor real dos bens de qualquer natureza pertencentes à sociedade à data da transferência, após dedução das obrigações e dos encargos que a onerem nesse momento ... 0,4%
