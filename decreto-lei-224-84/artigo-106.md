@@ -1,11 +1,13 @@
 ## Capítulo II
 
-## Meios de prova
+## Protecção de dados pessoais
+
+## Secção I
+
+## Bases de dados
 
 # Artigo 106.º
 
-### (Espécies)
+### (Finalidade das bases de dados)
 
-1 - O registo prova-se por meio de títulos de registo, certidões, fotocópias e notas de registo.
-
-2 - O período de validade exigido para os documentos referidos no número anterior pode ser prorrogado por períodos sucessivos de igual duração, através de confirmação da conservatória.
+As bases de dados do registo predial têm por finalidade organizar e manter actualizada a informação respeitante à situação jurídica dos prédios, com vista à segurança do comércio jurídico, nos termos e para os efeitos previstos na lei, não podendo ser utilizada para qualquer outra finalidade com aquela incompatível.

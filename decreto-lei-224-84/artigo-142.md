@@ -1,11 +1,13 @@
 # Artigo 142.º
 
-### (Recurso hierárquico)
+### (Interposição do recurso)
 
-1 - Do despacho que tiver indeferido a reclamação cabe recurso hierárquico para o director-geral dos Registos e do Notariado.
+1 - O recurso hierárquico ou contencioso interpõe-se por meio de requerimento em que são expostos os fundamentos do recurso.
 
-2 - O prazo para interposição do recurso hierárquico é de 30 dias a contar da data da notificação do despacho referido no n.º 3 do artigo anterior.
+2 - A interposição do recurso hierárquico ou contencioso considera-se feita com a apresentação da petição na conservatória competente.
 
-3 - A interposição do recurso considera-se feita com a apresentação da petição na conservatória.
+3 - Interposto o recurso, o conservador deve proferir, no prazo de 10 dias, despacho a sustentar ou a reparar a decisão, dele notificando o recorrente.
 
-4 - No prazo de cinco dias o conservador deve remeter todo o processo à Direcção-Geral dos Registos e do Notariado, instruído com o de reclamação e com fotocópia do despacho de recusa e dos documentos que julgar necessários.
+4 - Sendo sustentada a decisão, o processo de recurso deve ser remetido à entidade competente, no prazo de cinco dias, instruído com fotocópia autenticada do despacho de recusa e dos documentos necessários à sua apreciação.
+
+5 - A notificação referida no n.º 3 deve ser acompanhada do envio ou entrega ao notificando de fotocópia dos documentos juntos ao processo pelo conservador.

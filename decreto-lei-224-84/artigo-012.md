@@ -2,7 +2,7 @@
 
 ### (Prazos especiais de caducidade)
 
-1 - Caducam decorridos dez anos sobre a sua data os registos de hipoteca judicial, arresto ou penhora, de qualquer valor, os registos de hipoteca voluntária ou legal, de penhor e de consignação de rendimentos, de valor não superior a 50000$00, e os registos de apreensão, arrolamento e outras providências cautelares.
+1 - Caducam decorridos 10 anos sobre a sua data os registos de hipoteca judicial, arresto ou penhora, de qualquer valor, os registos de hipoteca voluntária ou legal, de penhor e de consignação de rendimentos, de valor não superior a 500000$00, e os registos de apreensão, arrolamento e outras providências cautelares.
 
 2 - O valor referido no número anterior pode ser actualizado por portaria do Ministro da Justiça.
 

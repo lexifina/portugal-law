@@ -1,15 +1,7 @@
-## Secção I
-
-## Títulos de registo
-
 # Artigo 107.º
 
-### (Emissão dos títulos)
+### (Entidade responsável pelo tratamento das bases de dados)
 
-1 - Por cada prédio ou fracção autónoma é emitido pela conservatória um título de registo destinado à anotação da respectiva descrição e dos registos em vigor.
+1 - O director-geral dos Registos e do Notariado é o responsável pelo tratamento das bases de dados, nos termos e para os efeitos definidos na alínea d) do artigo 3.º da Lei n.º 67/98, de 26 de Outubro, sem prejuízo da responsabilidade que, nos termos da lei, é atribuída aos conservadores.
 
-2 - Os títulos de registo obedecem a modelo aprovado por portaria do Ministro da Justiça e são emitidos ou actualizados, a pedido verbal do proprietário inscrito.
-
-3 - Só pode ser passada 2.ª via do título no caso de destruição ou extravio alegado em requerimento do proprietário.
-
-4 - A emissão do título é sempre anotada à descrição.
+2 - Cabe ao director-geral dos Registos e do Notariado assegurar o direito de informação e de acesso aos dados pelos respectivos titulares, a correcção de inexactidões, o completamento de omissões e a supressão de dados indevidamente registados, bem como velar pela legalidade da consulta ou comunicação da informação.

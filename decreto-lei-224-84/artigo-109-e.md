@@ -2,7 +2,7 @@
 
 ### Segurança da informação
 
-1 - O presidente do Instituto dos Registos e do Notariado, I. P., e as entidades referidas no n.º 2 do artigo 109.º-A devem adoptar as medidas de segurança referidas no n.º 1 do artigo 15.º da Lei n.º 67/98, de 26 de Outubro.
+1 - O director-geral dos Registos e do Notariado e as entidades referidas no n.º 2 do artigo 109.º-A devem adoptar as medidas de segurança referidas no n.º 1 do artigo 15.º da Lei n.º 67/98, de 26 de Outubro.
 
 2 - Às bases de dados devem ser conferidas as garantias de segurança necessárias a impedir a consulta, a modificação, a supressão, o acrescentamento ou a comunicação de dados, por quem não esteja legalmente habilitado.
 

@@ -8,7 +8,7 @@ a) O número da descrição genérica do prédio, seguido da letra ou letras da 
 
 b) As menções das alíneas c) a f) do n.º 1 do artigo anterior indispensáveis para identificar a fracção.
 
-c) A menção do fim a que se destina.
+c) A menção do fim a que se destina, se constar do título.
 
 2 - A descrição de cada parcela habitacional deve conter:
 

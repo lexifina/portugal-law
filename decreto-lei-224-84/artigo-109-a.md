@@ -1,6 +1,6 @@
 ## Secção II
 
-## Comunicação e acesso aos dados
+## Certidões e fotocópias
 
 # Artigo 109.º-A
 
@@ -12,6 +12,6 @@
 
 3 - Às entidades referidas no número anterior pode ser autorizada a consulta através de linha de transmissão de dados, garantido o respeito pelas normas de segurança da informação e da disponibilidade técnica.
 
-4 - A consulta referida no número anterior depende da celebração de protocolo com o Instituto dos Registos e do Notariado, I. P., que defina os seus limites, face às atribuições legais e estatutárias das entidades interessadas.
+4 - A consulta referida no número anterior depende da celebração de protocolo com a Direcção-Geral dos Registos e do Notariado, que define os seus limites, face às atribuições legais e estatutárias das entidades interessadas.
 
 5 - A informação pode ser divulgada para fins de investigação científica ou de estatística, desde que não possam ser identificáveis as pessoas a que respeita.

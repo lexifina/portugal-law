@@ -10,4 +10,4 @@
 
 2 - A assinatura do declarante deve ser reconhecida presencialmente, salvo se for feita na presença do funcionário da conservatória competente para o registo.
 
-3 - O registo provisório de aquisição pode também ser feito com base em contrato-promessa de alienação, com reconhecimento presencial da assinatura dos outorgantes.
+3 - O registo provisório de aquisição pode também ser feito com base em contrato-promessa de alienação.

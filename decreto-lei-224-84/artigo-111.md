@@ -1,7 +1,3 @@
-## Secção II
-
-## Certidões e fotocópias
-
 # Artigo 111.º
 
 ### (Requisição)

@@ -1,7 +1,11 @@
+## Capítulo III
+
+## Meios de prova
+
 # Artigo 110.º
 
-### (Conferência com as matrizes)
+### (Espécies)
 
-1 - As repartições de finanças procederão à conferência dos títulos de registo com as matrizes prediais quando em harmonia com a descrição predial, neles anotando o artigo e o valor patrimonial do prédio.
+1 - O registo prova-se por meio de certidões e fotocópias.
 
-2 - A nota é datada e rubricada.
+2 - O período de validade exigido para os documentos referidos no número anterior pode ser prorrogado por períodos sucessivos de igual duração, através de confirmação da conservatória.
