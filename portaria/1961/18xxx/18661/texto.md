@@ -1,0 +1,3 @@
+Portaria n.º 18661
+Manda o Governo da República Portuguesa, pelo Ministro dos Negócios Estrangeiros, abonar à Legação de Portugal em Lima, com efeitos a partir de 1 de Janeiro do ano corrente, pela verba do n.º 1) do artigo 29.º, capítulo 3.º, do orçamento em vigor, a quantia mensal de 3000$00, a fim de ocorrer a despesas com material e expediente, ficando assim alterada, a partir daquela data, a Portaria n.º 18221, de 18 de Janeiro de 1961, na parte respeitante àquela Legação.
+Ministério dos Negócios Estrangeiros, 12 de Agosto de 1961. - O Ministro dos Negócios Estrangeiros, Alberto Marciano Gorjão Franco Nogueira.
