@@ -1,0 +1,16 @@
+Portaria n.º 200/86
+de 9 de Maio
+Para execução do disposto no Decreto-Lei n.º 549/77, de 31 de Dezembro, ratificado pela Lei n.º 55/78, de 27 de Julho, e em conformidade com o disposto no artigo 1.º e no n.º 2 do artigo 2.º do Decreto-Lei n.º 136/83, de 21 de Março, a estrutura orgânica regional do sistema unificado de segurança social consagrado na Constituição tem por base os centros regionais de segurança social, que devem integrar os órgãos, serviços e instituições oficiais existentes na área dos respectivos distritos.
+No prosseguimento dos objectivos que presidem à institucionalização regional da Segurança Social, a descentralização das caixas tem vindo a ser efectuada com a necessária prudência, para não só não perturbar o funcionamento das instituições, mas também melhorar a qualidade dos serviços prestados aos beneficiários e contribuintes, aproximando a entidade prestadora dos utentes.
+Foi em obediência a estes princípios que a Portaria n.º 690/83, de 20 de Junho, iniciou o processo de descentralização da Caixa Sindical de Previdência do Pessoal da Indústria de Lanifícios para o Centro Regional de Segurança Social de Castelo Branco.
+Na continuação do processo já iniciado e na linha de execução do Decreto-Lei n.º 549/77, de 31 de Dezembro, e de harmonia com o disposto no Decreto-Lei n.º 515/79, de 28 de Dezembro, julga-se agora oportuno proceder à completa descentralização da Caixa Sindical de Previdência do Pessoal da Indústria de Lanifícios, mediante a integração dos respectivos contribuintes, beneficiários e acções nos competentes centros regionais, bem como a integração orgânica e funcional da mesma no Centro Regional de Segurança Social de Lisboa, de acordo com o estabelecido no Decreto Regulamentar n.º 3/81, de 15 de Janeiro.
+Em resultado dos contactos havidos com a Caixa Sindical de Previdência do Pessoal da Indústria de Lanifícios e os centros regionais onde se irá processar a integração dos beneficiários e contribuintes definiu-se a metodologia a seguir no processo de descentralização.
+Nestes termos, ao abrigo do disposto no artigo 19.º do Decreto-Lei n.º 549/77, de 31 de Dezembro:
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Segurança Social, o seguinte:
+1.º São integrados nos Centros Regionais de Segurança Social de Aveiro, Braga, Coimbra, Évora, Guarda, Leiria, Portalegre, Porto, Santarém, Setúbal, Viana do Castelo e Viseu os contribuintes, beneficiários e acções da Caixa Sindical de Previdência do Pessoal da Indústria de Lanifícios dos respectivos distritos até 31 de Dezembro de 1986.
+2.º Em relação à descentralização determinada pela Portaria n.º 690/83, de 20 de Junho, para o distrito de Castelo Branco, deverá estar concluída até 31 de Outubro de 1986.
+3.º Em 1 de Janeiro de 1987 será efectuada a integração orgânica e funcional da Caixa Sindical de Previdência do Pessoal da Indústria de Lanifícios no Centro Regional de Segurança Social de Lisboa.
+4.º Dentro dos prazos estabelecidos nos números anteriores, a Caixa de Previdência e os Centros Regionais de Segurança Social devem acordar as datas efectivas de cada integração.
+Secretaria de Estado da Segurança Social.
+Assinada em 8 de Abril de 1986.
+O Secretário de Estado da Segurança Social, José Nobre Pinto Sancho.
