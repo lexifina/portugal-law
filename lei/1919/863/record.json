@@ -17,9 +17,21 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1919/08/17300/19171917.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1919-08-29",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "a4da85de53640ca863e0f29cb85dc4683f53401c23e3be537dd46c320de44dc1",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each page read whole (Tesseract page layout)",
+    "agreement_pct": 98.9,
+    "pages": 1,
+    "columns": [
+      3
+    ],
+    "pdf_sha256": "c2b8cfcb4280e2ab4845b93d838b841d5349e4961412265b6e072fbfb80aff45",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 429
 }
