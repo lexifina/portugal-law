@@ -1,0 +1,6 @@
+Despacho Normativo n.º 5/80
+A predominância, em algumas instituições de ensino universitário, de docentes sem a aconselhável experiência de ensino e a adequada habilitação académica constitui, por certo, um factor fortemente limitativo do normal funcionamento das actividades lectivas.
+Assim, no intuito de prevenir ou, no mínimo, atenuar os inconvenientes acarretados pela subsistência de uma tal situação, determina-se, ao abrigo do disposto no artigo 107.º do Decreto-Lei n.º 448/79, de 13 de Novembro, o seguinte:
+1 - Na falta de outros docentes mais qualificados, poderá o reitor, precedendo proposta do conselho científico da escola, autorizar que os cursos teórico-práticos possam ser desdobrados nas suas componentes teórica e prática, podendo o correspondente serviço ser assegurado por assistentes estagiários.
+2 - Os assistentes estagiários a que se refere o número anterior terão direito, para além do mais que lhes for devido, a uma retribuição mensal de quantitativo igual a 5% do vencimento correspondente à letra A da tabela salarial da função pública.
+Ministérios da Administração Interna, das Finanças e da Educação, 5 de Dezembro de 1979. - O Ministro da Administração Interna, Manuel da Costa Brás. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Educação, Luís Eugénio Caldas Veiga da Cunha.
