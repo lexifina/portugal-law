@@ -1,0 +1,109 @@
+{
+  "fonte": "Assembleia da República, dados abertos (www.parlamento.pt/Cidadania/Paginas/DAatividades.aspx)",
+  "ficheiro": "https://app.parlamento.pt/webutils/docs/doc.txt?path=t47I50EdweAH1wR9E5zPK4uWcg6LRi23JJwtDMQi4%2ba20eZdUqOsFNHubbkcy6rwOoOx5UMMvCZzcIfNTyac8kyG7aDmQTldf%2faEHnZ%2f3nbeyckw62ufvl1iwdS4cjXF5YdBt%2bxZeP8AvQFSp1LgRtjMftOZst7dpzaeL4fGb0IhmgNsYBYRmAhSIoxoAYYK5FfbpB2LiyITFNHqkid8crLEz1DZACwtWLudU5Sd4ksngzq2noppehg6WE1jcmg5RvAGVjyirUoVA44N%2fcgj0fpmzIV%2b3feg%2bLhjLOSieGMQ64FF4YpNQWONz1hhuHUxNfMp3yEH6RydWJQogHSDoZnsr0m4SuX153atdq2gwg5iA%2fDpdpuKl52Wvh2sdh5q&fich=AtividadesVI_json.txt&Inline=true",
+  "ficheiro_sha256": "183699218ace7045e2441a52f2318f6b782a40a1263d8f2db574f2d855753dd7",
+  "legislatura": "VI",
+  "tipo": "Voto",
+  "numero": "49",
+  "data_registo": "1993-01-07",
+  "data_registo_base": "record date = \"DataEntrada\" in the AR open data (Atividades); a parliamentary record, not a commencement",
+  "registo": {
+    "Assunto": "Saudação aos autarcas portugueses.",
+    "AutoresGP": [
+      "PS"
+    ],
+    "Convidados": null,
+    "DataAgendamentoDebate": "1993-01-07",
+    "DataAnuncio": null,
+    "DataEntrada": "1993-01-07",
+    "DescTipo": "Voto",
+    "Eleitos": null,
+    "IniciativasConjuntas": null,
+    "Legislatura": "VI",
+    "Numero": "49",
+    "Observacoes": null,
+    "OrgaoExterior": null,
+    "OutrosSubscritores": null,
+    "Publicacao": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "286622",
+        "obs": null,
+        "pag": null,
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1992-12-12",
+        "pubLeg": "VI",
+        "pubNr": "9",
+        "pubSL": "2",
+        "pubTipo": "DAR II série B",
+        "pubTp": "B",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/s2b/06/02/009/1992-12-12?org=PLC"
+      }
+    ],
+    "PublicacaoDebate": [
+      {
+        "debateDtReu": null,
+        "idAct": null,
+        "idDeb": null,
+        "idInt": null,
+        "idPag": "3552",
+        "obs": null,
+        "pag": [
+          "980-981"
+        ],
+        "pagFinalDiarioSupl": null,
+        "pubdt": "1993-01-08",
+        "pubLeg": "VI",
+        "pubNr": "26",
+        "pubSL": "2",
+        "pubTipo": "DAR I série",
+        "pubTp": "D",
+        "supl": null,
+        "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/026/1993-01-08/980?pgs=980-981&org=PLC"
+      }
+    ],
+    "ResultadoVotacaoPontos": null,
+    "Sessao": "2",
+    "Texto": null,
+    "TextosAprovados": null,
+    "Tipo": "VOT",
+    "TipoAutor": "Grupos Parlamentares",
+    "VotacaoDebate": [
+      {
+        "ausencias": null,
+        "data": "1993-01-07",
+        "descricao": null,
+        "detalhe": "A Favor: <I>PS</I>, <I> PCP</I>, <I> CDS-PP</I>, <I> PEV</I>, <I> PSN</I>, <I> Mário Tomé (Indep)</I>, <I> João Corregedor Da Fonseca (Indep)</I><BR>Contra:<I>PSD</I>",
+        "id": "31711",
+        "publicacao": [
+          {
+            "debateDtReu": null,
+            "idAct": null,
+            "idDeb": null,
+            "idInt": null,
+            "idPag": "286624",
+            "obs": null,
+            "pag": null,
+            "pagFinalDiarioSupl": null,
+            "pubdt": "1993-01-08",
+            "pubLeg": "VI",
+            "pubNr": "26",
+            "pubSL": "2",
+            "pubTipo": "DAR I série",
+            "pubTp": "D",
+            "supl": null,
+            "URLDiario": "https://debates.parlamento.pt/catalogo/r3/dar/01/06/02/026/1993-01-08?org=PLC"
+          }
+        ],
+        "resultado": "Rejeitado",
+        "reuniao": "26",
+        "tipoReuniao": null,
+        "unanime": null
+      }
+    ]
+  }
+}
