@@ -1,0 +1,22 @@
+Decreto Regulamentar n.º 41/88
+de 21 de Novembro
+As dimensões que os problemas ligados ao álcool atingem em Portugal, reflectindo bem o papel que o abuso de bebidas alcoólicas desempenha, pondo em perigo a vida, a saúde e o bem-estar individual, familiar e social, apontam para a urgência da adopção de medidas para o seu controle.
+Atendendo a um problema tão complexo, que atinge pesadamente a saúde pública e põe em risco esforços e acções enquadradas na estratégia global de «saúde para todos no ano 2000», consciente da necessidade prioritária de serviços que, no âmbito de cuidados de saúde primários, assegurem a colaboração e cooperação intra e intersectorial, fundamentais para a redução da prevalência dos problemas ligados ao álcool, o Governo entende chegado o momento de criar, com esta finalidade, estruturas regionais (centros regionais de alcoologia) e, deste modo, em obediência às linhas de orientação fixadas no campo da saúde no seu programa, pôr em prática resoluções emanadas da OMS e recomendações do perito consultor para Portugal daquela Organização.
+Assim, ao abrigo do disposto no artigo 78.º do Decreto-Lei n.º 413/71, de 27 de Setembro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
+Artigo 1.º São criados os Centros Regionais de Alcoologia do Porto, de Coimbra e de Lisboa, adiante designados por Centros.
+Art. 2.º Os Centros visam a prevenção dos problemas ligados ao álcool e a coordenação das actividades no âmbito da alcoologia e tratamento nas respectivas zonas e desenvolverão a sua actividade em articulação com as administrações regionais de saúde e centros de saúde nelas integrados, com os hospitais psiquiátricos e centros de saúde mental, com os institutos de clínica geral e com outras instituições e grupos responsáveis pela saúde e bem-estar da comunidade.
+Art. 3.º Os Centros gozam de autonomia técnica e administrativa, sem prejuízo da sua dependência da Direcção-Geral dos Cuidados de Saúde Primários, nos termos do artigo 45.º do Decreto-Lei n.º 74-C/84, de 2 de Março.
+Art. 4.º Os Centros entram no regime de instalação previsto nos artigos 79.º e seguintes do Decreto-Lei n.º 413/71, de 27 de Setembro, e demais legislação aplicável, e são dirigidos por uma comissão instaladora, a nomear por despacho do Ministro da Saúde, composta por três membros, um dos quais médico com experiência em alcoologia, que preside.
+Art. 5.º Ao pessoal dos Centros é aplicável o regime geral da função pública, sem prejuízo da aplicação das regras estabelecidas para carreiras específicas, não podendo ser prejudicado nos seus direitos e regalias dentro das respectivas carreiras profissionais nos serviços de origem.
+Art. 6.º São aprovados, por despacho do Ministro da Saúde, sob proposta das comissões instaladoras, os regulamentos necessários ao funcionamento dos Centros.
+Art. 7.º As atribuições e competências do Serviço de Alcoologia do Hospital de Magalhães de Lemos, do Centro de Recuperação de Alcoólicos do Hospital de Sobral Cid e do Serviço de Recuperação de Alcoólicos do Centro de António Flores, do Hospital de Júlio de Matos, que são extintos, transitam, respectivamente, para os Centros Regionais de Alcoologia do Porto, de Coimbra e de Lisboa, assim como os recursos materiais de que dispõem e os meios humanos que se lhes encontram afectos, nos termos referidos no artigo seguinte.
+Art. 8.º O pessoal que se encontra a exercer funções no Serviço de Alcoologia do Hospital de Magalhães de Lemos, no Centro de Recuperação de Alcoólicos de Coimbra e no Serviço de Recuperação de Alcoólicos do Centro de António Flores e que esteja vinculado a qualquer quadro transitará, respectivamente, para os Centros Regionais de Alcoologia do Porto, de Coimbra e de Lisboa, para lugares de igual categoria, em regime de comissão de serviço, sem prejuízo de poder requerer a sua manutenção ou regresso ao quadro de origem.
+Art. 9.º Os encargos decorrentes da aplicação do presente diploma são suportados através de verba a transferir para os Centros pelo Departamento de Gestão Financeira dos Serviços de Saúde.
+Art. 10.º Este diploma entra em vigor no prazo de 90 dias após a sua publicação.
+Presidência do Conselho de Ministros, 3 de Outubro de 1988.
+Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
+Promulgado em 5 de Novembro de 1988.
+Publique-se.
+O Presidente da República, MÁRIO SOARES.
+Referendado em 9 de Novembro de 1988.
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
