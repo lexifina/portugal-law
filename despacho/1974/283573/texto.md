@@ -1,0 +1,3 @@
+Despacho
+Nos termos do artigo 2.º do Decreto-Lei n.º 43000, de 1 de Junho de 1960, e mediante proposta do Ministério da Educação Nacional, ouvido o Conselho Permanente da Acção Educativa, a habilitação do curso de formação de serralheiro, com exame de aptidão profissional, regulado pelo Decreto n.º 37029, de 25 de Agosto de 1948, é declarada suficiente, em paralelo com o curso geral dos liceus, para promoção à categoria A do cargo de monitor de serralharia civil do Serviço de Formação Profissional do Fundo de Desenvolvimento da Mão-de-Obra, Ministério das Corporações e Segurança Social.
+Presidência do Conselho, 4 de Janeiro de 1974. - Pelo Presidente do Conselho, João Mota Pereira de Campos, Ministro de Estado.
