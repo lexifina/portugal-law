@@ -17,9 +17,30 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1934/01/02000/01270136.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1934-01-24",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "8aed040adc4c09f0d607959a965808fbfc798039f673611f451860fc4cfb93cd",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each page read whole (Tesseract page layout)",
+    "agreement_pct": 99.3,
+    "pages": 10,
+    "columns": [
+      4,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      1,
+      4
+    ],
+    "pdf_sha256": "fa0ee9a4b6b9f8fde8fa383ad2e7dab60118224a3658ff297f80c17e8f1a5de1",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 7227
 }
