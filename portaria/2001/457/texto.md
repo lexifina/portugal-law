@@ -1,0 +1,71 @@
+Portaria n.º 457/2001
+de 8 de Maio
+O Decreto-Lei n.º 285/97, de 22 de Outubro, veio alterar o artigo 3.º do Decreto-Lei n.º 54/94, de 24 de Fevereiro (que estabelece os órgãos e serviços do Instituto Diplomático do Ministério dos Negócios Estrangeiros), criando o Serviço de Arquivo Histórico-Diplomático.
+Nos termos do disposto no n.º 3 do artigo 10.º-A, aditado ao referenciado Decreto-Lei n.º 54/94 pelo artigo 2.º do Decreto-Lei n.º 285/97, de 22 de Outubro:
+Manda o Governo, pelo Ministro dos Negócios Estrangeiros, o seguinte:
+1.º É aprovado o Regulamento do Serviço de Arquivo Histórico-Diplomático, anexo à presente portaria e que dela faz parte integrante.
+2.º A presente portaria entra em vigor 30 dias após a data da sua publicação.
+O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama, em 29 de Março de 2001.
+
+REGULAMENTO DO SERVIÇO DE ARQUIVO HISTÓRICO-DIPLOMÁTICO DO MINISTÉRIO DOS NEGÓCIOS ESTRANGEIROS
+Artigo 1.º
+Fundos documentais
+1 - Os fundos documentais do Ministério dos Negócios Estrangeiros compreendem:
+a) Os originais e as cópias certificadas dos actos internacionais subscritos por Portugal;
+b) Os arquivos da administração central do Ministério, dos postos diplomáticos e consulares, das missões e representações permanentes de Portugal junto das organizações internacionais, das delegações e missões temporárias e dos organismos dependentes do Ministério;
+c) Os arquivos oficiais depositados ou incorporados no Ministério em virtude de alterações orgânicas e ou herança de competências ao nível de órgãos da administração central;
+d) Os arquivos ou documentos adquiridos pelo Ministério por compra, doação ou depósito, em virtude do seu interesse histórico-diplomático;
+e) Os arquivos diplomáticos anteriores a 1850 confiados à guarda dos Arquivos Nacionais/Torre do Tombo.
+2 - Os arquivos mencionados nas alíneas b) e c) do número anterior dividem-se em:
+a) Arquivos correntes - constituídos pela documentação de utilidade administrativa dos diversos serviços internos e externos do Ministério ou dos organismos dele dependentes, que a produziram ou receberam;
+b) Arquivo intermédio - constituído pela documentação que perdeu o interesse administrativo imediato, mas que poderá ainda ser útil aos serviços de origem no exercício das suas funções e actividades, ou que poderá possuir valor histórico permanente;
+c) Arquivo definitivo (histórico-diplomático) - constituído pelos documentos cujo valor administrativo, probatório, testemunhal ou informativo foi avaliado como permanente pela Comissão de Selecção e Desclassificação referida no artigo 10.º-B do Decreto-Lei n.º 285/97, de 22 de Outubro, e nos termos a regulamentar conforme o previsto no § 3.º do mesmo artigo.
+3 - A gestão dos arquivos correntes é da responsabilidade dos respectivos serviços detentores da documentação, sob a orientação técnica do Serviço de Arquivo Histórico-Diplomático; a gestão do arquivo intermédio e do arquivo definitivo é assegurada pelo Serviço de Arquivo Histórico-Diplomático.
+Artigo 2.º
+Transferências e incorporações
+1 - Os originais e as cópias certificadas dos actos internacionais subscritos por Portugal serão remetidos ao Serviço de Arquivo Histórico-Diplomático logo após a sua conclusão.
+2 - A transferência de documentação dos arquivos correntes da administração central do Ministério para o arquivo intermédio realizar-se-á de acordo com as seguintes regras:
+a) A documentação corrente deverá ser remetida para o arquivo intermédio logo que cesse a sua utilidade administrativa imediata e após triagem prévia realizada sob a orientação do Serviço de Arquivo Histórico-Diplomático;
+b) Na triagem acima referida apenas será eliminada a documentação em duplicado, rascunhos e outros documentos preparatórios ou intermédios totalmente desprovidos de valor administrativo, probatório, testemunhal ou informativo;
+c) Exceptuando casos especiais, devidamente justificados e autorizados, a documentação corrente não poderá permanecer junto dos serviços de origem por um período superior a 15 anos;
+d) As remessas de documentação serão acompanhadas de uma lista de remessa, elaborada de acordo com as instruções fornecidas para o efeito pelo Serviço de Arquivo Histórico-Diplomático.
+3 - Os arquivos correntes dos serviços externos e dos organismos dependentes do Ministério serão remetidos para o arquivo intermédio de acordo com as seguintes regras:
+a) Por razões de ordem prática, deverão estes serviços entender por arquivos correntes os fundos com menos de 15 anos;
+b) Para cada caso será estabelecido um calendário de remessas periódicas, tendo em conta os interesses do serviço de origem e as possibilidades de recepção e armazenamento do arquivo intermédio;
+c) Exceptuando casos especiais, devidamente justificados e autorizados, a documentação não poderá permanecer nos postos, missões ou serviços de origem por um período superior a 25 anos;
+d) As remessas serão antecedidas de uma triagem e eliminação realizadas sob a orientação do Serviço de Arquivo Histórico-Diplomático;
+e) Esta triagem prévia tentará evitar, tanto quanto possível, a duplicação documental dos arquivos dos serviços internos e externos do Ministério;
+f) As remessas de documentação serão sempre acompanhadas de uma lista de remessa, elaborada de acordo com as instruções fornecidas para o efeito pelo Serviço de Arquivo Histórico-Diplomático.
+4 - A incorporação dos arquivos mencionados nas alíneas c) e d) do n.º 1 realizar-se-á por contrato, auto de entrega ou de incorporação, de acordo com as regras que vierem a ser estabelecidas para cada caso particular.
+Artigo 3.º
+Arquivo intermédio
+1 - A gestão do arquivo intermédio, assegurada pelo Serviço de Arquivo Histórico-Diplomático, compreende:
+a) A guarda e segredo da documentação classificada;
+b) A conservação das espécies em espaços de armazenamento específicos e adequados à documentação em causa;
+c) A eliminação de documentos originais, desde que, decorridos 30 anos sobre a sua origem, sejam considerados sem interesse permanente pela Comissão de Selecção e Desclassificação, referida no artigo 10.º-B do Decreto-Lei n.º 285/97, de 22 de Outubro, e nos termos a regulamentar de acordo com o § 3.º do mesmo artigo;
+d) A microfilmagem de substituição dos documentos considerados sem valor permanente mas indispensável do ponto de vista técnico-arquivístico, bem como daqueles documentos cuja conservação em suporte de papel se não justifique;
+e) A elaboração de instrumentos de descrição que permitam uma recuperação rápida e pertinente da informação, tendo em vista os interesses dos serviços produtores/remetentes.
+2 - Os serviços internos do Ministério poderão, em qualquer altura, consultar a documentação remetida para o arquivo intermédio, mediante requisição.
+Artigo 4.º
+Arquivo definitivo (histórico-diplomático)
+1 - A gestão do arquivo definitivo, assegurada pelo Serviço de Arquivo Histórico-Diplomático, compreende:
+a) A conservação dos fundos, através das medidas preventivas adequadas (designadamente condições de armazenamento que correspondam às exigências de segurança e preservação das espécies documentais), do restauro da documentação deteriorada e da microfilmagem com fins de segurança e conservação;
+b) A segurança e a inviolabilidade do segredo da documentação classificada;
+c) A organização dos fundos, secções e séries respeitando os princípios arquivísticos da proveniência e da ordem original;
+d) A elaboração de instrumentos de descrição que respondam às necessidades dos investigadores;
+e) A comunicação dos documentos desclassificados nos termos do artigo 5.º deste Regulamento. A comunicação dos arquivos ou documentos referidos na alínea d) do artigo 1.º realizar-se-á de acordo com as condições estabelecidas no acto de aquisição;
+f) A difusão dos fundos do arquivo através da publicação e actualização de instrumentos de descrição, tendo em vista os interesses da investigação.
+Artigo 5.º
+Consulta do arquivo histórico-diplomático
+1 - A consulta da documentação desclassificada do arquivo histórico-diplomático está aberta tanto a investigadores nacionais como estrangeiros, maiores de 18 anos.
+2 - Cada utilizador deverá formalizar o pedido de consulta através do preenchimento de uma ficha de investigação, da qual constarão os seguintes elementos:
+Identificação completa (nome, nacionalidade, data de nascimento, naturalidade, bilhete de identidade ou passaporte, morada, etc.);
+Habilitações literárias;
+Profissão;
+Tema e objectivo da consulta.
+3 - A consulta dos documentos será efectuada exclusivamente na sala de leitura, não sendo permitida a consulta simultânea de mais de duas unidades arquivísticas.
+4 - O utilizador é responsável pelo correcto manuseamento das espécies, não devendo pôr em risco a sua conservação. Os documentos não deverão em caso algum ser separados ou retirados do conjunto documental que integram, devendo manter-se, escrupulosamente, a ordem em que se encontram arquivados.
+5 - O Serviço de Arquivo Histórico-Diplomático poderá recusar o acesso à consulta de documentos deteriorados desde que esteja em causa a conservação das espécies.
+6 - A reprodução de documentos está sujeita a uma autorização prévia, sendo os custos de reprodução suportados pelos interessados.
+7 - No caso de utilização de fontes documentais do arquivo histórico-diplomático na elaboração de estudos académicos ou na publicação de obras, artigos, comunicações, etc., deverão os seus autores reservar um exemplar para depósito no mesmo.
+8 - Todo o investigador se compromete a respeitar o regime de consulta aqui estabelecido; o seu não cumprimento poderá levar à suspensão da investigação em curso. A reincidência nas transgressões poderá implicar a exclusão do leitor em causa.
