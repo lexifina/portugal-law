@@ -1,0 +1,18 @@
+Portaria n.º 684/97
+de 14 de Agosto
+Com a publicação do Decreto-Lei n.º 52/93, de 26 de Fevereiro, e do Decreto-Lei n.º 123/94, de 18 de Maio, que estabelecem o regime de circulação em suspensão do imposto e o novo regime fiscal dos produtos petrolíferos, mostra-se necessário actualizar a regulamentação das formalidades e dos procedimentos de controlo, bem como o mecanismo do reembolso do imposto sobre os produtos petrolíferos (ISP) relativamente aos consumos isentos do Quartel-General Interaliado, sito em Oeiras, designado Quartel-General da Área Ibero-Atlântica.
+Assim:
+Manda o Governo, pelos Ministros da Defesa Nacional, dos Negócios Estrangeiros e das Finanças, ao abrigo do disposto na alínea c) do artigo 22.º do Decreto-Lei n.º 52/93, de 26 de Fevereiro, e do n.º 4 do artigo 7.º do Decreto-Lei n.º 123/94, de 18 de Maio, o seguinte:
+1.º A presente portaria regulamenta as formalidades e procedimentos de controlo aplicáveis à concessão da isenção, ao Quartel-General da Área Ibero-Atlântica, do imposto sobre os produtos petrolíferos (ISP), prevista na alínea c) do n.º 1 do artigo 22.º do Decreto-Lei n.º 52/93, de 26 de Fevereiro, e do n.º 4 do artigo 7.º do Decreto-Lei n.º 123/94, de 18 de Maio.
+2.º A isenção do ISP prevista no número anterior aplica-se aos contingentes fixados pelo Ministério da Defesa Nacional (MDN) para o Quartel-General da Área Ibero-Atlântica, bem como para cada elemento estrangeiro, ocupando cargos previstos no respectivo peace establishement aprovado pelo Governo Português.
+3.º O MDN comunicará os contingentes fixados à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC) e ao Comando-Chefe da Área Ibero-Atlântica.
+4.º Os contingentes referidos no número anterior serão utilizados exclusivamente por aquele Quartel-General e por elementos estrangeiros elegíveis, mediante requisições elaboradas em formulários visados pelo Quartel-General da Área Ibero-Atlântica.
+5.º O Quartel-General da Área Ibero-Atlântica apresentará à respectiva empresa petrolífera distribuidora os formulários referidos no n.º 4., tendo em vista o abastecimento de combustíveis com isenção do ISP, dentro dos contingentes fixados.
+6.º O abastecimento das viaturas pertencentes ao Quartel-General da Área Ibero-Atlântica, bem como a cada elemento estrangeiro, será feito mediante utilização obrigatória de um cartão de microcircuito que permita identificar as quantidades abastecidas a cada viatura e controlar os contingentes fixados anualmente ao Quartel-General da Área Ibero-Atlântica e a cada elemento estrangeiro.
+7.º A partir de 1 de Outubro de 1997 as requisições de combustíveis para aquecimento serão obrigatoriamente satisfeitas com produtos coloridos e marcados nos termos da Portaria n.º 93/97, de 7 de Fevereiro.
+8.º O cartão referido no n.º 6.º será propriedade da empresa petrolífera distribuidora, será válido por um ano e conterá, obrigatoriamente, a matrícula da respectiva viatura.
+9.º As empresas petrolíferas distribuidoras que tenham realizado o abastecimento ao Quartel-General da Área Ibero-Atlântica, e aos elementos estrangeiros solicitarão mensalmente à DGAIEC, até ao dia 8 do mês seguinte, o reembolso do imposto pago, instruindo os processos com a banda magnética ou lista discriminada dos fornecimentos efectuados.
+10.º É revogada a Portaria n.º 416/92, de 20 de Maio.
+Ministérios da Defesa Nacional, dos Negócios Estrangeiros e das Finanças.
+Assinada em 23 de Julho de 1997.
+O Ministro da Defesa Nacional, António Manuel de Carvalho Ferreira Vitorino. - O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.
