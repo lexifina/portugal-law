@@ -1,0 +1,19 @@
+Despacho Normativo n.º 227-A/77
+1 - Os preços e as margens de comercialização dos pesticidas de uso agrícola sujeitos ao regime de preços máximos, com exclusão do sulfato de cobre, foram fixados nas Portarias n.os 446/76, de 31 de Julho, e 17/77, de 15 de Janeiro, e Despachos Normativos n.os 102/77, de 27 de Abril, 116/77, de 17 de Maio, e 166/77, de 4 de Agosto.
+2 - As alterações operadas, entretanto, na estrutura do consumo interno de pesticidas de uso agrícola levou à actualização da lista de produtos submetidos ao regime de preços máximos, por forma que os pesticidas seleccionados continuassem a ser os de maior incidência a nível da lavoura.
+Nestes termos, o regime de preços máximos ficou consignado aos pesticidas enumerados na lista anexa à Portaria n.º 632/77, de 4 de Outubro, nos termos do n.º 1 da citada portaria.
+3 - Tendo em conta que o custo de produção destes produtos sofreu um substancial aumento motivado pelo agravamento de preço dos diversos factores de custo que o integram, nomeadamente as matérias-primas, que são praticamente de origem estrangeira, e que os seus preços devem ser fixados com antecipação em relação à campanha, de modo a garantir o regular abastecimento do mercado e evitar procedimentos especulativos:
+Torna-se necessário actualizar os preços fixados nos Despachos Normativos n.os 102/77, de 27 de Abril, 116/77, de 17 de Maio, e 166/77, de 4 de Agosto, para os pesticidas de uso agrícola, actualmente em regime de preços máximos, no intuito de garantir condições de rendibilidade à indústria, sem contudo permitir agravamentos injustificados nos preços de venda ao consumidor.
+4 - Por outro lado, mantêm-se as margens de comercialização anteriormente estabelecidas.
+Nestes termos:
+Ao abrigo do disposto no n.º 3 do artigo 1.º do Decreto-Lei n.º 75-Q/77, de 28 de Fevereiro, e do n.º 1 da Portaria n.º 632/77, de 4 de Outubro, determina o Secretário de Estado do Comércio Interno o seguinte:
+1.º - 1 - Os preços máximos de venda pelo fabricante ou importador, bem como os preços máximos de venda ao consumidor no continente e ilhas adjacentes, dos pesticidas de uso agrícola sujeitos ao regime de preços máximos, com excepção do sulfato de cobre, são os constantes do quadro anexo a este despacho.
+2 - Nos preços máximos de venda pelo fabricante ou importador dos pesticidas mencionados no número anterior, com excepção do zinebe técnico, está incluído o encargo inerente ao transporte até à estação de destino, quando transportados por caminho de ferro, ou ao depósito do revendedor, quando transportados por camionagem, e nas vendas para as Regiões Autónomas da Madeira e dos Açores esta incluído o encargo com o transporte até à colocação do produto sobre o cais de desembarque dos portos daquelas Regiões Autónomas.
+2.º Os preços máximos de venda ao consumidor dos produtos mencionados no quadro anexo poderão ser onerados com os encargos resultantes das vendas a prazo, os quais não deverão ultrapassar as taxas em vigor praticadas pelos bancos comerciais para operações activas.
+3.º - 1 - Nas vendas de herbicidas, com exclusão dos destinados à monda química do arroz (Molinato 7,5% e Propanil 350 g/1 a 460 g/1), fungicidas, com exclusão dos enxofres em pó, e insecticidas, é atribuída ao retalhista a margem mínima de 15%, calculada sobre o preço de venda pelo fabricante ou importador.
+2 - Nas vendas de enxofre em pó, dadas as características específicas de que se reveste a comercialização deste produto, é atribuída ao retalhista a margem mínima de 185$00 por tonelada.
+4.º Ficam revogados os Despachos Normativos n.os 102/77, de 27 de Abril, 116/77, de 17 de Maio, e 166/77, de 4 de Agosto.
+Secretaria de Estado do Comércio Interno, 26 de Novembro de 1977. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.
+
+(ver documento original)
+O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.
