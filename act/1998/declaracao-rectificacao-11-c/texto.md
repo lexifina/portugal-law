@@ -1,0 +1,15 @@
+Declaração de Rectificação n.º 11-C/98
+Para os devidos efeitos se declara que o Decreto-Lei n.º 120/98, publicado no Diário da República, 1.ª série, n.º 106, de 8 de Maio de 1998, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 1.º («Alterações ao Código Civil»), no artigo 1979.º, n.º 1, onde se lê «há mais de 4 anos e não separadas judicialmente de pessoas e bens ou de facto, se ambas tiverem mais de 25 anos.» deve ler-se «há mais de quatro anos e não separadas judicialmente de pessoas e bens ou de facto, se ambas tiverem mais de vinte e cinco anos.».
+No n.º 2, onde se lê «quem tiver mais de 30 anos ou, se o adoptando for filho do cônjuge do adoptante, mais de 25 anos.» deve ler-se «quem tiver mais de trinta anos ou, se o adoptando for filho do cônjuge do adoptante, mais de vinte e cinco anos.».
+No n.º 3, onde se lê «quem não tiver mais de 50 anos» deve ler-se «quem não tiver mais de cinquenta anos».
+No n.º 4, onde se lê «quem tiver menos de 60 anos à data em que o menor lhe tenha sido confiado, desde que não seja superior a 50 anos» deve ler-se «quem tiver menos de sessenta anos à data em que o menor lhe tenha sido confiado, desde que não seja superior a cinquenta anos».
+No artigo 1980.º, n.º 2, onde se lê «O adoptando deve ter menos de 15 anos à data da petição judicial de adopção; poderá, no entanto, ser adoptado quem, a essa data, tenha menos de 18 anos e não se encontre emancipado quando, desde idade não superior a 15 anos,» deve ler-se «O adoptando deve ter menos de quinze anos à data da petição judicial de adopção; poderá, no entanto, ser adoptado quem, a essa data, tenha menos de dezoito anos e não se encontre emancipado quando, desde idade não superior a quinze anos,».
+No artigo 1981.º, n.º 1, alínea a), onde se lê «Do adoptando maior de 12 anos;» deve ler-se «Do adoptando maior de doze anos;».
+No n.º 3, alínea c), onde se lê «passados 18 ou 6 meses,» deve ler-se «passados dezoito ou seis meses,».
+No artigo 1984.º, alínea a), onde se lê «Os filhos do adoptante maiores de 12 anos;» deve ler-se «Os filhos do adoptante maiores de doze anos;».
+No artigo 1922.º, n.º 1, onde se lê «Pode adoptar restritamente quem tiver mais de 25 anos.» deve ler-se «Pode adoptar restritamente quem tiver mais de vinte e cinco anos.».
+No n.º 2, onde se lê «quem não tiver mais de 50 anos» deve ler-se «quem não tiver mais de cinquenta anos».
+No artigo 2.º («Alterações ao Decreto-Lei n.º 314/78, de 27 de Outubro»), no artigo 167.º, n.º 2, onde se lê «em caso de confiança, a instituição será,» deve ler-se «em caso de confiança a instituição, será,».
+No artigo 3.º («Alterações ao Decreto-Lei n.º 185/93, de 22 de Maio»), no artigo 14.º, n.º 2, onde se lê «do Decreto-Lei n.º 314/78, de 27 de Outubro.» deve ler-se «do Decreto-Lei n.º 314/78, de 27 de Outubro, com alterações introduzidas pelo presente diploma.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Junho de 1998. - O Secretário-Geral, Alexandre Figueiredo.
