@@ -1,0 +1,9 @@
+Portaria n.º 1218/2000
+de 29 de Dezembro
+O quadro de pessoal da Administração Regional de Saúde do Alentejo, Sub-Região de Saúde de Beja, carece de reajustamentos a fim de enquadrar na carreira de técnico superior de saúde a área funcional de psicologia clínica, nos termos do Decreto-Lei n.º 241/94, de 22 de Setembro, e com vista a viabilizar a transição de uma técnica superior de regime geral, licenciada em Psicologia, assim se dando execução ao Decreto-Lei n.º 365/97, de 20 de Dezembro.
+Assim:
+Ao abrigo do disposto no n.º 2 do artigo 1.º do Decreto-Lei n.º 59/76, de 23 de Janeiro:
+Manda o Governo, pelos Ministros das Finanças, da Saúde e da Reforma do Estado e da Administração Pública, o seguinte:
+1.º É criada no quadro de pessoal da Administração Regional de Saúde do Alentejo, Sub-Região de Saúde de Beja, aprovado pela Portaria n.º 772-B/96, de 31 de Dezembro, e posteriormente alterado pela Portaria n.º 325/98, de 1 de Junho, no grupo de pessoal técnico superior, a carreira de técnico superior de saúde, área funcional de psicologia clínica, dotada globalmente de um lugar.
+2.º É extinta, no quadro de pessoal referido no número anterior, na parte respeitante ao Centro de Saúde de Moura, no grupo de pessoal técnico superior, a carreira de técnico superior de saúde, área funcional de psicologia clínica.
+Pelo Ministro das Finanças, Fernando Manuel dos Santos Vigário Pacheco, Secretário de Estado Adjunto e do Orçamento, em 7 de Novembro de 2000. - Pela Ministra da Saúde, Arnaldo Jorge d'Assunção Silva, Secretário de Estado dos Recursos Humanos e da Modernização da Saúde, em 7 de Dezembro de 1999. - Pelo Ministro da Reforma do Estado e da Administração Pública, Alexandre António Cantigas Rosa, Secretário de Estado da Administração Pública e da Modernização Administrativa, em 19 de Maio de 2000.
