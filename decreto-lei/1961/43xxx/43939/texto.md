@@ -1,0 +1,5 @@
+Decreto-Lei n.º 43939
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+Artigo único. A representação de Portugal na Comissão Económica para a Europa (C. E. E.), bem como nos organismos internacionais com ela relacionados, a que se refere o artigo 1.º do Decreto-Lei n.º 43286, de 3 de Novembro de 1960, passa a ser assegurada pelo Ministério dos Negócios Estrangeiros, de que dependerá.
+Publique-se e cumpra-se como nele se contém.
+Paços do Governo da República, 2 de Outubro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
