@@ -1,0 +1,3 @@
+Despacho
+Considerando-se indispensável que o Comando-Geral da Polícia de Segurança Pública se faça representar nos trabalhos da comissão encarregada de estudar e propor novo regulamento do condicionamento especial da indústria de explosivos, a que se refere o despacho publicado no Diário do Governo n.º 293, 1.ª série, de 20 de Dezembro de 1961, fica alterada a constituição da referida comissão com a inclusão de um representante do Comando-Geral da Polícia de Segurança Pública.
+Presidência do Conselho e Ministério da Economia, 15 de Janeiro de 1962. - O Ministro da Defesa Nacional, António de Oliveira Salazar. - O Ministro da Economia, José do Nascimento Ferreira Dias Júnior.
