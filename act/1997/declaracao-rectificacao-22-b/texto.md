@@ -1,0 +1,7 @@
+Declaração de Rectificação n.º 22-B/97
+Para os devidos efeitos se declara que o Decreto-Lei n.º 241/97, publicado no Diário da República, 1.ª série, n.º 216, de 18 de Setembro de 1997, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+No artigo 19.º deve ser acrescentada uma alínea d) ao n.º 1, com a seguinte redacção:
+«d) De 1500000$00 a 5000000$00, no caso de violação da alínea b) do n.º 2 do artigo 16.º»
+No n.º 2 do mesmo artigo, onde se lê «2 - Sem prejuízo da sanção acessória prevista no n.º 1 do artigo 20.º, nos casos de violação das prescrições constantes das alíneas a), d), f) e h) do n.º 2 do artigo 16.º» deve ler-se «2 - Nos casos de violação das prescrições constantes das alíneas a), d), f) e h) do n.º 2 do artigo 16.º».
+No artigo 20.º, n.º 1, onde se lê «1 - Compete ao presidente do conselho de administração do ICP a aplicação das coimas e das sanções acessórias previstas no presente diploma, com excepção das previstas na alínea d) do n.º 1 do artigo 19.º e no n.º 1 do artigo 20.º, as quais compete ao presidente do Instituto da Comunicação Social (ICS) aplicar.» deve ler-se «1 - Compete ao presidente do conselho de administração do ICP a aplicação das coimas e sanções acessórias previstas no presente diploma, com excepção da prevista na alínea d) do n.º 1 do artigo 19.º, a qual compete ao presidente do Instituto da Comunicação Social aplicar.».
+Secretaria-Geral da Presidência do Conselho de Ministros, 31 de Dezembro de 1997. - O Secretário-Geral, Alexandre Figueiredo.
