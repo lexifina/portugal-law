@@ -17,9 +17,22 @@
   "pdf": "https://files.diariodarepublica.pt/1s/1914/07/11900/05060507.pdf",
   "checked_on": "2026-11-16",
   "in_force": "1914-07-17",
-  "in_force_basis": "publication day in the Diário do Governo (metadata record, no text stored)",
-  "text_status": "metadata-only",
-  "text_note": "the DR page holds no text for this act (PDF only; no OCR)",
+  "in_force_basis": "publication day in the Diário do Governo",
+  "text_status": "ocr",
   "source_sha256": "38464874c249ec6a53fa0f879dcb92b795eee1dd5b20a8f931d4b07c5ce9cdbd",
-  "source_sha256_of": "the PDF (or page) URL"
+  "source_sha256_of": "the PDF (or page) URL",
+  "text_layout": "texto.md: a note line (OCR), then the act cut from the OCR of the DR's scan of its pages",
+  "text_note": "texto obtido por OCR da digitalização oficial do DR (PDF); pode conter erros de leitura",
+  "ocr": {
+    "engine": "Tesseract 5, Portuguese tessdata_best (text) and tessdata_fast (cross-check), 300 dpi, each printed column read on its own",
+    "agreement_pct": 99.7,
+    "pages": 2,
+    "columns": [
+      3,
+      1
+    ],
+    "pdf_sha256": "8753ce367222cfb9dc49a3322aa19d900173ee8a4220e045dca87e022e61ed15",
+    "read_on": "2026-11-17"
+  },
+  "word_count": 318
 }
