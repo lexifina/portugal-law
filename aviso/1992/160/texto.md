@@ -1,0 +1,5 @@
+Aviso n.º 160/92
+Por ordem superior se torna público que, por nota de 25 de Agosto de 1992 e nos termos do artigo 45.º da Convenção sobre os Aspectos Civis do Rapto Internacional de Crianças, concluída na Haia em 25 de Outubro de 1980, o Ministério dos Negócios Estrangeiros do Reino dos Países Baixos notificou que o Reino Unido, em 3 de Agosto de 1992, e o Luxemburgo, em 14 de Agosto de 1992, declararam aceitar a adesão do Burkina Faso à mencionada Convenção.
+Nos termos do artigo 38.º, parágrafo 5.º, a Convenção entra em vigor entre o Burkina Faso e cada um dos seus aceitantes em 1 de Novembro de 1992.
+Portugal é Parte na mesma Convenção, que foi aprovada para ratificação pelo Decreto do Governo n.º 33/83, de 11 de Agosto, tendo depositado o seu instrumento de ratificação em 29 de Setembro de 1983, conforme aviso publicado no Diário da República, 1.ª série, n.º 126, de 31 de Maio de 1984. A Convenção entrou em vigor para Portugal em 1 de Dezembro de 1983.
+Secretaria-Geral do Ministério dos Negócios Estrangeiros, 18 de Setembro de 1992. - O Chefe do Serviço Jurídico e de Tratados, António Salgado Manso Preto Mendes Cruz
