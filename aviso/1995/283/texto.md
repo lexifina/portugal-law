@@ -1,0 +1,7 @@
+Aviso n.º 283/95
+Por ordem superior se torna público que, por nota de 31 de Julho de 1995 e nos termos do artigo 28.º da Convenção Europeia em Matéria de Adopção de Crianças, aberta à assinatura em Estrasburgo, em 24 de Abril de 1967, o Secretário-Geral do Conselho da Europa notificou ter a Áustria, em 19 de Julho de 1995, depositado a seguinte declaração:
+La République d'Autriche déclare, em vertu de l'article 25, paragraphe 1, de la Convention européenne en matière d'adoption des enfants, qu'elle renouvelle la réserve de ne pas prescrire, em vertu de l'article 10, paragraphe 2, l'extinction de toute obligation alimentaire et successorale de l'enfant envers son père et sa mère.
+Tradução
+A República da Áustria declara, em virtude do artigo 25.º, parágrafo 1.º, da Convenção Europeia em Matéria de Adopção de Crianças, que renova a reserva de não determinar, em virtude do artigo 10.º, parágrafo 2.º, a extinção de todas as obrigações de alimentos e sucessórias da criança em relação ao seu pai e à sua mãe.
+Portugal é Parte na mesma Convenção, que foi aprovada, para ratificação, pela Resolução da Assembleia da República n.º 4/90, de 31 de Janeiro, com duas reservas, tendo depositado o seu instrumento de ratificação em 23 de Abril de 1990, conforme aviso publicado no Diário da República, 1.ª série, n.º 124, de 30 de Maio de 1990.
+Departamento de Assuntos Jurídicos, 15 de Setembro de 1995. - O Director, José Maria Teixeira Leite Martins.
