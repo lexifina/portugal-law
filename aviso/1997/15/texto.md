@@ -1,0 +1,4 @@
+Aviso n.º 15/97
+Por ordem superior se faz público que, segundo comunicação da Embaixada da Suíça, a ex-República Jugoslava da Macedónia depositou, em 27 de Novembro de 1996, o instrumento de adesão à Convenção Relativa à Constituição da Eurofima, Sociedade Europeia para o Financiamento de Material Ferroviário, e ao seu Protocolo adicional de 20 de Outubro de 1995.
+A ex-República da Macedónia tornou-se membro da Conferência Europeia dos Ministros dos Transportes (CEMT) a 29 de Maio de 1996 e a sua adesão à Convenção começou a produzir efeitos, de harmonia com o artigo 11 da Convenção, em 27 de Novembro de 1996 e, segundo o parágrafo a) da mesma disposição, o Protocolo entrou em vigor na mesma data.
+Direcção-Geral dos Assuntos Multilaterais, 27 de Dezembro de 1996. - O Director de Serviços das Organizações Económicas Internacionais, João Perestrello Cavaco.
