@@ -1,0 +1,5 @@
+Portaria n.º 22935
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Exército, nos termos do artigo 1.º do Decreto-Lei n.º 43805, de 19 de Julho de 1961, que, a título excepcional e enquanto as presentes circunstâncias o justificarem, se passe a observar o seguinte:
+1.º Fique sem efeito a acumulação de regências para a 44.ª cadeira (Balística), a que se refere o apêndice n.º 1 ao mapa anexo n.º 3 do Decreto-Lei n.º 42152, de 12 de Fevereiro de 1959, passando a 43.ª cadeira (Armas e Munições, Material de Artilharia) e a 44.ª cadeira a dispor de um professor catedrático e de um professor adjunto, cada uma.
+2.º Os encargos resultantes da execução do presente diploma no decurso deste ano serão satisfeitos pelas sobras das dotações consignadas ao pagamento dos vencimentos do pessoal dos quadros aprovados por lei da Academia Militar.
+Ministérios das Finanças e do Exército, 29 de Setembro de 1967. - O Ministro das Finanças, Ulisses Cruz de Aguiar Cortês. - O Ministro do Exército, Joaquim da Luz Cunha.
