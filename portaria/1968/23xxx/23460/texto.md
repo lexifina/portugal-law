@@ -1,0 +1,3 @@
+Portaria n.º 23460
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Indústria, ouvido o Conselho de Normalização, aprovar, com as alterações propostas nos respectivos pareceres, a revisão das normas NP-109 (1957) - Dimensões lineares nominais para mecânica, NP-131 (1957) - Dimensões nominais das cabeças sextavadas de parafusos e NP-155 (1959) - Parafusos. Nomenclatura, feita nos termos do artigo 9.º do Estatuto de Normalização (Decreto-Lei n.º 38801, de 25 de Junho de 1952).
+Secretaria de Estado da Indústria, 2 de Julho de 1968. - O Secretário de Estado da Indústria. Manuel Rafael Amaro da Costa.
