@@ -1,0 +1,9 @@
+Rectificações
+Tendo sido publicado com inexactidão no Diário do Governo, 1.ª série, n.º 173, de 25 de Julho último, pelo Ministério do Ultramar, Direcção-Geral de Justiça, o Regimento do Conselho Ultramarino, aprovado pelo Decreto n.º 49147, determino que se façam as seguintes rectificações:
+No artigo 28.º, onde se lê: «... da correspondência que ao Conselho Ultramarino deva ser comunicada, serão lidas as decisões interlocutórias, ...», deve ler-se: «... da correspondência que aos vogais do Conselho Ultramarino deve ser comunicada, serão lidas, se ainda o não tiverem sido, as decisões interlocutórias, ...».
+No artigo 48.º, onde se lê: «Os pareceres e respectivas declarações de carácter doutrinal ...», deve ler-se: «Os pareceres e respectivas declarações de voto de carácter doutrinal ...».
+No artigo 52.º, n.º 2, onde se lê: «As sentenças da secção do contencioso, ou da sua 1.ª subsecção de que não caiba ...», deve ler-se: «As sentenças da secção do contencioso, ou da sua 1.ª subsecção, de que não caiba ...».
+No artigo 55.º, onde se lê: «... antes de ser remetido em separado ao Conselho Ultramarino, são as partes devidamente representadas ...», deve ler-se: «... antes de ser remetido em separado ao Conselho Ultramarino são as partes devidamente representadas ...».
+No artigo 90.º, alínea b), onde se lê: «1.ª Recursos a que se refere a alínea d) do artigo 22.º da Lei Orgânica do Conselho;», deve ler-se: «1.ª Recursos a que se refere a alínea b) do artigo 22.º da Lei Orgânica do Conselho;».
+No artigo 104.º, onde se lê: «Em seguida, os autos vão com vista aos dois juízes adjuntos, ...», deve ler-se: «Em seguida à resposta ou ao termo do prazo respectivo, os autos vão com vista aos dois juízes adjuntos, ...».
+Presidência do Conselho, 30 de Setembro de 1969. - O Presidente do Conselho, Marcello Caetano.
