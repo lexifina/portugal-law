@@ -14,7 +14,9 @@ c) Em caso de benefícios fiscais de natureza condicionada, desde a apresentaç�
 
 d) Em caso de o direito à liquidação resultar de reclamação ou impugnação, a partir da sua apresentação até à decisão.
 
-3 - O prazo de caducidade referido no n.º 5 do artigo anterior interrompe-se:
+3 - Em caso de aplicação de sanções da perda de benefícios fiscais de qualquer natureza, o prazo de caducidade suspende-se desde o início do respectivo procedimento criminal fiscal ou contra-ordenacional até ao trânsito em julgado da decisão final.
+
+4 - O prazo de caducidade referido no n.º 5 do artigo anterior interrompe-se:
 
 a) Com a notificação das correcções aos elementos declarados pelo contribuinte que sejam susceptíveis de recurso hierárquico com efeito suspensivo da liquidação;
 
