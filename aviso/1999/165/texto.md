@@ -1,0 +1,5 @@
+Aviso n.º 165/99
+Por ordem superior se torna público que, por nota de 28 de Julho de 1999, o Secretário-Geral das Nações Unidas, na sua qualidade de depositário da Convenção das Nações Unidas contra o Tráfico Ilícito de Estupefacientes e Substâncias Psicotrópicas, concluída em Viena em 20 de Dezembro de 1988, comunicou ter o Governo de Portugal notificado, em 2 de Julho de 1999, que a Convenção foi estendida ao território de Macau e que o depósito da notificação teve lugar em 7 de Julho de 1999.
+A Convenção foi ratificada pela Resolução da Assembleia da República n.º 29/91, publicada no Diário da República, 1.ª série-A, n.º 205, de 6 de Setembro de 1991, e estendida a Macau pelo Decreto do Presidente da República n.º 29/98, de 14 de Julho, publicado no Diário da República, 1.ª série, n.º 160, de 14 de Julho de 1998, e foi publicada no Boletim Oficial de Macau, 1.ª série, n.º 13, de 29 de Março de 1999.
+Para ser publicado no Boletim Oficial de Macau.
+Comissão Interministerial sobre Macau, 28 de Setembro de 1999. - António Nunes de Carvalho Santana Carlos.
