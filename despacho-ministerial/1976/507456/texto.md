@@ -1,0 +1,3 @@
+Despacho ministerial
+Usando da faculdade conferida pelo § único do artigo 1.º do Decreto-Lei n.º 36820, de 7 de Abril de 1948, e ao abrigo do disposto na base VI da Lei n.º 5/70, de 6 de Junho, autorizo que, enquanto não forem alterados os direitos de importação do tabaco nas ilhas adjacentes, se mantenham em vigor durante o ano de 1976, no distrito autónomo da Horta, as taxas para assistência sobre o tabaco, constantes da tabela aprovada por despacho ministerial de 2 de Setembro de 1949, publicado no Diário do Governo, 1.ª série, n.º 194, de 5 de Setembro de 1949.
+Ministério das Finanças, 25 de Fevereiro de 1976. - O Ministro das Finanças, Francisco Salgado Zenha.
